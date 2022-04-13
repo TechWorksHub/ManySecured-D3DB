@@ -1,0 +1,6 @@
+outgoing:
+  transport: any 
+  protocol: ipv4
+  destination: service.brother.co.uk
+  src-prt: any
+  dest-prf: 443

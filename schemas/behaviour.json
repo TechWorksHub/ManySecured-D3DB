@@ -1,0 +1,29 @@
+{
+  "$id": "https://example.com/behaviour.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behaviour",
+  "type": "The device behaviour schema in terms of rule id and name",
+  "properties": {
+    "deviceId": {
+      "type": "string",
+      "description": "GUID for the device"
+    },
+    "ruleId": {
+      "type": "string",
+      "description": "GUID for the behaviour rule"
+    },
+    "name": {
+      "type": "string",
+      "description": "Rule name"
+    },
+    "protocolName": {
+      "type": "string",
+      "description": "The protocol name"
+    }
+  },
+  "required": [
+    "deviceId",
+    "ruleId",
+    "protocolName"
+  ]
+}

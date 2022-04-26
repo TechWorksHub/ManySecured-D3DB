@@ -1,0 +1,27 @@
+{
+  "$id": "https://example.com/behaviour.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behaviour-tcp",
+  "type": "The tcp protocol behaviour rule",
+  "properties": {
+    "ruleId": {
+      "type": "string",
+      "description": "GUID for the behaviour rule"
+    },
+    "sourcePort": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "The array of source ports"
+    },
+    "destinationPort": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "The array of destination ports"
+    }
+  },
+  "required": ["ruleId"]
+}

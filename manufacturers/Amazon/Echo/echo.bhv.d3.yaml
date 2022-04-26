@@ -1,0 +1,63 @@
+type: d3-behaviour
+credential-subject:
+  id: aa92ebae-4928-4456-b597-cbd7657e9e83
+  rules:
+    - name: from-ipv4-amazonecho-0
+      matches:
+        ipv4:
+          protocol: 6
+          destination-dnsname: dcape-na.amazon.com
+        tcp:
+          destination-port: ["443"]
+    - name: from-ipv4-amazonecho-1
+      matches:
+        ipv4:
+          protocol: 6
+          destination-dnsname: softwareupdates.amazon.com
+        tcp:
+          destination-port: ["443"]
+    - name: from-ipv4-amazonecho-2
+      matches:
+        ipv4:
+          protocol: 17
+          destination-dnsname: 3.north-america.pool.ntp.org
+        udp:
+          destination-port: ["123"]
+    - name: from-ipv4-amazonecho-3
+      matches:
+        ipv4:
+          protocol: 2
+          destination-ipv4: 224.0.0.22/32
+    - name: from-ipv4-amazonecho-4
+      matches:
+        ipv4:
+          protocol: 17
+          destination-ipv4: 239.255.255.250/32
+        udp:
+          destination-port: ["1900"]
+    - name: from-ipv4-amazonecho-5
+      matches:
+        eth:
+          destination-mac: ff:ff:ff:ff:ff:ff
+          ethertype: '0x0800'
+        ipv4:
+          protocol: 17
+          destination-ipv4: 255.255.255.255/32
+        udp:
+          destination-port: ["67"]
+    - name: from-ipv4-amazonecho-5
+      matches:
+        eth:
+          destination-mac: ff:ff:ff:ff:ff:ff
+          ethertype: '0x0800'
+        ipv4:
+          protocol: 17
+          destination-ipv4: 255.255.255.255/32
+        udp:
+          destination-port: ["67"]
+    - name: from-ipv4-amazonecho-13
+        ipv4:
+          protocol: 17
+          destination-ipv4: 208.67.220.220/32
+        udp:
+          destination-port: ["53"]

@@ -1,9 +1,16 @@
+# The type of the verified credential
 type: d3-behaviour
+# Subject if the verfied credential
 credential-subject:
+  # The GUID denoting the rule
   id: aa92ebae-4928-4456-b597-cbd7657e9e83
+  # Rules are specified as an array with two keys name and matches
   rules:
+    # The name key string doesn't need to be unique. It is a brief description of the rule
     - name: from-ipv4-amazonecho-0
+      # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
       matches:
+        # 
         ipv4:
           protocol: 6
           destination-dnsname: dcape-na.amazon.com

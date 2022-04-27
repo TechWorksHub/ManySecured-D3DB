@@ -10,10 +10,15 @@ credential-subject:
     - name: from-ipv4-amazonecho-0
       # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
       matches:
-        # 
+        # The ipv4 protocol match contains the `protocol` number key,
+        # the source-dnsname, which is a string describing a unique web address
+        # the destination-dnsname, which is a string describing a unique web address
+        # the source-ipv4, which is a string describing an IPv4 address
+        # the destination-ipv4, which is a string describing an IPv4 address
         ipv4:
           protocol: 6
           destination-dnsname: dcape-na.amazon.com
+        # The tcp protocol match contains the source-port and destination port, encoded as an array of strings
         tcp:
           destination-port: ["443"]
     - name: from-ipv4-amazonecho-1

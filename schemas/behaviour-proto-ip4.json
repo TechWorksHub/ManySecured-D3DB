@@ -1,0 +1,33 @@
+{
+  "$id": "https://example.com/behaviour.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behaviour-ip4",
+  "type": "The ip v4 protocol behaviour rule",
+  "properties": {
+    "ruleId": {
+      "type": "string",
+      "description": "GUID for the behaviour rule"
+    },
+    "sourceIp4": {
+      "type": "string",
+      "description": "The source IPv4 address"
+    },
+    "destinationIp4": {
+      "type": "string",
+      "description": "The destination IPv4 address"
+    },
+    "sourceDnsName": {
+      "type": "string",
+      "description": "The source dns address"
+    },
+    "destinationDnsName": {
+      "type": "string",
+      "description": "The destination dns address"
+    },
+    "protocol": {
+      "type": "number",
+      "description": "The protocol number"
+    }
+  },
+  "required": ["ruleId"]
+}

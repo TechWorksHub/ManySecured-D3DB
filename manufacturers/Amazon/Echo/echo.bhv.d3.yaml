@@ -2,7 +2,7 @@
 type: d3-behaviour
 # Subject if the verfied credential
 credential-subject:
-  # The GUID denoting the rule
+  # The GUID denoting the device rule
   id: aa92ebae-4928-4456-b597-cbd7657e9e83
   # Rules are specified as an array with two keys name and matches
   rules:
@@ -15,61 +15,63 @@ credential-subject:
         # the destination-dnsname, which is a string describing a unique web address
         # the source-ipv4, which is a string describing an IPv4 address
         # the destination-ipv4, which is a string describing an IPv4 address
-        ipv4:
+        ip4:
           protocol: 6
           destination-dnsname: dcape-na.amazon.com
-        # The tcp protocol match contains the source-port and destination port, encoded as an array of strings
+        # The tcp protocol match contains the source-port and destination port
         tcp:
-          destination-port: ["443"]
+          destination-port: 443
     - name: from-ipv4-amazonecho-1
       matches:
-        ipv4:
+        ip4:
           protocol: 6
           destination-dnsname: softwareupdates.amazon.com
         tcp:
-          destination-port: ["443"]
+          destination-port: 443
     - name: from-ipv4-amazonecho-2
       matches:
-        ipv4:
+        ip4:
           protocol: 17
           destination-dnsname: 3.north-america.pool.ntp.org
         udp:
-          destination-port: ["123"]
+          destination-port: 123
     - name: from-ipv4-amazonecho-3
       matches:
-        ipv4:
+        ip4:
           protocol: 2
-          destination-ipv4: 224.0.0.22/32
+          destination-ip4: 224.0.0.22/32
     - name: from-ipv4-amazonecho-4
       matches:
-        ipv4:
+        ip4:
           protocol: 17
-          destination-ipv4: 239.255.255.250/32
+          destination-ip4: 239.255.255.250/32
         udp:
-          destination-port: ["1900"]
+          destination-port: 1900
     - name: from-ipv4-amazonecho-5
       matches:
         eth:
           destination-mac: ff:ff:ff:ff:ff:ff
-          ethertype: '0x0800'
-        ipv4:
+          # 0x800 => 2048
+          ethertype: 2048
+        ip4:
           protocol: 17
-          destination-ipv4: 255.255.255.255/32
+          destination-ip4: 255.255.255.255/32
         udp:
-          destination-port: ["67"]
-    - name: from-ipv4-amazonecho-5
+          destination-port: 67
+    - name: from-ipv4-amazonecho-6
       matches:
         eth:
           destination-mac: ff:ff:ff:ff:ff:ff
-          ethertype: '0x0800'
-        ipv4:
+          # 0x800 => 2048
+          ethertype: 2048
+        ip4:
           protocol: 17
-          destination-ipv4: 255.255.255.255/32
+          destination-ip4: 255.255.255.255/32
         udp:
-          destination-port: ["67"]
-    - name: from-ipv4-amazonecho-13
-        ipv4:
+          destination-port: 67
+    - name: from-ipv4-amazonecho-7
+        ip4:
           protocol: 17
-          destination-ipv4: 208.67.220.220/32
+          destination-ip4: 208.67.220.220/32
         udp:
-          destination-port: ["53"]
+          destination-port: 53

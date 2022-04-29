@@ -1,0 +1,29 @@
+{
+    "$id": "https://example.com/instance.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "instance",
+    "type": "The device instance",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "GUID for the instance"
+      },
+      "mac": {
+        "type": "string",
+        "description": "The device instance MAC address"
+      },
+      "primaryip": {
+        "type": "string",
+        "description": "The device instance primary IP"
+      },
+      "secondaryip": {
+        "type": "string",
+        "description": "The device instance secondary IP"
+      },
+      "name": {
+        "type": "string",
+        "description": "The device instance name"
+      }
+    },
+    "required": ["id"]
+  }

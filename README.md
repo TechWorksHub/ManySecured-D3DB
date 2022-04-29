@@ -1,6 +1,5 @@
 # ManySecured-D3DB
 
-(OUT OF DATE)
 A repo for the ManySecured D3 data management pipeline from claims and behaviours.
 
 Links:
@@ -12,15 +11,20 @@ Links:
 ## How to add a new D3 claim
 
 1. Start a new branch.
-2. Within the `yaml` folder, find the sub-folder for the type of definition you wish to add e.g. `./yaml/assert-device-type` to add a device type.
-3. Within the folder add a YAML file with the details for your D3 spec. See 
-    - The file name convention is `companyName-deviceName-deviceModel.yaml`
-    - `companyName` is the name of the company/organisation/manufacturer associated with the device
-    - `deviceName` is the name of the device
-    - `deviceModel` is the model or version information for the device
+2. Within the `manufacturers folder` folder, create the claim files for the manufacturers products. If you organisae your files into subdirectories they will be recuresed into automatically at compile time. 
+3. Add a YAML file with the details for your D3 spec. See 
+    - The file name convention is `fileName.<d3-type>.d3.yaml`
+    - `fileName` is the name of the company/organisation/manufacturer associated with the device
+    - `<d3-type>` is one of the valid D3 types
+        - `bhv`: Claim of type `d3-behaviour` ([DOCS(?)](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-static-behaviour), [EXAMPLE]()).
+        - `firmware`: Claim of type `d3-firmware-assertion` ([DOCS(TBD)](https://specs.manysecured.net/d3), [EXAMPLE]()).
+        - `hierarchy`: Claim of type `d3-device-type-inheritance` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-inheritance), [EXAMPLE]()).
+        - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type), [EXAMPLE]()).
+        - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).
+    - Example templates for each type are in the `./exmaples` folder. 
 4. If you are running on your local machine (requires Python 3)
     - Run `pip3 install requirements.txt ` to install the packages
-    - Run `python3 ./src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors
+    - Run `python3 .d3_build/src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors.
 5. If you can't check locally or after your satisfied with your local changes, push your branch changes to github, and create a pull request.
 6. The Github Actions CI will run the tests on the library and if it passes you can merge the changes.
 7. JSON files will be created automatically from valid YAML files, you do not need to define these manually. 
@@ -28,19 +32,16 @@ Links:
 ## Project Details 
 
 ### Folder Structure
-- `./yaml`: Store for YAML D3 claims/behaviours
-- `./yaml/$D3_SPEC_TYPE`: Subfolders for the YAML D3 claims and behaviours by claim type
-- `./json`: (**Auto-generated**) Store for the JSON equivalents of the YAML claims/behaviours
-- `./json/$D3_SPEC_TYPE`: (**Auto-generated**) Store for the JSON equivalents of the YAML claims/behaviours
+- `./manufacturers`: Store for YAML D3 claims/behaviours
 - `./examples`: example claim and behaviour definitions
 - `./schemas`: Folder containing the JSON schemas for each D3 claim 
-- `./src`: Folder containing the JSON schemas for each D3 claim 
+- `./d3-build/src`: Folder containing the scripts for compiling the D3 YAML claims 
 
 ### Workflow
 Useage `python3 ./src/script.py`
 
 #### Scripts
-- `d3_build.py`: runs all tests
+- `d3_build.py`: Runs all tests
 - `d3_build_db.py`: Convert claims to database format for the ManySecured router
 - `uuid.py`, `guid.py`: A helper to generate a UUID/GUID to add to your claim defintion
 

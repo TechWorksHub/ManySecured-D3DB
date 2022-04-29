@@ -17,7 +17,7 @@
       "description": "The destination MAC address"
     },
     "etherType": {
-      "type": "string",
+      "type": "number",
       "description": "The ethernet type field"
     }
   },

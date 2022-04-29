@@ -4,7 +4,7 @@
   "title": "behaviour",
   "type": "The device behaviour schema in terms of rule id and name",
   "properties": {
-    "deviceId": {
+    "id": {
       "type": "string",
       "description": "GUID for the device"
     },
@@ -12,17 +12,13 @@
       "type": "string",
       "description": "GUID for the behaviour rule"
     },
-    "name": {
+    "ruleName": {
       "type": "string",
       "description": "Rule name"
-    },
-    "protocolName": {
-      "type": "string",
-      "description": "The protocol name"
     }
   },
   "required": [
-    "deviceId",
+    "id",
     "ruleId",
     "protocolName"
   ]

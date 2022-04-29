@@ -1,0 +1,45 @@
+{
+    "$id": "https://example.com/behaviour.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "type",
+    "type": "The device type schema",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "GUID for the device type"
+      },
+      "aliases": {
+        "type": "string",
+        "description": "The array of strings with aliases"
+      },
+      "manufacturer": {
+        "type": "string",
+        "description": "The manufacturer name"
+      },
+      "manufacturerUri": {
+        "type": "string",
+        "description": "The manufacturer URI path"
+      },
+      "modelNumber": {
+        "type": "string",
+        "description": "The model number of the device type"
+      },
+      "modelSupportUri": {
+        "type": "string",
+        "description": "The model support URI of the device type"
+      },
+      "modelInformationUri": {
+        "type": "string",
+        "description": "The model information URI of the device type"
+      },
+      "name": {
+        "type": "string",
+        "description": "The device type name"
+      },
+      "types": {
+        "type": "string",
+        "description": "The array of strings with types"
+      }
+    },
+    "required": ["id"]
+  }

@@ -14,9 +14,9 @@ def is_valid_yaml_claim(file_name: str):
 
 
 def read_yaml(file_name: str):
-    yaml_data = {}
-    with open(file_name) as f:
-        yaml_data = yaml.safe_load_all(f)
+yaml_data = {}
+with open(file_name) as f:
+    yaml_data = yaml.safe_load(f)
     return yaml_data
 
 

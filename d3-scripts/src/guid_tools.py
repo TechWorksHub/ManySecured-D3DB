@@ -1,14 +1,13 @@
 from yaml_tools import load_claim, is_valid_yaml_claim
 import re
+import typing
 
 
 def get_guid(file_name: str) -> str:
     """
     Finds the GUID in a YAML filepath
-
     Args:
         file_name: The filepath to the YAML file
-
     Returns:
         The GUID found in the YAML file (if it exsist) | None
     """
@@ -20,14 +19,12 @@ def get_guid(file_name: str) -> str:
     pass
 
 
-def check_guids(guids, file_names) -> bool:
+def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
     """
     Checks all GUIDs are unique and of the correct type
-
     Args:
         guids: A list of GUIDs
         file_name: The filepaths to the YAML files
-
     Returns:
         Boolean indicating if the GUIDs are unique and of the correct type
     """
@@ -46,37 +43,33 @@ def check_guids(guids, file_names) -> bool:
     return True
 
 
-def get_duplicate_guids(guids, file_names) -> str:
+def get_duplicate_guids(
+    guids: typing.List[str],
+    file_names: typing.List[str]
+) -> str:
     """
-    Function for finding duplicate GUIDs with the file_names found in
-
+    Find duplicate GUIDs, and the name of their containing filename.
     Args:
         guids: A list of GUIDs
         file_name: The filepaths to the YAML files
-
     Returns:
-        String
+        Message containing duplicate GUIDs and their filenames
     """
-    seen = set()
-    # adds all elements it doesn't know yet to seen and all other to seen_twice
-    seen_before = set(x for x in guids if x in seen or seen.add(x))
-    # turn the set into a list (as requested)
-    return "\n".join(map(
-        lambda x: find_guid_file_names(x, file_names),
-        list(seen_before)
-    ))
+    import collections
+    guids_counter = collections.Counter(guids)
+    duplicates = [guid for guid in guids_counter if guids_counter[guid] > 1]
+    return "\n".join(
+        [find_guid_file_names(guid, file_names) for guid in duplicates])
 
 
-def find_guid_file_names(guid_id, file_names) -> str:
+def find_guid_file_names(guid_id: str, file_names: typing.List[str]) -> str:
     """
     Function for finding the file name(s) in which a `guid_id` is found
-
     Args:
-        guids: A list of GUIDs
-        file_name: The filepaths to the YAML files
-
+        guid_id: The guid to search for
+        file_names: The filepaths to the YAML files
     Returns:
-        String
+        Message displaying the files that have the given GUID
     """
     files = []
     for file_name in file_names:

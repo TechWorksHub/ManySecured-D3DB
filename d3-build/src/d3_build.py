@@ -17,7 +17,7 @@ if __name__ == "__main__":
     pool = mp.Pool(processes=pool_size)
 
     # check for duplicate GUID/UUIDs
-    guids = pool.map(get_guid, files_to_process)
+    guids = list(filter(None, pool.map(get_guid, files_to_process)))
     check_guids(guids, files_to_process)
 
     # process claims

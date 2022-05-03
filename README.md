@@ -39,7 +39,7 @@ Links:
 - `./d3-build/src`: Folder containing the scripts for compiling the D3 YAML claims 
 
 ### Workflow
-Useage `python3 ./src/script.py`
+Useage `python3 ./d3_build/src/script.py`
 
 #### Scripts
 - `d3_build.py`: Runs all tests

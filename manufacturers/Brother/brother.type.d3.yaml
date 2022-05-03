@@ -1,12 +1,11 @@
-type:				d3-device-type-assertion
+type: d3-device-type-assertion
 credentialSubject: 
   # unique identifiers 
-  id:						a4a9a2f0-9930-4497-a429-759d3527177e
+  id: a4a9a2f0-9930-4497-a429-759d3527177e
 
   #general manufacturer information  
-  manufacturer: 			Brother UK Ltd
-  manufacturer-uri: 	https://brother.com 
+  manufacturer:     Brother UK Ltd
+  manufacturer-uri: https://brother.com 
 
   #specific information
-  name:       "Brother"
- 
+  name: "Brother"

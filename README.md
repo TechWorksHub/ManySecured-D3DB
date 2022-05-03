@@ -21,7 +21,8 @@ Links:
         - `hierarchy`: Claim of type `d3-device-type-inheritance` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-inheritance), [EXAMPLE]()).
         - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type), [EXAMPLE]()).
         - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).
-    - Example templates for each type are in the `./exmaples` folder. 
+    - Example templates for each type are in the `./exmaples` folder.
+    - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters. 
 4. If you are running on your local machine (requires Python 3)
     - Run `pip3 install requirements.txt ` to install the packages
     - Run `python3 .d3_build/src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors.
@@ -38,7 +39,7 @@ Links:
 - `./d3-build/src`: Folder containing the scripts for compiling the D3 YAML claims 
 
 ### Workflow
-Useage `python3 ./src/script.py`
+Useage `python3 ./d3_build/src/script.py`
 
 #### Scripts
 - `d3_build.py`: Runs all tests

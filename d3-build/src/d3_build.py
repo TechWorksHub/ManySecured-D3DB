@@ -10,7 +10,7 @@ if __name__ == "__main__":
     file_path = Path(__file__).absolute()
     yaml_store = Path(file_path / ".." / ".." / ".." / "manufacturers")\
         .resolve()
-    files_to_process = [str(fname) for fname in yaml_store.glob("**/*.d3.y*")]
+    files_to_process = [str(fname) for fname in yaml_store.glob("**/*.*")]
 
     # Create pool for parallel processing
     pool_size = max(mp.cpu_count() - 1, 1)

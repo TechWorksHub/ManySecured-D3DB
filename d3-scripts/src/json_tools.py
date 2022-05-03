@@ -1,6 +1,12 @@
 import json
 
 
+def load_json(file_name: str):
+    with open(file_name) as f:
+        json_data = json.load(f)
+    return json_data
+
+
 def check_json_unchanged(file_name: str, claim: dict):
     with open(file_name) as f:
         json_data = json.load(f)

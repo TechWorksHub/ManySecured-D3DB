@@ -1,0 +1,55 @@
+{
+    "$id": "https://example.com/type.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "type",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "format": "uuid",
+        "description": "GUID for the device type"
+      },
+      "aliases": {
+        "type": "string",
+        "description": "The string or json array string of aliases for the device type"
+      },
+      "manufacturer": {
+        "type": "string",
+        "description": "The manufacturer name"
+      },
+      "manufacturerUri": {
+        "type": "string",
+        "format": "uri",
+        "description": "The manufacturer URI path"
+      },
+      "modelNumber": {
+        "type": "string",
+        "description": "The model number of the device type"
+      },
+      "modelSupportUri": {
+        "type": "string",
+        "description": "The model support URI of the device type"
+      },
+      "modelInformationUri": {
+        "type": "string",
+        "format": "uri",
+        "description": "The model information URI of the device type"
+      },
+      "name": {
+        "type": "string",
+        "description": "The device type name"
+      },
+      "tags": {
+        "type": "string",
+        "pattern": "^#\\w+$|(#\\w+( |, |,))+#\\w+$",
+        "description": "The array of strings with tags space or comma separated tags",
+        "examples": [
+          "#tag1",
+          "#tag1 #tag2",
+          "#tag1,#tag2",
+          "#tag1, #tag2"
+        ]
+      }
+    },
+    "required": ["id"]
+  }

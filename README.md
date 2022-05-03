@@ -24,7 +24,7 @@ Links:
     - Example templates for each type are in the `./exmaples` folder.
     - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters.
 4. If you are running on your local machine (requires Python 3 and [Python Poetry](https://python-poetry.org/))
-    - Run `cd d3-build && poetry install` to install the packages
+    - Run `cd d3-scripts/ && poetry install` to install the packages
     - Run `poetry run python3 ./src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors.
 5. If you can't check locally or after your satisfied with your local changes, push your branch changes to github, and create a pull request.
 6. The Github Actions CI will run the tests on the library and if it passes you can merge the changes.
@@ -36,10 +36,10 @@ Links:
 - `./manufacturers`: Store for YAML D3 claims/behaviours
 - `./examples`: example claim and behaviour definitions
 - `./schemas`: Folder containing the JSON schemas for each D3 claim
-- `./d3-build/src`: Folder containing the scripts for compiling the D3 YAML claims
+- `./d3-scripts/src`: Folder containing the scripts for compiling the D3 YAML claims
 
 ### Workflow
-Useage `python3 ./d3_build/src/script.py`
+Useage `python3 ./d3_scripts/src/<script>.py`
 
 #### Scripts
 - `d3_build.py`: Runs all tests

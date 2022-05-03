@@ -1,12 +1,12 @@
-type:				d3-firmware-assertion
+type: d3-firmware-assertion
 credentialSubject: 
   # unique identifiers 
-  id:						76ac379a-5f93-418b-9a34-5c715042fdc2
+  id: 76ac379a-5f93-418b-9a34-5c715042fdc2
 
   #general manufacturer information  
-  version: 		16.03.03
-  precedent:  ea260e44-719b-4d67-9f4d-a9cec4b32283
-  link-uri: 	https://support.brother.com/g/b/downloadhowto.aspx?c=gb&lang=en&prod=mfcj6920dw_us_eu_as&os=10013&dlid=dlf004715_000&flang=4&type3=375
-  hash-md5:   3dc176c8aa821fddf834079a25e98de9  
+  version:   16.03.03
+  precedent: ea260e44-719b-4d67-9f4d-a9cec4b32283
+  link-uri:  https://support.brother.com/g/b/downloadhowto.aspx?c=gb&lang=en&prod=mfcj6920dw_us_eu_as&os=10013&dlid=dlf004715_000&flang=4&type3=375
+  hash-md5:  3dc176c8aa821fddf834079a25e98de9  
 
  

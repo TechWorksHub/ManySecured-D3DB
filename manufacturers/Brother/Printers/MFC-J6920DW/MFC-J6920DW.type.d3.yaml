@@ -1,17 +1,17 @@
-type:				d3-device-type-assertion
+type: d3-device-type-assertion
 credentialSubject: 
   # unique identifiers 
-  id:						aa92ebae-4928-4456-b597-cbd7657e9e83
+  id: aa92ebae-4928-4456-b597-cbd7657e9e83
   #aliases is an URI 
-  aliases: 					["www.manysecured.net/aa92ebae-4928-4456-b597-cbd7657e9e83", "www.brother.com/aa92ebae-4928-4456-b597-cbd7657e9e83"]
+  aliases: ["www.manysecured.net/aa92ebae-4928-4456-b597-cbd7657e9e83", "www.brother.com/aa92ebae-4928-4456-b597-cbd7657e9e83"]
 
     #general manufacturer information  
-  manufacturer: 			Brother UK Ltd
-  manufacturer-uri: 	https://brother.com 
+  manufacturer:     Brother UK Ltd
+  manufacturer-uri: https://brother.com 
 
   #model specific information
-  model-number:       MFC-J6920DW
-  model-support-uri:  https://www.brother.co.uk/support/mfcj6920dw/downloads
+  model-number:          MFC-J6920DW
+  model-support-uri:     https://www.brother.co.uk/support/mfcj6920dw/downloads
   model-information-uri: https://www.brother.co.uk/printers/inkjet-printers/mfcj6920dw
 
 

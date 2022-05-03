@@ -8,7 +8,7 @@ from guid_tools import get_guid, check_guids
 if __name__ == "__main__":
     # Get list of YAML files
     file_path = Path(__file__).absolute()
-    yaml_store = Path(file_path / ".." / ".." / ".." / "manufacturers")\
+    yaml_store = Path(file_path / ".." / ".." / ".." / ".." / "manufacturers")\
         .resolve()
     files_to_process = [str(fname) for fname in yaml_store.glob("**/*.*")]
 

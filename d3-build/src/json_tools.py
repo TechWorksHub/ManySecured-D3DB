@@ -18,4 +18,6 @@ def get_json_file_name(yaml_file_name: str):
 
 
 def write_json(file_name: str, json_data: dict):
-    pass
+    with open(file_name, "w") as f:
+        json.dump(json_data, f, indent=4)
+    return True

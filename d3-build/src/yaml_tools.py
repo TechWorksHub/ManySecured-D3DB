@@ -21,7 +21,7 @@ def load_claim(file_name: str):
     yaml_data = {}
     with open(file_name) as f:
         yaml_data = yaml.safe_load(f)
-        return yaml_data
+    return yaml_data
 
 
 def lint_yaml(file_name: str):

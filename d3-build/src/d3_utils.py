@@ -4,16 +4,6 @@ from json_tools import check_json_unchanged, get_json_file_name, write_json
 from validate_schemas import get_schema_from_path, validate_schema
 from check_uri_resolve import check_uri_resolve
 
-d3_type_codes = {
-    "bhv": "d3-device-type-behaviour",
-    "firmware": "d3-firmware-assertion",  # TODO: check definition
-    "hierarchy": "d3-device-type-inheritance",
-    "type": "d3-device-type-assertion",
-    "vuln": "d3-device-instance-vuln"
-}
-d3_types = d3_type_codes.keys()
-d3_codes = d3_type_codes.values()
-
 
 def process_claim_file(yaml_file_name: str):
     # check if file is YAML with right extension

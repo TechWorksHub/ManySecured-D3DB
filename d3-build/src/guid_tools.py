@@ -1,5 +1,6 @@
 from yaml_tools import load_claim, is_valid_yaml_claim
 
+
 def get_guid(file_name: str):
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)

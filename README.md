@@ -11,8 +11,8 @@ Links:
 ## How to add a new D3 claim
 
 1. Start a new branch.
-2. Within the `manufacturers folder` folder, create the claim files for the manufacturers products. If you organisae your files into subdirectories they will be recuresed into automatically at compile time. 
-3. Add a YAML file with the details for your D3 spec. See 
+2. Within the `manufacturers folder` folder, create the claim files for the manufacturers products. If you organisae your files into subdirectories they will be recuresed into automatically at compile time.
+3. Add a YAML file with the details for your D3 spec. See
     - The file name convention is `fileName.<d3-type>.d3.yaml`
     - `fileName` is the name of the company/organisation/manufacturer associated with the device
     - `<d3-type>` is one of the valid D3 types
@@ -22,24 +22,24 @@ Links:
         - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type), [EXAMPLE]()).
         - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).
     - Example templates for each type are in the `./exmaples` folder.
-    - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters. 
-4. If you are running on your local machine (requires Python 3)
-    - Run `pip3 install requirements.txt ` to install the packages
-    - Run `python3 .d3_build/src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors.
+    - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters.
+4. If you are running on your local machine (requires Python 3 and [Python Poetry](https://python-poetry.org/))
+    - Run `cd d3-scripts/ && poetry install` to install the packages
+    - Run `poetry run python3 ./src/d3_build.py` to run the test suite against your files. Any issues will manifest as errors.
 5. If you can't check locally or after your satisfied with your local changes, push your branch changes to github, and create a pull request.
 6. The Github Actions CI will run the tests on the library and if it passes you can merge the changes.
-7. JSON files will be created automatically from valid YAML files, you do not need to define these manually. 
+7. JSON files will be created automatically from valid YAML files, you do not need to define these manually.
 
-## Project Details 
+## Project Details
 
 ### Folder Structure
 - `./manufacturers`: Store for YAML D3 claims/behaviours
 - `./examples`: example claim and behaviour definitions
-- `./schemas`: Folder containing the JSON schemas for each D3 claim 
-- `./d3-build/src`: Folder containing the scripts for compiling the D3 YAML claims 
+- `./schemas`: Folder containing the JSON schemas for each D3 claim
+- `./d3-scripts/src`: Folder containing the scripts for compiling the D3 YAML claims
 
 ### Workflow
-Useage `python3 ./d3_build/src/script.py`
+Useage `python3 ./d3_scripts/src/<script>.py`
 
 #### Scripts
 - `d3_build.py`: Runs all tests
@@ -50,6 +50,6 @@ Useage `python3 ./d3_build/src/script.py`
 - `yaml_lint.py`: Checks YAML files conform to the YAML standard and naming conventions
 - `yaml_to_json.py`: converts YAML to JSON
 - `validate_schemas.py`: validates the YAML and JSON files against the schema for the given claim/behaviour type
-- `check_uri_resolve.py`: checks any URI parameters can be resolved 
+- `check_uri_resolve.py`: checks any URI parameters can be resolved
 - `yaml_test.py`: YAML specific tests
 - `json_test.py`: JSON specific tests

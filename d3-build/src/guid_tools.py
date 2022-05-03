@@ -58,9 +58,7 @@ def get_duplicate_guids(guids, file_names) -> str:
         String
     """
     seen = set()
-    # adds all elements it doesn't know yet to seen and all other to seen_twice
     seen_before = set(x for x in guids if x in seen or seen.add(x))
-    # turn the set into a list (as requested)
     return "\n".join(map(
         lambda x: find_guid_file_names(x, file_names),
         list(seen_before)

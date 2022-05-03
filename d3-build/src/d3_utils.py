@@ -5,9 +5,9 @@ from validate_schemas import get_schema_from_path, validate_schema
 from check_uri_resolve import check_uri_resolve
 
 d3_type_codes = {
-    "bhv": "d3-device-type-behaviour",
+    "behaviour": "d3-device-type-behaviour",
     "firmware": "d3-firmware-assertion",  # TODO: check definition
-    "hierarchy": "d3-device-type-inheritance",
+    "inheritance": "d3-device-type-inheritance",
     "type": "d3-device-type-assertion",
     "vuln": "d3-device-instance-vuln"
 }

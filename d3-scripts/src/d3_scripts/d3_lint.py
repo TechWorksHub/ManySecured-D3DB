@@ -3,11 +3,11 @@
 import argparse
 import sys
 
-from .yaml_tools import lint_yaml
+from .d3_utils import validate_d3_claim_files
 
 def cli(argv = None) -> int:
     parser = argparse.ArgumentParser(
-        description = "Lint D3 files for YAML syntax errors",
+        description = "Lint D3 files for YAML syntax/schema errors",
         epilog = "Example: d3_lint.py *.d3",
         formatter_class = argparse.ArgumentDefaultsHelpFormatter,
     )
@@ -18,8 +18,7 @@ def cli(argv = None) -> int:
     )
     args = parser.parse_args(argv)
 
-    return max(lint_yaml(file) for file in args.D3_FILE)
+    validate_d3_claim_files(args.D3_FILE)
 
 if __name__ == "__main__":
-    exit_code = cli()
-    sys.exit(exit_code)
+    cli()

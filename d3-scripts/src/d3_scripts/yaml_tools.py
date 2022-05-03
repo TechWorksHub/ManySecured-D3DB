@@ -30,7 +30,7 @@ def load_claim(file_name: str):
     return yaml_data
 
 
-def lint_yaml(file_name: str) -> typing.Literal[0, 1]:
+def lint_yaml(file_name: str, show_problems=True) -> typing.Literal[0, 1]:
     config = YamlLintConfig(r"""
         extends: default
         rules:
@@ -44,10 +44,14 @@ def lint_yaml(file_name: str) -> typing.Literal[0, 1]:
     contents = Path(file_name).read_text()
     problems = yamllint.linter.run(contents, conf=config, filepath=file_name)
 
-    prob_level = yamllint.cli.show_problems(problems, file_name, args_format='auto', no_warn=False)
-    if prob_level == yamllint.linter.PROBLEM_LEVELS['error']:
-        return 1
-    elif prob_level == yamllint.linter.PROBLEM_LEVELS['warning']:
-        return 1 # warnings should be treated as errors
+    if show_problems:
+        prob_level = yamllint.cli.show_problems(problems, file_name, args_format='auto', no_warn=False)
+        problems_exist = prob_level > 0
     else:
-        return 0 # no issue
+        # problems is a generator, so will be emptied by yamllint.cli.show_problems
+        problems_exist = len(problems) > 0
+
+    if problems_exist:
+        raise Exception(f"YAML linting failed for {file_name}")
+
+    return True

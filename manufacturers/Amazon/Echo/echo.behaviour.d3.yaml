@@ -1,5 +1,5 @@
 # The type of the verified credential
-type: d3-behaviour
+type: d3-device-type-behaviour
 # Subject if the verfied credential
 credential-subject:
   # The GUID denoting the device rule

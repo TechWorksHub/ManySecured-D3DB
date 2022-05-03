@@ -4,15 +4,17 @@ version = "0.1.0"
 description = "Utility scripts for ManySecured-D3 claims"
 authors = [
     "NquiringMinds <contact@nquiringminds.com>",
-    "Alois Klink <alois@nquiringminds.com>"
+    "Alois Klink <alois@nquiringminds.com>",
+    "Craig Rafter <craig@nquiringminds.com>"
 ]
 readme = "README.md"
 homepage = "https://github.com/TechWorksHub/ManySecured-D3DB"
 repository = "https://github.com/TechWorksHub/ManySecured-D3DB.git"
 
 [tool.poetry.dependencies]
-python = ">=3.8"
+python = ">=3.7"
 PyYAML = "^6.0"
+jsonschema = "^4.4.0"
 
 [tool.poetry.dev-dependencies]
 

@@ -1,8 +1,8 @@
 {
-  "$id": "https://example.com/behaviour.schema.json",
+  "$id": "https://example.com/behaviour-proto-udp.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "behaviour-tcp",
-  "type": "The tcp protocol behaviour rule",
+  "title": "behaviour-udp",
+  "type": "The udp protocol behaviour rule",
   "properties": {
     "ruleId": {
       "type": "string",

@@ -1,5 +1,5 @@
 {
-  "$id": "https://example.com/behaviour.schema.json",
+  "$id": "https://example.com/behaviour-proto-eth.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "behaviour-eth",
   "type": "The eth protocol behaviour rule",

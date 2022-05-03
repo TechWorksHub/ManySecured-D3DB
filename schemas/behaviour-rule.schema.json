@@ -1,0 +1,21 @@
+{
+  "$id": "https://example.com/behviour-rule.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behviour rule",
+  "type": "The device behaviour schema in terms of rule id and name",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the rule (optional)"
+    },
+    "matches": {
+      "anyOf": [
+        {"type": {"$ref": "behaviour-proto-eth.schema.json"}},
+        {"type": {"$ref": "behaviour-proto-ip4.schema.json"}},
+        {"type": {"$ref": "behaviour-proto-tcp.schema.json"}},
+        {"type": {"$ref": "behaviour-proto-udp.schema.json"}}
+      ]
+    }
+  },
+  "required": ["matches"]
+}

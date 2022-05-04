@@ -19,9 +19,18 @@ def get_guid(file_name: str) -> str:
     return False
 
 
-def is_valid_guid(guid):
+def is_valid_guid(guid: str):
+    """
+    Function for checking if a given string is a valid UUID
+
+    Args:
+        guid: The string to check
+
+    Returns:
+        Boolean indicating if the string is a valid UUID
+    """
     try:
-        uuid.uuid(str(guid))
+        uuid.uuid(guid)
         return True
     except ValueError:
         return False

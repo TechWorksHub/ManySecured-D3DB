@@ -1,10 +1,13 @@
 import yaml
 from pathlib import Path
-from d3_utils import d3_types
+from d3_constants import d3_types
 
 
 def is_valid_yaml_claim(file_name: str):
-    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
+    # Filename takes the form ...<d3_type>.<d3_ext>.yaml
+    # [-3:] bypasses ValueError if file_name takes form:
+    # brother-firmware MFC15.05.95.firmware.d3.yaml
+    *_unused, d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
     assert (
         d3_type[1:] in d3_types
     ), f"File has invalid d3 type extension {d3_types} ({file_name})"

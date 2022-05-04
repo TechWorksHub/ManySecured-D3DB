@@ -6,20 +6,20 @@
   "properties": {
     "id": {
       "type": "string",
-      "format": "uuid",
-      "description": "GUID for the behviour"
+      "description": "GUID for the device"
     },
-    "rules": {
-      "type": "array",
-      "items": {
-        "type": {"$ref": "behaviour-rule.schema.json"}
-      },
+    "ruleId": {
+      "type": "string",
       "description": "GUID for the behaviour rule"
     },
-    "name": {
+    "ruleName": {
       "type": "string",
-      "description": "Behaviour name"
+      "description": "Rule name"
     }
   },
-  "required": ["id", "rules"]
+  "required": [
+    "id",
+    "ruleId",
+    "protocolName"
+  ]
 }

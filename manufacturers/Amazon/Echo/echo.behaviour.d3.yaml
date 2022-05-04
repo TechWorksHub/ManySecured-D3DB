@@ -70,6 +70,7 @@ credential-subject:
         udp:
           destination-port: 67
     - name: from-ipv4-amazonecho-7
+      matches:
         ip4:
           protocol: 17
           destination-ip4: 208.67.220.220/32

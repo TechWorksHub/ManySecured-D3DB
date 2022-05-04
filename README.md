@@ -17,7 +17,7 @@ Links:
     - `fileName` is the name of the company/organisation/manufacturer associated with the device
     - `<d3-type>` is one of the valid D3 types
         - `behaviour`: Claim of type `d3-behaviour` ([DOCS(?)](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-static-behaviour), [EXAMPLE]()).
-        - `firmware`: Claim of type `d3-firmware-assertion` ([DOCS(TBD)](https://specs.manysecured.net/d3), [EXAMPLE]()).
+        - `firmware`: Claim of type `d3-firmware` ([DOCS(TBD)](https://specs.manysecured.net/d3), [EXAMPLE]()).
         - `inheritance`: Claim of type `d3-device-type-inheritance` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-inheritance), [EXAMPLE]()).
         - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type), [EXAMPLE]()).
         - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).

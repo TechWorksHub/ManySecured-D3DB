@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f734348c-de16-4eea-9a9d-98a09b5c2992
+  mac-addresses:
+  - 00:50:C2:87:10:00/36
+  - 9C:43:1E:60:00:00/28
+  manufacturer: R-S-I Elektrotechnik GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: R-S-IEle
+type: d3-device-type-assertion

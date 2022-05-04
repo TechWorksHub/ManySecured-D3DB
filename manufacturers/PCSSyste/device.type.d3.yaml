@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22adce32-ec40-4f3a-96dc-59399ff85e0f
+  mac-addresses:
+  - 00:0F:4F:00:00:00/24
+  manufacturer: PCS Systemtechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: PCSSyste
+type: d3-device-type-assertion

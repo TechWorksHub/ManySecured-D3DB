@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31a26a1f-43b5-4133-831a-326353b17d97
+  mac-addresses:
+  - 00:1C:FE:00:00:00/24
+  manufacturer: Quartics Inc
+  manufacturer-uri: https://device-type.com
+  name: Quartics
+type: d3-device-type-assertion

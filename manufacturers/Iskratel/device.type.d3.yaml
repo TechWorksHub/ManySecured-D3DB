@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 9af4b70a-aa88-4325-8b16-cf4ad705f8f6
+  mac-addresses:
+  - 00:D0:50:00:00:00/24
+  - 10:A3:B8:00:00:00/24
+  - 54:C2:50:00:00:00/24
+  - 64:6E:EA:00:00:00/24
+  manufacturer: Iskratel d.o.o.
+  manufacturer-uri: https://device-type.com
+  name: Iskratel
+type: d3-device-type-assertion

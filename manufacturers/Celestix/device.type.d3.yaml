@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8fcc860-f7c2-4a1a-a9f5-9ed8b22d5407
+  mac-addresses:
+  - 00:01:69:00:00:00/24
+  manufacturer: Celestix Networks Pte Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Celestix
+type: d3-device-type-assertion

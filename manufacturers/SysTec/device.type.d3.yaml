@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67f1be53-325e-497c-8dcf-348540d291aa
+  mac-addresses:
+  - 48:C8:B6:00:00:00/24
+  manufacturer: SysTec GmbH
+  manufacturer-uri: https://device-type.com
+  name: SysTec
+type: d3-device-type-assertion

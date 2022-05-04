@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9dfa25ef-365b-4b55-a34e-07730143b53a
+  mac-addresses:
+  - 00:10:7F:00:00:00/24
+  - C4:42:68:00:00:00/24
+  manufacturer: Crestron Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Crestron
+type: d3-device-type-assertion

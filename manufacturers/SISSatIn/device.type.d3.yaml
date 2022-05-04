@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a0b0404-e747-4e16-b1c9-f9035bb6023a
+  mac-addresses:
+  - 28:E6:E9:00:00:00/24
+  manufacturer: SIS Sat Internet Services GmbH
+  manufacturer-uri: https://device-type.com
+  name: SISSatIn
+type: d3-device-type-assertion

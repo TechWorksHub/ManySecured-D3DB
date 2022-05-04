@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 079413a9-987e-4577-aabe-8197f37a910b
+  mac-addresses:
+  - 30:7C:B2:00:00:00/24
+  - A4:3E:51:00:00:00/24
+  manufacturer: Anov France
+  manufacturer-uri: https://device-type.com
+  name: AnovFran
+type: d3-device-type-assertion

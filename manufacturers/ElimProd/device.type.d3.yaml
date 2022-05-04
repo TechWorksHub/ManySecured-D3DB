@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef079d6c-3349-4d8b-b661-b86fad532c8e
+  mac-addresses:
+  - 00:15:3D:00:00:00/24
+  manufacturer: Elim Product Co.
+  manufacturer-uri: https://device-type.com
+  name: ElimProd
+type: d3-device-type-assertion

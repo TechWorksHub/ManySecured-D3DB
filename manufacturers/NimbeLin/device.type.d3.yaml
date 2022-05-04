@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7d5aaeaa-ded7-4d86-8c15-5a0d64876770
+  mac-addresses:
+  - 70:B3:D5:16:F0:00/36
+  - 70:B3:D5:D3:B0:00/36
+  - 78:D8:00:70:00:00/28
+  manufacturer: NimbeLink Corp
+  manufacturer-uri: https://device-type.com
+  name: NimbeLin
+type: d3-device-type-assertion

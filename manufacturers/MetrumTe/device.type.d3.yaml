@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ac6d5ea-2cf9-4459-92ac-852d1efda910
+  mac-addresses:
+  - 70:D6:B6:00:00:00/24
+  manufacturer: Metrum Technologies
+  manufacturer-uri: https://device-type.com
+  name: MetrumTe
+type: d3-device-type-assertion

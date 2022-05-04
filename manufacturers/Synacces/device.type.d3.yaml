@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9bb16ec4-cd06-4041-ab18-baf19f737329
+  mac-addresses:
+  - 0C:73:EB:B0:00:00/28
+  - 70:B3:D5:33:60:00/36
+  manufacturer: Synaccess Networks
+  manufacturer-uri: https://device-type.com
+  name: Synacces
+type: d3-device-type-assertion

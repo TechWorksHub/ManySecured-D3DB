@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe0e6d9d-6798-4429-a9e8-c7b54b1617a4
+  mac-addresses:
+  - 90:F4:C1:00:00:00/24
+  manufacturer: Rand McNally
+  manufacturer-uri: https://device-type.com
+  name: RandMcNa
+type: d3-device-type-assertion

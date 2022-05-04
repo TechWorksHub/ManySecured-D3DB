@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c18bb992-1617-4e59-af99-dcacf43cd65c
+  mac-addresses:
+  - 00:02:32:00:00:00/24
+  manufacturer: Avision, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Avision
+type: d3-device-type-assertion

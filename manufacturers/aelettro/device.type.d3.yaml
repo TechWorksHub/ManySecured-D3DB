@@ -1,0 +1,11 @@
+credentialSubject:
+  id: a7d564b1-fcf4-4a99-8fbe-45d4f0385233
+  mac-addresses:
+  - 70:B3:D5:4A:70:00/36
+  - 70:B3:D5:9C:40:00/36
+  - 70:B3:D5:A1:40:00/36
+  - 70:B3:D5:AD:90:00/36
+  manufacturer: aelettronica group srl
+  manufacturer-uri: https://device-type.com
+  name: aelettro
+type: d3-device-type-assertion

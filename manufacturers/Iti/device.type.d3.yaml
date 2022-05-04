@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7e0e775-9ae2-4a05-8137-1075db8e04af
+  mac-addresses:
+  - 00:0D:D6:00:00:00/24
+  manufacturer: Iti Ltd
+  manufacturer-uri: https://device-type.com
+  name: Iti
+type: d3-device-type-assertion

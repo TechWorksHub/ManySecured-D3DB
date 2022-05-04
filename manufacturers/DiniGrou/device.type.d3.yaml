@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 17adacc7-3531-45cf-af1c-1a4a72fa0ca5
+  mac-addresses:
+  - 00:50:C2:70:40:00/36
+  - 70:B3:D5:67:80:00/36
+  - 70:B3:D5:83:E0:00/36
+  manufacturer: The Dini Group, La Jolla inc.
+  manufacturer-uri: https://device-type.com
+  name: DiniGrou
+type: d3-device-type-assertion

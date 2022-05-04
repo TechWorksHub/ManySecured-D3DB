@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7aa3091-462d-4e3c-828a-894290e799af
+  mac-addresses:
+  - 00:1C:08:00:00:00/24
+  manufacturer: Echo360, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Echo360
+type: d3-device-type-assertion

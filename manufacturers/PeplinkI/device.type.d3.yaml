@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 22a05509-527c-4f2f-90d7-4a5aaa0c2543
+  mac-addresses:
+  - 00:11:6E:00:00:00/24
+  - 10:56:CA:00:00:00/24
+  - D4:13:F8:00:00:00/24
+  manufacturer: Peplink International Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PeplinkI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bd4819e-14a6-4c1b-8dc4-050f83d7eeb7
+  mac-addresses:
+  - 64:E8:E6:00:00:00/24
+  manufacturer: global moisture management system
+  manufacturer-uri: https://device-type.com
+  name: globalmo
+type: d3-device-type-assertion

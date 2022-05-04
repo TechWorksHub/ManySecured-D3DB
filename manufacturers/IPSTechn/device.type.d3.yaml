@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c8f1ce25-4440-47c6-a81f-d387cf3e5e88
+  mac-addresses:
+  - 3C:97:7E:00:00:00/24
+  - 40:D8:55:07:B0:00/36
+  manufacturer: IPS Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: IPSTechn
+type: d3-device-type-assertion

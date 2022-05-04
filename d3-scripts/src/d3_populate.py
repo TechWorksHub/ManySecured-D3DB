@@ -1,4 +1,9 @@
-# python3 d3_populate.py https://gitlab.com/wireshark/wireshark/-/raw/master/manuf ./db
+# Options:
+#  a) Download from web link and populate into ./db folder:
+#     python3 d3_populate.py https://gitlab.com/wireshark/wireshark/-/raw/master/manuf ./db
+#  b) Retrieve from file and populate into ./db folder:
+#     python3 d3_populate.py ../examples/manuf.txt ./db
+
 import re
 import csv
 import requests
@@ -9,6 +14,7 @@ import uuid
 
 GIT_REPO_ADDRESS = "https://gitlab.com/wireshark/wireshark/-/raw/master/manuf"
 POPULATE_FOLDER_PATH = "./db"
+DEVICE_TYPE_FILENAME = "device.type.d3.yaml"
 
 def get_web_file(url: str):
     data = requests.get(url, allow_redirects=True)
@@ -39,8 +45,11 @@ def generate_d3_type(mac: str, short_name: str, long_name: str):
 def dump_yaml_files(populate_folder: str, d3_dict):
     for key in d3_dict:
         company_folder_path = "{}/{}".format(populate_folder, key)
-        # os.makedirs(company_folder_path, exist_ok=True)
-        yaml_file_path = "{}/device.type.d3.yaml".format(company_folder_path)
+
+        # Create the folder with the given short company name
+        os.makedirs(company_folder_path, exist_ok=True)
+
+        yaml_file_path = "{}/{}".format(company_folder_path, DEVICE_TYPE_FILENAME)
 
         d3_type = d3_dict[key]
         with open(yaml_file_path, mode="wt", encoding="utf-8") as file:
@@ -48,7 +57,7 @@ def dump_yaml_files(populate_folder: str, d3_dict):
             print("Added {}".format(yaml_file_path))
 
 def d3_populate(csv_data, populate_folder: str):
-    print('Populating with {}'.format(git_repo))
+    print('Populating with data from {}'.format(git_repo))
     print('Populating to {}'.format(populate_folder))
 
     hp = "[0-9a-fA-F]{2}"
@@ -79,9 +88,12 @@ def d3_populate(csv_data, populate_folder: str):
                     d3_type = d3_dict[short_name]
                 else:
                     d3_type = generate_d3_type(mac, short_name, long_name)
+
+                # Add the mac address to the corresponding company
                 d3_type["credentialSubject"]["mac-addresses"].append(mac)
                 d3_dict[short_name] = d3_type
 
+    # Save the yaml/json object to files
     dump_yaml_files(populate_folder, d3_dict)
 
 if __name__ == '__main__':

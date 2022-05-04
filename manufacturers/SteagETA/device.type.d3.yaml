@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4124d8a-d63d-4a6a-8a67-cd087e0449aa
+  mac-addresses:
+  - 00:0D:4A:00:00:00/24
+  manufacturer: Steag ETA-Optik
+  manufacturer-uri: https://device-type.com
+  name: SteagETA
+type: d3-device-type-assertion

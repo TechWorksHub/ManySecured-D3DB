@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ed67308-89df-498a-a587-34bf63152bf1
+  mac-addresses:
+  - 00:C0:2A:00:00:00/24
+  manufacturer: Ohkura Electric Co
+  manufacturer-uri: https://device-type.com
+  name: OhkuraEl
+type: d3-device-type-assertion

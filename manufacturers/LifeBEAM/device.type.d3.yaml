@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4f58ec2-d494-4e15-b871-2f15fe112bd1
+  mac-addresses:
+  - 1C:1F:D4:00:00:00/24
+  manufacturer: LifeBEAM Technologies LTD
+  manufacturer-uri: https://device-type.com
+  name: LifeBEAM
+type: d3-device-type-assertion

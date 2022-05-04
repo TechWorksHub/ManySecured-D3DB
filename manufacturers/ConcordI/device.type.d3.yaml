@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e22a65d0-9ef1-4d46-8ddd-7ba77ccccbac
+  mac-addresses:
+  - 00:0B:44:00:00:00/24
+  manufacturer: Concord Idea Corp.
+  manufacturer-uri: https://device-type.com
+  name: ConcordI
+type: d3-device-type-assertion

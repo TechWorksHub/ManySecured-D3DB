@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b600f26-0d38-4371-82fc-8a727b4a0233
+  mac-addresses:
+  - 00:20:77:00:00:00/24
+  manufacturer: Kardios Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Kardios
+type: d3-device-type-assertion

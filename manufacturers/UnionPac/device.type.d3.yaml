@@ -1,0 +1,8 @@
+credentialSubject:
+  id: daaffe40-0048-4588-9e20-5b90c5a51643
+  mac-addresses:
+  - 44:F8:49:00:00:00/24
+  manufacturer: Union Pacific Railroad
+  manufacturer-uri: https://device-type.com
+  name: UnionPac
+type: d3-device-type-assertion

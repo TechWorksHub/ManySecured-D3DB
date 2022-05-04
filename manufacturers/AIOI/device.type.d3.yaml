@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fe8e4186-72da-472c-a8c0-6f7533f59683
+  mac-addresses:
+  - 00:1D:C4:00:00:00/24
+  - 00:50:C2:1B:D0:00/36
+  manufacturer: AIOI Systems Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AIOI
+type: d3-device-type-assertion

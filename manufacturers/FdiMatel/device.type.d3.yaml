@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f58adb46-be12-488a-9871-9b3a597e657d
+  mac-addresses:
+  - 00:26:DE:00:00:00/24
+  manufacturer: Fdi Matelec
+  manufacturer-uri: https://device-type.com
+  name: FdiMatel
+type: d3-device-type-assertion

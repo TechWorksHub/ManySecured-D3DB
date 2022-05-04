@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c353c15-14a9-4efc-a075-dd0095967208
+  mac-addresses:
+  - 40:13:D9:00:00:00/24
+  manufacturer: Global ES
+  manufacturer-uri: https://device-type.com
+  name: GlobalES
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61cfb37e-a151-494c-b73a-2cd083e9dd08
+  mac-addresses:
+  - 00:1B:23:00:00:00/24
+  manufacturer: SimpleComTools
+  manufacturer-uri: https://device-type.com
+  name: SimpleCo
+type: d3-device-type-assertion

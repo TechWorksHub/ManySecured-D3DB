@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 53a12a95-bfcf-460b-9e4a-a64fa465ff09
+  mac-addresses:
+  - 00:01:D8:00:00:00/24
+  - 00:04:18:00:00:00/24
+  - 54:02:37:00:00:00/24
+  manufacturer: Teltronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Teltroni
+type: d3-device-type-assertion

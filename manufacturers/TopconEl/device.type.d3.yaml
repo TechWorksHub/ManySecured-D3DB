@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ba0a48f0-e874-4a57-b9d8-efe14a367c91
+  mac-addresses:
+  - A8:D3:C8:00:00:00/24
+  - D4:90:E0:00:00:00/24
+  manufacturer: Topcon Electronics GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: TopconEl
+type: d3-device-type-assertion

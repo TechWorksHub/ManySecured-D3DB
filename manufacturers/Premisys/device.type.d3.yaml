@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ed09d17-9a89-4b2f-aa00-7d077e9cfbfe
+  mac-addresses:
+  - 00:A0:1B:00:00:00/24
+  manufacturer: Premisys Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Premisys
+type: d3-device-type-assertion

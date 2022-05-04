@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22cca40f-0bce-4be6-99a3-887790fe1b9e
+  mac-addresses:
+  - 00:10:4A:00:00:00/24
+  manufacturer: The Parvus Corporation
+  manufacturer-uri: https://device-type.com
+  name: Parvus
+type: d3-device-type-assertion

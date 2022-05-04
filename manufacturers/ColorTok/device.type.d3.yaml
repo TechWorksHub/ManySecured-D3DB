@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e29293e4-5f0b-4442-a0a5-d3a982367b1f
+  mac-addresses:
+  - 38:20:A8:00:00:00/24
+  - 68:54:C1:00:00:00/24
+  manufacturer: ColorTokens, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ColorTok
+type: d3-device-type-assertion

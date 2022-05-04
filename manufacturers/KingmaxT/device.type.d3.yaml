@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2f5694b-6d5e-4640-a07e-9b2e50087b83
+  mac-addresses:
+  - 00:A0:0C:00:00:00/24
+  manufacturer: Kingmax Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: KingmaxT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 90112848-0f95-4f43-90a9-4a0f66ccd200
+  mac-addresses:
+  - 80:4B:20:00:00:00/24
+  manufacturer: Ventilation Control
+  manufacturer-uri: https://device-type.com
+  name: Ventilat
+type: d3-device-type-assertion

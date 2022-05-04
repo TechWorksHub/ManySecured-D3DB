@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab5a9225-9e65-4d1a-87cd-b99340a4bea2
+  mac-addresses:
+  - 00:0A:7B:00:00:00/24
+  manufacturer: Cornelius Consult
+  manufacturer-uri: https://device-type.com
+  name: Corneliu
+type: d3-device-type-assertion

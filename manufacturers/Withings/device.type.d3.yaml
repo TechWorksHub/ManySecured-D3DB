@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e179fd91-23f5-4759-9622-59c611e27305
+  mac-addresses:
+  - 00:24:E4:00:00:00/24
+  - A4:7E:FA:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Withings
+type: d3-device-type-assertion

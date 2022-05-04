@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd123473-c551-4545-aff9-5e61e86114c0
+  mac-addresses:
+  - 70:B3:D5:C5:C0:00/36
+  manufacturer: Layer Logic Inc
+  manufacturer-uri: https://device-type.com
+  name: LayerLog
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0701526e-8b65-4541-915c-ac28b0e90dd1
+  mac-addresses:
+  - 00:40:DE:00:00:00/24
+  manufacturer: Elsag Datamat spa
+  manufacturer-uri: https://device-type.com
+  name: ElsagDat
+type: d3-device-type-assertion

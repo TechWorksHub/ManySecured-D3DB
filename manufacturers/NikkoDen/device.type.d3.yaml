@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a85399a2-6dc9-49f1-8a60-f1977baef5b0
+  mac-addresses:
+  - 00:1D:E8:00:00:00/24
+  manufacturer: Nikko Denki Tsushin Corporation(NDTC)
+  manufacturer-uri: https://device-type.com
+  name: NikkoDen
+type: d3-device-type-assertion

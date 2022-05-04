@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff60313d-2885-42e9-8366-dcdd471b92f0
+  mac-addresses:
+  - 00:15:02:00:00:00/24
+  manufacturer: BETA tech
+  manufacturer-uri: https://device-type.com
+  name: BETAtech
+type: d3-device-type-assertion

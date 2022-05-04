@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d83edb9e-c6f0-4390-b14d-17a4d01115df
+  mac-addresses:
+  - 00:30:CC:00:00:00/24
+  manufacturer: Tenor Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TenorNet
+type: d3-device-type-assertion

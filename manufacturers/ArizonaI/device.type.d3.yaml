@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da838be1-b570-4548-ad04-9b989e7ad6cb
+  mac-addresses:
+  - 00:08:50:00:00:00/24
+  manufacturer: Arizona Instrument Corp.
+  manufacturer-uri: https://device-type.com
+  name: ArizonaI
+type: d3-device-type-assertion

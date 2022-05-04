@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f921c92a-ea8a-44a7-9fc3-ade163ff6350
+  mac-addresses:
+  - 00:40:1A:00:00:00/24
+  manufacturer: Fuji Electric Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FujiElec
+type: d3-device-type-assertion

@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 9b7daf9f-6546-41f2-aa28-f283869d4461
+  mac-addresses:
+  - 00:14:49:00:00:00/24
+  - 00:6C:FD:00:00:00/24
+  - 00:E4:00:00:00:00/24
+  - 18:99:F5:00:00:00/24
+  - 24:D9:04:00:00:00/24
+  - 5C:85:7E:10:00:00/28
+  - 64:88:FF:00:00:00/24
+  - 84:2C:80:00:00:00/24
+  - 98:2F:3C:00:00:00/24
+  - B4:60:77:00:00:00/24
+  - B4:9E:80:00:00:00/24
+  - C0:13:2B:00:00:00/24
+  - D8:47:10:00:00:00/24
+  manufacturer: Sichuan Changhong Electric Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SichuanC
+type: d3-device-type-assertion

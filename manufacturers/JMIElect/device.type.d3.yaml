@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b538e309-1adc-41f0-9f9b-c63e09b802bc
+  mac-addresses:
+  - 00:06:CC:00:00:00/24
+  manufacturer: JMI Electronics Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: JMIElect
+type: d3-device-type-assertion

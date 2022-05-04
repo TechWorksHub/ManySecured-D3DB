@@ -1,0 +1,10 @@
+credentialSubject:
+  id: aa735d90-6ec3-4138-b992-20b4f4089243
+  mac-addresses:
+  - 00:50:C2:7B:A0:00/36
+  - 58:20:8A:B0:00:00/28
+  - 70:B3:D5:DB:F0:00/36
+  manufacturer: Infodev Electronic Designers Intl.
+  manufacturer-uri: https://device-type.com
+  name: InfodevE
+type: d3-device-type-assertion

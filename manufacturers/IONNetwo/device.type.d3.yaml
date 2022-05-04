@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4577fd8c-8d39-4c31-b5db-491f2a509659
+  mac-addresses:
+  - 00:20:45:00:00:00/24
+  - 00:E0:89:00:00:00/24
+  manufacturer: ION Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IONNetwo
+type: d3-device-type-assertion

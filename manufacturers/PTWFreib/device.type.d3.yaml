@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a66a079c-3517-4d85-8eb8-b9bf3a8091db
+  mac-addresses:
+  - 00:12:B7:00:00:00/24
+  manufacturer: PTW Freiburg
+  manufacturer-uri: https://device-type.com
+  name: PTWFreib
+type: d3-device-type-assertion

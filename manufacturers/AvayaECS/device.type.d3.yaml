@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89ef00de-9701-4527-b136-f080effa1eee
+  mac-addresses:
+  - 00:E0:07:00:00:00/24
+  manufacturer: Avaya ECS Ltd
+  manufacturer-uri: https://device-type.com
+  name: AvayaECS
+type: d3-device-type-assertion

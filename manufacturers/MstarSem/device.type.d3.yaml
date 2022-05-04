@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 472c65ed-f589-458c-b9be-74ddd7b6985e
+  mac-addresses:
+  - 00:14:B9:00:00:00/24
+  manufacturer: Mstar Semiconductor
+  manufacturer-uri: https://device-type.com
+  name: MstarSem
+type: d3-device-type-assertion

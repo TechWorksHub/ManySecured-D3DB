@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2c643720-23a0-4f64-8a99-c3b334c1282c
+  mac-addresses:
+  - 70:B3:D5:0B:F0:00/36
+  - 70:B3:D5:78:70:00/36
+  manufacturer: Den Automation
+  manufacturer-uri: https://device-type.com
+  name: DenAutom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc707505-2c12-46c8-ad82-4c0c1b6904b1
+  mac-addresses:
+  - 00:13:AF:00:00:00/24
+  manufacturer: NUMA Technology,Inc.
+  manufacturer-uri: https://device-type.com
+  name: NUMATech
+type: d3-device-type-assertion

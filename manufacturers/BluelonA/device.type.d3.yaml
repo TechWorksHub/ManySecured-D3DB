@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7e704d0-858c-4681-b91f-9bd0c379b809
+  mac-addresses:
+  - 00:08:16:00:00:00/24
+  manufacturer: Bluelon ApS
+  manufacturer-uri: https://device-type.com
+  name: BluelonA
+type: d3-device-type-assertion

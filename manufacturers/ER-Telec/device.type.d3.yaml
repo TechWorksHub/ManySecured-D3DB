@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f1cf189-e89a-4cd5-b6d7-8dfa64380d26
+  mac-addresses:
+  - 34:41:A8:00:00:00/24
+  manufacturer: ER-Telecom
+  manufacturer-uri: https://device-type.com
+  name: ER-Telec
+type: d3-device-type-assertion

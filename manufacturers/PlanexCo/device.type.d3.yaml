@@ -1,0 +1,13 @@
+credentialSubject:
+  id: b6b96467-f95e-4aa6-9cae-7a56b81a1a9d
+  mac-addresses:
+  - 00:22:CF:00:00:00/24
+  - 00:90:CC:00:00:00/24
+  - 1C:C0:35:00:00:00/24
+  - 44:DC:91:00:00:00/24
+  - 8C:4C:DC:00:00:00/24
+  - E0:9D:B8:00:00:00/24
+  manufacturer: Planex Communications Inc.
+  manufacturer-uri: https://device-type.com
+  name: PlanexCo
+type: d3-device-type-assertion

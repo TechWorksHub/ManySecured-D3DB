@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 530a2004-9f62-46ed-8e54-ca117dac708a
+  mac-addresses:
+  - 00:A0:72:00:00:00/24
+  manufacturer: Ovation Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Ovation
+type: d3-device-type-assertion

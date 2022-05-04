@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bffa583b-da64-4f99-b3ab-33b71782faad
+  mac-addresses:
+  - 00:1D:58:00:00:00/24
+  manufacturer: CQ Inc
+  manufacturer-uri: https://device-type.com
+  name: CQ
+type: d3-device-type-assertion

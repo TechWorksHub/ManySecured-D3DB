@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d916d104-8e2e-400f-a9bf-5f6913975c27
+  mac-addresses:
+  - 00:23:20:00:00:00/24
+  manufacturer: Nicira Networks
+  manufacturer-uri: https://device-type.com
+  name: NiciraNe
+type: d3-device-type-assertion

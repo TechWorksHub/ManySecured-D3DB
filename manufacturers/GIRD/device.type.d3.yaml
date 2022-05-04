@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd44a0c3-6761-49df-9cf8-d6bcaf0132d0
+  mac-addresses:
+  - EC:83:D5:00:00:00/24
+  manufacturer: GIRD Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: GIRD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 612f1077-c92c-48a4-b581-69188132387a
+  mac-addresses:
+  - 00:90:85:00:00:00/24
+  manufacturer: Golden Enterprises, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GoldenEn
+type: d3-device-type-assertion

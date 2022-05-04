@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ebc55072-9e49-4780-b8d3-295c7548d082
+  mac-addresses:
+  - 00:04:C8:00:00:00/24
+  manufacturer: LIBA Maschinenfabrik GmbH
+  manufacturer-uri: https://device-type.com
+  name: LIBAMasc
+type: d3-device-type-assertion

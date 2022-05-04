@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8dd67f5c-53a1-4c06-ab95-36b5cc806cd7
+  mac-addresses:
+  - 3C:24:F0:C0:00:00/28
+  - 70:B3:D5:83:60:00/36
+  manufacturer: Authentico Technologies
+  manufacturer-uri: https://device-type.com
+  name: Authenti
+type: d3-device-type-assertion

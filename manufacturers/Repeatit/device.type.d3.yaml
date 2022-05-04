@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78a9a656-d01e-4a75-9306-135c7199166a
+  mac-addresses:
+  - 00:08:1E:00:00:00/24
+  manufacturer: Repeatit AB
+  manufacturer-uri: https://device-type.com
+  name: Repeatit
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ef879c2-1b02-49ca-b346-e980b67f526e
+  mac-addresses:
+  - 84:84:33:00:00:00/24
+  manufacturer: Paradox Engineering SA
+  manufacturer-uri: https://device-type.com
+  name: ParadoxE
+type: d3-device-type-assertion

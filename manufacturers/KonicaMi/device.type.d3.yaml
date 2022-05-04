@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2a09b63d-6082-4f01-b9df-307563ede30f
+  mac-addresses:
+  - 00:20:6B:00:00:00/24
+  - 00:50:AA:00:00:00/24
+  manufacturer: Konica Minolta Holdings, Inc.
+  manufacturer-uri: https://device-type.com
+  name: KonicaMi
+type: d3-device-type-assertion

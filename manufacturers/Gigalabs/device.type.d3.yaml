@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c105485-6ec3-4bcb-8e8d-e39f0f7cc9e0
+  mac-addresses:
+  - 00:60:7E:00:00:00/24
+  manufacturer: Gigalabs, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gigalabs
+type: d3-device-type-assertion

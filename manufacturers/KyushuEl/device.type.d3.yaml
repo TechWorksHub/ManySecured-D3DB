@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 495f0302-efe8-4d70-9570-141e0ca62b3c
+  mac-addresses:
+  - 00:0F:AB:00:00:00/24
+  manufacturer: Kyushu Electronics Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: KyushuEl
+type: d3-device-type-assertion

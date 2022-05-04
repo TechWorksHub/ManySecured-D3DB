@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9742bbdf-51d4-40a0-9a0d-17e2fd333bc3
+  mac-addresses:
+  - 00:1A:4E:00:00:00/24
+  manufacturer: NTI AG / LinMot
+  manufacturer-uri: https://device-type.com
+  name: NTILinMo
+type: d3-device-type-assertion

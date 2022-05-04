@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df5f414f-12e1-47f9-a016-2573cb9f2f15
+  mac-addresses:
+  - E8:98:C2:00:00:00/24
+  manufacturer: ZETLAB Company
+  manufacturer-uri: https://device-type.com
+  name: ZETLAB
+type: d3-device-type-assertion

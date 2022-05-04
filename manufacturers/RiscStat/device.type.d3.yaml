@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d708a21-794b-46c8-9df7-0f680816b8b9
+  mac-addresses:
+  - 00:01:3D:00:00:00/24
+  manufacturer: RiscStation Ltd.
+  manufacturer-uri: https://device-type.com
+  name: RiscStat
+type: d3-device-type-assertion

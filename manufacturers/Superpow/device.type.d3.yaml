@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 075ad1fa-8398-445f-8766-e09236ef27cd
+  mac-addresses:
+  - 00:30:06:00:00:00/24
+  manufacturer: Superpower Computer
+  manufacturer-uri: https://device-type.com
+  name: Superpow
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64a28755-d361-4d88-a67d-c0e6eb650d3c
+  mac-addresses:
+  - 00:D0:65:00:00:00/24
+  manufacturer: Toko Electric
+  manufacturer-uri: https://device-type.com
+  name: TokoElec
+type: d3-device-type-assertion

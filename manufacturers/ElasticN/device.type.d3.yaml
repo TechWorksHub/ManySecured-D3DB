@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 612dc501-94ea-481f-95c0-d040cb48e2c4
+  mac-addresses:
+  - 00:30:52:00:00:00/24
+  manufacturer: Elastic Networks
+  manufacturer-uri: https://device-type.com
+  name: ElasticN
+type: d3-device-type-assertion

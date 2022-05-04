@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 314f83ea-92a1-4d3a-b4c7-f181ce05ca03
+  mac-addresses:
+  - 00:0C:11:00:00:00/24
+  - 00:0D:BB:00:00:00/24
+  - 00:0F:FB:00:00:00/24
+  - 64:21:84:00:00:00/24
+  manufacturer: Nippon Dempa Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NipponDe
+type: d3-device-type-assertion

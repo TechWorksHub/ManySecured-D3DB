@@ -1,0 +1,17 @@
+credentialSubject:
+  id: 02f51f66-af18-4926-b21c-c36cc47fc8e1
+  mac-addresses:
+  - 00:0A:6E:00:00:00/24
+  - 00:0B:BA:00:00:00/24
+  - 00:0C:A2:00:00:00/24
+  - 00:20:A3:00:00:00/24
+  - 00:60:CA:00:00:00/24
+  - 00:90:F0:00:00:00/24
+  - 00:D0:28:00:00:00/24
+  - 00:D0:C1:00:00:00/24
+  - 18:45:B3:60:00:00/28
+  - 70:B3:D5:1F:00:00/36
+  manufacturer: Harmonic, Inc
+  manufacturer-uri: https://device-type.com
+  name: Harmonic
+type: d3-device-type-assertion

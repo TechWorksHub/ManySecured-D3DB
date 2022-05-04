@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b8ab6271-68b8-4081-86b4-1f970a15ba9f
+  mac-addresses:
+  - 00:90:DB:00:00:00/24
+  - 68:FC:B3:00:00:00/24
+  manufacturer: Next Level Communications
+  manufacturer-uri: https://device-type.com
+  name: NextLeve
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 109900e3-f6ba-4e25-ad6f-4795131ca4db
+  mac-addresses:
+  - 00:12:EA:00:00:00/24
+  - 00:50:C2:0C:80:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Trane
+type: d3-device-type-assertion

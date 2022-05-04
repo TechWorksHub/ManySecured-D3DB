@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 06c9077d-fdec-4401-8b8d-85019d5a26c9
+  mac-addresses:
+  - 58:08:FA:00:00:00/24
+  - 70:B3:D5:47:E0:00/36
+  manufacturer: Fiber Optic & telecommunication INC.
+  manufacturer-uri: https://device-type.com
+  name: FiberOpt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c2e592a-21ec-49d2-9648-d0f5153d4933
+  mac-addresses:
+  - 00:11:59:00:00:00/24
+  manufacturer: Matisse Networks Inc
+  manufacturer-uri: https://device-type.com
+  name: MatisseN
+type: d3-device-type-assertion

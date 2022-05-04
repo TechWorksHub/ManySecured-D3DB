@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 5677e941-9715-46fb-841a-9f4bb802d425
+  mac-addresses:
+  - 3C:BD:D8:00:00:00/24
+  - 3C:CD:93:00:00:00/24
+  - 98:93:CC:00:00:00/24
+  - C0:41:F6:00:00:00/24
+  - CC:2D:8C:00:00:00/24
+  - D8:4F:B8:00:00:00/24
+  - E8:5B:5B:00:00:00/24
+  manufacturer: Lg Electronics Inc
+  manufacturer-uri: https://device-type.com
+  name: LgElectr
+type: d3-device-type-assertion

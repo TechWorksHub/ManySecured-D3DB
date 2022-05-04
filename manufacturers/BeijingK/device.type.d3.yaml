@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 59130e60-5563-4f21-86b5-9e98ff6845b2
+  mac-addresses:
+  - 28:B7:7C:30:00:00/28
+  - 40:2C:76:B0:00:00/28
+  - 60:15:92:60:00:00/28
+  - 8C:C8:F4:50:00:00/28
+  - 98:30:00:00:00:00/24
+  - C4:FF:BC:D0:00:00/28
+  manufacturer: Beijing Kitten&Puppy Technology Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BeijingK
+type: d3-device-type-assertion

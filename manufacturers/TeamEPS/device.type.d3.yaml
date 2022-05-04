@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75e49e73-1ead-4d6a-a3c8-a679057aff8d
+  mac-addresses:
+  - 58:B0:FE:00:00:00/24
+  manufacturer: Team EPS GmbH
+  manufacturer-uri: https://device-type.com
+  name: TeamEPS
+type: d3-device-type-assertion

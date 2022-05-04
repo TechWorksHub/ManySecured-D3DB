@@ -1,0 +1,23 @@
+credentialSubject:
+  id: f2ae0717-ab82-46bd-8141-298577536355
+  mac-addresses:
+  - 00:00:48:00:00:00/24
+  - 00:26:AB:00:00:00/24
+  - 38:1A:52:00:00:00/24
+  - 38:9D:92:00:00:00/24
+  - 44:D2:44:00:00:00/24
+  - 50:57:9C:00:00:00/24
+  - 64:EB:8C:00:00:00/24
+  - 9C:AE:D3:00:00:00/24
+  - A4:D7:3C:00:00:00/24
+  - A4:EE:57:00:00:00/24
+  - AC:18:26:00:00:00/24
+  - B0:E8:92:00:00:00/24
+  - DC:CD:2F:00:00:00/24
+  - E0:BB:9E:00:00:00/24
+  - F8:25:51:00:00:00/24
+  - F8:D0:27:00:00:00/24
+  manufacturer: Seiko Epson Corporation
+  manufacturer-uri: https://device-type.com
+  name: SeikoEps
+type: d3-device-type-assertion

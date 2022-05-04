@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10e0dc1a-4191-4e6c-bbd2-38734d935e07
+  mac-addresses:
+  - 00:50:58:00:00:00/24
+  manufacturer: Sangoma Technologies
+  manufacturer-uri: https://device-type.com
+  name: SangomaT
+type: d3-device-type-assertion

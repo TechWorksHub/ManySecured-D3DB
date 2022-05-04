@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 252ca232-85f5-46a9-9354-b109f55b8731
+  mac-addresses:
+  - 00:08:E1:00:00:00/24
+  manufacturer: Barix AG
+  manufacturer-uri: https://device-type.com
+  name: Barix
+type: d3-device-type-assertion

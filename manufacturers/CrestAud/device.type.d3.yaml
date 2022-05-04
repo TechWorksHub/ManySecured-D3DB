@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5c6a162-9bd7-4f14-af5d-4dce4cf144a0
+  mac-addresses:
+  - 00:0C:3E:00:00:00/24
+  manufacturer: Crest Audio
+  manufacturer-uri: https://device-type.com
+  name: CrestAud
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fa29780-c469-428c-ba78-637f3f9fc258
+  mac-addresses:
+  - 00:05:53:00:00:00/24
+  manufacturer: DVC Company, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DVC
+type: d3-device-type-assertion

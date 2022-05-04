@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a4896b5f-474f-4440-a6e9-be59ff4de380
+  mac-addresses:
+  - 00:0A:C4:00:00:00/24
+  - 00:C0:77:00:00:00/24
+  manufacturer: Daewoo Teletech Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: DaewooTe
+type: d3-device-type-assertion

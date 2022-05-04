@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a44e942-a936-4984-b15f-8618dc445606
+  mac-addresses:
+  - 00:11:55:00:00:00/24
+  manufacturer: Sevis Systems
+  manufacturer-uri: https://device-type.com
+  name: Sevis
+type: d3-device-type-assertion

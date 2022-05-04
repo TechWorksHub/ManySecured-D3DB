@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 48e86b48-7e20-4c9c-a90a-016da6f5fa31
+  mac-addresses:
+  - 00:10:E6:00:00:00/24
+  - 00:1B:C5:08:40:00/36
+  - 00:22:C8:00:00:00/24
+  - 00:40:72:00:00:00/24
+  - 00:90:71:00:00:00/24
+  - A0:22:4E:70:00:00/28
+  manufacturer: Applied Intelligent Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AppliedI
+type: d3-device-type-assertion

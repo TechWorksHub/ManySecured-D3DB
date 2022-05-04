@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42c6b521-0b89-4f31-b43c-5953c0bf1274
+  mac-addresses:
+  - 00:30:6C:00:00:00/24
+  manufacturer: Hitex Holding GmbH
+  manufacturer-uri: https://device-type.com
+  name: Hitex
+type: d3-device-type-assertion

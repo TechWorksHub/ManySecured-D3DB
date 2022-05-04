@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f43f8db7-1762-4b04-966f-2064f1a42a1b
+  mac-addresses:
+  - 00:23:71:00:00:00/24
+  manufacturer: SOAM Systel
+  manufacturer-uri: https://device-type.com
+  name: SOAMSyst
+type: d3-device-type-assertion

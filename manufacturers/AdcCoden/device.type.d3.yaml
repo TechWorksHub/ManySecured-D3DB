@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6fe5520e-9a57-4e3b-8745-2e9db46cb7bd
+  mac-addresses:
+  - 00:00:4A:00:00:00/24
+  - 00:80:DF:00:00:00/24
+  manufacturer: Adc Codenoll Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: AdcCoden
+type: d3-device-type-assertion

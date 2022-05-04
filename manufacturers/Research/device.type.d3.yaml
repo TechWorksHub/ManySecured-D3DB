@@ -1,0 +1,21 @@
+credentialSubject:
+  id: caba4809-03cd-433b-afa9-25a6c420057c
+  mac-addresses:
+  - 00:00:7B:00:00:00/24
+  - 00:50:C2:2D:E0:00/36
+  - 00:50:C2:90:10:00/36
+  - 70:B3:D5:0F:90:00/36
+  - 70:B3:D5:22:30:00/36
+  - 70:B3:D5:26:20:00/36
+  - 70:B3:D5:4C:40:00/36
+  - 70:B3:D5:60:60:00/36
+  - 70:B3:D5:84:30:00/36
+  - 70:B3:D5:B8:40:00/36
+  - 70:B3:D5:F3:A0:00/36
+  - 84:89:EC:10:00:00/28
+  - B4:82:55:00:00:00/24
+  - EC:17:66:00:00:00/24
+  manufacturer: Research Machines
+  manufacturer-uri: https://device-type.com
+  name: Research
+type: d3-device-type-assertion

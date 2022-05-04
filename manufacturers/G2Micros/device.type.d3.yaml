@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bdc7919d-74ef-467a-b04c-6a4043612980
+  mac-addresses:
+  - 00:12:B8:00:00:00/24
+  manufacturer: G2 Microsystems
+  manufacturer-uri: https://device-type.com
+  name: G2Micros
+type: d3-device-type-assertion

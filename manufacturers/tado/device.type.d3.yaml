@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 48c55441-86d8-4e90-bc0f-8db949e13c03
+  mac-addresses:
+  - 00:1B:C5:07:30:00/36
+  - EC:E5:12:00:00:00/24
+  manufacturer: tado GmbH
+  manufacturer-uri: https://device-type.com
+  name: tado
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a24bc49-0f29-4b49-8a7e-baee648486be
+  mac-addresses:
+  - 00:C0:B0:00:00:00/24
+  manufacturer: Gcc Technologies,Inc.
+  manufacturer-uri: https://device-type.com
+  name: GccTechn
+type: d3-device-type-assertion

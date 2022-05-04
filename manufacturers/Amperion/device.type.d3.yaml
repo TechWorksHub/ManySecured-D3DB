@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52b87970-6156-48b8-9421-1493716f65b6
+  mac-addresses:
+  - 00:0A:22:00:00:00/24
+  manufacturer: Amperion Inc
+  manufacturer-uri: https://device-type.com
+  name: Amperion
+type: d3-device-type-assertion

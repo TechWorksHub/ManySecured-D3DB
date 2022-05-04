@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c79c3b5b-7548-4015-a4da-ef818e0f6a69
+  mac-addresses:
+  - D8:1E:DE:00:00:00/24
+  - EC:66:D1:00:00:00/24
+  manufacturer: B&W Group Ltd
+  manufacturer-uri: https://device-type.com
+  name: B&WGroup
+type: d3-device-type-assertion

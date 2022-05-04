@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 342ead7b-a0a3-4c6e-9f1e-652529ab00cc
+  mac-addresses:
+  - 00:0C:C1:00:00:00/24
+  - 00:13:45:00:00:00/24
+  - 00:18:64:00:00:00/24
+  - 00:20:85:00:00:00/24
+  manufacturer: Eaton Corporation
+  manufacturer-uri: https://device-type.com
+  name: Eaton
+type: d3-device-type-assertion

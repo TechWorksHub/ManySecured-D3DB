@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 44abae86-eb91-40dd-82d6-456ef9986b89
+  mac-addresses:
+  - 00:07:9A:00:00:00/24
+  - 00:50:C2:4C:B0:00/36
+  - 00:50:C2:91:50:00/36
+  manufacturer: Verint Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: Verint
+type: d3-device-type-assertion

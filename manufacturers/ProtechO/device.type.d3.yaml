@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e2fc0f31-f645-4642-8380-2e03755067e9
+  mac-addresses:
+  - 00:50:C2:1A:40:00/36
+  - 00:50:C2:67:40:00/36
+  manufacturer: Protech Optronics Co. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ProtechO
+type: d3-device-type-assertion

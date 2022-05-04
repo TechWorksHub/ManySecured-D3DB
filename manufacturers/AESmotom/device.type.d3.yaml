@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11a58bf5-35e3-4f41-b2d6-ab0867dd5fa7
+  mac-addresses:
+  - 20:87:AC:00:00:00/24
+  manufacturer: AES motomation
+  manufacturer-uri: https://device-type.com
+  name: AESmotom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c58272b9-9980-44e0-a173-17b93c90a2f3
+  mac-addresses:
+  - 04:17:B6:00:00:00/24
+  - 8C:85:80:00:00:00/24
+  manufacturer: Smart Innovation LLC
+  manufacturer-uri: https://device-type.com
+  name: SmartInn
+type: d3-device-type-assertion

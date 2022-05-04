@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3488c346-06d7-4c4f-b961-b23b7d28b8c9
+  mac-addresses:
+  - 00:05:A7:00:00:00/24
+  - 00:50:C2:08:B0:00/36
+  manufacturer: HYPERCHIP Inc.
+  manufacturer-uri: https://device-type.com
+  name: HYPERCHI
+type: d3-device-type-assertion

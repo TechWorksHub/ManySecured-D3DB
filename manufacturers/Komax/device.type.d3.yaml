@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a256c57-f1b4-484b-be71-108148c54e79
+  mac-addresses:
+  - 00:0D:FB:00:00:00/24
+  manufacturer: Komax AG
+  manufacturer-uri: https://device-type.com
+  name: Komax
+type: d3-device-type-assertion

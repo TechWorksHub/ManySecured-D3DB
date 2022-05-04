@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3acef9ee-c11d-4a26-8ed4-e3aaa5752fad
+  mac-addresses:
+  - 00:E0:32:00:00:00/24
+  manufacturer: Misys Financial Systems, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MisysFin
+type: d3-device-type-assertion

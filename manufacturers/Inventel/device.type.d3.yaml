@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9b494ac5-6132-4cb1-ae91-65ff47866628
+  mac-addresses:
+  - 00:07:3A:00:00:00/24
+  - 00:16:AE:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Inventel
+type: d3-device-type-assertion

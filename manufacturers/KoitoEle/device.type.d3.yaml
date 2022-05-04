@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 602f9de1-355d-4296-8178-2587ffa1bb85
+  mac-addresses:
+  - 00:10:AB:00:00:00/24
+  manufacturer: Koito Electric Industries, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: KoitoEle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f233499-4bc6-4217-b094-c3c3e02f16c3
+  mac-addresses:
+  - C0:40:04:00:00:00/24
+  manufacturer: Medicaroid Corporation
+  manufacturer-uri: https://device-type.com
+  name: Medicaro
+type: d3-device-type-assertion

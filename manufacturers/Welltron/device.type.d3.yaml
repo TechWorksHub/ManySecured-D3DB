@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34f3620d-c6d9-4c4b-bcae-a4ec711b19dd
+  mac-addresses:
+  - 00:20:2C:00:00:00/24
+  manufacturer: Welltronix Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Welltron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb80faa1-4fb1-4a91-9629-74952dc578b6
+  mac-addresses:
+  - 44:BD:DE:00:00:00/24
+  manufacturer: BHTC GmbH
+  manufacturer-uri: https://device-type.com
+  name: BHTC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 245ef729-6c36-4230-b390-154401745573
+  mac-addresses:
+  - 00:1B:C5:07:C0:00/36
+  - 00:50:C2:EA:40:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: head
+type: d3-device-type-assertion

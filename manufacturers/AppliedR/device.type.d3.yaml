@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 043f5d31-e402-4915-989d-68888fe65474
+  mac-addresses:
+  - 00:1B:01:00:00:00/24
+  - 00:50:C2:4E:20:00/36
+  - 00:90:6B:00:00:00/24
+  - 70:B3:D5:35:A0:00/36
+  - 98:26:2A:00:00:00/24
+  manufacturer: Applied Radio Technologies
+  manufacturer-uri: https://device-type.com
+  name: AppliedR
+type: d3-device-type-assertion

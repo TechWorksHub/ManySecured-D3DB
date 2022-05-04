@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a29f133b-a2e3-4dfd-a4d4-d1c2167947c5
+  mac-addresses:
+  - 00:0D:4F:00:00:00/24
+  manufacturer: Kenwood Corporation
+  manufacturer-uri: https://device-type.com
+  name: Kenwood
+type: d3-device-type-assertion

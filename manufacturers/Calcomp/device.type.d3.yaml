@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccb7c41d-f710-4445-b21b-6e1cfe316755
+  mac-addresses:
+  - 00:C0:E2:00:00:00/24
+  manufacturer: Calcomp, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Calcomp
+type: d3-device-type-assertion

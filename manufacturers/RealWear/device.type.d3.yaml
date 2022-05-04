@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 081afe31-3181-496b-bebf-e484dedd0508
+  mac-addresses:
+  - 04:EE:E8:50:00:00/28
+  - 50:A0:30:30:00:00/28
+  - 8C:1F:64:9C:10:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: RealWear
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea1f8981-11e6-4fe6-988c-55162df59e28
+  mac-addresses:
+  - 24:DB:AD:00:00:00/24
+  manufacturer: ShopperTrak RCT Corporation
+  manufacturer-uri: https://device-type.com
+  name: ShopperT
+type: d3-device-type-assertion

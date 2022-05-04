@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f476bbe5-d2ea-4d61-8204-d39efb5603f3
+  mac-addresses:
+  - 50:4F:94:00:00:00/24
+  manufacturer: Loxone Electronics GmbH
+  manufacturer-uri: https://device-type.com
+  name: LoxoneEl
+type: d3-device-type-assertion

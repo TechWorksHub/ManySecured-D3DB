@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f62e0f05-7b7a-475d-9cbd-59eb0cfa9668
+  mac-addresses:
+  - 00:0C:44:00:00:00/24
+  - 00:50:C2:C8:A0:00/36
+  - 00:E0:C9:00:00:00/24
+  manufacturer: Automated Interfaces, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Automate
+type: d3-device-type-assertion

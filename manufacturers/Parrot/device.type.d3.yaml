@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 2bc74717-457a-418e-a09d-217a82072580
+  mac-addresses:
+  - 00:12:1C:00:00:00/24
+  - 00:26:7E:00:00:00/24
+  - 90:03:B7:00:00:00/24
+  - 90:3A:E6:00:00:00/24
+  - A0:14:3D:00:00:00/24
+  manufacturer: Parrot Sa
+  manufacturer-uri: https://device-type.com
+  name: Parrot
+type: d3-device-type-assertion

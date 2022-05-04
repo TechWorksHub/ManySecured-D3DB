@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 014af63a-118e-4ff8-a7d6-e89d2b3b6a8d
+  mac-addresses:
+  - 00:0B:68:00:00:00/24
+  manufacturer: Addvalue Communications Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: Addvalue
+type: d3-device-type-assertion

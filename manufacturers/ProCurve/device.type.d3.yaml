@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 625f4a33-3b3d-40c1-a7c0-b1143e3d0dbd
+  mac-addresses:
+  - 00:16:B9:00:00:00/24
+  - 00:1B:3F:00:00:00/24
+  - 00:23:47:00:00:00/24
+  - 00:24:A8:00:00:00/24
+  - 00:25:61:00:00:00/24
+  - 00:26:F1:00:00:00/24
+  - B4:39:D6:00:00:00/24
+  - C0:91:34:00:00:00/24
+  - F0:62:81:00:00:00/24
+  manufacturer: ProCurve Networking by HP
+  manufacturer-uri: https://device-type.com
+  name: ProCurve
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 59f829c3-a6fa-4cab-a30a-6a73aae0be99
+  mac-addresses:
+  - 00:50:C2:AB:00:00/36
+  - 70:B3:D5:01:40:00/36
+  manufacturer: FRAKO Kondensatoren- und Anlagenbau GmbH
+  manufacturer-uri: https://device-type.com
+  name: FRAKOKon
+type: d3-device-type-assertion

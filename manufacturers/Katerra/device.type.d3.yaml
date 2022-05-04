@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1de46b23-0bff-4c29-b0e6-db226b8ed6e1
+  mac-addresses:
+  - B4:A2:EB:20:00:00/28
+  manufacturer: Katerra Inc
+  manufacturer-uri: https://device-type.com
+  name: Katerra
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b3845168-964c-47a6-b1e2-f912fc449edc
+  mac-addresses:
+  - 00:0D:C7:00:00:00/24
+  manufacturer: Cosmic Engineering Inc.
+  manufacturer-uri: https://device-type.com
+  name: CosmicEn
+type: d3-device-type-assertion

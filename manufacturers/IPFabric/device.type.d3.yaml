@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a6e66eb-61fa-48c2-b9e1-1f06e494142e
+  mac-addresses:
+  - 00:14:D9:00:00:00/24
+  manufacturer: IP Fabrics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IPFabric
+type: d3-device-type-assertion

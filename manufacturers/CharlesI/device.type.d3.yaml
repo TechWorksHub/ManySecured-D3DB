@@ -1,0 +1,9 @@
+credentialSubject:
+  id: da60fdee-8865-4a8e-9338-557c9575d75b
+  mac-addresses:
+  - 00:03:02:00:00:00/24
+  - 00:05:5B:00:00:00/24
+  manufacturer: Charles Industries, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CharlesI
+type: d3-device-type-assertion

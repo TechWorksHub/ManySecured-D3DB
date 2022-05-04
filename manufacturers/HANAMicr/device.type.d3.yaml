@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 96c4ce77-223b-444b-8d7a-9fe8c24f53fb
+  mac-addresses:
+  - 00:18:9A:00:00:00/24
+  manufacturer: HANA Micron Inc.
+  manufacturer-uri: https://device-type.com
+  name: HANAMicr
+type: d3-device-type-assertion

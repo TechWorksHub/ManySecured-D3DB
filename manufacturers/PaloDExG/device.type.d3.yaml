@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 47c2f126-e266-48a6-b7e8-ded574723cdf
+  mac-addresses:
+  - 00:16:BF:00:00:00/24
+  - 00:50:C2:59:20:00/36
+  - 00:50:C2:65:40:00/36
+  manufacturer: PaloDEx Group Oy
+  manufacturer-uri: https://device-type.com
+  name: PaloDExG
+type: d3-device-type-assertion

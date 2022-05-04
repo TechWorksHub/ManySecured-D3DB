@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9dbcccc-620c-4f79-8ba2-d7d890cb7767
+  mac-addresses:
+  - 00:18:D6:00:00:00/24
+  manufacturer: Swirlnet A/S
+  manufacturer-uri: https://device-type.com
+  name: Swirlnet
+type: d3-device-type-assertion

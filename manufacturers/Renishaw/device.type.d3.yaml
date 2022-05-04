@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e74d7a52-d258-4ca5-b081-a984157b0e2c
+  mac-addresses:
+  - 00:05:E5:00:00:00/24
+  manufacturer: Renishaw PLC
+  manufacturer-uri: https://device-type.com
+  name: Renishaw
+type: d3-device-type-assertion

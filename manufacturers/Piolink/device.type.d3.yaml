@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e55f41fc-73a5-4536-833a-c70644c0f07f
+  mac-addresses:
+  - 00:06:C4:00:00:00/24
+  manufacturer: Piolink Inc.
+  manufacturer-uri: https://device-type.com
+  name: Piolink
+type: d3-device-type-assertion

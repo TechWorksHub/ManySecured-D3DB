@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e8aac31-80da-497b-ab0c-2429711c812e
+  mac-addresses:
+  - 00:24:24:00:00:00/24
+  - 00:50:C2:6E:70:00/36
+  manufacturer: Ace Axis Limited
+  manufacturer-uri: https://device-type.com
+  name: AceAxis
+type: d3-device-type-assertion

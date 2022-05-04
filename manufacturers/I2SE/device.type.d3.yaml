@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cec394f-29ea-4c7c-b3b7-1733aa782e0f
+  mac-addresses:
+  - 00:01:87:00:00:00/24
+  manufacturer: I2SE GmbH
+  manufacturer-uri: https://device-type.com
+  name: I2SE
+type: d3-device-type-assertion

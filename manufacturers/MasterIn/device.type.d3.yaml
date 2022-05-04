@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ba3b432-8c2d-48b2-8efc-fb0b3f76cdc6
+  mac-addresses:
+  - 00:1E:DF:00:00:00/24
+  manufacturer: Master Industrialization Center Kista
+  manufacturer-uri: https://device-type.com
+  name: MasterIn
+type: d3-device-type-assertion

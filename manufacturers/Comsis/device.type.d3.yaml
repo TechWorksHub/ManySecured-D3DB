@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42e790c0-7792-48d7-b9fd-021ac508d207
+  mac-addresses:
+  - AC:02:EF:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Comsis
+type: d3-device-type-assertion

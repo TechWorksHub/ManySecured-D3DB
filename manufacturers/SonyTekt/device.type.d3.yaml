@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a30ea38-b509-40be-8e58-3751968a067f
+  mac-addresses:
+  - 00:00:95:00:00:00/24
+  manufacturer: Sony Tektronix Corp.
+  manufacturer-uri: https://device-type.com
+  name: SonyTekt
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 003c7648-2b65-4937-94da-5b5b14fede66
+  mac-addresses:
+  - 00:0E:E1:00:00:00/24
+  - 00:50:C2:16:80:00/36
+  manufacturer: ExtremeSpeed Inc.
+  manufacturer-uri: https://device-type.com
+  name: ExtremeS
+type: d3-device-type-assertion

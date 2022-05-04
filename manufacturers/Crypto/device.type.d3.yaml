@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 26d62031-3593-4dd8-83e5-6c8700c1a19e
+  mac-addresses:
+  - 00:18:46:00:00:00/24
+  - 00:90:29:00:00:00/24
+  manufacturer: Crypto S.A.
+  manufacturer-uri: https://device-type.com
+  name: Crypto
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b3adab6-3b02-4704-be54-c91c0ee487c9
+  mac-addresses:
+  - 00:01:DD:00:00:00/24
+  manufacturer: Avail Networks
+  manufacturer-uri: https://device-type.com
+  name: AvailNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8a2ef21-4e1e-49e2-956d-1d55523ba277
+  mac-addresses:
+  - 00:E0:C2:00:00:00/24
+  manufacturer: NECSY S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: NECSY
+type: d3-device-type-assertion

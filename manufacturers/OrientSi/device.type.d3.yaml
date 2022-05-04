@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9f23442-b0c4-4aeb-b7d1-00b39e52d927
+  mac-addresses:
+  - 00:01:76:00:00:00/24
+  manufacturer: Orient Silver Enterprises
+  manufacturer-uri: https://device-type.com
+  name: OrientSi
+type: d3-device-type-assertion

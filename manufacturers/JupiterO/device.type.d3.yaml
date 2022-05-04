@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 260764de-edea-4878-ba1e-5ab19e368855
+  mac-addresses:
+  - 00:80:09:00:00:00/24
+  manufacturer: Jupiter Systems (older MX-600 series machines)
+  manufacturer-uri: https://device-type.com
+  name: JupiterO
+type: d3-device-type-assertion

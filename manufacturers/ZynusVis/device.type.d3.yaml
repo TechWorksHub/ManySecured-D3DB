@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e3c478f-85df-4afc-9541-3f7bc84f7c1f
+  mac-addresses:
+  - 00:25:1F:00:00:00/24
+  manufacturer: Zynus Vision Inc.
+  manufacturer-uri: https://device-type.com
+  name: ZynusVis
+type: d3-device-type-assertion

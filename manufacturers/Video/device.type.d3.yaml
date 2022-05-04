@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ac83848-c1dc-4542-9fdb-91550d6b3619
+  mac-addresses:
+  - 00:1B:95:00:00:00/24
+  manufacturer: Video Systems Srl
+  manufacturer-uri: https://device-type.com
+  name: Video
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ef20233-f89a-49a9-8f4e-b93c2301ab72
+  mac-addresses:
+  - 88:96:76:00:00:00/24
+  manufacturer: TTC MARCONI s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: TTCMARCO
+type: d3-device-type-assertion

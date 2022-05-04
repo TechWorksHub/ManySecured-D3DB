@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 319d0685-3ee9-485a-a3a5-44033b4f83b4
+  mac-addresses:
+  - 70:B3:D5:5E:B0:00/36
+  - 70:B3:D5:9B:80:00/36
+  - 70:B3:D5:BC:80:00/36
+  manufacturer: Loma Systems s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: Lomasro
+type: d3-device-type-assertion

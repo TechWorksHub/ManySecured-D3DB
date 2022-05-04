@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cda762ed-37d3-4365-a238-815f720276e1
+  mac-addresses:
+  - 4C:65:A8:40:00:00/28
+  - 4C:E1:73:E0:00:00/28
+  - A4:3B:FA:A0:00:00/28
+  manufacturer: Plus One Japan Limited
+  manufacturer-uri: https://device-type.com
+  name: PlusOneJ
+type: d3-device-type-assertion

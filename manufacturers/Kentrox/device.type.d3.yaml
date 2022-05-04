@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd85f844-e925-404c-b596-26ca7d9f1087
+  mac-addresses:
+  - 00:20:5B:00:00:00/24
+  manufacturer: Kentrox, LLC
+  manufacturer-uri: https://device-type.com
+  name: Kentrox
+type: d3-device-type-assertion

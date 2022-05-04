@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8070af7-3b68-4046-a1c2-daa6ceff14ca
+  mac-addresses:
+  - 00:1B:BD:00:00:00/24
+  manufacturer: FMC Kongsberg Subsea AS
+  manufacturer-uri: https://device-type.com
+  name: FMCKongs
+type: d3-device-type-assertion

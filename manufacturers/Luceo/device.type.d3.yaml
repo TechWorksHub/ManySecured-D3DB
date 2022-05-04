@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 049d6994-01b6-4679-b585-048f67feef8c
+  mac-addresses:
+  - 00:50:C2:35:20:00/36
+  - 00:50:C2:DD:B0:00/36
+  - 40:D8:55:17:B0:00/36
+  - 70:B3:D5:6B:B0:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Luceo
+type: d3-device-type-assertion

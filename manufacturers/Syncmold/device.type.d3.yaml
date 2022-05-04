@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a0e5386-09b7-4c00-8dd8-6ac2cae1260a
+  mac-addresses:
+  - 50:3F:56:00:00:00/24
+  manufacturer: Syncmold Enterprise Corp
+  manufacturer-uri: https://device-type.com
+  name: Syncmold
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d4450993-e895-4a71-9a7b-145c9261e38b
+  mac-addresses:
+  - 00:00:3B:00:00:00/24
+  - 00:1B:AD:00:00:00/24
+  manufacturer: i Controls, Inc.
+  manufacturer-uri: https://device-type.com
+  name: iControl
+type: d3-device-type-assertion

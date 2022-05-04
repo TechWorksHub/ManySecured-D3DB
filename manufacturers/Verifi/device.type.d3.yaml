@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ec7e577-c941-488d-ac1d-46ef68bc1046
+  mac-addresses:
+  - CC:26:2D:00:00:00/24
+  manufacturer: Verifi, LLC
+  manufacturer-uri: https://device-type.com
+  name: Verifi
+type: d3-device-type-assertion

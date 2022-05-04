@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 86e5cae3-fba7-4d15-8b9a-fc32ec3985f1
+  mac-addresses:
+  - 00:17:2C:00:00:00/24
+  - 70:B3:D5:A7:50:00/36
+  manufacturer: Taejin Infotech
+  manufacturer-uri: https://device-type.com
+  name: TaejinIn
+type: d3-device-type-assertion

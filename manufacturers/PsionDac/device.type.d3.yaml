@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff37f544-357f-4337-af07-eddd5194d8ec
+  mac-addresses:
+  - 00:60:63:00:00:00/24
+  manufacturer: Psion Dacom Plc.
+  manufacturer-uri: https://device-type.com
+  name: PsionDac
+type: d3-device-type-assertion

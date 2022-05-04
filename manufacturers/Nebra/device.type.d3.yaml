@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a310d242-bc82-4d58-b989-b24a092dd94b
+  mac-addresses:
+  - 18:A9:A6:00:00:00/24
+  manufacturer: Nebra Ltd
+  manufacturer-uri: https://device-type.com
+  name: Nebra
+type: d3-device-type-assertion

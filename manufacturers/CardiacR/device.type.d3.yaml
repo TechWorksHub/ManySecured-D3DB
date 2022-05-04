@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 342fbb66-6d5c-406c-aa76-9bae3744dddd
+  mac-addresses:
+  - 00:9D:8E:00:00:00/24
+  - 02:9D:8E:00:00:00/24
+  manufacturer: Cardiac Recorders, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CardiacR
+type: d3-device-type-assertion

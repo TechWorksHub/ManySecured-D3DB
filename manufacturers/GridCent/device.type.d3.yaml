@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 214bb1cd-fde6-4414-9582-e6a2d7f6195b
+  mac-addresses:
+  - 28:48:46:00:00:00/24
+  manufacturer: GridCentric Inc.
+  manufacturer-uri: https://device-type.com
+  name: GridCent
+type: d3-device-type-assertion

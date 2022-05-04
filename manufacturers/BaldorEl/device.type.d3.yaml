@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 079549da-dbfa-49ff-a99c-141decc4ca6b
+  mac-addresses:
+  - 00:18:CF:00:00:00/24
+  manufacturer: Baldor Electric Company
+  manufacturer-uri: https://device-type.com
+  name: BaldorEl
+type: d3-device-type-assertion

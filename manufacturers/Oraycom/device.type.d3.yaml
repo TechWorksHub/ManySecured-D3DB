@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3144ca07-7fa3-49c2-9653-c247c914531b
+  mac-addresses:
+  - A0:C5:F2:B0:00:00/28
+  - FC:A0:5A:00:00:00/24
+  manufacturer: Oray.com co., LTD.
+  manufacturer-uri: https://device-type.com
+  name: Oraycom
+type: d3-device-type-assertion

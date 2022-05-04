@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0a8c845b-44d7-47ea-9cb5-0050ef3e1bbf
+  mac-addresses:
+  - 00:22:44:00:00:00/24
+  - 0C:FE:5D:00:00:00/28
+  - 70:B3:D5:F4:B0:00/36
+  manufacturer: Chengdu Linkon Communications Device Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: ChengduL
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 25c4c01a-c7d5-4b2c-af91-dbca7123a185
+  mac-addresses:
+  - 00:1E:B3:00:00:00/24
+  - 4C:BC:72:00:00:00/24
+  manufacturer: Primex Wireless
+  manufacturer-uri: https://device-type.com
+  name: PrimexWi
+type: d3-device-type-assertion

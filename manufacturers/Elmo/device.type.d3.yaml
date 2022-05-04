@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dba97c67-ee7f-4509-af44-b1d75ff0a1a4
+  mac-addresses:
+  - 00:09:9A:00:00:00/24
+  manufacturer: Elmo Company, Limited
+  manufacturer-uri: https://device-type.com
+  name: Elmo
+type: d3-device-type-assertion

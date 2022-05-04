@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c3a6dce-2b6b-4775-9ec8-1a016fa329d5
+  mac-addresses:
+  - 00:13:B2:00:00:00/24
+  manufacturer: Carallon Limited
+  manufacturer-uri: https://device-type.com
+  name: Carallon
+type: d3-device-type-assertion

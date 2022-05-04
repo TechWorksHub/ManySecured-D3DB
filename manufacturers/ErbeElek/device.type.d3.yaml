@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbc07bd5-b431-4825-8b7c-316c87f6a601
+  mac-addresses:
+  - 88:6E:E1:00:00:00/24
+  manufacturer: Erbe Elektromedizin GmbH
+  manufacturer-uri: https://device-type.com
+  name: ErbeElek
+type: d3-device-type-assertion

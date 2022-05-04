@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 20ef6924-e07a-4d4e-b3c6-af9a3cf0cd78
+  mac-addresses:
+  - 00:50:C2:CE:40:00/36
+  - 08:00:11:00:00:00/24
+  manufacturer: Tektronik
+  manufacturer-uri: https://device-type.com
+  name: Tektroni
+type: d3-device-type-assertion

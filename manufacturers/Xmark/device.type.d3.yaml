@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c9d943d-f19f-45e0-95c3-c6202212ad70
+  mac-addresses:
+  - 00:23:AD:00:00:00/24
+  manufacturer: Xmark Corporation
+  manufacturer-uri: https://device-type.com
+  name: Xmark
+type: d3-device-type-assertion

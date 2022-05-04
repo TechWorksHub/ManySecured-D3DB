@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d63df505-43cb-4998-9b87-55290c964833
+  mac-addresses:
+  - 00:12:24:00:00:00/24
+  manufacturer: NexQL Corporation
+  manufacturer-uri: https://device-type.com
+  name: NexQL
+type: d3-device-type-assertion

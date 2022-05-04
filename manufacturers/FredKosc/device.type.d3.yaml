@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0534cb31-ed22-466a-9b58-289e0f55471b
+  mac-addresses:
+  - 08:00:3F:00:00:00/24
+  manufacturer: Fred Koschara Enterprises
+  manufacturer-uri: https://device-type.com
+  name: FredKosc
+type: d3-device-type-assertion

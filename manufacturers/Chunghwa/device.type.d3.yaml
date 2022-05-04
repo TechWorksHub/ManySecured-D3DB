@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8994d9fa-8b95-444d-a19d-844a4786d072
+  mac-addresses:
+  - 00:0A:43:00:00:00/24
+  - 64:62:66:90:00:00/28
+  manufacturer: Chunghwa Telecom Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Chunghwa
+type: d3-device-type-assertion

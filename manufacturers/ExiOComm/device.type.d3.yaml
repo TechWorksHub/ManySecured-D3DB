@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d6d4e27-18fc-4cb8-aebd-4e7fb976a26d
+  mac-addresses:
+  - 00:02:DA:00:00:00/24
+  manufacturer: ExiO Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ExiOComm
+type: d3-device-type-assertion

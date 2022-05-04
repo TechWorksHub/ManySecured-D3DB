@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7d1cdb8-d2fb-46a1-9e22-c9c44c24290e
+  mac-addresses:
+  - 00:1A:E5:00:00:00/24
+  manufacturer: Mvox Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: MvoxTech
+type: d3-device-type-assertion

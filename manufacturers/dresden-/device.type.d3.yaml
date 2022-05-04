@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5df4ddb6-9ff7-42cb-9bd6-ea19f7a6c508
+  mac-addresses:
+  - 00:21:2E:00:00:00/24
+  - 00:50:C2:18:80:00/36
+  manufacturer: dresden-elektronik
+  manufacturer-uri: https://device-type.com
+  name: dresden-
+type: d3-device-type-assertion

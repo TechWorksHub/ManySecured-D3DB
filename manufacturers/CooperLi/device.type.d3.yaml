@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fcbade3-7e9d-4534-a0c5-5869f1c98d45
+  mac-addresses:
+  - 00:1D:05:00:00:00/24
+  manufacturer: Cooper Lighting Solutions
+  manufacturer-uri: https://device-type.com
+  name: CooperLi
+type: d3-device-type-assertion

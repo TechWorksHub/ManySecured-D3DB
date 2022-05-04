@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b724b46b-cc6a-4d89-bd05-cd14e783909c
+  mac-addresses:
+  - 00:21:23:00:00:00/24
+  manufacturer: Aerosat Avionics
+  manufacturer-uri: https://device-type.com
+  name: AerosatA
+type: d3-device-type-assertion

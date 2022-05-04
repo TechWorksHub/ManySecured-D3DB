@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2531052-4c28-4455-bdae-2295a05dcbc0
+  mac-addresses:
+  - 00:1B:9A:00:00:00/24
+  manufacturer: Apollo Fire Detectors Ltd
+  manufacturer-uri: https://device-type.com
+  name: ApolloFi
+type: d3-device-type-assertion

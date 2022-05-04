@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 001b7103-1b1b-461b-a131-31f63f6204e5
+  mac-addresses:
+  - 00:0B:C9:00:00:00/24
+  - 00:50:C2:D8:70:00/36
+  - 44:3E:07:00:00:00/24
+  - 4C:4B:F9:A0:00:00/28
+  - 70:B3:D5:7A:60:00/36
+  manufacturer: Electroline Equipment
+  manufacturer-uri: https://device-type.com
+  name: Electrol
+type: d3-device-type-assertion

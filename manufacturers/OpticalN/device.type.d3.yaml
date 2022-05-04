@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 04c8e6fb-c4dd-4c8f-9f4a-fe88c1805e73
+  mac-addresses:
+  - 00:06:E8:00:00:00/24
+  - 00:30:1F:00:00:00/24
+  - 20:77:59:00:00:00/24
+  manufacturer: Optical Network Testing, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OpticalN
+type: d3-device-type-assertion

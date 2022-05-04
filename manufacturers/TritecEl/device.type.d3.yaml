@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0fe1c1b-5d30-44ad-b086-9cd5b5238a6b
+  mac-addresses:
+  - 00:40:DC:00:00:00/24
+  manufacturer: Tritec Electronic Gmbh
+  manufacturer-uri: https://device-type.com
+  name: TritecEl
+type: d3-device-type-assertion

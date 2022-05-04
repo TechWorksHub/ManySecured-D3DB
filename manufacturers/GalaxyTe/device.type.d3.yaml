@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 145a2673-9c2e-4516-a597-7d80bebb7a3c
+  mac-addresses:
+  - 00:1A:24:00:00:00/24
+  - 00:1C:E9:00:00:00/24
+  manufacturer: Galaxy Telecom Technologies Ltd
+  manufacturer-uri: https://device-type.com
+  name: GalaxyTe
+type: d3-device-type-assertion

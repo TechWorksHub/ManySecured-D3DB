@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6ceaf36-df51-482c-8c61-f037f9a0a4b8
+  mac-addresses:
+  - 00:05:E8:00:00:00/24
+  manufacturer: TurboWave, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TurboWav
+type: d3-device-type-assertion

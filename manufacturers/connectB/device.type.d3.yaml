@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 37abd53a-6d42-4401-8e42-bd8670320800
+  mac-addresses:
+  - 00:12:F3:00:00:00/24
+  manufacturer: connectBlue AB
+  manufacturer-uri: https://device-type.com
+  name: connectB
+type: d3-device-type-assertion

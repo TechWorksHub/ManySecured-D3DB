@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1ece5ea1-a592-4f41-88df-96b63e30b9c4
+  mac-addresses:
+  - 00:50:C2:2D:80:00/36
+  - F8:F7:FF:00:00:00/24
+  manufacturer: Syn-Tech Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: Syn-Tech
+type: d3-device-type-assertion

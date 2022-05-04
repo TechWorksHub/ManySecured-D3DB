@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2a61626-8d70-4ddf-b1f2-ee61622decc4
+  mac-addresses:
+  - 70:B3:D5:CD:00:00/36
+  manufacturer: Ellenex Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: Ellenex
+type: d3-device-type-assertion

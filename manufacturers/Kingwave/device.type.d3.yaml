@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b05e5530-ccc1-4f40-b98a-1e7086f20e64
+  mac-addresses:
+  - 00:0B:74:00:00:00/24
+  manufacturer: Kingwave Technology Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Kingwave
+type: d3-device-type-assertion

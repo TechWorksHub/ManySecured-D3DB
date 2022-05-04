@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5d565fc0-6aeb-4b4c-9ecc-252ef1515ff3
+  mac-addresses:
+  - 64:74:F6:00:00:00/24
+  - 70:B3:D5:EB:20:00/36
+  manufacturer: Shooter Detection Systems
+  manufacturer-uri: https://device-type.com
+  name: ShooterD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c747e73-6bcb-497e-9ab4-994cf4e9d8ae
+  mac-addresses:
+  - 00:07:75:00:00:00/24
+  manufacturer: Valence Semiconductor, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ValenceS
+type: d3-device-type-assertion

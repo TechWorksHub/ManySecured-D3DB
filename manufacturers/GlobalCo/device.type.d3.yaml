@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e20863a-b3c9-466f-a070-6c2694592532
+  mac-addresses:
+  - 00:30:98:00:00:00/24
+  - 70:B3:D5:8A:D0:00/36
+  manufacturer: Global Converging Technologies
+  manufacturer-uri: https://device-type.com
+  name: GlobalCo
+type: d3-device-type-assertion

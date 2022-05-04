@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed7cb756-acd3-48c0-830d-153f937c4a24
+  mac-addresses:
+  - 00:A0:FC:00:00:00/24
+  manufacturer: Image Sciences, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ImageSci
+type: d3-device-type-assertion

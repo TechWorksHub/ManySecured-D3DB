@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1aaa7c18-497a-408a-92ae-6f9abfce09d5
+  mac-addresses:
+  - 00:C0:95:00:00:00/24
+  manufacturer: Znyx (Network Appliance); Jupiter Systems (MX-700); Apple (G3)  all
+    seen
+  manufacturer-uri: https://device-type.com
+  name: ZnyxNetw
+type: d3-device-type-assertion

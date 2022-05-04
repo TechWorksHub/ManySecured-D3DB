@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 90012561-1716-46cb-aacf-f480f1ca36c2
+  mac-addresses:
+  - 00:50:C2:35:D0:00/36
+  manufacturer: NetTest A/S
+  manufacturer-uri: https://device-type.com
+  name: NetTest
+type: d3-device-type-assertion

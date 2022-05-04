@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4b488809-a8ab-4d02-94d9-2c39bbfdd73f
+  mac-addresses:
+  - 00:13:8A:00:00:00/24
+  - B4:67:E9:00:00:00/24
+  manufacturer: Qingdao GoerTek Technology Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: QingdaoG
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff32c590-b22a-42d6-b814-3d3842ca350c
+  mac-addresses:
+  - 0C:B0:88:00:00:00/24
+  manufacturer: AITelecom
+  manufacturer-uri: https://device-type.com
+  name: AITeleco
+type: d3-device-type-assertion

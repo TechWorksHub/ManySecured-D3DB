@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 78b4b386-f2f0-47bf-afed-2e1574e3fb4b
+  mac-addresses:
+  - 0C:86:29:70:00:00/28
+  - 1C:AE:3E:30:00:00/28
+  manufacturer: HagerEnergy GmbH
+  manufacturer-uri: https://device-type.com
+  name: HagerEne
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b20ce4b-f341-4446-bddb-cd5b520f5247
+  mac-addresses:
+  - 00:13:26:00:00:00/24
+  manufacturer: ECM Systems Ltd
+  manufacturer-uri: https://device-type.com
+  name: ECM
+type: d3-device-type-assertion

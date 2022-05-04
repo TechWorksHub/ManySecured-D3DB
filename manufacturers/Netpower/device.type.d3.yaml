@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 534d3704-6139-447a-aafc-780906c03c0e
+  mac-addresses:
+  - 00:07:97:00:00:00/24
+  - 00:50:C2:9D:50:00/36
+  - 00:A0:04:00:00:00/24
+  manufacturer: Netpower Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Netpower
+type: d3-device-type-assertion

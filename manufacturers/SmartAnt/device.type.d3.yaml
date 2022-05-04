@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b2ee2e9-d80c-466b-b561-c1bcf1e0d033
+  mac-addresses:
+  - 00:1C:0B:00:00:00/24
+  manufacturer: SmartAnt Telecom
+  manufacturer-uri: https://device-type.com
+  name: SmartAnt
+type: d3-device-type-assertion

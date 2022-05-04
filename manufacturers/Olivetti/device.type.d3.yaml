@@ -1,0 +1,11 @@
+credentialSubject:
+  id: fbd3a66c-ef12-4b66-be73-f80e3f323d9f
+  mac-addresses:
+  - 00:00:46:00:00:00/24
+  - 00:15:57:00:00:00/24
+  - 00:AA:3C:00:00:00/24
+  - 02:AA:3C:00:00:00/24
+  manufacturer: Olivetti North America
+  manufacturer-uri: https://device-type.com
+  name: Olivetti
+type: d3-device-type-assertion

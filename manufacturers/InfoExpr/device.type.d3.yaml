@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b54b94f2-2ebe-4084-889c-9a6a67e11010
+  mac-addresses:
+  - 00:0C:F5:00:00:00/24
+  manufacturer: InfoExpress
+  manufacturer-uri: https://device-type.com
+  name: InfoExpr
+type: d3-device-type-assertion

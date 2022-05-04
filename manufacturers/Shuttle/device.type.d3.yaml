@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d44091b4-d6f0-4a32-9ee1-e4ba6cda8599
+  mac-addresses:
+  - 00:30:1B:00:00:00/24
+  - 18:D9:EF:00:00:00/24
+  - 80:EE:73:00:00:00/24
+  manufacturer: Shuttle, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Shuttle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8af123d8-2e75-4f7e-aaac-dcae44bd8ffe
+  mac-addresses:
+  - 00:0B:ED:00:00:00/24
+  manufacturer: ELM Inc.
+  manufacturer-uri: https://device-type.com
+  name: ELM
+type: d3-device-type-assertion

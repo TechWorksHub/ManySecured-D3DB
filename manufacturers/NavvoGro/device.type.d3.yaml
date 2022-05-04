@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8bf4e56f-e2fb-4b63-a96f-f9a75443fe46
+  mac-addresses:
+  - 00:1A:2D:00:00:00/24
+  manufacturer: The Navvo Group
+  manufacturer-uri: https://device-type.com
+  name: NavvoGro
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 06a44af6-b685-41a3-ae34-285199568aec
+  mac-addresses:
+  - 00:0D:FA:00:00:00/24
+  - 00:1A:C6:00:00:00/24
+  - 00:1B:AE:00:00:00/24
+  - 00:50:C2:50:70:00/36
+  - AC:64:DD:90:00:00/28
+  manufacturer: Micro Control Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MicroCon
+type: d3-device-type-assertion

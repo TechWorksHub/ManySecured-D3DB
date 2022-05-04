@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b81c7c3-db3f-4759-a1e0-a096e1b41a47
+  mac-addresses:
+  - 00:10:F1:00:00:00/24
+  manufacturer: I-O Corporation
+  manufacturer-uri: https://device-type.com
+  name: I-O
+type: d3-device-type-assertion

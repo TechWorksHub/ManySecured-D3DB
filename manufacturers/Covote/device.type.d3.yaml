@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d54e135-d43d-4145-b710-4ebe2949b987
+  mac-addresses:
+  - 00:1D:47:00:00:00/24
+  manufacturer: Covote GmbH & Co KG
+  manufacturer-uri: https://device-type.com
+  name: Covote
+type: d3-device-type-assertion

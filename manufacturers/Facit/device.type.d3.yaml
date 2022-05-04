@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 70e949ab-0405-4c20-9032-e49b565158c2
+  mac-addresses:
+  - 00:10:CB:00:00:00/24
+  manufacturer: Facit K.K.
+  manufacturer-uri: https://device-type.com
+  name: Facit
+type: d3-device-type-assertion

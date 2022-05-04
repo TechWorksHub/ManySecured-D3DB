@@ -1,0 +1,24 @@
+credentialSubject:
+  id: fefba167-b271-4d7f-b30c-23add8a421bf
+  mac-addresses:
+  - 04:D6:F4:00:00:00/24
+  - 10:2C:8D:00:00:00/24
+  - 30:B2:37:00:00:00/24
+  - 34:5B:BB:00:00:00/24
+  - 3C:20:93:00:00:00/24
+  - 50:2D:BB:00:00:00/24
+  - 70:86:CE:00:00:00/24
+  - 84:7C:9B:00:00:00/24
+  - 88:F2:BD:00:00:00/24
+  - 9C:C1:2D:00:00:00/24
+  - A0:68:1C:00:00:00/24
+  - A8:40:7D:00:00:00/24
+  - AC:93:C4:00:00:00/24
+  - B8:8C:29:00:00:00/24
+  - C4:39:60:00:00:00/24
+  - D4:84:57:00:00:00/24
+  - F0:C9:D1:00:00:00/24
+  manufacturer: GD Midea Air-Conditioning Equipment Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GDMideaA
+type: d3-device-type-assertion

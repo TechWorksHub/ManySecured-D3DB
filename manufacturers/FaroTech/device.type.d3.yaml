@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5c8c21c6-2e5e-478f-8e99-6941fe4c002a
+  mac-addresses:
+  - 70:B3:D5:93:60:00/36
+  - BC:34:00:B0:00:00/28
+  manufacturer: Faro Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: FaroTech
+type: d3-device-type-assertion

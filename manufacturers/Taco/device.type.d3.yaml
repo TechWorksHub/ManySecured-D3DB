@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc252254-5d18-4641-9c9b-38a814b58ee4
+  mac-addresses:
+  - 94:33:DD:00:00:00/24
+  manufacturer: Taco Inc
+  manufacturer-uri: https://device-type.com
+  name: Taco
+type: d3-device-type-assertion

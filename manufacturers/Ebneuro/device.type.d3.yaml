@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 40bd5285-dada-4fed-a19c-d28374b4537c
+  mac-addresses:
+  - 00:50:C2:29:00:00/36
+  - 00:50:C2:ED:D0:00/36
+  manufacturer: Ebneuro Spa
+  manufacturer-uri: https://device-type.com
+  name: Ebneuro
+type: d3-device-type-assertion

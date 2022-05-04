@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98e9fe41-7a66-4c69-a45d-1b10bf31f831
+  mac-addresses:
+  - 00:0E:73:00:00:00/24
+  manufacturer: Tpack A/S
+  manufacturer-uri: https://device-type.com
+  name: Tpack
+type: d3-device-type-assertion

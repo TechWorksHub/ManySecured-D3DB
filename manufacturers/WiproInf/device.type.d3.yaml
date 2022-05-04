@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e20f3013-bc63-429b-9c5f-ac928ad05a69
+  mac-addresses:
+  - 00:20:63:00:00:00/24
+  manufacturer: Wipro Infotech Ltd.
+  manufacturer-uri: https://device-type.com
+  name: WiproInf
+type: d3-device-type-assertion

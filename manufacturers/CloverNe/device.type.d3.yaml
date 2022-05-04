@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d113046d-85ba-4f86-93c6-e0e54656497d
+  mac-addresses:
+  - 04:C1:03:00:00:00/24
+  - D4:95:24:00:00:00/24
+  manufacturer: Clover Network, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CloverNe
+type: d3-device-type-assertion

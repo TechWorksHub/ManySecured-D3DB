@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34d0e087-6788-413b-b873-690237c129b9
+  mac-addresses:
+  - 00:15:50:00:00:00/24
+  manufacturer: Nits Technology Inc
+  manufacturer-uri: https://device-type.com
+  name: NitsTech
+type: d3-device-type-assertion

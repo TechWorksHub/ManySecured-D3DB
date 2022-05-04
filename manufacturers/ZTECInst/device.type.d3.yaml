@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00b13af7-dcea-4998-95f0-59fcf9414294
+  mac-addresses:
+  - 78:66:AE:00:00:00/24
+  manufacturer: ZTEC Instruments, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ZTECInst
+type: d3-device-type-assertion

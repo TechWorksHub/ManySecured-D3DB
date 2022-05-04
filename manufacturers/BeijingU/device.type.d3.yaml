@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 45c8e127-5390-4917-9cf7-025dab273bb2
+  mac-addresses:
+  - 8C:1E:D9:00:00:00/24
+  - A4:3B:FA:10:00:00/28
+  - DC:2D:CB:00:00:00/24
+  - EC:E1:54:00:00:00/24
+  manufacturer: Beijing Unigroup Tsingteng Microsystem Co., LTD.
+  manufacturer-uri: https://device-type.com
+  name: BeijingU
+type: d3-device-type-assertion

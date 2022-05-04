@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e7166e31-6142-4e67-96a4-aa684ce7fc7c
+  mac-addresses:
+  - 00:50:C2:AE:70:00/36
+  - 40:D8:55:0F:00:00/36
+  - 70:B3:D5:A2:A0:00/36
+  manufacturer: Redwood Systems
+  manufacturer-uri: https://device-type.com
+  name: Redwood
+type: d3-device-type-assertion

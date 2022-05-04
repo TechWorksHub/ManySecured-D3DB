@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0bfc1c3-f44f-4055-ac78-5c6f96cbe1ca
+  mac-addresses:
+  - 00:1C:75:00:00:00/24
+  manufacturer: Segnet Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Segnet
+type: d3-device-type-assertion

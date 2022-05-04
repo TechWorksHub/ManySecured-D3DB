@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc7fd569-875e-4ae8-9a56-0aa298be85fe
+  mac-addresses:
+  - 3C:0C:7D:00:00:00/24
+  manufacturer: Tiny Mesh AS
+  manufacturer-uri: https://device-type.com
+  name: TinyMesh
+type: d3-device-type-assertion

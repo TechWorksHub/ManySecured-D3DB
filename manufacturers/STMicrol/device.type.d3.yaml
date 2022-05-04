@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 04f288e9-484f-4bf5-880e-802fe6ee5bcc
+  mac-addresses:
+  - 10:E7:7A:00:00:00/24
+  - 50:0F:59:00:00:00/24
+  manufacturer: STMicrolectronics International NV
+  manufacturer-uri: https://device-type.com
+  name: STMicrol
+type: d3-device-type-assertion

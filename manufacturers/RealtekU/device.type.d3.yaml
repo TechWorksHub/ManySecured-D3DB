@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 959b3df7-1c54-47c5-877f-f3e0254af4e5
+  mac-addresses:
+  - 52:54:00:00:00:00/24
+  manufacturer: Realtek (UpTech? also reported)
+  manufacturer-uri: https://device-type.com
+  name: RealtekU
+type: d3-device-type-assertion

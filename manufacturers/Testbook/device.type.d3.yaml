@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dcd1b80c-c97d-458d-9b70-031e81d8cde0
+  mac-addresses:
+  - 40:D8:55:11:30:00/36
+  manufacturer: Testbook Ltd
+  manufacturer-uri: https://device-type.com
+  name: Testbook
+type: d3-device-type-assertion

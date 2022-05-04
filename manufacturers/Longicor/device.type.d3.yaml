@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80acf8a4-832f-4a04-8234-e5d87c32d755
+  mac-addresses:
+  - 44:ED:57:00:00:00/24
+  manufacturer: Longicorn, inc.
+  manufacturer-uri: https://device-type.com
+  name: Longicor
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d2b0abd-bbda-4d71-83cc-52094fa389aa
+  mac-addresses:
+  - 00:18:00:00:00:00/24
+  manufacturer: Unigrand Ltd
+  manufacturer-uri: https://device-type.com
+  name: Unigrand
+type: d3-device-type-assertion

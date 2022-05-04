@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 819f369e-c1ec-4902-9f49-76807186ff3c
+  mac-addresses:
+  - 00:80:5A:00:00:00/24
+  manufacturer: Tulip Computers International BV
+  manufacturer-uri: https://device-type.com
+  name: TulipCom
+type: d3-device-type-assertion

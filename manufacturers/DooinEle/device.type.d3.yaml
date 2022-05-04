@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c76d63c5-d440-483f-8f6a-60e34c4dd467
+  mac-addresses:
+  - 00:D0:E0:00:00:00/24
+  manufacturer: Dooin Electronics Co.
+  manufacturer-uri: https://device-type.com
+  name: DooinEle
+type: d3-device-type-assertion

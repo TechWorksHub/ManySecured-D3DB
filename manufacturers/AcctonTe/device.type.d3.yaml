@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 0bfa4c3a-c98e-4931-b0d2-14bbbd141409
+  mac-addresses:
+  - 00:00:E8:00:00:00/24
+  - 00:04:E3:00:00:00/24
+  - 00:10:B5:00:00:00/24
+  - 00:12:CF:00:00:00/24
+  - 00:30:F1:00:00:00/24
+  - B8:61:6F:00:00:00/24
+  manufacturer: Accton Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: AcctonTe
+type: d3-device-type-assertion

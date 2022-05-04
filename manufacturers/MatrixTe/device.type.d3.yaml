@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cc9a1337-36f2-4d20-8d89-397b5f9e92dc
+  mac-addresses:
+  - 00:1B:09:00:00:00/24
+  - 00:50:C2:55:B0:00/36
+  - 70:B3:D5:B8:30:00/36
+  manufacturer: Matrix Telecom Pvt. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MatrixTe
+type: d3-device-type-assertion

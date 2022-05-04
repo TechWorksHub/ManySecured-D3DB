@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7574342-2677-468f-870c-6411de416a0f
+  mac-addresses:
+  - 00:0B:FB:00:00:00/24
+  manufacturer: D-NET International Corporation
+  manufacturer-uri: https://device-type.com
+  name: D-NETInt
+type: d3-device-type-assertion

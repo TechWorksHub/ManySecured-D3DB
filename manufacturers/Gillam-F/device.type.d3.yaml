@@ -1,0 +1,10 @@
+credentialSubject:
+  id: da0a8211-2d22-4b2e-9daa-25d6955d37fb
+  mac-addresses:
+  - 00:50:C2:2F:70:00/36
+  - 00:50:C2:D1:A0:00/36
+  - 70:B3:D5:31:E0:00/36
+  manufacturer: Gillam-Fei S.A.
+  manufacturer-uri: https://device-type.com
+  name: Gillam-F
+type: d3-device-type-assertion

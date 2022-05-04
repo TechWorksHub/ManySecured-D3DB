@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 980afe97-5108-49c7-bca1-ead07bbff98b
+  mac-addresses:
+  - 00:0A:24:00:00:00/24
+  manufacturer: Octave Communications
+  manufacturer-uri: https://device-type.com
+  name: OctaveCo
+type: d3-device-type-assertion

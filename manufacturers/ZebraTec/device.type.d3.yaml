@@ -1,0 +1,19 @@
+credentialSubject:
+  id: 3b79a8fc-5f76-4c4a-97f6-5c33d14f2bb1
+  mac-addresses:
+  - 00:05:12:00:00:00/24
+  - 00:07:4D:00:00:00/24
+  - 00:15:70:00:00:00/24
+  - 00:23:68:00:00:00/24
+  - 00:A0:F8:00:00:00/24
+  - 40:83:DE:00:00:00/24
+  - 74:93:A4:00:00:00/24
+  - 78:B8:D6:00:00:00/24
+  - 84:24:8D:00:00:00/24
+  - 94:FB:29:00:00:00/24
+  - C4:7D:CC:00:00:00/24
+  - C8:1C:FE:00:00:00/24
+  manufacturer: Zebra Technologies Inc
+  manufacturer-uri: https://device-type.com
+  name: ZebraTec
+type: d3-device-type-assertion

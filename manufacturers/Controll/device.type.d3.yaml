@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0b0ef007-b4f9-4098-9eb4-77b2026469dc
+  mac-addresses:
+  - 00:30:46:00:00:00/24
+  - 00:E0:59:00:00:00/24
+  - 70:B3:D5:BA:80:00/36
+  manufacturer: Controlled Electronic Manageme
+  manufacturer-uri: https://device-type.com
+  name: Controll
+type: d3-device-type-assertion

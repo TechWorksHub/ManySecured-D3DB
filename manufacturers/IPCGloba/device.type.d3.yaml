@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2ebf1b0-6365-4f5e-8de8-86b856c12e0d
+  mac-addresses:
+  - 50:FF:99:40:00:00/28
+  manufacturer: IPC Global
+  manufacturer-uri: https://device-type.com
+  name: IPCGloba
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ee9fade-203e-4cf0-bb70-4d3a625065ef
+  mac-addresses:
+  - 34:04:9E:00:00:00/28
+  manufacturer: GoChip Inc.
+  manufacturer-uri: https://device-type.com
+  name: GoChip
+type: d3-device-type-assertion

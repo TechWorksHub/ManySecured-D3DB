@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1aa5bbf-0e17-455a-b09f-03f8eaeda06f
+  mac-addresses:
+  - 00:23:6F:00:00:00/24
+  manufacturer: DAQ System
+  manufacturer-uri: https://device-type.com
+  name: DAQSyste
+type: d3-device-type-assertion

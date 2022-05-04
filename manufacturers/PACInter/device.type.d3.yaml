@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7f9f9f78-37a2-45a7-b497-32d107f47f42
+  mac-addresses:
+  - 00:03:60:00:00:00/24
+  - 00:0D:35:00:00:00/24
+  manufacturer: PAC Interactive Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PACInter
+type: d3-device-type-assertion

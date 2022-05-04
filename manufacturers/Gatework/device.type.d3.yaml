@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2da3ffcd-e385-41f2-89b6-537ae5bae5d9
+  mac-addresses:
+  - 00:D0:12:00:00:00/24
+  manufacturer: Gateworks Corp.
+  manufacturer-uri: https://device-type.com
+  name: Gatework
+type: d3-device-type-assertion

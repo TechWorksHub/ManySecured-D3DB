@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a1ec098e-6758-4629-9665-72af7b252ef5
+  mac-addresses:
+  - 70:B3:D5:1A:10:00/36
+  - 70:B3:D5:8C:50:00/36
+  - AC:64:DD:D0:00:00/28
+  manufacturer: HMicro Inc
+  manufacturer-uri: https://device-type.com
+  name: HMicro
+type: d3-device-type-assertion

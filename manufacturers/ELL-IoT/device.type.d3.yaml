@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a3f0f528-9ae8-4fef-88e7-e564a8710ecb
+  mac-addresses:
+  - 58:EA:FC:00:00:00/24
+  manufacturer: ELL-IoT Inc
+  manufacturer-uri: https://device-type.com
+  name: ELL-IoT
+type: d3-device-type-assertion

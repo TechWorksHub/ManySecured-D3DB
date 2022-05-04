@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7ef636d5-860f-41e5-84dd-1726c376c65c
+  mac-addresses:
+  - 00:14:60:00:00:00/24
+  - 00:1F:BD:00:00:00/24
+  manufacturer: Kyocera Wireless Corp.
+  manufacturer-uri: https://device-type.com
+  name: KyoceraW
+type: d3-device-type-assertion

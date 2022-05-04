@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d4edebe-7789-42dc-9f5f-dbe7dfc05866
+  mac-addresses:
+  - 00:1F:2E:00:00:00/24
+  manufacturer: Triangle Research Int'l Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: Triangle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cbc4e56-21b8-4f90-8147-b28bc1dbb51d
+  mac-addresses:
+  - 08:D2:9A:00:00:00/24
+  manufacturer: Proformatique
+  manufacturer-uri: https://device-type.com
+  name: Proforma
+type: d3-device-type-assertion

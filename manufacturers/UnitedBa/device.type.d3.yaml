@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a4cfc1f5-9a37-4aca-a706-2d570543510d
+  mac-addresses:
+  - 00:C0:67:00:00:00/24
+  - C8:F5:D6:B0:00:00/28
+  manufacturer: United Barcode Industries
+  manufacturer-uri: https://device-type.com
+  name: UnitedBa
+type: d3-device-type-assertion

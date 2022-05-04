@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d294687-e87b-4b8f-bda7-0f5fc85c87ab
+  mac-addresses:
+  - 00:90:72:00:00:00/24
+  manufacturer: Simrad As
+  manufacturer-uri: https://device-type.com
+  name: SimradAs
+type: d3-device-type-assertion

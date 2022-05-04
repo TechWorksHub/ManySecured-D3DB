@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2ff85a72-82f5-4616-b0cc-a43eaf920ef0
+  mac-addresses:
+  - 08:ED:02:50:00:00/28
+  - 40:D8:55:1A:F0:00/36
+  manufacturer: Vigitron Inc.
+  manufacturer-uri: https://device-type.com
+  name: Vigitron
+type: d3-device-type-assertion

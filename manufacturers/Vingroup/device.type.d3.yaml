@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 500d40a0-d4b0-4331-b5b8-1534161e02a1
+  mac-addresses:
+  - 00:D2:79:00:00:00/24
+  manufacturer: Vingroup Joint Stock Company
+  manufacturer-uri: https://device-type.com
+  name: Vingroup
+type: d3-device-type-assertion

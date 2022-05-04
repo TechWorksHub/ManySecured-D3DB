@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 280f224e-59de-4a3a-89b6-0b31b2859f8e
+  mac-addresses:
+  - 00:0F:C7:00:00:00/24
+  manufacturer: Dionica R&D Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DionicaR
+type: d3-device-type-assertion

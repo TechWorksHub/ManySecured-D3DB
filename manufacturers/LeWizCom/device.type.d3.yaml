@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42209aa3-c66c-4b57-abd4-b662f6b6713b
+  mac-addresses:
+  - 00:12:32:00:00:00/24
+  manufacturer: LeWiz Communications Inc.
+  manufacturer-uri: https://device-type.com
+  name: LeWizCom
+type: d3-device-type-assertion

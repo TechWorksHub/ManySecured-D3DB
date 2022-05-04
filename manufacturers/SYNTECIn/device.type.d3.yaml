@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e00d91e-adad-4425-9f15-9e51040166af
+  mac-addresses:
+  - F8:46:2D:00:00:00/24
+  manufacturer: SYNTEC Incorporation
+  manufacturer-uri: https://device-type.com
+  name: SYNTECIn
+type: d3-device-type-assertion

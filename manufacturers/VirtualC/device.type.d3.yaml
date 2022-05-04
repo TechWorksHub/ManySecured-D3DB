@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ff56bd1a-42fb-44da-a9fe-d145d14bc6bc
+  mac-addresses:
+  - 00:13:BE:00:00:00/24
+  - 00:24:0B:00:00:00/24
+  - 70:B3:D5:EC:30:00/36
+  manufacturer: Virtual Conexions
+  manufacturer-uri: https://device-type.com
+  name: VirtualC
+type: d3-device-type-assertion

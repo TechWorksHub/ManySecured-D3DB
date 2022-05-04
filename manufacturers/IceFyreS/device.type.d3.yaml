@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7c5ae3c-379d-4306-8737-14905f423c42
+  mac-addresses:
+  - 00:0D:30:00:00:00/24
+  manufacturer: IceFyre Semiconductor
+  manufacturer-uri: https://device-type.com
+  name: IceFyreS
+type: d3-device-type-assertion

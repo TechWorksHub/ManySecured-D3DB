@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cb27e78c-3cab-4cfa-af27-26af95b56edf
+  mac-addresses:
+  - 00:01:21:00:00:00/24
+  - 00:1D:96:00:00:00/24
+  - 00:90:7F:00:00:00/24
+  manufacturer: WatchGuard Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: WatchGua
+type: d3-device-type-assertion

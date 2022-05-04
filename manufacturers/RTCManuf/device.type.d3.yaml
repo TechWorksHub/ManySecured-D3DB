@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65e896ca-35c1-4c84-b5f4-bcd70b38a48f
+  mac-addresses:
+  - 00:50:C2:F8:80:00/36
+  manufacturer: RTC Manufacturing Inc.
+  manufacturer-uri: https://device-type.com
+  name: RTCManuf
+type: d3-device-type-assertion

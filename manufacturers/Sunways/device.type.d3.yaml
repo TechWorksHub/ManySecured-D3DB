@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b551c25-b3c6-4b1e-b6f8-6e9a26494ca3
+  mac-addresses:
+  - 00:16:D7:00:00:00/24
+  manufacturer: Sunways AG
+  manufacturer-uri: https://device-type.com
+  name: Sunways
+type: d3-device-type-assertion

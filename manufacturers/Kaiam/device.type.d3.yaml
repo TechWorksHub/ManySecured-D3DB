@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8165a25-ba4e-4fdb-a2a7-bb6c48c18dd5
+  mac-addresses:
+  - 14:ED:E4:00:00:00/24
+  manufacturer: Kaiam Corporation
+  manufacturer-uri: https://device-type.com
+  name: Kaiam
+type: d3-device-type-assertion

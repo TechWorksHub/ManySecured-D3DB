@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2a35f7f-a6d5-48be-8949-72641bdafd98
+  mac-addresses:
+  - 00:00:A9:00:00:00/24
+  manufacturer: Network Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Network
+type: d3-device-type-assertion

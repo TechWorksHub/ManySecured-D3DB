@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d09d5ea-1e21-4051-9dde-948bda7feba0
+  mac-addresses:
+  - 00:24:26:00:00:00/24
+  manufacturer: Nohmi Bosai Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NohmiBos
+type: d3-device-type-assertion

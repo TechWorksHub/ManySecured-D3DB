@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dcf1e17e-e992-4cdb-8a84-07693ef48713
+  mac-addresses:
+  - 00:1A:88:00:00:00/24
+  manufacturer: Venergy,Co,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Venergy
+type: d3-device-type-assertion

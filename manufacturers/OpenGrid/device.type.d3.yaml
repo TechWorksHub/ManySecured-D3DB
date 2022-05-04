@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cdd5178-bd9b-4099-8603-a805412a2a57
+  mac-addresses:
+  - 00:22:2F:00:00:00/24
+  manufacturer: Open Grid Computing, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OpenGrid
+type: d3-device-type-assertion

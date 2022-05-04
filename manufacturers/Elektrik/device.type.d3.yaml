@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 070b9001-1f06-4e47-95f2-da931eccdba7
+  mac-addresses:
+  - 44:1A:AC:00:00:00/24
+  manufacturer: Elektrik Uretim AS EOS
+  manufacturer-uri: https://device-type.com
+  name: Elektrik
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9d2c878-db87-4170-9a0c-f69e370e135b
+  mac-addresses:
+  - 00:02:7F:00:00:00/24
+  manufacturer: ask-technologies.com
+  manufacturer-uri: https://device-type.com
+  name: ask-tech
+type: d3-device-type-assertion

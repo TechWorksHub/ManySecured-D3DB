@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0a18eed-a4e5-4ca4-8e33-19695d9d1349
+  mac-addresses:
+  - 00:80:74:00:00:00/24
+  manufacturer: Fisher Controls
+  manufacturer-uri: https://device-type.com
+  name: FisherCo
+type: d3-device-type-assertion

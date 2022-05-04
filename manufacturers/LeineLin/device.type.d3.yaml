@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c853ebd-d8c4-422e-b23c-3c768e182e50
+  mac-addresses:
+  - 00:22:45:00:00:00/24
+  manufacturer: Leine & Linde AB
+  manufacturer-uri: https://device-type.com
+  name: LeineLin
+type: d3-device-type-assertion

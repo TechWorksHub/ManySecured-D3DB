@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d8a59af-fc94-4018-a7e1-45a7d7232b5f
+  mac-addresses:
+  - 84:79:33:00:00:00/24
+  manufacturer: profichip GmbH
+  manufacturer-uri: https://device-type.com
+  name: profichi
+type: d3-device-type-assertion

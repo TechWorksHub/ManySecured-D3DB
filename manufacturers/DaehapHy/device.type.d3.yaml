@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 24075fcf-b640-48e7-9ba6-7c1235202129
+  mac-addresses:
+  - 00:26:A8:00:00:00/24
+  - 78:46:C4:00:00:00/24
+  - 78:CB:68:00:00:00/24
+  manufacturer: Daehap Hyper-Tech
+  manufacturer-uri: https://device-type.com
+  name: DaehapHy
+type: d3-device-type-assertion

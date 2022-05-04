@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8544f608-e2ab-4862-bebf-f8ab7b33cc7f
+  mac-addresses:
+  - 00:50:C2:75:50:00/36
+  - 90:C6:82:80:00:00/28
+  manufacturer: Teletek Electronics
+  manufacturer-uri: https://device-type.com
+  name: TeletekE
+type: d3-device-type-assertion

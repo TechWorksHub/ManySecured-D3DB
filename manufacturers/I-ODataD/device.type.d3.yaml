@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2c3249e5-8853-4125-8744-a2c63323ea58
+  mac-addresses:
+  - 00:A0:B0:00:00:00/24
+  - 34:76:C5:00:00:00/24
+  - 50:41:B9:00:00:00/24
+  manufacturer: I-O Data Device,Inc.
+  manufacturer-uri: https://device-type.com
+  name: I-ODataD
+type: d3-device-type-assertion

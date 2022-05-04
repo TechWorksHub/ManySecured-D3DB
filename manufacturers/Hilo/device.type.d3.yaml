@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d883f266-28b9-4de3-bef2-8c98a4186e9b
+  mac-addresses:
+  - 70:B3:D5:B8:60:00/36
+  - 98:80:BB:B0:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Hilo
+type: d3-device-type-assertion

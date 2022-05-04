@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 55a19cfd-e618-407b-9c40-77085976f14f
+  mac-addresses:
+  - 00:1D:B2:00:00:00/24
+  - 00:24:4D:00:00:00/24
+  manufacturer: Hokkaido Electric Engineering Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Hokkaido
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccbc8ec0-af5d-4589-8f13-8a56bf85c9ae
+  mac-addresses:
+  - 00:25:04:00:00:00/24
+  manufacturer: Valiant Communications Limited
+  manufacturer-uri: https://device-type.com
+  name: ValiantC
+type: d3-device-type-assertion

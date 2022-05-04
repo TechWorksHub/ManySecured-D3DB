@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de383b13-8191-44bb-afd9-68a9dd727c8f
+  mac-addresses:
+  - 00:60:F0:00:00:00/24
+  manufacturer: Johnson & Johnson Medical, Inc
+  manufacturer-uri: https://device-type.com
+  name: JohnsonJ
+type: d3-device-type-assertion

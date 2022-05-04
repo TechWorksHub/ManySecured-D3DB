@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0fcd0825-32c7-4e5e-ad37-09ce14b14d71
+  mac-addresses:
+  - 00:08:6A:00:00:00/24
+  - 00:50:C2:4C:D0:00/36
+  - 40:A3:6B:60:00:00/28
+  manufacturer: Securiton Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Securito
+type: d3-device-type-assertion

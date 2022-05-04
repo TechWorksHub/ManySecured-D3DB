@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a285768-2f25-43ea-8b82-9eea87850a04
+  mac-addresses:
+  - F8:F4:64:00:00:00/24
+  manufacturer: Rawe Electonic GmbH
+  manufacturer-uri: https://device-type.com
+  name: RaweElec
+type: d3-device-type-assertion

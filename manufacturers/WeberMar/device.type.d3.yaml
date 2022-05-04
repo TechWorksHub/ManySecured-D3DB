@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8aa504c-f6de-4e57-a2ca-0267714fee2e
+  mac-addresses:
+  - 1C:87:74:40:00:00/28
+  - 40:D8:55:14:50:00/36
+  manufacturer: Weber Marking Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: WeberMar
+type: d3-device-type-assertion

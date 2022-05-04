@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86970d22-ed3c-49ca-9762-c9d915c02252
+  mac-addresses:
+  - 00:C0:06:00:00:00/24
+  manufacturer: Nippon Avionics Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NipponAv
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59b90bc5-7e29-4196-a309-55a60fec7428
+  mac-addresses:
+  - 00:1C:61:00:00:00/24
+  manufacturer: Galaxy Microsystems LImited
+  manufacturer-uri: https://device-type.com
+  name: GalaxyMi
+type: d3-device-type-assertion

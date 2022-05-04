@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2be2154a-0587-4a98-b388-ede163ee6204
+  mac-addresses:
+  - 90:D1:1B:00:00:00/24
+  manufacturer: Palomar Medical Technologies
+  manufacturer-uri: https://device-type.com
+  name: PalomarM
+type: d3-device-type-assertion

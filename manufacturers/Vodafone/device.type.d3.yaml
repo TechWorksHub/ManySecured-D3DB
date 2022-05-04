@@ -1,0 +1,18 @@
+credentialSubject:
+  id: 71b89788-63a6-41cf-a360-90ebde7e2dfb
+  mac-addresses:
+  - 00:24:89:00:00:00/24
+  - 08:16:05:00:00:00/24
+  - 14:14:59:00:00:00/24
+  - 30:E4:8E:00:00:00/24
+  - 64:59:F8:00:00:00/24
+  - 74:36:6D:00:00:00/24
+  - 78:E2:BD:00:00:00/24
+  - 80:16:05:00:00:00/24
+  - 90:35:6E:00:00:00/24
+  - BC:15:AC:00:00:00/24
+  - E4:8F:34:00:00:00/24
+  manufacturer: Vodafone Omnitel N.V.
+  manufacturer-uri: https://device-type.com
+  name: Vodafone
+type: d3-device-type-assertion

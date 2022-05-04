@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab1dd8a4-95f0-45f2-b0ba-f83491e88ed2
+  mac-addresses:
+  - 68:CA:00:00:00:00/24
+  manufacturer: Octopus Systems Limited
+  manufacturer-uri: https://device-type.com
+  name: Octopus
+type: d3-device-type-assertion

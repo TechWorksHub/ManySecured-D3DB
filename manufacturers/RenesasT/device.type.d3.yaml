@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 46fc8e09-f104-48ff-bae3-1aab53e7bf0c
+  mac-addresses:
+  - 00:1E:01:00:00:00/24
+  - 00:30:55:00:00:00/24
+  manufacturer: Renesas Technology Sales Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: RenesasT
+type: d3-device-type-assertion

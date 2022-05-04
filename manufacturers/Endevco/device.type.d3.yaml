@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01df87cd-acbc-467d-9b74-6af6c96d07af
+  mac-addresses:
+  - 00:12:86:00:00:00/24
+  manufacturer: Endevco Corp
+  manufacturer-uri: https://device-type.com
+  name: Endevco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f99a45fc-4a6e-4c35-8a3a-15d4677cb877
+  mac-addresses:
+  - 00:06:8F:00:00:00/24
+  manufacturer: Telemonitor, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telemoni
+type: d3-device-type-assertion

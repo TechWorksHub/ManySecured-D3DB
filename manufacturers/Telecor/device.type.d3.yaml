@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b24d5c89-e5c0-4f04-8023-839e4b10cbc8
+  mac-addresses:
+  - 00:50:C2:A3:A0:00/36
+  - 28:D9:3E:00:00:00/24
+  manufacturer: Telecor Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telecor
+type: d3-device-type-assertion

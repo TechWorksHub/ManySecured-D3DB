@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1be92e00-57fe-4d32-81ca-c045b7206c4f
+  mac-addresses:
+  - 00:50:C2:51:60:00/36
+  manufacturer: Sowa Electric Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SowaElec
+type: d3-device-type-assertion

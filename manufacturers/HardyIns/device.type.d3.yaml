@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 215b957c-0f6c-4094-808d-c4c140e3b8dc
+  mac-addresses:
+  - 00:1D:41:00:00:00/24
+  manufacturer: Hardy Instruments
+  manufacturer-uri: https://device-type.com
+  name: HardyIns
+type: d3-device-type-assertion

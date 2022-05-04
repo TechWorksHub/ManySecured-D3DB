@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82ba05e1-691a-4fb8-a388-f65c0b1dfaf6
+  mac-addresses:
+  - EC:D0:0E:00:00:00/24
+  manufacturer: MiraeRecognition Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MiraeRec
+type: d3-device-type-assertion

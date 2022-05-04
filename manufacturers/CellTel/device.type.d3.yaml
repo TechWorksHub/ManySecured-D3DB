@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e2253d3-0d24-4975-a149-b7563176f29c
+  mac-addresses:
+  - 00:26:8D:00:00:00/24
+  manufacturer: CellTel S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: CellTel
+type: d3-device-type-assertion

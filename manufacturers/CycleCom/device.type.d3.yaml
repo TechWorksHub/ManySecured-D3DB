@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccc99b60-1aee-4d27-aad7-fdf1291bb44a
+  mac-addresses:
+  - 00:60:4E:00:00:00/24
+  manufacturer: Cycle Computer (Sun MotherBoard Replacements)
+  manufacturer-uri: https://device-type.com
+  name: CycleCom
+type: d3-device-type-assertion

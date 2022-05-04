@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e81f96c-3b93-4398-9508-0f64b9ab5f7c
+  mac-addresses:
+  - 00:0B:28:00:00:00/24
+  manufacturer: Quatech Inc.
+  manufacturer-uri: https://device-type.com
+  name: Quatech
+type: d3-device-type-assertion

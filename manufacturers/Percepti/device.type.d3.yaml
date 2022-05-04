@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 078b87b4-554d-4bab-8538-151d625c2ed7
+  mac-addresses:
+  - 00:11:D2:00:00:00/24
+  - 00:50:C2:10:F0:00/36
+  - 00:50:C2:E9:30:00/36
+  - 00:A0:74:00:00:00/24
+  - 70:B3:D5:88:A0:00/36
+  manufacturer: Perception Digital Ltd
+  manufacturer-uri: https://device-type.com
+  name: Percepti
+type: d3-device-type-assertion

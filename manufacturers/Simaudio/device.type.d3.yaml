@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c9f15b89-ebec-41e5-9852-8e6eb27bd9f5
+  mac-addresses:
+  - 28:B7:7C:A0:00:00/28
+  - 5A:CB:D3:00:00:00/24
+  manufacturer: Simaudio Ltd
+  manufacturer-uri: https://device-type.com
+  name: Simaudio
+type: d3-device-type-assertion

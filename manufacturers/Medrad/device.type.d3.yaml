@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4f3b2fc-0138-4555-a840-78130d7a4b5d
+  mac-addresses:
+  - 00:04:51:00:00:00/24
+  manufacturer: Medrad, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Medrad
+type: d3-device-type-assertion

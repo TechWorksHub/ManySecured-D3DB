@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 546e767d-cb1e-4523-ae9c-827cec762cc0
+  mac-addresses:
+  - 00:50:C2:30:80:00/36
+  - 3C:57:D5:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: FiveCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ee8baec-628f-458e-bf27-235b7de5500b
+  mac-addresses:
+  - 70:69:79:C0:00:00/28
+  manufacturer: Rivian Automotive LLC
+  manufacturer-uri: https://device-type.com
+  name: RivianAu
+type: d3-device-type-assertion

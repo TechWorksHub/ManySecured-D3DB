@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 788634aa-c7da-4712-9249-1818ed586286
+  mac-addresses:
+  - 00:13:2A:00:00:00/24
+  - 94:C9:B7:30:00:00/28
+  manufacturer: Sitronics Telecom Solutions
+  manufacturer-uri: https://device-type.com
+  name: Sitronic
+type: d3-device-type-assertion

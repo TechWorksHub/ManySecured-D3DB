@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 131b4e37-3f32-4b0e-92c7-f3dffcaa4fb5
+  mac-addresses:
+  - 00:24:3A:00:00:00/24
+  manufacturer: Ludl Electronic Products
+  manufacturer-uri: https://device-type.com
+  name: LudlElec
+type: d3-device-type-assertion

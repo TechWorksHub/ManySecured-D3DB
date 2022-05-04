@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3b7112b-19b9-4b54-9277-06aaebfa1b8e
+  mac-addresses:
+  - 00:0E:3E:00:00:00/24
+  manufacturer: Sun Optronics Inc
+  manufacturer-uri: https://device-type.com
+  name: SunOptro
+type: d3-device-type-assertion

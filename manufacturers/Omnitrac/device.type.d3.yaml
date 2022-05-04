@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba59bb24-ed5f-4b79-87d9-0088d6c4bcf5
+  mac-addresses:
+  - 40:A3:6B:30:00:00/28
+  manufacturer: Omnitracs, LLC
+  manufacturer-uri: https://device-type.com
+  name: Omnitrac
+type: d3-device-type-assertion

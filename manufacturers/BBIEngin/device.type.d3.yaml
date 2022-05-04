@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7e421f3b-00c7-461a-b93b-7e50b3fbe79f
+  mac-addresses:
+  - 00:50:C2:2A:C0:00/36
+  - 70:B3:D5:FA:10:00/36
+  manufacturer: BBI Engineering, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BBIEngin
+type: d3-device-type-assertion

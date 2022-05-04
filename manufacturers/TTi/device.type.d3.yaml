@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 374d9b07-693b-403e-8751-69afb97b750b
+  mac-addresses:
+  - 00:50:C2:8D:20:00/36
+  - 00:50:C2:E5:50:00/36
+  manufacturer: TTi Ltd
+  manufacturer-uri: https://device-type.com
+  name: TTi
+type: d3-device-type-assertion

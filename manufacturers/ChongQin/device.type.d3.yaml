@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 0756f7d7-1b0b-4717-9f5f-20627ea20616
+  mac-addresses:
+  - 00:1B:35:00:00:00/24
+  - 04:3D:98:00:00:00/24
+  - 40:C4:D6:00:00:00/24
+  - 70:B3:D5:48:60:00/36
+  - 90:91:64:00:00:00/24
+  - E8:DE:00:00:00:00/24
+  manufacturer: ChongQing JINOU Science & Technology Development CO.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: ChongQin
+type: d3-device-type-assertion

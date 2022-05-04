@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7df45dad-a5fa-493f-95fd-78b7f38a8b0e
+  mac-addresses:
+  - 00:0A:72:00:00:00/24
+  manufacturer: Stec, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Stec
+type: d3-device-type-assertion

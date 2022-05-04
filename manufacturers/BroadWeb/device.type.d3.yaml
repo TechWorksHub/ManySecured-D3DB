@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09b2360b-95a9-4665-bdca-7ff4f0142fc3
+  mac-addresses:
+  - 00:0A:9E:00:00:00/24
+  manufacturer: BroadWeb Corportation
+  manufacturer-uri: https://device-type.com
+  name: BroadWeb
+type: d3-device-type-assertion

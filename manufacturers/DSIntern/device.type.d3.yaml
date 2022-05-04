@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1d002e0-f719-4892-bbc5-49608ac9c07f
+  mac-addresses:
+  - D0:BD:01:00:00:00/24
+  manufacturer: DS International
+  manufacturer-uri: https://device-type.com
+  name: DSIntern
+type: d3-device-type-assertion

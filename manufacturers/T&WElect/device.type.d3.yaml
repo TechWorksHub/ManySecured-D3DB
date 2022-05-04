@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8567e251-b67e-4eb7-8bfd-bcdbc42454a5
+  mac-addresses:
+  - 00:1E:E3:00:00:00/24
+  - 00:1F:A3:00:00:00/24
+  - D0:0F:6D:00:00:00/24
+  manufacturer: T&W Electronics (ShenZhen) Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: T&WElect
+type: d3-device-type-assertion

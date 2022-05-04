@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b3a1665-2729-4a28-8dc8-5adbda49add2
+  mac-addresses:
+  - 00:15:EE:00:00:00/24
+  manufacturer: Omnex Control Systems
+  manufacturer-uri: https://device-type.com
+  name: OmnexCon
+type: d3-device-type-assertion

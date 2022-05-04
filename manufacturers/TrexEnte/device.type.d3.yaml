@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc7fb84e-b4cf-4e9f-ad81-2b8d42f1e58d
+  mac-addresses:
+  - 00:01:AE:00:00:00/24
+  manufacturer: Trex Enterprises
+  manufacturer-uri: https://device-type.com
+  name: TrexEnte
+type: d3-device-type-assertion

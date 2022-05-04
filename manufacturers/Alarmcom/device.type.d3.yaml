@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dbf036ae-e261-41e1-8024-144bacbcd283
+  mac-addresses:
+  - 00:1C:FA:00:00:00/24
+  - B8:3A:9D:00:00:00/24
+  manufacturer: Alarm.com
+  manufacturer-uri: https://device-type.com
+  name: Alarmcom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e9e8f2f-a6f5-4cea-bd61-c8ee0da4b35d
+  mac-addresses:
+  - 00:B0:F0:00:00:00/24
+  manufacturer: Caly Networks
+  manufacturer-uri: https://device-type.com
+  name: CalyNetw
+type: d3-device-type-assertion

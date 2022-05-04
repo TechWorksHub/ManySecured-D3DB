@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7d5d3fa-d3e7-4626-bf1b-01a64174bb0c
+  mac-addresses:
+  - 4A:7F:74:00:00:00/24
+  manufacturer: INTEC Inc.
+  manufacturer-uri: https://device-type.com
+  name: INTEC
+type: d3-device-type-assertion

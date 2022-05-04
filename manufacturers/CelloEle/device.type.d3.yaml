@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 540607fc-085b-460f-8f73-4e42083d25fa
+  mac-addresses:
+  - 48:CB:6E:00:00:00/24
+  - 70:B3:D5:29:50:00/36
+  manufacturer: Cello Electronics (UK) Ltd
+  manufacturer-uri: https://device-type.com
+  name: CelloEle
+type: d3-device-type-assertion

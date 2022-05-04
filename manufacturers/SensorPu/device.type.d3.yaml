@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f97185e1-49dd-4841-a235-27cec5b1608d
+  mac-addresses:
+  - 20:C7:4F:00:00:00/24
+  manufacturer: SensorPush
+  manufacturer-uri: https://device-type.com
+  name: SensorPu
+type: d3-device-type-assertion

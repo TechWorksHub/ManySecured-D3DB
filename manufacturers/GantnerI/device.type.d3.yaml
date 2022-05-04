@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5727cba-2e83-4bf0-b5a1-362493d2919a
+  mac-addresses:
+  - 00:12:08:00:00:00/24
+  manufacturer: Gantner Instruments GmbH
+  manufacturer-uri: https://device-type.com
+  name: GantnerI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7eea04cd-59af-4576-887d-df076fcab300
+  mac-addresses:
+  - 00:0C:70:00:00:00/24
+  manufacturer: ACC GmbH
+  manufacturer-uri: https://device-type.com
+  name: ACC
+type: d3-device-type-assertion

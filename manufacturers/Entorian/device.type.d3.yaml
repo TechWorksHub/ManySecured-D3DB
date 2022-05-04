@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cbca7eca-f9ed-4435-a3c4-fe35999825a1
+  mac-addresses:
+  - 00:22:53:00:00:00/24
+  manufacturer: Entorian Technologies
+  manufacturer-uri: https://device-type.com
+  name: Entorian
+type: d3-device-type-assertion

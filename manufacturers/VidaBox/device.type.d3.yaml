@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02ef5e66-2efb-4d02-9dbc-ed2c04ad77b7
+  mac-addresses:
+  - EC:21:9F:00:00:00/24
+  manufacturer: VidaBox LLC
+  manufacturer-uri: https://device-type.com
+  name: VidaBox
+type: d3-device-type-assertion

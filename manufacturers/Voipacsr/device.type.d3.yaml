@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bc8bec9-53de-4470-a09e-6fab2349b800
+  mac-addresses:
+  - 00:0D:15:00:00:00/24
+  manufacturer: Voipac s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: Voipacsr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9e8679d-2e1d-4daa-a0ec-3bc108c0c366
+  mac-addresses:
+  - 00:12:8D:00:00:00/24
+  manufacturer: STB Datenservice GmbH
+  manufacturer-uri: https://device-type.com
+  name: STBDaten
+type: d3-device-type-assertion

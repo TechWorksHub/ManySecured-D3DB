@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6005f5a-15b1-47e7-bff0-746c37c42015
+  mac-addresses:
+  - 00:10:B1:00:00:00/24
+  manufacturer: For-A Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: For-A
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a62b10fc-e0f4-445c-86e4-b6feca7996d5
+  mac-addresses:
+  - 00:50:C2:A1:E0:00/36
+  - 70:B3:D5:BA:20:00/36
+  manufacturer: MAMAC Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MAMAC
+type: d3-device-type-assertion

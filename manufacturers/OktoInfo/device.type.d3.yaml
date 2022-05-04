@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2b7723f-1de5-4225-80f7-a2233c5a9511
+  mac-addresses:
+  - 50:43:B9:00:00:00/24
+  manufacturer: OktoInform RUS
+  manufacturer-uri: https://device-type.com
+  name: OktoInfo
+type: d3-device-type-assertion

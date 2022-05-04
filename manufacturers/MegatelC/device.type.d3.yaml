@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c66d528-d55a-41b9-8230-c34be2aad85c
+  mac-addresses:
+  - 00:0C:56:00:00:00/24
+  manufacturer: Megatel Computer (1986) Corp.
+  manufacturer-uri: https://device-type.com
+  name: MegatelC
+type: d3-device-type-assertion

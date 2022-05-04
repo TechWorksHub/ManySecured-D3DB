@@ -1,0 +1,8 @@
+credentialSubject:
+  id: edf1472c-e0c4-480b-baa6-e25d5aaf0e1c
+  mac-addresses:
+  - 00:1F:84:00:00:00/24
+  manufacturer: Gigle Semiconductor
+  manufacturer-uri: https://device-type.com
+  name: GigleSem
+type: d3-device-type-assertion

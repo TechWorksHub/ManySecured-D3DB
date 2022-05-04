@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1e9802ae-f90f-4314-967d-d8dcbf39ca64
+  mac-addresses:
+  - 00:50:C2:D7:E0:00/36
+  - 70:B3:D5:5D:80:00/36
+  manufacturer: LYNX Technik AG
+  manufacturer-uri: https://device-type.com
+  name: LYNXTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ac637f7-7ede-40fe-a626-14645219f758
+  mac-addresses:
+  - 00:40:AD:00:00:00/24
+  manufacturer: Sma Regelsysteme Gmbh
+  manufacturer-uri: https://device-type.com
+  name: SmaRegel
+type: d3-device-type-assertion

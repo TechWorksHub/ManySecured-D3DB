@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60ed12c0-29bf-4f64-8b20-08d04916b09e
+  mac-addresses:
+  - 00:1A:2C:00:00:00/24
+  manufacturer: SATEC Co.,LTD
+  manufacturer-uri: https://device-type.com
+  name: SATEC
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2d18b274-5e26-4193-8e1f-ec545ecabb60
+  mac-addresses:
+  - 00:0B:A1:00:00:00/24
+  - 00:40:41:00:00:00/24
+  - 10:A1:3B:00:00:00/24
+  manufacturer: Fujikura Solutions Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Fujikura
+type: d3-device-type-assertion

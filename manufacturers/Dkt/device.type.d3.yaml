@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b02c5602-9722-43ae-b99b-a2d27fa09600
+  mac-addresses:
+  - 00:19:9F:00:00:00/24
+  manufacturer: Dkt A/S
+  manufacturer-uri: https://device-type.com
+  name: Dkt
+type: d3-device-type-assertion

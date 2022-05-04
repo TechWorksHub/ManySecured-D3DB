@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6197bdb2-32bd-4ceb-811b-024d77e18835
+  mac-addresses:
+  - 00:50:C2:3E:70:00/36
+  - 58:98:6F:00:00:00/24
+  - 70:B3:D5:B5:30:00/36
+  - 70:B3:D5:F5:40:00/36
+  manufacturer: Revolution Education Ltd
+  manufacturer-uri: https://device-type.com
+  name: Revoluti
+type: d3-device-type-assertion

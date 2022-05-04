@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a57bf139-e589-4e41-82cc-0704bde487ea
+  mac-addresses:
+  - 00:50:C2:FB:10:00/36
+  - 70:B3:D5:37:20:00/36
+  - 8C:1F:64:90:90:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Matelex
+type: d3-device-type-assertion

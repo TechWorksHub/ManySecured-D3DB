@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00dd77c8-62d5-43b1-b887-f42ccc3caf15
+  mac-addresses:
+  - 80:02:DF:00:00:00/24
+  manufacturer: ORA Inc.
+  manufacturer-uri: https://device-type.com
+  name: ORA
+type: d3-device-type-assertion

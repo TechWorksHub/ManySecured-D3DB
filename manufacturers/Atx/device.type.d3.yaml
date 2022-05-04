@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c8254b18-b968-4241-9cc5-89689e63fd6d
+  mac-addresses:
+  - 00:13:CA:00:00:00/24
+  - 74:F8:DB:30:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Atx
+type: d3-device-type-assertion

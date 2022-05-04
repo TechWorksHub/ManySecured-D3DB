@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 98b266df-f46e-4db4-900d-89f60f5e409d
+  mac-addresses:
+  - 28:FE:CD:00:00:00/24
+  - B4:EF:FA:00:00:00/24
+  - C8:25:E1:00:00:00/24
+  manufacturer: Lemobile Information Technology (Beijing) Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Lemobile
+type: d3-device-type-assertion

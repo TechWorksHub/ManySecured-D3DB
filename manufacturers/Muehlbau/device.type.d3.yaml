@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0d85be4-b92f-45ce-8424-e0753050d443
+  mac-addresses:
+  - C8:D4:29:00:00:00/24
+  manufacturer: Muehlbauer AG
+  manufacturer-uri: https://device-type.com
+  name: Muehlbau
+type: d3-device-type-assertion

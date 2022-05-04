@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f02c11f7-d6f8-4da6-94cd-4a6d72b2c4fa
+  mac-addresses:
+  - 00:C0:ED:00:00:00/24
+  manufacturer: US Army Electronic Proving Ground
+  manufacturer-uri: https://device-type.com
+  name: UsArmyEl
+type: d3-device-type-assertion

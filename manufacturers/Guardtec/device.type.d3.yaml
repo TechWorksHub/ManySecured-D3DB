@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ad5f8990-4f64-46de-8eb9-97453349bb97
+  mac-addresses:
+  - 00:50:C2:D0:90:00/36
+  - 8C:C8:F4:00:00:00/28
+  manufacturer: Guardtec,Inc
+  manufacturer-uri: https://device-type.com
+  name: Guardtec
+type: d3-device-type-assertion

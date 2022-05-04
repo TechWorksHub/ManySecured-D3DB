@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1e101425-01fd-49e3-bd4b-69310f3c65ca
+  mac-addresses:
+  - 00:19:82:00:00:00/24
+  - B0:18:86:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: SmarDTV
+type: d3-device-type-assertion

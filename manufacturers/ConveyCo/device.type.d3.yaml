@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 112eaaa5-3c63-4579-b482-553af50e93b5
+  mac-addresses:
+  - 00:24:E1:00:00:00/24
+  manufacturer: Convey Computer Corp.
+  manufacturer-uri: https://device-type.com
+  name: ConveyCo
+type: d3-device-type-assertion

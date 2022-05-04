@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ea7f5602-8d25-4c52-95f5-acadd2e9c75b
+  mac-addresses:
+  - 00:18:0B:00:00:00/24
+  - 54:D9:E4:00:00:00/24
+  - 7C:10:15:00:00:00/24
+  manufacturer: Brilliant Telecommunications
+  manufacturer-uri: https://device-type.com
+  name: Brillian
+type: d3-device-type-assertion

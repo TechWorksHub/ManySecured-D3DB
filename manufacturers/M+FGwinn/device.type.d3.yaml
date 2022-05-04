@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1346388-a777-4c41-b00e-a3ae3129525e
+  mac-addresses:
+  - 00:0A:98:00:00:00/24
+  manufacturer: M+F Gwinner GmbH & Co
+  manufacturer-uri: https://device-type.com
+  name: M+FGwinn
+type: d3-device-type-assertion

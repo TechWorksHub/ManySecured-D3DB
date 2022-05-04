@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bad82ea-8088-4d67-8810-d7002b353751
+  mac-addresses:
+  - C4:80:8A:00:00:00/24
+  manufacturer: Cloud Diagnostics Canada ULC
+  manufacturer-uri: https://device-type.com
+  name: CloudDia
+type: d3-device-type-assertion

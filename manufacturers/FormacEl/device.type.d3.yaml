@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77c6d6d3-17a9-4c52-9e0b-be85bffdfcfd
+  mac-addresses:
+  - 00:07:21:00:00:00/24
+  manufacturer: Formac Elektronik GmbH
+  manufacturer-uri: https://device-type.com
+  name: FormacEl
+type: d3-device-type-assertion

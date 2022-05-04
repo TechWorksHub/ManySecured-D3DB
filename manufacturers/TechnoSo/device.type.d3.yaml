@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 23466936-1e8c-4b0f-bf90-11ab03b65519
+  mac-addresses:
+  - 00:12:1A:00:00:00/24
+  - 00:50:C2:A8:30:00/36
+  manufacturer: Techno Soft Systemnics Inc.
+  manufacturer-uri: https://device-type.com
+  name: TechnoSo
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 7032ebb8-a6db-4769-9b2d-3a3fdf98782f
+  mac-addresses:
+  - 00:10:C1:00:00:00/24
+  - 50:9F:3B:00:00:00/24
+  - 88:35:C1:00:00:00/24
+  - D8:4A:87:00:00:00/24
+  manufacturer: Oi Electric Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: OiElectr
+type: d3-device-type-assertion

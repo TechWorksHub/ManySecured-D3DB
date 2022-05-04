@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c2c4a464-393a-4ece-8d52-b66e06795ae3
+  mac-addresses:
+  - 00:1F:E7:00:00:00/24
+  - 00:50:C2:23:20:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Simet
+type: d3-device-type-assertion

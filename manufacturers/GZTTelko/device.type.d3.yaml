@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c8daa22-99a6-4704-8e86-d6d6c64b1553
+  mac-addresses:
+  - 00:25:0D:00:00:00/24
+  manufacturer: GZT Telkom-Telmor sp. z o.o.
+  manufacturer-uri: https://device-type.com
+  name: GZTTelko
+type: d3-device-type-assertion

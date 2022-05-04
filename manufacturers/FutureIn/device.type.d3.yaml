@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 22a3ee35-2629-436d-97ad-427462c57e69
+  mac-addresses:
+  - 00:09:31:00:00:00/24
+  - 00:23:07:00:00:00/24
+  manufacturer: Future Internet, Inc.
+  manufacturer-uri: https://device-type.com
+  name: FutureIn
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 62e3350e-1f81-4780-9499-ebd9180e0e53
+  mac-addresses:
+  - 40:40:6B:00:00:00/24
+  - 40:40:6C:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Icomera
+type: d3-device-type-assertion

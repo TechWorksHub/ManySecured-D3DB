@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73c2bf01-1590-44ab-813a-bf39fc1115c3
+  mac-addresses:
+  - 00:12:0F:00:00:00/24
+  manufacturer: Ieee 802.3
+  manufacturer-uri: https://device-type.com
+  name: Ieee8023
+type: d3-device-type-assertion

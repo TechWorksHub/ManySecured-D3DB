@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb1bf7ec-6232-4efe-b1f0-91df13a04260
+  mac-addresses:
+  - 54:6A:D8:00:00:00/24
+  manufacturer: Elster Water Metering
+  manufacturer-uri: https://device-type.com
+  name: ElsterWa
+type: d3-device-type-assertion

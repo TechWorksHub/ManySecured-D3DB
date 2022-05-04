@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 3b79dd5b-b875-47bc-b86e-f194b7e22d46
+  mac-addresses:
+  - 00:00:CD:00:00:00/24
+  - 00:00:F4:00:00:00/24
+  - 00:09:41:00:00:00/24
+  - 00:0C:25:00:00:00/24
+  - 00:0C:46:00:00:00/24
+  - 00:0D:DA:00:00:00/24
+  - 00:11:30:00:00:00/24
+  - 00:15:77:00:00:00/24
+  - 00:1A:EB:00:00:00/24
+  - 00:30:84:00:00:00/24
+  - 00:50:C2:27:D0:00/36
+  - 00:90:99:00:00:00/24
+  - 00:A0:D2:00:00:00/24
+  - E0:1A:EA:00:00:00/24
+  - EC:CD:6D:00:00:00/24
+  manufacturer: Allied Telesis Labs Ltd
+  manufacturer-uri: https://device-type.com
+  name: AlliedTe
+type: d3-device-type-assertion

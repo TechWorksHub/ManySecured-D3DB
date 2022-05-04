@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 16ce6b39-ecaf-4ceb-a929-dd49e97e40a6
+  mac-addresses:
+  - 64:6E:6C:00:00:00/24
+  - BC:7D:D1:00:00:00/24
+  manufacturer: Radio Datacom LLC
+  manufacturer-uri: https://device-type.com
+  name: RadioDat
+type: d3-device-type-assertion

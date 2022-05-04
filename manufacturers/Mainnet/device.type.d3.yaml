@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60a83ed0-9068-4ab3-90ca-dad0959ed35b
+  mac-addresses:
+  - 00:03:6A:00:00:00/24
+  manufacturer: Mainnet, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Mainnet
+type: d3-device-type-assertion

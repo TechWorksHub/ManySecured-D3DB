@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 15b17ed3-cc9b-4950-b781-a8b1e54606fb
+  mac-addresses:
+  - 00:30:E0:00:00:00/24
+  manufacturer: Oxford Semiconductor Ltd.
+  manufacturer-uri: https://device-type.com
+  name: OxfordSe
+type: d3-device-type-assertion

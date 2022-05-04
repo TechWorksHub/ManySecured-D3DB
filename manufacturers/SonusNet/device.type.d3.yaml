@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bfdfecb-7f8d-403d-82a1-7c68e71201c8
+  mac-addresses:
+  - 00:10:6B:00:00:00/24
+  manufacturer: Sonus Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SonusNet
+type: d3-device-type-assertion

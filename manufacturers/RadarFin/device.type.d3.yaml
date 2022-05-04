@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ef72341-0afe-4524-a75b-66957ac1ef01
+  mac-addresses:
+  - 00:19:A5:00:00:00/24
+  manufacturer: RadarFind Corporation
+  manufacturer-uri: https://device-type.com
+  name: RadarFin
+type: d3-device-type-assertion

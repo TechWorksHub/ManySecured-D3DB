@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30540601-0eeb-4a50-9ffe-9c37e63507a6
+  mac-addresses:
+  - 00:09:30:00:00:00/24
+  manufacturer: AeroConcierge Inc.
+  manufacturer-uri: https://device-type.com
+  name: AeroConc
+type: d3-device-type-assertion

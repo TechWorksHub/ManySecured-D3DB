@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e480300-b3e9-47fc-a53e-361520288e49
+  mac-addresses:
+  - 70:B3:D5:37:80:00/36
+  manufacturer: synchrotron SOLEIL
+  manufacturer-uri: https://device-type.com
+  name: synchrot
+type: d3-device-type-assertion

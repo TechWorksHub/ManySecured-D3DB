@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8f9e10f1-7c61-4302-81a6-3884e9318a9c
+  mac-addresses:
+  - 00:50:C2:C4:A0:00/36
+  - 04:11:19:70:00:00/28
+  - 70:B3:D5:3F:90:00/36
+  manufacturer: Herrick Technology Laboratories, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HerrickT
+type: d3-device-type-assertion

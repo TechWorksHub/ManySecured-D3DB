@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c2d034f-0c8c-42a6-b4e3-5a048d9d8fc3
+  mac-addresses:
+  - 00:05:B7:00:00:00/24
+  manufacturer: Arbor Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: ArborTec
+type: d3-device-type-assertion

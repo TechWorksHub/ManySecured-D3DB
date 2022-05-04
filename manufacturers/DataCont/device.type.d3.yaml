@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7ea5ef79-e12a-4a34-87ad-ee29fa65bdf4
+  mac-addresses:
+  - 00:90:2C:00:00:00/24
+  - 68:F1:25:00:00:00/24
+  manufacturer: Data & Control Equipment Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DataCont
+type: d3-device-type-assertion

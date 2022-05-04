@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab65748c-e340-4556-b9e0-9f57f463545d
+  mac-addresses:
+  - 00:0B:B5:00:00:00/24
+  manufacturer: nStor Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: nStorTec
+type: d3-device-type-assertion

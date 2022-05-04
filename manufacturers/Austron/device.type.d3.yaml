@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01fed279-46c3-4db3-b46f-593b91830ff3
+  mac-addresses:
+  - 00:A0:6E:00:00:00/24
+  manufacturer: Austron, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Austron
+type: d3-device-type-assertion

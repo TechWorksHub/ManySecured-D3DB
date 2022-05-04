@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef929800-df18-4d30-a88d-84d1bb02a389
+  mac-addresses:
+  - 00:0E:BE:00:00:00/24
+  manufacturer: B&B Electronics Manufacturing Co.
+  manufacturer-uri: https://device-type.com
+  name: B&BElect
+type: d3-device-type-assertion

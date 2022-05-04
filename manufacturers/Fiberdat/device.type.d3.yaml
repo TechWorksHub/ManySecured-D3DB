@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ef188bd-3c3d-4688-8961-f3b2d6a2cb18
+  mac-addresses:
+  - 00:C0:E7:00:00:00/24
+  manufacturer: Fiberdata Ab
+  manufacturer-uri: https://device-type.com
+  name: Fiberdat
+type: d3-device-type-assertion

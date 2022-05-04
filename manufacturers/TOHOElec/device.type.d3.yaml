@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a6bb5386-944e-4504-9e46-4bcc515c96b5
+  mac-addresses:
+  - D4:1E:35:00:00:00/24
+  - F0:B0:22:00:00:00/24
+  manufacturer: TOHO Electronics INC.
+  manufacturer-uri: https://device-type.com
+  name: TOHOElec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e5853ce-c25f-479d-8f39-dba8f84eff13
+  mac-addresses:
+  - 00:21:CE:00:00:00/24
+  manufacturer: NTC-Metrotek
+  manufacturer-uri: https://device-type.com
+  name: NTC-Metr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 871a3357-6279-4a36-97c3-2010c952bd83
+  mac-addresses:
+  - 00:E0:B2:00:00:00/24
+  manufacturer: Telmax Communications Corp.
+  manufacturer-uri: https://device-type.com
+  name: TelmaxCo
+type: d3-device-type-assertion

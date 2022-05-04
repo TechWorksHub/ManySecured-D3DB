@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 95df8379-2c31-4304-aded-d1223f191d63
+  mac-addresses:
+  - 20:2D:23:00:00:00/24
+  - 7C:BA:CC:80:00:00/28
+  manufacturer: Collinear Networks Inc.
+  manufacturer-uri: https://device-type.com
+  name: Collinea
+type: d3-device-type-assertion

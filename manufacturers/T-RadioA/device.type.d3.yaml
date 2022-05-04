@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92ada9d0-69f7-4eb4-9cee-21e5fbb297df
+  mac-addresses:
+  - 28:FD:80:E0:00:00/28
+  manufacturer: T-Radio AS
+  manufacturer-uri: https://device-type.com
+  name: T-RadioA
+type: d3-device-type-assertion

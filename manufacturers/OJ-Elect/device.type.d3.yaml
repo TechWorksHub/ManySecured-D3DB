@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12f917ea-21e0-41fb-8dc3-ed83f6aa8c42
+  mac-addresses:
+  - 00:23:38:00:00:00/24
+  manufacturer: OJ-Electronics A/S
+  manufacturer-uri: https://device-type.com
+  name: OJ-Elect
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9c1d2d9-6ddb-44c5-acdc-d0449c2859c8
+  mac-addresses:
+  - 00:1E:F0:00:00:00/24
+  manufacturer: Gigafin Networks
+  manufacturer-uri: https://device-type.com
+  name: GigafinN
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df12e617-0144-4422-ae2a-27d76b97f842
+  mac-addresses:
+  - 00:0B:98:00:00:00/24
+  manufacturer: NiceTechVision
+  manufacturer-uri: https://device-type.com
+  name: NiceTech
+type: d3-device-type-assertion

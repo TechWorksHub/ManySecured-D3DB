@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 156cfc0c-ae16-4ac3-aced-19e5b954ca43
+  mac-addresses:
+  - 00:08:9B:00:00:00/24
+  manufacturer: ICP Electronics Inc.
+  manufacturer-uri: https://device-type.com
+  name: ICPElect
+type: d3-device-type-assertion

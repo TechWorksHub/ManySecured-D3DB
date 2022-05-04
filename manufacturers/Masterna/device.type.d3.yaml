@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23dc5ce1-c46d-44c1-af48-bfcb29f6e0b8
+  mac-addresses:
+  - 00:23:F4:00:00:00/24
+  manufacturer: Masternaut
+  manufacturer-uri: https://device-type.com
+  name: Masterna
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dc0c96f-5d3e-4b0a-9756-dca1bd41d588
+  mac-addresses:
+  - 00:1F:23:00:00:00/24
+  manufacturer: Interacoustics
+  manufacturer-uri: https://device-type.com
+  name: Interaco
+type: d3-device-type-assertion

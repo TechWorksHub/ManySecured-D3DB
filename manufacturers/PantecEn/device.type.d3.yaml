@@ -1,0 +1,10 @@
+credentialSubject:
+  id: efa53729-2b7c-486c-8502-142000a67d4b
+  mac-addresses:
+  - 00:50:C2:18:60:00/36
+  - 00:50:C2:E5:F0:00/36
+  - 70:B3:D5:BE:50:00/36
+  manufacturer: Pantec Engineering AG
+  manufacturer-uri: https://device-type.com
+  name: PantecEn
+type: d3-device-type-assertion

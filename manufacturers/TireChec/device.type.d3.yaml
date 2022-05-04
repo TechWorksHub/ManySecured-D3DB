@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b3484e9-cfd4-439d-8cf0-e6bfde1055d9
+  mac-addresses:
+  - FC:AF:BE:00:00:00/24
+  manufacturer: TireCheck GmbH
+  manufacturer-uri: https://device-type.com
+  name: TireChec
+type: d3-device-type-assertion

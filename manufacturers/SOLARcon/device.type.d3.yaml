@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a39b132-8fc2-4c0c-b5bc-6c7733e49e4b
+  mac-addresses:
+  - E8:E9:8E:00:00:00/24
+  manufacturer: SOLAR controls s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: SOLARcon
+type: d3-device-type-assertion

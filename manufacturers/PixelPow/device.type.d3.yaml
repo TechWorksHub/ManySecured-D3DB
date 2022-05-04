@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c172699-54f0-4480-94b7-d3f581466e74
+  mac-addresses:
+  - 00:20:03:00:00:00/24
+  manufacturer: Pixel Power Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PixelPow
+type: d3-device-type-assertion

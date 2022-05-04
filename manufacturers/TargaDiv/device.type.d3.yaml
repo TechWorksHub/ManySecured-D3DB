@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32dc48ea-6e8c-4514-a873-44a80e3bdef1
+  mac-addresses:
+  - 00:11:1B:00:00:00/24
+  manufacturer: Targa Systems Div L-3 Communications
+  manufacturer-uri: https://device-type.com
+  name: TargaDiv
+type: d3-device-type-assertion

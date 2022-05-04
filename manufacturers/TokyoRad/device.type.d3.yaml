@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67a8a02d-69da-44dd-b8fb-d38c2f51b882
+  mac-addresses:
+  - 80:94:6C:00:00:00/24
+  manufacturer: Tokyo Radar Corporation
+  manufacturer-uri: https://device-type.com
+  name: TokyoRad
+type: d3-device-type-assertion

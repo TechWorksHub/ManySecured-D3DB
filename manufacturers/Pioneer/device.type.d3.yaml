@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e3f40d53-fbbc-4fa2-a16b-c156e94ab254
+  mac-addresses:
+  - 00:E0:36:00:00:00/24
+  - 74:5E:1C:00:00:00/24
+  - 94:B2:CC:00:00:00/24
+  manufacturer: Pioneer Corporation
+  manufacturer-uri: https://device-type.com
+  name: Pioneer
+type: d3-device-type-assertion

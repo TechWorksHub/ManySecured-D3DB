@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63fd98f2-71c7-48a6-8cbf-8a6d11c3f6d3
+  mac-addresses:
+  - 00:20:CB:00:00:00/24
+  manufacturer: Pretec Electronics Corp.
+  manufacturer-uri: https://device-type.com
+  name: PretecEl
+type: d3-device-type-assertion

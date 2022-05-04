@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ae6c848-a466-4f0f-8946-aa6afcd653b8
+  mac-addresses:
+  - 94:16:73:00:00:00/24
+  manufacturer: Point Core SARL
+  manufacturer-uri: https://device-type.com
+  name: PointCor
+type: d3-device-type-assertion

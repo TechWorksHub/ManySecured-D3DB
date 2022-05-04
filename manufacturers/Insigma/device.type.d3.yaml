@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 06c1c963-b920-4c8f-ac58-9af343f5afe8
+  mac-addresses:
+  - 1C:CA:E3:20:00:00/28
+  - 48:E6:95:00:00:00/24
+  manufacturer: Insigma Inc
+  manufacturer-uri: https://device-type.com
+  name: Insigma
+type: d3-device-type-assertion

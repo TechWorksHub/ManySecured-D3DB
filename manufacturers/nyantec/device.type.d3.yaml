@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0661453c-b11f-4854-b23f-a6c4fcc90234
+  mac-addresses:
+  - 14:5B:E1:00:00:00/24
+  - 5A:E6:60:00:00:00/24
+  - 70:B3:D5:C6:F0:00/36
+  manufacturer: nyantec GmbH
+  manufacturer-uri: https://device-type.com
+  name: nyantec
+type: d3-device-type-assertion

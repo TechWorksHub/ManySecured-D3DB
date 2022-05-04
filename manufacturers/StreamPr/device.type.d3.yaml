@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d28c603-5782-480b-946a-a01182c24c19
+  mac-addresses:
+  - 00:50:C2:6C:B0:00/36
+  manufacturer: Stream Processors
+  manufacturer-uri: https://device-type.com
+  name: StreamPr
+type: d3-device-type-assertion

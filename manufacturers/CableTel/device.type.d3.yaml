@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a68a3a6-5436-4768-987e-a3d3c5d1c6ff
+  mac-addresses:
+  - 00:10:00:00:00:00/24
+  manufacturer: Cable Television Laboratories, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CableTel
+type: d3-device-type-assertion

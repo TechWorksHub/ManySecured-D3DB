@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 786e512c-e55c-46eb-94c2-08087a1cd4b2
+  mac-addresses:
+  - 00:01:D2:00:00:00/24
+  manufacturer: inXtron, Inc.
+  manufacturer-uri: https://device-type.com
+  name: inXtron
+type: d3-device-type-assertion

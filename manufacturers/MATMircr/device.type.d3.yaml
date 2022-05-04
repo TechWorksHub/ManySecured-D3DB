@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5009119-43fc-432b-9600-93aba5e43f9f
+  mac-addresses:
+  - 00:0E:6E:00:00:00/24
+  manufacturer: MAT S.A. (Mircrelec Advanced Technology)
+  manufacturer-uri: https://device-type.com
+  name: MATMircr
+type: d3-device-type-assertion

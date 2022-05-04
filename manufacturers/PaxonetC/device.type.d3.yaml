@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f07b1a15-e25c-4283-ac36-e77af88b188c
+  mac-addresses:
+  - 00:04:EB:00:00:00/24
+  manufacturer: Paxonet Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PaxonetC
+type: d3-device-type-assertion

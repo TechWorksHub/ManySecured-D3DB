@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c66fba3a-16c7-401c-818c-8b85e3fdd75f
+  mac-addresses:
+  - 00:0C:7E:00:00:00/24
+  manufacturer: Tellium Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Tellium
+type: d3-device-type-assertion

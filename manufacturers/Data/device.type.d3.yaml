@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e28c8baf-0f04-4c76-8f5b-f5d8965bf4bd
+  mac-addresses:
+  - 00:12:28:00:00:00/24
+  manufacturer: Data Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Data
+type: d3-device-type-assertion

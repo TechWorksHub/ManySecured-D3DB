@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a56322d-18e5-4400-8dbf-f19ee65bfba8
+  mac-addresses:
+  - 00:10:FD:00:00:00/24
+  manufacturer: Cocom A/S
+  manufacturer-uri: https://device-type.com
+  name: Cocom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10ee0b27-a86b-44ca-9d65-92274a2ae234
+  mac-addresses:
+  - 50:AB:3E:00:00:00/24
+  manufacturer: Qibixx AG
+  manufacturer-uri: https://device-type.com
+  name: Qibixx
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd013817-c595-4c2c-bcdc-2ef4b5fa5995
+  mac-addresses:
+  - 28:9E:DF:00:00:00/24
+  manufacturer: Danfoss Turbocor Compressors, Inc
+  manufacturer-uri: https://device-type.com
+  name: DanfossT
+type: d3-device-type-assertion

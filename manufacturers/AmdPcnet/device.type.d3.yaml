@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 740af653-a81a-45b5-9251-0798288dfad6
+  mac-addresses:
+  - 00:60:94:00:00:00/24
+  - 00:E0:B8:00:00:00/24
+  manufacturer: AMD PCNET PCI
+  manufacturer-uri: https://device-type.com
+  name: AmdPcnet
+type: d3-device-type-assertion

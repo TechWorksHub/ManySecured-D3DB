@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 21a6832a-e9cb-45da-a6df-9ffe8c74ccc8
+  mac-addresses:
+  - 0C:86:29:90:00:00/28
+  - 28:31:7E:00:00:00/24
+  - 30:89:D3:00:00:00/24
+  - 54:03:84:00:00:00/24
+  - 5C:BD:9E:00:00:00/24
+  - 78:D3:8D:00:00:00/24
+  - BC:B3:08:00:00:00/24
+  manufacturer: Hongkong Saint Tech Industrial Limited
+  manufacturer-uri: https://device-type.com
+  name: Hongkong
+type: d3-device-type-assertion

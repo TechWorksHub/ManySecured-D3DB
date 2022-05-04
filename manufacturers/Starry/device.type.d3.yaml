@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e25d4557-9aed-45a6-a6a9-e11b1718086a
+  mac-addresses:
+  - 8C:A2:FD:00:00:00/24
+  manufacturer: Starry, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Starry
+type: d3-device-type-assertion

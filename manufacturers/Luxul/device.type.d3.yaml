@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 143f4747-acd3-4910-bc1a-90bb3df4a7bb
+  mac-addresses:
+  - A4:13:4E:00:00:00/24
+  - C4:91:CF:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Luxul
+type: d3-device-type-assertion

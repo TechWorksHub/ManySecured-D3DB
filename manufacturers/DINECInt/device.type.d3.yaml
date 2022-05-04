@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1b0c0178-ab83-4585-9b18-02efec6cd887
+  mac-addresses:
+  - 00:1D:EB:00:00:00/24
+  - 00:50:C2:1B:C0:00/36
+  manufacturer: DINEC International
+  manufacturer-uri: https://device-type.com
+  name: DINECInt
+type: d3-device-type-assertion

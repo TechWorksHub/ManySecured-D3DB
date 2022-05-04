@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7204cdee-deb9-4e76-aa4a-6b42621b63ea
+  mac-addresses:
+  - 40:D8:55:05:00:00/36
+  - 64:31:39:E0:00:00/28
+  - 70:B3:D5:E9:C0:00/36
+  manufacturer: ATG UV Technology
+  manufacturer-uri: https://device-type.com
+  name: ATGUVTec
+type: d3-device-type-assertion

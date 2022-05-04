@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6df76fe8-3463-42a5-8e66-78a813972215
+  mac-addresses:
+  - 00:50:C2:32:20:00/36
+  - 54:A3:FA:00:00:00/24
+  manufacturer: BQT Solutions (Australia) Limited
+  manufacturer-uri: https://device-type.com
+  name: BQTSolut
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be022796-21a5-4423-b032-ae334c8c5611
+  mac-addresses:
+  - 00:0A:B1:00:00:00/24
+  manufacturer: GENETEC Corporation
+  manufacturer-uri: https://device-type.com
+  name: GENETEC
+type: d3-device-type-assertion

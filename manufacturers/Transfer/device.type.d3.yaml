@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48a53d23-eae1-461d-a3b8-b0bd7545cbef
+  mac-addresses:
+  - AA:F0:19:00:00:00/24
+  manufacturer: TransferJet Consortium Incorporated Association
+  manufacturer-uri: https://device-type.com
+  name: Transfer
+type: d3-device-type-assertion

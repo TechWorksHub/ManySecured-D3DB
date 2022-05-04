@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca4e5139-75ee-43bf-93df-6c134c34955c
+  mac-addresses:
+  - 00:1B:C5:0A:20:00/36
+  manufacturer: Hettich Benelux
+  manufacturer-uri: https://device-type.com
+  name: HettichB
+type: d3-device-type-assertion

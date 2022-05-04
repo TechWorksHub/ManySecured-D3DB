@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4fa6f581-ad8d-4d9e-8188-4d62f1c9df5a
+  mac-addresses:
+  - 00:0A:52:00:00:00/24
+  manufacturer: AsiaRF Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AsiaRF
+type: d3-device-type-assertion

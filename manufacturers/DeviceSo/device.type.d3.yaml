@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 35eb22dd-a8e2-4f8e-b1d3-5cb929e7d408
+  mac-addresses:
+  - 40:D8:55:1C:60:00/36
+  - 70:B3:D5:BA:A0:00/36
+  manufacturer: Device Solutions Ltd
+  manufacturer-uri: https://device-type.com
+  name: DeviceSo
+type: d3-device-type-assertion

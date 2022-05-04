@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 70b36345-725d-4403-88ae-5b684a973a36
+  mac-addresses:
+  - 00:1C:5D:00:00:00/24
+  - 40:F5:2E:00:00:00/24
+  - 70:B3:D5:D3:00:00/36
+  manufacturer: Leica Microsystems
+  manufacturer-uri: https://device-type.com
+  name: LeicaMic
+type: d3-device-type-assertion

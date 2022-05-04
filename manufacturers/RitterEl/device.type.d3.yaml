@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c520073a-c986-45c7-bd02-5fa5dedecf2c
+  mac-addresses:
+  - 00:0B:93:00:00:00/24
+  manufacturer: Ritter Elektronik
+  manufacturer-uri: https://device-type.com
+  name: RitterEl
+type: d3-device-type-assertion

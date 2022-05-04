@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e0872be-2685-4865-8236-08c3154704d7
+  mac-addresses:
+  - 00:0C:5B:00:00:00/24
+  - 4C:93:A6:A0:00:00/28
+  manufacturer: Hanwang Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: HanwangT
+type: d3-device-type-assertion

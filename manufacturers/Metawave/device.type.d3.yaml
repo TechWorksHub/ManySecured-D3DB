@@ -1,0 +1,8 @@
+credentialSubject:
+  id: faedabcd-85c7-4c69-bb5e-ee9625ef4257
+  mac-addresses:
+  - 00:10:80:00:00:00/24
+  manufacturer: Metawave Communications
+  manufacturer-uri: https://device-type.com
+  name: Metawave
+type: d3-device-type-assertion

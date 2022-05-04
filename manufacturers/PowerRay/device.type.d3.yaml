@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58a793a1-3f05-4ff7-a05f-e5eb820a69a0
+  mac-addresses:
+  - 68:5E:6B:00:00:00/24
+  manufacturer: PowerRay Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PowerRay
+type: d3-device-type-assertion

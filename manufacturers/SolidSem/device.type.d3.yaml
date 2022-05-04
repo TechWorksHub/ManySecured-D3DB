@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 185fdf7b-5e94-4e08-9f5c-d169c90d0899
+  mac-addresses:
+  - D4:0B:B9:00:00:00/24
+  manufacturer: Solid Semecs bv.
+  manufacturer-uri: https://device-type.com
+  name: SolidSem
+type: d3-device-type-assertion

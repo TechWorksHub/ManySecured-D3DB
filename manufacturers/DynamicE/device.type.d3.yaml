@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 70a2c596-7f95-4d3b-8dfb-54d3d484b79f
+  mac-addresses:
+  - 40:48:FD:40:00:00/28
+  manufacturer: Dynamic Engineering
+  manufacturer-uri: https://device-type.com
+  name: DynamicE
+type: d3-device-type-assertion

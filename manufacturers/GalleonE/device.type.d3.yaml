@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92e5b020-cb09-472d-bca5-2920ecc45f4d
+  mac-addresses:
+  - C4:56:00:00:00:00/24
+  manufacturer: Galleon Embedded Computing
+  manufacturer-uri: https://device-type.com
+  name: GalleonE
+type: d3-device-type-assertion

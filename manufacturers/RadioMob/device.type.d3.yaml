@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7bf941cd-ef12-41b9-ad45-b455f971e6a9
+  mac-addresses:
+  - 00:50:C2:E1:10:00/36
+  - 30:AE:F6:00:00:00/24
+  manufacturer: RadioMobile Inc
+  manufacturer-uri: https://device-type.com
+  name: RadioMob
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af0d400e-cda5-4570-bcea-46f1ed3484e4
+  mac-addresses:
+  - 00:A0:B4:00:00:00/24
+  manufacturer: Texas Microsystems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TexasMic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af882712-767f-4b5d-8785-c3728261631c
+  mac-addresses:
+  - 00:1E:DB:00:00:00/24
+  manufacturer: Giken Trastem Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GikenTra
+type: d3-device-type-assertion

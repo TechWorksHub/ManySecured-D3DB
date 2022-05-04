@@ -1,0 +1,12 @@
+credentialSubject:
+  id: c586b76e-071c-49e7-a6ce-2039a6bab509
+  mac-addresses:
+  - 70:B3:D5:40:60:00/36
+  - 70:B3:D5:4A:80:00/36
+  - 70:B3:D5:67:D0:00/36
+  - 70:B3:D5:6A:40:00/36
+  - 70:B3:D5:E7:90:00/36
+  manufacturer: Acrodea, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Acrodea
+type: d3-device-type-assertion

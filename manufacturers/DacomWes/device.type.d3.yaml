@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8c71c21-dbc7-483c-8cf7-3c3a06230f3d
+  mac-addresses:
+  - 00:50:C2:DE:90:00/36
+  - 40:D8:55:03:40:00/36
+  manufacturer: Dacom West GmbH
+  manufacturer-uri: https://device-type.com
+  name: DacomWes
+type: d3-device-type-assertion

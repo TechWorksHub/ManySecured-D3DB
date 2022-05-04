@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 928d0257-7ae1-4eb9-8ad1-f798ca310e5e
+  mac-addresses:
+  - 00:04:07:00:00:00/24
+  manufacturer: Topcon Positioning Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TopconPo
+type: d3-device-type-assertion

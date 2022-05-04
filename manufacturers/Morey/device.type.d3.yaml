@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a600214d-1e06-4879-982c-9243c9eb89f9
+  mac-addresses:
+  - 00:18:DF:00:00:00/24
+  - 70:B3:D5:D4:D0:00/36
+  manufacturer: The Morey Corporation
+  manufacturer-uri: https://device-type.com
+  name: Morey
+type: d3-device-type-assertion

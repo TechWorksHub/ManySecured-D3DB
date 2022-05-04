@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf2bd994-4e0a-4a73-bf55-be419a9354c5
+  mac-addresses:
+  - AC:AB:BF:00:00:00/24
+  manufacturer: AthenTek Inc.
+  manufacturer-uri: https://device-type.com
+  name: AthenTek
+type: d3-device-type-assertion

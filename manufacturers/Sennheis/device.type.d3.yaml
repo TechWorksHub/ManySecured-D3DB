@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cde19065-775d-47b6-a7b8-e597a311b834
+  mac-addresses:
+  - 00:16:94:00:00:00/24
+  - 00:1B:66:00:00:00/24
+  - 80:C3:BA:00:00:00/24
+  manufacturer: Sennheiser Communications A/S
+  manufacturer-uri: https://device-type.com
+  name: Sennheis
+type: d3-device-type-assertion

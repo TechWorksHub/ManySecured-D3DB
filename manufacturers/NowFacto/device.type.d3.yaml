@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eece7083-e0bb-46fb-b00e-261504cd2b9f
+  mac-addresses:
+  - 44:9B:78:00:00:00/24
+  manufacturer: The Now Factory
+  manufacturer-uri: https://device-type.com
+  name: NowFacto
+type: d3-device-type-assertion

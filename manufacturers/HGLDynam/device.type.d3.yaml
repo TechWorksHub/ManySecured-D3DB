@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2f77cfc6-db67-456d-9198-15fe70bae0cf
+  mac-addresses:
+  - 00:50:C2:E3:40:00/36
+  - 70:B3:D5:02:10:00/36
+  manufacturer: HGL Dynamics
+  manufacturer-uri: https://device-type.com
+  name: HGLDynam
+type: d3-device-type-assertion

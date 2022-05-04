@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a67d46f-584a-4bc0-b388-02d6646c9150
+  mac-addresses:
+  - 00:21:22:00:00:00/24
+  manufacturer: Chip-pro Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Chip-pro
+type: d3-device-type-assertion

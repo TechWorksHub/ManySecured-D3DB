@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d277bd1d-8b0d-4898-9c84-59b8289ea77c
+  mac-addresses:
+  - 00:1A:7A:00:00:00/24
+  manufacturer: Lismore Instruments Limited
+  manufacturer-uri: https://device-type.com
+  name: LismoreI
+type: d3-device-type-assertion

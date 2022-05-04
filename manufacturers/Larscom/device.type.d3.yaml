@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 68597ac1-a000-4396-bb60-679f17222a73
+  mac-addresses:
+  - 00:20:C8:00:00:00/24
+  - 00:60:AB:00:00:00/24
+  manufacturer: Larscom Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Larscom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8301dd6c-6caf-4431-a31b-ad0636fb7d19
+  mac-addresses:
+  - 00:1B:57:00:00:00/24
+  - 44:DC:CB:00:00:00/24
+  manufacturer: Semindia Systems Private Limited
+  manufacturer-uri: https://device-type.com
+  name: Semindia
+type: d3-device-type-assertion

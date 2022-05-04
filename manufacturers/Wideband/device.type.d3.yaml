@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f5410bc1-820a-4408-b562-292f9ec8c640
+  mac-addresses:
+  - 00:1D:7A:00:00:00/24
+  - 20:0A:0D:10:00:00/28
+  - D8:3A:F5:00:00:00/24
+  manufacturer: Wideband Semiconductor, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Wideband
+type: d3-device-type-assertion

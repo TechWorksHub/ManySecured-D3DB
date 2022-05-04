@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac260f0e-2f79-432e-a37a-08b9cf70d3eb
+  mac-addresses:
+  - 00:50:09:00:00:00/24
+  manufacturer: Philips Broadband Networks
+  manufacturer-uri: https://device-type.com
+  name: PhilipsB
+type: d3-device-type-assertion

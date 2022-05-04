@@ -1,0 +1,11 @@
+credentialSubject:
+  id: c26173c1-803d-40e0-ba73-7400f0cd33c4
+  mac-addresses:
+  - 88:B8:63:00:00:00/24
+  - A0:62:FB:00:00:00/24
+  - DC:9A:7D:00:00:00/24
+  - E4:3B:C9:00:00:00/24
+  manufacturer: Hisense Visual Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: HisenseV
+type: d3-device-type-assertion

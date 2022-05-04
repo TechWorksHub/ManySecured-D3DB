@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca66a6a1-ede3-40e2-a161-4a7946c28d54
+  mac-addresses:
+  - 00:40:A7:00:00:00/24
+  manufacturer: Itautec Philco S.A.
+  manufacturer-uri: https://device-type.com
+  name: ItautecP
+type: d3-device-type-assertion

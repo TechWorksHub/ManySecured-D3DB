@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21f6cadd-7442-475e-a283-4b8cba54f6b2
+  mac-addresses:
+  - 00:0D:1B:00:00:00/24
+  manufacturer: Kyoto Electronics Manufacturing Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: KyotoEle
+type: d3-device-type-assertion

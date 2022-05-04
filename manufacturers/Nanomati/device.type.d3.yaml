@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d72fc41c-7167-4db7-807c-22b53c39d282
+  mac-addresses:
+  - 00:20:5D:00:00:00/24
+  manufacturer: Nanomatic Oy
+  manufacturer-uri: https://device-type.com
+  name: Nanomati
+type: d3-device-type-assertion

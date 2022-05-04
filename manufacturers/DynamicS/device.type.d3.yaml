@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3ffc5e09-52d6-427b-a948-a947442f8950
+  mac-addresses:
+  - 00:0D:79:00:00:00/24
+  - 00:1D:BB:00:00:00/24
+  manufacturer: Dynamic Solutions Co,.Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DynamicS
+type: d3-device-type-assertion

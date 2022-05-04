@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68b6907a-1c10-4673-aa55-c850c9ecaff7
+  mac-addresses:
+  - 00:03:4E:00:00:00/24
+  manufacturer: Pos Data Company, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PosData
+type: d3-device-type-assertion

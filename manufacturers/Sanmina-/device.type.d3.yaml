@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 7c2115f9-f04c-4047-b089-d039dcdd70d7
+  mac-addresses:
+  - 00:0D:83:00:00:00/24
+  - 00:1A:38:00:00:00/24
+  - 00:21:46:00:00:00/24
+  - 4C:62:55:00:00:00/24
+  manufacturer: Sanmina-SCI Hungary Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Sanmina-
+type: d3-device-type-assertion

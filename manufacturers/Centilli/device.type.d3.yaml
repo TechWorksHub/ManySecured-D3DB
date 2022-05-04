@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d4d8e2a6-b10c-4377-adf5-cdaf9461764d
+  mac-addresses:
+  - 00:01:1D:00:00:00/24
+  - 00:A0:00:00:00:00/24
+  manufacturer: Centillium Communications
+  manufacturer-uri: https://device-type.com
+  name: Centilli
+type: d3-device-type-assertion

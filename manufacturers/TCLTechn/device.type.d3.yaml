@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ba04eb59-3fd4-4a54-85f3-466ff7427c2f
+  mac-addresses:
+  - 00:1C:50:00:00:00/24
+  - 4C:14:A3:00:00:00/24
+  - 6C:5A:B5:00:00:00/24
+  manufacturer: TCL Technoly Electronics (Huizhou) Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TCLTechn
+type: d3-device-type-assertion

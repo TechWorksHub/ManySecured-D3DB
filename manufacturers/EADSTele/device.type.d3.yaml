@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09bd07fd-821d-4848-a226-9421fa66f192
+  mac-addresses:
+  - 00:0A:3E:00:00:00/24
+  manufacturer: EADS Telecom
+  manufacturer-uri: https://device-type.com
+  name: EADSTele
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b3b37fb1-4d5d-40d2-9d0b-383fe1e55a31
+  mac-addresses:
+  - 4C:4B:68:00:00:00/24
+  - 70:B3:D5:14:F0:00/36
+  manufacturer: Mobile Device, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MobileDe
+type: d3-device-type-assertion

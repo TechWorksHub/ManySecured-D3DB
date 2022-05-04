@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 5b81c7c1-5f4c-442b-be61-1ce402101b7c
+  mac-addresses:
+  - 00:00:BF:00:00:00/24
+  - 00:20:FF:00:00:00/24
+  - 00:A0:69:00:00:00/24
+  - 00:B0:AE:00:00:00/24
+  manufacturer: Symmetric Computer Systems
+  manufacturer-uri: https://device-type.com
+  name: Symmetri
+type: d3-device-type-assertion

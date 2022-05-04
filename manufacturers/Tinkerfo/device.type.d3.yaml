@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c54522e-66c1-4e35-aca0-edf452eeefe6
+  mac-addresses:
+  - 40:D8:55:02:A0:00/36
+  - 70:B3:D5:50:90:00/36
+  manufacturer: Tinkerforge GmbH
+  manufacturer-uri: https://device-type.com
+  name: Tinkerfo
+type: d3-device-type-assertion

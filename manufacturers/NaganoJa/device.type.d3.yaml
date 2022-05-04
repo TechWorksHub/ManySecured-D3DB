@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b8e2b7e-47a1-446b-a32d-ff9b5dff0b2c
+  mac-addresses:
+  - 00:01:09:00:00:00/24
+  manufacturer: Nagano Japan Radio Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NaganoJa
+type: d3-device-type-assertion

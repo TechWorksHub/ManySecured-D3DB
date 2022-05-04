@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 246b0ff4-2dc6-454e-ab84-622d385a1bb2
+  mac-addresses:
+  - 00:12:54:00:00:00/24
+  - 00:50:C2:0F:50:00/36
+  manufacturer: Spectra Technologies Holdings Company Ltd
+  manufacturer-uri: https://device-type.com
+  name: SpectraT
+type: d3-device-type-assertion

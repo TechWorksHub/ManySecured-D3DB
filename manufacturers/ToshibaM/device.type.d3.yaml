@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05a31d9d-0227-4e59-b3fe-194c94e81c20
+  mac-addresses:
+  - 98:6D:C8:00:00:00/24
+  manufacturer: Toshiba Mitsubishi-Electric Industrial Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: ToshibaM
+type: d3-device-type-assertion

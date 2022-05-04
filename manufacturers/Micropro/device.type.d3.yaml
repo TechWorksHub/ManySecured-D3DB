@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3501ec31-af0a-4f07-8d90-24cc0757cd97
+  mac-addresses:
+  - 00:00:EC:00:00:00/24
+  - 00:A0:56:00:00:00/24
+  - 48:0B:B2:90:00:00/28
+  manufacturer: Microprocess
+  manufacturer-uri: https://device-type.com
+  name: Micropro
+type: d3-device-type-assertion

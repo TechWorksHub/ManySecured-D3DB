@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6378e5a-8dcb-4bba-967c-8fb9effca70c
+  mac-addresses:
+  - 04:26:05:00:00:00/24
+  manufacturer: Bosch Building Automation GmbH
+  manufacturer-uri: https://device-type.com
+  name: BoschBui
+type: d3-device-type-assertion

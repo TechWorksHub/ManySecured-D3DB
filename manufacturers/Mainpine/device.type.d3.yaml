@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a7ab967-7d28-4107-9d79-95f56f5e7db4
+  mac-addresses:
+  - 00:23:BF:00:00:00/24
+  manufacturer: Mainpine, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mainpine
+type: d3-device-type-assertion

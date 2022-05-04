@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63cf5bad-f7a8-49bf-af4c-fea1c3735cf4
+  mac-addresses:
+  - 00:C0:D5:00:00:00/24
+  manufacturer: Quancom Electronic Gmbh
+  manufacturer-uri: https://device-type.com
+  name: QuancomE
+type: d3-device-type-assertion

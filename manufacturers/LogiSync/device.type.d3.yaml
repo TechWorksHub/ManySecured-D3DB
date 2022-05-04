@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8c5caae-13ca-41f8-bcca-dcaecfe62c1a
+  mac-addresses:
+  - 00:07:F0:00:00:00/24
+  manufacturer: LogiSync LLC
+  manufacturer-uri: https://device-type.com
+  name: LogiSync
+type: d3-device-type-assertion

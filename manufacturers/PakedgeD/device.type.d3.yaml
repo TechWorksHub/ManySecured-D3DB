@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0928c5c0-aca4-4521-b52a-db3308d7f7a5
+  mac-addresses:
+  - 90:A7:C1:00:00:00/24
+  - C4:BB:EA:00:00:00/24
+  manufacturer: Pakedge Device and Software Inc.
+  manufacturer-uri: https://device-type.com
+  name: PakedgeD
+type: d3-device-type-assertion

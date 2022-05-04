@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbc6e3ff-88af-41a1-85b7-efbcd2f52daf
+  mac-addresses:
+  - 60:89:B1:00:00:00/24
+  manufacturer: Key Digital Systems
+  manufacturer-uri: https://device-type.com
+  name: KeyDigit
+type: d3-device-type-assertion

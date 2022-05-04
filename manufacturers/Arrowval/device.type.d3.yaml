@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2eaf56bc-e20c-47ed-adbc-6c0b682073e2
+  mac-addresses:
+  - 00:50:C2:A5:50:00/36
+  - 70:B3:D5:B0:70:00/36
+  manufacturer: Arrowvale Electronics
+  manufacturer-uri: https://device-type.com
+  name: Arrowval
+type: d3-device-type-assertion

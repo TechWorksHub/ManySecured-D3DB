@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 860efa1e-5074-4d99-8550-f99e685b0fa9
+  mac-addresses:
+  - 00:60:65:00:00:00/24
+  manufacturer: B&R Industrial Automation GmbH
+  manufacturer-uri: https://device-type.com
+  name: B&RIndus
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbf2b03f-b077-41d2-896c-227adbcbb685
+  mac-addresses:
+  - 00:01:13:00:00:00/24
+  manufacturer: Olympus Corporation
+  manufacturer-uri: https://device-type.com
+  name: Olympus
+type: d3-device-type-assertion

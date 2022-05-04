@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eba7bbc9-1789-4096-bd79-09759734dc3a
+  mac-addresses:
+  - 00:16:50:00:00:00/24
+  manufacturer: Kratos EPD
+  manufacturer-uri: https://device-type.com
+  name: KratosEP
+type: d3-device-type-assertion

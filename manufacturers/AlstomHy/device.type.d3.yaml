@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9185f0d-f6c7-44ae-9248-cb9dff9bc355
+  mac-addresses:
+  - 04:62:D7:00:00:00/24
+  manufacturer: Alstom Hydro France
+  manufacturer-uri: https://device-type.com
+  name: AlstomHy
+type: d3-device-type-assertion

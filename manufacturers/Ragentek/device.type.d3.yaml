@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 91d21f74-e322-4f13-ae57-df9252704c0c
+  mac-addresses:
+  - 28:FB:D3:00:00:00/24
+  - 88:A7:3C:00:00:00/24
+  - C0:85:4C:00:00:00/24
+  manufacturer: Ragentek Technology Group
+  manufacturer-uri: https://device-type.com
+  name: Ragentek
+type: d3-device-type-assertion

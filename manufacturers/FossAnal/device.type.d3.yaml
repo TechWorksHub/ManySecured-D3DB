@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7b70041-99b1-41dd-8923-51fa1a47ddd4
+  mac-addresses:
+  - 00:1D:22:00:00:00/24
+  manufacturer: Foss Analytical A/S
+  manufacturer-uri: https://device-type.com
+  name: FossAnal
+type: d3-device-type-assertion

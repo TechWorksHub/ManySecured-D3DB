@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 14d78b9b-55cc-4f29-9647-9a6b0843d4ca
+  mac-addresses:
+  - CC:4F:5C:40:00:00/28
+  manufacturer: Spark Biomedical
+  manufacturer-uri: https://device-type.com
+  name: SparkBio
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cff9d609-c620-47f5-b8a0-f4d5d0d2dce2
+  mac-addresses:
+  - 00:50:C2:AC:C0:00/36
+  - A0:22:4E:30:00:00/28
+  manufacturer: ProPhotonix
+  manufacturer-uri: https://device-type.com
+  name: ProPhoto
+type: d3-device-type-assertion

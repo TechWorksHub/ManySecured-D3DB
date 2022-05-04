@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 615b3caa-a32d-4b64-a3bd-0001f34168bc
+  mac-addresses:
+  - 00:90:48:00:00:00/24
+  manufacturer: Zeal Corporation
+  manufacturer-uri: https://device-type.com
+  name: Zeal
+type: d3-device-type-assertion

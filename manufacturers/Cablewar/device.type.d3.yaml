@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8c817bf-5dec-4afe-8da2-89acef582dad
+  mac-addresses:
+  - 00:0F:2A:00:00:00/24
+  manufacturer: Cableware Electronics
+  manufacturer-uri: https://device-type.com
+  name: Cablewar
+type: d3-device-type-assertion

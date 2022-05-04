@@ -1,0 +1,12 @@
+credentialSubject:
+  id: a0c60a88-6b75-4f95-9793-dc907189cf72
+  mac-addresses:
+  - 00:1F:2D:00:00:00/24
+  - 00:35:32:00:00:00/24
+  - 00:50:C2:44:D0:00/36
+  - 00:50:C2:F2:30:00/36
+  - D0:76:50:C0:00:00/28
+  manufacturer: Electro-Optical Imaging, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Electro-
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 70e2c2fa-1844-4288-97cc-6eb9cf91b125
+  mac-addresses:
+  - 18:9B:A5:40:00:00/28
+  - 70:B3:D5:0C:E0:00/36
+  - 70:B3:D5:DE:70:00/36
+  manufacturer: Innominds Software Inc
+  manufacturer-uri: https://device-type.com
+  name: Innomind
+type: d3-device-type-assertion

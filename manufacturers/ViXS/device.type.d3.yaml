@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a1ad212-722e-4a70-b8d4-85f67d1300a9
+  mac-addresses:
+  - 00:14:F3:00:00:00/24
+  manufacturer: ViXS Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: ViXS
+type: d3-device-type-assertion

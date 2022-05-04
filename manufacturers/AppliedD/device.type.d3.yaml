@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d190d90b-e0b3-412e-9b20-1ad2ec234623
+  mac-addresses:
+  - 00:00:19:00:00:00/24
+  - 00:90:41:00:00:00/24
+  - 58:FC:DB:E0:00:00/28
+  manufacturer: Applied Dynamics International
+  manufacturer-uri: https://device-type.com
+  name: AppliedD
+type: d3-device-type-assertion

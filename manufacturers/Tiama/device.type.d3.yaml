@@ -1,0 +1,18 @@
+credentialSubject:
+  id: eb87fca7-ac24-4e3f-abc1-1b16064447b5
+  mac-addresses:
+  - 70:B3:D5:0C:40:00/36
+  - 70:B3:D5:4B:C0:00/36
+  - 70:B3:D5:79:80:00/36
+  - 70:B3:D5:8A:10:00/36
+  - 70:B3:D5:8B:A0:00/36
+  - 70:B3:D5:A3:30:00/36
+  - 70:B3:D5:BA:30:00/36
+  - 70:B3:D5:C4:A0:00/36
+  - 70:B3:D5:FA:00:00/36
+  - 8C:1F:64:63:B0:00/36
+  - 8C:1F:64:82:00:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Tiama
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3f2beb1d-bd7b-4676-bab9-71a0e86cbf61
+  mac-addresses:
+  - 94:01:AC:00:00:00/24
+  - DC:EB:53:00:00:00/24
+  manufacturer: Wuhan Qianyang Iotian Technology Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: WuhanQia
+type: d3-device-type-assertion

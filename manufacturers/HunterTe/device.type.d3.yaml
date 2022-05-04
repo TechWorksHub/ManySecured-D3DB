@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c96eb11-aab3-42b6-a484-7e80523cecfb
+  mac-addresses:
+  - 00:03:0B:00:00:00/24
+  - 00:50:C2:01:70:00/36
+  manufacturer: Hunter Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HunterTe
+type: d3-device-type-assertion

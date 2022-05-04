@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 348fdafa-25f0-49c4-8543-4be1c5ad1293
+  mac-addresses:
+  - 00:0F:BF:00:00:00/24
+  - 00:50:C2:25:10:00/36
+  manufacturer: DGT Sp. z o.o.
+  manufacturer-uri: https://device-type.com
+  name: DGTSp
+type: d3-device-type-assertion

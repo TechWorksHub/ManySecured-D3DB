@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff5fab9d-f804-4d59-a170-6802fc230800
+  mac-addresses:
+  - 00:0B:27:00:00:00/24
+  manufacturer: Scion Corporation
+  manufacturer-uri: https://device-type.com
+  name: Scion
+type: d3-device-type-assertion

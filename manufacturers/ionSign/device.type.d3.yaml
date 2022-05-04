@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92b6a40c-d09f-490a-b5a4-e86d8a2525e9
+  mac-addresses:
+  - 00:0E:7E:00:00:00/24
+  manufacturer: ionSign Oy
+  manufacturer-uri: https://device-type.com
+  name: ionSign
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03025a64-b669-45e2-bcc1-2a7b2da0d75c
+  mac-addresses:
+  - 00:80:68:00:00:00/24
+  manufacturer: Yamatech Scientific Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Yamatech
+type: d3-device-type-assertion

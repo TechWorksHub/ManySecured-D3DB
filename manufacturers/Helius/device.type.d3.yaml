@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb1bc4a8-3586-4546-99b9-8ecdc1b53350
+  mac-addresses:
+  - 00:0F:22:00:00:00/24
+  manufacturer: Helius, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Helius
+type: d3-device-type-assertion

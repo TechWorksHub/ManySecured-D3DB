@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c88b2704-a077-43f7-a381-abd2cfce1bcc
+  mac-addresses:
+  - 00:09:50:00:00:00/24
+  - 00:17:8C:00:00:00/24
+  - FC:90:FA:00:00:00/24
+  manufacturer: Independent Storage Corporation
+  manufacturer-uri: https://device-type.com
+  name: Independ
+type: d3-device-type-assertion

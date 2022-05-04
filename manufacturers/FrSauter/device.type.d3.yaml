@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 0a5bab1b-9a07-4ff0-af2c-c5548e94e5ca
+  mac-addresses:
+  - 00:50:C2:1F:90:00/36
+  - 00:50:C2:49:10:00/36
+  - 00:50:C2:7C:80:00/36
+  - 00:50:C2:8B:A0:00/36
+  - 00:50:C2:A6:10:00/36
+  - 00:50:C2:AF:00:00/36
+  - 00:50:C2:C0:D0:00/36
+  - 00:50:C2:CA:F0:00/36
+  - 00:50:C2:D2:70:00/36
+  - 00:50:C2:D7:70:00/36
+  - 00:50:C2:DE:60:00/36
+  - 00:50:C2:E2:90:00/36
+  - 00:50:C2:E7:70:00/36
+  - 5C:C2:13:00:00:00/24
+  manufacturer: Fr. Sauter AG
+  manufacturer-uri: https://device-type.com
+  name: FrSauter
+type: d3-device-type-assertion

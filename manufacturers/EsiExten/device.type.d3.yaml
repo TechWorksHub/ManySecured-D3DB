@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 332f36f7-94a0-43f0-9a6b-ee3da8229512
+  mac-addresses:
+  - 00:02:16:00:00:00/24
+  manufacturer: ESI (Extended Systems, Inc)
+  manufacturer-uri: https://device-type.com
+  name: EsiExten
+type: d3-device-type-assertion

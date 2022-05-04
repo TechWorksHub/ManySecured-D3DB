@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fbcd29c-70a8-4d1d-9b8a-bdf7d0996d8d
+  mac-addresses:
+  - 00:26:09:00:00:00/24
+  manufacturer: Phyllis Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Phyllis
+type: d3-device-type-assertion

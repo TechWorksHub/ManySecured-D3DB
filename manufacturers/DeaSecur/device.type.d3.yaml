@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20c401d3-4f20-48fc-b7b0-f0f976a4bc9d
+  mac-addresses:
+  - 00:15:22:00:00:00/24
+  manufacturer: Dea Security
+  manufacturer-uri: https://device-type.com
+  name: DeaSecur
+type: d3-device-type-assertion

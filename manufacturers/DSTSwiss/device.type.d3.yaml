@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f75e4402-c249-40ec-af19-c3d2efc7ddec
+  mac-addresses:
+  - 00:50:C2:9E:00:00/36
+  manufacturer: DST Swiss AG
+  manufacturer-uri: https://device-type.com
+  name: DSTSwiss
+type: d3-device-type-assertion

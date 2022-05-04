@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1dbf835b-ae4b-4292-b126-1654a676d2ac
+  mac-addresses:
+  - 3C:2A:F4:00:00:00/24
+  - B4:22:00:00:00:00/24
+  manufacturer: Brother Industries, LTD.
+  manufacturer-uri: https://device-type.com
+  name: BrotherI
+type: d3-device-type-assertion

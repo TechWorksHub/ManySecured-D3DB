@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48d57905-4da1-4be9-ac62-56b45b3a404a
+  mac-addresses:
+  - 00:0A:2D:00:00:00/24
+  manufacturer: Cabot Communications Limited
+  manufacturer-uri: https://device-type.com
+  name: CabotCom
+type: d3-device-type-assertion

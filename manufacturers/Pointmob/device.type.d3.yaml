@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a4859f96-d484-4cfe-a17f-8ec829ee3425
+  mac-addresses:
+  - 00:24:06:00:00:00/24
+  - 64:CB:A3:00:00:00/24
+  manufacturer: Pointmobile
+  manufacturer-uri: https://device-type.com
+  name: Pointmob
+type: d3-device-type-assertion

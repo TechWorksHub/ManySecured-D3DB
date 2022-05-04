@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d901d705-19a9-42ae-9b01-c21583ce3885
+  mac-addresses:
+  - 00:E0:96:00:00:00/24
+  manufacturer: Shimadzu Corporation
+  manufacturer-uri: https://device-type.com
+  name: Shimadzu
+type: d3-device-type-assertion

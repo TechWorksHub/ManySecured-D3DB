@@ -1,0 +1,9 @@
+credentialSubject:
+  id: edd7b9a5-e304-4f34-b96e-fd46f92a1118
+  mac-addresses:
+  - 64:DC:DE:00:00:00/24
+  - B8:D8:12:E0:00:00/28
+  manufacturer: ZheJiang FuChunJiang Information Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: ZheJiang
+type: d3-device-type-assertion

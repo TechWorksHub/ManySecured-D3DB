@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5915321-637f-4661-8c9a-510545319f37
+  mac-addresses:
+  - 00:14:EB:00:00:00/24
+  manufacturer: AwarePoint Corporation
+  manufacturer-uri: https://device-type.com
+  name: AwarePoi
+type: d3-device-type-assertion

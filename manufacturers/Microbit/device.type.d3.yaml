@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a778d05b-8208-4f34-8751-897dd91f6341
+  mac-addresses:
+  - 00:1E:FD:00:00:00/24
+  - 00:50:C2:11:80:00/36
+  manufacturer: Microbit 2.0 AB
+  manufacturer-uri: https://device-type.com
+  name: Microbit
+type: d3-device-type-assertion

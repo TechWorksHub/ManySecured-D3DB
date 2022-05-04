@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 089dcb86-5b4e-4b95-bced-873dc6575233
+  mac-addresses:
+  - 98:7E:CA:00:00:00/24
+  - A4:63:A1:00:00:00/24
+  manufacturer: Inventus Power Eletronica do Brasil LTDA
+  manufacturer-uri: https://device-type.com
+  name: Inventus
+type: d3-device-type-assertion

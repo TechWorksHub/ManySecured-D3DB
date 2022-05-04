@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42ffd2d6-e69b-412c-b077-475f431881db
+  mac-addresses:
+  - A8:36:7A:00:00:00/24
+  manufacturer: frogblue TECHNOLOGY GmbH
+  manufacturer-uri: https://device-type.com
+  name: frogblue
+type: d3-device-type-assertion

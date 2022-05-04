@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ec49ce1a-7b48-4977-b64c-bf649be72498
+  mac-addresses:
+  - 2C:27:9E:70:00:00/28
+  - 70:B3:D5:96:B0:00/36
+  manufacturer: FOCAL-JMLab
+  manufacturer-uri: https://device-type.com
+  name: FOCAL-JM
+type: d3-device-type-assertion

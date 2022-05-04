@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99a1de89-9592-4c95-8303-d61304837425
+  mac-addresses:
+  - 00:20:6A:00:00:00/24
+  manufacturer: Osaka Computer Corp.
+  manufacturer-uri: https://device-type.com
+  name: OsakaCom
+type: d3-device-type-assertion

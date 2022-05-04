@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f858d7c0-7030-46bc-aaf1-a9fcb2c97cac
+  mac-addresses:
+  - 00:A0:F4:00:00:00/24
+  - DC:37:52:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Ge
+type: d3-device-type-assertion

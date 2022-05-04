@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c70aa365-e1d2-4a34-80c6-3bdc6b3285c8
+  mac-addresses:
+  - 00:11:53:00:00:00/24
+  manufacturer: Trident Tek, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TridentT
+type: d3-device-type-assertion

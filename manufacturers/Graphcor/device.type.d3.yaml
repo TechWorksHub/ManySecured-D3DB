@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f9c3cc52-c225-4c4d-b3b3-1c3d746b65f9
+  mac-addresses:
+  - 70:69:79:20:00:00/28
+  - 70:B3:D5:1B:30:00/36
+  manufacturer: Graphcore Ltd
+  manufacturer-uri: https://device-type.com
+  name: Graphcor
+type: d3-device-type-assertion

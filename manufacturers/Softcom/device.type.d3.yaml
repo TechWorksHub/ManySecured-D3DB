@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7be486b-2ee4-4c13-8d08-21565e68050f
+  mac-addresses:
+  - 00:80:B1:00:00:00/24
+  manufacturer: Softcom A/S
+  manufacturer-uri: https://device-type.com
+  name: Softcom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7c47ce6-def9-4281-9fc4-2f636b347e9d
+  mac-addresses:
+  - 00:23:86:00:00:00/24
+  manufacturer: IMI Hydronic Engineering international SA
+  manufacturer-uri: https://device-type.com
+  name: IMIHydro
+type: d3-device-type-assertion

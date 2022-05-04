@@ -1,0 +1,8 @@
+credentialSubject:
+  id: edc6384e-02ba-418e-9f84-703bfdc2427d
+  mac-addresses:
+  - 00:06:F1:00:00:00/24
+  manufacturer: Optillion
+  manufacturer-uri: https://device-type.com
+  name: Optillio
+type: d3-device-type-assertion

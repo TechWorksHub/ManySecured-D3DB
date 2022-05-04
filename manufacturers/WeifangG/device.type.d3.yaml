@@ -1,0 +1,23 @@
+credentialSubject:
+  id: fc7a329c-fb49-42c4-af5e-e4bec8b53c5d
+  mac-addresses:
+  - 1C:96:5A:00:00:00/24
+  - 2C:4D:79:00:00:00/24
+  - 40:1B:5F:00:00:00/24
+  - 48:18:8D:00:00:00/24
+  - 4C:B9:9B:00:00:00/24
+  - 84:17:66:00:00:00/24
+  - 88:03:4C:00:00:00/24
+  - 90:89:5F:00:00:00/24
+  - A0:AB:51:00:00:00/24
+  - A4:15:66:00:00:00/24
+  - A4:53:85:00:00:00/24
+  - A8:30:AD:00:00:00/24
+  - AC:FD:93:00:00:00/24
+  - D0:BC:C1:00:00:00/24
+  - DC:0C:2D:00:00:00/24
+  - DC:AF:68:00:00:00/24
+  manufacturer: Weifang Goertek Electronics Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: WeifangG
+type: d3-device-type-assertion

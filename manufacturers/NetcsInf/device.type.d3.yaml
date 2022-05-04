@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c61b032-d268-42b1-a107-21e69bedfe3f
+  mac-addresses:
+  - 00:A0:AB:00:00:00/24
+  manufacturer: Netcs Informationstechnik Gmbh
+  manufacturer-uri: https://device-type.com
+  name: NetcsInf
+type: d3-device-type-assertion

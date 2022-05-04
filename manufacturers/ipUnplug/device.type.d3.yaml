@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad19f151-ca4e-4aa8-98e4-86d1b0c71e57
+  mac-addresses:
+  - 00:04:70:00:00:00/24
+  manufacturer: ipUnplugged AB
+  manufacturer-uri: https://device-type.com
+  name: ipUnplug
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 02eb451a-9b30-4c24-a9c7-55291f8524c1
+  mac-addresses:
+  - 00:18:1A:00:00:00/24
+  - 00:50:C2:13:E0:00/36
+  - 00:50:C2:54:20:00/36
+  - 00:50:C2:5B:70:00/36
+  manufacturer: AVerMedia Information Inc.
+  manufacturer-uri: https://device-type.com
+  name: AVerMedi
+type: d3-device-type-assertion

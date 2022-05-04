@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c29be64-1cf9-4b68-b2a0-3a433c29ed06
+  mac-addresses:
+  - 00:60:45:00:00:00/24
+  manufacturer: Pathlight Technologies
+  manufacturer-uri: https://device-type.com
+  name: Pathligh
+type: d3-device-type-assertion

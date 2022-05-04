@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e81db47-b00b-467e-9af1-baa25e2c31ff
+  mac-addresses:
+  - 00:40:AA:00:00:00/24
+  manufacturer: Valmet Automation Inc
+  manufacturer-uri: https://device-type.com
+  name: ValmetAu
+type: d3-device-type-assertion

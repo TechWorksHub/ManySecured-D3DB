@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe2398d9-8d4d-4abb-85c9-612077ac3de6
+  mac-addresses:
+  - 00:19:1B:00:00:00/24
+  manufacturer: Sputnik Engineering AG
+  manufacturer-uri: https://device-type.com
+  name: SputnikE
+type: d3-device-type-assertion

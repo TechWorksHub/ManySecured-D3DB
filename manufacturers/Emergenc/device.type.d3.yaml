@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2bc919d0-2e90-4b26-bb81-974c0038b6ef
+  mac-addresses:
+  - 00:50:C2:C8:D0:00/36
+  - 70:B3:D5:48:00:00/36
+  manufacturer: Emergency Message Controls LLC
+  manufacturer-uri: https://device-type.com
+  name: Emergenc
+type: d3-device-type-assertion

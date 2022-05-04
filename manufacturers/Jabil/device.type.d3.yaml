@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 311e800e-37f7-4598-a9b7-57892ba4d435
+  mac-addresses:
+  - 20:CE:2A:20:00:00/28
+  - 70:B3:D5:73:60:00/36
+  - 78:1D:FD:00:00:00/24
+  - C8:F5:D6:60:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Jabil
+type: d3-device-type-assertion

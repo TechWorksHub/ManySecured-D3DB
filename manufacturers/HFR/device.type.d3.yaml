@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 36d00480-a887-43b7-aed8-4b2e607e6aa3
+  mac-addresses:
+  - 00:23:AA:00:00:00/24
+  - 04:09:A5:00:00:00/24
+  manufacturer: HFR, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HFR
+type: d3-device-type-assertion

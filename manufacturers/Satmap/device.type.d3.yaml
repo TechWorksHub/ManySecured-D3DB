@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4dd96139-a4b8-43ae-9859-bd4b82ba2c87
+  mac-addresses:
+  - 80:BB:EB:00:00:00/24
+  manufacturer: Satmap Systems Ltd
+  manufacturer-uri: https://device-type.com
+  name: Satmap
+type: d3-device-type-assertion

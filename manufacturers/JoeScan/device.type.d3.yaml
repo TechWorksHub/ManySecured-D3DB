@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4f549b5-c9c0-4d9e-be3a-40872b1c84ae
+  mac-addresses:
+  - 00:1C:65:00:00:00/24
+  manufacturer: JoeScan, Inc.
+  manufacturer-uri: https://device-type.com
+  name: JoeScan
+type: d3-device-type-assertion

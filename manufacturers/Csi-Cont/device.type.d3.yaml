@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0f36b349-2f21-49f2-bc99-7dc5ac19d94b
+  mac-addresses:
+  - 00:10:C3:00:00:00/24
+  manufacturer: Csi-Control Systems
+  manufacturer-uri: https://device-type.com
+  name: Csi-Cont
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9504212c-be5f-474e-b8a0-070839cd30f8
+  mac-addresses:
+  - 00:90:60:00:00:00/24
+  manufacturer: System Create Corp.
+  manufacturer-uri: https://device-type.com
+  name: SystemCr
+type: d3-device-type-assertion

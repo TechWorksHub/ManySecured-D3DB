@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 27754cd5-a847-4d38-86f1-0a2eb1714673
+  mac-addresses:
+  - 00:24:1C:00:00:00/24
+  - 10:0F:18:00:00:00/24
+  manufacturer: FuGang Electronic (DG) Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: FuGangEl
+type: d3-device-type-assertion

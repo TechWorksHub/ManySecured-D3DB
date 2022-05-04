@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0017241c-3ecd-4f9e-a6e4-79ad6f88c4e5
+  mac-addresses:
+  - 00:25:41:00:00:00/24
+  manufacturer: Maquet Critical Care AB
+  manufacturer-uri: https://device-type.com
+  name: MaquetCr
+type: d3-device-type-assertion

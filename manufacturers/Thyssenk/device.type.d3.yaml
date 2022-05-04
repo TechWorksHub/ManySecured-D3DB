@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c371c240-df1d-4982-a439-2e375f18aa9c
+  mac-addresses:
+  - 5C:14:37:00:00:00/24
+  manufacturer: Thyssenkrupp Aufzugswerke GmbH
+  manufacturer-uri: https://device-type.com
+  name: Thyssenk
+type: d3-device-type-assertion

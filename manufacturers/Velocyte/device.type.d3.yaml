@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0c352e6c-e987-4122-83ee-4d12133c5292
+  mac-addresses:
+  - 04:DD:4C:00:00:00/24
+  - C0:35:BD:00:00:00/24
+  manufacturer: Velocytech
+  manufacturer-uri: https://device-type.com
+  name: Velocyte
+type: d3-device-type-assertion

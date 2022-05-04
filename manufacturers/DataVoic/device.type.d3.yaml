@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fbba634-497b-4416-8c3b-2d4c2cfe4a0b
+  mac-addresses:
+  - 00:12:63:00:00:00/24
+  manufacturer: Data Voice Technologies GmbH
+  manufacturer-uri: https://device-type.com
+  name: DataVoic
+type: d3-device-type-assertion

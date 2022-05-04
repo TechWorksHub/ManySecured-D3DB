@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9fa9d1f-a085-43ca-847e-e3f66f839a36
+  mac-addresses:
+  - 00:0A:DD:00:00:00/24
+  manufacturer: Allworx Corp.
+  manufacturer-uri: https://device-type.com
+  name: Allworx
+type: d3-device-type-assertion

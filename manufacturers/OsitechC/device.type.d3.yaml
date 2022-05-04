@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee8b1a69-f243-4f0c-b176-e9f8d66d3389
+  mac-addresses:
+  - 00:C0:E3:00:00:00/24
+  manufacturer: Ositech Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OsitechC
+type: d3-device-type-assertion

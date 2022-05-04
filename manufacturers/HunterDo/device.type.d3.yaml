@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a93d0f2-c2f9-4bec-978c-b622e33cabf4
+  mac-addresses:
+  - 00:26:74:00:00:00/24
+  manufacturer: Hunter Douglas
+  manufacturer-uri: https://device-type.com
+  name: HunterDo
+type: d3-device-type-assertion

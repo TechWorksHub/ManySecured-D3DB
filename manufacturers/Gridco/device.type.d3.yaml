@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5c8aef3-b8df-4051-9e7c-57a3078ee73d
+  mac-addresses:
+  - 10:F3:DB:00:00:00/24
+  manufacturer: Gridco Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gridco
+type: d3-device-type-assertion

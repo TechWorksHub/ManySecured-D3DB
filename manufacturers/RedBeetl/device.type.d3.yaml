@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99ceb484-d803-4dec-acca-b7ca58916610
+  mac-addresses:
+  - 00:24:1A:00:00:00/24
+  manufacturer: Red Beetle Inc.
+  manufacturer-uri: https://device-type.com
+  name: RedBeetl
+type: d3-device-type-assertion

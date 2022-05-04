@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ae677fe-213c-47dd-845a-37dcd171c556
+  mac-addresses:
+  - 00:10:C7:00:00:00/24
+  manufacturer: Data Transmission Network
+  manufacturer-uri: https://device-type.com
+  name: DataTran
+type: d3-device-type-assertion

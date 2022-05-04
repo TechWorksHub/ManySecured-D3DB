@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c777a098-3187-493b-9d68-7ef44ba5cece
+  mac-addresses:
+  - 00:1A:5C:00:00:00/24
+  manufacturer: Euchner GmbH+Co. KG
+  manufacturer-uri: https://device-type.com
+  name: EuchnerG
+type: d3-device-type-assertion

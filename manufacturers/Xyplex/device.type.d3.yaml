@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6d8e5da-a4f8-4b2f-924b-9061ad8b890b
+  mac-addresses:
+  - 00:A0:9C:00:00:00/24
+  manufacturer: Xyplex, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Xyplex
+type: d3-device-type-assertion

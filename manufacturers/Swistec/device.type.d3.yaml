@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 23adc2f6-1723-44bf-b94e-aff53c57a6d6
+  mac-addresses:
+  - 00:50:C2:60:50:00/36
+  - 48:65:EE:50:00:00/28
+  manufacturer: Swistec GmbH
+  manufacturer-uri: https://device-type.com
+  name: Swistec
+type: d3-device-type-assertion

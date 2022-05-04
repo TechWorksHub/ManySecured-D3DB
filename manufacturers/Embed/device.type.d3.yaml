@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 652374d6-e34d-420d-a9ec-663d469a878a
+  mac-addresses:
+  - 40:D8:55:0D:D0:00/36
+  - 80:D0:19:00:00:00/24
+  manufacturer: Embed Limited
+  manufacturer-uri: https://device-type.com
+  name: Embed
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c200bdf3-12a0-4169-8bc5-55492c84c83f
+  mac-addresses:
+  - 00:15:87:00:00:00/24
+  manufacturer: Takenaka Seisakusho Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Takenaka
+type: d3-device-type-assertion

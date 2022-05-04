@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93b962a2-8279-44bc-b8d7-141da2fd51d2
+  mac-addresses:
+  - 00:0A:63:00:00:00/24
+  manufacturer: DHD GmbH
+  manufacturer-uri: https://device-type.com
+  name: DHD
+type: d3-device-type-assertion

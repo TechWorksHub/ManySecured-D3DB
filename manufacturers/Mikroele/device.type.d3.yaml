@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 21073fc8-0c0c-4159-8dd5-87d70abc112f
+  mac-addresses:
+  - 00:1D:DA:00:00:00/24
+  - 88:A9:A7:30:00:00/28
+  manufacturer: Mikroelektronika spol. s r. o.
+  manufacturer-uri: https://device-type.com
+  name: Mikroele
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e96114fe-4a84-4c38-80b8-d95e83990357
+  mac-addresses:
+  - 00:0A:50:00:00:00/24
+  manufacturer: Remotek Corporation
+  manufacturer-uri: https://device-type.com
+  name: Remotek
+type: d3-device-type-assertion

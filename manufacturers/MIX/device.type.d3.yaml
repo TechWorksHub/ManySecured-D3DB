@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd4fb0c1-ca0f-44e5-bc3c-a7d796d8e6aa
+  mac-addresses:
+  - 00:17:A3:00:00:00/24
+  manufacturer: MIX s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: MIX
+type: d3-device-type-assertion

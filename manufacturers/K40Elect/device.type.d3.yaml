@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc41fcde-8d6c-4748-9f69-bc0c28ed99bc
+  mac-addresses:
+  - 00:14:74:00:00:00/24
+  manufacturer: K40 Electronics
+  manufacturer-uri: https://device-type.com
+  name: K40Elect
+type: d3-device-type-assertion

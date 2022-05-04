@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ee2743a-407f-4acc-b5f7-eb0e731af391
+  mac-addresses:
+  - 00:0F:7E:00:00:00/24
+  manufacturer: Ablerex Electronics Co., LTD
+  manufacturer-uri: https://device-type.com
+  name: AblerexE
+type: d3-device-type-assertion

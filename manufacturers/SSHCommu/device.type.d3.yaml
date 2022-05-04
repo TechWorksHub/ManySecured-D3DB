@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03603492-5893-4926-9071-3545d3c73670
+  mac-addresses:
+  - 00:03:80:00:00:00/24
+  manufacturer: SSH Communications Security Corp.
+  manufacturer-uri: https://device-type.com
+  name: SSHCommu
+type: d3-device-type-assertion

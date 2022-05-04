@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ead21013-e667-4bc2-85f9-97f596602555
+  mac-addresses:
+  - 00:04:E0:00:00:00/24
+  manufacturer: Procket Networks
+  manufacturer-uri: https://device-type.com
+  name: ProcketN
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ec66867-f9ae-4d96-8c92-0d1f74045f4f
+  mac-addresses:
+  - C4:01:B1:00:00:00/24
+  manufacturer: SeekTech INC
+  manufacturer-uri: https://device-type.com
+  name: SeekTech
+type: d3-device-type-assertion

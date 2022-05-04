@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 369a861d-c266-41f6-8a29-f447eb38ca51
+  mac-addresses:
+  - 10:C5:95:00:00:00/24
+  - 80:96:21:00:00:00/24
+  - A4:11:94:00:00:00/24
+  - A4:8C:DB:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Lenovo
+type: d3-device-type-assertion

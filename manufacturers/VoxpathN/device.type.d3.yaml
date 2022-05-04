@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 037b0136-22bd-42a0-acc1-bc9a035df764
+  mac-addresses:
+  - 00:0B:07:00:00:00/24
+  manufacturer: Voxpath Networks
+  manufacturer-uri: https://device-type.com
+  name: VoxpathN
+type: d3-device-type-assertion

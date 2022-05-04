@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bc965221-69c0-42fb-9430-e8a104de220c
+  mac-addresses:
+  - 18:36:72:00:00:00/24
+  - 78:65:3B:00:00:00/24
+  manufacturer: Shaoxing ShunChuang Technology CO.,LTD
+  manufacturer-uri: https://device-type.com
+  name: Shaoxing
+type: d3-device-type-assertion

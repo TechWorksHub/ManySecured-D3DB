@@ -1,0 +1,9 @@
+credentialSubject:
+  id: daffebfa-aa46-4688-baab-446a61c96c65
+  mac-addresses:
+  - 00:25:C5:00:00:00/24
+  - 00:50:C2:3A:30:00/36
+  manufacturer: Star Link Communication Pvt. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: StarLink
+type: d3-device-type-assertion

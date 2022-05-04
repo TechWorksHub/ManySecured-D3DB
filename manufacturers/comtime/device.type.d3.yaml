@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0a8d2d39-500b-422b-a474-669b78979c74
+  mac-addresses:
+  - 40:D8:55:0C:60:00/36
+  - 70:B3:D5:1E:90:00/36
+  - C4:FF:BC:50:00:00/28
+  manufacturer: comtime GmbH
+  manufacturer-uri: https://device-type.com
+  name: comtime
+type: d3-device-type-assertion

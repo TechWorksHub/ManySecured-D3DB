@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be2a8f62-a428-4272-a171-4b90d3968a93
+  mac-addresses:
+  - 6C:08:31:00:00:00/24
+  manufacturer: Analog Systems
+  manufacturer-uri: https://device-type.com
+  name: Analog
+type: d3-device-type-assertion

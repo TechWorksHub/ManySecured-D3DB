@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d36f75d9-2f45-4b83-9e7d-5c19b13ab2b9
+  mac-addresses:
+  - 00:0B:EC:00:00:00/24
+  - D8:16:0A:00:00:00/24
+  manufacturer: Nippon Electric Instrument, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NipponEl
+type: d3-device-type-assertion

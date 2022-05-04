@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c09c9d26-19d8-4631-81b5-5408191d322c
+  mac-addresses:
+  - 44:AA:E8:00:00:00/24
+  manufacturer: Nanotec Electronic GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: NanotecE
+type: d3-device-type-assertion

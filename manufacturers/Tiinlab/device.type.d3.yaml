@@ -1,0 +1,11 @@
+credentialSubject:
+  id: b0d567dd-65be-4396-a543-a3d32c5eb99c
+  mac-addresses:
+  - 14:0A:29:00:00:00/24
+  - 48:73:CB:00:00:00/24
+  - 84:AB:26:00:00:00/24
+  - A4:05:6E:00:00:00/24
+  manufacturer: Tiinlab Corporation
+  manufacturer-uri: https://device-type.com
+  name: Tiinlab
+type: d3-device-type-assertion

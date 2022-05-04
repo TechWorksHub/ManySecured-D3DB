@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d473516-90a6-43c1-9db8-d21108eec082
+  mac-addresses:
+  - 84:11:C2:80:00:00/28
+  manufacturer: Leybold GmbH
+  manufacturer-uri: https://device-type.com
+  name: Leybold
+type: d3-device-type-assertion

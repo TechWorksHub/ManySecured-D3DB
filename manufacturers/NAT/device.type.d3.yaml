@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9320bd46-c601-44e3-8f87-b8e486d48654
+  mac-addresses:
+  - 00:40:42:00:00:00/24
+  manufacturer: N.A.T. Gmbh
+  manufacturer-uri: https://device-type.com
+  name: NAT
+type: d3-device-type-assertion

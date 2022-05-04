@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 433fd48a-3e5c-440f-a93a-173f2a60e8ed
+  mac-addresses:
+  - 00:07:89:00:00:00/24
+  - 1C:EC:72:00:00:00/24
+  manufacturer: Allradio Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Allradio
+type: d3-device-type-assertion

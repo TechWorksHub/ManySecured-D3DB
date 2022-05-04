@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1adbb74f-72e1-4c87-96fa-d6dcac81ea8e
+  mac-addresses:
+  - 00:40:85:00:00:00/24
+  manufacturer: Saab Instruments Ab
+  manufacturer-uri: https://device-type.com
+  name: SaabInst
+type: d3-device-type-assertion

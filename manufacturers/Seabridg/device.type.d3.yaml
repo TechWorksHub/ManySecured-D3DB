@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4b446f52-87a5-4170-8833-ac9c0a47899b
+  mac-addresses:
+  - 00:0A:BC:00:00:00/24
+  - 00:50:C2:06:80:00/36
+  manufacturer: Seabridge Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Seabridg
+type: d3-device-type-assertion

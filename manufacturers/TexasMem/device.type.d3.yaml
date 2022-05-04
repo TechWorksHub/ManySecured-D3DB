@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8b9c83c-f565-4278-b596-e165d2ce79ee
+  mac-addresses:
+  - 00:20:C2:00:00:00/24
+  manufacturer: Texas Memory Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TexasMem
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c92cec0-c42b-4d85-b153-a9c000669ace
+  mac-addresses:
+  - 48:91:53:00:00:00/24
+  manufacturer: "Weinmann Ger\xE4te f\xFCr Medizin GmbH + Co. KG"
+  manufacturer-uri: https://device-type.com
+  name: Weinmann
+type: d3-device-type-assertion

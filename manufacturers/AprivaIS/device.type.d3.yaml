@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3daaab45-25ad-4d55-a317-cedeac8740de
+  mac-addresses:
+  - 00:1F:85:00:00:00/24
+  manufacturer: Apriva ISS, LLC
+  manufacturer-uri: https://device-type.com
+  name: AprivaIS
+type: d3-device-type-assertion

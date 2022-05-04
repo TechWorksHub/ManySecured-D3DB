@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 361fc688-bb99-4fd4-b7cc-c70e0a1940e8
+  mac-addresses:
+  - 00:01:A7:00:00:00/24
+  - 00:10:A7:00:00:00/24
+  manufacturer: Unex Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: UnexTech
+type: d3-device-type-assertion

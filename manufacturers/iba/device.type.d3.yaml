@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0efc42c1-8917-484b-b877-0f910b93ff00
+  mac-addresses:
+  - 00:15:BA:00:00:00/24
+  manufacturer: iba AG
+  manufacturer-uri: https://device-type.com
+  name: iba
+type: d3-device-type-assertion

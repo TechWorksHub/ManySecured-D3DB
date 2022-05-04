@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 82813b15-b13d-4c09-8b33-05f457b3f2ea
+  mac-addresses:
+  - 00:01:E0:00:00:00/24
+  - 2C:48:35:70:00:00/28
+  - 58:DB:8D:00:00:00/24
+  manufacturer: Fast Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Fast
+type: d3-device-type-assertion

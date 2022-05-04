@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ce92b493-17ca-4fe8-bb6f-d09847bc5ae6
+  mac-addresses:
+  - 00:50:C2:04:20:00/36
+  - 00:50:C2:70:B0:00/36
+  - 00:50:C2:C3:70:00/36
+  manufacturer: B.E.A.R. Solutions (Australasia) Pty, Ltd
+  manufacturer-uri: https://device-type.com
+  name: BEARSolu
+type: d3-device-type-assertion

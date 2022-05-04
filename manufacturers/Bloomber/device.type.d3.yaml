@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f85d5f81-6921-488f-a16c-4d17d0b72dab
+  mac-addresses:
+  - 00:0C:E9:00:00:00/24
+  manufacturer: Bloomberg L.P.
+  manufacturer-uri: https://device-type.com
+  name: Bloomber
+type: d3-device-type-assertion

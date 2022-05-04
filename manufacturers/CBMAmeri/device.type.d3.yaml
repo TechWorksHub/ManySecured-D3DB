@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a3b997b4-4ffe-4f51-bb7b-f68dd9cd5baf
+  mac-addresses:
+  - 00:1E:7F:00:00:00/24
+  manufacturer: CBM of America
+  manufacturer-uri: https://device-type.com
+  name: CBMAmeri
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 56be1fd0-53a6-4cf9-be73-daea392ae3ce
+  mac-addresses:
+  - 00:30:4F:00:00:00/24
+  - A8:F7:E0:00:00:00/24
+  manufacturer: PLANET Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: PLANETTe
+type: d3-device-type-assertion

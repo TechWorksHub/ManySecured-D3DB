@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 311642a9-8f7c-45f0-83e5-9d73961686cd
+  mac-addresses:
+  - 44:87:DB:00:00:00/24
+  - 9C:0D:AC:00:00:00/24
+  - C8:63:14:20:00:00/28
+  manufacturer: Tymphany Acoustic Technology (Huizhou) Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Tymphany
+type: d3-device-type-assertion

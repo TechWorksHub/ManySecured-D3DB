@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30e9f5f0-c9e9-4e58-88e6-c8fb56cec21c
+  mac-addresses:
+  - AC:5D:10:00:00:00/24
+  manufacturer: Pace Americas
+  manufacturer-uri: https://device-type.com
+  name: PaceAmer
+type: d3-device-type-assertion

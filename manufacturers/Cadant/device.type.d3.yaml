@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5951cdc-04da-4ade-8d7f-1a10b117efe9
+  mac-addresses:
+  - 00:01:5C:00:00:00/24
+  manufacturer: Cadant Inc.
+  manufacturer-uri: https://device-type.com
+  name: Cadant
+type: d3-device-type-assertion

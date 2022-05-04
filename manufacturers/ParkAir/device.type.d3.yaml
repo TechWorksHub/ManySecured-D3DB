@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c9b6698-d83a-4553-bff8-3517d75adf9f
+  mac-addresses:
+  - 00:15:8B:00:00:00/24
+  manufacturer: Park Air Systems Ltd
+  manufacturer-uri: https://device-type.com
+  name: ParkAir
+type: d3-device-type-assertion

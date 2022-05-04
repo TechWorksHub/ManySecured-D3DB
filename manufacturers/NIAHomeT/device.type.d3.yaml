@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b01547c-5fed-4e1b-88ae-cd634320c92f
+  mac-addresses:
+  - 00:06:61:00:00:00/24
+  manufacturer: NIA Home Technologies Corp.
+  manufacturer-uri: https://device-type.com
+  name: NIAHomeT
+type: d3-device-type-assertion

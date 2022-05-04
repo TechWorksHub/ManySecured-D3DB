@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 305eae2e-694c-45e5-a6ed-2dcf301def4c
+  mac-addresses:
+  - 70:B3:D5:E7:E0:00/36
+  - AC:64:DD:B0:00:00/28
+  manufacturer: Groupe Citypassenger Inc
+  manufacturer-uri: https://device-type.com
+  name: GroupeCi
+type: d3-device-type-assertion

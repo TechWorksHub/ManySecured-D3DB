@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cb554f9a-2311-4d3c-b801-1215faa83061
+  mac-addresses:
+  - 00:30:AB:00:00:00/24
+  - 18:BE:92:00:00:00/24
+  - 6C:B9:C5:00:00:00/24
+  manufacturer: Delta Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DeltaNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d9d9433-ff36-4074-bf07-412b47fa0868
+  mac-addresses:
+  - 00:40:02:00:00:00/24
+  manufacturer: Perle Systems Limited
+  manufacturer-uri: https://device-type.com
+  name: Perle
+type: d3-device-type-assertion

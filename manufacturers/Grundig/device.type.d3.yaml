@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9e4bf23-a082-49af-90e6-eb204677cc15
+  mac-addresses:
+  - 00:D0:D5:00:00:00/24
+  - A4:DA:22:A0:00:00/28
+  manufacturer: Grundig Ag
+  manufacturer-uri: https://device-type.com
+  name: Grundig
+type: d3-device-type-assertion

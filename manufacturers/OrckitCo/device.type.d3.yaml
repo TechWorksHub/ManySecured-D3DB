@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0da51ed5-587f-4f17-b67f-be65c4961bf6
+  mac-addresses:
+  - 00:60:E1:00:00:00/24
+  manufacturer: Orckit Communications Ltd.
+  manufacturer-uri: https://device-type.com
+  name: OrckitCo
+type: d3-device-type-assertion

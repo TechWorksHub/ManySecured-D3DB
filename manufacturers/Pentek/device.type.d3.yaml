@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 28c5f380-5281-42ef-8731-c2c6d899d0d2
+  mac-addresses:
+  - 00:60:75:00:00:00/24
+  manufacturer: Pentek, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Pentek
+type: d3-device-type-assertion

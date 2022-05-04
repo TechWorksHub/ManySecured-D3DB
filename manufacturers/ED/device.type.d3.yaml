@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ac5fd0c-daa4-42ff-9832-f85c49b481dd
+  mac-addresses:
+  - 00:1B:02:00:00:00/24
+  manufacturer: ED Co.Ltd
+  manufacturer-uri: https://device-type.com
+  name: ED
+type: d3-device-type-assertion

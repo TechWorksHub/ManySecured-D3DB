@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d38cc8e0-b357-4fb8-84e3-31e81c8d9f43
+  mac-addresses:
+  - 00:0A:EC:00:00:00/24
+  manufacturer: Koatsu Gas Kogyo Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: KoatsuGa
+type: d3-device-type-assertion

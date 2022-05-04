@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50f25cc2-5b55-42a0-af57-7190e7e8909b
+  mac-addresses:
+  - 34:5B:11:00:00:00/24
+  manufacturer: Evi Heat Ab
+  manufacturer-uri: https://device-type.com
+  name: EviHeat
+type: d3-device-type-assertion

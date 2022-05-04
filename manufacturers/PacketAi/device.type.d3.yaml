@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88b66f2d-4b35-44b5-9c51-c046c7ec3b0c
+  mac-addresses:
+  - 00:06:35:00:00:00/24
+  manufacturer: PacketAir Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PacketAi
+type: d3-device-type-assertion

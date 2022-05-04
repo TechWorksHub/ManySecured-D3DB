@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c21055c-0648-4dd8-9a74-b67b7ff39d65
+  mac-addresses:
+  - 00:26:30:00:00:00/24
+  manufacturer: Acorel S.A.S
+  manufacturer-uri: https://device-type.com
+  name: AcorelS
+type: d3-device-type-assertion

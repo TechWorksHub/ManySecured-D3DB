@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f708f469-ec26-4ecb-a910-a17ec59295fd
+  mac-addresses:
+  - 00:0D:B8:00:00:00/24
+  manufacturer: Schiller Ag
+  manufacturer-uri: https://device-type.com
+  name: Schiller
+type: d3-device-type-assertion

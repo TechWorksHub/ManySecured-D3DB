@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0ac8516-a233-489b-aadb-6a526b31b657
+  mac-addresses:
+  - 00:90:02:00:00:00/24
+  manufacturer: Allgon Ab
+  manufacturer-uri: https://device-type.com
+  name: Allgon
+type: d3-device-type-assertion

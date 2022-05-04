@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf0a3092-97f3-43a6-80a1-c26ef9b204c4
+  mac-addresses:
+  - 00:E0:2E:00:00:00/24
+  manufacturer: Spc Electronics Corporation
+  manufacturer-uri: https://device-type.com
+  name: SpcElect
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3205e7ae-3466-4f4f-84f6-288c327ee265
+  mac-addresses:
+  - 00:01:6D:00:00:00/24
+  manufacturer: CarrierComm Inc.
+  manufacturer-uri: https://device-type.com
+  name: CarrierC
+type: d3-device-type-assertion

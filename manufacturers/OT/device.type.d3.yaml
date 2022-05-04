@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23c7585e-a06e-46cb-8e12-28796ceabc26
+  mac-addresses:
+  - 80:34:57:00:00:00/24
+  manufacturer: OT Systems Limited
+  manufacturer-uri: https://device-type.com
+  name: OT
+type: d3-device-type-assertion

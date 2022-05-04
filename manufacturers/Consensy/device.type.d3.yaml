@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3da10763-b7e0-4ac8-a431-e200130f3d14
+  mac-addresses:
+  - 00:0D:7B:00:00:00/24
+  manufacturer: Consensys Computers Inc.
+  manufacturer-uri: https://device-type.com
+  name: Consensy
+type: d3-device-type-assertion

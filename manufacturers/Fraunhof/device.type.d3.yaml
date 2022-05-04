@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 8763418c-c7d2-40ad-b554-4046a178e21c
+  mac-addresses:
+  - 00:11:13:00:00:00/24
+  - 00:12:E8:00:00:00/24
+  - 00:30:4A:00:00:00/24
+  - 00:50:C2:63:10:00/36
+  - 3C:11:B2:00:00:00/24
+  - 40:D8:55:0A:C0:00/36
+  - 70:B3:D5:67:70:00/36
+  - BA:C4:85:00:00:00/24
+  - CC:B5:5A:00:00:00/24
+  manufacturer: Fraunhofer FOKUS
+  manufacturer-uri: https://device-type.com
+  name: Fraunhof
+type: d3-device-type-assertion

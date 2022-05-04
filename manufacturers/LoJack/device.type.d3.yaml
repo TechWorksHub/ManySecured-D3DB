@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c892de82-fd91-49f5-89e2-4aac811a38b1
+  mac-addresses:
+  - 00:25:44:00:00:00/24
+  manufacturer: LoJack Corporation
+  manufacturer-uri: https://device-type.com
+  name: LoJack
+type: d3-device-type-assertion

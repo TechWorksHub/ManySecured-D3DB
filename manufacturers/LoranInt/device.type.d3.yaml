@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1e20be1-5693-46b3-96b8-371c2d5417e8
+  mac-addresses:
+  - 00:60:F8:00:00:00/24
+  manufacturer: Loran International Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: LoranInt
+type: d3-device-type-assertion

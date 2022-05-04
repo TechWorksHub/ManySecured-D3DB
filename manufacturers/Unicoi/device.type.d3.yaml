@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e5a7f6e3-f3a2-4cae-9bcb-2480be045c4e
+  mac-addresses:
+  - 00:50:C2:17:70:00/36
+  - 18:39:19:00:00:00/24
+  manufacturer: Unicoi Systems
+  manufacturer-uri: https://device-type.com
+  name: Unicoi
+type: d3-device-type-assertion

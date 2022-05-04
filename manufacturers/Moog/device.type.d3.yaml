@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56d7febf-39af-4fd8-afed-6966d1d8f7f3
+  mac-addresses:
+  - 00:09:CC:00:00:00/24
+  manufacturer: Moog GmbH
+  manufacturer-uri: https://device-type.com
+  name: Moog
+type: d3-device-type-assertion

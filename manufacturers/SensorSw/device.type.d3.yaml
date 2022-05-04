@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2ff4fd2-eec8-4b5c-a2db-e6a7268aa09c
+  mac-addresses:
+  - 00:1E:EA:00:00:00/24
+  manufacturer: Sensor Switch, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SensorSw
+type: d3-device-type-assertion

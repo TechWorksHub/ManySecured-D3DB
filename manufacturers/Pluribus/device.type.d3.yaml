@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e04fb433-d2a4-44ab-9371-f7ea03c0c9ba
+  mac-addresses:
+  - 64:0E:94:00:00:00/24
+  - E0:AF:4B:00:00:00/24
+  manufacturer: Pluribus Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Pluribus
+type: d3-device-type-assertion

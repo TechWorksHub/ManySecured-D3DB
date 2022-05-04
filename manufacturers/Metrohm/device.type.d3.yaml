@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65d1883c-3671-4497-99e5-6221685f128b
+  mac-addresses:
+  - 00:12:13:00:00:00/24
+  manufacturer: Metrohm AG
+  manufacturer-uri: https://device-type.com
+  name: Metrohm
+type: d3-device-type-assertion

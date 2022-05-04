@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b83c7240-3c3e-4125-a035-e9a2e1d1ffd8
+  mac-addresses:
+  - 08:00:78:00:00:00/24
+  manufacturer: Accell Corporation
+  manufacturer-uri: https://device-type.com
+  name: Accell
+type: d3-device-type-assertion

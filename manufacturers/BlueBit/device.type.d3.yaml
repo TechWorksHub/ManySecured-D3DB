@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e97dcc6-c23a-457d-9790-b3ad9040318b
+  mac-addresses:
+  - 00:3A:AF:00:00:00/24
+  manufacturer: BlueBit Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BlueBit
+type: d3-device-type-assertion

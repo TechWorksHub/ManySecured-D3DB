@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7448d345-4ca3-40f3-a6a7-3e3fb9b3b54f
+  mac-addresses:
+  - 00:A0:35:00:00:00/24
+  manufacturer: Cylink Corporation
+  manufacturer-uri: https://device-type.com
+  name: Cylink
+type: d3-device-type-assertion

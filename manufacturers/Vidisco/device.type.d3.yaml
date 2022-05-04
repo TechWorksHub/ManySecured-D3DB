@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0c0f3b1-5864-4d94-963e-a5f26b4af7fe
+  mac-addresses:
+  - 00:0B:88:00:00:00/24
+  manufacturer: Vidisco ltd.
+  manufacturer-uri: https://device-type.com
+  name: Vidisco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3be9e18f-8e0e-4e77-b04f-afe87a135e74
+  mac-addresses:
+  - 00:13:52:00:00:00/24
+  manufacturer: Naztec, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Naztec
+type: d3-device-type-assertion

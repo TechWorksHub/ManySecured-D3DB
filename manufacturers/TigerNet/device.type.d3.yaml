@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bcf3b3b-54df-47dd-bda3-76ffb7ef9c68
+  mac-addresses:
+  - 00:17:13:00:00:00/24
+  manufacturer: Tiger NetCom
+  manufacturer-uri: https://device-type.com
+  name: TigerNet
+type: d3-device-type-assertion

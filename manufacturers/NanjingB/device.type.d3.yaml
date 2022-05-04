@@ -1,0 +1,15 @@
+credentialSubject:
+  id: a0be9de6-31f6-4386-a6b9-4ce5cc361625
+  mac-addresses:
+  - 1C:A0:EF:50:00:00/28
+  - 44:DB:60:00:00:00/24
+  - 6C:DF:FB:D0:00:00/28
+  - 74:B9:1E:00:00:00/24
+  - 98:27:82:A0:00:00/28
+  - B8:8D:F1:00:00:00/24
+  - C0:61:9A:50:00:00/28
+  - E8:C1:B8:00:00:00/24
+  manufacturer: Nanjing Bilin Intelligent Identification Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: NanjingB
+type: d3-device-type-assertion

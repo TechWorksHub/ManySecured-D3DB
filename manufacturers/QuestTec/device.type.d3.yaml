@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f543d096-c5b0-42c2-83d2-8bddcae63546
+  mac-addresses:
+  - 00:0C:1A:00:00:00/24
+  - 00:11:A8:00:00:00/24
+  manufacturer: Quest Technical Solutions Inc.
+  manufacturer-uri: https://device-type.com
+  name: QuestTec
+type: d3-device-type-assertion

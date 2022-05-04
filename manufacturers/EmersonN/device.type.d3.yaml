@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6c8b1307-320b-4f04-9ae0-76107fa837e0
+  mac-addresses:
+  - 00:09:F5:00:00:00/24
+  - 00:E0:86:00:00:00/24
+  - 14:4F:D7:90:00:00/28
+  manufacturer: Emerson Network Power Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: EmersonN
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 72bb2294-e955-408e-8cbc-30bcc28dbfec
+  mac-addresses:
+  - 00:16:48:00:00:00/24
+  manufacturer: SSD Company Limited
+  manufacturer-uri: https://device-type.com
+  name: SSD
+type: d3-device-type-assertion

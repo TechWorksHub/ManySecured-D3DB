@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 2a560121-007e-4523-864b-597a473e737b
+  mac-addresses:
+  - 48:55:5C:00:00:00/24
+  - 6C:11:B3:00:00:00/24
+  - D8:4D:B9:00:00:00/24
+  - D8:A6:F0:00:00:00/24
+  manufacturer: Wu Qi Technologies,Inc.
+  manufacturer-uri: https://device-type.com
+  name: WuQiTech
+type: d3-device-type-assertion

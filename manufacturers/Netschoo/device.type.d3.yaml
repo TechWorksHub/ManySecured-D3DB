@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 509d045b-4537-44eb-889b-df7392c760b5
+  mac-addresses:
+  - 00:10:3E:00:00:00/24
+  manufacturer: Netschools Corporation
+  manufacturer-uri: https://device-type.com
+  name: Netschoo
+type: d3-device-type-assertion

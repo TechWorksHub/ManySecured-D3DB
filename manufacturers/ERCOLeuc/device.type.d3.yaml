@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 312bfdf8-e337-46a6-b904-de1f32084619
+  mac-addresses:
+  - 00:1A:93:00:00:00/24
+  manufacturer: ERCO Leuchten GmbH
+  manufacturer-uri: https://device-type.com
+  name: ERCOLeuc
+type: d3-device-type-assertion

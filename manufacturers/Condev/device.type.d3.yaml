@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0df1b5a3-7559-4df6-b5cd-49f00859d944
+  mac-addresses:
+  - 00:03:1F:00:00:00/24
+  manufacturer: Condev Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Condev
+type: d3-device-type-assertion

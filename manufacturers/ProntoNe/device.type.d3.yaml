@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95e31e97-e424-49b4-85cf-992e387252aa
+  mac-addresses:
+  - 00:0C:66:00:00:00/24
+  manufacturer: Pronto Networks Inc
+  manufacturer-uri: https://device-type.com
+  name: ProntoNe
+type: d3-device-type-assertion

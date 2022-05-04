@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e47f1c4c-f593-4856-a211-1831f29350b3
+  mac-addresses:
+  - 00:16:81:00:00:00/24
+  manufacturer: Vector Informatik GmbH
+  manufacturer-uri: https://device-type.com
+  name: VectorIn
+type: d3-device-type-assertion

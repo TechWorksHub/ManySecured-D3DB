@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d5fa806-dab7-47e3-aa10-d206a5b7940f
+  mac-addresses:
+  - 00:50:C2:62:40:00/36
+  manufacturer: Comtest Networks
+  manufacturer-uri: https://device-type.com
+  name: ComtestN
+type: d3-device-type-assertion

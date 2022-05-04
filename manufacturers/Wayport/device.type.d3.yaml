@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27db2516-3aec-4755-98e7-0a1f37bf4a1d
+  mac-addresses:
+  - 00:01:B4:00:00:00/24
+  manufacturer: Wayport, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Wayport
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9147599e-606f-4b58-90b7-f5fbd0e0d444
+  mac-addresses:
+  - 54:1D:FB:00:00:00/24
+  - 7C:D7:62:00:00:00/24
+  manufacturer: Freestyle Energy Ltd
+  manufacturer-uri: https://device-type.com
+  name: Freestyl
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 708cb460-155f-43b1-99f3-513299ae3956
+  mac-addresses:
+  - 00:60:B4:00:00:00/24
+  - 00:D0:92:00:00:00/24
+  manufacturer: Glenayre R&D Inc.
+  manufacturer-uri: https://device-type.com
+  name: Glenayre
+type: d3-device-type-assertion

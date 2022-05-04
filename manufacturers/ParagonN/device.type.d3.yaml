@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2cc01b1-4f88-4519-8ec0-45a29137b01b
+  mac-addresses:
+  - 00:02:35:00:00:00/24
+  manufacturer: Paragon Networks International
+  manufacturer-uri: https://device-type.com
+  name: ParagonN
+type: d3-device-type-assertion

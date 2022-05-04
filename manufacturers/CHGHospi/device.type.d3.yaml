@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 39ac8263-eb67-444f-b746-23f99027f7d0
+  mac-addresses:
+  - 98:4A:47:00:00:00/24
+  manufacturer: CHG Hospital Beds
+  manufacturer-uri: https://device-type.com
+  name: CHGHospi
+type: d3-device-type-assertion

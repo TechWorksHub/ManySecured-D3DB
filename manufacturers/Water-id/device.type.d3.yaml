@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e86cb566-e602-4dc4-ac01-e097c8d4a03b
+  mac-addresses:
+  - 60:44:7A:00:00:00/24
+  manufacturer: Water-i.d. GmbH
+  manufacturer-uri: https://device-type.com
+  name: Water-id
+type: d3-device-type-assertion

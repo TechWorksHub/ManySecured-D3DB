@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 883b16cf-ccdb-447e-913f-f50fbe18807f
+  mac-addresses:
+  - 00:13:86:00:00:00/24
+  manufacturer: ABB Inc/Totalflow
+  manufacturer-uri: https://device-type.com
+  name: ABBTotal
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ea820eb-3781-4c71-bd7c-11197ee7433f
+  mac-addresses:
+  - 00:60:60:00:00:00/24
+  manufacturer: Data Innovations North America
+  manufacturer-uri: https://device-type.com
+  name: DataInno
+type: d3-device-type-assertion

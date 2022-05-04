@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fdca3fcf-df53-42b1-a4ca-40d17ffb3fcb
+  mac-addresses:
+  - 48:65:EE:00:00:00/28
+  manufacturer: DefPower Ltd
+  manufacturer-uri: https://device-type.com
+  name: DefPower
+type: d3-device-type-assertion

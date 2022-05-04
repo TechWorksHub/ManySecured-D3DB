@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1071f1a-9334-437d-90b4-4bda8f539c05
+  mac-addresses:
+  - 74:7E:1A:00:00:00/24
+  manufacturer: Red Embedded Design Limited
+  manufacturer-uri: https://device-type.com
+  name: RedEmbed
+type: d3-device-type-assertion

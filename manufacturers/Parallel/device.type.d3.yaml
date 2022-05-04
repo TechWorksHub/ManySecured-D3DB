@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 1dd7691a-d2dc-4cb5-8266-d31d12a88a14
+  mac-addresses:
+  - 00:1C:42:00:00:00/24
+  - 2C:A5:39:00:00:00/24
+  - 40:D8:55:06:50:00/36
+  manufacturer: Parallels, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Parallel
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bad77528-0476-43e0-b29d-48bfe8f26e96
+  mac-addresses:
+  - C4:36:DA:00:00:00/24
+  manufacturer: Rusteletech Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Rustelet
+type: d3-device-type-assertion

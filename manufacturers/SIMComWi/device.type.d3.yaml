@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7bb8d6a5-b6c8-4a2b-b9df-2542ba697e08
+  mac-addresses:
+  - 38:1C:4A:00:00:00/24
+  - 48:E6:C0:00:00:00/24
+  - 5C:46:B0:00:00:00/24
+  manufacturer: SIMCom Wireless Solutions Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SIMComWi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbc65bc2-9261-4084-84b2-9dff969c070b
+  mac-addresses:
+  - 00:1C:82:00:00:00/24
+  manufacturer: Genew Technologies
+  manufacturer-uri: https://device-type.com
+  name: GenewTec
+type: d3-device-type-assertion

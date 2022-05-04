@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb3ac788-9f6d-4d41-81f9-4d2629e34de0
+  mac-addresses:
+  - 00:30:2E:00:00:00/24
+  manufacturer: Hoft & Wessel AG
+  manufacturer-uri: https://device-type.com
+  name: HoftWess
+type: d3-device-type-assertion

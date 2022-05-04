@@ -1,0 +1,8 @@
+credentialSubject:
+  id: beb32a9f-b730-47ac-8dba-f9b77dab62cf
+  mac-addresses:
+  - 00:15:0B:00:00:00/24
+  manufacturer: Sage Infotech Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SageInfo
+type: d3-device-type-assertion

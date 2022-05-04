@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc2fa215-aeb1-412f-b30f-b2e30e65df60
+  mac-addresses:
+  - 00:C0:A3:00:00:00/24
+  manufacturer: Dual Enterprises Corporation
+  manufacturer-uri: https://device-type.com
+  name: DualEnte
+type: d3-device-type-assertion

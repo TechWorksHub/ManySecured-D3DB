@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c230dc1-1a2c-4855-856a-919fb4576ec3
+  mac-addresses:
+  - 00:1E:18:00:00:00/24
+  manufacturer: Radio Activity srl
+  manufacturer-uri: https://device-type.com
+  name: RadioAct
+type: d3-device-type-assertion

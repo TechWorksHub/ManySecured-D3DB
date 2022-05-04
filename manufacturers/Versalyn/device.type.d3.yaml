@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fc9fb1f-a549-4d46-9251-5c50566d9ff3
+  mac-addresses:
+  - 00:20:D0:00:00:00/24
+  manufacturer: Versalynx Corp.
+  manufacturer-uri: https://device-type.com
+  name: Versalyn
+type: d3-device-type-assertion

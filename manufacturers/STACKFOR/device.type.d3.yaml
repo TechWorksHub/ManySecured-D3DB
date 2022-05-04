@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 01584352-5e49-4121-9bbb-f4785a70a0b3
+  mac-addresses:
+  - 58:48:49:80:00:00/28
+  - 70:B3:D5:E8:70:00/36
+  manufacturer: STACKFORCE GmbH
+  manufacturer-uri: https://device-type.com
+  name: STACKFOR
+type: d3-device-type-assertion

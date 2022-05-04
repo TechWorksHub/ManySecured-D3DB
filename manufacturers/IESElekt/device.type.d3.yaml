@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c502ab17-9d73-4ff4-ada5-3af4db861b3a
+  mac-addresses:
+  - 00:50:C2:77:20:00/36
+  manufacturer: IES Elektronikentwicklung
+  manufacturer-uri: https://device-type.com
+  name: IESElekt
+type: d3-device-type-assertion

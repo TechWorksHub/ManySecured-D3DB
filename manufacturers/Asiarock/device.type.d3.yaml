@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 85ea7176-8d58-4765-a2e2-24f778e3027f
+  mac-addresses:
+  - 00:0B:6A:00:00:00/24
+  - 00:13:8F:00:00:00/24
+  - 00:19:66:00:00:00/24
+  manufacturer: Asiarock Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: Asiarock
+type: d3-device-type-assertion

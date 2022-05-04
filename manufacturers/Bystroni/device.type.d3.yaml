@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee1a3a22-d4bc-4d3f-a47d-0866c9d7779d
+  mac-addresses:
+  - 00:21:EA:00:00:00/24
+  manufacturer: Bystronic Laser AG
+  manufacturer-uri: https://device-type.com
+  name: Bystroni
+type: d3-device-type-assertion

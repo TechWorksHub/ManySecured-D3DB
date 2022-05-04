@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 43a2e607-7e06-4da3-a559-487b2f6a8b6d
+  mac-addresses:
+  - 00:50:C2:76:C0:00/36
+  - 70:B3:D5:89:70:00/36
+  manufacturer: EFG CZ spol. s r.o.
+  manufacturer-uri: https://device-type.com
+  name: EFGCZspo
+type: d3-device-type-assertion

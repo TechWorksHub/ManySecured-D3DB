@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 834302b8-fa6d-4906-8bb0-d96819096833
+  mac-addresses:
+  - 00:11:5A:00:00:00/24
+  manufacturer: Ivoclar Vivadent AG
+  manufacturer-uri: https://device-type.com
+  name: IvoclarV
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8892550-5be4-422c-a1c4-e898a51697bb
+  mac-addresses:
+  - 00:0C:4A:00:00:00/24
+  manufacturer: Cygnus Microsystems (P) Limited
+  manufacturer-uri: https://device-type.com
+  name: CygnusMi
+type: d3-device-type-assertion

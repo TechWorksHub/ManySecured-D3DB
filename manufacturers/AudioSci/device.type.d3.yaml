@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46bdabc2-a757-44de-8c29-278b55007732
+  mac-addresses:
+  - 00:1C:F7:00:00:00/24
+  manufacturer: AudioScience
+  manufacturer-uri: https://device-type.com
+  name: AudioSci
+type: d3-device-type-assertion

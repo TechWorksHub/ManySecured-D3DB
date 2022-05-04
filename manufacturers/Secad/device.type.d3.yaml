@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 66ed7b25-03ee-48da-bb4d-a236bc120278
+  mac-addresses:
+  - 00:50:C2:C3:90:00/36
+  - 38:B8:EB:A0:00:00/28
+  manufacturer: Secad Sa
+  manufacturer-uri: https://device-type.com
+  name: Secad
+type: d3-device-type-assertion

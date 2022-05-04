@@ -1,0 +1,19 @@
+credentialSubject:
+  id: 2d4243cf-be0d-485e-a10f-607b389768ee
+  mac-addresses:
+  - 00:00:01:00:00:00/24
+  - 00:00:02:00:00:00/24
+  - 00:00:03:00:00:00/24
+  - 00:00:04:00:00:00/24
+  - 00:00:05:00:00:00/24
+  - 00:00:06:00:00:00/24
+  - 00:00:07:00:00:00/24
+  - 00:00:08:00:00:00/24
+  - 00:55:00:00:00:00/24
+  - 9C:93:4E:00:00:00/24
+  - C0:FB:F9:00:00:00/28
+  - E8:4D:EC:00:00:00/24
+  manufacturer: Xerox Corporation
+  manufacturer-uri: https://device-type.com
+  name: Xerox
+type: d3-device-type-assertion

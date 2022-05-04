@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb7791df-bf9a-4492-a2c4-4374c66b992e
+  mac-addresses:
+  - 00:00:8D:00:00:00/24
+  manufacturer: Cryptek Inc.
+  manufacturer-uri: https://device-type.com
+  name: Cryptek
+type: d3-device-type-assertion

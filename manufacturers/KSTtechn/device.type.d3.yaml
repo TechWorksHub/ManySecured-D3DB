@@ -1,0 +1,23 @@
+credentialSubject:
+  id: d9e40781-a7a3-4c05-85f7-82b25d7aabd9
+  mac-addresses:
+  - 00:50:C2:FF:80:00/36
+  - 40:D8:55:18:60:00/36
+  - 4C:AB:33:00:00:00/24
+  - 70:B3:D5:01:20:00/36
+  - 70:B3:D5:0A:B0:00/36
+  - 70:B3:D5:20:B0:00/36
+  - 70:B3:D5:35:10:00/36
+  - 70:B3:D5:3D:B0:00/36
+  - 70:B3:D5:7F:40:00/36
+  - 70:B3:D5:86:10:00/36
+  - 70:B3:D5:8A:50:00/36
+  - 70:B3:D5:8B:B0:00/36
+  - 70:B3:D5:C0:50:00/36
+  - 70:B3:D5:C8:D0:00/36
+  - 70:B3:D5:CB:30:00/36
+  - 70:B3:D5:F7:B0:00/36
+  manufacturer: KST technology
+  manufacturer-uri: https://device-type.com
+  name: KSTtechn
+type: d3-device-type-assertion

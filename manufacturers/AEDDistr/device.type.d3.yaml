@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1adccfaf-1c10-459a-ba2b-aa5958a0501e
+  mac-addresses:
+  - 50:62:55:C0:00:00/28
+  manufacturer: AED Distribution
+  manufacturer-uri: https://device-type.com
+  name: AEDDistr
+type: d3-device-type-assertion

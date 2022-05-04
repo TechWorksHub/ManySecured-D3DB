@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07b4bcac-796e-4c97-be8e-aff8bc8f1d4d
+  mac-addresses:
+  - 00:0A:81:00:00:00/24
+  manufacturer: TEIMA Audiotex S.L.
+  manufacturer-uri: https://device-type.com
+  name: TEIMAAud
+type: d3-device-type-assertion

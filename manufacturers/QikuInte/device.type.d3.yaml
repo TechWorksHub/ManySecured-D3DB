@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 48b9547a-af8e-40a7-9469-529e8fb0b54f
+  mac-addresses:
+  - 04:50:DA:00:00:00/24
+  - 74:AC:5F:00:00:00/24
+  manufacturer: Qiku Internet Network Scientific (Shenzhen) Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: QikuInte
+type: d3-device-type-assertion

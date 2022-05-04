@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1941c33-81fd-43b8-8ccf-2b427c22ebc5
+  mac-addresses:
+  - 00:20:38:00:00:00/24
+  manufacturer: Vme Microsystems International Corporation
+  manufacturer-uri: https://device-type.com
+  name: VmeMicro
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f3bebfe4-11e8-49a3-93d6-6a8cb74a77cd
+  mac-addresses:
+  - 04:AB:18:00:00:00/24
+  - 38:97:A4:00:00:00/24
+  - 48:04:9F:00:00:00/24
+  - BC:5C:4C:00:00:00/24
+  manufacturer: Elecom Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Elecom
+type: d3-device-type-assertion

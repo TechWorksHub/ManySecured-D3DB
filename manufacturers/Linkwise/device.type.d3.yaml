@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 302e428a-82ba-4371-a354-44f155b5ebf1
+  mac-addresses:
+  - 00:1C:96:00:00:00/24
+  - 1C:AE:3E:20:00:00/28
+  manufacturer: Linkwise Technology Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: Linkwise
+type: d3-device-type-assertion

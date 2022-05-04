@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9f7a290-6cd3-4acb-b3fa-0d869a3d9b69
+  mac-addresses:
+  - 84:B3:1B:00:00:00/24
+  manufacturer: Kinexon GmbH
+  manufacturer-uri: https://device-type.com
+  name: Kinexon
+type: d3-device-type-assertion

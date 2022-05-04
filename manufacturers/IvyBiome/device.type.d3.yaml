@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5c4c71f-8dd9-4de7-8914-d2564c289f2a
+  mac-addresses:
+  - 38:6C:9B:00:00:00/24
+  manufacturer: Ivy Biomedical
+  manufacturer-uri: https://device-type.com
+  name: IvyBiome
+type: d3-device-type-assertion

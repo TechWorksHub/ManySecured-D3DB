@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4cc47ad3-df15-4c3b-84c7-c0ca03635a4c
+  mac-addresses:
+  - 00:10:BB:00:00:00/24
+  - 70:B3:D5:56:60:00/36
+  manufacturer: Data & Information Technology
+  manufacturer-uri: https://device-type.com
+  name: DataInfo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9c3d812-a6d5-40ce-958e-051cc7d37315
+  mac-addresses:
+  - 00:C0:94:00:00:00/24
+  manufacturer: Vmx Inc.
+  manufacturer-uri: https://device-type.com
+  name: Vmx
+type: d3-device-type-assertion

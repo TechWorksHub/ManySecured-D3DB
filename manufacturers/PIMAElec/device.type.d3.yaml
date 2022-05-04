@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dee9e5f3-e98f-49b7-a962-2bd23ad74650
+  mac-addresses:
+  - 00:22:F8:00:00:00/24
+  manufacturer: PIMA Electronic Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PIMAElec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e02e3f3d-6c57-452b-8b28-dfdaf2701718
+  mac-addresses:
+  - 00:50:96:00:00:00/24
+  - 20:57:21:00:00:00/24
+  manufacturer: Salix Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SalixTec
+type: d3-device-type-assertion

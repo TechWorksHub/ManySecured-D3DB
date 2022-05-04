@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 57764a57-9502-4548-af08-50bfefd1b548
+  mac-addresses:
+  - 00:00:83:00:00:00/24
+  manufacturer: Tadpole Technology  [had Optical Data Systems which is wrong according
+    to both]
+  manufacturer-uri: https://device-type.com
+  name: TadpoleT
+type: d3-device-type-assertion

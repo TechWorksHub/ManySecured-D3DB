@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a8e8912-8ac5-4f18-8a9d-1dc1287548a7
+  mac-addresses:
+  - 00:1A:CE:00:00:00/24
+  manufacturer: Yupiteru Corporation
+  manufacturer-uri: https://device-type.com
+  name: Yupiteru
+type: d3-device-type-assertion

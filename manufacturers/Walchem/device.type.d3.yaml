@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 760e3260-9144-40f4-9c4d-0912267ccd01
+  mac-addresses:
+  - 00:0A:6C:00:00:00/24
+  manufacturer: Walchem Corporation
+  manufacturer-uri: https://device-type.com
+  name: Walchem
+type: d3-device-type-assertion

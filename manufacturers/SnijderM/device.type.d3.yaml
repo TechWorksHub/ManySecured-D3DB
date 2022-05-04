@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8eb1d38-5097-4cbc-b309-dfadcbb9e968
+  mac-addresses:
+  - 00:D0:0C:00:00:00/24
+  manufacturer: Snijder Micro Systems
+  manufacturer-uri: https://device-type.com
+  name: SnijderM
+type: d3-device-type-assertion

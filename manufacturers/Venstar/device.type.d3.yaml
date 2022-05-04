@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43c3a4e8-e98e-4847-856f-2ea2c6031b7a
+  mac-addresses:
+  - 00:11:26:00:00:00/24
+  manufacturer: Venstar Inc.
+  manufacturer-uri: https://device-type.com
+  name: Venstar
+type: d3-device-type-assertion

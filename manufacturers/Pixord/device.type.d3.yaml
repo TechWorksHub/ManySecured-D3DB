@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 34810533-389c-4896-9dbc-346bdc82027e
+  mac-addresses:
+  - 00:04:29:00:00:00/24
+  - 18:52:53:00:00:00/24
+  manufacturer: Pixord Corporation
+  manufacturer-uri: https://device-type.com
+  name: Pixord
+type: d3-device-type-assertion

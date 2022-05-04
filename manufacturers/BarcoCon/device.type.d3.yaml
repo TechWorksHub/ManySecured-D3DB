@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7678b042-f516-46b9-a2a5-75f02ef167f9
+  mac-addresses:
+  - 00:00:63:00:00:00/24
+  manufacturer: Barco Control Rooms Gmbh
+  manufacturer-uri: https://device-type.com
+  name: BarcoCon
+type: d3-device-type-assertion

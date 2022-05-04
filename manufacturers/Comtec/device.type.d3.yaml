@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f68d6be5-8c49-4192-9b78-84f0f597d17c
+  mac-addresses:
+  - 00:E0:1A:00:00:00/24
+  - 90:D8:52:00:00:00/24
+  manufacturer: Comtec Systems. Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Comtec
+type: d3-device-type-assertion

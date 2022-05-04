@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 65c26edc-b61b-4c08-adcb-dfd99b169f19
+  mac-addresses:
+  - 18:AE:BB:00:00:00/24
+  - 24:ED:FD:00:00:00/24
+  - 50:00:84:00:00:00/24
+  manufacturer: Siemens Convergence Creators GmbH&Co.KG
+  manufacturer-uri: https://device-type.com
+  name: SiemensC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 84d9e2a5-1378-44d5-a57f-92c86736a562
+  mac-addresses:
+  - 5C:2B:F5:00:00:00/24
+  - A0:FE:61:00:00:00/24
+  manufacturer: Vivint Wireless Inc.
+  manufacturer-uri: https://device-type.com
+  name: VivintWi
+type: d3-device-type-assertion

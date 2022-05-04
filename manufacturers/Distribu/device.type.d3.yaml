@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b4768c34-3416-4128-b662-71ccb277c013
+  mac-addresses:
+  - 00:90:E2:00:00:00/24
+  - 00:C0:9D:00:00:00/24
+  manufacturer: Distributed Processing Technology
+  manufacturer-uri: https://device-type.com
+  name: Distribu
+type: d3-device-type-assertion

@@ -1,0 +1,13 @@
+credentialSubject:
+  id: c95d23e9-abdb-4ab7-af0f-af387bd54424
+  mac-addresses:
+  - 00:50:C2:58:90:00/36
+  - 00:50:C2:EF:90:00/36
+  - 40:D8:55:1B:D0:00/36
+  - 70:B3:D5:AB:80:00/36
+  - 70:B3:D5:B0:00:00/36
+  - 8C:1F:64:C0:10:00/36
+  manufacturer: Horiba Abx Sas
+  manufacturer-uri: https://device-type.com
+  name: HoribaAb
+type: d3-device-type-assertion

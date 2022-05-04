@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb7ced5e-809e-4f7e-b642-c6c558e8c8cb
+  mac-addresses:
+  - CC:BD:35:00:00:00/24
+  manufacturer: Steinel GmbH
+  manufacturer-uri: https://device-type.com
+  name: Steinel
+type: d3-device-type-assertion

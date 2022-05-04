@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8766ee4-3fd2-4bb7-8b39-827ea29b4dbc
+  mac-addresses:
+  - 00:19:BC:00:00:00/24
+  - 00:50:C2:B4:C0:00/36
+  manufacturer: Electro Chance Srl
+  manufacturer-uri: https://device-type.com
+  name: ElectroC
+type: d3-device-type-assertion

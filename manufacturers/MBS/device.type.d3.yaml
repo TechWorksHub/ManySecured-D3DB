@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b555326e-b39e-4f4a-8370-92e4b054d0dc
+  mac-addresses:
+  - 00:1F:25:00:00:00/24
+  manufacturer: MBS GmbH
+  manufacturer-uri: https://device-type.com
+  name: MBS
+type: d3-device-type-assertion

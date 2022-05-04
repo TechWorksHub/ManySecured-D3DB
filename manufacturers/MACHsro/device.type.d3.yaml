@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34f1e905-cafe-425d-9aae-61b91369e09a
+  mac-addresses:
+  - FC:61:79:90:00:00/28
+  manufacturer: MACH SYSTEMS s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: MACHsro
+type: d3-device-type-assertion

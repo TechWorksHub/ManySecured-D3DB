@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2713330e-a416-4cdd-ae29-4df3fe3f8e44
+  mac-addresses:
+  - 00:12:6C:00:00:00/24
+  - 00:25:55:00:00:00/24
+  manufacturer: Visonic Technologies 1993 Ltd.
+  manufacturer-uri: https://device-type.com
+  name: VisonicT
+type: d3-device-type-assertion

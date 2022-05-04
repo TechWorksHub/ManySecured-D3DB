@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a7224137-478e-42c7-a194-477b5244dd12
+  mac-addresses:
+  - 00:50:C2:2A:60:00/36
+  - 08:26:AE:C0:00:00/28
+  manufacturer: Brannstroms Elektronik AB
+  manufacturer-uri: https://device-type.com
+  name: Brannstr
+type: d3-device-type-assertion

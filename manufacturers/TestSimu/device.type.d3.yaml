@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1270089-a9ce-4c90-9599-64c3f2154cac
+  mac-addresses:
+  - 00:80:2A:00:00:00/24
+  manufacturer: Test Systems & Simulations Inc
+  manufacturer-uri: https://device-type.com
+  name: TestSimu
+type: d3-device-type-assertion

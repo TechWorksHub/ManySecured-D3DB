@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee8da446-9962-49e3-a09d-fe2fca2ae7bb
+  mac-addresses:
+  - 00:40:6E:00:00:00/24
+  manufacturer: Corollary, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Corollar
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1a5193d-fd56-43d4-8bc4-c336d175c41e
+  mac-addresses:
+  - 00:09:66:00:00:00/24
+  manufacturer: Trimble Europe Bv
+  manufacturer-uri: https://device-type.com
+  name: TrimbleE
+type: d3-device-type-assertion

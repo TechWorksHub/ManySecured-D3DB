@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 098f9466-6a18-4dd4-a9e6-0b2ff10e35ab
+  mac-addresses:
+  - 70:B3:D5:A7:80:00/36
+  - A4:DA:3F:00:00:00/24
+  manufacturer: Bionics co.,ltd.
+  manufacturer-uri: https://device-type.com
+  name: Bionics
+type: d3-device-type-assertion

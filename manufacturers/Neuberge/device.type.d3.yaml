@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2c1a108c-1e28-4438-98f7-570e4a197796
+  mac-addresses:
+  - 00:50:C2:07:20:00/36
+  - D0:A3:11:00:00:00/24
+  manufacturer: Neuberger Gebaeudeautomation GmbH & Co.
+  manufacturer-uri: https://device-type.com
+  name: Neuberge
+type: d3-device-type-assertion

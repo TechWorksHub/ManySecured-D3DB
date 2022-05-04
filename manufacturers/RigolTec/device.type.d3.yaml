@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d632aa6-ccac-49a0-a226-3828e5c6969e
+  mac-addresses:
+  - 00:19:AF:00:00:00/24
+  manufacturer: Rigol Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: RigolTec
+type: d3-device-type-assertion

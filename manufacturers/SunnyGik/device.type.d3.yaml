@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0c505a4-5970-415d-9167-60e4aa194b35
+  mac-addresses:
+  - 00:06:65:00:00:00/24
+  manufacturer: Sunny Giken, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SunnyGik
+type: d3-device-type-assertion

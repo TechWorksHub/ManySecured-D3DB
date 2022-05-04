@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5d86697-591d-40ec-a81c-e9a70c04d8ca
+  mac-addresses:
+  - 00:50:42:00:00:00/24
+  manufacturer: Sci Manufacturing Singapore Pte, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SciManuf
+type: d3-device-type-assertion

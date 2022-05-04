@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6af18532-ce0a-463d-88ec-d6e4d37f978b
+  mac-addresses:
+  - 00:17:52:00:00:00/24
+  manufacturer: DAGS, Inc
+  manufacturer-uri: https://device-type.com
+  name: DAGS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01f793e6-320d-4aaf-b100-9becac4cbfc9
+  mac-addresses:
+  - 24:18:C0:00:00:00/24
+  manufacturer: E. Wehrle GmbH
+  manufacturer-uri: https://device-type.com
+  name: EWehrle
+type: d3-device-type-assertion

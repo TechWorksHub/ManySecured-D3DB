@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c0108a92-706e-4cf2-9e64-ce3e35585e25
+  mac-addresses:
+  - 00:25:3E:00:00:00/24
+  - 00:50:C2:47:30:00/36
+  manufacturer: Sensus Metering Systems
+  manufacturer-uri: https://device-type.com
+  name: SensusMe
+type: d3-device-type-assertion

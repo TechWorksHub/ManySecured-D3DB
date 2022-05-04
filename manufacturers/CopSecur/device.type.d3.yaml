@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b6727a5-9cb8-451e-8e35-5f1d285b86d3
+  mac-addresses:
+  - 00:26:1D:00:00:00/24
+  manufacturer: Cop Security System Corp.
+  manufacturer-uri: https://device-type.com
+  name: CopSecur
+type: d3-device-type-assertion

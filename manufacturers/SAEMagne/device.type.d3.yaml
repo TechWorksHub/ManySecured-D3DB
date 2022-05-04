@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c7d0b15-7193-429c-945b-341f329b8296
+  mac-addresses:
+  - 00:26:1F:00:00:00/24
+  manufacturer: SAE Magnetics (H.K.) Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SAEMagne
+type: d3-device-type-assertion

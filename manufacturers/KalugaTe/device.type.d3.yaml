@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3ee4a64a-f0bf-4113-b183-3f4a11be8b0f
+  mac-addresses:
+  - 00:50:C2:F9:D0:00/36
+  - 40:D8:55:1D:30:00/36
+  manufacturer: JSC "Kaluga Teletypes Manufacturing Plant"
+  manufacturer-uri: https://device-type.com
+  name: KalugaTe
+type: d3-device-type-assertion

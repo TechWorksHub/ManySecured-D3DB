@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a4bdcfc-58bd-45f7-a003-6717aba56105
+  mac-addresses:
+  - 98:73:C4:00:00:00/24
+  manufacturer: Sage Electronic Engineering LLC
+  manufacturer-uri: https://device-type.com
+  name: SageElec
+type: d3-device-type-assertion

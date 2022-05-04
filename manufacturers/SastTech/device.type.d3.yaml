@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 62abffaa-2f57-4820-a61e-094ce834c2b2
+  mac-addresses:
+  - 00:20:A8:00:00:00/24
+  manufacturer: Sast Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: SastTech
+type: d3-device-type-assertion

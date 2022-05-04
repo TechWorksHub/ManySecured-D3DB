@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 9256c6c7-be23-4915-8a8a-7b869ac328b5
+  mac-addresses:
+  - 00:00:EB:00:00:00/24
+  - 00:0B:97:00:00:00/24
+  - 00:0D:2E:00:00:00/24
+  - 00:10:1E:00:00:00/24
+  - 00:13:43:00:00:00/24
+  - 00:80:45:00:00:00/24
+  manufacturer: Matsushita Comm. Ind. Co. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Matsushi
+type: d3-device-type-assertion

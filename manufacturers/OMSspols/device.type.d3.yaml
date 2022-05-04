@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42ee2a7e-934c-482b-a8ce-c075eace994e
+  mac-addresses:
+  - 84:F4:93:00:00:00/24
+  manufacturer: OMS spol. s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: OMSspols
+type: d3-device-type-assertion

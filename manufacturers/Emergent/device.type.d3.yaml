@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cb06a2e9-3b98-49b0-9b6d-db3c4841e434
+  mac-addresses:
+  - 00:1C:71:00:00:00/24
+  - E0:55:97:00:00:00/24
+  manufacturer: Emergent Electronics
+  manufacturer-uri: https://device-type.com
+  name: Emergent
+type: d3-device-type-assertion

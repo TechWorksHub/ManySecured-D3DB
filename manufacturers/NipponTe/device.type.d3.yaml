@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9d15dd0-1877-48aa-b30f-af9dc52296cd
+  mac-addresses:
+  - 00:00:D9:00:00:00/24
+  - 40:D8:55:1D:B0:00/36
+  manufacturer: Nippon Telegraph & Telephone
+  manufacturer-uri: https://device-type.com
+  name: NipponTe
+type: d3-device-type-assertion

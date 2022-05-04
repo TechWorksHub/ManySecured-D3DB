@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de6ef4bc-cb44-4ad0-ae6f-dd18dc1651ce
+  mac-addresses:
+  - E0:58:9E:00:00:00/24
+  manufacturer: Laerdal Medical
+  manufacturer-uri: https://device-type.com
+  name: LaerdalM
+type: d3-device-type-assertion

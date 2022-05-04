@@ -1,0 +1,24 @@
+credentialSubject:
+  id: 20384135-1146-4f75-b003-8fed9b0db884
+  mac-addresses:
+  - 04:F9:93:00:00:00/24
+  - 0C:01:DB:00:00:00/24
+  - 30:56:96:00:00:00/24
+  - 58:10:B7:00:00:00/24
+  - 74:C1:7D:00:00:00/24
+  - 80:79:5D:00:00:00/24
+  - 98:74:DA:00:00:00/24
+  - 98:DD:EA:00:00:00/24
+  - AC:23:34:00:00:00/24
+  - AC:29:29:00:00:00/24
+  - AC:51:2C:00:00:00/24
+  - BA:07:DA:00:00:00/24
+  - BC:91:B5:00:00:00/24
+  - C8:54:A4:00:00:00/24
+  - DC:6A:EA:00:00:00/24
+  - E8:C2:DD:00:00:00/24
+  - FC:29:E3:00:00:00/24
+  manufacturer: Infinix mobility limited
+  manufacturer-uri: https://device-type.com
+  name: Infinixm
+type: d3-device-type-assertion

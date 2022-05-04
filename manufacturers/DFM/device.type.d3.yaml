@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eadcf664-84a9-48a6-ba48-2ca8da60f5ba
+  mac-addresses:
+  - 00:15:55:00:00:00/24
+  manufacturer: DFM GmbH
+  manufacturer-uri: https://device-type.com
+  name: DFM
+type: d3-device-type-assertion

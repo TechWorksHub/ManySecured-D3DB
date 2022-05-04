@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 116acd26-9dd6-4ae8-8bb2-eb82f2b84f6b
+  mac-addresses:
+  - 00:10:D2:00:00:00/24
+  manufacturer: Nitto Tsushinki Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: NittoTsu
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 26a32ac0-75f3-403f-9721-701458b8a3fb
+  mac-addresses:
+  - 00:02:79:00:00:00/24
+  - 00:50:C2:55:50:00/36
+  manufacturer: Control Applications, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ControlA
+type: d3-device-type-assertion

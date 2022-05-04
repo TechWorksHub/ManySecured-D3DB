@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e9ad522d-1d18-45f9-a6db-79b734284c6f
+  mac-addresses:
+  - 00:05:AA:00:00:00/24
+  manufacturer: Moore Industries International Inc.
+  manufacturer-uri: https://device-type.com
+  name: MooreInd
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a2d1239d-18e5-44a6-8599-b7c25a6f38f8
+  mac-addresses:
+  - 00:21:99:00:00:00/24
+  - 00:50:C2:3E:50:00/36
+  manufacturer: Vacon Plc
+  manufacturer-uri: https://device-type.com
+  name: Vacon
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be2e7627-6c3a-4495-ad80-d56d822336a1
+  mac-addresses:
+  - 04:11:19:90:00:00/28
+  manufacturer: AC Power Distribution / ACT Entmt.
+  manufacturer-uri: https://device-type.com
+  name: ACPowerD
+type: d3-device-type-assertion

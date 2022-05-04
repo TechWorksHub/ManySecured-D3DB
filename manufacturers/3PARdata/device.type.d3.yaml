@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ae4f028-776c-443e-b398-e528a185596d
+  mac-addresses:
+  - 00:02:AC:00:00:00/24
+  manufacturer: 3PAR data
+  manufacturer-uri: https://device-type.com
+  name: 3PARdata
+type: d3-device-type-assertion

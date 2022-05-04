@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65d8d282-d3ac-490b-b45b-d2ab025b73bc
+  mac-addresses:
+  - 00:08:DB:00:00:00/24
+  manufacturer: Corrigent Systems
+  manufacturer-uri: https://device-type.com
+  name: Corrigen
+type: d3-device-type-assertion

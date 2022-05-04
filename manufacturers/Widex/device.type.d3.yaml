@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 465adaad-ecf2-462d-8296-704f9f130b29
+  mac-addresses:
+  - 40:4A:D4:00:00:00/24
+  - 84:D4:C8:00:00:00/24
+  manufacturer: Widex A/S
+  manufacturer-uri: https://device-type.com
+  name: Widex
+type: d3-device-type-assertion

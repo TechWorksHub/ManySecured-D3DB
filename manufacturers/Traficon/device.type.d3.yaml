@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5b89d7a-40cc-44b5-8b75-419de0f1e529
+  mac-addresses:
+  - 00:05:FE:00:00:00/24
+  manufacturer: Traficon N.V.
+  manufacturer-uri: https://device-type.com
+  name: Traficon
+type: d3-device-type-assertion

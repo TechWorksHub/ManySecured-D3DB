@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6ab58ac2-4fc9-41ab-8d75-f7d98858e337
+  mac-addresses:
+  - 70:B3:D5:CF:F0:00/36
+  - 7C:CB:E2:50:00:00/28
+  manufacturer: DTECH Labs, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DTECHLab
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a653c89e-ad10-42ab-9d4c-c1292fe5509a
+  mac-addresses:
+  - 00:50:C2:93:D0:00/36
+  - 58:2E:FE:00:00:00/24
+  - 9C:F6:DD:C0:00:00/28
+  manufacturer: Lighting Science Group
+  manufacturer-uri: https://device-type.com
+  name: Lighting
+type: d3-device-type-assertion

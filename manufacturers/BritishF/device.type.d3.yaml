@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05c231dd-e1b5-440a-8099-0bfa771e3f3f
+  mac-addresses:
+  - 00:B0:E7:00:00:00/24
+  manufacturer: British Federal Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BritishF
+type: d3-device-type-assertion

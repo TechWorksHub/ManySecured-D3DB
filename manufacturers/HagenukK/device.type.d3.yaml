@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b7804200-c042-4b88-98fa-b09cd058f66f
+  mac-addresses:
+  - 00:50:C2:D4:20:00/36
+  - 70:B3:D5:13:20:00/36
+  manufacturer: Hagenuk KMT GmbH
+  manufacturer-uri: https://device-type.com
+  name: HagenukK
+type: d3-device-type-assertion

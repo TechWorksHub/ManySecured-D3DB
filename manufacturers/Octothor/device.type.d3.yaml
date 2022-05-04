@@ -1,0 +1,9 @@
+credentialSubject:
+  id: af975c15-f61b-40c1-8618-f617ae57fa04
+  mac-addresses:
+  - 00:BB:01:00:00:00/24
+  - 02:BB:01:00:00:00/24
+  manufacturer: Octothorpe Corp.
+  manufacturer-uri: https://device-type.com
+  name: Octothor
+type: d3-device-type-assertion

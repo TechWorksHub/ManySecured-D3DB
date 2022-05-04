@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c101c63a-2b9d-4a3a-85e2-4a5ecb34195b
+  mac-addresses:
+  - 34:D2:C4:00:00:00/24
+  manufacturer: RENA GmbH Print Systeme
+  manufacturer-uri: https://device-type.com
+  name: RENAPrin
+type: d3-device-type-assertion

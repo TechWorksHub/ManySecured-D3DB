@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e18d87e9-d3a7-4949-a75e-bd91f1ee8b6d
+  mac-addresses:
+  - 00:90:0B:00:00:00/24
+  manufacturer: Lanner Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: LannerEl
+type: d3-device-type-assertion

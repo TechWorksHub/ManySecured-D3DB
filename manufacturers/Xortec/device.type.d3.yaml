@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 636f3f58-83ec-4e38-8002-5664855036d1
+  mac-addresses:
+  - 00:1D:C2:00:00:00/24
+  manufacturer: Xortec Oy
+  manufacturer-uri: https://device-type.com
+  name: Xortec
+type: d3-device-type-assertion

@@ -1,0 +1,19 @@
+credentialSubject:
+  id: a8fbc719-89f5-4e22-8096-a7db24060256
+  mac-addresses:
+  - 00:50:C2:28:60:00/36
+  - 00:50:C2:7B:10:00/36
+  - 00:50:C2:8E:A0:00/36
+  - 00:50:C2:B2:70:00/36
+  - 00:50:C2:E0:90:00/36
+  - 40:D8:55:0C:C0:00/36
+  - 64:DF:E9:00:00:00/24
+  - 70:B3:D5:3E:50:00/36
+  - 70:B3:D5:53:10:00/36
+  - 70:B3:D5:60:70:00/36
+  - 70:B3:D5:AA:70:00/36
+  - 70:B3:D5:DC:00:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Ateme
+type: d3-device-type-assertion

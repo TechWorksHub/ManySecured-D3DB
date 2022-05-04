@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 16d887df-06c7-4823-b45c-cd41901b368e
+  mac-addresses:
+  - 00:07:15:00:00:00/24
+  - 00:50:C2:4B:60:00/36
+  manufacturer: General Research of Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GeneralR
+type: d3-device-type-assertion

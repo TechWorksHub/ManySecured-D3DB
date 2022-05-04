@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f7a6f2af-faef-4764-9744-25a4c33015ce
+  mac-addresses:
+  - 28:36:38:50:00:00/28
+  - 70:B3:D5:EF:60:00/36
+  manufacturer: Chargelib
+  manufacturer-uri: https://device-type.com
+  name: Chargeli
+type: d3-device-type-assertion

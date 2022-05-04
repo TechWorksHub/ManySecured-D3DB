@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 049f8409-7500-4655-bb18-72385afa508b
+  mac-addresses:
+  - 00:50:C2:EB:60:00/36
+  - 00:50:C2:F5:60:00/36
+  manufacturer: Monsoon Solutions, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MonsoonS
+type: d3-device-type-assertion

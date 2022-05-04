@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f086f63-45ac-44bc-90c2-319cce4a0603
+  mac-addresses:
+  - 00:02:A9:00:00:00/24
+  manufacturer: RACOM, s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: RACOMsro
+type: d3-device-type-assertion

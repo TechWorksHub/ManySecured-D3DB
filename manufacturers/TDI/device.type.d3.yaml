@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b183bfef-7b44-4c94-8109-25c031a4062b
+  mac-addresses:
+  - 00:80:E2:00:00:00/24
+  - 70:B3:D5:E4:80:00/36
+  manufacturer: T.D.I. Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TDI
+type: d3-device-type-assertion

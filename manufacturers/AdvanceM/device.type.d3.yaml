@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9ce2c8a-36eb-427f-8850-bf9886e4b5b3
+  mac-addresses:
+  - 00:C0:A0:00:00:00/24
+  manufacturer: Advance Micro Research, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AdvanceM
+type: d3-device-type-assertion

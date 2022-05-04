@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc9241e7-e1b3-4c1b-b65e-a0a0294f159d
+  mac-addresses:
+  - 00:50:C2:89:80:00/36
+  manufacturer: Veeco Process Equipment, Inc.
+  manufacturer-uri: https://device-type.com
+  name: VeecoPro
+type: d3-device-type-assertion

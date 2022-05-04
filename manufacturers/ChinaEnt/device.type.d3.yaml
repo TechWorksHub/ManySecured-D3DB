@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 70a6b474-354f-4c38-9e34-3e0f32f6cae5
+  mac-addresses:
+  - 10:C2:2F:00:00:00/24
+  - 70:B3:D5:E1:60:00/36
+  manufacturer: China Entropy Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ChinaEnt
+type: d3-device-type-assertion

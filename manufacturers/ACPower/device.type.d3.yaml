@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aaf0f246-1b45-4c74-aa9e-bae4f154d8bd
+  mac-addresses:
+  - 70:B3:D5:49:C0:00/36
+  manufacturer: AC Power Corp.
+  manufacturer-uri: https://device-type.com
+  name: ACPower
+type: d3-device-type-assertion

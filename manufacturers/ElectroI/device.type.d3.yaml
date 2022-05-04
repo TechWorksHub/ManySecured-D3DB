@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eba7f6e1-383f-4a6f-8dbc-787a259cde6b
+  mac-addresses:
+  - 00:01:58:00:00:00/24
+  manufacturer: Electro Industries/Gauge Tech
+  manufacturer-uri: https://device-type.com
+  name: ElectroI
+type: d3-device-type-assertion

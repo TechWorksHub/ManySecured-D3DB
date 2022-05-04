@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 011b6674-d24e-4f70-a8ea-39127f19a47a
+  mac-addresses:
+  - 00:D0:82:00:00:00/24
+  manufacturer: Iowave Inc.
+  manufacturer-uri: https://device-type.com
+  name: Iowave
+type: d3-device-type-assertion

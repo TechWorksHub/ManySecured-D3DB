@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b39dd0f6-bcd1-41c8-b928-260d4141fc81
+  mac-addresses:
+  - EC:46:44:00:00:00/24
+  manufacturer: Ttk Sas
+  manufacturer-uri: https://device-type.com
+  name: TtkSas
+type: d3-device-type-assertion

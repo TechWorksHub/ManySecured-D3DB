@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8970d002-7560-4387-89a4-96e507516fb0
+  mac-addresses:
+  - 70:B3:D5:1C:F0:00/36
+  - 70:B3:D5:CE:30:00/36
+  manufacturer: Dalcnet srl
+  manufacturer-uri: https://device-type.com
+  name: Dalcnet
+type: d3-device-type-assertion

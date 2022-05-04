@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abb16b61-cd35-45e7-aa62-4d3227cc6e6c
+  mac-addresses:
+  - 00:01:BB:00:00:00/24
+  manufacturer: Frequentis
+  manufacturer-uri: https://device-type.com
+  name: Frequent
+type: d3-device-type-assertion

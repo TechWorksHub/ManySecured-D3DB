@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed1b8f78-39c0-42f3-864e-5e9d3435f028
+  mac-addresses:
+  - 70:B3:D5:68:90:00/36
+  - 70:B3:D5:74:00:00/36
+  manufacturer: Prisma Telecom Testing Srl
+  manufacturer-uri: https://device-type.com
+  name: PrismaTe
+type: d3-device-type-assertion

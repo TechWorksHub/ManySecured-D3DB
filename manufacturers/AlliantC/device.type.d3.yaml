@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8123d2b8-c9dd-4e8a-8720-47588d91ee93
+  mac-addresses:
+  - 00:40:BA:00:00:00/24
+  manufacturer: Alliant Computer Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: AlliantC
+type: d3-device-type-assertion

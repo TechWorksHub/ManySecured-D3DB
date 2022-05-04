@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21af9fd3-8f96-45ab-a2c4-010083af1f91
+  mac-addresses:
+  - 00:00:B7:00:00:00/24
+  manufacturer: Dove
+  manufacturer-uri: https://device-type.com
+  name: DoveFast
+type: d3-device-type-assertion

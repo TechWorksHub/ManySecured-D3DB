@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ab8b5f5-d0da-409f-b3d9-58c7f31a9732
+  mac-addresses:
+  - 00:30:3C:00:00:00/24
+  manufacturer: Onnto Corp.
+  manufacturer-uri: https://device-type.com
+  name: Onnto
+type: d3-device-type-assertion

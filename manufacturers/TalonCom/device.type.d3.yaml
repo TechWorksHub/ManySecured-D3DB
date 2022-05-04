@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a3f27992-920b-49f7-9add-4bfe08eb0d9b
+  mac-addresses:
+  - 5C:18:B5:00:00:00/24
+  manufacturer: Talon Communications
+  manufacturer-uri: https://device-type.com
+  name: TalonCom
+type: d3-device-type-assertion

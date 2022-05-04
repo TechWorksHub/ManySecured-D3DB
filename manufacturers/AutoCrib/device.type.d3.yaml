@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ab3c2fe-54f7-4f53-850e-606c7fbe8526
+  mac-addresses:
+  - A4:9E:DB:00:00:00/24
+  manufacturer: AutoCrib, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AutoCrib
+type: d3-device-type-assertion

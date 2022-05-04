@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6dbfdf05-eaed-4465-946d-94a9088bdf80
+  mac-addresses:
+  - 00:24:FC:00:00:00/24
+  manufacturer: QuoPin Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: QuoPin
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ff2f787d-c7f5-45da-915d-e943bb20b43a
+  mac-addresses:
+  - 00:30:3F:00:00:00/24
+  - 00:90:83:00:00:00/24
+  manufacturer: TurboComm Tech Inc.
+  manufacturer-uri: https://device-type.com
+  name: TurboCom
+type: d3-device-type-assertion

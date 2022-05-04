@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 022af75e-66f2-447f-a33e-c4e81bff02f2
+  mac-addresses:
+  - 00:C0:0E:00:00:00/24
+  manufacturer: Psitech, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Psitech
+type: d3-device-type-assertion

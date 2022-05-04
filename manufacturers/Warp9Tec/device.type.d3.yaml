@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 055750f4-5a0a-4e38-a2e0-dcb84b9cad80
+  mac-addresses:
+  - 00:50:C2:EA:B0:00/36
+  - E8:E7:70:00:00:00/24
+  manufacturer: Warp9 Tech Design, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Warp9Tec
+type: d3-device-type-assertion

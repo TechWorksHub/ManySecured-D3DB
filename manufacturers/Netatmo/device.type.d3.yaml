@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a9e7956-bd42-44fa-be16-23dafdf9169d
+  mac-addresses:
+  - 70:EE:50:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Netatmo
+type: d3-device-type-assertion

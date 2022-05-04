@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5dc80430-6470-4d2a-b233-9ac28977cb78
+  mac-addresses:
+  - 00:0D:98:00:00:00/24
+  manufacturer: S.W.A.C. Schmitt-Walter Automation Consult GmbH
+  manufacturer-uri: https://device-type.com
+  name: SWACSchm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cca47d26-c475-40ec-96d7-d49c9b7b6924
+  mac-addresses:
+  - 00:10:62:00:00:00/24
+  manufacturer: Nx Server, Ilnc.
+  manufacturer-uri: https://device-type.com
+  name: NxServer
+type: d3-device-type-assertion

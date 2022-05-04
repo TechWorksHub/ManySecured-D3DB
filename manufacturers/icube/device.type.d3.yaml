@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86e8eb96-1bfb-4c30-822a-743b6d762e5d
+  mac-addresses:
+  - 00:0F:65:00:00:00/24
+  manufacturer: icube Corp.
+  manufacturer-uri: https://device-type.com
+  name: icube
+type: d3-device-type-assertion

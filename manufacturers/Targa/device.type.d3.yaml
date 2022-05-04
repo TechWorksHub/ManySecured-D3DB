@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3aabc743-e396-4e12-95e6-570d33c6cc50
+  mac-addresses:
+  - 00:0A:4A:00:00:00/24
+  manufacturer: Targa Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Targa
+type: d3-device-type-assertion

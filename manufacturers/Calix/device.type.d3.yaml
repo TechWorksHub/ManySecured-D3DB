@@ -1,0 +1,19 @@
+credentialSubject:
+  id: f9df6274-9373-4efc-8f5f-4a4676d9f532
+  mac-addresses:
+  - 00:06:31:00:00:00/24
+  - 04:BC:9F:00:00:00/24
+  - 44:65:7F:00:00:00/24
+  - 48:77:46:00:00:00/24
+  - 60:DB:98:00:00:00/24
+  - 84:D3:43:00:00:00/24
+  - B8:94:70:00:00:00/24
+  - CC:BE:59:00:00:00/24
+  - D0:76:8F:00:00:00/24
+  - DA:9D:49:00:00:00/24
+  - EC:4F:82:00:00:00/24
+  - F8:85:F9:00:00:00/24
+  manufacturer: Calix Inc.
+  manufacturer-uri: https://device-type.com
+  name: Calix
+type: d3-device-type-assertion

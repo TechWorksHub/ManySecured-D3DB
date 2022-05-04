@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 32d63697-87ad-423e-b2ae-f88fe47a12eb
+  mac-addresses:
+  - 70:B3:D5:43:30:00/36
+  - 70:B3:D5:C5:40:00/36
+  manufacturer: Flexsolution APS
+  manufacturer-uri: https://device-type.com
+  name: Flexsolu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 351f0592-6a34-4d59-9032-20791834ab53
+  mac-addresses:
+  - 34:CE:94:00:00:00/24
+  manufacturer: Parsec (Pty) Ltd
+  manufacturer-uri: https://device-type.com
+  name: Parsec
+type: d3-device-type-assertion

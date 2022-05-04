@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d58e521b-f939-43ab-939b-3730cdc4247f
+  mac-addresses:
+  - 00:50:C2:01:60:00/36
+  - 00:50:C2:11:60:00/36
+  manufacturer: DSP Design Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DSPDesig
+type: d3-device-type-assertion

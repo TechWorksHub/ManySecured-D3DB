@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ba8302c6-a915-4e49-89d6-605bd461169f
+  mac-addresses:
+  - 00:1B:C5:08:E0:00/36
+  - B8:BD:79:00:00:00/24
+  manufacturer: TrendPoint Systems
+  manufacturer-uri: https://device-type.com
+  name: TrendPoi
+type: d3-device-type-assertion

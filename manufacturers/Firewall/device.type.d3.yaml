@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e72e149-1a9d-495a-90eb-442e8eb1ddbc
+  mac-addresses:
+  - 20:6D:31:00:00:00/24
+  manufacturer: Firewalla Inc
+  manufacturer-uri: https://device-type.com
+  name: Firewall
+type: d3-device-type-assertion

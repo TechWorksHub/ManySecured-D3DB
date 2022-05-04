@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8ef4d535-a253-400a-ac5c-7ecba2211882
+  mac-addresses:
+  - 00:50:C2:2F:20:00/36
+  - 70:B3:D5:1D:10:00/36
+  manufacturer: Eurotek Srl
+  manufacturer-uri: https://device-type.com
+  name: Eurotek
+type: d3-device-type-assertion

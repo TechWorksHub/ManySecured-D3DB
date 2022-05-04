@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 3d0cb234-1de6-48c0-81bc-054ba06b814b
+  mac-addresses:
+  - 00:07:C3:00:00:00/24
+  - 00:10:95:00:00:00/24
+  - 00:11:E3:00:00:00/24
+  - 00:18:9B:00:00:00/24
+  - 00:19:DF:00:00:00/24
+  - 00:1E:69:00:00:00/24
+  - 00:24:D1:00:00:00/24
+  - 00:26:24:00:00:00/24
+  - 00:90:64:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Thomson
+type: d3-device-type-assertion

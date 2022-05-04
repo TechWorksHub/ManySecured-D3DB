@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e90dd960-fec1-4728-bdf6-42e55527fc9a
+  mac-addresses:
+  - 0C:46:9D:00:00:00/24
+  manufacturer: MS Sedco
+  manufacturer-uri: https://device-type.com
+  name: MSSedco
+type: d3-device-type-assertion

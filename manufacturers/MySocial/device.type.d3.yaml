@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9738b3d8-b596-4db5-b835-2d871f915783
+  mac-addresses:
+  - CC:E7:98:00:00:00/24
+  manufacturer: My Social Stuff
+  manufacturer-uri: https://device-type.com
+  name: MySocial
+type: d3-device-type-assertion

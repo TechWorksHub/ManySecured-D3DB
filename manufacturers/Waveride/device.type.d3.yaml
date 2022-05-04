@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a171c81-222a-4a5b-9548-6c2a7647f90c
+  mac-addresses:
+  - 00:90:C8:00:00:00/24
+  manufacturer: Waverider Communications (Canada) Inc.
+  manufacturer-uri: https://device-type.com
+  name: Waveride
+type: d3-device-type-assertion

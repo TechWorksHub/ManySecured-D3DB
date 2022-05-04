@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 97e870d9-0128-40ea-a184-30c960ae8eb3
+  mac-addresses:
+  - 00:26:2E:00:00:00/24
+  - E8:CC:8C:00:00:00/24
+  manufacturer: Chengdu Jiuzhou Electronic Technology Inc
+  manufacturer-uri: https://device-type.com
+  name: ChengduJ
+type: d3-device-type-assertion

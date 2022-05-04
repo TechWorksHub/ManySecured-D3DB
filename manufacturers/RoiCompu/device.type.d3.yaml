@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fa5c4fa-35c1-4863-abc4-ccffb7a18616
+  mac-addresses:
+  - 00:01:8A:00:00:00/24
+  manufacturer: Roi Computer Ag
+  manufacturer-uri: https://device-type.com
+  name: RoiCompu
+type: d3-device-type-assertion

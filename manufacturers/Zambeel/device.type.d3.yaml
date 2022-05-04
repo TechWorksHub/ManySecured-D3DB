@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31f17cda-8506-45fc-bfdd-9a0bcaa3901d
+  mac-addresses:
+  - 00:0A:C9:00:00:00/24
+  manufacturer: Zambeel Inc
+  manufacturer-uri: https://device-type.com
+  name: Zambeel
+type: d3-device-type-assertion

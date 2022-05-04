@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcc87a05-c135-457e-ade8-5671e40d3c93
+  mac-addresses:
+  - 00:A0:A2:00:00:00/24
+  manufacturer: B810 S.R.L.
+  manufacturer-uri: https://device-type.com
+  name: B810
+type: d3-device-type-assertion

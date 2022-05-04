@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5ff761d-6f15-4403-bf62-95f214007952
+  mac-addresses:
+  - 00:20:EE:00:00:00/24
+  manufacturer: Gtech Corporation
+  manufacturer-uri: https://device-type.com
+  name: Gtech
+type: d3-device-type-assertion

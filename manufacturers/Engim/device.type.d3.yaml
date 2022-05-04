@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 67a14899-5c29-448e-a3e0-8fb91f367be2
+  mac-addresses:
+  - 00:13:4A:00:00:00/24
+  - 00:50:C2:3A:80:00/36
+  manufacturer: Engim, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Engim
+type: d3-device-type-assertion

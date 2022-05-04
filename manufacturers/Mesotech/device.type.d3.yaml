@@ -1,0 +1,9 @@
+credentialSubject:
+  id: da6655ba-d3a6-42ac-b98a-189743bb99b3
+  mac-addresses:
+  - 40:D8:55:03:50:00/36
+  - 70:B3:D5:AF:E0:00/36
+  manufacturer: Mesotech International, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mesotech
+type: d3-device-type-assertion

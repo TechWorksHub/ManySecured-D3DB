@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee27a408-a7c7-4fcb-9edb-d04d05b7576c
+  mac-addresses:
+  - 84:80:94:00:00:00/24
+  manufacturer: Meter, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Meter
+type: d3-device-type-assertion

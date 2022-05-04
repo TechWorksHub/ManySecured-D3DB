@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03193d34-170b-4cd7-a250-07f0788a25ca
+  mac-addresses:
+  - A8:15:59:00:00:00/24
+  manufacturer: Breathometer, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Breathom
+type: d3-device-type-assertion

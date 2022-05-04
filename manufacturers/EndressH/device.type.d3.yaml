@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb0a533d-5698-46c7-b6e8-5a46bad543f9
+  mac-addresses:
+  - 00:07:05:00:00:00/24
+  manufacturer: Endress & Hauser GmbH & Co
+  manufacturer-uri: https://device-type.com
+  name: EndressH
+type: d3-device-type-assertion

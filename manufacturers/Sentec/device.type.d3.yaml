@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e56f57d-ba3b-4d57-a2bb-f73922e5bb6c
+  mac-addresses:
+  - 00:50:C2:BC:10:00/36
+  - DC:21:B9:00:00:00/24
+  manufacturer: Sentec Ltd
+  manufacturer-uri: https://device-type.com
+  name: Sentec
+type: d3-device-type-assertion

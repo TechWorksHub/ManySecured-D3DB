@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 63e23945-5e18-4e60-80ae-41b44e242162
+  mac-addresses:
+  - 00:18:81:00:00:00/24
+  - 00:50:C2:4A:60:00/36
+  - 00:50:C2:58:00:00/36
+  - 00:50:C2:5C:A0:00/36
+  - 00:50:C2:5D:40:00/36
+  - 00:50:C2:5E:40:00/36
+  manufacturer: Buyang Electronics Industrial Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: BuyangEl
+type: d3-device-type-assertion

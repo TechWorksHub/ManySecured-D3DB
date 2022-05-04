@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 013515a3-b01e-4a16-9f7d-c713f1a96f7c
+  mac-addresses:
+  - 00:80:3A:00:00:00/24
+  manufacturer: Varityper, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Varitype
+type: d3-device-type-assertion

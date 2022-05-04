@@ -1,0 +1,9 @@
+credentialSubject:
+  id: df241416-c74c-498a-8eb8-e52a7fb66280
+  mac-addresses:
+  - 14:4F:D7:40:00:00/28
+  - 88:5F:E8:70:00:00/28
+  manufacturer: Red Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: RedTechn
+type: d3-device-type-assertion

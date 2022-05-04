@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e37d254d-42ce-4dca-8d01-c53113db77e1
+  mac-addresses:
+  - F0:18:2B:00:00:00/24
+  manufacturer: LG Chem
+  manufacturer-uri: https://device-type.com
+  name: LGChem
+type: d3-device-type-assertion

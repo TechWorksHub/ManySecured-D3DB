@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcd3dfdb-3ba8-4224-a5f6-0bc23d6b399f
+  mac-addresses:
+  - 00:22:B7:00:00:00/24
+  manufacturer: GSS Grundig SAT-Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: GSSGrund
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67f6026f-6ab4-485e-a620-bd005d7aaea6
+  mac-addresses:
+  - 00:E0:CA:00:00:00/24
+  manufacturer: Best Data Products
+  manufacturer-uri: https://device-type.com
+  name: BestData
+type: d3-device-type-assertion

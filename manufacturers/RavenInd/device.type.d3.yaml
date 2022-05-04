@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dd4a2dac-d950-4cea-a7ae-848eb245dd1b
+  mac-addresses:
+  - 00:50:C2:0F:90:00/36
+  - 50:A4:D0:40:00:00/28
+  manufacturer: Raven Industries
+  manufacturer-uri: https://device-type.com
+  name: RavenInd
+type: d3-device-type-assertion

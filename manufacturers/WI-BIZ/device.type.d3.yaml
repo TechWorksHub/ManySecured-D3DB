@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 174f23d8-bad7-48d1-b0ba-b33988a51d10
+  mac-addresses:
+  - 30:C8:2A:00:00:00/24
+  manufacturer: WI-BIZ srl
+  manufacturer-uri: https://device-type.com
+  name: WI-BIZ
+type: d3-device-type-assertion

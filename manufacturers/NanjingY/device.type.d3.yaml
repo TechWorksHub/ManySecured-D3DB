@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 41b26e98-c04c-4a28-91cd-e626993bb730
+  mac-addresses:
+  - 38:E8:EE:00:00:00/24
+  - 94:CC:04:20:00:00/28
+  - AC:77:B9:00:00:00/24
+  - B0:B3:53:E0:00:00/28
+  manufacturer: Nanjing Youkuo Electric Technology Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: NanjingY
+type: d3-device-type-assertion

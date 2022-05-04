@@ -1,0 +1,11 @@
+credentialSubject:
+  id: fba1108a-a680-49a1-be1f-c971cbb03bfa
+  mac-addresses:
+  - 00:50:C2:2C:80:00/36
+  - 00:50:C2:68:E0:00/36
+  - 00:50:C2:8A:60:00/36
+  - 00:50:C2:B5:00:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Selco
+type: d3-device-type-assertion

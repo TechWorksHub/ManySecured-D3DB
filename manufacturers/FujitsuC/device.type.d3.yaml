@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 5b2a4327-56a5-489f-8165-3fcbc50137b0
+  mac-addresses:
+  - 18:18:8B:00:00:00/24
+  - E4:46:B0:00:00:00/24
+  - E4:D3:AA:00:00:00/24
+  - E8:17:FC:00:00:00/24
+  manufacturer: Fujitsu Connected Technologies Limited
+  manufacturer-uri: https://device-type.com
+  name: FujitsuC
+type: d3-device-type-assertion

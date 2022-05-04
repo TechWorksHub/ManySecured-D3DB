@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fb0e3099-be31-415f-a895-6a7c6f4dc53f
+  mac-addresses:
+  - 00:80:1A:00:00:00/24
+  - 08:00:12:00:00:00/24
+  manufacturer: Bell Atlantic
+  manufacturer-uri: https://device-type.com
+  name: BellAtla
+type: d3-device-type-assertion

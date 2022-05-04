@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b119806a-55b2-454f-81c0-2f88d307fc2d
+  mac-addresses:
+  - 00:50:C2:88:80:00/36
+  - 00:50:C2:B3:70:00/36
+  - 2C:C5:48:00:00:00/24
+  manufacturer: IAdea Corporation
+  manufacturer-uri: https://device-type.com
+  name: IAdea
+type: d3-device-type-assertion

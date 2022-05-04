@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 012b1130-fd4f-4d8a-9e88-ae6200f2d580
+  mac-addresses:
+  - 00:1A:4A:00:00:00/24
+  manufacturer: Qumranet Inc.
+  manufacturer-uri: https://device-type.com
+  name: Qumranet
+type: d3-device-type-assertion

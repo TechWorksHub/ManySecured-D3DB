@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b42647ba-e50a-4d83-be08-9337d9a72e9b
+  mac-addresses:
+  - 04:F0:21:00:00:00/24
+  manufacturer: Compex Systems Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: CompexPt
+type: d3-device-type-assertion

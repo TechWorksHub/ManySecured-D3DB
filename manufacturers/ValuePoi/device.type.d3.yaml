@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f75b1a00-aa68-4a1e-b099-c236eacb39f7
+  mac-addresses:
+  - 00:11:45:00:00:00/24
+  manufacturer: ValuePoint Networks
+  manufacturer-uri: https://device-type.com
+  name: ValuePoi
+type: d3-device-type-assertion

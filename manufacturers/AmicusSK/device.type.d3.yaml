@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b799daf2-d94b-4e76-b2d1-7f7b1dacb1a5
+  mac-addresses:
+  - A0:E2:5A:00:00:00/24
+  manufacturer: Amicus SK, s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: AmicusSK
+type: d3-device-type-assertion

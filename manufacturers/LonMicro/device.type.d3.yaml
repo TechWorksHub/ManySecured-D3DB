@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0bc34ad6-055f-4d8e-91f9-cf27fb687cf5
+  mac-addresses:
+  - A0:19:B2:90:00:00/28
+  manufacturer: Lon Microsystems Inc.
+  manufacturer-uri: https://device-type.com
+  name: LonMicro
+type: d3-device-type-assertion

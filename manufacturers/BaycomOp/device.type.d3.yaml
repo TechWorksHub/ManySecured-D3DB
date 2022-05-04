@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ec444304-49aa-4c5d-b732-5069dd6d34ba
+  mac-addresses:
+  - 00:50:C2:F5:30:00/36
+  - 98:6D:35:E0:00:00/28
+  manufacturer: Baycom Opto-Electronics Technolgy Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BaycomOp
+type: d3-device-type-assertion

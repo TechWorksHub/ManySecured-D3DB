@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6ec3c800-7ba1-46e7-bc06-d88f629ef99d
+  mac-addresses:
+  - 00:50:C2:5F:D0:00/36
+  - 7C:33:6E:00:00:00/24
+  manufacturer: MEG Electronic Inc.
+  manufacturer-uri: https://device-type.com
+  name: MEGElect
+type: d3-device-type-assertion

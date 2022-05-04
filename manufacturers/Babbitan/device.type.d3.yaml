@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca0a512a-a9cc-4c2e-a987-93afcb09cdde
+  mac-addresses:
+  - 68:79:12:70:00:00/28
+  manufacturer: Babbit and Friends, SIA
+  manufacturer-uri: https://device-type.com
+  name: Babbitan
+type: d3-device-type-assertion

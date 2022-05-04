@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 404fd6db-4746-438c-a1bb-8bb13391bb6b
+  mac-addresses:
+  - 00:0B:3C:00:00:00/24
+  manufacturer: Cygnal Integrated Products, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CygnalIn
+type: d3-device-type-assertion

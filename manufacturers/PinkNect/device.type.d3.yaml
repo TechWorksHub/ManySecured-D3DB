@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 405bb114-04e9-47ce-8013-139df70ef8a1
+  mac-addresses:
+  - 84:DB:9E:00:00:00/24
+  manufacturer: Pink Nectarine Health AB
+  manufacturer-uri: https://device-type.com
+  name: PinkNect
+type: d3-device-type-assertion

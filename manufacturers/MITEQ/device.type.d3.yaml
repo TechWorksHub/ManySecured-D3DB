@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6e5b22f-fd6b-4f9e-accb-7673b13a6a7e
+  mac-addresses:
+  - 00:0B:8A:00:00:00/24
+  manufacturer: MITEQ Inc.
+  manufacturer-uri: https://device-type.com
+  name: MITEQ
+type: d3-device-type-assertion

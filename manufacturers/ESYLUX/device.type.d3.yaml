@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ad1b577-fca0-435f-bdac-60ff708c445d
+  mac-addresses:
+  - 50:D0:65:00:00:00/24
+  manufacturer: ESYLUX GmbH
+  manufacturer-uri: https://device-type.com
+  name: ESYLUX
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 819a00d6-a09a-4e9b-a2ca-218950362eb1
+  mac-addresses:
+  - 00:80:94:00:00:00/24
+  manufacturer: Alfa Laval Automation Ab
+  manufacturer-uri: https://device-type.com
+  name: AlfaLava
+type: d3-device-type-assertion

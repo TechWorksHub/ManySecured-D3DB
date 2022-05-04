@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9e72f00-0152-4dac-8f16-e30d6ff4bc71
+  mac-addresses:
+  - 00:16:BD:00:00:00/24
+  manufacturer: ATI Industrial Automation
+  manufacturer-uri: https://device-type.com
+  name: ATIIndus
+type: d3-device-type-assertion

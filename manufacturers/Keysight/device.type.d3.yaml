@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 48775db3-0f1f-434c-9a11-16c9c7254b2b
+  mac-addresses:
+  - 00:1A:C5:00:00:00/24
+  - 00:1B:6E:00:00:00/24
+  - 00:50:C2:C7:C0:00/36
+  - 2C:D1:DA:00:00:00/24
+  - 80:09:02:00:00:00/24
+  manufacturer: Keysight Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Keysight
+type: d3-device-type-assertion

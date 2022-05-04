@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 2ffe561e-89f6-4228-942b-c36480262a22
+  mac-addresses:
+  - 00:72:63:00:00:00/24
+  - 04:8D:38:00:00:00/24
+  - 64:EE:B7:00:00:00/24
+  - E4:BE:ED:00:00:00/24
+  manufacturer: Netcore Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: NetcoreT
+type: d3-device-type-assertion

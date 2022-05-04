@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e50eeea8-0ec7-49b5-975d-2ac5c1cfddff
+  mac-addresses:
+  - 00:03:03:00:00:00/24
+  manufacturer: JAMA Electronics Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: JAMAElec
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: b2c821ac-32f3-408d-a768-bc3762b61522
+  mac-addresses:
+  - 00:12:D6:00:00:00/24
+  - 00:1D:08:00:00:00/24
+  - C8:24:96:00:00:00/24
+  - CC:D3:E2:00:00:00/24
+  manufacturer: Jiangsu Yitong High-Tech Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: JiangsuY
+type: d3-device-type-assertion

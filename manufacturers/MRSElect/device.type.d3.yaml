@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd39fc90-520b-449b-ad62-a4f190c4308e
+  mac-addresses:
+  - E0:2C:F3:00:00:00/24
+  manufacturer: MRS Electronic GmbH
+  manufacturer-uri: https://device-type.com
+  name: MRSElect
+type: d3-device-type-assertion

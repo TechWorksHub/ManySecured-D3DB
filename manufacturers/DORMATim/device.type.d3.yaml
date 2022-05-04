@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8217749-e4c7-4a5e-ab33-a7fdfcbad6f0
+  mac-addresses:
+  - 00:0B:D7:00:00:00/24
+  manufacturer: DORMA Time + Access GmbH
+  manufacturer-uri: https://device-type.com
+  name: DORMATim
+type: d3-device-type-assertion

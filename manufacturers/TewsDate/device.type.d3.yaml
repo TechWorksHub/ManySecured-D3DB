@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2881f7d6-c970-420e-adce-9289b3e04e23
+  mac-addresses:
+  - 00:01:06:00:00:00/24
+  manufacturer: Tews Datentechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: TewsDate
+type: d3-device-type-assertion

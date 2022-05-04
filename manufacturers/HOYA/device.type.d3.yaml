@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc2c4e2a-2862-4475-a899-3603e1b109e8
+  mac-addresses:
+  - 00:02:AD:00:00:00/24
+  manufacturer: HOYA Corporation
+  manufacturer-uri: https://device-type.com
+  name: HOYA
+type: d3-device-type-assertion

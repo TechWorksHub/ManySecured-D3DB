@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1b55ce23-7931-4390-b769-c903c00cd0a9
+  mac-addresses:
+  - 00:60:04:00:00:00/24
+  - 00:80:70:00:00:00/24
+  manufacturer: Computadores Modulares Sa
+  manufacturer-uri: https://device-type.com
+  name: Computad
+type: d3-device-type-assertion

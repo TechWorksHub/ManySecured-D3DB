@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c0f3034-dd60-4a6a-bd77-d7da9bd243d3
+  mac-addresses:
+  - 00:26:AD:00:00:00/24
+  manufacturer: Arada Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Arada
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99daa4e2-e37e-4c3e-889b-1b3ffefbc7af
+  mac-addresses:
+  - 18:CC:88:00:00:00/24
+  manufacturer: Hitachi Johnson Controls Air
+  manufacturer-uri: https://device-type.com
+  name: HitachiJ
+type: d3-device-type-assertion

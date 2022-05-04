@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fa12e9ed-0105-48a1-840b-fb50d70ed824
+  mac-addresses:
+  - 00:50:C2:97:50:00/36
+  - 08:00:8B:00:00:00/24
+  manufacturer: Pyramid Technical Consultants
+  manufacturer-uri: https://device-type.com
+  name: PyramidT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4a950a1-e585-48b8-ae65-7f2a7103d7cc
+  mac-addresses:
+  - 00:01:12:00:00:00/24
+  manufacturer: Shark Multimedia Inc.
+  manufacturer-uri: https://device-type.com
+  name: SharkMul
+type: d3-device-type-assertion

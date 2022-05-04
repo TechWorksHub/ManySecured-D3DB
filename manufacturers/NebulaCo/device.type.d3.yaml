@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2d9afe9-2c86-4f06-bc69-56edff5bf723
+  mac-addresses:
+  - 00:A0:19:00:00:00/24
+  manufacturer: Nebula Consultants, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NebulaCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0f2fbed-6a71-4be7-9f56-eff24bf6619e
+  mac-addresses:
+  - 00:20:82:00:00:00/24
+  manufacturer: Oneac Corporation
+  manufacturer-uri: https://device-type.com
+  name: Oneac
+type: d3-device-type-assertion

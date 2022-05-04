@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0dbcc07e-0904-4801-8722-1c616532e35a
+  mac-addresses:
+  - 00:E0:90:00:00:00/24
+  manufacturer: Beckman Lab. Automation Div.
+  manufacturer-uri: https://device-type.com
+  name: BeckmanL
+type: d3-device-type-assertion

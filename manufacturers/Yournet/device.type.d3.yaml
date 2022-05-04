@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 000f557d-eb18-4e81-80dd-a867b9dd3d87
+  mac-addresses:
+  - 00:21:61:00:00:00/24
+  manufacturer: Yournet Inc.
+  manufacturer-uri: https://device-type.com
+  name: Yournet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8189f9d-b627-4d3f-8df7-7d08bfc23b5a
+  mac-addresses:
+  - 68:98:61:00:00:00/24
+  manufacturer: Beacon Inc
+  manufacturer-uri: https://device-type.com
+  name: Beacon
+type: d3-device-type-assertion

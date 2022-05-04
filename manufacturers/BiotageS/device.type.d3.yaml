@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2357c429-46bc-4274-94cf-467165aaafc8
+  mac-addresses:
+  - 40:D8:55:12:D0:00/36
+  - 70:B3:D5:4D:20:00/36
+  manufacturer: Biotage Sweden AB
+  manufacturer-uri: https://device-type.com
+  name: BiotageS
+type: d3-device-type-assertion

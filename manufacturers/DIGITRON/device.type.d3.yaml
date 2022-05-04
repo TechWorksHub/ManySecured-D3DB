@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 79321abb-3822-4639-a975-9453df25a8a9
+  mac-addresses:
+  - 00:50:C2:1E:20:00/36
+  - 18:AF:9F:00:00:00/24
+  manufacturer: DIGITRONIC Automationsanlagen GmbH
+  manufacturer-uri: https://device-type.com
+  name: DIGITRON
+type: d3-device-type-assertion

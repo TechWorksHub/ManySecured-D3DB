@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f68cfb8-88dd-49f1-ab9d-e9a3ce49c0ca
+  mac-addresses:
+  - 00:A0:77:00:00:00/24
+  manufacturer: Fujitsu Nexion, Inc.
+  manufacturer-uri: https://device-type.com
+  name: FujitsuN
+type: d3-device-type-assertion

@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 4ba0069a-ab8a-4676-8eb3-d6a33b26858c
+  mac-addresses:
+  - 00:01:B2:00:00:00/24
+  - 00:40:AF:00:00:00/24
+  - 00:50:C2:98:00:00/36
+  - 40:22:ED:00:00:00/24
+  - 6C:AB:4D:00:00:00/24
+  - E4:38:8C:00:00:00/24
+  manufacturer: Digital Processing Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DigitalP
+type: d3-device-type-assertion

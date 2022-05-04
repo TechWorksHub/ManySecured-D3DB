@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b62d52a1-8b0b-4144-8f21-7f9c51eaebcf
+  mac-addresses:
+  - 00:10:05:00:00:00/24
+  manufacturer: Uec Commercial
+  manufacturer-uri: https://device-type.com
+  name: UecComme
+type: d3-device-type-assertion

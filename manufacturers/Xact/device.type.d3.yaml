@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33d1a3e4-eae1-44ab-928b-59ba44ec6d51
+  mac-addresses:
+  - 00:20:6E:00:00:00/24
+  manufacturer: Xact, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Xact
+type: d3-device-type-assertion

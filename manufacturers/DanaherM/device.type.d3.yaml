@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 179b6b92-39cd-443b-81e7-b27c1895ab98
+  mac-addresses:
+  - 00:23:1B:00:00:00/24
+  manufacturer: Danaher Motion - Kollmorgen
+  manufacturer-uri: https://device-type.com
+  name: DanaherM
+type: d3-device-type-assertion

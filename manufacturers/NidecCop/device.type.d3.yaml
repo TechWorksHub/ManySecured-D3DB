@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d2e7754-5680-4cb3-b2d2-8a5045611e0e
+  mac-addresses:
+  - 00:23:8F:00:00:00/24
+  manufacturer: Nidec Copal Corporation
+  manufacturer-uri: https://device-type.com
+  name: NidecCop
+type: d3-device-type-assertion

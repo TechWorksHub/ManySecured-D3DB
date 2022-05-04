@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d2db7e4-4880-4fc4-90e4-84810de15bee
+  mac-addresses:
+  - 00:0F:7C:00:00:00/24
+  manufacturer: ACTi Corporation
+  manufacturer-uri: https://device-type.com
+  name: ACTi
+type: d3-device-type-assertion

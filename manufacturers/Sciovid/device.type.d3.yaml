@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9d058c9-66b9-484c-87f3-ed2ddd5b08e8
+  mac-addresses:
+  - 3C:67:2C:00:00:00/24
+  manufacturer: Sciovid Inc.
+  manufacturer-uri: https://device-type.com
+  name: Sciovid
+type: d3-device-type-assertion

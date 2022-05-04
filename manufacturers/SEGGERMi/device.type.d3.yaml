@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65300c2d-ba18-430a-a6c4-b71d420d0860
+  mac-addresses:
+  - 00:22:C7:00:00:00/24
+  manufacturer: SEGGER Microcontroller GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: SEGGERMi
+type: d3-device-type-assertion

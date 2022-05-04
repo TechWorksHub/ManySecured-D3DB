@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b30e7bdf-de9b-46e8-bb53-3765efebf2c2
+  mac-addresses:
+  - 00:C0:82:00:00:00/24
+  manufacturer: Moore Products Co.
+  manufacturer-uri: https://device-type.com
+  name: MoorePro
+type: d3-device-type-assertion

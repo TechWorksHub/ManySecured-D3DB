@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 053eaaed-2bee-4c50-b8e8-26d0fdd5aba3
+  mac-addresses:
+  - 00:30:BB:00:00:00/24
+  manufacturer: CacheFlow, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CacheFlo
+type: d3-device-type-assertion

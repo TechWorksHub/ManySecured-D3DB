@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ea9f390-0513-4899-9506-daa432624204
+  mac-addresses:
+  - 00:40:55:00:00:00/24
+  manufacturer: Metronix Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Metronix
+type: d3-device-type-assertion

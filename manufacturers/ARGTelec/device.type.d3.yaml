@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73577c23-685a-4b77-8340-61eedd05308a
+  mac-addresses:
+  - 30:A2:20:00:00:00/24
+  manufacturer: ARG Telecom
+  manufacturer-uri: https://device-type.com
+  name: ARGTelec
+type: d3-device-type-assertion

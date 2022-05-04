@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67d4c476-70db-4d56-944a-c050b2718f3d
+  mac-addresses:
+  - 00:05:2B:00:00:00/24
+  manufacturer: HORIBA, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: HORIBA
+type: d3-device-type-assertion

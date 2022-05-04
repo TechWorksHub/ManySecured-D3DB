@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1256bc9a-e6dc-4e68-978a-b45d98d60eec
+  mac-addresses:
+  - B0:D7:C5:00:00:00/24
+  manufacturer: Logipix Ltd
+  manufacturer-uri: https://device-type.com
+  name: Logipix
+type: d3-device-type-assertion

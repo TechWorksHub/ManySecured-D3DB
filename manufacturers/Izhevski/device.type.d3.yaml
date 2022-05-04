@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67adf0bc-bd55-4ac0-844a-2f7a5cf08170
+  mac-addresses:
+  - 00:B0:33:00:00:00/24
+  manufacturer: OAO "Izhevskiy radiozavod"
+  manufacturer-uri: https://device-type.com
+  name: Izhevski
+type: d3-device-type-assertion

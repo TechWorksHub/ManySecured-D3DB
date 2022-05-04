@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d0457df4-3d37-4d92-9093-2cfa91067fdb
+  mac-addresses:
+  - 00:09:45:00:00:00/24
+  - 00:18:1F:00:00:00/24
+  manufacturer: Palmmicro Communications Inc
+  manufacturer-uri: https://device-type.com
+  name: Palmmicr
+type: d3-device-type-assertion

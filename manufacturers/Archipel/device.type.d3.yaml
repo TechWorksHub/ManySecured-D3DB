@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4c90ab0-b937-43a6-be66-61d57d6d55aa
+  mac-addresses:
+  - 00:C0:97:00:00:00/24
+  manufacturer: Archipel Sa
+  manufacturer-uri: https://device-type.com
+  name: Archipel
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: b927419d-f4ed-42fa-90d2-93f1c13b642e
+  mac-addresses:
+  - 18:89:A0:00:00:00/24
+  - 40:BC:68:00:00:00/24
+  - 98:3F:66:00:00:00/24
+  - 9C:DB:CB:00:00:00/24
+  manufacturer: Wuhan Funshion Online Technologies Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: WuhanFun
+type: d3-device-type-assertion

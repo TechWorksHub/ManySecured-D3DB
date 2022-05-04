@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a8b21ca-cef1-40c6-85dc-5a0c3deb627a
+  mac-addresses:
+  - 00:03:22:00:00:00/24
+  manufacturer: IDIS Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IDIS
+type: d3-device-type-assertion

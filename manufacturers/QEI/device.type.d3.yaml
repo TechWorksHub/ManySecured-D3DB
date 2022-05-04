@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c30cd464-0ff9-4b2c-9bcb-3f924695c165
+  mac-addresses:
+  - 00:05:A3:00:00:00/24
+  manufacturer: QEI, Inc.
+  manufacturer-uri: https://device-type.com
+  name: QEI
+type: d3-device-type-assertion

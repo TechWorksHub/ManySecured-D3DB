@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f97d070-d9e8-44e5-9309-7538d77f2acf
+  mac-addresses:
+  - 00:03:09:00:00:00/24
+  manufacturer: Texcel Technology PLC
+  manufacturer-uri: https://device-type.com
+  name: TexcelTe
+type: d3-device-type-assertion

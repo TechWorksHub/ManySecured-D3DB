@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07b4d4af-ee6a-4d7d-8015-8b03b44a729c
+  mac-addresses:
+  - 00:02:48:00:00:00/24
+  manufacturer: Pilz GmbH & Co.
+  manufacturer-uri: https://device-type.com
+  name: Pilz
+type: d3-device-type-assertion

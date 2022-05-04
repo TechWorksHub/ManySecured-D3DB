@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f48ed51a-cc1d-49c5-9427-59afd43ecdc5
+  mac-addresses:
+  - 00:05:3F:00:00:00/24
+  - 00:50:C2:9F:30:00/36
+  manufacturer: VisionTek, Inc.
+  manufacturer-uri: https://device-type.com
+  name: VisionTe
+type: d3-device-type-assertion

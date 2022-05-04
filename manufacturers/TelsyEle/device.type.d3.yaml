@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4a50f40-4e3d-4bb8-b2c4-98eac78c69d8
+  mac-addresses:
+  - 00:17:97:00:00:00/24
+  manufacturer: Telsy Elettronica S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: TelsyEle
+type: d3-device-type-assertion

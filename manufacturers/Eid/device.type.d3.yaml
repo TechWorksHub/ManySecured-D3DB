@@ -1,0 +1,9 @@
+credentialSubject:
+  id: af4f0656-c7dc-47d1-8311-37f9ea6803bc
+  mac-addresses:
+  - 00:50:C2:76:70:00/36
+  - 1C:7C:11:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Eid
+type: d3-device-type-assertion

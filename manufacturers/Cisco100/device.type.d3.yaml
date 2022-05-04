@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16c508e3-9830-411e-aad0-ee505339c280
+  mac-addresses:
+  - 00:60:3E:00:00:00/24
+  manufacturer: Cisco
+  manufacturer-uri: https://device-type.com
+  name: Cisco100
+type: d3-device-type-assertion

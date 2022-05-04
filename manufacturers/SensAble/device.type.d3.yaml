@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc31e07c-7875-4cd8-8add-5275a68e6335
+  mac-addresses:
+  - 00:0B:99:00:00:00/24
+  manufacturer: SensAble Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SensAble
+type: d3-device-type-assertion

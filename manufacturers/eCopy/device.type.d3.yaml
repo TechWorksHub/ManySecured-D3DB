@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 071c2ef7-ede2-4e58-a0d9-ecf7843a1dd2
+  mac-addresses:
+  - 00:1E:8A:00:00:00/24
+  manufacturer: eCopy, Inc
+  manufacturer-uri: https://device-type.com
+  name: eCopy
+type: d3-device-type-assertion

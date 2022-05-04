@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 84c15148-f52f-47f3-bbb7-b056cc23c8aa
+  mac-addresses:
+  - 00:13:83:00:00:00/24
+  - 4C:63:EB:00:00:00/24
+  - C0:BA:E6:00:00:00/24
+  manufacturer: Application Technologies and Engineering Research Laboratory
+  manufacturer-uri: https://device-type.com
+  name: Applicat
+type: d3-device-type-assertion

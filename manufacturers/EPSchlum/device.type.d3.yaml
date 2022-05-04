@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 729b867e-495d-46b1-a33d-afa5a68e7be8
+  mac-addresses:
+  - 98:06:37:10:00:00/28
+  manufacturer: E. P. Schlumberger
+  manufacturer-uri: https://device-type.com
+  name: EPSchlum
+type: d3-device-type-assertion

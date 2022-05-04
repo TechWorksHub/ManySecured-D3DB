@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a0877160-a9a0-4672-a7cd-2d030c7b1fc6
+  mac-addresses:
+  - 00:0F:EF:00:00:00/24
+  - 00:D0:FA:00:00:00/24
+  manufacturer: Thales e-Transactions GmbH
+  manufacturer-uri: https://device-type.com
+  name: Thalese-
+type: d3-device-type-assertion

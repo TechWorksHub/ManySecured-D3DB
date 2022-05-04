@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c2a7b542-6d5c-46d7-aa4d-63681625af65
+  mac-addresses:
+  - 70:B3:D5:63:B0:00/36
+  - 80:02:F4:70:00:00/28
+  manufacturer: Lazer Safe Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: LazerSaf
+type: d3-device-type-assertion

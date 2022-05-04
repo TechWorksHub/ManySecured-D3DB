@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cde5e2cc-e4c6-4c45-834c-aeb4b715fb06
+  mac-addresses:
+  - 00:1B:C5:02:10:00/36
+  - 80:C8:62:00:00:00/24
+  manufacturer: Openpeak, Inc
+  manufacturer-uri: https://device-type.com
+  name: Openpeak
+type: d3-device-type-assertion

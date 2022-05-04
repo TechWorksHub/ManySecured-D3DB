@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2114e488-c457-4a6b-995c-1c92b84df80c
+  mac-addresses:
+  - 70:B3:D5:6A:00:00/36
+  - 8C:1F:64:0C:00:00/36
+  manufacturer: Active Research Limited
+  manufacturer-uri: https://device-type.com
+  name: ActiveRe
+type: d3-device-type-assertion

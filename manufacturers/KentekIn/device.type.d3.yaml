@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f1c311f-4503-4d73-b20a-ea9d779b921c
+  mac-addresses:
+  - 00:40:6A:00:00:00/24
+  manufacturer: Kentek Information Systems,Inc
+  manufacturer-uri: https://device-type.com
+  name: KentekIn
+type: d3-device-type-assertion

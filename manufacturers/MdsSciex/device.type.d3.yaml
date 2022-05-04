@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24600dad-854c-45af-b11d-2452b7dc70fc
+  mac-addresses:
+  - 00:50:C2:24:20:00/36
+  manufacturer: Mds Sciex
+  manufacturer-uri: https://device-type.com
+  name: MdsSciex
+type: d3-device-type-assertion

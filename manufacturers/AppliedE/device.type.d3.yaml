@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 36eb24ef-3f6f-410a-bdc9-8e0e531f0495
+  mac-addresses:
+  - 00:50:C2:1D:B0:00/36
+  - 70:B3:D5:9C:80:00/36
+  manufacturer: Applied Systems Engineering, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AppliedE
+type: d3-device-type-assertion

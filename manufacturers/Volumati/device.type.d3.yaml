@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5c6735e1-471d-41aa-b8bf-77dad36720a7
+  mac-addresses:
+  - 00:50:C2:7D:90:00/36
+  - 00:50:C2:C0:30:00/36
+  manufacturer: Volumatic Limited
+  manufacturer-uri: https://device-type.com
+  name: Volumati
+type: d3-device-type-assertion

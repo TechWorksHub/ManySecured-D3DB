@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f18c3b0-07f8-403d-b6e5-47441d2def3d
+  mac-addresses:
+  - 00:10:85:00:00:00/24
+  manufacturer: Polaris Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PolarisC
+type: d3-device-type-assertion

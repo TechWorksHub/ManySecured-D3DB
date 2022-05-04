@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52e9fe51-af37-44eb-bb7a-2ddf0347b160
+  mac-addresses:
+  - 00:30:DE:00:00:00/24
+  manufacturer: WAGO Kontakttechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: WAGOKont
+type: d3-device-type-assertion

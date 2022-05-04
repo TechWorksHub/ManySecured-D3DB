@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8af2cdcf-02f2-406e-93f6-7bf951bb02be
+  mac-addresses:
+  - 14:4E:34:00:00:00/24
+  - 20:44:41:00:00:00/24
+  - 8C:08:8B:00:00:00/24
+  manufacturer: Remote Solution
+  manufacturer-uri: https://device-type.com
+  name: RemoteSo
+type: d3-device-type-assertion

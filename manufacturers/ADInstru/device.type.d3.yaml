@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92b153cd-cd40-4cf1-8e09-c78504e46c56
+  mac-addresses:
+  - 00:0B:55:00:00:00/24
+  manufacturer: ADInstruments
+  manufacturer-uri: https://device-type.com
+  name: ADInstru
+type: d3-device-type-assertion

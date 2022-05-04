@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 452d64c6-ca1e-4b3b-954a-19de2fd72be9
+  mac-addresses:
+  - 00:50:C2:22:B0:00/36
+  - 70:B3:D5:F1:00:00/36
+  - 8C:1C:DA:D0:00:00/28
+  manufacturer: Riegl Laser Measurement Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: RieglLas
+type: d3-device-type-assertion

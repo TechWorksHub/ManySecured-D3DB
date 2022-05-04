@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ced2de3a-64dd-4868-be89-8a80a341f518
+  mac-addresses:
+  - 00:90:3D:00:00:00/24
+  manufacturer: Biopac Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Biopac
+type: d3-device-type-assertion

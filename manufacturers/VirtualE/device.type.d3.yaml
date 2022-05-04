@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8674cf3d-c26c-4255-8b86-03bd6acaf10f
+  mac-addresses:
+  - AC:CA:AB:00:00:00/24
+  manufacturer: Virtual Electric Inc
+  manufacturer-uri: https://device-type.com
+  name: VirtualE
+type: d3-device-type-assertion

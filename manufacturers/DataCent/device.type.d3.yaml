@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 79a57423-c64f-43e3-9b7c-dd0d5c117a6a
+  mac-addresses:
+  - 00:15:11:00:00:00/24
+  manufacturer: Data Center Systems
+  manufacturer-uri: https://device-type.com
+  name: DataCent
+type: d3-device-type-assertion

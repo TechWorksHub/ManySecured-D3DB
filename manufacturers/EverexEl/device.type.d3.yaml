@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e0f2ec7-28c7-446e-b711-0633b1f1323b
+  mac-addresses:
+  - C4:60:44:00:00:00/24
+  manufacturer: Everex Electronics Limited
+  manufacturer-uri: https://device-type.com
+  name: EverexEl
+type: d3-device-type-assertion

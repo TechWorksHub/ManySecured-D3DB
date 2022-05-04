@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b91e662-bbeb-4b60-ab33-4fe7f20b051f
+  mac-addresses:
+  - 04:81:AE:00:00:00/24
+  manufacturer: Clack Corporation
+  manufacturer-uri: https://device-type.com
+  name: Clack
+type: d3-device-type-assertion

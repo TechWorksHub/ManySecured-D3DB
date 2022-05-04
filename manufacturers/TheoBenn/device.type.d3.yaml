@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc9fe753-1e11-40e6-8d80-2284d695869e
+  mac-addresses:
+  - 00:17:1E:00:00:00/24
+  manufacturer: Theo Benning GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: TheoBenn
+type: d3-device-type-assertion

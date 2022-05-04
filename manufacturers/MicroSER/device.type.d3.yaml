@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd0817de-8d5d-463a-932f-05b5dc90457d
+  mac-addresses:
+  - 40:D5:59:00:00:00/24
+  manufacturer: Micro S.E.R.I.
+  manufacturer-uri: https://device-type.com
+  name: MicroSER
+type: d3-device-type-assertion

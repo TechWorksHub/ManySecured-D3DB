@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8454bf4a-1a3d-401b-a976-55d372b6dbf1
+  mac-addresses:
+  - 00:01:3E:00:00:00/24
+  manufacturer: Ascom Tateco AB
+  manufacturer-uri: https://device-type.com
+  name: AscomTat
+type: d3-device-type-assertion

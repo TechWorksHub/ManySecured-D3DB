@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 2a1618c7-f130-453f-97e0-19c301501adf
+  mac-addresses:
+  - 00:50:C2:2F:A0:00/36
+  - 00:50:C2:DD:70:00/36
+  - 70:B3:D5:23:E0:00/36
+  - 70:B3:D5:40:C0:00/36
+  - 70:B3:D5:A8:70:00/36
+  - 70:B3:D5:CF:60:00/36
+  manufacturer: Tornado Modular Systems, Ltd
+  manufacturer-uri: https://device-type.com
+  name: TornadoM
+type: d3-device-type-assertion

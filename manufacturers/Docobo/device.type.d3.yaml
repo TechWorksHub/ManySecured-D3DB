@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d931553f-9393-4223-9e74-2be50a51d3dd
+  mac-addresses:
+  - 00:50:C2:BE:60:00/36
+  - B8:D8:12:B0:00:00/28
+  manufacturer: Docobo Ltd
+  manufacturer-uri: https://device-type.com
+  name: Docobo
+type: d3-device-type-assertion

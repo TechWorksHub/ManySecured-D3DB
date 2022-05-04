@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bc1cc3b-9437-4eab-823a-14fed93d8b09
+  mac-addresses:
+  - 94:8D:50:00:00:00/24
+  manufacturer: Beamex Oy Ab
+  manufacturer-uri: https://device-type.com
+  name: Beamex
+type: d3-device-type-assertion

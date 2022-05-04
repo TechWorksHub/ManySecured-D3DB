@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a081e266-2a93-4d4d-a933-eb2c03d0f7a8
+  mac-addresses:
+  - 00:80:FE:00:00:00/24
+  manufacturer: Azure Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AzureTec
+type: d3-device-type-assertion

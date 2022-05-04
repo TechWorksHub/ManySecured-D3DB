@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 327d2c13-957f-4386-a549-77d073c01b3d
+  mac-addresses:
+  - 00:10:5D:00:00:00/24
+  - 00:30:E6:00:00:00/24
+  manufacturer: Draeger Medical
+  manufacturer-uri: https://device-type.com
+  name: DraegerM
+type: d3-device-type-assertion

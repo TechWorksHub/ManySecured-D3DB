@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46beea10-ceb8-4959-83a5-1a16ec2be260
+  mac-addresses:
+  - 00:1A:C8:00:00:00/24
+  manufacturer: ISL (Instrumentation Scientifique de Laboratoire)
+  manufacturer-uri: https://device-type.com
+  name: ISLInstr
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b70d0896-3652-429c-8d5e-cdd4cad63622
+  mac-addresses:
+  - 00:0F:62:00:00:00/24
+  - 00:80:9F:00:00:00/24
+  manufacturer: Alcatel Bell Space N.V.
+  manufacturer-uri: https://device-type.com
+  name: AlcatelB
+type: d3-device-type-assertion

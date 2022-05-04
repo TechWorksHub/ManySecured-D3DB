@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b62f93ac-3af7-43bb-a043-f15fdaa9f8b8
+  mac-addresses:
+  - F0:AC:A4:00:00:00/24
+  manufacturer: HBC-radiomatic
+  manufacturer-uri: https://device-type.com
+  name: HBC-radi
+type: d3-device-type-assertion

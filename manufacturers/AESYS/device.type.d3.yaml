@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0d4ddb4-4ead-4205-9167-1c00be300394
+  mac-addresses:
+  - 00:11:BF:00:00:00/24
+  manufacturer: AESYS S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: AESYS
+type: d3-device-type-assertion

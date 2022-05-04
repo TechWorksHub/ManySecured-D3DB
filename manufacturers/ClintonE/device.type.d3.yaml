@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7cb337e9-c0f5-42bc-a72c-820afe4d97a9
+  mac-addresses:
+  - 6C:5C:3D:E0:00:00/28
+  - C4:A1:0E:B0:00:00/28
+  manufacturer: Clinton Electronics Corporation
+  manufacturer-uri: https://device-type.com
+  name: ClintonE
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b398b43f-1809-4f1b-9189-7444494c9b23
+  mac-addresses:
+  - 68:79:12:50:00:00/28
+  - 70:B3:D5:F6:90:00/36
+  manufacturer: Copper Labs, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CopperLa
+type: d3-device-type-assertion

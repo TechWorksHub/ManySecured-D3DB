@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 6f54f963-5cf2-45c7-b33c-cbdb2ca0afd6
+  mac-addresses:
+  - 00:0F:B2:00:00:00/24
+  - 00:10:FC:00:00:00/24
+  - 00:24:C8:00:00:00/24
+  - 00:24:C9:00:00:00/24
+  - 00:25:6D:00:00:00/24
+  - 00:50:57:00:00:00/24
+  - 00:A0:0F:00:00:00/24
+  - A8:87:92:00:00:00/24
+  manufacturer: Broadband Pacenet (India) Pvt. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Broadban
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eea54d00-9741-4ce5-9b2b-51ae2ef04787
+  mac-addresses:
+  - 00:0F:82:00:00:00/24
+  manufacturer: Mortara Instrument, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MortaraI
+type: d3-device-type-assertion

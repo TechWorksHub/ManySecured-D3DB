@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b00ab2d-3268-4834-aa01-df5620609b88
+  mac-addresses:
+  - 00:07:2E:00:00:00/24
+  manufacturer: North Node AB
+  manufacturer-uri: https://device-type.com
+  name: NorthNod
+type: d3-device-type-assertion

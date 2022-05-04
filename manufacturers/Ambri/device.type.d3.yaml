@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8540d285-84dd-44b0-b375-7b436cedba80
+  mac-addresses:
+  - 00:0A:FB:00:00:00/24
+  manufacturer: Ambri Limited
+  manufacturer-uri: https://device-type.com
+  name: Ambri
+type: d3-device-type-assertion

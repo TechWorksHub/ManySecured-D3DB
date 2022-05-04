@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42b3a966-05b4-4a2f-8b89-f8e95e45af03
+  mac-addresses:
+  - 00:50:00:00:00:00/24
+  manufacturer: Nexo Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NexoComm
+type: d3-device-type-assertion

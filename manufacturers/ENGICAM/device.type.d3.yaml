@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3f8c19a5-433b-4a42-89a1-341a6bfb2f5a
+  mac-addresses:
+  - 00:50:C2:A0:E0:00/36
+  - 9C:53:CD:00:00:00/24
+  manufacturer: ENGICAM s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: ENGICAM
+type: d3-device-type-assertion

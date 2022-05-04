@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c98f7d00-1d0f-4e56-adc4-acdac7ff1eec
+  mac-addresses:
+  - 8C:1F:94:00:00:00/24
+  manufacturer: RF Surgical System Inc.
+  manufacturer-uri: https://device-type.com
+  name: RFSurgic
+type: d3-device-type-assertion

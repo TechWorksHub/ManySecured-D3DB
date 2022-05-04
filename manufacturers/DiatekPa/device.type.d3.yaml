@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 94a27e76-b3ae-4824-b43d-b86217c4fb1e
+  mac-addresses:
+  - 00:C0:01:00:00:00/24
+  manufacturer: Diatek Patient Managment
+  manufacturer-uri: https://device-type.com
+  name: DiatekPa
+type: d3-device-type-assertion

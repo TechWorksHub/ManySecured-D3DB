@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01f72fba-a5c6-4371-8da9-49ce4f00bef4
+  mac-addresses:
+  - 00:00:93:00:00:00/24
+  manufacturer: Proteon Inc.
+  manufacturer-uri: https://device-type.com
+  name: Proteon
+type: d3-device-type-assertion

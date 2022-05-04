@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c538971-3299-41eb-a109-0d437895827a
+  mac-addresses:
+  - 00:30:9A:00:00:00/24
+  manufacturer: Astro Terra Corp.
+  manufacturer-uri: https://device-type.com
+  name: AstroTer
+type: d3-device-type-assertion

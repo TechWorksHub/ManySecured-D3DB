@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1002b45-eaee-4690-8635-623d59bad8b7
+  mac-addresses:
+  - 00:60:55:00:00:00/24
+  manufacturer: Cornell University
+  manufacturer-uri: https://device-type.com
+  name: CornellU
+type: d3-device-type-assertion

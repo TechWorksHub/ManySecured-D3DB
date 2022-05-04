@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16ebaa49-dc7c-47fb-a5bd-b732b9b89664
+  mac-addresses:
+  - 00:11:A3:00:00:00/24
+  manufacturer: LanReady Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: LanReady
+type: d3-device-type-assertion

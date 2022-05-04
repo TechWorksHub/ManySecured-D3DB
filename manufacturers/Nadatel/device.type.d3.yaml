@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0d80766-c280-4bd6-947f-4250afefd32e
+  mac-addresses:
+  - 00:02:69:00:00:00/24
+  manufacturer: Nadatel Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Nadatel
+type: d3-device-type-assertion

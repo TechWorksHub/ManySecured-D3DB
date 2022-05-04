@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7109fbaf-f574-4d30-9cff-721756c63b28
+  mac-addresses:
+  - 00:02:74:00:00:00/24
+  manufacturer: Tommy Technologies Corp.
+  manufacturer-uri: https://device-type.com
+  name: TommyTec
+type: d3-device-type-assertion

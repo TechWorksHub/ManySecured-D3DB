@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1ea6e436-a6b6-4649-8ed0-ea9ca8b3159f
+  mac-addresses:
+  - 00:1B:C5:03:70:00/36
+  - 00:50:C2:E4:80:00/36
+  manufacturer: ITW Reyflex North America
+  manufacturer-uri: https://device-type.com
+  name: ITWReyfl
+type: d3-device-type-assertion

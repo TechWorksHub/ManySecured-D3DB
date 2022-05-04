@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2ac960b-5efe-46bc-bce5-e74737bb75f6
+  mac-addresses:
+  - 00:0B:D1:00:00:00/24
+  manufacturer: Aeronix, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Aeronix
+type: d3-device-type-assertion

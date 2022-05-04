@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ac0689fd-1f96-4af7-90a5-0b17bc000201
+  mac-addresses:
+  - 00:50:C2:BF:C0:00/36
+  - BC:34:00:30:00:00/28
+  manufacturer: Altronix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Altronix
+type: d3-device-type-assertion

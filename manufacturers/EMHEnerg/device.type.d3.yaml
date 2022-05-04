@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 766b1d20-8822-4cbc-9052-71918039c746
+  mac-addresses:
+  - 00:1F:58:00:00:00/24
+  manufacturer: EMH Energiemesstechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: EMHEnerg
+type: d3-device-type-assertion

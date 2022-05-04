@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 397e5eb6-505a-4c06-a717-951978df41ad
+  mac-addresses:
+  - 00:05:E1:00:00:00/24
+  manufacturer: Trellis Photonics, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TrellisP
+type: d3-device-type-assertion

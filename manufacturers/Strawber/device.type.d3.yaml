@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1bfd4647-266b-4c4a-8f82-4237176d8c3f
+  mac-addresses:
+  - 00:18:59:00:00:00/24
+  - 00:40:CF:00:00:00/24
+  manufacturer: Strawberry Linux Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Strawber
+type: d3-device-type-assertion

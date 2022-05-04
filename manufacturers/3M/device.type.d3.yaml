@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed5205f2-5cb2-4e44-94c7-3231f9ff89e8
+  mac-addresses:
+  - 08:00:21:00:00:00/24
+  manufacturer: 3M Company
+  manufacturer-uri: https://device-type.com
+  name: 3M
+type: d3-device-type-assertion

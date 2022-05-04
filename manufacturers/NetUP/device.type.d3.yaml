@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe4189e3-5a93-4d95-b631-af4361e3a98b
+  mac-addresses:
+  - 00:24:20:00:00:00/24
+  manufacturer: NetUP Inc.
+  manufacturer-uri: https://device-type.com
+  name: NetUP
+type: d3-device-type-assertion

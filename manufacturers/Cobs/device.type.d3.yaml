@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 101e1a1d-5636-4d27-8157-4f853b0327cc
+  mac-addresses:
+  - 2C:09:CB:00:00:00/24
+  manufacturer: Cobs Ab
+  manufacturer-uri: https://device-type.com
+  name: Cobs
+type: d3-device-type-assertion

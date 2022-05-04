@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c2808859-5c78-4cca-8832-49579b48fae3
+  mac-addresses:
+  - 00:0B:61:00:00:00/24
+  - 00:50:C2:8E:80:00/36
+  manufacturer: "Friedrich L\xFCtze GmbH & Co. KG"
+  manufacturer-uri: https://device-type.com
+  name: Friedric
+type: d3-device-type-assertion

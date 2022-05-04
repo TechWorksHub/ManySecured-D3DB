@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f7f334b-2f0f-4d9c-b46a-dcb1e2737955
+  mac-addresses:
+  - 88:C2:42:00:00:00/24
+  manufacturer: Poynt Co.
+  manufacturer-uri: https://device-type.com
+  name: Poynt
+type: d3-device-type-assertion

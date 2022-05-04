@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f141b25-5be0-4643-86e9-751c63cae24b
+  mac-addresses:
+  - 60:64:53:00:00:00/24
+  manufacturer: AOD Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AOD
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 65b244c5-904b-4ca1-93dc-940149686bdc
+  mac-addresses:
+  - 00:00:34:00:00:00/24
+  - 08:00:30:00:00:00/24
+  - 08:00:8C:00:00:00/24
+  manufacturer: Network Resources Corporation
+  manufacturer-uri: https://device-type.com
+  name: NetworkR
+type: d3-device-type-assertion

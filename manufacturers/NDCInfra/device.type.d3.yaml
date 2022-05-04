@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d365b14a-9cfa-486e-8cf6-98a1ad2553ec
+  mac-addresses:
+  - 00:50:C2:CD:90:00/36
+  - 00:50:C2:F5:10:00/36
+  manufacturer: NDC Infrared Engineering, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NDCInfra
+type: d3-device-type-assertion

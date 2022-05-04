@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 23fee09f-2002-4b97-9408-2d828d8a23a9
+  mac-addresses:
+  - 00:30:C5:00:00:00/24
+  - AC:6B:0F:00:00:00/24
+  manufacturer: Cadence Design Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CadenceD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1c3fff8-5184-4a43-b7b3-96c37e2bcd88
+  mac-addresses:
+  - 00:1E:5F:00:00:00/24
+  manufacturer: KwikByte, LLC
+  manufacturer-uri: https://device-type.com
+  name: KwikByte
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 475e5a55-1e9d-45e8-969d-a14d343dc5a8
+  mac-addresses:
+  - 84:C8:B1:00:00:00/24
+  - A0:3E:6B:90:00:00/28
+  manufacturer: Incognito Software Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Incognit
+type: d3-device-type-assertion

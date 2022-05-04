@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b69f1a3-5d7b-48c4-90df-e73656887f0f
+  mac-addresses:
+  - 00:08:BF:00:00:00/24
+  manufacturer: Aptus Elektronik AB
+  manufacturer-uri: https://device-type.com
+  name: AptusEle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee3d3c14-d93a-409c-ad13-af1c82a43d1c
+  mac-addresses:
+  - 00:16:F3:00:00:00/24
+  manufacturer: CAST Information Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: CASTInfo
+type: d3-device-type-assertion

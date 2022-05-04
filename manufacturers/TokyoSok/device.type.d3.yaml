@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d2b76320-86a0-4186-8f74-8535cb03eb41
+  mac-addresses:
+  - 00:02:94:00:00:00/24
+  - 00:D0:A7:00:00:00/24
+  manufacturer: Tokyo Sokushin Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TokyoSok
+type: d3-device-type-assertion

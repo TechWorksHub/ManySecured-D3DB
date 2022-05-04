@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5a49bb6-84cb-45d4-acb7-81fd593ed23b
+  mac-addresses:
+  - 94:8F:EE:00:00:00/24
+  manufacturer: Verizon Telematics
+  manufacturer-uri: https://device-type.com
+  name: VerizonT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8a80aad-193e-483c-902b-6944de3c7620
+  mac-addresses:
+  - 00:B0:2A:00:00:00/24
+  manufacturer: ORSYS GmbH
+  manufacturer-uri: https://device-type.com
+  name: ORSYS
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0da96321-7e9e-4005-873f-58ebfb6edee9
+  mac-addresses:
+  - 4A:E0:3F:00:00:00/24
+  - 98:06:37:40:00:00/28
+  - E0:5A:9F:20:00:00/28
+  manufacturer: Chengdu Superxon communication Technology Co. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ChengduS
+type: d3-device-type-assertion

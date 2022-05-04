@@ -1,0 +1,10 @@
+credentialSubject:
+  id: bd90666b-fb14-43d8-b983-5e68b34c7f4d
+  mac-addresses:
+  - 10:07:23:30:00:00/28
+  - 74:37:2F:00:00:00/24
+  - 98:5F:4F:00:00:00/24
+  manufacturer: Tongfang computer co.Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Tongfang
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c3a2704-b460-4f15-8677-7a8e3707f6e5
+  mac-addresses:
+  - 00:23:C5:00:00:00/24
+  manufacturer: Radiation Safety and Control Services Inc
+  manufacturer-uri: https://device-type.com
+  name: Radiatio
+type: d3-device-type-assertion

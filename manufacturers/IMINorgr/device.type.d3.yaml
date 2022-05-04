@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3058f82-36e7-4bd4-bcde-1606e2b1c1b7
+  mac-addresses:
+  - 00:11:82:00:00:00/24
+  manufacturer: IMI Norgren Ltd
+  manufacturer-uri: https://device-type.com
+  name: IMINorgr
+type: d3-device-type-assertion

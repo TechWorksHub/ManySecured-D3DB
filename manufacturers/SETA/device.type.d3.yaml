@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08dda338-3d40-4196-a4c9-28ade9b0671f
+  mac-addresses:
+  - 00:01:ED:00:00:00/24
+  manufacturer: SETA Corp.
+  manufacturer-uri: https://device-type.com
+  name: SETA
+type: d3-device-type-assertion

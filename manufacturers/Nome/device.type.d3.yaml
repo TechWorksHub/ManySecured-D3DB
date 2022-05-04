@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1a94f87-fd67-442d-91c8-fde64468c0b8
+  mac-addresses:
+  - 04:63:E0:00:00:00/24
+  manufacturer: Nome Oy
+  manufacturer-uri: https://device-type.com
+  name: Nome
+type: d3-device-type-assertion

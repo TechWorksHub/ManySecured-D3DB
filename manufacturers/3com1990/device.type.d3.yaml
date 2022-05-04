@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6b9bd5f-37e7-4186-a2b6-6b079c2e572d
+  mac-addresses:
+  - 00:60:8C:00:00:00/24
+  manufacturer: 3Com (1990 onwards)
+  manufacturer-uri: https://device-type.com
+  name: 3com1990
+type: d3-device-type-assertion

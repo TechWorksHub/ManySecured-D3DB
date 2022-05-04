@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b84a6e66-2f4c-4f32-b83d-f809bf4fa75a
+  mac-addresses:
+  - 00:0A:FD:00:00:00/24
+  manufacturer: Kentec Electronics
+  manufacturer-uri: https://device-type.com
+  name: KentecEl
+type: d3-device-type-assertion

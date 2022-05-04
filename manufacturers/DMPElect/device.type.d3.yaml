@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa885813-f44b-439a-89d3-e3e970e7741d
+  mac-addresses:
+  - 00:1B:EB:00:00:00/24
+  manufacturer: DMP Electronics INC.
+  manufacturer-uri: https://device-type.com
+  name: DMPElect
+type: d3-device-type-assertion

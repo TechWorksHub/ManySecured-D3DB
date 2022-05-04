@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba2dc23e-a45a-4e71-b93c-a6b0f7b309f6
+  mac-addresses:
+  - 7C:B2:5C:00:00:00/24
+  manufacturer: Acacia Communications
+  manufacturer-uri: https://device-type.com
+  name: AcaciaCo
+type: d3-device-type-assertion

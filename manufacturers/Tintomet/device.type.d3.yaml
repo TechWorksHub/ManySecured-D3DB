@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 611db0fb-530b-4657-b186-a2a40d4b790a
+  mac-addresses:
+  - 00:1B:7B:00:00:00/24
+  manufacturer: The Tintometer Ltd
+  manufacturer-uri: https://device-type.com
+  name: Tintomet
+type: d3-device-type-assertion

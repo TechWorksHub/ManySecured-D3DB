@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ed939bc9-61a0-4bd8-9140-0b00e7304879
+  mac-addresses:
+  - 00:50:C2:7E:80:00/36
+  - 00:50:C2:D9:D0:00/36
+  - 70:B3:D5:50:00:00/36
+  manufacturer: Mistral Solutions Pvt. Ltd
+  manufacturer-uri: https://device-type.com
+  name: MistralS
+type: d3-device-type-assertion

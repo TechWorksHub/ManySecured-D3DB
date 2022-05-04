@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e923c09-2346-48f3-af6b-3a978d59a5bf
+  mac-addresses:
+  - 08:00:29:00:00:00/24
+  manufacturer: Megatek Corporation
+  manufacturer-uri: https://device-type.com
+  name: Megatek
+type: d3-device-type-assertion

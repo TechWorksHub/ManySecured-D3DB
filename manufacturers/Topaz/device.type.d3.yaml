@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e39465a-ba3d-4ecc-b70f-2c36ed4a852d
+  mac-addresses:
+  - 08:37:9C:00:00:00/24
+  manufacturer: Topaz Co. LTD.
+  manufacturer-uri: https://device-type.com
+  name: Topaz
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 75bcff41-61f0-424d-a663-3bb71aaaa6e5
+  mac-addresses:
+  - 00:26:04:00:00:00/24
+  - 00:90:3F:00:00:00/24
+  manufacturer: WorldCast Systems
+  manufacturer-uri: https://device-type.com
+  name: WorldCas
+type: d3-device-type-assertion

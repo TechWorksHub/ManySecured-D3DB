@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e87ba471-d04d-4816-9527-2dcfb236e6b5
+  mac-addresses:
+  - 00:05:08:00:00:00/24
+  manufacturer: Inetcam, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Inetcam
+type: d3-device-type-assertion

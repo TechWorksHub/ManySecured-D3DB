@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5302ce0e-abc8-478b-9811-4b0804547d1f
+  mac-addresses:
+  - C8:A1:BA:00:00:00/24
+  manufacturer: Neul Ltd
+  manufacturer-uri: https://device-type.com
+  name: Neul
+type: d3-device-type-assertion

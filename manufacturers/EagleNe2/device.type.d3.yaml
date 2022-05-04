@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04c27406-1825-4f9e-9bd7-b32b50488126
+  mac-addresses:
+  - 00:20:C5:00:00:00/24
+  manufacturer: Eagle NE2000
+  manufacturer-uri: https://device-type.com
+  name: EagleNe2
+type: d3-device-type-assertion

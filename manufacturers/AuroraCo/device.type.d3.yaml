@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55dbbb1b-f2f1-4687-96ca-35108a5b3ff7
+  mac-addresses:
+  - 00:10:7D:00:00:00/24
+  manufacturer: Aurora Communications, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AuroraCo
+type: d3-device-type-assertion

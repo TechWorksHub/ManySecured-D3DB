@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 13890ebf-684e-4da5-800c-2a142388b3bd
+  mac-addresses:
+  - 00:0B:00:00:00:00/24
+  - 00:19:4C:00:00:00/24
+  - 00:1A:A9:00:00:00/24
+  - 00:D0:F8:00:00:00/24
+  - 20:93:4D:00:00:00/24
+  - 28:75:D8:00:00:00/24
+  - 34:55:94:00:00:00/24
+  - 54:F6:C5:00:00:00/24
+  - 5C:CB:CA:00:00:00/24
+  - 74:E3:36:00:00:00/24
+  - 78:13:E0:00:00:00/24
+  - 78:C6:2B:00:00:00/24
+  - 98:29:3F:00:00:00/24
+  - C4:09:38:00:00:00/24
+  - E0:07:C2:00:00:00/24
+  - F4:E4:D7:00:00:00/24
+  manufacturer: Fujian Start Computer Equipment Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: FujianSt
+type: d3-device-type-assertion

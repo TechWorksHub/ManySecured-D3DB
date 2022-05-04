@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 300a6e86-f270-4cca-ad86-9704ea03fa0f
+  mac-addresses:
+  - 00:A0:0A:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Airspan
+type: d3-device-type-assertion

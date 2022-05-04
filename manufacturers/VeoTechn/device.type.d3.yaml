@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e63a75a5-a6c2-47fe-bdb0-93d2fc026d58
+  mac-addresses:
+  - 14:AE:85:90:00:00/28
+  - 70:B3:D5:A9:C0:00/36
+  manufacturer: Veo Technologies
+  manufacturer-uri: https://device-type.com
+  name: VeoTechn
+type: d3-device-type-assertion

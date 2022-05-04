@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1238eeb-ffab-4952-aa5a-0cfa84d48040
+  mac-addresses:
+  - 00:03:CA:00:00:00/24
+  manufacturer: MTS Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: MTS
+type: d3-device-type-assertion

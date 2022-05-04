@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dbfc3f2-ecd6-4c46-a0bb-f23b3482df18
+  mac-addresses:
+  - B4:1C:AB:00:00:00/24
+  manufacturer: ICR, inc.
+  manufacturer-uri: https://device-type.com
+  name: ICR
+type: d3-device-type-assertion

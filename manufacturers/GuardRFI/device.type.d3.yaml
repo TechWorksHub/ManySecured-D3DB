@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b820e558-5abf-4626-b43f-187c0af3c3d7
+  mac-addresses:
+  - 08:ED:02:C0:00:00/28
+  manufacturer: Guard RFID Solutions
+  manufacturer-uri: https://device-type.com
+  name: GuardRFI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c93c40a-1060-452c-890a-fdc737342163
+  mac-addresses:
+  - 00:60:A2:00:00:00/24
+  manufacturer: Nihon Unisys Limited Co.
+  manufacturer-uri: https://device-type.com
+  name: NihonUni
+type: d3-device-type-assertion

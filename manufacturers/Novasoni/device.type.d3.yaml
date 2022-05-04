@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ff44055-fc3d-462c-ae4a-50f42f53d0ec
+  mac-addresses:
+  - 00:07:A9:00:00:00/24
+  manufacturer: Novasonics
+  manufacturer-uri: https://device-type.com
+  name: Novasoni
+type: d3-device-type-assertion

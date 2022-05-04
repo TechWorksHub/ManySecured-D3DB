@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a9988dd-fe65-48f8-9705-75c0ed3f718c
+  mac-addresses:
+  - 00:1D:52:00:00:00/24
+  manufacturer: Defzone B.V.
+  manufacturer-uri: https://device-type.com
+  name: Defzone
+type: d3-device-type-assertion

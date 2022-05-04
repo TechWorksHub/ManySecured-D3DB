@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab8d9f3c-1ef8-413e-9b19-58a67532b1bb
+  mac-addresses:
+  - 00:50:C2:F2:00:00/36
+  manufacturer: Unfors Instruments AB
+  manufacturer-uri: https://device-type.com
+  name: UnforsIn
+type: d3-device-type-assertion

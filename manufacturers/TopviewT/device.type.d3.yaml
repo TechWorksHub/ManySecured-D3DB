@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99d517ae-c5a9-4560-a925-5b6306f0e72d
+  mac-addresses:
+  - 00:0B:67:00:00:00/24
+  manufacturer: Topview Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: TopviewT
+type: d3-device-type-assertion

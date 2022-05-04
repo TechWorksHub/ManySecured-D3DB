@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f362118-375a-4b91-99d4-79a9ca1ad6e9
+  mac-addresses:
+  - EC:93:27:00:00:00/24
+  manufacturer: MEMMERT GmbH + Co. KG
+  manufacturer-uri: https://device-type.com
+  name: MEMMERT+
+type: d3-device-type-assertion

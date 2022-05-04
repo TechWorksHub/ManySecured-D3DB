@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c608ebe-072b-4a1d-a3af-511269673528
+  mac-addresses:
+  - 00:40:22:00:00:00/24
+  manufacturer: Klever Computers, Inc.
+  manufacturer-uri: https://device-type.com
+  name: KleverCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ef944db-751c-48af-b11d-793c98847f39
+  mac-addresses:
+  - 00:1F:D5:00:00:00/24
+  manufacturer: MICRORISC s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: MICRORIS
+type: d3-device-type-assertion

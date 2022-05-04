@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 541d3b21-9d95-4ec0-a8f0-a9ea7cbb443c
+  mac-addresses:
+  - 00:02:2C:00:00:00/24
+  manufacturer: ABB Bomem, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ABBBomem
+type: d3-device-type-assertion

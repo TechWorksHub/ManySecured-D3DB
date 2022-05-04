@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b9925590-ade5-40b2-9e31-ecc0824a53d8
+  mac-addresses:
+  - 5C:85:7E:30:00:00/28
+  - 70:88:6B:80:00:00/28
+  manufacturer: Cable Matters Inc.
+  manufacturer-uri: https://device-type.com
+  name: CableMat
+type: d3-device-type-assertion

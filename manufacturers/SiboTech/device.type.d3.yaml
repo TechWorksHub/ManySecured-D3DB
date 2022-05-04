@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ddf31a1-d0dd-45f9-9c08-d68484ad0e42
+  mac-addresses:
+  - 64:EA:C5:00:00:00/24
+  manufacturer: SiboTech Automation Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SiboTech
+type: d3-device-type-assertion

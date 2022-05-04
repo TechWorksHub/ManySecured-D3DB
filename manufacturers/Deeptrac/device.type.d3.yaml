@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a9bc6d1-457d-42aa-94a3-9b2def3fe2c2
+  mac-addresses:
+  - C4:8F:C1:00:00:00/24
+  manufacturer: Deeptrack S.L.U.
+  manufacturer-uri: https://device-type.com
+  name: Deeptrac
+type: d3-device-type-assertion

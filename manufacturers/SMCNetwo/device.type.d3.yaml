@@ -1,0 +1,16 @@
+credentialSubject:
+  id: e1484d50-d4d2-4e02-8ef8-aecaad3ec03f
+  mac-addresses:
+  - 00:04:E2:00:00:00/24
+  - 00:0B:C5:00:00:00/24
+  - 00:13:F7:00:00:00/24
+  - 00:22:2D:00:00:00/24
+  - 00:26:F3:00:00:00/24
+  - 78:CD:8E:00:00:00/24
+  - B8:9B:C9:00:00:00/24
+  - C4:39:3A:00:00:00/24
+  - E4:95:6E:00:00:00/28
+  manufacturer: SMC Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SMCNetwo
+type: d3-device-type-assertion

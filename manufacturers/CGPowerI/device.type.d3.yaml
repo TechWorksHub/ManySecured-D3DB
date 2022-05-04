@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e0c323c-0983-45ba-8e6b-57006d3e05c3
+  mac-addresses:
+  - 00:12:76:00:00:00/24
+  manufacturer: CG Power Systems Ireland Limited
+  manufacturer-uri: https://device-type.com
+  name: CGPowerI
+type: d3-device-type-assertion

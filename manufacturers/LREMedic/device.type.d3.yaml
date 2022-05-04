@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23964fca-6542-4ba4-87e1-226c06312e3d
+  mac-addresses:
+  - FC:07:A0:00:00:00/24
+  manufacturer: LRE Medical GmbH
+  manufacturer-uri: https://device-type.com
+  name: LREMedic
+type: d3-device-type-assertion

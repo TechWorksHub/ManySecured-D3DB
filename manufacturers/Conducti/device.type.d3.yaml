@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3bc57afb-fc25-4b0f-a1b9-c521156ba51d
+  mac-addresses:
+  - 58:20:8A:A0:00:00/28
+  - 9C:C0:D2:00:00:00/24
+  manufacturer: Conductix-Wampfler
+  manufacturer-uri: https://device-type.com
+  name: Conducti
+type: d3-device-type-assertion

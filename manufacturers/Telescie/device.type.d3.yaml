@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 256f1b8a-0747-46bf-b6d6-c9afbb95e77c
+  mac-addresses:
+  - 00:C0:CC:00:00:00/24
+  manufacturer: Telesciences Co Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telescie
+type: d3-device-type-assertion

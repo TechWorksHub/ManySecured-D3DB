@@ -1,0 +1,8 @@
+credentialSubject:
+  id: baff0ccd-fcb4-43d8-a86f-3ede7a9bff5a
+  mac-addresses:
+  - 00:E0:D3:00:00:00/24
+  manufacturer: DATENTECHNIK GmbH
+  manufacturer-uri: https://device-type.com
+  name: DATENTEC
+type: d3-device-type-assertion

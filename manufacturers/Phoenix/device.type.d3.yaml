@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ede3efe-7f17-42e0-8874-e46c3663d63e
+  mac-addresses:
+  - 80:7B:85:20:00:00/28
+  manufacturer: Phoenix Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Phoenix
+type: d3-device-type-assertion

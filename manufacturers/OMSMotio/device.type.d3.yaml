@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4ec6210-fbf3-436f-a5ad-c2ba94458733
+  mac-addresses:
+  - 00:16:82:00:00:00/24
+  manufacturer: OMS Motion
+  manufacturer-uri: https://device-type.com
+  name: OMSMotio
+type: d3-device-type-assertion

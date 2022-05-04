@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b08e6f2-4566-4344-83a0-e6b395dc875d
+  mac-addresses:
+  - 7C:09:2B:00:00:00/24
+  manufacturer: Bekey A/S
+  manufacturer-uri: https://device-type.com
+  name: Bekey
+type: d3-device-type-assertion

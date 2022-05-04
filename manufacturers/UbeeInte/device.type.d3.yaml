@@ -1,0 +1,14 @@
+credentialSubject:
+  id: f1cab4a2-1b06-480e-a243-d6aa43fa3a23
+  mac-addresses:
+  - 0C:B9:37:00:00:00/24
+  - 5C:53:C3:00:00:00/24
+  - 64:7C:34:00:00:00/24
+  - 6C:38:A1:00:00:00/24
+  - 94:4E:5B:00:00:00/24
+  - A4:CF:D2:00:00:00/24
+  - D8:78:7F:00:00:00/24
+  manufacturer: Ubee Interactive Co., Limited
+  manufacturer-uri: https://device-type.com
+  name: UbeeInte
+type: d3-device-type-assertion

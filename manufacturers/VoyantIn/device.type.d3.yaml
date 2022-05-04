@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a934a5e-6f3c-4999-9abc-6c0e7e25fe4a
+  mac-addresses:
+  - 00:24:4A:00:00:00/24
+  manufacturer: Voyant International
+  manufacturer-uri: https://device-type.com
+  name: VoyantIn
+type: d3-device-type-assertion

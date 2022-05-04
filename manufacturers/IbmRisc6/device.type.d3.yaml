@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a34bab2-48e5-47dc-b019-2730e4892a63
+  mac-addresses:
+  - 00:06:29:00:00:00/24
+  manufacturer: IBM RISC6000 system
+  manufacturer-uri: https://device-type.com
+  name: IbmRisc6
+type: d3-device-type-assertion

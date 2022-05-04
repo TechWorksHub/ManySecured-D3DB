@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d57c941-3085-4bc4-8b05-9c2ecdac1c9c
+  mac-addresses:
+  - 00:07:DE:00:00:00/24
+  manufacturer: eCopilt AB
+  manufacturer-uri: https://device-type.com
+  name: eCopilt
+type: d3-device-type-assertion

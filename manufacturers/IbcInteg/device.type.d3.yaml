@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc9b489d-c8a4-4a12-b00a-234ecd5a7650
+  mac-addresses:
+  - 00:90:BE:00:00:00/24
+  manufacturer: Ibc/Integrated Business Computers
+  manufacturer-uri: https://device-type.com
+  name: IbcInteg
+type: d3-device-type-assertion

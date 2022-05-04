@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9146c517-dcb4-4f24-8fe1-9e3d4d970b12
+  mac-addresses:
+  - 00:23:F5:00:00:00/24
+  manufacturer: Wilo Se
+  manufacturer-uri: https://device-type.com
+  name: WiloSe
+type: d3-device-type-assertion

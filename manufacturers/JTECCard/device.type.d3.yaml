@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 85d8062a-54e6-4c96-b63b-b491f9c9be5e
+  mac-addresses:
+  - 00:26:BD:00:00:00/24
+  manufacturer: JTEC Card & Communication Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: JTECCard
+type: d3-device-type-assertion

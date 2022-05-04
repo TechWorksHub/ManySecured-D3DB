@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c18af5e-f865-4e78-ba3c-ad26efcd5d3e
+  mac-addresses:
+  - 00:60:1A:00:00:00/24
+  manufacturer: Keithley Instruments
+  manufacturer-uri: https://device-type.com
+  name: Keithley
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 02f48a04-4741-49a1-b4bd-0be3a3292dcf
+  mac-addresses:
+  - 70:B3:D5:52:10:00/36
+  - 70:B3:D5:F5:E0:00/36
+  manufacturer: Selex ES Inc.
+  manufacturer-uri: https://device-type.com
+  name: SelexES
+type: d3-device-type-assertion

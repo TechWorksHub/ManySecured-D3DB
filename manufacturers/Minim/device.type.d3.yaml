@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8a9b05a-5f8b-41af-9aa6-897d09abd491
+  mac-addresses:
+  - 00:40:36:00:00:00/24
+  manufacturer: Minim Inc.
+  manufacturer-uri: https://device-type.com
+  name: Minim
+type: d3-device-type-assertion

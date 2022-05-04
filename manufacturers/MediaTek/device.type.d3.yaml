@@ -1,0 +1,8 @@
+credentialSubject:
+  id: feffff62-1b0f-410d-a0dd-8d5027b86d7f
+  mac-addresses:
+  - 00:0C:E7:00:00:00/24
+  manufacturer: MediaTek Inc.
+  manufacturer-uri: https://device-type.com
+  name: MediaTek
+type: d3-device-type-assertion

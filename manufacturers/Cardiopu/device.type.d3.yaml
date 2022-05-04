@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae48a964-307f-4721-9692-90dd89b81bf3
+  mac-addresses:
+  - 3C:1A:57:00:00:00/24
+  manufacturer: Cardiopulmonary Corp
+  manufacturer-uri: https://device-type.com
+  name: Cardiopu
+type: d3-device-type-assertion

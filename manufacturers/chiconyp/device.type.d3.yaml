@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 834d6996-4f49-494a-a349-212da6434e85
+  mac-addresses:
+  - 70:B3:D5:3A:00:00/36
+  - 98:FC:84:B0:00:00/28
+  manufacturer: chiconypower
+  manufacturer-uri: https://device-type.com
+  name: chiconyp
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f1a45d3e-fffa-446e-9a64-e7d0fbdfa395
+  mac-addresses:
+  - 00:00:C1:00:00:00/24
+  - 00:02:81:00:00:00/24
+  - 00:80:E9:00:00:00/24
+  manufacturer: Madge Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Madge
+type: d3-device-type-assertion

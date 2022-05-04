@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40cfe869-bcf8-4f71-80a4-0e46b139cd3b
+  mac-addresses:
+  - 98:27:82:D0:00:00/28
+  manufacturer: Thorlabs GmbH
+  manufacturer-uri: https://device-type.com
+  name: Thorlabs
+type: d3-device-type-assertion

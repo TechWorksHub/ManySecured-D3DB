@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 19791960-9669-48af-bb96-fa4183d9150a
+  mac-addresses:
+  - 74:1A:E0:10:00:00/28
+  - FC:AF:AC:00:00:00/24
+  manufacturer: Socionext Inc.
+  manufacturer-uri: https://device-type.com
+  name: Socionex
+type: d3-device-type-assertion

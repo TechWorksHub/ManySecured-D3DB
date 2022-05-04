@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40e0429d-cde9-45fb-9821-8a4ebc0d95e0
+  mac-addresses:
+  - 00:17:07:00:00:00/24
+  manufacturer: InGrid, Inc
+  manufacturer-uri: https://device-type.com
+  name: InGrid
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42d332fe-33cb-4aba-8d0d-97eb767c4362
+  mac-addresses:
+  - CC:C2:61:10:00:00/28
+  manufacturer: NWL Inc.
+  manufacturer-uri: https://device-type.com
+  name: NWL
+type: d3-device-type-assertion

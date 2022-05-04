@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9dbcf00-5b60-4bdc-aa81-e03ff863adf9
+  mac-addresses:
+  - 00:80:79:00:00:00/24
+  manufacturer: Microbus Designs Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Microbus
+type: d3-device-type-assertion

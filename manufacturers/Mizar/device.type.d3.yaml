@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45f4e5aa-0716-4752-82fc-03c23a708e8f
+  mac-addresses:
+  - 00:80:F8:00:00:00/24
+  manufacturer: Mizar, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mizar
+type: d3-device-type-assertion

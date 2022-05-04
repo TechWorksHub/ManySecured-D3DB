@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b11d2ff5-c374-4e66-97a2-6ef61193f492
+  mac-addresses:
+  - 00:50:C2:05:B0:00/36
+  - 00:50:C2:85:E0:00/36
+  manufacturer: Radiometer Medical A/S
+  manufacturer-uri: https://device-type.com
+  name: Radiomet
+type: d3-device-type-assertion

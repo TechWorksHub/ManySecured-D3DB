@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 550e2969-7780-43df-b107-d4d2dfae249e
+  mac-addresses:
+  - 1C:4A:F7:00:00:00/24
+  manufacturer: Amon Inc
+  manufacturer-uri: https://device-type.com
+  name: Amon
+type: d3-device-type-assertion

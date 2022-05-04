@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e876e15a-ca47-4fd1-b743-1a39a5b6e2c0
+  mac-addresses:
+  - 00:04:11:00:00:00/24
+  manufacturer: Inkra Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: InkraNet
+type: d3-device-type-assertion

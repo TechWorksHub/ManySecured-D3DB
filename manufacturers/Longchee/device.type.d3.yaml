@@ -1,0 +1,12 @@
+credentialSubject:
+  id: b1863536-74e2-4668-82fb-7a605ec1f87d
+  mac-addresses:
+  - 00:23:B1:00:00:00/24
+  - 0C:25:76:00:00:00/24
+  - 8C:77:16:00:00:00/24
+  - B8:DE:5E:00:00:00/24
+  - FC:3D:93:00:00:00/24
+  manufacturer: Longcheer Technology (Singapore) Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: Longchee
+type: d3-device-type-assertion

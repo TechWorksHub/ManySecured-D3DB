@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a234d69e-99ae-425f-b46a-6f65ed24602b
+  mac-addresses:
+  - 00:A0:42:00:00:00/24
+  manufacturer: Spur Products Corp.
+  manufacturer-uri: https://device-type.com
+  name: SpurProd
+type: d3-device-type-assertion

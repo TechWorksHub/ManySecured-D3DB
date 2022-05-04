@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 38c90d43-5bc1-41b7-9cc2-2b1ddf091f51
+  mac-addresses:
+  - 00:25:7F:00:00:00/24
+  - 00:50:C2:01:E0:00/36
+  manufacturer: CallTechSolution Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: CallTech
+type: d3-device-type-assertion

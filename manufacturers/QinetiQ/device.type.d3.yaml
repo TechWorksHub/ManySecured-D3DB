@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b35c1945-aba8-4811-aa62-113ca3607e4e
+  mac-addresses:
+  - 00:11:F1:00:00:00/24
+  manufacturer: QinetiQ Ltd
+  manufacturer-uri: https://device-type.com
+  name: QinetiQ
+type: d3-device-type-assertion

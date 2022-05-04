@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 86a280d6-cd81-4465-8732-5bfd194a0a35
+  mac-addresses:
+  - 00:07:1C:00:00:00/24
+  - 00:60:D3:00:00:00/24
+  - 08:00:6A:00:00:00/24
+  - 80:3A:59:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: At&T
+type: d3-device-type-assertion

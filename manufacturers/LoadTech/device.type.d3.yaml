@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bfab463-2b02-4388-87f9-6520e35686c8
+  mac-addresses:
+  - 00:0B:70:00:00:00/24
+  manufacturer: Load Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: LoadTech
+type: d3-device-type-assertion

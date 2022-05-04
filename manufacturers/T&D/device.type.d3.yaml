@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f011bea1-6f5a-465c-be59-06b61d83dc07
+  mac-addresses:
+  - 00:0D:8B:00:00:00/24
+  manufacturer: T&D Corporation
+  manufacturer-uri: https://device-type.com
+  name: T&D
+type: d3-device-type-assertion

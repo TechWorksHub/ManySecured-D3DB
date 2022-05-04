@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43b5718d-c7c1-4806-b24a-b2693a67dcf1
+  mac-addresses:
+  - 00:20:E1:00:00:00/24
+  manufacturer: Alamar Electronics
+  manufacturer-uri: https://device-type.com
+  name: AlamarEl
+type: d3-device-type-assertion

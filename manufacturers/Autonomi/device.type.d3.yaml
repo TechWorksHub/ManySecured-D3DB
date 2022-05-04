@@ -1,0 +1,11 @@
+credentialSubject:
+  id: dfc1c0c3-be9a-4866-9188-dc971f741371
+  mac-addresses:
+  - 00:50:C2:FD:20:00/36
+  - 70:B3:D5:97:30:00/36
+  - 70:B3:D5:BC:70:00/36
+  - AC:E1:4F:00:00:00/24
+  manufacturer: Autonomic Controls. Inc
+  manufacturer-uri: https://device-type.com
+  name: Autonomi
+type: d3-device-type-assertion

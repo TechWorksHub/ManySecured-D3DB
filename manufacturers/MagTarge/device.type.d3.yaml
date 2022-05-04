@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e987dc2-16af-46c3-ae56-eaadb226087c
+  mac-addresses:
+  - CC:D3:9D:30:00:00/28
+  manufacturer: MagTarget LLC
+  manufacturer-uri: https://device-type.com
+  name: MagTarge
+type: d3-device-type-assertion

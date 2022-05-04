@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a23c6c91-2008-4eaa-8528-2eb3efef05c4
+  mac-addresses:
+  - 00:78:CD:00:00:00/24
+  manufacturer: Ignition Design Labs
+  manufacturer-uri: https://device-type.com
+  name: Ignition
+type: d3-device-type-assertion

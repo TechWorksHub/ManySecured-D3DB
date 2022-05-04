@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b819b47-6802-4e34-8478-ce9f0ab13131
+  mac-addresses:
+  - 00:17:4C:00:00:00/24
+  manufacturer: Millipore
+  manufacturer-uri: https://device-type.com
+  name: Millipor
+type: d3-device-type-assertion

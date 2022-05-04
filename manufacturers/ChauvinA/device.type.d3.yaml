@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 77ffa0df-680f-4b47-9623-e826be4a966d
+  mac-addresses:
+  - 00:50:C2:29:10:00/36
+  - 00:50:C2:60:20:00/36
+  - 00:50:C2:9D:E0:00/36
+  - 00:50:C2:D9:10:00/36
+  - 0C:51:F7:00:00:00/24
+  manufacturer: Chauvin Arnoux
+  manufacturer-uri: https://device-type.com
+  name: ChauvinA
+type: d3-device-type-assertion

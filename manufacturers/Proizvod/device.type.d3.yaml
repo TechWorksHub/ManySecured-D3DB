@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50b6e9df-9782-41b8-8617-22191e8f9310
+  mac-addresses:
+  - F4:E5:78:00:00:00/24
+  manufacturer: LLC Proizvodstvennaya Kompania "TransService"
+  manufacturer-uri: https://device-type.com
+  name: Proizvod
+type: d3-device-type-assertion

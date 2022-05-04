@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dbdacf17-ac8f-4ecd-b4aa-accf032e1a8d
+  mac-addresses:
+  - 00:01:7C:00:00:00/24
+  manufacturer: AG-E GmbH
+  manufacturer-uri: https://device-type.com
+  name: AG-E
+type: d3-device-type-assertion

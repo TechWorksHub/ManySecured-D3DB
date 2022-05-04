@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f6b8dfa3-fe29-423d-a78e-eda53f430ed0
+  mac-addresses:
+  - 00:19:CE:00:00:00/24
+  - 2C:48:35:00:00:00/28
+  - 40:D8:55:15:10:00/36
+  manufacturer: Progressive Gaming International
+  manufacturer-uri: https://device-type.com
+  name: Progress
+type: d3-device-type-assertion

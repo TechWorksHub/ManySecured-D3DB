@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea0e4602-a3cc-4166-9df5-1a4cb3fe36bd
+  mac-addresses:
+  - 00:1B:0B:00:00:00/24
+  manufacturer: Phidgets Inc.
+  manufacturer-uri: https://device-type.com
+  name: Phidgets
+type: d3-device-type-assertion

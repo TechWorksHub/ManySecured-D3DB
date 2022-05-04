@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 6ebff4ff-8ae5-4e5e-b66f-c6f1756a804a
+  mac-addresses:
+  - 00:1C:D7:00:00:00/24
+  - 00:50:C2:62:00:00/36
+  - 28:56:C1:00:00:00/24
+  - 38:45:54:00:00:00/24
+  - 9C:DF:03:00:00:00/24
+  - A0:56:B2:00:00:00/24
+  - F8:E8:77:00:00:00/24
+  manufacturer: Harman/Becker Automotive Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: HarmanBe
+type: d3-device-type-assertion

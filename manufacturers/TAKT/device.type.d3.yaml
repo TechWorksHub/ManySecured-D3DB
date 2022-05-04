@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02b3acc3-70a2-4c1f-8cfc-87b76fee32b4
+  mac-addresses:
+  - 50:50:65:00:00:00/24
+  manufacturer: TAKT Corporation
+  manufacturer-uri: https://device-type.com
+  name: TAKT
+type: d3-device-type-assertion

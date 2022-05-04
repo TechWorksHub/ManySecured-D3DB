@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a167ae6-937a-4080-9c42-9006b0c76023
+  mac-addresses:
+  - 00:80:12:00:00:00/24
+  manufacturer: IMS Corp.
+  manufacturer-uri: https://device-type.com
+  name: ImsImsFa
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 59aa42e1-b770-4d58-82f3-bd59604d21a8
+  mac-addresses:
+  - 18:A5:9C:00:00:00/28
+  - 70:B3:D5:B1:30:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Omwave
+type: d3-device-type-assertion

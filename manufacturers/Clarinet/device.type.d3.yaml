@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c3fac7dd-02cd-4c2b-8cd9-705ff13c612e
+  mac-addresses:
+  - 00:10:9D:00:00:00/24
+  manufacturer: Clarinet Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Clarinet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f06d571-afc8-41f1-bada-dcbcd5eb397f
+  mac-addresses:
+  - 50:FF:20:00:00:00/24
+  manufacturer: Keenetic Limited
+  manufacturer-uri: https://device-type.com
+  name: Keenetic
+type: d3-device-type-assertion

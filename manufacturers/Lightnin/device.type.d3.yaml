@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 35340f6a-28a2-4d89-b0a6-188f2dfa619a
+  mac-addresses:
+  - 00:90:F4:00:00:00/24
+  - F4:B1:64:00:00:00/24
+  manufacturer: Lightning Instrumentation
+  manufacturer-uri: https://device-type.com
+  name: Lightnin
+type: d3-device-type-assertion

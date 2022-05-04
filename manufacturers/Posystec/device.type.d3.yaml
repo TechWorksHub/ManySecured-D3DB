@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06dd4802-2ef8-4c56-9355-5d57a62fb315
+  mac-addresses:
+  - 00:12:3A:00:00:00/24
+  manufacturer: Posystech Inc., Co.
+  manufacturer-uri: https://device-type.com
+  name: Posystec
+type: d3-device-type-assertion

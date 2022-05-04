@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b8ad754d-5090-4b37-adbe-c1193921a37b
+  mac-addresses:
+  - 00:0A:E2:00:00:00/24
+  - 0C:D2:B5:00:00:00/24
+  manufacturer: Binatone Electronics International, Ltd
+  manufacturer-uri: https://device-type.com
+  name: Binatone
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ad3ad83-655a-43d3-b4b7-743def14a57f
+  mac-addresses:
+  - 2C:26:17:00:00:00/24
+  manufacturer: Oculus VR, LLC
+  manufacturer-uri: https://device-type.com
+  name: OculusVR
+type: d3-device-type-assertion

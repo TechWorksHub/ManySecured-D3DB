@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb17f0e9-72fc-4bbe-abcd-a9d7f40ba552
+  mac-addresses:
+  - 00:08:FF:00:00:00/24
+  manufacturer: Trilogy Communications Ltd
+  manufacturer-uri: https://device-type.com
+  name: TrilogyC
+type: d3-device-type-assertion

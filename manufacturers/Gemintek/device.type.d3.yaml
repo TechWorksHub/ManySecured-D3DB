@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c379fd9b-e83a-4f9e-80dd-16c0acef69ee
+  mac-addresses:
+  - E0:CF:2D:00:00:00/24
+  manufacturer: Gemintek Corporation
+  manufacturer-uri: https://device-type.com
+  name: Gemintek
+type: d3-device-type-assertion

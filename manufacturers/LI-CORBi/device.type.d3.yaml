@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 71e23adb-a2ae-4c9d-8466-c5e6f4e5fe97
+  mac-addresses:
+  - 00:1C:94:00:00:00/24
+  manufacturer: LI-COR Biosciences
+  manufacturer-uri: https://device-type.com
+  name: LI-CORBi
+type: d3-device-type-assertion

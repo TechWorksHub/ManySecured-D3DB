@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 910c6c42-9943-495d-8473-db96146f0011
+  mac-addresses:
+  - E8:8E:60:00:00:00/24
+  manufacturer: NSD Corporation
+  manufacturer-uri: https://device-type.com
+  name: NSD
+type: d3-device-type-assertion

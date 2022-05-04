@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 84107552-3e03-49d1-8f22-1b9853bb3308
+  mac-addresses:
+  - 00:1B:99:00:00:00/24
+  - 00:50:C2:5C:30:00/36
+  manufacturer: KS System GmbH
+  manufacturer-uri: https://device-type.com
+  name: KSSystem
+type: d3-device-type-assertion

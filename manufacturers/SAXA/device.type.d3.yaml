@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6266ea6f-21b6-46a5-97e0-ce97b2142676
+  mac-addresses:
+  - 00:02:2B:00:00:00/24
+  - 00:20:C1:00:00:00/24
+  manufacturer: SAXA, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SAXA
+type: d3-device-type-assertion

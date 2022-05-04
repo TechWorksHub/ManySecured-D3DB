@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2970e49-ae2b-4039-810c-fe7fc4993ca5
+  mac-addresses:
+  - 00:18:35:00:00:00/24
+  manufacturer: Thoratec / ITC
+  manufacturer-uri: https://device-type.com
+  name: Thoratec
+type: d3-device-type-assertion

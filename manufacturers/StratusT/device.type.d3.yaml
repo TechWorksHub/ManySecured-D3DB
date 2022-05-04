@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7fc0877e-c8ad-4097-987f-f8fb8036c5ce
+  mac-addresses:
+  - 00:00:A8:00:00:00/24
+  - 00:04:FC:00:00:00/24
+  - 00:E0:09:00:00:00/24
+  manufacturer: Stratus Technologies
+  manufacturer-uri: https://device-type.com
+  name: StratusT
+type: d3-device-type-assertion

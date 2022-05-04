@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a529311b-17a1-4f1f-9f58-3170335fb138
+  mac-addresses:
+  - 00:50:C2:AB:90:00/36
+  - 90:4E:91:C0:00:00/28
+  manufacturer: Showtacle
+  manufacturer-uri: https://device-type.com
+  name: Showtacl
+type: d3-device-type-assertion

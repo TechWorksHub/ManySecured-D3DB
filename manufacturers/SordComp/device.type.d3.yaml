@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43cfa672-3d76-4ebd-bb90-03821be70e85
+  mac-addresses:
+  - 00:60:0A:00:00:00/24
+  manufacturer: Sord Computer Corporation
+  manufacturer-uri: https://device-type.com
+  name: SordComp
+type: d3-device-type-assertion

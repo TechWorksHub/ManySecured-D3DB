@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76fc5c41-0ccf-44e0-893a-408b46f8e552
+  mac-addresses:
+  - 00:00:A4:00:00:00/24
+  manufacturer: Acorn Computers Limited
+  manufacturer-uri: https://device-type.com
+  name: AcornCom
+type: d3-device-type-assertion

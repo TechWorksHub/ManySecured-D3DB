@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5eb5d092-251f-4fad-81d8-da12f177167f
+  mac-addresses:
+  - 98:02:D8:50:00:00/28
+  manufacturer: EBI Ltd.
+  manufacturer-uri: https://device-type.com
+  name: EBI
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 12ed2482-3053-4445-8696-f3de169a221a
+  mac-addresses:
+  - 00:E0:EC:00:00:00/24
+  - 0C:48:C6:00:00:00/24
+  - 34:AD:61:00:00:00/24
+  manufacturer: Celestica Inc.
+  manufacturer-uri: https://device-type.com
+  name: Celestic
+type: d3-device-type-assertion

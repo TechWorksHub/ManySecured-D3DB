@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32b875ef-b440-497a-8ece-52c8766ab08e
+  mac-addresses:
+  - FC:5B:26:00:00:00/24
+  manufacturer: MikroBits
+  manufacturer-uri: https://device-type.com
+  name: MikroBit
+type: d3-device-type-assertion

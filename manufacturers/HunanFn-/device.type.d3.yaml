@@ -1,0 +1,16 @@
+credentialSubject:
+  id: c8f79a13-34ab-4146-a7c9-44246da9a0c6
+  mac-addresses:
+  - 20:57:9E:00:00:00/24
+  - 24:18:C6:00:00:00/24
+  - 30:95:87:00:00:00/24
+  - 5C:C5:63:00:00:00/24
+  - 68:4E:05:00:00:00/24
+  - 88:12:AC:00:00:00/24
+  - B8:4D:43:00:00:00/24
+  - D4:8A:3B:00:00:00/24
+  - F0:B0:40:00:00:00/24
+  manufacturer: Hunan Fn-Link Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: HunanFn-
+type: d3-device-type-assertion

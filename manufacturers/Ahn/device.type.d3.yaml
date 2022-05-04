@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a8b7fd7-4fec-41b6-8c5e-1f7a652c9735
+  mac-addresses:
+  - D8:81:CE:00:00:00/24
+  manufacturer: Ahn Inc.
+  manufacturer-uri: https://device-type.com
+  name: Ahn
+type: d3-device-type-assertion

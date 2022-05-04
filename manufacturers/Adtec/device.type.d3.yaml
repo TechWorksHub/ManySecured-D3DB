@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bea1197-6839-4744-ba03-c8b0c5c7f0c9
+  mac-addresses:
+  - 00:02:29:00:00:00/24
+  manufacturer: Adtec Corporation
+  manufacturer-uri: https://device-type.com
+  name: Adtec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 533aed32-9370-4ffe-85aa-c9d037044bd2
+  mac-addresses:
+  - BC:97:40:20:00:00/28
+  manufacturer: Lattec I/S
+  manufacturer-uri: https://device-type.com
+  name: LattecIS
+type: d3-device-type-assertion

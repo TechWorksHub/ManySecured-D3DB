@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1ffe053-5678-46c2-867e-876efaefa5f7
+  mac-addresses:
+  - D0:63:B4:00:00:00/24
+  manufacturer: SolidRun Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SolidRun
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 78ca5d4c-f972-4c01-89df-001a12c379b5
+  mac-addresses:
+  - AC:37:C9:00:00:00/24
+  - FA:F9:C0:00:00:00/24
+  manufacturer: RAID Incorporated
+  manufacturer-uri: https://device-type.com
+  name: RAID
+type: d3-device-type-assertion

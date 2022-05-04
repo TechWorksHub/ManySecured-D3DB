@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2d6084d6-58b7-492a-8ebf-13df5ce58ef0
+  mac-addresses:
+  - 00:1B:C5:0C:40:00/36
+  - 70:B3:D5:8B:60:00/36
+  - 70:B3:D5:9A:00:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Eldes
+type: d3-device-type-assertion

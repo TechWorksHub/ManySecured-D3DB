@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5452c09f-0a23-460e-be15-f078a33d174b
+  mac-addresses:
+  - 00:08:87:00:00:00/24
+  manufacturer: Maschinenfabrik Reinhausen GmbH
+  manufacturer-uri: https://device-type.com
+  name: Maschine
+type: d3-device-type-assertion

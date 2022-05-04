@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7df10e1c-5857-4b28-ab48-61e1045ac24a
+  mac-addresses:
+  - 80:64:7A:00:00:00/24
+  manufacturer: Ola Sense Inc
+  manufacturer-uri: https://device-type.com
+  name: OlaSense
+type: d3-device-type-assertion

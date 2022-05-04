@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d09b8213-7600-4ef8-8e17-dd01acf3df82
+  mac-addresses:
+  - 00:0A:C2:00:00:00/24
+  - 14:F8:93:00:00:00/24
+  manufacturer: Wuhan FiberHome Digital Technology Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: WuhanFib
+type: d3-device-type-assertion

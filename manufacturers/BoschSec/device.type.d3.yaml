@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6e30d13e-21fb-4812-9e86-0e0dce317a3e
+  mac-addresses:
+  - 00:01:31:00:00:00/24
+  - 00:04:63:00:00:00/24
+  - 00:1C:44:00:00:00/24
+  manufacturer: Bosch Security Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BoschSec
+type: d3-device-type-assertion

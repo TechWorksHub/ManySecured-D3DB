@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 520e4a33-b046-4873-8cb1-2ff2bc3eb64d
+  mac-addresses:
+  - 3C:AA:3F:00:00:00/24
+  manufacturer: iKey, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: iKey
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 422c8e99-14aa-4b7b-bdce-04ecc9728b5b
+  mac-addresses:
+  - 00:50:C2:2E:10:00/36
+  - 5C:F2:86:70:00:00/28
+  manufacturer: Access IS
+  manufacturer-uri: https://device-type.com
+  name: AccessIS
+type: d3-device-type-assertion

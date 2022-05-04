@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2d08480-94f3-4454-a844-b6122478e84e
+  mac-addresses:
+  - 00:0C:60:00:00:00/24
+  manufacturer: ACM Systems
+  manufacturer-uri: https://device-type.com
+  name: ACM
+type: d3-device-type-assertion

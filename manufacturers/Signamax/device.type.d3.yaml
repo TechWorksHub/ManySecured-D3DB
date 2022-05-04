@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d50410b-5b04-4cd1-b3c2-e46ac8729456
+  mac-addresses:
+  - 00:1D:79:00:00:00/24
+  manufacturer: Signamax Llc
+  manufacturer-uri: https://device-type.com
+  name: Signamax
+type: d3-device-type-assertion

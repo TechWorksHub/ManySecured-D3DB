@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5243147c-be54-4cb9-b90c-795cab17e92c
+  mac-addresses:
+  - 00:0B:2F:00:00:00/24
+  manufacturer: bplan GmbH
+  manufacturer-uri: https://device-type.com
+  name: bplan
+type: d3-device-type-assertion

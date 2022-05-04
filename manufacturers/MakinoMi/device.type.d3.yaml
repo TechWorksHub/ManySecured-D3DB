@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6500bf6-b9c5-4639-81ec-2b5e4245e329
+  mac-addresses:
+  - 00:04:04:00:00:00/24
+  manufacturer: Makino Milling Machine Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MakinoMi
+type: d3-device-type-assertion

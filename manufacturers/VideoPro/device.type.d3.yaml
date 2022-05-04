@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff64c956-9034-4e33-a7a2-97b696c4ad27
+  mac-addresses:
+  - 00:16:F6:00:00:00/24
+  manufacturer: Video Products Group
+  manufacturer-uri: https://device-type.com
+  name: VideoPro
+type: d3-device-type-assertion

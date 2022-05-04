@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b0349d24-c050-45b3-853d-ffdd26628c38
+  mac-addresses:
+  - 00:1C:A1:00:00:00/24
+  - 00:22:18:00:00:00/24
+  manufacturer: Akamai Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AkamaiTe
+type: d3-device-type-assertion

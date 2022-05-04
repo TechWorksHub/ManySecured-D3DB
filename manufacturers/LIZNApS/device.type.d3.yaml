@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03ddd138-7f6b-4580-b0fb-1024c02d4268
+  mac-addresses:
+  - 54:AC:FC:00:00:00/24
+  manufacturer: LIZN ApS
+  manufacturer-uri: https://device-type.com
+  name: LIZNApS
+type: d3-device-type-assertion

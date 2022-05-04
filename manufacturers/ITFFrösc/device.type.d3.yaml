@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1bf8fe2b-6861-4264-bb3e-1ae59bc8b207
+  mac-addresses:
+  - 00:50:C2:B7:60:00/36
+  - 94:11:DA:00:00:00/24
+  manufacturer: "ITF Fr\xF6schl GmbH"
+  manufacturer-uri: https://device-type.com
+  name: "ITFFr\xF6sc"
+type: d3-device-type-assertion

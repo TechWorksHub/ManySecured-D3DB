@@ -1,0 +1,17 @@
+credentialSubject:
+  id: bc4b331b-231e-44cc-8257-da25d186e19e
+  mac-addresses:
+  - 0C:B5:DE:00:00:00/24
+  - 18:42:2F:00:00:00/24
+  - 4C:A7:4B:00:00:00/24
+  - 54:05:5F:00:00:00/24
+  - 68:59:7F:00:00:00/24
+  - 84:A7:83:00:00:00/24
+  - 88:5C:47:00:00:00/24
+  - 90:67:F3:00:00:00/24
+  - 94:AE:61:00:00:00/24
+  - D4:22:4E:00:00:00/24
+  manufacturer: Alcatel Lucent
+  manufacturer-uri: https://device-type.com
+  name: AlcatelL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b3e1cbc-9bfa-479a-aa33-268beb669218
+  mac-addresses:
+  - 00:50:C2:21:80:00/36
+  manufacturer: "Nansen S. A. - Instrumentos de Precis\xE3o"
+  manufacturer-uri: https://device-type.com
+  name: NansenSA
+type: d3-device-type-assertion

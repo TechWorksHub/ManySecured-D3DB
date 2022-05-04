@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5120b726-6293-4033-a3a1-8b11002a6207
+  mac-addresses:
+  - DC:DC:07:00:00:00/24
+  manufacturer: TRP Systems BV
+  manufacturer-uri: https://device-type.com
+  name: TRP
+type: d3-device-type-assertion

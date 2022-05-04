@@ -1,0 +1,18 @@
+credentialSubject:
+  id: 09612026-bbd2-44cd-87ef-97e9f11031a7
+  mac-addresses:
+  - 00:03:59:00:00:00/24
+  - 00:1D:17:00:00:00/24
+  - 00:1E:1B:00:00:00/24
+  - 00:20:CC:00:00:00/24
+  - 00:21:B1:00:00:00/24
+  - 00:48:54:00:00:00/24
+  - 00:50:C2:06:F0:00/36
+  - 00:50:C2:2C:30:00/36
+  - 00:90:91:00:00:00/24
+  - 28:FD:80:40:00:00/28
+  - 70:B3:D5:D9:F0:00/36
+  manufacturer: DigitalSis
+  manufacturer-uri: https://device-type.com
+  name: DigitalS
+type: d3-device-type-assertion

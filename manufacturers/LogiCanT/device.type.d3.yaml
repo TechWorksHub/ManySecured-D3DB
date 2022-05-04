@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc020b8d-797f-496b-aed2-76ff54754172
+  mac-addresses:
+  - 00:20:3E:00:00:00/24
+  manufacturer: LogiCan Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: LogiCanT
+type: d3-device-type-assertion

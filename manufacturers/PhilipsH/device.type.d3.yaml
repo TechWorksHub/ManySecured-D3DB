@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf02e7f8-4e0a-4880-b2da-ccdf764f9483
+  mac-addresses:
+  - 7C:94:B2:00:00:00/24
+  manufacturer: Philips Healthcare PCCI
+  manufacturer-uri: https://device-type.com
+  name: PhilipsH
+type: d3-device-type-assertion

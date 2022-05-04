@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1e0934c-4d79-49d8-a5be-d9a09602470c
+  mac-addresses:
+  - 00:19:0D:00:00:00/24
+  manufacturer: IEEE 1394c
+  manufacturer-uri: https://device-type.com
+  name: IEEE1394
+type: d3-device-type-assertion

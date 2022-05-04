@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65ed23a4-e2bf-48cb-b9f7-b4d4d3dc99f3
+  mac-addresses:
+  - 00:D0:2B:00:00:00/24
+  manufacturer: Jetcell, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Jetcell
+type: d3-device-type-assertion

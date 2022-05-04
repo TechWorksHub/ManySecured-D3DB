@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4bd6f79b-9c20-45c6-ad2e-c1f1724eb49a
+  mac-addresses:
+  - 00:14:59:00:00:00/24
+  manufacturer: Moram Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Moram
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e7e3b94-a666-4348-8407-14dc34ffe938
+  mac-addresses:
+  - 00:13:73:00:00:00/24
+  manufacturer: BLwave Electronics Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: BLwaveEl
+type: d3-device-type-assertion

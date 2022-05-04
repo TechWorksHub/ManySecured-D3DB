@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed5c8bd9-1d99-4414-9b4b-637aeda42782
+  mac-addresses:
+  - 00:50:C2:1C:A0:00/36
+  - 80:E4:DA:C0:00:00/28
+  manufacturer: EVER Sp. z o.o.
+  manufacturer-uri: https://device-type.com
+  name: EVERSp
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 59634d1d-a7bb-4e79-bebe-53a8e9753615
+  mac-addresses:
+  - 00:03:04:00:00:00/24
+  - 00:0B:05:00:00:00/24
+  - 00:24:08:00:00:00/24
+  manufacturer: Pacific Broadband Communications
+  manufacturer-uri: https://device-type.com
+  name: PacificB
+type: d3-device-type-assertion

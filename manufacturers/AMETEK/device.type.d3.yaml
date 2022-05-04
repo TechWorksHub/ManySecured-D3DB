@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b58334b4-567a-48d2-9d13-1f49ff55647d
+  mac-addresses:
+  - 00:0F:88:00:00:00/24
+  manufacturer: AMETEK, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AMETEK
+type: d3-device-type-assertion

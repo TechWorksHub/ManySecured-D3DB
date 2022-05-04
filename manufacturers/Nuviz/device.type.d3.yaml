@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c409471-a715-4c4b-97c6-3265ea2d170b
+  mac-addresses:
+  - 4C:65:A8:60:00:00/28
+  - 70:B3:D5:AA:E0:00/36
+  manufacturer: Nuviz Oy
+  manufacturer-uri: https://device-type.com
+  name: Nuviz
+type: d3-device-type-assertion

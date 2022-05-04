@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab9d8a4e-e6d1-4a59-877d-f8143ad49876
+  mac-addresses:
+  - 00:12:1F:00:00:00/24
+  manufacturer: Harding Instruments
+  manufacturer-uri: https://device-type.com
+  name: HardingI
+type: d3-device-type-assertion

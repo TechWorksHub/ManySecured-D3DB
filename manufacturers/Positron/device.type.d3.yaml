@@ -1,0 +1,11 @@
+credentialSubject:
+  id: eb60e637-6ab9-41cb-9a15-431d23572995
+  mac-addresses:
+  - 00:0C:D4:00:00:00/24
+  - 00:0E:D8:00:00:00/24
+  - 00:1F:38:00:00:00/24
+  - 00:E0:9A:00:00:00/24
+  manufacturer: Positron Public Safety Systems inc.
+  manufacturer-uri: https://device-type.com
+  name: Positron
+type: d3-device-type-assertion

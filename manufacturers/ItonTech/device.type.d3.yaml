@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 3ead5405-3d35-458e-8192-c50befecced0
+  mac-addresses:
+  - 10:A5:62:00:00:00/24
+  - 2C:78:4C:00:00:00/24
+  - 70:3E:97:00:00:00/24
+  - DC:2C:26:00:00:00/24
+  - E0:9F:2A:00:00:00/24
+  manufacturer: Iton Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: ItonTech
+type: d3-device-type-assertion

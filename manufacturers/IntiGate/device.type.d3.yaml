@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46a3dd67-af6e-4e17-885f-338a5b19eef5
+  mac-addresses:
+  - 00:08:5A:00:00:00/24
+  manufacturer: IntiGate Inc.
+  manufacturer-uri: https://device-type.com
+  name: IntiGate
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7744ba5-86d5-4ba9-82a9-4df9b6080d0e
+  mac-addresses:
+  - 00:01:3F:00:00:00/24
+  manufacturer: Neighbor World Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Neighbor
+type: d3-device-type-assertion

@@ -1,0 +1,28 @@
+credentialSubject:
+  id: c7cc9006-0f01-4226-bf24-c506e99936bb
+  mac-addresses:
+  - 00:50:C2:02:90:00/36
+  - 00:50:C2:41:00:00/36
+  - 00:50:C2:A6:20:00/36
+  - 00:50:C2:F1:D0:00/36
+  - 40:D8:55:0F:10:00/36
+  - 70:B3:D5:0D:E0:00/36
+  - 70:B3:D5:0E:80:00/36
+  - 70:B3:D5:29:70:00/36
+  - 70:B3:D5:3E:B0:00/36
+  - 70:B3:D5:5E:20:00/36
+  - 70:B3:D5:5F:E0:00/36
+  - 70:B3:D5:6B:70:00/36
+  - 70:B3:D5:75:80:00/36
+  - 70:B3:D5:80:30:00/36
+  - 70:B3:D5:A9:20:00/36
+  - 70:B3:D5:B7:50:00/36
+  - 70:B3:D5:BB:50:00/36
+  - 70:B3:D5:C9:10:00/36
+  - 70:B3:D5:CE:80:00/36
+  - 8C:1F:64:83:A0:00/36
+  - 8C:1F:64:E4:10:00/36
+  manufacturer: Grossenbacher Systeme AG
+  manufacturer-uri: https://device-type.com
+  name: Grossenb
+type: d3-device-type-assertion

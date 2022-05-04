@@ -1,0 +1,17 @@
+credentialSubject:
+  id: 51c576d9-61aa-4ee6-909d-08d88e2161e0
+  mac-addresses:
+  - 00:C0:91:00:00:00/24
+  - 0C:86:C7:00:00:00/24
+  - 14:63:08:00:00:00/24
+  - 20:BB:C6:00:00:00/24
+  - 2C:9E:EC:00:00:00/24
+  - 4C:0D:EE:00:00:00/24
+  - 88:0F:B6:00:00:00/24
+  - AC:62:0D:00:00:00/24
+  - B8:8F:B4:00:00:00/24
+  - D0:C3:5A:00:00:00/24
+  manufacturer: Jabil Circuit, Inc.
+  manufacturer-uri: https://device-type.com
+  name: JabilCir
+type: d3-device-type-assertion

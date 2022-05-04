@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ecad707f-0aa0-4b90-8f36-b33dcdbcacb3
+  mac-addresses:
+  - DC:DA:4F:00:00:00/24
+  manufacturer: Getck Technology, Inc
+  manufacturer-uri: https://device-type.com
+  name: GetckTec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6dbbaf15-ca1e-4d7b-8f67-e0d9c59740bc
+  mac-addresses:
+  - 00:12:95:00:00:00/24
+  manufacturer: Aiware Inc.
+  manufacturer-uri: https://device-type.com
+  name: Aiware
+type: d3-device-type-assertion

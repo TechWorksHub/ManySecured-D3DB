@@ -1,0 +1,11 @@
+credentialSubject:
+  id: c724111f-1810-48ec-8a2e-b755830fd628
+  mac-addresses:
+  - 3A:A3:F8:00:00:00/24
+  - 4A:07:D6:00:00:00/24
+  - CA:30:BF:00:00:00/24
+  - FA:94:F1:00:00:00/24
+  manufacturer: IEEE 802.1 Chair
+  manufacturer-uri: https://device-type.com
+  name: IEEE8021
+type: d3-device-type-assertion

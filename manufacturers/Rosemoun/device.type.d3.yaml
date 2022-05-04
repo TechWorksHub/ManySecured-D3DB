@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 2b676207-2581-4111-86c3-bd2c741a1221
+  mac-addresses:
+  - 00:00:68:00:00:00/24
+  - 00:0A:AE:00:00:00/24
+  - 00:26:16:00:00:00/24
+  - 40:D8:55:02:50:00/36
+  - F8:02:78:B0:00:00/28
+  manufacturer: Rosemount Controls
+  manufacturer-uri: https://device-type.com
+  name: Rosemoun
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 043af947-dac6-424f-9302-0ef3960917d7
+  mac-addresses:
+  - 00:90:2B:00:00:00/24
+  - 00:90:F2:00:00:00/24
+  manufacturer: Cisco
+  manufacturer-uri: https://device-type.com
+  name: CiscoEth
+type: d3-device-type-assertion

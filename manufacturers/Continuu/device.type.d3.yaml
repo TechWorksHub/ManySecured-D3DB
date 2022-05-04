@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d345a21-76d8-4d4d-9af9-fec8e4b573be
+  mac-addresses:
+  - 00:0F:56:00:00:00/24
+  - 00:60:A3:00:00:00/24
+  manufacturer: Continuum Photonics Inc
+  manufacturer-uri: https://device-type.com
+  name: Continuu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f369a58f-eaf7-42be-9908-203787f244ec
+  mac-addresses:
+  - 00:1B:C5:0B:D0:00/36
+  manufacturer: Bridge Diagnostics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BridgeDi
+type: d3-device-type-assertion

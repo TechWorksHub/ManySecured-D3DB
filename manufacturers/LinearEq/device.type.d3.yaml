@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 873d5094-f12e-4209-b6b7-eb03488fd567
+  mac-addresses:
+  - 58:50:76:00:00:00/24
+  manufacturer: Linear Equipamentos Eletronicos SA
+  manufacturer-uri: https://device-type.com
+  name: LinearEq
+type: d3-device-type-assertion

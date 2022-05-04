@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 83082e91-af9d-4a12-a08a-1f11c0f7eddd
+  mac-addresses:
+  - 40:00:E0:00:00:00/24
+  - B8:B3:DC:00:00:00/24
+  manufacturer: Derek(Shaoguan)Limited
+  manufacturer-uri: https://device-type.com
+  name: DerekSha
+type: d3-device-type-assertion

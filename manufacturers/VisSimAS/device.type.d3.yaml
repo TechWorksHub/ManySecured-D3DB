@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4114a8b-ada5-4603-afd4-b0054cca57d7
+  mac-addresses:
+  - 8C:D3:A2:00:00:00/24
+  manufacturer: VisSim AS
+  manufacturer-uri: https://device-type.com
+  name: VisSimAS
+type: d3-device-type-assertion

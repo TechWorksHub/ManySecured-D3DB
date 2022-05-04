@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05d3d8ef-1668-44b8-af7a-bfbf09e4b900
+  mac-addresses:
+  - 00:1A:1A:00:00:00/24
+  manufacturer: Gentex Corporation/Electro-Acoustic Products
+  manufacturer-uri: https://device-type.com
+  name: GentexEl
+type: d3-device-type-assertion

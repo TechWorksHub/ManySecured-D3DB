@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f3e93d0-ff15-499d-9aa6-1978da53adc6
+  mac-addresses:
+  - 00:11:84:00:00:00/24
+  manufacturer: Humo Laboratory,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: HumoLabo
+type: d3-device-type-assertion

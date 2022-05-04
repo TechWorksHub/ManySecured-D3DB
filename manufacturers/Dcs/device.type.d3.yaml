@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a252c33-c35e-45f3-ba96-cdf4ce627106
+  mac-addresses:
+  - 00:60:C6:00:00:00/24
+  manufacturer: Dcs Ag
+  manufacturer-uri: https://device-type.com
+  name: Dcs
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8729a19-cb71-437a-aea6-3dac36f6efb9
+  mac-addresses:
+  - 00:D0:F7:00:00:00/24
+  manufacturer: Next Nets Corporation
+  manufacturer-uri: https://device-type.com
+  name: NextNets
+type: d3-device-type-assertion

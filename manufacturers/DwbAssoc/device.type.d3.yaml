@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7fbb6e0-0a58-4041-ac8d-9c6ebfec2ea5
+  mac-addresses:
+  - 00:80:73:00:00:00/24
+  manufacturer: Dwb Associates
+  manufacturer-uri: https://device-type.com
+  name: DwbAssoc
+type: d3-device-type-assertion

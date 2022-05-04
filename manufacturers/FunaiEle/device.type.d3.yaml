@@ -1,0 +1,10 @@
+credentialSubject:
+  id: dae004f3-312d-4b7d-8fca-ea2ebead2ee3
+  mac-addresses:
+  - 00:E0:A9:00:00:00/24
+  - 04:D6:0E:00:00:00/24
+  - 78:80:38:00:00:00/24
+  manufacturer: Funai Electric Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FunaiEle
+type: d3-device-type-assertion

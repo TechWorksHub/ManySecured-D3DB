@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8da8da95-ae0c-414d-8079-b4dc3ed76883
+  mac-addresses:
+  - 00:50:C2:30:30:00/36
+  - 40:D8:55:03:90:00/36
+  manufacturer: CI Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CI
+type: d3-device-type-assertion

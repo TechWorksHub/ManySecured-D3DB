@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca833d55-de5b-4b3a-8ed4-32db13b72199
+  mac-addresses:
+  - 00:10:8B:00:00:00/24
+  manufacturer: Laseranimation Sollinger Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Laserani
+type: d3-device-type-assertion

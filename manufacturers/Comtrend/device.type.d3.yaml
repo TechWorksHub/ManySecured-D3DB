@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 2ae62e6e-917e-4aca-bbfb-d679348d264d
+  mac-addresses:
+  - 00:1D:20:00:00:00/24
+  - 00:30:DA:00:00:00/24
+  - 1C:64:99:00:00:00/24
+  - 38:72:C0:00:00:00/24
+  - 64:68:0C:00:00:00/24
+  - A0:18:42:00:00:00/24
+  - C8:D1:2A:00:00:00/24
+  - D8:B6:B7:00:00:00/24
+  - F8:8E:85:00:00:00/24
+  manufacturer: Comtrend Corporation
+  manufacturer-uri: https://device-type.com
+  name: Comtrend
+type: d3-device-type-assertion

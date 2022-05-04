@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d7156d2c-7247-4cfe-86e7-5a6aa34180d6
+  mac-addresses:
+  - 70:B3:D5:BD:D0:00/36
+  - 70:B3:D5:F5:80:00/36
+  manufacturer: Cdr Srl
+  manufacturer-uri: https://device-type.com
+  name: Cdr
+type: d3-device-type-assertion

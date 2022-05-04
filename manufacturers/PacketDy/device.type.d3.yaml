@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eba8e2f1-c3c4-465f-bcf1-f993714a74a7
+  mac-addresses:
+  - 00:03:C1:00:00:00/24
+  manufacturer: Packet Dynamics Ltd
+  manufacturer-uri: https://device-type.com
+  name: PacketDy
+type: d3-device-type-assertion

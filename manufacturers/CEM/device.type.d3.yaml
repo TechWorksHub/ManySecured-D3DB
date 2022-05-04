@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa6a7a66-70d0-4d0f-8e17-4b44675182ae
+  mac-addresses:
+  - 00:08:79:00:00:00/24
+  manufacturer: CEM Corporation
+  manufacturer-uri: https://device-type.com
+  name: CEM
+type: d3-device-type-assertion

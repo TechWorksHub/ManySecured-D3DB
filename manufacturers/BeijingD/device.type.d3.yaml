@@ -1,0 +1,20 @@
+credentialSubject:
+  id: bd8e7efa-f25c-4e18-827e-7afdcc2079e4
+  mac-addresses:
+  - 00:1B:43:00:00:00/24
+  - 00:23:A9:00:00:00/24
+  - 10:48:B1:00:00:00/24
+  - 34:BC:A6:00:00:00/24
+  - 3C:6A:2C:E0:00:00/28
+  - 48:0B:B2:70:00:00/28
+  - 70:B3:D5:06:F0:00/36
+  - 70:B3:D5:A3:60:00/36
+  - 84:11:C2:10:00:00/28
+  - A0:19:B2:20:00:00/28
+  - CC:1B:E0:10:00:00/28
+  - D8:CF:89:00:00:00/24
+  - F4:0E:11:10:00:00/28
+  manufacturer: Beijing DG Telecommunications equipment Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: BeijingD
+type: d3-device-type-assertion

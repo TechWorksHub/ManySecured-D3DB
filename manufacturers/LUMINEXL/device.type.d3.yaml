@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cf3020e5-c0cd-4fc1-b002-2fe872867e14
+  mac-addresses:
+  - 00:50:C2:9C:90:00/36
+  - D0:69:9E:00:00:00/24
+  manufacturer: LUMINEX Lighting Control Equipment
+  manufacturer-uri: https://device-type.com
+  name: LUMINEXL
+type: d3-device-type-assertion

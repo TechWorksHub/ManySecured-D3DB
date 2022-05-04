@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a3a2b5e9-9716-4507-9544-da86f46636ac
+  mac-addresses:
+  - 00:10:92:00:00:00/24
+  - 00:90:2F:00:00:00/24
+  manufacturer: Netcore Inc.
+  manufacturer-uri: https://device-type.com
+  name: Netcore
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 61b1e6d6-2b86-45b6-b1e9-275bd112cb43
+  mac-addresses:
+  - 00:0F:79:00:00:00/24
+  - 00:19:58:00:00:00/24
+  manufacturer: Bluetooth Interest Group Inc.
+  manufacturer-uri: https://device-type.com
+  name: Bluetoot
+type: d3-device-type-assertion

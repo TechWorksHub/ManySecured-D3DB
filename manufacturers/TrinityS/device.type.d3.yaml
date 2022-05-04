@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 848da9e4-0888-4469-b1b2-51dbebffb622
+  mac-addresses:
+  - 00:0F:80:00:00:00/24
+  - 70:B3:D5:AC:90:00/36
+  manufacturer: Trinity Security Systems,Inc.
+  manufacturer-uri: https://device-type.com
+  name: TrinityS
+type: d3-device-type-assertion

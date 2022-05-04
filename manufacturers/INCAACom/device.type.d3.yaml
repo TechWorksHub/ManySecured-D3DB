@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b507af79-db97-4284-8462-9f87b947e6cd
+  mac-addresses:
+  - 00:E0:E6:00:00:00/24
+  - 70:B3:D5:58:70:00/36
+  manufacturer: INCAA Computers
+  manufacturer-uri: https://device-type.com
+  name: INCAACom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc764e83-4b1f-4106-9918-b07a4d8b9426
+  mac-addresses:
+  - 00:16:C6:00:00:00/24
+  manufacturer: North Atlantic Industries
+  manufacturer-uri: https://device-type.com
+  name: NorthAtl
+type: d3-device-type-assertion

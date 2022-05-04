@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cae08440-a2f7-49c8-901f-675878cd1777
+  mac-addresses:
+  - 00:25:FA:00:00:00/24
+  manufacturer: J&M Analytik AG
+  manufacturer-uri: https://device-type.com
+  name: J&MAnaly
+type: d3-device-type-assertion

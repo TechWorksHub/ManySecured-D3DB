@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 80fad7e1-3bec-4d9e-94ec-fe743065f2da
+  mac-addresses:
+  - 00:12:AA:00:00:00/24
+  - 00:50:C2:38:80:00/36
+  manufacturer: IEE, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IEE
+type: d3-device-type-assertion

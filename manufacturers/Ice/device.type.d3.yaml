@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1148a295-15b9-4c21-93ae-df58f7167e45
+  mac-addresses:
+  - 00:00:41:00:00:00/24
+  manufacturer: Ice Corporation
+  manufacturer-uri: https://device-type.com
+  name: Ice
+type: d3-device-type-assertion

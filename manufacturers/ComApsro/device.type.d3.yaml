@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5fa45eb9-27d6-43e2-aa5c-1dd6e8ebb29e
+  mac-addresses:
+  - 00:50:C2:9A:10:00/36
+  - 68:69:F2:00:00:00/24
+  manufacturer: ComAp s.r.o
+  manufacturer-uri: https://device-type.com
+  name: ComApsro
+type: d3-device-type-assertion

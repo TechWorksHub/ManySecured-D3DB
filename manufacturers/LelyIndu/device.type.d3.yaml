@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f58ed118-f9b7-482c-b522-96fb12d67771
+  mac-addresses:
+  - 00:12:FF:00:00:00/24
+  manufacturer: Lely Industries N.V.
+  manufacturer-uri: https://device-type.com
+  name: LelyIndu
+type: d3-device-type-assertion

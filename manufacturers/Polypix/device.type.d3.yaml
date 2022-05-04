@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ed1fe80-7ca4-40cb-afc3-cf83c205d843
+  mac-addresses:
+  - 00:0F:48:00:00:00/24
+  manufacturer: Polypix Inc.
+  manufacturer-uri: https://device-type.com
+  name: Polypix
+type: d3-device-type-assertion

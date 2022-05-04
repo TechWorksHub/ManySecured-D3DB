@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d95f10a5-6796-4cb7-a396-3880bb4923eb
+  mac-addresses:
+  - 74:7B:7A:00:00:00/24
+  manufacturer: ETH Inc.
+  manufacturer-uri: https://device-type.com
+  name: ETH
+type: d3-device-type-assertion

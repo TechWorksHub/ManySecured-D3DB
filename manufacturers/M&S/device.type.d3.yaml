@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64b6da2e-c4d0-43c0-abac-e8a7404ce812
+  mac-addresses:
+  - 00:0C:58:00:00:00/24
+  manufacturer: M&S Systems
+  manufacturer-uri: https://device-type.com
+  name: M&S
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2e840eac-d75d-4eec-b642-bd6a1a519412
+  mac-addresses:
+  - 00:18:EA:00:00:00/24
+  - 00:50:C2:14:80:00/36
+  manufacturer: Alltec GmbH
+  manufacturer-uri: https://device-type.com
+  name: Alltec
+type: d3-device-type-assertion

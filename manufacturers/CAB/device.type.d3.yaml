@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf803802-122d-4ddf-af38-019e914bb709
+  mac-addresses:
+  - 00:02:E7:00:00:00/24
+  manufacturer: CAB GmbH & Co KG
+  manufacturer-uri: https://device-type.com
+  name: CAB
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04bbba6a-3529-4455-8ad7-c91dd503b42e
+  mac-addresses:
+  - 00:40:88:00:00:00/24
+  manufacturer: Mobuis
+  manufacturer-uri: https://device-type.com
+  name: MobuisNu
+type: d3-device-type-assertion

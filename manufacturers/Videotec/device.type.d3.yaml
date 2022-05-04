@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 333b503f-8101-4b43-909c-b204ed6298ec
+  mac-addresses:
+  - 00:21:A6:00:00:00/24
+  manufacturer: Videotec Spa
+  manufacturer-uri: https://device-type.com
+  name: Videotec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ad0f74e-5b39-4ab6-8214-e417587fb31a
+  mac-addresses:
+  - 00:30:FC:00:00:00/24
+  manufacturer: Terawave Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Terawave
+type: d3-device-type-assertion

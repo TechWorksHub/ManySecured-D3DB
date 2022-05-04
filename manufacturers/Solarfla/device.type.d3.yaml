@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 89450e43-720a-4c6a-b36e-2ef61edbed0f
+  mac-addresses:
+  - 00:0A:68:00:00:00/24
+  - 00:0F:53:00:00:00/24
+  manufacturer: Solarflare Communications Inc.
+  manufacturer-uri: https://device-type.com
+  name: Solarfla
+type: d3-device-type-assertion

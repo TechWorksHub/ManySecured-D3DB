@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 98ca63e2-59b2-485a-86b9-f19fb1fe620e
+  mac-addresses:
+  - 00:17:63:00:00:00/24
+  - 00:50:C2:A1:00:00/36
+  - 00:A0:88:00:00:00/24
+  - 10:CD:B6:00:00:00/24
+  - 74:19:F8:30:00:00/28
+  manufacturer: Essentia S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: Essentia
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 28abfcaa-62d9-4083-a129-d117823a7977
+  mac-addresses:
+  - 00:05:AC:00:00:00/24
+  - 00:20:1B:00:00:00/24
+  - 00:50:C2:64:E0:00/36
+  - 40:D8:55:19:B0:00/36
+  - 58:7D:B6:00:00:00/24
+  manufacturer: Northern Digital, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Northern
+type: d3-device-type-assertion

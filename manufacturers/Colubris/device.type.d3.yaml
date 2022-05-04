@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1c72128-0b0b-492d-978b-be6509947ca4
+  mac-addresses:
+  - 00:03:52:00:00:00/24
+  manufacturer: Colubris Networks
+  manufacturer-uri: https://device-type.com
+  name: Colubris
+type: d3-device-type-assertion

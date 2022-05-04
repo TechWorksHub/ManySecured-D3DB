@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 29f4a431-c987-4e1d-8450-72bcfbd2f3d9
+  mac-addresses:
+  - 00:0A:C5:00:00:00/24
+  manufacturer: Color Kinetics
+  manufacturer-uri: https://device-type.com
+  name: ColorKin
+type: d3-device-type-assertion

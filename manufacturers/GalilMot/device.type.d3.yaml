@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf5dce6e-658e-4dff-ad97-8357dda5a25b
+  mac-addresses:
+  - 00:50:4C:00:00:00/24
+  manufacturer: Galil Motion Control
+  manufacturer-uri: https://device-type.com
+  name: GalilMot
+type: d3-device-type-assertion

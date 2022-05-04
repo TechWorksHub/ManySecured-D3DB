@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 070b0937-7764-444a-86da-5b6671fc5e28
+  mac-addresses:
+  - 00:0A:08:00:00:00/24
+  - 14:61:02:00:00:00/24
+  - C4:4F:96:00:00:00/24
+  manufacturer: Alps Alpine
+  manufacturer-uri: https://device-type.com
+  name: AlpsAlpi
+type: d3-device-type-assertion

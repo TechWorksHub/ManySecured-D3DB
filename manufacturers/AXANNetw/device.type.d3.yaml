@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca5c8ad4-5c2a-42b2-bd04-05f13270d8db
+  mac-addresses:
+  - F8:D3:A9:00:00:00/24
+  manufacturer: AXAN Networks
+  manufacturer-uri: https://device-type.com
+  name: AXANNetw
+type: d3-device-type-assertion

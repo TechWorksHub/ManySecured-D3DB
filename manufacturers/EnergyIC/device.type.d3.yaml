@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5e8f1ee3-42d3-4636-b140-3445eb3a8b20
+  mac-addresses:
+  - 00:24:28:00:00:00/24
+  - 00:50:C2:0F:E0:00/36
+  manufacturer: EnergyICT
+  manufacturer-uri: https://device-type.com
+  name: EnergyIC
+type: d3-device-type-assertion

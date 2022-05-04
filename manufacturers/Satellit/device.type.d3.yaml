@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4c97c0c1-b3f2-40cd-9b11-3cb454c257a7
+  mac-addresses:
+  - 00:50:C2:43:60:00/36
+  - 24:15:10:E0:00:00/28
+  manufacturer: Satellite Services BV
+  manufacturer-uri: https://device-type.com
+  name: Satellit
+type: d3-device-type-assertion

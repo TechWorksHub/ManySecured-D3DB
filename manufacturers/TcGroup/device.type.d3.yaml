@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc063222-5784-4a75-ad84-d1d3fb324435
+  mac-addresses:
+  - 00:01:66:00:00:00/24
+  manufacturer: Tc Group A/S
+  manufacturer-uri: https://device-type.com
+  name: TcGroup
+type: d3-device-type-assertion

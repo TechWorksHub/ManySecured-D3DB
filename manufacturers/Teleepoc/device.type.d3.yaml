@@ -1,0 +1,11 @@
+credentialSubject:
+  id: e2e86419-e8eb-4df7-ab63-188bae6b4965
+  mac-addresses:
+  - 04:C3:E6:E0:00:00/28
+  - 40:F3:85:80:00:00/28
+  - 90:4E:91:30:00:00/28
+  - BC:3F:4E:00:00:00/24
+  manufacturer: Teleepoch Ltd
+  manufacturer-uri: https://device-type.com
+  name: Teleepoc
+type: d3-device-type-assertion

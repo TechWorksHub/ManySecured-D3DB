@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 441ff83b-d7b5-4723-89b0-170402b8cf1c
+  mac-addresses:
+  - 00:04:CA:00:00:00/24
+  manufacturer: FreeMs Corp.
+  manufacturer-uri: https://device-type.com
+  name: FreeMs
+type: d3-device-type-assertion

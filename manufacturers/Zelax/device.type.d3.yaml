@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 65d5f0db-6b2d-42ee-a118-758173c1e84e
+  mac-addresses:
+  - 00:1A:81:00:00:00/24
+  - 00:50:C2:0D:50:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Zelax
+type: d3-device-type-assertion

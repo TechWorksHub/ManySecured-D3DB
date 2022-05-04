@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ad1f4d12-2aa8-42c4-be59-e776662f5953
+  mac-addresses:
+  - 24:4E:7B:D0:00:00/28
+  - 34:04:9E:90:00:00/28
+  - 70:88:6B:60:00:00/28
+  manufacturer: Church & Dwight Co., Inc.
+  manufacturer-uri: https://device-type.com
+  name: ChurchDw
+type: d3-device-type-assertion

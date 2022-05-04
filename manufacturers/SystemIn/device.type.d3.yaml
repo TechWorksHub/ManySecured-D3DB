@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 92063f4a-559d-4874-ad82-cdbeea286829
+  mac-addresses:
+  - 00:50:C2:EE:20:00/36
+  - 20:FE:CD:00:00:00/24
+  manufacturer: System Industrie Electronic GmbH
+  manufacturer-uri: https://device-type.com
+  name: SystemIn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8dcc6f4a-ea39-46a3-a773-7d5dd035b784
+  mac-addresses:
+  - 00:11:E8:00:00:00/24
+  manufacturer: Tixi.Com
+  manufacturer-uri: https://device-type.com
+  name: TixiCom
+type: d3-device-type-assertion

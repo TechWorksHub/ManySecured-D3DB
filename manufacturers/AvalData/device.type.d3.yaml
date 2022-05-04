@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 975cb75f-04b4-4b36-92c2-860746ff3c71
+  mac-addresses:
+  - 00:80:B3:00:00:00/24
+  manufacturer: Aval Data Corporation
+  manufacturer-uri: https://device-type.com
+  name: AvalData
+type: d3-device-type-assertion

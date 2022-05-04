@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4bdc1919-0909-41b9-a770-9d562d6b304e
+  mac-addresses:
+  - 00:D0:75:00:00:00/24
+  manufacturer: Alaris Medical Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AlarisMe
+type: d3-device-type-assertion

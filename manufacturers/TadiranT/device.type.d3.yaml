@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 99fab369-d97f-49ca-875c-98ea7100e7a6
+  mac-addresses:
+  - 00:0A:6B:00:00:00/24
+  - 00:A0:C7:00:00:00/24
+  manufacturer: Tadiran Telecom Business Systems LTD
+  manufacturer-uri: https://device-type.com
+  name: TadiranT
+type: d3-device-type-assertion

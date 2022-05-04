@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89dd0790-3327-4416-8881-961c76b44a70
+  mac-addresses:
+  - 00:30:53:00:00:00/24
+  manufacturer: Basler AG
+  manufacturer-uri: https://device-type.com
+  name: Basler
+type: d3-device-type-assertion

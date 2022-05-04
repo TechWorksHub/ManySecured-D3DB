@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da418289-b575-41b9-8606-f569ce33296b
+  mac-addresses:
+  - 00:D0:45:00:00:00/24
+  manufacturer: Kvaser Ab
+  manufacturer-uri: https://device-type.com
+  name: Kvaser
+type: d3-device-type-assertion

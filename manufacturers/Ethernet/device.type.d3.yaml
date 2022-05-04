@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e70222e-62e4-435a-b82d-a2cba15d9310
+  mac-addresses:
+  - 00:18:A9:00:00:00/24
+  manufacturer: Ethernet Direct Corporation
+  manufacturer-uri: https://device-type.com
+  name: Ethernet
+type: d3-device-type-assertion

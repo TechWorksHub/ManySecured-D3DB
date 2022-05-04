@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc38a237-700d-45c6-966f-98e686999f30
+  mac-addresses:
+  - 00:40:E8:00:00:00/24
+  - 70:BF:3E:00:00:00/24
+  manufacturer: Charles River Data Systems,Inc
+  manufacturer-uri: https://device-type.com
+  name: CharlesR
+type: d3-device-type-assertion

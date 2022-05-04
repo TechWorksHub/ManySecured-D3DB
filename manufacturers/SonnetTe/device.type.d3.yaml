@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 006d3bb1-b6e8-4daa-b3c7-d9cc4a9444c6
+  mac-addresses:
+  - 00:30:93:00:00:00/24
+  manufacturer: Sonnet Technologies, Inc
+  manufacturer-uri: https://device-type.com
+  name: SonnetTe
+type: d3-device-type-assertion

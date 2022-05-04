@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02a85780-63d7-4a6b-9b92-2925e12de085
+  mac-addresses:
+  - 00:0F:F9:00:00:00/24
+  manufacturer: Valcretec, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Valcrete
+type: d3-device-type-assertion

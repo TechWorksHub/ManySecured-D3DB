@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2256a8a-37ae-4506-9bb1-4b8211437794
+  mac-addresses:
+  - 00:0F:43:00:00:00/24
+  manufacturer: Wasabi Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Wasabi
+type: d3-device-type-assertion

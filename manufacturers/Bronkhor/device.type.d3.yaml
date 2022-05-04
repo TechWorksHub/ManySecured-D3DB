@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 175828f9-c9a8-4d9f-a187-8e0cbaa7bf3d
+  mac-addresses:
+  - 30:0A:60:80:00:00/28
+  - 64:FB:81:A0:00:00/28
+  manufacturer: Bronkhorst High-Tech BV
+  manufacturer-uri: https://device-type.com
+  name: Bronkhor
+type: d3-device-type-assertion

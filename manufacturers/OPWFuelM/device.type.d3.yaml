@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aad04340-6159-4a52-9c08-25c235975f7f
+  mac-addresses:
+  - 00:18:C6:00:00:00/24
+  manufacturer: OPW Fuel Management Systems
+  manufacturer-uri: https://device-type.com
+  name: OPWFuelM
+type: d3-device-type-assertion

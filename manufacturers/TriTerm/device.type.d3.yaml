@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9a89edf-71a7-4774-aee6-225d74204d02
+  mac-addresses:
+  - 00:0C:AF:00:00:00/24
+  manufacturer: Tri Term Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TriTerm
+type: d3-device-type-assertion

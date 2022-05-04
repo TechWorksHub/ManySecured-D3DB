@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 589fcd4d-9644-4094-aa9f-5e5c75a0f6ed
+  mac-addresses:
+  - DC:B0:58:00:00:00/24
+  manufacturer: "B\xFCrkert Werke GmbH"
+  manufacturer-uri: https://device-type.com
+  name: "B\xFCrkertW"
+type: d3-device-type-assertion

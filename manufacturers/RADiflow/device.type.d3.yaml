@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d6c8148-c2b7-44e7-8f36-2b57f486b891
+  mac-addresses:
+  - 60:64:A1:00:00:00/24
+  manufacturer: RADiflow Ltd.
+  manufacturer-uri: https://device-type.com
+  name: RADiflow
+type: d3-device-type-assertion

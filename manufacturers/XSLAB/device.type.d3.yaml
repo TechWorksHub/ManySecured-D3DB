@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25b80e2b-6f00-4a59-b49b-fadacaaea2d8
+  mac-addresses:
+  - 50:62:55:40:00:00/28
+  manufacturer: XSLAB Inc.
+  manufacturer-uri: https://device-type.com
+  name: XSLAB
+type: d3-device-type-assertion

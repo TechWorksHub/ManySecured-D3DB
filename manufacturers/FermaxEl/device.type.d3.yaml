@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03d57064-c8a1-446a-84c4-fc2bae326008
+  mac-addresses:
+  - 28:04:E0:00:00:00/24
+  manufacturer: Fermax Electronica S.A.U.
+  manufacturer-uri: https://device-type.com
+  name: FermaxEl
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 503e2d0a-b2a8-40ad-8ada-85b8d644233f
+  mac-addresses:
+  - 00:02:6B:00:00:00/24
+  manufacturer: BCM Computers Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BCMCompu
+type: d3-device-type-assertion

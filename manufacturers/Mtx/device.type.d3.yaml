@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb0a6129-9984-4624-b3e5-065235a3f363
+  mac-addresses:
+  - 00:00:99:00:00:00/24
+  manufacturer: Mtx, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mtx
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bee4ee45-493a-45d9-a636-aa4f186d05c4
+  mac-addresses:
+  - 68:F8:95:00:00:00/24
+  manufacturer: Redflow Limited
+  manufacturer-uri: https://device-type.com
+  name: Redflow
+type: d3-device-type-assertion

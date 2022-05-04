@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2ab01d2-c76c-4ada-ae8d-29b962687a1a
+  mac-addresses:
+  - 00:0E:52:00:00:00/24
+  manufacturer: Optium Corporation
+  manufacturer-uri: https://device-type.com
+  name: Optium
+type: d3-device-type-assertion

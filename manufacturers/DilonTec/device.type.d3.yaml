@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 515b7fe5-a06a-4321-8fd1-d43ddcbca306
+  mac-addresses:
+  - 7A:4B:F3:00:00:00/24
+  manufacturer: Dilon Technologies
+  manufacturer-uri: https://device-type.com
+  name: DilonTec
+type: d3-device-type-assertion

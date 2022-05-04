@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5517859-7286-474c-90c4-cca8f60ba5e5
+  mac-addresses:
+  - 00:0C:B0:00:00:00/24
+  manufacturer: Star Semiconductor Corporation
+  manufacturer-uri: https://device-type.com
+  name: StarSemi
+type: d3-device-type-assertion

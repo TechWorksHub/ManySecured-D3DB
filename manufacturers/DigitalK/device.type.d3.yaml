@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e5e7aa5-7166-454f-9796-f0ff9714d195
+  mac-addresses:
+  - 00:0F:76:00:00:00/24
+  manufacturer: Digital Keystone, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DigitalK
+type: d3-device-type-assertion

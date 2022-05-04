@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b6d0ceef-0d00-4104-8ea2-c1322153af11
+  mac-addresses:
+  - 00:50:C2:9F:E0:00/36
+  - BC:C6:1A:00:00:00/24
+  manufacturer: Spectra Embedded Systems
+  manufacturer-uri: https://device-type.com
+  name: SpectraE
+type: d3-device-type-assertion

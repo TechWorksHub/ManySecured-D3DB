@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 70fe2a1a-2c67-4257-84dd-01289a708949
+  mac-addresses:
+  - 00:06:19:00:00:00/24
+  - 00:50:C2:84:10:00/36
+  manufacturer: Connection Technology Systems
+  manufacturer-uri: https://device-type.com
+  name: Connecti
+type: d3-device-type-assertion

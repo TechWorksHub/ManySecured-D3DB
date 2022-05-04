@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61ad8c9a-58a9-4fa7-9c57-6db83696d9ca
+  mac-addresses:
+  - 00:14:47:00:00:00/24
+  manufacturer: BOAZ Inc.
+  manufacturer-uri: https://device-type.com
+  name: BOAZ
+type: d3-device-type-assertion

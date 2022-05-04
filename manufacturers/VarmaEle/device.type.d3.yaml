@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 110a46f5-b95b-4941-a48e-56b2e1a5d37b
+  mac-addresses:
+  - 00:50:C2:80:90:00/36
+  manufacturer: Varma Electronics Oy
+  manufacturer-uri: https://device-type.com
+  name: VarmaEle
+type: d3-device-type-assertion

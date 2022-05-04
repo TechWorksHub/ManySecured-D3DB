@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f1fd37a3-5111-4e9f-b500-e9d93707dfdb
+  mac-addresses:
+  - 00:10:31:00:00:00/24
+  - 00:23:44:00:00:00/24
+  manufacturer: Objective Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Objectiv
+type: d3-device-type-assertion

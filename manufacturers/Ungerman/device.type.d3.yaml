@@ -1,0 +1,24 @@
+credentialSubject:
+  id: 9037a8c3-b5ce-4aa5-9cbf-2d0a4a0172b9
+  mac-addresses:
+  - 00:BB:F0:00:00:00/24
+  - 00:DD:00:00:00:00/24
+  - 00:DD:01:00:00:00/24
+  - 00:DD:02:00:00:00/24
+  - 00:DD:03:00:00:00/24
+  - 00:DD:04:00:00:00/24
+  - 00:DD:05:00:00:00/24
+  - 00:DD:06:00:00:00/24
+  - 00:DD:07:00:00:00/24
+  - 00:DD:08:00:00:00/24
+  - 00:DD:09:00:00:00/24
+  - 00:DD:0A:00:00:00/24
+  - 00:DD:0B:00:00:00/24
+  - 00:DD:0C:00:00:00/24
+  - 00:DD:0D:00:00:00/24
+  - 00:DD:0E:00:00:00/24
+  - 00:DD:0F:00:00:00/24
+  manufacturer: Ungermann-Bass Inc.
+  manufacturer-uri: https://device-type.com
+  name: Ungerman
+type: d3-device-type-assertion

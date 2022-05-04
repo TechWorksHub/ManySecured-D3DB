@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12d2e9f2-123d-4b40-ad97-56c2d4190e6f
+  mac-addresses:
+  - 00:60:2E:00:00:00/24
+  manufacturer: Cyclades Corporation
+  manufacturer-uri: https://device-type.com
+  name: Cyclades
+type: d3-device-type-assertion

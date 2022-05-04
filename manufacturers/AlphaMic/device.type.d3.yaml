@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d42f1b4-1db8-4f3a-8e21-890df8479950
+  mac-addresses:
+  - 00:00:B1:00:00:00/24
+  manufacturer: Alpha Micro
+  manufacturer-uri: https://device-type.com
+  name: AlphaMic
+type: d3-device-type-assertion

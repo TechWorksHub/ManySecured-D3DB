@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da6a8e8d-af6a-4bff-bd89-e24e4316abb8
+  mac-addresses:
+  - 50:43:48:00:00:00/24
+  manufacturer: ThingsMatrix Inc.
+  manufacturer-uri: https://device-type.com
+  name: ThingsMa
+type: d3-device-type-assertion

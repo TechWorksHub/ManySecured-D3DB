@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 099fea40-c8a7-402d-9ad3-d4128533f6cb
+  mac-addresses:
+  - 00:00:5D:00:00:00/24
+  manufacturer: Cs Telecom
+  manufacturer-uri: https://device-type.com
+  name: CsTeleco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 083e937b-5ac1-4a70-aa9d-71b2dfe7fbb1
+  mac-addresses:
+  - 00:12:F4:00:00:00/24
+  manufacturer: Belco International Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BelcoInt
+type: d3-device-type-assertion

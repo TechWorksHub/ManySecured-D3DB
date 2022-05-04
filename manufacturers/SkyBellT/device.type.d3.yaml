@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8200eb26-a5a0-45b0-8009-31062f9b5596
+  mac-addresses:
+  - 68:F0:D0:00:00:00/24
+  - 9C:54:DA:00:00:00/24
+  manufacturer: SkyBell Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: SkyBellT
+type: d3-device-type-assertion

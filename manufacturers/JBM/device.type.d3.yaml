@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2a84efa-db80-452c-9d34-04759c7c70a4
+  mac-addresses:
+  - 00:A0:17:00:00:00/24
+  manufacturer: J B M Corporation
+  manufacturer-uri: https://device-type.com
+  name: JBM
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0ffce59-3772-46aa-90c6-7866a40c5554
+  mac-addresses:
+  - F0:EE:BB:00:00:00/24
+  manufacturer: VIPAR GmbH
+  manufacturer-uri: https://device-type.com
+  name: VIPAR
+type: d3-device-type-assertion

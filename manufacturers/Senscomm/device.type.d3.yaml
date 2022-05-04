@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42f92ec9-1d32-4cab-b668-9e8592caafbe
+  mac-addresses:
+  - 64:F9:47:00:00:00/24
+  manufacturer: Senscomm Semiconductor Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Senscomm
+type: d3-device-type-assertion

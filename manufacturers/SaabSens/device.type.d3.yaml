@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 548aa023-b46a-4fd8-8820-74c491d652ff
+  mac-addresses:
+  - 00:E0:CD:00:00:00/24
+  manufacturer: Saab Sensis Corporation
+  manufacturer-uri: https://device-type.com
+  name: SaabSens
+type: d3-device-type-assertion

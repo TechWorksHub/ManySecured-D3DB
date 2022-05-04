@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 593f5dd7-1d3e-4174-a65e-751c1447e78d
+  mac-addresses:
+  - 00:1E:AD:00:00:00/24
+  - 14:16:9E:00:00:00/24
+  - 2C:57:31:00:00:00/24
+  - 54:14:73:00:00:00/24
+  - 64:33:B5:30:00:00/28
+  - 68:79:12:A0:00:00/28
+  - 84:D6:08:00:00:00/24
+  - 9C:85:66:00:00:00/24
+  - A4:44:D1:00:00:00/24
+  - A4:D7:95:00:00:00/24
+  - B0:2A:1F:00:00:00/24
+  - C0:61:9A:90:00:00/28
+  - EC:35:4D:00:00:00/24
+  manufacturer: Wingtech Group Limited
+  manufacturer-uri: https://device-type.com
+  name: Wingtech
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f124eead-59aa-4104-afec-447822e18d40
+  mac-addresses:
+  - 6C:15:24:30:00:00/28
+  - 70:B3:D5:5F:80:00/36
+  manufacturer: Forcite Helmet Systems Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: ForciteH
+type: d3-device-type-assertion

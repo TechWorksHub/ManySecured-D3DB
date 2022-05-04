@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f23daaa5-4257-4a0f-854c-074064fefeb8
+  mac-addresses:
+  - A0:BB:3E:00:00:00/28
+  manufacturer: Link Labs
+  manufacturer-uri: https://device-type.com
+  name: LinkLabs
+type: d3-device-type-assertion

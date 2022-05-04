@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 098ca383-90f9-4476-895f-7ed628392231
+  mac-addresses:
+  - CC:BD:D3:00:00:00/24
+  manufacturer: Ultimaker B.V.
+  manufacturer-uri: https://device-type.com
+  name: Ultimake
+type: d3-device-type-assertion

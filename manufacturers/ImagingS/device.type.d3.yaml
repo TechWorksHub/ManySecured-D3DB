@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aa3e3fb1-74f7-4b20-bac8-230b6b40b53e
+  mac-addresses:
+  - 00:07:48:00:00:00/24
+  - 8C:56:9D:00:00:00/24
+  manufacturer: The Imaging Source Europe
+  manufacturer-uri: https://device-type.com
+  name: ImagingS
+type: d3-device-type-assertion

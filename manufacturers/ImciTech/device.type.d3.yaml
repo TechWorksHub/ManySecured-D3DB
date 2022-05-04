@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82f0f0f3-de5a-4d79-bdd3-e3b950c59753
+  mac-addresses:
+  - 00:10:AC:00:00:00/24
+  manufacturer: Imci Technologies
+  manufacturer-uri: https://device-type.com
+  name: ImciTech
+type: d3-device-type-assertion

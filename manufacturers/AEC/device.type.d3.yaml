@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 33fb2ecf-4cea-4e6e-9bd9-528c02d45161
+  mac-addresses:
+  - 6C:15:24:E0:00:00/28
+  - 70:B3:D5:CC:C0:00/36
+  manufacturer: AEC s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: AEC
+type: d3-device-type-assertion

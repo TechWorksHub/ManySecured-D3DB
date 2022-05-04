@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f300007c-04a3-4a9d-acbd-bf2a7ba94a5e
+  mac-addresses:
+  - 00:60:9D:00:00:00/24
+  manufacturer: Pmi Food Equipment Group
+  manufacturer-uri: https://device-type.com
+  name: PmiFoodE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e583ba81-87d5-4e30-89af-bd2dc50bfb0a
+  mac-addresses:
+  - 00:02:DD:00:00:00/24
+  manufacturer: Bromax Communications, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BromaxCo
+type: d3-device-type-assertion

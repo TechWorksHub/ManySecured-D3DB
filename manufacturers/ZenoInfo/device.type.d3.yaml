@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e800f5d-7b5b-4704-8695-6e2ce3a51987
+  mac-addresses:
+  - 00:26:D3:00:00:00/24
+  manufacturer: Zeno Information System
+  manufacturer-uri: https://device-type.com
+  name: ZenoInfo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22363db1-bcc8-4e8b-a6f1-f5dea7dfdcc0
+  mac-addresses:
+  - 00:60:F6:00:00:00/24
+  manufacturer: Nextest Communications Products, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NextestC
+type: d3-device-type-assertion

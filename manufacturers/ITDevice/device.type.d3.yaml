@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7b63957-a95b-4f7d-9020-5a19336505b4
+  mac-addresses:
+  - 00:07:F8:00:00:00/24
+  manufacturer: ITDevices, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ITDevice
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 04b71639-65bd-4a11-b314-5f3f04f35129
+  mac-addresses:
+  - 00:40:54:00:00:00/24
+  - 44:A6:E5:00:00:00/24
+  manufacturer: Thinking Machines Corporation
+  manufacturer-uri: https://device-type.com
+  name: Thinking
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae9c96b3-ad2c-4bca-8a11-16a65a8b05c1
+  mac-addresses:
+  - 00:01:2B:00:00:00/24
+  manufacturer: TELENET Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TELENET
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27a2046b-29bc-4fbc-a964-b198d4afa9c6
+  mac-addresses:
+  - 00:25:F0:00:00:00/24
+  manufacturer: Suga Electronics Limited
+  manufacturer-uri: https://device-type.com
+  name: SugaElec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 85ceb898-3122-49f5-b7bd-ba2923d5014e
+  mac-addresses:
+  - 00:25:7E:00:00:00/24
+  - 18:B6:F7:00:00:00/24
+  manufacturer: New Pos Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: NewPosTe
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3404b2e3-dafd-43cf-baaa-cef650fa98a6
+  mac-addresses:
+  - 00:09:BC:00:00:00/24
+  - 00:16:ED:00:00:00/24
+  manufacturer: Utility, Inc
+  manufacturer-uri: https://device-type.com
+  name: Utility
+type: d3-device-type-assertion

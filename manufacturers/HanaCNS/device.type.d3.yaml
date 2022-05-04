@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c41dcf27-4166-4607-b14f-66f8da500493
+  mac-addresses:
+  - 00:23:A0:00:00:00/24
+  manufacturer: Hana CNS Co., LTD.
+  manufacturer-uri: https://device-type.com
+  name: HanaCNS
+type: d3-device-type-assertion

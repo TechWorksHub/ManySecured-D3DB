@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6d4a488-52da-473b-b40f-809a411a2ef3
+  mac-addresses:
+  - 00:1F:AC:00:00:00/24
+  manufacturer: Goodmill Systems Ltd
+  manufacturer-uri: https://device-type.com
+  name: Goodmill
+type: d3-device-type-assertion

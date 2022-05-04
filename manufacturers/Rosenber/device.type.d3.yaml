@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 97747ecc-42ce-42dd-9e92-1928bcd4b2d3
+  mac-addresses:
+  - 7A:FD:44:00:00:00/24
+  - 94:FB:A7:D0:00:00/28
+  manufacturer: Rosenberger Hochfrequenztechnik GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: Rosenber
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1afc0dec-ae6e-4a06-8b8b-14c69e13e2b4
+  mac-addresses:
+  - 00:0E:AC:00:00:00/24
+  manufacturer: Mintron Enterprise Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MintronE
+type: d3-device-type-assertion

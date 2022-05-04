@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f986f79-2da2-423c-bdee-bb0eeff35dcd
+  mac-addresses:
+  - 00:02:AA:00:00:00/24
+  manufacturer: PLcom Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PLcom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27bfa3b5-7b22-46f9-92f4-1879b99cc6b9
+  mac-addresses:
+  - 00:30:79:00:00:00/24
+  manufacturer: Cqos, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Cqos
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cce07ec-c373-48d4-8ae3-11f21ef84f47
+  mac-addresses:
+  - 00:0A:8E:00:00:00/24
+  manufacturer: Invacom Ltd
+  manufacturer-uri: https://device-type.com
+  name: Invacom
+type: d3-device-type-assertion

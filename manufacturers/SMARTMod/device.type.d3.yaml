@@ -1,0 +1,8 @@
+credentialSubject:
+  id: adc0abe6-0684-45ee-a33a-55bc054da4f1
+  mac-addresses:
+  - 00:05:16:00:00:00/24
+  manufacturer: SMART Modular Technologies
+  manufacturer-uri: https://device-type.com
+  name: SMARTMod
+type: d3-device-type-assertion

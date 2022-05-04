@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b8bf8b6c-74e8-4622-bd8c-a6dd27961035
+  mac-addresses:
+  - 00:50:C2:18:D0:00/36
+  - 70:B3:D5:BE:60:00/36
+  manufacturer: CCII Systems (Pty) Ltd
+  manufacturer-uri: https://device-type.com
+  name: CCII
+type: d3-device-type-assertion

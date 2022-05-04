@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ab3614e5-523f-4f2e-ac36-d0bb019ae837
+  mac-addresses:
+  - 40:95:BD:00:00:00/24
+  - CC:D3:1E:50:00:00/28
+  manufacturer: NTmore.Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: NTmore
+type: d3-device-type-assertion

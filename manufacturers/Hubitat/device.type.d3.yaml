@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc6b049f-005c-4642-9fdc-0bfaff7388bf
+  mac-addresses:
+  - 34:E1:D1:80:00:00/28
+  manufacturer: Hubitat Inc.
+  manufacturer-uri: https://device-type.com
+  name: Hubitat
+type: d3-device-type-assertion

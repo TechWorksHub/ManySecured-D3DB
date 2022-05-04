@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b86ddd94-db14-4c38-9df9-6519100f47ad
+  mac-addresses:
+  - 00:27:12:00:00:00/24
+  manufacturer: MaxVision LLC
+  manufacturer-uri: https://device-type.com
+  name: MaxVisio
+type: d3-device-type-assertion

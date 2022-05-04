@@ -1,0 +1,8 @@
+credentialSubject:
+  id: efc8c452-526a-43c9-bf8d-2ec92520eacd
+  mac-addresses:
+  - 00:1A:31:00:00:00/24
+  manufacturer: Scan Coin Ab
+  manufacturer-uri: https://device-type.com
+  name: ScanCoin
+type: d3-device-type-assertion

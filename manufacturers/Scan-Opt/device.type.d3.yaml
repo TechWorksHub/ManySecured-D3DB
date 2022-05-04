@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a357bdd-0d56-45b2-97d2-fb6b5646ac1f
+  mac-addresses:
+  - 00:80:22:00:00:00/24
+  manufacturer: Scan-Optics
+  manufacturer-uri: https://device-type.com
+  name: Scan-Opt
+type: d3-device-type-assertion

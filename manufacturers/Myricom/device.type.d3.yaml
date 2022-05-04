@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b3101e95-4c2c-4863-bf88-7b1941ebb41b
+  mac-addresses:
+  - 00:60:DD:00:00:00/24
+  manufacturer: Myricom, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Myricom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 54ee5012-c2a9-425a-9f01-f665df0d050b
+  mac-addresses:
+  - 00:E0:26:00:00:00/24
+  manufacturer: Redlake MASD LLC
+  manufacturer-uri: https://device-type.com
+  name: RedlakeM
+type: d3-device-type-assertion

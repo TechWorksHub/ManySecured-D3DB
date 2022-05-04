@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6249c9ef-fda5-4597-b5f0-171736f6c5d1
+  mac-addresses:
+  - 40:A9:3F:00:00:00/24
+  manufacturer: Pivotal Commware, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PivotalC
+type: d3-device-type-assertion

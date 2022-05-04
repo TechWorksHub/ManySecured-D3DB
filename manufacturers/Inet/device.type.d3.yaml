@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd01bebf-7681-4587-9afd-0ece26ed5e23
+  mac-addresses:
+  - 00:20:C4:00:00:00/24
+  manufacturer: Inet,Inc.
+  manufacturer-uri: https://device-type.com
+  name: Inet
+type: d3-device-type-assertion

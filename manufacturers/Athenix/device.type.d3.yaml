@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2141aabc-ae93-440f-9fbd-242e505cec84
+  mac-addresses:
+  - 00:40:80:00:00:00/24
+  manufacturer: Athenix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Athenix
+type: d3-device-type-assertion

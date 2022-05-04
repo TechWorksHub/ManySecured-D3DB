@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e1731f0-35c3-4579-ac3f-3f94b6994dfb
+  mac-addresses:
+  - B4:30:C0:00:00:00/24
+  manufacturer: York Instruments Ltd
+  manufacturer-uri: https://device-type.com
+  name: YorkInst
+type: d3-device-type-assertion

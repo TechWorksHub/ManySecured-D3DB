@@ -1,0 +1,12 @@
+credentialSubject:
+  id: ed54c482-a0ba-4915-b9ef-fb73333ef7ed
+  mac-addresses:
+  - 00:0B:4F:00:00:00/24
+  - 60:C7:98:00:00:00/24
+  - A4:60:11:00:00:00/24
+  - C8:2C:2B:80:00:00/28
+  - E8:05:DC:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Verifone
+type: d3-device-type-assertion

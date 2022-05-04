@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88882d20-3be5-44aa-a748-ecb7af1b9377
+  mac-addresses:
+  - 00:01:15:00:00:00/24
+  manufacturer: Extratech Corporation
+  manufacturer-uri: https://device-type.com
+  name: Extratec
+type: d3-device-type-assertion

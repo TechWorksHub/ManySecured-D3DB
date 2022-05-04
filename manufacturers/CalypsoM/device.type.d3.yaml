@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a782842-a674-4243-b153-9605bc93cba7
+  mac-addresses:
+  - 00:0C:5E:00:00:00/24
+  manufacturer: Calypso Medical
+  manufacturer-uri: https://device-type.com
+  name: CalypsoM
+type: d3-device-type-assertion

@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 8f1d49af-fcde-47a1-a3d9-1dc04b15644c
+  mac-addresses:
+  - 00:1D:DC:00:00:00/24
+  - 30:FF:F6:00:00:00/24
+  - 34:EA:34:00:00:00/24
+  - 78:0F:77:00:00:00/24
+  - A0:19:B2:B0:00:00/28
+  - BC:43:77:00:00:00/24
+  - BC:74:D7:00:00:00/24
+  - C8:F7:42:00:00:00/24
+  - DC:07:C1:00:00:00/24
+  manufacturer: HangZhou DeChangLong Tech&Info Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: HangZhou
+type: d3-device-type-assertion

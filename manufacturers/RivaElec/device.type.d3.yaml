@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed3cbb27-d788-420f-b696-ade762f23d10
+  mac-addresses:
+  - 00:20:95:00:00:00/24
+  manufacturer: Riva Electronics
+  manufacturer-uri: https://device-type.com
+  name: RivaElec
+type: d3-device-type-assertion

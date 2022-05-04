@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ab56345-fce2-43b6-81c1-8e5c2159cbb6
+  mac-addresses:
+  - A4:CC:32:00:00:00/24
+  manufacturer: Inficomm Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Inficomm
+type: d3-device-type-assertion

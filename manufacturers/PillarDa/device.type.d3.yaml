@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bd4b1ca-16ea-42ce-9b36-b953b6e9dfc1
+  mac-addresses:
+  - 00:0B:08:00:00:00/24
+  manufacturer: Pillar Data Systems
+  manufacturer-uri: https://device-type.com
+  name: PillarDa
+type: d3-device-type-assertion

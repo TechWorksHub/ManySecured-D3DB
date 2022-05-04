@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eaaa7008-701a-4f55-8f50-7953f1321e8c
+  mac-addresses:
+  - B0:02:7E:00:00:00/24
+  manufacturer: Muller Services
+  manufacturer-uri: https://device-type.com
+  name: MullerSe
+type: d3-device-type-assertion

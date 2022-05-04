@@ -1,0 +1,9 @@
+credentialSubject:
+  id: de77bb89-3564-49d1-8061-97b5de2f7a97
+  mac-addresses:
+  - 70:B3:D5:27:70:00/36
+  - 74:1A:E0:D0:00:00/28
+  manufacturer: Voltaware Limited
+  manufacturer-uri: https://device-type.com
+  name: Voltawar
+type: d3-device-type-assertion

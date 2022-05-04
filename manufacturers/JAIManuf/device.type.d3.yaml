@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a903ab53-1901-405d-b72d-dfb934101477
+  mac-addresses:
+  - 00:0C:DF:00:00:00/24
+  - D4:1F:0C:00:00:00/24
+  manufacturer: JAI Manufacturing
+  manufacturer-uri: https://device-type.com
+  name: JAIManuf
+type: d3-device-type-assertion

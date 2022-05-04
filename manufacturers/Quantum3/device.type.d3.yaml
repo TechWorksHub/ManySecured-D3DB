@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5f5d8ad3-a824-4189-bb53-7e4d6a7fb3ab
+  mac-addresses:
+  - 00:50:C2:4C:30:00/36
+  - 00:50:C2:A8:F0:00/36
+  manufacturer: Quantum3D, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Quantum3
+type: d3-device-type-assertion

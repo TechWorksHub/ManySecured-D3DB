@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d880c7d2-8a23-42f1-9df2-13b13d50e9c4
+  mac-addresses:
+  - 00:50:C2:3C:90:00/36
+  - 18:06:75:00:00:00/24
+  manufacturer: Dilax Intelcom AG
+  manufacturer-uri: https://device-type.com
+  name: DilaxInt
+type: d3-device-type-assertion

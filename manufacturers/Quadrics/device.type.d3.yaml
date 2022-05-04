@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86dd61ca-436f-45ff-af73-1f194e834a8a
+  mac-addresses:
+  - 00:16:9A:00:00:00/24
+  manufacturer: Quadrics Ltd
+  manufacturer-uri: https://device-type.com
+  name: Quadrics
+type: d3-device-type-assertion

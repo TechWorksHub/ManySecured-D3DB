@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c7f71ee-4961-4a10-9c48-22904a8888e5
+  mac-addresses:
+  - 00:50:C2:1B:B0:00/36
+  manufacturer: Email Metering
+  manufacturer-uri: https://device-type.com
+  name: EmailMet
+type: d3-device-type-assertion

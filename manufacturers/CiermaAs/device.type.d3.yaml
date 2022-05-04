@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 538fd0bc-dad1-4158-8358-2256e7867f0d
+  mac-addresses:
+  - 00:18:A0:00:00:00/24
+  manufacturer: Cierma Ascenseurs
+  manufacturer-uri: https://device-type.com
+  name: CiermaAs
+type: d3-device-type-assertion

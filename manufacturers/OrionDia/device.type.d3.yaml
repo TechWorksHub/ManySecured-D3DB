@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 700093b9-a4cd-4617-98bf-b590e5af87e6
+  mac-addresses:
+  - 08:51:2E:00:00:00/24
+  manufacturer: Orion Diagnostica Oy
+  manufacturer-uri: https://device-type.com
+  name: OrionDia
+type: d3-device-type-assertion

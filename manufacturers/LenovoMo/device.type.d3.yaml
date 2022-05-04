@@ -1,0 +1,25 @@
+credentialSubject:
+  id: 1da1dc48-5c06-4788-9459-cadb854a0d87
+  mac-addresses:
+  - 00:12:FE:00:00:00/24
+  - 14:36:C6:00:00:00/24
+  - 14:9F:E8:00:00:00/24
+  - 50:3C:C4:00:00:00/24
+  - 60:D9:A0:00:00:00/24
+  - 6C:5F:1C:00:00:00/24
+  - 70:72:0D:00:00:00/24
+  - 74:04:2B:00:00:00/24
+  - 80:CF:41:00:00:00/24
+  - 88:70:8C:00:00:00/24
+  - 98:FF:D0:00:00:00/24
+  - AC:38:70:00:00:00/24
+  - C8:DD:C9:00:00:00/24
+  - CC:07:E4:00:00:00/24
+  - D4:22:3F:00:00:00/24
+  - D8:71:57:00:00:00/24
+  - E0:2C:B2:00:00:00/24
+  - EC:89:F5:00:00:00/24
+  manufacturer: Lenovo Mobile Communication Technology Ltd.
+  manufacturer-uri: https://device-type.com
+  name: LenovoMo
+type: d3-device-type-assertion

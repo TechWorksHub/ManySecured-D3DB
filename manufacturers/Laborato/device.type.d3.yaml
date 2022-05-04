@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 10e99641-2328-4470-ae15-cb9e7e77ddb3
+  mac-addresses:
+  - 00:40:82:00:00:00/24
+  - FA:61:0E:00:00:00/24
+  manufacturer: Laboratory Equipment Corp.
+  manufacturer-uri: https://device-type.com
+  name: Laborato
+type: d3-device-type-assertion

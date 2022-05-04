@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7ac7251-e710-401e-b002-55c1e9d75d8f
+  mac-addresses:
+  - 00:40:39:00:00:00/24
+  manufacturer: Optec Daiichi Denko Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: OptecDai
+type: d3-device-type-assertion

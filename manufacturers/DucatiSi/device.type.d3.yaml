@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2c1d19d-9769-4690-a96d-88960e1b2cc0
+  mac-addresses:
+  - 00:17:6E:00:00:00/24
+  manufacturer: Ducati Sistemi
+  manufacturer-uri: https://device-type.com
+  name: DucatiSi
+type: d3-device-type-assertion

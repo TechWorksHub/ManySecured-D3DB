@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6ff9949c-6f8a-4816-868a-c2fa3b037742
+  mac-addresses:
+  - 00:22:07:00:00:00/24
+  - 20:1F:31:00:00:00/24
+  - 44:D4:37:00:00:00/24
+  - 60:03:A6:00:00:00/24
+  manufacturer: Inteno Broadband Technology AB
+  manufacturer-uri: https://device-type.com
+  name: IntenoBr
+type: d3-device-type-assertion

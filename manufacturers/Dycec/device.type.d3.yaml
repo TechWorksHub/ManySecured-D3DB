@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 311cd2fb-84b0-4553-adab-8426c00b25c9
+  mac-addresses:
+  - 00:50:C2:14:A0:00/36
+  - 00:50:C2:C0:F0:00/36
+  - 70:B3:D5:1D:E0:00/36
+  manufacturer: Dycec, S.A.
+  manufacturer-uri: https://device-type.com
+  name: Dycec
+type: d3-device-type-assertion

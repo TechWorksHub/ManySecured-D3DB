@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 06828580-d36f-4a34-be52-9229a5df7d2e
+  mac-addresses:
+  - 00:25:08:00:00:00/24
+  - 00:64:A6:00:00:00/24
+  manufacturer: Maquet Cardiopulmonary AG
+  manufacturer-uri: https://device-type.com
+  name: MaquetCa
+type: d3-device-type-assertion

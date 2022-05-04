@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 099f5297-1465-43db-beb1-6243c0bf3c8b
+  mac-addresses:
+  - 00:1D:84:00:00:00/24
+  manufacturer: Gateway, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gateway
+type: d3-device-type-assertion

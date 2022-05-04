@@ -1,0 +1,15 @@
+credentialSubject:
+  id: ffcc12bf-5724-4cb1-8ac5-6b9bc3601f5a
+  mac-addresses:
+  - 00:00:43:00:00:00/24
+  - 00:03:11:00:00:00/24
+  - 00:50:C2:44:60:00/36
+  - 00:50:C2:5E:90:00/36
+  - 00:50:C2:C5:B0:00/36
+  - 00:50:C2:CB:90:00/36
+  - 00:50:C2:F0:E0:00/36
+  - 58:E0:2C:00:00:00/24
+  manufacturer: Micro Technology
+  manufacturer-uri: https://device-type.com
+  name: MicroTec
+type: d3-device-type-assertion

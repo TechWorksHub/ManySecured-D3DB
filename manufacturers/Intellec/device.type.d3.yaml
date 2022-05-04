@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5ca5e98e-2857-46cb-869e-25cc656e09f4
+  mac-addresses:
+  - 00:1B:B2:00:00:00/24
+  - 00:50:C2:82:90:00/36
+  - 9C:69:B4:D0:00:00/28
+  manufacturer: Intellect International NV
+  manufacturer-uri: https://device-type.com
+  name: Intellec
+type: d3-device-type-assertion

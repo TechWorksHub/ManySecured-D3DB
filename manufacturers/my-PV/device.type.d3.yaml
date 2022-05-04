@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cad18b6f-850b-4672-8e20-781d8b086f9d
+  mac-addresses:
+  - 98:6D:35:C0:00:00/28
+  manufacturer: my-PV GmbH
+  manufacturer-uri: https://device-type.com
+  name: my-PV
+type: d3-device-type-assertion

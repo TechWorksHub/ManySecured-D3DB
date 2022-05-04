@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e8ad2a0-6a54-4563-8e7f-d21ba08faa07
+  mac-addresses:
+  - 00:50:C2:20:A0:00/36
+  - 00:50:C2:67:30:00/36
+  manufacturer: Ferrari electronic AG
+  manufacturer-uri: https://device-type.com
+  name: Ferrarie
+type: d3-device-type-assertion

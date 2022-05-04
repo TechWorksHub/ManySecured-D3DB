@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a303431-6563-4a61-b1a0-d6e82a9fe9d4
+  mac-addresses:
+  - 00:80:E8:00:00:00/24
+  manufacturer: Cumulus Corporatiion
+  manufacturer-uri: https://device-type.com
+  name: CumulusC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b0a2c65-4e2b-4f25-a699-032005da5c0d
+  mac-addresses:
+  - 0C:5A:9E:00:00:00/24
+  manufacturer: Wi-SUN Alliance
+  manufacturer-uri: https://device-type.com
+  name: Wi-SUNAl
+type: d3-device-type-assertion

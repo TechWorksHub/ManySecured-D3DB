@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ae8d315d-52c9-4472-808b-40d20e9bdee0
+  mac-addresses:
+  - 00:50:C2:F5:90:00/36
+  - F0:23:B9:80:00:00/28
+  manufacturer: G3 Technologies
+  manufacturer-uri: https://device-type.com
+  name: G3Techno
+type: d3-device-type-assertion

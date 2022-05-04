@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2b62287-ccd3-4c68-af32-1b5df16d8d7c
+  mac-addresses:
+  - 00:50:C2:61:00:00/36
+  manufacturer: FDT Manufacturing, LLC
+  manufacturer-uri: https://device-type.com
+  name: FDTManuf
+type: d3-device-type-assertion

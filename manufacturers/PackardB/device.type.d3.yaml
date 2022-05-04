@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cb5337bd-3268-4f4e-8e8e-e9e9a83c297a
+  mac-addresses:
+  - 00:20:09:00:00:00/24
+  - 00:30:37:00:00:00/24
+  manufacturer: Packard Bell Elec., Inc.
+  manufacturer-uri: https://device-type.com
+  name: PackardB
+type: d3-device-type-assertion

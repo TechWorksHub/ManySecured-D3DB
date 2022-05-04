@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e98d178-4ca7-4d15-9907-b3a5e9f5712a
+  mac-addresses:
+  - 00:01:04:00:00:00/24
+  manufacturer: DVICO Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DVICO
+type: d3-device-type-assertion

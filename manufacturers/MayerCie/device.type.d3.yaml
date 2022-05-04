@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3be42f2-084e-4e5c-819f-aa653df89e13
+  mac-addresses:
+  - 00:1C:72:00:00:00/24
+  manufacturer: Mayer & Cie GmbH & Co KG
+  manufacturer-uri: https://device-type.com
+  name: MayerCie
+type: d3-device-type-assertion

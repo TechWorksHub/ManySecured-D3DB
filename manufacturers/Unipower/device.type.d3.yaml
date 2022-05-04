@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a4b16c3-9ca9-43ce-91f9-8608f767beb7
+  mac-addresses:
+  - 00:50:C2:10:E0:00/36
+  - 70:B3:D5:A4:90:00/36
+  manufacturer: Unipower AB
+  manufacturer-uri: https://device-type.com
+  name: Unipower
+type: d3-device-type-assertion

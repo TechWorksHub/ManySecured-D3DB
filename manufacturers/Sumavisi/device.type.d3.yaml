@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 58ebd8fd-1f4a-4ac4-bda5-83cf5c6ec369
+  mac-addresses:
+  - 00:24:68:00:00:00/24
+  - 9C:62:AB:00:00:00/24
+  - FC:9B:C6:00:00:00/24
+  manufacturer: Sumavision Technologies Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Sumavisi
+type: d3-device-type-assertion

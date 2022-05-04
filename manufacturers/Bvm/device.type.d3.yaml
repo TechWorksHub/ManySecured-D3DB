@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5871d288-a690-4f99-9c5f-e6178742b864
+  mac-addresses:
+  - 00:80:FB:00:00:00/24
+  manufacturer: Bvm Limited
+  manufacturer-uri: https://device-type.com
+  name: Bvm
+type: d3-device-type-assertion

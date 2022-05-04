@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a08aca5b-10cd-45cd-a933-07a864c0e60a
+  mac-addresses:
+  - 00:C0:99:00:00:00/24
+  manufacturer: Yoshiki Industrial Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: YoshikiI
+type: d3-device-type-assertion

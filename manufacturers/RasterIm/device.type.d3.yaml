@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cdf62ec-4895-41cf-9534-d5353cc72165
+  mac-addresses:
+  - 00:C0:38:00:00:00/24
+  manufacturer: Raster Image Processing System
+  manufacturer-uri: https://device-type.com
+  name: RasterIm
+type: d3-device-type-assertion

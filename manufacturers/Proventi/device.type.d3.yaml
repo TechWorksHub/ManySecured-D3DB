@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9f2b3e6-efa2-4a9d-8afc-90c7f7f72dba
+  mac-addresses:
+  - 00:26:C9:00:00:00/24
+  manufacturer: Proventix Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Proventi
+type: d3-device-type-assertion

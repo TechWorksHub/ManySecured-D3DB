@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bde9c886-d86c-4e1d-b252-1b090df2ff03
+  mac-addresses:
+  - 78:12:B8:00:00:00/24
+  manufacturer: Orantek Limited
+  manufacturer-uri: https://device-type.com
+  name: Orantek
+type: d3-device-type-assertion

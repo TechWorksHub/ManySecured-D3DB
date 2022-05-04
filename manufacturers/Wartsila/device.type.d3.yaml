@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 1f3b8554-dddf-4519-8c4a-3673d19b75a0
+  mac-addresses:
+  - 00:50:C2:88:60:00/36
+  - 00:50:C2:DD:60:00/36
+  - 1C:11:E1:00:00:00/24
+  - 70:B3:D5:30:40:00/36
+  - 70:B3:D5:9D:40:00/36
+  - 70:B3:D5:A0:50:00/36
+  - 70:B3:D5:AE:20:00/36
+  - 70:B3:D5:ED:80:00/36
+  - 8C:1F:64:38:E0:00/36
+  manufacturer: Wartsila Voyage Limited
+  manufacturer-uri: https://device-type.com
+  name: Wartsila
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45f5979c-b67f-4437-9b1a-93f9fe847d69
+  mac-addresses:
+  - 68:AA:D2:00:00:00/24
+  manufacturer: Datecs Ltd.,
+  manufacturer-uri: https://device-type.com
+  name: Datecs
+type: d3-device-type-assertion

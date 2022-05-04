@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a8f4b95-e2a2-4a01-8dfa-ce9d9e2b56fb
+  mac-addresses:
+  - 00:05:63:00:00:00/24
+  manufacturer: J-Works, Inc.
+  manufacturer-uri: https://device-type.com
+  name: J-Works
+type: d3-device-type-assertion

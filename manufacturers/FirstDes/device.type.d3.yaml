@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 222254ba-4c68-4397-b5b1-d13b79ff11e0
+  mac-addresses:
+  - 40:D8:55:0A:70:00/36
+  - 98:6E:E8:E0:00:00/28
+  manufacturer: First Design System Inc.
+  manufacturer-uri: https://device-type.com
+  name: FirstDes
+type: d3-device-type-assertion

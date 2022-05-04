@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ba8f6d8b-9087-4221-a057-a27e0bb4b705
+  mac-addresses:
+  - 00:50:C2:57:40:00/36
+  - 00:E0:55:00:00:00/24
+  manufacturer: "Ingenier\xEDa Almud\xC3\xAD S.L."
+  manufacturer-uri: https://device-type.com
+  name: Ingenier
+type: d3-device-type-assertion

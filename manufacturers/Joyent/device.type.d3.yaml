@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08d7af95-f48b-4d65-be33-1abb3b8d8b17
+  mac-addresses:
+  - 90:B8:D0:00:00:00/24
+  manufacturer: Joyent, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Joyent
+type: d3-device-type-assertion

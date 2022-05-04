@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6dcc2d1b-5b47-459d-ae98-adb09aab4106
+  mac-addresses:
+  - 10:1D:51:00:00:00/24
+  manufacturer: 8Mesh Networks Limited
+  manufacturer-uri: https://device-type.com
+  name: 8MeshNet
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2241edc7-8d07-4248-b7ac-468509c6d204
+  mac-addresses:
+  - 00:1F:E6:00:00:00/24
+  - 00:50:C2:81:00:00/36
+  manufacturer: Alphion Corporation
+  manufacturer-uri: https://device-type.com
+  name: Alphion
+type: d3-device-type-assertion

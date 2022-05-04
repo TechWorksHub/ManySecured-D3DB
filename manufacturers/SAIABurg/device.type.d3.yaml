@@ -1,0 +1,12 @@
+credentialSubject:
+  id: a1f3849a-8ae7-43f5-9162-ece50b55abce
+  mac-addresses:
+  - 00:50:C2:0C:50:00/36
+  - 00:50:C2:31:30:00/36
+  - 00:50:C2:5B:A0:00/36
+  - 00:50:C2:67:E0:00/36
+  - 00:50:C2:6F:D0:00/36
+  manufacturer: SAIA Burgess Controls AG
+  manufacturer-uri: https://device-type.com
+  name: SAIABurg
+type: d3-device-type-assertion

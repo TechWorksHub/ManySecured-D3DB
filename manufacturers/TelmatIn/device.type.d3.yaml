@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f20782f8-9208-47bf-a38a-0ac51ad97055
+  mac-addresses:
+  - 00:40:07:00:00:00/24
+  manufacturer: Telmat Informatique
+  manufacturer-uri: https://device-type.com
+  name: TelmatIn
+type: d3-device-type-assertion

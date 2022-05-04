@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a24c1c42-5957-49f5-b749-ee6168c53729
+  mac-addresses:
+  - 00:01:E8:00:00:00/24
+  manufacturer: Force10 Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Force10N
+type: d3-device-type-assertion

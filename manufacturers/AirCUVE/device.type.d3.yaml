@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d9dbe33-17c6-45c4-8dff-bbce16aa8cbe
+  mac-addresses:
+  - A0:EB:76:00:00:00/24
+  manufacturer: AirCUVE Inc.
+  manufacturer-uri: https://device-type.com
+  name: AirCUVE
+type: d3-device-type-assertion

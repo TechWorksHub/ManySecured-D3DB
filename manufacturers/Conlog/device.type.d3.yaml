@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2e3d470-2aa6-42cf-991d-6f7203afae2f
+  mac-addresses:
+  - 40:30:67:00:00:00/24
+  manufacturer: Conlog (Pty) Ltd
+  manufacturer-uri: https://device-type.com
+  name: Conlog
+type: d3-device-type-assertion

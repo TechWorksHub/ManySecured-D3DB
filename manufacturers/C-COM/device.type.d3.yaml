@@ -1,0 +1,8 @@
+credentialSubject:
+  id: deb51273-24d7-4b1e-b4f9-dc2eb0d07a3b
+  mac-addresses:
+  - 00:01:EB:00:00:00/24
+  manufacturer: C-COM Corporation
+  manufacturer-uri: https://device-type.com
+  name: C-COM
+type: d3-device-type-assertion

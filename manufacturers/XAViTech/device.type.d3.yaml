@@ -1,0 +1,10 @@
+credentialSubject:
+  id: bf954f45-a0b4-48a6-9264-d7a6b8b3036e
+  mac-addresses:
+  - 00:01:38:00:00:00/24
+  - 70:B3:D5:C0:30:00/36
+  - E0:91:53:00:00:00/24
+  manufacturer: XAVi Technologies Corp.
+  manufacturer-uri: https://device-type.com
+  name: XAViTech
+type: d3-device-type-assertion

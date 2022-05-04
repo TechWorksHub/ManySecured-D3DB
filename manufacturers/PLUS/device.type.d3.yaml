@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e539f71-e5b7-48aa-8b9c-bbca432f867b
+  mac-addresses:
+  - 00:12:12:00:00:00/24
+  manufacturer: PLUS Corporation
+  manufacturer-uri: https://device-type.com
+  name: PLUS
+type: d3-device-type-assertion

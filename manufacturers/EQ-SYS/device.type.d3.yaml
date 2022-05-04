@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6fddb00-e8f4-468b-a3f3-d418c5f9df4d
+  mac-addresses:
+  - 00:23:BC:00:00:00/24
+  manufacturer: EQ-SYS GmbH
+  manufacturer-uri: https://device-type.com
+  name: EQ-SYS
+type: d3-device-type-assertion

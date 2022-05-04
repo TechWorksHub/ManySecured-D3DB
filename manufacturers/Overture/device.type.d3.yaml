@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5554d7ed-c3fc-4f51-8c6e-03519b9ee45b
+  mac-addresses:
+  - 00:05:7A:00:00:00/24
+  - 00:07:C1:00:00:00/24
+  - 00:0A:C6:00:00:00/24
+  manufacturer: Overture Networks
+  manufacturer-uri: https://device-type.com
+  name: Overture
+type: d3-device-type-assertion

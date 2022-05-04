@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f02b39c6-96c1-4d88-b524-d952663e5b14
+  mac-addresses:
+  - 00:D0:1D:00:00:00/24
+  manufacturer: Furuno Electric Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FurunoEl
+type: d3-device-type-assertion

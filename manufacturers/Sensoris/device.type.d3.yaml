@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c226db1-0f56-43ab-8751-5907a9e404d5
+  mac-addresses:
+  - 34:A5:E1:00:00:00/24
+  manufacturer: Sensorist ApS
+  manufacturer-uri: https://device-type.com
+  name: Sensoris
+type: d3-device-type-assertion

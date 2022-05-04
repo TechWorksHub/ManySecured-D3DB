@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fe68e48-4f03-4510-892b-2edfdfc8c99a
+  mac-addresses:
+  - 00:E0:47:00:00:00/24
+  manufacturer: InFocus Corporation
+  manufacturer-uri: https://device-type.com
+  name: InFocus
+type: d3-device-type-assertion

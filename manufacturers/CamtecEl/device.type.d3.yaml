@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 818c4894-eb84-4f55-998d-da5a36b2c92f
+  mac-addresses:
+  - 00:00:FF:00:00:00/24
+  manufacturer: Camtec Electronics Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CamtecEl
+type: d3-device-type-assertion

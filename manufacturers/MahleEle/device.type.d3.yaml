@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9b587b3-a261-41fd-8276-22f1ee24ed92
+  mac-addresses:
+  - 70:B3:D5:8B:D0:00/36
+  - A4:53:EE:00:00:00/28
+  manufacturer: Mahle Electronics, Slu
+  manufacturer-uri: https://device-type.com
+  name: MahleEle
+type: d3-device-type-assertion

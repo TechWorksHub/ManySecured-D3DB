@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 75be18a1-512c-4f4a-993a-b0cc22378726
+  mac-addresses:
+  - 54:D7:51:00:00:00/24
+  - 70:B3:D5:AA:60:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Proximus
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3ccb558e-4465-4002-a8e6-5189ad1f190d
+  mac-addresses:
+  - 00:1F:B9:00:00:00/24
+  - 00:50:C2:19:E0:00/36
+  manufacturer: Paltronics
+  manufacturer-uri: https://device-type.com
+  name: Paltroni
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63b2dbac-37d7-4b9a-bc9a-5346a5bf912d
+  mac-addresses:
+  - 00:20:76:00:00:00/24
+  manufacturer: Reudo Corporation
+  manufacturer-uri: https://device-type.com
+  name: Reudo
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 44a9e21e-72d3-424f-83bf-5067090a8263
+  mac-addresses:
+  - 00:1A:7F:00:00:00/24
+  - B4:01:42:00:00:00/24
+  manufacturer: GCI Science & Technology Co.,LTD
+  manufacturer-uri: https://device-type.com
+  name: GCIScien
+type: d3-device-type-assertion

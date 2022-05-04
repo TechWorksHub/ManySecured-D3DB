@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ce5acf0-1b8a-4cda-960e-853afb830a8c
+  mac-addresses:
+  - 0C:EF:AF:60:00:00/28
+  manufacturer: Firmware Design AS
+  manufacturer-uri: https://device-type.com
+  name: Firmware
+type: d3-device-type-assertion

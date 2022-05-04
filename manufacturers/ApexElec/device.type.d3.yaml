@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ca35c9a-cd8c-4882-9492-1be1ad6ba575
+  mac-addresses:
+  - 00:12:C2:00:00:00/24
+  manufacturer: Apex Electronics Factory
+  manufacturer-uri: https://device-type.com
+  name: ApexElec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6c8cdd3-8beb-4ab5-aafb-6f184236d067
+  mac-addresses:
+  - F8:64:65:00:00:00/24
+  manufacturer: Anova Applied Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AnovaApp
+type: d3-device-type-assertion

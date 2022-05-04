@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7e9ee083-a283-49c8-a0fd-43d50f62bf6c
+  mac-addresses:
+  - 00:15:21:00:00:00/24
+  manufacturer: Horoquartz
+  manufacturer-uri: https://device-type.com
+  name: Horoquar
+type: d3-device-type-assertion

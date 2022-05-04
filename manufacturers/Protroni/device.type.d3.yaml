@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7861d6c5-8ac9-4783-9fc7-caae5e60a6f4
+  mac-addresses:
+  - 00:14:8F:00:00:00/24
+  - 00:50:C2:9C:60:00/36
+  - F0:2A:2B:70:00:00/28
+  manufacturer: Protronic (Far East) Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Protroni
+type: d3-device-type-assertion

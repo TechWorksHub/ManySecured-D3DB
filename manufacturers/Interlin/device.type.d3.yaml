@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4de9e57e-cb62-4d5b-b5ad-5165182ad15c
+  mac-addresses:
+  - 00:15:D8:00:00:00/24
+  - 00:C0:1C:00:00:00/24
+  - 00:C0:F4:00:00:00/24
+  manufacturer: Interlink Electronics
+  manufacturer-uri: https://device-type.com
+  name: Interlin
+type: d3-device-type-assertion

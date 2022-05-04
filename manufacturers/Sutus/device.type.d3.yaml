@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c393147d-1fec-4ab5-9a42-33bd6e4a6a3d
+  mac-addresses:
+  - 00:22:C6:00:00:00/24
+  - 00:50:C2:61:D0:00/36
+  manufacturer: Sutus Inc
+  manufacturer-uri: https://device-type.com
+  name: Sutus
+type: d3-device-type-assertion

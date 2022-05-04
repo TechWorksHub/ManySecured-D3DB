@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99e746a9-6ea5-4b30-b236-8dd569f1ef53
+  mac-addresses:
+  - 90:27:2B:00:00:00/24
+  manufacturer: Algorab S.r.l.
+  manufacturer-uri: https://device-type.com
+  name: Algorab
+type: d3-device-type-assertion

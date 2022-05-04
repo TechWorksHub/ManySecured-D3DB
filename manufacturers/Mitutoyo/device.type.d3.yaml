@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cfd0125-d2cc-41ce-a17e-d58c600b04e2
+  mac-addresses:
+  - 00:18:14:00:00:00/24
+  manufacturer: Mitutoyo Corporation
+  manufacturer-uri: https://device-type.com
+  name: Mitutoyo
+type: d3-device-type-assertion

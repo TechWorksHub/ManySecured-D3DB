@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfd7b0a2-41f6-4cd5-a0f5-986f73f5ad1b
+  mac-addresses:
+  - 00:0D:17:00:00:00/24
+  manufacturer: Turbo Networks Co.Ltd
+  manufacturer-uri: https://device-type.com
+  name: TurboNet
+type: d3-device-type-assertion

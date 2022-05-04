@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bed8dd09-e5bf-42ec-8950-f7e6aa0c7d94
+  mac-addresses:
+  - 78:EC:74:00:00:00/24
+  manufacturer: Kyland-USA
+  manufacturer-uri: https://device-type.com
+  name: Kyland-U
+type: d3-device-type-assertion

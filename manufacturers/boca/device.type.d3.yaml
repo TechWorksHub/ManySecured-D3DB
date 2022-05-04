@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bde1180-734f-441c-8f52-5e82827a752f
+  mac-addresses:
+  - 00:0D:71:00:00:00/24
+  manufacturer: boca systems
+  manufacturer-uri: https://device-type.com
+  name: boca
+type: d3-device-type-assertion

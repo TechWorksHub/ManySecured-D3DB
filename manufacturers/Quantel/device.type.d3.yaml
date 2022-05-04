@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aaad9ce5-ef5b-41c2-b868-ec989b6d5a4e
+  mac-addresses:
+  - 00:80:F5:00:00:00/24
+  manufacturer: Quantel Ltd
+  manufacturer-uri: https://device-type.com
+  name: Quantel
+type: d3-device-type-assertion

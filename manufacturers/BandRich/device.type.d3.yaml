@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e50991a-122a-4dab-a632-6a78e60ee8f6
+  mac-addresses:
+  - 00:26:FA:00:00:00/24
+  manufacturer: BandRich Inc.
+  manufacturer-uri: https://device-type.com
+  name: BandRich
+type: d3-device-type-assertion

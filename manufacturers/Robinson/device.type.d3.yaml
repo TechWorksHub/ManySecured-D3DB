@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1ee6f67-23c7-44cd-8de8-70b5f5f89038
+  mac-addresses:
+  - 00:06:6C:00:00:00/24
+  manufacturer: Robinson Corporation
+  manufacturer-uri: https://device-type.com
+  name: Robinson
+type: d3-device-type-assertion

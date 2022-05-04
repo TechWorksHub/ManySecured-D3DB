@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1856004-a21a-4ef4-9f28-81bdddcdbed4
+  mac-addresses:
+  - 00:0D:D1:00:00:00/24
+  manufacturer: Stryker Corporation
+  manufacturer-uri: https://device-type.com
+  name: Stryker
+type: d3-device-type-assertion

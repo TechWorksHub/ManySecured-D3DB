@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93519835-55b1-439a-a616-d788bec51085
+  mac-addresses:
+  - 00:09:22:00:00:00/24
+  manufacturer: TST Biometrics GmbH
+  manufacturer-uri: https://device-type.com
+  name: TSTBiome
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1dae431d-2556-4352-9d45-1cc4b012e06e
+  mac-addresses:
+  - 00:21:66:00:00:00/24
+  - 00:60:D6:00:00:00/24
+  manufacturer: NovAtel Inc.
+  manufacturer-uri: https://device-type.com
+  name: NovAtel
+type: d3-device-type-assertion

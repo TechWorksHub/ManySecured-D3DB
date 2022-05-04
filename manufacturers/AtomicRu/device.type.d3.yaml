@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc20db22-dda6-49c8-ba4c-4ef139cdc310
+  mac-addresses:
+  - DC:3C:F6:00:00:00/24
+  manufacturer: Atomic Rules LLC
+  manufacturer-uri: https://device-type.com
+  name: AtomicRu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1b108e9-a4d2-4af7-b176-87e8263961fd
+  mac-addresses:
+  - 00:1F:0F:00:00:00/24
+  manufacturer: Select Engineered Systems
+  manufacturer-uri: https://device-type.com
+  name: SelectEn
+type: d3-device-type-assertion

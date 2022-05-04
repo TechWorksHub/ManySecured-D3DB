@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6e8d0aef-639e-476d-9309-3ccf960f2336
+  mac-addresses:
+  - 00:24:6D:00:00:00/24
+  - 00:50:C2:55:40:00/36
+  manufacturer: Weinzierl Engineering GmbH
+  manufacturer-uri: https://device-type.com
+  name: Weinzier
+type: d3-device-type-assertion

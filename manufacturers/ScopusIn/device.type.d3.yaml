@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0380b394-c738-4550-98b8-b004eafabee5
+  mac-addresses:
+  - 04:38:55:00:00:00/24
+  - FC:CD:2F:A0:00:00/28
+  manufacturer: Scopus International-Belgium
+  manufacturer-uri: https://device-type.com
+  name: ScopusIn
+type: d3-device-type-assertion

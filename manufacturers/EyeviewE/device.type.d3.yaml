@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ba2b2ef-ecf1-4368-82c9-f70c16d54aa1
+  mac-addresses:
+  - 00:21:50:00:00:00/24
+  manufacturer: Eyeview Electronics
+  manufacturer-uri: https://device-type.com
+  name: EyeviewE
+type: d3-device-type-assertion

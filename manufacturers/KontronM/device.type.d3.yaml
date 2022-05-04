@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 202b8d80-f6a7-4d96-8a9b-0a4c1dca833e
+  mac-addresses:
+  - 00:0E:32:00:00:00/24
+  manufacturer: Kontron Medical
+  manufacturer-uri: https://device-type.com
+  name: KontronM
+type: d3-device-type-assertion

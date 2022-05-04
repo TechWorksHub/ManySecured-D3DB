@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 71c96350-75c4-4ee9-8bf1-dcc9d1cc593a
+  mac-addresses:
+  - 00:01:C1:00:00:00/24
+  manufacturer: Vitesse Semiconductor Corporation
+  manufacturer-uri: https://device-type.com
+  name: VitesseS
+type: d3-device-type-assertion

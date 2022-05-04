@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 876aff2f-a1ed-4583-be9c-a42943789e9a
+  mac-addresses:
+  - 00:0D:A8:00:00:00/24
+  - 00:0D:F5:00:00:00/24
+  - C4:95:4D:10:00:00/28
+  manufacturer: Teletronics Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: Teletron
+type: d3-device-type-assertion

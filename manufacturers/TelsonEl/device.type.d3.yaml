@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f5164b7-c198-4009-b389-5c54774a7751
+  mac-addresses:
+  - 00:0C:73:00:00:00/24
+  manufacturer: Telson Electronics Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: TelsonEl
+type: d3-device-type-assertion

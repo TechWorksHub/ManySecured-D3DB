@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e10d02b7-6dab-4f31-ad97-7e2e0145e92f
+  mac-addresses:
+  - 24:5E:BE:00:00:00/24
+  - E8:43:B6:00:00:00/24
+  manufacturer: QNAP Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: QNAP
+type: d3-device-type-assertion

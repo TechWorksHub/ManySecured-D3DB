@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43fb4c24-82bf-4c6a-b499-eacc8c78945b
+  mac-addresses:
+  - 00:0F:50:00:00:00/24
+  manufacturer: StreamScale Limited
+  manufacturer-uri: https://device-type.com
+  name: StreamSc
+type: d3-device-type-assertion

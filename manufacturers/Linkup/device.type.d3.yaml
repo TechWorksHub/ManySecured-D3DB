@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf16d37e-9c2b-4460-a1c2-7a683a727625
+  mac-addresses:
+  - 00:D0:6A:00:00:00/24
+  manufacturer: Linkup Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: Linkup
+type: d3-device-type-assertion

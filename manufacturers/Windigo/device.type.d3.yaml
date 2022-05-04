@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb68f8cf-deb5-4b1d-9cd9-0cc405fa4de6
+  mac-addresses:
+  - 00:08:1B:00:00:00/24
+  manufacturer: Windigo Systems
+  manufacturer-uri: https://device-type.com
+  name: Windigo
+type: d3-device-type-assertion

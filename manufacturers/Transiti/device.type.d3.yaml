@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c7340710-fd03-426f-80cb-e259ec7a0a9d
+  mac-addresses:
+  - 00:A0:2B:00:00:00/24
+  - 00:C0:F2:00:00:00/24
+  manufacturer: Transitions Research Corp.
+  manufacturer-uri: https://device-type.com
+  name: Transiti
+type: d3-device-type-assertion

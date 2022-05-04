@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f0d666a-4e90-4be7-b98e-cadcc000107a
+  mac-addresses:
+  - 00:21:ED:00:00:00/24
+  manufacturer: Telegesis
+  manufacturer-uri: https://device-type.com
+  name: Telegesi
+type: d3-device-type-assertion

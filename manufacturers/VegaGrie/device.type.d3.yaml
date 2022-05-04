@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b09f532-8eb0-4b90-8ff0-b953380ccf59
+  mac-addresses:
+  - 00:30:87:00:00:00/24
+  manufacturer: Vega Grieshaber Kg
+  manufacturer-uri: https://device-type.com
+  name: VegaGrie
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc625789-3680-475c-a336-e11409e6fe09
+  mac-addresses:
+  - 00:02:0A:00:00:00/24
+  manufacturer: Gefran Spa
+  manufacturer-uri: https://device-type.com
+  name: Gefran
+type: d3-device-type-assertion

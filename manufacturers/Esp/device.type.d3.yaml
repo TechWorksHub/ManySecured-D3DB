@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 34f9eca4-cf66-4102-880b-9bd538d771e3
+  mac-addresses:
+  - 00:21:EB:00:00:00/24
+  - 30:F4:2F:00:00:00/24
+  manufacturer: Esp Systems, Llc
+  manufacturer-uri: https://device-type.com
+  name: Esp
+type: d3-device-type-assertion

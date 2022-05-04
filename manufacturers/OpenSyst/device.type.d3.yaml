@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 48670478-6840-4905-b561-8e8f2e49e00d
+  mac-addresses:
+  - 00:50:C2:81:10:00/36
+  - 70:B3:D5:44:B0:00/36
+  - 70:B3:D5:FA:B0:00/36
+  manufacturer: Open System Solutions Limited
+  manufacturer-uri: https://device-type.com
+  name: OpenSyst
+type: d3-device-type-assertion

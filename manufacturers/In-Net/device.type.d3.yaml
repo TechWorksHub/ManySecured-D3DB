@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7eca52b-9a2b-44e5-8f76-8fea4e6ab577
+  mac-addresses:
+  - 00:80:47:00:00:00/24
+  manufacturer: In-Net Corp.
+  manufacturer-uri: https://device-type.com
+  name: In-Net
+type: d3-device-type-assertion

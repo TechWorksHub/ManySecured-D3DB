@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b52ce04c-7684-4085-87b9-5f0645aed4f4
+  mac-addresses:
+  - 00:09:ED:00:00:00/24
+  manufacturer: CipherOptics
+  manufacturer-uri: https://device-type.com
+  name: CipherOp
+type: d3-device-type-assertion

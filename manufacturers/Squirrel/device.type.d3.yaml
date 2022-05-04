@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1b308c5-ebb3-409d-acfb-a2029520d5e4
+  mac-addresses:
+  - 5C:23:16:00:00:00/24
+  manufacturer: Squirrels Research Labs LLC
+  manufacturer-uri: https://device-type.com
+  name: Squirrel
+type: d3-device-type-assertion

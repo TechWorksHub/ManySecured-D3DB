@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f34da1b9-5353-4236-bff0-bc48c927f1d4
+  mac-addresses:
+  - 00:1A:39:00:00:00/24
+  - 70:B3:D5:55:00:00/36
+  manufacturer: Merten GmbH&CoKG
+  manufacturer-uri: https://device-type.com
+  name: MertenGm
+type: d3-device-type-assertion

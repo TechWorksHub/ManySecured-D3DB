@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bbf241f-ac80-4cb1-813d-7125676fdaf5
+  mac-addresses:
+  - 00:15:D9:00:00:00/24
+  manufacturer: PKC Electronics Oy
+  manufacturer-uri: https://device-type.com
+  name: PKCElect
+type: d3-device-type-assertion

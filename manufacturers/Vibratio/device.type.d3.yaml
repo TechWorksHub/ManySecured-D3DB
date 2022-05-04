@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6d7624cc-b881-4451-8580-88329fc2ff9c
+  mac-addresses:
+  - 00:09:70:00:00:00/24
+  - 00:16:4A:00:00:00/24
+  - 70:B3:D5:C3:50:00/36
+  manufacturer: Vibration Research Corporation
+  manufacturer-uri: https://device-type.com
+  name: Vibratio
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1e4f8e6-501d-4fe3-a7b3-7eb56d0f6a27
+  mac-addresses:
+  - 00:50:C2:D0:D0:00/36
+  manufacturer: DECA Card Engineering GmbH
+  manufacturer-uri: https://device-type.com
+  name: DECACard
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1a7d9d33-631a-4d38-a823-b0e2f0b9f4dc
+  mac-addresses:
+  - 58:20:8A:70:00:00/28
+  - 70:B3:D5:95:80:00/36
+  manufacturer: pureLiFi Ltd
+  manufacturer-uri: https://device-type.com
+  name: pureLiFi
+type: d3-device-type-assertion

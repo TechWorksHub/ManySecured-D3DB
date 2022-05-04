@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 54610027-175b-4aa3-987f-33b45ba0cf6a
+  mac-addresses:
+  - 00:07:9B:00:00:00/24
+  - 00:14:82:00:00:00/24
+  manufacturer: Aurora Networks
+  manufacturer-uri: https://device-type.com
+  name: AuroraNe
+type: d3-device-type-assertion

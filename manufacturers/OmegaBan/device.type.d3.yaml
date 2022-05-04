@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9be3bfc-d4c1-4c4e-91a3-605657a8f735
+  mac-addresses:
+  - 00:04:F7:00:00:00/24
+  manufacturer: Omega Band, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OmegaBan
+type: d3-device-type-assertion

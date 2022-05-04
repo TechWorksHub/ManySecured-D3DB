@@ -1,0 +1,19 @@
+credentialSubject:
+  id: 084bb956-1cff-4bde-a45d-2bd84480f945
+  mac-addresses:
+  - 00:04:0B:00:00:00/24
+  - 00:05:1A:00:00:00/24
+  - 00:1E:C1:00:00:00/24
+  - 00:22:57:00:00:00/24
+  - 00:24:73:00:00:00/24
+  - 00:30:1E:00:00:00/24
+  - 00:50:99:00:00:00/24
+  - 00:90:04:00:00:00/24
+  - 00:D0:96:00:00:00/24
+  - 08:00:4E:00:00:00/24
+  - 20:FD:F1:00:00:00/24
+  - 40:01:C6:00:00:00/24
+  manufacturer: 3Com Europe Ltd
+  manufacturer-uri: https://device-type.com
+  name: 3ComEuro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3032b030-e653-41cd-9745-4a00a301fb1c
+  mac-addresses:
+  - 00:0A:1B:00:00:00/24
+  manufacturer: Stream Labs
+  manufacturer-uri: https://device-type.com
+  name: StreamLa
+type: d3-device-type-assertion

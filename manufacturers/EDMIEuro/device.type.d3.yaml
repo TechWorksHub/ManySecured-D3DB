@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 07ab079e-5ffd-4f24-8930-52d004d17727
+  mac-addresses:
+  - 1C:23:4F:00:00:00/24
+  - 44:11:02:00:00:00/24
+  - E4:FE:D9:00:00:00/24
+  manufacturer: EDMI Europe Ltd
+  manufacturer-uri: https://device-type.com
+  name: EDMIEuro
+type: d3-device-type-assertion

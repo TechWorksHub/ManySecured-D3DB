@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1a8bd3a-e904-4fad-b469-9fdd31dba3c4
+  mac-addresses:
+  - 00:13:C6:00:00:00/24
+  manufacturer: OpenGear, Inc
+  manufacturer-uri: https://device-type.com
+  name: OpenGear
+type: d3-device-type-assertion

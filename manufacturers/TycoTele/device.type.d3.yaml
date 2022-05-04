@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0257a99b-183d-467a-be3e-c3de4ff1c355
+  mac-addresses:
+  - 00:21:B0:00:00:00/24
+  manufacturer: Tyco Telecommunications
+  manufacturer-uri: https://device-type.com
+  name: TycoTele
+type: d3-device-type-assertion

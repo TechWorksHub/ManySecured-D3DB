@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26a49f7f-b24b-42ed-a7a5-2984f0c1e91c
+  mac-addresses:
+  - 78:22:3D:00:00:00/24
+  manufacturer: Affirmed Networks
+  manufacturer-uri: https://device-type.com
+  name: Affirmed
+type: d3-device-type-assertion

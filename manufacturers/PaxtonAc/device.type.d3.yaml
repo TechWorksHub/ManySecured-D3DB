@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8678baca-7a86-4bcb-9ddc-044395e406c0
+  mac-addresses:
+  - 00:0B:D6:00:00:00/24
+  - 6C:2A:CB:00:00:00/24
+  manufacturer: Paxton Access Ltd
+  manufacturer-uri: https://device-type.com
+  name: PaxtonAc
+type: d3-device-type-assertion

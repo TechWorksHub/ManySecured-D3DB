@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3ca113d-f031-4f18-9d3c-365232dbcace
+  mac-addresses:
+  - 00:11:DF:00:00:00/24
+  manufacturer: Current Energy
+  manufacturer-uri: https://device-type.com
+  name: CurrentE
+type: d3-device-type-assertion

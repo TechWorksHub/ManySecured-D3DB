@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d21dd6da-6eb8-480b-a52c-b70d0d42bc5d
+  mac-addresses:
+  - 00:90:46:00:00:00/24
+  manufacturer: Dexdyne, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Dexdyne
+type: d3-device-type-assertion

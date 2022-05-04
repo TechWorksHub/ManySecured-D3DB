@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9ed4d55-2ff3-4c75-8b82-6b27b42b9736
+  mac-addresses:
+  - 00:40:B3:00:00:00/24
+  manufacturer: ParTech Inc.
+  manufacturer-uri: https://device-type.com
+  name: ParTech
+type: d3-device-type-assertion

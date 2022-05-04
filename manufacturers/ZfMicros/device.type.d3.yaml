@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d1e2f8a-d8cb-42ac-a85c-13f8c4aec84e
+  mac-addresses:
+  - 00:10:2A:00:00:00/24
+  manufacturer: Zf Microsystems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ZfMicros
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e8bdb37-53b0-4583-b2c8-004fd81356db
+  mac-addresses:
+  - 00:17:28:00:00:00/24
+  manufacturer: Selex Communications
+  manufacturer-uri: https://device-type.com
+  name: SelexCom
+type: d3-device-type-assertion

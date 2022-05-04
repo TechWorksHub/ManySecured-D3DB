@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 503bc50b-ad9e-43f2-8257-00f5c6e8e53a
+  mac-addresses:
+  - 00:22:17:00:00:00/24
+  manufacturer: Neat Electronics
+  manufacturer-uri: https://device-type.com
+  name: NeatElec
+type: d3-device-type-assertion

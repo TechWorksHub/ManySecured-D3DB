@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f038458-6cfa-4e60-9c4c-0f5f85556a07
+  mac-addresses:
+  - 00:18:66:00:00:00/24
+  manufacturer: Leutron Vision
+  manufacturer-uri: https://device-type.com
+  name: LeutronV
+type: d3-device-type-assertion

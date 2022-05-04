@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8433864c-6b9f-40bc-b701-b250e566c99b
+  mac-addresses:
+  - D0:E4:0B:00:00:00/24
+  manufacturer: Wearable Inc.
+  manufacturer-uri: https://device-type.com
+  name: Wearable
+type: d3-device-type-assertion

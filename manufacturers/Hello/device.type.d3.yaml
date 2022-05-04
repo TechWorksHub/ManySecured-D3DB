@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75d27e04-cd23-4ea1-97c0-2c14cd904f28
+  mac-addresses:
+  - 5C:6B:4F:00:00:00/24
+  manufacturer: Hello Inc.
+  manufacturer-uri: https://device-type.com
+  name: Hello
+type: d3-device-type-assertion

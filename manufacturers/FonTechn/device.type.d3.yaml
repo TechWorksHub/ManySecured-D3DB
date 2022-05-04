@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e3142670-cfc3-4416-a6ba-c2fe1368d51a
+  mac-addresses:
+  - 00:18:84:00:00:00/24
+  - 18:AA:45:00:00:00/24
+  - C4:71:30:00:00:00/24
+  manufacturer: Fon Technology S.L.
+  manufacturer-uri: https://device-type.com
+  name: FonTechn
+type: d3-device-type-assertion

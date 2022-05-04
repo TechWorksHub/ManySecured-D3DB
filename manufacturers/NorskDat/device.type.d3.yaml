@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61030fed-ab80-463f-baa2-2d305ce0dd6f
+  mac-addresses:
+  - 08:00:26:00:00:00/24
+  manufacturer: Norsk Data (Nord)
+  manufacturer-uri: https://device-type.com
+  name: NorskDat
+type: d3-device-type-assertion

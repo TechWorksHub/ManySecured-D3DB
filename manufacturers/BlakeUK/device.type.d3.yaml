@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e2b7a9d-e874-4824-a22e-4755021602ba
+  mac-addresses:
+  - 70:B3:D5:9D:A0:00/36
+  - B0:B3:53:00:00:00/28
+  manufacturer: Blake UK
+  manufacturer-uri: https://device-type.com
+  name: BlakeUK
+type: d3-device-type-assertion

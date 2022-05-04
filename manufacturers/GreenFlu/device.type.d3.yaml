@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f9745052-7454-4e60-b92b-22e154d77012
+  mac-addresses:
+  - 70:B3:D5:12:E0:00/36
+  - 70:B3:D5:A0:20:00/36
+  manufacturer: GreenFlux
+  manufacturer-uri: https://device-type.com
+  name: GreenFlu
+type: d3-device-type-assertion

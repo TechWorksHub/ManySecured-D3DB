@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbca12ce-b5f7-4346-8307-5c6a6f085aef
+  mac-addresses:
+  - 00:0C:7F:00:00:00/24
+  manufacturer: synertronixx GmbH
+  manufacturer-uri: https://device-type.com
+  name: synertro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b66045a-c708-4c40-968d-04bf5df4aa89
+  mac-addresses:
+  - 00:14:CE:00:00:00/24
+  manufacturer: Nf Corporation
+  manufacturer-uri: https://device-type.com
+  name: Nf
+type: d3-device-type-assertion

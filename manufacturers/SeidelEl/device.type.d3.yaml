@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d3ccc2a-bf67-4001-935b-a4939146ab1b
+  mac-addresses:
+  - 00:12:6E:00:00:00/24
+  manufacturer: Seidel Elektronik GmbH Nfg.KG
+  manufacturer-uri: https://device-type.com
+  name: SeidelEl
+type: d3-device-type-assertion

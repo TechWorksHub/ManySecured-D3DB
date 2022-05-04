@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b273323d-4254-4ec4-9b5c-3a223557bab4
+  mac-addresses:
+  - 54:DF:63:00:00:00/24
+  manufacturer: Intrakey technologies GmbH
+  manufacturer-uri: https://device-type.com
+  name: Intrakey
+type: d3-device-type-assertion

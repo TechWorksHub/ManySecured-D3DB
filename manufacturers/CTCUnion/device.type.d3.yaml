@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b26f801f-d9c9-47da-a8f7-4e43a7cfcb18
+  mac-addresses:
+  - 00:02:AB:00:00:00/24
+  manufacturer: CTC Union Technologies Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CTCUnion
+type: d3-device-type-assertion

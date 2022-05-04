@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a2bc5510-6bff-4015-9f0c-1638209992d4
+  mac-addresses:
+  - 00:50:C2:89:B0:00/36
+  - 00:50:C2:FF:E0:00/36
+  - 40:D8:55:1C:80:00/36
+  manufacturer: Sensata Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SensataT
+type: d3-device-type-assertion

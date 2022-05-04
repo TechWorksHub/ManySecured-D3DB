@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cfba0a81-5256-4ef1-8b00-efef84a4339f
+  mac-addresses:
+  - 00:90:F5:00:00:00/24
+  - 80:FA:5B:00:00:00/24
+  - D4:93:90:00:00:00/24
+  manufacturer: Clevo Co.
+  manufacturer-uri: https://device-type.com
+  name: Clevo
+type: d3-device-type-assertion

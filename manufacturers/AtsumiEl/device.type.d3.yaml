@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 053aab7f-4a30-4225-91df-80cd4ded7c6f
+  mac-addresses:
+  - 00:11:4D:00:00:00/24
+  manufacturer: Atsumi Electric Co.,LTD.
+  manufacturer-uri: https://device-type.com
+  name: AtsumiEl
+type: d3-device-type-assertion

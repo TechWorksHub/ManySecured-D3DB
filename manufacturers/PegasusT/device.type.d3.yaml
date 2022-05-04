@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 81b8b8b9-9735-45b6-8d10-7b3d718ad8a6
+  mac-addresses:
+  - 00:1A:83:00:00:00/24
+  manufacturer: Pegasus Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: PegasusT
+type: d3-device-type-assertion

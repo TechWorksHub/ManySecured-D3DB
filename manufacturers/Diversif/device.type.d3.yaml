@@ -1,0 +1,10 @@
+credentialSubject:
+  id: adce667a-7c34-476f-a9ba-d8303b91b1cd
+  mac-addresses:
+  - 00:19:9B:00:00:00/24
+  - 00:20:13:00:00:00/24
+  - 00:50:C2:AC:30:00/36
+  manufacturer: Diversified Technical Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Diversif
+type: d3-device-type-assertion

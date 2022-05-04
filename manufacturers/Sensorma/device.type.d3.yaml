@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a73e199-00bf-430e-94aa-3f794ef0f8eb
+  mac-addresses:
+  - 00:50:F9:00:00:00/24
+  manufacturer: Sensormatic Electronics LLC
+  manufacturer-uri: https://device-type.com
+  name: Sensorma
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0f359b8-25f2-4547-bce3-a1928b8c3ca4
+  mac-addresses:
+  - 00:80:03:00:00:00/24
+  manufacturer: Hytec Electronics Ltd.
+  manufacturer-uri: https://device-type.com
+  name: HytecEle
+type: d3-device-type-assertion

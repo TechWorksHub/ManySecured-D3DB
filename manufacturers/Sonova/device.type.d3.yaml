@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 545fc174-bf9b-492e-a5f1-d4474ba58c87
+  mac-addresses:
+  - 2C:53:D7:00:00:00/24
+  - 70:66:1B:00:00:00/24
+  manufacturer: Sonova AG
+  manufacturer-uri: https://device-type.com
+  name: Sonova
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31d4b26b-6cbd-4143-9eb8-f84695dea119
+  mac-addresses:
+  - 00:04:67:00:00:00/24
+  manufacturer: Wuhan Research Institute of MII
+  manufacturer-uri: https://device-type.com
+  name: WuhanRes
+type: d3-device-type-assertion

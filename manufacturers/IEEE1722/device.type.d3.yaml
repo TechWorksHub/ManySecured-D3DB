@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 019ec934-451a-4c5b-8e02-fe78528d0bd8
+  mac-addresses:
+  - 90:E0:F0:00:00:00/24
+  manufacturer: IEEE 1722a Working Group
+  manufacturer-uri: https://device-type.com
+  name: IEEE1722
+type: d3-device-type-assertion

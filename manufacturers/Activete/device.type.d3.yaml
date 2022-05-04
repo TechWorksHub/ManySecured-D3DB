@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2af7669-3f99-421b-bebe-7377e285196a
+  mac-addresses:
+  - 00:01:DC:00:00:00/24
+  manufacturer: Activetelco
+  manufacturer-uri: https://device-type.com
+  name: Activete
+type: d3-device-type-assertion

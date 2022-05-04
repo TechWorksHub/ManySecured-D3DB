@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1efa2fda-107e-4b66-a0b3-ab331a9a90db
+  mac-addresses:
+  - 00:00:7E:00:00:00/24
+  manufacturer: Clustrix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Clustrix
+type: d3-device-type-assertion

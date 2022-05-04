@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11a63185-54f7-46a0-a853-6f2de367eea1
+  mac-addresses:
+  - 00:80:05:00:00:00/24
+  manufacturer: Cactus Computer Inc.
+  manufacturer-uri: https://device-type.com
+  name: CactusCo
+type: d3-device-type-assertion

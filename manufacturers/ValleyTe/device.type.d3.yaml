@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9e6c74e-5a27-4b1d-becb-807faac46c39
+  mac-addresses:
+  - 00:05:44:00:00:00/24
+  - 00:50:C2:4B:50:00/36
+  manufacturer: Valley Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ValleyTe
+type: d3-device-type-assertion

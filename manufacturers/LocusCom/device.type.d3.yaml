@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a816dd7a-6389-405f-8d62-601c29960e74
+  mac-addresses:
+  - 00:00:9D:00:00:00/24
+  manufacturer: Locus Computing Corporation
+  manufacturer-uri: https://device-type.com
+  name: LocusCom
+type: d3-device-type-assertion

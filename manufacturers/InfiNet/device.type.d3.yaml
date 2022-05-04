@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 93a01a80-a4e1-4858-a641-6f04473c9c20
+  mac-addresses:
+  - 00:04:35:00:00:00/24
+  - A0:B4:BF:00:00:00/24
+  manufacturer: InfiNet LLC
+  manufacturer-uri: https://device-type.com
+  name: InfiNet
+type: d3-device-type-assertion

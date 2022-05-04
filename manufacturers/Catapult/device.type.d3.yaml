@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 237f010b-f1cc-405b-9339-b0ec934b74ed
+  mac-addresses:
+  - 00:03:A2:00:00:00/24
+  manufacturer: Catapult Communications
+  manufacturer-uri: https://device-type.com
+  name: Catapult
+type: d3-device-type-assertion

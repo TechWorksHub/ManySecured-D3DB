@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a3ad085-0896-4f77-98fa-73eb70fb133c
+  mac-addresses:
+  - 00:80:85:00:00:00/24
+  manufacturer: H-Three Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: H-Three
+type: d3-device-type-assertion

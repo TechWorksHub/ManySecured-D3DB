@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a02067cd-adb6-4f52-a57b-62f867b9a378
+  mac-addresses:
+  - 10:5F:D4:00:00:00/24
+  manufacturer: Tendyron Corporation
+  manufacturer-uri: https://device-type.com
+  name: Tendyron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52a8c98d-b2d9-4b6e-8187-f23e169c3e24
+  mac-addresses:
+  - 00:07:C8:00:00:00/24
+  manufacturer: Brain21, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Brain21
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f1a70df-a7f3-4de3-8851-9a5c1d350a7a
+  mac-addresses:
+  - C4:BD:6A:00:00:00/24
+  manufacturer: SKF GmbH
+  manufacturer-uri: https://device-type.com
+  name: SKF
+type: d3-device-type-assertion

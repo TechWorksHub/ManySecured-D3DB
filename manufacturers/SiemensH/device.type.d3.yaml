@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 67ead941-db01-4ab2-a6ae-d9c5aa23a6e7
+  mac-addresses:
+  - 00:0B:23:00:00:00/24
+  - 00:13:A3:00:00:00/24
+  - 00:18:65:00:00:00/24
+  - 00:18:D1:00:00:00/24
+  - 20:E7:91:00:00:00/24
+  - 70:B3:D5:20:C0:00/36
+  - 88:4B:39:00:00:00/24
+  manufacturer: Siemens Home & Office Comm. Devices
+  manufacturer-uri: https://device-type.com
+  name: SiemensH
+type: d3-device-type-assertion

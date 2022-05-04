@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c29eb208-7ede-4c08-84e7-0d7c96fa1c83
+  mac-addresses:
+  - 00:10:3B:00:00:00/24
+  manufacturer: Hippi Networking Forum
+  manufacturer-uri: https://device-type.com
+  name: HippiNet
+type: d3-device-type-assertion

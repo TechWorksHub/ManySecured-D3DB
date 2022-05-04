@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7db5b32c-8c52-41fe-bf24-2e38e9a1cf99
+  mac-addresses:
+  - 00:0E:CB:00:00:00/24
+  manufacturer: VineSys Technology
+  manufacturer-uri: https://device-type.com
+  name: VineSysT
+type: d3-device-type-assertion

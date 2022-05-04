@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a9baf3d-b533-49a9-a396-4d14e90bdcac
+  mac-addresses:
+  - CC:CD:64:00:00:00/24
+  manufacturer: SM-Electronic GmbH
+  manufacturer-uri: https://device-type.com
+  name: SM-Elect
+type: d3-device-type-assertion

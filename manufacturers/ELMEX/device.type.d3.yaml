@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 389e328b-2bec-4f39-9c62-58ff83c4e2ab
+  mac-addresses:
+  - 00:01:60:00:00:00/24
+  manufacturer: ELMEX Co., LTD.
+  manufacturer-uri: https://device-type.com
+  name: ELMEX
+type: d3-device-type-assertion

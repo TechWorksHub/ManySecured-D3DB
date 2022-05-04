@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c73f0c25-835f-4e96-8cdc-6a9ecacc85bc
+  mac-addresses:
+  - 00:15:07:00:00:00/24
+  - 00:50:C2:0D:10:00/36
+  manufacturer: Renaissance Learning Inc
+  manufacturer-uri: https://device-type.com
+  name: Renaissa
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 08056811-f6d0-4751-8eab-4c3c207654ef
+  mac-addresses:
+  - 38:FD:FE:90:00:00/28
+  - 40:D8:55:11:90:00/36
+  manufacturer: OOO Group of Industrial Technologies
+  manufacturer-uri: https://device-type.com
+  name: GroupInd
+type: d3-device-type-assertion

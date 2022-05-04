@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5cd94277-b1b8-4fd7-8682-c4c0c2aa4d50
+  mac-addresses:
+  - 00:1B:C5:01:50:00/36
+  - 00:C0:B5:00:00:00/24
+  - 1C:87:76:70:00:00/28
+  manufacturer: Corporate Systems Engineering
+  manufacturer-uri: https://device-type.com
+  name: Corporat
+type: d3-device-type-assertion

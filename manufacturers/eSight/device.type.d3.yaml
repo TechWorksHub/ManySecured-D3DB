@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1b2db514-871f-4b7e-8184-bb85191ea53b
+  mac-addresses:
+  - 1C:CA:E3:D0:00:00/28
+  - 70:B3:D5:FD:90:00/36
+  manufacturer: eSight Corporation
+  manufacturer-uri: https://device-type.com
+  name: eSight
+type: d3-device-type-assertion

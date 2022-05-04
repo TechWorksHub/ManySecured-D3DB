@@ -1,0 +1,25 @@
+credentialSubject:
+  id: ce432959-49b5-49bd-b9bf-3225d3217711
+  mac-addresses:
+  - 00:04:2F:00:00:00/24
+  - 00:04:F0:00:00:00/24
+  - 00:07:91:00:00:00/24
+  - 00:10:DE:00:00:00/24
+  - 00:12:78:00:00:00/24
+  - 00:12:D8:00:00:00/24
+  - 00:17:38:00:00:00/24
+  - 00:1A:D9:00:00:00/24
+  - 00:1C:3F:00:00:00/24
+  - 00:1C:A7:00:00:00/24
+  - 00:30:73:00:00:00/24
+  - 00:50:C2:1B:F0:00/36
+  - 00:50:C2:7D:60:00/36
+  - 70:B3:D5:4B:80:00/36
+  - 70:B3:D5:80:60:00/36
+  - 70:B3:D5:F9:E0:00/36
+  - 8C:1F:64:F3:10:00/36
+  - F8:F7:D3:00:00:00/24
+  manufacturer: International Communications Products, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Internat
+type: d3-device-type-assertion

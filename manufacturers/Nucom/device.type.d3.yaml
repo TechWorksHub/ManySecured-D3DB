@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2ae40982-ebca-4971-b56d-732c9f658f07
+  mac-addresses:
+  - 00:A0:AE:00:00:00/24
+  - E0:73:5F:00:00:00/24
+  manufacturer: Nucom Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Nucom
+type: d3-device-type-assertion

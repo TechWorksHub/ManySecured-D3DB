@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6b6c16ed-ce4a-42e4-82a9-f9224856ebe4
+  mac-addresses:
+  - B8:64:91:00:00:00/24
+  - DC:E8:38:00:00:00/24
+  - E0:C0:D1:00:00:00/24
+  manufacturer: CK Telecom Ltd
+  manufacturer-uri: https://device-type.com
+  name: CKTeleco
+type: d3-device-type-assertion

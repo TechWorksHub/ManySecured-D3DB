@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1cfe847-aa2b-417f-80be-5c81daf74534
+  mac-addresses:
+  - 00:C0:88:00:00:00/24
+  manufacturer: Ekf Elektronik Gmbh
+  manufacturer-uri: https://device-type.com
+  name: EkfElekt
+type: d3-device-type-assertion

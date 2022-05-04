@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 434aa25a-6cca-40c1-a13f-a84801dd6cdb
+  mac-addresses:
+  - 00:D0:16:00:00:00/24
+  manufacturer: Scm Microsystems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ScmMicro
+type: d3-device-type-assertion

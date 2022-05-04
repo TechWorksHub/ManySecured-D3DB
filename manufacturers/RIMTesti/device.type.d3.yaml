@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2b547ed7-c79f-4890-b1f6-e9f4fce14e57
+  mac-addresses:
+  - 00:21:06:00:00:00/24
+  - 00:24:9F:00:00:00/24
+  manufacturer: RIM Testing Services
+  manufacturer-uri: https://device-type.com
+  name: RIMTesti
+type: d3-device-type-assertion

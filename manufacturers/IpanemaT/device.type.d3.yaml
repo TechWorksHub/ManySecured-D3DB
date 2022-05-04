@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a530593-82b8-441c-aba0-5e1e563c3550
+  mac-addresses:
+  - 00:04:9D:00:00:00/24
+  manufacturer: Ipanema Technologies
+  manufacturer-uri: https://device-type.com
+  name: IpanemaT
+type: d3-device-type-assertion

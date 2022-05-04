@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9e0da0ba-5dfa-482d-8521-78d0ecb01750
+  mac-addresses:
+  - 40:D8:55:0D:A0:00/36
+  - 7C:C4:EF:00:00:00/24
+  manufacturer: Devialet SA
+  manufacturer-uri: https://device-type.com
+  name: Devialet
+type: d3-device-type-assertion

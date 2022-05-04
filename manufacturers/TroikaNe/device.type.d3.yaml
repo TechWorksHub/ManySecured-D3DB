@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ec3b1f9-01ff-4e7a-967d-0c92321b11dd
+  mac-addresses:
+  - 00:90:66:00:00:00/24
+  manufacturer: Troika Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TroikaNe
+type: d3-device-type-assertion

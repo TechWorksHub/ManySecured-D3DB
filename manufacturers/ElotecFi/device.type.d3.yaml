@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca1512c5-79e9-4e26-8268-1e94229cd5ba
+  mac-addresses:
+  - 04:D1:6E:D0:00:00/28
+  manufacturer: Elotec Fischer Elektronik GmbH
+  manufacturer-uri: https://device-type.com
+  name: ElotecFi
+type: d3-device-type-assertion

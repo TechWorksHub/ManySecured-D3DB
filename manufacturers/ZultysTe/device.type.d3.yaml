@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f30cb6df-6324-48d3-a7a5-03cf5c1d6b67
+  mac-addresses:
+  - 00:0B:EA:00:00:00/24
+  - 00:50:C2:18:00:00/36
+  manufacturer: Zultys Technologies
+  manufacturer-uri: https://device-type.com
+  name: ZultysTe
+type: d3-device-type-assertion

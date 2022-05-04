@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73ed8834-d7fd-4f33-9aeb-64b74372d179
+  mac-addresses:
+  - 00:30:83:00:00:00/24
+  manufacturer: Ivron Systems
+  manufacturer-uri: https://device-type.com
+  name: Ivron
+type: d3-device-type-assertion

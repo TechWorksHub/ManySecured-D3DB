@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c475b2d3-28e2-4941-be3a-a7048e0380e4
+  mac-addresses:
+  - AC:A3:2F:00:00:00/24
+  - C8:D6:B7:00:00:00/24
+  manufacturer: Solidigm Technology
+  manufacturer-uri: https://device-type.com
+  name: Solidigm
+type: d3-device-type-assertion

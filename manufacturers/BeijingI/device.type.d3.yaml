@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 46cd33f3-ee50-4f2b-b549-6c0f703e56b6
+  mac-addresses:
+  - 00:18:05:00:00:00/24
+  - 24:C1:7A:00:00:00/24
+  - 74:5B:C5:10:00:00/28
+  - A4:ED:43:50:00:00/28
+  - D0:C8:57:50:00:00/28
+  - E4:B0:05:00:00:00/24
+  - E8:34:3E:00:00:00/24
+  manufacturer: Beijing InHand Networking Technology Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BeijingI
+type: d3-device-type-assertion

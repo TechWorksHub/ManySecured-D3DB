@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ee5b19f-02fb-4043-b6b0-8be118b04f7d
+  mac-addresses:
+  - 00:1D:51:00:00:00/24
+  manufacturer: Babcock & Wilcox Power Generation Group, Inc
+  manufacturer-uri: https://device-type.com
+  name: BabcockW
+type: d3-device-type-assertion

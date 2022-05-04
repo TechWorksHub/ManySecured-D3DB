@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 303bc762-e315-49e1-916c-082bde40f073
+  mac-addresses:
+  - 00:D0:83:00:00:00/24
+  manufacturer: Invertex, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Invertex
+type: d3-device-type-assertion

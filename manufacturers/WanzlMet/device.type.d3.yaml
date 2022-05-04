@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5673fd98-8a9e-435d-8932-16efa53dba2a
+  mac-addresses:
+  - 00:24:41:00:00:00/24
+  manufacturer: Wanzl Metallwarenfabrik GmbH
+  manufacturer-uri: https://device-type.com
+  name: WanzlMet
+type: d3-device-type-assertion

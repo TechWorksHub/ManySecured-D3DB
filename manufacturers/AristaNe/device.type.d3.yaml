@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 2ade1202-9027-49e3-b120-759076c6f53c
+  mac-addresses:
+  - 00:1C:73:00:00:00/24
+  - 28:99:3A:00:00:00/24
+  - 2C:DD:E9:00:00:00/24
+  - 30:86:2D:00:00:00/24
+  - 44:4C:A8:00:00:00/24
+  - 5C:16:C7:00:00:00/24
+  - 74:83:EF:00:00:00/24
+  - 94:8E:D3:00:00:00/24
+  - 98:5D:82:00:00:00/24
+  - C0:69:11:00:00:00/24
+  - C0:D6:82:00:00:00/24
+  - C4:CA:2B:00:00:00/24
+  - D4:AF:F7:00:00:00/24
+  - E8:AE:C5:00:00:00/24
+  - FC:BD:67:00:00:00/24
+  manufacturer: Arista Networks
+  manufacturer-uri: https://device-type.com
+  name: AristaNe
+type: d3-device-type-assertion

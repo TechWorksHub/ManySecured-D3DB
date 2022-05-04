@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ca193463-c7ef-480b-b77c-32203d77f49f
+  mac-addresses:
+  - 00:50:C2:13:80:00/36
+  - 5C:E2:23:00:00:00/24
+  manufacturer: Delphin Technology AG
+  manufacturer-uri: https://device-type.com
+  name: DelphinT
+type: d3-device-type-assertion

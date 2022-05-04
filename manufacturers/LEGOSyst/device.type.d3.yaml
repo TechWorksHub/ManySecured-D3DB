@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6f284d46-2cc8-497f-9e39-d5cb29ffe5db
+  mac-addresses:
+  - 00:16:53:00:00:00/24
+  - 90:84:2B:00:00:00/24
+  - 9C:9A:C0:00:00:00/24
+  manufacturer: LEGO System A/S IE Electronics Division
+  manufacturer-uri: https://device-type.com
+  name: LEGOSyst
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60f42637-23b0-4590-9de7-79122d684cb6
+  mac-addresses:
+  - 00:1A:CA:00:00:00/24
+  manufacturer: Tilera Corporation
+  manufacturer-uri: https://device-type.com
+  name: Tilera
+type: d3-device-type-assertion

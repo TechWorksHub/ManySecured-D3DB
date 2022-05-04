@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 066efc18-7df9-41a5-b3e2-f65ff53c8093
+  mac-addresses:
+  - 40:ED:98:40:00:00/28
+  - 70:B3:D5:E4:90:00/36
+  manufacturer: Kendrion Kuhnke Automation GmbH
+  manufacturer-uri: https://device-type.com
+  name: Kendrion
+type: d3-device-type-assertion

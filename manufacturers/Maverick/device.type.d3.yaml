@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c504124-f7aa-49af-a183-932d794b9523
+  mac-addresses:
+  - 00:1D:33:00:00:00/24
+  manufacturer: Maverick Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Maverick
+type: d3-device-type-assertion

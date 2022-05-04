@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f89c5747-68c4-4298-aadc-10597384f5f6
+  mac-addresses:
+  - 00:30:FA:00:00:00/24
+  manufacturer: Telica, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telica
+type: d3-device-type-assertion

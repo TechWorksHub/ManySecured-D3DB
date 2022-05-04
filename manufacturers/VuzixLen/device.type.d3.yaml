@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8ded7e3-fa74-4aab-ae5a-d7985e2be910
+  mac-addresses:
+  - 60:99:D1:00:00:00/24
+  manufacturer: Vuzix / Lenovo
+  manufacturer-uri: https://device-type.com
+  name: VuzixLen
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c3c550a2-1240-439b-8eeb-a6e9005ac86f
+  mac-addresses:
+  - 00:10:4D:00:00:00/24
+  - 1C:87:74:80:00:00/28
+  manufacturer: Surtec Industries, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SurtecIn
+type: d3-device-type-assertion

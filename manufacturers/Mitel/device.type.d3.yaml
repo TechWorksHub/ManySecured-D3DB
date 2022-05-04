@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e9c4042d-2e3c-4e3f-8930-8d0e5b3d2883
+  mac-addresses:
+  - 00:08:5D:00:00:00/24
+  - 08:00:0F:00:00:00/24
+  manufacturer: Mitel Corporation
+  manufacturer-uri: https://device-type.com
+  name: Mitel
+type: d3-device-type-assertion

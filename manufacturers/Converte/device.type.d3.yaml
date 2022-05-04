@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 334d767a-41fa-4aa3-8bba-2edcfdb6f82c
+  mac-addresses:
+  - 00:1E:51:00:00:00/24
+  - 28:B7:7C:70:00:00/28
+  manufacturer: Converter Industry Srl
+  manufacturer-uri: https://device-type.com
+  name: Converte
+type: d3-device-type-assertion

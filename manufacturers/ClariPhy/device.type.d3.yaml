@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c4346d2-6961-4c26-b5ec-0f9b03e273f3
+  mac-addresses:
+  - 00:1D:6C:00:00:00/24
+  manufacturer: ClariPhy Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ClariPhy
+type: d3-device-type-assertion

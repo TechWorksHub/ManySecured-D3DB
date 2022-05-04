@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5acbe809-ad39-4af3-84b8-5c8050cf2e40
+  mac-addresses:
+  - 00:15:24:00:00:00/24
+  manufacturer: Numatics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Numatics
+type: d3-device-type-assertion

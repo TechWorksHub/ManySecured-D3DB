@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 172d509b-c85b-4ec6-bf38-fc8ca1adf9b5
+  mac-addresses:
+  - 50:05:3D:00:00:00/24
+  manufacturer: CyWee Group Ltd
+  manufacturer-uri: https://device-type.com
+  name: CyWeeGro
+type: d3-device-type-assertion

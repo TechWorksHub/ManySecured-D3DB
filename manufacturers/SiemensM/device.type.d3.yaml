@@ -1,0 +1,10 @@
+credentialSubject:
+  id: dd97f288-7378-47e3-9ae1-82e39cd2b7a8
+  mac-addresses:
+  - 70:38:11:00:00:00/24
+  - 70:B3:D5:E4:00:00/36
+  - CC:D3:1E:90:00:00/28
+  manufacturer: Siemens Mobility Limited
+  manufacturer-uri: https://device-type.com
+  name: SiemensM
+type: d3-device-type-assertion

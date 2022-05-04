@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca7004a2-b5eb-4113-9bd8-bc8b13538c85
+  mac-addresses:
+  - 00:0F:BC:00:00:00/24
+  manufacturer: Onkey Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OnkeyTec
+type: d3-device-type-assertion

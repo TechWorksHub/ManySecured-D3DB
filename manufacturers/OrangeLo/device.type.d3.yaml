@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7baaebb-dfd6-4b0c-b181-3bc5bd00072f
+  mac-addresses:
+  - 00:1F:2B:00:00:00/24
+  manufacturer: Orange Logic
+  manufacturer-uri: https://device-type.com
+  name: OrangeLo
+type: d3-device-type-assertion

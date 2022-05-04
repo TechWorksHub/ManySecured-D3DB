@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3a7293f6-119a-4ebd-a3fe-974e15202226
+  mac-addresses:
+  - 14:33:65:00:00:00/24
+  - 58:E8:76:90:00:00/28
+  - B0:C5:CA:A0:00:00/28
+  manufacturer: TEM Mobile Limited
+  manufacturer-uri: https://device-type.com
+  name: TEMMobil
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e605ab1-5edb-49fc-bbdc-bccd036a2d2e
+  mac-addresses:
+  - 00:25:6E:00:00:00/24
+  manufacturer: Van Breda B.V.
+  manufacturer-uri: https://device-type.com
+  name: VanBreda
+type: d3-device-type-assertion

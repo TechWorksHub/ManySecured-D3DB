@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc0218a1-948f-4870-bbe1-db02d02bce2c
+  mac-addresses:
+  - 78:0E:D1:00:00:00/24
+  manufacturer: TRUMPF Werkzeugmaschinen GmbH+Co.KG
+  manufacturer-uri: https://device-type.com
+  name: TRUMPFWe
+type: d3-device-type-assertion

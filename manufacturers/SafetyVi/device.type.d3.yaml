@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9759d767-d2ce-4177-a3b9-eede08c3654f
+  mac-addresses:
+  - 00:22:AF:00:00:00/24
+  - E4:1E:0A:B0:00:00/28
+  manufacturer: Safety Vision, LLC
+  manufacturer-uri: https://device-type.com
+  name: SafetyVi
+type: d3-device-type-assertion

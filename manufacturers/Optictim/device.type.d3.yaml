@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2efa0cd3-e908-4728-b6b8-58c4c531a9c0
+  mac-addresses:
+  - 94:02:6B:00:00:00/24
+  - C8:63:14:A0:00:00/28
+  manufacturer: Optictimes Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Optictim
+type: d3-device-type-assertion

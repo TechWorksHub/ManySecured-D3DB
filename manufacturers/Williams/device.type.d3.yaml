@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 93a9fa29-ebbd-475c-b4ae-6e5e8107fcef
+  mac-addresses:
+  - 00:10:0A:00:00:00/24
+  - 70:B3:D5:58:B0:00/36
+  - A4:53:EE:40:00:00/28
+  manufacturer: Williams Communications Group
+  manufacturer-uri: https://device-type.com
+  name: Williams
+type: d3-device-type-assertion

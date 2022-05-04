@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 26597160-35f2-462f-a519-4d5645f1e52f
+  mac-addresses:
+  - 48:29:E4:00:00:00/24
+  - D8:AF:81:00:00:00/24
+  - DC:E3:05:00:00:00/24
+  manufacturer: ZAO "NPK Rotek"
+  manufacturer-uri: https://device-type.com
+  name: NPKRotek
+type: d3-device-type-assertion

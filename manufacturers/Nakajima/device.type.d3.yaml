@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50cbcf11-eea2-45c0-a38e-58b9726c1b50
+  mac-addresses:
+  - 00:1F:F7:00:00:00/24
+  manufacturer: Nakajima All Precision Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Nakajima
+type: d3-device-type-assertion

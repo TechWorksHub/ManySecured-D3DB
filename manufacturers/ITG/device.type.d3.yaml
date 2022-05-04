@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e67b2bcd-9ea2-4e5d-9c6f-49dde3679fef
+  mac-addresses:
+  - 10:12:48:00:00:00/24
+  manufacturer: ITG, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ITG
+type: d3-device-type-assertion

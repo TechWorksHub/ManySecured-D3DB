@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb1cb9ec-96d3-44a2-9cd3-de133a751b73
+  mac-addresses:
+  - 00:0B:0A:00:00:00/24
+  manufacturer: dBm Optics
+  manufacturer-uri: https://device-type.com
+  name: dBmOptic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1dc9b67-6327-491d-8231-8c2e12cf78cc
+  mac-addresses:
+  - 38:F3:3F:00:00:00/24
+  manufacturer: Tatsuno Corporation
+  manufacturer-uri: https://device-type.com
+  name: Tatsuno
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 060da625-7cb5-4eda-b0f8-156534b0c2de
+  mac-addresses:
+  - 64:31:39:10:00:00/28
+  manufacturer: Livongo Health
+  manufacturer-uri: https://device-type.com
+  name: LivongoH
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2f0df54-fcc9-402b-aa40-3213121053d9
+  mac-addresses:
+  - 00:D0:14:00:00:00/24
+  manufacturer: Root, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Root
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 408e9c61-b11a-4593-be7c-948dcff516f6
+  mac-addresses:
+  - 00:03:83:00:00:00/24
+  manufacturer: Metera Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MeteraNe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a56af91-6776-439c-8b11-c7568efffdd0
+  mac-addresses:
+  - CC:3C:3F:00:00:00/24
+  manufacturer: SA.S.S. Datentechnik AG
+  manufacturer-uri: https://device-type.com
+  name: SSDatent
+type: d3-device-type-assertion

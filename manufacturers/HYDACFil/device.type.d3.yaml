@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b64725f1-786b-4b86-b78e-723b09a7af5f
+  mac-addresses:
+  - 00:13:53:00:00:00/24
+  manufacturer: HYDAC Filtertechnik GMBH
+  manufacturer-uri: https://device-type.com
+  name: HYDACFil
+type: d3-device-type-assertion

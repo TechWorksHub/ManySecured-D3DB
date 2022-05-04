@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aa2949e-66d0-48ea-8989-95363a5140d9
+  mac-addresses:
+  - 00:26:F9:00:00:00/24
+  manufacturer: S.E.M. srl
+  manufacturer-uri: https://device-type.com
+  name: SEM
+type: d3-device-type-assertion

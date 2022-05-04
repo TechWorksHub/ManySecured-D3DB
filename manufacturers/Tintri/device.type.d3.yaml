@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9f95c23c-b8c6-4abc-8e74-1b0177f954c2
+  mac-addresses:
+  - AA:54:8B:00:00:00/24
+  - F8:9D:BB:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Tintri
+type: d3-device-type-assertion

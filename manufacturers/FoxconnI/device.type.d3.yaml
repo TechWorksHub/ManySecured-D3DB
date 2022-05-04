@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 75169ed7-4b92-406a-ad4d-efa9b151ca83
+  mac-addresses:
+  - 8C:CB:DF:00:00:00/24
+  - EC:01:E2:00:00:00/24
+  manufacturer: Foxconn Interconnect Technology
+  manufacturer-uri: https://device-type.com
+  name: FoxconnI
+type: d3-device-type-assertion

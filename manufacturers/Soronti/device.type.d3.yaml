@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cdd83b27-40f6-4565-ad1c-c6ec9ce10765
+  mac-addresses:
+  - 00:05:C2:00:00:00/24
+  - 00:0E:3F:00:00:00/24
+  - 00:50:C2:1E:40:00/36
+  manufacturer: Soronti, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Soronti
+type: d3-device-type-assertion

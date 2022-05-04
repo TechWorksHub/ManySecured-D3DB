@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3d023c98-58ed-4c1b-b432-f6a148feba93
+  mac-addresses:
+  - 34:99:71:00:00:00/24
+  - 48:BD:0E:00:00:00/24
+  manufacturer: Quanta Storage Inc.
+  manufacturer-uri: https://device-type.com
+  name: QuantaSt
+type: d3-device-type-assertion

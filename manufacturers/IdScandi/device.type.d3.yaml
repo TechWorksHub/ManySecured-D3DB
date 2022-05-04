@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06fd7b70-188b-45de-b748-35abb2d72d8e
+  mac-addresses:
+  - 00:C0:60:00:00:00/24
+  manufacturer: ID Scandinavia A/S
+  manufacturer-uri: https://device-type.com
+  name: IdScandi
+type: d3-device-type-assertion

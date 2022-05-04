@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 60df92b8-8483-483b-9c36-b51609c6c722
+  mac-addresses:
+  - 00:D0:8D:00:00:00/24
+  - 9C:86:DA:00:00:00/24
+  manufacturer: Phoenix Group, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PhoenixG
+type: d3-device-type-assertion

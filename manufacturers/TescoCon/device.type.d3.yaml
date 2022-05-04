@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77865e94-ce21-4646-a37a-fe5bb82b8e84
+  mac-addresses:
+  - 00:01:46:00:00:00/24
+  manufacturer: Tesco Controls, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TescoCon
+type: d3-device-type-assertion

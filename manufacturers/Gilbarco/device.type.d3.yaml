@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 533d2894-68d6-4ae2-90e9-1c53c7928162
+  mac-addresses:
+  - 00:50:83:00:00:00/24
+  - 00:50:C2:3B:90:00/36
+  - 70:B3:D5:26:90:00/36
+  manufacturer: Gilbarco, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gilbarco
+type: d3-device-type-assertion

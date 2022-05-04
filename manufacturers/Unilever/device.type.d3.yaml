@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2dd9ff24-8665-4f17-b454-2653bac1608e
+  mac-addresses:
+  - 00:18:57:00:00:00/24
+  - 00:1B:C5:08:F0:00/36
+  manufacturer: Unilever R&D
+  manufacturer-uri: https://device-type.com
+  name: Unilever
+type: d3-device-type-assertion

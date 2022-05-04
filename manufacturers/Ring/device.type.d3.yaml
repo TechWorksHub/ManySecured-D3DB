@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 377bec1b-9769-4633-9695-d0241e93e95b
+  mac-addresses:
+  - 34:3E:A4:00:00:00/24
+  - 54:E0:19:00:00:00/24
+  - 90:48:6C:00:00:00/24
+  - 9C:76:13:00:00:00/24
+  manufacturer: Ring LLC
+  manufacturer-uri: https://device-type.com
+  name: Ring
+type: d3-device-type-assertion

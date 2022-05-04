@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88ad24a3-ff21-4271-8281-d4d33da4d1d8
+  mac-addresses:
+  - 00:05:75:00:00:00/24
+  manufacturer: CDS-Electronics BV
+  manufacturer-uri: https://device-type.com
+  name: CDS-Elec
+type: d3-device-type-assertion

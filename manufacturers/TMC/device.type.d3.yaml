@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae12d95d-fdda-41c6-a5d4-498869b286a4
+  mac-addresses:
+  - 00:04:24:00:00:00/24
+  manufacturer: TMC s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: TMC
+type: d3-device-type-assertion

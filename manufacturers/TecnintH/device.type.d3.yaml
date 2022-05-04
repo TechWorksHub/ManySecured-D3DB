@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 3b4aa161-1454-494a-99b9-3ed436165942
+  mac-addresses:
+  - 00:50:C2:0F:80:00/36
+  - 00:50:C2:B4:00:00/36
+  - 00:50:C2:EE:30:00/36
+  - 20:0A:0D:70:00:00/28
+  - 70:B3:D5:21:70:00/36
+  - 70:B3:D5:51:D0:00/36
+  - 70:B3:D5:80:90:00/36
+  - 70:B3:D5:AC:A0:00/36
+  - 70:B3:D5:FC:60:00/36
+  manufacturer: Tecnint HTE SRL
+  manufacturer-uri: https://device-type.com
+  name: TecnintH
+type: d3-device-type-assertion

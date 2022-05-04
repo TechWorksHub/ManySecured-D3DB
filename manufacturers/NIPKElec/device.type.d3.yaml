@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a80ddd87-032e-4ed4-a4a6-4adb2c377bf1
+  mac-addresses:
+  - 68:91:D0:50:00:00/28
+  manufacturer: NIPK Electron Co.
+  manufacturer-uri: https://device-type.com
+  name: NIPKElec
+type: d3-device-type-assertion

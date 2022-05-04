@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 604af242-11be-44a1-be00-77fe78e03f0d
+  mac-addresses:
+  - 00:0C:DE:00:00:00/24
+  manufacturer: ABB STOTZ-KONTAKT GmbH
+  manufacturer-uri: https://device-type.com
+  name: ABBSTOTZ
+type: d3-device-type-assertion

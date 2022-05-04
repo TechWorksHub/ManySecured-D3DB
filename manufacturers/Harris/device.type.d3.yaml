@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 14ba4bfb-d6b6-4069-950b-31b6308944c1
+  mac-addresses:
+  - 00:00:C3:00:00:00/24
+  - 00:06:EC:00:00:00/24
+  - 00:17:F3:00:00:00/24
+  manufacturer: Harris Corporation
+  manufacturer-uri: https://device-type.com
+  name: Harris
+type: d3-device-type-assertion

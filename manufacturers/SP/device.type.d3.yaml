@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3528fba-997c-445f-82cd-96961610d282
+  mac-addresses:
+  - 00:26:E9:00:00:00/24
+  manufacturer: SP Corp
+  manufacturer-uri: https://device-type.com
+  name: SP
+type: d3-device-type-assertion

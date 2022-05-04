@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f7e5e595-4098-4753-bf8a-58f247d53336
+  mac-addresses:
+  - 00:40:4B:00:00:00/24
+  - 00:50:AC:00:00:00/24
+  manufacturer: Maple Computer Systems
+  manufacturer-uri: https://device-type.com
+  name: MapleCom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ecae0452-58a9-44f0-9135-e208e738a9da
+  mac-addresses:
+  - 00:1D:63:00:00:00/24
+  - 40:B0:2F:00:00:00/24
+  manufacturer: Miele & Cie. KG
+  manufacturer-uri: https://device-type.com
+  name: MieleCie
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d392df61-a31c-40f4-b498-e35b3840d0f1
+  mac-addresses:
+  - 00:06:6B:00:00:00/24
+  manufacturer: Sysmex Corporation
+  manufacturer-uri: https://device-type.com
+  name: Sysmex
+type: d3-device-type-assertion

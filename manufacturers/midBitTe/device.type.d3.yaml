@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aed44280-5ef3-4325-b526-f7bcb50bb1a8
+  mac-addresses:
+  - 28:36:13:C0:00:00/28
+  - 70:B3:D5:EB:D0:00/36
+  manufacturer: midBit Technologies, LLC
+  manufacturer-uri: https://device-type.com
+  name: midBitTe
+type: d3-device-type-assertion

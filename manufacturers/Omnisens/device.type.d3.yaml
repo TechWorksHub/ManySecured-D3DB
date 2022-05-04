@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 19504b8e-5ac7-4ac3-af69-d45dc470f865
+  mac-addresses:
+  - 28:17:CE:00:00:00/24
+  - 44:03:77:D0:00:00/28
+  - 70:B3:D5:70:D0:00/36
+  manufacturer: Omnisense Ltd
+  manufacturer-uri: https://device-type.com
+  name: Omnisens
+type: d3-device-type-assertion

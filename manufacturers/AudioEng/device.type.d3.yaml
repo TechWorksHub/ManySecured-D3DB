@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9a139d27-d7ea-4ac9-bf58-25a5d147f64b
+  mac-addresses:
+  - 00:0B:5E:00:00:00/24
+  - 00:50:C2:A8:A0:00/36
+  - 10:07:23:40:00:00/28
+  manufacturer: Audio Engineering Society Inc.
+  manufacturer-uri: https://device-type.com
+  name: AudioEng
+type: d3-device-type-assertion

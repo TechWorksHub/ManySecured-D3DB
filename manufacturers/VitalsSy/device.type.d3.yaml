@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98b89f06-c71c-4676-aa14-cba911c92bd7
+  mac-addresses:
+  - 00:0B:AE:00:00:00/24
+  manufacturer: Vitals System Inc.
+  manufacturer-uri: https://device-type.com
+  name: VitalsSy
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d5df171-e55f-4089-92fc-80232a32ada9
+  mac-addresses:
+  - 78:AB:60:00:00:00/24
+  manufacturer: ABB Australia
+  manufacturer-uri: https://device-type.com
+  name: ABBAustr
+type: d3-device-type-assertion

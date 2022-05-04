@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 689745ab-6a73-4fa2-95ab-cee5d06c68ff
+  mac-addresses:
+  - 00:12:56:00:00:00/24
+  - 00:19:A1:00:00:00/24
+  manufacturer: Lg Information & Comm.
+  manufacturer-uri: https://device-type.com
+  name: LgInform
+type: d3-device-type-assertion

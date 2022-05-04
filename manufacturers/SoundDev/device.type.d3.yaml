@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32840b26-cf0b-4af5-8355-bce28fc06ca4
+  mac-addresses:
+  - 00:12:1B:00:00:00/24
+  manufacturer: Sound Devices, LLC
+  manufacturer-uri: https://device-type.com
+  name: SoundDev
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af9b2b73-7f28-4de2-83dc-0119aedd9148
+  mac-addresses:
+  - 5C:D6:1F:00:00:00/24
+  manufacturer: Qardio, Inc
+  manufacturer-uri: https://device-type.com
+  name: Qardio
+type: d3-device-type-assertion

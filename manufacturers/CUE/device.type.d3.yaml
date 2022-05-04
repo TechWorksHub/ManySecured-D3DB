@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 78448678-c4e1-463b-a2fb-d9f1840aec85
+  mac-addresses:
+  - 00:50:C2:3E:40:00/36
+  - 00:50:C2:D1:70:00/36
+  manufacturer: CUE, a.s.
+  manufacturer-uri: https://device-type.com
+  name: CUE
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a848d83d-84ae-497d-874f-f307ab450fe6
+  mac-addresses:
+  - 00:50:C2:9B:40:00/36
+  - CC:F4:07:00:00:00/24
+  manufacturer: Eukrea Electromatique Sarl
+  manufacturer-uri: https://device-type.com
+  name: EukreaEl
+type: d3-device-type-assertion

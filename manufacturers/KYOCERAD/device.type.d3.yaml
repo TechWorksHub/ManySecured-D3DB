@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 85fe9523-92fc-4194-ad5d-e70b56a56114
+  mac-addresses:
+  - 00:17:C8:00:00:00/24
+  - 34:A8:43:00:00:00/24
+  manufacturer: KYOCERA Display Corporation
+  manufacturer-uri: https://device-type.com
+  name: KYOCERAD
+type: d3-device-type-assertion

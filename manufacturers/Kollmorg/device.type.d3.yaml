@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 223c85c4-f7db-4aec-945f-3f4256972440
+  mac-addresses:
+  - 00:02:1B:00:00:00/24
+  - 00:10:DA:00:00:00/24
+  manufacturer: Kollmorgen-Servotronix
+  manufacturer-uri: https://device-type.com
+  name: Kollmorg
+type: d3-device-type-assertion

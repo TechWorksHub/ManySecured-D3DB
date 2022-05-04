@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7760a77-1b16-434a-b53d-2072443423af
+  mac-addresses:
+  - 00:A0:30:00:00:00/24
+  manufacturer: Captor Nv/Sa
+  manufacturer-uri: https://device-type.com
+  name: Captor
+type: d3-device-type-assertion

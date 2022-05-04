@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 565f0a46-33f7-4a51-b4c5-87a6b720d4a2
+  mac-addresses:
+  - 00:10:84:00:00:00/24
+  manufacturer: K-Bot Communications
+  manufacturer-uri: https://device-type.com
+  name: K-BotCom
+type: d3-device-type-assertion

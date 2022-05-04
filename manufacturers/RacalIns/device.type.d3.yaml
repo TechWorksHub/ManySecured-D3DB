@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45bcf337-e238-40fb-ab9c-27b048d1560d
+  mac-addresses:
+  - 00:0D:2B:00:00:00/24
+  manufacturer: Racal Instruments
+  manufacturer-uri: https://device-type.com
+  name: RacalIns
+type: d3-device-type-assertion

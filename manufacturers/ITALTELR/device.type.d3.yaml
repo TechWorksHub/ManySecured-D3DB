@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 600f62e1-6645-4974-bdd2-a1a64a223413
+  mac-addresses:
+  - 00:01:5B:00:00:00/24
+  - 00:90:AE:00:00:00/24
+  manufacturer: ITALTEL S.p.A/RF-UP-I
+  manufacturer-uri: https://device-type.com
+  name: ITALTELR
+type: d3-device-type-assertion

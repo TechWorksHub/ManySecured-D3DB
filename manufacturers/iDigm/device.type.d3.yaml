@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ecb4685-67ec-475c-8739-404a4afd3ecb
+  mac-addresses:
+  - 00:01:11:00:00:00/24
+  manufacturer: iDigm Inc.
+  manufacturer-uri: https://device-type.com
+  name: iDigm
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: bc0f9213-1f5e-4d74-991c-c1ee5ad2d0d2
+  mac-addresses:
+  - 00:01:4C:00:00:00/24
+  - 00:0B:FF:00:00:00/24
+  - 00:E0:78:00:00:00/24
+  - 74:F8:5D:00:00:00/24
+  manufacturer: Berkeley Process Control
+  manufacturer-uri: https://device-type.com
+  name: Berkeley
+type: d3-device-type-assertion

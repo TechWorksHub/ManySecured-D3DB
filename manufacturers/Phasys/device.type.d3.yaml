@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 040138fe-5903-48e5-bb03-5165b7bd20d5
+  mac-addresses:
+  - 00:30:03:00:00:00/24
+  manufacturer: Phasys Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Phasys
+type: d3-device-type-assertion

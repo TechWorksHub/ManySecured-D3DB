@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60c2f84c-d6ee-4f3b-8135-dff864c940ea
+  mac-addresses:
+  - 00:22:8C:00:00:00/24
+  manufacturer: Photon Europe GmbH
+  manufacturer-uri: https://device-type.com
+  name: PhotonEu
+type: d3-device-type-assertion

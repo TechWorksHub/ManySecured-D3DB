@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a05635f6-ae60-42e6-a704-477e5cf2aaec
+  mac-addresses:
+  - 00:40:4C:00:00:00/24
+  - 50:62:55:30:00:00/28
+  manufacturer: Hypertec Pty Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Hypertec
+type: d3-device-type-assertion

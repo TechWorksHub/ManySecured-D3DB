@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8042277d-7ec1-4331-8c0a-425bc3cf13b1
+  mac-addresses:
+  - 00:50:C2:61:E0:00/36
+  - CC:3B:3E:00:00:00/24
+  manufacturer: Lester Electronics Ltd
+  manufacturer-uri: https://device-type.com
+  name: LesterEl
+type: d3-device-type-assertion

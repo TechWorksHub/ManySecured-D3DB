@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4b72119-de51-4b2f-aeab-f4985e2014ea
+  mac-addresses:
+  - 00:06:60:00:00:00/24
+  manufacturer: NADEX Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NADEX
+type: d3-device-type-assertion

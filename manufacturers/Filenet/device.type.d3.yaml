@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f5f297f-a6e9-4033-8b49-fc3c63076c19
+  mac-addresses:
+  - 08:00:34:00:00:00/24
+  manufacturer: Filenet Corporation
+  manufacturer-uri: https://device-type.com
+  name: Filenet
+type: d3-device-type-assertion

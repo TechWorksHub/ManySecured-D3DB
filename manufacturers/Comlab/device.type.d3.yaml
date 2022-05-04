@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d8dd653b-03ff-43ab-801b-c981d33358bd
+  mac-addresses:
+  - 00:50:C2:3D:60:00/36
+  - 8C:DE:99:00:00:00/24
+  - C8:8E:D1:40:00:00/28
+  manufacturer: Comlab Inc.
+  manufacturer-uri: https://device-type.com
+  name: Comlab
+type: d3-device-type-assertion

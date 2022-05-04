@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e66e6547-284b-4fea-975e-0ebadd9897ad
+  mac-addresses:
+  - 00:A0:BA:00:00:00/24
+  manufacturer: Patton Electronics Co.
+  manufacturer-uri: https://device-type.com
+  name: PattonEl
+type: d3-device-type-assertion

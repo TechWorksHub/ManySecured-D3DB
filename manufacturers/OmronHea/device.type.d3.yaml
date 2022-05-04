@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f3dcd31-14fa-4ef2-8f83-ca52acbf5582
+  mac-addresses:
+  - 00:22:09:00:00:00/24
+  manufacturer: Omron Healthcare Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: OmronHea
+type: d3-device-type-assertion

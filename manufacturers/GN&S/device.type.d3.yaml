@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ba67eae-cac3-4b27-aab1-6fc26c483e22
+  mac-addresses:
+  - 00:0F:F5:00:00:00/24
+  manufacturer: GN&S company
+  manufacturer-uri: https://device-type.com
+  name: GN&S
+type: d3-device-type-assertion

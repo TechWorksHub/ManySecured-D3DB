@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c3f35bd-4127-41a5-868b-9623f2cfa24b
+  mac-addresses:
+  - 00:16:3C:00:00:00/24
+  manufacturer: Rebox B.V.
+  manufacturer-uri: https://device-type.com
+  name: Rebox
+type: d3-device-type-assertion

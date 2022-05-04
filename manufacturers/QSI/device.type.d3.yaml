@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9aadfa6c-49d7-404b-91d6-32257ab2a040
+  mac-addresses:
+  - 00:03:B6:00:00:00/24
+  - 00:0A:2A:00:00:00/24
+  manufacturer: QSI Corporation
+  manufacturer-uri: https://device-type.com
+  name: QSI
+type: d3-device-type-assertion

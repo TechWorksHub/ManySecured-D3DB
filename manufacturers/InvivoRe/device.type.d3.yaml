@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2342479-e694-4eec-90b0-1db495523e20
+  mac-addresses:
+  - 00:0A:0E:00:00:00/24
+  manufacturer: Invivo Research Inc.
+  manufacturer-uri: https://device-type.com
+  name: InvivoRe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ea9a637-534b-43b2-90b6-05e5c0246f7d
+  mac-addresses:
+  - 30:EF:D1:00:00:00/24
+  manufacturer: Alstom Strongwish (Shenzhen) Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AlstomSt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cfcd34a-f267-4432-b0cd-f72ab5633cac
+  mac-addresses:
+  - 00:C0:75:00:00:00/24
+  manufacturer: Xante Corporation
+  manufacturer-uri: https://device-type.com
+  name: Xante
+type: d3-device-type-assertion

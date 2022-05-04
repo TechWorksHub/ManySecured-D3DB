@@ -1,0 +1,20 @@
+credentialSubject:
+  id: f4ee42e5-7245-445c-a409-8e13d5553817
+  mac-addresses:
+  - 00:0E:45:00:00:00/24
+  - 1C:9E:CB:00:00:00/24
+  - 30:09:F9:20:00:00/28
+  - 70:B3:D5:10:50:00/36
+  - 70:D0:81:00:00:00/24
+  - 84:AC:A4:00:00:00/24
+  - 8C:A0:48:00:00:00/24
+  - 90:B1:E0:00:00:00/24
+  - C0:27:B9:00:00:00/24
+  - C0:53:36:00:00:00/24
+  - C8:02:A6:00:00:00/24
+  - CC:10:A3:00:00:00/24
+  - CC:4F:5C:D0:00:00/28
+  manufacturer: Beijing Newtry Electronic Technology Ltd
+  manufacturer-uri: https://device-type.com
+  name: BeijingN
+type: d3-device-type-assertion

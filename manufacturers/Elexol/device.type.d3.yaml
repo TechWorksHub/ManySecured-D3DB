@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c60a8e5-b994-4a34-96b6-9db6018f6d88
+  mac-addresses:
+  - 00:11:BA:00:00:00/24
+  manufacturer: Elexol Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: Elexol
+type: d3-device-type-assertion

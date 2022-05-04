@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8a520cb-d233-477a-992c-1f95e330a49a
+  mac-addresses:
+  - DC:28:34:00:00:00/24
+  manufacturer: HAKKO Corporation
+  manufacturer-uri: https://device-type.com
+  name: HAKKO
+type: d3-device-type-assertion

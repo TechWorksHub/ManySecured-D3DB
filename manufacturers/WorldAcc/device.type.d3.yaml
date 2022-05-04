@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c732d16-2b12-49de-b290-89795dce5330
+  mac-addresses:
+  - 00:0F:26:00:00:00/24
+  manufacturer: WorldAccxx LLC
+  manufacturer-uri: https://device-type.com
+  name: WorldAcc
+type: d3-device-type-assertion

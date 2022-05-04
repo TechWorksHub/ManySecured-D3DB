@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bc542df-67ca-4a14-9579-262c70ae064f
+  mac-addresses:
+  - 00:25:E6:00:00:00/24
+  manufacturer: Belgian Monitoring Systems bvba
+  manufacturer-uri: https://device-type.com
+  name: BelgianM
+type: d3-device-type-assertion

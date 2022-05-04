@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c7c4fb9-9d55-4e14-a1fb-8c8ec8693cb5
+  mac-addresses:
+  - 00:80:DC:00:00:00/24
+  manufacturer: Picker International
+  manufacturer-uri: https://device-type.com
+  name: PickerIn
+type: d3-device-type-assertion

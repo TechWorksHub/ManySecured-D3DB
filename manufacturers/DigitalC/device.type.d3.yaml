@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 72be6aed-8dd7-4773-9439-6a19558128c2
+  mac-addresses:
+  - 00:03:0F:00:00:00/24
+  - 00:40:32:00:00:00/24
+  - 00:90:1B:00:00:00/24
+  - 14:49:78:00:00:00/24
+  - A4:9B:13:00:00:00/24
+  - D8:86:0B:90:00:00/28
+  manufacturer: Digital China (Shanghai) Networks Ltd.
+  manufacturer-uri: https://device-type.com
+  name: DigitalC
+type: d3-device-type-assertion

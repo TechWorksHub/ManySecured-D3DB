@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e6d2a9d-8a5e-4d54-86c4-4c33d9004c7f
+  mac-addresses:
+  - 00:50:C2:D7:D0:00/36
+  manufacturer: Voltech Instruments
+  manufacturer-uri: https://device-type.com
+  name: VoltechI
+type: d3-device-type-assertion

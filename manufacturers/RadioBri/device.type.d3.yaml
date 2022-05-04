@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fba04441-c426-48b9-9c32-d9a625912a5d
+  mac-addresses:
+  - 78:94:E8:00:00:00/24
+  manufacturer: Radio Bridge
+  manufacturer-uri: https://device-type.com
+  name: RadioBri
+type: d3-device-type-assertion

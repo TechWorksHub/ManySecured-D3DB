@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99b5bf25-cb5c-4df0-9f74-8c962328a81d
+  mac-addresses:
+  - 48:0B:B2:20:00:00/28
+  manufacturer: Thales CETCA Avionics CO., Ltd
+  manufacturer-uri: https://device-type.com
+  name: ThalesCE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1f38b67-b30e-429a-abb7-606ba9e214c2
+  mac-addresses:
+  - D0:BB:80:00:00:00/24
+  manufacturer: SHL Telemedicine International Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SHLTelem
+type: d3-device-type-assertion

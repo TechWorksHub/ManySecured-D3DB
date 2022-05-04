@@ -1,0 +1,12 @@
+credentialSubject:
+  id: ae3da800-74ec-4c68-bca1-6a2e73aa4462
+  mac-addresses:
+  - 00:0B:2E:00:00:00/24
+  - 00:1F:82:00:00:00/24
+  - 10:DC:B6:20:00:00/28
+  - 18:A5:9C:B0:00:00/28
+  - F0:21:9D:00:00:00/24
+  manufacturer: Cal-Comp Electronics & Communications Company Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Cal-Comp
+type: d3-device-type-assertion

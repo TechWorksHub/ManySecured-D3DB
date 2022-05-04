@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6015279e-8014-4a2c-8701-8fe2f096887c
+  mac-addresses:
+  - 00:50:C2:82:C0:00/36
+  - 00:50:C2:9C:40:00/36
+  - 00:50:C2:A7:D0:00/36
+  - 00:50:C2:BF:90:00/36
+  manufacturer: Vitel Net
+  manufacturer-uri: https://device-type.com
+  name: VitelNet
+type: d3-device-type-assertion

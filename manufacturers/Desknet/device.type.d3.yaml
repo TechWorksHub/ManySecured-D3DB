@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e9c062c-79e3-412b-8066-ca5d0d868c87
+  mac-addresses:
+  - 00:A0:8F:00:00:00/24
+  manufacturer: Desknet Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Desknet
+type: d3-device-type-assertion

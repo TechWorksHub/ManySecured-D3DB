@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7e9bb8da-6b83-4a9a-9355-aa0a684eb3dd
+  mac-addresses:
+  - 24:15:10:00:00:00/28
+  - 50:9A:46:00:00:00/24
+  manufacturer: Safetrust Inc
+  manufacturer-uri: https://device-type.com
+  name: Safetrus
+type: d3-device-type-assertion

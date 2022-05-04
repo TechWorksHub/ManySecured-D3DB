@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 99fc6ed7-f22d-488f-ae6e-3d05dd5bdbb8
+  mac-addresses:
+  - 00:1D:A8:00:00:00/24
+  - 50:D6:D7:00:00:00/24
+  manufacturer: Takahata Electronics Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Takahata
+type: d3-device-type-assertion

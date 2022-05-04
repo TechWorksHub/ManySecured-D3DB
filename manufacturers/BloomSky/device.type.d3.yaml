@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a02e0487-55eb-4189-b61c-abd4d74a4b48
+  mac-addresses:
+  - 40:ED:98:C0:00:00/28
+  manufacturer: BloomSky,Inc.
+  manufacturer-uri: https://device-type.com
+  name: BloomSky
+type: d3-device-type-assertion

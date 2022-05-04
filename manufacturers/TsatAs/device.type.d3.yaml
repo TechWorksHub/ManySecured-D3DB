@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e55eb5a9-4f06-4c5a-a7e4-ec4dccfe01c5
+  mac-addresses:
+  - 54:47:D3:00:00:00/24
+  - 70:B3:D5:0D:30:00/36
+  manufacturer: Tsat As
+  manufacturer-uri: https://device-type.com
+  name: TsatAs
+type: d3-device-type-assertion

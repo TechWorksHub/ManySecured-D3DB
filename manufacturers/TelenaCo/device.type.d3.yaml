@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b81bee7-7634-4197-ad3d-bea5778dec38
+  mac-addresses:
+  - 00:08:DD:00:00:00/24
+  manufacturer: Telena Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TelenaCo
+type: d3-device-type-assertion

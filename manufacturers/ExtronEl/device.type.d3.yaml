@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07398338-1e79-4581-82e7-5c825e3ff2d7
+  mac-addresses:
+  - 00:05:A6:00:00:00/24
+  manufacturer: Extron Electronics
+  manufacturer-uri: https://device-type.com
+  name: ExtronEl
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 96338faa-0f3b-4af9-822f-e84264a1cb8b
+  mac-addresses:
+  - 00:50:C2:14:10:00/36
+  - 00:50:C2:EB:B0:00/36
+  manufacturer: Time Terminal Adductor Group AB
+  manufacturer-uri: https://device-type.com
+  name: TimeTerm
+type: d3-device-type-assertion

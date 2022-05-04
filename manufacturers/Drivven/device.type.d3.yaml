@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1ad7303-a2fa-49f6-ba26-e2f41bc6a32a
+  mac-addresses:
+  - AC:61:23:00:00:00/24
+  manufacturer: Drivven, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Drivven
+type: d3-device-type-assertion

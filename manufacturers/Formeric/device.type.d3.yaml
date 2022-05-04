@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f00c63a-4bbb-4518-8970-41aadf800180
+  mac-addresses:
+  - 10:46:B4:00:00:00/24
+  manufacturer: FormericaOE
+  manufacturer-uri: https://device-type.com
+  name: Formeric
+type: d3-device-type-assertion

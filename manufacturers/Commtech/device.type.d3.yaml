@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bde0c7ea-8647-4858-9c21-779d178ffc07
+  mac-addresses:
+  - 00:04:FB:00:00:00/24
+  - 00:1F:D2:00:00:00/24
+  manufacturer: Commtech, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Commtech
+type: d3-device-type-assertion

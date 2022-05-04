@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03da3fee-5a3e-4725-b004-db09fe865f13
+  mac-addresses:
+  - 00:16:0D:00:00:00/24
+  manufacturer: Be Here Corporation
+  manufacturer-uri: https://device-type.com
+  name: BeHere
+type: d3-device-type-assertion

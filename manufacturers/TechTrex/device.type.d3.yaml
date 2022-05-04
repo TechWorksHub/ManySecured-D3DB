@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32513aaa-c886-4546-8255-3c41a025c60a
+  mac-addresses:
+  - 00:1D:8A:00:00:00/24
+  manufacturer: TechTrex Inc
+  manufacturer-uri: https://device-type.com
+  name: TechTrex
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65883578-938f-4eb5-94ca-2aba351ab1e4
+  mac-addresses:
+  - 00:1B:E4:00:00:00/24
+  manufacturer: Townet Srl
+  manufacturer-uri: https://device-type.com
+  name: Townet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a3c3fcb-91b0-45ae-af57-b0360e83604f
+  mac-addresses:
+  - 18:FD:CB:50:00:00/28
+  manufacturer: Accel Robotics
+  manufacturer-uri: https://device-type.com
+  name: AccelRob
+type: d3-device-type-assertion

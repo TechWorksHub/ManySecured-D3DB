@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ecf33acf-c1ca-43c4-9268-73c94db81bc2
+  mac-addresses:
+  - 14:9E:5D:00:00:00/24
+  manufacturer: JSC "IB Reform"
+  manufacturer-uri: https://device-type.com
+  name: IBReform
+type: d3-device-type-assertion

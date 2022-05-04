@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 65cb0726-d565-49b9-99d9-6c1ed4400641
+  mac-addresses:
+  - 00:26:B7:00:00:00/24
+  - 00:C0:F0:00:00:00/24
+  - E2:0C:0F:00:00:00/24
+  manufacturer: Kingston Technology Company, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Kingston
+type: d3-device-type-assertion

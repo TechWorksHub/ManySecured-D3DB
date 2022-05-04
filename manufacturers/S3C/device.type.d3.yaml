@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31dbfcf1-34b3-421a-bc77-f47cfe90a7f2
+  mac-addresses:
+  - 00:18:B6:00:00:00/24
+  manufacturer: S3C, Inc.
+  manufacturer-uri: https://device-type.com
+  name: S3C
+type: d3-device-type-assertion

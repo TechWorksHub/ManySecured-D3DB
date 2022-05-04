@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1df4ea5-d7f0-4523-9e64-04c954d76cfd
+  mac-addresses:
+  - 00:01:FF:00:00:00/24
+  manufacturer: Data Direct Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DataDire
+type: d3-device-type-assertion

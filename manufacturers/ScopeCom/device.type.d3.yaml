@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fdeac23-cc48-4707-8a41-dd44218fd6a4
+  mac-addresses:
+  - 00:C0:65:00:00:00/24
+  manufacturer: Scope Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ScopeCom
+type: d3-device-type-assertion

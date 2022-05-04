@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ee3b602-9ba0-4d6e-bc3b-053c5fd6bde1
+  mac-addresses:
+  - D4:93:A0:00:00:00/24
+  manufacturer: Fidelix Oy
+  manufacturer-uri: https://device-type.com
+  name: Fidelix
+type: d3-device-type-assertion

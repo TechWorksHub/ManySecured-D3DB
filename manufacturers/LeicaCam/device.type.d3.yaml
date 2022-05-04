@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09633c51-f1bf-45f1-8765-32344c89a7b8
+  mac-addresses:
+  - 8C:87:3B:00:00:00/24
+  manufacturer: Leica Camera AG
+  manufacturer-uri: https://device-type.com
+  name: LeicaCam
+type: d3-device-type-assertion

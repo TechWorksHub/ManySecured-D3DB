@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 22a9d563-ff7a-462d-9ca3-6853fd17cb1e
+  mac-addresses:
+  - 70:B3:D5:05:40:00/36
+  - F0:AC:D7:A0:00:00/28
+  manufacturer: Groupeer Technologies
+  manufacturer-uri: https://device-type.com
+  name: Groupeer
+type: d3-device-type-assertion

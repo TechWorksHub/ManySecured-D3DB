@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ceb585eb-b250-4dd9-afb5-b47cb71530c3
+  mac-addresses:
+  - 00:50:C2:53:90:00/36
+  - 00:50:C2:8F:10:00/36
+  manufacturer: Detection Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: Detectio
+type: d3-device-type-assertion

@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 386edd39-4fc9-40c4-8a1a-42595a2b7531
+  mac-addresses:
+  - 00:04:CF:00:00:00/24
+  - 00:0C:50:00:00:00/24
+  - 00:11:C6:00:00:00/24
+  - 00:14:C3:00:00:00/24
+  - 00:18:62:00:00:00/24
+  - 00:1D:38:00:00:00/24
+  - 00:20:37:00:00:00/24
+  - 00:24:B6:00:00:00/24
+  - B4:52:53:00:00:00/24
+  manufacturer: Seagate Technology
+  manufacturer-uri: https://device-type.com
+  name: SeagateT
+type: d3-device-type-assertion

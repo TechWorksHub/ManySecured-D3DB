@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64e07613-d7f1-437f-b7d3-4070f83ffeed
+  mac-addresses:
+  - 00:26:C4:00:00:00/24
+  manufacturer: Cadmos microsystems S.r.l.
+  manufacturer-uri: https://device-type.com
+  name: Cadmosmi
+type: d3-device-type-assertion

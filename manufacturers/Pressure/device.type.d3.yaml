@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1a82bc5-07e2-47cb-925b-d42cd142c2e1
+  mac-addresses:
+  - 00:E0:8D:00:00:00/24
+  manufacturer: Pressure Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Pressure
+type: d3-device-type-assertion

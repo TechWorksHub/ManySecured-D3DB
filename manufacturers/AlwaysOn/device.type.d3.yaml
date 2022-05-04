@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e7a81841-3bc5-4572-a3f8-df0f1e1a4f7a
+  mac-addresses:
+  - 00:13:06:00:00:00/24
+  - 00:50:C2:36:90:00/36
+  manufacturer: Always On Wireless
+  manufacturer-uri: https://device-type.com
+  name: AlwaysOn
+type: d3-device-type-assertion

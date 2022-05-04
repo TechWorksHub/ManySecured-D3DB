@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f7758d5-c1a0-4f22-84c3-aed3640499d9
+  mac-addresses:
+  - 00:00:2E:00:00:00/24
+  manufacturer: Societe Evira
+  manufacturer-uri: https://device-type.com
+  name: SocieteE
+type: d3-device-type-assertion

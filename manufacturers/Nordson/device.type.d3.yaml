@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f9e50f3a-70ad-4af6-bcff-4819b7088d16
+  mac-addresses:
+  - 00:50:C2:16:90:00/36
+  - 70:B3:D5:50:B0:00/36
+  - 70:B3:D5:83:00:00/36
+  - 70:B3:D5:FA:70:00/36
+  manufacturer: Nordson Corp.
+  manufacturer-uri: https://device-type.com
+  name: Nordson
+type: d3-device-type-assertion

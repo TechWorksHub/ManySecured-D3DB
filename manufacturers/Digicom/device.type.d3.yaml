@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ec7284d-2f94-45e6-b61c-2e23c5acb6a5
+  mac-addresses:
+  - 00:E0:EB:00:00:00/24
+  manufacturer: Digicom Systems, Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Digicom
+type: d3-device-type-assertion

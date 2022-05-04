@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1d86bcc-1a82-49fa-a606-a5353374da7b
+  mac-addresses:
+  - 88:D1:71:00:00:00/24
+  manufacturer: Beghelli S.P.A
+  manufacturer-uri: https://device-type.com
+  name: Beghelli
+type: d3-device-type-assertion

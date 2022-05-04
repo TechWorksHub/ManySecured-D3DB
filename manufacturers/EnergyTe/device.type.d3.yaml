@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6a419c3d-7fc8-457e-aa5c-39db2e88160b
+  mac-addresses:
+  - 40:D8:55:05:80:00/36
+  - 40:D8:55:1D:A0:00/36
+  manufacturer: Energy Team S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: EnergyTe
+type: d3-device-type-assertion

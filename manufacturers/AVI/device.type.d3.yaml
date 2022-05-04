@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 4c2a45da-4718-4f6d-867e-84abffc45b25
+  mac-addresses:
+  - 70:B3:D5:3E:20:00/36
+  - 70:B3:D5:79:00:00/36
+  - 9C:F6:DD:A0:00:00/28
+  - 9C:FF:C2:00:00:00/24
+  manufacturer: AVI Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: AVI
+type: d3-device-type-assertion

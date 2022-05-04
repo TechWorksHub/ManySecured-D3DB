@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c847423-5c85-4880-ab86-c8e6f2c97a4b
+  mac-addresses:
+  - 00:50:C2:5C:F0:00/36
+  manufacturer: Innomed Medical Inc
+  manufacturer-uri: https://device-type.com
+  name: InnomedM
+type: d3-device-type-assertion

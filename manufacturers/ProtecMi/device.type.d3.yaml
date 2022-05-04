@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4de5b20-7b58-4926-87c5-6a6bcffec418
+  mac-addresses:
+  - 00:20:64:00:00:00/24
+  manufacturer: Protec Microsystems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ProtecMi
+type: d3-device-type-assertion

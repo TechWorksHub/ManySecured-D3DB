@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 76b301f3-52d6-4dbe-8b6d-f5a2bbce36fa
+  mac-addresses:
+  - 00:24:74:00:00:00/24
+  - 00:50:C2:4F:30:00/36
+  manufacturer: Autronica Fire And Securirty
+  manufacturer-uri: https://device-type.com
+  name: Autronic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fef8a3d-1b59-4fa8-8db6-986ae0ab94a8
+  mac-addresses:
+  - 00:21:83:00:00:00/24
+  manufacturer: ANDRITZ HYDRO GmbH
+  manufacturer-uri: https://device-type.com
+  name: ANDRITZH
+type: d3-device-type-assertion

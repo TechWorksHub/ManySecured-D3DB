@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0adb128a-51d0-477f-89aa-acdb653b53e4
+  mac-addresses:
+  - 70:B3:D5:01:A0:00/36
+  - D8:20:9F:00:00:00/24
+  manufacturer: Cubro Acronet GesmbH
+  manufacturer-uri: https://device-type.com
+  name: CubroAcr
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f5df1574-a7df-4e87-b774-89f94c108522
+  mac-addresses:
+  - 00:A0:45:00:00:00/24
+  - A8:74:1D:00:00:00/24
+  manufacturer: PHOENIX CONTACT Electronics GmbH
+  manufacturer-uri: https://device-type.com
+  name: PHOENIXC
+type: d3-device-type-assertion

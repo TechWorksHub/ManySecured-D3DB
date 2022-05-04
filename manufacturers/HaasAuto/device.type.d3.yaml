@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9e7f1cc-94d0-436e-9f1b-dc2bfa1ec3a1
+  mac-addresses:
+  - 00:1E:BF:00:00:00/24
+  manufacturer: Haas Automation Inc.
+  manufacturer-uri: https://device-type.com
+  name: HaasAuto
+type: d3-device-type-assertion

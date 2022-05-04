@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f641edbd-6c48-40e1-9ff8-7fe953639da7
+  mac-addresses:
+  - 00:01:BC:00:00:00/24
+  manufacturer: Brains Corporation
+  manufacturer-uri: https://device-type.com
+  name: Brains
+type: d3-device-type-assertion

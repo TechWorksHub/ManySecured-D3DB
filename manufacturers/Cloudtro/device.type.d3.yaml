@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc256ac4-0e6a-4d50-82c0-c2162763b269
+  mac-addresses:
+  - 2C:CE:1E:00:00:00/24
+  manufacturer: Cloudtronics Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: Cloudtro
+type: d3-device-type-assertion

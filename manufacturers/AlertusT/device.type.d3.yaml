@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6adf105-8104-465e-9202-813f93f21b24
+  mac-addresses:
+  - 00:1D:97:00:00:00/24
+  manufacturer: Alertus Technologies LLC
+  manufacturer-uri: https://device-type.com
+  name: AlertusT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05d5fd48-5f03-4583-96f2-f52f57af70f8
+  mac-addresses:
+  - 00:40:67:00:00:00/24
+  manufacturer: Omnibyte Corporation
+  manufacturer-uri: https://device-type.com
+  name: Omnibyte
+type: d3-device-type-assertion

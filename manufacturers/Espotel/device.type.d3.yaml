@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca16b87d-9533-4262-83bf-38e1e6ef8d6e
+  mac-addresses:
+  - 28:CD:1C:00:00:00/24
+  manufacturer: Espotel Oy
+  manufacturer-uri: https://device-type.com
+  name: Espotel
+type: d3-device-type-assertion

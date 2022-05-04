@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c3f5e86a-99b1-4632-aa8e-a8cc1c4352ad
+  mac-addresses:
+  - 00:1B:5E:00:00:00/24
+  manufacturer: BPL Limited
+  manufacturer-uri: https://device-type.com
+  name: BPL
+type: d3-device-type-assertion

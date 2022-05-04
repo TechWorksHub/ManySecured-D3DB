@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aa922452-4cab-46c9-8283-caa0896ca348
+  mac-addresses:
+  - 00:40:8D:00:00:00/24
+  - 7C:E1:52:00:00:00/24
+  manufacturer: The Goodyear Tire & Rubber Co.
+  manufacturer-uri: https://device-type.com
+  name: Goodyear
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1874a64-c046-4550-a055-cfe472a63ad6
+  mac-addresses:
+  - 08:00:64:00:00:00/24
+  manufacturer: Sitasys AG
+  manufacturer-uri: https://device-type.com
+  name: Sitasys
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d56ab854-6f09-4ea0-b6d8-b676db31bea2
+  mac-addresses:
+  - 00:0D:9C:00:00:00/24
+  - 14:C3:C2:00:00:00/24
+  manufacturer: K.A. Schmersal GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: KASchmer
+type: d3-device-type-assertion

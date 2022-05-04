@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51b6c6aa-a6cb-4765-b9c5-33a77d82e5de
+  mac-addresses:
+  - 00:30:04:00:00:00/24
+  manufacturer: Leadtek Research Inc.
+  manufacturer-uri: https://device-type.com
+  name: LeadtekR
+type: d3-device-type-assertion

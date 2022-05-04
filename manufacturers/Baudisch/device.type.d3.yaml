@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 8e1e173d-8042-4d74-8aed-7cfd91ede7e9
+  mac-addresses:
+  - 00:50:C2:29:F0:00/36
+  - 00:50:C2:A1:60:00/36
+  - 00:50:C2:CF:40:00/36
+  - 00:50:C2:E3:D0:00/36
+  - 00:50:C2:F9:30:00/36
+  - 40:D8:55:0A:80:00/36
+  - 74:19:F8:60:00:00/28
+  manufacturer: Baudisch Electronic GmbH
+  manufacturer-uri: https://device-type.com
+  name: Baudisch
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eaefc429-c946-40dd-bda3-ac669b63252e
+  mac-addresses:
+  - 00:01:70:00:00:00/24
+  manufacturer: ESE Embedded System Engineer'g
+  manufacturer-uri: https://device-type.com
+  name: ESEEmbed
+type: d3-device-type-assertion

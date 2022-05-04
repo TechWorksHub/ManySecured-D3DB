@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3d32025d-2e8d-484e-860b-903ef3edd859
+  mac-addresses:
+  - 00:15:49:00:00:00/24
+  - 00:50:C2:24:80:00/36
+  manufacturer: Dixtal Biomedica Ind. Com. Ltda
+  manufacturer-uri: https://device-type.com
+  name: DixtalBi
+type: d3-device-type-assertion

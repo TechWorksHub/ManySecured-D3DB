@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a1f76d07-27d7-409e-ade2-dfa2bac8437a
+  mac-addresses:
+  - 00:26:0F:00:00:00/24
+  - 00:50:C2:21:70:00/36
+  manufacturer: Linn Products Ltd
+  manufacturer-uri: https://device-type.com
+  name: LinnProd
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6bb5487-8d96-4ea2-a616-e8cb7982de1c
+  mac-addresses:
+  - DC:E5:33:60:00:00/28
+  manufacturer: WECAN Solution Inc.
+  manufacturer-uri: https://device-type.com
+  name: WECANSol
+type: d3-device-type-assertion

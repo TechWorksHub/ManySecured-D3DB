@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 7d067d3e-ed69-46ce-98c6-fb416c25f8ce
+  mac-addresses:
+  - 00:00:C0:00:00:00/24
+  - 00:09:D3:00:00:00/24
+  - 00:14:EE:00:00:00/24
+  - 00:90:A9:00:00:00/24
+  - C0:00:00:00:00:00/24
+  manufacturer: Western Digital now SMC (Std. Microsystems Corp.)
+  manufacturer-uri: https://device-type.com
+  name: WesternD
+type: d3-device-type-assertion

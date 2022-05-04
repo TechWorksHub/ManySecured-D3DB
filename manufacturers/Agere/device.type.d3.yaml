@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5316904d-0590-4ca7-bb36-32216f22aeb0
+  mac-addresses:
+  - 00:02:2D:00:00:00/24
+  - 00:05:3D:00:00:00/24
+  manufacturer: Agere Systems
+  manufacturer-uri: https://device-type.com
+  name: Agere
+type: d3-device-type-assertion

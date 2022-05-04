@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c003f15-d18d-4d4a-9985-d5b941094b8d
+  mac-addresses:
+  - 00:12:73:00:00:00/24
+  manufacturer: Stoke Inc
+  manufacturer-uri: https://device-type.com
+  name: Stoke
+type: d3-device-type-assertion

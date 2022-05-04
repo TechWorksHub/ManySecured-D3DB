@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc687f61-6509-469b-b82f-4ea585b26545
+  mac-addresses:
+  - 00:50:C2:A5:70:00/36
+  - 78:7A:6F:00:00:00/24
+  manufacturer: Juice Technologies, LLC
+  manufacturer-uri: https://device-type.com
+  name: JuiceTec
+type: d3-device-type-assertion

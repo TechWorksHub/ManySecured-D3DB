@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6ed1aa6-b697-4057-a4de-be5802c0750a
+  mac-addresses:
+  - A0:B8:F8:00:00:00/24
+  manufacturer: Amgen U.S.A. Inc.
+  manufacturer-uri: https://device-type.com
+  name: AmgenU
+type: d3-device-type-assertion

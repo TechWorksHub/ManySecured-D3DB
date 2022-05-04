@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc888390-a1d2-4fc9-8390-43c1e15cff68
+  mac-addresses:
+  - 00:05:34:00:00:00/24
+  - 00:21:DD:00:00:00/24
+  manufacturer: Northstar Engineering Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Northsta
+type: d3-device-type-assertion

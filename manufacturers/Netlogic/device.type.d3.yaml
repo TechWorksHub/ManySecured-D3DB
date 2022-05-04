@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bac6e02-8606-4900-b694-5e66ad6ee379
+  mac-addresses:
+  - 18:B3:BA:00:00:00/24
+  manufacturer: Netlogic AB
+  manufacturer-uri: https://device-type.com
+  name: Netlogic
+type: d3-device-type-assertion

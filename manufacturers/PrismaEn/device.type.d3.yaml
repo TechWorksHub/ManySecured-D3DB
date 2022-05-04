@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 021c6baa-1dda-4c56-b723-11eeceb62052
+  mac-addresses:
+  - 00:50:C2:62:A0:00/36
+  - 40:D8:55:1D:40:00/36
+  manufacturer: Prisma Engineering srl
+  manufacturer-uri: https://device-type.com
+  name: PrismaEn
+type: d3-device-type-assertion

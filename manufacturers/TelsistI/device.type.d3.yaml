@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b383798-98b8-4a3b-a044-4ae2fefb444f
+  mac-addresses:
+  - 00:00:1E:00:00:00/24
+  manufacturer: Telsist Industria Electronica
+  manufacturer-uri: https://device-type.com
+  name: TelsistI
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 41b36482-a209-4ad4-901d-981d6d8be863
+  mac-addresses:
+  - 00:05:D6:00:00:00/24
+  - 00:0B:7A:00:00:00/24
+  manufacturer: L-3 Linkabit
+  manufacturer-uri: https://device-type.com
+  name: L-3Linka
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42cab322-beaf-4ff2-9f15-53b999c9ccf7
+  mac-addresses:
+  - 00:07:20:00:00:00/24
+  manufacturer: Trutzschler GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: Trutzsch
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5f21ab2-5af7-4a20-8183-30d3746d15c1
+  mac-addresses:
+  - 00:C0:6C:00:00:00/24
+  manufacturer: Svec Computer Corp.
+  manufacturer-uri: https://device-type.com
+  name: SvecComp
+type: d3-device-type-assertion

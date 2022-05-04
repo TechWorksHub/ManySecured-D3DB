@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b3a71583-d3cb-4d62-9c9f-c7136bc9c02c
+  mac-addresses:
+  - 00:0B:0B:00:00:00/24
+  manufacturer: Corrent Corporation
+  manufacturer-uri: https://device-type.com
+  name: Corrent
+type: d3-device-type-assertion

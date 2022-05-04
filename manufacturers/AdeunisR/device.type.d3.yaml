@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1e24ded-a646-4fad-8f45-a02a32a3dcfe
+  mac-addresses:
+  - 00:18:B2:00:00:00/24
+  manufacturer: Adeunis Rf
+  manufacturer-uri: https://device-type.com
+  name: AdeunisR
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27b065c3-a6c3-408a-a9e4-0db93f12f456
+  mac-addresses:
+  - 00:18:5F:00:00:00/24
+  manufacturer: TAC Inc.
+  manufacturer-uri: https://device-type.com
+  name: TAC
+type: d3-device-type-assertion

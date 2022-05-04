@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fc32c11b-0d7c-4a84-b7c9-a4ecd8e4c369
+  mac-addresses:
+  - 00:50:C2:BF:B0:00/36
+  - 70:B3:D5:48:70:00/36
+  manufacturer: ECS Srl
+  manufacturer-uri: https://device-type.com
+  name: ECS
+type: d3-device-type-assertion

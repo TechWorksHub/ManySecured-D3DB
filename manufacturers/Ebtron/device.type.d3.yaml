@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88e5274c-36ee-4b4c-9cb7-6ae6c2ab8052
+  mac-addresses:
+  - 00:0C:A9:00:00:00/24
+  manufacturer: Ebtron Inc.
+  manufacturer-uri: https://device-type.com
+  name: Ebtron
+type: d3-device-type-assertion

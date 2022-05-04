@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1fef343-8b7f-4ea6-917f-be3b9b6075c7
+  mac-addresses:
+  - 00:0F:DF:00:00:00/24
+  manufacturer: SOLOMON Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: SOLOMONT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55b0b5d3-2fab-44f0-9eff-56d6e3f69a47
+  mac-addresses:
+  - 00:0E:A1:00:00:00/24
+  manufacturer: Formosa Teletek Corporation
+  manufacturer-uri: https://device-type.com
+  name: FormosaT
+type: d3-device-type-assertion

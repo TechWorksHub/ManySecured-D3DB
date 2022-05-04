@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3b9897e3-39e0-4265-ad50-914c0addb1e1
+  mac-addresses:
+  - 2C:27:9E:90:00:00/28
+  - 70:B3:D5:EF:30:00/36
+  manufacturer: octoScope, Inc.
+  manufacturer-uri: https://device-type.com
+  name: octoScop
+type: d3-device-type-assertion

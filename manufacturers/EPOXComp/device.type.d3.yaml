@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c711cb7d-8060-4f67-9b3e-90d23d15b17a
+  mac-addresses:
+  - 00:04:61:00:00:00/24
+  manufacturer: EPOX Computer Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: EPOXComp
+type: d3-device-type-assertion

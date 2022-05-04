@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 92d4af39-af36-47d8-a907-5654fd3d0cd8
+  mac-addresses:
+  - 00:80:F3:00:00:00/24
+  - 70:B3:D5:D8:20:00/36
+  manufacturer: Sun Electronics Corp.
+  manufacturer-uri: https://device-type.com
+  name: SunElect
+type: d3-device-type-assertion

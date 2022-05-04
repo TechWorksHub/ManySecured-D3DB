@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b0920e5f-c66b-488c-99aa-224322e797d1
+  mac-addresses:
+  - 00:10:AF:00:00:00/24
+  - 00:50:06:00:00:00/24
+  manufacturer: Tac Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Tac
+type: d3-device-type-assertion

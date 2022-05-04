@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 247e48ca-5be5-452b-9883-4319eda7cdc4
+  mac-addresses:
+  - 00:C0:52:00:00:00/24
+  manufacturer: Burr-Brown
+  manufacturer-uri: https://device-type.com
+  name: Burr-Bro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f06e327-d338-4eb7-beab-37fb7d864fa4
+  mac-addresses:
+  - 00:10:DF:00:00:00/24
+  manufacturer: Rise Computer Inc.
+  manufacturer-uri: https://device-type.com
+  name: RiseComp
+type: d3-device-type-assertion

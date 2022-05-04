@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6ab0b86b-cf31-4d01-9244-f3537e961849
+  mac-addresses:
+  - 00:17:3C:00:00:00/24
+  - 00:50:C2:27:50:00/36
+  manufacturer: Extreme Engineering Solutions
+  manufacturer-uri: https://device-type.com
+  name: ExtremeE
+type: d3-device-type-assertion

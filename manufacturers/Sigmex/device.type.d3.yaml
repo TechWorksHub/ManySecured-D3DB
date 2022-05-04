@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c091b823-dd3c-42b6-9139-2829dd013e8b
+  mac-addresses:
+  - 00:00:E5:00:00:00/24
+  manufacturer: Sigmex Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Sigmex
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 829ed37a-8d8c-4f59-8859-df5add1a1a4c
+  mac-addresses:
+  - 00:08:E8:00:00:00/24
+  manufacturer: Excel Master Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ExcelMas
+type: d3-device-type-assertion

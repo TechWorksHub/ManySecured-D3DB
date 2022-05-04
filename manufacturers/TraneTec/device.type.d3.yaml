@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04087feb-327d-4948-9d43-97c5d25fd99d
+  mac-addresses:
+  - FC:71:FA:00:00:00/24
+  manufacturer: Trane Technologies
+  manufacturer-uri: https://device-type.com
+  name: TraneTec
+type: d3-device-type-assertion

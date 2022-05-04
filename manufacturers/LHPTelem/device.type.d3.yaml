@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1f2d221-c17d-42f4-a809-a65d716f32a8
+  mac-addresses:
+  - 4C:DD:7D:00:00:00/24
+  manufacturer: LHP Telematics LLC
+  manufacturer-uri: https://device-type.com
+  name: LHPTelem
+type: d3-device-type-assertion

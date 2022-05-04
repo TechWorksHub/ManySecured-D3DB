@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0af2ef24-ba2f-4486-8fa1-c08ed9c6d93a
+  mac-addresses:
+  - 00:00:0B:00:00:00/24
+  - 00:1A:00:00:00:00/24
+  manufacturer: Matrix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Matrix
+type: d3-device-type-assertion

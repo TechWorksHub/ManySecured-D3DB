@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 15da7b1b-0b00-406e-9020-ba48eb8ef0cb
+  mac-addresses:
+  - 00:10:D0:00:00:00/24
+  - 70:B3:D5:43:40:00/36
+  manufacturer: Witcom, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Witcom
+type: d3-device-type-assertion

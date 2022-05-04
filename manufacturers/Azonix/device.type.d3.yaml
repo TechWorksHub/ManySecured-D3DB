@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b09209f-945f-4270-9f5c-785ebcec77e0
+  mac-addresses:
+  - 00:A0:DD:00:00:00/24
+  manufacturer: Azonix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Azonix
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0832e8c0-db8d-4007-ad1a-3d4d89f291df
+  mac-addresses:
+  - 00:08:00:00:00:00/24
+  - 00:80:00:00:00:00/24
+  manufacturer: Multitech Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Multitec
+type: d3-device-type-assertion

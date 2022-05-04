@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ef20885-773d-45ff-baf9-48f61766d286
+  mac-addresses:
+  - 00:A0:AC:00:00:00/24
+  manufacturer: Gilat Satellite Networks, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GilatSat
+type: d3-device-type-assertion

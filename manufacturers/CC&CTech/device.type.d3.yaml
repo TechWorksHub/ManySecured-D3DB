@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f257c642-6401-4582-bf1d-4b006485d11e
+  mac-addresses:
+  - 00:02:72:00:00:00/24
+  - 5C:F3:70:00:00:00/24
+  manufacturer: CC&C Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CC&CTech
+type: d3-device-type-assertion

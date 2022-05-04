@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8f61cf6-0e31-4ed7-91a5-9fe192921606
+  mac-addresses:
+  - 00:0E:63:00:00:00/24
+  manufacturer: Lemke Diagnostics GmbH
+  manufacturer-uri: https://device-type.com
+  name: LemkeDia
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a999cb95-93da-4e7c-991f-a611786a26d2
+  mac-addresses:
+  - 00:0C:F6:00:00:00/24
+  - 64:D1:A3:00:00:00/24
+  manufacturer: Sitecom Europe BV
+  manufacturer-uri: https://device-type.com
+  name: SitecomE
+type: d3-device-type-assertion

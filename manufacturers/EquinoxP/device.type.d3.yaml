@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f80b454a-1a99-4324-a312-56311370731c
+  mac-addresses:
+  - 64:54:22:00:00:00/24
+  manufacturer: Equinox Payments
+  manufacturer-uri: https://device-type.com
+  name: EquinoxP
+type: d3-device-type-assertion

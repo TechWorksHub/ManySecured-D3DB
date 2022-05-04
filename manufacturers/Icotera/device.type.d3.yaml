@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 95de2e94-e355-4232-acfb-1753972c9530
+  mac-addresses:
+  - 00:0F:15:00:00:00/24
+  - 00:1E:80:00:00:00/24
+  - 4C:C4:49:00:00:00/24
+  manufacturer: Icotera A/S
+  manufacturer-uri: https://device-type.com
+  name: Icotera
+type: d3-device-type-assertion

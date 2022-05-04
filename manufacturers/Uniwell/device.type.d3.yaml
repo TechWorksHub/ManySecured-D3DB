@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 386d37ea-1b6c-4c7a-9438-01fba8c5626b
+  mac-addresses:
+  - 00:0F:C2:00:00:00/24
+  manufacturer: Uniwell Corporation
+  manufacturer-uri: https://device-type.com
+  name: Uniwell
+type: d3-device-type-assertion

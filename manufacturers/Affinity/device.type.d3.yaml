@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8faf1bf6-6dac-429c-8a1b-c1644403d26f
+  mac-addresses:
+  - 00:1B:04:00:00:00/24
+  manufacturer: Affinity International S.p.a
+  manufacturer-uri: https://device-type.com
+  name: Affinity
+type: d3-device-type-assertion

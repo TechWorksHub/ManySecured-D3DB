@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf157931-33e2-4c2e-80de-6f06c48b0d5e
+  mac-addresses:
+  - 00:12:40:00:00:00/24
+  manufacturer: Amoi Electronics Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: AmoiElec
+type: d3-device-type-assertion

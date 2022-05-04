@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0f109a27-7304-4a0b-9f95-81c1522578c4
+  mac-addresses:
+  - 00:50:C2:35:80:00/36
+  - 34:FC:6F:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Alcea
+type: d3-device-type-assertion

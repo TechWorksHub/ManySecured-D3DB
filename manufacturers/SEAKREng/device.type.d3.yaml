@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbedb313-e645-4ccf-a8f9-c64a03e61199
+  mac-addresses:
+  - 00:02:F8:00:00:00/24
+  manufacturer: SEAKR Engineering, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SEAKREng
+type: d3-device-type-assertion

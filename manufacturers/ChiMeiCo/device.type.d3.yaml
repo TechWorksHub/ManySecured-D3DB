@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a61523fb-7d73-4c7f-9ad1-5039272f54c0
+  mac-addresses:
+  - 00:11:94:00:00:00/24
+  - CC:F3:A5:00:00:00/24
+  manufacturer: Chi Mei Communication Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ChiMeiCo
+type: d3-device-type-assertion

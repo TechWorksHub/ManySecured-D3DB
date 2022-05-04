@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 36e9c06e-8f72-4860-801f-3fc67765893b
+  mac-addresses:
+  - 00:15:36:00:00:00/24
+  - 68:5B:36:00:00:00/24
+  manufacturer: Powertech co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Powertec
+type: d3-device-type-assertion

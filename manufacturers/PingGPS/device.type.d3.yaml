@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d9e01d1-feeb-4f7c-8ce8-3b6a2037c7fb
+  mac-addresses:
+  - 38:73:EA:70:00:00/28
+  manufacturer: PingGPS Inc
+  manufacturer-uri: https://device-type.com
+  name: PingGPS
+type: d3-device-type-assertion

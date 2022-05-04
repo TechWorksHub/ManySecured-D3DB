@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4a7ad2c-b685-49bb-b23a-4b235e6d204c
+  mac-addresses:
+  - 08:00:4A:00:00:00/24
+  manufacturer: Banyan Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Banyan
+type: d3-device-type-assertion

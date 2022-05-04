@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64fb2a1b-cf0f-4e15-a742-a784b136ef0d
+  mac-addresses:
+  - 04:0A:E0:00:00:00/24
+  manufacturer: Xmit Ag Computer Networks
+  manufacturer-uri: https://device-type.com
+  name: XmitComp
+type: d3-device-type-assertion

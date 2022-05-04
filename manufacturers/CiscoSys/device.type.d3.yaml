@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 9a4291aa-867d-4e41-99a7-fe70731265e2
+  mac-addresses:
+  - 00:10:07:00:00:00/24
+  - 00:10:0D:00:00:00/24
+  - 00:10:11:00:00:00/24
+  - 00:10:1F:00:00:00/24
+  - 00:10:29:00:00:00/24
+  - 00:10:2F:00:00:00/24
+  - 00:E0:8F:00:00:00/24
+  - 00:E0:A3:00:00:00/24
+  - 00:E0:B0:00:00:00/24
+  manufacturer: Cisco Systems
+  manufacturer-uri: https://device-type.com
+  name: CiscoSys
+type: d3-device-type-assertion

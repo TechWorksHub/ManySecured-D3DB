@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ef487930-6250-4ea4-ab91-3dbe44847ffb
+  mac-addresses:
+  - A0:77:51:00:00:00/24
+  - CA:1E:45:00:00:00/24
+  manufacturer: ASMedia Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: ASMediaT
+type: d3-device-type-assertion

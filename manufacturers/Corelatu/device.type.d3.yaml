@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8a39a08b-2be9-4e52-a493-7a59b85c76b5
+  mac-addresses:
+  - 00:1A:AC:00:00:00/24
+  - 00:50:C2:10:00:00/36
+  manufacturer: Corelatus AB
+  manufacturer-uri: https://device-type.com
+  name: Corelatu
+type: d3-device-type-assertion

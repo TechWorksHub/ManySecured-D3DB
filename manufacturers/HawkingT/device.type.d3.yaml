@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd366a26-e486-4781-a79f-f20c1a9fa8e0
+  mac-addresses:
+  - 00:0E:3B:00:00:00/24
+  manufacturer: Hawking Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HawkingT
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 155ddd84-6199-4de0-b1af-236a973006a3
+  mac-addresses:
+  - 00:26:2F:00:00:00/24
+  - 00:90:06:00:00:00/24
+  - 8C:1F:64:67:F0:00/36
+  manufacturer: Hamamatsu Toa Electronics
+  manufacturer-uri: https://device-type.com
+  name: Hamamats
+type: d3-device-type-assertion

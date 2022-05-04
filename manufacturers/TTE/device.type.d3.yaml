@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cef3e0e3-bc8a-4ee5-8c56-9f14e8a92b39
+  mac-addresses:
+  - 34:93:42:00:00:00/24
+  manufacturer: TTE Corporation
+  manufacturer-uri: https://device-type.com
+  name: TTE
+type: d3-device-type-assertion

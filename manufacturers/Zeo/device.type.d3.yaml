@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 2b913400-71f3-4317-a748-10254cabb5cc
+  mac-addresses:
+  - 4C:98:EF:00:00:00/24
+  - 70:B3:D5:07:A0:00/36
+  - 70:B3:D5:08:30:00/36
+  - 70:B3:D5:61:90:00/36
+  - 70:B3:D5:B4:30:00/36
+  - 70:B3:D5:B6:00:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Zeo
+type: d3-device-type-assertion

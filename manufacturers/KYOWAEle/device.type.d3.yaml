@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4f73e013-c053-45fd-a0e7-5e331c6b658e
+  mac-addresses:
+  - 00:01:33:00:00:00/24
+  - 00:12:90:00:00:00/24
+  manufacturer: KYOWA Electronic Instruments C
+  manufacturer-uri: https://device-type.com
+  name: KYOWAEle
+type: d3-device-type-assertion

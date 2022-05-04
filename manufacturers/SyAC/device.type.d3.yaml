@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb893c5d-1c2d-4e26-bd1d-a9e44d931c0d
+  mac-addresses:
+  - 00:0B:65:00:00:00/24
+  manufacturer: Sy.A.C. srl
+  manufacturer-uri: https://device-type.com
+  name: SyAC
+type: d3-device-type-assertion

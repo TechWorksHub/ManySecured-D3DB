@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad1cb8c1-087d-40b2-9825-e0fe1aa1b8b9
+  mac-addresses:
+  - 00:26:F5:00:00:00/24
+  manufacturer: XRPLUS Inc.
+  manufacturer-uri: https://device-type.com
+  name: XRPLUS
+type: d3-device-type-assertion

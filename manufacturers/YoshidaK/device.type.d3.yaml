@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d7b8645-0f05-478f-8663-86f79b94154f
+  mac-addresses:
+  - 00:40:59:00:00:00/24
+  manufacturer: Yoshida Kogyo K. K.
+  manufacturer-uri: https://device-type.com
+  name: YoshidaK
+type: d3-device-type-assertion

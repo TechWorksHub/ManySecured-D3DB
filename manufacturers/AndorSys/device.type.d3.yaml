@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e731faf-0060-4de8-8532-a838123295a1
+  mac-addresses:
+  - 00:1E:88:00:00:00/24
+  manufacturer: Andor System Support Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AndorSys
+type: d3-device-type-assertion

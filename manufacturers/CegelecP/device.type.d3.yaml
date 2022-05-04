@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 706f6f54-6726-4503-9b69-875a4fc83062
+  mac-addresses:
+  - 00:80:6C:00:00:00/24
+  manufacturer: Cegelec Projects Ltd
+  manufacturer-uri: https://device-type.com
+  name: CegelecP
+type: d3-device-type-assertion

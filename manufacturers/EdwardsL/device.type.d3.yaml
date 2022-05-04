@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86f1a19d-75cd-42fe-ac5b-c0f8ad46764d
+  mac-addresses:
+  - 70:41:B7:00:00:00/24
+  manufacturer: Edwards Lifesciences LLC
+  manufacturer-uri: https://device-type.com
+  name: EdwardsL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 62fab27e-bf6c-4a69-9d6c-984b68d12b79
+  mac-addresses:
+  - 00:A0:7B:00:00:00/24
+  manufacturer: Dawn Computer Incorporation
+  manufacturer-uri: https://device-type.com
+  name: DawnComp
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d6959c6-7869-4250-bba9-09b724f9d945
+  mac-addresses:
+  - 00:05:C7:00:00:00/24
+  manufacturer: I/F-Com A/S
+  manufacturer-uri: https://device-type.com
+  name: IF-Com
+type: d3-device-type-assertion

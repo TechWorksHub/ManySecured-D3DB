@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1f5b8ff-257b-4c1c-af53-79f8b5df1b93
+  mac-addresses:
+  - F4:9C:12:00:00:00/24
+  manufacturer: Structab AB
+  manufacturer-uri: https://device-type.com
+  name: Structab
+type: d3-device-type-assertion

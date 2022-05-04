@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d79f56f0-b9e2-4c34-86d9-c38263bf2218
+  mac-addresses:
+  - 00:50:C2:17:10:00/36
+  - 40:D8:55:0A:00:00/36
+  - 60:D7:E3:D0:00:00/28
+  manufacturer: Quantronix, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Quantron
+type: d3-device-type-assertion

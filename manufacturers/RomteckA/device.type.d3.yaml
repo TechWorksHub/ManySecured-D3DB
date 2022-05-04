@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6200cfd6-2f36-4a48-a8a5-6ef85f80a499
+  mac-addresses:
+  - 70:B3:D5:39:40:00/36
+  - 70:B3:D5:79:10:00/36
+  manufacturer: Romteck Australia
+  manufacturer-uri: https://device-type.com
+  name: RomteckA
+type: d3-device-type-assertion

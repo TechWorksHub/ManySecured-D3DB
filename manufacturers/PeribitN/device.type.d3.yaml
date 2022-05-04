@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3112231a-9749-40ea-8061-69b4dd56c4bf
+  mac-addresses:
+  - 00:0F:5A:00:00:00/24
+  manufacturer: Peribit Networks
+  manufacturer-uri: https://device-type.com
+  name: PeribitN
+type: d3-device-type-assertion

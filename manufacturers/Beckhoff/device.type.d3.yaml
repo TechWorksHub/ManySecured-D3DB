@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f562a1c1-cd29-4440-9d24-283e76f27760
+  mac-addresses:
+  - 00:01:05:00:00:00/24
+  manufacturer: Beckhoff Automation GmbH
+  manufacturer-uri: https://device-type.com
+  name: Beckhoff
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fba14c0b-bca6-485c-837c-694802972ce4
+  mac-addresses:
+  - 00:A5:09:00:00:00/24
+  manufacturer: WigWag Inc.
+  manufacturer-uri: https://device-type.com
+  name: WigWag
+type: d3-device-type-assertion

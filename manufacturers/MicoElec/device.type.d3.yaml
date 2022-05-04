@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f09a6f6a-d585-4138-b879-15105675954f
+  mac-addresses:
+  - 00:12:98:00:00:00/24
+  manufacturer: Mico Electric(Shenzhen) Limited
+  manufacturer-uri: https://device-type.com
+  name: MicoElec
+type: d3-device-type-assertion

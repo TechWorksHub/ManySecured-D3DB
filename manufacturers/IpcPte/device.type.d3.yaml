@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf896153-18e1-492f-87a5-9c60ce36355a
+  mac-addresses:
+  - 00:C0:DB:00:00:00/24
+  manufacturer: Ipc Corporation (Pte) Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IpcPte
+type: d3-device-type-assertion

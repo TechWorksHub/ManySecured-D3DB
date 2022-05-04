@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 290f09b7-205b-4d46-8885-2cda6d796c4d
+  mac-addresses:
+  - 10:5A:F7:00:00:00/24
+  - 8C:59:C3:00:00:00/24
+  manufacturer: ADB Italia
+  manufacturer-uri: https://device-type.com
+  name: ADBItali
+type: d3-device-type-assertion

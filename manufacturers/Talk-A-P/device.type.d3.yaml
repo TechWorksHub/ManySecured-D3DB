@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14186e70-a3c8-4dee-8b65-90bb1342c324
+  mac-addresses:
+  - 00:1E:EB:00:00:00/24
+  - DC:09:14:00:00:00/24
+  manufacturer: Talk-A-Phone Co.
+  manufacturer-uri: https://device-type.com
+  name: Talk-A-P
+type: d3-device-type-assertion

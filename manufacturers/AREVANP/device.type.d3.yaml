@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 489a759d-6171-40f8-94b9-aa48c5d91b7f
+  mac-addresses:
+  - 9C:F9:38:00:00:00/24
+  manufacturer: AREVA NP GmbH
+  manufacturer-uri: https://device-type.com
+  name: AREVANP
+type: d3-device-type-assertion

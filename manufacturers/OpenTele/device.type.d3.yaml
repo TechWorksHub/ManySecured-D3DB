@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da312a8a-bff7-4e3b-b05a-7c3d6ed148f0
+  mac-addresses:
+  - 00:0E:92:00:00:00/24
+  manufacturer: Open Telecom
+  manufacturer-uri: https://device-type.com
+  name: OpenTele
+type: d3-device-type-assertion

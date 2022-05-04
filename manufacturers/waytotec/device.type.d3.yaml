@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8d37787-d651-40d2-a7c0-c5358669b95a
+  mac-addresses:
+  - 50:58:4F:00:00:00/24
+  manufacturer: waytotec,Inc.
+  manufacturer-uri: https://device-type.com
+  name: waytotec
+type: d3-device-type-assertion

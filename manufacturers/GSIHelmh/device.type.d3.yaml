@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9eaa0b66-f0f6-4ddd-adc9-73ee6dc92776
+  mac-addresses:
+  - 00:26:7B:00:00:00/24
+  manufacturer: "GSI Helmholtzzentrum f\xFCr Schwerionenforschung GmbH"
+  manufacturer-uri: https://device-type.com
+  name: GSIHelmh
+type: d3-device-type-assertion

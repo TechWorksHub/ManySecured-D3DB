@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e46fe6c3-f726-4143-900e-bb04b0207f8e
+  mac-addresses:
+  - 00:40:1B:00:00:00/24
+  - 00:80:58:00:00:00/24
+  manufacturer: Printer Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Printer
+type: d3-device-type-assertion

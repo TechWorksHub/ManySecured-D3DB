@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e76fb47-c596-45f9-bb05-3facb4d1f46b
+  mac-addresses:
+  - 00:21:7E:00:00:00/24
+  - 48:02:AF:00:00:00/24
+  manufacturer: Telit Communication s.p.a
+  manufacturer-uri: https://device-type.com
+  name: TelitCom
+type: d3-device-type-assertion

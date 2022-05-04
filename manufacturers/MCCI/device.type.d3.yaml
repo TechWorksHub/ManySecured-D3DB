@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60be9eb6-3c03-45dc-9731-553b6030b319
+  mac-addresses:
+  - 00:02:CC:00:00:00/24
+  manufacturer: M.C.C.I
+  manufacturer-uri: https://device-type.com
+  name: MCCI
+type: d3-device-type-assertion

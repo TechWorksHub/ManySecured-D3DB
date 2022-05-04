@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31a997bd-e8da-4d7d-a22a-09048041a8b7
+  mac-addresses:
+  - 54:31:31:00:00:00/24
+  manufacturer: Raster Vision Ltd
+  manufacturer-uri: https://device-type.com
+  name: RasterVi
+type: d3-device-type-assertion

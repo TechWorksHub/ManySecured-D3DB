@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45a8c467-ac6e-4149-afd8-6fc9cabff7c8
+  mac-addresses:
+  - 00:30:0E:00:00:00/24
+  manufacturer: Klotz Digital AG
+  manufacturer-uri: https://device-type.com
+  name: KlotzDig
+type: d3-device-type-assertion

@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 948ab063-7db4-42c8-8569-e715187201ca
+  mac-addresses:
+  - 08:94:EF:00:00:00/24
+  - 20:6A:8A:00:00:00/24
+  - 38:B7:25:00:00:00/24
+  - 3C:97:0E:00:00:00/24
+  - 44:67:52:00:00:00/24
+  - 48:2A:E3:00:00:00/24
+  - 54:EE:75:00:00:00/24
+  - 70:E2:84:00:00:00/24
+  - 94:DF:4E:00:00:00/24
+  - 98:EE:CB:00:00:00/24
+  - C4:A1:0E:20:00:00/28
+  - F0:DE:F1:00:00:00/24
+  - F4:A8:0D:00:00:00/24
+  - F8:0F:41:00:00:00/24
+  manufacturer: Wistron Infocomm (Zhongshan) Corporation
+  manufacturer-uri: https://device-type.com
+  name: WistronI
+type: d3-device-type-assertion

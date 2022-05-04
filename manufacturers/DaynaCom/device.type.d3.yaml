@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec3d41a4-ff5f-4a10-99f5-b3bd3a70ccb4
+  mac-addresses:
+  - 00:80:19:00:00:00/24
+  manufacturer: Dayna Communications
+  manufacturer-uri: https://device-type.com
+  name: DaynaCom
+type: d3-device-type-assertion

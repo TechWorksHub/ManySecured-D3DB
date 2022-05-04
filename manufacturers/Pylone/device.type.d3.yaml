@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7fea328-9063-40d9-8343-cc7a53d971d1
+  mac-addresses:
+  - 00:1D:2D:00:00:00/24
+  manufacturer: Pylone, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Pylone
+type: d3-device-type-assertion

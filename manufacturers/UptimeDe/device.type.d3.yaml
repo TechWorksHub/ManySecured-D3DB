@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05d39f80-5f0e-4bf4-8061-2c5d5f54193b
+  mac-addresses:
+  - 00:08:67:00:00:00/24
+  manufacturer: Uptime Devices
+  manufacturer-uri: https://device-type.com
+  name: UptimeDe
+type: d3-device-type-assertion

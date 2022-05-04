@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c22a2039-4a99-4091-86c2-c92195612a2e
+  mac-addresses:
+  - 00:19:04:00:00:00/24
+  - 00:1D:A5:00:00:00/24
+  manufacturer: WB Electronics Sp. z o.o.
+  manufacturer-uri: https://device-type.com
+  name: WBElectr
+type: d3-device-type-assertion

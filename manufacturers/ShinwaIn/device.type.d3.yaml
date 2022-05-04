@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0844bf33-5d50-4b90-8f02-99ac59644721
+  mac-addresses:
+  - 00:1D:86:00:00:00/24
+  - 70:B3:D5:F8:70:00/36
+  manufacturer: Shinwa Industries(China) Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ShinwaIn
+type: d3-device-type-assertion

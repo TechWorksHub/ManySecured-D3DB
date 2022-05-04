@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d36a75ae-1e5e-4b12-ae79-3d9150e4f582
+  mac-addresses:
+  - 00:23:D2:00:00:00/24
+  - 00:50:C2:39:80:00/36
+  manufacturer: Inhand Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: InhandEl
+type: d3-device-type-assertion

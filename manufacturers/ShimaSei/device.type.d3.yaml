@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65116dd1-9d8f-41f2-9958-5e79dc60526d
+  mac-addresses:
+  - 00:A0:B2:00:00:00/24
+  manufacturer: Shima Seiki
+  manufacturer-uri: https://device-type.com
+  name: ShimaSei
+type: d3-device-type-assertion

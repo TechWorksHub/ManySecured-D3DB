@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4fbd168-0603-4394-b794-5c378b5c4c25
+  mac-addresses:
+  - A4:B9:80:00:00:00/24
+  manufacturer: Parking BOXX Inc.
+  manufacturer-uri: https://device-type.com
+  name: ParkingB
+type: d3-device-type-assertion

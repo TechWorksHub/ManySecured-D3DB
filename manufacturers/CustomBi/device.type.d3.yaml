@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f55bb282-a689-4628-9c90-2d16134ca3e3
+  mac-addresses:
+  - 58:FC:DB:30:00:00/28
+  manufacturer: Custom Biogenic Systems
+  manufacturer-uri: https://device-type.com
+  name: CustomBi
+type: d3-device-type-assertion

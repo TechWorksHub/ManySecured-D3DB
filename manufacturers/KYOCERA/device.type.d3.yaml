@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 29af4173-356a-4e28-bb28-dc02818bbf07
+  mac-addresses:
+  - 00:ED:B8:00:00:00/24
+  - 24:29:FE:00:00:00/24
+  - D0:F5:20:00:00:00/24
+  manufacturer: KYOCERA Corporation
+  manufacturer-uri: https://device-type.com
+  name: KYOCERA
+type: d3-device-type-assertion

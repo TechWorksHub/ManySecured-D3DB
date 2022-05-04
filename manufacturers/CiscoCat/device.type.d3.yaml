@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccfbd9a6-69e1-467c-ae26-5326b09edc61
+  mac-addresses:
+  - 00:60:09:00:00:00/24
+  manufacturer: Cisco
+  manufacturer-uri: https://device-type.com
+  name: CiscoCat
+type: d3-device-type-assertion

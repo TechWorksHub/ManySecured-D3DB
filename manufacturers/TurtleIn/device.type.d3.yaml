@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 849aa999-40e9-4c4a-9838-1129dc94165b
+  mac-addresses:
+  - 1C:F5:E7:00:00:00/24
+  manufacturer: Turtle Industry Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TurtleIn
+type: d3-device-type-assertion

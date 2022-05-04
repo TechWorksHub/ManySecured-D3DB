@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23bbad60-600b-49ec-b349-f0e79941618f
+  mac-addresses:
+  - 00:10:9F:00:00:00/24
+  manufacturer: Pavo, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Pavo
+type: d3-device-type-assertion

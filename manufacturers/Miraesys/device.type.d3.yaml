@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aba576b-2a6f-4346-a737-70f3a9f896d2
+  mac-addresses:
+  - 00:03:63:00:00:00/24
+  manufacturer: Miraesys Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Miraesys
+type: d3-device-type-assertion

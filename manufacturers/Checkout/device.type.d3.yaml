@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2513b11e-20d9-479f-89ae-61d5a2ed5968
+  mac-addresses:
+  - 00:30:25:00:00:00/24
+  manufacturer: Checkout Computer Systems, Ltd
+  manufacturer-uri: https://device-type.com
+  name: Checkout
+type: d3-device-type-assertion

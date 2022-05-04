@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bbb30260-af1d-4cc8-8217-d006623f9f7e
+  mac-addresses:
+  - 44:4F:8E:00:00:00/24
+  - D8:A0:11:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: WiZ
+type: d3-device-type-assertion

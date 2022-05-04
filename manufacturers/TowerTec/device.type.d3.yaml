@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d42e00e-3220-4d16-8faf-a759e940ae23
+  mac-addresses:
+  - 00:C0:3C:00:00:00/24
+  manufacturer: Tower Tech S.R.L.
+  manufacturer-uri: https://device-type.com
+  name: TowerTec
+type: d3-device-type-assertion

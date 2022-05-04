@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e7c2374-f3bd-45a7-b071-e5a41b97f600
+  mac-addresses:
+  - 00:04:FE:00:00:00/24
+  manufacturer: Pelago Networks
+  manufacturer-uri: https://device-type.com
+  name: PelagoNe
+type: d3-device-type-assertion

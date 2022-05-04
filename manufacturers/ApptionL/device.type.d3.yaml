@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f63b0899-c60b-4f24-b765-325caefbe76b
+  mac-addresses:
+  - B8:1F:5E:00:00:00/24
+  - D0:D9:4F:80:00:00/28
+  manufacturer: Apption Labs Limited
+  manufacturer-uri: https://device-type.com
+  name: ApptionL
+type: d3-device-type-assertion

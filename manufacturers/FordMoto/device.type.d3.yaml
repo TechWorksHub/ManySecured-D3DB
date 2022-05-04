@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad8046e3-4896-427b-a8df-ec07b9c29018
+  mac-addresses:
+  - 00:26:B4:00:00:00/24
+  manufacturer: Ford Motor Company
+  manufacturer-uri: https://device-type.com
+  name: FordMoto
+type: d3-device-type-assertion

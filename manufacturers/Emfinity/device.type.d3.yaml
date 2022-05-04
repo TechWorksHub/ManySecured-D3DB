@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dfb1200-3885-4e59-8e54-a61f61931553
+  mac-addresses:
+  - 00:1E:F8:00:00:00/24
+  manufacturer: Emfinity Inc.
+  manufacturer-uri: https://device-type.com
+  name: Emfinity
+type: d3-device-type-assertion

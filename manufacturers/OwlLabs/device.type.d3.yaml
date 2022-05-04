@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4c3057d-6f8f-426a-9844-f733eca7fb7e
+  mac-addresses:
+  - BC:D7:13:00:00:00/24
+  manufacturer: Owl Labs
+  manufacturer-uri: https://device-type.com
+  name: OwlLabs
+type: d3-device-type-assertion

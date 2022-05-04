@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e5bf5c0-4d90-4153-a95e-d80072da43a7
+  mac-addresses:
+  - 00:C0:C0:00:00:00/24
+  manufacturer: Shore Microsystems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ShoreMic
+type: d3-device-type-assertion

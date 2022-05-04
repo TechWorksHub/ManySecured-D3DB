@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c27f3fa-9a7e-497f-8b62-912c489977ba
+  mac-addresses:
+  - 00:50:C2:24:F0:00/36
+  - 00:50:C2:E8:A0:00/36
+  manufacturer: Macronet s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: Macronet
+type: d3-device-type-assertion

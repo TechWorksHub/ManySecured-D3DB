@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9f2c5dd-6fa3-4461-aec4-c6e8d13460d6
+  mac-addresses:
+  - 3C:4E:47:00:00:00/24
+  manufacturer: Etronic A/S
+  manufacturer-uri: https://device-type.com
+  name: Etronic
+type: d3-device-type-assertion

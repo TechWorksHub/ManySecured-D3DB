@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c2adb65b-d781-47f7-94eb-707e6c274321
+  mac-addresses:
+  - 00:0E:B6:00:00:00/24
+  - 00:25:50:00:00:00/24
+  - 6C:98:EB:00:00:00/24
+  manufacturer: Riverbed Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Riverbed
+type: d3-device-type-assertion

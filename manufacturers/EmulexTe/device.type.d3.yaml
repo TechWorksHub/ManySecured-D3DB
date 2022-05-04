@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7a08cd5-7a01-416a-9c5c-9f2c8fb1d2bf
+  mac-addresses:
+  - 00:00:C9:00:00:00/24
+  manufacturer: Emulex
+  manufacturer-uri: https://device-type.com
+  name: EmulexTe
+type: d3-device-type-assertion

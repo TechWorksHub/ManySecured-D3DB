@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b10ae43-c981-4826-b9ca-5b1c186283e3
+  mac-addresses:
+  - 00:30:AE:00:00:00/24
+  manufacturer: Times N System, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TimesNSy
+type: d3-device-type-assertion

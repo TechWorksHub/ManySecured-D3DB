@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fe21d99-dce0-44c6-9b1d-9cfcc2dcb8b0
+  mac-addresses:
+  - 00:E0:BE:00:00:00/24
+  manufacturer: Genroco International, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GenrocoI
+type: d3-device-type-assertion

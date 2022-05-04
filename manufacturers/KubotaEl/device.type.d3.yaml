@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8d28220-4a84-4b78-b6b1-3c2098838753
+  mac-addresses:
+  - 00:C0:7E:00:00:00/24
+  manufacturer: Kubota Corporation Electronic
+  manufacturer-uri: https://device-type.com
+  name: KubotaEl
+type: d3-device-type-assertion

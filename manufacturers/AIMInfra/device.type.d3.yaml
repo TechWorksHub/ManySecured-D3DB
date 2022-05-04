@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6af5e3c2-7bcb-4d18-952d-76b366b7c6ec
+  mac-addresses:
+  - 00:14:E6:00:00:00/24
+  manufacturer: AIM Infrarotmodule GmbH
+  manufacturer-uri: https://device-type.com
+  name: AIMInfra
+type: d3-device-type-assertion

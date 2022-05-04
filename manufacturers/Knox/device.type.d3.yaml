@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5611003-7725-4230-95ea-e5e10ef6c079
+  mac-addresses:
+  - 40:ED:98:30:00:00/28
+  manufacturer: Knox Company
+  manufacturer-uri: https://device-type.com
+  name: Knox
+type: d3-device-type-assertion

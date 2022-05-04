@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 250d525c-a100-47a8-a1f7-ce1b0bc0e9d3
+  mac-addresses:
+  - 48:06:6A:00:00:00/24
+  manufacturer: Tempered Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Tempered
+type: d3-device-type-assertion

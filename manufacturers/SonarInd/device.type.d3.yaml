@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ba4d14f-3b76-494d-a4b5-3b709829fa63
+  mac-addresses:
+  - 58:7F:B7:00:00:00/24
+  manufacturer: Sonar Industrial Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SonarInd
+type: d3-device-type-assertion

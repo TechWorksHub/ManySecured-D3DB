@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eac742a0-4465-42bb-8930-2a1ffb12e330
+  mac-addresses:
+  - 00:05:BB:00:00:00/24
+  manufacturer: Myspace AB
+  manufacturer-uri: https://device-type.com
+  name: Myspace
+type: d3-device-type-assertion

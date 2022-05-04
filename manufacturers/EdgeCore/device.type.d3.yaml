@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 836efff1-5035-4c59-94c7-905cd56d2332
+  mac-addresses:
+  - 70:72:CF:00:00:00/24
+  manufacturer: EdgeCore Networks
+  manufacturer-uri: https://device-type.com
+  name: EdgeCore
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 601d7c49-44f0-45a9-b0ff-2db631edf2b1
+  mac-addresses:
+  - 00:14:CA:00:00:00/24
+  manufacturer: Key Radio Systems Limited
+  manufacturer-uri: https://device-type.com
+  name: KeyRadio
+type: d3-device-type-assertion

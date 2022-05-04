@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 3b29cbd1-2324-4316-8c4b-32e675e1a31c
+  mac-addresses:
+  - 00:07:A4:00:00:00/24
+  - 00:13:17:00:00:00/24
+  - 00:16:8F:00:00:00/24
+  - 00:1A:45:00:00:00/24
+  - 00:1D:82:00:00:00/24
+  - 00:23:78:00:00:00/24
+  - 1C:48:F9:00:00:00/24
+  - 50:1A:A5:00:00:00/24
+  - 50:C9:71:00:00:00/24
+  manufacturer: GN Netcom Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GNNetcom
+type: d3-device-type-assertion

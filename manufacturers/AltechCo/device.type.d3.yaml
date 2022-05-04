@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a635730e-3547-4c01-b37e-3e0bb0ede90f
+  mac-addresses:
+  - 00:0C:40:00:00:00/24
+  manufacturer: Altech Controls
+  manufacturer-uri: https://device-type.com
+  name: AltechCo
+type: d3-device-type-assertion

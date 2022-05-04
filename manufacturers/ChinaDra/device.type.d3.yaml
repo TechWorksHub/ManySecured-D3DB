@@ -1,0 +1,18 @@
+credentialSubject:
+  id: f09ec1d7-0a37-4fb0-ae8d-b756eac8e47d
+  mac-addresses:
+  - 00:7E:56:00:00:00/24
+  - 04:39:26:00:00:00/24
+  - 24:B7:2A:00:00:00/24
+  - 3C:7A:AA:00:00:00/24
+  - 40:AA:56:00:00:00/24
+  - 44:EF:BF:00:00:00/24
+  - 94:E0:D6:00:00:00/24
+  - A0:67:20:00:00:00/24
+  - A0:9D:C1:00:00:00/24
+  - D0:A4:6F:00:00:00/24
+  - E0:51:D8:00:00:00/24
+  manufacturer: China Dragon Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: ChinaDra
+type: d3-device-type-assertion

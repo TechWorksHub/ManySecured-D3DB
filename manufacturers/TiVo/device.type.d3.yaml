@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bcc87db-8c6b-4619-bec9-a54e743223c1
+  mac-addresses:
+  - 00:11:D9:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: TiVo
+type: d3-device-type-assertion

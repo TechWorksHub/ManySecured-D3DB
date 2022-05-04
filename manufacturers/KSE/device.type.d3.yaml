@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f15f99ba-9c1e-4203-bd6f-4b043d0c8164
+  mac-addresses:
+  - 70:B3:D5:0F:60:00/36
+  - 70:B3:D5:38:A0:00/36
+  - 70:B3:D5:D4:10:00/36
+  manufacturer: KSE GmbH
+  manufacturer-uri: https://device-type.com
+  name: KSE
+type: d3-device-type-assertion

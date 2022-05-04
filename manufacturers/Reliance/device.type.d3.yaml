@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c9fa9c5d-3d0e-4f36-aa2c-5723ae38b2d3
+  mac-addresses:
+  - 00:10:A8:00:00:00/24
+  - 00:C0:9B:00:00:00/24
+  - 58:32:77:00:00:00/24
+  manufacturer: Reliance Computer Corp.
+  manufacturer-uri: https://device-type.com
+  name: Reliance
+type: d3-device-type-assertion

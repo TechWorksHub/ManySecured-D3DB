@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e4b0751-70f7-4da9-a46b-cc2d79369905
+  mac-addresses:
+  - 00:12:A5:00:00:00/24
+  manufacturer: Dolphin Interconnect Solutions AS
+  manufacturer-uri: https://device-type.com
+  name: DolphinI
+type: d3-device-type-assertion

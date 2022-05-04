@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 40a847c7-15dc-4c6e-bce2-0ce896dbe894
+  mac-addresses:
+  - 00:1E:94:00:00:00/24
+  - 00:80:EC:00:00:00/24
+  - A0:A6:5C:00:00:00/24
+  - E8:6C:DA:00:00:00/24
+  manufacturer: Supercom Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: Supercom
+type: d3-device-type-assertion

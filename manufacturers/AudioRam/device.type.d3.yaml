@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a544cc59-bb58-43b2-a68e-6d054b557f0d
+  mac-addresses:
+  - 00:02:64:00:00:00/24
+  manufacturer: AudioRamp.com
+  manufacturer-uri: https://device-type.com
+  name: AudioRam
+type: d3-device-type-assertion

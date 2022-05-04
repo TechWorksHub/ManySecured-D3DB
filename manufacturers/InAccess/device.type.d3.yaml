@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dabc8ccb-0766-477c-b4fb-46fbc5acd931
+  mac-addresses:
+  - 00:50:C2:3A:C0:00/36
+  - 70:B3:D5:07:70:00/36
+  manufacturer: InAccess Networks
+  manufacturer-uri: https://device-type.com
+  name: InAccess
+type: d3-device-type-assertion

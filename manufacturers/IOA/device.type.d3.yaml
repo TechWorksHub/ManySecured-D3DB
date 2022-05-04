@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8d27f5e-d98b-4075-a79e-55d5906b8510
+  mac-addresses:
+  - 00:07:F2:00:00:00/24
+  manufacturer: IOA Corporation
+  manufacturer-uri: https://device-type.com
+  name: IOA
+type: d3-device-type-assertion

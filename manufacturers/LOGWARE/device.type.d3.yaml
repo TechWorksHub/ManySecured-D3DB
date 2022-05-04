@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bfa0bf0-de3b-498d-a279-e461b80f0c6d
+  mac-addresses:
+  - 00:60:0B:00:00:00/24
+  manufacturer: LOGWARE GmbH
+  manufacturer-uri: https://device-type.com
+  name: LOGWARE
+type: d3-device-type-assertion

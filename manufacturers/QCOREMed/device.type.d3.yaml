@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cdcb85b-cbf2-4233-9d27-b46daf4b01f9
+  mac-addresses:
+  - 00:1B:C5:07:B0:00/36
+  manufacturer: QCORE Medical
+  manufacturer-uri: https://device-type.com
+  name: QCOREMed
+type: d3-device-type-assertion

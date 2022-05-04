@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 70794a83-c68f-4e8a-99ef-90a53087ca3e
+  mac-addresses:
+  - 00:0C:FE:00:00:00/24
+  - 98:FB:12:00:00:00/24
+  manufacturer: Grand Electronic Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: GrandEle
+type: d3-device-type-assertion

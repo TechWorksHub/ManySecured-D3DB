@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd51c03a-f416-436b-9b27-43aa1efe3a70
+  mac-addresses:
+  - 00:1E:D1:00:00:00/24
+  manufacturer: Keyprocessor B.V.
+  manufacturer-uri: https://device-type.com
+  name: Keyproce
+type: d3-device-type-assertion

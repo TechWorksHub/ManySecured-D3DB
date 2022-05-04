@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c907e15c-53ab-4b0f-a9b1-0dbc8c4701b0
+  mac-addresses:
+  - 00:0F:8B:00:00:00/24
+  manufacturer: Orion MultiSystems Inc
+  manufacturer-uri: https://device-type.com
+  name: OrionMul
+type: d3-device-type-assertion

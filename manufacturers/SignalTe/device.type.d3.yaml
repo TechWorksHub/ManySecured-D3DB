@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed60bb70-1c46-47ba-a2ec-5083f3166bee
+  mac-addresses:
+  - 00:04:B1:00:00:00/24
+  - 00:12:2E:00:00:00/24
+  manufacturer: Signal Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SignalTe
+type: d3-device-type-assertion

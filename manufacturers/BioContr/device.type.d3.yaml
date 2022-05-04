@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d59e1c58-86c4-478a-bbda-1bd1310f48fd
+  mac-addresses:
+  - EC:14:F6:00:00:00/24
+  manufacturer: BioControl AS
+  manufacturer-uri: https://device-type.com
+  name: BioContr
+type: d3-device-type-assertion

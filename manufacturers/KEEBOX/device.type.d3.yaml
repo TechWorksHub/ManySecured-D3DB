@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34745678-5e6c-462e-a8bd-ac9069f83070
+  mac-addresses:
+  - F0:F8:42:00:00:00/24
+  manufacturer: KEEBOX, Inc.
+  manufacturer-uri: https://device-type.com
+  name: KEEBOX
+type: d3-device-type-assertion

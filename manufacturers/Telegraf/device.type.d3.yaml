@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fdeca249-bc82-436b-8dca-9ea2d8edeb05
+  mac-addresses:
+  - A0:FC:6E:00:00:00/24
+  manufacturer: Telegrafia a.s.
+  manufacturer-uri: https://device-type.com
+  name: Telegraf
+type: d3-device-type-assertion

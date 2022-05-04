@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7408cdff-27ad-4f5e-96a0-0e2e8571a4bf
+  mac-addresses:
+  - 64:05:BE:00:00:00/24
+  manufacturer: New Light Led
+  manufacturer-uri: https://device-type.com
+  name: NewLight
+type: d3-device-type-assertion

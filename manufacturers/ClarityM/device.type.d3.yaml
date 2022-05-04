@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3d3f3170-48f8-4150-899a-4e7c0896ba80
+  mac-addresses:
+  - 18:D7:93:90:00:00/28
+  - 70:B3:D5:C0:D0:00/36
+  manufacturer: Clarity Medical Pvt Ltd
+  manufacturer-uri: https://device-type.com
+  name: ClarityM
+type: d3-device-type-assertion

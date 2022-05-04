@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d0499cf9-83b8-44d8-aad1-ef3ae9e5ac4c
+  mac-addresses:
+  - 00:50:C2:85:30:00/36
+  - A0:36:FA:00:00:00/24
+  manufacturer: Ettus Research LLC
+  manufacturer-uri: https://device-type.com
+  name: EttusRes
+type: d3-device-type-assertion

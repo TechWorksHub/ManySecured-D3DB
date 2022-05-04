@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fb4e1c0-f850-433f-b5d6-d341448b1b55
+  mac-addresses:
+  - A4:34:12:00:00:00/24
+  manufacturer: Thales Alenia Space
+  manufacturer-uri: https://device-type.com
+  name: ThalesAl
+type: d3-device-type-assertion

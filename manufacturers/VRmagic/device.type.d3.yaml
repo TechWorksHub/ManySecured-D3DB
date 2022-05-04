@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4ba4e3b-f632-42b6-b4c1-3025ab7fa096
+  mac-addresses:
+  - 00:21:21:00:00:00/24
+  manufacturer: VRmagic GmbH
+  manufacturer-uri: https://device-type.com
+  name: VRmagic
+type: d3-device-type-assertion

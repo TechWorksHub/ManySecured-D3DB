@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dd278e3a-4ef4-44ca-8d2d-ac586a6735d9
+  mac-addresses:
+  - 70:B3:D5:9F:40:00/36
+  - E4:95:6E:10:00:00/28
+  manufacturer: Tband srl
+  manufacturer-uri: https://device-type.com
+  name: Tband
+type: d3-device-type-assertion

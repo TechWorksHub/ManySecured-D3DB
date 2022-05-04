@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9ab03b47-e12e-4c78-8510-7788cb9fecce
+  mac-addresses:
+  - 00:14:0F:00:00:00/24
+  - 00:1F:0B:00:00:00/24
+  - 00:50:C2:5A:40:00/36
+  manufacturer: Federal State Unitary Enterprise Leningrad R&D Institute of
+  manufacturer-uri: https://device-type.com
+  name: FederalS
+type: d3-device-type-assertion

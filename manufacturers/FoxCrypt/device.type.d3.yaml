@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bdd8b53-aa63-4025-a568-dee86559d18f
+  mac-addresses:
+  - 0C:E7:09:00:00:00/24
+  manufacturer: Fox Crypto B.V.
+  manufacturer-uri: https://device-type.com
+  name: FoxCrypt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ead46900-9a12-41cb-9d5e-0e50715010bd
+  mac-addresses:
+  - 00:05:46:00:00:00/24
+  manufacturer: KDDI Network & Solultions Inc.
+  manufacturer-uri: https://device-type.com
+  name: KDDINetw
+type: d3-device-type-assertion

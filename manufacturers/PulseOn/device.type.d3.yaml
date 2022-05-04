@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6faeadd2-e2b2-43e4-8075-26fbdee3154b
+  mac-addresses:
+  - 48:B9:77:00:00:00/24
+  manufacturer: PulseOn Oy
+  manufacturer-uri: https://device-type.com
+  name: PulseOn
+type: d3-device-type-assertion

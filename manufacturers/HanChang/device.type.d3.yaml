@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d1a44a79-a5f5-4385-b81f-f78c9272f0e7
+  mac-addresses:
+  - 70:B3:D5:85:90:00/36
+  - 70:B3:D5:C3:A0:00/36
+  manufacturer: Han Chang
+  manufacturer-uri: https://device-type.com
+  name: HanChang
+type: d3-device-type-assertion

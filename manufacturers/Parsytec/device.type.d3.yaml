@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c81d657-b9e8-476b-a477-44a658ca255e
+  mac-addresses:
+  - 00:80:75:00:00:00/24
+  manufacturer: Parsytec Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Parsytec
+type: d3-device-type-assertion

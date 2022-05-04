@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e57e612-c462-4e01-9492-8f8c0ca6c381
+  mac-addresses:
+  - 00:1E:66:00:00:00/24
+  manufacturer: RESOL Elektronische Regelungen GmbH
+  manufacturer-uri: https://device-type.com
+  name: RESOLEle
+type: d3-device-type-assertion

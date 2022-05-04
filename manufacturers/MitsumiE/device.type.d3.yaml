@@ -1,0 +1,13 @@
+credentialSubject:
+  id: df9cfcf8-4fd7-48c6-aaf9-2d741ab04249
+  mac-addresses:
+  - 00:6F:F2:00:00:00/24
+  - 00:A0:96:00:00:00/24
+  - 78:61:7C:00:00:00/24
+  - BC:82:5D:00:00:00/24
+  - C4:49:BB:00:00:00/24
+  - F0:AB:54:00:00:00/24
+  manufacturer: Mitsumi Electric Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MitsumiE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 97b123a5-b97c-42d5-a7f9-9dc6e664213a
+  mac-addresses:
+  - 00:0F:27:00:00:00/24
+  manufacturer: TEAL Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TEALElec
+type: d3-device-type-assertion

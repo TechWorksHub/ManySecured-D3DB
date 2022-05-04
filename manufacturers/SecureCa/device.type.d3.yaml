@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b62c404-a7cf-4f3b-9952-0696287f2175
+  mac-addresses:
+  - 00:1A:02:00:00:00/24
+  manufacturer: Secure Care Products, Inc
+  manufacturer-uri: https://device-type.com
+  name: SecureCa
+type: d3-device-type-assertion

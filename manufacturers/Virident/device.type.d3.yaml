@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 984a260e-95c7-47a7-9508-82d2f8fa71b1
+  mac-addresses:
+  - 98:CD:B4:00:00:00/24
+  manufacturer: Virident Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Virident
+type: d3-device-type-assertion

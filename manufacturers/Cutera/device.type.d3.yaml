@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67ecf463-ca86-408c-828d-83a43782ef3d
+  mac-addresses:
+  - 00:26:01:00:00:00/24
+  manufacturer: Cutera Inc
+  manufacturer-uri: https://device-type.com
+  name: Cutera
+type: d3-device-type-assertion

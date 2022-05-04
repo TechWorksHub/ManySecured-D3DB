@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c6e472d-515a-4a66-acd0-6e523fd55c62
+  mac-addresses:
+  - A4:58:0F:B0:00:00/28
+  manufacturer: Abb Ab Pghv
+  manufacturer-uri: https://device-type.com
+  name: AbbPghv
+type: d3-device-type-assertion

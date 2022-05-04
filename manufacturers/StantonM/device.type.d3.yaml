@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2b5b9a8-13d9-4ddb-83b8-1df51ddc7e4a
+  mac-addresses:
+  - 00:12:60:00:00:00/24
+  manufacturer: Stanton Magnetics,inc.
+  manufacturer-uri: https://device-type.com
+  name: StantonM
+type: d3-device-type-assertion

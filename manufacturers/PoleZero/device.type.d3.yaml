@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 857ba032-1c43-439f-ac82-f090c54e41d6
+  mac-addresses:
+  - 00:25:8A:00:00:00/24
+  manufacturer: Pole/Zero Corporation
+  manufacturer-uri: https://device-type.com
+  name: PoleZero
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cd5dfb13-952c-47c9-ae77-ffbdb5a74bdb
+  mac-addresses:
+  - 00:00:B2:00:00:00/24
+  - 00:02:53:00:00:00/24
+  manufacturer: Televideo Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Televide
+type: d3-device-type-assertion

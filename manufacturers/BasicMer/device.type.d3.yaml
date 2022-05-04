@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d7d7605-cdd6-4847-944a-83fd9a38bfbe
+  mac-addresses:
+  - 00:80:95:00:00:00/24
+  manufacturer: Basic Merton Handelsges.M.B.H.
+  manufacturer-uri: https://device-type.com
+  name: BasicMer
+type: d3-device-type-assertion

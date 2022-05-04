@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e6c3b70-3744-4990-a600-76ac181ba319
+  mac-addresses:
+  - 00:50:C2:68:60:00/36
+  - 74:38:89:00:00:00/24
+  manufacturer: ANNAX Anzeigesysteme GmbH
+  manufacturer-uri: https://device-type.com
+  name: ANNAXAnz
+type: d3-device-type-assertion

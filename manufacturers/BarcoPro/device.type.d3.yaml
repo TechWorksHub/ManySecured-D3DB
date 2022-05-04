@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 382c0684-4ef0-4272-bc95-4041da237be0
+  mac-addresses:
+  - 00:04:A5:00:00:00/24
+  - 00:0D:0A:00:00:00/24
+  manufacturer: Barco Projection Systems NV
+  manufacturer-uri: https://device-type.com
+  name: BarcoPro
+type: d3-device-type-assertion

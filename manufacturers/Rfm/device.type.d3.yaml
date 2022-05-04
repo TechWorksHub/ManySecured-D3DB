@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca73cddc-10a5-44cf-910c-df10695fc50c
+  mac-addresses:
+  - 00:30:66:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Rfm
+type: d3-device-type-assertion

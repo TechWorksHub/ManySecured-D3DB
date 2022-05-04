@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6fec65c-87d6-4319-9051-ebdc66377224
+  mac-addresses:
+  - 00:00:E7:00:00:00/24
+  manufacturer: Star Gate Technologies
+  manufacturer-uri: https://device-type.com
+  name: StarGate
+type: d3-device-type-assertion

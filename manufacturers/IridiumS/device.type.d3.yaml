@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4c9b53c-7adf-4c4f-ac37-0425c5495ffc
+  mac-addresses:
+  - 00:1C:B4:00:00:00/24
+  manufacturer: Iridium Satellite LLC
+  manufacturer-uri: https://device-type.com
+  name: IridiumS
+type: d3-device-type-assertion

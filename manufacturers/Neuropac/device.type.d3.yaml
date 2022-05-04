@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fe2c5cd-8575-4e5c-a3f3-e03968d9da22
+  mac-addresses:
+  - B8:D8:12:70:00:00/28
+  manufacturer: Neuropace Inc.
+  manufacturer-uri: https://device-type.com
+  name: Neuropac
+type: d3-device-type-assertion

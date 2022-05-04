@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b806b58b-dd9c-4e34-80a2-4b79726da430
+  mac-addresses:
+  - 10:54:D2:20:00:00/28
+  - 70:B3:D5:E3:B0:00/36
+  - D8:86:0B:D0:00:00/28
+  manufacturer: ComNav Technology Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ComNavTe
+type: d3-device-type-assertion

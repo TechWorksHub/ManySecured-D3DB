@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 46675ee6-97a9-49ad-b44d-ba4439bf3075
+  mac-addresses:
+  - 8C:19:2D:20:00:00/28
+  - CC:DB:04:00:00:00/24
+  manufacturer: DataRemote Inc.
+  manufacturer-uri: https://device-type.com
+  name: DataRemo
+type: d3-device-type-assertion

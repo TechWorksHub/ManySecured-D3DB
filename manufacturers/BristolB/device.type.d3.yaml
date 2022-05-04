@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 18bcaebe-533d-4950-b21c-aeb7115fea35
+  mac-addresses:
+  - 00:10:41:00:00:00/24
+  manufacturer: Bristol Babcock, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BristolB
+type: d3-device-type-assertion

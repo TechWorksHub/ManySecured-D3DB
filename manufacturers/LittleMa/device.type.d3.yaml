@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 864f347f-ad5d-424e-8cdd-bcdba748bfdd
+  mac-addresses:
+  - 08:00:31:00:00:00/24
+  manufacturer: Little Machines Inc.
+  manufacturer-uri: https://device-type.com
+  name: LittleMa
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 55a8a2f2-de4c-48e8-aedf-8d3b073b43af
+  mac-addresses:
+  - 48:23:35:00:00:00/24
+  - 80:EA:CA:00:00:00/24
+  - D4:3D:39:00:00:00/24
+  manufacturer: Dialog Semiconductor Hellas SA
+  manufacturer-uri: https://device-type.com
+  name: DialogSe
+type: d3-device-type-assertion

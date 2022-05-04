@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b09e7d6-438d-40de-9c98-c16de267ff58
+  mac-addresses:
+  - 00:00:45:00:00:00/24
+  manufacturer: Ford Aerospace & Comm. Corp.
+  manufacturer-uri: https://device-type.com
+  name: FordAero
+type: d3-device-type-assertion

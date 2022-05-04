@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fae294f-c74d-4fd4-8aac-69e0aeaf7962
+  mac-addresses:
+  - 00:0D:DB:00:00:00/24
+  manufacturer: Airwave Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: AirwaveT
+type: d3-device-type-assertion

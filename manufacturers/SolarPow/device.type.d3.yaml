@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c23082d-5fdb-4f5b-8533-604e180aabea
+  mac-addresses:
+  - F4:E6:D7:00:00:00/24
+  manufacturer: Solar Power Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SolarPow
+type: d3-device-type-assertion

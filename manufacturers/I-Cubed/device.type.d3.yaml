@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef15094a-fe06-4e9e-8b06-f61327002eb9
+  mac-addresses:
+  - 00:C0:32:00:00:00/24
+  manufacturer: I-Cubed Limited
+  manufacturer-uri: https://device-type.com
+  name: I-Cubed
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f82ed79e-4e6e-4ca0-beab-f75802e26f73
+  mac-addresses:
+  - 00:16:6E:00:00:00/24
+  manufacturer: Arbitron Inc.
+  manufacturer-uri: https://device-type.com
+  name: Arbitron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e022cc7-659d-44b1-ac43-4ab350008adf
+  mac-addresses:
+  - 00:0F:AF:00:00:00/24
+  manufacturer: Dialog Inc.
+  manufacturer-uri: https://device-type.com
+  name: Dialog
+type: d3-device-type-assertion

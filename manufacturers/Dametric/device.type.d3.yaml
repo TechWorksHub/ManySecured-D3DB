@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77d57139-74c4-4502-827d-864cf96100ad
+  mac-addresses:
+  - 00:16:1A:00:00:00/24
+  manufacturer: Dametric AB
+  manufacturer-uri: https://device-type.com
+  name: Dametric
+type: d3-device-type-assertion

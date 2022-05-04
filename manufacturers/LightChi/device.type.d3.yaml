@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec58ea6b-72de-4d13-8517-f813b6ab8328
+  mac-addresses:
+  - 00:01:6B:00:00:00/24
+  manufacturer: LightChip, Inc.
+  manufacturer-uri: https://device-type.com
+  name: LightChi
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 771451e0-e1bb-4ff2-864c-05f34779a555
+  mac-addresses:
+  - 00:00:14:00:00:00/24
+  - 00:08:54:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Netronix
+type: d3-device-type-assertion

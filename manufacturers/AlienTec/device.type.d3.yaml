@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0bbf7cf-3051-4ef3-b044-8c386be29831
+  mac-addresses:
+  - 00:1B:5F:00:00:00/24
+  manufacturer: Alien Technology
+  manufacturer-uri: https://device-type.com
+  name: AlienTec
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 1a47ab24-3288-4da1-9114-a9e88a22fd90
+  mac-addresses:
+  - 00:50:C2:20:B0:00/36
+  - 00:50:C2:5B:50:00/36
+  - 00:50:C2:AD:20:00/36
+  - 7C:05:1E:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Rafael
+type: d3-device-type-assertion

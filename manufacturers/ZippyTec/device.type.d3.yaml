@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25f88ca1-8c70-409d-b379-1f743eb8b42b
+  mac-addresses:
+  - 00:18:A3:00:00:00/24
+  manufacturer: Zippy Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: ZippyTec
+type: d3-device-type-assertion

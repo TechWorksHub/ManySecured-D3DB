@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e4345543-b322-41b0-8de5-5ee58c490a6b
+  mac-addresses:
+  - 00:0A:DB:00:00:00/24
+  - 00:14:77:00:00:00/24
+  manufacturer: Trilliant
+  manufacturer-uri: https://device-type.com
+  name: Trillian
+type: d3-device-type-assertion

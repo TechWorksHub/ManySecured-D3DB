@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 72b3a35f-4e72-4d6a-8461-abbcdb7b5676
+  mac-addresses:
+  - 00:13:FC:00:00:00/24
+  manufacturer: SiCortex, Inc
+  manufacturer-uri: https://device-type.com
+  name: SiCortex
+type: d3-device-type-assertion

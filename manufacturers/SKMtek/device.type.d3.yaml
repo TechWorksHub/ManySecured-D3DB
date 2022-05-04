@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04f7d596-cc2d-4d0e-9991-c0854688a14a
+  mac-addresses:
+  - 10:A7:43:00:00:00/24
+  manufacturer: SK Mtek Limited
+  manufacturer-uri: https://device-type.com
+  name: SKMtek
+type: d3-device-type-assertion

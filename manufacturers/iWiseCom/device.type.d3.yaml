@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e682361-de55-40b3-95b3-94469df6866c
+  mac-addresses:
+  - 00:13:2D:00:00:00/24
+  manufacturer: iWise Communications
+  manufacturer-uri: https://device-type.com
+  name: iWiseCom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 122aa261-4e3e-4958-a283-8a8378427d78
+  mac-addresses:
+  - 30:6E:5C:00:00:00/24
+  manufacturer: Validus Technologies
+  manufacturer-uri: https://device-type.com
+  name: ValidusT
+type: d3-device-type-assertion

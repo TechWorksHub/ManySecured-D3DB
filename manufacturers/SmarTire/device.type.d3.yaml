@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 480b9206-750d-4a9a-941b-0665f0f73ae7
+  mac-addresses:
+  - 00:17:99:00:00:00/24
+  manufacturer: SmarTire Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: SmarTire
+type: d3-device-type-assertion

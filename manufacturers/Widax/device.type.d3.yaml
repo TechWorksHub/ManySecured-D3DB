@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5db7d0e1-7bf2-427b-8707-5429775aae92
+  mac-addresses:
+  - 00:0A:05:00:00:00/24
+  manufacturer: Widax Corp.
+  manufacturer-uri: https://device-type.com
+  name: Widax
+type: d3-device-type-assertion

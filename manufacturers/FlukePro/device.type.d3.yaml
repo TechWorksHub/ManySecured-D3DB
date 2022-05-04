@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f23e7860-c5c1-4e6e-b89e-843bd3121eb7
+  mac-addresses:
+  - 00:1D:8D:00:00:00/24
+  manufacturer: Fluke Process Instruments GmbH
+  manufacturer-uri: https://device-type.com
+  name: FlukePro
+type: d3-device-type-assertion

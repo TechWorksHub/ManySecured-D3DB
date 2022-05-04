@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b8459df-1434-468c-91be-daad8aeda1cd
+  mac-addresses:
+  - 00:09:F2:00:00:00/24
+  manufacturer: Cohu, Inc., Electronics Division
+  manufacturer-uri: https://device-type.com
+  name: CohuElec
+type: d3-device-type-assertion

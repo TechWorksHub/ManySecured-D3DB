@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5bd24dda-69aa-4c61-a596-39e8cd58ff6a
+  mac-addresses:
+  - 00:04:AF:00:00:00/24
+  - 00:1F:56:00:00:00/24
+  manufacturer: Digital Fountain, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DigitalF
+type: d3-device-type-assertion

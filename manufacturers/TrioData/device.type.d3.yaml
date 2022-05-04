@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4903159-2c16-449b-83ae-6fb15b42eed7
+  mac-addresses:
+  - 00:1F:EB:00:00:00/24
+  manufacturer: Trio Datacom Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: TrioData
+type: d3-device-type-assertion

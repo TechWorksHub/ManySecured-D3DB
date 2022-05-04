@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d2f63a0-9aa9-42d0-8782-fa4a6025d4d2
+  mac-addresses:
+  - 00:40:9C:00:00:00/24
+  manufacturer: Transware
+  manufacturer-uri: https://device-type.com
+  name: Transwar
+type: d3-device-type-assertion

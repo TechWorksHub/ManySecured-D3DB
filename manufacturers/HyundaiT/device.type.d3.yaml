@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 25ebf484-c669-4639-8947-c319d6797476
+  mac-addresses:
+  - 00:03:92:00:00:00/24
+  - 00:1D:66:00:00:00/24
+  manufacturer: Hyundai Teletek Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: HyundaiT
+type: d3-device-type-assertion

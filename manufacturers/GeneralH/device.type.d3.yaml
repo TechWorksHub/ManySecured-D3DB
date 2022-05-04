@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a463b7d-40e1-462a-ba82-cd3dacb75613
+  mac-addresses:
+  - 00:0B:D9:00:00:00/24
+  manufacturer: General Hydrogen
+  manufacturer-uri: https://device-type.com
+  name: GeneralH
+type: d3-device-type-assertion

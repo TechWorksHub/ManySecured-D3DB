@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 011643ef-ce45-4638-9092-20d1f28362a0
+  mac-addresses:
+  - 00:0C:D5:00:00:00/24
+  manufacturer: Passave Inc.
+  manufacturer-uri: https://device-type.com
+  name: Passave
+type: d3-device-type-assertion

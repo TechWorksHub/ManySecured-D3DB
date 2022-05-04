@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f6b2c07-3389-4c6f-a99d-6b03c8ca7248
+  mac-addresses:
+  - 00:22:4E:00:00:00/24
+  manufacturer: SEEnergy Corp.
+  manufacturer-uri: https://device-type.com
+  name: SEEnergy
+type: d3-device-type-assertion

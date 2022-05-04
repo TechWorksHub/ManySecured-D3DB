@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ec03dcb8-874d-425e-b403-80603a006517
+  mac-addresses:
+  - 00:0F:8E:00:00:00/24
+  - 64:FB:81:D0:00:00/28
+  manufacturer: Dongyang Telecom Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Dongyang
+type: d3-device-type-assertion

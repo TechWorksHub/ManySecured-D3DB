@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcfcaebe-1f01-4aee-8ca7-bbc184136270
+  mac-addresses:
+  - 00:40:78:00:00:00/24
+  manufacturer: Wearnes Automation Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: WearnesA
+type: d3-device-type-assertion

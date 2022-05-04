@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d02cbae9-877c-4f2a-94c2-529fe26b37b6
+  mac-addresses:
+  - 00:23:61:00:00:00/24
+  manufacturer: Unigen Corporation
+  manufacturer-uri: https://device-type.com
+  name: Unigen
+type: d3-device-type-assertion

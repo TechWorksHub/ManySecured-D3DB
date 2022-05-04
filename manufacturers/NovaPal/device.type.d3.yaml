@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 963c27f0-0f95-430f-87ac-b9bbeaa8b78b
+  mac-addresses:
+  - 00:0A:FE:00:00:00/24
+  manufacturer: NovaPal Ltd
+  manufacturer-uri: https://device-type.com
+  name: NovaPal
+type: d3-device-type-assertion

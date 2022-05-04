@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 818316bf-b449-43c4-b18b-675ba94d209b
+  mac-addresses:
+  - 00:0E:5E:00:00:00/24
+  - 20:1F:54:00:00:00/24
+  - 4C:B9:11:00:00:00/24
+  - 78:91:E9:00:00:00/24
+  - 98:00:74:00:00:00/24
+  - A8:6D:5F:00:00:00/24
+  - B8:A1:4A:00:00:00/24
+  - C8:50:E9:00:00:00/24
+  - CC:C2:E0:00:00:00/24
+  manufacturer: Raisecom Technology
+  manufacturer-uri: https://device-type.com
+  name: Raisecom
+type: d3-device-type-assertion

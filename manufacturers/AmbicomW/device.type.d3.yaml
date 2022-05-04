@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0902048-82fb-46d8-8e3b-215693016309
+  mac-addresses:
+  - 00:10:7A:00:00:00/24
+  manufacturer: Ambicom (was Tandy?)
+  manufacturer-uri: https://device-type.com
+  name: AmbicomW
+type: d3-device-type-assertion

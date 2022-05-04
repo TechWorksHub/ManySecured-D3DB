@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 67e8e495-f96b-4abb-86f9-861a6686f2eb
+  mac-addresses:
+  - 00:25:D9:00:00:00/24
+  - 00:30:FF:00:00:00/24
+  manufacturer: DataFab Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: DataFab
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42ff70da-bc7d-4da7-8b9e-f5243a5c0e1f
+  mac-addresses:
+  - 00:22:34:00:00:00/24
+  manufacturer: Corventis Inc.
+  manufacturer-uri: https://device-type.com
+  name: Corventi
+type: d3-device-type-assertion

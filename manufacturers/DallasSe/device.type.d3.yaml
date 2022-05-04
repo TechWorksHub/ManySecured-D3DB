@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78f3ccb2-37f6-456c-b2de-81983ab5327f
+  mac-addresses:
+  - 00:60:35:00:00:00/24
+  manufacturer: Dallas Semiconductor, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DallasSe
+type: d3-device-type-assertion

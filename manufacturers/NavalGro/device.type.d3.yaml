@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5e1455da-b972-4823-bd33-17d4ad1c964e
+  mac-addresses:
+  - 70:B3:D5:38:20:00/36
+  - 70:B3:D5:B2:70:00/36
+  manufacturer: Naval Group
+  manufacturer-uri: https://device-type.com
+  name: NavalGro
+type: d3-device-type-assertion

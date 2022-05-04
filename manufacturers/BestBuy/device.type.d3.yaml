@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32bde8b2-ccfc-48e7-81ce-5e945039a692
+  mac-addresses:
+  - 58:50:E6:00:00:00/24
+  manufacturer: Best Buy Corporation
+  manufacturer-uri: https://device-type.com
+  name: BestBuy
+type: d3-device-type-assertion

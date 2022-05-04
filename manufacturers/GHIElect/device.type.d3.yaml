@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0f161693-2bde-4927-93dd-62fe6ae5fc6a
+  mac-addresses:
+  - 00:21:03:00:00:00/24
+  manufacturer: GHI Electronics, LLC
+  manufacturer-uri: https://device-type.com
+  name: GHIElect
+type: d3-device-type-assertion

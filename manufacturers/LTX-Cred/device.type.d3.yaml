@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d5149a4-5468-446d-a3eb-62c8ceadd334
+  mac-addresses:
+  - 00:E0:88:00:00:00/24
+  manufacturer: LTX-Credence CORPORATION
+  manufacturer-uri: https://device-type.com
+  name: LTX-Cred
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08c9dc1c-5ba9-4b35-a5bd-ad246c91d801
+  mac-addresses:
+  - 00:E0:42:00:00:00/24
+  manufacturer: Pacom Systems Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Pacom
+type: d3-device-type-assertion

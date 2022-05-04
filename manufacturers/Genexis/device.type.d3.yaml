@@ -1,0 +1,11 @@
+credentialSubject:
+  id: c5505017-5017-4b66-b48b-ee0d5692c1bf
+  mac-addresses:
+  - 00:0F:5D:00:00:00/24
+  - 00:0F:94:00:00:00/24
+  - 34:E3:80:00:00:00/24
+  - 58:00:32:00:00:00/24
+  manufacturer: Genexis BV
+  manufacturer-uri: https://device-type.com
+  name: Genexis
+type: d3-device-type-assertion

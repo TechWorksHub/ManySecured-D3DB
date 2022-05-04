@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5f20069-3a6f-4668-b7e4-8450baf7cec8
+  mac-addresses:
+  - 00:20:69:00:00:00/24
+  manufacturer: Isdn Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: Isdn
+type: d3-device-type-assertion

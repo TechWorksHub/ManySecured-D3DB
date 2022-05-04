@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cd1b9720-8708-4ca6-944c-ae3364cdb929
+  mac-addresses:
+  - 00:15:EF:00:00:00/24
+  - 00:50:C2:3B:50:00/36
+  manufacturer: NEC TOKIN Corporation
+  manufacturer-uri: https://device-type.com
+  name: NECTOKIN
+type: d3-device-type-assertion

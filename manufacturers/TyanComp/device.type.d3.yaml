@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f51a6eac-4635-4c89-b37c-6c89306a3bee
+  mac-addresses:
+  - 00:E0:81:00:00:00/24
+  - A0:42:3F:00:00:00/24
+  manufacturer: Tyan Computer Corp.
+  manufacturer-uri: https://device-type.com
+  name: TyanComp
+type: d3-device-type-assertion

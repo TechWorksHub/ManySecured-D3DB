@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dd0c9db-28ed-4425-ac3c-866a9e7081ae
+  mac-addresses:
+  - 00:D0:F3:00:00:00/24
+  manufacturer: Solari Di Udine Spa
+  manufacturer-uri: https://device-type.com
+  name: SolariDi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 17f04d24-0e14-4721-8724-70d175b4584f
+  mac-addresses:
+  - 00:26:78:00:00:00/24
+  manufacturer: Logic Instrument SA
+  manufacturer-uri: https://device-type.com
+  name: LogicIns
+type: d3-device-type-assertion

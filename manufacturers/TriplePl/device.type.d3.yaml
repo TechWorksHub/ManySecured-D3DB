@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a5a8c894-c5ff-45a4-8a3f-5e3847c3b991
+  mac-addresses:
+  - 00:0E:5D:00:00:00/24
+  - 70:B3:D5:C2:60:00/36
+  manufacturer: Triple Play Technologies A/S
+  manufacturer-uri: https://device-type.com
+  name: TriplePl
+type: d3-device-type-assertion

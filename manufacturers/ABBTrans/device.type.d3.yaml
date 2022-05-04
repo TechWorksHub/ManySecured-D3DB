@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 693fd92b-04c2-4d1b-9b03-cd5a33e8a23b
+  mac-addresses:
+  - 00:50:C2:66:A0:00/36
+  - 00:50:C2:7A:30:00/36
+  - 00:50:C2:9F:90:00/36
+  - 00:50:C2:B9:20:00/36
+  - 00:50:C2:C0:A0:00/36
+  - 00:50:C2:CD:C0:00/36
+  - 00:50:C2:D8:40:00/36
+  - 00:50:C2:DE:10:00/36
+  - 00:50:C2:E1:80:00/36
+  - 00:50:C2:E8:40:00/36
+  - 00:50:C2:EE:E0:00/36
+  - 00:50:C2:F1:70:00/36
+  manufacturer: ABB Transmission and Distribution Automation Equipment (Xiamen) Co.,
+    Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ABBTrans
+type: d3-device-type-assertion

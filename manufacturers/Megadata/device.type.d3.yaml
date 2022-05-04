@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8e890ff-4634-48d7-8c94-97ca047fd3ce
+  mac-addresses:
+  - 00:00:CE:00:00:00/24
+  manufacturer: Megadata Corp.
+  manufacturer-uri: https://device-type.com
+  name: Megadata
+type: d3-device-type-assertion

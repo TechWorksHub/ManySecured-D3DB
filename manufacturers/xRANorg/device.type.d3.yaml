@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1460fce4-e886-4ed6-ab98-3df453e9ce0c
+  mac-addresses:
+  - FA:EB:6E:00:00:00/24
+  manufacturer: xRAN.org
+  manufacturer-uri: https://device-type.com
+  name: xRANorg
+type: d3-device-type-assertion

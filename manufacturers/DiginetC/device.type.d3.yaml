@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e352b203-bcb2-4aa7-8e3f-51c2a4b5d7f2
+  mac-addresses:
+  - 10:07:23:20:00:00/28
+  manufacturer: Diginet Control Systems Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: DiginetC
+type: d3-device-type-assertion

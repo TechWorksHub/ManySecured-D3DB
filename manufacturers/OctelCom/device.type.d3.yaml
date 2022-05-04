@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb53eb71-2cef-4bdd-8296-34c11790b428
+  mac-addresses:
+  - 00:20:FB:00:00:00/24
+  manufacturer: Octel Communications Corp.
+  manufacturer-uri: https://device-type.com
+  name: OctelCom
+type: d3-device-type-assertion

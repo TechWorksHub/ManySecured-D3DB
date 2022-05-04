@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cfdfaea-59c5-443f-aa9e-081923c3d338
+  mac-addresses:
+  - 60:95:CE:40:00:00/28
+  manufacturer: Untangle, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Untangle
+type: d3-device-type-assertion

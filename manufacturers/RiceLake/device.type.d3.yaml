@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8bd194d-4e87-4c10-a409-0e8d538ced64
+  mac-addresses:
+  - 0C:92:4E:00:00:00/24
+  manufacturer: Rice Lake Weighing Systems
+  manufacturer-uri: https://device-type.com
+  name: RiceLake
+type: d3-device-type-assertion

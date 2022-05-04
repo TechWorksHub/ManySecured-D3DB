@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01cc8a56-34e5-4c39-be44-a0e2378464a2
+  mac-addresses:
+  - 00:25:DD:00:00:00/24
+  manufacturer: Sunnytek Information Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Sunnytek
+type: d3-device-type-assertion

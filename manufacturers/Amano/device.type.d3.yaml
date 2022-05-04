@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f311151e-2b3d-4a84-99c8-c1ca64bbdd68
+  mac-addresses:
+  - 00:50:88:00:00:00/24
+  manufacturer: Amano Corporation
+  manufacturer-uri: https://device-type.com
+  name: Amano
+type: d3-device-type-assertion

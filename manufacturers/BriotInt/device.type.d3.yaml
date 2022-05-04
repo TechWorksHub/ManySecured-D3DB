@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1ce8a41-02f6-4bd7-a6b7-418f7884a1fc
+  mac-addresses:
+  - 00:1E:0F:00:00:00/24
+  manufacturer: Briot International
+  manufacturer-uri: https://device-type.com
+  name: BriotInt
+type: d3-device-type-assertion

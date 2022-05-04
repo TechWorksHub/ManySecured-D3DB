@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ab352d1-be54-4349-a409-c1453638d30c
+  mac-addresses:
+  - 00:21:AD:00:00:00/24
+  manufacturer: Nordic ID Oy
+  manufacturer-uri: https://device-type.com
+  name: NordicID
+type: d3-device-type-assertion

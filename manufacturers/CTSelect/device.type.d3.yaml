@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 38a074f4-c1c2-4f24-9d14-4c36f5c26f55
+  mac-addresses:
+  - 00:0E:72:00:00:00/24
+  manufacturer: CTS electronics
+  manufacturer-uri: https://device-type.com
+  name: CTSelect
+type: d3-device-type-assertion

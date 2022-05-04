@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c12c499-f533-4f8a-bd63-5ffe75f6f284
+  mac-addresses:
+  - 00:05:C4:00:00:00/24
+  manufacturer: Telect, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telect
+type: d3-device-type-assertion

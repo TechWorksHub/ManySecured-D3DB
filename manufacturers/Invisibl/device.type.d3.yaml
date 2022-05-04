@@ -1,0 +1,10 @@
+credentialSubject:
+  id: dddf99f4-1fe1-4d1a-8604-74f5b1053781
+  mac-addresses:
+  - 00:40:1D:00:00:00/24
+  - 70:B3:D5:5F:20:00/36
+  - B0:1B:4B:00:00:00/24
+  manufacturer: Invisible Software, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Invisibl
+type: d3-device-type-assertion

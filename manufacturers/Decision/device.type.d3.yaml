@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f96a87fe-ee46-4ede-a2a1-7f49bc368f0d
+  mac-addresses:
+  - 00:E0:F6:00:00:00/24
+  manufacturer: Decision Europe
+  manufacturer-uri: https://device-type.com
+  name: Decision
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0b8a8e1f-6afc-4d79-847c-8f48feab3638
+  mac-addresses:
+  - 00:50:C2:19:60:00/36
+  - 00:50:C2:54:90:00/36
+  manufacturer: Netsynt Spa
+  manufacturer-uri: https://device-type.com
+  name: Netsynt
+type: d3-device-type-assertion

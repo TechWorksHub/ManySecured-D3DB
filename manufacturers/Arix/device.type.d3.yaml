@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6f00504-270b-4644-a8f2-1aa5e3e0a58b
+  mac-addresses:
+  - 00:00:C7:00:00:00/24
+  manufacturer: Arix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Arix
+type: d3-device-type-assertion

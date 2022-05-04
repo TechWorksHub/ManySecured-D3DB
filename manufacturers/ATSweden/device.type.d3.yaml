@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d452f53-afbc-4ac6-a937-637a4634af56
+  mac-addresses:
+  - 00:0D:E3:00:00:00/24
+  manufacturer: AT Sweden AB
+  manufacturer-uri: https://device-type.com
+  name: ATSweden
+type: d3-device-type-assertion

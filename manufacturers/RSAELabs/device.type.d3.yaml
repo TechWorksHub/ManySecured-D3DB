@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2ce23ad1-56aa-4fd7-bb15-6871f14c9f2f
+  mac-addresses:
+  - F4:90:CB:E0:00:00/28
+  - FA:E5:1A:00:00:00/24
+  manufacturer: RSAE Labs Inc
+  manufacturer-uri: https://device-type.com
+  name: RSAELabs
+type: d3-device-type-assertion

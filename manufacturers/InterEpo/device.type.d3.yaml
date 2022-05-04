@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aca1efd9-23c5-4218-917f-94992bfd829b
+  mac-addresses:
+  - 00:09:92:00:00:00/24
+  - 00:50:C2:0C:40:00/36
+  manufacturer: InterEpoch Technology,INC.
+  manufacturer-uri: https://device-type.com
+  name: InterEpo
+type: d3-device-type-assertion

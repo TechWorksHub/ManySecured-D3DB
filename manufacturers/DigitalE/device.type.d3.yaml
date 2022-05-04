@@ -1,0 +1,18 @@
+credentialSubject:
+  id: b84f3b76-5bda-4d1d-8b6b-f30c141053ca
+  mac-addresses:
+  - 00:00:F8:00:00:00/24
+  - 00:01:FE:00:00:00/24
+  - 00:0A:B5:00:00:00/24
+  - 00:10:FE:00:00:00/24
+  - 00:12:87:00:00:00/24
+  - 00:15:A6:00:00:00/24
+  - 00:30:12:00:00:00/24
+  - 00:50:C2:45:D0:00/36
+  - 00:60:6D:00:00:00/24
+  - 08:00:2B:00:00:00/24
+  - 70:B3:D5:03:40:00/36
+  manufacturer: Digital Equipment Corporation
+  manufacturer-uri: https://device-type.com
+  name: DigitalE
+type: d3-device-type-assertion

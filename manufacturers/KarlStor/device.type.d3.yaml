@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4921a5b8-5605-4f78-adf9-b3f86dc90cf9
+  mac-addresses:
+  - 00:16:86:00:00:00/24
+  manufacturer: Karl Storz Imaging
+  manufacturer-uri: https://device-type.com
+  name: KarlStor
+type: d3-device-type-assertion

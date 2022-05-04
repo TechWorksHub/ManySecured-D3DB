@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e73c272-c2dd-457f-b9cb-570a19dc889e
+  mac-addresses:
+  - 10:B9:FE:00:00:00/24
+  manufacturer: Lika srl
+  manufacturer-uri: https://device-type.com
+  name: Lika
+type: d3-device-type-assertion

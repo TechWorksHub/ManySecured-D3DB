@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 66f6e0ed-fb03-46bc-b3eb-1a8f9d6880c3
+  mac-addresses:
+  - 00:D0:C4:00:00:00/24
+  manufacturer: Teratech Corporation
+  manufacturer-uri: https://device-type.com
+  name: Teratech
+type: d3-device-type-assertion

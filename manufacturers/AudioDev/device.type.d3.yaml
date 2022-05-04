@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01b3663d-0ea6-44a7-a827-a81cc17b219f
+  mac-addresses:
+  - 00:12:53:00:00:00/24
+  manufacturer: AudioDev AB
+  manufacturer-uri: https://device-type.com
+  name: AudioDev
+type: d3-device-type-assertion

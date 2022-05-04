@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92f95766-fdca-42de-869d-76eb1160cb2a
+  mac-addresses:
+  - 00:09:85:00:00:00/24
+  manufacturer: Auto Telecom Company
+  manufacturer-uri: https://device-type.com
+  name: AutoTele
+type: d3-device-type-assertion

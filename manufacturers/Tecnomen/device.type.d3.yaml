@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fd88ac0-0b30-4a38-92d5-4aa2eb4d9b2b
+  mac-addresses:
+  - 00:E0:20:00:00:00/24
+  manufacturer: Tecnomen Oy
+  manufacturer-uri: https://device-type.com
+  name: Tecnomen
+type: d3-device-type-assertion

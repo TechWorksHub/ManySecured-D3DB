@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c883850c-8dec-4545-8f21-50cb5145a8b2
+  mac-addresses:
+  - 08:0F:FA:00:00:00/24
+  manufacturer: Ksp Inc.
+  manufacturer-uri: https://device-type.com
+  name: Ksp
+type: d3-device-type-assertion

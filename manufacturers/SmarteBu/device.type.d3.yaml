@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7d361c6-96be-426c-a595-7622ff954b51
+  mac-addresses:
+  - F0:02:48:00:00:00/24
+  manufacturer: SmarteBuilding
+  manufacturer-uri: https://device-type.com
+  name: SmarteBu
+type: d3-device-type-assertion

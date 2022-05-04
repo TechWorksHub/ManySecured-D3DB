@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cd5bb05-f018-458a-98b6-de7aa4c4a040
+  mac-addresses:
+  - 00:05:D0:00:00:00/24
+  manufacturer: Solinet Systems
+  manufacturer-uri: https://device-type.com
+  name: Solinet
+type: d3-device-type-assertion

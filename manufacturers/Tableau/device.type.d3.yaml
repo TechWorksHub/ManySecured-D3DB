@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec865a05-edec-48f4-871b-472e004ae50a
+  mac-addresses:
+  - 00:0E:CC:00:00:00/24
+  manufacturer: Tableau, LLC
+  manufacturer-uri: https://device-type.com
+  name: Tableau
+type: d3-device-type-assertion

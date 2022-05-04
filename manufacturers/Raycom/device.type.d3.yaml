@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1f264eae-29e6-40e3-bb37-5036720899dd
+  mac-addresses:
+  - 00:19:AB:00:00:00/24
+  - 00:80:F2:00:00:00/24
+  manufacturer: Raycom CO., LTD
+  manufacturer-uri: https://device-type.com
+  name: Raycom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 526e1fd2-571d-4499-9c16-b84baa8d2d5d
+  mac-addresses:
+  - 00:60:01:00:00:00/24
+  manufacturer: InnoSys, Inc.
+  manufacturer-uri: https://device-type.com
+  name: InnoSys
+type: d3-device-type-assertion

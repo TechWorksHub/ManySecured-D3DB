@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d10d776-fc47-4e36-9589-fb585ac57bbe
+  mac-addresses:
+  - 00:0E:90:00:00:00/24
+  manufacturer: Ponico Corp.
+  manufacturer-uri: https://device-type.com
+  name: Ponico
+type: d3-device-type-assertion

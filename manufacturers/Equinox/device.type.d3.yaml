@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26e3254a-f28a-45ba-8cb1-d0fce8859f3d
+  mac-addresses:
+  - 00:80:7D:00:00:00/24
+  manufacturer: Equinox Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Equinox
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf0f76e3-5574-411e-8412-9482d3052e0b
+  mac-addresses:
+  - 00:A0:E4:00:00:00/24
+  manufacturer: Optiquest
+  manufacturer-uri: https://device-type.com
+  name: Optiques
+type: d3-device-type-assertion

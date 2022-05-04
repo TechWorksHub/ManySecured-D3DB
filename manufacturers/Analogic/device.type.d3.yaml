@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a4d9cc55-3dad-42e4-b9dd-52dc203cf8b1
+  mac-addresses:
+  - 00:1A:AA:00:00:00/24
+  - 70:B3:D5:B4:90:00/36
+  manufacturer: Analogic Corp.
+  manufacturer-uri: https://device-type.com
+  name: Analogic
+type: d3-device-type-assertion

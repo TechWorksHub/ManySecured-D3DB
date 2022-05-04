@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b545773c-2ba2-4b6a-9468-c70b5c8d4b1f
+  mac-addresses:
+  - 70:F8:E7:30:00:00/28
+  manufacturer: Dr. Simon Consulting GmbH
+  manufacturer-uri: https://device-type.com
+  name: DrSimonC
+type: d3-device-type-assertion

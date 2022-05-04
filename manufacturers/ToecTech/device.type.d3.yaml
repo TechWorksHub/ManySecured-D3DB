@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e876ee66-e044-49a4-98fa-03b8334d70f8
+  mac-addresses:
+  - 40:D8:55:07:70:00/36
+  - A4:ED:43:E0:00:00/28
+  manufacturer: Toec Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: ToecTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d65f0823-a4be-4df0-ad2e-d3b4a6ffcd0c
+  mac-addresses:
+  - 00:01:B9:00:00:00/24
+  manufacturer: SKF (U.K.) Limited
+  manufacturer-uri: https://device-type.com
+  name: SKFUK
+type: d3-device-type-assertion

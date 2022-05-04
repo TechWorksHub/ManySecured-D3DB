@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8e01d37-c43d-4064-9a87-252e90e56ea7
+  mac-addresses:
+  - 00:0A:53:00:00:00/24
+  - 00:14:5C:00:00:00/24
+  manufacturer: Intronics, Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Intronic
+type: d3-device-type-assertion

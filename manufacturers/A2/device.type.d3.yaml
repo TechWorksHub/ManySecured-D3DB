@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe1b3529-e020-411f-9be3-85c8db540e4e
+  mac-addresses:
+  - 00:10:43:00:00:00/24
+  manufacturer: A2 Corporation
+  manufacturer-uri: https://device-type.com
+  name: A2
+type: d3-device-type-assertion

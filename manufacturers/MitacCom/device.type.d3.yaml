@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6cc5c77b-04b2-41eb-a829-5a1d100193fb
+  mac-addresses:
+  - 14:84:30:00:00:00/24
+  - 4C:38:D5:00:00:00/24
+  manufacturer: Mitac Computing Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: MitacCom
+type: d3-device-type-assertion

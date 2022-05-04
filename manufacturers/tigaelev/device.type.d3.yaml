@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8e2f731-39ce-441c-9539-2dad121def85
+  mac-addresses:
+  - 44:D5:F2:50:00:00/28
+  - 70:B3:D5:FF:20:00/36
+  manufacturer: tiga.eleven GmbH
+  manufacturer-uri: https://device-type.com
+  name: tigaelev
+type: d3-device-type-assertion

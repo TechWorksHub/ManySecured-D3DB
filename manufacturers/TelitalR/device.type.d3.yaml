@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40a8415c-c763-4cd7-8b98-74fcc13c1b31
+  mac-addresses:
+  - 00:02:06:00:00:00/24
+  manufacturer: Telital R&D Denmark A/S
+  manufacturer-uri: https://device-type.com
+  name: TelitalR
+type: d3-device-type-assertion

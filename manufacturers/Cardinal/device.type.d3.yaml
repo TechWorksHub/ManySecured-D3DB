@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 54a7b43f-09e1-41e1-af25-b3df8ef0c48c
+  mac-addresses:
+  - 00:50:C2:88:E0:00/36
+  - 70:B3:D5:09:C0:00/36
+  - 70:B3:D5:26:80:00/36
+  - 70:B3:D5:30:F0:00/36
+  - 70:B3:D5:48:80:00/36
+  - 70:B3:D5:75:E0:00/36
+  - 70:B3:D5:E5:A0:00/36
+  - 8C:1F:64:DD:50:00/36
+  manufacturer: Cardinal Scale Mfg Co
+  manufacturer-uri: https://device-type.com
+  name: Cardinal
+type: d3-device-type-assertion

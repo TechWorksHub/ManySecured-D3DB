@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a3d3c90a-4bd8-4e4e-8385-133bee4bb2aa
+  mac-addresses:
+  - 00:01:8E:00:00:00/24
+  - 34:95:DB:00:00:00/24
+  manufacturer: Logitec Corporation
+  manufacturer-uri: https://device-type.com
+  name: Logitec
+type: d3-device-type-assertion

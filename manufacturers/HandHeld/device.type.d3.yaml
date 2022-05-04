@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 97a0feb4-fee7-4db1-804f-f2c384afc088
+  mac-addresses:
+  - 00:10:20:00:00:00/24
+  - 00:1A:0D:00:00:00/24
+  manufacturer: Hand Held Products Inc
+  manufacturer-uri: https://device-type.com
+  name: HandHeld
+type: d3-device-type-assertion

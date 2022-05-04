@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c593c1ce-6731-4dde-93e4-9370d8b5aa85
+  mac-addresses:
+  - 64:13:31:00:00:00/24
+  manufacturer: Bosch Car Multimedia (Wuhu) Co. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BoschCar
+type: d3-device-type-assertion

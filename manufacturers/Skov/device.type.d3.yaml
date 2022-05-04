@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61c5fcdf-fd29-44dc-a79f-a99cae1ba9f6
+  mac-addresses:
+  - 00:0E:CD:00:00:00/24
+  manufacturer: Skov A/S
+  manufacturer-uri: https://device-type.com
+  name: Skov
+type: d3-device-type-assertion

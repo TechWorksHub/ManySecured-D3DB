@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c61a00a-31b8-451c-9443-d4459f60c1dd
+  mac-addresses:
+  - D4:B4:3E:00:00:00/24
+  manufacturer: Messcomp Datentechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: Messcomp
+type: d3-device-type-assertion

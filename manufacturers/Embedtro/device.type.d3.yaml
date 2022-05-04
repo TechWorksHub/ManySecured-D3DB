@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f0e6e416-31b1-4a9a-b4b9-ec1400f69184
+  mac-addresses:
+  - 00:0D:10:00:00:00/24
+  - 00:50:C2:38:A0:00/36
+  manufacturer: Embedtronics Oy
+  manufacturer-uri: https://device-type.com
+  name: Embedtro
+type: d3-device-type-assertion

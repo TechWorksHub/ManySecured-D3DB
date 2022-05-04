@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e65ff69-fd0d-48f2-b018-03c99aed53a0
+  mac-addresses:
+  - 00:0B:C4:00:00:00/24
+  manufacturer: BIOTRONIK GmbH & Co
+  manufacturer-uri: https://device-type.com
+  name: BIOTRONI
+type: d3-device-type-assertion

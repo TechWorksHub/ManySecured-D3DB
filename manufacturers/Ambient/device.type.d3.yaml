@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eca9b9f1-616a-4310-80aa-433ed90d3e22
+  mac-addresses:
+  - 00:15:B1:00:00:00/24
+  manufacturer: Ambient Corporation
+  manufacturer-uri: https://device-type.com
+  name: Ambient
+type: d3-device-type-assertion

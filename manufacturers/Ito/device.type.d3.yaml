@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bb24cd6-e649-4314-872b-7a3a8eba098e
+  mac-addresses:
+  - 00:10:0C:00:00:00/24
+  manufacturer: Ito Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Ito
+type: d3-device-type-assertion

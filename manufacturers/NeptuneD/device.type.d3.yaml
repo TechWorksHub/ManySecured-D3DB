@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfbb97f7-8845-42de-b199-262f1e2c379a
+  mac-addresses:
+  - 00:1D:01:00:00:00/24
+  manufacturer: Neptune Digital
+  manufacturer-uri: https://device-type.com
+  name: NeptuneD
+type: d3-device-type-assertion

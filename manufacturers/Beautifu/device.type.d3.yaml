@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f39cb906-906e-4e32-8efd-edfed91a23cb
+  mac-addresses:
+  - 40:DD:D1:00:00:00/24
+  - C8:84:47:00:00:00/24
+  manufacturer: Beautiful Card Corporation
+  manufacturer-uri: https://device-type.com
+  name: Beautifu
+type: d3-device-type-assertion

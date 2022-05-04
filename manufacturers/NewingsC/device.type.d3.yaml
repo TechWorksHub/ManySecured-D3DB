@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 43423785-51aa-4773-ad61-c15779fe1ac9
+  mac-addresses:
+  - 14:1F:BA:B0:00:00/28
+  - 70:2D:D1:00:00:00/24
+  manufacturer: Newings Communication CO., LTD.
+  manufacturer-uri: https://device-type.com
+  name: NewingsC
+type: d3-device-type-assertion

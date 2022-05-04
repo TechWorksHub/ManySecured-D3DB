@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 84e1a36b-301e-4449-961a-597a365d1fe2
+  mac-addresses:
+  - 00:27:0F:00:00:00/24
+  - 04:D1:6E:70:00:00/28
+  - AC:94:03:00:00:00/24
+  manufacturer: Envisionnovation Inc
+  manufacturer-uri: https://device-type.com
+  name: Envision
+type: d3-device-type-assertion

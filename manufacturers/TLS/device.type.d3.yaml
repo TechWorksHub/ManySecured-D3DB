@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1e882ce6-4b6d-4dfe-9d5a-61dbac80cb08
+  mac-addresses:
+  - 00:50:C2:00:00:00/36
+  - 58:50:AB:00:00:00/24
+  manufacturer: T.L.S. Corp.
+  manufacturer-uri: https://device-type.com
+  name: TLS
+type: d3-device-type-assertion

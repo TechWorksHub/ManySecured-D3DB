@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc2ea555-dd9c-4321-a7b8-6d207f2228a5
+  mac-addresses:
+  - 00:05:2A:00:00:00/24
+  manufacturer: Ikegami Tsushinki Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IkegamiT
+type: d3-device-type-assertion

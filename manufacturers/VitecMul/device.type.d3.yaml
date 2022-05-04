@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c4bc06f7-9ff1-43bd-9571-0351637bf0cf
+  mac-addresses:
+  - 00:50:C2:52:C0:00/36
+  - 00:50:C2:F1:80:00/36
+  - 70:B3:D5:A9:D0:00/36
+  manufacturer: Vitec Multimedia
+  manufacturer-uri: https://device-type.com
+  name: VitecMul
+type: d3-device-type-assertion

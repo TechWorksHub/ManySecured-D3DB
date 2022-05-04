@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c03003cb-db1c-483b-bde5-e0317a037e8f
+  mac-addresses:
+  - 00:06:C0:00:00:00/24
+  - 00:24:EC:00:00:00/24
+  - A0:2E:F3:00:00:00/24
+  manufacturer: United Internetworks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: UnitedIn
+type: d3-device-type-assertion

@@ -1,0 +1,14 @@
+credentialSubject:
+  id: b6c69a06-69b2-4e3b-a379-1413cd30fe63
+  mac-addresses:
+  - 00:50:C2:28:20:00/36
+  - 00:50:C2:81:40:00/36
+  - 00:50:C2:D7:60:00/36
+  - 00:50:C2:F9:A0:00/36
+  - 40:D8:55:0B:60:00/36
+  - 40:D8:55:17:F0:00/36
+  - 48:D8:55:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Telvent
+type: d3-device-type-assertion

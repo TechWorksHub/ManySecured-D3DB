@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ecbd9bc-a9de-4c45-9dfc-c456b1b91b05
+  mac-addresses:
+  - 9C:6A:BE:00:00:00/24
+  manufacturer: QEES ApS.
+  manufacturer-uri: https://device-type.com
+  name: QEESApS
+type: d3-device-type-assertion

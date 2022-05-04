@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd6c7e04-5b99-4418-b1ef-6335aa5c7621
+  mac-addresses:
+  - 00:60:61:00:00:00/24
+  manufacturer: Whistle Communications Corp.
+  manufacturer-uri: https://device-type.com
+  name: WhistleC
+type: d3-device-type-assertion

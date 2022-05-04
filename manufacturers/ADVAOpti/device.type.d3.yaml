@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 12234e18-c980-4eca-9233-f0e9cbcf28b9
+  mac-addresses:
+  - 00:0B:90:00:00:00/24
+  - 00:50:C2:71:B0:00/36
+  - 00:80:EA:00:00:00/24
+  - 00:D0:8B:00:00:00/24
+  - 18:BC:57:00:00:00/24
+  - 28:9A:F7:00:00:00/24
+  - 84:C8:07:00:00:00/24
+  manufacturer: ADVA Optical Networking Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ADVAOpti
+type: d3-device-type-assertion

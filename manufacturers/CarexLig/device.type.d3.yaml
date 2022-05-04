@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32ac3aea-e892-4263-92b1-0ee1dfcfdc6c
+  mac-addresses:
+  - 00:1B:14:00:00:00/24
+  manufacturer: Carex Lighting Equipment Factory
+  manufacturer-uri: https://device-type.com
+  name: CarexLig
+type: d3-device-type-assertion

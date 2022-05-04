@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 076abda8-f57e-4f88-aa8f-cbdbc62de280
+  mac-addresses:
+  - 00:1B:A2:00:00:00/24
+  - 5C:67:76:00:00:00/24
+  manufacturer: IDS Imaging Development Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: IDSImagi
+type: d3-device-type-assertion

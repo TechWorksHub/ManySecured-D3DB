@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6bd167df-65c8-4ff6-8245-f3c3bf880901
+  mac-addresses:
+  - 00:12:9D:00:00:00/24
+  - 00:14:0B:00:00:00/24
+  - 00:40:CA:00:00:00/24
+  manufacturer: First International Computer do Brasil
+  manufacturer-uri: https://device-type.com
+  name: FirstInt
+type: d3-device-type-assertion

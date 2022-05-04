@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6d2b81d-eb8a-40ae-8855-8566488ed577
+  mac-addresses:
+  - 00:22:0A:00:00:00/24
+  manufacturer: OnLive, Inc
+  manufacturer-uri: https://device-type.com
+  name: OnLive
+type: d3-device-type-assertion

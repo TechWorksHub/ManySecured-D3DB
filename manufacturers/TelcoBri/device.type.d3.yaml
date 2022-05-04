@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dcfdaae-54d8-4440-ae46-50b1e945559c
+  mac-addresses:
+  - 00:0C:38:00:00:00/24
+  manufacturer: TelcoBridges Inc.
+  manufacturer-uri: https://device-type.com
+  name: TelcoBri
+type: d3-device-type-assertion

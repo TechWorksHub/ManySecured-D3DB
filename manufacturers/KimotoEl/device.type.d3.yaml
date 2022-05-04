@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd150499-1f47-4df0-8f04-eca8be1735eb
+  mac-addresses:
+  - 00:06:15:00:00:00/24
+  manufacturer: Kimoto Electric Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: KimotoEl
+type: d3-device-type-assertion

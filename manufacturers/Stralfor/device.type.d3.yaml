@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92e81958-d59b-4a48-a1c4-324eeef93de0
+  mac-addresses:
+  - 00:07:6B:00:00:00/24
+  manufacturer: Stralfors AB
+  manufacturer-uri: https://device-type.com
+  name: Stralfor
+type: d3-device-type-assertion

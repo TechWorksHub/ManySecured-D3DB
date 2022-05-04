@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c2f5b83-2a09-4877-b15c-74d781f28d17
+  mac-addresses:
+  - 00:50:6E:00:00:00/24
+  manufacturer: Corder Engineering Corporation
+  manufacturer-uri: https://device-type.com
+  name: CorderEn
+type: d3-device-type-assertion

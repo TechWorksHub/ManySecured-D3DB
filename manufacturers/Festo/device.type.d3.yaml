@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bf78f65-e5d3-475a-8e4e-9d3addd83259
+  mac-addresses:
+  - 00:0E:F0:00:00:00/24
+  manufacturer: Festo AG & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: Festo
+type: d3-device-type-assertion

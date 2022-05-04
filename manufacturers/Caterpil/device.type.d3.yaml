@@ -1,0 +1,10 @@
+credentialSubject:
+  id: dba27c8c-170c-4fcd-b1ed-be39acb04215
+  mac-addresses:
+  - 00:0A:75:00:00:00/24
+  - 0A:E4:71:00:00:00/24
+  - 7C:6F:06:00:00:00/24
+  manufacturer: Caterpillar, Inc
+  manufacturer-uri: https://device-type.com
+  name: Caterpil
+type: d3-device-type-assertion

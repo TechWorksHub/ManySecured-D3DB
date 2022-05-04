@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb6d2702-26a5-43e4-bc4a-62471e0f3ff0
+  mac-addresses:
+  - 00:04:AC:00:00:00/24
+  manufacturer: IBM
+  manufacturer-uri: https://device-type.com
+  name: IbmPcmci
+type: d3-device-type-assertion

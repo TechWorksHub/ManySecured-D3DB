@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a54a769b-dc94-41bf-916f-b4a074bc6f9e
+  mac-addresses:
+  - 00:04:10:00:00:00/24
+  manufacturer: Spinnaker Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Spinnake
+type: d3-device-type-assertion

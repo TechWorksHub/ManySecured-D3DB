@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8750a351-56f3-4c1c-9ad5-62a5ee2dbb93
+  mac-addresses:
+  - 64:DB:18:00:00:00/24
+  manufacturer: OpenPattern
+  manufacturer-uri: https://device-type.com
+  name: OpenPatt
+type: d3-device-type-assertion

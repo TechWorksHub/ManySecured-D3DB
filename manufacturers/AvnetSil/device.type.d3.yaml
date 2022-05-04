@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3110fcc1-c8bf-400b-8367-315868e8d3c1
+  mac-addresses:
+  - D8:22:F4:00:00:00/24
+  manufacturer: Avnet Silica
+  manufacturer-uri: https://device-type.com
+  name: AvnetSil
+type: d3-device-type-assertion

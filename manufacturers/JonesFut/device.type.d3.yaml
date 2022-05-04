@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 511dcaec-8290-4d20-837b-5b467bb817a8
+  mac-addresses:
+  - 00:B0:6D:00:00:00/24
+  manufacturer: Jones Futurex Inc.
+  manufacturer-uri: https://device-type.com
+  name: JonesFut
+type: d3-device-type-assertion

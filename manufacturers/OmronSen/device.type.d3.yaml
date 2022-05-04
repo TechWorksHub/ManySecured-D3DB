@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d7f1cab-61c5-4859-9408-f010cc59a443
+  mac-addresses:
+  - D4:7C:44:30:00:00/28
+  manufacturer: Omron Sentech Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: OmronSen
+type: d3-device-type-assertion

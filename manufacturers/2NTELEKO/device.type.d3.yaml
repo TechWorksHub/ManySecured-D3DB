@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 30fac9a1-e0e6-4bcc-9638-5b2e291e6186
+  mac-addresses:
+  - 00:50:C2:29:C0:00/36
+  - 00:50:C2:62:20:00/36
+  - 00:50:C2:81:F0:00/36
+  - 00:50:C2:9B:F0:00/36
+  - 7C:1E:B3:00:00:00/24
+  manufacturer: 2N TELEKOMUNIKACE a.s.
+  manufacturer-uri: https://device-type.com
+  name: 2NTELEKO
+type: d3-device-type-assertion

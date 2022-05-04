@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ae887c9-aa95-4860-b612-a8f523c18a7e
+  mac-addresses:
+  - 00:50:C2:11:E0:00/36
+  manufacturer: Volvo Car Corporation
+  manufacturer-uri: https://device-type.com
+  name: VolvoCar
+type: d3-device-type-assertion

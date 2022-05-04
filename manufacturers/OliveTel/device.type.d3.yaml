@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fa4fdf1-1295-4a15-8535-a24f7cc88366
+  mac-addresses:
+  - E0:E8:E8:00:00:00/24
+  manufacturer: Olive Telecommunication Pvt. Ltd
+  manufacturer-uri: https://device-type.com
+  name: OliveTel
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a934d50d-a46c-4c52-a964-d18cc0eff0ec
+  mac-addresses:
+  - 00:40:FE:00:00:00/24
+  manufacturer: Symplex Communications
+  manufacturer-uri: https://device-type.com
+  name: SymplexC
+type: d3-device-type-assertion

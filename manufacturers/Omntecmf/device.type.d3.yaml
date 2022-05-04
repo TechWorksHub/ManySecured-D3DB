@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f42d0cad-e206-4640-92ab-13efff7fdbe0
+  mac-addresses:
+  - EC:E7:44:00:00:00/24
+  manufacturer: Omntec mfg. inc
+  manufacturer-uri: https://device-type.com
+  name: Omntecmf
+type: d3-device-type-assertion

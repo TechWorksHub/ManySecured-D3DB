@@ -1,0 +1,11 @@
+credentialSubject:
+  id: c14d750c-0fb6-49d6-8704-faec98b2beca
+  mac-addresses:
+  - 00:06:00:00:00:00/24
+  - 1C:88:79:80:00:00/28
+  - C0:F9:45:00:00:00/24
+  - C8:3A:1B:00:00:00/24
+  manufacturer: Toshiba Teli Corporation
+  manufacturer-uri: https://device-type.com
+  name: ToshibaT
+type: d3-device-type-assertion

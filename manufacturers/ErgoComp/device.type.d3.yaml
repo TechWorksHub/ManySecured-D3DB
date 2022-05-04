@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cc1e681-ad0e-4ad6-93e1-c3c9503543c5
+  mac-addresses:
+  - 00:40:A1:00:00:00/24
+  manufacturer: Ergo Computing
+  manufacturer-uri: https://device-type.com
+  name: ErgoComp
+type: d3-device-type-assertion

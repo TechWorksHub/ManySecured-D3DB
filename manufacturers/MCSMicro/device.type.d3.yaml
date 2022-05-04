@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c10ae82c-13ce-4a7a-83a3-89fdbf7cd80d
+  mac-addresses:
+  - 98:AA:FC:D0:00:00/28
+  manufacturer: MCS Micronic Computer Systeme GmbH
+  manufacturer-uri: https://device-type.com
+  name: MCSMicro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c62cefe5-d44c-406c-a71d-a679d2fc1c96
+  mac-addresses:
+  - 6C:64:1A:00:00:00/24
+  manufacturer: Penguin Computing
+  manufacturer-uri: https://device-type.com
+  name: PenguinC
+type: d3-device-type-assertion

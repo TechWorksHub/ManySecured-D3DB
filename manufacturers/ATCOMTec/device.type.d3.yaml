@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27e78b36-d15d-45f0-b875-50cbbcc5fca4
+  mac-addresses:
+  - 80:82:87:00:00:00/24
+  manufacturer: ATCOM Technology Co.Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ATCOMTec
+type: d3-device-type-assertion

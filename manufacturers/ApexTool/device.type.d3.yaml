@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc0f851b-2184-4972-9d61-7090cfeafbeb
+  mac-addresses:
+  - 90:18:5E:00:00:00/24
+  manufacturer: Apex Tool Group GmbH & Co OHG
+  manufacturer-uri: https://device-type.com
+  name: ApexTool
+type: d3-device-type-assertion

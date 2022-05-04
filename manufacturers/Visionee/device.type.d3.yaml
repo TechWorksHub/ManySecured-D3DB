@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5c269f7e-aeb1-4504-93ee-bd0331998113
+  mac-addresses:
+  - 00:1C:52:00:00:00/24
+  - 00:1D:E4:00:00:00/24
+  - 00:1E:9F:00:00:00/24
+  manufacturer: Visionee Srl
+  manufacturer-uri: https://device-type.com
+  name: Visionee
+type: d3-device-type-assertion

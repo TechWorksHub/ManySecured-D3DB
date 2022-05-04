@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6ca85eb-9996-4736-9da9-848e50b030fd
+  mac-addresses:
+  - 00:00:E1:00:00:00/24
+  manufacturer: Grid Systems
+  manufacturer-uri: https://device-type.com
+  name: Grid
+type: d3-device-type-assertion

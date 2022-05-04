@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 29be8d31-d634-4501-b895-ec8abcb2eb3c
+  mac-addresses:
+  - 00:1A:0F:00:00:00/24
+  - 24:DA:B6:00:00:00/24
+  - A4:E9:91:00:00:00/24
+  manufacturer: Sistemas Avanzados de Control, S.A.
+  manufacturer-uri: https://device-type.com
+  name: Sistemas
+type: d3-device-type-assertion

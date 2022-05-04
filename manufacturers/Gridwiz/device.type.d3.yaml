@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e202933-9e5e-49e0-8344-44b407d9fa80
+  mac-addresses:
+  - 5C:CC:A0:00:00:00/24
+  manufacturer: Gridwiz Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gridwiz
+type: d3-device-type-assertion

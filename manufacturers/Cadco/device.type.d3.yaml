@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 558730b1-5621-43e5-b1f7-cb06e3171e58
+  mac-addresses:
+  - 00:12:20:00:00:00/24
+  manufacturer: Cadco Systems
+  manufacturer-uri: https://device-type.com
+  name: Cadco
+type: d3-device-type-assertion

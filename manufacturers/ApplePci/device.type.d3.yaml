@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 596b3872-4597-4ac8-a132-2697b01fbc6f
+  mac-addresses:
+  - 00:05:02:00:00:00/24
+  - 00:A0:40:00:00:00/24
+  manufacturer: Apple (PCI bus Macs)
+  manufacturer-uri: https://device-type.com
+  name: ApplePci
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f641f109-db0d-4e4c-ac5a-6074af42bba4
+  mac-addresses:
+  - 2C:7B:84:00:00:00/24
+  manufacturer: OOO Petr Telegin
+  manufacturer-uri: https://device-type.com
+  name: PetrTele
+type: d3-device-type-assertion

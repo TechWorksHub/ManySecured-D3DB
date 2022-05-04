@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ac23f0d-f6e2-4e34-a516-a325e5cf5f4d
+  mac-addresses:
+  - 00:14:C1:00:00:00/24
+  manufacturer: U.S. Robotics Corporation
+  manufacturer-uri: https://device-type.com
+  name: USRoboti
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2fbf33a5-4aba-4675-b62f-b11a8bf7518f
+  mac-addresses:
+  - 00:18:2A:00:00:00/24
+  - 00:50:C2:5B:90:00/36
+  manufacturer: Taiwan Video & Monitor
+  manufacturer-uri: https://device-type.com
+  name: TaiwanVi
+type: d3-device-type-assertion

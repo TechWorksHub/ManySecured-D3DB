@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 611dd085-6321-48a2-b6ee-843de6bbfeb8
+  mac-addresses:
+  - 00:13:FA:00:00:00/24
+  manufacturer: LifeSize Communications, Inc
+  manufacturer-uri: https://device-type.com
+  name: LifeSize
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b382e4d-99ae-4f25-8506-0191bd6ef176
+  mac-addresses:
+  - A0:BA:B8:00:00:00/24
+  manufacturer: Pixon Imaging
+  manufacturer-uri: https://device-type.com
+  name: PixonIma
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61c39686-7546-4864-bc19-65bb70a961ce
+  mac-addresses:
+  - 00:80:BF:00:00:00/24
+  manufacturer: Takaoka Electric Mfg. Co. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TakaokaE
+type: d3-device-type-assertion

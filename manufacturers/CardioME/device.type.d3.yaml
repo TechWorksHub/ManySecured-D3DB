@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d3b0ef6-b904-41e2-8a54-06b9f611ae4f
+  mac-addresses:
+  - 00:50:C2:73:40:00/36
+  manufacturer: CardioMEMS Inc.
+  manufacturer-uri: https://device-type.com
+  name: CardioME
+type: d3-device-type-assertion

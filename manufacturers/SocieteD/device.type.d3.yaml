@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fce28469-1c1e-408b-aaee-ff4879e313b6
+  mac-addresses:
+  - 00:40:7A:00:00:00/24
+  manufacturer: Societe D'Exploitation Du Cnit
+  manufacturer-uri: https://device-type.com
+  name: SocieteD
+type: d3-device-type-assertion

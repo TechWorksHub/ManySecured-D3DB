@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 840016a6-70a4-40e2-8a92-dd4489bdc542
+  mac-addresses:
+  - 00:50:C2:D5:50:00/36
+  - F4:0E:11:90:00:00/28
+  manufacturer: Sterna Security
+  manufacturer-uri: https://device-type.com
+  name: SternaSe
+type: d3-device-type-assertion

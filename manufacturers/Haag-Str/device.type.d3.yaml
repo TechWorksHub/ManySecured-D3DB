@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f47dd1e6-eb4b-4b22-beb1-940fa847d5d5
+  mac-addresses:
+  - 00:50:C2:12:F0:00/36
+  - 00:50:C2:14:90:00/36
+  - 58:48:49:C0:00:00/28
+  - 70:B3:D5:5C:50:00/36
+  manufacturer: Haag-Streit AG
+  manufacturer-uri: https://device-type.com
+  name: Haag-Str
+type: d3-device-type-assertion

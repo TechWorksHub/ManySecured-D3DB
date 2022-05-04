@@ -1,0 +1,12 @@
+credentialSubject:
+  id: a43b4ea9-1066-4ebe-a3cb-4516675d31fb
+  mac-addresses:
+  - 00:18:91:00:00:00/24
+  - 04:51:70:00:00:00/24
+  - 24:35:CC:00:00:00/24
+  - 64:A6:8F:00:00:00/24
+  - 94:C9:60:00:00:00/24
+  manufacturer: Zhongshan General K-mate Electronics Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Zhongsha
+type: d3-device-type-assertion

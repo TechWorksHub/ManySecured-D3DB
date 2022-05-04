@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d2138f6-07d9-414d-9ee2-bace20006d7d
+  mac-addresses:
+  - 00:90:79:00:00:00/24
+  manufacturer: ClearOne, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ClearOne
+type: d3-device-type-assertion

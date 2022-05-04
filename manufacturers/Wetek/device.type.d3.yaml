@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4234a62c-63c2-48f7-8a73-fbb3e1e22470
+  mac-addresses:
+  - 00:0B:26:00:00:00/24
+  manufacturer: Wetek Corporation
+  manufacturer-uri: https://device-type.com
+  name: Wetek
+type: d3-device-type-assertion

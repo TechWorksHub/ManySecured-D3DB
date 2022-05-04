@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03d4c85c-2359-419b-a051-99e6986ef689
+  mac-addresses:
+  - 00:14:F5:00:00:00/24
+  manufacturer: OSI Security Devices
+  manufacturer-uri: https://device-type.com
+  name: OSISecur
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 089f5248-5136-4ed3-ab73-c9968a4f05b6
+  mac-addresses:
+  - 00:11:7E:00:00:00/24
+  manufacturer: Midmark Corp
+  manufacturer-uri: https://device-type.com
+  name: Midmark
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52f74af9-71a1-455e-a6a5-b6dcd1b1b95b
+  mac-addresses:
+  - 00:16:87:00:00:00/24
+  manufacturer: Chubb CSC-Vendor AP
+  manufacturer-uri: https://device-type.com
+  name: ChubbCSC
+type: d3-device-type-assertion

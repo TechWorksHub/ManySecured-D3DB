@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 76bda5f6-fb6c-442d-8883-e7f851fe637d
+  mac-addresses:
+  - 00:03:DD:00:00:00/24
+  - 70:B3:D5:39:D0:00/36
+  manufacturer: Comark Interactive Solutions
+  manufacturer-uri: https://device-type.com
+  name: ComarkIn
+type: d3-device-type-assertion

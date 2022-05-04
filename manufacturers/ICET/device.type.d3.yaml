@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a70abdc-b76a-4de1-8127-82dec65bfd11
+  mac-addresses:
+  - 00:0B:C7:00:00:00/24
+  manufacturer: ICET S.p.A.
+  manufacturer-uri: https://device-type.com
+  name: ICET
+type: d3-device-type-assertion

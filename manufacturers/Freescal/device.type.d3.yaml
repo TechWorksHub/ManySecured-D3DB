@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 73e4ff82-87a3-4740-b3c9-525bffc49cc0
+  mac-addresses:
+  - 00:04:9F:00:00:00/24
+  - 00:50:C2:37:B0:00/36
+  - 80:FB:F1:00:00:00/24
+  manufacturer: Freescale Semiconductor
+  manufacturer-uri: https://device-type.com
+  name: Freescal
+type: d3-device-type-assertion

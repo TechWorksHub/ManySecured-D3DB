@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a865555-9e1e-41db-8b5c-b63f3e9711e2
+  mac-addresses:
+  - 68:79:24:00:00:00/24
+  manufacturer: ELS-GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: ELS
+type: d3-device-type-assertion

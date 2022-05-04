@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8811d42d-5005-4261-9f09-cc8848d6f92f
+  mac-addresses:
+  - 00:0C:64:00:00:00/24
+  manufacturer: X2 MSA Group
+  manufacturer-uri: https://device-type.com
+  name: X2MSAGro
+type: d3-device-type-assertion

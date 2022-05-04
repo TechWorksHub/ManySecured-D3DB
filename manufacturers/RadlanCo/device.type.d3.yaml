@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e5ed09d-9e3e-4e2b-b010-0e9079798a01
+  mac-addresses:
+  - 00:07:45:00:00:00/24
+  manufacturer: Radlan Computer Communications Ltd.
+  manufacturer-uri: https://device-type.com
+  name: RadlanCo
+type: d3-device-type-assertion

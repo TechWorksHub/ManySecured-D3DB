@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad100c2b-1503-42d7-b8ac-d5fb3e948f08
+  mac-addresses:
+  - CC:94:4A:00:00:00/24
+  manufacturer: Pfeiffer Vacuum GmbH
+  manufacturer-uri: https://device-type.com
+  name: Pfeiffer
+type: d3-device-type-assertion

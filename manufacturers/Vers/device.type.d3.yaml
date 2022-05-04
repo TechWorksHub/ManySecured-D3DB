@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1cb28e6-1f29-43ef-87d8-8d39fb79c80b
+  mac-addresses:
+  - A4:3A:69:00:00:00/24
+  manufacturer: Vers Inc
+  manufacturer-uri: https://device-type.com
+  name: Vers
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a248ce1-3dfa-428a-83ba-21ec2b8fb535
+  mac-addresses:
+  - 00:60:9C:00:00:00/24
+  manufacturer: Perkin-Elmer Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Perkin-E
+type: d3-device-type-assertion

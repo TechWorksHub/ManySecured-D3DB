@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 4d127aa1-2bdd-4413-9eb8-7de37911a28d
+  mac-addresses:
+  - 00:0D:02:00:00:00/24
+  - 00:1B:8B:00:00:00/24
+  - 00:3A:9D:00:00:00/24
+  - 00:60:B9:00:00:00/24
+  - 08:10:86:00:00:00/24
+  - 10:66:82:00:00:00/24
+  - 1C:B1:7F:00:00:00/24
+  - 54:9B:49:00:00:00/24
+  - 6C:E4:DA:00:00:00/24
+  - 80:22:A7:00:00:00/24
+  - 98:F1:99:00:00:00/24
+  - A4:12:42:00:00:00/24
+  - C0:25:A2:00:00:00/24
+  - F8:B7:97:00:00:00/24
+  manufacturer: NEC Platforms, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NECPlatf
+type: d3-device-type-assertion

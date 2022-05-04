@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6c14981d-4187-4eab-a5dd-65a6274ce228
+  mac-addresses:
+  - 00:12:EF:00:00:00/24
+  - 70:FC:8C:00:00:00/24
+  manufacturer: OneAccess SA
+  manufacturer-uri: https://device-type.com
+  name: OneAcces
+type: d3-device-type-assertion

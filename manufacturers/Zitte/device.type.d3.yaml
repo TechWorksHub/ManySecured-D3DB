@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61df0d70-7e2b-49f1-9e4d-3d614805f1d0
+  mac-addresses:
+  - 88:96:55:00:00:00/24
+  manufacturer: Zitte corporation
+  manufacturer-uri: https://device-type.com
+  name: Zitte
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 67a8c0a0-dab0-4344-9919-ad68ffe26841
+  mac-addresses:
+  - 00:06:3B:00:00:00/24
+  - 00:50:C2:03:60:00/36
+  manufacturer: Arcturus Networks Inc.
+  manufacturer-uri: https://device-type.com
+  name: Arcturus
+type: d3-device-type-assertion

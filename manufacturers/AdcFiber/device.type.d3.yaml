@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b4d40d0-548f-4d0b-9f85-76bdffbc243a
+  mac-addresses:
+  - 00:80:51:00:00:00/24
+  manufacturer: ADC Fibermux
+  manufacturer-uri: https://device-type.com
+  name: AdcFiber
+type: d3-device-type-assertion

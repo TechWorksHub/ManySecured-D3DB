@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61307a47-c5ba-49d1-827d-446d21146c83
+  mac-addresses:
+  - 00:13:0D:00:00:00/24
+  manufacturer: Galileo Avionica
+  manufacturer-uri: https://device-type.com
+  name: GalileoA
+type: d3-device-type-assertion

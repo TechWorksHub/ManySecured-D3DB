@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2df277cc-5a72-45f5-9834-3ecb18b853a6
+  mac-addresses:
+  - D0:B5:3D:00:00:00/24
+  manufacturer: Sepro Robotique
+  manufacturer-uri: https://device-type.com
+  name: SeproRob
+type: d3-device-type-assertion

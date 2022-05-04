@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f131ad31-39a8-48a3-8e53-3dafbaa2a1f9
+  mac-addresses:
+  - 00:50:C2:99:30:00/36
+  - 78:EF:4C:00:00:00/24
+  manufacturer: Unetconvergence Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Unetconv
+type: d3-device-type-assertion

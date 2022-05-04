@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c02d110-68ea-4542-941e-0ff4ec5c2fa0
+  mac-addresses:
+  - FC:A8:4A:00:00:00/24
+  manufacturer: Sentinum GmbH
+  manufacturer-uri: https://device-type.com
+  name: Sentinum
+type: d3-device-type-assertion

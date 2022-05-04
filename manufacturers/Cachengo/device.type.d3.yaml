@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 22f43056-55d2-4f9c-a00c-882add7bf9f2
+  mac-addresses:
+  - 74:9A:C0:00:00:00/24
+  - AA:DC:47:00:00:00/24
+  manufacturer: Cachengo, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Cachengo
+type: d3-device-type-assertion

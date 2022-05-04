@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 29173d5a-d89b-4bb4-b2de-c96fc9a6419b
+  mac-addresses:
+  - 2C:E0:32:00:00:00/24
+  - 34:51:80:00:00:00/24
+  - 3C:59:1E:00:00:00/24
+  - 5C:36:B8:00:00:00/24
+  - C0:79:82:00:00:00/24
+  - CC:A1:2B:00:00:00/24
+  - D8:14:DF:00:00:00/24
+  manufacturer: TCL King Electrical Appliances(Huizhou)Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: TCLKingE
+type: d3-device-type-assertion

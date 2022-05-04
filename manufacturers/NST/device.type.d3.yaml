@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 679f2cb8-7330-47e6-abbd-84038a05b58f
+  mac-addresses:
+  - 00:0F:C4:00:00:00/24
+  - 30:52:5A:00:00:00/24
+  manufacturer: NST co.,LTD.
+  manufacturer-uri: https://device-type.com
+  name: NST
+type: d3-device-type-assertion

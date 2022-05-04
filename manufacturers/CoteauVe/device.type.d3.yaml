@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f7d20f8-7f63-4dc2-bf42-f842f8fff5ad
+  mac-addresses:
+  - 00:11:16:00:00:00/24
+  manufacturer: Coteau Vert Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CoteauVe
+type: d3-device-type-assertion

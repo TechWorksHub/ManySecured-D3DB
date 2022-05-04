@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e4cb9f79-1864-4572-afd0-6dbc8367d08c
+  mac-addresses:
+  - B8:AD:3E:00:00:00/24
+  - B8:F8:BE:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Bluecom
+type: d3-device-type-assertion

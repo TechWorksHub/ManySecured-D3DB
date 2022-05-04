@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09bb40db-fff6-44bd-b74b-f26431822982
+  mac-addresses:
+  - 20:E4:07:00:00:00/24
+  manufacturer: Spark srl
+  manufacturer-uri: https://device-type.com
+  name: Spark
+type: d3-device-type-assertion

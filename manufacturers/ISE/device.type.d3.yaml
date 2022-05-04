@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8a246fac-81fe-4fa6-9504-636d71ba5b20
+  mac-addresses:
+  - 00:50:C2:46:A0:00/36
+  - 9C:55:B4:00:00:00/24
+  - A4:11:63:A0:00:00/28
+  manufacturer: ISE GmbH
+  manufacturer-uri: https://device-type.com
+  name: ISE
+type: d3-device-type-assertion

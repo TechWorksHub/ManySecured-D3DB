@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ddff3cb4-ee9d-4681-9d7a-fb60d9daa310
+  mac-addresses:
+  - 40:D8:55:1D:80:00/36
+  - 5C:90:12:00:00:00/24
+  manufacturer: Owl Cyber Defense Solutions, LLC
+  manufacturer-uri: https://device-type.com
+  name: OwlCyber
+type: d3-device-type-assertion

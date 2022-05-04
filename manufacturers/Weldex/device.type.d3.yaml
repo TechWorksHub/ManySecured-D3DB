@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b872dc47-9d86-44ae-ab68-f802b96e1e12
+  mac-addresses:
+  - 00:18:9C:00:00:00/24
+  manufacturer: Weldex Corporation
+  manufacturer-uri: https://device-type.com
+  name: Weldex
+type: d3-device-type-assertion

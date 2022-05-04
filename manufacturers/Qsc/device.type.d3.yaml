@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a163828d-8c76-42b8-a80e-d022aedcde26
+  mac-addresses:
+  - 00:60:74:00:00:00/24
+  - 58:85:6E:00:00:00/24
+  manufacturer: Qsc Llc
+  manufacturer-uri: https://device-type.com
+  name: Qsc
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05f5b9ff-b0ca-4f8f-9828-f6c0bba40a53
+  mac-addresses:
+  - 00:02:EA:00:00:00/24
+  manufacturer: Focus Enhancements
+  manufacturer-uri: https://device-type.com
+  name: FocusEnh
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfbb5f1d-163d-4474-902c-950cdc5a5bfb
+  mac-addresses:
+  - 00:1A:01:00:00:00/24
+  manufacturer: Smiths Medical
+  manufacturer-uri: https://device-type.com
+  name: SmithsMe
+type: d3-device-type-assertion

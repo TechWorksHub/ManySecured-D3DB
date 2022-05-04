@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d71a6ed-1172-4b0b-89f8-47cf99e51358
+  mac-addresses:
+  - 00:09:51:00:00:00/24
+  manufacturer: Apogee Imaging Systems
+  manufacturer-uri: https://device-type.com
+  name: ApogeeIm
+type: d3-device-type-assertion

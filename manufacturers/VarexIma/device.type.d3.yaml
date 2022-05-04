@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a93e56db-17e1-4523-b4db-6af0e778bb3e
+  mac-addresses:
+  - 00:07:02:00:00:00/24
+  - 14:78:0B:00:00:00/24
+  manufacturer: Varex Imaging
+  manufacturer-uri: https://device-type.com
+  name: VarexIma
+type: d3-device-type-assertion

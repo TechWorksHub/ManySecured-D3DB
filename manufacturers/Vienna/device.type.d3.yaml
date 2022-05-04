@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0b210a51-16c0-463e-a885-755d881f3fb8
+  mac-addresses:
+  - 00:10:08:00:00:00/24
+  manufacturer: Vienna Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: Vienna
+type: d3-device-type-assertion

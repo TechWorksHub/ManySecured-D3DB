@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e55a550d-6dfb-418e-9dde-1f97adcf6426
+  mac-addresses:
+  - 00:50:C2:4D:40:00/36
+  - 70:B3:D5:4A:10:00/36
+  - 70:B3:D5:C6:B0:00/36
+  manufacturer: Herholdt Controls srl
+  manufacturer-uri: https://device-type.com
+  name: Herholdt
+type: d3-device-type-assertion

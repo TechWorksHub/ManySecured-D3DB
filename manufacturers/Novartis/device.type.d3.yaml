@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dbbc69a-1fd9-4a36-a7da-1e20e45b9e72
+  mac-addresses:
+  - 08:84:66:00:00:00/24
+  manufacturer: Novartis Pharma AG
+  manufacturer-uri: https://device-type.com
+  name: Novartis
+type: d3-device-type-assertion

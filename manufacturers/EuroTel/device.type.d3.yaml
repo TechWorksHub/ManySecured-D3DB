@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6d61384-06d8-41bd-9eb9-57d82d891919
+  mac-addresses:
+  - 00:1B:3D:00:00:00/24
+  manufacturer: EuroTel Spa
+  manufacturer-uri: https://device-type.com
+  name: EuroTel
+type: d3-device-type-assertion

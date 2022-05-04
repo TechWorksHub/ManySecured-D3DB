@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd9a3a39-0db7-46c3-9985-0592b6967fd1
+  mac-addresses:
+  - 00:13:D9:00:00:00/24
+  manufacturer: Matrix Product Development, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MatrixPr
+type: d3-device-type-assertion

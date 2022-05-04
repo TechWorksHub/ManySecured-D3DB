@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 51967155-fb98-44e0-bdb6-c44eaf0fcf34
+  mac-addresses:
+  - 00:0C:D2:00:00:00/24
+  - 00:22:22:00:00:00/24
+  manufacturer: Schaffner EMV AG
+  manufacturer-uri: https://device-type.com
+  name: Schaffne
+type: d3-device-type-assertion

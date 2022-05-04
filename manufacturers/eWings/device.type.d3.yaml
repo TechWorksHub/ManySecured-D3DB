@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fceb7e0-45f9-4e17-9057-c63c700d2c60
+  mac-addresses:
+  - 00:1A:AB:00:00:00/24
+  manufacturer: eWings s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: eWings
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e43c2fe6-5746-412f-82bf-d4e4cfdcd5be
+  mac-addresses:
+  - 00:90:65:00:00:00/24
+  manufacturer: Finisar Corporation
+  manufacturer-uri: https://device-type.com
+  name: Finisar
+type: d3-device-type-assertion

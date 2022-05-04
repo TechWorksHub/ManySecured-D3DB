@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 719d5309-28ea-4596-b53a-10d235caa5b8
+  mac-addresses:
+  - 00:00:0F:00:00:00/24
+  manufacturer: Next, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Next
+type: d3-device-type-assertion

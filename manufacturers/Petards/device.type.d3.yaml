@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b4c228e-0c8d-48ef-829b-83bef814dde7
+  mac-addresses:
+  - 00:06:9D:00:00:00/24
+  manufacturer: Petards Ltd
+  manufacturer-uri: https://device-type.com
+  name: Petards
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1afcc77e-3aef-46a4-a39c-e432b6bcac01
+  mac-addresses:
+  - 00:0F:72:00:00:00/24
+  manufacturer: Sandburst
+  manufacturer-uri: https://device-type.com
+  name: Sandburs
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c87a94c3-a571-4c1e-9c2e-d240c22a74a2
+  mac-addresses:
+  - 00:40:2D:00:00:00/24
+  manufacturer: Harris Adacom Corporation
+  manufacturer-uri: https://device-type.com
+  name: HarrisAd
+type: d3-device-type-assertion

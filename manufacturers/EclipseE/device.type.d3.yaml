@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31de0808-e60e-43d7-98ee-64552b898bd3
+  mac-addresses:
+  - AC:41:22:00:00:00/24
+  manufacturer: Eclipse Electronic Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: EclipseE
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c4e7d05-2fa5-46e8-bc4e-ed1b2ae8d643
+  mac-addresses:
+  - 00:50:C2:C7:40:00/36
+  - FC:B5:8A:00:00:00/24
+  manufacturer: Wapice Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Wapice
+type: d3-device-type-assertion

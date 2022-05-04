@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b174abdf-203a-4ed4-b691-28dc9c5c1b17
+  mac-addresses:
+  - 00:16:23:00:00:00/24
+  - 70:B3:D5:3F:00:00/36
+  manufacturer: Interval Media
+  manufacturer-uri: https://device-type.com
+  name: Interval
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9599dc0c-3daf-491e-a047-de2c94b216e2
+  mac-addresses:
+  - 00:C0:D0:00:00:00/24
+  manufacturer: Ratoc System Inc.
+  manufacturer-uri: https://device-type.com
+  name: RatocSys
+type: d3-device-type-assertion

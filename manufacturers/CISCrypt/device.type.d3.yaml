@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a2404f2-be95-4cd5-9ece-30f24416ab96
+  mac-addresses:
+  - 94:D0:75:00:00:00/24
+  manufacturer: CIS Crypto
+  manufacturer-uri: https://device-type.com
+  name: CISCrypt
+type: d3-device-type-assertion

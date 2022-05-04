@@ -1,0 +1,11 @@
+credentialSubject:
+  id: e540ba03-998f-4d56-9b68-b8b598d2ec8f
+  mac-addresses:
+  - 40:D8:55:12:80:00/36
+  - 70:B3:D5:09:A0:00/36
+  - 70:B3:D5:12:80:00/36
+  - 70:B3:D5:5C:C0:00/36
+  manufacturer: Akse srl
+  manufacturer-uri: https://device-type.com
+  name: Akse
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 686bb1c9-7ef5-4f05-b0cb-f83563617a37
+  mac-addresses:
+  - 84:7D:50:00:00:00/24
+  manufacturer: Holley Metering Limited
+  manufacturer-uri: https://device-type.com
+  name: HolleyMe
+type: d3-device-type-assertion

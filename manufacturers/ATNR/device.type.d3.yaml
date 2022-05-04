@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0250f5ea-c483-439d-81b7-d478bd417e7a
+  mac-addresses:
+  - 00:E0:79:00:00:00/24
+  manufacturer: A.T.N.R.
+  manufacturer-uri: https://device-type.com
+  name: ATNR
+type: d3-device-type-assertion

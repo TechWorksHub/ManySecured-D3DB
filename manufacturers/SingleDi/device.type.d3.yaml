@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52bad2b9-7d9a-401b-be27-f56be9575a94
+  mac-addresses:
+  - 3A:F5:21:00:00:00/24
+  manufacturer: Single Digits
+  manufacturer-uri: https://device-type.com
+  name: SingleDi
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f5e35b38-b215-444d-a160-81df9d69b6fa
+  mac-addresses:
+  - 00:40:9E:00:00:00/24
+  - 08:00:45:00:00:00/24
+  manufacturer: Concurrent Technologies Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Concurre
+type: d3-device-type-assertion

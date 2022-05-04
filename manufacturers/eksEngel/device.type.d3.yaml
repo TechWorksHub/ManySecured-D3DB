@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2c16c96-d431-492b-a393-10dd3dc49a38
+  mac-addresses:
+  - 00:25:05:00:00:00/24
+  manufacturer: eks Engel GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: eksEngel
+type: d3-device-type-assertion

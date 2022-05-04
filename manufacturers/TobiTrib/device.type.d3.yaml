@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9ffb04e8-2ba8-471b-81e3-307db36930f0
+  mac-addresses:
+  - 70:B3:D5:D6:80:00/36
+  - F0:2A:2B:10:00:00/28
+  manufacturer: Tobi Tribe Inc.
+  manufacturer-uri: https://device-type.com
+  name: TobiTrib
+type: d3-device-type-assertion

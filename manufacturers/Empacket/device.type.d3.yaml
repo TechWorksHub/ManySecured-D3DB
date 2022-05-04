@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 201a9254-2e6d-44c3-afb7-99d13a97c115
+  mac-addresses:
+  - 00:1C:90:00:00:00/24
+  manufacturer: Empacket Corporation
+  manufacturer-uri: https://device-type.com
+  name: Empacket
+type: d3-device-type-assertion

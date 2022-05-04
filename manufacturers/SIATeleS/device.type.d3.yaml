@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7241c080-2e93-4543-b2c7-2ca9f71cf19b
+  mac-addresses:
+  - 64:CB:5D:00:00:00/24
+  manufacturer: SIA "TeleSet"
+  manufacturer-uri: https://device-type.com
+  name: SIATeleS
+type: d3-device-type-assertion

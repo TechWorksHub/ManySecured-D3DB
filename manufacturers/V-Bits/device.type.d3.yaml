@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b38f171a-9533-4b1e-87cf-5a75d65f0ccd
+  mac-addresses:
+  - 00:D0:D4:00:00:00/24
+  manufacturer: V-Bits, Inc.
+  manufacturer-uri: https://device-type.com
+  name: V-Bits
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f9974a0-cc0a-4b20-b737-122e215add39
+  mac-addresses:
+  - 00:C0:74:00:00:00/24
+  manufacturer: Toyoda Automatic Loom Works Ltd
+  manufacturer-uri: https://device-type.com
+  name: ToyodaAu
+type: d3-device-type-assertion

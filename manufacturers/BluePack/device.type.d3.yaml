@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11f9813f-2bbc-45f6-ad23-132c8bd3b3fa
+  mac-addresses:
+  - 00:12:A1:00:00:00/24
+  manufacturer: BluePacket Communications Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: BluePack
+type: d3-device-type-assertion

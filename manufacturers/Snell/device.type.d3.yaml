@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17c3da87-981b-4e35-89f3-3cb6eb2da1a0
+  mac-addresses:
+  - 00:05:81:00:00:00/24
+  - 00:23:70:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Snell
+type: d3-device-type-assertion

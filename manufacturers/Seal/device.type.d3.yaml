@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a93e8634-a0dd-42de-997f-addb4473c1b1
+  mac-addresses:
+  - 60:6E:D0:00:00:00/24
+  manufacturer: Seal Ag
+  manufacturer-uri: https://device-type.com
+  name: Seal
+type: d3-device-type-assertion

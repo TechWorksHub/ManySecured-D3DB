@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f65c14c-48db-4dbe-8110-1f5568b64f37
+  mac-addresses:
+  - 80:BA:AC:00:00:00/24
+  manufacturer: TeleAdapt Ltd
+  manufacturer-uri: https://device-type.com
+  name: TeleAdap
+type: d3-device-type-assertion

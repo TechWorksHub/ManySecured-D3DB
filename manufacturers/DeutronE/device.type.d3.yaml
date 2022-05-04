@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e300c5d5-19d0-4b57-8274-2d6fc14348f1
+  mac-addresses:
+  - 60:B9:33:00:00:00/24
+  manufacturer: Deutron Electronics Corp.
+  manufacturer-uri: https://device-type.com
+  name: DeutronE
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aa551dde-44c5-48db-bac0-9b22161d661a
+  mac-addresses:
+  - 00:18:2B:00:00:00/24
+  - 00:50:C2:2B:60:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Softier
+type: d3-device-type-assertion

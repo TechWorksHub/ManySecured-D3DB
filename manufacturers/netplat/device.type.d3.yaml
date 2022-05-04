@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b324405-d7bb-4ebb-b3fd-448ba67abcd7
+  mac-addresses:
+  - 00:11:0F:00:00:00/24
+  manufacturer: netplat,Inc.
+  manufacturer-uri: https://device-type.com
+  name: netplat
+type: d3-device-type-assertion

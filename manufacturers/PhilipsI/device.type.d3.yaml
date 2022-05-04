@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4787e367-ff7e-46b3-b1e6-cc9120eebede
+  mac-addresses:
+  - 00:90:3E:00:00:00/24
+  - EA:9F:B1:00:00:00/24
+  manufacturer: N.V. Philips Industrial Activities
+  manufacturer-uri: https://device-type.com
+  name: PhilipsI
+type: d3-device-type-assertion

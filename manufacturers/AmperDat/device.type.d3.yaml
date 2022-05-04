@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00743f06-b7f2-4477-bb36-ba37ad415dc1
+  mac-addresses:
+  - 00:30:E5:00:00:00/24
+  manufacturer: Amper Datos S.A.
+  manufacturer-uri: https://device-type.com
+  name: AmperDat
+type: d3-device-type-assertion

@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 179ac72c-3258-47ea-a4f0-64d461ace9f1
+  mac-addresses:
+  - 00:0D:62:00:00:00/24
+  - 00:50:C2:45:A0:00/36
+  - 00:50:C2:82:50:00/36
+  - 00:50:C2:86:90:00/36
+  - 00:50:C2:E2:D0:00/36
+  - 08:38:A5:00:00:00/24
+  - 20:CE:2A:E0:00:00/28
+  manufacturer: Funkwerk Dabendorf GmbH
+  manufacturer-uri: https://device-type.com
+  name: Funkwerk
+type: d3-device-type-assertion

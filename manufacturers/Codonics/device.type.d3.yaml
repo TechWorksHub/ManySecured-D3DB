@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e440abd7-71c0-407e-98fd-f3eb6b9a5acd
+  mac-addresses:
+  - 00:40:B1:00:00:00/24
+  manufacturer: Codonics Inc.
+  manufacturer-uri: https://device-type.com
+  name: Codonics
+type: d3-device-type-assertion

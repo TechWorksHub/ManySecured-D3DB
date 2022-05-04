@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0b932587-326a-41e6-b9a3-ecedfdba14e4
+  mac-addresses:
+  - 00:90:4F:00:00:00/24
+  manufacturer: Abb Power T&D Company, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AbbPower
+type: d3-device-type-assertion

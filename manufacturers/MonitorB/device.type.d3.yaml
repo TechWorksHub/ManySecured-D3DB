@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 77fd0918-41c7-4483-8a75-a8c26dcbc216
+  mac-addresses:
+  - 00:50:C2:08:70:00/36
+  - 00:50:C2:21:F0:00/36
+  - 00:50:C2:50:A0:00/36
+  - 00:50:C2:7E:A0:00/36
+  - 00:50:C2:AB:D0:00/36
+  - 00:50:C2:ED:F0:00/36
+  manufacturer: Monitor Business Machines Ltd.
+  manufacturer-uri: https://device-type.com
+  name: MonitorB
+type: d3-device-type-assertion

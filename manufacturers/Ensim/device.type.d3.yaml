@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d39545d-4d0b-4a8d-b03c-9721ed4f8447
+  mac-addresses:
+  - 00:30:E8:00:00:00/24
+  manufacturer: Ensim Corp.
+  manufacturer-uri: https://device-type.com
+  name: Ensim
+type: d3-device-type-assertion

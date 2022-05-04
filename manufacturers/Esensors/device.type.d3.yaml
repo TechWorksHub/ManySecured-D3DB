@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d4f7b515-04e0-4ef3-b456-92b5dce847ff
+  mac-addresses:
+  - 00:50:C2:39:10:00/36
+  - 00:50:C2:9A:E0:00/36
+  - 00:50:C2:DB:B0:00/36
+  manufacturer: Esensors, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Esensors
+type: d3-device-type-assertion

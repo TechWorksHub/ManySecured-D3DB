@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5482d08-3fd5-46ec-8ef8-4f8b19ccfdec
+  mac-addresses:
+  - 00:01:37:00:00:00/24
+  manufacturer: IT Farm Corporation
+  manufacturer-uri: https://device-type.com
+  name: ITFarm
+type: d3-device-type-assertion

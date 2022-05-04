@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 2201758e-fdae-4d87-ad51-046a901ac0d3
+  mac-addresses:
+  - 00:50:C2:BB:40:00/36
+  - 28:FC:51:00:00:00/24
+  - 40:D8:55:02:40:00/36
+  - 40:D8:55:07:00:00/36
+  - 70:B3:D5:A6:E0:00/36
+  - 8C:14:7D:E0:00:00/28
+  - F8:02:78:50:00:00/28
+  manufacturer: JSC Electrical Equipment Factory
+  manufacturer-uri: https://device-type.com
+  name: Electric
+type: d3-device-type-assertion

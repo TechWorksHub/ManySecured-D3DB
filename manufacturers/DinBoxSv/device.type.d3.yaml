@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7b5362c-8f3a-41cd-9335-7a0e032f9fb9
+  mac-addresses:
+  - BC:C1:68:00:00:00/24
+  manufacturer: DinBox Sverige AB
+  manufacturer-uri: https://device-type.com
+  name: DinBoxSv
+type: d3-device-type-assertion

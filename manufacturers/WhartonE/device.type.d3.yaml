@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a7d00ee9-b842-42b2-906d-dc0e636c4345
+  mac-addresses:
+  - 00:50:C2:71:00:00/36
+  - DC:44:27:80:00:00/28
+  manufacturer: Wharton Electronics Ltd
+  manufacturer-uri: https://device-type.com
+  name: WhartonE
+type: d3-device-type-assertion

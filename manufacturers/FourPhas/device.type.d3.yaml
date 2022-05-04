@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 581ee028-3d30-46ee-8a90-c660ed1cd91b
+  mac-addresses:
+  - 08:00:5C:00:00:00/24
+  manufacturer: Four Phase Systems
+  manufacturer-uri: https://device-type.com
+  name: FourPhas
+type: d3-device-type-assertion

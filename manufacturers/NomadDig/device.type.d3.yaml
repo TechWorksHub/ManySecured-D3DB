@@ -1,0 +1,9 @@
+credentialSubject:
+  id: afcedcf7-033a-4746-bb0b-29effbc09594
+  mac-addresses:
+  - 40:D8:55:09:40:00/36
+  - 7C:70:BC:70:00:00/28
+  manufacturer: Nomad Digital Limited
+  manufacturer-uri: https://device-type.com
+  name: NomadDig
+type: d3-device-type-assertion

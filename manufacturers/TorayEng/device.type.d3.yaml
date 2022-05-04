@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ed94f8a-4d98-4c90-9254-37ad77b65423
+  mac-addresses:
+  - 00:A0:FB:00:00:00/24
+  manufacturer: Toray Engineering D Solutions Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TorayEng
+type: d3-device-type-assertion

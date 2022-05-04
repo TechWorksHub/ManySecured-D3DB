@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df1d73ef-ad2a-4a17-be0f-9fa49a2633f9
+  mac-addresses:
+  - F4:97:C2:00:00:00/24
+  manufacturer: Nebulon Inc
+  manufacturer-uri: https://device-type.com
+  name: Nebulon
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1d75534-2be7-43de-9953-670c83a7ce1f
+  mac-addresses:
+  - D0:63:4D:00:00:00/24
+  manufacturer: Meiko Maschinenbau GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: MeikoMas
+type: d3-device-type-assertion

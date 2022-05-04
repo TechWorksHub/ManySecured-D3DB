@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ecc8182b-d156-48a0-ac0f-a346ae614a90
+  mac-addresses:
+  - 00:06:26:00:00:00/24
+  manufacturer: MWE GmbH
+  manufacturer-uri: https://device-type.com
+  name: MWE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccdbe79b-f8f1-45ea-b846-588a9ec51b0b
+  mac-addresses:
+  - 20:CE:2A:A0:00:00/28
+  manufacturer: MeshPlusPlus, Inc.
+  manufacturer-uri: https://device-type.com
+  name: MeshPlus
+type: d3-device-type-assertion

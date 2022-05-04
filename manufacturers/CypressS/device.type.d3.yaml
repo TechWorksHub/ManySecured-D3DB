@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5b5ab40f-67b0-4769-b983-b4b2dad67bad
+  mac-addresses:
+  - 00:25:B9:00:00:00/24
+  - 00:A0:50:00:00:00/24
+  manufacturer: Cypress Solutions Inc
+  manufacturer-uri: https://device-type.com
+  name: CypressS
+type: d3-device-type-assertion

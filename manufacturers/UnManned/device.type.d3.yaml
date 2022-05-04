@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ba3052a-f59c-44ec-8c8d-f0bcf5f7c0dc
+  mac-addresses:
+  - 60:95:CE:A0:00:00/28
+  manufacturer: (Un)Manned
+  manufacturer-uri: https://device-type.com
+  name: UnManned
+type: d3-device-type-assertion

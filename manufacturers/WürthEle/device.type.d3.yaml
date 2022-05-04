@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ece03a42-f722-43ec-b1b9-b82da36edcc0
+  mac-addresses:
+  - 00:18:DA:00:00:00/24
+  manufacturer: "W\xFCrth Elektronik eiSos GmbH & Co. KG"
+  manufacturer-uri: https://device-type.com
+  name: "W\xFCrthEle"
+type: d3-device-type-assertion

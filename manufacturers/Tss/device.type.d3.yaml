@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2a69326-1e2d-4e7b-bca1-c6942861d41b
+  mac-addresses:
+  - CC:EB:18:00:00:00/24
+  manufacturer: Ooo "Tss"
+  manufacturer-uri: https://device-type.com
+  name: Tss
+type: d3-device-type-assertion

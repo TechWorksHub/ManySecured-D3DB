@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93a8f39e-2412-4497-9ddd-24ecd90e701d
+  mac-addresses:
+  - 00:01:63:00:00:00/24
+  manufacturer: NDC (National Datacomm Corporation)
+  manufacturer-uri: https://device-type.com
+  name: NdcNatio
+type: d3-device-type-assertion

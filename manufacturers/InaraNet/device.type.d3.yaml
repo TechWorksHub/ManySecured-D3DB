@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 848fa46e-2ab9-4659-8fb9-93d38270777e
+  mac-addresses:
+  - 00:06:ED:00:00:00/24
+  manufacturer: Inara Networks
+  manufacturer-uri: https://device-type.com
+  name: InaraNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 200dd26f-2206-42b8-933b-9eb0c5c79084
+  mac-addresses:
+  - 00:01:CF:00:00:00/24
+  manufacturer: Alpha Data Parallel Systems, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AlphaDat
+type: d3-device-type-assertion

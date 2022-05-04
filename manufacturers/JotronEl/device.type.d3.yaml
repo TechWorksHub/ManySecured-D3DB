@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c78a560-8752-407b-8e27-b87c9b5b7bc7
+  mac-addresses:
+  - 00:06:CB:00:00:00/24
+  manufacturer: Jotron Electronics A/S
+  manufacturer-uri: https://device-type.com
+  name: JotronEl
+type: d3-device-type-assertion

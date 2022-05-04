@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5743f26a-a450-4148-aa2f-effc785111d3
+  mac-addresses:
+  - 70:B3:D5:F6:20:00/36
+  - 70:B3:D5:F8:A0:00/36
+  manufacturer: FRS GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: FRS
+type: d3-device-type-assertion

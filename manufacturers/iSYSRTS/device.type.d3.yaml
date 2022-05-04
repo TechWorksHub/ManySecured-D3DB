@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8380cde-2a98-4ece-bcbd-b0b7a97a38d2
+  mac-addresses:
+  - 0C:CB:0C:00:00:00/24
+  manufacturer: iSYS RTS GmbH
+  manufacturer-uri: https://device-type.com
+  name: iSYSRTS
+type: d3-device-type-assertion

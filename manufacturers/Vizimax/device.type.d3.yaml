@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8cedaab-8cec-406c-b547-9bf487d6c258
+  mac-addresses:
+  - 00:25:65:00:00:00/24
+  manufacturer: Vizimax Inc.
+  manufacturer-uri: https://device-type.com
+  name: Vizimax
+type: d3-device-type-assertion

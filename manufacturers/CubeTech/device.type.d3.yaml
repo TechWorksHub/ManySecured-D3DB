@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d73f7941-188f-495e-981a-3cac965e8d8a
+  mac-addresses:
+  - 00:15:48:00:00:00/24
+  manufacturer: Cube Technologies
+  manufacturer-uri: https://device-type.com
+  name: CubeTech
+type: d3-device-type-assertion

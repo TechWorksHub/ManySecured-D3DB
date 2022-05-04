@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 440ee571-8c92-41b3-883a-b66d7feba150
+  mac-addresses:
+  - 00:50:C2:46:80:00/36
+  - 00:80:60:00:00:00/24
+  - 00:C0:8E:00:00:00/24
+  - 08:2C:B0:00:00:00/24
+  - 70:B3:D5:9F:F0:00/36
+  - 70:B3:D5:DA:70:00/36
+  manufacturer: Network I/O
+  manufacturer-uri: https://device-type.com
+  name: NetworkI
+type: d3-device-type-assertion

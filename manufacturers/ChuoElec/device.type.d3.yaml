@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 38c83759-3755-4882-af5d-136a4c459ecc
+  mac-addresses:
+  - 00:40:F1:00:00:00/24
+  - 00:50:C2:34:C0:00/36
+  manufacturer: Chuo Electronics Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ChuoElec
+type: d3-device-type-assertion

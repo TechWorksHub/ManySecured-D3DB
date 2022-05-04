@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d4441ab-1be5-4216-a6e2-35ca523a2e4e
+  mac-addresses:
+  - 00:90:CE:00:00:00/24
+  manufacturer: avateramedical Mechatronics GmbH
+  manufacturer-uri: https://device-type.com
+  name: avateram
+type: d3-device-type-assertion

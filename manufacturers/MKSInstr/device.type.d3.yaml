@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a29d3d54-0181-4492-a0ae-7973d1dcb653
+  mac-addresses:
+  - 00:0B:17:00:00:00/24
+  - E8:D0:FA:00:00:00/24
+  manufacturer: MKS Instruments
+  manufacturer-uri: https://device-type.com
+  name: MKSInstr
+type: d3-device-type-assertion

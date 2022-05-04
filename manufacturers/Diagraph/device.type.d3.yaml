@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2af921f7-0084-47cf-941b-36ac26be78b3
+  mac-addresses:
+  - 00:06:B3:00:00:00/24
+  manufacturer: Diagraph Corporation
+  manufacturer-uri: https://device-type.com
+  name: Diagraph
+type: d3-device-type-assertion

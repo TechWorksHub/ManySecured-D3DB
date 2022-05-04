@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f80c157b-c37c-4b4d-abb4-581910b73ec5
+  mac-addresses:
+  - B4:EC:FF:00:00:00/24
+  manufacturer: Wuhan IPG Technologies Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: WuhanIPG
+type: d3-device-type-assertion

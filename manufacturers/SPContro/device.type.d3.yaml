@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 4b330368-8c38-411b-8f22-de1bf664b29b
+  mac-addresses:
+  - 00:50:C2:1F:A0:00/36
+  - 00:50:C2:72:90:00/36
+  - 00:50:C2:AC:F0:00/36
+  - 70:B3:D5:82:30:00/36
+  manufacturer: SP Controls, Inc
+  manufacturer-uri: https://device-type.com
+  name: SPContro
+type: d3-device-type-assertion

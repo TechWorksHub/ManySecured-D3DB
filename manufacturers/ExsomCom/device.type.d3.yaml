@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5b784502-6b5a-404c-b05e-96fe22976826
+  mac-addresses:
+  - 44:03:77:20:00:00/28
+  - 70:B3:D5:4B:F0:00/36
+  manufacturer: Exsom Computers LLC
+  manufacturer-uri: https://device-type.com
+  name: ExsomCom
+type: d3-device-type-assertion

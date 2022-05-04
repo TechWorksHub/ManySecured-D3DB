@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21899d12-d89d-4a8f-a7c6-df48566730af
+  mac-addresses:
+  - 00:20:D3:00:00:00/24
+  manufacturer: OST (Ouet Standard Telematique)
+  manufacturer-uri: https://device-type.com
+  name: OstOuetS
+type: d3-device-type-assertion

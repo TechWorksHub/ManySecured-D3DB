@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7d67d68-67e5-498a-8c05-b10e8e4fc888
+  mac-addresses:
+  - 00:23:FD:00:00:00/24
+  manufacturer: AFT Atlas Fahrzeugtechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: AFTAtlas
+type: d3-device-type-assertion

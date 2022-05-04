@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 09331aa4-4b6a-4a1a-9daf-4ab53d421382
+  mac-addresses:
+  - 00:13:04:00:00:00/24
+  - 04:F8:C2:00:00:00/24
+  - 88:BD:78:00:00:00/24
+  manufacturer: Flaircomm Technologies Co. LTD
+  manufacturer-uri: https://device-type.com
+  name: Flaircom
+type: d3-device-type-assertion

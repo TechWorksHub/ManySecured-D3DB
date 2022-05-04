@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d234119-a752-4c06-b380-88011b3d04d6
+  mac-addresses:
+  - 00:1C:4D:00:00:00/24
+  manufacturer: Aplix IP Holdings Corporation
+  manufacturer-uri: https://device-type.com
+  name: AplixIPH
+type: d3-device-type-assertion

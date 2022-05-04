@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c4bcc6d-e3af-4d0a-9edd-34b956e1ca98
+  mac-addresses:
+  - 00:10:40:00:00:00/24
+  manufacturer: Intermec Corporation
+  manufacturer-uri: https://device-type.com
+  name: Intermec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: be094c2f-f12d-4d20-b819-1d9dde6e7f3a
+  mac-addresses:
+  - 00:50:C2:CC:B0:00/36
+  - 38:FD:FE:50:00:00/28
+  manufacturer: CaptiveAire Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: CaptiveA
+type: d3-device-type-assertion

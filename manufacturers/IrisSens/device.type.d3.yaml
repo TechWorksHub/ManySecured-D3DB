@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bdba4a4-66f9-44ab-900f-009308733630
+  mac-addresses:
+  - 00:0F:39:00:00:00/24
+  manufacturer: Iris Sensors
+  manufacturer-uri: https://device-type.com
+  name: IrisSens
+type: d3-device-type-assertion

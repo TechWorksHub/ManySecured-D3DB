@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17fbf877-5ef0-4af5-bcc6-1f072b8c3c6a
+  mac-addresses:
+  - 70:B3:D5:C3:60:00/36
+  - BC:45:2E:00:00:00/24
+  manufacturer: Knowledge Resources GmbH
+  manufacturer-uri: https://device-type.com
+  name: Knowledg
+type: d3-device-type-assertion

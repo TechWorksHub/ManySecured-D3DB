@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b863339-c2fb-45f7-b623-b60bc52a639d
+  mac-addresses:
+  - 68:3F:1E:00:00:00/24
+  manufacturer: EFFECT Photonics B.V.
+  manufacturer-uri: https://device-type.com
+  name: EFFECTPh
+type: d3-device-type-assertion

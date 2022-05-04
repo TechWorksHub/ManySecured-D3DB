@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5467100a-e805-417e-bf0d-da438fcd09bf
+  mac-addresses:
+  - 00:17:C5:00:00:00/24
+  manufacturer: SonicWALL
+  manufacturer-uri: https://device-type.com
+  name: SonicWAL
+type: d3-device-type-assertion

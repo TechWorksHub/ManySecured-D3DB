@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14b68c09-2421-4c1b-8aa9-e7ca8f97adad
+  mac-addresses:
+  - 38:FD:FE:70:00:00/28
+  - B0:1F:81:B0:00:00/28
+  manufacturer: Rademacher Geraete-Elektronik GmbH
+  manufacturer-uri: https://device-type.com
+  name: Rademach
+type: d3-device-type-assertion

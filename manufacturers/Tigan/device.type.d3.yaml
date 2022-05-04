@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ec52d9e-4330-4e87-95f0-86bc4edf8f57
+  mac-addresses:
+  - 08:00:32:00:00:00/24
+  manufacturer: Tigan Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Tigan
+type: d3-device-type-assertion

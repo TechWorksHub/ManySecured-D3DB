@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f72ba79-125c-4386-add2-198ae9795ea4
+  mac-addresses:
+  - E8:B4:70:D0:00:00/28
+  manufacturer: Medica Corporation
+  manufacturer-uri: https://device-type.com
+  name: Medica
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2bc338bd-ec29-49f2-a913-6d823bb4fbdc
+  mac-addresses:
+  - 00:09:A5:00:00:00/24
+  - 7C:02:BC:00:00:00/24
+  manufacturer: Hansung Eletronic Industries Development Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: HansungE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: badf5341-aa43-403c-8d4c-54a85666815c
+  mac-addresses:
+  - 00:1A:8D:00:00:00/24
+  manufacturer: AVECS Bergen GmbH
+  manufacturer-uri: https://device-type.com
+  name: AVECSBer
+type: d3-device-type-assertion

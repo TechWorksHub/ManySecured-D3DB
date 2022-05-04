@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 978e69ca-699e-4cde-b6c2-30b5bf0f2ee9
+  mac-addresses:
+  - 08:00:3A:00:00:00/24
+  manufacturer: Orcatech Inc.
+  manufacturer-uri: https://device-type.com
+  name: Orcatech
+type: d3-device-type-assertion

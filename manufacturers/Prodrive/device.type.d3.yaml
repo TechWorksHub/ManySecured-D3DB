@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b17278b0-7b0c-494a-b73c-6b1525a4a2c0
+  mac-addresses:
+  - 00:0F:11:00:00:00/24
+  manufacturer: Prodrive B.V.
+  manufacturer-uri: https://device-type.com
+  name: Prodrive
+type: d3-device-type-assertion

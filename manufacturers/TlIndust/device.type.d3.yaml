@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10b0daa2-facd-4abf-9a22-a8e5176ccbf2
+  mac-addresses:
+  - 00:D0:AD:00:00:00/24
+  manufacturer: Tl Industries
+  manufacturer-uri: https://device-type.com
+  name: TlIndust
+type: d3-device-type-assertion

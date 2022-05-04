@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04b5b76d-49ef-4871-bdd5-fd5b4fe744bf
+  mac-addresses:
+  - 00:1B:CF:00:00:00/24
+  manufacturer: Dataupia Corporation
+  manufacturer-uri: https://device-type.com
+  name: Dataupia
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf0a0676-1479-4685-878b-0d4019a68590
+  mac-addresses:
+  - 00:11:64:00:00:00/24
+  manufacturer: ACARD Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: ACARDTec
+type: d3-device-type-assertion

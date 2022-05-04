@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5f51bab-49aa-401f-b0d8-b2b47d18dfdf
+  mac-addresses:
+  - 10:4D:15:00:00:00/24
+  manufacturer: Viaanix Inc
+  manufacturer-uri: https://device-type.com
+  name: Viaanix
+type: d3-device-type-assertion

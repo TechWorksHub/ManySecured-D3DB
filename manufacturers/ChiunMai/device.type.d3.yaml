@@ -1,0 +1,10 @@
+credentialSubject:
+  id: aec0e487-59b7-4b74-9eff-7763dbfa6b34
+  mac-addresses:
+  - 58:C9:35:00:00:00/24
+  - 98:C8:54:00:00:00/24
+  - CC:9F:7A:00:00:00/24
+  manufacturer: Chiun Mai Communication Systems, Inc
+  manufacturer-uri: https://device-type.com
+  name: ChiunMai
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d4452f75-3a7f-4001-b96d-98f0bd3c8e7d
+  mac-addresses:
+  - 00:50:C2:21:E0:00/36
+  - CC:C1:04:00:00:00/24
+  manufacturer: Applied Technologies Associates
+  manufacturer-uri: https://device-type.com
+  name: AppliedT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64abc758-3b91-4669-825a-9a4f58d9e0f6
+  mac-addresses:
+  - 00:04:A1:00:00:00/24
+  manufacturer: Pathway Connectivity
+  manufacturer-uri: https://device-type.com
+  name: PathwayC
+type: d3-device-type-assertion

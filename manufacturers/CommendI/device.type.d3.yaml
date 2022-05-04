@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6c0f951d-53af-4744-a66a-b27a015f0a34
+  mac-addresses:
+  - 00:0C:AB:00:00:00/24
+  - BC:6A:44:00:00:00/24
+  manufacturer: Commend International GmbH
+  manufacturer-uri: https://device-type.com
+  name: CommendI
+type: d3-device-type-assertion

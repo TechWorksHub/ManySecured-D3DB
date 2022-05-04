@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c514ae25-da5c-4725-b390-eeed8918ab40
+  mac-addresses:
+  - 00:05:55:00:00:00/24
+  manufacturer: Japan Cash Machine Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: JapanCas
+type: d3-device-type-assertion

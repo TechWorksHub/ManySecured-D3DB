@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a49237d-8f10-4eb9-9db6-7b625cd65b79
+  mac-addresses:
+  - 00:40:5B:00:00:00/24
+  manufacturer: Funasset Limited
+  manufacturer-uri: https://device-type.com
+  name: Funasset
+type: d3-device-type-assertion

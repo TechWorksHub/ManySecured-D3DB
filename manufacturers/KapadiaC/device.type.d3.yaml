@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a52803b-7fee-430f-a249-6e2b6b76e283
+  mac-addresses:
+  - 00:D0:9C:00:00:00/24
+  manufacturer: Kapadia Communications
+  manufacturer-uri: https://device-type.com
+  name: KapadiaC
+type: d3-device-type-assertion

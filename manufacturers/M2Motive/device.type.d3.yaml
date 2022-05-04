@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c682c5c8-12a6-4a15-bcbc-43c1078640b4
+  mac-addresses:
+  - 00:A2:65:00:00:00/24
+  - FC:06:ED:00:00:00/24
+  manufacturer: M2Motive Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: M2Motive
+type: d3-device-type-assertion

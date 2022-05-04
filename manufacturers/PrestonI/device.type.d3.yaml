@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f0619de4-d827-4400-ab6a-fbf3eedee889
+  mac-addresses:
+  - 00:50:C2:FB:20:00/36
+  - 70:B3:D5:3B:50:00/36
+  - 70:B3:D5:9E:B0:00/36
+  - 70:B3:D5:F8:20:00/36
+  manufacturer: Preston Industries dba PolyScience
+  manufacturer-uri: https://device-type.com
+  name: PrestonI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4dbf2fda-25eb-486c-a196-1f5c8883f8f5
+  mac-addresses:
+  - 60:B3:C4:00:00:00/24
+  manufacturer: Elber Srl
+  manufacturer-uri: https://device-type.com
+  name: Elber
+type: d3-device-type-assertion

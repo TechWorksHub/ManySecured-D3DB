@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb653fe1-3a33-430d-9a59-397e61bc724a
+  mac-addresses:
+  - 00:1C:03:00:00:00/24
+  manufacturer: Betty TV Technology AG
+  manufacturer-uri: https://device-type.com
+  name: BettyTVT
+type: d3-device-type-assertion

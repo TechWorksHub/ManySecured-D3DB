@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 349fdb6d-e361-4ccf-8a40-eb99ad9ba239
+  mac-addresses:
+  - 00:25:D6:00:00:00/24
+  manufacturer: The Kroger Co.
+  manufacturer-uri: https://device-type.com
+  name: Kroger
+type: d3-device-type-assertion

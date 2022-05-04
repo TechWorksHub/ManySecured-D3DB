@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12b57771-c2fd-45ab-a140-f62d67e4f3f0
+  mac-addresses:
+  - 80:07:A2:00:00:00/24
+  manufacturer: Esson Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: EssonTec
+type: d3-device-type-assertion

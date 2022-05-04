@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50f9af35-c199-42a4-bd81-6822713ad908
+  mac-addresses:
+  - 00:0D:0F:00:00:00/24
+  manufacturer: Finlux Ltd
+  manufacturer-uri: https://device-type.com
+  name: Finlux
+type: d3-device-type-assertion

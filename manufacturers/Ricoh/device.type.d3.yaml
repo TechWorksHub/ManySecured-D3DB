@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d060d7cb-ec22-427f-9569-99c91ebddc40
+  mac-addresses:
+  - 00:00:74:00:00:00/24
+  - 00:26:73:00:00:00/24
+  - 58:38:79:00:00:00/24
+  manufacturer: Ricoh Company Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Ricoh
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7cc6629-5bf0-4f66-925b-d87e0f4e40c9
+  mac-addresses:
+  - 00:12:FA:00:00:00/24
+  manufacturer: Thx Ltd
+  manufacturer-uri: https://device-type.com
+  name: Thx
+type: d3-device-type-assertion

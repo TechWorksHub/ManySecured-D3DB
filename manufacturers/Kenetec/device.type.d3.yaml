@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf492551-a5c0-4677-95eb-91c5e31ce6d0
+  mac-addresses:
+  - 00:01:8F:00:00:00/24
+  manufacturer: Kenetec, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Kenetec
+type: d3-device-type-assertion

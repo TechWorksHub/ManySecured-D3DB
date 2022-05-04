@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09cf5f90-f932-49d3-bf1b-b98e70cecc18
+  mac-addresses:
+  - 00:E0:94:00:00:00/24
+  manufacturer: Osai Srl
+  manufacturer-uri: https://device-type.com
+  name: Osai
+type: d3-device-type-assertion

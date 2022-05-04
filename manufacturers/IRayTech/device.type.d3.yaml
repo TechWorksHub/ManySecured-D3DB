@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a2e98379-eda4-43bd-80cb-534c461acdae
+  mac-addresses:
+  - 64:5E:2C:00:00:00/24
+  - 90:74:9D:00:00:00/24
+  manufacturer: IRay Technology Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IRayTech
+type: d3-device-type-assertion

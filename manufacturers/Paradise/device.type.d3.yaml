@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2bafe1f5-b881-4069-92c8-e973a412bc15
+  mac-addresses:
+  - 00:11:29:00:00:00/24
+  - 00:50:E7:00:00:00/24
+  manufacturer: Paradise Datacom Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Paradise
+type: d3-device-type-assertion

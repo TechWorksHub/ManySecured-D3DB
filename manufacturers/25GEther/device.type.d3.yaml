@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01228b13-d36f-42f3-853f-2f932bdd34a4
+  mac-addresses:
+  - 6A:73:7D:00:00:00/24
+  manufacturer: 25G Ethernet Consortium
+  manufacturer-uri: https://device-type.com
+  name: 25GEther
+type: d3-device-type-assertion

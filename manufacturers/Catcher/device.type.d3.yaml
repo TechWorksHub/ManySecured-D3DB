@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cab64e8-911f-4170-a17a-856780459759
+  mac-addresses:
+  - 00:18:4A:00:00:00/24
+  manufacturer: Catcher, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Catcher
+type: d3-device-type-assertion

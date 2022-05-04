@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a9d98460-3c39-4d66-b5b7-65faddfc10f8
+  mac-addresses:
+  - 00:50:C2:48:30:00/36
+  - 78:C2:C0:90:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Ses
+type: d3-device-type-assertion

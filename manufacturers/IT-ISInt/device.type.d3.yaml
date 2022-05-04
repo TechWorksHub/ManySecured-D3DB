@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fb689c61-b6a5-422a-bc45-adfb7455b4f0
+  mac-addresses:
+  - 00:50:C2:CD:80:00/36
+  - 24:6A:AB:00:00:00/24
+  manufacturer: IT-IS International Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IT-ISInt
+type: d3-device-type-assertion

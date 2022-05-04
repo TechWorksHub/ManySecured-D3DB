@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bb191a21-c179-4260-8ef7-58d49c940d64
+  mac-addresses:
+  - 00:0D:9F:00:00:00/24
+  - 00:50:C2:0B:20:00/36
+  manufacturer: RF Micro Devices
+  manufacturer-uri: https://device-type.com
+  name: RFMicroD
+type: d3-device-type-assertion

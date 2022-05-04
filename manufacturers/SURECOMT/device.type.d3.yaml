@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 08749e3a-7836-4eb2-b5b3-46d8bf9ae981
+  mac-addresses:
+  - 00:02:44:00:00:00/24
+  - 00:15:8A:00:00:00/24
+  manufacturer: SURECOM Technology Co.
+  manufacturer-uri: https://device-type.com
+  name: SURECOMT
+type: d3-device-type-assertion

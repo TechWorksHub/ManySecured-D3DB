@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 50ab1e72-b40f-4cae-9255-c58d14c27213
+  mac-addresses:
+  - 00:20:96:00:00:00/24
+  - 00:50:C2:09:00:00/36
+  - 00:50:C2:2C:40:00/36
+  - FC:FE:C2:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Invensys
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6b2cb42-610e-48bf-8888-cfe82e74c357
+  mac-addresses:
+  - 08:00:33:00:00:00/24
+  manufacturer: Bausch & Lomb
+  manufacturer-uri: https://device-type.com
+  name: BauschLo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63d2893b-143d-49b4-8d70-97ccf2ba243e
+  mac-addresses:
+  - 00:E0:53:00:00:00/24
+  manufacturer: Cellport Labs, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Cellport
+type: d3-device-type-assertion

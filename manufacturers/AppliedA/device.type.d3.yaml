@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f7dcf92-a1f1-46cf-9d5c-ef2b3b8c04ab
+  mac-addresses:
+  - 00:D0:27:00:00:00/24
+  manufacturer: Applied Automation, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AppliedA
+type: d3-device-type-assertion

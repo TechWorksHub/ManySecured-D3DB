@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 550b399b-8948-4f80-901d-d4f177db7b44
+  mac-addresses:
+  - 00:0C:14:00:00:00/24
+  manufacturer: Diagnostic Instruments, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Diagnost
+type: d3-device-type-assertion

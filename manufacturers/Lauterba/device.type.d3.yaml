@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d42b4245-fbc4-4376-9847-38add971e687
+  mac-addresses:
+  - 00:C0:8A:00:00:00/24
+  manufacturer: Lauterbach GmbH
+  manufacturer-uri: https://device-type.com
+  name: Lauterba
+type: d3-device-type-assertion

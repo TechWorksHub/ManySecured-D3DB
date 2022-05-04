@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 20fe2fff-09e6-49a0-9e91-c17b585980d5
+  mac-addresses:
+  - E8:71:8D:00:00:00/24
+  - F8:80:96:00:00:00/24
+  manufacturer: Elsys Equipamentos Eletronicos Ltda
+  manufacturer-uri: https://device-type.com
+  name: ElsysEqu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c3a05f6-c191-464d-ba93-597e5bc4811f
+  mac-addresses:
+  - 40:BC:8B:00:00:00/24
+  manufacturer: itelio GmbH
+  manufacturer-uri: https://device-type.com
+  name: itelio
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 5dad8624-7d04-4e29-8853-d25e0d5b883d
+  mac-addresses:
+  - 00:0E:61:00:00:00/24
+  - 00:23:E3:00:00:00/24
+  - 00:60:80:00:00:00/24
+  - 1C:82:59:E0:00:00/28
+  - 70:B3:D5:D2:40:00/36
+  manufacturer: Microtrol Limited
+  manufacturer-uri: https://device-type.com
+  name: Microtro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 004353dc-a9b0-49ef-a47d-24c6803ac705
+  mac-addresses:
+  - 00:60:1B:00:00:00/24
+  manufacturer: Mesa Electronics
+  manufacturer-uri: https://device-type.com
+  name: MesaElec
+type: d3-device-type-assertion

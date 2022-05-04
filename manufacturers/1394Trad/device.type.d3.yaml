@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 898e209e-f85f-4e7d-a6ab-68cd16f48dd3
+  mac-addresses:
+  - 00:A0:2D:00:00:00/24
+  manufacturer: 1394 Trade Association
+  manufacturer-uri: https://device-type.com
+  name: 1394Trad
+type: d3-device-type-assertion

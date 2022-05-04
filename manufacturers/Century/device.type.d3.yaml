@@ -1,0 +1,9 @@
+credentialSubject:
+  id: df717816-3427-4e05-bc80-303f99002317
+  mac-addresses:
+  - 00:80:6D:00:00:00/24
+  - 00:E0:37:00:00:00/24
+  manufacturer: Century Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Century
+type: d3-device-type-assertion

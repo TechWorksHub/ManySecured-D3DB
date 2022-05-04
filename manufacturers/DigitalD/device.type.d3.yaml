@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 9acced60-a0ff-437b-b707-5e749f93d682
+  mac-addresses:
+  - 00:11:6B:00:00:00/24
+  - 00:11:90:00:00:00/24
+  - 00:50:C2:39:D0:00/36
+  - 00:50:C2:4B:E0:00/36
+  - 40:D8:55:00:F0:00/36
+  - 40:D8:55:1C:20:00/36
+  - 54:84:7B:00:00:00/24
+  - 70:B3:D5:4E:70:00/36
+  - E8:18:63:D0:00:00/28
+  manufacturer: Digital Data Communications Asia Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: DigitalD
+type: d3-device-type-assertion

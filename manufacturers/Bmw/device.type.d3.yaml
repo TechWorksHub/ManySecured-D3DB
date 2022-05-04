@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13c86a1a-63eb-4343-b0f6-e552e27ebc5f
+  mac-addresses:
+  - 00:01:A9:00:00:00/24
+  manufacturer: Bmw Ag
+  manufacturer-uri: https://device-type.com
+  name: Bmw
+type: d3-device-type-assertion

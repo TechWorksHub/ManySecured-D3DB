@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fad2d3d8-5a6e-4e8a-a8c6-d62ac270afd4
+  mac-addresses:
+  - 00:03:F5:00:00:00/24
+  manufacturer: Chip2Chip
+  manufacturer-uri: https://device-type.com
+  name: Chip2Chi
+type: d3-device-type-assertion

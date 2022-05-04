@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d720b19c-2ed4-4430-848d-e58230ebf5d2
+  mac-addresses:
+  - E4:75:1E:00:00:00/24
+  manufacturer: Getinge Sterilization AB
+  manufacturer-uri: https://device-type.com
+  name: GetingeS
+type: d3-device-type-assertion

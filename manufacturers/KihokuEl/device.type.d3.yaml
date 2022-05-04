@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04fac7f5-56e3-4eb5-94aa-3395a105c42a
+  mac-addresses:
+  - 00:0B:B8:00:00:00/24
+  manufacturer: Kihoku Electronic Co.
+  manufacturer-uri: https://device-type.com
+  name: KihokuEl
+type: d3-device-type-assertion

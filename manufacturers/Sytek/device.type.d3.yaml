@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c56b236-5880-499c-9fb5-d66b7aff5633
+  mac-addresses:
+  - 00:00:10:00:00:00/24
+  manufacturer: Sytek Inc.
+  manufacturer-uri: https://device-type.com
+  name: Sytek
+type: d3-device-type-assertion

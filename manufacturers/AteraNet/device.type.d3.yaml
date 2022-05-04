@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cb0a7be-c972-4b16-b932-f8d6873e657e
+  mac-addresses:
+  - 00:18:53:00:00:00/24
+  manufacturer: Atera Networks LTD.
+  manufacturer-uri: https://device-type.com
+  name: AteraNet
+type: d3-device-type-assertion

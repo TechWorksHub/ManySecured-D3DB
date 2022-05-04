@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 536c6cf0-d4a1-4b60-a0f6-2bac6564403e
+  mac-addresses:
+  - 00:02:A3:00:00:00/24
+  - 00:50:C2:3F:30:00/36
+  - 00:80:BC:00:00:00/24
+  - 30:B2:16:00:00:00/24
+  manufacturer: Hitachi Energy Switzerland Ltd
+  manufacturer-uri: https://device-type.com
+  name: HitachiE
+type: d3-device-type-assertion

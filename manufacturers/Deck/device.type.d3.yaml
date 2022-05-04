@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07c80ad3-4cc3-46aa-8369-8d64b4af1b37
+  mac-addresses:
+  - 00:17:43:00:00:00/24
+  manufacturer: Deck Srl
+  manufacturer-uri: https://device-type.com
+  name: Deck
+type: d3-device-type-assertion

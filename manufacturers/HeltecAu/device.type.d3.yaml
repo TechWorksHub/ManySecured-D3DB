@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5b5fa71-9caa-4e40-8ca0-63af267bbd9d
+  mac-addresses:
+  - 78:72:64:E0:00:00/28
+  manufacturer: Heltec Automation
+  manufacturer-uri: https://device-type.com
+  name: HeltecAu
+type: d3-device-type-assertion

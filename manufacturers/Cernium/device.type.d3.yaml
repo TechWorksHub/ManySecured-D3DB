@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc9aa856-6496-406c-9193-6d52223152fe
+  mac-addresses:
+  - 00:21:0F:00:00:00/24
+  manufacturer: Cernium Corp
+  manufacturer-uri: https://device-type.com
+  name: Cernium
+type: d3-device-type-assertion

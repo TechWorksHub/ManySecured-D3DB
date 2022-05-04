@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e757f1b1-c671-4f72-ac5d-3778eba844c1
+  mac-addresses:
+  - 38:A8:CD:60:00:00/28
+  - 70:B3:D5:04:30:00/36
+  manufacturer: cal4care Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: cal4care
+type: d3-device-type-assertion

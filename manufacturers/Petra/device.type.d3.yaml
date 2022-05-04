@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f740e169-bb81-4bbd-a742-5a363cc91705
+  mac-addresses:
+  - 64:0D:E6:00:00:00/24
+  manufacturer: Petra Systems
+  manufacturer-uri: https://device-type.com
+  name: Petra
+type: d3-device-type-assertion

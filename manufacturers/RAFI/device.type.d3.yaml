@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c0b21d59-9618-4a7a-8fa1-4737cc0a47ad
+  mac-addresses:
+  - 00:50:C2:2B:70:00/36
+  - 78:59:3E:00:00:00/24
+  manufacturer: RAFI GmbH & Co.KG
+  manufacturer-uri: https://device-type.com
+  name: RAFI
+type: d3-device-type-assertion

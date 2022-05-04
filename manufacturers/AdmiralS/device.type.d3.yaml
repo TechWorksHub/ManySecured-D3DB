@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a386fbd7-5284-4474-a627-5d4f92eb524b
+  mac-addresses:
+  - 00:50:C2:2B:80:00/36
+  - 00:50:C2:89:10:00/36
+  manufacturer: Admiral Secure Products, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AdmiralS
+type: d3-device-type-assertion

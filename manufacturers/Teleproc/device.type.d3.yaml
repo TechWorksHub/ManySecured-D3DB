@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf1ab5c0-b214-4502-96c2-85055ea3dc29
+  mac-addresses:
+  - 00:20:29:00:00:00/24
+  manufacturer: TeleProcessing CSU/DSU (now owned by ADC/Kentrox)
+  manufacturer-uri: https://device-type.com
+  name: Teleproc
+type: d3-device-type-assertion

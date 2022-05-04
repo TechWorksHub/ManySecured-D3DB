@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 712944ff-265c-48a3-910f-b640d06da769
+  mac-addresses:
+  - 0C:4C:39:00:00:00/24
+  - 34:57:60:00:00:00/24
+  - 44:48:B9:00:00:00/24
+  - 84:0B:BB:00:00:00/24
+  - 84:AA:9C:00:00:00/24
+  - 98:97:D1:00:00:00/24
+  - A4:33:D7:00:00:00/24
+  - AC:C6:62:00:00:00/24
+  - B0:46:FC:00:00:00/24
+  - B8:FF:B3:00:00:00/24
+  - C0:3D:D9:00:00:00/24
+  - CC:D4:A1:00:00:00/24
+  - CC:ED:DC:00:00:00/24
+  - D8:C6:78:00:00:00/24
+  - E0:41:36:00:00:00/24
+  - E4:AB:89:00:00:00/24
+  manufacturer: MitraStar Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: MitraSta
+type: d3-device-type-assertion

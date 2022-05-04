@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e040157e-dca3-4734-98a7-aa29c4846d2b
+  mac-addresses:
+  - 00:0E:F8:00:00:00/24
+  manufacturer: Sbc Asi
+  manufacturer-uri: https://device-type.com
+  name: SbcAsi
+type: d3-device-type-assertion

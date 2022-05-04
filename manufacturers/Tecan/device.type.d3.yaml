@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6bffe1b4-954f-4d20-84d8-c33a9862a46b
+  mac-addresses:
+  - 00:1F:ED:00:00:00/24
+  manufacturer: Tecan Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Tecan
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93def948-45e2-49c1-bf7e-e8f4a74cbfe6
+  mac-addresses:
+  - 00:1D:6D:00:00:00/24
+  manufacturer: Confidant International LLC
+  manufacturer-uri: https://device-type.com
+  name: Confidan
+type: d3-device-type-assertion

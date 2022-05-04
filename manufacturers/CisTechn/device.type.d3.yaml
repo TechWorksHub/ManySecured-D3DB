@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6ba09869-b54b-4876-b8cc-37f67ecf019e
+  mac-addresses:
+  - 00:01:0A:00:00:00/24
+  - 00:20:18:00:00:00/24
+  manufacturer: Cis Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: CisTechn
+type: d3-device-type-assertion

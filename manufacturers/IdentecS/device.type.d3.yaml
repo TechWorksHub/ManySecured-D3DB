@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 580a14fd-91f6-4c6e-b8eb-d842e7ce2232
+  mac-addresses:
+  - 00:1B:D0:00:00:00/24
+  manufacturer: Identec Solutions
+  manufacturer-uri: https://device-type.com
+  name: IdentecS
+type: d3-device-type-assertion

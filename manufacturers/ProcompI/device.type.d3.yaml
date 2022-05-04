@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e9e79506-db16-4ac5-9de7-8534b670d981
+  mac-addresses:
+  - 00:30:95:00:00:00/24
+  - 00:40:91:00:00:00/24
+  manufacturer: Procomp Informatics, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ProcompI
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 70938e71-7291-4a4b-8fd0-c74bd0ea9736
+  mac-addresses:
+  - 00:50:63:00:00:00/24
+  - A4:4F:29:30:00:00/28
+  manufacturer: Oy Comsel System Ab
+  manufacturer-uri: https://device-type.com
+  name: ComselSy
+type: d3-device-type-assertion

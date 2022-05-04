@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ce74877-f7d7-41cb-81cd-ebe62339737c
+  mac-addresses:
+  - 00:01:10:00:00:00/24
+  manufacturer: Gotham Networks
+  manufacturer-uri: https://device-type.com
+  name: GothamNe
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d1fd4059-dbe5-4a8c-8677-ab55b9db9a0d
+  mac-addresses:
+  - 40:49:8A:00:00:00/24
+  - 80:01:5C:00:00:00/24
+  - 90:CC:24:00:00:00/24
+  manufacturer: Synapticon GmbH
+  manufacturer-uri: https://device-type.com
+  name: Synaptic
+type: d3-device-type-assertion

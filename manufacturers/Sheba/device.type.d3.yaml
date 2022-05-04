@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd4602b8-16e4-4d0a-b331-1a3d0bc5f6d7
+  mac-addresses:
+  - 00:06:FF:00:00:00/24
+  manufacturer: Sheba Systems Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Sheba
+type: d3-device-type-assertion

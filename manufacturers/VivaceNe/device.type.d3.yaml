@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0f8cf7e0-c3d2-4c96-ba55-45be80ca17ba
+  mac-addresses:
+  - 00:02:A7:00:00:00/24
+  manufacturer: Vivace Networks
+  manufacturer-uri: https://device-type.com
+  name: VivaceNe
+type: d3-device-type-assertion

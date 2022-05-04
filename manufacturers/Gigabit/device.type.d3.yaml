@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 750fa7e9-334c-492f-9a04-da4daf426811
+  mac-addresses:
+  - 00:0F:A1:00:00:00/24
+  manufacturer: Gigabit Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Gigabit
+type: d3-device-type-assertion

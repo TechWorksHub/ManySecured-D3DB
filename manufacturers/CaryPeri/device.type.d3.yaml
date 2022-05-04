@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1af838d0-a2c0-4c36-b4a9-495088e80667
+  mac-addresses:
+  - 00:60:29:00:00:00/24
+  manufacturer: Cary Peripherals Inc.
+  manufacturer-uri: https://device-type.com
+  name: CaryPeri
+type: d3-device-type-assertion

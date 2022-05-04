@@ -1,0 +1,12 @@
+credentialSubject:
+  id: c439dcb6-e0b0-4efb-b7b3-13abb829dd3b
+  mac-addresses:
+  - 00:03:7A:00:00:00/24
+  - 00:22:58:00:00:00/24
+  - 48:A4:93:00:00:00/24
+  - AC:3F:A4:00:00:00/24
+  - D4:4B:5E:00:00:00/24
+  manufacturer: Taiyo Yuden Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TaiyoYud
+type: d3-device-type-assertion

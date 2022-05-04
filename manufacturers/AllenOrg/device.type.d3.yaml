@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 458bc032-abac-499b-8129-ff2c48f25911
+  mac-addresses:
+  - CA:C8:7E:00:00:00/24
+  manufacturer: Allen Organ Company
+  manufacturer-uri: https://device-type.com
+  name: AllenOrg
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 95d6b200-63e3-4b90-92e4-a12cf60b67dc
+  mac-addresses:
+  - 70:2E:80:00:00:00/24
+  - 70:B3:D5:1F:10:00/36
+  - 70:B3:D5:31:30:00/36
+  manufacturer: DIEHL Connectivity Solutions
+  manufacturer-uri: https://device-type.com
+  name: DIEHLCon
+type: d3-device-type-assertion

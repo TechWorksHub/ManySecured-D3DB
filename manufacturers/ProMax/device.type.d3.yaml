@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e8b7b41-d2bc-4a17-8f1b-dcb568a2d1d7
+  mac-addresses:
+  - 00:E0:66:00:00:00/24
+  manufacturer: ProMax Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ProMax
+type: d3-device-type-assertion

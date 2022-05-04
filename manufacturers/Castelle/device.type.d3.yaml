@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f52df1cc-9a59-47ab-87d5-98d710e034f7
+  mac-addresses:
+  - 00:00:44:00:00:00/24
+  manufacturer: Castelle Corporation
+  manufacturer-uri: https://device-type.com
+  name: Castelle
+type: d3-device-type-assertion

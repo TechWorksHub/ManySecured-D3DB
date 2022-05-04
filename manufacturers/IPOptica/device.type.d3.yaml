@@ -1,0 +1,8 @@
+credentialSubject:
+  id: afb70446-75e8-47aa-a4f2-5e5ebe921ee4
+  mac-addresses:
+  - 00:05:FA:00:00:00/24
+  manufacturer: IPOptical, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IPOptica
+type: d3-device-type-assertion

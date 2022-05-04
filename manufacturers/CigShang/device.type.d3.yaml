@@ -1,0 +1,13 @@
+credentialSubject:
+  id: c5623730-4d44-4102-bda9-9c1ed53a5537
+  mac-addresses:
+  - 04:B6:BE:00:00:00/24
+  - 34:B5:A3:00:00:00/24
+  - 7C:9F:07:00:00:00/24
+  - A4:81:7A:00:00:00/24
+  - EC:84:B4:00:00:00/24
+  - F4:0B:9F:00:00:00/24
+  manufacturer: Cig Shanghai Co Ltd
+  manufacturer-uri: https://device-type.com
+  name: CigShang
+type: d3-device-type-assertion

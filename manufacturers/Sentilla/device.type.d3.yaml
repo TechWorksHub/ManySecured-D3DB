@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 866dbb25-e050-412d-bebf-346fa35c1476
+  mac-addresses:
+  - 00:12:75:00:00:00/24
+  manufacturer: Sentilla Corporation
+  manufacturer-uri: https://device-type.com
+  name: Sentilla
+type: d3-device-type-assertion

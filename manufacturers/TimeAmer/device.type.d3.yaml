@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ffeb859e-5e2b-4f6b-bb5f-95d381781c11
+  mac-addresses:
+  - 00:12:E5:00:00:00/24
+  manufacturer: Time America, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TimeAmer
+type: d3-device-type-assertion

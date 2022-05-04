@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6dfe8caa-04d2-4a95-9b3d-7919a5b26088
+  mac-addresses:
+  - 64:B2:1D:00:00:00/24
+  - 6C:F9:D2:00:00:00/24
+  manufacturer: Chengdu Phycom Tech Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ChengduP
+type: d3-device-type-assertion

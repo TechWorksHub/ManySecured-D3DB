@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 553c5966-685c-4def-9663-ce593b42479a
+  mac-addresses:
+  - 00:08:25:00:00:00/24
+  manufacturer: Acme Packet
+  manufacturer-uri: https://device-type.com
+  name: AcmePack
+type: d3-device-type-assertion

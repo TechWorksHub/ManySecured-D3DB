@@ -1,0 +1,9 @@
+credentialSubject:
+  id: afe82a92-61da-4eae-9593-6635ae7786aa
+  mac-addresses:
+  - 38:F7:CD:40:00:00/28
+  - D4:25:CC:00:00:00/28
+  manufacturer: "Nordi Telekommunikatsiooni O\xFC"
+  manufacturer-uri: https://device-type.com
+  name: NordiTel
+type: d3-device-type-assertion

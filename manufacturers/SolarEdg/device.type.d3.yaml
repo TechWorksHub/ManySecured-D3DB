@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 19f10b28-910e-405d-b95a-0a11f88d44b0
+  mac-addresses:
+  - 00:27:02:00:00:00/24
+  - 28:B7:7C:10:00:00/28
+  - 84:D6:C5:00:00:00/24
+  - 94:05:BB:A0:00:00/28
+  manufacturer: SolarEdge Technologies
+  manufacturer-uri: https://device-type.com
+  name: SolarEdg
+type: d3-device-type-assertion

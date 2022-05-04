@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 307f586a-45f2-46ca-b45f-a4c3178da6ff
+  mac-addresses:
+  - 00:0B:EE:00:00:00/24
+  manufacturer: inc.jet, Incorporated
+  manufacturer-uri: https://device-type.com
+  name: jet
+type: d3-device-type-assertion

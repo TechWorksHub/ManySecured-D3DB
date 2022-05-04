@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 76a827bc-b3d7-4aee-ba4b-789443ff6676
+  mac-addresses:
+  - 1C:69:7A:00:00:00/24
+  - 88:AE:DD:00:00:00/24
+  - 94:C6:91:00:00:00/24
+  manufacturer: EliteGroup Computer Systems Co., LTD
+  manufacturer-uri: https://device-type.com
+  name: EliteGro
+type: d3-device-type-assertion

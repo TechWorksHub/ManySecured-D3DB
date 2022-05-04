@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b28f9525-4aba-4e76-a784-4e577f60e289
+  mac-addresses:
+  - FC:E1:4F:00:00:00/24
+  manufacturer: BRK Brands, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BRKBrand
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e28b63df-2994-44ea-9cd1-ae4f663ec2b7
+  mac-addresses:
+  - 00:40:B5:00:00:00/24
+  - 00:50:C2:D2:B0:00/36
+  manufacturer: Video Technology Computers Ltd
+  manufacturer-uri: https://device-type.com
+  name: VideoTec
+type: d3-device-type-assertion

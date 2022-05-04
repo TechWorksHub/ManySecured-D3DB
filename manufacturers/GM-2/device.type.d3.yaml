@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfadeb8a-7984-4c73-9a83-2eee04923159
+  mac-addresses:
+  - 00:08:12:00:00:00/24
+  manufacturer: GM-2 Corporation
+  manufacturer-uri: https://device-type.com
+  name: GM-2
+type: d3-device-type-assertion

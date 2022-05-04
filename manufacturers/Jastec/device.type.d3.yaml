@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0f56b108-822d-477d-9c17-2735c0019bdc
+  mac-addresses:
+  - 00:1F:09:00:00:00/24
+  - 4C:8F:A5:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Jastec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ceb04335-cd93-4dbf-969d-a06c57815cf5
+  mac-addresses:
+  - 00:1F:F4:00:00:00/24
+  manufacturer: Power Monitors, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PowerMon
+type: d3-device-type-assertion

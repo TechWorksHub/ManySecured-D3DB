@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 774a9895-05da-46aa-a72b-b88e22b10283
+  mac-addresses:
+  - 3C:47:9B:00:00:00/24
+  - 80:CE:B1:00:00:00/24
+  manufacturer: Theissen Training Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Theissen
+type: d3-device-type-assertion

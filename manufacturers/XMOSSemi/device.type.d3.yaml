@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b9eeab3-965a-444e-98ef-b9f756843169
+  mac-addresses:
+  - 00:22:97:00:00:00/24
+  manufacturer: XMOS Semiconductor
+  manufacturer-uri: https://device-type.com
+  name: XMOSSemi
+type: d3-device-type-assertion

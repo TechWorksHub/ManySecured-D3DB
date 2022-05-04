@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd63c370-27d1-4211-bebf-59552bdf980d
+  mac-addresses:
+  - 00:1F:8B:00:00:00/24
+  manufacturer: Cache IQ
+  manufacturer-uri: https://device-type.com
+  name: CacheIQ
+type: d3-device-type-assertion

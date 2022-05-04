@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d47d3646-6582-41a9-a57c-19ae7ba7ed09
+  mac-addresses:
+  - 00:17:8E:00:00:00/24
+  manufacturer: Gunnebo Cash Automation AB
+  manufacturer-uri: https://device-type.com
+  name: GunneboC
+type: d3-device-type-assertion

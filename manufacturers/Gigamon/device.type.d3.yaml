@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f587c16b-53b4-45bf-9939-3fd9f94b3bb2
+  mac-addresses:
+  - 00:1D:AC:00:00:00/24
+  manufacturer: Gigamon Systems LLC
+  manufacturer-uri: https://device-type.com
+  name: Gigamon
+type: d3-device-type-assertion

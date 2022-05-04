@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 890dc50c-ae32-4352-a124-ff93f65e5f3b
+  mac-addresses:
+  - 98:59:49:00:00:00/24
+  manufacturer: Luxottica Group S.P.A.
+  manufacturer-uri: https://device-type.com
+  name: Luxottic
+type: d3-device-type-assertion

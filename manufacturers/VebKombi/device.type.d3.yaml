@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f495754-e910-480c-b2ea-364911cfd8cc
+  mac-addresses:
+  - 00:80:41:00:00:00/24
+  manufacturer: Veb Kombinat Robotron
+  manufacturer-uri: https://device-type.com
+  name: VebKombi
+type: d3-device-type-assertion

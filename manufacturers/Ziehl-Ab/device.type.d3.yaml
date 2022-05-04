@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c78a35e6-164a-47e9-aa44-bcc895b847e7
+  mac-addresses:
+  - 00:50:C2:4C:F0:00/36
+  - 70:B3:D5:69:80:00/36
+  manufacturer: Ziehl-Abegg AG
+  manufacturer-uri: https://device-type.com
+  name: Ziehl-Ab
+type: d3-device-type-assertion

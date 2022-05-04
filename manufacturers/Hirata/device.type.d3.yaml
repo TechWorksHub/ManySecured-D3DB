@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af8f5bb4-7bda-4dee-9273-a3574de5fa5d
+  mac-addresses:
+  - 00:0B:20:00:00:00/24
+  manufacturer: Hirata corporation
+  manufacturer-uri: https://device-type.com
+  name: Hirata
+type: d3-device-type-assertion

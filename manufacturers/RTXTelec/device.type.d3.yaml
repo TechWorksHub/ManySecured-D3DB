@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c77d4ac6-7e09-4cc4-9da0-f0a8fde05bb6
+  mac-addresses:
+  - 00:08:7B:00:00:00/24
+  manufacturer: RTX Telecom A/S
+  manufacturer-uri: https://device-type.com
+  name: RTXTelec
+type: d3-device-type-assertion

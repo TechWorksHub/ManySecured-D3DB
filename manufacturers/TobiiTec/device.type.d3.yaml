@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cf33117-7f79-4b5e-8a00-0bbc7bea9b2d
+  mac-addresses:
+  - 00:24:CA:00:00:00/24
+  manufacturer: Tobii Technology AB
+  manufacturer-uri: https://device-type.com
+  name: TobiiTec
+type: d3-device-type-assertion

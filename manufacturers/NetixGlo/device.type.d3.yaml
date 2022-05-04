@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 751f2dea-cf3d-4567-8ea1-fa00cfc4532e
+  mac-addresses:
+  - D4:77:B2:00:00:00/24
+  manufacturer: Netix Global B.V.
+  manufacturer-uri: https://device-type.com
+  name: NetixGlo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a380c1ab-2c0a-44b6-9757-cdac85290ab0
+  mac-addresses:
+  - 70:B3:D5:12:B0:00/36
+  manufacturer: RIC Electronics
+  manufacturer-uri: https://device-type.com
+  name: RICElect
+type: d3-device-type-assertion

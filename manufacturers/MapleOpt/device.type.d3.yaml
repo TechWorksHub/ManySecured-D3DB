@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ddfe551-977b-4eec-a396-7aebe8927679
+  mac-addresses:
+  - 00:06:D8:00:00:00/24
+  manufacturer: Maple Optical Systems
+  manufacturer-uri: https://device-type.com
+  name: MapleOpt
+type: d3-device-type-assertion

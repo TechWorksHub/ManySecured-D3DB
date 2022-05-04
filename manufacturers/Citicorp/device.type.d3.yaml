@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 126ff1c6-9f55-4794-927c-3639065ecd65
+  mac-addresses:
+  - 00:A0:20:00:00:00/24
+  manufacturer: Citicorp/Tti
+  manufacturer-uri: https://device-type.com
+  name: Citicorp
+type: d3-device-type-assertion

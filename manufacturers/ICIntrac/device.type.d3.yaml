@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 390c76f1-40ce-4fe0-b026-3f486ec656fd
+  mac-addresses:
+  - 98:16:EC:00:00:00/24
+  manufacturer: IC Intracom
+  manufacturer-uri: https://device-type.com
+  name: ICIntrac
+type: d3-device-type-assertion

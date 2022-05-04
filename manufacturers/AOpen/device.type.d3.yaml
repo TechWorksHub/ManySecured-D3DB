@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33dd3907-a486-4d69-bf22-b73187b0b001
+  mac-addresses:
+  - 00:01:80:00:00:00/24
+  manufacturer: AOpen, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AOpen
+type: d3-device-type-assertion

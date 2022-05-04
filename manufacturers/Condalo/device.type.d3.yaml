@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5c7b09f-f3be-425e-87cc-dac64647ac3c
+  mac-addresses:
+  - 00:1B:B3:00:00:00/24
+  manufacturer: Condalo GmbH
+  manufacturer-uri: https://device-type.com
+  name: Condalo
+type: d3-device-type-assertion

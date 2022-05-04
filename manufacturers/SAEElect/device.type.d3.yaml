@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0b8cccc-60fe-4af7-ba23-18803a771dd2
+  mac-addresses:
+  - 00:1C:09:00:00:00/24
+  manufacturer: SAE Electronic Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SAEElect
+type: d3-device-type-assertion

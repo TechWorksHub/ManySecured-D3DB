@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 050b8f3c-ac87-4242-87ce-6587e9903e80
+  mac-addresses:
+  - 00:01:AB:00:00:00/24
+  manufacturer: Main Street Networks
+  manufacturer-uri: https://device-type.com
+  name: MainStre
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfa5601d-edfe-4005-9b44-32309e8a9983
+  mac-addresses:
+  - 00:20:6D:00:00:00/24
+  manufacturer: Data Race, Inc.
+  manufacturer-uri: https://device-type.com
+  name: DataRace
+type: d3-device-type-assertion

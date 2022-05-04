@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3ef483d-64a6-406e-8be3-ef0d5046dc8c
+  mac-addresses:
+  - 00:E0:16:00:00:00/24
+  manufacturer: rapid-city (now a part of bay networks)
+  manufacturer-uri: https://device-type.com
+  name: Rapid-Ci
+type: d3-device-type-assertion

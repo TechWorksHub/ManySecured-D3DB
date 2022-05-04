@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba4fa717-23ea-4e22-95f8-53e97652ae05
+  mac-addresses:
+  - 00:60:B5:00:00:00/24
+  manufacturer: KEBA GmbH
+  manufacturer-uri: https://device-type.com
+  name: KEBA
+type: d3-device-type-assertion

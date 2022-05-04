@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42f2c2f7-6648-4be1-83af-08b717522508
+  mac-addresses:
+  - FC:A4:7A:40:00:00/28
+  manufacturer: Hooc Ag
+  manufacturer-uri: https://device-type.com
+  name: Hooc
+type: d3-device-type-assertion

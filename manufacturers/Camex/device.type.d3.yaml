@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aaa0b518-4d93-4880-aba2-cfa85cbadd30
+  mac-addresses:
+  - 00:00:13:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Camex
+type: d3-device-type-assertion

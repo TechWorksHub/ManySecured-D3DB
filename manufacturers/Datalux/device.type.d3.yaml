@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50f9cc8d-0b0e-4206-94ab-38a116141188
+  mac-addresses:
+  - 00:C0:42:00:00:00/24
+  manufacturer: Datalux Corp.
+  manufacturer-uri: https://device-type.com
+  name: Datalux
+type: d3-device-type-assertion

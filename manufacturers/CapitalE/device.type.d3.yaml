@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0d2f5144-4985-474a-893c-5dabf5e55de6
+  mac-addresses:
+  - 00:01:94:00:00:00/24
+  - 9C:F6:DD:40:00:00/28
+  manufacturer: Capital Equipment Corporation
+  manufacturer-uri: https://device-type.com
+  name: CapitalE
+type: d3-device-type-assertion

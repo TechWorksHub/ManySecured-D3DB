@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 2333f0fd-86e0-4a04-ae0d-bedb3118393e
+  mac-addresses:
+  - 00:25:22:00:00:00/24
+  - 70:85:C2:00:00:00/24
+  - A8:A1:59:00:00:00/24
+  - BC:5F:F4:00:00:00/24
+  - D0:50:99:00:00:00/24
+  manufacturer: ASRock Incorporation
+  manufacturer-uri: https://device-type.com
+  name: ASRockIn
+type: d3-device-type-assertion

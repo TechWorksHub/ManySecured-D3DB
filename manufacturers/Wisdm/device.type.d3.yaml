@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e892e358-bb35-453c-b40a-f04f9ff8910e
+  mac-addresses:
+  - 00:20:3B:00:00:00/24
+  manufacturer: Wisdm Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Wisdm
+type: d3-device-type-assertion

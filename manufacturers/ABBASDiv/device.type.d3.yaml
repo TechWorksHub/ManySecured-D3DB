@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5ece18e-2854-4bce-9279-52c2e8e791e3
+  mac-addresses:
+  - 00:1B:45:00:00:00/24
+  manufacturer: ABB AS, Division Automation Products
+  manufacturer-uri: https://device-type.com
+  name: ABBASDiv
+type: d3-device-type-assertion

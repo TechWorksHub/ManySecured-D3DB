@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa3a4161-07b6-47e2-ab8f-9a2257d1abac
+  mac-addresses:
+  - 00:0D:01:00:00:00/24
+  manufacturer: P&E Microcomputer Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: P&EMicro
+type: d3-device-type-assertion

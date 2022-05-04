@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd6459e9-ba02-4009-9150-93e5112f3ab0
+  mac-addresses:
+  - 00:00:9E:00:00:00/24
+  manufacturer: Marli S.A.
+  manufacturer-uri: https://device-type.com
+  name: Marli
+type: d3-device-type-assertion

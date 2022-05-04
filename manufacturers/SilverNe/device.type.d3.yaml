@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c30ba2d1-394f-45fb-aab5-deb021722753
+  mac-addresses:
+  - 00:50:C2:B8:50:00/36
+  - 50:11:EB:00:00:00/24
+  manufacturer: SilverNet
+  manufacturer-uri: https://device-type.com
+  name: SilverNe
+type: d3-device-type-assertion

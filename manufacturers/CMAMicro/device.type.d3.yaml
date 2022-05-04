@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12900b27-1044-4026-926a-8c03c58f819d
+  mac-addresses:
+  - 00:0E:04:00:00:00/24
+  manufacturer: CMA/Microdialysis AB
+  manufacturer-uri: https://device-type.com
+  name: CMAMicro
+type: d3-device-type-assertion

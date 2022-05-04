@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03c23543-157f-415d-b501-bb9d01fbd8ef
+  mac-addresses:
+  - 00:0A:32:00:00:00/24
+  manufacturer: Xsido Corporation
+  manufacturer-uri: https://device-type.com
+  name: Xsido
+type: d3-device-type-assertion

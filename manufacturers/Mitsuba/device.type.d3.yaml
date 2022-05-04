@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09012488-3ddc-4b57-9e37-c63dc9ee0f67
+  mac-addresses:
+  - 6C:81:FE:00:00:00/24
+  manufacturer: Mitsuba Corporation
+  manufacturer-uri: https://device-type.com
+  name: Mitsuba
+type: d3-device-type-assertion

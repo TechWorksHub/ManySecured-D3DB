@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb5fe128-711f-4bbb-bca4-7205b858c3e3
+  mac-addresses:
+  - 00:08:0C:00:00:00/24
+  manufacturer: VDA Group S.p.a.
+  manufacturer-uri: https://device-type.com
+  name: VDAGroup
+type: d3-device-type-assertion

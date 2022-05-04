@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 2cbf0d9b-551c-4ff5-98b7-ed59dff63693
+  mac-addresses:
+  - 0C:F3:EE:00:00:00/24
+  - 18:32:19:00:00:00/24
+  - 34:5B:98:00:00:00/24
+  - 58:C3:56:00:00:00/24
+  - 64:F5:4E:00:00:00/24
+  - 68:53:9D:00:00:00/24
+  - 80:65:59:00:00:00/24
+  - 8C:D6:7F:00:00:00/24
+  - 90:1A:4F:00:00:00/24
+  - 90:65:60:00:00:00/24
+  - A4:7E:36:00:00:00/24
+  - B8:48:AA:00:00:00/24
+  - BC:6E:6D:00:00:00/24
+  - C0:D0:63:00:00:00/24
+  - D0:35:E5:00:00:00/24
+  - E0:18:9F:00:00:00/24
+  manufacturer: EM Microelectronic
+  manufacturer-uri: https://device-type.com
+  name: EMMicroe
+type: d3-device-type-assertion

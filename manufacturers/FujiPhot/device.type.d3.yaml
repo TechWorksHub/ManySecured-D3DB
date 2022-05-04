@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f0dab2b-db2f-4c7e-989a-2ab68f4ebeb7
+  mac-addresses:
+  - 00:C0:2D:00:00:00/24
+  manufacturer: Fuji Photo Film Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FujiPhot
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc1c0cb8-eda8-4ef9-b3f8-93761bce6c40
+  mac-addresses:
+  - 00:0B:9D:00:00:00/24
+  manufacturer: TwinMOS Technologies Inc.
+  manufacturer-uri: https://device-type.com
+  name: TwinMOST
+type: d3-device-type-assertion

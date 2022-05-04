@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bd09b22-a618-48eb-9b1b-3f4f2d91a0b5
+  mac-addresses:
+  - 00:26:B1:00:00:00/24
+  manufacturer: Navis Auto Motive Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NavisAut
+type: d3-device-type-assertion

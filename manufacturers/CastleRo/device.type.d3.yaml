@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5bd6cbc1-7268-4c81-a9bc-0a08143cfef2
+  mac-addresses:
+  - 00:20:5E:00:00:00/24
+  - 00:80:2E:00:00:00/24
+  manufacturer: Castle Rock, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CastleRo
+type: d3-device-type-assertion

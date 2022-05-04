@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe7099ae-7693-41d2-a761-3dacbf2b359b
+  mac-addresses:
+  - 84:EB:3E:00:00:00/24
+  manufacturer: Vivint Smart Home
+  manufacturer-uri: https://device-type.com
+  name: VivintSm
+type: d3-device-type-assertion

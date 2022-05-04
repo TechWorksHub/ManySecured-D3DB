@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7a98217-938c-48b7-a564-55f38fe66696
+  mac-addresses:
+  - 00:80:4E:00:00:00/24
+  manufacturer: Apex Computer Company
+  manufacturer-uri: https://device-type.com
+  name: ApexComp
+type: d3-device-type-assertion

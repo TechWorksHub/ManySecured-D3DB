@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fabdbdcd-4cb4-45d5-942b-148c5abfdbf0
+  mac-addresses:
+  - 00:02:FF:00:00:00/24
+  manufacturer: Handan BroadInfoCom
+  manufacturer-uri: https://device-type.com
+  name: HandanBr
+type: d3-device-type-assertion

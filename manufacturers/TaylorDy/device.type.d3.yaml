@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fa1e2af-3709-486d-95c2-e310524eeba2
+  mac-addresses:
+  - C8:63:14:E0:00:00/28
+  manufacturer: Taylor Dynamometer
+  manufacturer-uri: https://device-type.com
+  name: TaylorDy
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7dd68e0-11dd-4f28-a225-f2e47a4e6332
+  mac-addresses:
+  - 00:A0:0B:00:00:00/24
+  manufacturer: Computex Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Computex
+type: d3-device-type-assertion

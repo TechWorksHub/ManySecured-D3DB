@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 66536ada-bd7e-4415-9632-f70d543016f3
+  mac-addresses:
+  - FC:D4:F2:00:00:00/24
+  manufacturer: The Coca Cola Company
+  manufacturer-uri: https://device-type.com
+  name: CocaCola
+type: d3-device-type-assertion

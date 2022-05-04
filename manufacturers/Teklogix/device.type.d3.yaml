@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d1a8439-f83b-40ec-8dff-9f39d85670ee
+  mac-addresses:
+  - 00:C0:AF:00:00:00/24
+  manufacturer: Teklogix Inc.
+  manufacturer-uri: https://device-type.com
+  name: Teklogix
+type: d3-device-type-assertion

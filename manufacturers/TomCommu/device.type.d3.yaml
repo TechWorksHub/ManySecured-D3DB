@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be5ca7f6-fff4-42ed-bce9-c992ed00ec1e
+  mac-addresses:
+  - 00:1D:5C:00:00:00/24
+  manufacturer: Tom Communication Industrial Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TomCommu
+type: d3-device-type-assertion

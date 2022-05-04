@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40d0e01e-0a87-439b-bc1f-3f21e7b7a852
+  mac-addresses:
+  - 00:0A:A0:00:00:00/24
+  manufacturer: Cedar Point Communications
+  manufacturer-uri: https://device-type.com
+  name: CedarPoi
+type: d3-device-type-assertion

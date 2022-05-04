@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 914dc260-253b-4f1d-9e57-f9a8e2b17fcf
+  mac-addresses:
+  - 00:13:64:00:00:00/24
+  - 70:B3:D5:94:00:00/36
+  - 70:B3:D5:B3:E0:00/36
+  - 7C:B7:7B:00:00:00/24
+  manufacturer: Paradigm Technology Inc..
+  manufacturer-uri: https://device-type.com
+  name: Paradigm
+type: d3-device-type-assertion

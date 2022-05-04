@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7324df0d-3775-4e0e-918f-6e22a9a0903a
+  mac-addresses:
+  - 00:04:DF:00:00:00/24
+  - 00:50:C2:02:50:00/36
+  - 70:CD:91:00:00:00/24
+  manufacturer: Teracom Telematica S.A
+  manufacturer-uri: https://device-type.com
+  name: TeracomT
+type: d3-device-type-assertion

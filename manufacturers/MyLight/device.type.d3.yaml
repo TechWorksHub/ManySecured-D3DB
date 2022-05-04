@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfb19452-d1b9-43d2-811d-c5be0d9dcefb
+  mac-addresses:
+  - F8:DF:E1:00:00:00/24
+  manufacturer: MyLight Systems
+  manufacturer-uri: https://device-type.com
+  name: MyLight
+type: d3-device-type-assertion

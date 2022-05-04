@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2d99247c-2429-4a18-b408-52ab355171cf
+  mac-addresses:
+  - 00:02:F4:00:00:00/24
+  - 68:79:12:00:00:00/28
+  - 70:B3:D5:ED:20:00/36
+  manufacturer: PCTEL, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PCTEL
+type: d3-device-type-assertion

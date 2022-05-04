@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0c85707a-53cc-4e24-ae43-9f018ec9c4ba
+  mac-addresses:
+  - 00:50:C2:B8:F0:00/36
+  - 70:B3:D5:46:90:00/36
+  - 70:B3:D5:83:D0:00/36
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Gentec
+type: d3-device-type-assertion

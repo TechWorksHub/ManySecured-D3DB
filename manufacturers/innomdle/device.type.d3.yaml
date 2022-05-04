@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d7379e9-e9a1-462c-a77a-23a6d8bca336
+  mac-addresses:
+  - 88:E9:0F:00:00:00/24
+  manufacturer: innomdlelab
+  manufacturer-uri: https://device-type.com
+  name: innomdle
+type: d3-device-type-assertion

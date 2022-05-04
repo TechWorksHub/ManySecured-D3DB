@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c6c196f-f6e2-4877-b67d-bd80f8999ab4
+  mac-addresses:
+  - 18:92:2C:00:00:00/24
+  manufacturer: Virtual Instruments
+  manufacturer-uri: https://device-type.com
+  name: VirtualI
+type: d3-device-type-assertion

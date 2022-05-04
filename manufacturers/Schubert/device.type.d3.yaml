@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ece9dee7-5a9c-4c1c-9c83-2b13cc8c6620
+  mac-addresses:
+  - 00:04:4F:00:00:00/24
+  manufacturer: Schubert System Elektronik Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Schubert
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c0ec1e4-e180-4f40-ae3d-1068a1af3120
+  mac-addresses:
+  - 00:04:03:00:00:00/24
+  manufacturer: Nexsi Corporation
+  manufacturer-uri: https://device-type.com
+  name: Nexsi
+type: d3-device-type-assertion

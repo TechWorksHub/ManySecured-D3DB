@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8567a0c8-b0e9-4bdf-93fa-42966b06f81a
+  mac-addresses:
+  - 00:01:F8:00:00:00/24
+  - 00:10:F8:00:00:00/24
+  manufacturer: Texio Technology Corporation
+  manufacturer-uri: https://device-type.com
+  name: TexioTec
+type: d3-device-type-assertion

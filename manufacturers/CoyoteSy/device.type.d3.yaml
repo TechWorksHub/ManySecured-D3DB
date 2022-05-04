@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed383f8c-ae1d-4023-a167-b7609fb83241
+  mac-addresses:
+  - 50:FF:99:10:00:00/28
+  - F4:E2:04:00:00:00/24
+  manufacturer: Coyote System
+  manufacturer-uri: https://device-type.com
+  name: CoyoteSy
+type: d3-device-type-assertion

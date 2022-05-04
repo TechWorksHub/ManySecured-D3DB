@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f5f183c1-ee4e-4c9b-b6fe-746048c247e1
+  mac-addresses:
+  - 00:21:B5:00:00:00/24
+  - C4:24:2E:00:00:00/24
+  manufacturer: Galvanic Ltd
+  manufacturer-uri: https://device-type.com
+  name: Galvanic
+type: d3-device-type-assertion

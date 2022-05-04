@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6525d1f7-e73f-470a-bc31-cc99e27d5d9c
+  mac-addresses:
+  - 40:D8:55:00:00:00/36
+  - 78:C2:C0:10:00:00/28
+  manufacturer: Xronos.Inc
+  manufacturer-uri: https://device-type.com
+  name: Xronos
+type: d3-device-type-assertion

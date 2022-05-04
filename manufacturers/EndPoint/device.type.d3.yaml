@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7e734a01-886d-4fcc-810e-b99c6633b623
+  mac-addresses:
+  - 00:02:CA:00:00:00/24
+  manufacturer: EndPoints, Inc.
+  manufacturer-uri: https://device-type.com
+  name: EndPoint
+type: d3-device-type-assertion

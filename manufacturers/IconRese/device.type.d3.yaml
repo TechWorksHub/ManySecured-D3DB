@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f0968e3b-6ca6-428a-92ae-846cde48a172
+  mac-addresses:
+  - 00:50:C2:02:00:00/36
+  - 00:50:C2:F0:70:00/36
+  manufacturer: Icon Research Ltd.
+  manufacturer-uri: https://device-type.com
+  name: IconRese
+type: d3-device-type-assertion

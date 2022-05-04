@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99da2356-b2fe-4f67-a16d-09b251b7b278
+  mac-addresses:
+  - 00:09:4E:00:00:00/24
+  manufacturer: Bartech Systems International, Inc
+  manufacturer-uri: https://device-type.com
+  name: BartechI
+type: d3-device-type-assertion

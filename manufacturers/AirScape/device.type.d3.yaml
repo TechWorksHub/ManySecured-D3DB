@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 38dc8291-056a-4bb6-a01b-695a5c96c665
+  mac-addresses:
+  - 60:CB:FB:00:00:00/24
+  manufacturer: AirScape Inc.
+  manufacturer-uri: https://device-type.com
+  name: AirScape
+type: d3-device-type-assertion

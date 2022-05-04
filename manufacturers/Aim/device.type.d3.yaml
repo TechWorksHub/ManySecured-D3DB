@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b47b2400-a055-4d02-8f2f-0f2a4104cc8c
+  mac-addresses:
+  - 00:50:C2:08:00:00/36
+  - 00:50:C2:BF:00:00/36
+  - D0:22:12:10:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Aim
+type: d3-device-type-assertion

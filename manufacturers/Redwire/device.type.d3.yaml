@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 37a8cc35-a26c-47cb-ae0a-f16856114bdf
+  mac-addresses:
+  - 00:50:C2:A8:C0:00/36
+  - EC:47:3C:00:00:00/24
+  manufacturer: Redwire, LLC
+  manufacturer-uri: https://device-type.com
+  name: Redwire
+type: d3-device-type-assertion

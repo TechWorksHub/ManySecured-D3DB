@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8bd681e8-68c5-491a-973a-862a89f179b3
+  mac-addresses:
+  - 00:08:FB:00:00:00/24
+  manufacturer: SonoSite, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SonoSite
+type: d3-device-type-assertion

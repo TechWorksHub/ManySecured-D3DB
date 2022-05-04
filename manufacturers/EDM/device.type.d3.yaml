@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6468493-daa9-441f-b63f-306f49c23dc3
+  mac-addresses:
+  - 00:17:A8:00:00:00/24
+  manufacturer: EDM Corporation
+  manufacturer-uri: https://device-type.com
+  name: EDM
+type: d3-device-type-assertion

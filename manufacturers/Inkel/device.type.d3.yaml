@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6afcafc4-10ba-412c-a9e0-76b70795360b
+  mac-addresses:
+  - 00:01:6F:00:00:00/24
+  manufacturer: Inkel Corp.
+  manufacturer-uri: https://device-type.com
+  name: Inkel
+type: d3-device-type-assertion

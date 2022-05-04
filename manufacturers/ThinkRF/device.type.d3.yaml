@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 73ca4868-210d-4db3-9a5a-caaac2b356ec
+  mac-addresses:
+  - 00:50:C2:EA:20:00/36
+  - EA:34:B4:00:00:00/24
+  manufacturer: ThinkRF Corp
+  manufacturer-uri: https://device-type.com
+  name: ThinkRF
+type: d3-device-type-assertion

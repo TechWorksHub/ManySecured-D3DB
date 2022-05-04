@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0da09061-ff13-468d-ae3f-a16b4903ae0a
+  mac-addresses:
+  - 00:D0:FC:00:00:00/24
+  manufacturer: Granite Microsystems
+  manufacturer-uri: https://device-type.com
+  name: GraniteM
+type: d3-device-type-assertion

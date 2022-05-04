@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ecf67c30-2392-4130-b386-6caa2b3e4441
+  mac-addresses:
+  - 00:01:92:00:00:00/24
+  manufacturer: Texas Digital Systems
+  manufacturer-uri: https://device-type.com
+  name: TexasDig
+type: d3-device-type-assertion

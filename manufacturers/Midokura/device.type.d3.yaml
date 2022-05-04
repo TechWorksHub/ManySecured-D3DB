@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 612cd02b-c143-447b-a175-59462978c1cb
+  mac-addresses:
+  - AC:CA:BA:00:00:00/24
+  manufacturer: Midokura Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Midokura
+type: d3-device-type-assertion

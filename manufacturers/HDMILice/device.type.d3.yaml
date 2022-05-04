@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c559df20-4c86-442f-9791-730f914fe7a6
+  mac-addresses:
+  - 00:0C:03:00:00:00/24
+  - 44:48:91:00:00:00/24
+  manufacturer: HDMI Licensing, LLC
+  manufacturer-uri: https://device-type.com
+  name: HDMILice
+type: d3-device-type-assertion

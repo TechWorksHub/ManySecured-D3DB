@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b0e9157a-4805-4fe1-8147-4f2548b21fe9
+  mac-addresses:
+  - 70:59:57:00:00:00/24
+  manufacturer: Medallion Instrumentation Systems
+  manufacturer-uri: https://device-type.com
+  name: Medallio
+type: d3-device-type-assertion

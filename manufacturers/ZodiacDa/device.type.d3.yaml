@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d2268f4-e0de-4e62-8ed9-7a978d2cbf91
+  mac-addresses:
+  - 00:10:5F:00:00:00/24
+  manufacturer: Zodiac Data Systems
+  manufacturer-uri: https://device-type.com
+  name: ZodiacDa
+type: d3-device-type-assertion

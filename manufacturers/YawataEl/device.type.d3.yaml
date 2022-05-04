@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 86450ea2-7ab8-4b8e-baa9-3fd32ee50b97
+  mac-addresses:
+  - 40:D8:55:17:20:00/36
+  - 70:B3:D5:BC:E0:00/36
+  - E8:B4:70:40:00:00/28
+  manufacturer: Yawata Electric Industrial Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: YawataEl
+type: d3-device-type-assertion

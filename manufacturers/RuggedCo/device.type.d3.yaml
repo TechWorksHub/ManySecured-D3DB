@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 70c6304f-ca3f-4333-a26f-ec1fc4e16a09
+  mac-addresses:
+  - 00:0A:DC:00:00:00/24
+  - 00:13:D5:00:00:00/24
+  - 94:B8:C5:00:00:00/24
+  manufacturer: RuggedCom Inc.
+  manufacturer-uri: https://device-type.com
+  name: RuggedCo
+type: d3-device-type-assertion

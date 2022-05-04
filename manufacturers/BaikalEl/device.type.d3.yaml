@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fca2439-af94-48d2-9492-d082571ed2e9
+  mac-addresses:
+  - 4C:A5:15:00:00:00/24
+  manufacturer: Baikal Electronics JSC
+  manufacturer-uri: https://device-type.com
+  name: BaikalEl
+type: d3-device-type-assertion

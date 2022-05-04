@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fb48cd1-fb75-4918-9c36-427de3070abe
+  mac-addresses:
+  - 68:B4:3A:00:00:00/24
+  manufacturer: WaterFurnace International, Inc.
+  manufacturer-uri: https://device-type.com
+  name: WaterFur
+type: d3-device-type-assertion

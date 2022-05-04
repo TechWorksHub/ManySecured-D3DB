@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a01c995c-f333-4e02-8b4b-7fc1e38bb763
+  mac-addresses:
+  - 00:0F:07:00:00:00/24
+  manufacturer: Mangrove Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mangrove
+type: d3-device-type-assertion

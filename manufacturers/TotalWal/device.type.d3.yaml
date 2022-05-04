@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 009e876c-efeb-4bb0-9cd9-b80397eac3a4
+  mac-addresses:
+  - A4:DE:50:00:00:00/24
+  manufacturer: Total Walther GmbH
+  manufacturer-uri: https://device-type.com
+  name: TotalWal
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b71167d1-6648-4f13-8b0e-a50450ea0172
+  mac-addresses:
+  - 00:15:06:00:00:00/24
+  manufacturer: Neo Photonics
+  manufacturer-uri: https://device-type.com
+  name: NeoPhoto
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab71bcf3-ef61-4495-8ee7-2368f2c45331
+  mac-addresses:
+  - 00:30:B2:00:00:00/24
+  manufacturer: L-3 Sonoma EO
+  manufacturer-uri: https://device-type.com
+  name: L-3Sonom
+type: d3-device-type-assertion

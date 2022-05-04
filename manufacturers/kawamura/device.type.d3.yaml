@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8396687-a107-4f5f-a96b-ca2d359c17b6
+  mac-addresses:
+  - 00:11:03:00:00:00/24
+  manufacturer: kawamura electric inc.
+  manufacturer-uri: https://device-type.com
+  name: kawamura
+type: d3-device-type-assertion

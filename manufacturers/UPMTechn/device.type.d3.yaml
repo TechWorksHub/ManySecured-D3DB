@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b2ddcb48-7520-495f-adbf-b183e158de47
+  mac-addresses:
+  - 58:20:8A:E0:00:00/28
+  - 70:B3:D5:75:C0:00/36
+  manufacturer: UPM Technology, Inc
+  manufacturer-uri: https://device-type.com
+  name: UPMTechn
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: b5bc4332-467a-4be6-b102-bb18f802e560
+  mac-addresses:
+  - 28:04:C6:00:00:00/24
+  - 5C:56:A4:00:00:00/24
+  - B0:38:E2:00:00:00/24
+  - E0:9D:FA:00:00:00/24
+  manufacturer: Wanan Hongsheng Electronic Co.Ltd
+  manufacturer-uri: https://device-type.com
+  name: WananHon
+type: d3-device-type-assertion

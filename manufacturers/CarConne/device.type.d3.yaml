@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccbaa66e-382f-4638-9966-5255da1fd28c
+  mac-addresses:
+  - 04:DF:69:00:00:00/24
+  manufacturer: Car Connectivity Consortium
+  manufacturer-uri: https://device-type.com
+  name: CarConne
+type: d3-device-type-assertion

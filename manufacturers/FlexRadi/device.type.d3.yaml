@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fcf6d73-5fee-4524-8d3b-c64e12784e4e
+  mac-addresses:
+  - 00:1C:2D:00:00:00/24
+  manufacturer: FlexRadio Systems
+  manufacturer-uri: https://device-type.com
+  name: FlexRadi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e532f4b8-7659-484e-b21d-37952071ce4c
+  mac-addresses:
+  - 00:40:2C:00:00:00/24
+  manufacturer: Isis Distributed Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IsisDist
+type: d3-device-type-assertion

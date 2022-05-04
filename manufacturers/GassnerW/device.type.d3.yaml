@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65ce8f25-b28f-4615-8b9e-140bf5398d05
+  mac-addresses:
+  - 00:14:AD:00:00:00/24
+  manufacturer: "Gassner Wiege- und Me\xDFtechnik GmbH"
+  manufacturer-uri: https://device-type.com
+  name: GassnerW
+type: d3-device-type-assertion

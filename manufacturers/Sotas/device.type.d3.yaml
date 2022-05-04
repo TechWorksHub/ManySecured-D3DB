@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20f0b50e-47eb-43ba-8242-8821c02c66f2
+  mac-addresses:
+  - 00:A0:CF:00:00:00/24
+  manufacturer: Sotas, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Sotas
+type: d3-device-type-assertion

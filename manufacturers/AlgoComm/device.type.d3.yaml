@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 123d1316-678d-4a4e-883b-7f4a79a8a972
+  mac-addresses:
+  - 00:22:EE:00:00:00/24
+  manufacturer: Algo Communication Products Ltd
+  manufacturer-uri: https://device-type.com
+  name: AlgoComm
+type: d3-device-type-assertion

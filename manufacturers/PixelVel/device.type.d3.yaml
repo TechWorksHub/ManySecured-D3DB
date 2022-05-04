@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1145382d-f732-4aa7-8974-0ca034c21993
+  mac-addresses:
+  - 00:21:4A:00:00:00/24
+  - 00:50:C2:59:40:00/36
+  manufacturer: Pixel Velocity, Inc
+  manufacturer-uri: https://device-type.com
+  name: PixelVel
+type: d3-device-type-assertion

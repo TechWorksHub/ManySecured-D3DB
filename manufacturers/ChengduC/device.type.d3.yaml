@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7794bfe0-dd8d-442f-bd76-a4b9f10b27ee
+  mac-addresses:
+  - 18:E1:DE:00:00:00/24
+  - 50:62:55:B0:00:00/28
+  - 70:B3:D5:24:E0:00/36
+  manufacturer: Chengdu ChipIntelli Technology Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: ChengduC
+type: d3-device-type-assertion

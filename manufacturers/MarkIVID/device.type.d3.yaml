@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ea5d5f3-a266-476a-940b-a1ebbd6253a0
+  mac-addresses:
+  - 00:50:C2:52:20:00/36
+  manufacturer: Mark IV IDS Corp.
+  manufacturer-uri: https://device-type.com
+  name: MarkIVID
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0c8595f-af3b-45ba-9c98-8eaccb2387bb
+  mac-addresses:
+  - 00:21:BB:00:00:00/24
+  manufacturer: Riken Keiki Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: RikenKei
+type: d3-device-type-assertion

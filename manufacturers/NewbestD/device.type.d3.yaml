@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e6f9950-0be7-422d-b542-393e1137328f
+  mac-addresses:
+  - 00:0D:42:00:00:00/24
+  manufacturer: Newbest Development Limited
+  manufacturer-uri: https://device-type.com
+  name: NewbestD
+type: d3-device-type-assertion

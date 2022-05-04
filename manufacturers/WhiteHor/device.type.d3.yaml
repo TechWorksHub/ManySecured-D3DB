@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8df45ed-be78-4029-b256-3aba36c9e9b9
+  mac-addresses:
+  - 00:20:A9:00:00:00/24
+  manufacturer: White Horse Industrial
+  manufacturer-uri: https://device-type.com
+  name: WhiteHor
+type: d3-device-type-assertion

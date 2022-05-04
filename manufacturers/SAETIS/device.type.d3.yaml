@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e7360074-5c84-4111-97d5-4d79d37a0293
+  mac-addresses:
+  - 00:50:C2:17:20:00/36
+  - 24:EB:65:00:00:00/24
+  manufacturer: SAET I.S. S.r.l.
+  manufacturer-uri: https://device-type.com
+  name: SAETIS
+type: d3-device-type-assertion

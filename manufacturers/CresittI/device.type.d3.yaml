@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02e21eed-44a4-462b-bc67-edfd0cb1049f
+  mac-addresses:
+  - 00:0E:D4:00:00:00/24
+  manufacturer: Cresitt Industrie
+  manufacturer-uri: https://device-type.com
+  name: CresittI
+type: d3-device-type-assertion

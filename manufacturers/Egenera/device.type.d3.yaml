@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c672d33-e2ec-4cbc-8342-449b7e11e289
+  mac-addresses:
+  - 00:05:E6:00:00:00/24
+  manufacturer: Egenera, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Egenera
+type: d3-device-type-assertion

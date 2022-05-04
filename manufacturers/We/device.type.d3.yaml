@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 5c589549-8981-4ba1-8179-0e472e07c1ad
+  mac-addresses:
+  - 04:E7:7E:00:00:00/24
+  - 18:B6:CC:00:00:00/24
+  - 90:12:A1:00:00:00/24
+  - E0:0E:E1:00:00:00/24
+  manufacturer: We Corporation Inc.
+  manufacturer-uri: https://device-type.com
+  name: We
+type: d3-device-type-assertion

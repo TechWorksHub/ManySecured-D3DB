@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56fe7dea-b20e-47ff-b3e9-f19a511b992a
+  mac-addresses:
+  - 00:00:66:00:00:00/24
+  manufacturer: Talaris Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Talaris
+type: d3-device-type-assertion

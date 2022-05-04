@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e302ae54-7e62-4cf0-b018-51ede3be5f5d
+  mac-addresses:
+  - 00:50:02:00:00:00/24
+  manufacturer: Omnisec Ag
+  manufacturer-uri: https://device-type.com
+  name: Omnisec
+type: d3-device-type-assertion

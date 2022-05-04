@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46c66b55-1341-4040-953b-096684558546
+  mac-addresses:
+  - 00:24:16:00:00:00/24
+  manufacturer: Any Use
+  manufacturer-uri: https://device-type.com
+  name: AnyUse
+type: d3-device-type-assertion

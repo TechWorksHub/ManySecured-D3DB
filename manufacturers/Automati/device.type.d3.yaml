@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 0609c014-ebe2-4043-90c5-d5a48f68d4d3
+  mac-addresses:
+  - 00:17:30:00:00:00/24
+  - 00:21:DA:00:00:00/24
+  - 00:50:C2:60:E0:00/36
+  - 00:50:C2:7F:A0:00/36
+  - 00:50:C2:91:E0:00/36
+  - 00:50:C2:E1:30:00/36
+  - 34:E4:2A:00:00:00/24
+  - 50:DD:4F:00:00:00/24
+  - 70:B3:D5:2B:B0:00/36
+  - 70:B3:D5:59:B0:00/36
+  - 70:B3:D5:CD:70:00/36
+  - 70:B3:D5:EB:F0:00/36
+  - 8C:1F:64:F4:10:00/36
+  - C0:C3:B6:00:00:00/24
+  manufacturer: Automation Electronics
+  manufacturer-uri: https://device-type.com
+  name: Automati
+type: d3-device-type-assertion

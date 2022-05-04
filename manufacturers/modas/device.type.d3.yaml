@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a5ef9d0-88e3-4778-9035-3287a132d018
+  mac-addresses:
+  - 00:50:C2:1C:90:00/36
+  - 90:5F:8D:00:00:00/24
+  manufacturer: modas GmbH
+  manufacturer-uri: https://device-type.com
+  name: modas
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a051fee0-7969-43cd-90a2-131e1c471c99
+  mac-addresses:
+  - 1A:BB:FB:00:00:00/24
+  manufacturer: UHD Alliance
+  manufacturer-uri: https://device-type.com
+  name: UHDAllia
+type: d3-device-type-assertion

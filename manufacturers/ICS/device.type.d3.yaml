@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc86b28f-320c-47f3-97df-b1ea3b18eebf
+  mac-addresses:
+  - 00:05:0A:00:00:00/24
+  manufacturer: ICS Spa
+  manufacturer-uri: https://device-type.com
+  name: ICS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c7c7927-c0b5-4368-86ac-bc676dc0e9f5
+  mac-addresses:
+  - 00:22:1A:00:00:00/24
+  manufacturer: Audio Precision
+  manufacturer-uri: https://device-type.com
+  name: AudioPre
+type: d3-device-type-assertion

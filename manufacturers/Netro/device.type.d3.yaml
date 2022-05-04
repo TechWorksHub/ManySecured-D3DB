@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 49ed1c7a-04c4-4497-a980-92118fea06c8
+  mac-addresses:
+  - 00:60:40:00:00:00/24
+  manufacturer: Netro Corp.
+  manufacturer-uri: https://device-type.com
+  name: Netro
+type: d3-device-type-assertion

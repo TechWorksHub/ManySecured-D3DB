@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 977203ec-e5ab-4972-8359-b481de5e0a97
+  mac-addresses:
+  - 00:06:77:00:00:00/24
+  manufacturer: Sick Ag
+  manufacturer-uri: https://device-type.com
+  name: Sick
+type: d3-device-type-assertion

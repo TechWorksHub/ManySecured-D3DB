@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 72134dc0-7d81-4b40-98c1-56cd2427122f
+  mac-addresses:
+  - 00:05:1C:00:00:00/24
+  - 00:20:DB:00:00:00/24
+  manufacturer: Xnet Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: XnetTech
+type: d3-device-type-assertion

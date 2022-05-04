@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a348420b-84db-49dc-9d10-79c6e3cd07f7
+  mac-addresses:
+  - 00:0C:80:00:00:00/24
+  manufacturer: Opelcomm Inc.
+  manufacturer-uri: https://device-type.com
+  name: Opelcomm
+type: d3-device-type-assertion

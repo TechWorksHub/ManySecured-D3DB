@@ -1,0 +1,13 @@
+credentialSubject:
+  id: b632c575-a23b-4ad3-acfa-10c401574109
+  mac-addresses:
+  - 00:50:C2:1C:C0:00/36
+  - 00:50:C2:4F:70:00/36
+  - 00:50:C2:6F:B0:00/36
+  - 00:50:C2:AC:70:00/36
+  - 00:50:C2:F2:60:00/36
+  - 04:1A:04:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: WaveIP
+type: d3-device-type-assertion

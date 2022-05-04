@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b90b43d-abeb-4a7e-a402-3d14f7cd7f14
+  mac-addresses:
+  - 00:1A:A5:00:00:00/24
+  manufacturer: BRN Phoenix
+  manufacturer-uri: https://device-type.com
+  name: BRNPhoen
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f0cc8555-e910-467a-b43b-0565369369c6
+  mac-addresses:
+  - 00:06:D3:00:00:00/24
+  - 00:90:35:00:00:00/24
+  manufacturer: Alpha Telecom, Inc. U.S.A.
+  manufacturer-uri: https://device-type.com
+  name: AlphaTel
+type: d3-device-type-assertion

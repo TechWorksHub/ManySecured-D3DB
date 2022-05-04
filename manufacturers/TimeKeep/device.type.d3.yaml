@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0276c97-fd3e-44f4-99ff-a68024501c5c
+  mac-addresses:
+  - 00:22:23:00:00:00/24
+  manufacturer: TimeKeeping Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TimeKeep
+type: d3-device-type-assertion

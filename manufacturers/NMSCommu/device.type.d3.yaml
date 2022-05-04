@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f74514d-a658-4266-a7ab-1e528b475fd5
+  mac-addresses:
+  - 00:20:22:00:00:00/24
+  manufacturer: NMS Communications
+  manufacturer-uri: https://device-type.com
+  name: NMSCommu
+type: d3-device-type-assertion

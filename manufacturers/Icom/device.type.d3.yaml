@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4298b0e-4beb-48f9-a623-2d30573bcad3
+  mac-addresses:
+  - 00:90:C7:00:00:00/24
+  manufacturer: Icom Inc.
+  manufacturer-uri: https://device-type.com
+  name: Icom
+type: d3-device-type-assertion

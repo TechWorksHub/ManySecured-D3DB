@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13e0b902-0b8d-4e87-b387-7fa0f4dcd644
+  mac-addresses:
+  - 00:0C:D7:00:00:00/24
+  manufacturer: Nallatech Ltd
+  manufacturer-uri: https://device-type.com
+  name: Nallatec
+type: d3-device-type-assertion

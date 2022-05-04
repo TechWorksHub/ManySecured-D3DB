@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 85898654-38c5-4ec0-9adc-ef6a3a535d9d
+  mac-addresses:
+  - 00:0B:B6:00:00:00/24
+  - 00:50:BF:00:00:00/24
+  manufacturer: Metalligence Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: Metallig
+type: d3-device-type-assertion

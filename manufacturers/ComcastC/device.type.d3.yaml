@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2a546761-c760-4b6f-9af3-75eb360c3a80
+  mac-addresses:
+  - D8:9C:8E:00:00:00/24
+  - F0:46:3B:00:00:00/24
+  manufacturer: Comcast Cable Corporation
+  manufacturer-uri: https://device-type.com
+  name: ComcastC
+type: d3-device-type-assertion

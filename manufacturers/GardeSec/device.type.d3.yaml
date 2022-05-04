@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b73de7b2-a4cb-436d-9502-16134d433081
+  mac-addresses:
+  - 00:22:5A:00:00:00/24
+  manufacturer: Garde Security AB
+  manufacturer-uri: https://device-type.com
+  name: GardeSec
+type: d3-device-type-assertion

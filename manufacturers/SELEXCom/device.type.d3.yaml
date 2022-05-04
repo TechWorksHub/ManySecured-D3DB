@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 806a34cd-afc3-454d-82e6-16b6770a0709
+  mac-addresses:
+  - 00:50:C2:29:E0:00/36
+  - 00:50:C2:D5:60:00/36
+  manufacturer: SELEX Communications Ltd
+  manufacturer-uri: https://device-type.com
+  name: SELEXCom
+type: d3-device-type-assertion

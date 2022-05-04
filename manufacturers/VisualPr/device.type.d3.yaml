@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 863d1ebb-1c44-4a8c-aaf5-c87e03528064
+  mac-addresses:
+  - 00:50:C2:DE:80:00/36
+  - B8:D8:12:80:00:00/28
+  manufacturer: Visual Productions
+  manufacturer-uri: https://device-type.com
+  name: VisualPr
+type: d3-device-type-assertion

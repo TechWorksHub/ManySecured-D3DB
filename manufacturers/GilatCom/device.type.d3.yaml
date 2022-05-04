@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca8254eb-c39c-4ad1-8673-a22db5d58b88
+  mac-addresses:
+  - 00:01:50:00:00:00/24
+  manufacturer: Gilat Communications, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GilatCom
+type: d3-device-type-assertion

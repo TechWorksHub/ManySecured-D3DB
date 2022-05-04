@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12021f38-fb6d-412f-af7b-91113b27e13c
+  mac-addresses:
+  - 00:06:08:00:00:00/24
+  manufacturer: At-Sky SAS
+  manufacturer-uri: https://device-type.com
+  name: At-SkySA
+type: d3-device-type-assertion

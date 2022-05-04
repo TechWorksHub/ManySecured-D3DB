@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1abecdf0-48ae-42c0-9bd5-21e350fbcd26
+  mac-addresses:
+  - 70:B3:D5:B2:60:00/36
+  manufacturer: INTEC International GmbH
+  manufacturer-uri: https://device-type.com
+  name: INTECInt
+type: d3-device-type-assertion

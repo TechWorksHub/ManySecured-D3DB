@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f5e4a44-6bc3-4296-9988-7860a3e204c0
+  mac-addresses:
+  - 00:13:B0:00:00:00/24
+  manufacturer: Jablotron
+  manufacturer-uri: https://device-type.com
+  name: Jablotro
+type: d3-device-type-assertion

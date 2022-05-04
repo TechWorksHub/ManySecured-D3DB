@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d15ee43-dae1-4bc3-9ab2-dab6f67c59b2
+  mac-addresses:
+  - 00:1A:E4:00:00:00/24
+  manufacturer: Medicis Technologies Corporation
+  manufacturer-uri: https://device-type.com
+  name: MedicisT
+type: d3-device-type-assertion

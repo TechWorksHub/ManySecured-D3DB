@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 36d7afb4-f0de-42bb-9dbb-888490f21154
+  mac-addresses:
+  - 00:50:C2:76:20:00/36
+  - 00:50:C2:FB:50:00/36
+  - 40:D8:55:16:70:00/36
+  - 70:B3:D5:54:F0:00/36
+  - 70:B3:D5:B8:F0:00/36
+  manufacturer: Assembly Contracts Limited
+  manufacturer-uri: https://device-type.com
+  name: Assembly
+type: d3-device-type-assertion

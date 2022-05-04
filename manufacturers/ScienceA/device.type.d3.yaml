@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8dbb06f-1c49-4b31-85d3-a1b8acdd19f4
+  mac-addresses:
+  - 00:15:F6:00:00:00/24
+  manufacturer: Science And Engineering Services, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ScienceA
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5b982b8-4b8c-4d8d-8f15-fcfd717237ff
+  mac-addresses:
+  - FC:11:86:00:00:00/24
+  manufacturer: Logic3 plc
+  manufacturer-uri: https://device-type.com
+  name: Logic3
+type: d3-device-type-assertion

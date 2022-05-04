@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5a3d23ab-75b4-49a7-ab5a-a85bf53832e3
+  mac-addresses:
+  - 48:65:EE:10:00:00/28
+  - 50:A0:30:00:00:00/28
+  manufacturer: Gopod Group Limited
+  manufacturer-uri: https://device-type.com
+  name: GopodGro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f740d28-5a03-4b37-b816-41d682acc9a0
+  mac-addresses:
+  - 00:0D:97:00:00:00/24
+  manufacturer: ABB Inc./Tropos
+  manufacturer-uri: https://device-type.com
+  name: ABBTropo
+type: d3-device-type-assertion

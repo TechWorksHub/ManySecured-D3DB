@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 804957e7-9919-44f4-b4e4-2dd9d698bd4a
+  mac-addresses:
+  - 00:20:C9:00:00:00/24
+  manufacturer: Victron Bv
+  manufacturer-uri: https://device-type.com
+  name: Victron
+type: d3-device-type-assertion

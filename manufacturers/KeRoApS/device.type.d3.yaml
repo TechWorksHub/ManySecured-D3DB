@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0e578f4-fa03-4385-b24e-2048594f96e5
+  mac-addresses:
+  - 00:12:3B:00:00:00/24
+  manufacturer: KeRo Systems ApS
+  manufacturer-uri: https://device-type.com
+  name: KeRoApS
+type: d3-device-type-assertion

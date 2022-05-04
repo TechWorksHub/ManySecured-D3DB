@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 85211b83-0fb3-4250-824f-deb843b0e58c
+  mac-addresses:
+  - 00:00:D3:00:00:00/24
+  manufacturer: Wang Laboratories Inc.
+  manufacturer-uri: https://device-type.com
+  name: WangLabo
+type: d3-device-type-assertion

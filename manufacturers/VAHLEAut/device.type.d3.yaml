@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed72ef60-470e-49bc-9b5f-bad8a1de1bcd
+  mac-addresses:
+  - CC:EE:D9:00:00:00/24
+  manufacturer: VAHLE Automation GmbH
+  manufacturer-uri: https://device-type.com
+  name: VAHLEAut
+type: d3-device-type-assertion

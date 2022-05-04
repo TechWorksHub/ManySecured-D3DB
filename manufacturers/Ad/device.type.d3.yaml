@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a9b2792-0f7e-4b16-a74c-3f0be3b9000c
+  mac-addresses:
+  - 00:50:D5:00:00:00/24
+  manufacturer: Ad Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Ad
+type: d3-device-type-assertion

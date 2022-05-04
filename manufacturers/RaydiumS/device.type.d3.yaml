@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82c3dd99-46ab-4502-a369-37e37f44fa1a
+  mac-addresses:
+  - 30:D9:41:00:00:00/24
+  manufacturer: Raydium Semiconductor Corp.
+  manufacturer-uri: https://device-type.com
+  name: RaydiumS
+type: d3-device-type-assertion

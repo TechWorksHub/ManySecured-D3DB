@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58e44883-6019-44ef-b708-138913f346e9
+  mac-addresses:
+  - 00:0C:8E:00:00:00/24
+  manufacturer: Mentor Engineering Inc
+  manufacturer-uri: https://device-type.com
+  name: MentorEn
+type: d3-device-type-assertion

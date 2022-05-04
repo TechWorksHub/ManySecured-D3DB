@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08e8f539-6478-408b-8b85-bb0d28ecdd5a
+  mac-addresses:
+  - 00:D0:4B:00:00:00/24
+  manufacturer: La Cie Group S.A.
+  manufacturer-uri: https://device-type.com
+  name: LaCieGro
+type: d3-device-type-assertion

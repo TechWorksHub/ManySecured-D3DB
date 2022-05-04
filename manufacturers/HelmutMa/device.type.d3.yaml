@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a34a9808-3ac7-4e61-bf59-53dd71fd6cb4
+  mac-addresses:
+  - 00:50:C2:0B:90:00/36
+  - D0:F7:3B:00:00:00/24
+  manufacturer: Helmut Mauell GmbH Werk Weida
+  manufacturer-uri: https://device-type.com
+  name: HelmutMa
+type: d3-device-type-assertion

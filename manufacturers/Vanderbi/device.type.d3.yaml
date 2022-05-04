@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4d73d382-00eb-4650-98cf-7f56bbf670f7
+  mac-addresses:
+  - 00:05:EE:00:00:00/24
+  - 00:23:41:00:00:00/24
+  manufacturer: Vanderbilt International (SWE) AB
+  manufacturer-uri: https://device-type.com
+  name: Vanderbi
+type: d3-device-type-assertion

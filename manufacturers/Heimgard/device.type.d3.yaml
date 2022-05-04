@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d1530daf-ba95-4d01-b280-2c3cde551be2
+  mac-addresses:
+  - A8:54:A2:00:00:00/24
+  - B0:DD:74:00:00:00/24
+  manufacturer: Heimgard Technologies AS
+  manufacturer-uri: https://device-type.com
+  name: Heimgard
+type: d3-device-type-assertion

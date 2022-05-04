@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 11cbd799-89ad-4006-b867-45fde72b70b8
+  mac-addresses:
+  - 00:50:C2:33:40:00/36
+  - 70:B3:D5:0E:E0:00/36
+  manufacturer: Picture Elements, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PictureE
+type: d3-device-type-assertion

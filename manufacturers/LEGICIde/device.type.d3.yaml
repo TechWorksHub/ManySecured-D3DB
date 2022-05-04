@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7050f42-db6f-4e3e-b656-7ab155c59f10
+  mac-addresses:
+  - 40:B6:88:00:00:00/24
+  manufacturer: LEGIC Identsystems AG
+  manufacturer-uri: https://device-type.com
+  name: LEGICIde
+type: d3-device-type-assertion

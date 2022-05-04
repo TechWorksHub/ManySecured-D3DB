@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31a86260-2f5f-407a-af92-1910efb41d19
+  mac-addresses:
+  - EC:97:B2:00:00:00/24
+  manufacturer: SUMEC Machinery & Electric Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SUMECMac
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1e0f1dbb-67c7-4862-bd1b-b019a11ffe19
+  mac-addresses:
+  - 00:50:C2:3C:60:00/36
+  - C8:87:3B:00:00:00/24
+  manufacturer: Net Optics
+  manufacturer-uri: https://device-type.com
+  name: NetOptic
+type: d3-device-type-assertion

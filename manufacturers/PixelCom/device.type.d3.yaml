@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5b2b883-d504-485c-a6fc-c27e155a6245
+  mac-addresses:
+  - 08:00:43:00:00:00/24
+  manufacturer: Pixel Computer Inc.
+  manufacturer-uri: https://device-type.com
+  name: PixelCom
+type: d3-device-type-assertion

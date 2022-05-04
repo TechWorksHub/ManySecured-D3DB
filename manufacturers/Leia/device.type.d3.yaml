@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10d81229-0d61-4078-8efc-68f71050d356
+  mac-addresses:
+  - 98:FC:84:00:00:00/28
+  manufacturer: Leia, Inc
+  manufacturer-uri: https://device-type.com
+  name: Leia
+type: d3-device-type-assertion

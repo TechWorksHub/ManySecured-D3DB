@@ -1,0 +1,12 @@
+credentialSubject:
+  id: b138b300-7d24-4010-8422-573342ac2c80
+  mac-addresses:
+  - 00:12:4A:00:00:00/24
+  - 00:AD:63:00:00:00/24
+  - 00:D0:D9:00:00:00/24
+  - 38:0F:E4:00:00:00/24
+  - E4:55:EA:00:00:00/24
+  manufacturer: Dedicated Devices, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Dedicate
+type: d3-device-type-assertion

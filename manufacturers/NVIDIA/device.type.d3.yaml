@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef79b107-f44d-4989-940c-686e8156714f
+  mac-addresses:
+  - 48:B0:2D:00:00:00/24
+  manufacturer: NVIDIA Corporation
+  manufacturer-uri: https://device-type.com
+  name: NVIDIA
+type: d3-device-type-assertion

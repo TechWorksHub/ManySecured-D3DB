@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d1f571d8-1476-4818-889d-2dd89bf49381
+  mac-addresses:
+  - 1C:7C:C7:00:00:00/24
+  - C8:DE:C9:00:00:00/24
+  manufacturer: Coriant GmbH
+  manufacturer-uri: https://device-type.com
+  name: Coriant
+type: d3-device-type-assertion

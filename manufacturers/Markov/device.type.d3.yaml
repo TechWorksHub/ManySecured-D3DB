@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6fce198-0195-4d82-becd-7ca9b5966b27
+  mac-addresses:
+  - EC:36:3F:00:00:00/24
+  manufacturer: Markov Corporation
+  manufacturer-uri: https://device-type.com
+  name: Markov
+type: d3-device-type-assertion

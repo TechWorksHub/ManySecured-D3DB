@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad2cf42f-bce8-4f95-90d8-fae9a02aa107
+  mac-addresses:
+  - 00:80:FC:00:00:00/24
+  manufacturer: Avatar Corporation
+  manufacturer-uri: https://device-type.com
+  name: Avatar
+type: d3-device-type-assertion

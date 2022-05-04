@@ -1,0 +1,8 @@
+credentialSubject:
+  id: db6fe181-d3ab-4558-9906-b20fe1fe7d77
+  mac-addresses:
+  - 3C:1A:0F:00:00:00/24
+  manufacturer: ClearSky Data
+  manufacturer-uri: https://device-type.com
+  name: ClearSky
+type: d3-device-type-assertion

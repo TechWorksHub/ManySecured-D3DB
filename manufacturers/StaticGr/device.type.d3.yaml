@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 15a41f7f-debb-4b16-adc5-85e01ade4973
+  mac-addresses:
+  - 64:DC:01:00:00:00/24
+  manufacturer: Static Systems Group PLC
+  manufacturer-uri: https://device-type.com
+  name: StaticGr
+type: d3-device-type-assertion

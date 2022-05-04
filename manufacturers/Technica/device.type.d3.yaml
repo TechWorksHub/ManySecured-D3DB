@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 6ef1d73e-94cb-42da-aab1-14eaeaa71c0c
+  mac-addresses:
+  - 00:06:C9:00:00:00/24
+  - 00:0D:73:00:00:00/24
+  - 00:14:FB:00:00:00/24
+  - 00:24:F8:00:00:00/24
+  - 00:50:C2:E4:30:00/36
+  - 00:60:59:00:00:00/24
+  - 00:80:52:00:00:00/24
+  - 00:E0:05:00:00:00/24
+  - 24:BA:30:00:00:00/24
+  - 38:2A:19:00:00:00/24
+  - 70:B3:D5:28:D0:00/36
+  - 70:B3:D5:4C:00:00/36
+  - 70:B3:D5:C3:40:00/36
+  - C8:E4:2F:00:00:00/24
+  manufacturer: Technical Marketing Research, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Technica
+type: d3-device-type-assertion

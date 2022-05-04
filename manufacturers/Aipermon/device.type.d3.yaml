@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b2cdc81-066a-4648-a048-61229269df72
+  mac-addresses:
+  - 00:1A:36:00:00:00/24
+  manufacturer: Aipermon GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: Aipermon
+type: d3-device-type-assertion

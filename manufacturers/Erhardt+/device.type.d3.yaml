@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 960e1c48-438a-4a85-a54d-91253db5475d
+  mac-addresses:
+  - 00:50:C2:45:30:00/36
+  - 00:50:C2:CE:C0:00/36
+  - 00:50:C2:FE:70:00/36
+  - 6C:14:F7:00:00:00/24
+  manufacturer: Erhardt+Leimer GmbH
+  manufacturer-uri: https://device-type.com
+  name: Erhardt+
+type: d3-device-type-assertion

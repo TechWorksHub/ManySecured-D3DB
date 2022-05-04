@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82c87d37-540a-41bf-a658-44a1f6e5c9a9
+  mac-addresses:
+  - 60:CF:69:00:00:00/24
+  manufacturer: meerecompany
+  manufacturer-uri: https://device-type.com
+  name: meerecom
+type: d3-device-type-assertion

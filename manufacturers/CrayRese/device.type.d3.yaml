@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c58aa2aa-4210-4d26-bab6-456f70797ede
+  mac-addresses:
+  - 00:40:A6:00:00:00/24
+  manufacturer: Cray Research Inc.
+  manufacturer-uri: https://device-type.com
+  name: CrayRese
+type: d3-device-type-assertion

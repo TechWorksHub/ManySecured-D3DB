@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 66be739b-abf5-4e06-93f1-cb36013b8e00
+  mac-addresses:
+  - 00:50:C2:B1:A0:00/36
+  - 80:E4:DA:90:00:00/28
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Elcus
+type: d3-device-type-assertion

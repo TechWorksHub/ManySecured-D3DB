@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03feceda-d6af-4c0c-a6a5-69d649b10459
+  mac-addresses:
+  - 04:2B:BB:00:00:00/24
+  manufacturer: PicoCELA, Inc.
+  manufacturer-uri: https://device-type.com
+  name: PicoCELA
+type: d3-device-type-assertion

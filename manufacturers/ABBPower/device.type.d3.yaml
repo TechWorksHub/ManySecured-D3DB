@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 9baac1b9-2292-4ad8-a3e1-8f26c2c96e1f
+  mac-addresses:
+  - 00:50:C2:34:E0:00/36
+  - 00:50:C2:3D:E0:00/36
+  - 98:03:A0:00:00:00/24
+  - B8:9B:E4:00:00:00/24
+  manufacturer: "ABB Power Technologies S.p.A. Unit\xE0 Operativa SACE (PTMV)"
+  manufacturer-uri: https://device-type.com
+  name: ABBPower
+type: d3-device-type-assertion

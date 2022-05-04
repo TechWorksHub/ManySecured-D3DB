@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f25264bb-f8f5-4c02-8454-686591a4eba4
+  mac-addresses:
+  - 00:0F:1D:00:00:00/24
+  manufacturer: Cosmo Techs Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: CosmoTec
+type: d3-device-type-assertion

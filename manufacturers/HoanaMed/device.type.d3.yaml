@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59fbebbc-abf7-498a-a942-88a75f93f06d
+  mac-addresses:
+  - 00:15:0D:00:00:00/24
+  manufacturer: Hoana Medical, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HoanaMed
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa20b49a-1be2-46a1-8a2d-810fa48cddd9
+  mac-addresses:
+  - 00:0E:E5:00:00:00/24
+  manufacturer: bitWallet, Inc.
+  manufacturer-uri: https://device-type.com
+  name: bitWalle
+type: d3-device-type-assertion

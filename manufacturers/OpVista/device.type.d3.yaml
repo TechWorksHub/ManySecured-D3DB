@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9a500c2e-3bc3-4cff-91c2-2dcd006de1b3
+  mac-addresses:
+  - 00:1A:06:00:00:00/24
+  - 00:50:C2:29:60:00/36
+  manufacturer: OpVista, Inc.
+  manufacturer-uri: https://device-type.com
+  name: OpVista
+type: d3-device-type-assertion

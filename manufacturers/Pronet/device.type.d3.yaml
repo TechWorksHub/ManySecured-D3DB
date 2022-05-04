@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b83c185b-316b-469e-bc58-9ccc3450b6fa
+  mac-addresses:
+  - 00:20:4A:00:00:00/24
+  manufacturer: Pronet Gmbh
+  manufacturer-uri: https://device-type.com
+  name: Pronet
+type: d3-device-type-assertion

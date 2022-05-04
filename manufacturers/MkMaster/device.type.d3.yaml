@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c69edb3-727a-4b69-9147-7ac95503e788
+  mac-addresses:
+  - 00:24:29:00:00:00/24
+  manufacturer: Mk Master Inc.
+  manufacturer-uri: https://device-type.com
+  name: MkMaster
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2c9296b-5263-47a8-9d34-43c30b7c8a72
+  mac-addresses:
+  - 00:23:E2:00:00:00/24
+  manufacturer: SEA Signalisation
+  manufacturer-uri: https://device-type.com
+  name: SEASigna
+type: d3-device-type-assertion

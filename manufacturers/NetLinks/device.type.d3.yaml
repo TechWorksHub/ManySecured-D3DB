@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd38ed99-e6df-48ca-9545-093a8adb1055
+  mac-addresses:
+  - 00:01:8B:00:00:00/24
+  manufacturer: NetLinks Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NetLinks
+type: d3-device-type-assertion

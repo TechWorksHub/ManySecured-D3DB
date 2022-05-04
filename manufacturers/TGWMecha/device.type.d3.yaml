@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12cdb0ad-1b12-4a7f-847c-663bc8b0987a
+  mac-addresses:
+  - 54:31:D4:00:00:00/24
+  manufacturer: TGW Mechanics GmbH
+  manufacturer-uri: https://device-type.com
+  name: TGWMecha
+type: d3-device-type-assertion

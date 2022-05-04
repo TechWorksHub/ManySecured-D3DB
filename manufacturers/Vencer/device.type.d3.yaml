@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 54ea979c-b113-43ba-b650-9f96bf99d400
+  mac-addresses:
+  - 00:1B:DC:00:00:00/24
+  - 88:D1:99:00:00:00/24
+  manufacturer: Vencer Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Vencer
+type: d3-device-type-assertion

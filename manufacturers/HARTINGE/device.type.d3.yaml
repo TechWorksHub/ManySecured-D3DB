@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 03480d01-5130-46a9-b82a-bbd7d7b1198a
+  mac-addresses:
+  - 00:0A:ED:00:00:00/24
+  - 00:11:FC:00:00:00/24
+  - D4:7B:75:00:00:00/24
+  manufacturer: HARTING Electronics GmbH
+  manufacturer-uri: https://device-type.com
+  name: HARTINGE
+type: d3-device-type-assertion

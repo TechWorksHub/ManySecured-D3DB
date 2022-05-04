@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de0e8072-b3d8-44df-b1a4-4d4401147340
+  mac-addresses:
+  - 00:14:52:00:00:00/24
+  manufacturer: Calculex,Inc.
+  manufacturer-uri: https://device-type.com
+  name: Calculex
+type: d3-device-type-assertion

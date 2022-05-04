@@ -1,0 +1,8 @@
+credentialSubject:
+  id: afd06cc5-fd9a-4b8a-bb10-82abd58cd033
+  mac-addresses:
+  - 00:23:FA:00:00:00/24
+  manufacturer: RG Nets, Inc.
+  manufacturer-uri: https://device-type.com
+  name: RGNets
+type: d3-device-type-assertion

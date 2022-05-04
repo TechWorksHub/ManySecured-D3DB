@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4505d999-b4d4-4cde-98b4-532ce2807d2e
+  mac-addresses:
+  - 4C:AD:A8:00:00:00/24
+  - F4:60:0D:00:00:00/24
+  manufacturer: Panoptics Corp.
+  manufacturer-uri: https://device-type.com
+  name: Panoptic
+type: d3-device-type-assertion

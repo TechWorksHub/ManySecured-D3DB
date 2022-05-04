@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7cf2f88-b3d7-40d9-9fb1-3f9c5223cda4
+  mac-addresses:
+  - 00:00:82:00:00:00/24
+  manufacturer: Lectra Systemes Sa
+  manufacturer-uri: https://device-type.com
+  name: LectraSy
+type: d3-device-type-assertion

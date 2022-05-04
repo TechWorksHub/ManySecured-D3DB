@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7abdbf29-7d70-4e29-8009-9d0a6c524b67
+  mac-addresses:
+  - 00:01:F3:00:00:00/24
+  manufacturer: QPS, Inc.
+  manufacturer-uri: https://device-type.com
+  name: QPS
+type: d3-device-type-assertion

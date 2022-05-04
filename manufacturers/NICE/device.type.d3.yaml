@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ab933a7-b2e2-4897-9850-f01b3ddefbdc
+  mac-addresses:
+  - 00:02:D6:00:00:00/24
+  manufacturer: NICE Systems
+  manufacturer-uri: https://device-type.com
+  name: NICE
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c715ffb7-7f0b-44d6-8abb-73b564676a34
+  mac-addresses:
+  - 00:06:F4:00:00:00/24
+  - D4:C8:B0:00:00:00/24
+  manufacturer: Prime Electronics & Satellitics Inc.
+  manufacturer-uri: https://device-type.com
+  name: PrimeEle
+type: d3-device-type-assertion

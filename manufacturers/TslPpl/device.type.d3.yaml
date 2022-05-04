@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0ec91f9-4aa2-4938-bb2c-53a7ef35e649
+  mac-addresses:
+  - 74:5F:AE:00:00:00/24
+  manufacturer: Tsl Ppl
+  manufacturer-uri: https://device-type.com
+  name: TslPpl
+type: d3-device-type-assertion

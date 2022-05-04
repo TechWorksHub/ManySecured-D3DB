@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c452f69d-fc04-49ca-8202-848ce0b92463
+  mac-addresses:
+  - 00:1B:C5:08:80:00/36
+  - 00:1B:C5:09:90:00/36
+  - 00:1B:C5:0C:90:00/36
+  manufacturer: UAB Kitron
+  manufacturer-uri: https://device-type.com
+  name: UABKitro
+type: d3-device-type-assertion

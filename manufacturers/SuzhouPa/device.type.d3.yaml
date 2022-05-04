@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1c23eacb-b054-4f90-9f81-6ac9786b004e
+  mac-addresses:
+  - EC:C5:7F:00:00:00/24
+  - F0:AC:D7:60:00:00/28
+  manufacturer: Suzhou Pairlink Network Technology
+  manufacturer-uri: https://device-type.com
+  name: SuzhouPa
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e8b5b3a-d6e5-4d16-9f24-3a03f7e9d140
+  mac-addresses:
+  - 00:11:EC:00:00:00/24
+  manufacturer: Avix Inc.
+  manufacturer-uri: https://device-type.com
+  name: Avix
+type: d3-device-type-assertion

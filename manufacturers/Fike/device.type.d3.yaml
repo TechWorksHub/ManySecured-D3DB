@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ffe5f61-aba5-474e-8e69-2b3e79dd700c
+  mac-addresses:
+  - D4:32:66:00:00:00/24
+  manufacturer: Fike Corporation
+  manufacturer-uri: https://device-type.com
+  name: Fike
+type: d3-device-type-assertion

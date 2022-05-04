@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3225dc25-904a-482f-b307-a64b7c154d10
+  mac-addresses:
+  - 00:02:1F:00:00:00/24
+  manufacturer: Aculab PLC
+  manufacturer-uri: https://device-type.com
+  name: Aculab
+type: d3-device-type-assertion

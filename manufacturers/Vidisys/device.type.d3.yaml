@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6b4ba17d-9c21-4569-9602-a75bc8b14a9b
+  mac-addresses:
+  - 00:50:C2:CA:60:00/36
+  - 40:D8:55:1D:E0:00/36
+  - 70:B3:D5:13:30:00/36
+  manufacturer: Vidisys GmbH
+  manufacturer-uri: https://device-type.com
+  name: Vidisys
+type: d3-device-type-assertion

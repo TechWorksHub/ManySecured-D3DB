@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc8daeac-6bdf-4456-885a-98c5a91e5f38
+  mac-addresses:
+  - 00:1B:70:00:00:00/24
+  manufacturer: IRI Ubiteq, INC.
+  manufacturer-uri: https://device-type.com
+  name: IRIUbite
+type: d3-device-type-assertion

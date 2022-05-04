@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e39d93a-f613-465d-82f0-4c9adb94e30f
+  mac-addresses:
+  - 08:00:22:00:00:00/24
+  manufacturer: NBI (Nothing But Initials)
+  manufacturer-uri: https://device-type.com
+  name: NbiNothi
+type: d3-device-type-assertion

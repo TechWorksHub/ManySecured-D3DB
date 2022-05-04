@@ -1,0 +1,8 @@
+credentialSubject:
+  id: adf3f5ae-a01a-4e63-9c56-b4d8131c1519
+  mac-addresses:
+  - 60:36:96:00:00:00/24
+  manufacturer: The Sapling Company
+  manufacturer-uri: https://device-type.com
+  name: Sapling
+type: d3-device-type-assertion

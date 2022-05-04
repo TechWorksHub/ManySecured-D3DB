@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c0b8fb7-b326-4426-9a9f-750714d474e7
+  mac-addresses:
+  - EC:57:0D:00:00:00/24
+  manufacturer: AFE Inc.
+  manufacturer-uri: https://device-type.com
+  name: AFE
+type: d3-device-type-assertion

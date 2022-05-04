@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9b861053-00ab-453c-b51d-0e219e88b932
+  mac-addresses:
+  - 00:07:3C:00:00:00/24
+  - 00:22:7A:00:00:00/24
+  - 00:90:59:00:00:00/24
+  manufacturer: Telecom Design
+  manufacturer-uri: https://device-type.com
+  name: TelecomD
+type: d3-device-type-assertion

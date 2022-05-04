@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fa32172-3ae8-40ab-a144-352995dc437f
+  mac-addresses:
+  - 00:0A:DA:00:00:00/24
+  manufacturer: Vindicator Technologies
+  manufacturer-uri: https://device-type.com
+  name: Vindicat
+type: d3-device-type-assertion

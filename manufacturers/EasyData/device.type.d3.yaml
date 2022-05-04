@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b8be584-7d57-4e12-b745-44f1abfbaa92
+  mac-addresses:
+  - 00:23:9A:00:00:00/24
+  manufacturer: EasyData Hardware GmbH
+  manufacturer-uri: https://device-type.com
+  name: EasyData
+type: d3-device-type-assertion

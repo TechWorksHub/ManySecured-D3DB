@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9edaccb2-23b7-467c-a7d0-dd3b2db5c727
+  mac-addresses:
+  - 00:50:C2:51:30:00/36
+  - D0:DF:B2:00:00:00/24
+  manufacturer: Genie Network Resource Management Inc.
+  manufacturer-uri: https://device-type.com
+  name: GenieNet
+type: d3-device-type-assertion

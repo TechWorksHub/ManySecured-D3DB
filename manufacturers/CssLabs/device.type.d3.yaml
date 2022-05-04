@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7928635-b9bd-4d51-b762-43e1ad02884c
+  mac-addresses:
+  - 00:00:38:00:00:00/24
+  manufacturer: Css Labs
+  manufacturer-uri: https://device-type.com
+  name: CssLabs
+type: d3-device-type-assertion

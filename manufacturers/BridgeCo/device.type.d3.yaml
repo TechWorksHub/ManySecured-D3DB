@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8051e8ec-f81b-4c54-8a2d-7be877d721c1
+  mac-addresses:
+  - 08:00:02:00:00:00/24
+  manufacturer: Bridge Communications Inc.
+  manufacturer-uri: https://device-type.com
+  name: BridgeCo
+type: d3-device-type-assertion

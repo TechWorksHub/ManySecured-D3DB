@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f51b2e1-0e8a-4263-9983-f654b21de7a9
+  mac-addresses:
+  - 00:0B:91:00:00:00/24
+  manufacturer: "Aglaia Gesellschaft f\xFCr Bildverarbeitung und Kommunikation mbH"
+  manufacturer-uri: https://device-type.com
+  name: AglaiaGe
+type: d3-device-type-assertion

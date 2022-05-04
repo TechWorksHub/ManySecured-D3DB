@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b386e72-df60-4562-aa2d-6bc7583fb4d4
+  mac-addresses:
+  - 08:00:28:00:00:00/24
+  manufacturer: TI
+  manufacturer-uri: https://device-type.com
+  name: TiExplor
+type: d3-device-type-assertion

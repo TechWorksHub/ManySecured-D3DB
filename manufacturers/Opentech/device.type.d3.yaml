@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2d23a3d-b381-4753-b51b-e67a822b6596
+  mac-addresses:
+  - 00:05:8C:00:00:00/24
+  manufacturer: Opentech Inc.
+  manufacturer-uri: https://device-type.com
+  name: Opentech
+type: d3-device-type-assertion

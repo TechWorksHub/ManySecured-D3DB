@@ -1,0 +1,11 @@
+credentialSubject:
+  id: a2849f78-5a30-480d-af6a-896c9859fefa
+  mac-addresses:
+  - 00:13:38:00:00:00/24
+  - 70:B3:D5:4C:C0:00/36
+  - B0:4C:05:00:00:00/24
+  - DC:36:43:40:00:00/28
+  manufacturer: Fresenius-Vial
+  manufacturer-uri: https://device-type.com
+  name: Freseniu
+type: d3-device-type-assertion

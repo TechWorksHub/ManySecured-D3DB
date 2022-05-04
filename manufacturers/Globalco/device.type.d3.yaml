@@ -1,0 +1,17 @@
+credentialSubject:
+  id: cea5295b-159e-48bd-b983-68ecaef4f5a7
+  mac-addresses:
+  - 00:50:C2:78:E0:00/36
+  - 00:50:C2:D5:D0:00/36
+  - 00:50:C2:FF:20:00/36
+  - 40:D8:55:13:50:00/36
+  - 70:B3:D5:28:40:00/36
+  - 70:B3:D5:35:20:00/36
+  - 70:B3:D5:63:60:00/36
+  - 70:B3:D5:A0:D0:00/36
+  - 70:B3:D5:D3:F0:00/36
+  - 9C:69:B4:40:00:00/28
+  manufacturer: Globalcom Engineering Srl
+  manufacturer-uri: https://device-type.com
+  name: Globalco
+type: d3-device-type-assertion

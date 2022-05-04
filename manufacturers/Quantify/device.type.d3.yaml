@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b5fd25f-e5e3-4e22-83f7-e251c1863c9e
+  mac-addresses:
+  - C8:75:5B:00:00:00/24
+  manufacturer: Quantify Technology Pty. Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Quantify
+type: d3-device-type-assertion

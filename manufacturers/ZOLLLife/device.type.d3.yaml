@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfd2e008-8174-4957-850b-84adecd7ee7a
+  mac-addresses:
+  - 00:22:52:00:00:00/24
+  manufacturer: ZOLL Lifecor Corporation
+  manufacturer-uri: https://device-type.com
+  name: ZOLLLife
+type: d3-device-type-assertion

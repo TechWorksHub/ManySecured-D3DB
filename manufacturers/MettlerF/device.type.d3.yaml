@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b22e1da-6114-4e6b-8689-b485d39b1232
+  mac-addresses:
+  - 00:0C:1D:00:00:00/24
+  manufacturer: Mettler & Fuchs AG
+  manufacturer-uri: https://device-type.com
+  name: MettlerF
+type: d3-device-type-assertion

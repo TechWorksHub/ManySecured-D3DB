@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c9f4800-61c1-464d-8f46-08e2d54869dc
+  mac-addresses:
+  - 00:80:96:00:00:00/24
+  manufacturer: Human Designed Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HumanDes
+type: d3-device-type-assertion

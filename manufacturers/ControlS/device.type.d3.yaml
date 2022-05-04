@@ -1,0 +1,11 @@
+credentialSubject:
+  id: bef637b3-5e38-4d16-a19d-a621cd52e81e
+  mac-addresses:
+  - 00:30:C6:00:00:00/24
+  - 00:50:C2:76:80:00/36
+  - E4:A3:87:00:00:00/24
+  - FC:10:BD:00:00:00/24
+  manufacturer: Control Solutions, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ControlS
+type: d3-device-type-assertion

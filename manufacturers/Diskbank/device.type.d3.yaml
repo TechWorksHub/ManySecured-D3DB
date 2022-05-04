@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4dd4d15c-d246-4947-bd8a-c6d48840c71e
+  mac-addresses:
+  - 00:08:13:00:00:00/24
+  manufacturer: Diskbank, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Diskbank
+type: d3-device-type-assertion

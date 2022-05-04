@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 01507e42-0511-43a9-99b7-ce19cb0fd1e3
+  mac-addresses:
+  - 00:0A:94:00:00:00/24
+  - 00:0B:34:00:00:00/24
+  - 28:36:38:B0:00:00/28
+  - 4C:C4:52:00:00:00/24
+  - 68:79:12:80:00:00/28
+  - 78:B3:B9:00:00:00/24
+  - 88:FE:D6:00:00:00/24
+  - A8:5B:36:80:00:00/28
+  - F0:DE:B9:00:00:00/24
+  manufacturer: ShangHai cellink CO., LTD
+  manufacturer-uri: https://device-type.com
+  name: ShangHai
+type: d3-device-type-assertion

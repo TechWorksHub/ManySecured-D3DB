@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bed2edfd-8614-4c2c-95a2-27080533a245
+  mac-addresses:
+  - 00:10:78:00:00:00/24
+  manufacturer: Nuera Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NueraCom
+type: d3-device-type-assertion

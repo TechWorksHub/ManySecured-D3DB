@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aba16e0a-17b4-432a-9884-fd1f9de84735
+  mac-addresses:
+  - FC:9F:AE:00:00:00/24
+  manufacturer: Fidus Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: Fidus
+type: d3-device-type-assertion

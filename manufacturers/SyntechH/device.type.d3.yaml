@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45018377-a848-4a87-a69e-1c3e699c3672
+  mac-addresses:
+  - 5C:F7:C3:00:00:00/24
+  - 94:92:BC:00:00:00/24
+  manufacturer: Syntech (Hk) Technology Limited
+  manufacturer-uri: https://device-type.com
+  name: SyntechH
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74a8d16e-47b4-4911-a9b7-b6857ef9c989
+  mac-addresses:
+  - 90:90:60:00:00:00/24
+  manufacturer: Rsi Video Technologies
+  manufacturer-uri: https://device-type.com
+  name: RsiVideo
+type: d3-device-type-assertion

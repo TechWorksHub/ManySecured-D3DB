@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 223a0048-2dab-47ca-bbc9-7a9a87bb1b27
+  mac-addresses:
+  - 00:15:D4:00:00:00/24
+  manufacturer: Emitor AB
+  manufacturer-uri: https://device-type.com
+  name: Emitor
+type: d3-device-type-assertion

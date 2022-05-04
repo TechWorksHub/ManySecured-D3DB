@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e6cda083-3e43-43ea-ad07-6f65b61354e6
+  mac-addresses:
+  - 00:24:30:00:00:00/24
+  - 00:40:C7:00:00:00/24
+  manufacturer: Ruby Tech Corp.
+  manufacturer-uri: https://device-type.com
+  name: RubyTech
+type: d3-device-type-assertion

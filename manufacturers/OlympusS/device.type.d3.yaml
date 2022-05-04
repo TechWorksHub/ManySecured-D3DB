@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab07c1b1-a1f2-4ffa-a663-f5e40a87a2b5
+  mac-addresses:
+  - 00:0E:31:00:00:00/24
+  manufacturer: Olympus Soft Imaging Solutions GmbH
+  manufacturer-uri: https://device-type.com
+  name: OlympusS
+type: d3-device-type-assertion

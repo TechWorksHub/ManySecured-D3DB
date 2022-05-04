@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a4cb574-3748-4d88-8abd-361990aa8763
+  mac-addresses:
+  - 00:05:80:00:00:00/24
+  manufacturer: FibroLAN Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FibroLAN
+type: d3-device-type-assertion

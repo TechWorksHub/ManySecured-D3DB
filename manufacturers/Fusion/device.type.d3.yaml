@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9b1ad59-2fe7-4694-a373-e30693e00afe
+  mac-addresses:
+  - 00:20:73:00:00:00/24
+  manufacturer: Fusion Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: Fusion
+type: d3-device-type-assertion

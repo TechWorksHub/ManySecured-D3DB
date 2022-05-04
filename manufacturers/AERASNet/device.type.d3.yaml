@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5feacad5-29ae-42b4-ab71-f8312871db4e
+  mac-addresses:
+  - 00:0E:30:00:00:00/24
+  manufacturer: AERAS Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AERASNet
+type: d3-device-type-assertion

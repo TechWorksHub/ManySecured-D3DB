@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 94b6365b-c20c-4b19-8ad7-da8b93c845b0
+  mac-addresses:
+  - 70:14:04:00:00:00/24
+  - E8:6C:C7:C0:00:00/28
+  manufacturer: Limited Liability Company
+  manufacturer-uri: https://device-type.com
+  name: Liabilit
+type: d3-device-type-assertion

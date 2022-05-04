@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 57f817f4-654e-4b4e-97b6-9e6841f117d1
+  mac-addresses:
+  - 00:23:B9:00:00:00/24
+  - 28:FD:80:C0:00:00/28
+  manufacturer: Airbus Defence and Space Deutschland GmbH
+  manufacturer-uri: https://device-type.com
+  name: AirbusDe
+type: d3-device-type-assertion

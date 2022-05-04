@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a1c1d9b-601e-4905-bcd8-bd71eb6120bf
+  mac-addresses:
+  - AC:7A:42:00:00:00/24
+  manufacturer: iConnectivity
+  manufacturer-uri: https://device-type.com
+  name: iConnect
+type: d3-device-type-assertion

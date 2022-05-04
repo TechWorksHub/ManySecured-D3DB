@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7b4629d2-6167-4293-a239-59701d011f2d
+  mac-addresses:
+  - 00:50:C2:D0:C0:00/36
+  - 54:E3:B0:00:00:00/24
+  manufacturer: JVL Industri Elektronik
+  manufacturer-uri: https://device-type.com
+  name: JVLIndus
+type: d3-device-type-assertion

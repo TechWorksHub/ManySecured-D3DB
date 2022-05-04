@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 65968132-884d-4e1f-98ef-91abb27c3dbf
+  mac-addresses:
+  - 3C:7F:6F:00:00:00/24
+  - 7C:24:0C:00:00:00/24
+  - 88:46:2A:00:00:00/24
+  - 90:AD:FC:00:00:00/24
+  - B4:D2:86:00:00:00/24
+  - F4:50:EB:00:00:00/24
+  manufacturer: Telechips, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telechip
+type: d3-device-type-assertion

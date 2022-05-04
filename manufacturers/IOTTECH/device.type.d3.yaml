@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 39ab355b-e686-42aa-a0c6-5281fa518b0a
+  mac-addresses:
+  - 24:72:60:00:00:00/24
+  manufacturer: IOTTECH Corp
+  manufacturer-uri: https://device-type.com
+  name: IOTTECH
+type: d3-device-type-assertion

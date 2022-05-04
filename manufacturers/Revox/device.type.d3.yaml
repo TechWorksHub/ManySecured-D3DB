@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2747601e-6c78-4a40-97c9-bc46857b66ad
+  mac-addresses:
+  - 00:50:C2:6F:90:00/36
+  - D0:76:50:E0:00:00/28
+  manufacturer: Revox GmbH
+  manufacturer-uri: https://device-type.com
+  name: Revox
+type: d3-device-type-assertion

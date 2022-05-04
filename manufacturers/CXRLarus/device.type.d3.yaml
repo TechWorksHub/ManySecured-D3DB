@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 35d3cff8-9be3-4984-9126-a7fc50b914b6
+  mac-addresses:
+  - 00:50:C2:68:D0:00/36
+  manufacturer: CXR Larus Corporation
+  manufacturer-uri: https://device-type.com
+  name: CXRLarus
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b633a966-3528-47b8-b003-c2fc103cae27
+  mac-addresses:
+  - 00:23:DB:00:00:00/24
+  manufacturer: saxnet gmbh
+  manufacturer-uri: https://device-type.com
+  name: saxnet
+type: d3-device-type-assertion

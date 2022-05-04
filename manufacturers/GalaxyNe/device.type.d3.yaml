@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e24bb5da-b1a5-4538-b3f0-6b536559df01
+  mac-addresses:
+  - 00:20:8C:00:00:00/24
+  - 70:B3:D5:E1:D0:00/36
+  manufacturer: Galaxy Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GalaxyNe
+type: d3-device-type-assertion

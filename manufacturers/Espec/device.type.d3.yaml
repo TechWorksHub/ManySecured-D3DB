@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc07e87f-8348-41ef-b35b-83c3acda676f
+  mac-addresses:
+  - 38:BF:2F:00:00:00/24
+  manufacturer: Espec Corp.
+  manufacturer-uri: https://device-type.com
+  name: Espec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 56c5e463-c08d-447f-9ab0-884ab7d6b76f
+  mac-addresses:
+  - 00:22:A8:00:00:00/24
+  - 8C:AE:49:00:00:00/28
+  manufacturer: Ouman Oy
+  manufacturer-uri: https://device-type.com
+  name: Ouman
+type: d3-device-type-assertion

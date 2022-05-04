@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a2ead27-c8a5-4c63-88ba-a16b821f3256
+  mac-addresses:
+  - 00:A0:CA:00:00:00/24
+  manufacturer: Fujitsu Denso Ltd.
+  manufacturer-uri: https://device-type.com
+  name: FujitsuD
+type: d3-device-type-assertion

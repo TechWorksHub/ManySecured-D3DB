@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a19f78d7-438d-4ea4-83f1-8e139897f483
+  mac-addresses:
+  - 00:0B:FA:00:00:00/24
+  manufacturer: Exemys Srl
+  manufacturer-uri: https://device-type.com
+  name: Exemys
+type: d3-device-type-assertion

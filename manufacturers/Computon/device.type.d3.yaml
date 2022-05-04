@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dfe05c8-5054-4ab3-86ce-7bf2c046017a
+  mac-addresses:
+  - 00:80:69:00:00:00/24
+  manufacturer: Computone Systems
+  manufacturer-uri: https://device-type.com
+  name: Computon
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8aa199a8-cdb9-4841-bded-69ca3ba378c9
+  mac-addresses:
+  - 00:50:C2:8C:00:00/36
+  - 70:B3:D5:AF:60:00/36
+  manufacturer: S.C.E. s.r.l.
+  manufacturer-uri: https://device-type.com
+  name: SCE
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 12e392df-adb4-4681-a0e9-a54c6a28892f
+  mac-addresses:
+  - 2C:26:5F:20:00:00/28
+  - 2C:27:9E:D0:00:00/28
+  - 50:A0:30:50:00:00/28
+  - 70:B3:D5:49:20:00/36
+  manufacturer: Jiangsu JARI Technology Group Co., LTD
+  manufacturer-uri: https://device-type.com
+  name: JiangsuJ
+type: d3-device-type-assertion

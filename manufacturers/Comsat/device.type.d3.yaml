@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ec7ffee-daef-402a-ad07-065b6431137c
+  mac-addresses:
+  - 00:A0:94:00:00:00/24
+  manufacturer: Comsat Corporation
+  manufacturer-uri: https://device-type.com
+  name: Comsat
+type: d3-device-type-assertion

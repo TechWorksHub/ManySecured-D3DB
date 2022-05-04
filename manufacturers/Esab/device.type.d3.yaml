@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5f2c1b7-2021-431e-a38e-c898fc97fd3c
+  mac-addresses:
+  - 00:24:B0:00:00:00/24
+  manufacturer: Esab Ab
+  manufacturer-uri: https://device-type.com
+  name: Esab
+type: d3-device-type-assertion

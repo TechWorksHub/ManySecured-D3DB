@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e356016d-4d9e-4b77-9973-67d0b0d9d517
+  mac-addresses:
+  - 00:09:63:00:00:00/24
+  - C4:19:8B:00:00:00/24
+  manufacturer: Dominion Lasercom Inc.
+  manufacturer-uri: https://device-type.com
+  name: Dominion
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ae820b3-6748-4bdf-97cc-94cdacb6b1eb
+  mac-addresses:
+  - FC:4B:1C:00:00:00/24
+  manufacturer: Intersensor S.R.L.
+  manufacturer-uri: https://device-type.com
+  name: Intersen
+type: d3-device-type-assertion

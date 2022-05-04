@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3c04e03d-e50a-4239-9d02-c5d7d8c64488
+  mac-addresses:
+  - 70:B3:D5:41:C0:00/36
+  - 70:B3:D5:4A:A0:00/36
+  - 70:B3:D5:FB:C0:00/36
+  manufacturer: Twoway Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TwowayCo
+type: d3-device-type-assertion

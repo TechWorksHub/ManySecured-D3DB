@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a0baacb-e001-41c2-98ff-829a198e61f9
+  mac-addresses:
+  - 00:24:71:00:00:00/24
+  manufacturer: Fusion MultiSystems dba Fusion-io
+  manufacturer-uri: https://device-type.com
+  name: FusionMu
+type: d3-device-type-assertion

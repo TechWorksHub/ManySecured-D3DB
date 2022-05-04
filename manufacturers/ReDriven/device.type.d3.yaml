@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f89bc1e-2164-4cc1-aec9-231f234d5703
+  mac-addresses:
+  - 00:24:72:00:00:00/24
+  manufacturer: ReDriven Power Inc.
+  manufacturer-uri: https://device-type.com
+  name: ReDriven
+type: d3-device-type-assertion

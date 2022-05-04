@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b61217fe-7c58-4eea-bcd0-6773ba6f2a88
+  mac-addresses:
+  - 00:50:C2:68:50:00/36
+  - 70:B3:D5:AA:90:00/36
+  manufacturer: Datamars SA
+  manufacturer-uri: https://device-type.com
+  name: Datamars
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 69a0fdad-131d-4a5a-b06d-de8f3c53ef30
+  mac-addresses:
+  - 00:11:A0:00:00:00/24
+  - 00:1F:6E:00:00:00/24
+  manufacturer: Vtech Engineering Canada Ltd
+  manufacturer-uri: https://device-type.com
+  name: VtechEng
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c3b9f945-6156-4f07-b46e-d54cbf4cd2b0
+  mac-addresses:
+  - 00:1B:18:00:00:00/24
+  manufacturer: Tsuken Electric Ind. Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: TsukenEl
+type: d3-device-type-assertion

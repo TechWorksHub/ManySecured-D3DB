@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d625c07-b157-4996-95f3-0805c530a945
+  mac-addresses:
+  - 00:1E:E7:00:00:00/24
+  manufacturer: Epic Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: Epic
+type: d3-device-type-assertion

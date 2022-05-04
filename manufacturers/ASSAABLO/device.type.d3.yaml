@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2da99f4a-0b15-4469-98a4-24fe4ad906e6
+  mac-addresses:
+  - 14:A1:BF:00:00:00/24
+  - 98:1B:B5:00:00:00/24
+  - E8:6C:C7:10:00:00/28
+  manufacturer: ASSA ABLOY Korea Co., Ltd Unilock
+  manufacturer-uri: https://device-type.com
+  name: ASSAABLO
+type: d3-device-type-assertion

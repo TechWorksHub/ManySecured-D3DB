@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6cacd1d1-ada0-415b-94ea-5eecc71e3d7e
+  mac-addresses:
+  - 44:67:55:00:00:00/24
+  manufacturer: Orbit Irrigation
+  manufacturer-uri: https://device-type.com
+  name: OrbitIrr
+type: d3-device-type-assertion

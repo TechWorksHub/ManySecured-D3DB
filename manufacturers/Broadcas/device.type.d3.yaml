@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 19e0c695-c305-4f40-993b-a1ca25a68926
+  mac-addresses:
+  - 00:50:C2:33:10:00/36
+  - 00:50:C2:89:E0:00/36
+  - 00:80:CE:00:00:00/24
+  - 74:1A:E0:80:00:00/28
+  - B0:58:C4:00:00:00/24
+  manufacturer: Broadcast Sports Inc
+  manufacturer-uri: https://device-type.com
+  name: Broadcas
+type: d3-device-type-assertion

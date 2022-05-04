@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73c70c76-724c-4ec6-b94d-3cb6e8da259f
+  mac-addresses:
+  - 00:60:00:00:00:00/24
+  manufacturer: Xycom Inc.
+  manufacturer-uri: https://device-type.com
+  name: Xycom
+type: d3-device-type-assertion

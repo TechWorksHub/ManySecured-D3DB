@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1ebf0570-ae38-43ef-adc6-5de3a019140e
+  mac-addresses:
+  - 00:17:9B:00:00:00/24
+  - B8:16:DB:00:00:00/24
+  manufacturer: Chant Sincere Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: ChantSin
+type: d3-device-type-assertion

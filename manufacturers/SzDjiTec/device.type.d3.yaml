@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5758c38a-c20a-4b0f-9e38-18c54e93b9c2
+  mac-addresses:
+  - 34:D2:62:00:00:00/24
+  - 60:60:1F:00:00:00/24
+  manufacturer: Sz Dji Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: SzDjiTec
+type: d3-device-type-assertion

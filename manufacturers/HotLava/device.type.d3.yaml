@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7288628-b434-4938-a3e5-3bf4fd4319f0
+  mac-addresses:
+  - 00:12:C0:00:00:00/24
+  manufacturer: HotLava Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HotLava
+type: d3-device-type-assertion

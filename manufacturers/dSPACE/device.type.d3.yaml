@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45281632-3278-4bc8-a73b-8f63170f22fb
+  mac-addresses:
+  - 00:50:C2:63:60:00/36
+  - 64:4D:70:00:00:00/24
+  manufacturer: dSPACE GmbH
+  manufacturer-uri: https://device-type.com
+  name: dSPACE
+type: d3-device-type-assertion

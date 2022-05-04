@@ -1,0 +1,18 @@
+credentialSubject:
+  id: cccc9b80-6b26-48df-8033-bb839147f661
+  mac-addresses:
+  - 00:07:CB:00:00:00/24
+  - 00:24:D4:00:00:00/24
+  - 14:0C:76:00:00:00/24
+  - 20:66:CF:00:00:00/24
+  - 34:27:92:00:00:00/24
+  - 68:A3:78:00:00:00/24
+  - 70:FC:8F:00:00:00/24
+  - 8C:97:EA:00:00:00/24
+  - DC:00:B0:00:00:00/24
+  - E4:9E:12:00:00:00/24
+  - F4:CA:E5:00:00:00/24
+  manufacturer: Freebox Sas
+  manufacturer-uri: https://device-type.com
+  name: FreeboxS
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 559436bc-b30c-4f94-a36b-309deebde3d5
+  mac-addresses:
+  - 00:21:E6:00:00:00/24
+  - 00:40:BD:00:00:00/24
+  - 98:4E:97:00:00:00/24
+  manufacturer: Starlight Video Limited
+  manufacturer-uri: https://device-type.com
+  name: Starligh
+type: d3-device-type-assertion

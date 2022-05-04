@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 577c0270-48b6-4664-a7cd-107527d43e5c
+  mac-addresses:
+  - 00:B8:81:00:00:00/24
+  - 5C:83:CD:00:00:00/24
+  manufacturer: New platforms LLC
+  manufacturer-uri: https://device-type.com
+  name: Newplatf
+type: d3-device-type-assertion

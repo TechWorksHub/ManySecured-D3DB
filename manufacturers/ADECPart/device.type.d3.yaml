@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bda68cf0-ba46-4010-9800-cdbd4d8c936c
+  mac-addresses:
+  - 00:1A:9B:00:00:00/24
+  manufacturer: ADEC & Parter AG
+  manufacturer-uri: https://device-type.com
+  name: ADECPart
+type: d3-device-type-assertion

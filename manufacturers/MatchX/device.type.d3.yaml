@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 19a42711-bbe3-4546-a383-6137aa6884b4
+  mac-addresses:
+  - 70:B3:D5:1C:B0:00/36
+  - CC:4F:5C:20:00:00/28
+  manufacturer: MatchX GmbH
+  manufacturer-uri: https://device-type.com
+  name: MatchX
+type: d3-device-type-assertion

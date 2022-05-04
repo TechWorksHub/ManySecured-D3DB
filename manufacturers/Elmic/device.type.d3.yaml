@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d790f65-0df7-40b8-9d57-33734dbd4a23
+  mac-addresses:
+  - 00:60:D8:00:00:00/24
+  manufacturer: Elmic Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Elmic
+type: d3-device-type-assertion

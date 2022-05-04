@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fe7d11b9-df72-49ae-b201-7803589d65cb
+  mac-addresses:
+  - 00:50:A1:00:00:00/24
+  - 68:49:B2:00:00:00/24
+  - 70:B3:D5:EF:F0:00/36
+  manufacturer: Carlo Gavazzi, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CarloGav
+type: d3-device-type-assertion

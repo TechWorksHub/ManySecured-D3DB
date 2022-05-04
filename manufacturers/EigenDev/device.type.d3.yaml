@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e29deff-0981-4c00-9752-2a4f613da268
+  mac-addresses:
+  - 00:1F:74:00:00:00/24
+  manufacturer: Eigen Development
+  manufacturer-uri: https://device-type.com
+  name: EigenDev
+type: d3-device-type-assertion

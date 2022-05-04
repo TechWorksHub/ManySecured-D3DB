@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f26c377e-ab08-428c-a0d6-04b7af1263ac
+  mac-addresses:
+  - 00:0F:69:00:00:00/24
+  manufacturer: SEW Eurodrive GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: SEWEurod
+type: d3-device-type-assertion

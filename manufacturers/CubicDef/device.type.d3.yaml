@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a883468-9646-4f77-99c4-6b719295587f
+  mac-addresses:
+  - 00:0E:96:00:00:00/24
+  - 00:14:8D:00:00:00/24
+  manufacturer: Cubic Defense Applications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CubicDef
+type: d3-device-type-assertion

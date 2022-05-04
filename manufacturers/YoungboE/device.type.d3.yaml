@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 83c9b979-3bb9-4cc4-a20d-60c5dd0509bb
+  mac-addresses:
+  - 00:0D:E6:00:00:00/24
+  - 6C:A7:FA:00:00:00/24
+  manufacturer: Youngbo Engineering Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: YoungboE
+type: d3-device-type-assertion

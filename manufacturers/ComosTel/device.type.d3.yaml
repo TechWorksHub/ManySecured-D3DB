@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2e662d3-226f-4d00-9e0b-38cacc5428da
+  mac-addresses:
+  - 00:10:68:00:00:00/24
+  manufacturer: Comos Telecom
+  manufacturer-uri: https://device-type.com
+  name: ComosTel
+type: d3-device-type-assertion

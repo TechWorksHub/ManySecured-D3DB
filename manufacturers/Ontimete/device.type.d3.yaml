@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f13b2a3-3b01-40b8-9e98-840e067cd6ce
+  mac-addresses:
+  - 00:12:AC:00:00:00/24
+  manufacturer: Ontimetek Inc.
+  manufacturer-uri: https://device-type.com
+  name: Ontimete
+type: d3-device-type-assertion

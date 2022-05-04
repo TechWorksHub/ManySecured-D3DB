@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47e94159-2346-45c4-ac02-9a40729a389d
+  mac-addresses:
+  - 00:1C:BB:00:00:00/24
+  manufacturer: MusicianLink
+  manufacturer-uri: https://device-type.com
+  name: Musician
+type: d3-device-type-assertion

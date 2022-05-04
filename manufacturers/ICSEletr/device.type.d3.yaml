@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0d54f06-dfa7-4732-bb4c-0877656b407a
+  mac-addresses:
+  - 40:D8:55:17:00:00/36
+  manufacturer: ICS Eletronics
+  manufacturer-uri: https://device-type.com
+  name: ICSEletr
+type: d3-device-type-assertion

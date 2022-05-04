@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d05d7577-a2f9-42b6-8433-ce9e9eedd4ab
+  mac-addresses:
+  - 00:40:5F:00:00:00/24
+  manufacturer: Afe Computers Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AfeCompu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d511b72-e443-49db-8b5f-8116bd5db1a2
+  mac-addresses:
+  - 00:80:9A:00:00:00/24
+  manufacturer: Novus Networks Ltd
+  manufacturer-uri: https://device-type.com
+  name: NovusNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59cc7f98-a6f2-4f38-9e9a-ae449cfed6b9
+  mac-addresses:
+  - 00:30:D6:00:00:00/24
+  manufacturer: Msc Vertriebs Gmbh
+  manufacturer-uri: https://device-type.com
+  name: MscVertr
+type: d3-device-type-assertion

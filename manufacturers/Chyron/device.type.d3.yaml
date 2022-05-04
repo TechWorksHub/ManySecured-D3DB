@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34feb94a-96ca-4b7a-bcbb-49a3f4866af2
+  mac-addresses:
+  - 00:00:3A:00:00:00/24
+  manufacturer: Chyron Corporation
+  manufacturer-uri: https://device-type.com
+  name: Chyron
+type: d3-device-type-assertion

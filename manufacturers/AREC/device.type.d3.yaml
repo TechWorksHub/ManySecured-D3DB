@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de56d761-6c39-4667-84ac-eb9a1dd12298
+  mac-addresses:
+  - BC:BA:E1:00:00:00/24
+  manufacturer: AREC Inc.
+  manufacturer-uri: https://device-type.com
+  name: AREC
+type: d3-device-type-assertion

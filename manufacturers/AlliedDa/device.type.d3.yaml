@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 67d2f7ae-c925-4d1f-83af-b6f0af21e2ed
+  mac-addresses:
+  - 00:01:71:00:00:00/24
+  - 70:B3:D5:8C:A0:00/36
+  manufacturer: Allied Data Technologies
+  manufacturer-uri: https://device-type.com
+  name: AlliedDa
+type: d3-device-type-assertion

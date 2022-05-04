@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be148cca-3f4c-4815-a64a-fc07a234d931
+  mac-addresses:
+  - 00:80:3C:00:00:00/24
+  manufacturer: Tvs Electronics Ltd
+  manufacturer-uri: https://device-type.com
+  name: TvsElect
+type: d3-device-type-assertion

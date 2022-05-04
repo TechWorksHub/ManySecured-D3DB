@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ad63d527-10a6-48d9-879c-d9dc479308b6
+  mac-addresses:
+  - D8:B0:4C:00:00:00/24
+  - F4:70:0C:60:00:00/28
+  manufacturer: Jinan USR IOT Technology Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: JinanUSR
+type: d3-device-type-assertion

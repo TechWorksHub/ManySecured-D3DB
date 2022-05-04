@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 450d108a-2bcc-44d7-bf40-f1011375d48c
+  mac-addresses:
+  - 00:10:F3:00:00:00/24
+  manufacturer: Nexcom International Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: NexcomIn
+type: d3-device-type-assertion

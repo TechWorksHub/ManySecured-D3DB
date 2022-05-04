@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 122a991b-a366-444c-844e-3500f262bc6a
+  mac-addresses:
+  - 00:01:C4:00:00:00/24
+  manufacturer: NeoWave, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NeoWave
+type: d3-device-type-assertion

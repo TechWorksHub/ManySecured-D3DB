@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 407beccc-9402-4c42-99c7-6d53bbaedd45
+  mac-addresses:
+  - 00:21:B7:00:00:00/24
+  - 78:8C:77:00:00:00/24
+  manufacturer: Lexmark International, Inc.
+  manufacturer-uri: https://device-type.com
+  name: LexmarkI
+type: d3-device-type-assertion

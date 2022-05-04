@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78b55df7-223e-400b-8e8e-a6d859e12a79
+  mac-addresses:
+  - 00:A0:A9:00:00:00/24
+  manufacturer: Navtel Communications Inc.
+  manufacturer-uri: https://device-type.com
+  name: NavtelCo
+type: d3-device-type-assertion

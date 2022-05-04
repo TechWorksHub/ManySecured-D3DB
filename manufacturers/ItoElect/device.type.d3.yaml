@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4df0d1b5-2ee8-4680-9eda-2616d60709f6
+  mac-addresses:
+  - 00:90:18:00:00:00/24
+  manufacturer: Ito Electric Industry Co, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ItoElect
+type: d3-device-type-assertion

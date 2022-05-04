@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 508d13e7-830d-467d-b757-2ecc6e4aacdd
+  mac-addresses:
+  - 00:05:88:00:00:00/24
+  manufacturer: Sensoria Corp.
+  manufacturer-uri: https://device-type.com
+  name: Sensoria
+type: d3-device-type-assertion

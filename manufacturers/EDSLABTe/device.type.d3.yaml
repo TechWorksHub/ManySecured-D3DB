@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4bd549ae-2b43-4be6-8cc5-9ac98ddda5c0
+  mac-addresses:
+  - 00:18:5C:00:00:00/24
+  manufacturer: EDSLAB Technologies
+  manufacturer-uri: https://device-type.com
+  name: EDSLABTe
+type: d3-device-type-assertion

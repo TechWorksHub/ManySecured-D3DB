@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af965262-5f02-49e7-8cb9-34e1757d3137
+  mac-addresses:
+  - 00:50:C2:54:00:00/36
+  manufacturer: Mesure Controle Commande
+  manufacturer-uri: https://device-type.com
+  name: MesureCo
+type: d3-device-type-assertion

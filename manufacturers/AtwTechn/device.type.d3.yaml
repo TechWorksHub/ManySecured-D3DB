@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b558be69-b304-424b-9b44-00422f4849cd
+  mac-addresses:
+  - A8:E8:1E:00:00:00/24
+  - DC:8D:B7:00:00:00/24
+  manufacturer: Atw Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AtwTechn
+type: d3-device-type-assertion

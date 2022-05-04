@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 067cb9d8-94f3-4c4b-8125-02d50791629b
+  mac-addresses:
+  - 70:B3:D5:7B:90:00/36
+  - 70:B3:D5:A2:90:00/36
+  manufacturer: QIAGEN Instruments AG
+  manufacturer-uri: https://device-type.com
+  name: QIAGENIn
+type: d3-device-type-assertion

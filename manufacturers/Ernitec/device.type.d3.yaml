@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 07d66984-c703-4353-b966-588046352343
+  mac-addresses:
+  - 00:50:C2:33:80:00/36
+  - C0:D3:91:60:00:00/28
+  manufacturer: Ernitec A/S
+  manufacturer-uri: https://device-type.com
+  name: Ernitec
+type: d3-device-type-assertion

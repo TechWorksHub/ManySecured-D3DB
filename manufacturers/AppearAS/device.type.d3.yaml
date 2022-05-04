@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e5a12f1-f779-48ee-a834-d6a1180e193d
+  mac-addresses:
+  - 00:13:B4:00:00:00/24
+  manufacturer: Appear AS
+  manufacturer-uri: https://device-type.com
+  name: AppearAS
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 589e29d1-5bb0-4ac2-bacb-c923c2c768b8
+  mac-addresses:
+  - 30:49:50:30:00:00/28
+  - 70:B3:D5:1F:70:00/36
+  - 70:B3:D5:7C:20:00/36
+  manufacturer: Morgan Schaffer Inc.
+  manufacturer-uri: https://device-type.com
+  name: MorganSc
+type: d3-device-type-assertion

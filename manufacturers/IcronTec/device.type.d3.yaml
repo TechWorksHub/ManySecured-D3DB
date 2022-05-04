@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e85e8eaa-9283-45bc-806a-e078fd660220
+  mac-addresses:
+  - 00:1B:13:00:00:00/24
+  manufacturer: Icron Technologies Corporation
+  manufacturer-uri: https://device-type.com
+  name: IcronTec
+type: d3-device-type-assertion

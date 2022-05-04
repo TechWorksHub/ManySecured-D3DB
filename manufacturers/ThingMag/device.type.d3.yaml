@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f15a9bc5-4b6f-49f7-8d12-468608f5bb69
+  mac-addresses:
+  - 00:12:A4:00:00:00/24
+  manufacturer: ThingMagic, LLC
+  manufacturer-uri: https://device-type.com
+  name: ThingMag
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 560cf138-16d9-4848-8b95-7c92a9f663c2
+  mac-addresses:
+  - 00:0A:E7:00:00:00/24
+  manufacturer: Eliop S.A.
+  manufacturer-uri: https://device-type.com
+  name: Eliop
+type: d3-device-type-assertion

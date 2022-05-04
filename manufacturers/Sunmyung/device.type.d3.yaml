@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ed66ab0-77ab-4312-873f-6bb5556551fd
+  mac-addresses:
+  - 00:13:AC:00:00:00/24
+  manufacturer: Sunmyung Electronics Co., LTD
+  manufacturer-uri: https://device-type.com
+  name: Sunmyung
+type: d3-device-type-assertion

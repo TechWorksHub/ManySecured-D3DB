@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a987e38f-889e-4dc7-9c3e-e37e5e069d9b
+  mac-addresses:
+  - 00:08:AC:00:00:00/24
+  manufacturer: BST GmbH
+  manufacturer-uri: https://device-type.com
+  name: BST
+type: d3-device-type-assertion

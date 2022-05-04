@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fed01158-2297-455f-9d22-0b69c9b9728e
+  mac-addresses:
+  - 08:00:2E:00:00:00/24
+  manufacturer: Metaphor Computer Systems
+  manufacturer-uri: https://device-type.com
+  name: Metaphor
+type: d3-device-type-assertion

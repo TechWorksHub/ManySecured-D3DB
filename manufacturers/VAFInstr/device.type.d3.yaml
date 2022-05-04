@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98153584-a86d-4d81-9a7b-cc78de94dd92
+  mac-addresses:
+  - 00:50:C2:D2:50:00/36
+  manufacturer: VAF Instruments BV
+  manufacturer-uri: https://device-type.com
+  name: VAFInstr
+type: d3-device-type-assertion

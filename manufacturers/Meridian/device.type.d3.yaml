@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 062ce28f-5068-4b0a-af37-c548425ca539
+  mac-addresses:
+  - 00:10:B0:00:00:00/24
+  - 00:24:C5:00:00:00/24
+  - 70:B3:D5:92:40:00/36
+  manufacturer: Meridian Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: Meridian
+type: d3-device-type-assertion

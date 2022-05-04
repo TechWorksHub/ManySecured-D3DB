@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3917552d-bd7a-4e9f-981a-d9d4d3086c10
+  mac-addresses:
+  - 00:25:AC:00:00:00/24
+  - 00:A0:BD:00:00:00/24
+  manufacturer: I-Tech corporation
+  manufacturer-uri: https://device-type.com
+  name: I-Tech
+type: d3-device-type-assertion

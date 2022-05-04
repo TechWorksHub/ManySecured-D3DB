@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ce53e6fb-23e3-4262-841e-b7efd83bdb4e
+  mac-addresses:
+  - 00:09:5C:00:00:00/24
+  - 00:D0:DE:00:00:00/24
+  manufacturer: Philips Medical Systems - Cardiac and Monitoring Systems (CM
+  manufacturer-uri: https://device-type.com
+  name: PhilipsM
+type: d3-device-type-assertion

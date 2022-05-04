@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef5e4683-a456-4fa2-abbd-07178ee46420
+  mac-addresses:
+  - 00:80:B7:00:00:00/24
+  manufacturer: Stellar Computer
+  manufacturer-uri: https://device-type.com
+  name: StellarC
+type: d3-device-type-assertion

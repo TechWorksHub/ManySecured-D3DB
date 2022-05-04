@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8caf147-586c-4a3b-a3e5-a5c7eb63796d
+  mac-addresses:
+  - 00:03:86:00:00:00/24
+  manufacturer: Ho Net, Inc.
+  manufacturer-uri: https://device-type.com
+  name: HoNet
+type: d3-device-type-assertion

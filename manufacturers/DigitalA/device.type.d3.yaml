@@ -1,0 +1,14 @@
+credentialSubject:
+  id: ee25f77f-a035-4471-8dcc-2c0d85002aa0
+  mac-addresses:
+  - 00:1B:61:00:00:00/24
+  - 00:23:BD:00:00:00/24
+  - 00:50:C2:37:10:00/36
+  - 00:50:D3:00:00:00/24
+  - 18:86:3A:00:00:00/24
+  - 40:D8:55:00:70:00/36
+  - 68:19:3F:00:00:00/24
+  manufacturer: Digital Acoustics, LLC
+  manufacturer-uri: https://device-type.com
+  name: DigitalA
+type: d3-device-type-assertion

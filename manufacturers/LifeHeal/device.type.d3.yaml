@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7970bb46-ebba-41f5-8c2e-94aee7c5025b
+  mac-addresses:
+  - FC:CA:C4:00:00:00/24
+  manufacturer: LifeHealth, LLC
+  manufacturer-uri: https://device-type.com
+  name: LifeHeal
+type: d3-device-type-assertion

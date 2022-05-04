@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6a228d2-7737-4ac5-b745-f8f30e555ed0
+  mac-addresses:
+  - 00:01:35:00:00:00/24
+  manufacturer: KDC Corp.
+  manufacturer-uri: https://device-type.com
+  name: KDC
+type: d3-device-type-assertion

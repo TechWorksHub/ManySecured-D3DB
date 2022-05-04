@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 54acb7e1-ad7f-49e1-a5af-395f0d7e305d
+  mac-addresses:
+  - 00:A0:16:00:00:00/24
+  manufacturer: Micropolis Corp.
+  manufacturer-uri: https://device-type.com
+  name: Micropol
+type: d3-device-type-assertion

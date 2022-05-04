@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00fc5ca5-2255-4e35-8a1d-37052299c002
+  mac-addresses:
+  - 7C:76:73:00:00:00/24
+  manufacturer: ENMAS GmbH
+  manufacturer-uri: https://device-type.com
+  name: ENMAS
+type: d3-device-type-assertion

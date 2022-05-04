@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b03bae87-dd6f-485d-be9b-f08bbf2de74f
+  mac-addresses:
+  - 00:0A:A5:00:00:00/24
+  manufacturer: Maxlink Industries Limited
+  manufacturer-uri: https://device-type.com
+  name: MaxlinkI
+type: d3-device-type-assertion

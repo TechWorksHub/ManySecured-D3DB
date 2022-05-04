@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ce76185-0172-490f-bdfc-23faba22b2c1
+  mac-addresses:
+  - 00:26:C0:00:00:00/24
+  manufacturer: EnergyHub
+  manufacturer-uri: https://device-type.com
+  name: EnergyHu
+type: d3-device-type-assertion

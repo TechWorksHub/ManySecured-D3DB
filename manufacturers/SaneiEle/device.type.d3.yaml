@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d50a16b5-af51-4361-99bb-181cff090db0
+  mac-addresses:
+  - 00:12:2F:00:00:00/24
+  manufacturer: Sanei Electric Inc.
+  manufacturer-uri: https://device-type.com
+  name: SaneiEle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4f75cc8-894c-4980-bdc8-d55a29ff732a
+  mac-addresses:
+  - 00:20:BB:00:00:00/24
+  manufacturer: Zax Corporation
+  manufacturer-uri: https://device-type.com
+  name: Zax
+type: d3-device-type-assertion

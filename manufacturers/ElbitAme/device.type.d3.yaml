@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 2dcfc232-2b9c-4407-acce-19749e4f8a4d
+  mac-addresses:
+  - 00:50:C2:76:10:00/36
+  - 00:50:C2:A1:40:00/36
+  - 00:50:C2:CF:90:00/36
+  - 00:50:C2:FB:A0:00/36
+  - 70:B3:D5:82:60:00/36
+  - 70:B3:D5:B7:E0:00/36
+  - 70:B3:D5:C2:40:00/36
+  manufacturer: Elbit Systems of America
+  manufacturer-uri: https://device-type.com
+  name: ElbitAme
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c50be63a-ba80-4dbd-b8a0-9f3e5a29b9fe
+  mac-addresses:
+  - 68:AB:8A:00:00:00/24
+  manufacturer: RF IDeas
+  manufacturer-uri: https://device-type.com
+  name: RFIDeas
+type: d3-device-type-assertion

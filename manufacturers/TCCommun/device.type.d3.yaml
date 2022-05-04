@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3c541b85-5920-487d-bb36-f9112568d25e
+  mac-addresses:
+  - 00:50:C2:39:00:00/36
+  - B4:08:32:00:00:00/24
+  manufacturer: TC Communications
+  manufacturer-uri: https://device-type.com
+  name: TCCommun
+type: d3-device-type-assertion

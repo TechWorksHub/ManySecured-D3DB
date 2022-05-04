@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cb9e131-55e5-4bcc-bf54-213f9b33b825
+  mac-addresses:
+  - 00:24:CF:00:00:00/24
+  manufacturer: Inscape Data Corporation
+  manufacturer-uri: https://device-type.com
+  name: InscapeD
+type: d3-device-type-assertion

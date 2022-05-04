@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7fdaf044-7fe4-4315-aa53-5ddd568a5da8
+  mac-addresses:
+  - 00:26:F6:00:00:00/24
+  - 70:B3:D5:2F:70:00/36
+  manufacturer: Military Communication Institute
+  manufacturer-uri: https://device-type.com
+  name: Military
+type: d3-device-type-assertion

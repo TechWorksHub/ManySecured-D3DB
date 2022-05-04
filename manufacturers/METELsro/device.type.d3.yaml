@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b43cf042-0b0c-4285-b030-614fd3e00dca
+  mac-addresses:
+  - 00:23:36:00:00:00/24
+  - AC:B7:4F:00:00:00/24
+  manufacturer: METEL s.r.o.
+  manufacturer-uri: https://device-type.com
+  name: METELsro
+type: d3-device-type-assertion

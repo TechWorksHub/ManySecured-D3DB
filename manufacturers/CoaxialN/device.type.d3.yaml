@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 789870eb-bf61-43c5-ac62-b986bd6dcb3f
+  mac-addresses:
+  - 00:11:77:00:00:00/24
+  manufacturer: Coaxial Networks, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CoaxialN
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d612260f-66e6-4309-ab4e-453607df4b7b
+  mac-addresses:
+  - 00:1F:EC:00:00:00/24
+  manufacturer: "Synapse \xC9lectronique"
+  manufacturer-uri: https://device-type.com
+  name: "Synapse\xC9"
+type: d3-device-type-assertion

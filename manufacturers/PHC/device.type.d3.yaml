@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58a00783-fcea-4220-a273-07b821b61211
+  mac-addresses:
+  - 00:E0:5C:00:00:00/24
+  manufacturer: PHC Corporation
+  manufacturer-uri: https://device-type.com
+  name: PHC
+type: d3-device-type-assertion

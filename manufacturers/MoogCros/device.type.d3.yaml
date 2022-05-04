@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cce8fee-4432-4081-b8f8-b7837ae14af2
+  mac-addresses:
+  - E0:B6:F5:B0:00:00/28
+  manufacturer: Moog Crossbow
+  manufacturer-uri: https://device-type.com
+  name: MoogCros
+type: d3-device-type-assertion

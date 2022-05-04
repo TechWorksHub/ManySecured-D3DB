@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 52d8409f-623c-4107-adba-0afea327ae2f
+  mac-addresses:
+  - 0C:FE:5D:60:00:00/28
+  - 10:8B:6A:00:00:00/24
+  - 9C:43:1E:00:00:00/28
+  - F0:A9:68:00:00:00/24
+  manufacturer: Antailiye Technology Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Antailiy
+type: d3-device-type-assertion

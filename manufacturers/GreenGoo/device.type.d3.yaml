@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dd7dfcd-2134-423e-8b13-414f9dcd62fd
+  mac-addresses:
+  - 00:50:C2:AF:10:00/36
+  manufacturer: Green Goose
+  manufacturer-uri: https://device-type.com
+  name: GreenGoo
+type: d3-device-type-assertion

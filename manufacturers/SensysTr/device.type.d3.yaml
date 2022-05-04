@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4341ef9-3671-46ce-8bac-5a850797776b
+  mac-addresses:
+  - 00:22:9F:00:00:00/24
+  manufacturer: Sensys Traffic AB
+  manufacturer-uri: https://device-type.com
+  name: SensysTr
+type: d3-device-type-assertion

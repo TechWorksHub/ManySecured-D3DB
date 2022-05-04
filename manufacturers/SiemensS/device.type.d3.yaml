@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 89728f82-f0b1-45bc-aeae-8ccbf1d56941
+  mac-addresses:
+  - 00:1F:F8:00:00:00/24
+  - 00:A0:03:00:00:00/24
+  manufacturer: Siemens AG, Sector Industry, Drive Technologies, Motion Control Systems
+  manufacturer-uri: https://device-type.com
+  name: SiemensS
+type: d3-device-type-assertion

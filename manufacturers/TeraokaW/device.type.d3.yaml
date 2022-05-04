@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c308dd0-d5a1-4289-aadd-345eee5b2c90
+  mac-addresses:
+  - 00:60:03:00:00:00/24
+  manufacturer: Teraoka Weigh System Pte, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TeraokaW
+type: d3-device-type-assertion

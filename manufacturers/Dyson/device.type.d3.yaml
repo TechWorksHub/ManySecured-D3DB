@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bd045790-ad38-494d-a553-35cde706f636
+  mac-addresses:
+  - 44:6F:F8:00:00:00/24
+  - C8:FF:77:00:00:00/24
+  manufacturer: Dyson Limited
+  manufacturer-uri: https://device-type.com
+  name: Dyson
+type: d3-device-type-assertion

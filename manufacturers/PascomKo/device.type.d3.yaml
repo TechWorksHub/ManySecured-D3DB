@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb17caf4-63b6-4f0a-954d-9af3a580f8e2
+  mac-addresses:
+  - 00:1E:F9:00:00:00/24
+  manufacturer: Pascom Kommunikations systeme GmbH.
+  manufacturer-uri: https://device-type.com
+  name: PascomKo
+type: d3-device-type-assertion

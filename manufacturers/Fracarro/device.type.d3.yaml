@@ -1,0 +1,12 @@
+credentialSubject:
+  id: e3da6ea1-9149-4336-9ca8-bdb78417cae4
+  mac-addresses:
+  - 00:50:C2:21:C0:00/36
+  - 70:B3:D5:21:10:00/36
+  - 70:B3:D5:E5:90:00/36
+  - 70:B3:D5:E8:C0:00/36
+  - 8C:1F:64:41:70:00/36
+  manufacturer: Fracarro srl
+  manufacturer-uri: https://device-type.com
+  name: Fracarro
+type: d3-device-type-assertion

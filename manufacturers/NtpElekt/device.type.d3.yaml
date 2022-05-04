@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a581f459-1204-4718-a928-20486ffc72be
+  mac-addresses:
+  - 00:60:DB:00:00:00/24
+  manufacturer: Ntp Elektronik A/S
+  manufacturer-uri: https://device-type.com
+  name: NtpElekt
+type: d3-device-type-assertion

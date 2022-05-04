@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2745945b-323c-4bb2-ba2a-5ebcdaa6f35f
+  mac-addresses:
+  - 08:00:77:00:00:00/24
+  manufacturer: TSL (now Retix)
+  manufacturer-uri: https://device-type.com
+  name: TslNowRe
+type: d3-device-type-assertion

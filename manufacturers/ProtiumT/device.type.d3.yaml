@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7980f0b8-536e-4614-aec9-2ac4f144ca0a
+  mac-addresses:
+  - 00:50:C2:4A:30:00/36
+  - 70:B3:D5:45:90:00/36
+  manufacturer: Protium Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ProtiumT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 685fc6c0-2433-4702-8bca-f000c72bc8c9
+  mac-addresses:
+  - EC:42:F0:00:00:00/24
+  manufacturer: ADL Embedded Solutions, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ADLEmbed
+type: d3-device-type-assertion

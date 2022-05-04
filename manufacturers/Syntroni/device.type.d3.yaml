@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 634a8dc0-35dd-4bd7-ac6a-fee18d23ff45
+  mac-addresses:
+  - 00:50:C2:5B:20:00/36
+  - 00:50:C2:86:70:00/36
+  - 24:D7:6B:00:00:00/24
+  manufacturer: Syntronic AB
+  manufacturer-uri: https://device-type.com
+  name: Syntroni
+type: d3-device-type-assertion

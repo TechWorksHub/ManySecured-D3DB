@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0fc0fd1-cf9a-49d8-9c5b-09da7be6720a
+  mac-addresses:
+  - 00:0C:10:00:00:00/24
+  manufacturer: PNI Corporation
+  manufacturer-uri: https://device-type.com
+  name: PNI
+type: d3-device-type-assertion

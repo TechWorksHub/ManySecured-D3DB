@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2022ac3-0c87-4b0d-a19e-d006ddcc3980
+  mac-addresses:
+  - 00:D0:E1:00:00:00/24
+  manufacturer: Avionitek Israel Inc.
+  manufacturer-uri: https://device-type.com
+  name: Avionite
+type: d3-device-type-assertion

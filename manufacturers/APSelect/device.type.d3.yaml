@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e493991-e200-4f77-bacd-61bf0e562c82
+  mac-addresses:
+  - 08:27:19:00:00:00/24
+  manufacturer: APS systems/electronic AG
+  manufacturer-uri: https://device-type.com
+  name: APSelect
+type: d3-device-type-assertion

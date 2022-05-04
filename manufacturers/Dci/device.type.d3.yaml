@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42ca534c-a382-4625-83a8-2ee7e1183a76
+  mac-addresses:
+  - 00:00:4D:00:00:00/24
+  manufacturer: Dci Corporation
+  manufacturer-uri: https://device-type.com
+  name: Dci
+type: d3-device-type-assertion

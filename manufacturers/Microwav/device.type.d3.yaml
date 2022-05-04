@@ -1,0 +1,11 @@
+credentialSubject:
+  id: b930633b-9a27-48ad-8b90-8ed4d5ed8526
+  mac-addresses:
+  - 00:06:3D:00:00:00/24
+  - 00:1D:65:00:00:00/24
+  - 00:1E:41:00:00:00/24
+  - 00:80:CC:00:00:00/24
+  manufacturer: Microwave Data Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Microwav
+type: d3-device-type-assertion

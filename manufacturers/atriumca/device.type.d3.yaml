@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa0ec684-6b89-4cb9-9e1c-f1137ac639cf
+  mac-addresses:
+  - 00:0E:4B:00:00:00/24
+  manufacturer: atrium c and i
+  manufacturer-uri: https://device-type.com
+  name: atriumca
+type: d3-device-type-assertion

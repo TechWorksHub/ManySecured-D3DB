@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcb954d3-f2d1-4e77-b21f-666fdfee33c6
+  mac-addresses:
+  - 80:4F:58:00:00:00/24
+  manufacturer: ThinkEco, Inc.
+  manufacturer-uri: https://device-type.com
+  name: ThinkEco
+type: d3-device-type-assertion

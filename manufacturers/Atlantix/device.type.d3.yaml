@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6301b85-ba72-460a-bee3-68a4b88cacb9
+  mac-addresses:
+  - 00:80:0E:00:00:00/24
+  manufacturer: Atlantix Corporation
+  manufacturer-uri: https://device-type.com
+  name: Atlantix
+type: d3-device-type-assertion

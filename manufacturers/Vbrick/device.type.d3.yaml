@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 64aad250-d013-49bc-b1bc-ec7ae179da24
+  mac-addresses:
+  - 00:07:DF:00:00:00/24
+  - 00:50:C2:00:C0:00/36
+  manufacturer: Vbrick Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Vbrick
+type: d3-device-type-assertion

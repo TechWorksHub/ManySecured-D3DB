@@ -1,0 +1,23 @@
+credentialSubject:
+  id: b38dd5c8-e477-4dda-b05a-6ea60b70df93
+  mac-addresses:
+  - 00:1C:EE:00:00:00/24
+  - 00:22:F3:00:00:00/24
+  - 14:50:51:00:00:00/24
+  - 24:26:42:00:00:00/24
+  - 24:31:84:00:00:00/24
+  - 28:84:FA:00:00:00/24
+  - 34:5A:06:00:00:00/24
+  - 34:F6:2D:00:00:00/24
+  - 68:79:ED:00:00:00/24
+  - 78:1C:5A:00:00:00/24
+  - 7A:35:EA:00:00:00/24
+  - 80:38:96:00:00:00/24
+  - 9C:C7:D1:00:00:00/24
+  - A0:DD:E5:00:00:00/24
+  - AC:A8:8E:00:00:00/24
+  - F0:9F:FC:00:00:00/24
+  manufacturer: SHARP Corporation
+  manufacturer-uri: https://device-type.com
+  name: SHARP
+type: d3-device-type-assertion

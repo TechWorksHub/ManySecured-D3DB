@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04d080b2-8489-4991-8e8f-f14c0c06b3f3
+  mac-addresses:
+  - A8:95:B0:00:00:00/24
+  manufacturer: Aker Subsea Ltd
+  manufacturer-uri: https://device-type.com
+  name: AkerSubs
+type: d3-device-type-assertion

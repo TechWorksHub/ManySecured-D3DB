@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f96e284-c493-45f5-bba8-0355100dc8a9
+  mac-addresses:
+  - 00:20:AD:00:00:00/24
+  manufacturer: Linq Systems
+  manufacturer-uri: https://device-type.com
+  name: Linq
+type: d3-device-type-assertion

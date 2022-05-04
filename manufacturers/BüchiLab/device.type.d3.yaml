@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca699e9c-69cf-4d4b-be08-c992baf0b877
+  mac-addresses:
+  - 00:11:7B:00:00:00/24
+  manufacturer: "B\xFCchi Labortechnik AG"
+  manufacturer-uri: https://device-type.com
+  name: "B\xFCchiLab"
+type: d3-device-type-assertion

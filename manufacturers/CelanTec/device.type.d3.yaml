@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d79f742e-aa4b-4faa-a9c1-1259ea1680fd
+  mac-addresses:
+  - 00:C0:F6:00:00:00/24
+  manufacturer: Celan Technology Inc.
+  manufacturer-uri: https://device-type.com
+  name: CelanTec
+type: d3-device-type-assertion

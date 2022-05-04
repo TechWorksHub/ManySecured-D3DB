@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ac533e8d-a45a-4981-9e96-5de43f2159cc
+  mac-addresses:
+  - 00:1B:C8:00:00:00/24
+  - D4:69:A5:00:00:00/24
+  manufacturer: Miura Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: Miura
+type: d3-device-type-assertion

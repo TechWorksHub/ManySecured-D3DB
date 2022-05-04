@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ff86c371-557a-4dcc-bfb8-d534c7d36535
+  mac-addresses:
+  - 70:B3:D5:18:D0:00/36
+  - BC:97:40:B0:00:00/28
+  manufacturer: Foro Tel
+  manufacturer-uri: https://device-type.com
+  name: ForoTel
+type: d3-device-type-assertion

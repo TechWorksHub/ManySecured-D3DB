@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8c00501-12c9-426e-b61c-6c412b9f0056
+  mac-addresses:
+  - 00:1F:E0:00:00:00/24
+  manufacturer: EdgeVelocity Corp
+  manufacturer-uri: https://device-type.com
+  name: EdgeVelo
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 927e54f4-8d42-47bb-8406-7c163a0eff50
+  mac-addresses:
+  - 00:04:43:00:00:00/24
+  - 00:30:D3:00:00:00/24
+  manufacturer: Agilent Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AgilentT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 28dfe6e9-6753-4728-850f-74026d3e2667
+  mac-addresses:
+  - 00:0A:83:00:00:00/24
+  manufacturer: Salto Systems S.L.
+  manufacturer-uri: https://device-type.com
+  name: SaltoSL
+type: d3-device-type-assertion

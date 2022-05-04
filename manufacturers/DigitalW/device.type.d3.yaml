@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ef5efc07-3caf-4a57-b97c-9a07adc70657
+  mac-addresses:
+  - 00:50:C2:57:E0:00/36
+  - 70:B3:D5:43:70:00/36
+  manufacturer: Digital Way
+  manufacturer-uri: https://device-type.com
+  name: DigitalW
+type: d3-device-type-assertion

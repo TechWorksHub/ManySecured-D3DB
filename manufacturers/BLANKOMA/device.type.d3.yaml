@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 109d195b-9c0a-4d2d-bdc2-54aac5ecbbdb
+  mac-addresses:
+  - 00:50:C2:1B:00:00/36
+  - 00:50:C2:54:70:00/36
+  - 48:D7:FF:00:00:00/24
+  manufacturer: BLANKOM Antennentechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: BLANKOMA
+type: d3-device-type-assertion

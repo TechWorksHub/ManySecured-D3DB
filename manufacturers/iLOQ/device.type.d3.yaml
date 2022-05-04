@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a91aea18-40a6-492f-a4a4-273097941754
+  mac-addresses:
+  - 70:B3:D5:CF:D0:00/36
+  - D0:14:11:30:00:00/28
+  manufacturer: iLOQ Oy
+  manufacturer-uri: https://device-type.com
+  name: iLOQ
+type: d3-device-type-assertion

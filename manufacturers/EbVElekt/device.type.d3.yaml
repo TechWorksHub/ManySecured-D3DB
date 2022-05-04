@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbb93f65-ba9e-4e40-ac58-e0136198d0c6
+  mac-addresses:
+  - 08:52:40:00:00:00/24
+  manufacturer: EbV Elektronikbau- und Vertriebs GmbH
+  manufacturer-uri: https://device-type.com
+  name: EbVElekt
+type: d3-device-type-assertion

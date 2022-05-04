@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0452d9c6-4dd0-4123-8fbb-eacb85d5c4bb
+  mac-addresses:
+  - 00:26:05:00:00:00/24
+  - 00:50:C2:18:90:00/36
+  - 00:50:C2:67:A0:00/36
+  manufacturer: CC Systems AB
+  manufacturer-uri: https://device-type.com
+  name: CC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2dfe577-c09b-4eeb-b10b-82fe5de183f0
+  mac-addresses:
+  - 00:19:D3:00:00:00/24
+  manufacturer: TRAK Microwave
+  manufacturer-uri: https://device-type.com
+  name: TRAKMicr
+type: d3-device-type-assertion

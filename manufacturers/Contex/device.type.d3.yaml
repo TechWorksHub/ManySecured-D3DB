@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fc68c4b-2e2e-4cd7-b919-63c7a2fa39d5
+  mac-addresses:
+  - 00:08:C3:00:00:00/24
+  manufacturer: Contex A/S
+  manufacturer-uri: https://device-type.com
+  name: Contex
+type: d3-device-type-assertion

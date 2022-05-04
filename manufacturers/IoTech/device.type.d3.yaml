@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eba4f66c-63b3-44e7-a70f-8a24cd0b0f6c
+  mac-addresses:
+  - 00:50:A4:00:00:00/24
+  manufacturer: Io Tech, Inc.
+  manufacturer-uri: https://device-type.com
+  name: IoTech
+type: d3-device-type-assertion

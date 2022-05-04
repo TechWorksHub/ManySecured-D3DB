@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 05bafb73-5ad9-405e-a546-b5252c4b704b
+  mac-addresses:
+  - 00:23:49:00:00:00/24
+  - 40:D8:55:05:50:00/36
+  manufacturer: Helmholtz Centre Berlin for Material and Energy
+  manufacturer-uri: https://device-type.com
+  name: Helmholt
+type: d3-device-type-assertion

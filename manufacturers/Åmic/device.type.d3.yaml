@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b3f23114-fb91-4c74-b3ad-d3797edfc15f
+  mac-addresses:
+  - 00:1B:A1:00:00:00/24
+  manufacturer: "\xC5mic AB"
+  manufacturer-uri: https://device-type.com
+  name: "\xC5mic"
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e25c4cbb-50a4-4b0b-9da8-9a742ce687c0
+  mac-addresses:
+  - 54:9A:11:70:00:00/28
+  - 70:B3:D5:8D:C0:00/36
+  manufacturer: Niveo International BV
+  manufacturer-uri: https://device-type.com
+  name: NiveoInt
+type: d3-device-type-assertion

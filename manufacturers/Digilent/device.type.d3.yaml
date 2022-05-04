@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 984eb569-c9d3-41f3-b9ec-1e714e286158
+  mac-addresses:
+  - 00:18:3E:00:00:00/24
+  - 00:50:C2:2F:90:00/36
+  manufacturer: Digilent, Inc
+  manufacturer-uri: https://device-type.com
+  name: Digilent
+type: d3-device-type-assertion

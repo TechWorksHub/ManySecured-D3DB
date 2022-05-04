@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cf62f1c7-1773-4478-aacc-fc2472ceefa2
+  mac-addresses:
+  - 00:0F:00:00:00:00/24
+  - 00:50:C2:23:10:00/36
+  manufacturer: Legra Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Legra
+type: d3-device-type-assertion

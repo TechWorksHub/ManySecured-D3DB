@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03e0cdde-bde7-42ed-aabe-2036ed834111
+  mac-addresses:
+  - AA:00:04:00:00:00/24
+  manufacturer: DEC
+  manufacturer-uri: https://device-type.com
+  name: DecLocal
+type: d3-device-type-assertion

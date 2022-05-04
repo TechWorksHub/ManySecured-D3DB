@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b2a550f-89c1-4ebd-b3d2-3bae05a23d17
+  mac-addresses:
+  - 00:50:C2:AA:10:00/36
+  manufacturer: Elrem Electronic Ag
+  manufacturer-uri: https://device-type.com
+  name: ElremEle
+type: d3-device-type-assertion

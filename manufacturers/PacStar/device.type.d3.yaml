@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dbb1fe97-a809-4f61-a066-b26af6cd9fc4
+  mac-addresses:
+  - 00:1A:61:00:00:00/24
+  manufacturer: PacStar Corp.
+  manufacturer-uri: https://device-type.com
+  name: PacStar
+type: d3-device-type-assertion

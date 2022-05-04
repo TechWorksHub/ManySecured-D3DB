@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e9b18e6-8f30-4ad4-8b02-3ad9e8ad6a32
+  mac-addresses:
+  - 00:00:AD:00:00:00/24
+  manufacturer: Bruker Instruments Inc.
+  manufacturer-uri: https://device-type.com
+  name: BrukerIn
+type: d3-device-type-assertion

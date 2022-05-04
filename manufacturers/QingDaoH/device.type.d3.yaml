@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 98cc5403-efcd-43ff-89dd-6ea07ad85fed
+  mac-addresses:
+  - 00:1F:72:00:00:00/24
+  - B0:A3:7E:00:00:00/24
+  - BC:8A:E8:00:00:00/24
+  - C8:D7:79:00:00:00/24
+  - DC:33:0D:00:00:00/24
+  manufacturer: QingDao Hiphone Technology Co,.Ltd
+  manufacturer-uri: https://device-type.com
+  name: QingDaoH
+type: d3-device-type-assertion

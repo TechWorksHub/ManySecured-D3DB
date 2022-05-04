@@ -1,0 +1,13 @@
+credentialSubject:
+  id: d8820ff3-daf4-4ed7-86af-a45dcaded787
+  mac-addresses:
+  - 00:04:F4:00:00:00/24
+  - 00:05:10:00:00:00/24
+  - 00:1A:67:00:00:00/24
+  - 00:50:C2:09:E0:00/36
+  - 00:C0:C2:00:00:00/24
+  - B8:8E:3A:00:00:00/24
+  manufacturer: Infinite Electronics Inc.
+  manufacturer-uri: https://device-type.com
+  name: Infinite
+type: d3-device-type-assertion

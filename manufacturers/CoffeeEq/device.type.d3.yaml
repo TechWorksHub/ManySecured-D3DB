@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 328c7aff-0fbb-469f-ad01-63cf15bafeeb
+  mac-addresses:
+  - 00:23:42:00:00:00/24
+  manufacturer: Coffee Equipment Company
+  manufacturer-uri: https://device-type.com
+  name: CoffeeEq
+type: d3-device-type-assertion

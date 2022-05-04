@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de072ecd-8c8a-4788-9f24-0e8d44f4d644
+  mac-addresses:
+  - 00:23:55:00:00:00/24
+  manufacturer: Kinco Automation(Shanghai) Ltd.
+  manufacturer-uri: https://device-type.com
+  name: KincoAut
+type: d3-device-type-assertion

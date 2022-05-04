@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75bf8ac6-8e3b-44ae-8f20-db5e7314ed83
+  mac-addresses:
+  - 00:04:45:00:00:00/24
+  manufacturer: LMS Skalar Instruments GmbH
+  manufacturer-uri: https://device-type.com
+  name: LMSSkala
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd7af023-851e-4f45-8b3a-441b04c79d06
+  mac-addresses:
+  - 00:60:9F:00:00:00/24
+  manufacturer: Phast Corporation
+  manufacturer-uri: https://device-type.com
+  name: Phast
+type: d3-device-type-assertion

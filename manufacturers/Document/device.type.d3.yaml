@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b57714b3-ff1f-4b9c-8b5b-bcda3aebe7d8
+  mac-addresses:
+  - 00:80:C4:00:00:00/24
+  manufacturer: Document Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Document
+type: d3-device-type-assertion

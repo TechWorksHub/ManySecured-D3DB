@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04b0ef6f-a107-4c68-baa3-8e80bb2e3231
+  mac-addresses:
+  - 00:0D:43:00:00:00/24
+  manufacturer: DRS Tactical Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: DRSTacti
+type: d3-device-type-assertion

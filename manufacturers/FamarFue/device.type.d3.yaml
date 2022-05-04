@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 856179b6-8377-4684-8011-d07c42763ca5
+  mac-addresses:
+  - 00:19:B5:00:00:00/24
+  - 78:D4:F1:70:00:00/28
+  manufacturer: Famar Fueguina S.A.
+  manufacturer-uri: https://device-type.com
+  name: FamarFue
+type: d3-device-type-assertion

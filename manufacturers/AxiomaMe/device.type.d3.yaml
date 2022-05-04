@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2dbacc2-bbef-4e6b-9545-e0c94c503902
+  mac-addresses:
+  - 8C:83:FC:00:00:00/24
+  manufacturer: Axioma Metering UAB
+  manufacturer-uri: https://device-type.com
+  name: AxiomaMe
+type: d3-device-type-assertion

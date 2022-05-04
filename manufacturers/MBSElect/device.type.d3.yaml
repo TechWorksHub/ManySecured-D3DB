@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26daa862-68bf-486d-9cfa-5c8caca436f8
+  mac-addresses:
+  - 00:1C:E5:00:00:00/24
+  manufacturer: MBS Electronic Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: MBSElect
+type: d3-device-type-assertion

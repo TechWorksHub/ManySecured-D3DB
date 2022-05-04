@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 63e5bfc9-2224-4d7e-b979-a41b10a1d035
+  mac-addresses:
+  - 00:14:5F:00:00:00/24
+  - 70:B3:D5:3C:E0:00/36
+  - 70:B3:D5:A3:80:00/36
+  manufacturer: Aditec Co. Ltd
+  manufacturer-uri: https://device-type.com
+  name: Aditec
+type: d3-device-type-assertion

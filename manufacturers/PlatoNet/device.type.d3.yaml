@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9991ca02-7be8-435e-930e-cd2ceeb63357
+  mac-addresses:
+  - 00:1C:AF:00:00:00/24
+  manufacturer: Plato Networks Inc.
+  manufacturer-uri: https://device-type.com
+  name: PlatoNet
+type: d3-device-type-assertion

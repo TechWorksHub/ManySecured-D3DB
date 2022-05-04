@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aaa4d485-e89b-4f8c-bb2d-f6ab2650243e
+  mac-addresses:
+  - D0:2C:45:00:00:00/24
+  manufacturer: littleBits Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: littleBi
+type: d3-device-type-assertion

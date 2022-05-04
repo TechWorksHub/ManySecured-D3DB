@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5701ee5-bf0f-420b-963a-7d4a1d87a8f3
+  mac-addresses:
+  - 00:02:E6:00:00:00/24
+  manufacturer: Gould Instrument Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GouldIns
+type: d3-device-type-assertion

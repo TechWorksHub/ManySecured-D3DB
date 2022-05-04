@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 79cb08e1-1fe8-40e8-8c53-d9c4e9b9bacc
+  mac-addresses:
+  - 70:9B:FC:00:00:00/24
+  manufacturer: Bryton Inc.
+  manufacturer-uri: https://device-type.com
+  name: Bryton
+type: d3-device-type-assertion

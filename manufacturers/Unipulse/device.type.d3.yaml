@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b57e4df-0e0a-4a20-868b-a435874678c5
+  mac-addresses:
+  - 00:60:8D:00:00:00/24
+  manufacturer: Unipulse Corp.
+  manufacturer-uri: https://device-type.com
+  name: Unipulse
+type: d3-device-type-assertion

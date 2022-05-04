@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f7a4233-28d2-4a38-874d-8ef669c55b4a
+  mac-addresses:
+  - 74:6A:8F:00:00:00/24
+  manufacturer: VS Vision Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: VSVision
+type: d3-device-type-assertion

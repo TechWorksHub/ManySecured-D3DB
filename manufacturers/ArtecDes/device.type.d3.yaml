@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9b0ed528-4618-4b24-9810-7f7d4e9790b8
+  mac-addresses:
+  - 00:18:2D:00:00:00/24
+  - 00:50:C2:19:C0:00/36
+  manufacturer: Artec Design
+  manufacturer-uri: https://device-type.com
+  name: ArtecDes
+type: d3-device-type-assertion

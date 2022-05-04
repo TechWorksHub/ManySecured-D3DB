@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 1888a320-a234-4500-9af7-dc9a5f2c3c7e
+  mac-addresses:
+  - 00:00:1F:00:00:00/24
+  - 00:0F:96:00:00:00/24
+  - 00:10:CA:00:00:00/24
+  - 00:40:9F:00:00:00/24
+  - 00:A0:12:00:00:00/24
+  - 00:C0:AB:00:00:00/24
+  manufacturer: Telco Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telco
+type: d3-device-type-assertion

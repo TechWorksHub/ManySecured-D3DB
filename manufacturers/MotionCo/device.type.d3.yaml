@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d1cee55-07b5-4b9e-98f1-47e40286921b
+  mac-addresses:
+  - 00:08:EA:00:00:00/24
+  - 00:12:31:00:00:00/24
+  manufacturer: Motion Control Engineering, Inc
+  manufacturer-uri: https://device-type.com
+  name: MotionCo
+type: d3-device-type-assertion

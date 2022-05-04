@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ff253a9-198e-4e26-ba1d-c98ae5338c09
+  mac-addresses:
+  - 70:C8:33:00:00:00/24
+  manufacturer: Wirepas Oy
+  manufacturer-uri: https://device-type.com
+  name: Wirepas
+type: d3-device-type-assertion

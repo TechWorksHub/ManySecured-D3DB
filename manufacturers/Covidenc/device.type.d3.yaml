@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3ee48309-592b-4f63-9c43-9664877a1987
+  mac-addresses:
+  - 00:50:C2:CD:30:00/36
+  - 00:50:C2:EB:50:00/36
+  manufacturer: Covidence A/S
+  manufacturer-uri: https://device-type.com
+  name: Covidenc
+type: d3-device-type-assertion

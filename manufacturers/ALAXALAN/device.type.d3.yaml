@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 509d1088-a449-4126-be23-0481557249c8
+  mac-addresses:
+  - 00:12:E2:00:00:00/24
+  - D4:35:4A:00:00:00/24
+  manufacturer: ALAXALA Networks Corporation
+  manufacturer-uri: https://device-type.com
+  name: ALAXALAN
+type: d3-device-type-assertion

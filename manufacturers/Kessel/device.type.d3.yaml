@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcb1f056-7644-418f-bbc2-547fe853f7bc
+  mac-addresses:
+  - 84:11:C2:60:00:00/28
+  manufacturer: Kessel Ag
+  manufacturer-uri: https://device-type.com
+  name: Kessel
+type: d3-device-type-assertion

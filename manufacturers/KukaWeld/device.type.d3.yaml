@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5580606-1aa2-467c-b850-d19dd27b3d95
+  mac-addresses:
+  - 00:60:C8:00:00:00/24
+  manufacturer: Kuka Welding Systems & Robots
+  manufacturer-uri: https://device-type.com
+  name: KukaWeld
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca18f437-b05c-42ca-84ea-e6be351c8ce6
+  mac-addresses:
+  - 00:E0:4C:00:00:00/24
+  manufacturer: Realtek Semiconductor Corp.
+  manufacturer-uri: https://device-type.com
+  name: RealtekS
+type: d3-device-type-assertion

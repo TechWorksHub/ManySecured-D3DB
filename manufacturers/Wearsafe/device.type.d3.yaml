@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a96da16-0efb-4263-86af-2417ef9ac894
+  mac-addresses:
+  - 40:54:E4:00:00:00/24
+  manufacturer: Wearsafe Labs Inc
+  manufacturer-uri: https://device-type.com
+  name: Wearsafe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8683861-f6fa-44c1-93f9-cb532090b3aa
+  mac-addresses:
+  - 00:26:DB:00:00:00/24
+  manufacturer: Ionics EMS Inc.
+  manufacturer-uri: https://device-type.com
+  name: IonicsEM
+type: d3-device-type-assertion

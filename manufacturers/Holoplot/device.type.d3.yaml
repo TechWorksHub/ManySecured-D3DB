@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c9763d8-cc59-4add-8054-a4ddd223961e
+  mac-addresses:
+  - C8:0D:32:00:00:00/24
+  manufacturer: Holoplot GmbH
+  manufacturer-uri: https://device-type.com
+  name: Holoplot
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe0b4914-3fc5-4765-a8f3-08b965f1e1c6
+  mac-addresses:
+  - 00:90:D5:00:00:00/24
+  manufacturer: Euphonix, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Euphonix
+type: d3-device-type-assertion

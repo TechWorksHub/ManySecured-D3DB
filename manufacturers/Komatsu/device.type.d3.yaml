@@ -1,0 +1,9 @@
+credentialSubject:
+  id: eca82230-9a46-40cb-9169-ec02c7320d7c
+  mac-addresses:
+  - 00:C0:6F:00:00:00/24
+  - CC:3F:8A:00:00:00/24
+  manufacturer: Komatsu Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Komatsu
+type: d3-device-type-assertion

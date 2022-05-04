@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4c8d921-788d-4d0a-b807-e16311c4eb04
+  mac-addresses:
+  - 24:F0:FF:00:00:00/24
+  manufacturer: GHT Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: GHT
+type: d3-device-type-assertion

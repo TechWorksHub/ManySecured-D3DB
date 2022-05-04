@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5bc2000-6c39-4ec3-a805-ee06a7e5a097
+  mac-addresses:
+  - 00:06:43:00:00:00/24
+  manufacturer: SONO Computer Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SONOComp
+type: d3-device-type-assertion

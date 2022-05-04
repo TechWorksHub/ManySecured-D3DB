@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5612f60-d84c-4abd-a278-268caf26fec0
+  mac-addresses:
+  - 40:F3:85:E0:00:00/28
+  manufacturer: BBB Inc.
+  manufacturer-uri: https://device-type.com
+  name: BBB
+type: d3-device-type-assertion

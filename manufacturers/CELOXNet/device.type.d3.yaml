@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f84e70cd-063d-483a-9021-2d888d72c009
+  mac-addresses:
+  - 00:05:A2:00:00:00/24
+  manufacturer: CELOX Networks
+  manufacturer-uri: https://device-type.com
+  name: CELOXNet
+type: d3-device-type-assertion

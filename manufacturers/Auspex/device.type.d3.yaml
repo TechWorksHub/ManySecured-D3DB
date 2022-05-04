@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6893f128-48e0-4fb0-8bce-1a2d5fd35c0d
+  mac-addresses:
+  - 00:00:3C:00:00:00/24
+  manufacturer: Auspex Systems Inc.
+  manufacturer-uri: https://device-type.com
+  name: Auspex
+type: d3-device-type-assertion

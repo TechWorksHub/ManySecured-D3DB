@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6be6cb9b-f703-4e1d-8d57-2fef389be70e
+  mac-addresses:
+  - 80:DB:31:00:00:00/24
+  manufacturer: Power Quotient International Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: PowerQuo
+type: d3-device-type-assertion

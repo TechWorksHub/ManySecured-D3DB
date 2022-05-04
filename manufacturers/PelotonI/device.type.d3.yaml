@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7a15c6e7-a338-4cdb-bd9f-5127ab49efa4
+  mac-addresses:
+  - 54:49:DF:00:00:00/24
+  - AC:04:0B:00:00:00/24
+  manufacturer: Peloton Interactive, Inc
+  manufacturer-uri: https://device-type.com
+  name: PelotonI
+type: d3-device-type-assertion

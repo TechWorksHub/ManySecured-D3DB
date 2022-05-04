@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2da8464-52fa-42f3-a0b7-6e16a8f7bd5e
+  mac-addresses:
+  - 8C:D6:28:00:00:00/24
+  manufacturer: Ikor Metering
+  manufacturer-uri: https://device-type.com
+  name: IkorMete
+type: d3-device-type-assertion

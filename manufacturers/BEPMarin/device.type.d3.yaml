@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9addbf5-ed16-4dda-b5f5-0077c841aab1
+  mac-addresses:
+  - 00:22:62:00:00:00/24
+  manufacturer: BEP Marine
+  manufacturer-uri: https://device-type.com
+  name: BEPMarin
+type: d3-device-type-assertion

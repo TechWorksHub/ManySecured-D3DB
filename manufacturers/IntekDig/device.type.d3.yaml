@@ -1,0 +1,9 @@
+credentialSubject:
+  id: adae57da-cda1-4652-863e-d9883dc6e9a8
+  mac-addresses:
+  - 00:1E:25:00:00:00/24
+  - 30:EB:25:00:00:00/24
+  manufacturer: Intek Digital
+  manufacturer-uri: https://device-type.com
+  name: IntekDig
+type: d3-device-type-assertion

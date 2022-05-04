@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f35e9646-8fbb-4882-9eea-71ad4db72460
+  mac-addresses:
+  - 64:31:39:40:00:00/28
+  - 70:B3:D5:2B:A0:00/36
+  manufacturer: Active Brains
+  manufacturer-uri: https://device-type.com
+  name: ActiveBr
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 69c28373-c6b5-40ce-b851-733ad2c399cc
+  mac-addresses:
+  - 00:17:74:00:00:00/24
+  - 9C:69:B4:50:00:00/28
+  manufacturer: Elesta GmbH
+  manufacturer-uri: https://device-type.com
+  name: Elesta
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8edb86d4-5bdd-4b45-8c5b-7931797e2cc0
+  mac-addresses:
+  - 00:1E:BA:00:00:00/24
+  manufacturer: High Density Devices AS
+  manufacturer-uri: https://device-type.com
+  name: HighDens
+type: d3-device-type-assertion

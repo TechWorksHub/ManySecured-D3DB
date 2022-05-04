@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6aee6c1d-251f-4d6f-8d73-7502d6d689f3
+  mac-addresses:
+  - 00:08:2E:00:00:00/24
+  manufacturer: Multitone Electronics PLC
+  manufacturer-uri: https://device-type.com
+  name: Multiton
+type: d3-device-type-assertion

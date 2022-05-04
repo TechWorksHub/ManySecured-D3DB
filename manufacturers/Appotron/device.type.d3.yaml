@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 199a4a43-0428-43ad-aa90-906ba533bbf2
+  mac-addresses:
+  - 44:D5:F2:40:00:00/28
+  - 68:79:12:60:00:00/28
+  - D0:D9:4F:E0:00:00/28
+  manufacturer: Appotronics Co., Ltd
+  manufacturer-uri: https://device-type.com
+  name: Appotron
+type: d3-device-type-assertion

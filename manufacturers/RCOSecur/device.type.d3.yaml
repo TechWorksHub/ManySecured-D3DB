@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b0e054c5-42ff-4f28-8f68-8ad0480ca976
+  mac-addresses:
+  - 00:05:7C:00:00:00/24
+  manufacturer: RCO Security AB
+  manufacturer-uri: https://device-type.com
+  name: RCOSecur
+type: d3-device-type-assertion

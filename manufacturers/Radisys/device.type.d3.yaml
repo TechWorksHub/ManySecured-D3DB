@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d062b4b6-8594-4bd5-9e33-20676028277b
+  mac-addresses:
+  - 00:00:50:00:00:00/24
+  - 28:B9:D9:00:00:00/24
+  manufacturer: Radisys Corporation
+  manufacturer-uri: https://device-type.com
+  name: Radisys
+type: d3-device-type-assertion

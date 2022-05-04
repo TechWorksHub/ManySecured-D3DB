@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3a67c76a-4157-4f29-9d80-781e03e015dc
+  mac-addresses:
+  - 00:50:C2:8E:30:00/36
+  - D8:60:B0:00:00:00/24
+  manufacturer: "bioM\xE9rieux Italia S.p.A."
+  manufacturer-uri: https://device-type.com
+  name: "bioM\xE9rie"
+type: d3-device-type-assertion

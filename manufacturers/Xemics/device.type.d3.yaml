@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f2a25a1-6f47-4031-9ec7-124a77e82238
+  mac-addresses:
+  - 00:09:E0:00:00:00/24
+  manufacturer: Xemics S.A.
+  manufacturer-uri: https://device-type.com
+  name: Xemics
+type: d3-device-type-assertion

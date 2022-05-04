@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 971eb554-2647-465e-9de3-6423b83bbe8b
+  mac-addresses:
+  - 00:0E:E2:00:00:00/24
+  manufacturer: Custom Engineering
+  manufacturer-uri: https://device-type.com
+  name: CustomEn
+type: d3-device-type-assertion

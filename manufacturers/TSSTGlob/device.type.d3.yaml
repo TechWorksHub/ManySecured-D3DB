@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b250e3e3-5bc7-4642-a65a-c647960a8df3
+  mac-addresses:
+  - 38:01:97:00:00:00/24
+  manufacturer: TSST Global,Inc
+  manufacturer-uri: https://device-type.com
+  name: TSSTGlob
+type: d3-device-type-assertion

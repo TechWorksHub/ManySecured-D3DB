@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 000e2b32-eb4b-46c0-bb83-77d5a23633c5
+  mac-addresses:
+  - CC:47:BD:00:00:00/24
+  manufacturer: Rhombus Systems
+  manufacturer-uri: https://device-type.com
+  name: Rhombus
+type: d3-device-type-assertion

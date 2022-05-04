@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e392f4d-ab87-4bc6-b796-13026887de78
+  mac-addresses:
+  - 00:C0:28:00:00:00/24
+  manufacturer: Jasco Corporation
+  manufacturer-uri: https://device-type.com
+  name: Jasco
+type: d3-device-type-assertion

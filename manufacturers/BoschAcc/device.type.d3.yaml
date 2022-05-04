@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14efddb8-490e-4a18-a94d-8656f87a3b46
+  mac-addresses:
+  - 00:10:17:00:00:00/24
+  - 00:1B:86:00:00:00/24
+  manufacturer: Bosch Access Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: BoschAcc
+type: d3-device-type-assertion

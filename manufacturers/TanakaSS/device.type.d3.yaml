@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 81563f98-bfbb-42c2-ad48-63248bae329a
+  mac-addresses:
+  - 00:05:0F:00:00:00/24
+  manufacturer: Tanaka S/S Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TanakaSS
+type: d3-device-type-assertion

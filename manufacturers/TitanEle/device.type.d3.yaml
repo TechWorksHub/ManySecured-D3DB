@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 418266be-9a4c-4b4a-8fc3-0bd896fd103e
+  mac-addresses:
+  - 00:04:D9:00:00:00/24
+  - 00:20:81:00:00:00/24
+  manufacturer: Titan Electronics, Inc.
+  manufacturer-uri: https://device-type.com
+  name: TitanEle
+type: d3-device-type-assertion

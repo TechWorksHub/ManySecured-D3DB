@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2dc9488a-8efc-477e-a9e6-900316d0e283
+  mac-addresses:
+  - 00:50:C2:3C:C0:00/36
+  - 7C:F0:BA:00:00:00/24
+  manufacturer: Linkwell Telesystems Pvt Ltd
+  manufacturer-uri: https://device-type.com
+  name: Linkwell
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eea6be13-cfa7-4607-b767-a59415b41d64
+  mac-addresses:
+  - 00:1C:01:00:00:00/24
+  manufacturer: ABB Oy Drives
+  manufacturer-uri: https://device-type.com
+  name: ABBDrive
+type: d3-device-type-assertion

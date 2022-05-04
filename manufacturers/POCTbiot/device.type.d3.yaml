@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5405bfe1-a97b-4c79-8098-690dd81faed3
+  mac-addresses:
+  - 84:89:EC:60:00:00/28
+  manufacturer: POCT biotechnology
+  manufacturer-uri: https://device-type.com
+  name: POCTbiot
+type: d3-device-type-assertion

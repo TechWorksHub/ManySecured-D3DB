@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 635ff753-a323-488c-8311-f7d546fa3aba
+  mac-addresses:
+  - 00:04:05:00:00:00/24
+  manufacturer: ACN Technologies
+  manufacturer-uri: https://device-type.com
+  name: ACNTechn
+type: d3-device-type-assertion

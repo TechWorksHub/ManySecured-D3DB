@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b0b0b6e3-10b8-4cbe-b821-ba8f924ae3df
+  mac-addresses:
+  - 00:01:24:00:00:00/24
+  - C0:98:79:00:00:00/24
+  manufacturer: Acer Incorporated
+  manufacturer-uri: https://device-type.com
+  name: Acer
+type: d3-device-type-assertion

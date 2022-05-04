@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fa8bec0-d451-4e3d-a7e8-5e9d02704dc7
+  mac-addresses:
+  - 00:0C:68:00:00:00/24
+  manufacturer: SigmaTel, Inc.
+  manufacturer-uri: https://device-type.com
+  name: SigmaTel
+type: d3-device-type-assertion

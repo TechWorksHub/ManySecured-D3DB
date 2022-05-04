@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce28036e-77a4-4c23-8cb3-384e8248f1f1
+  mac-addresses:
+  - 00:19:6A:00:00:00/24
+  manufacturer: MikroM GmbH
+  manufacturer-uri: https://device-type.com
+  name: MikroM
+type: d3-device-type-assertion

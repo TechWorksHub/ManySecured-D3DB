@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8bb9f83e-b2da-4bd7-88a0-6f76974631dc
+  mac-addresses:
+  - 18:78:D4:00:00:00/24
+  - 20:C0:47:00:00:00/24
+  - 48:5D:36:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Verizon
+type: d3-device-type-assertion

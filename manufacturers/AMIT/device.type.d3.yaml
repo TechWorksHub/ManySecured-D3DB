@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9add26b3-6799-4874-b1f7-3154fa2e0d02
+  mac-addresses:
+  - 00:50:18:00:00:00/24
+  manufacturer: AMIT, Inc.
+  manufacturer-uri: https://device-type.com
+  name: AMIT
+type: d3-device-type-assertion

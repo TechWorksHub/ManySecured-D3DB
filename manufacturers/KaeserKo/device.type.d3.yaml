@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eff79c17-b59c-4140-b62f-c60634d664c2
+  mac-addresses:
+  - 80:6C:8B:00:00:00/24
+  manufacturer: Kaeser Kompressoren Ag
+  manufacturer-uri: https://device-type.com
+  name: KaeserKo
+type: d3-device-type-assertion

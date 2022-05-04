@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e220f3da-5d43-4570-bcc7-d1874af50383
+  mac-addresses:
+  - 00:15:C3:00:00:00/24
+  manufacturer: Ruf Telematik AG
+  manufacturer-uri: https://device-type.com
+  name: RufTelem
+type: d3-device-type-assertion

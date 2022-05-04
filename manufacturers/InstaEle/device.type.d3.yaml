@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8539847b-895e-47e7-8d8c-4c8cd2645a3e
+  mac-addresses:
+  - 00:0F:17:00:00:00/24
+  - 00:23:65:00:00:00/24
+  manufacturer: Insta Elektro GmbH
+  manufacturer-uri: https://device-type.com
+  name: InstaEle
+type: d3-device-type-assertion

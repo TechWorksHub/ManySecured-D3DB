@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfaec30f-b4fe-4b3c-9991-7ee6d529d3f1
+  mac-addresses:
+  - 00:0D:33:00:00:00/24
+  manufacturer: Prediwave Corp.
+  manufacturer-uri: https://device-type.com
+  name: Prediwav
+type: d3-device-type-assertion

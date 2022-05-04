@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 041bf031-7de7-4a4c-9699-b555ec020c85
+  mac-addresses:
+  - 00:50:D2:00:00:00/24
+  manufacturer: CMC Electronics Inc
+  manufacturer-uri: https://device-type.com
+  name: CMCElect
+type: d3-device-type-assertion

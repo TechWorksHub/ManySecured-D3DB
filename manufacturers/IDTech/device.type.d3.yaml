@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a263864-c46a-4ca2-867c-3223a49c616e
+  mac-addresses:
+  - 78:20:79:00:00:00/24
+  manufacturer: ID Tech
+  manufacturer-uri: https://device-type.com
+  name: IDTech
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a011930-700e-4197-8da0-bd203285fc01
+  mac-addresses:
+  - 84:30:E5:00:00:00/24
+  - E8:CE:06:00:00:00/24
+  manufacturer: SkyHawke Technologies, LLC
+  manufacturer-uri: https://device-type.com
+  name: SkyHawke
+type: d3-device-type-assertion

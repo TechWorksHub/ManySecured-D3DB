@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0979b554-4d4b-417f-ac69-fa1822ea3cf6
+  mac-addresses:
+  - 00:1C:1F:00:00:00/24
+  - 00:50:C2:2A:E0:00/36
+  manufacturer: Quest Retail Technology Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: QuestRet
+type: d3-device-type-assertion

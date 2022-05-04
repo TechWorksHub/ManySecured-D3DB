@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4019ba73-311b-4e26-b80c-887c50f702ce
+  mac-addresses:
+  - 00:23:64:00:00:00/24
+  manufacturer: Power Instruments Pte Ltd
+  manufacturer-uri: https://device-type.com
+  name: PowerIns
+type: d3-device-type-assertion

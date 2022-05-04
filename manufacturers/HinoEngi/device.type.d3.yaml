@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f017045f-1b9f-4e0c-afcb-fb30b1850437
+  mac-addresses:
+  - 00:50:C2:DF:60:00/36
+  - 84:39:BE:00:00:00/28
+  manufacturer: Hino Engineering, Inc
+  manufacturer-uri: https://device-type.com
+  name: HinoEngi
+type: d3-device-type-assertion

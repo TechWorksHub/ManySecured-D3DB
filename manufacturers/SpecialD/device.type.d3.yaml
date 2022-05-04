@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9f77b10-2a6f-45da-b635-2319a06cd01e
+  mac-addresses:
+  - 00:21:64:00:00:00/24
+  manufacturer: Special Design Bureau for Seismic Instrumentation
+  manufacturer-uri: https://device-type.com
+  name: SpecialD
+type: d3-device-type-assertion

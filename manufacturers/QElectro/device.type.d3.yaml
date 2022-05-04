@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f3dbb69-f690-4c7a-9eff-b6b439f05771
+  mac-addresses:
+  - A4:85:6B:00:00:00/24
+  manufacturer: Q Electronics Ltd
+  manufacturer-uri: https://device-type.com
+  name: QElectro
+type: d3-device-type-assertion

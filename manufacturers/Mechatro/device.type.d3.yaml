@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3a7f5f0f-6f3b-460d-9839-80613fc841f4
+  mac-addresses:
+  - 00:12:CA:00:00:00/24
+  - 70:B3:D5:5E:60:00/36
+  - C4:E5:10:00:00:00/24
+  manufacturer: Mechatronic Brick Aps
+  manufacturer-uri: https://device-type.com
+  name: Mechatro
+type: d3-device-type-assertion

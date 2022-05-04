@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e0ef808-4a51-4ade-859a-65c95bf8c23e
+  mac-addresses:
+  - 00:03:3B:00:00:00/24
+  manufacturer: TAMI Tech Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: TAMITech
+type: d3-device-type-assertion

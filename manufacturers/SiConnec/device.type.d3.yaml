@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dae448c-8cef-499d-979f-4999612b239b
+  mac-addresses:
+  - 00:03:9A:00:00:00/24
+  manufacturer: SiConnect
+  manufacturer-uri: https://device-type.com
+  name: SiConnec
+type: d3-device-type-assertion

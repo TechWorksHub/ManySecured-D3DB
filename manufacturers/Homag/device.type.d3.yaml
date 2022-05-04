@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 929e7b82-0142-41c4-a8a4-01cdd4d05768
+  mac-addresses:
+  - 00:08:2C:00:00:00/24
+  manufacturer: Homag AG
+  manufacturer-uri: https://device-type.com
+  name: Homag
+type: d3-device-type-assertion

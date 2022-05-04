@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 881fd05d-cac3-402f-aea1-0c8b6afccf05
+  mac-addresses:
+  - 00:50:C2:56:20:00/36
+  - 70:B3:D5:14:B0:00/36
+  - 70:B3:D5:7E:40:00/36
+  manufacturer: C21 Systems Limited
+  manufacturer-uri: https://device-type.com
+  name: C21
+type: d3-device-type-assertion

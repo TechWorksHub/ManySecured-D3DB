@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bd454b59-43dd-4acc-a1c9-a22bd0cd7cd3
+  mac-addresses:
+  - 40:D8:55:0B:A0:00/36
+  - C0:83:59:30:00:00/28
+  manufacturer: PCH Engineering A/S
+  manufacturer-uri: https://device-type.com
+  name: PCHEngin
+type: d3-device-type-assertion

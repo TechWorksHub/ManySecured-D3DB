@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05459555-3a9d-4700-9803-626a9f587e17
+  mac-addresses:
+  - 00:30:B4:00:00:00/24
+  manufacturer: Intersil Corp.
+  manufacturer-uri: https://device-type.com
+  name: Intersil
+type: d3-device-type-assertion

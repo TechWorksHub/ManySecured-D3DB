@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40a7441c-7142-437c-aaaa-4f09b283b197
+  mac-addresses:
+  - 2C:FD:37:00:00:00/24
+  manufacturer: Blue Calypso, Inc.
+  manufacturer-uri: https://device-type.com
+  name: BlueCaly
+type: d3-device-type-assertion

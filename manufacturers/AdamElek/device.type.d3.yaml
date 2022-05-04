@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d06d633e-04f2-411b-9482-8108212c46fa
+  mac-addresses:
+  - 00:0A:EA:00:00:00/24
+  manufacturer: "Adam Elektronik Ltd. \u015Eti"
+  manufacturer-uri: https://device-type.com
+  name: AdamElek
+type: d3-device-type-assertion

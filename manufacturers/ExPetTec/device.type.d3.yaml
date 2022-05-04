@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fae236bf-8e7b-4f18-a7f1-f8f473714d32
+  mac-addresses:
+  - 00:0A:11:00:00:00/24
+  manufacturer: ExPet Technologies, Inc
+  manufacturer-uri: https://device-type.com
+  name: ExPetTec
+type: d3-device-type-assertion

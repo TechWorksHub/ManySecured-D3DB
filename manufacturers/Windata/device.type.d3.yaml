@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05a81f33-f95f-4216-b68d-2a8cf70cdc31
+  mac-addresses:
+  - 00:40:12:00:00:00/24
+  manufacturer: Windata, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Windata
+type: d3-device-type-assertion

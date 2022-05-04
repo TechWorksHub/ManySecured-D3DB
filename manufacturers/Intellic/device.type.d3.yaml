@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 959390e2-0f52-4ed1-bd90-e9b684d11e38
+  mac-addresses:
+  - 00:80:53:00:00:00/24
+  - A0:44:66:00:00:00/24
+  manufacturer: Intellicom, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Intellic
+type: d3-device-type-assertion

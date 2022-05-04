@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b127fd5d-afad-44a4-bded-36f06ce2bb72
+  mac-addresses:
+  - 00:01:A1:00:00:00/24
+  manufacturer: Mag-Tek, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Mag-Tek
+type: d3-device-type-assertion

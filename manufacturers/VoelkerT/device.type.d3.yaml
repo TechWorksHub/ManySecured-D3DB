@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c164889-ab1b-496d-b4ee-34844c80b262
+  mac-addresses:
+  - 00:A0:4E:00:00:00/24
+  manufacturer: Voelker Technologies, Inc.
+  manufacturer-uri: https://device-type.com
+  name: VoelkerT
+type: d3-device-type-assertion

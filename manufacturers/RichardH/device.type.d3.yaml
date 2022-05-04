@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6e56cdf-7e26-48fa-b365-2ea73d9d4e8e
+  mac-addresses:
+  - 00:80:63:00:00:00/24
+  manufacturer: Richard Hirschmann Gmbh & Co
+  manufacturer-uri: https://device-type.com
+  name: RichardH
+type: d3-device-type-assertion

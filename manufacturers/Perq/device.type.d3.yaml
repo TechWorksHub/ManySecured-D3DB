@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d8544777-fdab-4768-8d3e-ecf4216eef6b
+  mac-addresses:
+  - 00:1C:7C:00:00:00/24
+  - 02:1C:7C:00:00:00/24
+  manufacturer: Perq Systems Corporation
+  manufacturer-uri: https://device-type.com
+  name: Perq
+type: d3-device-type-assertion

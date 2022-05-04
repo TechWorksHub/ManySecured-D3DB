@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 06422c3b-5548-4adc-ad0a-0f7a889acb3b
+  mac-addresses:
+  - 00:26:3C:00:00:00/24
+  - 00:50:C2:8D:10:00/36
+  manufacturer: Bachmann Technology GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: Bachmann
+type: d3-device-type-assertion

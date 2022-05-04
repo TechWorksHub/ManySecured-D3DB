@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa0e8e94-4a82-4729-85cd-e9f3cceab5fe
+  mac-addresses:
+  - 00:0D:04:00:00:00/24
+  manufacturer: Foxboro Eckardt Development GmbH
+  manufacturer-uri: https://device-type.com
+  name: FoxboroE
+type: d3-device-type-assertion

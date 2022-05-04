@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9a7765f0-4472-43dd-8f8d-e2d8459c200c
+  mac-addresses:
+  - 00:1C:F4:00:00:00/24
+  - 00:50:C2:C9:10:00/36
+  manufacturer: Media Technology Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: MediaTec
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0e539f45-5b5a-4c65-a4cb-7f37f00df879
+  mac-addresses:
+  - 00:1D:3F:00:00:00/24
+  - 00:50:C2:6B:D0:00/36
+  - 3C:6E:63:00:00:00/24
+  manufacturer: Mitron Pty Ltd
+  manufacturer-uri: https://device-type.com
+  name: Mitron
+type: d3-device-type-assertion

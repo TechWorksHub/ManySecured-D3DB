@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30dcdab8-ad35-4595-855f-ef98a4b842f3
+  mac-addresses:
+  - 00:C0:9E:00:00:00/24
+  manufacturer: Cache Computers, Inc.
+  manufacturer-uri: https://device-type.com
+  name: CacheCom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 44345495-9020-4472-bad1-0171bf90ed28
+  mac-addresses:
+  - 00:1B:D8:00:00:00/24
+  - 00:40:7F:00:00:00/24
+  manufacturer: FLIR Systems Inc
+  manufacturer-uri: https://device-type.com
+  name: FLIR
+type: d3-device-type-assertion

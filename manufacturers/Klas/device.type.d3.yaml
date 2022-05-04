@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d142f809-6296-40a1-8919-352bcafc0a44
+  mac-addresses:
+  - 00:13:F2:00:00:00/24
+  manufacturer: Klas Ltd
+  manufacturer-uri: https://device-type.com
+  name: Klas
+type: d3-device-type-assertion

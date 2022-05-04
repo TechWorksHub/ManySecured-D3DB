@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1784e85b-91ec-42b4-bf6f-470f4c1cb39d
+  mac-addresses:
+  - 00:0C:6C:00:00:00/24
+  manufacturer: Eve Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: Eve
+type: d3-device-type-assertion

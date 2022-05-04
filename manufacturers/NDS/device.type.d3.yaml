@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b15670ce-15cb-450f-9d52-d677800e653a
+  mac-addresses:
+  - 00:0D:F9:00:00:00/24
+  manufacturer: NDS Limited
+  manufacturer-uri: https://device-type.com
+  name: NDS
+type: d3-device-type-assertion

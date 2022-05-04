@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0aa79bff-7c29-4161-bf3e-b148ac3daa6b
+  mac-addresses:
+  - 00:13:5D:00:00:00/24
+  manufacturer: NTTPC Communications, Inc.
+  manufacturer-uri: https://device-type.com
+  name: NTTPCCom
+type: d3-device-type-assertion

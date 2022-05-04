@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a2d345b-9919-47ed-b81b-c42721084c01
+  mac-addresses:
+  - 00:09:E6:00:00:00/24
+  manufacturer: Cyber Switching Inc.
+  manufacturer-uri: https://device-type.com
+  name: CyberSwi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a5682ab-1a65-4eda-af7f-afa39936fde3
+  mac-addresses:
+  - 00:09:4F:00:00:00/24
+  manufacturer: elmegt GmbH & Co. KG
+  manufacturer-uri: https://device-type.com
+  name: elmegt
+type: d3-device-type-assertion

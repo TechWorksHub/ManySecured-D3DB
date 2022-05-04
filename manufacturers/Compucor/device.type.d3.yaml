@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20216ab5-9250-4921-bcc8-ec49f5252d91
+  mac-addresses:
+  - 00:00:53:00:00:00/24
+  manufacturer: Compucorp
+  manufacturer-uri: https://device-type.com
+  name: Compucor
+type: d3-device-type-assertion

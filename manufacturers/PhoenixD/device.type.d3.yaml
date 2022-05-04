@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa9400b2-b069-40ae-ade8-3e27d02944ba
+  mac-addresses:
+  - 00:13:2B:00:00:00/24
+  manufacturer: Phoenix Digital
+  manufacturer-uri: https://device-type.com
+  name: PhoenixD
+type: d3-device-type-assertion

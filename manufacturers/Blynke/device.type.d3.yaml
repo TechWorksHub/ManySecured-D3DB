@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64e28f81-ed6a-49d9-8669-c636eb851b3c
+  mac-addresses:
+  - 00:21:31:00:00:00/24
+  manufacturer: Blynke Inc.
+  manufacturer-uri: https://device-type.com
+  name: Blynke
+type: d3-device-type-assertion

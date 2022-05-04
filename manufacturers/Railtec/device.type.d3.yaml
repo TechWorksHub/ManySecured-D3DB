@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd823046-c451-484e-aa39-2cf9d2190be6
+  mac-addresses:
+  - 40:07:C0:00:00:00/24
+  manufacturer: Railtec Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: Railtec
+type: d3-device-type-assertion

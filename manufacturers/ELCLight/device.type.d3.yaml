@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b507850b-0f6e-42cd-82b6-b4d7cfd4085e
+  mac-addresses:
+  - 00:50:C2:14:50:00/36
+  manufacturer: ELC Lighting
+  manufacturer-uri: https://device-type.com
+  name: ELCLight
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc34711e-4e90-406e-b32f-dac115d0681f
+  mac-addresses:
+  - 08:00:59:00:00:00/24
+  manufacturer: A/S Mycron
+  manufacturer-uri: https://device-type.com
+  name: Mycron
+type: d3-device-type-assertion

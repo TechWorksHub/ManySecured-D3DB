@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 55d556b1-cd39-4bd7-af14-9939e3aeab78
+  mac-addresses:
+  - 00:50:C2:99:70:00/36
+  - 70:B3:D5:7E:20:00/36
+  manufacturer: "Depro \xC9lectronique"
+  manufacturer-uri: https://device-type.com
+  name: "Depro\xC9le"
+type: d3-device-type-assertion

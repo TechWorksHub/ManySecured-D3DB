@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 0a2cc3dd-14ab-44b5-a290-b8b493291363
+  mac-addresses:
+  - 08:26:AE:00:00:00/28
+  - 2C:7C:E4:00:00:00/24
+  - 4C:80:BA:00:00:00/24
+  - 74:F8:DB:70:00:00/28
+  - AC:20:3E:00:00:00/24
+  - B8:32:41:00:00:00/24
+  manufacturer: Wuhan Tianyu Information Industry Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: WuhanTia
+type: d3-device-type-assertion

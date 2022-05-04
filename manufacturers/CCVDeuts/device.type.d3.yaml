@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 91a5ee2c-3ee8-4aa2-8a74-f83dca71d5ae
+  mac-addresses:
+  - 00:13:39:00:00:00/24
+  - 00:1A:58:00:00:00/24
+  manufacturer: CCV Deutschland GmbH
+  manufacturer-uri: https://device-type.com
+  name: CCVDeuts
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 38ff647f-d59c-4ce0-b435-1c42123eef67
+  mac-addresses:
+  - 00:09:83:00:00:00/24
+  - 00:1C:D9:00:00:00/24
+  manufacturer: GlobalTop Technology, Inc.
+  manufacturer-uri: https://device-type.com
+  name: GlobalTo
+type: d3-device-type-assertion

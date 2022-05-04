@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a15282e1-4dfe-4b1c-be55-f7dacbb4011d
+  mac-addresses:
+  - 40:D8:55:05:10:00/36
+  - 78:D8:00:40:00:00/28
+  manufacturer: CS Instruments Asia
+  manufacturer-uri: https://device-type.com
+  name: CSInstru
+type: d3-device-type-assertion

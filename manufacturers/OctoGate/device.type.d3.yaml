@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b9570fc9-4a6d-4a0c-bb9c-1299444862ae
+  mac-addresses:
+  - 00:1B:C5:03:00:00/36
+  - 80:C5:01:00:00:00/24
+  manufacturer: OctoGate IT Security Systems GmbH
+  manufacturer-uri: https://device-type.com
+  name: OctoGate
+type: d3-device-type-assertion

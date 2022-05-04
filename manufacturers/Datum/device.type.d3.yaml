@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c1f2038-cda8-4d42-8506-b4987b8111fd
+  mac-addresses:
+  - 00:19:78:00:00:00/24
+  manufacturer: Datum Systems, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Datum
+type: d3-device-type-assertion

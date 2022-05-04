@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fafe321f-3f83-4077-81cd-1fbbfccb2cf3
+  mac-addresses:
+  - C8:63:14:C0:00:00/28
+  - F4:70:0C:D0:00:00/28
+  manufacturer: Freeus LLC
+  manufacturer-uri: https://device-type.com
+  name: Freeus
+type: d3-device-type-assertion

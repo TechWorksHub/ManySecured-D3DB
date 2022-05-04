@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 29aa673a-b1f9-44a6-8b50-1e7f92bb44af
+  mac-addresses:
+  - 00:10:06:00:00:00/24
+  - 00:26:B3:00:00:00/24
+  - 00:50:C2:25:40:00/36
+  - 00:50:C2:8A:D0:00/36
+  - 00:50:C2:9A:70:00/36
+  - 14:1F:BA:60:00:00/28
+  manufacturer: Thales Contact Solutions Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ThalesCo
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 20a82e9d-6069-4e42-b140-f82ae4f8a963
+  mac-addresses:
+  - 00:50:C2:B7:30:00/36
+  - 70:B3:D5:C4:E0:00/36
+  manufacturer: ARKRAY, Inc. Kyoto Laboratory
+  manufacturer-uri: https://device-type.com
+  name: ARKRAYKy
+type: d3-device-type-assertion

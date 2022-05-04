@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 9e7d350c-e27c-4a7f-bee9-5dbf74ecd88a
+  mac-addresses:
+  - 10:41:21:00:00:00/24
+  - 10:72:23:00:00:00/24
+  - 54:2F:8A:00:00:00/24
+  - 78:E9:CF:00:00:00/24
+  - 94:EA:EA:00:00:00/24
+  - F4:54:20:00:00:00/24
+  manufacturer: Tellescom Industria E Comercio Em Telecomunicacao
+  manufacturer-uri: https://device-type.com
+  name: Tellesco
+type: d3-device-type-assertion

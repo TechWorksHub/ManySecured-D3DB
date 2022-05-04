@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fa114108-9fcf-4c0c-af5c-46b4aaafc88a
+  mac-addresses:
+  - 30:49:3B:00:00:00/24
+  - 70:30:5E:00:00:00/24
+  - D4:77:2B:00:00:00/24
+  manufacturer: Nanjing Z-Com Wireless Co.,Ltd
+  manufacturer-uri: https://device-type.com
+  name: NanjingZ
+type: d3-device-type-assertion

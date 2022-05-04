@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b58d7b74-1aab-471f-a9e4-c1556c742586
+  mac-addresses:
+  - 00:1B:8C:00:00:00/24
+  manufacturer: JMicron Technology Corp.
+  manufacturer-uri: https://device-type.com
+  name: JMicronT
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9833796e-e32c-49b8-ab16-709749171270
+  mac-addresses:
+  - 00:09:5F:00:00:00/24
+  - 00:50:C2:F6:50:00/36
+  manufacturer: Telebyte, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Telebyte
+type: d3-device-type-assertion

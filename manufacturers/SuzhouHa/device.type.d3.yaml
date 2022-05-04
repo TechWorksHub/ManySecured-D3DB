@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c34734e9-6693-4b1a-9d58-a59c415c0571
+  mac-addresses:
+  - 70:65:82:00:00:00/24
+  - 7C:DD:76:00:00:00/24
+  manufacturer: Suzhou Hanming Technologies Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: SuzhouHa
+type: d3-device-type-assertion

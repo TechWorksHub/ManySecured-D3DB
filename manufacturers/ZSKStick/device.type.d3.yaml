@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4272c03-709b-4c6c-bf09-a3c8d16e28eb
+  mac-addresses:
+  - 00:02:3A:00:00:00/24
+  manufacturer: ZSK Stickmaschinen GmbH
+  manufacturer-uri: https://device-type.com
+  name: ZSKStick
+type: d3-device-type-assertion

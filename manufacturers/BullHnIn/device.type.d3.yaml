@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a06675e1-4ba9-4a23-b7d0-5b1813b9aa84
+  mac-addresses:
+  - 00:00:62:00:00:00/24
+  manufacturer: Bull Hn Information Systems
+  manufacturer-uri: https://device-type.com
+  name: BullHnIn
+type: d3-device-type-assertion

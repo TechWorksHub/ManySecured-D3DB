@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c20c420-29ba-4fed-bca9-9ad9bcfbe39b
+  mac-addresses:
+  - 00:17:D6:00:00:00/24
+  manufacturer: Bluechips Microhouse Co.,Ltd.
+  manufacturer-uri: https://device-type.com
+  name: Bluechip
+type: d3-device-type-assertion

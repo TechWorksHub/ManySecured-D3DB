@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8f4616a-6c20-4f99-bb13-fa49bcbb812b
+  mac-addresses:
+  - B8:5A:F7:00:00:00/24
+  manufacturer: Ouya, Inc
+  manufacturer-uri: https://device-type.com
+  name: Ouya
+type: d3-device-type-assertion

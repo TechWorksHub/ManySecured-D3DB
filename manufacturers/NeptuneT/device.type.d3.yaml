@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a700e846-9a64-4dcd-aaa3-bf40e2922984
+  mac-addresses:
+  - 00:50:C2:89:A0:00/36
+  - CC:3A:DF:00:00:00/24
+  manufacturer: Neptune Technology Group Inc.
+  manufacturer-uri: https://device-type.com
+  name: NeptuneT
+type: d3-device-type-assertion

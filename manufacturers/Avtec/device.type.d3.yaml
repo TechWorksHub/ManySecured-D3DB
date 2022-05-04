@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dcfade14-0b87-46db-8d81-9b5de4e5087f
+  mac-addresses:
+  - 00:0C:5F:00:00:00/24
+  - 00:16:C2:00:00:00/24
+  manufacturer: Avtec, Inc.
+  manufacturer-uri: https://device-type.com
+  name: Avtec
+type: d3-device-type-assertion

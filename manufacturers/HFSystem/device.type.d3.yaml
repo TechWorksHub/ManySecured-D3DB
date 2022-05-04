@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77d95ce5-ca26-4780-9e36-af58709a347f
+  mac-addresses:
+  - 00:13:0C:00:00:00/24
+  manufacturer: HF System Corporation
+  manufacturer-uri: https://device-type.com
+  name: HFSystem
+type: d3-device-type-assertion

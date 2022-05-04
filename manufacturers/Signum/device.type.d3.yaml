@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55d834e5-35fa-401e-bf6b-18bfac789412
+  mac-addresses:
+  - 00:50:DE:00:00:00/24
+  manufacturer: Signum Systems Corp.
+  manufacturer-uri: https://device-type.com
+  name: Signum
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1122a74a-e5d1-42f2-a13d-8a690c50d96e
+  mac-addresses:
+  - 0C:EF:AF:D0:00:00/28
+  manufacturer: "CJSC \xABSvyaz Engineering\xBB"
+  manufacturer-uri: https://device-type.com
+  name: "CJSC\xABSvy"
+type: d3-device-type-assertion

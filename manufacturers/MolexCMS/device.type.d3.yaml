@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f0aacd40-e779-43c5-be58-07f1fe2df313
+  mac-addresses:
+  - 00:09:3A:00:00:00/24
+  - B4:C6:2E:00:00:00/24
+  - F8:2F:08:00:00:00/24
+  manufacturer: Molex CMS
+  manufacturer-uri: https://device-type.com
+  name: MolexCMS
+type: d3-device-type-assertion

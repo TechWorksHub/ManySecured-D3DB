@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e16a67b-ee8d-43c0-8b0c-5e0462d40474
+  mac-addresses:
+  - 78:C2:C0:40:00:00/28
+  manufacturer: Ory Laboratory Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: OryLabor
+type: d3-device-type-assertion

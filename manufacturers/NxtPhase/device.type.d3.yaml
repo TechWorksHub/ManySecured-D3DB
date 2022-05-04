@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b34cdff9-b6f2-47b7-9a1b-08b0f7d4b24c
+  mac-addresses:
+  - 00:13:1F:00:00:00/24
+  manufacturer: NxtPhase T&D, Corp.
+  manufacturer-uri: https://device-type.com
+  name: NxtPhase
+type: d3-device-type-assertion

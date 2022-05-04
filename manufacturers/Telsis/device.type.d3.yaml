@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c0e2cb1-d817-4fcd-8d1d-a43698d411b6
+  mac-addresses:
+  - 00:E0:D1:00:00:00/24
+  manufacturer: Telsis Limited
+  manufacturer-uri: https://device-type.com
+  name: Telsis
+type: d3-device-type-assertion

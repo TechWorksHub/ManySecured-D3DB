@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be0ae082-f7b5-491b-b472-2bacb4e8e2d9
+  mac-addresses:
+  - 38:F8:CA:00:00:00/24
+  manufacturer: OWIN Inc.
+  manufacturer-uri: https://device-type.com
+  name: OWIN
+type: d3-device-type-assertion

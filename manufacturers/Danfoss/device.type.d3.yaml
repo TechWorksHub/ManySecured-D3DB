@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 15c41117-4079-4a32-a90b-ce3bef99f1e3
+  mac-addresses:
+  - 00:07:68:00:00:00/24
+  - 00:0B:2D:00:00:00/24
+  manufacturer: Danfoss A/S
+  manufacturer-uri: https://device-type.com
+  name: Danfoss
+type: d3-device-type-assertion

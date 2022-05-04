@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5465abc1-71d7-4947-8c6d-0ffa4f591c35
+  mac-addresses:
+  - 00:1D:90:00:00:00/24
+  manufacturer: EMCO Flow Systems
+  manufacturer-uri: https://device-type.com
+  name: EMCOFlow
+type: d3-device-type-assertion

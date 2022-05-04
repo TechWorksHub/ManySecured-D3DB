@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0dfdb85-b87c-4e75-84c6-d7e7dfb7b4c7
+  mac-addresses:
+  - 00:C0:76:00:00:00/24
+  manufacturer: I-Data International A-S
+  manufacturer-uri: https://device-type.com
+  name: I-DataIn
+type: d3-device-type-assertion

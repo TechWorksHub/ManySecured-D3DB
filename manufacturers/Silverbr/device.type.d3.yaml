@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4676f48e-cf9d-4d42-a426-18cf4ac62df2
+  mac-addresses:
+  - 00:50:C2:65:B0:00/36
+  - 78:F7:D0:00:00:00/24
+  manufacturer: Silverbrook Research
+  manufacturer-uri: https://device-type.com
+  name: Silverbr
+type: d3-device-type-assertion

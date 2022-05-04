@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de82a1c1-8d8b-4281-be59-3cc1f6427054
+  mac-addresses:
+  - 00:04:4B:00:00:00/24
+  manufacturer: ''
+  manufacturer-uri: https://device-type.com
+  name: Nvidia
+type: d3-device-type-assertion

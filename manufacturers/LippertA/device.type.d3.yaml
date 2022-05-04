@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e72d28d-58f1-458e-9962-4e86cc26893d
+  mac-addresses:
+  - 00:20:9D:00:00:00/24
+  manufacturer: Lippert Automationstechnik
+  manufacturer-uri: https://device-type.com
+  name: LippertA
+type: d3-device-type-assertion

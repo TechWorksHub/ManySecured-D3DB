@@ -1,0 +1,8 @@
+credentialSubject:
+  id: db1cb902-9f85-4ae7-a641-d5b3d07fe3d2
+  mac-addresses:
+  - 00:07:FA:00:00:00/24
+  manufacturer: ITT Co., Ltd.
+  manufacturer-uri: https://device-type.com
+  name: ITT
+type: d3-device-type-assertion

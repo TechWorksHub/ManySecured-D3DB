@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8864d0f-a4f7-4403-86ea-bc0a876a64ad
+  mac-addresses:
+  - 00:01:AA:00:00:00/24
+  manufacturer: Airspan Communications, Ltd.
+  manufacturer-uri: https://device-type.com
+  name: AirspanC
+type: d3-device-type-assertion

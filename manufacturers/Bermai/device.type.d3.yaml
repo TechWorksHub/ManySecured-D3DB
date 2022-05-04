@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04a28eb6-6278-4213-b451-b32b3fb3b9ec
+  mac-addresses:
+  - 00:0E:4C:00:00:00/24
+  manufacturer: Bermai Inc.
+  manufacturer-uri: https://device-type.com
+  name: Bermai
+type: d3-device-type-assertion

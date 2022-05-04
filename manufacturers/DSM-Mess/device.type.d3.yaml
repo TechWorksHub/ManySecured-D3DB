@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e929ffd-0952-4803-a698-1b81d995ecbd
+  mac-addresses:
+  - 00:50:C2:25:30:00/36
+  manufacturer: DSM-Messtechnik GmbH
+  manufacturer-uri: https://device-type.com
+  name: DSM-Mess
+type: d3-device-type-assertion

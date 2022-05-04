@@ -20,7 +20,6 @@ def get_schema_from_d3_claim(yaml_path: str):
     return load_json(str(schema_path.resolve()))
 
 
-
 def get_schema_from_path(yaml_path: str):
     d3_type = Path(yaml_path).suffixes[0].replace(".", "")
     schema_path = schema_store / f"{d3_type}.json"

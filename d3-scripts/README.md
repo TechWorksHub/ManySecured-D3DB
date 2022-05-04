@@ -17,8 +17,33 @@ Poetry will create a python isolated virtual environment in the `./.venv` folder
 poetry install
 ```
 
-Then, to run a script in the poetry virtual environment, do:
+You cannot run scripts directly from the `./src/d3-scripts` since we are using [Python relative imports](https://realpython.com/absolute-vs-relative-python-imports/#relative-imports).
+
+Instead, you must run a script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml):
+
+## Usage
+
+D3 Linter
+
+```console
+alois@nqm-alois-entroware:~/Documents/ManySecured-D3DB/d3-scripts$ poetry run d3lint --help
+usage: d3lint [-h] D3_FILE [D3_FILE ...]
+
+Lint D3 files for YAML syntax errors
+
+positional arguments:
+  D3_FILE     Files to lint
+
+options:
+  -h, --help  show this help message and exit
+
+Example: d3_lint.py *.d3
+```
+
+## Tests
+
+Tests can be run via:
 
 ```bash
-poetry run python3 <your-script-name-here>.py
+poetry run pytest
 ```

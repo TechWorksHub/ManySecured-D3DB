@@ -1,0 +1,112 @@
+{
+  "$id": "https://example.com/behaviour.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behaviour",
+  "description": "The device behaviour schema in terms of rule id and name",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "GUID for the device behaviour rule"
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["matches"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the rule"
+          },
+          "matches": {
+            "type": "object",
+            "properties": {
+              "ip4": {
+                "title": "behaviour-ip4",
+                "type": "object",
+                "description": "The ip v4 protocol behaviour rule",
+                "properties": {
+                  "sourceIp4": {
+                    "type": "string",
+                    "description": "The source IPv4 address"
+                  },
+                  "destinationIp4": {
+                    "type": "string",
+                    "description": "The destination IPv4 address"
+                  },
+                  "sourceDnsName": {
+                    "type": "string",
+                    "description": "The source dns address"
+                  },
+                  "destinationDnsName": {
+                    "type": "string",
+                    "description": "The destination dns address"
+                  },
+                  "protocol": {
+                    "type": "number",
+                    "description": "The protocol number"
+                  }
+                }
+              },
+              "eth": {
+                "title": "behaviour-eth",
+                "type": "object",
+                "description": "The eth protocol behaviour rule",
+                "properties": {
+                  "sourceMac": {
+                    "type": "string",
+                    "description": "The source MAC address"
+                  },
+                  "destinationMac": {
+                    "type": "string",
+                    "description": "The destination MAC address"
+                  },
+                  "etherType": {
+                    "type": "number",
+                    "description": "The ethernet type field"
+                  }
+                }
+              },
+              "tcp": {
+                "title": "behaviour-tcp",
+                "type": "object",
+                "description": "The tcp protocol behaviour rule",
+                "properties": {
+                  "sourcePort": {
+                    "type": "number",
+                    "description": "The source port"
+                  },
+                  "destinationPort": {
+                    "type": "number",
+                    "description": "The destination ports"
+                  }
+                }
+              },
+              "udp": {
+                "title": "behaviour-udp",
+                "description": "The udp protocol behaviour rule",
+                "type": "object",
+                "properties": {
+                  "sourcePort": {
+                    "type": "number",
+                    "description": "The source port"
+                  },
+                  "destinationPort": {
+                    "type": "number",
+                    "description": "The destination ports"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ruleName": {
+      "type": "string",
+      "description": "Rule name"
+    }
+  },
+  "required": ["id", "rules"]
+}

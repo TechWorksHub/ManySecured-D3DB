@@ -27,7 +27,3 @@ def process_claim_file(yaml_file_name: str):
     # write JSON if valid
     write_json(json_file_name, claim)
     return True
-
-
-def yaml_to_json(yaml_data: dict):
-    pass

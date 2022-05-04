@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0497c55-55bf-4d2e-a983-b1d924aa634d
+  macAddresses:
+  - 00:60:18:00:00:00/24
+  manufacturer: Stellar One Corporation
+  manufacturerUri: https://device-type.com
+  name: StellarO
+type: d3-device-type-assertion

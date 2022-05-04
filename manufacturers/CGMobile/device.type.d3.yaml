@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca3b84e7-9734-4ab6-bc32-5355a6fcbe68
+  macAddresses:
+  - 8C:D1:7B:00:00:00/24
+  manufacturer: CG Mobile
+  manufacturerUri: https://device-type.com
+  name: CGMobile
+type: d3-device-type-assertion

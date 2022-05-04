@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6332bc1-b2a7-4a58-a4be-3bab9876bc70
+  macAddresses:
+  - 00:08:11:00:00:00/24
+  manufacturer: VOIX Corporation
+  manufacturerUri: https://device-type.com
+  name: VOIX
+type: d3-device-type-assertion

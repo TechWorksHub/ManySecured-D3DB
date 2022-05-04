@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c0554d5-fdcf-4593-90e8-da81692cb003
+  macAddresses:
+  - 00:16:0B:00:00:00/24
+  manufacturer: TVWorks LLC
+  manufacturerUri: https://device-type.com
+  name: TVWorks
+type: d3-device-type-assertion

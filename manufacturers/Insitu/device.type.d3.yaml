@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 8ca7daea-fc1f-4896-9bbe-74a04b350703
+  macAddresses:
+  - 00:50:C2:C3:50:00/36
+  - 00:50:C2:FD:40:00/36
+  - 70:B3:D5:7A:D0:00/36
+  - 70:B3:D5:86:50:00/36
+  - 70:B3:D5:B3:B0:00/36
+  - 70:B3:D5:D3:60:00/36
+  - 70:B3:D5:DD:20:00/36
+  manufacturer: Insitu, Inc
+  manufacturerUri: https://device-type.com
+  name: Insitu
+type: d3-device-type-assertion

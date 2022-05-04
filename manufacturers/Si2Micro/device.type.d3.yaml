@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a7a8879-5b43-49ee-965a-6dd80cb4c9f9
+  macAddresses:
+  - 00:21:81:00:00:00/24
+  manufacturer: Si2 Microsystems Limited
+  manufacturerUri: https://device-type.com
+  name: Si2Micro
+type: d3-device-type-assertion

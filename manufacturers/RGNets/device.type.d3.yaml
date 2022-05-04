@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6b7c4b3-904c-4b80-97dc-1b679f3087b4
+  macAddresses:
+  - 00:23:FA:00:00:00/24
+  manufacturer: RG Nets, Inc.
+  manufacturerUri: https://device-type.com
+  name: RGNets
+type: d3-device-type-assertion

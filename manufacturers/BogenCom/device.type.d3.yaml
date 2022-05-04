@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f65ed1ee-aaff-463d-8c73-c80a318525d6
+  macAddresses:
+  - 00:18:4C:00:00:00/24
+  manufacturer: Bogen Communications
+  manufacturerUri: https://device-type.com
+  name: BogenCom
+type: d3-device-type-assertion

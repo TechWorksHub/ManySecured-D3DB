@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e99cd256-86d2-46b3-8bbd-a435bbb8e3d2
+  macAddresses:
+  - 00:0A:55:00:00:00/24
+  manufacturer: MARKEM Corporation
+  manufacturerUri: https://device-type.com
+  name: MARKEM
+type: d3-device-type-assertion

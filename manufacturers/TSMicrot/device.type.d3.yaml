@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4adf584-e4c8-404c-872a-3bf6d67b9e88
+  macAddresses:
+  - 00:60:96:00:00:00/24
+  manufacturer: T.S. Microtech Inc.
+  manufacturerUri: https://device-type.com
+  name: TSMicrot
+type: d3-device-type-assertion

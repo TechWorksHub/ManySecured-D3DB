@@ -1,0 +1,24 @@
+credentialSubject:
+  id: 8c55047d-a1a4-4d6e-ae74-e8cc0ff8591f
+  macAddresses:
+  - 00:00:39:00:00:00/24
+  - 00:08:0D:00:00:00/24
+  - 00:0E:7B:00:00:00/24
+  - 00:15:B7:00:00:00/24
+  - 00:1C:7E:00:00:00/24
+  - 00:23:18:00:00:00/24
+  - 00:5F:BF:00:00:00/24
+  - 28:FF:B2:00:00:00/24
+  - 78:D6:B2:00:00:00/24
+  - 88:73:84:00:00:00/24
+  - B8:6B:23:00:00:00/24
+  - E8:3A:97:00:00:00/24
+  - E8:9D:87:00:00:00/24
+  - E8:E0:B7:00:00:00/24
+  - EC:21:25:00:00:00/24
+  - EC:21:E5:00:00:00/24
+  - F4:64:5D:00:00:00/24
+  manufacturer: Toshiba Corporation
+  manufacturerUri: https://device-type.com
+  name: Toshiba
+type: d3-device-type-assertion

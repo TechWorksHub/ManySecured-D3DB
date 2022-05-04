@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41930412-2a64-4c1a-90fa-56963aa66d7e
+  macAddresses:
+  - 00:11:46:00:00:00/24
+  manufacturer: Telecard-Pribor Ltd
+  manufacturerUri: https://device-type.com
+  name: Telecard
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e705764-aa28-446f-90ae-cd5d0af5ef7e
+  macAddresses:
+  - FC:B9:7E:00:00:00/24
+  manufacturer: GE Appliances
+  manufacturerUri: https://device-type.com
+  name: GEApplia
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1982539-fe1b-4ee9-9474-c440d5fe68c5
+  macAddresses:
+  - 00:23:73:00:00:00/24
+  manufacturer: GridIron Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: GridIron
+type: d3-device-type-assertion

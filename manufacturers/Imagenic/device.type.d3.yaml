@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a93d124-2b08-418a-a353-b2aaee20cbc4
+  macAddresses:
+  - 00:03:30:00:00:00/24
+  manufacturer: Imagenics, Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Imagenic
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 667a103a-42d9-4861-aa4b-57278c1948d0
+  macAddresses:
+  - 00:50:C2:3C:60:00/36
+  - C8:87:3B:00:00:00/24
+  manufacturer: Net Optics
+  manufacturerUri: https://device-type.com
+  name: NetOptic
+type: d3-device-type-assertion

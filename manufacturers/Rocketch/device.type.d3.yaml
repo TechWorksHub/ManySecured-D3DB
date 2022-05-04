@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b4efa5e-9f31-4354-b0c6-3c6f2d689e01
+  macAddresses:
+  - 00:D0:3E:00:00:00/24
+  manufacturer: Rocketchips, Inc.
+  manufacturerUri: https://device-type.com
+  name: Rocketch
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1c0ca6b-c49c-4764-b4c5-8abe4c389fbc
+  macAddresses:
+  - 00:0C:F0:00:00:00/24
+  manufacturer: M & N GmbH
+  manufacturerUri: https://device-type.com
+  name: MN
+type: d3-device-type-assertion

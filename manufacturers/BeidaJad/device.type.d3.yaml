@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 40e3e409-4063-4736-b50a-a416f0babe15
+  macAddresses:
+  - 00:0A:76:00:00:00/24
+  - 8C:59:3C:20:00:00/28
+  manufacturer: Beida Jade Bird Huaguang Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: BeidaJad
+type: d3-device-type-assertion

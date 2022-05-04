@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f4b097b-289a-4554-90ca-970996893f64
+  macAddresses:
+  - 44:03:77:50:00:00/28
+  manufacturer: Norden Communication UK Ltd.
+  manufacturerUri: https://device-type.com
+  name: NordenCo
+type: d3-device-type-assertion

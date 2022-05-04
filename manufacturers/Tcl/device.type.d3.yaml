@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f599e60-a854-4b82-b14e-3108f40b4b4d
+  macAddresses:
+  - 00:00:DD:00:00:00/24
+  manufacturer: Tcl Incorporated
+  manufacturerUri: https://device-type.com
+  name: Tcl
+type: d3-device-type-assertion

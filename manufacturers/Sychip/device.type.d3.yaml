@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba5d40c2-0c84-4286-9797-0ed00dd6f7d0
+  macAddresses:
+  - 00:0B:6C:00:00:00/24
+  manufacturer: Sychip Inc.
+  manufacturerUri: https://device-type.com
+  name: Sychip
+type: d3-device-type-assertion

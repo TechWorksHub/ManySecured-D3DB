@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c051c278-7c9d-4ed6-9c2f-35f5b877be2b
+  macAddresses:
+  - 00:1F:53:00:00:00/24
+  manufacturer: GEMAC Chemnitz GmbH
+  manufacturerUri: https://device-type.com
+  name: GEMACChe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d59af39b-4f89-4427-a4d4-6880c09911c8
+  macAddresses:
+  - 00:20:1E:00:00:00/24
+  manufacturer: Netquest Corporation
+  manufacturerUri: https://device-type.com
+  name: Netquest
+type: d3-device-type-assertion

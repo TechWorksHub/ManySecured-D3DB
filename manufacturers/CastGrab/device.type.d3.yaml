@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86afb2f7-5151-4ebf-a319-fec85cef9c18
+  macAddresses:
+  - 00:1C:BC:00:00:00/24
+  manufacturer: CastGrabber, LLC
+  manufacturerUri: https://device-type.com
+  name: CastGrab
+type: d3-device-type-assertion

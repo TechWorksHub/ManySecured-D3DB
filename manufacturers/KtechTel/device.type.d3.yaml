@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff5529df-ecce-4be1-a8c7-64323936cb44
+  macAddresses:
+  - 00:12:99:00:00:00/24
+  manufacturer: Ktech Telecommunications Inc
+  manufacturerUri: https://device-type.com
+  name: KtechTel
+type: d3-device-type-assertion

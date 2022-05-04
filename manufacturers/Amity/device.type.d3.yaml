@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f292100-e89e-4a4e-9e79-802eb2956e40
+  macAddresses:
+  - 00:0D:59:00:00:00/24
+  manufacturer: Amity Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Amity
+type: d3-device-type-assertion

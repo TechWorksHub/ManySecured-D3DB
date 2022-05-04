@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd4bcbdd-c6ef-4659-847a-0969d4aac00b
+  macAddresses:
+  - 3C:24:F0:D0:00:00/28
+  manufacturer: Travis Holding B.V.
+  manufacturerUri: https://device-type.com
+  name: Travis
+type: d3-device-type-assertion

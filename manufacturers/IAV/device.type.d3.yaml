@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df439d0e-e551-40e7-b67a-a5ca4ea30635
+  macAddresses:
+  - 00:0E:1B:00:00:00/24
+  manufacturer: IAV GmbH
+  manufacturerUri: https://device-type.com
+  name: IAV
+type: d3-device-type-assertion

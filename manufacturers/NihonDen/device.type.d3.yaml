@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 485b71d8-a466-4601-829e-03e5249ca074
+  macAddresses:
+  - 68:23:4B:00:00:00/24
+  manufacturer: Nihon Dengyo Kousaku
+  manufacturerUri: https://device-type.com
+  name: NihonDen
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 708b9d41-0d6a-497d-93de-cdcf9f5cb094
+  macAddresses:
+  - 60:15:92:70:00:00/28
+  manufacturer: Faster CZ spol. s r.o.
+  manufacturerUri: https://device-type.com
+  name: FasterCZ
+type: d3-device-type-assertion

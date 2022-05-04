@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12bbd231-f1cb-4baa-b035-e8b2a7996487
+  macAddresses:
+  - 00:50:C2:3D:C0:00/36
+  manufacturer: 3D perception
+  manufacturerUri: https://device-type.com
+  name: 3Dpercep
+type: d3-device-type-assertion

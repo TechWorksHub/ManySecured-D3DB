@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb1973bb-c412-40dd-8154-35def6f2ed21
+  macAddresses:
+  - 00:24:A4:00:00:00/24
+  manufacturer: Siklu Communication
+  manufacturerUri: https://device-type.com
+  name: SikluCom
+type: d3-device-type-assertion

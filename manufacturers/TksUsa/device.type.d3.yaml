@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a09f732-78e5-47da-8ce2-f8b8da755a59
+  macAddresses:
+  - 00:60:42:00:00:00/24
+  manufacturer: Tks (Usa), Inc.
+  manufacturerUri: https://device-type.com
+  name: TksUsa
+type: d3-device-type-assertion

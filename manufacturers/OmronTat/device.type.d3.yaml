@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7942c972-f52c-4290-89c2-58c9ba7d0827
+  macAddresses:
+  - 00:00:0A:00:00:00/24
+  manufacturer: Omron Tateisi Electronics Co.
+  manufacturerUri: https://device-type.com
+  name: OmronTat
+type: d3-device-type-assertion

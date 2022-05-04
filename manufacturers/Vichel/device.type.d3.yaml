@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb8f06ab-02ca-4456-a9ce-baf8de564d6d
+  macAddresses:
+  - 00:0A:18:00:00:00/24
+  manufacturer: Vichel Inc.
+  manufacturerUri: https://device-type.com
+  name: Vichel
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca66566c-58b8-4ee4-87c5-2dc09c34540a
+  macAddresses:
+  - 00:0A:F2:00:00:00/24
+  manufacturer: NeoAxiom Corp.
+  manufacturerUri: https://device-type.com
+  name: NeoAxiom
+type: d3-device-type-assertion

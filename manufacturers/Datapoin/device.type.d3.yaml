@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0603b594-4e45-431c-902c-a17d51f97009
+  macAddresses:
+  - 00:00:15:00:00:00/24
+  manufacturer: Datapoint Corporation
+  manufacturerUri: https://device-type.com
+  name: Datapoin
+type: d3-device-type-assertion

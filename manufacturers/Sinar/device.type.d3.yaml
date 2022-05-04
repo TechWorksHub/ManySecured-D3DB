@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a03d54aa-b81f-476b-9cb0-bd81ba5129f5
+  macAddresses:
+  - 00:0F:46:00:00:00/24
+  manufacturer: Sinar Ag
+  manufacturerUri: https://device-type.com
+  name: Sinar
+type: d3-device-type-assertion

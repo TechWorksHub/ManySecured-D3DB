@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3a2ed410-b32f-4c67-a473-af568a3cd12c
+  macAddresses:
+  - 00:15:EF:00:00:00/24
+  - 00:50:C2:3B:50:00/36
+  manufacturer: NEC TOKIN Corporation
+  manufacturerUri: https://device-type.com
+  name: NECTOKIN
+type: d3-device-type-assertion

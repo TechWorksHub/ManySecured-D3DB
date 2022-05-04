@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b0404333-4b29-464f-a8bc-1803d3c7312d
+  macAddresses:
+  - 00:25:33:00:00:00/24
+  manufacturer: Wittenstein Ag
+  manufacturerUri: https://device-type.com
+  name: Wittenst
+type: d3-device-type-assertion

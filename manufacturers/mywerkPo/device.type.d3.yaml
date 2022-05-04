@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b75dd63-e9e6-4140-bff7-9d5013a21c36
+  macAddresses:
+  - 24:C8:48:00:00:00/24
+  manufacturer: mywerk Portal GmbH
+  manufacturerUri: https://device-type.com
+  name: mywerkPo
+type: d3-device-type-assertion

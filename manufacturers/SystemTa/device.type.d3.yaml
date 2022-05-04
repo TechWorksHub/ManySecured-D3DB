@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b09234d-8bc3-464c-b93d-51d6980aca4e
+  macAddresses:
+  - 00:01:0C:00:00:00/24
+  manufacturer: System Talks Inc.
+  manufacturerUri: https://device-type.com
+  name: SystemTa
+type: d3-device-type-assertion

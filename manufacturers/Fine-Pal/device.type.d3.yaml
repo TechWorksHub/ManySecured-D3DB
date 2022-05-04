@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 72b5d319-0ef9-4d0b-9bb7-40b71a88d08e
+  macAddresses:
+  - 00:C0:5F:00:00:00/24
+  manufacturer: Fine-Pal Company Limited
+  manufacturerUri: https://device-type.com
+  name: Fine-Pal
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a857bb7-6501-4e3d-87b6-2b51011ef590
+  macAddresses:
+  - 00:D0:4F:00:00:00/24
+  manufacturer: Bitronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Bitronic
+type: d3-device-type-assertion

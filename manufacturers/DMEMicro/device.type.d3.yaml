@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2570ad39-1058-42ab-b102-87854a1d648c
+  macAddresses:
+  - 0C:58:42:00:00:00/24
+  manufacturer: DME Micro
+  manufacturerUri: https://device-type.com
+  name: DMEMicro
+type: d3-device-type-assertion

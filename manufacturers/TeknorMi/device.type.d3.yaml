@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e180794-eb12-4b9f-95d1-8161fb4842c4
+  macAddresses:
+  - 00:A0:A5:00:00:00/24
+  manufacturer: Teknor Microsysteme, Inc.
+  manufacturerUri: https://device-type.com
+  name: TeknorMi
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6f60671b-dbde-4362-92c1-a778ba8e486c
+  macAddresses:
+  - 10:DC:B6:60:00:00/28
+  - 70:B3:D5:C0:40:00/36
+  manufacturer: Prolan Zrt.
+  manufacturerUri: https://device-type.com
+  name: ProlanZr
+type: d3-device-type-assertion

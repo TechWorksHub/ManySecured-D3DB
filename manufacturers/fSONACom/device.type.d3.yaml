@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8eddbcf-664d-4507-a0cf-55b2bc9c06c9
+  macAddresses:
+  - 00:09:75:00:00:00/24
+  manufacturer: fSONA Communications Corporation
+  manufacturerUri: https://device-type.com
+  name: fSONACom
+type: d3-device-type-assertion

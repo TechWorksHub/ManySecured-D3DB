@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13fe30f0-fbb6-4598-af76-4a6c21df56dd
+  macAddresses:
+  - 00:06:D0:00:00:00/24
+  manufacturer: Elgar Electronics Corp.
+  manufacturerUri: https://device-type.com
+  name: ElgarEle
+type: d3-device-type-assertion

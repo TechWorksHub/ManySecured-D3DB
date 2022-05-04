@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64894023-6f54-4620-bf7b-de414a0bbe98
+  macAddresses:
+  - 00:1C:05:00:00:00/24
+  manufacturer: Nonin Medical Inc.
+  manufacturerUri: https://device-type.com
+  name: NoninMed
+type: d3-device-type-assertion

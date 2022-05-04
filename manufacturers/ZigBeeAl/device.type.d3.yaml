@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7937a100-37bd-470e-ae38-55cc8a52dbe8
+  macAddresses:
+  - 00:50:C2:77:10:00/36
+  - 4A:19:1B:00:00:00/24
+  manufacturer: ZigBee Alliance
+  manufacturerUri: https://device-type.com
+  name: ZigBeeAl
+type: d3-device-type-assertion

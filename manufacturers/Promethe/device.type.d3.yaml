@@ -1,0 +1,9 @@
+credentialSubject:
+  id: af4d4d3e-a6cf-46d5-9951-975712a0b4ee
+  macAddresses:
+  - 58:FC:DB:70:00:00/28
+  - 6C:DC:6A:00:00:00/24
+  manufacturer: Prometheus Security Group Global, Inc.
+  manufacturerUri: https://device-type.com
+  name: Promethe
+type: d3-device-type-assertion

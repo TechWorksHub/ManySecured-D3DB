@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f414d15f-c0e6-4630-a3bc-899c591b48ba
+  macAddresses:
+  - 00:15:2D:00:00:00/24
+  manufacturer: TenX Networks, LLC
+  manufacturerUri: https://device-type.com
+  name: TenXNetw
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1afbb90b-7a78-4b1b-bdf2-fa78524ff6fd
+  macAddresses:
+  - 5C:68:D0:00:00:00/24
+  manufacturer: Aurora Innovation Inc.
+  manufacturerUri: https://device-type.com
+  name: AuroraIn
+type: d3-device-type-assertion

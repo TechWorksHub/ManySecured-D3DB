@@ -1,0 +1,8 @@
+credentialSubject:
+  id: afdb08a6-224a-4cd1-a6c7-742c3fc0a742
+  macAddresses:
+  - 00:80:1B:00:00:00/24
+  manufacturer: Kodiak Technology
+  manufacturerUri: https://device-type.com
+  name: KodiakTe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de75fe26-e69b-4c94-be3a-e044c6c503db
+  macAddresses:
+  - 00:00:49:00:00:00/24
+  manufacturer: Apricot Computers, Ltd
+  manufacturerUri: https://device-type.com
+  name: ApricotC
+type: d3-device-type-assertion

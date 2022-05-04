@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04c94ad5-af12-4410-8d4d-44136b1311ff
+  macAddresses:
+  - 00:0D:B2:00:00:00/24
+  manufacturer: Ammasso, Inc.
+  manufacturerUri: https://device-type.com
+  name: Ammasso
+type: d3-device-type-assertion

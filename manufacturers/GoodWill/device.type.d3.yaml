@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f17ec397-3d3f-4739-9c6d-f72a8c278690
+  macAddresses:
+  - 00:22:24:00:00:00/24
+  manufacturer: Good Will Instrument Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: GoodWill
+type: d3-device-type-assertion

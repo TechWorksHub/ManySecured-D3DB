@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d46be25-e401-4b3c-9db4-b83bc9f9138b
+  macAddresses:
+  - 6C:E3:B6:00:00:00/24
+  manufacturer: Nera Telecommunications Ltd.
+  manufacturerUri: https://device-type.com
+  name: NeraTele
+type: d3-device-type-assertion

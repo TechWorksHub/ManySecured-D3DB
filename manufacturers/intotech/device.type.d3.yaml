@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd9ca18c-3610-4497-918b-b4d5032cbf77
+  macAddresses:
+  - 00:1B:A6:00:00:00/24
+  manufacturer: intotech inc.
+  manufacturerUri: https://device-type.com
+  name: intotech
+type: d3-device-type-assertion

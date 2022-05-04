@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc9fa459-7e65-41fb-8945-452108ce2123
+  macAddresses:
+  - C8:A6:20:00:00:00/24
+  manufacturer: Nebula, Inc
+  manufacturerUri: https://device-type.com
+  name: Nebula
+type: d3-device-type-assertion

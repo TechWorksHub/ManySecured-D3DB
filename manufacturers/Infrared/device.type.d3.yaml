@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11aca962-0037-425b-bfa9-f3c325e923af
+  macAddresses:
+  - 00:21:AC:00:00:00/24
+  manufacturer: Infrared Integrated Systems Ltd
+  manufacturerUri: https://device-type.com
+  name: Infrared
+type: d3-device-type-assertion

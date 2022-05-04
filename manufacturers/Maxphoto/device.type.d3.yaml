@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1efa90bc-f0b0-4492-9475-657e25677888
+  macAddresses:
+  - 4C:B2:1C:00:00:00/24
+  manufacturer: Maxphotonics Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Maxphoto
+type: d3-device-type-assertion

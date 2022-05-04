@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ab0f021-f7e3-4051-8da9-59f136b1d080
+  macAddresses:
+  - 20:A7:83:00:00:00/24
+  manufacturer: miControl GmbH
+  manufacturerUri: https://device-type.com
+  name: miContro
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a3934b1-2591-4f18-8f44-3cca949a50cd
+  macAddresses:
+  - 70:B3:D5:00:40:00/36
+  - 70:B3:D5:E1:00:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Leidos
+type: d3-device-type-assertion

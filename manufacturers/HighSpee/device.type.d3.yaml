@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f7b15c6d-9931-4e52-af8b-d9400997cd68
+  macAddresses:
+  - 00:08:01:00:00:00/24
+  - 00:50:C2:C5:70:00/36
+  manufacturer: HighSpeed Surfing Inc.
+  manufacturerUri: https://device-type.com
+  name: HighSpee
+type: d3-device-type-assertion

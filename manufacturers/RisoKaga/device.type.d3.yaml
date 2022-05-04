@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1f28ea4-d8aa-4416-b10d-92bac260de7a
+  macAddresses:
+  - 24:BA:13:00:00:00/24
+  manufacturer: Riso Kagaku Corporation
+  manufacturerUri: https://device-type.com
+  name: RisoKaga
+type: d3-device-type-assertion

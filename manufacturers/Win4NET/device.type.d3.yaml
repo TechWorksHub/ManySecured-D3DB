@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8c52c8b-9f31-4d71-9f42-3312359f599c
+  macAddresses:
+  - 00:1C:A6:00:00:00/24
+  - 00:50:C2:42:F0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Win4NET
+type: d3-device-type-assertion

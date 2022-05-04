@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a9838b4-58c6-4256-b451-46ad736fe5c4
+  macAddresses:
+  - 30:41:74:00:00:00/24
+  manufacturer: Altec Lansing Llc
+  manufacturerUri: https://device-type.com
+  name: AltecLan
+type: d3-device-type-assertion

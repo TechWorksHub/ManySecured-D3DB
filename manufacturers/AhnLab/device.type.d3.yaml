@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f9b4c5a-6121-4bb7-b5a6-f931727f44af
+  macAddresses:
+  - 00:1B:E2:00:00:00/24
+  manufacturer: AhnLab,Inc.
+  manufacturerUri: https://device-type.com
+  name: AhnLab
+type: d3-device-type-assertion

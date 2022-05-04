@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5da73034-c604-4a97-8d39-d0353c91a6ae
+  macAddresses:
+  - 00:50:2C:00:00:00/24
+  manufacturer: Soyo Computer, Inc.
+  manufacturerUri: https://device-type.com
+  name: SoyoComp
+type: d3-device-type-assertion

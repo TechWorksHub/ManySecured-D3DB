@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 00781497-70c4-4db1-b93a-f0d4df1a19b9
+  macAddresses:
+  - 00:08:89:00:00:00/24
+  - 00:24:AF:00:00:00/24
+  - 00:64:AF:00:00:00/24
+  - 04:C9:D9:00:00:00/24
+  - 28:57:67:00:00:00/24
+  - 4C:82:CF:00:00:00/24
+  - 88:B6:EE:00:00:00/24
+  manufacturer: Dish Technologies Corp
+  manufacturerUri: https://device-type.com
+  name: DishTech
+type: d3-device-type-assertion

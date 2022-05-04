@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c2196c2-4db9-442e-930c-de7dc24c1aa7
+  macAddresses:
+  - 00:D0:FE:00:00:00/24
+  manufacturer: Astral Point
+  manufacturerUri: https://device-type.com
+  name: AstralPo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10fc7eb5-d59d-4679-8475-9275a87f3705
+  macAddresses:
+  - 00:1F:1D:00:00:00/24
+  manufacturer: Atlas Material Testing Technology LLC
+  manufacturerUri: https://device-type.com
+  name: AtlasMat
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c17fb6a2-0dc8-40da-aea2-4be5b436923f
+  macAddresses:
+  - 00:08:85:00:00:00/24
+  manufacturer: "EMS Dr. Thomas W\xFCnsche"
+  manufacturerUri: https://device-type.com
+  name: EMSDrTho
+type: d3-device-type-assertion

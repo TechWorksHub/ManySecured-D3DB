@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 651dd592-5253-44f8-88db-c65b2c14dac2
+  macAddresses:
+  - 00:1A:DA:00:00:00/24
+  manufacturer: Biz-2-Me Inc.
+  manufacturerUri: https://device-type.com
+  name: Biz-2-Me
+type: d3-device-type-assertion

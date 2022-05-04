@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2d4001a3-2bf0-4db6-89de-5a61e96029eb
+  macAddresses:
+  - 00:09:D1:00:00:00/24
+  - 00:50:C2:12:30:00/36
+  manufacturer: Seranoa Networks Inc
+  manufacturerUri: https://device-type.com
+  name: SeranoaN
+type: d3-device-type-assertion

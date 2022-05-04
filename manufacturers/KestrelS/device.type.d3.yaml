@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1c55ccd-c5f4-4422-ab30-e6dbf7921115
+  macAddresses:
+  - 00:50:75:00:00:00/24
+  manufacturer: Kestrel Solutions
+  manufacturerUri: https://device-type.com
+  name: KestrelS
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c135fbe1-514a-4d33-b32d-480708313066
+  macAddresses:
+  - 58:20:8A:D0:00:00/28
+  - 70:B3:D5:28:20:00/36
+  manufacturer: Sambo Hitech
+  manufacturerUri: https://device-type.com
+  name: SamboHit
+type: d3-device-type-assertion

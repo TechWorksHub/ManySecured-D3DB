@@ -1,0 +1,8 @@
+credentialSubject:
+  id: baa80771-83b3-4081-88f6-b9119f54e7a6
+  macAddresses:
+  - 00:E0:71:00:00:00/24
+  manufacturer: Epis Microcomputer
+  manufacturerUri: https://device-type.com
+  name: EpisMicr
+type: d3-device-type-assertion

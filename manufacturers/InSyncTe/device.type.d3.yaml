@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 21f79640-a702-419e-afb9-8c022c1f8870
+  macAddresses:
+  - 00:50:C2:5C:70:00/36
+  - BC:66:41:00:00:00/28
+  manufacturer: InSync Technology Ltd
+  manufacturerUri: https://device-type.com
+  name: InSyncTe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f23fc20-8c4a-49fa-8484-df3b626fe69a
+  macAddresses:
+  - 00:14:B6:00:00:00/24
+  manufacturer: Enswer Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: EnswerTe
+type: d3-device-type-assertion

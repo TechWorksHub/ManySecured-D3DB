@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fb8d353-a71b-483f-a7a9-1689620818d8
+  macAddresses:
+  - 00:0E:48:00:00:00/24
+  manufacturer: Lipman TransAction Solutions
+  manufacturerUri: https://device-type.com
+  name: LipmanTr
+type: d3-device-type-assertion

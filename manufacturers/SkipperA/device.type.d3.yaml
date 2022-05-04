@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1074bc22-4acd-4594-84f4-91dc3737aaba
+  macAddresses:
+  - 50:C9:A0:00:00:00/24
+  manufacturer: Skipper As
+  manufacturerUri: https://device-type.com
+  name: SkipperA
+type: d3-device-type-assertion

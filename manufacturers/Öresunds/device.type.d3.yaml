@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fc5e58a-6661-40aa-ba7f-10f9850835a5
+  macAddresses:
+  - 70:B3:D5:66:80:00/36
+  manufacturer: "\xD6resundskraft AB"
+  manufacturerUri: https://device-type.com
+  name: "\xD6resunds"
+type: d3-device-type-assertion

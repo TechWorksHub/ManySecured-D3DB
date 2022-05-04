@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29f86bb7-7ff3-41c6-8203-7726b27db8d3
+  macAddresses:
+  - 00:50:C2:53:F0:00/36
+  - 38:FE:C5:00:00:00/24
+  manufacturer: Ellips B.V.
+  manufacturerUri: https://device-type.com
+  name: Ellips
+type: d3-device-type-assertion

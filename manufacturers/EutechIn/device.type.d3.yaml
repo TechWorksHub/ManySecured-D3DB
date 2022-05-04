@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e52edf70-bb47-4235-8e43-346c541a3de1
+  macAddresses:
+  - 00:11:8F:00:00:00/24
+  manufacturer: Eutech Instruments Pte. Ltd.
+  manufacturerUri: https://device-type.com
+  name: EutechIn
+type: d3-device-type-assertion

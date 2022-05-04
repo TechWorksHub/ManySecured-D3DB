@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 06846b6f-16aa-4e86-8e7a-1e6879497b14
+  macAddresses:
+  - 00:05:19:00:00:00/24
+  - 00:11:06:00:00:00/24
+  - 00:C0:E4:00:00:00/24
+  manufacturer: Siemens Building Technologies AG,
+  manufacturerUri: https://device-type.com
+  name: SiemensB
+type: d3-device-type-assertion

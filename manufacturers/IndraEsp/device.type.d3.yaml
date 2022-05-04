@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 376b0de1-b6c1-4b89-968e-46a90f6c9e93
+  macAddresses:
+  - 78:84:EE:00:00:00/24
+  manufacturer: Indra Espacio S.A.
+  manufacturerUri: https://device-type.com
+  name: IndraEsp
+type: d3-device-type-assertion

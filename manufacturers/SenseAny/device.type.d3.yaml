@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d4e7827-dd40-4d6d-a087-8866cdb0687b
+  macAddresses:
+  - 00:21:5B:00:00:00/24
+  manufacturer: SenseAnywhere
+  manufacturerUri: https://device-type.com
+  name: SenseAny
+type: d3-device-type-assertion

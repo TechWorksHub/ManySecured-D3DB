@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 776d51db-e7a8-4720-9e34-83103e11dafb
+  macAddresses:
+  - 00:1B:93:00:00:00/24
+  manufacturer: JC Decaux SA DNT
+  manufacturerUri: https://device-type.com
+  name: JCDecaux
+type: d3-device-type-assertion

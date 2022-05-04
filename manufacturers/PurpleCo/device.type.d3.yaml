@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 195dda27-f5d7-4b90-945c-a7c4934ca42e
+  macAddresses:
+  - 00:26:CD:00:00:00/24
+  - 70:70:4C:00:00:00/24
+  manufacturer: PurpleComm, Inc.
+  manufacturerUri: https://device-type.com
+  name: PurpleCo
+type: d3-device-type-assertion

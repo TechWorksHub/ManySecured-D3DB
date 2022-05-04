@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9d1f193d-7818-470a-8a99-2c1a90d47393
+  macAddresses:
+  - 50:A0:30:80:00:00/28
+  - A0:F2:17:00:00:00/24
+  manufacturer: GE Medical System China Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: GEMedica
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c6000fd7-b0ec-4ed4-b84a-e72ae22ad182
+  macAddresses:
+  - 64:67:07:00:00:00/24
+  - 70:B3:D5:0F:10:00/36
+  - 8C:8A:BB:00:00:00/24
+  manufacturer: Beijing Omnific Technology, Ltd.
+  manufacturerUri: https://device-type.com
+  name: BeijingO
+type: d3-device-type-assertion

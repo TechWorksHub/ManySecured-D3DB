@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5acb1554-50f5-4560-a0ab-91a63b6c6dca
+  macAddresses:
+  - 70:B3:D5:A0:10:00/36
+  manufacturer: FeldTech GmbH
+  manufacturerUri: https://device-type.com
+  name: FeldTech
+type: d3-device-type-assertion

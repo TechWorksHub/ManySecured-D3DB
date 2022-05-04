@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4010b568-420f-4f7d-886f-7e26aa789100
+  macAddresses:
+  - 00:09:8B:00:00:00/24
+  manufacturer: Entropic Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: Entropic
+type: d3-device-type-assertion

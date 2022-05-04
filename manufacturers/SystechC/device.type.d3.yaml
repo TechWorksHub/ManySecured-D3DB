@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5abc27ef-e8b2-4084-a3bc-9574ba0f65df
+  macAddresses:
+  - 00:80:44:00:00:00/24
+  manufacturer: Systech Computer Corp.
+  manufacturerUri: https://device-type.com
+  name: SystechC
+type: d3-device-type-assertion

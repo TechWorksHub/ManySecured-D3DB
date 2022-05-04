@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cab7320-859d-41e4-8db8-cd0c21c2bd6b
+  macAddresses:
+  - 00:02:F7:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Arm
+type: d3-device-type-assertion

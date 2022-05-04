@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a3abc9b-17c0-471d-8bae-417283b88c5d
+  macAddresses:
+  - 00:0C:15:00:00:00/24
+  manufacturer: CyberPower Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: CyberPow
+type: d3-device-type-assertion

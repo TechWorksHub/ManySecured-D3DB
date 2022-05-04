@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 592f5cd7-bd95-414d-b78b-7600db9c0bb1
+  macAddresses:
+  - 00:19:36:00:00:00/24
+  - 78:7D:F3:00:00:00/24
+  manufacturer: Sterlite Optical Technologies Limited
+  manufacturerUri: https://device-type.com
+  name: Sterlite
+type: d3-device-type-assertion

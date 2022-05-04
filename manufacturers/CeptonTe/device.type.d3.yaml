@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58bd444e-80ed-4fb8-b685-28eade6e2564
+  macAddresses:
+  - 18:12:12:00:00:00/24
+  manufacturer: Cepton Technologies
+  manufacturerUri: https://device-type.com
+  name: CeptonTe
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6aef6783-6a7f-4ad6-958c-7ece309022a6
+  macAddresses:
+  - AC:12:2F:00:00:00/24
+  - E8:EE:CC:00:00:00/24
+  manufacturer: Fantasia Trading LLC
+  manufacturerUri: https://device-type.com
+  name: Fantasia
+type: d3-device-type-assertion

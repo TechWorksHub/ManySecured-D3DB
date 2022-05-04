@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3c6c5d1-bba2-4fcc-b992-f91ded71d531
+  macAddresses:
+  - 00:0C:D5:00:00:00/24
+  manufacturer: Passave Inc.
+  manufacturerUri: https://device-type.com
+  name: Passave
+type: d3-device-type-assertion

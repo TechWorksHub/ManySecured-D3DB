@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f09f54b-9ae9-40f8-8b37-7ef9328d17d6
+  macAddresses:
+  - 08:ED:02:20:00:00/28
+  manufacturer: TES Touch Embedded Solutions Inc.
+  manufacturerUri: https://device-type.com
+  name: TESTouch
+type: d3-device-type-assertion

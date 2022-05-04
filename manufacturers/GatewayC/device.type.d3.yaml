@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3105e430-633a-474a-8f94-af45eb698981
+  macAddresses:
+  - 00:00:61:00:00:00/24
+  manufacturer: Gateway Communications
+  manufacturerUri: https://device-type.com
+  name: GatewayC
+type: d3-device-type-assertion

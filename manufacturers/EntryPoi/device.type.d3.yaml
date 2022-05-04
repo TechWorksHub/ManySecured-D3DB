@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 474b1292-f0b9-436f-aa5a-c64f79a5f30d
+  macAddresses:
+  - 00:1C:00:00:00:00/24
+  manufacturer: Entry Point, LLC
+  manufacturerUri: https://device-type.com
+  name: EntryPoi
+type: d3-device-type-assertion

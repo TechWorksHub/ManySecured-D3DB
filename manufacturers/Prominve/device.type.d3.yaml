@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f73d269-d4e4-417e-b366-e78ccee6aedb
+  macAddresses:
+  - 00:1F:1A:00:00:00/24
+  manufacturer: Prominvest
+  manufacturerUri: https://device-type.com
+  name: Prominve
+type: d3-device-type-assertion

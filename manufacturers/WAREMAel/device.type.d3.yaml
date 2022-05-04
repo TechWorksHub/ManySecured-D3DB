@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a234f220-a0de-40d9-ab91-888999612dc5
+  macAddresses:
+  - 00:23:D5:00:00:00/24
+  manufacturer: WAREMA electronic GmbH
+  manufacturerUri: https://device-type.com
+  name: WAREMAel
+type: d3-device-type-assertion

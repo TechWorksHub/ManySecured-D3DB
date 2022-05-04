@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d6e6c458-88ae-47b6-8f7a-f15f8aa0d82b
+  macAddresses:
+  - 00:50:C2:CB:40:00/36
+  - EC:D0:40:00:00:00/24
+  manufacturer: GEA Farm Technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: GEAFarmT
+type: d3-device-type-assertion

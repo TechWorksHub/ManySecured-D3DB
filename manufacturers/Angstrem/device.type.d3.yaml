@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fc6cb38-c4ae-4943-ac43-7b1028bf6c2c
+  macAddresses:
+  - 68:EB:C5:00:00:00/24
+  manufacturer: Angstrem Telecom
+  manufacturerUri: https://device-type.com
+  name: Angstrem
+type: d3-device-type-assertion

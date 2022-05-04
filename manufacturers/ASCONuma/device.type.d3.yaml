@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d348e56-41ab-4fde-b84a-c859d5c216ba
+  macAddresses:
+  - 0C:CB:8D:00:00:00/24
+  manufacturer: ASCO Numatics GmbH
+  manufacturerUri: https://device-type.com
+  name: ASCONuma
+type: d3-device-type-assertion

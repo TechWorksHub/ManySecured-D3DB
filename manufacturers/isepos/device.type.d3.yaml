@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5991e37c-2267-48fd-88a1-e7d417d31331
+  macAddresses:
+  - 60:69:9B:00:00:00/24
+  manufacturer: isepos GmbH
+  manufacturerUri: https://device-type.com
+  name: isepos
+type: d3-device-type-assertion

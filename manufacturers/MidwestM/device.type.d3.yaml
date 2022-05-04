@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 156a431d-cf0b-45d6-a551-96eacda0294d
+  macAddresses:
+  - 00:50:C2:AF:70:00/36
+  - 7C:47:7C:50:00:00/28
+  manufacturer: Midwest Microwave Solutions Inc.
+  manufacturerUri: https://device-type.com
+  name: MidwestM
+type: d3-device-type-assertion

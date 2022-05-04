@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 190dd267-b1ce-4c28-8a24-0bbda300bf2a
+  macAddresses:
+  - 00:02:05:00:00:00/24
+  - D0:5F:CE:00:00:00/24
+  manufacturer: Hitachi Denshi, Ltd.
+  manufacturerUri: https://device-type.com
+  name: HitachiD
+type: d3-device-type-assertion

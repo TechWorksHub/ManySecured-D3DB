@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d7f5615-0032-4ced-be7d-8d8fe304706d
+  macAddresses:
+  - 00:08:04:00:00:00/24
+  manufacturer: ICA Inc.
+  manufacturerUri: https://device-type.com
+  name: ICA
+type: d3-device-type-assertion

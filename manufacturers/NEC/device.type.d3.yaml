@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 872f76c5-4f0e-4be6-be2c-8b4e937911de
+  macAddresses:
+  - 00:00:4C:00:00:00/24
+  - 00:16:97:00:00:00/24
+  - 00:25:5C:00:00:00/24
+  - 00:30:13:00:00:00/24
+  - 58:C2:32:00:00:00/24
+  - 74:3A:65:00:00:00/24
+  - 8C:DF:9D:00:00:00/24
+  - D4:92:34:00:00:00/24
+  - F8:CA:85:00:00:00/24
+  manufacturer: NEC Corporation
+  manufacturerUri: https://device-type.com
+  name: NEC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be28cd18-d68f-41d6-bedf-6883bd511e35
+  macAddresses:
+  - EC:0E:D6:00:00:00/24
+  manufacturer: Itech Instruments Sas
+  manufacturerUri: https://device-type.com
+  name: ItechIns
+type: d3-device-type-assertion

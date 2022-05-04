@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fef2a09-c385-4cdc-86b9-b59872eec7f7
+  macAddresses:
+  - 3C:05:AB:00:00:00/24
+  manufacturer: Product Creation Studio
+  manufacturerUri: https://device-type.com
+  name: ProductC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 38fd8853-5907-4022-92f0-72cce0b33b0e
+  macAddresses:
+  - 00:21:32:00:00:00/24
+  - 00:50:C2:16:B0:00/36
+  manufacturer: Masterclock, Inc.
+  manufacturerUri: https://device-type.com
+  name: Mastercl
+type: d3-device-type-assertion

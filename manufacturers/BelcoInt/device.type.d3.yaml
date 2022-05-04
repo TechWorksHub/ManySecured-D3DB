@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87f7023c-cc26-4021-a80d-bd8a4d7923f6
+  macAddresses:
+  - 00:12:F4:00:00:00/24
+  manufacturer: Belco International Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: BelcoInt
+type: d3-device-type-assertion

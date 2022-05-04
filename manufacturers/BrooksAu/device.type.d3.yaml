@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2a5028ef-f4d4-4b02-b8d2-8a578e445629
+  macAddresses:
+  - 00:0A:A9:00:00:00/24
+  - 00:A0:ED:00:00:00/24
+  manufacturer: Brooks Automation GmbH
+  manufacturerUri: https://device-type.com
+  name: BrooksAu
+type: d3-device-type-assertion

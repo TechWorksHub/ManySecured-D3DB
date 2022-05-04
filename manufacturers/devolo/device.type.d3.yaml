@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 856e5918-3b0f-4769-81c2-7cd3acab55e1
+  macAddresses:
+  - 00:0B:3B:00:00:00/24
+  - 30:D3:2D:00:00:00/24
+  - 88:FC:A6:00:00:00/24
+  - B8:BE:F4:00:00:00/24
+  - BC:F2:AF:00:00:00/24
+  - F4:06:8D:00:00:00/24
+  manufacturer: devolo AG
+  manufacturerUri: https://device-type.com
+  name: devolo
+type: d3-device-type-assertion

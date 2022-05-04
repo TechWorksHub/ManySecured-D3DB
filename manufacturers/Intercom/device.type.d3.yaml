@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 61b03cce-fe0b-4e6c-8a58-c73c6c62d65b
+  macAddresses:
+  - 70:B3:D5:9B:60:00/36
+  - DC:9B:1E:00:00:00/24
+  manufacturer: Intercomp S.p.A.
+  manufacturerUri: https://device-type.com
+  name: Intercom
+type: d3-device-type-assertion

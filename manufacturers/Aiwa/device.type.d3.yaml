@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0792841d-d946-4808-ac78-cbfad438e642
+  macAddresses:
+  - 00:50:71:00:00:00/24
+  - A8:01:6D:00:00:00/24
+  manufacturer: Aiwa Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Aiwa
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 145a7227-6e40-4998-a2b6-b6231fbf0ea9
+  macAddresses:
+  - 00:07:76:00:00:00/24
+  - 00:50:C2:32:50:00/36
+  - 34:00:8A:50:00:00/28
+  manufacturer: Federal APD
+  manufacturerUri: https://device-type.com
+  name: FederalA
+type: d3-device-type-assertion

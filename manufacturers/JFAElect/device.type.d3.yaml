@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 27b7a6c8-d6b5-4652-9646-b6342e0f9b59
+  macAddresses:
+  - 18:D7:93:70:00:00/28
+  - 70:B3:D5:5F:70:00/36
+  manufacturer: JFA Electronics Industry and Commerce EIRELI
+  manufacturerUri: https://device-type.com
+  name: JFAElect
+type: d3-device-type-assertion

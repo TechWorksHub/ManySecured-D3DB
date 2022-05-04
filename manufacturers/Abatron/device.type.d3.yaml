@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23cdbd26-b24b-4669-910d-3366e033545a
+  macAddresses:
+  - 00:0C:01:00:00:00/24
+  manufacturer: Abatron AG
+  manufacturerUri: https://device-type.com
+  name: Abatron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07003d1e-149c-4e0c-a129-96771ccc4a0f
+  macAddresses:
+  - 00:1D:BF:00:00:00/24
+  manufacturer: Radiient Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Radiient
+type: d3-device-type-assertion

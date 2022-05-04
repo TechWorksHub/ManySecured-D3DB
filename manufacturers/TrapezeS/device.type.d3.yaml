@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a95e8654-5fcd-4ab7-8ce3-25e02c16cfe2
+  macAddresses:
+  - 00:50:C2:42:C0:00/36
+  - 70:B3:D5:A6:60:00/36
+  - E8:6C:C7:00:00:00/28
+  manufacturer: Trapeze Software Group Inc
+  manufacturerUri: https://device-type.com
+  name: TrapezeS
+type: d3-device-type-assertion

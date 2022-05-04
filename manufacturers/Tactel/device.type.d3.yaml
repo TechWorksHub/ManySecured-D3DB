@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e703e52-36cf-4a7d-bd16-5c8b4c81c6ca
+  macAddresses:
+  - 00:06:56:00:00:00/24
+  manufacturer: Tactel AB
+  manufacturerUri: https://device-type.com
+  name: Tactel
+type: d3-device-type-assertion

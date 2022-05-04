@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e66ba247-c877-43a0-9e77-2dd960b44197
+  macAddresses:
+  - 00:04:70:00:00:00/24
+  manufacturer: ipUnplugged AB
+  manufacturerUri: https://device-type.com
+  name: ipUnplug
+type: d3-device-type-assertion

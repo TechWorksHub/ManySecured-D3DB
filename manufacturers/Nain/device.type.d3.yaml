@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f266a41-6b98-49cb-a595-6dad85571d00
+  macAddresses:
+  - F8:90:66:00:00:00/24
+  manufacturer: Nain Inc.
+  manufacturerUri: https://device-type.com
+  name: Nain
+type: d3-device-type-assertion

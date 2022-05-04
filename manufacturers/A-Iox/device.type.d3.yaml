@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ffa55b9-2bd0-4081-8a22-21909d951319
+  macAddresses:
+  - 40:ED:98:20:00:00/28
+  manufacturer: A-Iox Inc.
+  manufacturerUri: https://device-type.com
+  name: A-Iox
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5379e8b-2156-4b26-ae78-5bb770d0552f
+  macAddresses:
+  - 00:1B:72:00:00:00/24
+  manufacturer: Sicep s.p.a.
+  manufacturerUri: https://device-type.com
+  name: Sicep
+type: d3-device-type-assertion

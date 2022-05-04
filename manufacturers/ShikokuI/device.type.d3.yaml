@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0b863c77-c310-412e-887f-bcfae5296181
+  macAddresses:
+  - 00:04:1E:00:00:00/24
+  manufacturer: Shikoku Instrumentation Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: ShikokuI
+type: d3-device-type-assertion

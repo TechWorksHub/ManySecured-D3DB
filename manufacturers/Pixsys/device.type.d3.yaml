@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f873c8b-59da-49e1-ae59-e19acafdcf1a
+  macAddresses:
+  - 7C:6C:39:00:00:00/24
+  manufacturer: Pixsys Srl
+  manufacturerUri: https://device-type.com
+  name: Pixsys
+type: d3-device-type-assertion

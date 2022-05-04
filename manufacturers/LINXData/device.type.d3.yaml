@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 253bfff4-9f66-452b-b80a-d0637c196f45
+  macAddresses:
+  - 00:60:2C:00:00:00/24
+  manufacturer: LINX Data Terminals, Inc.
+  manufacturerUri: https://device-type.com
+  name: LINXData
+type: d3-device-type-assertion

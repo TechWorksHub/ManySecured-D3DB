@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4f4111b-70b8-4cda-b088-52d25abdbdaa
+  macAddresses:
+  - 00:30:9E:00:00:00/24
+  manufacturer: Workbit Corporation.
+  manufacturerUri: https://device-type.com
+  name: Workbit
+type: d3-device-type-assertion

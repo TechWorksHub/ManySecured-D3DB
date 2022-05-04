@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd42115d-9a2c-4be0-8802-29d5522212e7
+  macAddresses:
+  - 38:B1:2D:00:00:00/24
+  manufacturer: Sonotronic Nagel GmbH
+  manufacturerUri: https://device-type.com
+  name: Sonotron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64c0b7e9-ba12-44d9-8a7b-7007efbcfe66
+  macAddresses:
+  - 00:1E:A5:00:00:00/24
+  manufacturer: ROBOTOUS, Inc.
+  manufacturerUri: https://device-type.com
+  name: ROBOTOUS
+type: d3-device-type-assertion

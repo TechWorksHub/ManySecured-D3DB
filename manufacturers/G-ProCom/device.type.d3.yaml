@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d0097f4e-e20a-4d9a-a9a3-c0d1afec0cdf
+  macAddresses:
+  - 00:0F:FE:00:00:00/24
+  - 00:23:24:00:00:00/24
+  manufacturer: G-Pro Computer
+  manufacturerUri: https://device-type.com
+  name: G-ProCom
+type: d3-device-type-assertion

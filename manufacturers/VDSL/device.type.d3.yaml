@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f46c35d-b099-433d-8b43-f5184452f442
+  macAddresses:
+  - 00:02:8B:00:00:00/24
+  manufacturer: VDSL Systems OY
+  manufacturerUri: https://device-type.com
+  name: VDSL
+type: d3-device-type-assertion

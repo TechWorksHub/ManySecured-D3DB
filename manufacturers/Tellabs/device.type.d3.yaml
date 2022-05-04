@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c3aefb67-16f2-4858-9a31-70b2a71daa60
+  macAddresses:
+  - 00:30:D0:00:00:00/24
+  - 04:C0:9C:00:00:00/24
+  - 70:DD:A1:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Tellabs
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cace39af-9a47-4ea2-84ae-0d56d82c128a
+  macAddresses:
+  - 00:07:6C:00:00:00/24
+  manufacturer: Daehanet, Inc.
+  manufacturerUri: https://device-type.com
+  name: Daehanet
+type: d3-device-type-assertion

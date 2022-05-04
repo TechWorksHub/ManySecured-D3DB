@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f7725a0-fb71-414a-8779-bdb7fe03b9af
+  macAddresses:
+  - 00:02:36:00:00:00/24
+  manufacturer: INIT GmbH
+  manufacturerUri: https://device-type.com
+  name: INIT
+type: d3-device-type-assertion

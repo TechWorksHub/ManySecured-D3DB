@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 480821ce-0dc3-4ace-8d47-d06c90876c92
+  macAddresses:
+  - 00:30:6A:00:00:00/24
+  manufacturer: Penta Media Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: PentaMed
+type: d3-device-type-assertion

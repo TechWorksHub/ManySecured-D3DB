@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8606704b-6904-4621-ac60-20f62c6384fe
+  macAddresses:
+  - 00:50:C2:1B:00:00/36
+  - 00:50:C2:54:70:00/36
+  - 48:D7:FF:00:00:00/24
+  manufacturer: BLANKOM Antennentechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: BLANKOMA
+type: d3-device-type-assertion

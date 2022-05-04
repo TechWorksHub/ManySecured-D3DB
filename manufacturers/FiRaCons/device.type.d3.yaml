@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b95af4e1-f6e3-4972-9a9d-43a3cd129f68
+  macAddresses:
+  - 5A:18:FF:00:00:00/24
+  - D0:92:00:00:00:00/24
+  manufacturer: FiRa Consortium
+  manufacturerUri: https://device-type.com
+  name: FiRaCons
+type: d3-device-type-assertion

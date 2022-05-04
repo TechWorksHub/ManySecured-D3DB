@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60e7033e-dfc0-41db-b4d9-a3999be6aac9
+  macAddresses:
+  - 00:22:28:00:00:00/24
+  manufacturer: Breeze Innovations Ltd.
+  manufacturerUri: https://device-type.com
+  name: BreezeIn
+type: d3-device-type-assertion

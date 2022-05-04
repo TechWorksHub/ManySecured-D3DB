@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca071f5f-929a-4767-9697-ea546c51a09a
+  macAddresses:
+  - 6C:8C:DB:00:00:00/24
+  manufacturer: Otus Technologies Ltd
+  manufacturerUri: https://device-type.com
+  name: OtusTech
+type: d3-device-type-assertion

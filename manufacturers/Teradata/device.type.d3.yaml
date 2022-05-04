@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b565674-d8f3-4774-b125-6df7347d700a
+  macAddresses:
+  - 00:40:3D:00:00:00/24
+  manufacturer: Teradata Corporation
+  manufacturerUri: https://device-type.com
+  name: Teradata
+type: d3-device-type-assertion

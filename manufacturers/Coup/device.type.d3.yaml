@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 153f3cb0-2811-4052-ae38-8ec3504b7767
+  macAddresses:
+  - 00:07:E5:00:00:00/24
+  manufacturer: Coup Corporation
+  manufacturerUri: https://device-type.com
+  name: Coup
+type: d3-device-type-assertion

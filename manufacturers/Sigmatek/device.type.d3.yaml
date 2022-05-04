@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eaf18b1d-5aef-4199-84fd-eb9fa5c48f4d
+  macAddresses:
+  - 00:50:F4:00:00:00/24
+  manufacturer: Sigmatek Gmbh & Co. Kg
+  manufacturerUri: https://device-type.com
+  name: Sigmatek
+type: d3-device-type-assertion

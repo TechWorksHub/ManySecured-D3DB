@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 54eb7a08-4d45-4da7-aba0-909a432da1b7
+  macAddresses:
+  - B0:30:C8:00:00:00/24
+  manufacturer: Teal Drones, Inc.
+  manufacturerUri: https://device-type.com
+  name: TealDron
+type: d3-device-type-assertion

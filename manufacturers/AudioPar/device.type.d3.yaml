@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a3f5a52-e80e-499a-84cc-de69cdcd3988
+  macAddresses:
+  - 00:1F:F0:00:00:00/24
+  manufacturer: Audio Partnership
+  manufacturerUri: https://device-type.com
+  name: AudioPar
+type: d3-device-type-assertion

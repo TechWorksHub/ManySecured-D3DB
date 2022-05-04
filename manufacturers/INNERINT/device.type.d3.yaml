@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d63d93f-4a5e-4e5c-978d-98aa6e8ca2b8
+  macAddresses:
+  - 00:25:BB:00:00:00/24
+  manufacturer: INNERINT Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: INNERINT
+type: d3-device-type-assertion

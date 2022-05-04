@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 134b9edd-2968-40ad-82fc-58e1092320c0
+  macAddresses:
+  - 00:30:67:00:00:00/24
+  - B8:97:5A:00:00:00/24
+  manufacturer: BIOSTAR Microtech Int'l Corp.
+  manufacturerUri: https://device-type.com
+  name: BIOSTARM
+type: d3-device-type-assertion

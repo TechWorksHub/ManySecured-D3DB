@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6782369d-72da-41d5-bd6e-97c46f356f4e
+  macAddresses:
+  - 00:06:58:00:00:00/24
+  manufacturer: "Helmut Fischer GmbH Institut f\xFCr Elektronik und Messtechnik"
+  manufacturerUri: https://device-type.com
+  name: HelmutFi
+type: d3-device-type-assertion

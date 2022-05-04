@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 741b6254-0631-4313-a91e-6906690f888a
+  macAddresses:
+  - 00:50:C2:DA:E0:00/36
+  - 58:FC:DB:00:00:00/28
+  manufacturer: Spang Power Electronics
+  manufacturerUri: https://device-type.com
+  name: SpangPow
+type: d3-device-type-assertion

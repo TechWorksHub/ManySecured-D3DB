@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08cdc10a-1414-4e62-a7ab-6cca963da0ed
+  macAddresses:
+  - 90:50:5A:00:00:00/24
+  manufacturer: unGlue, Inc
+  manufacturerUri: https://device-type.com
+  name: unGlue
+type: d3-device-type-assertion

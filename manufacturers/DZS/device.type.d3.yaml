@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4559ee00-852c-445d-93cb-cd323e589b9d
+  macAddresses:
+  - 00:E0:DF:00:00:00/24
+  manufacturer: DZS GmbH
+  manufacturerUri: https://device-type.com
+  name: DZS
+type: d3-device-type-assertion

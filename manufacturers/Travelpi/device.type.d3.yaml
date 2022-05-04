@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 44cbee64-02e4-409c-84e5-f77efdc98e27
+  macAddresses:
+  - 00:1F:30:00:00:00/24
+  manufacturer: Travelping
+  manufacturerUri: https://device-type.com
+  name: Travelpi
+type: d3-device-type-assertion

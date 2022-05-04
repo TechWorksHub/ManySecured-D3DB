@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae7aa3d0-9a7d-48e8-9814-396b6dccce48
+  macAddresses:
+  - DC:E5:33:00:00:00/28
+  manufacturer: FLYHT Aerospace
+  manufacturerUri: https://device-type.com
+  name: FLYHTAer
+type: d3-device-type-assertion

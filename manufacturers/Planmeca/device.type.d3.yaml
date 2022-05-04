@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e9d9570f-0cba-4d98-a127-896b9ab3e84b
+  macAddresses:
+  - 00:09:21:00:00:00/24
+  manufacturer: Planmeca Oy
+  manufacturerUri: https://device-type.com
+  name: Planmeca
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cbc53ef4-652d-4767-924c-720667d970ed
+  macAddresses:
+  - 00:A0:F0:00:00:00/24
+  manufacturer: Toronto Microelectronics Inc.
+  manufacturerUri: https://device-type.com
+  name: TorontoM
+type: d3-device-type-assertion

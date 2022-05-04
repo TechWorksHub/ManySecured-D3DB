@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbe5cafb-b9f1-4402-9bdb-cb433fedc53a
+  macAddresses:
+  - 00:01:99:00:00:00/24
+  manufacturer: HeiSei Electronics
+  manufacturerUri: https://device-type.com
+  name: HeiSeiEl
+type: d3-device-type-assertion

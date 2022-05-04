@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20a9af38-25b9-4219-8e5f-22f2137eb662
+  macAddresses:
+  - 00:1C:CB:00:00:00/24
+  manufacturer: Forth Corporation Public Company Limited
+  manufacturerUri: https://device-type.com
+  name: ForthPub
+type: d3-device-type-assertion

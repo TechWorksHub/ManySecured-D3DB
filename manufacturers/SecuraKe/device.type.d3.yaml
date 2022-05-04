@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc01cbf5-6428-47ce-aac1-422383ee5bcf
+  macAddresses:
+  - 00:25:DA:00:00:00/24
+  manufacturer: Secura Key
+  manufacturerUri: https://device-type.com
+  name: SecuraKe
+type: d3-device-type-assertion

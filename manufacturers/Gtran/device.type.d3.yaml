@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fc6485f-1226-48e7-bc1d-2b888fbcf6a8
+  macAddresses:
+  - 00:1F:A1:00:00:00/24
+  manufacturer: Gtran Inc
+  manufacturerUri: https://device-type.com
+  name: Gtran
+type: d3-device-type-assertion

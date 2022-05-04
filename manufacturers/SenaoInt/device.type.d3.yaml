@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f4eeaac-72ba-4474-a46b-ee269f7ca6b8
+  macAddresses:
+  - 00:02:6F:00:00:00/24
+  manufacturer: Senao International Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SenaoInt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6300d2e7-61fb-48cf-b5b7-1e6e7c20b69b
+  macAddresses:
+  - 00:C0:A2:00:00:00/24
+  manufacturer: Intermedium A/S
+  manufacturerUri: https://device-type.com
+  name: Intermed
+type: d3-device-type-assertion

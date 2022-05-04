@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6f97a3d-6a66-4e27-8c62-657e2f25c88b
+  macAddresses:
+  - 00:0E:65:00:00:00/24
+  manufacturer: TransCore
+  manufacturerUri: https://device-type.com
+  name: TransCor
+type: d3-device-type-assertion

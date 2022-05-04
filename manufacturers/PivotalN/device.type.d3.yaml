@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51bb9c88-6db7-41ea-ac3b-1bf0cf1ed268
+  macAddresses:
+  - 00:60:20:00:00:00/24
+  manufacturer: Pivotal Networking, Inc.
+  manufacturerUri: https://device-type.com
+  name: PivotalN
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6820ede-7eca-4179-928d-b8094d56d5eb
+  macAddresses:
+  - 00:10:5B:00:00:00/24
+  manufacturer: Net Insight Ab
+  manufacturerUri: https://device-type.com
+  name: NetInsig
+type: d3-device-type-assertion

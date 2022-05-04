@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ded07df-f627-4448-bd9c-3b5415c1e3c2
+  macAddresses:
+  - 00:50:C2:B3:C0:00/36
+  manufacturer: JanasCard
+  manufacturerUri: https://device-type.com
+  name: JanasCar
+type: d3-device-type-assertion

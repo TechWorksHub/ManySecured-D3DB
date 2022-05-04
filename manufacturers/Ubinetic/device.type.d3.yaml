@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b194b257-64cf-454a-9b56-7259528d0181
+  macAddresses:
+  - 00:09:FD:00:00:00/24
+  manufacturer: Ubinetics Limited
+  manufacturerUri: https://device-type.com
+  name: Ubinetic
+type: d3-device-type-assertion

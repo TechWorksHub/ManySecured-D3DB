@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b759ca84-eba2-4f12-bcd8-05431af7e671
+  macAddresses:
+  - AA:00:00:00:00:00/24
+  - AA:00:01:00:00:00/24
+  - AA:00:02:00:00:00/24
+  manufacturer: DEC
+  manufacturerUri: https://device-type.com
+  name: DecObsol
+type: d3-device-type-assertion

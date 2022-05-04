@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 351d586b-a06d-407b-84fc-7d168554df5e
+  macAddresses:
+  - 00:50:C2:4C:40:00/36
+  - E8:61:83:00:00:00/24
+  manufacturer: Black Diamond Video, Inc.
+  manufacturerUri: https://device-type.com
+  name: BlackDia
+type: d3-device-type-assertion

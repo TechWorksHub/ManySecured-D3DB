@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 9c9e0130-0308-48ab-97a5-fa1c14cba6d5
+  macAddresses:
+  - 00:1B:C5:09:20:00/36
+  - 70:B3:D5:28:B0:00/36
+  - 70:B3:D5:83:10:00/36
+  - 70:B3:D5:DB:00:00/36
+  - B4:4B:D6:80:00:00/28
+  manufacturer: Arnouse Digital Devices, Corp.
+  manufacturerUri: https://device-type.com
+  name: ArnouseD
+type: d3-device-type-assertion

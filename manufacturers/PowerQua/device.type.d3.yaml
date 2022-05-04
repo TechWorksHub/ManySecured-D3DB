@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee376d47-548a-4e29-bceb-cd41fd12bd8f
+  macAddresses:
+  - 00:18:FF:00:00:00/24
+  manufacturer: PowerQuattro Co.
+  manufacturerUri: https://device-type.com
+  name: PowerQua
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6cbb4cdf-79cd-4beb-b6a9-4920e97b9e7d
+  macAddresses:
+  - 00:0F:5F:00:00:00/24
+  manufacturer: Nicety Technologies Inc. (NTS)
+  manufacturerUri: https://device-type.com
+  name: NicetyTe
+type: d3-device-type-assertion

@@ -1,0 +1,18 @@
+credentialSubject:
+  id: b8874abc-7d19-42ca-977c-7bb49fee2171
+  macAddresses:
+  - 00:09:37:00:00:00/24
+  - 00:14:48:00:00:00/24
+  - 00:1E:33:00:00:00/24
+  - 00:24:0E:00:00:00/24
+  - 00:26:6C:00:00:00/24
+  - 00:8C:FA:00:00:00/24
+  - 00:A0:D1:00:00:00/24
+  - 38:68:DD:00:00:00/24
+  - 7C:D3:0A:00:00:00/24
+  - 84:3A:5B:00:00:00/24
+  - F8:89:3C:00:00:00/24
+  manufacturer: Inventec Appliance Corp
+  manufacturerUri: https://device-type.com
+  name: Inventec
+type: d3-device-type-assertion

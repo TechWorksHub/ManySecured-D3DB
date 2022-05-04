@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d7f66cb-17c2-4e50-a587-9cdc2bca7695
+  macAddresses:
+  - 1C:86:AD:00:00:00/24
+  manufacturer: Mct Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Mct
+type: d3-device-type-assertion

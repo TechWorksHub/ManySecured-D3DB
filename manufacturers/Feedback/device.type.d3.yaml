@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80e24525-febe-4708-859d-4361191df213
+  macAddresses:
+  - 00:60:05:00:00:00/24
+  manufacturer: Feedback Data Ltd.
+  manufacturerUri: https://device-type.com
+  name: Feedback
+type: d3-device-type-assertion

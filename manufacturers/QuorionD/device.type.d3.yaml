@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ceb0f7e-c0ab-4bf8-9369-8e63e9e5e984
+  macAddresses:
+  - 00:16:4B:00:00:00/24
+  manufacturer: Quorion Data Systems GmbH
+  manufacturerUri: https://device-type.com
+  name: QuorionD
+type: d3-device-type-assertion

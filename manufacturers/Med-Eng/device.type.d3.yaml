@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a943e5d4-c50e-423e-8148-6c781ae78ffb
+  macAddresses:
+  - 00:1B:2D:00:00:00/24
+  manufacturer: Med-Eng Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Med-Eng
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b3ce0322-3df9-4f03-b7fd-7400e9a2318c
+  macAddresses:
+  - 00:00:32:00:00:00/24
+  - 00:A0:AD:00:00:00/24
+  - 02:20:48:00:00:00/24
+  manufacturer: Marconi plc
+  manufacturerUri: https://device-type.com
+  name: Marconi
+type: d3-device-type-assertion

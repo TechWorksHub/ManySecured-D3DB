@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd6caad4-de18-49f1-a017-d64240458748
+  macAddresses:
+  - 00:30:34:00:00:00/24
+  manufacturer: Set Engineering
+  manufacturerUri: https://device-type.com
+  name: SetEngin
+type: d3-device-type-assertion

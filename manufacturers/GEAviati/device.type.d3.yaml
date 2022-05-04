@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4dcbed27-d4f4-4f6e-89ef-34827869c8de
+  macAddresses:
+  - 00:30:2F:00:00:00/24
+  - 70:B3:D5:52:B0:00/36
+  manufacturer: GE Aviation System
+  manufacturerUri: https://device-type.com
+  name: GEAviati
+type: d3-device-type-assertion

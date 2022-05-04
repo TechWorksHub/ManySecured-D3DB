@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3b5169c4-8109-47f8-9049-6965a3de70a1
+  macAddresses:
+  - 00:50:C2:DF:30:00/36
+  - 70:B3:D5:50:80:00/36
+  - 8C:1F:64:41:40:00/36
+  manufacturer: INSEVIS GmbH
+  manufacturerUri: https://device-type.com
+  name: INSEVIS
+type: d3-device-type-assertion

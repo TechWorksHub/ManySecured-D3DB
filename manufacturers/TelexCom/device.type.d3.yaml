@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16493fd0-e86a-4e74-9da3-c5ec5c1eb3ca
+  macAddresses:
+  - 00:0B:7C:00:00:00/24
+  manufacturer: Telex Communications
+  manufacturerUri: https://device-type.com
+  name: TelexCom
+type: d3-device-type-assertion

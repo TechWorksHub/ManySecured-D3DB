@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a023a9c3-9b06-44cc-8739-384fec139f4e
+  macAddresses:
+  - 00:1C:6B:00:00:00/24
+  manufacturer: COVAX Co. Ltd
+  manufacturerUri: https://device-type.com
+  name: COVAX
+type: d3-device-type-assertion

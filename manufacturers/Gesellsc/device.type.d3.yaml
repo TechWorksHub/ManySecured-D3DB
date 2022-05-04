@@ -1,0 +1,10 @@
+credentialSubject:
+  id: df598dee-fffa-4294-9a71-c83462239322
+  macAddresses:
+  - 00:50:C2:52:F0:00/36
+  - 38:B1:9E:C0:00:00/28
+  - 8C:70:86:00:00:00/24
+  manufacturer: "Gesellschaft f\xFCr Rationalisierung und Rechentechnik mbH"
+  manufacturerUri: https://device-type.com
+  name: Gesellsc
+type: d3-device-type-assertion

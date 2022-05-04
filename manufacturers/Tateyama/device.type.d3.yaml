@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21e42e46-9ad6-4c8b-ad79-d48e5c985bb5
+  macAddresses:
+  - 00:03:3E:00:00:00/24
+  manufacturer: Tateyama System Laboratory Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Tateyama
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1aef8600-4bf3-481a-ba81-839bbeda8129
+  macAddresses:
+  - 00:50:C2:BA:D0:00/36
+  manufacturer: Prediktor AS
+  manufacturerUri: https://device-type.com
+  name: Predikto
+type: d3-device-type-assertion

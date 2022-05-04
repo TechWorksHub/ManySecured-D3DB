@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 7705caef-6c93-4c21-bd8d-db196d2e2420
+  macAddresses:
+  - 00:12:2A:00:00:00/24
+  - 14:AE:DB:00:00:00/24
+  - A4:97:5C:00:00:00/24
+  - C4:68:D0:00:00:00/24
+  manufacturer: VTech Telecommunications Ltd.
+  manufacturerUri: https://device-type.com
+  name: VTechTel
+type: d3-device-type-assertion

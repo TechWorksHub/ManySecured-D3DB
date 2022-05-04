@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c1e0e164-4beb-4c3f-8bc2-2c7b5ebcf62a
+  macAddresses:
+  - 00:20:6C:00:00:00/24
+  - 00:40:7E:00:00:00/24
+  manufacturer: Evergreen Technology Corp.
+  manufacturerUri: https://device-type.com
+  name: Evergree
+type: d3-device-type-assertion

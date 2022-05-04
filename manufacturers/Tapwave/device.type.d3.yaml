@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c965e97-adad-4869-ae5d-0046dade1e10
+  macAddresses:
+  - 00:0D:85:00:00:00/24
+  manufacturer: Tapwave, Inc.
+  manufacturerUri: https://device-type.com
+  name: Tapwave
+type: d3-device-type-assertion

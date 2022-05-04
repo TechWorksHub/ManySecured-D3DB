@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9866638b-34aa-458f-90de-65967eb2be93
+  macAddresses:
+  - 00:11:05:00:00:00/24
+  - 1C:50:1E:00:00:00/24
+  - FC:4B:BC:00:00:00/24
+  manufacturer: Sunplus Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SunplusT
+type: d3-device-type-assertion

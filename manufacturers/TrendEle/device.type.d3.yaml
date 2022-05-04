@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc2d2464-9d41-4e4b-8a3f-d0d017de962a
+  macAddresses:
+  - 00:23:A1:00:00:00/24
+  - 2C:18:AE:00:00:00/24
+  manufacturer: Trend Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: TrendEle
+type: d3-device-type-assertion

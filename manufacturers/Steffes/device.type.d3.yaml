@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 107b58ee-d90c-4371-91cc-f9e43089c72b
+  macAddresses:
+  - 50:D2:74:00:00:00/24
+  manufacturer: Steffes Corporation
+  manufacturerUri: https://device-type.com
+  name: Steffes
+type: d3-device-type-assertion

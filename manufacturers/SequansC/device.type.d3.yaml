@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99254f70-62a6-4c80-93df-8fc1973ee305
+  macAddresses:
+  - 00:16:08:00:00:00/24
+  manufacturer: Sequans Communications
+  manufacturerUri: https://device-type.com
+  name: SequansC
+type: d3-device-type-assertion

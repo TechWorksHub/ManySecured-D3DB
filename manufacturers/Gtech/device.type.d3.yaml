@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8898a9e-e317-49d5-9499-ca3c486a97e4
+  macAddresses:
+  - 00:20:EE:00:00:00/24
+  manufacturer: Gtech Corporation
+  manufacturerUri: https://device-type.com
+  name: Gtech
+type: d3-device-type-assertion

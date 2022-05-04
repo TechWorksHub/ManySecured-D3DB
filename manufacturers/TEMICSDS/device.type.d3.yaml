@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dcacf5d-43b8-468d-8e88-ca13b06781ee
+  macAddresses:
+  - 00:0E:9F:00:00:00/24
+  manufacturer: TEMIC SDS GmbH
+  manufacturerUri: https://device-type.com
+  name: TEMICSDS
+type: d3-device-type-assertion

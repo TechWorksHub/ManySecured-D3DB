@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c26a61d0-5cae-493a-9ffa-97fd9cc9a0d0
+  macAddresses:
+  - 00:1E:F2:00:00:00/24
+  manufacturer: Micro Motion Inc
+  manufacturerUri: https://device-type.com
+  name: MicroMot
+type: d3-device-type-assertion

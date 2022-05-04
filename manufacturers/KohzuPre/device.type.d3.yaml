@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5c16eab-3405-4a32-8838-2e82039e4b5b
+  macAddresses:
+  - AC:C6:98:00:00:00/24
+  manufacturer: Kohzu Precision Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KohzuPre
+type: d3-device-type-assertion

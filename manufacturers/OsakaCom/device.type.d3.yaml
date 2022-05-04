@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 19d4aba9-5034-4fb6-bb0a-d7acd7d88d07
+  macAddresses:
+  - 00:20:6A:00:00:00/24
+  manufacturer: Osaka Computer Corp.
+  manufacturerUri: https://device-type.com
+  name: OsakaCom
+type: d3-device-type-assertion

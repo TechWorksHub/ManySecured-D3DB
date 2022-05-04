@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cf13c50-b2d8-400c-bf96-2985c6aadde8
+  macAddresses:
+  - 00:22:FF:00:00:00/24
+  manufacturer: Nivis Llc
+  manufacturerUri: https://device-type.com
+  name: Nivis
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22ad8ccf-26a5-471c-8860-c3de485a8277
+  macAddresses:
+  - 44:11:C2:00:00:00/24
+  manufacturer: Telegartner Karl Gartner GmbH
+  manufacturerUri: https://device-type.com
+  name: Telegart
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c38e4728-f3b2-4a52-b8bd-ca4092a34b3a
+  macAddresses:
+  - 00:50:C2:93:00:00/36
+  - 70:B3:D5:C7:80:00/36
+  manufacturer: NETA Elektronik AS
+  manufacturerUri: https://device-type.com
+  name: NETAElek
+type: d3-device-type-assertion

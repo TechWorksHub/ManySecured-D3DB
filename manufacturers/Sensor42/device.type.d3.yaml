@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4012c3b2-fa31-4cff-9122-b64dd9bdb4e3
+  macAddresses:
+  - 70:B3:D5:BF:B0:00/36
+  manufacturer: Sensor 42
+  manufacturerUri: https://device-type.com
+  name: Sensor42
+type: d3-device-type-assertion

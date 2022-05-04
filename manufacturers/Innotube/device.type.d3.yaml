@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 400bcbcd-23a5-4d23-93f7-a7b0b521c805
+  macAddresses:
+  - A4:A1:E4:00:00:00/24
+  manufacturer: Innotube, Inc.
+  manufacturerUri: https://device-type.com
+  name: Innotube
+type: d3-device-type-assertion

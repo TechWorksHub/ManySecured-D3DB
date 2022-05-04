@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c26b2c4d-d9b5-4fc3-9d5a-527e0cf6cd7f
+  macAddresses:
+  - 00:19:F2:00:00:00/24
+  - 00:50:C2:18:B0:00/36
+  manufacturer: Teradyne K.K.
+  manufacturerUri: https://device-type.com
+  name: Teradyne
+type: d3-device-type-assertion

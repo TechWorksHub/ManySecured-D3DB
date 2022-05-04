@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfa4fe81-1a7c-4fda-8417-75f8d3c33aee
+  macAddresses:
+  - 40:60:5A:00:00:00/24
+  manufacturer: Hawkeye Tech Co. Ltd
+  manufacturerUri: https://device-type.com
+  name: HawkeyeT
+type: d3-device-type-assertion

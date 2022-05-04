@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4a2099b3-8666-4a2b-b352-4b992dce0639
+  macAddresses:
+  - 04:FE:A1:00:00:00/24
+  - 40:EF:4C:00:00:00/24
+  - 7C:96:D2:00:00:00/24
+  manufacturer: Fihonest communication co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Fihonest
+type: d3-device-type-assertion

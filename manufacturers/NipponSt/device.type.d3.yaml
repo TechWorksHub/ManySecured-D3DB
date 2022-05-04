@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 84522a63-6b7d-4b62-a441-5ec09ad4cc30
+  macAddresses:
+  - 00:80:6E:00:00:00/24
+  manufacturer: Nippon Steel Corporation
+  manufacturerUri: https://device-type.com
+  name: NipponSt
+type: d3-device-type-assertion

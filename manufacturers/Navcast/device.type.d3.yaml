@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9a5547b-c668-40ad-92d4-b9fedeb41d5e
+  macAddresses:
+  - 00:18:9D:00:00:00/24
+  manufacturer: Navcast Inc.
+  manufacturerUri: https://device-type.com
+  name: Navcast
+type: d3-device-type-assertion

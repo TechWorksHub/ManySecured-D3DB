@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c77423b-65fa-4777-884c-eb06956c6d59
+  macAddresses:
+  - 00:40:21:00:00:00/24
+  manufacturer: Raster Graphics
+  manufacturerUri: https://device-type.com
+  name: RasterGr
+type: d3-device-type-assertion

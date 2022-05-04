@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af4f3e2d-84d8-43cd-bf93-4352fe3c4374
+  macAddresses:
+  - 00:24:55:00:00:00/24
+  manufacturer: MuLogic BV
+  manufacturerUri: https://device-type.com
+  name: MuLogic
+type: d3-device-type-assertion

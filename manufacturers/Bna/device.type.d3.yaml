@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad0e7307-0f6a-4d9c-9062-cd60d658661f
+  macAddresses:
+  - 00:01:3B:00:00:00/24
+  manufacturer: Bna Systems
+  manufacturerUri: https://device-type.com
+  name: Bna
+type: d3-device-type-assertion

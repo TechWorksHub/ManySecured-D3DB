@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e194ef29-664a-4e97-b530-10751d5d56ad
+  macAddresses:
+  - 00:60:71:00:00:00/24
+  manufacturer: Midas Lab, Inc.
+  manufacturerUri: https://device-type.com
+  name: MidasLab
+type: d3-device-type-assertion

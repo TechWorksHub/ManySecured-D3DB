@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 49bafcbe-9813-433e-85f9-4eb66823c451
+  macAddresses:
+  - 00:12:64:00:00:00/24
+  manufacturer: daum electronic gmbh
+  manufacturerUri: https://device-type.com
+  name: daumelec
+type: d3-device-type-assertion

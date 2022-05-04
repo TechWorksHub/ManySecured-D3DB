@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a89e7470-b4b8-4c8b-bcec-445fb0bc90d1
+  macAddresses:
+  - 00:0E:C2:00:00:00/24
+  manufacturer: Lowrance Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Lowrance
+type: d3-device-type-assertion

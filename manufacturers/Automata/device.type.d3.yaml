@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 6ce360f4-5625-418e-9c49-20780f7f2a2b
+  macAddresses:
+  - 00:50:C2:5D:00:00/36
+  - 70:B3:D5:19:D0:00/36
+  - 70:B3:D5:1F:90:00/36
+  - 70:B3:D5:57:C0:00/36
+  - 70:B3:D5:E1:40:00/36
+  - 8C:1F:64:11:80:00/36
+  manufacturer: Automata Spa
+  manufacturerUri: https://device-type.com
+  name: Automata
+type: d3-device-type-assertion

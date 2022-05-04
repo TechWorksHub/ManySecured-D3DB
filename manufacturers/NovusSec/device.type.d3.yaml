@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25c19718-6e72-47bb-8cdc-1ef928db552c
+  macAddresses:
+  - 00:1B:9D:00:00:00/24
+  manufacturer: Novus Security Sp. z o.o.
+  manufacturerUri: https://device-type.com
+  name: NovusSec
+type: d3-device-type-assertion

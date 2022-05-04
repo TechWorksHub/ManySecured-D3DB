@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a00c203-210d-49d0-a957-3815cfce857d
+  macAddresses:
+  - 00:C0:01:00:00:00/24
+  manufacturer: Diatek Patient Managment
+  manufacturerUri: https://device-type.com
+  name: DiatekPa
+type: d3-device-type-assertion

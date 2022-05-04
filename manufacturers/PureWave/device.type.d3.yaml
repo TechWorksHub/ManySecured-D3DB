@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8edacf57-7aed-4c51-a68d-b18faf1d4f73
+  macAddresses:
+  - 00:1D:8F:00:00:00/24
+  manufacturer: PureWave Networks
+  manufacturerUri: https://device-type.com
+  name: PureWave
+type: d3-device-type-assertion

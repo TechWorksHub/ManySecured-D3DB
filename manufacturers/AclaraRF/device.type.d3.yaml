@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a0ec4e2-25d1-496a-903d-ff1960e3b8b6
+  macAddresses:
+  - 00:19:2B:00:00:00/24
+  manufacturer: Aclara RF Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: AclaraRF
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3e849a1-911f-4ec0-b31b-537b2f407745
+  macAddresses:
+  - 00:50:D8:00:00:00/24
+  manufacturer: Unicorn Computer Corp.
+  manufacturerUri: https://device-type.com
+  name: UnicornC
+type: d3-device-type-assertion

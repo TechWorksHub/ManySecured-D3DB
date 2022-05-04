@@ -1,0 +1,12 @@
+credentialSubject:
+  id: e46ff0e7-a3ad-4036-ba19-0c41f149abb4
+  macAddresses:
+  - 54:F8:2A:00:00:00/24
+  - 60:09:C3:00:00:00/24
+  - 6C:1D:EB:00:00:00/24
+  - CC:F9:57:00:00:00/24
+  - D4:CA:6E:00:00:00/24
+  manufacturer: u-blox AG
+  manufacturerUri: https://device-type.com
+  name: u-blox
+type: d3-device-type-assertion

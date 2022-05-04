@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46a0b8a1-449c-4245-bc73-0c623d6c02bd
+  macAddresses:
+  - 00:30:FE:00:00:00/24
+  manufacturer: DSA GmbH
+  manufacturerUri: https://device-type.com
+  name: DSA
+type: d3-device-type-assertion

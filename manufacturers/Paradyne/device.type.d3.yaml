@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03a88947-9715-4bd7-b26b-24ddc5a88086
+  macAddresses:
+  - 00:E0:39:00:00:00/24
+  manufacturer: Paradyne 7112 T1 DSU/CSU
+  manufacturerUri: https://device-type.com
+  name: Paradyne
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed64fd01-5dc5-40b2-8b2a-ae460c80e27b
+  macAddresses:
+  - AC:F9:7E:00:00:00/24
+  manufacturer: Elesys Inc.
+  manufacturerUri: https://device-type.com
+  name: Elesys
+type: d3-device-type-assertion

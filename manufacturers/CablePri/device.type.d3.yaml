@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eccad164-2df4-4376-a2e3-ca37f37b40f1
+  macAddresses:
+  - 00:01:41:00:00:00/24
+  manufacturer: Cable Print
+  manufacturerUri: https://device-type.com
+  name: CablePri
+type: d3-device-type-assertion

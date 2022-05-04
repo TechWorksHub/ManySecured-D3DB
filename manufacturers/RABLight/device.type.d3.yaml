@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d4d46262-ee7e-43e5-a48b-a5fe291faa4a
+  macAddresses:
+  - 78:1F:11:00:00:00/24
+  manufacturer: RAB Lighting
+  manufacturerUri: https://device-type.com
+  name: RABLight
+type: d3-device-type-assertion

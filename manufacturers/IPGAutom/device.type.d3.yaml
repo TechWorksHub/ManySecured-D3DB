@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68daba7f-e4e7-4bc6-a163-534c43ab2e8a
+  macAddresses:
+  - C0:61:9A:60:00:00/28
+  manufacturer: IPG Automotive GmbH
+  manufacturerUri: https://device-type.com
+  name: IPGAutom
+type: d3-device-type-assertion

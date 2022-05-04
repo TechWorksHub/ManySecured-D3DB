@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a039895a-8f8d-40ea-ad2e-16c395f35707
+  macAddresses:
+  - 00:50:C2:2A:30:00/36
+  - 00:50:C2:EB:A0:00/36
+  - 70:B3:D5:AA:80:00/36
+  manufacturer: West-Com Nurse Call Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: West-Com
+type: d3-device-type-assertion

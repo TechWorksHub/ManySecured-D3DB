@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba7c9366-ca55-42f6-b998-6298aeff2141
+  macAddresses:
+  - 18:2A:44:00:00:00/24
+  manufacturer: Hirose Electronic System
+  manufacturerUri: https://device-type.com
+  name: HiroseEl
+type: d3-device-type-assertion

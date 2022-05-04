@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77380b21-ee96-4bd6-ac17-286a94e9b672
+  macAddresses:
+  - 00:00:D8:00:00:00/24
+  manufacturer: old Novell NE1000's (before about 1987?) (also 3Com)
+  manufacturerUri: https://device-type.com
+  name: OldNovel
+type: d3-device-type-assertion

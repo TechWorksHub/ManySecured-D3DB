@@ -1,0 +1,8 @@
+credentialSubject:
+  id: deb2b2d7-e871-4fbb-8488-def68d489b8d
+  macAddresses:
+  - 00:30:51:00:00:00/24
+  manufacturer: Orbit Avionic & Communication
+  manufacturerUri: https://device-type.com
+  name: OrbitAvi
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 1691a00e-c2b1-4411-8a74-56c535eb16a6
+  macAddresses:
+  - 00:12:B6:00:00:00/24
+  - 00:50:C2:AA:F0:00/36
+  - 70:B3:D5:44:60:00/36
+  - 70:B3:D5:4E:60:00/36
+  manufacturer: Santa Barbara Infrared, Inc.
+  manufacturerUri: https://device-type.com
+  name: SantaBar
+type: d3-device-type-assertion

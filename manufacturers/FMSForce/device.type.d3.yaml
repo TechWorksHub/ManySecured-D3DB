@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 065ff0c9-7198-429d-ad2b-18b102437121
+  macAddresses:
+  - 00:1F:88:00:00:00/24
+  manufacturer: FMS Force Measuring Systems AG
+  manufacturerUri: https://device-type.com
+  name: FMSForce
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5e99030-accb-4548-a341-ef7baf0ebdb8
+  macAddresses:
+  - 08:00:6B:00:00:00/24
+  manufacturer: Accel Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: AccelTec
+type: d3-device-type-assertion

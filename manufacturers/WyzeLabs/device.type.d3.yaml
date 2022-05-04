@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 3f73554f-d156-4250-b83f-d757e764f574
+  macAddresses:
+  - 2C:AA:8E:00:00:00/24
+  - 7C:78:B2:00:00:00/24
+  - A4:DA:22:20:00:00/28
+  - D0:3F:27:00:00:00/24
+  manufacturer: Wyze Labs Inc
+  manufacturerUri: https://device-type.com
+  name: WyzeLabs
+type: d3-device-type-assertion

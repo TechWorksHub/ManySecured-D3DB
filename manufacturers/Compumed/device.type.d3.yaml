@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 529c290b-3ed3-4bbd-955e-97a467248854
+  macAddresses:
+  - 00:22:29:00:00:00/24
+  manufacturer: Compumedics Ltd
+  manufacturerUri: https://device-type.com
+  name: Compumed
+type: d3-device-type-assertion

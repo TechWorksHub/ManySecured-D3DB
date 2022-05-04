@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89d0c6f2-c5c4-4ca8-a7c0-8af5ac921f96
+  macAddresses:
+  - 00:21:C0:00:00:00/24
+  manufacturer: Mobile Appliance, Inc.
+  manufacturerUri: https://device-type.com
+  name: MobileAp
+type: d3-device-type-assertion

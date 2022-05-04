@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb06b1ea-66a5-4f18-9cb0-3843b7d65cd6
+  macAddresses:
+  - FC:9A:FA:00:00:00/24
+  manufacturer: Motus Global Inc.
+  manufacturerUri: https://device-type.com
+  name: MotusGlo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 284dc72d-623a-40c4-9422-090856df3599
+  macAddresses:
+  - D8:F0:F2:00:00:00/24
+  manufacturer: Zeebo Inc
+  manufacturerUri: https://device-type.com
+  name: Zeebo
+type: d3-device-type-assertion

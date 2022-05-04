@@ -1,0 +1,8 @@
+credentialSubject:
+  id: addc35e0-af65-4d16-8c8d-5c7a709aad45
+  macAddresses:
+  - 00:60:78:00:00:00/24
+  manufacturer: Power Measurement Ltd.
+  manufacturerUri: https://device-type.com
+  name: PowerMea
+type: d3-device-type-assertion

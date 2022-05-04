@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e05672ac-7bec-4dbe-a890-2a8ff246bd41
+  macAddresses:
+  - 60:C0:BF:00:00:00/24
+  manufacturer: ON Semiconductor
+  manufacturerUri: https://device-type.com
+  name: ONSemico
+type: d3-device-type-assertion

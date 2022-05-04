@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6b1b520a-7dd9-42be-9355-72c0389e09ae
+  macAddresses:
+  - 34:04:9E:30:00:00/28
+  - 70:B3:D5:75:D0:00/36
+  - D0:C8:57:80:00:00/28
+  - F4:63:E7:00:00:00/24
+  manufacturer: Nanjing Mythware Information Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NanjingM
+type: d3-device-type-assertion

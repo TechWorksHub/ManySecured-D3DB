@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8b7d5904-bc4d-40ba-8321-fcc65554f7ce
+  macAddresses:
+  - 00:50:C2:F5:E0:00/36
+  - 8C:AE:89:00:00:00/24
+  manufacturer: Y-cam Solutions Ltd
+  manufacturerUri: https://device-type.com
+  name: Y-camSol
+type: d3-device-type-assertion

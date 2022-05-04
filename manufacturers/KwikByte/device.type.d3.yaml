@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb1666d0-6353-4195-ad3b-292e904c7057
+  macAddresses:
+  - 00:1E:5F:00:00:00/24
+  manufacturer: KwikByte, LLC
+  manufacturerUri: https://device-type.com
+  name: KwikByte
+type: d3-device-type-assertion

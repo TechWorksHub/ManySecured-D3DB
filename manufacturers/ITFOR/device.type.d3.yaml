@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1185e070-8d10-49f6-8a6e-900bd962e447
+  macAddresses:
+  - 00:0D:FC:00:00:00/24
+  manufacturer: ITFOR Inc.
+  manufacturerUri: https://device-type.com
+  name: ITFOR
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f46d707-63f1-431a-9777-93f9932d6fdf
+  macAddresses:
+  - 00:0E:9E:00:00:00/24
+  manufacturer: Topfield Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Topfield
+type: d3-device-type-assertion

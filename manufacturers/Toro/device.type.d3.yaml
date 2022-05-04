@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5f59863-42d7-44c8-aeb1-23300b27da7d
+  macAddresses:
+  - 00:24:09:00:00:00/24
+  manufacturer: The Toro Company
+  manufacturerUri: https://device-type.com
+  name: Toro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfa372d0-2ccd-4415-8819-323b4f490571
+  macAddresses:
+  - 00:1D:CB:00:00:00/24
+  manufacturer: "Ex\xE9ns Development Oy"
+  manufacturerUri: https://device-type.com
+  name: "Ex\xE9nsDev"
+type: d3-device-type-assertion

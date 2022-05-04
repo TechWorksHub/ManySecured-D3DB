@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12d6f718-13a7-49ff-a059-374f3d68d73d
+  macAddresses:
+  - 00:30:45:00:00:00/24
+  manufacturer: Village Networks, Inc. (VNI)
+  manufacturerUri: https://device-type.com
+  name: VillageN
+type: d3-device-type-assertion

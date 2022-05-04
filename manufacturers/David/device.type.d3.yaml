@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa1c6e55-bf82-4b68-9ee4-2e1978a30de7
+  macAddresses:
+  - 08:00:44:00:00:00/24
+  manufacturer: David Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: David
+type: d3-device-type-assertion

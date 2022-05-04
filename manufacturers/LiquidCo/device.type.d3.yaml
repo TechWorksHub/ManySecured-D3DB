@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbb5de9c-8ca5-4a1d-acfb-105a07601f49
+  macAddresses:
+  - 00:17:25:00:00:00/24
+  manufacturer: Liquid Computing
+  manufacturerUri: https://device-type.com
+  name: LiquidCo
+type: d3-device-type-assertion

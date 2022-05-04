@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 94aaaa20-976f-47c1-a491-1899e98cd4d5
+  macAddresses:
+  - 00:40:09:00:00:00/24
+  manufacturer: Tachibana Tectron Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Tachiban
+type: d3-device-type-assertion

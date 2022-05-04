@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0176eca7-cce7-4762-8edd-c52e78ae0c60
+  macAddresses:
+  - 00:0E:19:00:00:00/24
+  manufacturer: LogicaCMG Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: LogicaCM
+type: d3-device-type-assertion

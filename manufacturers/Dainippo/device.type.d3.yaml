@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b0a86f26-0249-4783-8571-b5ddf53e7c31
+  macAddresses:
+  - 00:15:5A:00:00:00/24
+  - 00:D0:19:00:00:00/24
+  manufacturer: Dainippon Pharmaceutical Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Dainippo
+type: d3-device-type-assertion

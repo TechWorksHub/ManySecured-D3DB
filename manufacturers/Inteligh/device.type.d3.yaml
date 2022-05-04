@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fc32dc94-2120-4773-a5ac-a57bf369441c
+  macAddresses:
+  - 00:50:C2:81:60:00/36
+  - 64:55:63:00:00:00/24
+  manufacturer: Intelight Inc.
+  manufacturerUri: https://device-type.com
+  name: Inteligh
+type: d3-device-type-assertion

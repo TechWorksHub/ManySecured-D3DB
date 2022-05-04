@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2884f94d-7a74-40f6-8832-67fae7685a06
+  macAddresses:
+  - 00:1B:AC:00:00:00/24
+  manufacturer: Curtiss Wright Controls Embedded Computing
+  manufacturerUri: https://device-type.com
+  name: CurtissW
+type: d3-device-type-assertion

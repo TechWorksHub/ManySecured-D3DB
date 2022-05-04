@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4caa594-726a-4224-b9f0-9e5516179a52
+  macAddresses:
+  - 00:50:C2:9F:70:00/36
+  manufacturer: Dave Jones Design
+  manufacturerUri: https://device-type.com
+  name: DaveJone
+type: d3-device-type-assertion

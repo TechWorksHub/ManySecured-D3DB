@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a0258582-ca32-4047-9406-3f021c4534c3
+  macAddresses:
+  - 30:F7:7F:00:00:00/24
+  - 50:A8:3A:00:00:00/24
+  manufacturer: S Mobile Devices Limited
+  manufacturerUri: https://device-type.com
+  name: SMobileD
+type: d3-device-type-assertion

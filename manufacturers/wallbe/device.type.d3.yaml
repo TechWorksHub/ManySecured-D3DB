@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2655ba27-cf00-4916-b1a4-c7c7b3ec0e1c
+  macAddresses:
+  - 70:B3:D5:07:B0:00/36
+  - 70:B3:D5:54:30:00/36
+  - D0:5F:64:40:00:00/28
+  manufacturer: wallbe GmbH
+  manufacturerUri: https://device-type.com
+  name: wallbe
+type: d3-device-type-assertion

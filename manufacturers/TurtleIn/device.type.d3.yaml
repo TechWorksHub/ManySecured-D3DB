@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 228bde22-789e-4e6c-b6c9-f17f2cebfe56
+  macAddresses:
+  - 1C:F5:E7:00:00:00/24
+  manufacturer: Turtle Industry Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: TurtleIn
+type: d3-device-type-assertion

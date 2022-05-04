@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d47c2df7-1ccd-4270-aa69-bc1bea89377c
+  macAddresses:
+  - 00:06:1F:00:00:00/24
+  - 00:50:C2:DD:C0:00/36
+  manufacturer: Vision Components GmbH
+  manufacturerUri: https://device-type.com
+  name: VisionCo
+type: d3-device-type-assertion

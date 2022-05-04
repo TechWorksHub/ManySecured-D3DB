@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff926f98-7351-466c-af60-16f62a8b8179
+  macAddresses:
+  - 00:20:9B:00:00:00/24
+  manufacturer: Ersat Electronic Gmbh
+  manufacturerUri: https://device-type.com
+  name: ErsatEle
+type: d3-device-type-assertion

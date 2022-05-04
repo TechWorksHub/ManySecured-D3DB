@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 79cc2634-7c39-444c-ad4d-b0f1f7930384
+  macAddresses:
+  - 00:02:31:00:00:00/24
+  manufacturer: Ingersoll-Rand
+  manufacturerUri: https://device-type.com
+  name: Ingersol
+type: d3-device-type-assertion

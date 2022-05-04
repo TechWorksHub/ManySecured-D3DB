@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e42ea12e-7bc5-4a6d-9b77-51ae65100917
+  macAddresses:
+  - 00:15:51:00:00:00/24
+  manufacturer: RadioPulse Inc.
+  manufacturerUri: https://device-type.com
+  name: RadioPul
+type: d3-device-type-assertion

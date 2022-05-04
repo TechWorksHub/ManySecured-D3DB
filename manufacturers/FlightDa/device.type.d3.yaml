@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 48d1d3fa-c0bc-4eb0-ab3f-22cb6a5c4104
+  macAddresses:
+  - 00:50:C2:A1:F0:00/36
+  - C8:D5:90:00:00:00/24
+  manufacturer: Flight Data Systems Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: FlightDa
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 18541b0d-4754-4acb-aeae-130f0c5fff1c
+  macAddresses:
+  - 00:50:C2:AC:20:00/36
+  - 08:FC:52:00:00:00/24
+  manufacturer: OpenXS B.V.
+  manufacturerUri: https://device-type.com
+  name: OpenXS
+type: d3-device-type-assertion

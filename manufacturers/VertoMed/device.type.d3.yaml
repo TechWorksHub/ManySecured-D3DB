@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7ce9500-9360-4195-908c-491541baae80
+  macAddresses:
+  - D0:69:D0:00:00:00/24
+  manufacturer: Verto Medical Solutions, LLC
+  manufacturerUri: https://device-type.com
+  name: VertoMed
+type: d3-device-type-assertion

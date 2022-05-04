@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cbde50a8-3468-441e-bea6-1996463a775d
+  macAddresses:
+  - 00:0B:C3:00:00:00/24
+  - 70:B3:D5:55:80:00/36
+  manufacturer: Multiplex, Inc.
+  manufacturerUri: https://device-type.com
+  name: Multiple
+type: d3-device-type-assertion

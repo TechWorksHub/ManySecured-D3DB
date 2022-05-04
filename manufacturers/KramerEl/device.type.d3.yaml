@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6be27a45-9861-490a-8081-6f8548183bd9
+  macAddresses:
+  - 00:1D:56:00:00:00/24
+  - 00:50:C2:35:90:00/36
+  manufacturer: Kramer Electronics Ltd.
+  manufacturerUri: https://device-type.com
+  name: KramerEl
+type: d3-device-type-assertion

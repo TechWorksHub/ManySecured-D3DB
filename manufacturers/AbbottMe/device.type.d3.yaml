@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c88339a4-03cc-4a88-8f13-fcfc697543b1
+  macAddresses:
+  - 00:50:C2:B1:E0:00/36
+  - 1C:C0:E1:20:00:00/28
+  - 70:B3:D5:94:30:00/36
+  manufacturer: Abbott Medical Optics
+  manufacturerUri: https://device-type.com
+  name: AbbottMe
+type: d3-device-type-assertion

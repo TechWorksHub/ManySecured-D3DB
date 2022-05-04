@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1866e94a-cb2b-40c0-85f9-bbfc2fb7bb6d
+  macAddresses:
+  - 00:8C:10:00:00:00/24
+  manufacturer: Black Box Corp.
+  manufacturerUri: https://device-type.com
+  name: BlackBox
+type: d3-device-type-assertion

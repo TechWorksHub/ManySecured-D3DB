@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba913057-5488-45f9-9370-20fb00bda792
+  macAddresses:
+  - 74:DB:D1:00:00:00/24
+  manufacturer: Ebay Inc
+  manufacturerUri: https://device-type.com
+  name: Ebay
+type: d3-device-type-assertion

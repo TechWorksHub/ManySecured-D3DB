@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42f16967-d87d-4907-8bb7-04bc02878690
+  macAddresses:
+  - 18:66:E3:00:00:00/24
+  manufacturer: Veros Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Veros
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e59bdf49-77c0-4fdf-8dfd-7016d08cb9ae
+  macAddresses:
+  - 30:15:18:00:00:00/24
+  - 6C:5E:7A:00:00:00/24
+  - 9C:B0:08:00:00:00/24
+  manufacturer: Ubiquitous Communication Co. ltd.
+  manufacturerUri: https://device-type.com
+  name: Ubiquito
+type: d3-device-type-assertion

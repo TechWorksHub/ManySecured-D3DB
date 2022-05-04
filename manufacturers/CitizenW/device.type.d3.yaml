@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d98760aa-6657-47fa-9f19-f289d7350eae
+  macAddresses:
+  - 00:0C:AC:00:00:00/24
+  manufacturer: Citizen Watch Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: CitizenW
+type: d3-device-type-assertion

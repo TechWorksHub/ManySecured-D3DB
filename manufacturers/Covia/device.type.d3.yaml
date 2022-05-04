@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 086bc31e-06ff-41c8-af37-f975e924d7e2
+  macAddresses:
+  - 00:24:6B:00:00:00/24
+  - 00:50:C2:1F:40:00/36
+  manufacturer: Covia, Inc.
+  manufacturerUri: https://device-type.com
+  name: Covia
+type: d3-device-type-assertion

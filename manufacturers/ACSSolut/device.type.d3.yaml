@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 658f8bce-c0d4-463c-a91f-58b071d60331
+  macAddresses:
+  - 00:17:5B:00:00:00/24
+  - 00:1E:E4:00:00:00/24
+  manufacturer: ACS Solutions Switzerland Ltd.
+  manufacturerUri: https://device-type.com
+  name: ACSSolut
+type: d3-device-type-assertion

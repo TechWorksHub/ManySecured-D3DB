@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 96ee2d11-2ed0-41d7-8fff-63325cf8ac7e
+  macAddresses:
+  - 00:18:29:00:00:00/24
+  manufacturer: Gatsometer
+  manufacturerUri: https://device-type.com
+  name: Gatsomet
+type: d3-device-type-assertion

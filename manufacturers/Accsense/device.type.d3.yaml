@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93cf1d65-24dd-41bf-aec1-5e61d636e370
+  macAddresses:
+  - 00:14:A0:00:00:00/24
+  manufacturer: Accsense, Inc.
+  manufacturerUri: https://device-type.com
+  name: Accsense
+type: d3-device-type-assertion

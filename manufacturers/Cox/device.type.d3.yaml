@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6884edc-f32e-49b1-a1bc-d332bec3ecd8
+  macAddresses:
+  - 60:3F:C5:00:00:00/24
+  manufacturer: Cox Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Cox
+type: d3-device-type-assertion

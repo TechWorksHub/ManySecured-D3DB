@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b53deae-c38b-4df1-8d96-f381c8dbd840
+  macAddresses:
+  - 00:10:FB:00:00:00/24
+  manufacturer: Zida Technologies Limited
+  manufacturerUri: https://device-type.com
+  name: ZidaTech
+type: d3-device-type-assertion

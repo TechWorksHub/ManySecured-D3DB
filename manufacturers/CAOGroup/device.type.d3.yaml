@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cd20f18-6903-4397-a295-f5de629c1124
+  macAddresses:
+  - 00:24:E3:00:00:00/24
+  manufacturer: CAO Group
+  manufacturerUri: https://device-type.com
+  name: CAOGroup
+type: d3-device-type-assertion

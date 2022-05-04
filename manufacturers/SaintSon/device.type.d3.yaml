@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87b1b521-cfd5-45b3-ad63-fc4ba7e52d7d
+  macAddresses:
+  - 00:03:5C:00:00:00/24
+  manufacturer: Saint Song Corp.
+  manufacturerUri: https://device-type.com
+  name: SaintSon
+type: d3-device-type-assertion

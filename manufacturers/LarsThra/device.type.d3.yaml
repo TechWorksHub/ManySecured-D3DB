@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cf83c6f-5abe-4ece-9864-b0f3f2d9d68e
+  macAddresses:
+  - F0:D4:F6:00:00:00/24
+  manufacturer: Lars Thrane A/S
+  manufacturerUri: https://device-type.com
+  name: LarsThra
+type: d3-device-type-assertion

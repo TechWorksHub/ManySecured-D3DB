@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c209251-39c7-4963-8c1a-2eb002e5daca
+  macAddresses:
+  - 00:25:6B:00:00:00/24
+  manufacturer: ATENIX E.E. s.r.l.
+  manufacturerUri: https://device-type.com
+  name: ATENIXEE
+type: d3-device-type-assertion

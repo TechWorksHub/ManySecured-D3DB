@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c51c3f47-bafd-4583-9615-5debb3ddf4c9
+  macAddresses:
+  - 00:14:E3:00:00:00/24
+  manufacturer: mm-lab GmbH
+  manufacturerUri: https://device-type.com
+  name: mm-lab
+type: d3-device-type-assertion

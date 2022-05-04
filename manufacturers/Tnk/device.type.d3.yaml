@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cf4657d-3c59-4523-8e2d-922edde9a5b1
+  macAddresses:
+  - 10:F1:63:00:00:00/24
+  manufacturer: Tnk Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Tnk
+type: d3-device-type-assertion

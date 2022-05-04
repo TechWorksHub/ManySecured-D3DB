@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a3880a40-febb-4306-9c23-d0edddb4ee62
+  macAddresses:
+  - 00:50:C2:7A:40:00/36
+  - 9C:5E:73:00:00:00/24
+  manufacturer: Calibre UK LTD
+  manufacturerUri: https://device-type.com
+  name: CalibreU
+type: d3-device-type-assertion

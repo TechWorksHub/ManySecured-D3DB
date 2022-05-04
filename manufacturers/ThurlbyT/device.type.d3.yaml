@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14a26293-3d44-4ec4-94b7-a50a09fe3034
+  macAddresses:
+  - 70:B3:D5:E5:80:00/36
+  - 80:E4:DA:20:00:00/28
+  manufacturer: Thurlby Thandar Instruments LTD
+  manufacturerUri: https://device-type.com
+  name: ThurlbyT
+type: d3-device-type-assertion

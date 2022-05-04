@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ac9f1de-c716-4caa-8576-7622928597b0
+  macAddresses:
+  - 98:80:BB:50:00:00/28
+  manufacturer: Melexis Technologies NV
+  manufacturerUri: https://device-type.com
+  name: MelexisT
+type: d3-device-type-assertion

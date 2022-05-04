@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a320deee-4ba6-4536-a24d-825fb102daf9
+  macAddresses:
+  - 00:12:DC:00:00:00/24
+  manufacturer: SunCorp Industrial Limited
+  manufacturerUri: https://device-type.com
+  name: SunCorpI
+type: d3-device-type-assertion

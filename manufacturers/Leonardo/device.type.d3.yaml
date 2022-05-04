@@ -1,0 +1,12 @@
+credentialSubject:
+  id: b0acfeb9-a535-4d54-99bb-328bd0a186f1
+  macAddresses:
+  - 00:50:C2:91:30:00/36
+  - 00:50:C2:DD:80:00/36
+  - 00:80:E7:00:00:00/24
+  - 70:B3:D5:11:10:00/36
+  - 78:13:05:A0:00:00/28
+  manufacturer: Leonardo UK Ltd
+  manufacturerUri: https://device-type.com
+  name: Leonardo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d5ff802-508b-475e-87bf-ef909aaca715
+  macAddresses:
+  - 00:D0:00:00:00:00/24
+  manufacturer: Ferran Scientific, Inc.
+  manufacturerUri: https://device-type.com
+  name: FerranSc
+type: d3-device-type-assertion

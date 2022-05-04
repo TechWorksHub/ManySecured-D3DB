@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5127c19-f03e-4d66-854d-739285e9b0bb
+  macAddresses:
+  - 00:20:D2:00:00:00/24
+  manufacturer: Rad Data Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: RadDataC
+type: d3-device-type-assertion

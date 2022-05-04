@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b5a38860-2a69-42ba-af02-e28101664da4
+  macAddresses:
+  - 00:50:C2:06:50:00/36
+  - 70:B3:D5:A2:B0:00/36
+  manufacturer: Clever Devices
+  manufacturerUri: https://device-type.com
+  name: CleverDe
+type: d3-device-type-assertion

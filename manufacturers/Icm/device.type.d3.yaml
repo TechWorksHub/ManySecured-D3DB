@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a93056b-7149-401d-937a-cd946a31cd0a
+  macAddresses:
+  - 00:40:04:00:00:00/24
+  manufacturer: Icm Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: Icm
+type: d3-device-type-assertion

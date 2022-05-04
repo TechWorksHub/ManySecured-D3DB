@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2fed4fc9-a720-4fdb-86df-ee7718ed4d1e
+  macAddresses:
+  - 70:B3:D5:FF:00:00/36
+  - D4:25:CC:A0:00:00/28
+  manufacturer: E-MetroTel
+  manufacturerUri: https://device-type.com
+  name: E-MetroT
+type: d3-device-type-assertion

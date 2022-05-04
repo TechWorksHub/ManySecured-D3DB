@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cc14f5b-f8e4-4484-84d4-7c362d74eb15
+  macAddresses:
+  - 00:03:BC:00:00:00/24
+  manufacturer: COT GmbH
+  manufacturerUri: https://device-type.com
+  name: COT
+type: d3-device-type-assertion

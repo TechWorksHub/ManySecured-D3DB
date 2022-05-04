@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a75723bf-22ea-47d7-8bb9-af31918040c5
+  macAddresses:
+  - 00:09:4D:00:00:00/24
+  manufacturer: Braintree Communications Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Braintre
+type: d3-device-type-assertion

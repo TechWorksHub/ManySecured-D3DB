@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48a7ba6c-d3cf-4bfd-8065-f9e916d25fae
+  macAddresses:
+  - 00:13:56:00:00:00/24
+  manufacturer: FLIR Radiation Inc
+  manufacturerUri: https://device-type.com
+  name: FLIRRadi
+type: d3-device-type-assertion

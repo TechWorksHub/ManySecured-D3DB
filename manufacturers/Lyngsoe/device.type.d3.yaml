@@ -1,0 +1,11 @@
+credentialSubject:
+  id: eca34011-6d04-4c02-b989-445d6b98057f
+  macAddresses:
+  - 00:50:C2:7E:C0:00/36
+  - 40:D8:55:08:E0:00/36
+  - 78:D4:F1:20:00:00/28
+  - C8:9E:61:00:00:00/24
+  manufacturer: Lyngsoe Systems
+  manufacturerUri: https://device-type.com
+  name: Lyngsoe
+type: d3-device-type-assertion

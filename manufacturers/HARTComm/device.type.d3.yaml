@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e97138fc-845a-411e-8a52-39072e0d5a1d
+  macAddresses:
+  - 00:1B:1E:00:00:00/24
+  manufacturer: HART Communication Foundation
+  manufacturerUri: https://device-type.com
+  name: HARTComm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d4d768c-7a04-43d5-9253-9e46e5d7367a
+  macAddresses:
+  - 00:16:99:00:00:00/24
+  manufacturer: Tonic DVB Marketing Ltd
+  manufacturerUri: https://device-type.com
+  name: TonicDVB
+type: d3-device-type-assertion

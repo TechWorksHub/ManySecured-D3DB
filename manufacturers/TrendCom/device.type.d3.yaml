@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8eec785d-c571-4bb0-bc01-97175d265cab
+  macAddresses:
+  - 00:01:22:00:00:00/24
+  manufacturer: Trend Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: TrendCom
+type: d3-device-type-assertion

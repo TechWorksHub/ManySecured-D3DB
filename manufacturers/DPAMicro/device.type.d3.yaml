@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af707514-b9fb-4542-92f0-9111787b57a5
+  macAddresses:
+  - 50:A0:30:90:00:00/28
+  manufacturer: DPA Microphones A/S
+  manufacturerUri: https://device-type.com
+  name: DPAMicro
+type: d3-device-type-assertion

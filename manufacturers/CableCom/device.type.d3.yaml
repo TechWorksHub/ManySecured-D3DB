@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3b7ec1f-e38e-486d-876c-df868da88eff
+  macAddresses:
+  - 00:20:08:00:00:00/24
+  manufacturer: Cable & Computer Technology
+  manufacturerUri: https://device-type.com
+  name: CableCom
+type: d3-device-type-assertion

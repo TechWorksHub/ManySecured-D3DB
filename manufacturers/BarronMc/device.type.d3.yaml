@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcb31e76-184d-4da2-93b5-cd96370777c1
+  macAddresses:
+  - 00:C0:A9:00:00:00/24
+  manufacturer: Barron Mccann Ltd.
+  manufacturerUri: https://device-type.com
+  name: BarronMc
+type: d3-device-type-assertion

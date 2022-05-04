@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0711dad5-0ab6-4f55-a0f8-b2953c88fa76
+  macAddresses:
+  - 00:50:C2:29:50:00/36
+  - 30:D3:57:00:00:00/24
+  manufacturer: Logosol, Inc.
+  manufacturerUri: https://device-type.com
+  name: Logosol
+type: d3-device-type-assertion

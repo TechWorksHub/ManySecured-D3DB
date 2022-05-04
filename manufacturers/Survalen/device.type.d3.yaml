@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 104a5f18-0bb6-41e0-9f17-213b8a3b4d5f
+  macAddresses:
+  - 00:50:C2:19:90:00/36
+  - 00:50:C2:D0:20:00/36
+  - 70:B3:D5:78:C0:00/36
+  manufacturer: Survalent Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: Survalen
+type: d3-device-type-assertion

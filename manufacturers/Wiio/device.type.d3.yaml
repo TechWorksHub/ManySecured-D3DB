@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f645e13-7e86-4325-a560-367938fe7127
+  macAddresses:
+  - 90:0A:39:00:00:00/24
+  manufacturer: Wiio, Inc.
+  manufacturerUri: https://device-type.com
+  name: Wiio
+type: d3-device-type-assertion

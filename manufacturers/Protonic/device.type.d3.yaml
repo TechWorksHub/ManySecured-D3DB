@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 0bf5331b-00cc-479c-a1b6-4384d0ccf702
+  macAddresses:
+  - 00:50:C2:4B:B0:00/36
+  - 00:50:C2:C7:A0:00/36
+  - 40:D8:55:06:30:00/36
+  - 88:14:2B:00:00:00/24
+  manufacturer: Protonic Holland
+  manufacturerUri: https://device-type.com
+  name: Protonic
+type: d3-device-type-assertion

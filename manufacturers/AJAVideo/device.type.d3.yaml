@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa61134d-f7e9-4a46-aa07-b2d20611bee1
+  macAddresses:
+  - 00:0C:17:00:00:00/24
+  manufacturer: AJA Video Systems Inc
+  manufacturerUri: https://device-type.com
+  name: AJAVideo
+type: d3-device-type-assertion

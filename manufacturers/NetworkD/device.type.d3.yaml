@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 42f15783-b69e-447d-a75e-0b77ae080ffc
+  macAddresses:
+  - 00:00:EE:00:00:00/24
+  - 5C:81:A7:00:00:00/24
+  manufacturer: Network Designers Limited [also KNX Ltd, a former division]
+  manufacturerUri: https://device-type.com
+  name: NetworkD
+type: d3-device-type-assertion

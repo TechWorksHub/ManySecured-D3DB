@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcc73a87-a440-4a98-85d1-19fff2d6611f
+  macAddresses:
+  - 50:62:55:A0:00:00/28
+  manufacturer: CCTV Manufacturer
+  manufacturerUri: https://device-type.com
+  name: CCTVManu
+type: d3-device-type-assertion

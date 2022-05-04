@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1800fce-052f-4c01-a333-7d83631d9cf3
+  macAddresses:
+  - A8:05:77:00:00:00/24
+  manufacturer: Netlist, Inc.
+  manufacturerUri: https://device-type.com
+  name: Netlist
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c50e894-82ee-49d9-9063-a064807d8b36
+  macAddresses:
+  - 00:23:88:00:00:00/24
+  manufacturer: V.T. Telematica S.p.a.
+  manufacturerUri: https://device-type.com
+  name: VTTelema
+type: d3-device-type-assertion

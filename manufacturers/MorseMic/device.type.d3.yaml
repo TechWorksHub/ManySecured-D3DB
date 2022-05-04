@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a23e1144-d835-4d72-8081-1050e64e61fd
+  macAddresses:
+  - 0C:BF:74:00:00:00/24
+  manufacturer: Morse Micro
+  manufacturerUri: https://device-type.com
+  name: MorseMic
+type: d3-device-type-assertion

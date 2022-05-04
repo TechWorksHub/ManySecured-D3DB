@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1f4688d-f141-4370-bf8a-8a2773b5e3f3
+  macAddresses:
+  - C4:EE:F5:00:00:00/24
+  manufacturer: II-VI Incorporated
+  manufacturerUri: https://device-type.com
+  name: II-VI
+type: d3-device-type-assertion

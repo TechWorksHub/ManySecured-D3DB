@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b14f754-71f4-4103-9be7-d6d30dcb9a92
+  macAddresses:
+  - 8C:68:78:00:00:00/24
+  manufacturer: Nortek-AS
+  manufacturerUri: https://device-type.com
+  name: Nortek-A
+type: d3-device-type-assertion

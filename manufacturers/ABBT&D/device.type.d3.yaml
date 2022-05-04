@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0de00dac-051c-437d-b9bd-6fa2ff0c5339
+  macAddresses:
+  - 00:50:C2:2A:D0:00/36
+  manufacturer: ABB T&D Spa
+  manufacturerUri: https://device-type.com
+  name: ABBT&D
+type: d3-device-type-assertion

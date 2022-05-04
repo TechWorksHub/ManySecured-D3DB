@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10e5a94a-6c75-44e7-8c0f-e3de1fce687e
+  macAddresses:
+  - 00:A0:73:00:00:00/24
+  manufacturer: Com21, Inc.
+  manufacturerUri: https://device-type.com
+  name: Com21
+type: d3-device-type-assertion

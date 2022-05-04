@@ -1,0 +1,9 @@
+credentialSubject:
+  id: acce2890-5bb5-4c9b-bfb5-4fc87fdb6cfb
+  macAddresses:
+  - 50:FF:99:B0:00:00/28
+  - CC:1B:E0:70:00:00/28
+  manufacturer: Sichuan Dowlab Electronics Technology Co. Ltd
+  manufacturerUri: https://device-type.com
+  name: SichuanD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccb918ba-75f6-4260-9c7f-04bec8f65aec
+  macAddresses:
+  - 00:13:3E:00:00:00/24
+  manufacturer: MetaSwitch
+  manufacturerUri: https://device-type.com
+  name: MetaSwit
+type: d3-device-type-assertion

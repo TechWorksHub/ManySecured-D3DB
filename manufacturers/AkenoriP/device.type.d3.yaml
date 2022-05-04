@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4a8fc53b-c393-4db6-9589-f192b0d71eeb
+  macAddresses:
+  - 70:B3:D5:6A:50:00/36
+  - 80:E4:DA:E0:00:00/28
+  - D4:2F:23:00:00:00/24
+  manufacturer: Akenori PTE LTD
+  manufacturerUri: https://device-type.com
+  name: AkenoriP
+type: d3-device-type-assertion

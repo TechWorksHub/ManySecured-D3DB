@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1b25921-0e5c-45fa-85f4-a0643fc113d0
+  macAddresses:
+  - 00:21:30:00:00:00/24
+  manufacturer: Keico Hightech Inc.
+  manufacturerUri: https://device-type.com
+  name: KeicoHig
+type: d3-device-type-assertion

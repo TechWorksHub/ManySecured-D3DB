@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1e6b71d-6821-475d-8dca-cabe5f119df7
+  macAddresses:
+  - 00:20:AB:00:00:00/24
+  manufacturer: Micro Industries Corp.
+  manufacturerUri: https://device-type.com
+  name: MicroInd
+type: d3-device-type-assertion

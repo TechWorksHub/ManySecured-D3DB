@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 558bc885-5556-4e7a-936e-38d1a3d2b1a6
+  macAddresses:
+  - 00:0E:DD:00:00:00/24
+  - 00:50:C2:F4:80:00/36
+  - 9C:43:1E:E0:00:00/28
+  - D8:34:EE:00:00:00/24
+  manufacturer: Shure Incorporated
+  manufacturerUri: https://device-type.com
+  name: Shure
+type: d3-device-type-assertion

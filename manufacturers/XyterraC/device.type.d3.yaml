@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b31a07a-dd7a-4789-a9d6-d4b93d99e70f
+  macAddresses:
+  - 00:07:54:00:00:00/24
+  manufacturer: Xyterra Computing, Inc.
+  manufacturerUri: https://device-type.com
+  name: XyterraC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c59708e2-2c08-4229-b609-3b46443de84d
+  macAddresses:
+  - 00:00:18:00:00:00/24
+  manufacturer: Webster Computer Corporation
+  manufacturerUri: https://device-type.com
+  name: WebsterC
+type: d3-device-type-assertion

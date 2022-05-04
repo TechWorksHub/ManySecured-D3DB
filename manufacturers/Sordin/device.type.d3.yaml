@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d44c78b-e405-4c45-8234-87d8cc6e501a
+  macAddresses:
+  - 00:0F:DD:00:00:00/24
+  manufacturer: Sordin Ab
+  manufacturerUri: https://device-type.com
+  name: Sordin
+type: d3-device-type-assertion

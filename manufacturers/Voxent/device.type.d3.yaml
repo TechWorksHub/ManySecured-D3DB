@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0411979-6fd7-4893-a4e2-6b931967a0e6
+  macAddresses:
+  - 00:D0:2A:00:00:00/24
+  manufacturer: Voxent Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: Voxent
+type: d3-device-type-assertion

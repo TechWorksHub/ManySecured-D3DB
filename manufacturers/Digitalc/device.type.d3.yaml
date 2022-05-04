@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bdbb5873-c99f-42e1-ab0a-c6b1e7e9185e
+  macAddresses:
+  - 00:50:C2:53:D0:00/36
+  - 00:90:7C:00:00:00/24
+  manufacturer: Digital communications Technologies
+  manufacturerUri: https://device-type.com
+  name: Digitalc
+type: d3-device-type-assertion

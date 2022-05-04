@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dbec7ed-3abd-4025-8ef2-a3c942bfea7a
+  macAddresses:
+  - 00:1A:35:00:00:00/24
+  manufacturer: BARTEC GmbH
+  manufacturerUri: https://device-type.com
+  name: BARTEC
+type: d3-device-type-assertion

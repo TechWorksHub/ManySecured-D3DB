@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9a1c840d-f5ed-404f-bca8-a4aa2bf6824b
+  macAddresses:
+  - 70:B3:D5:7A:20:00/36
+  - BC:97:40:00:00:00/28
+  manufacturer: Alpha ESS Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: AlphaESS
+type: d3-device-type-assertion

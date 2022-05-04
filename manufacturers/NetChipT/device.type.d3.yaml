@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fa2526f-a29d-4aaf-b4fa-d29094bba262
+  macAddresses:
+  - 00:03:9B:00:00:00/24
+  manufacturer: NetChip Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: NetChipT
+type: d3-device-type-assertion

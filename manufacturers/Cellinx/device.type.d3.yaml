@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b25746e-4628-492a-9f77-d659e708e501
+  macAddresses:
+  - 00:0A:61:00:00:00/24
+  manufacturer: Cellinx Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Cellinx
+type: d3-device-type-assertion

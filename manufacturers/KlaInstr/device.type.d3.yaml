@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76015854-6201-430f-8d83-443bcf78bf7f
+  macAddresses:
+  - 00:40:64:00:00:00/24
+  manufacturer: Kla Instruments Corporation
+  manufacturerUri: https://device-type.com
+  name: KlaInstr
+type: d3-device-type-assertion

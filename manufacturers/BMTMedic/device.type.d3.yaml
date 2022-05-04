@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 29e11392-3217-4903-b564-e3a4e9aa0a17
+  macAddresses:
+  - 04:9C:62:00:00:00/24
+  manufacturer: BMT Medical Technology s.r.o.
+  manufacturerUri: https://device-type.com
+  name: BMTMedic
+type: d3-device-type-assertion

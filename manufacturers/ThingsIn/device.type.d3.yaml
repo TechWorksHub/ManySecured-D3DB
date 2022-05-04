@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8abb1345-d006-4ead-bf17-1d56e61b4628
+  macAddresses:
+  - EC:65:6E:00:00:00/24
+  manufacturer: The Things Industries B.V.
+  manufacturerUri: https://device-type.com
+  name: ThingsIn
+type: d3-device-type-assertion

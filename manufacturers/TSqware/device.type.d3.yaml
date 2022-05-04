@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 775cd195-25df-4f90-a294-aa18f3332e1b
+  macAddresses:
+  - 00:10:16:00:00:00/24
+  manufacturer: T.Sqware
+  manufacturerUri: https://device-type.com
+  name: TSqware
+type: d3-device-type-assertion

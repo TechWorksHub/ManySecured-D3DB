@@ -1,0 +1,12 @@
+credentialSubject:
+  id: ea8c0bac-29f9-4c1b-a0cc-96d47571b82c
+  macAddresses:
+  - 00:50:C2:0C:F0:00/36
+  - 00:50:C2:8E:E0:00/36
+  - 00:50:C2:E4:D0:00/36
+  - 70:B3:D5:51:50:00/36
+  - 70:B3:D5:A5:70:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Pcsc
+type: d3-device-type-assertion

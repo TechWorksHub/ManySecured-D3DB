@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 54e04184-b76f-4d7a-b345-1dc366e5d5be
+  macAddresses:
+  - 00:50:C2:51:70:00/36
+  - 38:F6:01:00:00:00/24
+  - 70:B3:D5:C8:50:00/36
+  - 70:B3:D5:F9:10:00/36
+  manufacturer: Solid State Logic
+  manufacturerUri: https://device-type.com
+  name: SolidSta
+type: d3-device-type-assertion

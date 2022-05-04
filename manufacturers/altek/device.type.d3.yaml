@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f20e51d2-5b4c-43cd-9169-2f80e424e103
+  macAddresses:
+  - 00:25:C7:00:00:00/24
+  manufacturer: altek Corporation
+  manufacturerUri: https://device-type.com
+  name: altek
+type: d3-device-type-assertion

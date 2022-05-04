@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a471a18-8741-4011-9178-8ca439ca9a9a
+  macAddresses:
+  - 00:03:D1:00:00:00/24
+  manufacturer: Takaya Corporation
+  manufacturerUri: https://device-type.com
+  name: Takaya
+type: d3-device-type-assertion

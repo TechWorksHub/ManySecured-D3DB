@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7d45d36c-17da-4050-a804-ebe07eedc9fc
+  macAddresses:
+  - 1C:A0:EF:A0:00:00/28
+  - 70:B3:D5:43:60:00/36
+  manufacturer: Henrich Electronics Corporation
+  manufacturerUri: https://device-type.com
+  name: HenrichE
+type: d3-device-type-assertion

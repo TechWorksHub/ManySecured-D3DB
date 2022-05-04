@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61bf223e-0b90-4f1a-b35c-3d71945dfa8b
+  macAddresses:
+  - 00:08:FA:00:00:00/24
+  manufacturer: KEB Automation KG
+  manufacturerUri: https://device-type.com
+  name: KEBAutom
+type: d3-device-type-assertion

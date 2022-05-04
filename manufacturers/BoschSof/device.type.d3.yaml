@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 735b8f68-23b3-4ab4-b239-b6c3e4e39457
+  macAddresses:
+  - 7C:AC:B2:00:00:00/24
+  manufacturer: Bosch Software Innovations GmbH
+  manufacturerUri: https://device-type.com
+  name: BoschSof
+type: d3-device-type-assertion

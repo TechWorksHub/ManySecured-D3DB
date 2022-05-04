@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fbb3abc-b689-4891-952c-1d16ff90bf6a
+  macAddresses:
+  - 00:90:00:00:00:00/24
+  manufacturer: Diamond Multimedia
+  manufacturerUri: https://device-type.com
+  name: DiamondM
+type: d3-device-type-assertion

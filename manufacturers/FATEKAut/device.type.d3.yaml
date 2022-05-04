@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 36ed90ec-77b8-445c-90bf-604b105f5faa
+  macAddresses:
+  - 70:01:36:00:00:00/24
+  manufacturer: FATEK Automation Corporation
+  manufacturerUri: https://device-type.com
+  name: FATEKAut
+type: d3-device-type-assertion

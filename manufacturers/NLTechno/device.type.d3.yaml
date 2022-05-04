@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cbef6c1b-e050-46c3-aa6d-2919cc6541bb
+  macAddresses:
+  - 00:14:26:00:00:00/24
+  - 54:5E:BD:00:00:00/24
+  manufacturer: NL Technology
+  manufacturerUri: https://device-type.com
+  name: NLTechno
+type: d3-device-type-assertion

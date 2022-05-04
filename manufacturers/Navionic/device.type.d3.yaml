@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6d772c5c-bb37-409e-84a6-e63e409a3c20
+  macAddresses:
+  - 00:1D:C8:00:00:00/24
+  - 00:50:C2:32:60:00/36
+  manufacturer: Navionics Research Inc., dba SCADAmetrics
+  manufacturerUri: https://device-type.com
+  name: Navionic
+type: d3-device-type-assertion

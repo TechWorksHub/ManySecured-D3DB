@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6bbb9880-74cc-4237-96bc-b60ccfc7f8f2
+  macAddresses:
+  - 00:60:1C:00:00:00/24
+  manufacturer: Telxon Corporation
+  manufacturerUri: https://device-type.com
+  name: Telxon
+type: d3-device-type-assertion

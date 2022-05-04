@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b22d7c77-c556-44c8-bdf0-13ca0611258b
+  macAddresses:
+  - 00:02:BE:00:00:00/24
+  manufacturer: Totsu Engineering, Inc.
+  manufacturerUri: https://device-type.com
+  name: TotsuEng
+type: d3-device-type-assertion

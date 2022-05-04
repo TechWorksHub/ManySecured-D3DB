@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 25b1dc0b-4586-488a-8400-3a9a3e75df31
+  macAddresses:
+  - 00:50:C2:03:40:00/36
+  - 1C:87:74:70:00:00/28
+  manufacturer: Ing. Buero W. Kanis GmbH
+  manufacturerUri: https://device-type.com
+  name: IngBuero
+type: d3-device-type-assertion

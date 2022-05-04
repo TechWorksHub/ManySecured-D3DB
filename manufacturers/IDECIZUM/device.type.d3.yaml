@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 37146ebb-8455-4a65-8e35-e1fa0b2433c6
+  macAddresses:
+  - 00:03:7B:00:00:00/24
+  manufacturer: IDEC IZUMI Corporation
+  manufacturerUri: https://device-type.com
+  name: IDECIZUM
+type: d3-device-type-assertion

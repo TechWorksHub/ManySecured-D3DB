@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 418d588e-c9c9-41df-b8df-8f4c92ed85b7
+  macAddresses:
+  - 00:50:C2:89:60:00/36
+  - 00:50:C2:B7:50:00/36
+  - 00:50:C2:D8:30:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Blankom
+type: d3-device-type-assertion

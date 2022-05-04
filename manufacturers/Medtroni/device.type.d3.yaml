@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bdb5d5fa-3980-432e-b030-9601bbeb3ad7
+  macAddresses:
+  - 70:B3:D5:B3:40:00/36
+  - DC:16:A2:00:00:00/24
+  manufacturer: Medtronic
+  manufacturerUri: https://device-type.com
+  name: Medtroni
+type: d3-device-type-assertion

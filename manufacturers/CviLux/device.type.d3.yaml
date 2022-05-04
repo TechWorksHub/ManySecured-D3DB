@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09a717f8-5509-4fec-a755-36996980bfa8
+  macAddresses:
+  - 50:D2:13:00:00:00/24
+  manufacturer: CviLux Corporation
+  manufacturerUri: https://device-type.com
+  name: CviLux
+type: d3-device-type-assertion

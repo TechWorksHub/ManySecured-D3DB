@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a9e5f84-46fe-412b-a50c-9c502a2ccf88
+  macAddresses:
+  - 00:04:44:00:00:00/24
+  manufacturer: Western Multiplex Corporation
+  manufacturerUri: https://device-type.com
+  name: WesternM
+type: d3-device-type-assertion

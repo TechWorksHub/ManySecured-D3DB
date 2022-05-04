@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95d29fe2-33fb-4da5-8ffc-1f131103359d
+  macAddresses:
+  - 00:0C:16:00:00:00/24
+  manufacturer: Concorde Microsystems Inc.
+  manufacturerUri: https://device-type.com
+  name: Concorde
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 505a53d0-b3e6-458d-b1e2-c5a133175e6a
+  macAddresses:
+  - 00:0D:03:00:00:00/24
+  manufacturer: Matrics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Matrics
+type: d3-device-type-assertion

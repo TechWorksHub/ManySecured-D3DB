@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e001876a-f72a-49d5-83ec-70199e81eb73
+  macAddresses:
+  - 00:40:71:00:00:00/24
+  manufacturer: Atm Computer Gmbh
+  manufacturerUri: https://device-type.com
+  name: AtmCompu
+type: d3-device-type-assertion

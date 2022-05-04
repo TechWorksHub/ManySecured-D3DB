@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f42cfb57-fc47-4eb5-bc53-6b22bd605368
+  macAddresses:
+  - 00:50:C2:36:D0:00/36
+  manufacturer: Oplink Communications
+  manufacturerUri: https://device-type.com
+  name: OplinkCo
+type: d3-device-type-assertion

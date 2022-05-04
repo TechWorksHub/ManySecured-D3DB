@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 57de6cb7-3762-4759-abe8-213032f1e057
+  macAddresses:
+  - 00:9E:EE:00:00:00/24
+  - DC:35:F1:00:00:00/24
+  manufacturer: Positivo Tecnologia S.A.
+  manufacturerUri: https://device-type.com
+  name: Positivo
+type: d3-device-type-assertion

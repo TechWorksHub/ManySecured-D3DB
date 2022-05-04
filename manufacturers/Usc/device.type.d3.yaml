@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52ac28c3-6969-4b9d-85ad-266a589c4312
+  macAddresses:
+  - 00:20:EF:00:00:00/24
+  manufacturer: Usc Corporation
+  manufacturerUri: https://device-type.com
+  name: Usc
+type: d3-device-type-assertion

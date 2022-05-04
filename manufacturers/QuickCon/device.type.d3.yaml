@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 795eac67-e240-4b5f-a39f-b11824673e65
+  macAddresses:
+  - 00:60:3A:00:00:00/24
+  manufacturer: Quick Controls Ltd.
+  manufacturerUri: https://device-type.com
+  name: QuickCon
+type: d3-device-type-assertion

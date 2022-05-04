@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04d17da6-31cb-4ff8-ba59-b9a353a38ce7
+  macAddresses:
+  - 00:03:B4:00:00:00/24
+  manufacturer: Macrotek International Corp.
+  manufacturerUri: https://device-type.com
+  name: Macrotek
+type: d3-device-type-assertion

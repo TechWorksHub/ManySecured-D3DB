@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c3c4290-3bd8-460d-a890-c9b2d54a42e9
+  macAddresses:
+  - 70:B3:D5:96:E0:00/36
+  manufacturer: Myostat Motion Control Inc
+  manufacturerUri: https://device-type.com
+  name: MyostatM
+type: d3-device-type-assertion

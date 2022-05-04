@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f55b001-deab-4e78-9896-bfdca31134d1
+  macAddresses:
+  - EC:2C:11:00:00:00/24
+  manufacturer: Cwd Innovation Limited
+  manufacturerUri: https://device-type.com
+  name: CwdInnov
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab20305c-43ab-48f4-a65f-92e0f54fe1ea
+  macAddresses:
+  - 00:08:E7:00:00:00/24
+  manufacturer: SHI ControlSystems,Ltd.
+  manufacturerUri: https://device-type.com
+  name: SHIContr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c291b4d-f679-453b-8d79-eeddb455386c
+  macAddresses:
+  - 00:15:DA:00:00:00/24
+  manufacturer: Iritel A.D.
+  manufacturerUri: https://device-type.com
+  name: IritelAD
+type: d3-device-type-assertion

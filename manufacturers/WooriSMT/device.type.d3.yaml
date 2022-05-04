@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cbe7eef-d557-4dda-a47f-44a65ce7f6f3
+  macAddresses:
+  - 00:22:7C:00:00:00/24
+  manufacturer: Woori SMT Co.,ltd
+  manufacturerUri: https://device-type.com
+  name: WooriSMT
+type: d3-device-type-assertion

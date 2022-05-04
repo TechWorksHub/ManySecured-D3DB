@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca087f8e-f719-4cd2-97ce-23c73fca9a4b
+  macAddresses:
+  - 00:1C:3D:00:00:00/24
+  manufacturer: WaveStorm
+  manufacturerUri: https://device-type.com
+  name: WaveStor
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c9412149-6a88-4d58-a9e8-828662e4b129
+  macAddresses:
+  - 00:13:33:00:00:00/24
+  - 94:46:96:00:00:00/24
+  manufacturer: BaudTec Corporation
+  manufacturerUri: https://device-type.com
+  name: BaudTec
+type: d3-device-type-assertion

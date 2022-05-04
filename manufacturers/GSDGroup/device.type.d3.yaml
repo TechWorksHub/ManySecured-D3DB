@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fe111060-88a3-4eef-8eac-e934cecf15a9
+  macAddresses:
+  - 70:B3:D5:B0:10:00/36
+  - F4:70:0C:C0:00:00/28
+  manufacturer: G.S.D Group Inc.
+  manufacturerUri: https://device-type.com
+  name: GSDGroup
+type: d3-device-type-assertion

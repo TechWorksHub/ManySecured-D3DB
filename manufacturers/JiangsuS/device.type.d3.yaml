@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 9b89dfd6-014a-465a-a66a-7b6bd196f800
+  macAddresses:
+  - 60:15:92:90:00:00/28
+  - 78:8E:33:00:00:00/24
+  - 8C:AE:49:40:00:00/28
+  - F8:2B:C8:00:00:00/24
+  manufacturer: Jiangsu Sunfy Technologies Holding Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: JiangsuS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a99e8e17-b0bf-44d2-b98d-b51abf479ae6
+  macAddresses:
+  - 00:25:C6:00:00:00/24
+  manufacturer: kasercorp, ltd
+  manufacturerUri: https://device-type.com
+  name: kasercor
+type: d3-device-type-assertion

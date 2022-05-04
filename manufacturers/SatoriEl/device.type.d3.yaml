@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ab4e968-87ee-4c70-8d38-a0f0cca00215
+  macAddresses:
+  - 00:50:0D:00:00:00/24
+  manufacturer: Satori Electoric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SatoriEl
+type: d3-device-type-assertion

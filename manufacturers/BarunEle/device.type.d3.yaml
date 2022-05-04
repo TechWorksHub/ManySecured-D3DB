@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1d5d9cf-fb2b-47fc-99ed-d3ed5894bd96
+  macAddresses:
+  - C8:29:2A:00:00:00/24
+  manufacturer: Barun Electronics
+  manufacturerUri: https://device-type.com
+  name: BarunEle
+type: d3-device-type-assertion

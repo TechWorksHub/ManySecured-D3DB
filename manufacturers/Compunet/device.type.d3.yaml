@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d21f8cb3-9cbb-46bd-826e-cb58306fff08
+  macAddresses:
+  - 00:0A:B6:00:00:00/24
+  manufacturer: Compunetix, Inc
+  manufacturerUri: https://device-type.com
+  name: Compunet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21a458cb-835f-494f-bf36-c88ae2dbbf1a
+  macAddresses:
+  - 00:06:DA:00:00:00/24
+  manufacturer: ITRAN Communications Ltd.
+  manufacturerUri: https://device-type.com
+  name: ITRANCom
+type: d3-device-type-assertion

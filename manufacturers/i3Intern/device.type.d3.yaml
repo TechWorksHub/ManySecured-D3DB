@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f3b0dd38-4ea2-41e8-84b7-7360b0e5edf3
+  macAddresses:
+  - 00:50:C2:E9:80:00/36
+  - 18:F8:7A:00:00:00/24
+  - 34:04:9E:A0:00:00/28
+  manufacturer: i3 International Inc.
+  manufacturerUri: https://device-type.com
+  name: i3Intern
+type: d3-device-type-assertion

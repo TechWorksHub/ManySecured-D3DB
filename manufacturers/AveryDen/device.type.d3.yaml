@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82aa9340-20b5-4aab-a20d-642d9f71b771
+  macAddresses:
+  - 00:0A:44:00:00:00/24
+  manufacturer: Avery Dennison Deutschland GmbH
+  manufacturerUri: https://device-type.com
+  name: AveryDen
+type: d3-device-type-assertion

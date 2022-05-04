@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43b6fe11-3bb0-461f-9591-2893bf22688e
+  macAddresses:
+  - 00:23:EF:00:00:00/24
+  manufacturer: Zuend Systemtechnik AG
+  manufacturerUri: https://device-type.com
+  name: ZuendSys
+type: d3-device-type-assertion

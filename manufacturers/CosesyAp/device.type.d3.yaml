@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c573854-b8e1-437d-8f9c-c2f728f7da58
+  macAddresses:
+  - 98:EC:65:00:00:00/24
+  manufacturer: Cosesy ApS
+  manufacturerUri: https://device-type.com
+  name: CosesyAp
+type: d3-device-type-assertion

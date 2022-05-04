@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8aa35921-8d3f-4f6c-8b52-5bf0215bd004
+  macAddresses:
+  - 64:8D:9E:00:00:00/24
+  manufacturer: IVT Electronic Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: IVTElect
+type: d3-device-type-assertion

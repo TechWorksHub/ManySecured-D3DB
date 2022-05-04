@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df7e4b11-3ddf-4927-a3e7-552333df49e7
+  macAddresses:
+  - 00:50:C2:56:80:00/36
+  manufacturer: GeoFocus, LLC
+  manufacturerUri: https://device-type.com
+  name: GeoFocus
+type: d3-device-type-assertion

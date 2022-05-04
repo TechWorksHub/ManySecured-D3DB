@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 028ddd2f-17fe-44f4-aee4-2dc452481653
+  macAddresses:
+  - DC:DD:24:00:00:00/24
+  manufacturer: Energica Motor Company SpA
+  manufacturerUri: https://device-type.com
+  name: Energica
+type: d3-device-type-assertion

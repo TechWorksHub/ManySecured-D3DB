@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f7cae61-82c2-4db0-bfea-a2e009d95b10
+  macAddresses:
+  - 00:1D:4B:00:00:00/24
+  manufacturer: Grid Connect Inc.
+  manufacturerUri: https://device-type.com
+  name: GridConn
+type: d3-device-type-assertion

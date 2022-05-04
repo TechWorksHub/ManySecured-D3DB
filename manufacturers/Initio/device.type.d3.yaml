@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03795603-2cf0-4180-b55d-cb823787cda3
+  macAddresses:
+  - 00:10:10:00:00:00/24
+  manufacturer: Initio Corporation
+  manufacturerUri: https://device-type.com
+  name: Initio
+type: d3-device-type-assertion

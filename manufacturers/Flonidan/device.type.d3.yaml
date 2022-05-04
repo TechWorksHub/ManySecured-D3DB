@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f1163e6-a61f-47d6-8a61-e44d6727bbc6
+  macAddresses:
+  - 90:4D:C3:00:00:00/24
+  manufacturer: Flonidan A/S
+  manufacturerUri: https://device-type.com
+  name: Flonidan
+type: d3-device-type-assertion

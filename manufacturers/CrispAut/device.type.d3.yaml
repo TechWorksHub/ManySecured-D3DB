@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b829e1e8-a6f5-4474-85a3-fa50f8e8acf1
+  macAddresses:
+  - 00:00:2B:00:00:00/24
+  manufacturer: Crisp Automation, Inc
+  manufacturerUri: https://device-type.com
+  name: CrispAut
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a29d4be1-0d4e-4fbc-bb87-2d9f3b271ab7
+  macAddresses:
+  - 00:00:65:00:00:00/24
+  - 00:00:A6:00:00:00/24
+  - 00:09:56:00:00:00/24
+  manufacturer: Network General Corporation
+  manufacturerUri: https://device-type.com
+  name: NetworkG
+type: d3-device-type-assertion

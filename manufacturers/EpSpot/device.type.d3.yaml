@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8b8df6e-0dad-4e9c-901e-08707736b3c4
+  macAddresses:
+  - 70:2A:7D:00:00:00/24
+  manufacturer: EpSpot AB
+  manufacturerUri: https://device-type.com
+  name: EpSpot
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fc9739d-1ccc-40bb-893d-be40caaa802c
+  macAddresses:
+  - 00:04:52:00:00:00/24
+  manufacturer: RocketLogix, Inc.
+  manufacturerUri: https://device-type.com
+  name: RocketLo
+type: d3-device-type-assertion

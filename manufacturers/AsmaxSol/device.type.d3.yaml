@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec5cefb6-2f8c-4d3e-96f5-b1eb1e1f1c7b
+  macAddresses:
+  - 00:0D:F3:00:00:00/24
+  manufacturer: Asmax Solutions
+  manufacturerUri: https://device-type.com
+  name: AsmaxSol
+type: d3-device-type-assertion

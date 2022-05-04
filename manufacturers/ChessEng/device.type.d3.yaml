@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f71aede-5478-4aca-9ca0-2eaaed5baaa6
+  macAddresses:
+  - 00:20:92:00:00:00/24
+  manufacturer: Chess Engineering B.V.
+  manufacturerUri: https://device-type.com
+  name: ChessEng
+type: d3-device-type-assertion

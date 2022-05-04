@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e6939b7-da9a-42ca-86a0-da2c7d63f1ac
+  macAddresses:
+  - 34:04:9E:B0:00:00/28
+  - 70:B3:D5:91:00:00/36
+  manufacturer: Eginity, Inc.
+  manufacturerUri: https://device-type.com
+  name: Eginity
+type: d3-device-type-assertion

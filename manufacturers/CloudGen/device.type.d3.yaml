@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c149512-0994-4b0a-8aca-edc0d10ab895
+  macAddresses:
+  - EC:B9:07:00:00:00/24
+  manufacturer: CloudGenix Inc
+  manufacturerUri: https://device-type.com
+  name: CloudGen
+type: d3-device-type-assertion

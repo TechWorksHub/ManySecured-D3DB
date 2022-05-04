@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6462cd0-e8a3-4c9f-8f85-c51cd444d047
+  macAddresses:
+  - F0:D3:E7:00:00:00/24
+  manufacturer: Sensometrix SA
+  manufacturerUri: https://device-type.com
+  name: Sensomet
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d3846f07-21b1-46ec-8973-4cd82975c02a
+  macAddresses:
+  - 04:31:10:00:00:00/24
+  - C0:A6:6D:00:00:00/24
+  - D8:86:0B:00:00:00/28
+  manufacturer: Inspur Group Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: InspurGr
+type: d3-device-type-assertion

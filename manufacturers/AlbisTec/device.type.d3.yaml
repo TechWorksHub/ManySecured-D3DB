@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c65ff892-c4a0-4d2a-89a4-3d44623e1062
+  macAddresses:
+  - 00:1A:D0:00:00:00/24
+  manufacturer: Albis Technologies AG
+  manufacturerUri: https://device-type.com
+  name: AlbisTec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ece39e56-d03c-4393-91f6-ef9e450844e3
+  macAddresses:
+  - 8C:4A:EE:00:00:00/24
+  manufacturer: Giga Tms Inc
+  manufacturerUri: https://device-type.com
+  name: GigaTms
+type: d3-device-type-assertion

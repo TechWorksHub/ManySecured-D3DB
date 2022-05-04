@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50fdc149-ddca-452d-95d0-d0b66cc3aa77
+  macAddresses:
+  - 00:0F:E1:00:00:00/24
+  manufacturer: Id Digital Corporation
+  manufacturerUri: https://device-type.com
+  name: IdDigita
+type: d3-device-type-assertion

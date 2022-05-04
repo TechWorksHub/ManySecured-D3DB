@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd5de3eb-a0f8-4bf0-b764-c2f22fb1b4a0
+  macAddresses:
+  - 00:1B:34:00:00:00/24
+  manufacturer: Focus System Inc.
+  manufacturerUri: https://device-type.com
+  name: FocusSys
+type: d3-device-type-assertion

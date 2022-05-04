@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00f0ac37-4c53-4cfe-990a-e11ae72d47b3
+  macAddresses:
+  - 00:1D:64:00:00:00/24
+  manufacturer: Adam Communications Systems Int Ltd
+  manufacturerUri: https://device-type.com
+  name: AdamComm
+type: d3-device-type-assertion

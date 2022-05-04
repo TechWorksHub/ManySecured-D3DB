@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 94f52f85-bfc4-45c3-a8d9-b19828b3ea3f
+  macAddresses:
+  - 00:26:85:00:00:00/24
+  - 00:80:11:00:00:00/24
+  - 70:B3:D5:54:A0:00/36
+  - F8:1D:78:40:00:00/28
+  manufacturer: Digital Innovation
+  manufacturerUri: https://device-type.com
+  name: DigitalI
+type: d3-device-type-assertion

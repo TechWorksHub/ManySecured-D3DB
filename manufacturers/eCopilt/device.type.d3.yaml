@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6840d528-9863-4ee5-b87f-070003ef5753
+  macAddresses:
+  - 00:07:DE:00:00:00/24
+  manufacturer: eCopilt AB
+  manufacturerUri: https://device-type.com
+  name: eCopilt
+type: d3-device-type-assertion

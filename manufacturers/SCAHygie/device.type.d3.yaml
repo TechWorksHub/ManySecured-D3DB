@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8e76dab-e509-4edf-ab5c-3136d066bacd
+  macAddresses:
+  - 28:36:38:E0:00:00/28
+  manufacturer: SCA Hygiene Products AB
+  manufacturerUri: https://device-type.com
+  name: SCAHygie
+type: d3-device-type-assertion

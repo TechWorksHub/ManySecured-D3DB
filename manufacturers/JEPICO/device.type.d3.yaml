@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 54c45fdd-7806-4918-87fd-fe6e79c0e6e3
+  macAddresses:
+  - 00:0A:D2:00:00:00/24
+  manufacturer: JEPICO Corporation
+  manufacturerUri: https://device-type.com
+  name: JEPICO
+type: d3-device-type-assertion

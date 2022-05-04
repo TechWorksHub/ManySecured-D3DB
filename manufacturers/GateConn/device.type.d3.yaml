@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6be8ca63-ec2f-42a1-be94-8def696ad1c0
+  macAddresses:
+  - 00:13:03:00:00:00/24
+  manufacturer: GateConnect
+  manufacturerUri: https://device-type.com
+  name: GateConn
+type: d3-device-type-assertion

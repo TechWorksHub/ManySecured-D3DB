@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e9fc9c7-392f-4c52-8d19-b2735302c9a6
+  macAddresses:
+  - 00:30:9D:00:00:00/24
+  manufacturer: Nimble Microsystems, Inc.
+  manufacturerUri: https://device-type.com
+  name: NimbleMi
+type: d3-device-type-assertion

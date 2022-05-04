@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 204e6263-c9b2-4ada-bdc5-47677ea55510
+  macAddresses:
+  - 00:25:82:00:00:00/24
+  - 0C:FE:5D:D0:00:00/28
+  manufacturer: Maksat Technologies (P) Ltd
+  manufacturerUri: https://device-type.com
+  name: MaksatTe
+type: d3-device-type-assertion

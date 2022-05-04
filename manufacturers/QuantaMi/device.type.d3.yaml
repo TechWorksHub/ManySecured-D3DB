@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 24e49ad6-aa98-4488-adae-396570b98e96
+  macAddresses:
+  - 00:17:C4:00:00:00/24
+  - 20:7C:8F:00:00:00/24
+  manufacturer: Quanta Microsystems, INC.
+  manufacturerUri: https://device-type.com
+  name: QuantaMi
+type: d3-device-type-assertion

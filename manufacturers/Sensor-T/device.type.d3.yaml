@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a9493ca-d908-4573-8d00-b6c2afeca0c0
+  macAddresses:
+  - 00:1D:48:00:00:00/24
+  manufacturer: Sensor-Technik Wiedemann GmbH
+  manufacturerUri: https://device-type.com
+  name: Sensor-T
+type: d3-device-type-assertion

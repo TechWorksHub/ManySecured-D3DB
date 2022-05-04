@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bff1b91b-b75d-4f45-9930-ae412d4fae59
+  macAddresses:
+  - 00:12:4D:00:00:00/24
+  manufacturer: Inducon BV
+  manufacturerUri: https://device-type.com
+  name: Inducon
+type: d3-device-type-assertion

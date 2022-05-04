@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12c3f51b-f9a5-465e-87de-3c4acc367859
+  macAddresses:
+  - 00:07:FC:00:00:00/24
+  manufacturer: Adept Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Adept
+type: d3-device-type-assertion

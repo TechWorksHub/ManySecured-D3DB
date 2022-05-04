@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcba32be-43c5-4f4b-8e6e-402570053665
+  macAddresses:
+  - 00:80:05:00:00:00/24
+  manufacturer: Cactus Computer Inc.
+  manufacturerUri: https://device-type.com
+  name: CactusCo
+type: d3-device-type-assertion

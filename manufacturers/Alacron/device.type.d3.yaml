@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df2d80e5-73a8-4b6d-bd2d-52c145a34db2
+  macAddresses:
+  - 00:22:42:00:00:00/24
+  manufacturer: Alacron Inc.
+  manufacturerUri: https://device-type.com
+  name: Alacron
+type: d3-device-type-assertion

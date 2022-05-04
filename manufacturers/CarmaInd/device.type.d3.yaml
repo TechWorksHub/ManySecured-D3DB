@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aacc680-d04a-40e9-b175-300fe853a77c
+  macAddresses:
+  - D4:3D:67:00:00:00/24
+  manufacturer: Carma Industries Inc.
+  manufacturerUri: https://device-type.com
+  name: CarmaInd
+type: d3-device-type-assertion

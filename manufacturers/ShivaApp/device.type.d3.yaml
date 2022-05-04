@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9e16ef3-5693-4b33-bd55-980a9f5fba6e
+  macAddresses:
+  - 00:80:D3:00:00:00/24
+  manufacturer: Shiva
+  manufacturerUri: https://device-type.com
+  name: ShivaApp
+type: d3-device-type-assertion

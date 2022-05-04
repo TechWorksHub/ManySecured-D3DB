@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d290ccbe-2c66-43cd-91ed-2d1d6ed2c2d3
+  macAddresses:
+  - 00:14:6E:00:00:00/24
+  manufacturer: H. Stoll GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: HStoll
+type: d3-device-type-assertion

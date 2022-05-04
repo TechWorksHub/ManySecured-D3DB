@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f002cdaa-4525-460d-80e7-8e3aac5ccc90
+  macAddresses:
+  - 00:50:C2:2C:10:00/36
+  - 28:91:D0:00:00:00/24
+  manufacturer: "Stage Tec Entwicklungsgesellschaft f\xFCr professionelle Audio"
+  manufacturerUri: https://device-type.com
+  name: StageTec
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: d4ceaf16-753b-47a6-a628-c4f8bceeb153
+  macAddresses:
+  - 00:50:C2:6B:80:00/36
+  - 00:50:C2:CF:60:00/36
+  - 00:50:C2:E8:C0:00/36
+  - C0:43:01:00:00:00/24
+  manufacturer: Epec Oy
+  manufacturerUri: https://device-type.com
+  name: Epec
+type: d3-device-type-assertion

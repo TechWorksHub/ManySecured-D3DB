@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ddb40da-0f87-4dd9-8228-4277e9fa54ed
+  macAddresses:
+  - 00:21:2B:00:00:00/24
+  manufacturer: MSA Auer
+  manufacturerUri: https://device-type.com
+  name: MSAAuer
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3baaa23a-9f0e-45d2-b918-8530f9ed0c8b
+  macAddresses:
+  - 70:B3:D5:DD:80:00/36
+  manufacturer: EMSCAN Corp.
+  manufacturerUri: https://device-type.com
+  name: EMSCAN
+type: d3-device-type-assertion

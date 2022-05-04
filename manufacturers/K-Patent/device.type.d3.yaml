@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32d9b4d8-c441-452d-82df-e39e94f0f762
+  macAddresses:
+  - 00:0D:6E:00:00:00/24
+  manufacturer: K-Patents Oy
+  manufacturerUri: https://device-type.com
+  name: K-Patent
+type: d3-device-type-assertion

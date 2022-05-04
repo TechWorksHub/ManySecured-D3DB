@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f782cbbe-b2a1-45c7-ace5-207c915c9267
+  macAddresses:
+  - 00:20:E5:00:00:00/24
+  manufacturer: Apex Data
+  manufacturerUri: https://device-type.com
+  name: ApexData
+type: d3-device-type-assertion

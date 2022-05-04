@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4cd92bd8-145b-4fa0-a92e-e5ce0389fea7
+  macAddresses:
+  - 00:50:C2:2F:E0:00/36
+  - 00:50:C2:EB:70:00/36
+  manufacturer: Saab AB
+  manufacturerUri: https://device-type.com
+  name: Saab
+type: d3-device-type-assertion

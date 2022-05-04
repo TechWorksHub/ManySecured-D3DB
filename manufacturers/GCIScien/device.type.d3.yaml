@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a17c972d-4932-413f-a449-ffaa2c8eadb6
+  macAddresses:
+  - 00:1A:7F:00:00:00/24
+  - B4:01:42:00:00:00/24
+  manufacturer: GCI Science & Technology Co.,LTD
+  manufacturerUri: https://device-type.com
+  name: GCIScien
+type: d3-device-type-assertion

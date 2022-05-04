@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2921e3c4-a73f-4fa1-a4d7-a1b05a00f177
+  macAddresses:
+  - 00:40:23:00:00:00/24
+  - B8:A8:AF:00:00:00/24
+  manufacturer: Logic Corporation
+  manufacturerUri: https://device-type.com
+  name: Logic
+type: d3-device-type-assertion

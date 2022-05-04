@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd086c8b-900c-4ad7-aadd-489bc5e801b4
+  macAddresses:
+  - 24:80:00:00:00:00/24
+  manufacturer: Westcontrol AS
+  manufacturerUri: https://device-type.com
+  name: Westcont
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98b9cb71-484c-4085-bfcd-e77fc164dd42
+  macAddresses:
+  - 00:16:0C:00:00:00/24
+  manufacturer: Lpl Development S.A. De C.V
+  manufacturerUri: https://device-type.com
+  name: LplDevel
+type: d3-device-type-assertion

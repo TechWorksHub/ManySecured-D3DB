@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0af42faf-7b0c-46d0-8b48-bb1fa254f444
+  macAddresses:
+  - 00:16:0A:00:00:00/24
+  manufacturer: SWEEX Europe BV
+  manufacturerUri: https://device-type.com
+  name: SWEEXEur
+type: d3-device-type-assertion

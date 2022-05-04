@@ -1,0 +1,13 @@
+credentialSubject:
+  id: eb568edd-30c6-41ed-8af8-10572ccab0b1
+  macAddresses:
+  - 00:26:FC:00:00:00/24
+  - 58:12:43:00:00:00/24
+  - 5C:E2:F4:00:00:00/24
+  - 68:9C:5E:00:00:00/24
+  - 8C:B8:64:00:00:00/24
+  - 9C:65:F9:00:00:00/24
+  manufacturer: AcSiP Technology Corp.
+  manufacturerUri: https://device-type.com
+  name: AcSiPTec
+type: d3-device-type-assertion

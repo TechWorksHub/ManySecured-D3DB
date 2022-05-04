@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 0cbcf94c-f5bf-4897-abfa-fbb3c3ef99f8
+  macAddresses:
+  - 00:50:C2:25:00:00/36
+  - 00:50:C2:29:B0:00/36
+  - 00:50:C2:55:D0:00/36
+  - 00:50:C2:77:F0:00/36
+  - 00:50:C2:8B:90:00/36
+  - 00:50:C2:A0:A0:00/36
+  - 00:50:C2:AF:20:00/36
+  - 00:50:C2:C0:00:00/36
+  - 00:50:C2:CD:10:00/36
+  - 00:50:C2:E2:50:00/36
+  - 00:50:C2:F2:A0:00/36
+  - 00:50:C2:FD:F0:00/36
+  - 40:D8:55:0B:70:00/36
+  - 40:D8:55:11:D0:00/36
+  - 70:B3:D5:C5:B0:00/36
+  - 70:B3:D5:FD:A0:00/36
+  manufacturer: ACD Elektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: ACDElekt
+type: d3-device-type-assertion

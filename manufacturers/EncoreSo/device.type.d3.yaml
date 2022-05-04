@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f67c87e-8f22-4a96-99d2-77526afc3bb6
+  macAddresses:
+  - 00:18:3C:00:00:00/24
+  manufacturer: Encore Software Limited
+  manufacturerUri: https://device-type.com
+  name: EncoreSo
+type: d3-device-type-assertion

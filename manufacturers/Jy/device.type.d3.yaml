@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cf6d3e6-6f5c-44c5-87d3-436583d54206
+  macAddresses:
+  - 18:2D:F7:00:00:00/24
+  manufacturer: Jy Company
+  manufacturerUri: https://device-type.com
+  name: Jy
+type: d3-device-type-assertion

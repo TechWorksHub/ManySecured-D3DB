@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4be1cccc-6210-47ac-ba83-70a703ff453b
+  macAddresses:
+  - 00:05:DA:00:00:00/24
+  manufacturer: Apex Automationstechnik
+  manufacturerUri: https://device-type.com
+  name: ApexAuto
+type: d3-device-type-assertion

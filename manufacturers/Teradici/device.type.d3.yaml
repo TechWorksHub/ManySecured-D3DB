@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c42305c6-598f-40b2-a9c8-e87c5d823dc8
+  macAddresses:
+  - 00:22:5B:00:00:00/24
+  - 00:50:C2:73:70:00/36
+  manufacturer: Teradici Corporation
+  manufacturerUri: https://device-type.com
+  name: Teradici
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cab29a8-5067-4f24-bbb7-345e890bcfaa
+  macAddresses:
+  - 00:0A:39:00:00:00/24
+  manufacturer: LoPA Information Technology
+  manufacturerUri: https://device-type.com
+  name: LoPAInfo
+type: d3-device-type-assertion

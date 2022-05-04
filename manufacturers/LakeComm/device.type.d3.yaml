@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2db03f6-c418-413d-89cf-fe650c04fb9e
+  macAddresses:
+  - 00:90:7D:00:00:00/24
+  manufacturer: Lake Communications
+  manufacturerUri: https://device-type.com
+  name: LakeComm
+type: d3-device-type-assertion

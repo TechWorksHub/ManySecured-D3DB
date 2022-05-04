@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab799d54-e327-4950-b981-7dff34afbe20
+  macAddresses:
+  - 00:15:DD:00:00:00/24
+  manufacturer: IP Control Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: IPContro
+type: d3-device-type-assertion

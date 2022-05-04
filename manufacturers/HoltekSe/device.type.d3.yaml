@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5563e3db-c466-4b99-96b8-ee1fff8f3764
+  macAddresses:
+  - 04:AC:44:00:00:00/24
+  - B8:CA:04:00:00:00/24
+  manufacturer: Holtek Semiconductor Inc.
+  manufacturerUri: https://device-type.com
+  name: HoltekSe
+type: d3-device-type-assertion

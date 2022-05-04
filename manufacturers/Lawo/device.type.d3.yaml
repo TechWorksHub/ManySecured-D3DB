@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca47830a-d10c-4dec-bdcc-b9a0688124e1
+  macAddresses:
+  - 00:0B:72:00:00:00/24
+  manufacturer: Lawo AG
+  manufacturerUri: https://device-type.com
+  name: Lawo
+type: d3-device-type-assertion

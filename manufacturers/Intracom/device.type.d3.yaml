@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 68b7e0a7-bdb1-45f7-abc1-cb0962ad71e5
+  macAddresses:
+  - 00:05:59:00:00:00/24
+  - 30:B9:B0:00:00:00/24
+  manufacturer: Intracom S.A.
+  manufacturerUri: https://device-type.com
+  name: Intracom
+type: d3-device-type-assertion

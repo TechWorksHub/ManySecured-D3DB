@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95a4a69b-d62d-40c8-b582-1103cf0019d5
+  macAddresses:
+  - 00:14:2D:00:00:00/24
+  manufacturer: Toradex AG
+  manufacturerUri: https://device-type.com
+  name: Toradex
+type: d3-device-type-assertion

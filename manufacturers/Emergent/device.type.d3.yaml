@@ -1,0 +1,9 @@
+credentialSubject:
+  id: eda7b472-0464-4708-a0dc-69f5e585b6ca
+  macAddresses:
+  - 00:1C:71:00:00:00/24
+  - E0:55:97:00:00:00/24
+  manufacturer: Emergent Electronics
+  manufacturerUri: https://device-type.com
+  name: Emergent
+type: d3-device-type-assertion

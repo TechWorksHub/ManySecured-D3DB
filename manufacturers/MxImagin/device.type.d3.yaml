@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80cc1045-4072-49d1-9c21-fb0d8540bcf7
+  macAddresses:
+  - 00:06:A0:00:00:00/24
+  manufacturer: Mx Imaging
+  manufacturerUri: https://device-type.com
+  name: MxImagin
+type: d3-device-type-assertion

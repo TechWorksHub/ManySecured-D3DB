@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8885e87-10a6-4d69-9df4-229adcb3fd6b
+  macAddresses:
+  - 00:14:02:00:00:00/24
+  manufacturer: kk-electronic a/s
+  manufacturerUri: https://device-type.com
+  name: kk-elect
+type: d3-device-type-assertion

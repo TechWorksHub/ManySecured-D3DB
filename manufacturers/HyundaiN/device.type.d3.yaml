@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0263aea-77a0-49be-96e1-fe66a7031bd0
+  macAddresses:
+  - 00:09:3B:00:00:00/24
+  manufacturer: Hyundai Networks Inc.
+  manufacturerUri: https://device-type.com
+  name: HyundaiN
+type: d3-device-type-assertion

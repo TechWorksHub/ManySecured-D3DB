@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb4d0cfa-c83f-4886-a019-44d4329d40be
+  macAddresses:
+  - 00:24:C2:00:00:00/24
+  manufacturer: Asumo Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Asumo
+type: d3-device-type-assertion

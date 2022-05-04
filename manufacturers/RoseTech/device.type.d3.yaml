@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 54688617-8058-4b03-8e10-b9f3f6d971d3
+  macAddresses:
+  - 00:50:C2:4B:90:00/36
+  - 00:50:C2:63:20:00/36
+  manufacturer: Rose Technologies
+  manufacturerUri: https://device-type.com
+  name: RoseTech
+type: d3-device-type-assertion

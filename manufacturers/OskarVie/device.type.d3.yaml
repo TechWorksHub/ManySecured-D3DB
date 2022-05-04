@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4d1bc24-71ab-405b-9a6f-f8636bd91ed5
+  macAddresses:
+  - 00:D0:A1:00:00:00/24
+  manufacturer: Oskar Vierling Gmbh + Co. Kg
+  manufacturerUri: https://device-type.com
+  name: OskarVie
+type: d3-device-type-assertion

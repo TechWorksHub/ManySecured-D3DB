@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a91a058b-de42-4492-bd33-eadfd1c80c3a
+  macAddresses:
+  - 00:20:B7:00:00:00/24
+  manufacturer: Namaqua Computerware
+  manufacturerUri: https://device-type.com
+  name: NamaquaC
+type: d3-device-type-assertion

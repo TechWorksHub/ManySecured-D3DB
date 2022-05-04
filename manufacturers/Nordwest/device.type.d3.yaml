@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c3f0a91-c53c-4a2d-a1f6-a2f1048dfb05
+  macAddresses:
+  - 00:25:F3:00:00:00/24
+  manufacturer: "Nordwestdeutsche Z\xE4hlerrevision"
+  manufacturerUri: https://device-type.com
+  name: Nordwest
+type: d3-device-type-assertion

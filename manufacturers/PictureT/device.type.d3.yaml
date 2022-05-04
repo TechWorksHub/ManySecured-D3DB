@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5fab862-6deb-4907-bc13-d662a5a2d169
+  macAddresses:
+  - 00:10:1A:00:00:00/24
+  manufacturer: PictureTel Corp.
+  manufacturerUri: https://device-type.com
+  name: PictureT
+type: d3-device-type-assertion

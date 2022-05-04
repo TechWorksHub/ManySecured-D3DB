@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec37722f-09db-479f-b356-fbaba51b85d7
+  macAddresses:
+  - 00:1C:D5:00:00:00/24
+  manufacturer: ZeeVee, Inc.
+  manufacturerUri: https://device-type.com
+  name: ZeeVee
+type: d3-device-type-assertion

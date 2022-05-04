@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d988b50-c647-4ef1-bea1-9be98c716287
+  macAddresses:
+  - B8:75:C0:00:00:00/24
+  manufacturer: PayPal, Inc.
+  manufacturerUri: https://device-type.com
+  name: PayPal
+type: d3-device-type-assertion

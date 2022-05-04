@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fb766a5-4748-4dc2-9bf7-31e0c622ef2c
+  macAddresses:
+  - 00:22:76:00:00:00/24
+  manufacturer: Triple EYE B.V.
+  manufacturerUri: https://device-type.com
+  name: TripleEY
+type: d3-device-type-assertion

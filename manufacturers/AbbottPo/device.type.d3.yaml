@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b49247ca-3b01-435a-9533-039d3ce6ff4f
+  macAddresses:
+  - C0:A2:6D:00:00:00/24
+  manufacturer: Abbott Point of Care
+  manufacturerUri: https://device-type.com
+  name: AbbottPo
+type: d3-device-type-assertion

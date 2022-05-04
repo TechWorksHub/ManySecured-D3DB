@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb3b1128-84ac-4989-aa72-765616dd55b5
+  macAddresses:
+  - 74:F7:26:00:00:00/24
+  manufacturer: Neuron Robotics
+  manufacturerUri: https://device-type.com
+  name: NeuronRo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21250549-2c73-44dc-bbc9-6f249fed6b4d
+  macAddresses:
+  - 00:0A:0B:00:00:00/24
+  manufacturer: Sealevel Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Sealevel
+type: d3-device-type-assertion

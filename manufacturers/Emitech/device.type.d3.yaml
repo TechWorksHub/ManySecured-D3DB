@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 5260425f-8cba-4e6c-a8f7-21bdca7dce15
+  macAddresses:
+  - 00:1D:83:00:00:00/24
+  - 00:26:48:00:00:00/24
+  - 00:50:C2:7C:F0:00/36
+  - 00:50:C2:96:50:00/36
+  manufacturer: Emitech Corporation
+  manufacturerUri: https://device-type.com
+  name: Emitech
+type: d3-device-type-assertion

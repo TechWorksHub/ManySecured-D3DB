@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7cc10fe-ce21-49cf-82f0-8b29cbc7bba8
+  macAddresses:
+  - 00:13:EC:00:00:00/24
+  manufacturer: Netsnapper Technologies SARL
+  manufacturerUri: https://device-type.com
+  name: Netsnapp
+type: d3-device-type-assertion

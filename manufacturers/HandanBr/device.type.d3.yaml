@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1eb5850-c8f8-4f09-88e3-f1a7e3eb7053
+  macAddresses:
+  - 00:02:FF:00:00:00/24
+  manufacturer: Handan BroadInfoCom
+  manufacturerUri: https://device-type.com
+  name: HandanBr
+type: d3-device-type-assertion

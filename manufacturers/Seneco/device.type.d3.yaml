@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c37b1e28-abae-485e-ad85-b75e099894ca
+  macAddresses:
+  - 50:A4:D0:20:00:00/28
+  - 70:B3:D5:32:70:00/36
+  manufacturer: Seneco A/S
+  manufacturerUri: https://device-type.com
+  name: Seneco
+type: d3-device-type-assertion

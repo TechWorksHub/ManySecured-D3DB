@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 990ec29b-8e85-4776-88dd-5ed5c6c1ceb0
+  macAddresses:
+  - 00:80:F1:00:00:00/24
+  manufacturer: Opus Systems
+  manufacturerUri: https://device-type.com
+  name: Opus
+type: d3-device-type-assertion

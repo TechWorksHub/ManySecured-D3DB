@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3356c66-ae18-4ee7-a0c0-7df43d8f8914
+  macAddresses:
+  - 00:80:01:00:00:00/24
+  manufacturer: Periphonics Corporation
+  manufacturerUri: https://device-type.com
+  name: Periphon
+type: d3-device-type-assertion

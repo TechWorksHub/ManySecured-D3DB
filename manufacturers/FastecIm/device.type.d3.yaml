@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f81c528-a12a-4ded-853c-2a684b23f60c
+  macAddresses:
+  - A4:1B:C0:00:00:00/24
+  manufacturer: Fastec Imaging Corporation
+  manufacturerUri: https://device-type.com
+  name: FastecIm
+type: d3-device-type-assertion

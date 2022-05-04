@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a1b5c5e-923b-4dfc-b7dc-86d6af0f8c1c
+  macAddresses:
+  - 00:1A:71:00:00:00/24
+  manufacturer: Diostech Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Diostech
+type: d3-device-type-assertion

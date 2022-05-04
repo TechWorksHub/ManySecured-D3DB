@@ -1,0 +1,12 @@
+credentialSubject:
+  id: c856eb6d-e5ea-4fae-956d-e36caa05774b
+  macAddresses:
+  - 00:01:7A:00:00:00/24
+  - 34:29:8F:10:00:00/28
+  - 40:D8:55:1D:F0:00/36
+  - 48:E1:E9:00:00:00/24
+  - 70:B3:D5:C9:50:00/36
+  manufacturer: Chengdu Maipu Electric Industrial Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: ChengduM
+type: d3-device-type-assertion

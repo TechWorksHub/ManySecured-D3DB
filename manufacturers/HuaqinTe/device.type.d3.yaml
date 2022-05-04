@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 04910b46-ba92-4a5f-95fe-9444da2607b7
+  macAddresses:
+  - 64:33:B5:10:00:00/28
+  - 78:D4:F1:50:00:00/28
+  - 98:8F:E0:60:00:00/28
+  - D0:5F:64:30:00:00/28
+  - D4:7C:44:D0:00:00/28
+  - D8:6C:02:00:00:00/24
+  - E8:6C:C7:70:00:00/28
+  - F4:69:D5:C0:00:00/28
+  manufacturer: Huaqin Telecom Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: HuaqinTe
+type: d3-device-type-assertion

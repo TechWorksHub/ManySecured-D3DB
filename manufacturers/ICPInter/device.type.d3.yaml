@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d2a0c31-4acd-4311-8c37-d625cea1d9e3
+  macAddresses:
+  - 00:12:16:00:00:00/24
+  manufacturer: ICP Internet Communication Payment AG
+  manufacturerUri: https://device-type.com
+  name: ICPInter
+type: d3-device-type-assertion

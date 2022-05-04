@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 15fb500b-7338-438e-a14b-2f8e626d2f27
+  macAddresses:
+  - 00:0C:9F:00:00:00/24
+  manufacturer: NKE Corporation
+  manufacturerUri: https://device-type.com
+  name: NKE
+type: d3-device-type-assertion

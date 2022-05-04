@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a1e11ca-f35b-439c-8648-65fd89bc1bc0
+  macAddresses:
+  - 00:10:EF:00:00:00/24
+  manufacturer: Dbtel Incorporated
+  manufacturerUri: https://device-type.com
+  name: Dbtel
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05a0daa7-d842-4b95-b5ce-d0a4a1284509
+  macAddresses:
+  - 00:10:0E:00:00:00/24
+  manufacturer: Micro Linear Coporation
+  manufacturerUri: https://device-type.com
+  name: MicroLin
+type: d3-device-type-assertion

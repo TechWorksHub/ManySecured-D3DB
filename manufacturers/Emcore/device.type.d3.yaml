@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 224a7b38-a569-47a7-8689-7da8af7a2347
+  macAddresses:
+  - 00:0D:C4:00:00:00/24
+  manufacturer: Emcore Corporation
+  manufacturerUri: https://device-type.com
+  name: Emcore
+type: d3-device-type-assertion

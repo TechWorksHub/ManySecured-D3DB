@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03061f44-50f7-4b00-9911-3fa0354184fc
+  macAddresses:
+  - 00:10:8D:00:00:00/24
+  manufacturer: Johnson Controls, Inc.
+  manufacturerUri: https://device-type.com
+  name: JohnsonC
+type: d3-device-type-assertion

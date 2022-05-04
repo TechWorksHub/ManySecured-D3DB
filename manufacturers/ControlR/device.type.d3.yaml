@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a83ed10f-1802-47f6-b320-46499f7f100b
+  macAddresses:
+  - 00:E0:80:00:00:00/24
+  manufacturer: Control Resources Corporation
+  manufacturerUri: https://device-type.com
+  name: ControlR
+type: d3-device-type-assertion

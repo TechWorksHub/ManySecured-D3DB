@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0aeea898-6489-4e63-87cf-894663f18fb9
+  macAddresses:
+  - 00:01:C8:00:00:00/24
+  - 00:80:13:00:00:00/24
+  manufacturer: Thomas Conrad Corp.
+  manufacturerUri: https://device-type.com
+  name: ThomasCo
+type: d3-device-type-assertion

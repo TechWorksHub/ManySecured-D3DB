@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7b2c6ab-db69-4e9d-a68b-0461e330b3aa
+  macAddresses:
+  - 00:15:DC:00:00:00/24
+  manufacturer: KT&C Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KT&C
+type: d3-device-type-assertion

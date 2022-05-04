@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e17a727-02ac-4932-9af0-4dedd2b6dc8f
+  macAddresses:
+  - 00:1F:11:00:00:00/24
+  manufacturer: Openmoko, Inc.
+  manufacturerUri: https://device-type.com
+  name: Openmoko
+type: d3-device-type-assertion

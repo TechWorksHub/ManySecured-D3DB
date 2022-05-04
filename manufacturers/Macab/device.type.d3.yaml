@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1df5aa5f-6897-44ee-8a74-9e4f51088561
+  macAddresses:
+  - 00:1C:4F:00:00:00/24
+  manufacturer: Macab Ab
+  manufacturerUri: https://device-type.com
+  name: Macab
+type: d3-device-type-assertion

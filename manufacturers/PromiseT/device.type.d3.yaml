@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b5e777d-76fd-49a9-8ed2-6c84a22cda89
+  macAddresses:
+  - 00:01:55:00:00:00/24
+  manufacturer: Promise Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: PromiseT
+type: d3-device-type-assertion

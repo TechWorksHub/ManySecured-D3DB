@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86af491e-abbf-4ef4-93c0-71c63de4d18c
+  macAddresses:
+  - 0C:8C:DC:00:00:00/24
+  manufacturer: Suunto Oy
+  manufacturerUri: https://device-type.com
+  name: Suunto
+type: d3-device-type-assertion

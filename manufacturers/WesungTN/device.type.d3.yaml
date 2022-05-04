@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c874cb04-34c3-4c4d-bd1a-38dad6aa7a77
+  macAddresses:
+  - 00:21:71:00:00:00/24
+  manufacturer: Wesung TNC Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: WesungTN
+type: d3-device-type-assertion

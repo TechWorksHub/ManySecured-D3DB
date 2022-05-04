@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9931e3e2-5d16-4af6-bfc6-0a7fd9165325
+  macAddresses:
+  - 00:E0:29:00:00:00/24
+  manufacturer: SMC EtherPower II 10/100
+  manufacturerUri: https://device-type.com
+  name: SmcEther
+type: d3-device-type-assertion

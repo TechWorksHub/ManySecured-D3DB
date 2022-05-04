@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ac50d27-6e11-455e-92e4-dda6eb7a4010
+  macAddresses:
+  - 00:A0:44:00:00:00/24
+  manufacturer: Ntt It Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NttIt
+type: d3-device-type-assertion

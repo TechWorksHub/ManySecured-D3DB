@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3b143ca4-a11a-4b86-9401-9bf677928645
+  macAddresses:
+  - 00:50:C2:66:E0:00/36
+  - F0:D1:4F:00:00:00/24
+  manufacturer: Linear Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: Linear
+type: d3-device-type-assertion

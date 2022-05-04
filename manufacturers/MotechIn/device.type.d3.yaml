@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f944c09-36e3-4cad-9f66-f562f88075ef
+  macAddresses:
+  - 00:17:F8:00:00:00/24
+  manufacturer: Motech Industries Inc.
+  manufacturerUri: https://device-type.com
+  name: MotechIn
+type: d3-device-type-assertion

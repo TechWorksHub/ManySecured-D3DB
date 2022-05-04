@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c31b8a6c-7ee2-4364-b96f-04afce6661cc
+  macAddresses:
+  - 00:50:C2:56:40:00/36
+  - 70:B3:D5:EB:A0:00/36
+  manufacturer: Last Mile Gear
+  manufacturerUri: https://device-type.com
+  name: LastMile
+type: d3-device-type-assertion

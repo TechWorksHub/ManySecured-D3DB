@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d28d9f8b-4158-406d-b988-6d8aa9f538d3
+  macAddresses:
+  - 00:16:B0:00:00:00/24
+  manufacturer: VK Corporation
+  manufacturerUri: https://device-type.com
+  name: VK
+type: d3-device-type-assertion

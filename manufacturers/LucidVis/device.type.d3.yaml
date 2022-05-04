@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 688cc431-6451-4653-8e3c-50612b45a0fb
+  macAddresses:
+  - 1C:0F:AF:00:00:00/24
+  manufacturer: Lucid Vision Labs
+  manufacturerUri: https://device-type.com
+  name: LucidVis
+type: d3-device-type-assertion

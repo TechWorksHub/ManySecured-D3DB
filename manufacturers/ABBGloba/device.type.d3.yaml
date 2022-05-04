@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0b95ed1-80c6-4902-8ec2-ade738eda02f
+  macAddresses:
+  - 50:31:AD:00:00:00/24
+  manufacturer: ABB Global Industries and Services Private Limited
+  manufacturerUri: https://device-type.com
+  name: ABBGloba
+type: d3-device-type-assertion

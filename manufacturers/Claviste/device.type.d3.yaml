@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd77ff6d-0c89-49ab-a8db-4a05a6152a7e
+  macAddresses:
+  - 40:84:93:00:00:00/24
+  manufacturer: Clavister AB
+  manufacturerUri: https://device-type.com
+  name: Claviste
+type: d3-device-type-assertion

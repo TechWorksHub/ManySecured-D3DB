@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d624b8b1-4a09-4601-8fdd-a9c0932103f1
+  macAddresses:
+  - 40:D8:55:03:A0:00/36
+  - 78:FE:41:00:00:00/24
+  manufacturer: Socus networks
+  manufacturerUri: https://device-type.com
+  name: Socusnet
+type: d3-device-type-assertion

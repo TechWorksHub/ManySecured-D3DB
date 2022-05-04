@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0755ee54-1f0d-42e1-a990-5c07fe90bdbc
+  macAddresses:
+  - 00:E0:5A:00:00:00/24
+  manufacturer: Galea Network Security
+  manufacturerUri: https://device-type.com
+  name: GaleaNet
+type: d3-device-type-assertion

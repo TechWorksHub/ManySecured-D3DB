@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22e13059-1e4b-471e-841f-8b8d6302883b
+  macAddresses:
+  - 00:1E:E0:00:00:00/24
+  manufacturer: Urmet SpA
+  manufacturerUri: https://device-type.com
+  name: Urmet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e96545b-fb05-4198-9682-fe893729572f
+  macAddresses:
+  - C0:A1:A2:00:00:00/24
+  manufacturer: MarqMetrix
+  manufacturerUri: https://device-type.com
+  name: MarqMetr
+type: d3-device-type-assertion

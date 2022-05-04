@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb5f7daf-7516-481f-a377-16d89fc7342d
+  macAddresses:
+  - 00:10:08:00:00:00/24
+  manufacturer: Vienna Systems Corporation
+  manufacturerUri: https://device-type.com
+  name: Vienna
+type: d3-device-type-assertion

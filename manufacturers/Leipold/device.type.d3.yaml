@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb0be59e-982e-44e8-977f-ee1baef3a09c
+  macAddresses:
+  - 00:15:15:00:00:00/24
+  manufacturer: Leipold+Co.GmbH
+  manufacturerUri: https://device-type.com
+  name: Leipold
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c11436e6-d746-4f02-b63c-acb53547a70d
+  macAddresses:
+  - 00:06:B5:00:00:00/24
+  - 00:1F:22:00:00:00/24
+  manufacturer: Source Photonics, Inc.
+  manufacturerUri: https://device-type.com
+  name: SourcePh
+type: d3-device-type-assertion

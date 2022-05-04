@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cdc1ac8e-f989-4b98-b292-67aca9a155d2
+  macAddresses:
+  - 00:14:3A:00:00:00/24
+  manufacturer: Raytalk International Srl
+  manufacturerUri: https://device-type.com
+  name: RaytalkI
+type: d3-device-type-assertion

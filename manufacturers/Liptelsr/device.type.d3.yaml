@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d2b2c04-b196-4c39-b8ff-9e311b33a9ac
+  macAddresses:
+  - 60:45:5E:00:00:00/24
+  manufacturer: Liptel s.r.o.
+  manufacturerUri: https://device-type.com
+  name: Liptelsr
+type: d3-device-type-assertion

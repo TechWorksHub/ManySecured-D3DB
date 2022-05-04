@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b51d632a-1476-41bb-84fc-412309269380
+  macAddresses:
+  - 00:13:3A:00:00:00/24
+  manufacturer: VadaTech Inc.
+  manufacturerUri: https://device-type.com
+  name: VadaTech
+type: d3-device-type-assertion

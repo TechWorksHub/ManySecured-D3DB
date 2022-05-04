@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e9f501e-08ec-4ab7-a687-64e474736bd9
+  macAddresses:
+  - 00:03:51:00:00:00/24
+  manufacturer: Diebold, Inc.
+  manufacturerUri: https://device-type.com
+  name: Diebold
+type: d3-device-type-assertion

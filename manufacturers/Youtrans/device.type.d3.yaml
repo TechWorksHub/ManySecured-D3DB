@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 192f13b1-a6c4-47d7-8711-5430230efa0a
+  macAddresses:
+  - 78:5E:E8:00:00:00/28
+  manufacturer: Youtransactor
+  manufacturerUri: https://device-type.com
+  name: Youtrans
+type: d3-device-type-assertion

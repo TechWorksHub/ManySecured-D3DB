@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b0b1e60-a98a-4e76-bc39-4966f11b0341
+  macAddresses:
+  - 00:0A:0A:00:00:00/24
+  manufacturer: SUNIX Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SUNIX
+type: d3-device-type-assertion

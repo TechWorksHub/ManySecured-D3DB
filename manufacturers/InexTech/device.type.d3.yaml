@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74d9494c-b9fd-495a-bb5d-e0462087559a
+  macAddresses:
+  - 00:C0:BD:00:00:00/24
+  manufacturer: Inex Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: InexTech
+type: d3-device-type-assertion

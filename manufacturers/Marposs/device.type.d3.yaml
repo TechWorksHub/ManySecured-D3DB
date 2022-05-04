@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 433b57f5-9124-4c84-adcb-242ef2d38cb5
+  macAddresses:
+  - 00:50:C2:53:C0:00/36
+  - 3C:39:E7:E0:00:00/28
+  - 40:D8:55:14:E0:00/36
+  manufacturer: Marposs SPA
+  manufacturerUri: https://device-type.com
+  name: Marposs
+type: d3-device-type-assertion

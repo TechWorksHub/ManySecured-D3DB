@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfbf5ee8-a6ef-418d-8bab-ef7a79e0f1a6
+  macAddresses:
+  - 00:21:9D:00:00:00/24
+  manufacturer: Adesys BV
+  manufacturerUri: https://device-type.com
+  name: Adesys
+type: d3-device-type-assertion

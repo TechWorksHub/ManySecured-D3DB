@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a000edd-bf86-4df2-8632-fd0e803f6ac4
+  macAddresses:
+  - 00:01:49:00:00:00/24
+  manufacturer: Tdt Ag
+  manufacturerUri: https://device-type.com
+  name: Tdt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08f65f05-e612-4cc0-a055-ae60004673d4
+  macAddresses:
+  - 00:0D:7D:00:00:00/24
+  manufacturer: Afco Systems
+  manufacturerUri: https://device-type.com
+  name: Afco
+type: d3-device-type-assertion

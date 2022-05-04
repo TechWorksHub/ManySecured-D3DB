@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 574c0380-49bd-488f-af41-59dd28e00be9
+  macAddresses:
+  - 00:90:C6:00:00:00/24
+  manufacturer: Optim Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Optim
+type: d3-device-type-assertion

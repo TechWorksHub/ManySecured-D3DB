@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7a92912-4ae3-42f7-814f-813b00dcee1d
+  macAddresses:
+  - 00:50:C2:F4:70:00/36
+  manufacturer: cadac,inc.
+  manufacturerUri: https://device-type.com
+  name: cadac
+type: d3-device-type-assertion

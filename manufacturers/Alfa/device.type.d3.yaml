@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98dbb7cd-c612-4a7c-8b85-002cf81a5d16
+  macAddresses:
+  - 00:C0:CA:00:00:00/24
+  manufacturer: Alfa, Inc.
+  manufacturerUri: https://device-type.com
+  name: Alfa
+type: d3-device-type-assertion

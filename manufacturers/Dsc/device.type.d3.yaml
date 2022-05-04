@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02195488-f0a5-4cff-bd0b-e42ed36728ee
+  macAddresses:
+  - 00:60:21:00:00:00/24
+  manufacturer: Dsc Corporation
+  manufacturerUri: https://device-type.com
+  name: Dsc
+type: d3-device-type-assertion

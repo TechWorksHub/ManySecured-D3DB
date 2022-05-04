@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed962a64-1a59-4008-8903-ee5dfd4f23c2
+  macAddresses:
+  - 00:21:2F:00:00:00/24
+  manufacturer: Phoebe Micro Inc.
+  manufacturerUri: https://device-type.com
+  name: PhoebeMi
+type: d3-device-type-assertion

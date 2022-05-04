@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cac97db-9698-43cd-9f2d-b97ffa3d626a
+  macAddresses:
+  - 1C:CA:E3:80:00:00/28
+  manufacturer: OxySec S.r.l.
+  manufacturerUri: https://device-type.com
+  name: OxySec
+type: d3-device-type-assertion

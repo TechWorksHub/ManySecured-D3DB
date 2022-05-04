@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3868bf9b-88e7-434c-9335-81412d4c319d
+  macAddresses:
+  - 20:8C:47:00:00:00/24
+  manufacturer: Tenstorrent Inc
+  manufacturerUri: https://device-type.com
+  name: Tenstorr
+type: d3-device-type-assertion

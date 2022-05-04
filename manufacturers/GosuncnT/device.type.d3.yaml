@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e07e41e5-b829-4c81-a0ba-0bb98b79c19b
+  macAddresses:
+  - 18:FD:CB:40:00:00/28
+  - E0:46:E5:00:00:00/24
+  manufacturer: Gosuncn Technology Group Co.,LTD.
+  manufacturerUri: https://device-type.com
+  name: GosuncnT
+type: d3-device-type-assertion

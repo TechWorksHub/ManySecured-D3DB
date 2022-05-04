@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40b668ed-4db1-4df7-9659-55fdf2668d7a
+  macAddresses:
+  - 58:E8:76:40:00:00/28
+  manufacturer: Probit Srl
+  manufacturerUri: https://device-type.com
+  name: Probit
+type: d3-device-type-assertion

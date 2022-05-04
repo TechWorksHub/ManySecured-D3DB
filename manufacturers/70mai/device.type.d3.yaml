@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1a7f4fb8-bbe0-4b04-aece-842346bab1ba
+  macAddresses:
+  - 44:27:F3:00:00:00/24
+  - B8:59:C8:00:00:00/24
+  manufacturer: 70mai Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: 70mai
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e1d9c86-dbe4-4c97-a5d6-a9b6d8218f90
+  macAddresses:
+  - 00:0F:58:00:00:00/24
+  manufacturer: Adder Technology Limited
+  manufacturerUri: https://device-type.com
+  name: AdderTec
+type: d3-device-type-assertion

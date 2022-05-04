@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 3f22756e-23a3-4872-8a2b-2f2c6cc5a1ff
+  macAddresses:
+  - 00:05:69:00:00:00/24
+  - 00:0C:29:00:00:00/24
+  - 00:1C:14:00:00:00/24
+  - 00:50:56:00:00:00/24
+  manufacturer: VMware, Inc.
+  manufacturerUri: https://device-type.com
+  name: VMware
+type: d3-device-type-assertion

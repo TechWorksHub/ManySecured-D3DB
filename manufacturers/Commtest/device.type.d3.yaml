@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c4a9219-d093-46b8-befb-623030581209
+  macAddresses:
+  - 00:1D:EA:00:00:00/24
+  manufacturer: Commtest Instruments Ltd
+  manufacturerUri: https://device-type.com
+  name: Commtest
+type: d3-device-type-assertion

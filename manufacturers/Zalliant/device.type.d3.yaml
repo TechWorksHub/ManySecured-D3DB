@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e0331f9-7dd6-41e6-bf78-b864071c0ecc
+  macAddresses:
+  - 28:1B:04:00:00:00/24
+  manufacturer: Zalliant LLC
+  manufacturerUri: https://device-type.com
+  name: Zalliant
+type: d3-device-type-assertion

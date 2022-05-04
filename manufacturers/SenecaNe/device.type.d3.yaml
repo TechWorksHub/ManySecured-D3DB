@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc42e7d4-a2e1-4ff3-b4a1-bc7706689887
+  macAddresses:
+  - 00:03:F2:00:00:00/24
+  manufacturer: Seneca Networks
+  manufacturerUri: https://device-type.com
+  name: SenecaNe
+type: d3-device-type-assertion

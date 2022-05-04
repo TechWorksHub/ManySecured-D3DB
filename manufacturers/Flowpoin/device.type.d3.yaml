@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52622fab-d738-45f1-a52c-dfce28ed9fcb
+  macAddresses:
+  - 00:20:6F:00:00:00/24
+  manufacturer: Flowpoint Corporation
+  manufacturerUri: https://device-type.com
+  name: Flowpoin
+type: d3-device-type-assertion

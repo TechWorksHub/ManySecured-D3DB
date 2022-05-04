@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c18a6f7-c96b-46c7-999a-dd7c42db691d
+  macAddresses:
+  - 00:C0:D4:00:00:00/24
+  manufacturer: Axon Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: AxonNetw
+type: d3-device-type-assertion

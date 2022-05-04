@@ -1,0 +1,12 @@
+credentialSubject:
+  id: f951c849-bc1b-48fa-a045-1177f498f7c5
+  macAddresses:
+  - 00:05:58:00:00:00/24
+  - 00:0F:0C:00:00:00/24
+  - 00:0F:9A:00:00:00/24
+  - 00:14:A1:00:00:00/24
+  - 94:CC:04:E0:00:00/28
+  manufacturer: Synchronous, Inc.
+  manufacturerUri: https://device-type.com
+  name: Synchron
+type: d3-device-type-assertion

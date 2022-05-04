@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b05e00d-30ba-444c-a1d2-710b2fea9265
+  macAddresses:
+  - 00:22:47:00:00:00/24
+  manufacturer: Dac Engineering Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DacEngin
+type: d3-device-type-assertion

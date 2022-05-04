@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6deff21-e61f-45ce-be27-3588c2ad88ca
+  macAddresses:
+  - 00:10:CB:00:00:00/24
+  manufacturer: Facit K.K.
+  manufacturerUri: https://device-type.com
+  name: Facit
+type: d3-device-type-assertion

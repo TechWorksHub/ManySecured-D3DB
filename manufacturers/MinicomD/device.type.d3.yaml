@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a562b46-0e27-43c8-81a9-956d621db4c5
+  macAddresses:
+  - C0:3B:8F:00:00:00/24
+  manufacturer: Minicom Digital Signage
+  manufacturerUri: https://device-type.com
+  name: MinicomD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63572cf5-a3f8-48f0-be79-8f247c9844ce
+  macAddresses:
+  - 00:C0:DE:00:00:00/24
+  manufacturer: Zcomm, Inc.
+  manufacturerUri: https://device-type.com
+  name: Zcomm
+type: d3-device-type-assertion

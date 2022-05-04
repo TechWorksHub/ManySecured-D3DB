@@ -1,0 +1,8 @@
+credentialSubject:
+  id: efccfb52-a904-407a-8c9d-97113d92e61e
+  macAddresses:
+  - 08:00:0D:00:00:00/24
+  manufacturer: ICL (International Computers, Ltd.)
+  manufacturerUri: https://device-type.com
+  name: IclInter
+type: d3-device-type-assertion

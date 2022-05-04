@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86bbf967-1a83-4c88-8bed-51e50ae1538e
+  macAddresses:
+  - 00:17:C1:00:00:00/24
+  manufacturer: CM Precision Technology LTD.
+  manufacturerUri: https://device-type.com
+  name: CMPrecis
+type: d3-device-type-assertion

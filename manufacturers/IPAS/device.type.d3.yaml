@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61b0d0cc-401f-411f-896c-e7a730781fbc
+  macAddresses:
+  - 00:05:26:00:00:00/24
+  manufacturer: IPAS GmbH
+  manufacturerUri: https://device-type.com
+  name: IPAS
+type: d3-device-type-assertion

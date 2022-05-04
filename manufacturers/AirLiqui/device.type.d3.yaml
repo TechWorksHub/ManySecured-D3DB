@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d8880c9-eed5-4616-8d7b-899f3ee0f4a7
+  macAddresses:
+  - A4:58:0F:80:00:00/28
+  manufacturer: Air Liquide Medical Systems
+  manufacturerUri: https://device-type.com
+  name: AirLiqui
+type: d3-device-type-assertion

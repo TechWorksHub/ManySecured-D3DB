@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2207132c-73ce-42bf-9db3-7bad1ccce136
+  macAddresses:
+  - 00:50:03:00:00:00/24
+  manufacturer: Xrite Inc
+  manufacturerUri: https://device-type.com
+  name: Xrite
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1c3c520-902c-491b-975f-5bae3ebadd6f
+  macAddresses:
+  - 00:06:2E:00:00:00/24
+  manufacturer: Aristos Logic Corp.
+  manufacturerUri: https://device-type.com
+  name: AristosL
+type: d3-device-type-assertion

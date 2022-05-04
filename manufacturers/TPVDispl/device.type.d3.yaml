@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2e849805-bb6b-4efe-b9fd-cb89a2b7fa45
+  macAddresses:
+  - 00:D2:B1:00:00:00/24
+  - A8:4A:63:00:00:00/24
+  manufacturer: TPV Display Technology (Xiamen) Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: TPVDispl
+type: d3-device-type-assertion

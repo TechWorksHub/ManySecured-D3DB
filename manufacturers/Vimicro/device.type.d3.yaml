@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50a8e571-e393-4703-a0c5-d0cfaa662e72
+  macAddresses:
+  - 00:16:8E:00:00:00/24
+  manufacturer: Vimicro corporation
+  manufacturerUri: https://device-type.com
+  name: Vimicro
+type: d3-device-type-assertion

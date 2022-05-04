@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3c04e820-8db1-4fc5-b1ae-5c4d9e4c20fb
+  macAddresses:
+  - 00:05:F9:00:00:00/24
+  - 00:50:C2:51:C0:00/36
+  manufacturer: TOA Corporation
+  manufacturerUri: https://device-type.com
+  name: TOA
+type: d3-device-type-assertion

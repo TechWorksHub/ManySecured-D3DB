@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83410a9f-8243-4d73-8eb6-a206a4e8c836
+  macAddresses:
+  - 00:11:69:00:00:00/24
+  manufacturer: EMS Satcom
+  manufacturerUri: https://device-type.com
+  name: EMSSatco
+type: d3-device-type-assertion

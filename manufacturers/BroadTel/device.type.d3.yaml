@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fefc7ab5-fc89-4db5-a7d9-5b680fc32e27
+  macAddresses:
+  - 00:08:80:00:00:00/24
+  - 48:C0:49:00:00:00/24
+  manufacturer: BroadTel Canada Communications inc.
+  manufacturerUri: https://device-type.com
+  name: BroadTel
+type: d3-device-type-assertion

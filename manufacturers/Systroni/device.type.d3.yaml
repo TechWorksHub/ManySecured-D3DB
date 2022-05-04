@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01998a79-71ce-4c35-abad-aba589bbeec0
+  macAddresses:
+  - 00:0B:1B:00:00:00/24
+  manufacturer: Systronix, Inc.
+  manufacturerUri: https://device-type.com
+  name: Systroni
+type: d3-device-type-assertion

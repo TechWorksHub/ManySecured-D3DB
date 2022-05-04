@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc167499-89fd-44b1-bead-d4ae803701ab
+  macAddresses:
+  - 00:23:1C:00:00:00/24
+  manufacturer: Fourier Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: Fourier
+type: d3-device-type-assertion

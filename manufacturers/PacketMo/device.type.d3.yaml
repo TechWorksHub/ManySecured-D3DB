@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 804a92e0-b799-498b-bb2d-9dafd5cae6f7
+  macAddresses:
+  - 00:13:6F:00:00:00/24
+  manufacturer: PacketMotion, Inc.
+  manufacturerUri: https://device-type.com
+  name: PacketMo
+type: d3-device-type-assertion

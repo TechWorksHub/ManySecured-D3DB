@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fa702fff-be45-4b99-9320-017b3639e26e
+  macAddresses:
+  - 00:50:C2:71:C0:00/36
+  - 00:50:C2:7B:30:00/36
+  - 00:50:C2:82:D0:00/36
+  manufacturer: Elmec Inc.
+  manufacturerUri: https://device-type.com
+  name: Elmec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06eea8f1-c349-44cd-9879-b20d68e3f9ae
+  macAddresses:
+  - BC:03:A7:00:00:00/24
+  manufacturer: Mfp Michelin
+  manufacturerUri: https://device-type.com
+  name: MfpMiche
+type: d3-device-type-assertion

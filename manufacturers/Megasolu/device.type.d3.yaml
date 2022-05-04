@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f49f5a97-4f37-4e09-9318-6e1dd4e6e640
+  macAddresses:
+  - 00:0E:FF:00:00:00/24
+  manufacturer: Megasolution,Inc.
+  manufacturerUri: https://device-type.com
+  name: Megasolu
+type: d3-device-type-assertion

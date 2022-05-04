@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0e3afd6d-d210-4d66-82fb-08753f4d39f6
+  macAddresses:
+  - 00:50:C2:83:D0:00/36
+  - D8:DF:0D:00:00:00/24
+  manufacturer: beroNet GmbH
+  manufacturerUri: https://device-type.com
+  name: beroNet
+type: d3-device-type-assertion

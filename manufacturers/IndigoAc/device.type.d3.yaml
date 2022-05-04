@@ -1,0 +1,8 @@
+credentialSubject:
+  id: caf04cfa-631c-4539-8ed6-065dfa2257d8
+  macAddresses:
+  - 00:90:AA:00:00:00/24
+  manufacturer: Indigo Active Vision Systems Limited
+  manufacturerUri: https://device-type.com
+  name: IndigoAc
+type: d3-device-type-assertion

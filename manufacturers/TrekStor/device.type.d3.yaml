@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11fecbc7-f7c4-4431-a300-e2197fbc14cb
+  macAddresses:
+  - AC:A9:19:00:00:00/24
+  manufacturer: TrekStor GmbH
+  manufacturerUri: https://device-type.com
+  name: TrekStor
+type: d3-device-type-assertion

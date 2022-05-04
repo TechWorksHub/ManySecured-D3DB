@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 422eac22-7aef-4812-bed1-98581a8029f2
+  macAddresses:
+  - 00:05:61:00:00:00/24
+  manufacturer: nac Image Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: nacImage
+type: d3-device-type-assertion

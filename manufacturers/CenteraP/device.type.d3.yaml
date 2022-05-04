@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c3fcf0e-f8da-48f6-83a9-5e97df7c2add
+  macAddresses:
+  - 84:9D:C5:00:00:00/24
+  manufacturer: Centera Photonics Inc.
+  manufacturerUri: https://device-type.com
+  name: CenteraP
+type: d3-device-type-assertion

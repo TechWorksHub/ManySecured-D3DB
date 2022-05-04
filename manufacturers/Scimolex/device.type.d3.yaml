@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0c5cdaf-ca01-43cb-81d6-b9f0ad58a4b3
+  macAddresses:
+  - 00:21:2D:00:00:00/24
+  manufacturer: Scimolex Corporation
+  manufacturerUri: https://device-type.com
+  name: Scimolex
+type: d3-device-type-assertion

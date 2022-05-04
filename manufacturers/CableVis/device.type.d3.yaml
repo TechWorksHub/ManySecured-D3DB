@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c758408-9b78-4cb2-867c-b0980ae63a65
+  macAddresses:
+  - 00:19:FA:00:00:00/24
+  manufacturer: Cable Vision Electronics CO., LTD.
+  manufacturerUri: https://device-type.com
+  name: CableVis
+type: d3-device-type-assertion

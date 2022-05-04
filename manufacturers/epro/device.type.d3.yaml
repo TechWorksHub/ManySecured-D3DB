@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dded632e-9491-461f-9052-3a7e164fff82
+  macAddresses:
+  - 00:22:C4:00:00:00/24
+  manufacturer: epro GmbH
+  manufacturerUri: https://device-type.com
+  name: epro
+type: d3-device-type-assertion

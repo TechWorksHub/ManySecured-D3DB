@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e7aa36e1-50a0-41cb-bd32-53490e6a34b0
+  macAddresses:
+  - 40:D8:55:07:70:00/36
+  - A4:ED:43:E0:00:00/28
+  manufacturer: Toec Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: ToecTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b2b7f6c-9bf8-4da1-bcfa-ea1fbebc4de1
+  macAddresses:
+  - F0:2A:61:00:00:00/24
+  manufacturer: Waldo Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: WaldoNet
+type: d3-device-type-assertion

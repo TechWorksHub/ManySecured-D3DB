@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e1bfe83-6ef0-44c1-b71c-f2a7e04f8306
+  macAddresses:
+  - 78:D4:F1:10:00:00/28
+  manufacturer: Silla Industries
+  manufacturerUri: https://device-type.com
+  name: SillaInd
+type: d3-device-type-assertion

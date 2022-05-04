@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68f87514-10bd-4f8e-b268-039ba4b2da60
+  macAddresses:
+  - 00:20:BF:00:00:00/24
+  manufacturer: Aehr Test Systems
+  manufacturerUri: https://device-type.com
+  name: AehrTest
+type: d3-device-type-assertion

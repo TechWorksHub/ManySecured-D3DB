@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed3124ab-7db9-4e70-a568-65c8e674e66e
+  macAddresses:
+  - 00:10:50:00:00:00/24
+  manufacturer: Rion Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Rion
+type: d3-device-type-assertion

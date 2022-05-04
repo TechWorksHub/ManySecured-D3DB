@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d693bfa4-b21f-4be4-96a4-f14077c87e96
+  macAddresses:
+  - 00:50:C2:61:80:00/36
+  - 08:00:36:00:00:00/24
+  manufacturer: Intergrated Security Mfg. Ltd
+  manufacturerUri: https://device-type.com
+  name: Intergra
+type: d3-device-type-assertion

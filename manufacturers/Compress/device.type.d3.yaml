@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab6236b0-4af0-4df4-a8b5-e22aa4cdb563
+  macAddresses:
+  - DC:A7:D9:00:00:00/24
+  manufacturer: Compressor Controls Corp
+  manufacturerUri: https://device-type.com
+  name: Compress
+type: d3-device-type-assertion

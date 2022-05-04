@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32d4b078-6c94-4ab0-a2e0-b5d7acba7a8d
+  macAddresses:
+  - 00:50:C2:4C:A0:00/36
+  manufacturer: Yarg Biometrics Limited
+  manufacturerUri: https://device-type.com
+  name: YargBiom
+type: d3-device-type-assertion

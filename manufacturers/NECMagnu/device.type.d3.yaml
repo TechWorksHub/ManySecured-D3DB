@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 976e15e4-2ea4-4f95-90eb-2e6ea7853030
+  macAddresses:
+  - 00:14:79:00:00:00/24
+  - 00:60:DC:00:00:00/24
+  - CC:B6:91:00:00:00/24
+  manufacturer: NEC Magnus Communications,Ltd.
+  manufacturerUri: https://device-type.com
+  name: NECMagnu
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 243b40b2-1396-4d7b-95b2-d784819c2c5c
+  macAddresses:
+  - 70:B3:D5:43:F0:00/36
+  - 70:B3:D5:D2:10:00/36
+  - 8C:1F:64:64:10:00/36
+  manufacturer: biosilver.co.,ltd
+  manufacturerUri: https://device-type.com
+  name: biosilve
+type: d3-device-type-assertion

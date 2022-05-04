@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec2a1303-e729-41ac-b591-1d099e111199
+  macAddresses:
+  - 00:1E:BA:00:00:00/24
+  manufacturer: High Density Devices AS
+  manufacturerUri: https://device-type.com
+  name: HighDens
+type: d3-device-type-assertion

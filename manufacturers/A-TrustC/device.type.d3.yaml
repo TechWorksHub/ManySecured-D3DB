@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa83c103-40da-4a3a-8443-e53cef336eb7
+  macAddresses:
+  - 00:1F:D8:00:00:00/24
+  manufacturer: A-Trust Computer Corporation
+  manufacturerUri: https://device-type.com
+  name: A-TrustC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 71dcf706-3c24-4fa2-abeb-358a36052d08
+  macAddresses:
+  - 00:80:AD:00:00:00/24
+  - 80:AD:00:00:00:00/24
+  manufacturer: Cnet Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: CnetTech
+type: d3-device-type-assertion

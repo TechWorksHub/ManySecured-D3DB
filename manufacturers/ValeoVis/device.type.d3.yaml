@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a52379c7-a76c-4267-abc7-3bd586895775
+  macAddresses:
+  - 18:7C:81:00:00:00/24
+  - 94:F2:BB:00:00:00/24
+  manufacturer: Valeo Vision Systems
+  manufacturerUri: https://device-type.com
+  name: ValeoVis
+type: d3-device-type-assertion

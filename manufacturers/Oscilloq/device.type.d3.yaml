@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc7f0d24-249a-4602-b98e-89daeae2d945
+  macAddresses:
+  - 00:01:20:00:00:00/24
+  manufacturer: Oscilloquartz S.A.
+  manufacturerUri: https://device-type.com
+  name: Oscilloq
+type: d3-device-type-assertion

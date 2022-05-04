@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07315790-efc0-4d01-9d83-cfd538ef42a1
+  macAddresses:
+  - 00:05:2E:00:00:00/24
+  manufacturer: Cinta Networks
+  manufacturerUri: https://device-type.com
+  name: CintaNet
+type: d3-device-type-assertion

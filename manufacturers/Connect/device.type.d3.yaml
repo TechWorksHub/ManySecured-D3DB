@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aae9786-bdde-44bd-a46e-acfb98ffac7e
+  macAddresses:
+  - 00:26:A7:00:00:00/24
+  manufacturer: Connect Srl
+  manufacturerUri: https://device-type.com
+  name: Connect
+type: d3-device-type-assertion

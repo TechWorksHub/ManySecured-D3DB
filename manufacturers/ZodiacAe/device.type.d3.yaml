@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcbe0e44-2bed-44e8-8dda-8c35561dac21
+  macAddresses:
+  - 54:61:72:00:00:00/24
+  manufacturer: Zodiac Aerospace Sas
+  manufacturerUri: https://device-type.com
+  name: ZodiacAe
+type: d3-device-type-assertion

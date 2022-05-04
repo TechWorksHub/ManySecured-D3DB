@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a235ff5-538c-4d68-ae4e-d741fc37aa13
+  macAddresses:
+  - 00:C0:3D:00:00:00/24
+  manufacturer: Wiesemann & Theis Gmbh
+  manufacturerUri: https://device-type.com
+  name: Wieseman
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dec2fa23-3acb-4b01-bc5d-72edc3d82037
+  macAddresses:
+  - D0:12:42:00:00:00/24
+  manufacturer: BIOS Corporation
+  manufacturerUri: https://device-type.com
+  name: BIOS
+type: d3-device-type-assertion

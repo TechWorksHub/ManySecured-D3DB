@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02038ab2-a9b1-4c6a-969f-fe0dbb419449
+  macAddresses:
+  - 00:20:16:00:00:00/24
+  manufacturer: Showa Electric Wire & Cable Co
+  manufacturerUri: https://device-type.com
+  name: ShowaEle
+type: d3-device-type-assertion

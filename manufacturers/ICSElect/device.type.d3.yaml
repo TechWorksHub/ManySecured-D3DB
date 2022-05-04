@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc623135-ab7e-49b2-b515-f0576b4e3ae5
+  macAddresses:
+  - 00:50:C2:32:80:00/36
+  - 00:50:C2:38:30:00/36
+  manufacturer: I.C.S. Electronics Limited
+  manufacturerUri: https://device-type.com
+  name: ICSElect
+type: d3-device-type-assertion

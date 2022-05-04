@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 69e89324-0ba2-43f1-b4cf-b89dd997325a
+  macAddresses:
+  - 00:1B:FE:00:00:00/24
+  manufacturer: Zavio Inc.
+  manufacturerUri: https://device-type.com
+  name: Zavio
+type: d3-device-type-assertion

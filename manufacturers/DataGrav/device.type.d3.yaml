@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8e06549-0581-482d-806b-0ae0b19e39d2
+  macAddresses:
+  - C4:6D:F1:00:00:00/24
+  manufacturer: DataGravity
+  manufacturerUri: https://device-type.com
+  name: DataGrav
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 332ad606-de19-4958-9da6-c6a4ccba4c35
+  macAddresses:
+  - 00:40:66:00:00:00/24
+  - FC:6D:D1:00:00:00/24
+  manufacturer: APRESIA Systems Ltd
+  manufacturerUri: https://device-type.com
+  name: APRESIA
+type: d3-device-type-assertion

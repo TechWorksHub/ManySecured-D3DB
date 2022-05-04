@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d261ae2-de7c-45f4-beae-5c5d44669d30
+  macAddresses:
+  - 00:06:15:00:00:00/24
+  manufacturer: Kimoto Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KimotoEl
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea29f277-ac20-4e21-836b-cb9c1591b9ca
+  macAddresses:
+  - 00:80:85:00:00:00/24
+  manufacturer: H-Three Systems Corporation
+  manufacturerUri: https://device-type.com
+  name: H-Three
+type: d3-device-type-assertion

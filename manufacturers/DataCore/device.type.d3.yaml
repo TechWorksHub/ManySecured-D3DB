@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d4d0845-8061-449c-95fd-b596166a21ad
+  macAddresses:
+  - 44:9F:7F:00:00:00/24
+  manufacturer: DataCore Software Corporation
+  manufacturerUri: https://device-type.com
+  name: DataCore
+type: d3-device-type-assertion

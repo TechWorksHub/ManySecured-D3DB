@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 040eb615-9103-4881-b98f-15436e271738
+  macAddresses:
+  - 00:03:C5:00:00:00/24
+  manufacturer: Mobotix AG
+  manufacturerUri: https://device-type.com
+  name: Mobotix
+type: d3-device-type-assertion

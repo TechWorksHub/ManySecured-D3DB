@@ -1,0 +1,15 @@
+credentialSubject:
+  id: cb44eba1-79d4-4cad-94c0-03dac683c873
+  macAddresses:
+  - 00:12:7E:00:00:00/24
+  - 00:1B:C5:0C:00:00/36
+  - 00:1E:60:00:00:00/24
+  - 00:50:C2:BD:A0:00/36
+  - 00:60:0D:00:00:00/24
+  - 00:90:B7:00:00:00/24
+  - 00:A0:C0:00:00:00/24
+  - 7C:70:BC:20:00:00/28
+  manufacturer: Digital Lifestyles Group, Inc.
+  manufacturerUri: https://device-type.com
+  name: DigitalL
+type: d3-device-type-assertion

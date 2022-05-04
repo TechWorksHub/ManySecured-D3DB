@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6aa2baf1-0b28-4bbd-bb54-c5765a2bc43a
+  macAddresses:
+  - 00:1E:63:00:00:00/24
+  manufacturer: Vibro-Meter SA
+  manufacturerUri: https://device-type.com
+  name: Vibro-Me
+type: d3-device-type-assertion

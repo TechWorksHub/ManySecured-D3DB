@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f3b61df-68fd-4074-b937-bf688a822f00
+  macAddresses:
+  - 08:7C:BE:00:00:00/24
+  manufacturer: Quintic Corp.
+  manufacturerUri: https://device-type.com
+  name: Quintic
+type: d3-device-type-assertion

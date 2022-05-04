@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 3f211bf1-bb40-4620-bc2a-5e54b9a88b05
+  macAddresses:
+  - 00:0B:AB:00:00:00/24
+  - 00:0E:02:00:00:00/24
+  - 00:14:53:00:00:00/24
+  - 00:D0:C9:00:00:00/24
+  - 74:FE:48:00:00:00/24
+  - C4:00:AD:00:00:00/24
+  - CC:82:7F:00:00:00/24
+  manufacturer: Advantech Technology (CHINA) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Advantec
+type: d3-device-type-assertion

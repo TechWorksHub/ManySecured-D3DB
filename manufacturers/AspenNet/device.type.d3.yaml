@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3cfc099-25b9-4ce2-ab17-949cc9e899df
+  macAddresses:
+  - 00:06:51:00:00:00/24
+  manufacturer: Aspen Networks Inc.
+  manufacturerUri: https://device-type.com
+  name: AspenNet
+type: d3-device-type-assertion

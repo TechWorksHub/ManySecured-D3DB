@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fe90f56-c1cd-4f09-ab40-14594893533a
+  macAddresses:
+  - 80:A1:AB:00:00:00/24
+  manufacturer: Intellisis
+  manufacturerUri: https://device-type.com
+  name: Intellis
+type: d3-device-type-assertion

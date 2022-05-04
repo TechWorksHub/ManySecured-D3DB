@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd95c88c-058e-4934-9dc9-51408aea02f5
+  macAddresses:
+  - 00:0B:2C:00:00:00/24
+  manufacturer: Eiki Industrial Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: EikiIndu
+type: d3-device-type-assertion

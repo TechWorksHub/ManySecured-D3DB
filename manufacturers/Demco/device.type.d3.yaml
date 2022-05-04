@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d7f681e-f3d6-4e58-a883-7763fde2f2cb
+  macAddresses:
+  - 00:23:E8:00:00:00/24
+  manufacturer: Demco Corp.
+  manufacturerUri: https://device-type.com
+  name: Demco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abe6c713-5edf-4127-9728-056abb65f6dd
+  macAddresses:
+  - 08:00:83:00:00:00/24
+  manufacturer: Seiko Denshi
+  manufacturerUri: https://device-type.com
+  name: SeikoDen
+type: d3-device-type-assertion

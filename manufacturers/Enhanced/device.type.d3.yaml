@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a87c8b5-3a4b-4378-9235-28232f44f5b6
+  macAddresses:
+  - 78:BE:B6:00:00:00/24
+  manufacturer: Enhanced Vision
+  manufacturerUri: https://device-type.com
+  name: Enhanced
+type: d3-device-type-assertion

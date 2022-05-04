@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fecb839-a6ee-4a59-9952-5d5a9ae61e0a
+  macAddresses:
+  - BC:C3:1B:00:00:00/24
+  manufacturer: Kygo Life A
+  manufacturerUri: https://device-type.com
+  name: KygoLife
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d5e37a5-fbb6-46c4-b726-c8a5fe63add9
+  macAddresses:
+  - 00:1C:2A:00:00:00/24
+  - 00:50:C2:49:C0:00/36
+  manufacturer: Envisacor Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: Envisaco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b233973-a0ff-4b7a-9088-e169ee9bb264
+  macAddresses:
+  - 70:C7:6F:00:00:00/24
+  manufacturer: Inno S
+  manufacturerUri: https://device-type.com
+  name: InnoS
+type: d3-device-type-assertion

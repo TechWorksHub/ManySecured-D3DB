@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0a10403-70e3-43e7-9c19-d9abc5577734
+  macAddresses:
+  - 00:11:AC:00:00:00/24
+  manufacturer: Simtec Electronics
+  manufacturerUri: https://device-type.com
+  name: SimtecEl
+type: d3-device-type-assertion

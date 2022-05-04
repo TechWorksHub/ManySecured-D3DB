@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bebdadab-72e8-44b3-ac48-62291e9f948c
+  macAddresses:
+  - 00:03:ED:00:00:00/24
+  - 84:89:EC:C0:00:00/28
+  manufacturer: Shinkawa Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Shinkawa
+type: d3-device-type-assertion

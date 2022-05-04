@@ -1,0 +1,18 @@
+credentialSubject:
+  id: c63e528c-c7ff-419e-90a9-2b21b8733cc6
+  macAddresses:
+  - 00:50:C2:B5:40:00/36
+  - 34:E1:D1:B0:00:00/28
+  - 40:D8:55:01:00:00/36
+  - 40:D8:55:0C:30:00/36
+  - 70:B3:D5:37:A0:00/36
+  - 70:B3:D5:71:20:00/36
+  - 70:B3:D5:77:D0:00/36
+  - 70:B3:D5:AC:F0:00/36
+  - 70:B3:D5:BB:30:00/36
+  - 70:B3:D5:BC:F0:00/36
+  - 70:B3:D5:C9:D0:00/36
+  manufacturer: APG Cash Drawer, LLC
+  manufacturerUri: https://device-type.com
+  name: APGCashD
+type: d3-device-type-assertion

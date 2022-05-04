@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3c462a00-c52e-4679-88f9-cc0f6f5df04b
+  macAddresses:
+  - 00:50:C2:4A:F0:00/36
+  - 00:F4:03:00:00:00/24
+  manufacturer: Orbis Oy
+  manufacturerUri: https://device-type.com
+  name: Orbis
+type: d3-device-type-assertion

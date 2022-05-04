@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cbe21ce-c3b1-4d74-b15c-69069f59790c
+  macAddresses:
+  - BC:2D:98:00:00:00/24
+  manufacturer: ThinGlobal LLC
+  manufacturerUri: https://device-type.com
+  name: ThinGlob
+type: d3-device-type-assertion

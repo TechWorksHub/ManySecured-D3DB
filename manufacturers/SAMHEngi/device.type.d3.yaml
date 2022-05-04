@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42f97071-7f33-4b8d-8d2f-0daa8c90e40a
+  macAddresses:
+  - 00:50:C2:A1:D0:00/36
+  manufacturer: SAMH Engineering Services
+  manufacturerUri: https://device-type.com
+  name: SAMHEngi
+type: d3-device-type-assertion

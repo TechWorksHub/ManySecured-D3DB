@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b30871d8-383d-4d08-bf1a-1b57945e5088
+  macAddresses:
+  - 20:41:81:00:00:00/24
+  - 70:B3:D5:00:80:00/36
+  manufacturer: ESYSE GmbH Embedded Systems Engineering
+  manufacturerUri: https://device-type.com
+  name: ESYSEEmb
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef91b910-7fac-4640-80ae-2d74d91f642a
+  macAddresses:
+  - 00:80:0B:00:00:00/24
+  manufacturer: Csk Corporation
+  manufacturerUri: https://device-type.com
+  name: Csk
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d058183-feba-47f4-af8b-760bc422dda0
+  macAddresses:
+  - C8:1A:FE:00:00:00/24
+  manufacturer: DLOGIC GmbH
+  manufacturerUri: https://device-type.com
+  name: DLOGIC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0aac13ac-1396-405b-967b-b07b1ea9e627
+  macAddresses:
+  - 64:26:77:00:00:00/24
+  - 70:B3:D5:AB:C0:00/36
+  manufacturer: BKM-Micronic Richtfunkanlagen GmbH
+  manufacturerUri: https://device-type.com
+  name: BKM-Micr
+type: d3-device-type-assertion

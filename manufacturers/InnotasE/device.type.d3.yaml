@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1b6153a5-25cd-476e-ab46-e626da292530
+  macAddresses:
+  - 70:B3:D5:C5:10:00/36
+  - B0:B3:53:40:00:00/28
+  manufacturer: Innotas Elektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: InnotasE
+type: d3-device-type-assertion

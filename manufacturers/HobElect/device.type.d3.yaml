@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5eef0ab7-560b-4480-9e86-81cfcb8d8a9d
+  macAddresses:
+  - 00:00:51:00:00:00/24
+  manufacturer: Hob Electronic Gmbh & Co. Kg
+  manufacturerUri: https://device-type.com
+  name: HobElect
+type: d3-device-type-assertion

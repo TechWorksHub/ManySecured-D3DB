@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe78acaf-d668-44ab-999f-756afee1fe50
+  macAddresses:
+  - 00:19:B6:00:00:00/24
+  manufacturer: Euro Emme s.r.l.
+  manufacturerUri: https://device-type.com
+  name: EuroEmme
+type: d3-device-type-assertion

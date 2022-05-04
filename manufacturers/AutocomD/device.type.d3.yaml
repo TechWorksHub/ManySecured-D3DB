@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c7627de7-6705-42cd-9e57-33f58d0f2eb2
+  macAddresses:
+  - 70:B3:D5:98:E0:00/36
+  - E8:B4:70:10:00:00/28
+  manufacturer: Autocom Diagnostic Partner AB
+  manufacturerUri: https://device-type.com
+  name: AutocomD
+type: d3-device-type-assertion

@@ -1,0 +1,19 @@
+credentialSubject:
+  id: 507d3fb8-fdbd-4904-9ac2-04adf00b80e2
+  macAddresses:
+  - 00:00:5F:00:00:00/24
+  - 00:06:C8:00:00:00/24
+  - 00:08:F6:00:00:00/24
+  - 00:0B:A2:00:00:00/24
+  - 00:12:94:00:00:00/24
+  - 00:1C:FC:00:00:00/24
+  - 00:25:DC:00:00:00/24
+  - 08:4E:BF:00:00:00/24
+  - 70:B3:D5:C2:30:00/36
+  - 80:0A:80:20:00:00/28
+  - 84:6A:66:00:00:00/24
+  - A4:DE:26:00:00:00/24
+  manufacturer: Sumitomo Electric Industries, Ltd
+  manufacturerUri: https://device-type.com
+  name: Sumitomo
+type: d3-device-type-assertion

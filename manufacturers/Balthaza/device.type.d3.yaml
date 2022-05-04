@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08d7edb4-f22a-4138-8843-75479457cb7c
+  macAddresses:
+  - 00:D0:C2:00:00:00/24
+  manufacturer: Balthazar Technology Ab
+  manufacturerUri: https://device-type.com
+  name: Balthaza
+type: d3-device-type-assertion

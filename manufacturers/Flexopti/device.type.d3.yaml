@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01a7f72c-afa0-4294-a84f-92081811eb8b
+  macAddresses:
+  - 38:86:02:00:00:00/24
+  manufacturer: Flexoptix GmbH
+  manufacturerUri: https://device-type.com
+  name: Flexopti
+type: d3-device-type-assertion

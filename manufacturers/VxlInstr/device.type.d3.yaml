@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5df7d54-adbf-4830-9f98-2911b82b1c03
+  macAddresses:
+  - 00:60:72:00:00:00/24
+  manufacturer: Vxl Instruments, Limited
+  manufacturerUri: https://device-type.com
+  name: VxlInstr
+type: d3-device-type-assertion

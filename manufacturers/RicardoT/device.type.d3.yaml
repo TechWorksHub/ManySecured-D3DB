@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e8c04a9-ad92-4e36-96a1-c51e42a7f4de
+  macAddresses:
+  - 00:60:ED:00:00:00/24
+  manufacturer: Ricardo Test Automation Ltd.
+  manufacturerUri: https://device-type.com
+  name: RicardoT
+type: d3-device-type-assertion

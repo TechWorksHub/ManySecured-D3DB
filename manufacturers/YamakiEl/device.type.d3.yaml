@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cab1b04-a49f-4f09-9530-d82ad9467a59
+  macAddresses:
+  - 00:09:F1:00:00:00/24
+  manufacturer: Yamaki Electric Corporation
+  manufacturerUri: https://device-type.com
+  name: YamakiEl
+type: d3-device-type-assertion

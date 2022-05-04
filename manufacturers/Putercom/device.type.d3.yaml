@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6a411a5d-da00-4d32-88e4-343332705128
+  macAddresses:
+  - 00:50:C2:2C:A0:00/36
+  - 00:50:C2:50:80:00/36
+  - 00:50:C2:76:B0:00/36
+  manufacturer: Putercom Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Putercom
+type: d3-device-type-assertion

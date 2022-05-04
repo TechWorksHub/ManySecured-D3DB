@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9ea2acfc-d20a-44a7-8842-4b50a11e900b
+  macAddresses:
+  - 00:07:42:00:00:00/24
+  - 98:02:D8:70:00:00/28
+  manufacturer: Ormazabal
+  manufacturerUri: https://device-type.com
+  name: Ormazaba
+type: d3-device-type-assertion

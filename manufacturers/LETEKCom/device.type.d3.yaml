@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a87e7db-cd0f-44f9-8e8e-59c3bc11a153
+  macAddresses:
+  - 00:0C:98:00:00:00/24
+  manufacturer: LETEK Communications Inc.
+  manufacturerUri: https://device-type.com
+  name: LETEKCom
+type: d3-device-type-assertion

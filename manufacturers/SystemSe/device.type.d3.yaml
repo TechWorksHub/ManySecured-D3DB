@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41c6a22e-180c-4745-8ed3-d4f59c375cc7
+  macAddresses:
+  - 00:26:C8:00:00:00/24
+  manufacturer: System Sensor
+  manufacturerUri: https://device-type.com
+  name: SystemSe
+type: d3-device-type-assertion

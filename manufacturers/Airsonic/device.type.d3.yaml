@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab116da0-02b1-4e6d-9314-33776c320cbb
+  macAddresses:
+  - 3C:78:73:00:00:00/24
+  manufacturer: Airsonics
+  manufacturerUri: https://device-type.com
+  name: Airsonic
+type: d3-device-type-assertion

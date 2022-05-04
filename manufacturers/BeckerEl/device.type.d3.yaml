@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9680f6ac-2e5a-4126-bd78-f5d4a9181536
+  macAddresses:
+  - 00:50:C2:6D:50:00/36
+  - AC:F0:B2:00:00:00/24
+  manufacturer: Becker Electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: BeckerEl
+type: d3-device-type-assertion

@@ -1,0 +1,16 @@
+credentialSubject:
+  id: d4bd0fcb-b956-41ce-8f07-b0785fe16558
+  macAddresses:
+  - 00:02:9F:00:00:00/24
+  - 00:10:27:00:00:00/24
+  - 00:16:F7:00:00:00/24
+  - 00:1D:C7:00:00:00/24
+  - 00:1E:F4:00:00:00/24
+  - 00:50:C2:6D:C0:00/36
+  - 00:50:C2:A4:B0:00/36
+  - 38:73:EA:00:00:00/28
+  - 68:CE:4E:00:00:00/24
+  manufacturer: L-3 Communication Aviation Recorders
+  manufacturerUri: https://device-type.com
+  name: L-3Commu
+type: d3-device-type-assertion

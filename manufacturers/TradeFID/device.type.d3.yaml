@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73022418-5260-4b04-87f9-6e53610855c0
+  macAddresses:
+  - 80:20:AF:00:00:00/24
+  manufacturer: Trade FIDES, a.s.
+  manufacturerUri: https://device-type.com
+  name: TradeFID
+type: d3-device-type-assertion

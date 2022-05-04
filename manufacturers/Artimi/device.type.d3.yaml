@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b958bce-48cc-4f1e-93b4-242ddc9726a5
+  macAddresses:
+  - 00:13:BC:00:00:00/24
+  manufacturer: Artimi Ltd
+  manufacturerUri: https://device-type.com
+  name: Artimi
+type: d3-device-type-assertion

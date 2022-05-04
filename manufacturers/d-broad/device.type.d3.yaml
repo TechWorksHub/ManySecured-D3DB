@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10412ed1-c0c8-4851-af20-ba5730c44708
+  macAddresses:
+  - 8C:5C:A1:00:00:00/24
+  manufacturer: d-broad,INC
+  manufacturerUri: https://device-type.com
+  name: d-broad
+type: d3-device-type-assertion

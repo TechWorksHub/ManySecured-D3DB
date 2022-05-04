@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6f6db79-95d8-45c0-877f-af1295b4ecfe
+  macAddresses:
+  - 00:10:D9:00:00:00/24
+  manufacturer: Ibm Japan, Fujisawa Mt+D
+  manufacturerUri: https://device-type.com
+  name: IbmJapan
+type: d3-device-type-assertion

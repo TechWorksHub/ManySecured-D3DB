@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24c775c8-4aa0-4f61-8e3a-18951791d706
+  macAddresses:
+  - 00:80:C3:00:00:00/24
+  manufacturer: Bicc Information Systems & Svc
+  manufacturerUri: https://device-type.com
+  name: BiccInfo
+type: d3-device-type-assertion

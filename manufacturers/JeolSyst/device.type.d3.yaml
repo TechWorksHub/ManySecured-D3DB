@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3eaac961-7df9-4485-8753-08c23d60f728
+  macAddresses:
+  - 00:20:10:00:00:00/24
+  manufacturer: Jeol System Technology Co. Ltd
+  manufacturerUri: https://device-type.com
+  name: JeolSyst
+type: d3-device-type-assertion

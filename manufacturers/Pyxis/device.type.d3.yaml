@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03d90e1c-563b-4bc7-9050-1c80c3e3d3e5
+  macAddresses:
+  - 00:21:7D:00:00:00/24
+  manufacturer: Pyxis S.R.L.
+  manufacturerUri: https://device-type.com
+  name: Pyxis
+type: d3-device-type-assertion

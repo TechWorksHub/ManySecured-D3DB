@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3520a69-e486-4b06-962b-77eb1c42604e
+  macAddresses:
+  - 00:0E:0D:00:00:00/24
+  manufacturer: "Hesch Schr\xF6der GmbH"
+  manufacturerUri: https://device-type.com
+  name: HeschSch
+type: d3-device-type-assertion

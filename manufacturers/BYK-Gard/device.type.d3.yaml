@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab923e12-f0a9-4ac0-a33b-6663c93427b0
+  macAddresses:
+  - 30:51:F8:00:00:00/24
+  manufacturer: BYK-Gardner GmbH
+  manufacturerUri: https://device-type.com
+  name: BYK-Gard
+type: d3-device-type-assertion

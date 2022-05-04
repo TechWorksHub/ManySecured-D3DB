@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07a97b76-8c42-4a5d-8a29-e66e3557111a
+  macAddresses:
+  - 00:0F:2B:00:00:00/24
+  manufacturer: Greenbell Systems
+  manufacturerUri: https://device-type.com
+  name: Greenbel
+type: d3-device-type-assertion

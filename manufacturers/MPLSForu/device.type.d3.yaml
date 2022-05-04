@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 517f4d69-cfde-41e7-b87e-ebcf3c06f9b8
+  macAddresses:
+  - 00:0A:70:00:00:00/24
+  manufacturer: MPLS Forum
+  manufacturerUri: https://device-type.com
+  name: MPLSForu
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9aed644-009c-4f66-9d95-7de9b4e23f0f
+  macAddresses:
+  - 00:14:C6:00:00:00/24
+  manufacturer: Quixant Ltd
+  manufacturerUri: https://device-type.com
+  name: Quixant
+type: d3-device-type-assertion

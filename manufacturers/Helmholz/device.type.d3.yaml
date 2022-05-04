@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb12037e-d68d-4430-9bf8-0e53d3f81eb0
+  macAddresses:
+  - 24:EA:40:00:00:00/24
+  manufacturer: Helmholz GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: Helmholz
+type: d3-device-type-assertion

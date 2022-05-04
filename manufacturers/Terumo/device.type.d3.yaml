@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a64b3b69-e622-452d-89a8-30c7e094fa83
+  macAddresses:
+  - 60:F6:73:00:00:00/24
+  manufacturer: Terumo Corporation
+  manufacturerUri: https://device-type.com
+  name: Terumo
+type: d3-device-type-assertion

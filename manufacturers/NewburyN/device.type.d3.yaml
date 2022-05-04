@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b5575ef-a687-48cf-9351-2fdfbdb17850
+  macAddresses:
+  - 00:1C:6E:00:00:00/24
+  manufacturer: Newbury Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: NewburyN
+type: d3-device-type-assertion

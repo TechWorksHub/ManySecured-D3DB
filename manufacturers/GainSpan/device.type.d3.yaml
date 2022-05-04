@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e080de53-92b4-457d-ba2a-1d70596bf50e
+  macAddresses:
+  - 00:1D:C9:00:00:00/24
+  manufacturer: GainSpan Corp.
+  manufacturerUri: https://device-type.com
+  name: GainSpan
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c00bd875-780f-4fba-aba3-f42739ac10e5
+  macAddresses:
+  - 00:12:CD:00:00:00/24
+  manufacturer: ASEM SpA
+  manufacturerUri: https://device-type.com
+  name: ASEM
+type: d3-device-type-assertion

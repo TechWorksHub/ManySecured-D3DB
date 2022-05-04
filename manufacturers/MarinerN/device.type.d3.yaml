@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 431da7ff-a1fb-4c6e-8337-a61d0e33401b
+  macAddresses:
+  - 00:50:39:00:00:00/24
+  manufacturer: Mariner Networks
+  manufacturerUri: https://device-type.com
+  name: MarinerN
+type: d3-device-type-assertion

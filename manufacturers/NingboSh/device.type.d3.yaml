@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4d3dac5f-d241-4a9e-8f0b-bfee91705da2
+  macAddresses:
+  - 00:69:67:20:00:00/28
+  - 9C:69:B4:E0:00:00/28
+  manufacturer: Ningbo Shen Link Communication Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: NingboSh
+type: d3-device-type-assertion

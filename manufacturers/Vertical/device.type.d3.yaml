@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dff55e12-3644-4da4-848c-fdd8179fe08a
+  macAddresses:
+  - 00:10:F4:00:00:00/24
+  manufacturer: Vertical Communications
+  manufacturerUri: https://device-type.com
+  name: Vertical
+type: d3-device-type-assertion

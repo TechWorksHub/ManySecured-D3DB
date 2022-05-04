@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8cce91b5-a447-4074-a94d-f579b6a9b95e
+  macAddresses:
+  - 40:D8:55:06:A0:00/36
+  - 58:95:D8:50:00:00/28
+  manufacturer: elgris UG
+  manufacturerUri: https://device-type.com
+  name: elgrisUG
+type: d3-device-type-assertion

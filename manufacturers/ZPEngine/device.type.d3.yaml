@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d2a5d1e4-b4a7-4c6d-89d2-ecd04eab2907
+  macAddresses:
+  - 00:1C:D3:00:00:00/24
+  - 00:50:C2:26:E0:00/36
+  manufacturer: ZP Engineering SEL
+  manufacturerUri: https://device-type.com
+  name: ZPEngine
+type: d3-device-type-assertion

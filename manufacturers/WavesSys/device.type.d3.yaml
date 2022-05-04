@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9471a6f-faaf-4e2c-8e27-4bffd9314bd6
+  macAddresses:
+  - 00:50:C2:54:10:00/36
+  - 70:B3:D5:CE:40:00/36
+  manufacturer: Waves System
+  manufacturerUri: https://device-type.com
+  name: WavesSys
+type: d3-device-type-assertion

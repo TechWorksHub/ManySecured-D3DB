@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25d20f71-4dc0-4883-be37-2bd5b1e029b6
+  macAddresses:
+  - 4C:E9:33:00:00:00/24
+  manufacturer: RailComm, LLC
+  manufacturerUri: https://device-type.com
+  name: RailComm
+type: d3-device-type-assertion

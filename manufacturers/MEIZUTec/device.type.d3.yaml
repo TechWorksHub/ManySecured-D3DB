@@ -1,0 +1,11 @@
+credentialSubject:
+  id: df7c05cd-2671-4d62-afe8-8cb6ffb707fa
+  macAddresses:
+  - 38:BC:1A:00:00:00/24
+  - 5C:CD:7C:00:00:00/24
+  - 68:3E:34:00:00:00/24
+  - 90:F0:52:00:00:00/24
+  manufacturer: MEIZU Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: MEIZUTec
+type: d3-device-type-assertion

@@ -1,0 +1,17 @@
+credentialSubject:
+  id: a8f1fe64-8eb6-486d-9bc6-3497f46e918e
+  macAddresses:
+  - 00:1B:C5:08:C0:00/36
+  - 00:1B:C5:0B:B0:00/36
+  - 00:50:C2:B2:50:00/36
+  - 00:50:C2:F6:30:00/36
+  - 30:1F:9A:70:00:00/28
+  - 70:B3:D5:94:10:00/36
+  - 70:B3:D5:96:30:00/36
+  - 70:B3:D5:C2:E0:00/36
+  - 70:B3:D5:C9:F0:00/36
+  - 70:B3:D5:D7:E0:00/36
+  manufacturer: Triax A/S
+  manufacturerUri: https://device-type.com
+  name: Triax
+type: d3-device-type-assertion

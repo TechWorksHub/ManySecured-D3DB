@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0625b7bf-4c14-49d3-b281-3b7be1896eae
+  macAddresses:
+  - 00:10:B2:00:00:00/24
+  manufacturer: Coactive Aesthetics
+  manufacturerUri: https://device-type.com
+  name: Coactive
+type: d3-device-type-assertion

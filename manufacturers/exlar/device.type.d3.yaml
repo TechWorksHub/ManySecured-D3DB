@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87ec5903-d77c-4296-9b25-87eafda968aa
+  macAddresses:
+  - 28:A2:41:00:00:00/24
+  manufacturer: exlar corp
+  manufacturerUri: https://device-type.com
+  name: exlar
+type: d3-device-type-assertion

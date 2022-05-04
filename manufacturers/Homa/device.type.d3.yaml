@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a54aca42-062e-429b-99f7-017d48b0682b
+  macAddresses:
+  - 48:FE:EA:00:00:00/24
+  manufacturer: Homa B.V.
+  manufacturerUri: https://device-type.com
+  name: Homa
+type: d3-device-type-assertion

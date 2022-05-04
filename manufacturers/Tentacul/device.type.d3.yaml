@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fe9011d-6276-4b2d-b09c-783e52b8af58
+  macAddresses:
+  - 00:13:6D:00:00:00/24
+  manufacturer: Tentaculus AB
+  manufacturerUri: https://device-type.com
+  name: Tentacul
+type: d3-device-type-assertion

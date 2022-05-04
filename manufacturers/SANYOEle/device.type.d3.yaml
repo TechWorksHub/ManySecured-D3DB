@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a38a20e6-370c-463c-88a8-16cddad42008
+  macAddresses:
+  - 00:00:A0:00:00:00/24
+  manufacturer: SANYO Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SANYOEle
+type: d3-device-type-assertion

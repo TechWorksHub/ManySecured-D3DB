@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 620353ac-c160-41c9-a949-0b3b9dbbaf84
+  macAddresses:
+  - 00:D0:6F:00:00:00/24
+  manufacturer: Kmc Controls
+  manufacturerUri: https://device-type.com
+  name: KmcContr
+type: d3-device-type-assertion

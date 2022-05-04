@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7b987e7-51ec-4105-8f2a-6d178bfadbd7
+  macAddresses:
+  - 00:1D:BD:00:00:00/24
+  manufacturer: Versamed Inc.
+  manufacturerUri: https://device-type.com
+  name: Versamed
+type: d3-device-type-assertion

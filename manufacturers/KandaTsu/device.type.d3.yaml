@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dcf8933-26aa-4f8f-85e7-dac2b718c409
+  macAddresses:
+  - 00:01:14:00:00:00/24
+  manufacturer: Kanda Tsushin Kogyo Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KandaTsu
+type: d3-device-type-assertion

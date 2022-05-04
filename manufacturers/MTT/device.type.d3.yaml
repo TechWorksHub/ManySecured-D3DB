@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 020f2e19-c319-48bf-8fa8-e1d7a1121849
+  macAddresses:
+  - 00:11:C9:00:00:00/24
+  manufacturer: MTT Corporation
+  manufacturerUri: https://device-type.com
+  name: MTT
+type: d3-device-type-assertion

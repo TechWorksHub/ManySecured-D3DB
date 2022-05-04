@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5620180a-7a48-4386-9515-5cd33fb46dc3
+  macAddresses:
+  - A8:61:0A:00:00:00/24
+  manufacturer: Arduino Ag
+  manufacturerUri: https://device-type.com
+  name: Arduino
+type: d3-device-type-assertion

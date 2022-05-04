@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c51fd1b9-4a46-4c34-a7a9-d39ff5f1982e
+  macAddresses:
+  - 00:11:A4:00:00:00/24
+  manufacturer: JStream Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: JStreamT
+type: d3-device-type-assertion

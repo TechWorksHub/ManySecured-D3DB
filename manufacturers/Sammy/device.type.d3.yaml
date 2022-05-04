@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0a09378-1be7-44b5-86ad-353597491cd9
+  macAddresses:
+  - 00:0C:27:00:00:00/24
+  manufacturer: Sammy Corporation
+  manufacturerUri: https://device-type.com
+  name: Sammy
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c631337c-1ccd-4487-ac83-2b8ef13db03e
+  macAddresses:
+  - 00:04:08:00:00:00/24
+  - 00:0D:B7:00:00:00/24
+  manufacturer: Sanko Electronics Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SankoEle
+type: d3-device-type-assertion

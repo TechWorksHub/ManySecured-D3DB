@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4bf49846-b2f2-4de7-b22f-28c95637b3d8
+  macAddresses:
+  - 00:00:57:00:00:00/24
+  - 00:A0:46:00:00:00/24
+  manufacturer: Scitex Corporation Ltd.
+  manufacturerUri: https://device-type.com
+  name: Scitex
+type: d3-device-type-assertion

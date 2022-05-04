@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba8b6082-c206-4ca0-ac54-686d016acd91
+  macAddresses:
+  - 00:0E:FB:00:00:00/24
+  manufacturer: Macey Enterprises
+  manufacturerUri: https://device-type.com
+  name: MaceyEnt
+type: d3-device-type-assertion

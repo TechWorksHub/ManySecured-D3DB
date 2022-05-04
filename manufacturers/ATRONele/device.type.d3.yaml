@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 509d61cb-b836-4f25-acfc-717a7eba8a62
+  macAddresses:
+  - 00:1B:2C:00:00:00/24
+  manufacturer: ATRON electronic GmbH
+  manufacturerUri: https://device-type.com
+  name: ATRONele
+type: d3-device-type-assertion

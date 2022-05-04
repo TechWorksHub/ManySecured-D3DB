@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21ce7450-5752-487d-8e77-48dfb0a1b4b1
+  macAddresses:
+  - 50:58:00:00:00:00/24
+  manufacturer: WyTec International, Inc.
+  manufacturerUri: https://device-type.com
+  name: WyTecInt
+type: d3-device-type-assertion

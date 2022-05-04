@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bed2d50d-bb41-43cf-a391-59bed0109c63
+  macAddresses:
+  - 64:9D:99:00:00:00/24
+  manufacturer: Fs Com Inc
+  manufacturerUri: https://device-type.com
+  name: FsCom
+type: d3-device-type-assertion

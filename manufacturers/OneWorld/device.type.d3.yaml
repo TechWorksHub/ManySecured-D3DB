@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f00d5e63-c2e3-4d96-b6ca-424b724c62d1
+  macAddresses:
+  - 00:90:9A:00:00:00/24
+  manufacturer: One World Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: OneWorld
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abf362c6-b509-46fc-843b-18f20415d19e
+  macAddresses:
+  - 00:0B:8D:00:00:00/24
+  manufacturer: Avvio Networks
+  manufacturerUri: https://device-type.com
+  name: AvvioNet
+type: d3-device-type-assertion

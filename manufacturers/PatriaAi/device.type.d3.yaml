@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 62ecc989-970e-443c-a572-737c4cb77cbc
+  macAddresses:
+  - 00:04:CE:00:00:00/24
+  manufacturer: Patria Ailon
+  manufacturerUri: https://device-type.com
+  name: PatriaAi
+type: d3-device-type-assertion

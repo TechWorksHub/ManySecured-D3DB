@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e8e7810-4bfc-4c29-bd18-1c19f997fffc
+  macAddresses:
+  - 00:1E:DE:00:00:00/24
+  manufacturer: Byd Company Limited
+  manufacturerUri: https://device-type.com
+  name: Byd
+type: d3-device-type-assertion

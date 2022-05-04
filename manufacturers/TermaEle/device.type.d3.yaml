@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a21fe104-8077-426b-9b1c-7213dd51069f
+  macAddresses:
+  - 00:20:B4:00:00:00/24
+  manufacturer: Terma Elektronik As
+  manufacturerUri: https://device-type.com
+  name: TermaEle
+type: d3-device-type-assertion

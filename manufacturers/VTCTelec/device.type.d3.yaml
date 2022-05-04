@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b387eda-d96f-45e7-b9f4-7485016a27d1
+  macAddresses:
+  - 94:99:90:00:00:00/24
+  manufacturer: VTC Telecommunications
+  manufacturerUri: https://device-type.com
+  name: VTCTelec
+type: d3-device-type-assertion

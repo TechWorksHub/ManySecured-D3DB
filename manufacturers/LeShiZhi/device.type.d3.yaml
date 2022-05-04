@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 18b1d174-d23c-44ba-bde6-1d12c512bcc1
+  macAddresses:
+  - B0:1B:D2:00:00:00/24
+  - B8:FC:9A:00:00:00/24
+  - C8:0E:77:00:00:00/24
+  - D4:B1:69:00:00:00/24
+  - E0:A8:B8:00:00:00/24
+  manufacturer: Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
+  manufacturerUri: https://device-type.com
+  name: LeShiZhi
+type: d3-device-type-assertion

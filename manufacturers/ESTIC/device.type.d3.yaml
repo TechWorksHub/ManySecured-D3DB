@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e171651-e5f2-40c3-b9cc-2eaaa5292a1d
+  macAddresses:
+  - 00:19:84:00:00:00/24
+  manufacturer: ESTIC Corporation
+  manufacturerUri: https://device-type.com
+  name: ESTIC
+type: d3-device-type-assertion

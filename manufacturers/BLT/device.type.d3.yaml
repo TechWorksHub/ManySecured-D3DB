@@ -1,0 +1,8 @@
+credentialSubject:
+  id: adf128da-9ca8-46cb-a097-af71d353d4a8
+  macAddresses:
+  - 88:01:18:00:00:00/24
+  manufacturer: BLT Co
+  manufacturerUri: https://device-type.com
+  name: BLT
+type: d3-device-type-assertion

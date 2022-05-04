@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11d4e3d9-2f43-4f21-a6c7-2750e7fedea2
+  macAddresses:
+  - 00:1D:B6:00:00:00/24
+  manufacturer: BestComm Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: BestComm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ebef227-5109-4e9a-8a67-5817f0c4a3a5
+  macAddresses:
+  - 00:15:0A:00:00:00/24
+  manufacturer: Sonoa Systems, Inc
+  manufacturerUri: https://device-type.com
+  name: Sonoa
+type: d3-device-type-assertion

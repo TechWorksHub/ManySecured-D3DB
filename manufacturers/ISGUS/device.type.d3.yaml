@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47e87a80-e121-4ef1-bd3a-1b90d4e03fce
+  macAddresses:
+  - 00:26:20:00:00:00/24
+  manufacturer: ISGUS GmbH
+  manufacturerUri: https://device-type.com
+  name: ISGUS
+type: d3-device-type-assertion

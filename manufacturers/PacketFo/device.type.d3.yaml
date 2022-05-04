@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d96d6044-19a6-40f3-a45a-bdcbe584b81d
+  macAddresses:
+  - 00:23:56:00:00:00/24
+  - 74:CE:56:00:00:00/24
+  manufacturer: Packet Forensics LLC
+  manufacturerUri: https://device-type.com
+  name: PacketFo
+type: d3-device-type-assertion

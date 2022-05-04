@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8adea78-d22e-4b95-9e0e-cb425cc1d295
+  macAddresses:
+  - 00:50:C2:DA:20:00/36
+  - 50:FF:99:A0:00:00/28
+  manufacturer: metraTec GmbH
+  manufacturerUri: https://device-type.com
+  name: metraTec
+type: d3-device-type-assertion

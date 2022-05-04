@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14260f13-caf0-4373-918a-e695592c156f
+  macAddresses:
+  - 00:CE:30:00:00:00/24
+  - 5C:85:7E:90:00:00/28
+  manufacturer: Express LUCK Industrial Ltd.
+  manufacturerUri: https://device-type.com
+  name: ExpressL
+type: d3-device-type-assertion

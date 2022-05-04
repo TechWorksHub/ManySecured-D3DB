@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd9fa53e-c2f8-452b-aef6-05f42af25c46
+  macAddresses:
+  - 00:0A:AF:00:00:00/24
+  manufacturer: Pipal Systems
+  manufacturerUri: https://device-type.com
+  name: Pipal
+type: d3-device-type-assertion

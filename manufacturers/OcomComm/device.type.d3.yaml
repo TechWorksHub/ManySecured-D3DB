@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c5d1b18-a85c-489c-a3bf-8a236065451b
+  macAddresses:
+  - CC:50:76:00:00:00/24
+  manufacturer: Ocom Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: OcomComm
+type: d3-device-type-assertion

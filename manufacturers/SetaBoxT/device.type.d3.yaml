@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80f82778-5487-46c5-b8df-039932a64c52
+  macAddresses:
+  - 00:12:38:00:00:00/24
+  manufacturer: SetaBox Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SetaBoxT
+type: d3-device-type-assertion

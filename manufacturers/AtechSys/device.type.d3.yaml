@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6e41682-1368-4796-b69a-1621422628b4
+  macAddresses:
+  - 00:90:84:00:00:00/24
+  manufacturer: Atech System
+  manufacturerUri: https://device-type.com
+  name: AtechSys
+type: d3-device-type-assertion

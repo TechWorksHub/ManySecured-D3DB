@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2af12b9-bbf1-4a5e-9fb8-a8a540cebc10
+  macAddresses:
+  - 10:E8:EE:00:00:00/24
+  manufacturer: PhaseSpace
+  manufacturerUri: https://device-type.com
+  name: PhaseSpa
+type: d3-device-type-assertion

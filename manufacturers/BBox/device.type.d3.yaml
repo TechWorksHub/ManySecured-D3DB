@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 732caae0-dc58-4fab-a8ff-8a8076241d80
+  macAddresses:
+  - 00:0F:6E:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: BBox
+type: d3-device-type-assertion

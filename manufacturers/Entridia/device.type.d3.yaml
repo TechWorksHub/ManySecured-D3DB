@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6fc04dd-8fdd-4003-992e-0d4368e63ad6
+  macAddresses:
+  - 00:90:49:00:00:00/24
+  manufacturer: Entridia Corporation
+  manufacturerUri: https://device-type.com
+  name: Entridia
+type: d3-device-type-assertion

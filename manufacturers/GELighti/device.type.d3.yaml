@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9bc89208-b628-40d3-8fd2-fb53af5adefd
+  macAddresses:
+  - 34:13:43:00:00:00/24
+  - 78:6D:EB:00:00:00/24
+  manufacturer: GE Lighting
+  manufacturerUri: https://device-type.com
+  name: GELighti
+type: d3-device-type-assertion

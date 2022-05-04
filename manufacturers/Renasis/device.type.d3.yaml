@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d74c1f8-3d74-4e4c-a971-2aab2c69f8fd
+  macAddresses:
+  - 00:14:03:00:00:00/24
+  manufacturer: Renasis, LLC
+  manufacturerUri: https://device-type.com
+  name: Renasis
+type: d3-device-type-assertion

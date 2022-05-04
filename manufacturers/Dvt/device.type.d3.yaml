@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f8398c0-61d7-4ce3-8c5b-baebfa9aac40
+  macAddresses:
+  - 00:90:68:00:00:00/24
+  manufacturer: Dvt Corp.
+  manufacturerUri: https://device-type.com
+  name: Dvt
+type: d3-device-type-assertion

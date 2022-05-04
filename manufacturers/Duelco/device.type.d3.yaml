@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d370096-66ba-4746-9b63-a4fd63984367
+  macAddresses:
+  - 00:26:AF:00:00:00/24
+  manufacturer: Duelco A/S
+  manufacturerUri: https://device-type.com
+  name: Duelco
+type: d3-device-type-assertion

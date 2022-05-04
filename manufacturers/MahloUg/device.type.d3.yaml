@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fadf53c-a44f-4de0-b838-b41386c982e8
+  macAddresses:
+  - 00:D0:42:00:00:00/24
+  manufacturer: Mahlo Gmbh & Co. Ug
+  manufacturerUri: https://device-type.com
+  name: MahloUg
+type: d3-device-type-assertion

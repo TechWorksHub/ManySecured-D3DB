@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1ff3277-1aed-4c97-b753-49bfa7dc95b2
+  macAddresses:
+  - 8C:43:61:00:00:00/24
+  manufacturer: Hailo Digital Hub GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: HailoDig
+type: d3-device-type-assertion

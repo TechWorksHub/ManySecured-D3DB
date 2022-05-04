@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56fa901c-bdbf-4cc2-be3d-f646d2d6681d
+  macAddresses:
+  - 00:19:16:00:00:00/24
+  manufacturer: PayTec AG
+  manufacturerUri: https://device-type.com
+  name: PayTec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f84c7207-ddb4-4610-aca5-b6a2481e7ad4
+  macAddresses:
+  - 00:15:39:00:00:00/24
+  - 00:50:C2:18:C0:00/36
+  manufacturer: Technodrive srl
+  manufacturerUri: https://device-type.com
+  name: Technodr
+type: d3-device-type-assertion

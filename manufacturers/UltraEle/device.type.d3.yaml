@@ -1,0 +1,14 @@
+credentialSubject:
+  id: cde7fc77-722f-46b5-9bdc-b7cc5f6341fa
+  macAddresses:
+  - 00:19:4E:00:00:00/24
+  - 00:90:58:00:00:00/24
+  - 00:E0:6C:00:00:00/24
+  - 18:AB:F5:00:00:00/24
+  - 40:D8:55:05:A0:00/36
+  - 70:B3:D5:3E:D0:00/36
+  - 7C:06:23:00:00:00/24
+  manufacturer: Ultra Electronics - TCS (Tactical Communication Systems)
+  manufacturerUri: https://device-type.com
+  name: UltraEle
+type: d3-device-type-assertion

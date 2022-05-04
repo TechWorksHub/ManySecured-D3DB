@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a85c5e57-f319-43d0-8d42-811d13df014d
+  macAddresses:
+  - 00:13:6A:00:00:00/24
+  manufacturer: Hach Lange Sarl
+  manufacturerUri: https://device-type.com
+  name: HachLang
+type: d3-device-type-assertion

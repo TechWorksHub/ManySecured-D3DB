@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1a5e3f0-d56c-4cb2-a4c0-d2ba7b9d16e5
+  macAddresses:
+  - 38:AC:3D:00:00:00/24
+  manufacturer: Nephos Inc
+  manufacturerUri: https://device-type.com
+  name: Nephos
+type: d3-device-type-assertion

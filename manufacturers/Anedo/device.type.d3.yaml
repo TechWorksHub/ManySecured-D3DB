@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87d3c7ba-64a5-4caa-af58-85d5d4501c56
+  macAddresses:
+  - 38:EE:9D:00:00:00/24
+  manufacturer: Anedo Ltd.
+  manufacturerUri: https://device-type.com
+  name: Anedo
+type: d3-device-type-assertion

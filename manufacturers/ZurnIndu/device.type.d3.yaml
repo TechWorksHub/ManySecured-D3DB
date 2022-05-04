@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51acf05a-5e7a-40db-9130-d6ea1d7fac28
+  macAddresses:
+  - 78:35:A0:00:00:00/24
+  manufacturer: Zurn Industries LLC
+  manufacturerUri: https://device-type.com
+  name: ZurnIndu
+type: d3-device-type-assertion

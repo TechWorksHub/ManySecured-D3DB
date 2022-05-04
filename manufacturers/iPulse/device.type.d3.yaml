@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf651afc-fee2-49a8-8980-19c5131c245f
+  macAddresses:
+  - 00:11:2D:00:00:00/24
+  manufacturer: iPulse Systems
+  manufacturerUri: https://device-type.com
+  name: iPulse
+type: d3-device-type-assertion

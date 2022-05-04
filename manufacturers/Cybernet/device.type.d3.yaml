@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 427cba07-1a7b-4598-a607-034c76aa71b7
+  macAddresses:
+  - 00:0B:56:00:00:00/24
+  - 00:30:68:00:00:00/24
+  manufacturer: Cybernetics
+  manufacturerUri: https://device-type.com
+  name: Cybernet
+type: d3-device-type-assertion

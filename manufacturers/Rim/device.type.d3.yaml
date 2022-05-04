@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 7657f723-d2df-4910-a89b-26e343faceee
+  macAddresses:
+  - 00:23:7A:00:00:00/24
+  - 14:74:11:00:00:00/24
+  - 2C:A8:35:00:00:00/24
+  - 30:69:4B:00:00:00/24
+  - 30:7C:30:00:00:00/24
+  - 3C:74:37:00:00:00/24
+  - 40:5F:BE:00:00:00/24
+  - 40:6A:AB:00:00:00/24
+  - 70:D4:F2:00:00:00/24
+  - 80:60:07:00:00:00/24
+  - A0:6C:EC:00:00:00/24
+  - A8:6A:6F:00:00:00/24
+  - CC:55:AD:00:00:00/24
+  - E8:3E:B6:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Rim
+type: d3-device-type-assertion

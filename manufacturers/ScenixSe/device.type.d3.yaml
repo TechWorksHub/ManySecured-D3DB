@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 46de6922-2023-482e-9df1-edda60cd0801
+  macAddresses:
+  - 00:03:64:00:00:00/24
+  manufacturer: Scenix Semiconductor, Inc.
+  manufacturerUri: https://device-type.com
+  name: ScenixSe
+type: d3-device-type-assertion

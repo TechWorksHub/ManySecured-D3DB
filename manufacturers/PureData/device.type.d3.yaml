@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb6251c6-2c48-4903-9eca-0599c2a2f972
+  macAddresses:
+  - 00:00:D4:00:00:00/24
+  manufacturer: Pure Data Ltd.
+  manufacturerUri: https://device-type.com
+  name: PureData
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3b2d353-1b5b-4e33-9418-8456b57bdfdc
+  macAddresses:
+  - 00:0B:C8:00:00:00/24
+  manufacturer: AirFlow Networks
+  manufacturerUri: https://device-type.com
+  name: AirFlowN
+type: d3-device-type-assertion

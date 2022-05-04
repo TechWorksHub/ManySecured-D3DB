@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e20af87a-f547-4685-9901-2e3ecea2ca79
+  macAddresses:
+  - 00:50:C2:09:70:00/36
+  manufacturer: IMV Invertomatic
+  manufacturerUri: https://device-type.com
+  name: IMVInver
+type: d3-device-type-assertion

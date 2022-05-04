@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3faab4b-3c8d-45d7-840d-ecd05a243300
+  macAddresses:
+  - 00:02:13:00:00:00/24
+  manufacturer: S.D.E.L.
+  manufacturerUri: https://device-type.com
+  name: SDEL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77d41c89-8696-4753-b5ac-918ea02b74f7
+  macAddresses:
+  - 08:00:08:00:00:00/24
+  manufacturer: Bolt Beranek And Newman Inc.
+  manufacturerUri: https://device-type.com
+  name: BoltBera
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c0f0ca6-edbb-4d68-962d-9c2fdb99b103
+  macAddresses:
+  - 00:1F:31:00:00:00/24
+  manufacturer: Radiocomp
+  manufacturerUri: https://device-type.com
+  name: Radiocom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ddd9ead2-a35f-4096-a302-1fec5fa4cd26
+  macAddresses:
+  - 00:03:15:00:00:00/24
+  manufacturer: Cidco Incorporated
+  manufacturerUri: https://device-type.com
+  name: Cidco
+type: d3-device-type-assertion

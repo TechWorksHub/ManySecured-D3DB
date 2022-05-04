@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 064bc0ba-82a1-49d6-af5e-bab9bd6ba51f
+  macAddresses:
+  - 00:A0:92:00:00:00/24
+  manufacturer: H. Bollmann Manufacturers, Ltd
+  manufacturerUri: https://device-type.com
+  name: HBollman
+type: d3-device-type-assertion

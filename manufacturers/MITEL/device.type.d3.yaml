@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1b70560-ded4-49cf-848c-f721dfacc45c
+  macAddresses:
+  - 00:1A:6F:00:00:00/24
+  manufacturer: MI.TEL s.r.l.
+  manufacturerUri: https://device-type.com
+  name: MITEL
+type: d3-device-type-assertion

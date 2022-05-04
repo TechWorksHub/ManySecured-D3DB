@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 771db1a4-6d29-4cf7-bb56-646d3daaa4f5
+  macAddresses:
+  - 00:20:63:00:00:00/24
+  manufacturer: Wipro Infotech Ltd.
+  manufacturerUri: https://device-type.com
+  name: WiproInf
+type: d3-device-type-assertion

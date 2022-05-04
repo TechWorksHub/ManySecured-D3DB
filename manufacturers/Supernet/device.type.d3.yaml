@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2823840d-35b0-44ba-a063-eed4a5533845
+  macAddresses:
+  - 00:00:84:00:00:00/24
+  - 00:01:E5:00:00:00/24
+  - 00:20:65:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Supernet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ffb2bf0e-5ea5-4af4-9600-2585b73d0ab6
+  macAddresses:
+  - 00:D0:8C:00:00:00/24
+  manufacturer: Genoa Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: GenoaTec
+type: d3-device-type-assertion

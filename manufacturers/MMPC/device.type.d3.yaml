@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07b40b84-2fff-4549-8562-c315bc481060
+  macAddresses:
+  - F4:28:33:00:00:00/24
+  manufacturer: MMPC Inc.
+  manufacturerUri: https://device-type.com
+  name: MMPC
+type: d3-device-type-assertion

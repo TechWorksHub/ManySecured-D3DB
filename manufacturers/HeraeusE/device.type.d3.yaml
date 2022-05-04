@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 79a09a30-98be-4a32-b838-09cf1910534d
+  macAddresses:
+  - 00:0D:9B:00:00:00/24
+  manufacturer: Heraeus Electro-Nite International N.V.
+  manufacturerUri: https://device-type.com
+  name: HeraeusE
+type: d3-device-type-assertion

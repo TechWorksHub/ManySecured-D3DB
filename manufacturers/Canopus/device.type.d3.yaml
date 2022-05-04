@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7be97884-a84d-4b28-81c9-fa0c5486fcd7
+  macAddresses:
+  - 00:20:11:00:00:00/24
+  manufacturer: Canopus Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Canopus
+type: d3-device-type-assertion

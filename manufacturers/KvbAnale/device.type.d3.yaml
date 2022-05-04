@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8d7c2df-c0c3-406e-aef2-2cb5a7241727
+  macAddresses:
+  - 00:A0:64:00:00:00/24
+  manufacturer: Kvb/Analect
+  manufacturerUri: https://device-type.com
+  name: KvbAnale
+type: d3-device-type-assertion

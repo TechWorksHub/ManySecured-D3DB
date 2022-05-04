@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2956fb47-3441-4b9a-8069-1c698040cdd9
+  macAddresses:
+  - 3C:0B:4F:00:00:00/24
+  - B8:87:6E:00:00:00/24
+  manufacturer: Yandex Services AG
+  manufacturerUri: https://device-type.com
+  name: YandexSe
+type: d3-device-type-assertion

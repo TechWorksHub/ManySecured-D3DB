@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 187b5c25-1c52-48ef-bdb3-206a50cbbda5
+  macAddresses:
+  - 08:0C:0B:00:00:00/24
+  manufacturer: SysMik GmbH Dresden
+  manufacturerUri: https://device-type.com
+  name: SysMikDr
+type: d3-device-type-assertion

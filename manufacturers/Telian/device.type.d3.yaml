@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfe0441e-7f03-4ec7-9b78-8a02233a6e33
+  macAddresses:
+  - 00:1C:32:00:00:00/24
+  manufacturer: Telian Corporation
+  manufacturerUri: https://device-type.com
+  name: Telian
+type: d3-device-type-assertion

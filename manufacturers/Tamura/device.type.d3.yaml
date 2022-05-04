@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1066eac-7c79-42e8-aa3e-25cb644a2f7c
+  macAddresses:
+  - 00:C0:96:00:00:00/24
+  manufacturer: Tamura Corporation
+  manufacturerUri: https://device-type.com
+  name: Tamura
+type: d3-device-type-assertion

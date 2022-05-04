@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f49edf59-f0ad-4f92-9d86-f32fd58612a2
+  macAddresses:
+  - 00:80:A5:00:00:00/24
+  manufacturer: Speed International
+  manufacturerUri: https://device-type.com
+  name: SpeedInt
+type: d3-device-type-assertion

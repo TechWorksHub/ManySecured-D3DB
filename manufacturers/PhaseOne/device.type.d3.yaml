@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c089cdc6-74c1-4290-b542-c443c786a359
+  macAddresses:
+  - 00:E0:58:00:00:00/24
+  - 60:D7:E3:70:00:00/28
+  manufacturer: Phase One Denmark A/S
+  manufacturerUri: https://device-type.com
+  name: PhaseOne
+type: d3-device-type-assertion

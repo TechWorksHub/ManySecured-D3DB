@@ -1,0 +1,9 @@
+credentialSubject:
+  id: efecb4c8-e44e-47f3-88af-47ef967542c6
+  macAddresses:
+  - 00:50:C2:EE:D0:00/36
+  - 14:35:B3:00:00:00/24
+  manufacturer: Future Design Controls, Inc
+  manufacturerUri: https://device-type.com
+  name: FutureDe
+type: d3-device-type-assertion

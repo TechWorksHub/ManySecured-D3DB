@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a89ef1c-e520-401c-88d1-bde19655dd9e
+  macAddresses:
+  - 00:26:06:00:00:00/24
+  manufacturer: RAUMFELD GmbH
+  manufacturerUri: https://device-type.com
+  name: RAUMFELD
+type: d3-device-type-assertion

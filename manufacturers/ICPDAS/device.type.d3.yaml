@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 669a7fe6-b306-47a2-9b5f-0a557d32a91b
+  macAddresses:
+  - 00:0D:E0:00:00:00/24
+  manufacturer: ICPDAS Co.,LTD
+  manufacturerUri: https://device-type.com
+  name: ICPDAS
+type: d3-device-type-assertion

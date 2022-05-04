@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abfdbdaf-73b8-420d-a0b1-48b94add7b23
+  macAddresses:
+  - 00:11:1F:00:00:00/24
+  manufacturer: Doremi Labs, Inc.
+  manufacturerUri: https://device-type.com
+  name: DoremiLa
+type: d3-device-type-assertion

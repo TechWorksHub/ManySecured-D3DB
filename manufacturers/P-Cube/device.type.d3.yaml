@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f2fc82f-8910-4f7f-a743-781ffa017df7
+  macAddresses:
+  - 00:02:2F:00:00:00/24
+  manufacturer: P-Cube, Ltd.
+  manufacturerUri: https://device-type.com
+  name: P-Cube
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 055ed6db-4046-45b3-92fe-ec5478f231b5
+  macAddresses:
+  - 70:B3:D5:73:70:00/36
+  - C4:30:CA:00:00:00/24
+  manufacturer: SD Biosensor
+  manufacturerUri: https://device-type.com
+  name: SDBiosen
+type: d3-device-type-assertion

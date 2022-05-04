@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26aaec7b-438a-4f93-b8fd-d32ba1b3c2b9
+  macAddresses:
+  - 00:1E:17:00:00:00/24
+  manufacturer: Stn Bv
+  manufacturerUri: https://device-type.com
+  name: Stn
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b93e2a27-b4b9-4fb6-a639-2bdbb451682a
+  macAddresses:
+  - 00:06:09:00:00:00/24
+  - 00:50:C2:08:50:00/36
+  manufacturer: Crossport Systems
+  manufacturerUri: https://device-type.com
+  name: Crosspor
+type: d3-device-type-assertion

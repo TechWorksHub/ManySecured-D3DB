@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cef8e88-1f05-46d3-8fc2-2afefcddac82
+  macAddresses:
+  - 00:80:04:00:00:00/24
+  manufacturer: Antlow Computers, Ltd.
+  manufacturerUri: https://device-type.com
+  name: AntlowCo
+type: d3-device-type-assertion

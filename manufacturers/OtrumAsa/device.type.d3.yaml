@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0512cc58-45cd-42e2-90d6-e07ceeff3406
+  macAddresses:
+  - 00:0A:EF:00:00:00/24
+  manufacturer: Otrum Asa
+  manufacturerUri: https://device-type.com
+  name: OtrumAsa
+type: d3-device-type-assertion

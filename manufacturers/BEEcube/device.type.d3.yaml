@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 74f9030c-642a-40d5-8c89-d6d2b9232967
+  macAddresses:
+  - 00:50:C2:95:E0:00/36
+  - 70:B3:D5:CC:10:00/36
+  manufacturer: BEEcube Inc.
+  manufacturerUri: https://device-type.com
+  name: BEEcube
+type: d3-device-type-assertion

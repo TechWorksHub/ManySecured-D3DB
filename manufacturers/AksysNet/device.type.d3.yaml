@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 377b812a-7767-4b69-bc6b-93b3db65fd41
+  macAddresses:
+  - 00:22:01:00:00:00/24
+  manufacturer: Aksys Networks Inc
+  manufacturerUri: https://device-type.com
+  name: AksysNet
+type: d3-device-type-assertion

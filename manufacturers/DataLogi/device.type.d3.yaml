@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c02dd114-420b-48e5-a00a-4a22762b1715
+  macAddresses:
+  - 00:07:BE:00:00:00/24
+  manufacturer: DataLogic SpA
+  manufacturerUri: https://device-type.com
+  name: DataLogi
+type: d3-device-type-assertion

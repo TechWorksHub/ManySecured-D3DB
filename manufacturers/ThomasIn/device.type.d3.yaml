@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc3181b6-f2af-4a46-837a-e2ed1919a699
+  macAddresses:
+  - 00:1C:1A:00:00:00/24
+  manufacturer: Thomas Instrumentation, Inc
+  manufacturerUri: https://device-type.com
+  name: ThomasIn
+type: d3-device-type-assertion

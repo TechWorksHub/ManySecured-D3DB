@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 62a047e3-9fc2-409d-8052-92359cfb2565
+  macAddresses:
+  - 00:50:D0:00:00:00/24
+  manufacturer: Minerva Systems
+  manufacturerUri: https://device-type.com
+  name: Minerva
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0d87edb0-a872-437c-a739-aec7e8e85743
+  macAddresses:
+  - 4C:65:A8:00:00:00/28
+  - 70:B3:D5:8C:B0:00/36
+  manufacturer: WELT Corporation
+  manufacturerUri: https://device-type.com
+  name: WELT
+type: d3-device-type-assertion

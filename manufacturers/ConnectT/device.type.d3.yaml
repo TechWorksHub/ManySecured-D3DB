@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe48a47a-56fa-4210-aead-bd3308a5c9fb
+  macAddresses:
+  - 00:0C:8B:00:00:00/24
+  manufacturer: Connect Tech Inc
+  manufacturerUri: https://device-type.com
+  name: ConnectT
+type: d3-device-type-assertion

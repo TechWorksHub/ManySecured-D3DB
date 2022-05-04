@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb6e9f6f-51eb-48fa-8651-8ef0911d446b
+  macAddresses:
+  - 00:06:98:00:00:00/24
+  manufacturer: egnite GmbH
+  manufacturerUri: https://device-type.com
+  name: egnite
+type: d3-device-type-assertion

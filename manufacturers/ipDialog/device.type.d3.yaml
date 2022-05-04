@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08e90a18-f7ac-47cf-8860-8f203adf3d46
+  macAddresses:
+  - 00:04:1C:00:00:00/24
+  manufacturer: ipDialog, Inc.
+  manufacturerUri: https://device-type.com
+  name: ipDialog
+type: d3-device-type-assertion

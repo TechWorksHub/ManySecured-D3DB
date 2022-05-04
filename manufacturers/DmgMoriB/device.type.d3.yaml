@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a23876ab-7178-4a74-a675-ed7888283da5
+  macAddresses:
+  - 00:80:B8:00:00:00/24
+  manufacturer: Dmg Mori B.U.G. Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DmgMoriB
+type: d3-device-type-assertion

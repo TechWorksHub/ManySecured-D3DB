@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf5b1711-ab42-446e-ba51-fff23ed1df53
+  macAddresses:
+  - 00:80:F6:00:00:00/24
+  manufacturer: Synergy Microsystems
+  manufacturerUri: https://device-type.com
+  name: SynergyM
+type: d3-device-type-assertion

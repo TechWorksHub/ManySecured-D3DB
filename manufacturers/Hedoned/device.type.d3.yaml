@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6d22898-f146-4b3f-ac2e-015ca4365520
+  macAddresses:
+  - 00:25:99:00:00:00/24
+  manufacturer: Hedon e.d. B.V.
+  manufacturerUri: https://device-type.com
+  name: Hedoned
+type: d3-device-type-assertion

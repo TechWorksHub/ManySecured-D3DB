@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8dcbca7-45f6-4867-a9ab-9a676f0e7e2e
+  macAddresses:
+  - 40:12:E4:00:00:00/24
+  manufacturer: Compass-EOS
+  manufacturerUri: https://device-type.com
+  name: Compass-
+type: d3-device-type-assertion

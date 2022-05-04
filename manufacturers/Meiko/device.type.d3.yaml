@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05a3eab1-daa3-42cb-bb41-0fa02365c222
+  macAddresses:
+  - 00:00:FC:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Meiko
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b45ceb57-5d67-4018-836e-221302cd67ba
+  macAddresses:
+  - B0:EC:8F:00:00:00/24
+  manufacturer: Gmx Sas
+  manufacturerUri: https://device-type.com
+  name: GmxSas
+type: d3-device-type-assertion

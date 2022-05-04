@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 50ca207f-bc93-43b7-86b5-e719eccaca69
+  macAddresses:
+  - 40:D8:55:0C:70:00/36
+  - 60:15:92:A0:00:00/28
+  manufacturer: insensiv GmbH
+  manufacturerUri: https://device-type.com
+  name: insensiv
+type: d3-device-type-assertion

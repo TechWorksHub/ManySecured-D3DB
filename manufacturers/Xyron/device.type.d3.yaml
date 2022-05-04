@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 97d750d0-79cf-40b1-aa8e-b58a5b4488c6
+  macAddresses:
+  - 00:80:93:00:00:00/24
+  manufacturer: Xyron Corporation
+  manufacturerUri: https://device-type.com
+  name: Xyron
+type: d3-device-type-assertion

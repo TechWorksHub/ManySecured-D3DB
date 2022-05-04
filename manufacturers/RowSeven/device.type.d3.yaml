@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9a1a2f1-c1bf-494f-8ebe-fbd934f3e0b4
+  macAddresses:
+  - 00:50:C2:34:70:00/36
+  manufacturer: Row Seven Ltd
+  manufacturerUri: https://device-type.com
+  name: RowSeven
+type: d3-device-type-assertion

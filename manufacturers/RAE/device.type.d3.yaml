@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f369b2c2-4a8b-452e-a9e6-38f62a2a40cd
+  macAddresses:
+  - 00:12:9F:00:00:00/24
+  manufacturer: RAE Systems
+  manufacturerUri: https://device-type.com
+  name: RAE
+type: d3-device-type-assertion

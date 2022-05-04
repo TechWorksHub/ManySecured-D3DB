@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7189be1-d81b-465f-b70e-762a67d5b647
+  macAddresses:
+  - 00:24:4E:00:00:00/24
+  manufacturer: RadChips, Inc.
+  manufacturerUri: https://device-type.com
+  name: RadChips
+type: d3-device-type-assertion

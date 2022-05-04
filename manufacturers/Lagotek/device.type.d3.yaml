@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f1ccf23-dc14-43e2-a235-21c21b3fb8f1
+  macAddresses:
+  - 00:1E:85:00:00:00/24
+  manufacturer: Lagotek Corporation
+  manufacturerUri: https://device-type.com
+  name: Lagotek
+type: d3-device-type-assertion

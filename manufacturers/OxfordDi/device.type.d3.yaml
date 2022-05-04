@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e38ea034-285b-43d4-8656-083161f71def
+  macAddresses:
+  - 00:16:33:00:00:00/24
+  manufacturer: Oxford Diagnostics Ltd.
+  manufacturerUri: https://device-type.com
+  name: OxfordDi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7cdd7bd-2b3e-43ab-a1c8-5d1817818b3a
+  macAddresses:
+  - 00:1B:80:00:00:00/24
+  manufacturer: LORD Corporation
+  manufacturerUri: https://device-type.com
+  name: LORD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5c67b81-29ac-4034-b7ea-5aabd7957ca1
+  macAddresses:
+  - 10:10:B6:00:00:00/24
+  manufacturer: McCain Inc
+  manufacturerUri: https://device-type.com
+  name: McCain
+type: d3-device-type-assertion

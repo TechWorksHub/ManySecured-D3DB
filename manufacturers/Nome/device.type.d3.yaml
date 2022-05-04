@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41d3c99a-49c7-4b84-89d7-dc4f6259df2a
+  macAddresses:
+  - 04:63:E0:00:00:00/24
+  manufacturer: Nome Oy
+  manufacturerUri: https://device-type.com
+  name: Nome
+type: d3-device-type-assertion

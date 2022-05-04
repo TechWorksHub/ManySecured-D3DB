@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 12e36911-e424-4320-a4b4-0ad66da50954
+  macAddresses:
+  - 00:50:C2:1E:A0:00/36
+  - 00:50:C2:B9:C0:00/36
+  - 40:D8:55:09:80:00/36
+  - 70:B3:D5:14:20:00/36
+  - 70:B3:D5:18:90:00/36
+  - 70:B3:D5:27:B0:00/36
+  - 70:B3:D5:3E:A0:00/36
+  - 70:B3:D5:59:C0:00/36
+  - 70:B3:D5:63:A0:00/36
+  - 70:B3:D5:CA:F0:00/36
+  - 70:B3:D5:EF:70:00/36
+  - 8C:1F:64:72:60:00/36
+  - 8C:1F:64:96:70:00/36
+  manufacturer: Dave Srl
+  manufacturerUri: https://device-type.com
+  name: Dave
+type: d3-device-type-assertion

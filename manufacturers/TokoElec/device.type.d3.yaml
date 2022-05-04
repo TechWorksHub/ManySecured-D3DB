@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51167f01-1f45-4889-925f-5c50fb6dfbb8
+  macAddresses:
+  - 00:D0:65:00:00:00/24
+  manufacturer: Toko Electric
+  manufacturerUri: https://device-type.com
+  name: TokoElec
+type: d3-device-type-assertion

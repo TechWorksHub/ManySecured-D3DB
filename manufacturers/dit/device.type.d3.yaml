@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fefcd63-1083-4545-8798-0c5754fd005e
+  macAddresses:
+  - 00:E0:25:00:00:00/24
+  manufacturer: dit Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: dit
+type: d3-device-type-assertion

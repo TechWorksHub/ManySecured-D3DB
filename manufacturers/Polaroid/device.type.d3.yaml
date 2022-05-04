@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b2b835dd-ebcc-4151-877b-cbc6201c379c
+  macAddresses:
+  - 00:04:48:00:00:00/24
+  - 00:40:F7:00:00:00/24
+  manufacturer: Polaroid Corporation
+  manufacturerUri: https://device-type.com
+  name: Polaroid
+type: d3-device-type-assertion

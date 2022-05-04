@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d48307a9-e0e4-4206-b2a7-ed666cf26943
+  macAddresses:
+  - 3C:C1:2C:00:00:00/24
+  manufacturer: AES Corporation
+  manufacturerUri: https://device-type.com
+  name: AES
+type: d3-device-type-assertion

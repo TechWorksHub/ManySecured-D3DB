@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c45114f-f156-47cd-9810-ae56d09dbd86
+  macAddresses:
+  - 00:04:EB:00:00:00/24
+  manufacturer: Paxonet Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: PaxonetC
+type: d3-device-type-assertion

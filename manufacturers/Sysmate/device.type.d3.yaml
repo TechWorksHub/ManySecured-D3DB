@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ca97294-f106-46db-b101-73e4d9729f0a
+  macAddresses:
+  - 00:D0:40:00:00:00/24
+  manufacturer: Sysmate Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Sysmate
+type: d3-device-type-assertion

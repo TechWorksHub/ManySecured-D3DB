@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a6fea383-9164-48ef-8e05-b679f9b7cff4
+  macAddresses:
+  - 6C:1B:3F:00:00:00/24
+  - 70:B3:D5:38:C0:00/36
+  manufacturer: MiraeSignal Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: MiraeSig
+type: d3-device-type-assertion

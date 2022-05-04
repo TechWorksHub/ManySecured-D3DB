@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cf24bf33-97a5-45da-a024-3b28fb47bfc7
+  macAddresses:
+  - 94:4F:4C:00:00:00/24
+  - B0:1F:81:30:00:00/28
+  manufacturer: Sound United LLC
+  manufacturerUri: https://device-type.com
+  name: SoundUni
+type: d3-device-type-assertion

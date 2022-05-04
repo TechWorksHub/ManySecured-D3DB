@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 902e9846-8cde-4e14-bb65-4dfef20c5706
+  macAddresses:
+  - 00:80:8E:00:00:00/24
+  manufacturer: Radstone Technology
+  manufacturerUri: https://device-type.com
+  name: Radstone
+type: d3-device-type-assertion

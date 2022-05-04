@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e1196d3-d0bc-4d9d-9395-b40169f6f348
+  macAddresses:
+  - 9C:9D:5D:00:00:00/24
+  manufacturer: Raden Inc
+  manufacturerUri: https://device-type.com
+  name: Raden
+type: d3-device-type-assertion

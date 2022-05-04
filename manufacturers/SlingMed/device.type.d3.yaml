@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8a11d29-d18d-44d0-9000-655c088ecad2
+  macAddresses:
+  - 00:13:B6:00:00:00/24
+  manufacturer: Sling Media, Inc.
+  manufacturerUri: https://device-type.com
+  name: SlingMed
+type: d3-device-type-assertion

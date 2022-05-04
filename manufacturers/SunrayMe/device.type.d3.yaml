@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cab1c029-75df-4a6e-a66b-d45455e8516d
+  macAddresses:
+  - 1C:CA:E3:40:00:00/28
+  manufacturer: Sunray Medical Apparatus Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: SunrayMe
+type: d3-device-type-assertion

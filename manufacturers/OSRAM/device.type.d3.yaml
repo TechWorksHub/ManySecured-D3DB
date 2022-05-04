@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91b65928-cb9d-4027-988f-4dcc6883b47d
+  macAddresses:
+  - 7C:B0:3E:00:00:00/24
+  manufacturer: OSRAM GmbH
+  manufacturerUri: https://device-type.com
+  name: OSRAM
+type: d3-device-type-assertion

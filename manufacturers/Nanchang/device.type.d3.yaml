@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 823800aa-7d8b-40a2-bd99-121cde2c743b
+  macAddresses:
+  - 04:33:85:00:00:00/24
+  - F0:41:C8:70:00:00/28
+  manufacturer: Nanchang BlackShark Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Nanchang
+type: d3-device-type-assertion

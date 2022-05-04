@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61dfc6ba-a940-4960-982b-70799504f129
+  macAddresses:
+  - 00:1B:85:00:00:00/24
+  manufacturer: MAN Energy Solutions
+  manufacturerUri: https://device-type.com
+  name: MANEnerg
+type: d3-device-type-assertion

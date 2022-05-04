@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e242562-d967-4c75-b089-9a06b71e331b
+  macAddresses:
+  - 00:1E:F5:00:00:00/24
+  manufacturer: Hitek Automated Inc.
+  manufacturerUri: https://device-type.com
+  name: HitekAut
+type: d3-device-type-assertion

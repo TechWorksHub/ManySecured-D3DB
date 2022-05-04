@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3cb5fb4a-1540-4db4-89ec-dab3dda909df
+  macAddresses:
+  - 00:50:C2:23:00:00/36
+  - 00:50:C2:2D:B0:00/36
+  manufacturer: AutoTOOLS group Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: AutoTOOL
+type: d3-device-type-assertion

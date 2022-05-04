@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccb7855c-e37c-4633-a17b-5fe2ebcb6f5d
+  macAddresses:
+  - 84:39:BE:C0:00:00/28
+  manufacturer: EDC Electronic Design Chemnitz GmbH
+  manufacturerUri: https://device-type.com
+  name: EDCElect
+type: d3-device-type-assertion

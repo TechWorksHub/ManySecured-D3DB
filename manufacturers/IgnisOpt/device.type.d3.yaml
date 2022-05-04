@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55e5858d-c4c5-4995-a2b0-3e6b3666c850
+  macAddresses:
+  - 00:09:A6:00:00:00/24
+  manufacturer: Ignis Optics, Inc.
+  manufacturerUri: https://device-type.com
+  name: IgnisOpt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc7c5907-2335-4a48-a50f-e04ce9653079
+  macAddresses:
+  - 00:0A:26:00:00:00/24
+  manufacturer: CEIA S.p.A.
+  manufacturerUri: https://device-type.com
+  name: CEIA
+type: d3-device-type-assertion

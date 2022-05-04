@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cca9acf5-37a4-4299-92b3-4df762cb24aa
+  macAddresses:
+  - 00:0D:90:00:00:00/24
+  manufacturer: Factum Electronics AB
+  manufacturerUri: https://device-type.com
+  name: FactumEl
+type: d3-device-type-assertion

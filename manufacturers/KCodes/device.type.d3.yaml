@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2fc65b4-108d-4c55-8415-34ffee67d00b
+  macAddresses:
+  - 00:11:E5:00:00:00/24
+  manufacturer: KCodes Corporation
+  manufacturerUri: https://device-type.com
+  name: KCodes
+type: d3-device-type-assertion

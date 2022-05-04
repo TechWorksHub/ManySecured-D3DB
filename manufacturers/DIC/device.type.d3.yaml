@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bacd55e-14dc-4271-91ff-f03e3400c0f5
+  macAddresses:
+  - 70:B3:D5:5C:30:00/36
+  manufacturer: DIC Corporation
+  manufacturerUri: https://device-type.com
+  name: DIC
+type: d3-device-type-assertion

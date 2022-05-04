@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2199493-24ba-4343-9c23-d14e5cd28cc4
+  macAddresses:
+  - 00:1E:70:00:00:00/24
+  manufacturer: Cobham Antenna Systems
+  manufacturerUri: https://device-type.com
+  name: CobhamAn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ecac71d-9ff1-4dfb-99f6-ff57d3ecd929
+  macAddresses:
+  - 00:0B:3E:00:00:00/24
+  manufacturer: BittWare, Inc
+  manufacturerUri: https://device-type.com
+  name: BittWare
+type: d3-device-type-assertion

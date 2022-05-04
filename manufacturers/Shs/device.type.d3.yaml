@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42e24713-3184-4b68-bbd2-9e1b3c2cc035
+  macAddresses:
+  - 70:B3:D5:BD:00:00/36
+  manufacturer: Shs Srl
+  manufacturerUri: https://device-type.com
+  name: Shs
+type: d3-device-type-assertion

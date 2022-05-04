@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1c410090-cd45-4837-b753-ffd1d11e9eee
+  macAddresses:
+  - 00:A0:E1:00:00:00/24
+  - 00:B0:1C:00:00:00/24
+  manufacturer: Westport Research Associates, Inc.
+  manufacturerUri: https://device-type.com
+  name: Westport
+type: d3-device-type-assertion

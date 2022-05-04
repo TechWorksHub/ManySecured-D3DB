@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f4a1755b-3afc-4544-b9b2-7f36b78f02b6
+  macAddresses:
+  - 00:10:D6:00:00:00/24
+  - 00:50:C2:FA:70:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Exelis
+type: d3-device-type-assertion

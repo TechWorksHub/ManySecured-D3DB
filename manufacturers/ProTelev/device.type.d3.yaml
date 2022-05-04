@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba7c0174-8d2e-40d7-9c56-ba0b96aabe40
+  macAddresses:
+  - 00:13:59:00:00:00/24
+  manufacturer: ProTelevision Technologies A/S
+  manufacturerUri: https://device-type.com
+  name: ProTelev
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76cb287c-2b8b-4c8e-872a-793a6c8b7e6f
+  macAddresses:
+  - 00:10:2C:00:00:00/24
+  manufacturer: Lasat Networks A/S
+  manufacturerUri: https://device-type.com
+  name: LasatNet
+type: d3-device-type-assertion

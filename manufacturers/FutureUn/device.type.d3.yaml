@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b53a962-8afb-487b-a457-a214a2f0ec31
+  macAddresses:
+  - 00:1A:A4:00:00:00/24
+  manufacturer: Future University-Hakodate
+  manufacturerUri: https://device-type.com
+  name: FutureUn
+type: d3-device-type-assertion

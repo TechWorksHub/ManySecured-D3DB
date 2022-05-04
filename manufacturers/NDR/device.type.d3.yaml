@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee196fab-e36a-4ada-9843-1f43f36c6c2a
+  macAddresses:
+  - 00:0D:4E:00:00:00/24
+  manufacturer: NDR Co.,LTD.
+  manufacturerUri: https://device-type.com
+  name: NDR
+type: d3-device-type-assertion

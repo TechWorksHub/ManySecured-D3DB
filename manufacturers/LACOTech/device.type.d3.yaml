@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0e4b241-a3b8-45e1-bf4b-30109446d210
+  macAddresses:
+  - 64:33:B5:80:00:00/28
+  manufacturer: LACO Technologies
+  manufacturerUri: https://device-type.com
+  name: LACOTech
+type: d3-device-type-assertion

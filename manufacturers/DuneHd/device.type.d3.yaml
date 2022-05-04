@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b327a88-7de4-42dd-8894-4260d8a8b38e
+  macAddresses:
+  - 14:C0:89:00:00:00/24
+  manufacturer: Dune Hd Ltd
+  manufacturerUri: https://device-type.com
+  name: DuneHd
+type: d3-device-type-assertion

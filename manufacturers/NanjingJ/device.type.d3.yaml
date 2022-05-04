@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 4bd580f7-d5ff-42d2-a20f-ef198cfb08f7
+  macAddresses:
+  - 4C:4D:66:00:00:00/24
+  - 70:FD:88:00:00:00/24
+  - 8C:0E:60:00:00:00/24
+  - 90:27:59:00:00:00/24
+  - 90:C3:5F:00:00:00/24
+  - 90:C6:82:60:00:00/28
+  manufacturer: Nanjing Jiahao Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NanjingJ
+type: d3-device-type-assertion

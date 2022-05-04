@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a448d0e-a382-4a38-86ab-83df369b9b0e
+  macAddresses:
+  - 3C:6F:45:00:00:00/24
+  manufacturer: Fiberpro Inc.
+  manufacturerUri: https://device-type.com
+  name: Fiberpro
+type: d3-device-type-assertion

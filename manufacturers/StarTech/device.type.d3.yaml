@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 78e25f5a-31cb-4daf-a6d7-6f5a12038cb9
+  macAddresses:
+  - 00:40:52:00:00:00/24
+  - E8:EA:6A:00:00:00/24
+  manufacturer: Star Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: StarTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e61a2c0-ba54-41aa-8a12-37f2054580b2
+  macAddresses:
+  - C8:8E:D1:10:00:00/28
+  manufacturer: German Pipe GmbH
+  manufacturerUri: https://device-type.com
+  name: GermanPi
+type: d3-device-type-assertion

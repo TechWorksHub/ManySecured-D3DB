@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea047e59-b0cc-4b91-9946-f478379178bb
+  macAddresses:
+  - 00:15:8C:00:00:00/24
+  manufacturer: Liab ApS
+  manufacturerUri: https://device-type.com
+  name: LiabApS
+type: d3-device-type-assertion

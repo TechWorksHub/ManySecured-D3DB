@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b30136de-571e-4669-86cc-5127352d357c
+  macAddresses:
+  - 00:1B:AB:00:00:00/24
+  manufacturer: Telchemy, Incorporated
+  manufacturerUri: https://device-type.com
+  name: Telchemy
+type: d3-device-type-assertion

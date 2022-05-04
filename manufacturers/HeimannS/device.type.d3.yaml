@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2826e98-6e64-4224-b550-0d03694a1166
+  macAddresses:
+  - 00:97:FF:00:00:00/24
+  manufacturer: Heimann Sensor GmbH
+  manufacturerUri: https://device-type.com
+  name: HeimannS
+type: d3-device-type-assertion

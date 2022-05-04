@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d45c8a6-ea3a-4c63-8db4-a45027eb88a9
+  macAddresses:
+  - 00:19:0F:00:00:00/24
+  manufacturer: Advansus Corp.
+  manufacturerUri: https://device-type.com
+  name: Advansus
+type: d3-device-type-assertion

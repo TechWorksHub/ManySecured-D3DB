@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d64e7045-a4c1-4d6d-8437-4d31cccef079
+  macAddresses:
+  - 00:0D:5E:00:00:00/24
+  - F4:6E:24:00:00:00/24
+  - FC:61:98:00:00:00/24
+  manufacturer: NEC Personal Products
+  manufacturerUri: https://device-type.com
+  name: NECPerso
+type: d3-device-type-assertion

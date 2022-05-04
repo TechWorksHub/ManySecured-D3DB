@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60f45e2a-2340-41c6-bb16-40c16c4d1169
+  macAddresses:
+  - 00:20:42:00:00:00/24
+  manufacturer: Datametrics Corp.
+  manufacturerUri: https://device-type.com
+  name: Datametr
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b87799e2-4688-46d8-a1ba-737cb8c884f6
+  macAddresses:
+  - 40:D8:55:01:10:00/36
+  - 70:B3:D5:7C:30:00/36
+  - 70:F8:E7:60:00:00/28
+  manufacturer: Flexim Security Oy
+  manufacturerUri: https://device-type.com
+  name: FleximSe
+type: d3-device-type-assertion

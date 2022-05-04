@@ -1,0 +1,8 @@
+credentialSubject:
+  id: db74b559-c06c-4bb1-a32b-0aa626dd7c86
+  macAddresses:
+  - 00:22:52:00:00:00/24
+  manufacturer: ZOLL Lifecor Corporation
+  manufacturerUri: https://device-type.com
+  name: ZOLLLife
+type: d3-device-type-assertion

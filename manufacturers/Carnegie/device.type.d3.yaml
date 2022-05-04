@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 72af3fad-333a-430f-b199-1f2cbfb5a5b7
+  macAddresses:
+  - 08:00:7F:00:00:00/24
+  - CC:4D:38:00:00:00/24
+  manufacturer: Carnegie-Mellon University
+  manufacturerUri: https://device-type.com
+  name: Carnegie
+type: d3-device-type-assertion

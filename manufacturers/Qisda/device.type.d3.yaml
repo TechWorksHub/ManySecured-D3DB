@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 70df91b6-e02c-40a3-a228-142f1b5f2a00
+  macAddresses:
+  - 00:03:9D:00:00:00/24
+  - 00:17:CA:00:00:00/24
+  - 00:1E:21:00:00:00/24
+  - 1C:E1:92:00:00:00/24
+  - FC:61:79:50:00:00/28
+  manufacturer: Qisda Corporation
+  manufacturerUri: https://device-type.com
+  name: Qisda
+type: d3-device-type-assertion

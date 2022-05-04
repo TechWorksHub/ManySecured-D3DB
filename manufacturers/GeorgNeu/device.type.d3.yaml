@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7ca81d25-42e6-45f7-be5d-e4015d67beb2
+  macAddresses:
+  - 28:36:38:60:00:00/28
+  - 40:D8:55:18:20:00/36
+  manufacturer: Georg Neumann GmbH
+  manufacturerUri: https://device-type.com
+  name: GeorgNeu
+type: d3-device-type-assertion

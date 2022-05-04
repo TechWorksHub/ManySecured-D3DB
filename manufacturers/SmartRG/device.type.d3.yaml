@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 79960f71-5273-4b92-9f41-214820ab66e6
+  macAddresses:
+  - 00:23:6A:00:00:00/24
+  - 3C:90:66:00:00:00/24
+  - E8:2C:6D:00:00:00/24
+  manufacturer: SmartRG Inc
+  manufacturerUri: https://device-type.com
+  name: SmartRG
+type: d3-device-type-assertion

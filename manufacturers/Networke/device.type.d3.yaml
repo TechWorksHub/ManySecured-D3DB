@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2c9e08f2-78e7-44a2-bc50-22071ca3f6ee
+  macAddresses:
+  - 00:50:C2:3A:A0:00/36
+  - 00:59:79:00:00:00/24
+  manufacturer: Networked Robotics Corporation
+  manufacturerUri: https://device-type.com
+  name: Networke
+type: d3-device-type-assertion

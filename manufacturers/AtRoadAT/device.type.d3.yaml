@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd9c24ab-408e-4aa7-a6fb-ddb936c53aee
+  macAddresses:
+  - 00:18:D0:00:00:00/24
+  manufacturer: AtRoad, A Trimble Company
+  manufacturerUri: https://device-type.com
+  name: AtRoadAT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f10be1e6-fad7-4656-bce6-3a410f348fca
+  macAddresses:
+  - 00:1D:F2:00:00:00/24
+  manufacturer: Netflix, Inc.
+  manufacturerUri: https://device-type.com
+  name: Netflix
+type: d3-device-type-assertion

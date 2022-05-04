@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 70a21f20-6353-4120-833e-1c9e8eaf0cb1
+  macAddresses:
+  - 00:17:88:00:00:00/24
+  - 24:C4:2F:00:00:00/24
+  - EC:B5:FA:00:00:00/24
+  manufacturer: Philips Lighting BV
+  manufacturerUri: https://device-type.com
+  name: PhilipsL
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1ab9015f-3c53-4ac5-b801-c3c549cb359e
+  macAddresses:
+  - 00:50:C2:A3:50:00/36
+  - 9C:69:B4:30:00:00/28
+  manufacturer: Appareo Systems, LLC
+  manufacturerUri: https://device-type.com
+  name: Appareo
+type: d3-device-type-assertion

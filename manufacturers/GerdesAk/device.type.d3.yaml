@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e81b9c8-a3c6-4cea-a473-241ec16bc74c
+  macAddresses:
+  - 64:F2:42:00:00:00/24
+  manufacturer: Gerdes Aktiengesellschaft
+  manufacturerUri: https://device-type.com
+  name: GerdesAk
+type: d3-device-type-assertion

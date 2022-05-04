@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8f00fda1-b679-47d9-89a0-3c92383a6491
+  macAddresses:
+  - 1C:82:59:60:00:00/28
+  - F8:E5:CF:00:00:00/24
+  manufacturer: Cgi It Uk Limited
+  manufacturerUri: https://device-type.com
+  name: CgiItUk
+type: d3-device-type-assertion

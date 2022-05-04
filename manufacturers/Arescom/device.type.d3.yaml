@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e0579f21-aa6b-49a9-aaf6-ca039c5e4023
+  macAddresses:
+  - 00:05:D8:00:00:00/24
+  - 00:60:6C:00:00:00/24
+  manufacturer: Arescom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Arescom
+type: d3-device-type-assertion

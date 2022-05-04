@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb978268-644e-4999-ab68-c173ff38c806
+  macAddresses:
+  - DC:6B:12:00:00:00/24
+  manufacturer: worldcns inc.
+  manufacturerUri: https://device-type.com
+  name: worldcns
+type: d3-device-type-assertion

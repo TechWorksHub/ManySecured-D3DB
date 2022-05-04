@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b68b4b45-fc92-47dc-bc67-1a410795b641
+  macAddresses:
+  - 00:0D:32:00:00:00/24
+  manufacturer: DispenseSource, Inc.
+  manufacturerUri: https://device-type.com
+  name: Dispense
+type: d3-device-type-assertion

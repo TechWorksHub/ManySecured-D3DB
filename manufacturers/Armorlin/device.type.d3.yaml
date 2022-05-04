@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5e226f2d-e0bf-4e83-85d0-3deaad875c78
+  macAddresses:
+  - 00:18:7D:00:00:00/24
+  - 00:50:C2:49:E0:00/36
+  manufacturer: Armorlink Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: Armorlin
+type: d3-device-type-assertion

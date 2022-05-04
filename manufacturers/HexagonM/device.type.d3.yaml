@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9003179f-6e58-4ad5-8f9c-2855367dbff5
+  macAddresses:
+  - 70:B3:D5:5E:00:00/36
+  manufacturer: Hexagon Metrology SAS
+  manufacturerUri: https://device-type.com
+  name: HexagonM
+type: d3-device-type-assertion

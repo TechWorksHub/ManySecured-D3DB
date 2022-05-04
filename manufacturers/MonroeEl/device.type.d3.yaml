@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4a176cfb-9420-4aca-b538-1d1d1f53e53c
+  macAddresses:
+  - 00:50:C2:4F:50:00/36
+  - 70:B3:D5:40:A0:00/36
+  manufacturer: Monroe Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: MonroeEl
+type: d3-device-type-assertion

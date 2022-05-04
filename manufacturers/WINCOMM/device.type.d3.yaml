@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f390d76-fcc1-441d-8bd2-1363f822184e
+  macAddresses:
+  - 00:01:DA:00:00:00/24
+  manufacturer: WINCOMM Corporation
+  manufacturerUri: https://device-type.com
+  name: WINCOMM
+type: d3-device-type-assertion

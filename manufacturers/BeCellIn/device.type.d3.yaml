@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c256606-5423-4032-a994-7925d9d2dfe4
+  macAddresses:
+  - 00:13:1B:00:00:00/24
+  manufacturer: BeCell Innovations Corp.
+  manufacturerUri: https://device-type.com
+  name: BeCellIn
+type: d3-device-type-assertion

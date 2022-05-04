@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dfc1d63-d04d-4a17-a5b9-e5381bd0adba
+  macAddresses:
+  - 00:50:C2:43:D0:00/36
+  manufacturer: Ann Arbor Sensor Systems LLC
+  manufacturerUri: https://device-type.com
+  name: AnnArbor
+type: d3-device-type-assertion

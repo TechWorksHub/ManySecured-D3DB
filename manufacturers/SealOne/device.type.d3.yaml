@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56c420cb-d16e-4b52-94f7-f14a7d2198d1
+  macAddresses:
+  - 5C:11:93:00:00:00/24
+  manufacturer: Seal One AG
+  manufacturerUri: https://device-type.com
+  name: SealOne
+type: d3-device-type-assertion

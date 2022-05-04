@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 890991d0-7954-4e1c-8dc9-8efa7afc5475
+  macAddresses:
+  - 00:16:74:00:00:00/24
+  - 84:62:A6:00:00:00/24
+  manufacturer: EuroCB (Phils.), Inc.
+  manufacturerUri: https://device-type.com
+  name: EuroCBPh
+type: d3-device-type-assertion

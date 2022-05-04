@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9837bd28-e8f3-452c-a170-ee0506850b71
+  macAddresses:
+  - 50:F0:03:00:00:00/24
+  manufacturer: Open Stack, Inc.
+  manufacturerUri: https://device-type.com
+  name: OpenStac
+type: d3-device-type-assertion

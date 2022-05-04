@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfb9a63f-a350-4fcd-8230-0334f5255764
+  macAddresses:
+  - 00:00:37:00:00:00/24
+  manufacturer: Oxford Metrics Limited
+  manufacturerUri: https://device-type.com
+  name: OxfordMe
+type: d3-device-type-assertion

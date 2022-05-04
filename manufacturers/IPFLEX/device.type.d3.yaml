@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e83cf24-d51e-40b1-984e-d34dd2fa8732
+  macAddresses:
+  - 00:09:FC:00:00:00/24
+  manufacturer: IPFLEX Inc.
+  manufacturerUri: https://device-type.com
+  name: IPFLEX
+type: d3-device-type-assertion

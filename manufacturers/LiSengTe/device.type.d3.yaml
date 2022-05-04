@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f4a9da5d-5f14-4cee-a1e5-61dec0766d68
+  macAddresses:
+  - 04:BA:36:00:00:00/24
+  - 70:B3:D5:4F:00:00/36
+  - 90:C6:82:C0:00:00/28
+  manufacturer: Li Seng Technology Ltd
+  manufacturerUri: https://device-type.com
+  name: LiSengTe
+type: d3-device-type-assertion

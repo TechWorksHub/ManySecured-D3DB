@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65080f23-123b-4075-9c1f-ccdd7d5e8093
+  macAddresses:
+  - 00:03:FB:00:00:00/24
+  manufacturer: ENEGATE Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: ENEGATE
+type: d3-device-type-assertion

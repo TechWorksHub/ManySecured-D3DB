@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 93d2b930-f900-4c72-9d63-2c6e4ccf1280
+  macAddresses:
+  - 00:07:73:00:00:00/24
+  manufacturer: Ascom Powerline Communications Ltd.
+  manufacturerUri: https://device-type.com
+  name: AscomPow
+type: d3-device-type-assertion

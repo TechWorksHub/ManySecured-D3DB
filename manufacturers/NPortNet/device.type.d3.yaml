@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dbf49ef-0c15-4385-8d21-861dca95b943
+  macAddresses:
+  - 14:4F:D7:80:00:00/28
+  manufacturer: NPort Networks Inc.,
+  manufacturerUri: https://device-type.com
+  name: NPortNet
+type: d3-device-type-assertion

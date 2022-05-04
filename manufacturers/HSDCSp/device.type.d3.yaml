@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8128515-b789-4321-b9d0-2e6cee629f03
+  macAddresses:
+  - 00:50:C2:FC:30:00/36
+  manufacturer: HSDC Sp. z o.o.
+  manufacturerUri: https://device-type.com
+  name: HSDCSp
+type: d3-device-type-assertion

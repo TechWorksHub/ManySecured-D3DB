@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f03a9f2-b07c-4b9a-9c62-62a6f994e725
+  macAddresses:
+  - 00:00:F2:00:00:00/24
+  manufacturer: Spider Communications
+  manufacturerUri: https://device-type.com
+  name: SpiderCo
+type: d3-device-type-assertion

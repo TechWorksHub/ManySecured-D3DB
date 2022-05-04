@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f759b960-5c8c-4123-8f48-966e359e50c7
+  macAddresses:
+  - 00:05:0B:00:00:00/24
+  manufacturer: SICOM Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: SICOM
+type: d3-device-type-assertion

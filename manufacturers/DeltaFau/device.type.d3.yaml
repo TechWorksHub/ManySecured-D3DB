@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41f6c37f-8ee2-41f9-9259-051e251dc457
+  macAddresses:
+  - 20:78:0B:00:00:00/24
+  manufacturer: Delta Faucet Company
+  manufacturerUri: https://device-type.com
+  name: DeltaFau
+type: d3-device-type-assertion

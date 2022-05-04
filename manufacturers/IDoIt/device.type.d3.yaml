@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2de7168-9b0a-4a0e-ab06-ab87a404e1a4
+  macAddresses:
+  - 00:26:90:00:00:00/24
+  manufacturer: I Do It
+  manufacturerUri: https://device-type.com
+  name: IDoIt
+type: d3-device-type-assertion

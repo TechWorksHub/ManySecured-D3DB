@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3af6698d-b72b-4825-bce8-1118bdabb391
+  macAddresses:
+  - 00:1B:E0:00:00:00/24
+  manufacturer: TELENOT ELECTRONIC GmbH
+  manufacturerUri: https://device-type.com
+  name: TELENOTE
+type: d3-device-type-assertion

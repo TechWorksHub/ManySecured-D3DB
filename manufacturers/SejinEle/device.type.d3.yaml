@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c9e8c91-aabb-4f48-86ae-8f4ddea3831d
+  macAddresses:
+  - 00:21:7A:00:00:00/24
+  manufacturer: Sejin Electron, Inc.
+  manufacturerUri: https://device-type.com
+  name: SejinEle
+type: d3-device-type-assertion

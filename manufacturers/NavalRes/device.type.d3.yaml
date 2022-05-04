@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 448eecca-9a73-4111-b9e7-3f938872821a
+  macAddresses:
+  - 00:09:9C:00:00:00/24
+  manufacturer: Naval Research Laboratory
+  manufacturerUri: https://device-type.com
+  name: NavalRes
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f386d82-90aa-4372-942f-11706f6219d6
+  macAddresses:
+  - 00:05:87:00:00:00/24
+  manufacturer: Locus, Incorporated
+  manufacturerUri: https://device-type.com
+  name: Locus
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6f76e5ca-0a4f-42a1-bc48-417c8704780a
+  macAddresses:
+  - 00:00:22:00:00:00/24
+  - 00:50:C2:D8:90:00/36
+  manufacturer: Visual Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: VisualTe
+type: d3-device-type-assertion

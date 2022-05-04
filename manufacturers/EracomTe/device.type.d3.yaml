@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 979bbb38-c2bd-42a8-9144-b5add08b18f7
+  macAddresses:
+  - 00:0A:64:00:00:00/24
+  manufacturer: Eracom Technologies
+  manufacturerUri: https://device-type.com
+  name: EracomTe
+type: d3-device-type-assertion

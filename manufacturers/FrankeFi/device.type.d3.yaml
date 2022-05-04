@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40ec475f-a831-4057-9654-c9383011113e
+  macAddresses:
+  - 00:0B:69:00:00:00/24
+  manufacturer: Franke Finland Oy
+  manufacturerUri: https://device-type.com
+  name: FrankeFi
+type: d3-device-type-assertion

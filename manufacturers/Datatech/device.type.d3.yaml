@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3202d30f-b947-473d-9782-d7125ad1afb3
+  macAddresses:
+  - 00:40:61:00:00:00/24
+  - 00:C5:DB:00:00:00/24
+  manufacturer: Datatech Enterprises Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Datatech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccd7ea5c-1ad6-4c6f-b1be-a3c53c1c9ba9
+  macAddresses:
+  - 00:20:93:00:00:00/24
+  manufacturer: Landings Technology Corp.
+  manufacturerUri: https://device-type.com
+  name: Landings
+type: d3-device-type-assertion

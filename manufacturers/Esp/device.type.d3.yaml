@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f712a7ee-5839-49ca-87e8-8e6dc7c66ea5
+  macAddresses:
+  - 00:21:EB:00:00:00/24
+  - 30:F4:2F:00:00:00/24
+  manufacturer: Esp Systems, Llc
+  manufacturerUri: https://device-type.com
+  name: Esp
+type: d3-device-type-assertion

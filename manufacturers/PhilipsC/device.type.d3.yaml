@@ -1,0 +1,10 @@
+credentialSubject:
+  id: bdf7a901-ee24-4c1f-8def-1bd26df53b06
+  macAddresses:
+  - 00:02:6C:00:00:00/24
+  - 00:08:C6:00:00:00/24
+  - 00:25:1B:00:00:00/24
+  manufacturer: Philips CFT
+  manufacturerUri: https://device-type.com
+  name: PhilipsC
+type: d3-device-type-assertion

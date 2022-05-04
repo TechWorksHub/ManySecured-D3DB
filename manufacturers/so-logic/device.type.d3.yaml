@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a33dc16-fdf6-4e62-b684-fa38cf3de198
+  macAddresses:
+  - 00:32:3A:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: so-logic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7b51bb4-e886-444e-ab72-7f7d984db870
+  macAddresses:
+  - 00:0B:6E:00:00:00/24
+  manufacturer: Neff Instrument Corp.
+  manufacturerUri: https://device-type.com
+  name: NeffInst
+type: d3-device-type-assertion

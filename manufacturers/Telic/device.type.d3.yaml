@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f01e1a2c-8c35-4456-9fc6-5160fb3b7f2a
+  macAddresses:
+  - 50:DE:19:00:00:00/28
+  manufacturer: Telic AG
+  manufacturerUri: https://device-type.com
+  name: Telic
+type: d3-device-type-assertion

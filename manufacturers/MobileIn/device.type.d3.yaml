@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 105dfd40-abb7-49f5-82b3-a81712334ba2
+  macAddresses:
+  - 78:57:12:00:00:00/24
+  manufacturer: Mobile Integration Workgroup
+  manufacturerUri: https://device-type.com
+  name: MobileIn
+type: d3-device-type-assertion

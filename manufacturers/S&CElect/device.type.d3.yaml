@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33121edf-1ae4-453d-a8c4-54da5351fbbe
+  macAddresses:
+  - 00:19:C9:00:00:00/24
+  manufacturer: S&C Electric Company
+  manufacturerUri: https://device-type.com
+  name: S&CElect
+type: d3-device-type-assertion

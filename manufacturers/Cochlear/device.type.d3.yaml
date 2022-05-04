@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8202c824-abe6-424c-99a7-2281f0f5b5b3
+  macAddresses:
+  - 84:77:78:00:00:00/24
+  manufacturer: Cochlear Limited
+  manufacturerUri: https://device-type.com
+  name: Cochlear
+type: d3-device-type-assertion

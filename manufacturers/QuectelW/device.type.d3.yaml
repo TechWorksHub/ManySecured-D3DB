@@ -1,0 +1,25 @@
+credentialSubject:
+  id: 85e5a510-a2e7-46e4-935e-a72326a68479
+  macAddresses:
+  - 34:87:3D:00:00:00/24
+  - 50:80:4A:00:00:00/24
+  - 50:E9:DF:00:00:00/24
+  - 54:65:03:00:00:00/24
+  - 58:D3:91:00:00:00/24
+  - 64:C4:03:00:00:00/24
+  - 74:76:5B:00:00:00/24
+  - 7C:CC:FC:00:00:00/24
+  - 80:FB:F0:00:00:00/24
+  - 90:BD:E6:00:00:00/24
+  - 90:CD:1F:00:00:00/24
+  - 98:26:AD:00:00:00/24
+  - A0:ED:FB:00:00:00/24
+  - A4:86:AE:00:00:00/24
+  - C4:41:37:00:00:00/24
+  - E4:08:E7:00:00:00/24
+  - E8:47:27:00:00:00/24
+  - E8:97:9A:00:00:00/24
+  manufacturer: Quectel Wireless Solutions Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: QuectelW
+type: d3-device-type-assertion

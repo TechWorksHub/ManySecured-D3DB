@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ae0ba9b2-f113-48f4-98bb-b9ea7a0e5a43
+  macAddresses:
+  - 00:50:C2:C7:80:00/36
+  - B8:E7:79:00:00:00/24
+  manufacturer: 9Solutions Oy
+  manufacturerUri: https://device-type.com
+  name: 9Solutio
+type: d3-device-type-assertion

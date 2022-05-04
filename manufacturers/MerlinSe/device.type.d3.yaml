@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8dbbb17b-c253-4050-8cba-55c1b6b483d0
+  macAddresses:
+  - F0:2A:2B:00:00:00/28
+  manufacturer: Merlin Security Inc.
+  manufacturerUri: https://device-type.com
+  name: MerlinSe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0b3865e3-706f-4593-964c-522d4d421434
+  macAddresses:
+  - 00:1A:5F:00:00:00/24
+  manufacturer: KitWorks.fi Ltd.
+  manufacturerUri: https://device-type.com
+  name: KitWorks
+type: d3-device-type-assertion

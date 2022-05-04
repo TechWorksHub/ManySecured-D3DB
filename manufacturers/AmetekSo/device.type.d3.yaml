@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f5290b88-c638-4ae8-a755-8c67ca0af93c
+  macAddresses:
+  - 68:79:12:E0:00:00/28
+  - 70:B3:D5:6D:E0:00/36
+  manufacturer: Ametek Solidstate Controls
+  manufacturerUri: https://device-type.com
+  name: AmetekSo
+type: d3-device-type-assertion

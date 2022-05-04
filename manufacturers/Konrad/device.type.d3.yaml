@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b811950-d9af-4eae-b9b5-3d557451d69d
+  macAddresses:
+  - 70:B3:D5:57:50:00/36
+  manufacturer: Konrad GmbH
+  manufacturerUri: https://device-type.com
+  name: Konrad
+type: d3-device-type-assertion

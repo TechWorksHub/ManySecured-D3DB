@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 742bba45-a6a6-4127-9199-27a07c87beae
+  macAddresses:
+  - 00:09:CF:00:00:00/24
+  manufacturer: iAd GmbH
+  manufacturerUri: https://device-type.com
+  name: iAd
+type: d3-device-type-assertion

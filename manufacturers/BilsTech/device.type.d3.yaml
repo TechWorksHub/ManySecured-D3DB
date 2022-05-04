@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c36713b-2850-4890-a4d2-ce85a4a5b55a
+  macAddresses:
+  - 00:0D:89:00:00:00/24
+  manufacturer: Bils Technology Inc
+  manufacturerUri: https://device-type.com
+  name: BilsTech
+type: d3-device-type-assertion

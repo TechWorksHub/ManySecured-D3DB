@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1cdb377b-1f72-44f7-9e53-72ba87351966
+  macAddresses:
+  - 00:0E:98:00:00:00/24
+  - 00:C0:68:00:00:00/24
+  manufacturer: HME Clear-Com LTD.
+  manufacturerUri: https://device-type.com
+  name: HMEClear
+type: d3-device-type-assertion

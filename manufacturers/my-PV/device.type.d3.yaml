@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26042b07-6c99-4c3f-82b5-113fc6155625
+  macAddresses:
+  - 98:6D:35:C0:00:00/28
+  manufacturer: my-PV GmbH
+  manufacturerUri: https://device-type.com
+  name: my-PV
+type: d3-device-type-assertion

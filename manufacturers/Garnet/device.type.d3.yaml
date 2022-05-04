@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e97aab0-9977-4554-94ce-61f35c3c8f00
+  macAddresses:
+  - 00:30:E2:00:00:00/24
+  manufacturer: Garnet Systems Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Garnet
+type: d3-device-type-assertion

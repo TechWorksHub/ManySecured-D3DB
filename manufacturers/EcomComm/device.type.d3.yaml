@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca1a9292-ce77-431c-8b90-cdece55a9366
+  macAddresses:
+  - 00:13:B3:00:00:00/24
+  manufacturer: Ecom Communications Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: EcomComm
+type: d3-device-type-assertion

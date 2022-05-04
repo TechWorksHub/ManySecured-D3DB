@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb1df485-abc6-45bf-a1b9-4a709c89ae24
+  macAddresses:
+  - 00:1B:0E:00:00:00/24
+  manufacturer: InoTec GmbH Organisationssysteme
+  manufacturerUri: https://device-type.com
+  name: InoTecOr
+type: d3-device-type-assertion

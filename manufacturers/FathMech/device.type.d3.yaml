@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7a315a6b-0307-4e88-bc51-eecc52269442
+  macAddresses:
+  - 70:B3:D5:DC:30:00/36
+  - 98:FC:84:90:00:00/28
+  manufacturer: Fath Mechatronics
+  manufacturerUri: https://device-type.com
+  name: FathMech
+type: d3-device-type-assertion

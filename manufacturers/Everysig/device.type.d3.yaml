@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e46394e-1f48-4878-a5fe-c4443f3e99f4
+  macAddresses:
+  - 44:FD:A3:00:00:00/24
+  manufacturer: Everysight LTD.
+  manufacturerUri: https://device-type.com
+  name: Everysig
+type: d3-device-type-assertion

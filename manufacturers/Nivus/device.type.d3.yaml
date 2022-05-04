@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f146279-1a83-4a7e-aa5f-9bb2eb49e42b
+  macAddresses:
+  - 00:16:29:00:00:00/24
+  manufacturer: Nivus GmbH
+  manufacturerUri: https://device-type.com
+  name: Nivus
+type: d3-device-type-assertion

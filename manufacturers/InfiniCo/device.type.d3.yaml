@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3adffb2a-c05f-49f8-85e1-b64f5725095a
+  macAddresses:
+  - 00:06:6A:00:00:00/24
+  manufacturer: InfiniCon Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: InfiniCo
+type: d3-device-type-assertion

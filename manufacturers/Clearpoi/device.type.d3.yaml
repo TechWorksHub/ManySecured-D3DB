@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1640bfdb-c2da-4beb-9bde-1ead5d929df1
+  macAddresses:
+  - 00:80:A9:00:00:00/24
+  manufacturer: Clearpoint Research
+  manufacturerUri: https://device-type.com
+  name: Clearpoi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0f0fd05d-71da-4140-9aee-1a0330b9e425
+  macAddresses:
+  - 00:25:93:00:00:00/24
+  manufacturer: DatNet Informatikai Kft.
+  manufacturerUri: https://device-type.com
+  name: DatNetIn
+type: d3-device-type-assertion

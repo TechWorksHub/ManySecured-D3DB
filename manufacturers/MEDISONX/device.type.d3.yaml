@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce3b2ae5-0968-4c9c-97a6-af9a142a8e78
+  macAddresses:
+  - C8:48:F5:00:00:00/24
+  manufacturer: MEDISON Xray Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: MEDISONX
+type: d3-device-type-assertion

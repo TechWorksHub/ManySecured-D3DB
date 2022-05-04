@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c37be55-c168-42bd-a98c-d3c95517283e
+  macAddresses:
+  - 00:80:43:00:00:00/24
+  manufacturer: Networld, Inc.
+  manufacturerUri: https://device-type.com
+  name: Networld
+type: d3-device-type-assertion

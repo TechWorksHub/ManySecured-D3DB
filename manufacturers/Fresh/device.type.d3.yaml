@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e05bee00-fbc6-4b80-9d34-5324b8dd4442
+  macAddresses:
+  - 4C:96:2D:00:00:00/24
+  manufacturer: Fresh AB
+  manufacturerUri: https://device-type.com
+  name: Fresh
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cda8d9f4-ce14-4049-8e6c-8a059ed9f766
+  macAddresses:
+  - 00:02:CE:00:00:00/24
+  manufacturer: FoxJet, Inc.
+  manufacturerUri: https://device-type.com
+  name: FoxJet
+type: d3-device-type-assertion

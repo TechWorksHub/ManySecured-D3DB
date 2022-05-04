@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 69b3242d-7fd7-4bbf-aeba-a7d675ae0ecf
+  macAddresses:
+  - D0:C0:BF:00:00:00/24
+  - FC:19:28:00:00:00/24
+  manufacturer: Actions Microelectronics Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: ActionsM
+type: d3-device-type-assertion

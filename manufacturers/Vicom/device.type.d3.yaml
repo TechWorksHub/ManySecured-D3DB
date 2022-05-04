@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 012d9807-33aa-41e2-b389-766eeeb1bc24
+  macAddresses:
+  - 00:60:22:00:00:00/24
+  manufacturer: Vicom Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Vicom
+type: d3-device-type-assertion

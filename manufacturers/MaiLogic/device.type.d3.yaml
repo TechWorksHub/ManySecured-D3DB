@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5afa18ef-aa8a-4d07-881f-7dfc23ead02d
+  macAddresses:
+  - 00:09:D2:00:00:00/24
+  manufacturer: Mai Logic Inc.
+  manufacturerUri: https://device-type.com
+  name: MaiLogic
+type: d3-device-type-assertion

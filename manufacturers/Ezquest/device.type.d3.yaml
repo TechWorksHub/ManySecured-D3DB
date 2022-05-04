@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfc25035-31b4-4496-9147-95ab5ef8bac5
+  macAddresses:
+  - 00:0E:F1:00:00:00/24
+  manufacturer: Ezquest Inc.
+  manufacturerUri: https://device-type.com
+  name: Ezquest
+type: d3-device-type-assertion

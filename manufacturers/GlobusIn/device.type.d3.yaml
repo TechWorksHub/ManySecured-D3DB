@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4fab894-fc8e-48ba-bddc-61a61aa35d31
+  macAddresses:
+  - 68:79:12:C0:00:00/28
+  manufacturer: Globus Infocom Limited
+  manufacturerUri: https://device-type.com
+  name: GlobusIn
+type: d3-device-type-assertion

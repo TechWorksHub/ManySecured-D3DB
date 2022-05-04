@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 000a4f86-ac07-429d-a9bb-43743872bcf5
+  macAddresses:
+  - 00:10:97:00:00:00/24
+  manufacturer: WinNet Metropolitan Communications Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: WinNetMe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e27a5864-37dd-4f09-97ba-0daa693edd87
+  macAddresses:
+  - 00:50:B2:00:00:00/24
+  manufacturer: BRODEL GmbH
+  manufacturerUri: https://device-type.com
+  name: BRODEL
+type: d3-device-type-assertion

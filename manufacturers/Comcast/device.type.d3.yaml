@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e237192f-8d8d-44e4-83a1-2f488fd32b04
+  macAddresses:
+  - 00:69:67:60:00:00/28
+  - 78:72:64:C0:00:00/28
+  manufacturer: Comcast-SRL
+  manufacturerUri: https://device-type.com
+  name: Comcast
+type: d3-device-type-assertion

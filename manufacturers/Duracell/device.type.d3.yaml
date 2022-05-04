@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bce1203f-b92b-41a9-a3f6-c48768ac90e4
+  macAddresses:
+  - F0:5D:C8:00:00:00/24
+  manufacturer: Duracell Powermat
+  manufacturerUri: https://device-type.com
+  name: Duracell
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7600debf-5776-4e5d-9eee-a87f4e9bb5ba
+  macAddresses:
+  - 00:50:C2:5F:30:00/36
+  - D4:25:CC:C0:00:00/28
+  manufacturer: POSNET Polska S.A.
+  manufacturerUri: https://device-type.com
+  name: POSNETPo
+type: d3-device-type-assertion

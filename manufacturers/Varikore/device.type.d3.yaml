@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a2e094f4-db51-4bb5-bc8b-8ececfd7f848
+  macAddresses:
+  - 70:B3:D5:3A:70:00/36
+  - B0:AE:25:00:00:00/24
+  manufacturer: Varikorea
+  manufacturerUri: https://device-type.com
+  name: Varikore
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 4dda5949-84bc-4079-903d-3d006d5b3eeb
+  macAddresses:
+  - 24:43:E2:00:00:00/24
+  - 30:4F:75:00:00:00/24
+  - 54:AE:D0:00:00:00/24
+  - 9C:65:EE:00:00:00/24
+  - D0:96:FB:00:00:00/24
+  manufacturer: DASAN Network Solutions
+  manufacturerUri: https://device-type.com
+  name: DASANNet
+type: d3-device-type-assertion

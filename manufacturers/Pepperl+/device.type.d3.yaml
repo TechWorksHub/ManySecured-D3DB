@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b650d5a-49d4-4dd8-88bb-5f1272c97562
+  macAddresses:
+  - 00:0D:81:00:00:00/24
+  manufacturer: Pepperl+Fuchs GmbH
+  manufacturerUri: https://device-type.com
+  name: Pepperl+
+type: d3-device-type-assertion

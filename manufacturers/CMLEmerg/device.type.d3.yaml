@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 024a849f-1f89-442d-b1eb-ac76aa74c2db
+  macAddresses:
+  - 00:03:C8:00:00:00/24
+  manufacturer: CML Emergency Services
+  manufacturerUri: https://device-type.com
+  name: CMLEmerg
+type: d3-device-type-assertion

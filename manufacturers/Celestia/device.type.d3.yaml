@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b15701d2-0d8e-4d93-819a-0be5105bcc26
+  macAddresses:
+  - 00:1A:CC:00:00:00/24
+  - 00:50:C2:F6:70:00/36
+  manufacturer: Celestial Semiconductor, Ltd
+  manufacturerUri: https://device-type.com
+  name: Celestia
+type: d3-device-type-assertion

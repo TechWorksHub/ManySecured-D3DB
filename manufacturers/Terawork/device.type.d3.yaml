@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03ba6b9a-08f9-4ba6-8c3b-dee4087591a6
+  macAddresses:
+  - 34:68:4A:00:00:00/24
+  manufacturer: Teraworks Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Terawork
+type: d3-device-type-assertion

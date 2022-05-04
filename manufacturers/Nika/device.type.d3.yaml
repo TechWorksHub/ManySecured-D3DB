@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d8808c4-95db-4738-9ad0-1530ebb4f641
+  macAddresses:
+  - 00:50:C2:73:60:00/36
+  manufacturer: Nika Ltd
+  manufacturerUri: https://device-type.com
+  name: Nika
+type: d3-device-type-assertion

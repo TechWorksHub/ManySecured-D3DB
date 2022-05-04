@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 1f05846c-152d-4ae8-9218-a95c8577fc26
+  macAddresses:
+  - 00:50:C2:85:A0:00/36
+  - 70:B3:D5:6B:50:00/36
+  - 70:B3:D5:E7:A0:00/36
+  - F8:8A:3C:00:00:00/28
+  manufacturer: Art Spa
+  manufacturerUri: https://device-type.com
+  name: Art
+type: d3-device-type-assertion

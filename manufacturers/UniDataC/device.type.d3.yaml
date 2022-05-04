@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08f9919d-f5e2-4307-82c8-087d327b2274
+  macAddresses:
+  - 00:03:2A:00:00:00/24
+  manufacturer: UniData Communication Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: UniDataC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d74b95b-88fe-418b-934c-210fb633adae
+  macAddresses:
+  - 00:12:A0:00:00:00/24
+  manufacturer: NeoMeridian Sdn Bhd
+  manufacturerUri: https://device-type.com
+  name: NeoMerid
+type: d3-device-type-assertion

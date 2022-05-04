@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f1c123d-1ef5-4e77-aea7-76f6e4bf0276
+  macAddresses:
+  - 70:B3:D5:2B:60:00/36
+  manufacturer: HLT Micro
+  manufacturerUri: https://device-type.com
+  name: HLTMicro
+type: d3-device-type-assertion

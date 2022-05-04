@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 97caf9f1-33a5-4491-8c61-40bdca501812
+  macAddresses:
+  - 18:7A:93:00:00:00/24
+  - C4:FE:E2:00:00:00/24
+  manufacturer: AMICCOM Electronics Corporation
+  manufacturerUri: https://device-type.com
+  name: AMICCOME
+type: d3-device-type-assertion

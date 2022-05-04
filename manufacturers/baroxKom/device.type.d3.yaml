@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f09c5116-6480-4e5b-827b-95846d88f725
+  macAddresses:
+  - 38:B8:EB:20:00:00/28
+  - DC:67:23:00:00:00/24
+  manufacturer: barox Kommunikation GmbH
+  manufacturerUri: https://device-type.com
+  name: baroxKom
+type: d3-device-type-assertion

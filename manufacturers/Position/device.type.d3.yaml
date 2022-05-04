@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0d80703f-931c-460f-aa98-bc7d209d187d
+  macAddresses:
+  - 00:50:C2:EE:A0:00/36
+  - 70:B3:D5:A5:D0:00/36
+  manufacturer: Positioneering Limited
+  manufacturerUri: https://device-type.com
+  name: Position
+type: d3-device-type-assertion

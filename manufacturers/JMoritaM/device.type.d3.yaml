@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8fff248-5b40-4dc1-9b55-71f22b87adcb
+  macAddresses:
+  - 00:90:AF:00:00:00/24
+  manufacturer: J. Morita Mfg. Corp.
+  manufacturerUri: https://device-type.com
+  name: JMoritaM
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bb1f15a3-d4b7-46ec-b916-61bfbafdab20
+  macAddresses:
+  - 48:BC:A6:00:00:00/24
+  - 70:B3:D5:8A:C0:00/36
+  manufacturer: "\u200BASUNG TECHNO CO.,Ltd"
+  manufacturerUri: https://device-type.com
+  name: "\u200BASUNGTE"
+type: d3-device-type-assertion

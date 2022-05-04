@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f40dacb-aa46-41a9-97a2-2be7e14578d7
+  macAddresses:
+  - 00:16:7F:00:00:00/24
+  manufacturer: Bluebird Soft Inc.
+  manufacturerUri: https://device-type.com
+  name: Bluebird
+type: d3-device-type-assertion

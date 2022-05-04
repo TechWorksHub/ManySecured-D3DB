@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d0f4f4c-ef7e-4ec0-a4c6-9be5f7f038a3
+  macAddresses:
+  - F8:CC:6E:00:00:00/24
+  manufacturer: DEPO Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: DEPOElec
+type: d3-device-type-assertion

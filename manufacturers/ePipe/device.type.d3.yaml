@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d70f204d-e1d6-42c1-abe9-5764dcdec219
+  macAddresses:
+  - 00:0A:A8:00:00:00/24
+  manufacturer: ePipe Pty. Ltd.
+  manufacturerUri: https://device-type.com
+  name: ePipe
+type: d3-device-type-assertion

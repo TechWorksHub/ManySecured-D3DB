@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 700e49e1-6bea-4d54-8880-30641fa8ca9a
+  macAddresses:
+  - 18:45:B3:90:00:00/28
+  - 70:B3:D5:29:C0:00/36
+  manufacturer: Teko Telecom Srl
+  manufacturerUri: https://device-type.com
+  name: TekoTele
+type: d3-device-type-assertion

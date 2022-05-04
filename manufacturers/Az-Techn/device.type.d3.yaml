@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 3ece69ff-6348-4c0b-9b79-4527f974891c
+  macAddresses:
+  - 14:AE:85:50:00:00/28
+  - 70:B3:D5:C6:90:00/36
+  - 90:59:3C:00:00:00/24
+  - CC:4F:5C:A0:00:00/28
+  manufacturer: Az-Technology Sdn Bhd
+  manufacturerUri: https://device-type.com
+  name: Az-Techn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2ddc25e-3a40-4a21-aa82-aa8d53e96e0b
+  macAddresses:
+  - 00:10:A1:00:00:00/24
+  manufacturer: Kendin Semiconductor, Inc.
+  manufacturerUri: https://device-type.com
+  name: KendinSe
+type: d3-device-type-assertion

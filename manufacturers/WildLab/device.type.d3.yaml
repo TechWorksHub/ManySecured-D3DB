@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d5cc32a-dd75-4ec0-a54d-c9ad89bd852b
+  macAddresses:
+  - 00:30:F5:00:00:00/24
+  manufacturer: Wild Lab. Ltd.
+  manufacturerUri: https://device-type.com
+  name: WildLab
+type: d3-device-type-assertion

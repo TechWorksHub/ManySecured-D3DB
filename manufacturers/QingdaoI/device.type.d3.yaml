@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 5069eee4-9e8b-4cbc-82ed-f4324b0610a8
+  macAddresses:
+  - 10:B2:32:00:00:00/24
+  - 10:C7:53:00:00:00/24
+  - 30:32:35:00:00:00/24
+  - 7C:B3:7B:00:00:00/24
+  - 80:CB:BC:00:00:00/24
+  - A8:30:1C:00:00:00/24
+  - E8:51:77:00:00:00/24
+  manufacturer: Qingdao Intelligent&Precise Electronics Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: QingdaoI
+type: d3-device-type-assertion

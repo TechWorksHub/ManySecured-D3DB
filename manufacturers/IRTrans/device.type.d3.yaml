@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d3f81f46-30e7-4aac-a711-9511bdd46e6b
+  macAddresses:
+  - 00:22:3E:00:00:00/24
+  - 00:50:C2:52:70:00/36
+  manufacturer: IRTrans GmbH
+  manufacturerUri: https://device-type.com
+  name: IRTrans
+type: d3-device-type-assertion

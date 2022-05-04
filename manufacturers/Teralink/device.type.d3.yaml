@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e73ed5d5-7af1-4c05-aa97-75fa1e80977d
+  macAddresses:
+  - 00:0B:66:00:00:00/24
+  manufacturer: Teralink Communications
+  manufacturerUri: https://device-type.com
+  name: Teralink
+type: d3-device-type-assertion

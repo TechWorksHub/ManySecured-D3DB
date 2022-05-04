@@ -1,0 +1,13 @@
+credentialSubject:
+  id: cdb4d237-d648-4cea-a4a8-d8a9b8400588
+  macAddresses:
+  - 00:01:4F:00:00:00/24
+  - 00:19:92:00:00:00/24
+  - 00:24:45:00:00:00/24
+  - 00:A0:C8:00:00:00/24
+  - AC:13:9C:00:00:00/24
+  - CC:66:18:00:00:00/24
+  manufacturer: Adtran Inc
+  manufacturerUri: https://device-type.com
+  name: Adtran
+type: d3-device-type-assertion

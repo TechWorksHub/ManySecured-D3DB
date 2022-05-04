@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 73925c77-001a-475b-9f75-4a76dba67fc3
+  macAddresses:
+  - 54:A4:93:B0:00:00/28
+  - 70:B3:D5:81:00:00/36
+  - 70:B3:D5:92:60:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Advice
+type: d3-device-type-assertion

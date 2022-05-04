@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c819967-4239-4474-be74-fd7cd92f670c
+  macAddresses:
+  - 00:50:C2:2E:90:00/36
+  manufacturer: SRI International
+  manufacturerUri: https://device-type.com
+  name: SRIInter
+type: d3-device-type-assertion

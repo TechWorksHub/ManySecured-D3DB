@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e9251f1-c710-468f-bbdd-6a259ebc19e9
+  macAddresses:
+  - A4:3B:FA:20:00:00/28
+  manufacturer: Powell Industries
+  manufacturerUri: https://device-type.com
+  name: PowellIn
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 24df1466-3bc3-4cde-898c-586ca19ecd1d
+  macAddresses:
+  - 00:11:1C:00:00:00/24
+  - 00:50:C2:1D:70:00/36
+  manufacturer: Pleora Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: PleoraTe
+type: d3-device-type-assertion

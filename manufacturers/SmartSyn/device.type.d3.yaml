@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb344aab-e1c6-4e33-8062-ecda07c6a5b1
+  macAddresses:
+  - 00:1F:C3:00:00:00/24
+  manufacturer: SmartSynch, Inc
+  manufacturerUri: https://device-type.com
+  name: SmartSyn
+type: d3-device-type-assertion

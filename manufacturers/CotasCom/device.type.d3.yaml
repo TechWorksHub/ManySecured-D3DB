@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b409dc39-ca1c-4bd4-8022-64fdbc751541
+  macAddresses:
+  - 00:02:15:00:00:00/24
+  manufacturer: Cotas Computer Technology A/B
+  manufacturerUri: https://device-type.com
+  name: CotasCom
+type: d3-device-type-assertion

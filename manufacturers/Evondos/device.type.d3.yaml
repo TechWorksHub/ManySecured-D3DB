@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6cb4c8bd-afdc-4040-992e-945cf6969404
+  macAddresses:
+  - 00:1B:C5:0A:B0:00/36
+  - 1C:82:59:C0:00:00/28
+  manufacturer: Evondos Oy
+  manufacturerUri: https://device-type.com
+  name: Evondos
+type: d3-device-type-assertion

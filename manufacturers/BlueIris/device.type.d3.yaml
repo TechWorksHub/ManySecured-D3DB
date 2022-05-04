@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95bde481-e05f-442f-aa29-cf2193321b76
+  macAddresses:
+  - 24:5D:FC:20:00:00/28
+  manufacturer: Blue Iris Labs
+  manufacturerUri: https://device-type.com
+  name: BlueIris
+type: d3-device-type-assertion

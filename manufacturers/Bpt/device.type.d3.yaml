@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c280f511-77ea-4786-9b87-3ccab82fa0ae
+  macAddresses:
+  - 00:1C:B2:00:00:00/24
+  manufacturer: Bpt Spa
+  manufacturerUri: https://device-type.com
+  name: Bpt
+type: d3-device-type-assertion

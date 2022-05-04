@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06b050a2-8434-4849-a789-bc52bcb71ce0
+  macAddresses:
+  - 00:0D:F8:00:00:00/24
+  manufacturer: ORGA Kartensysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: ORGAKart
+type: d3-device-type-assertion

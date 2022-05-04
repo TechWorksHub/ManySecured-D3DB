@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 84a2bf62-b068-4e10-8279-72de074d9e5c
+  macAddresses:
+  - 00:20:7A:00:00:00/24
+  manufacturer: WiSE Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: WiSEComm
+type: d3-device-type-assertion

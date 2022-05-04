@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d559f25f-135c-40c3-b8e3-8a8d8992e9e5
+  macAddresses:
+  - 00:50:C2:C9:80:00/36
+  - 44:59:9F:00:00:00/24
+  manufacturer: Criticare Systems, Inc
+  manufacturerUri: https://device-type.com
+  name: Criticar
+type: d3-device-type-assertion

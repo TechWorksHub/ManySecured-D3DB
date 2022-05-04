@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75c14c69-b325-40cd-81a1-fdbf1685fcf0
+  macAddresses:
+  - 00:0A:01:00:00:00/24
+  manufacturer: SOHOware, Inc.
+  manufacturerUri: https://device-type.com
+  name: SOHOware
+type: d3-device-type-assertion

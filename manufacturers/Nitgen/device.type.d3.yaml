@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02b39e10-4ba3-4459-8e1e-f420b5695f15
+  macAddresses:
+  - 00:0B:F6:00:00:00/24
+  manufacturer: Nitgen Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Nitgen
+type: d3-device-type-assertion

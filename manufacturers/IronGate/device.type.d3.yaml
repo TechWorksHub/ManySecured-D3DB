@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3543f82d-c6ac-4a05-83f6-2172e0c1d0d1
+  macAddresses:
+  - 00:13:01:00:00:00/24
+  manufacturer: IronGate S.L.
+  manufacturerUri: https://device-type.com
+  name: IronGate
+type: d3-device-type-assertion

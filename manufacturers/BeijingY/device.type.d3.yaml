@@ -1,0 +1,18 @@
+credentialSubject:
+  id: 3e2dacd2-d2f3-40df-bded-ab5d7947b63b
+  macAddresses:
+  - 14:19:73:00:00:00/24
+  - 3C:08:1E:00:00:00/24
+  - 50:A4:D0:C0:00:00/28
+  - 70:B3:D5:40:90:00/36
+  - 70:B3:D5:98:00:00/36
+  - 80:E4:DA:40:00:00/28
+  - 90:83:4B:00:00:00/24
+  - A8:90:08:00:00:00/24
+  - D0:D9:4F:30:00:00/28
+  - EC:15:3D:00:00:00/24
+  - F4:1C:95:00:00:00/24
+  manufacturer: Beijing Yunyi Times Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: BeijingY
+type: d3-device-type-assertion

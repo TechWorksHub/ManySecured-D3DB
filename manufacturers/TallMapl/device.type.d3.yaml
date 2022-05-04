@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a8cec1e-4929-4285-890e-6842df097536
+  macAddresses:
+  - 00:13:CC:00:00:00/24
+  manufacturer: Tall Maple Systems
+  manufacturerUri: https://device-type.com
+  name: TallMapl
+type: d3-device-type-assertion

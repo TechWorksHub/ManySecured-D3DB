@@ -1,0 +1,9 @@
+credentialSubject:
+  id: adf42c73-fac3-4ede-ada2-63136c015def
+  macAddresses:
+  - 70:B3:D5:57:30:00/36
+  - 70:B3:D5:65:D0:00/36
+  manufacturer: Gega Electronique
+  manufacturerUri: https://device-type.com
+  name: GegaElec
+type: d3-device-type-assertion

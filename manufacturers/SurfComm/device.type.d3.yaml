@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c606cd9c-314a-4180-b6cd-5ba75d2536f3
+  macAddresses:
+  - 00:12:9E:00:00:00/24
+  - 00:15:CB:00:00:00/24
+  manufacturer: Surf Communications Inc.
+  manufacturerUri: https://device-type.com
+  name: SurfComm
+type: d3-device-type-assertion

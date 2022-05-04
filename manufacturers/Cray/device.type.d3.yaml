@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 38ae094c-abfd-4bb7-9371-86bb274d7034
+  macAddresses:
+  - 00:0E:AB:00:00:00/24
+  manufacturer: Cray Inc
+  manufacturerUri: https://device-type.com
+  name: Cray
+type: d3-device-type-assertion

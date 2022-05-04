@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7e69d73-2c08-4e23-adab-7095c3f9c0ad
+  macAddresses:
+  - 5C:04:5A:00:00:00/24
+  manufacturer: Company NA Stage & Light
+  manufacturerUri: https://device-type.com
+  name: NAStageL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34b0a1ca-575a-471d-a4ea-9b61a8bcf363
+  macAddresses:
+  - 04:11:19:00:00:00/28
+  manufacturer: FORT Robotics Inc.
+  manufacturerUri: https://device-type.com
+  name: FORTRobo
+type: d3-device-type-assertion

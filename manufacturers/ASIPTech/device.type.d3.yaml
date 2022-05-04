@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a41b16a0-7662-4b79-bd0a-551b7f0f714c
+  macAddresses:
+  - 00:0E:01:00:00:00/24
+  manufacturer: ASIP Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: ASIPTech
+type: d3-device-type-assertion

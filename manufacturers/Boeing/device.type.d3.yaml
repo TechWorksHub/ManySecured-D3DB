@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0cc8751f-0111-4b8a-ae01-6445b2cc85af
+  macAddresses:
+  - 00:06:F8:00:00:00/24
+  - 00:50:93:00:00:00/24
+  - 34:61:78:00:00:00/24
+  manufacturer: The Boeing Company
+  manufacturerUri: https://device-type.com
+  name: Boeing
+type: d3-device-type-assertion

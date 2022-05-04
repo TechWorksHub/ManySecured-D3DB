@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10b2ecf9-ed7c-4e19-bc94-07c3eb4ef168
+  macAddresses:
+  - 00:1F:C7:00:00:00/24
+  manufacturer: Casio Hitachi Mobile Communications Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: CasioHit
+type: d3-device-type-assertion

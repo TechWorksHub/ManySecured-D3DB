@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd38fc89-62a7-45b0-b623-273cbe894681
+  macAddresses:
+  - 34:9D:90:00:00:00/24
+  manufacturer: Heinzmann GmbH & CO. KG
+  manufacturerUri: https://device-type.com
+  name: Heinzman
+type: d3-device-type-assertion

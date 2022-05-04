@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d24c99bb-c73b-4209-a5f0-c36772a0edfb
+  macAddresses:
+  - E0:0D:B9:00:00:00/24
+  manufacturer: Cree, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cree
+type: d3-device-type-assertion

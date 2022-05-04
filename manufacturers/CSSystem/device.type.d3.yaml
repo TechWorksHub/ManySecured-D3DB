@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a15cab9-6c0f-4982-96a0-ed74bfdf7334
+  macAddresses:
+  - 00:02:E9:00:00:00/24
+  manufacturer: CS Systemes De Securite - C3S
+  manufacturerUri: https://device-type.com
+  name: CSSystem
+type: d3-device-type-assertion

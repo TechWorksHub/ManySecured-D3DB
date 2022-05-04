@@ -1,0 +1,19 @@
+credentialSubject:
+  id: bebca512-f107-4dca-8917-91ef3762a15b
+  macAddresses:
+  - 00:17:33:00:00:00/24
+  - 00:1D:16:00:00:00/24
+  - 00:25:15:00:00:00/24
+  - 24:95:04:00:00:00/24
+  - 30:7E:CB:00:00:00/24
+  - 44:CE:7D:00:00:00/24
+  - 60:35:C0:00:00:00/24
+  - 6C:61:F4:00:00:00/24
+  - 8C:94:CC:00:00:00/24
+  - CC:2D:1B:00:00:00/24
+  - E0:A1:D7:00:00:00/24
+  - E4:5D:51:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Sfr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 172bba7e-3b9b-4977-bac4-cd019a877447
+  macAddresses:
+  - C4:DA:7D:00:00:00/24
+  manufacturer: Ivium Technologies B.V.
+  manufacturerUri: https://device-type.com
+  name: IviumTec
+type: d3-device-type-assertion

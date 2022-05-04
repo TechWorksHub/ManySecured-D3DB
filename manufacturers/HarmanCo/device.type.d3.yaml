@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e7b5b262-6000-475b-bec1-1a729f0bb4a5
+  macAddresses:
+  - 3C:FA:D3:30:00:00/28
+  - 70:B3:D5:42:30:00/36
+  - 9C:64:5E:00:00:00/24
+  manufacturer: Harman Connected Services, Inc.
+  manufacturerUri: https://device-type.com
+  name: HarmanCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b724e7c2-1000-41de-9be5-95996fa86e6a
+  macAddresses:
+  - 00:90:FF:00:00:00/24
+  manufacturer: Tellus Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: TellusTe
+type: d3-device-type-assertion

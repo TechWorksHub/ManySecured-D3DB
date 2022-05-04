@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29ca7c2b-5bc6-4842-a57f-3f42c5c12b51
+  macAddresses:
+  - 00:50:C2:88:00:00/36
+  - 3C:02:B1:00:00:00/24
+  manufacturer: Creation Technologies Chicago
+  manufacturerUri: https://device-type.com
+  name: Creation
+type: d3-device-type-assertion

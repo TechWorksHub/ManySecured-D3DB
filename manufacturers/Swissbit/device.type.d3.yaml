@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8f14817-3033-4442-b353-5d55f175c350
+  macAddresses:
+  - 8C:60:78:00:00:00/24
+  manufacturer: Swissbit AG
+  manufacturerUri: https://device-type.com
+  name: Swissbit
+type: d3-device-type-assertion

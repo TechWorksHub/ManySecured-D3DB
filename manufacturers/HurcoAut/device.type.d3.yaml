@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4c1f7af-e9f2-4492-b0b0-0585fa59f9a3
+  macAddresses:
+  - 00:1B:55:00:00:00/24
+  manufacturer: Hurco Automation Ltd.
+  manufacturerUri: https://device-type.com
+  name: HurcoAut
+type: d3-device-type-assertion

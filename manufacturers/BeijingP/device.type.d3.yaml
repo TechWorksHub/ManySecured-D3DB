@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 0f1addf6-2a0a-4d74-b6d4-69a8a740a1c3
+  macAddresses:
+  - 00:25:9B:00:00:00/24
+  - 38:A8:CD:20:00:00/28
+  - 58:E8:76:10:00:00/28
+  - 70:B3:D5:E5:40:00/36
+  - 9C:69:B4:A0:00:00/28
+  - DC:87:CB:00:00:00/24
+  - F4:90:CB:80:00:00/28
+  manufacturer: Beijing PKUNITY Microsystems Technology Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: BeijingP
+type: d3-device-type-assertion

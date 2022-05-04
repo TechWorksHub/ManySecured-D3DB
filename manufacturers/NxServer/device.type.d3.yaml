@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e62f1402-236c-4cc6-acdc-bc823307cc0f
+  macAddresses:
+  - 00:10:62:00:00:00/24
+  manufacturer: Nx Server, Ilnc.
+  manufacturerUri: https://device-type.com
+  name: NxServer
+type: d3-device-type-assertion

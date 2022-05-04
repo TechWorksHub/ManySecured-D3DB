@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8a5a5b4-b922-4162-a054-081ee55e71a3
+  macAddresses:
+  - 00:1C:09:00:00:00/24
+  manufacturer: SAE Electronic Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: SAEElect
+type: d3-device-type-assertion

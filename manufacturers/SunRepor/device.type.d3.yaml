@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e1af910-753b-41c4-8503-7d6b1a584dbf
+  macAddresses:
+  - 6C:5C:DE:00:00:00/24
+  manufacturer: SunReports, Inc.
+  manufacturerUri: https://device-type.com
+  name: SunRepor
+type: d3-device-type-assertion

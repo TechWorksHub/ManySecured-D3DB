@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fab81b81-fa63-4e4c-be0c-c76713049787
+  macAddresses:
+  - 2C:8B:F2:00:00:00/24
+  - 3C:B7:92:00:00:00/24
+  - 60:05:8A:00:00:00/24
+  manufacturer: Hitachi Metals America Ltd
+  manufacturerUri: https://device-type.com
+  name: HitachiM
+type: d3-device-type-assertion

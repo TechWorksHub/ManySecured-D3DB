@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a11beb77-0dcf-4b93-8df6-d42a011a2985
+  macAddresses:
+  - 00:50:C2:32:D0:00/36
+  manufacturer: Consens Zeiterfassung GMBH
+  manufacturerUri: https://device-type.com
+  name: ConsensZ
+type: d3-device-type-assertion

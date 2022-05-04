@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 28264fb0-4def-49a0-af7f-6533a9aa1393
+  macAddresses:
+  - 7A:4D:2F:00:00:00/24
+  manufacturer: Open Compute Project
+  manufacturerUri: https://device-type.com
+  name: OpenComp
+type: d3-device-type-assertion

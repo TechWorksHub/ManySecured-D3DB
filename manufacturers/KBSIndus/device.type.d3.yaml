@@ -1,0 +1,9 @@
+credentialSubject:
+  id: acb88e20-57c1-403d-9b38-b3085adc029c
+  macAddresses:
+  - 00:50:C2:01:F0:00/36
+  - 70:B3:D5:86:00:00/36
+  manufacturer: KBS Industrieelektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: KBSIndus
+type: d3-device-type-assertion

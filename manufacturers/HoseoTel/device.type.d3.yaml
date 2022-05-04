@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2fe0abba-f356-4272-bfa1-fab978a78e55
+  macAddresses:
+  - 00:50:C2:6C:20:00/36
+  - 50:AB:BF:00:00:00/24
+  - 70:B3:D5:11:B0:00/36
+  manufacturer: HoseoTelnet Inc...
+  manufacturerUri: https://device-type.com
+  name: HoseoTel
+type: d3-device-type-assertion

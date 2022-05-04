@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4181edf7-90b6-4575-963e-e95be73bbdd0
+  macAddresses:
+  - 00:13:2C:00:00:00/24
+  manufacturer: MAZ Brandenburg GmbH
+  manufacturerUri: https://device-type.com
+  name: MAZBrand
+type: d3-device-type-assertion

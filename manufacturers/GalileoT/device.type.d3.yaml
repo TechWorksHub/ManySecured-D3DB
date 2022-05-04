@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b15fa61b-51cf-4e56-9b78-971fd57cc837
+  macAddresses:
+  - 00:D0:3D:00:00:00/24
+  - 70:B3:D5:FE:20:00/36
+  manufacturer: Galileo Technology, Ltd.
+  manufacturerUri: https://device-type.com
+  name: GalileoT
+type: d3-device-type-assertion

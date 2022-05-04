@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d87e4231-94ef-486e-8aa0-ece02fe4ed76
+  macAddresses:
+  - 00:0D:70:00:00:00/24
+  manufacturer: Datamax Corporation
+  manufacturerUri: https://device-type.com
+  name: Datamax
+type: d3-device-type-assertion

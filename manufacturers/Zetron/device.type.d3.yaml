@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b16e6ce6-27ac-4e11-9b83-67fad00ddf1f
+  macAddresses:
+  - 00:0B:13:00:00:00/24
+  manufacturer: Zetron Inc
+  manufacturerUri: https://device-type.com
+  name: Zetron
+type: d3-device-type-assertion

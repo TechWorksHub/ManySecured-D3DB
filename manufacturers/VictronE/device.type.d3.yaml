@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03c34f22-73f6-4f46-96f1-03b932af5da6
+  macAddresses:
+  - C0:61:9A:B0:00:00/28
+  manufacturer: Victron Energy B.V.
+  manufacturerUri: https://device-type.com
+  name: VictronE
+type: d3-device-type-assertion

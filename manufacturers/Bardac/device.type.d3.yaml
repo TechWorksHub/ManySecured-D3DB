@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce1d4380-4ce8-4aea-86a6-fa1c6c995a37
+  macAddresses:
+  - 00:04:BB:00:00:00/24
+  manufacturer: Bardac Corporation
+  manufacturerUri: https://device-type.com
+  name: Bardac
+type: d3-device-type-assertion

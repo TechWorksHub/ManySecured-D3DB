@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dcd8594-0d37-4d89-81d9-c7b987be72bb
+  macAddresses:
+  - 00:0A:CC:00:00:00/24
+  manufacturer: Winnow Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: WinnowNe
+type: d3-device-type-assertion

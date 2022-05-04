@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e70f988d-18c9-4ab9-8db4-0a8387e0a5cd
+  macAddresses:
+  - 00:05:97:00:00:00/24
+  manufacturer: Eagle Traffic Control Systems
+  manufacturerUri: https://device-type.com
+  name: EagleTra
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: acc66d89-75cf-428d-a1d8-a8c40acc8fa4
+  macAddresses:
+  - DC:20:08:00:00:00/24
+  manufacturer: ASD Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: ASDElect
+type: d3-device-type-assertion

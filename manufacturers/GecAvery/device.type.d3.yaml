@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f65b5d56-ca1c-4590-973c-d896e44599aa
+  macAddresses:
+  - 00:E0:8A:00:00:00/24
+  manufacturer: Gec Avery, Ltd.
+  manufacturerUri: https://device-type.com
+  name: GecAvery
+type: d3-device-type-assertion

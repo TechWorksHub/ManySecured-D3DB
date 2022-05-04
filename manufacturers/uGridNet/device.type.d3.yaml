@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7ffa144d-299f-49e9-90fa-9b788581b93f
+  macAddresses:
+  - 4C:3F:A7:00:00:00/24
+  - 74:5B:C5:40:00:00/28
+  manufacturer: uGrid Network Inc.
+  manufacturerUri: https://device-type.com
+  name: uGridNet
+type: d3-device-type-assertion

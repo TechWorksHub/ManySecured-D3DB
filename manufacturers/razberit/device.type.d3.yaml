@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1de12c53-63dc-4902-b6d2-1eb235fa5490
+  macAddresses:
+  - 24:60:81:00:00:00/24
+  manufacturer: razberi technologies
+  manufacturerUri: https://device-type.com
+  name: razberit
+type: d3-device-type-assertion

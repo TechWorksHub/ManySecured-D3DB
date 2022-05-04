@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b43b3c7-aca1-458a-8335-7d220071f11e
+  macAddresses:
+  - 00:16:C1:00:00:00/24
+  manufacturer: Eleksen Ltd
+  manufacturerUri: https://device-type.com
+  name: Eleksen
+type: d3-device-type-assertion

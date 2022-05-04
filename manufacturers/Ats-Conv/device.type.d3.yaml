@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f7c81a2f-35a9-471f-9f6a-7036f41f264f
+  macAddresses:
+  - 70:B3:D5:90:10:00/36
+  - 78:13:05:50:00:00/28
+  manufacturer: Ats-Convers,Llc
+  manufacturerUri: https://device-type.com
+  name: Ats-Conv
+type: d3-device-type-assertion

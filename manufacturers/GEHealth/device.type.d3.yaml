@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a3b7aae-02b6-4228-8c12-e74c07da152b
+  macAddresses:
+  - 44:4B:5D:00:00:00/24
+  manufacturer: GE Healthcare
+  manufacturerUri: https://device-type.com
+  name: GEHealth
+type: d3-device-type-assertion

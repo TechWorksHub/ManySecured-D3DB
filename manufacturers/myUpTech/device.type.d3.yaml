@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 222dec9b-1f6c-47b6-9c21-7ab5d1dc7f8a
+  macAddresses:
+  - 70:B3:D5:FC:30:00/36
+  manufacturer: myUpTech AB
+  manufacturerUri: https://device-type.com
+  name: myUpTech
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 84200d7b-5f80-4386-afed-babeb728b120
+  macAddresses:
+  - 00:18:49:00:00:00/24
+  - 00:50:C2:22:50:00/36
+  - 00:50:C2:3F:B0:00/36
+  - 00:50:C2:4A:10:00/36
+  - 00:50:C2:57:A0:00/36
+  manufacturer: nVent, Schroff GmbH
+  manufacturerUri: https://device-type.com
+  name: nVentSch
+type: d3-device-type-assertion

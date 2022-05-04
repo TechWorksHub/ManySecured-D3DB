@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6280a5df-4a90-4633-b75c-b13940eb51b4
+  macAddresses:
+  - 00:06:E8:00:00:00/24
+  - 00:30:1F:00:00:00/24
+  - 20:77:59:00:00:00/24
+  manufacturer: Optical Network Testing, Inc.
+  manufacturerUri: https://device-type.com
+  name: OpticalN
+type: d3-device-type-assertion

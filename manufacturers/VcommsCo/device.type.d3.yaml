@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ebd91eb-7e75-4e22-aaf2-87e72389d777
+  macAddresses:
+  - 00:05:50:00:00:00/24
+  manufacturer: Vcomms Connect Limited
+  manufacturerUri: https://device-type.com
+  name: VcommsCo
+type: d3-device-type-assertion

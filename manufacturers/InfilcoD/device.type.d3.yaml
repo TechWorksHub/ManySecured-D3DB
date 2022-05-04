@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e306df2-8c31-4704-bcf9-de75e770609a
+  macAddresses:
+  - 00:11:A7:00:00:00/24
+  manufacturer: Infilco Degremont Inc.
+  manufacturerUri: https://device-type.com
+  name: InfilcoD
+type: d3-device-type-assertion

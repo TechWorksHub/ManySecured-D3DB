@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d21f23ec-c5c2-46d5-999d-47701b75544e
+  macAddresses:
+  - 00:15:25:00:00:00/24
+  - 64:52:99:00:00:00/24
+  - CC:6A:10:00:00:00/24
+  manufacturer: Chamberlain Access Solutions
+  manufacturerUri: https://device-type.com
+  name: Chamberl
+type: d3-device-type-assertion

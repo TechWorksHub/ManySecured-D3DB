@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56b544f1-3ec7-40f5-9d11-df536957cb5f
+  macAddresses:
+  - 00:90:E1:00:00:00/24
+  manufacturer: Telena S.P.A.
+  manufacturerUri: https://device-type.com
+  name: Telena
+type: d3-device-type-assertion

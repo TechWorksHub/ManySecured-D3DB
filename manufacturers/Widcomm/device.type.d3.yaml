@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76f54091-b2eb-495c-ba7d-42ed921ca249
+  macAddresses:
+  - 00:03:61:00:00:00/24
+  manufacturer: Widcomm, Inc.
+  manufacturerUri: https://device-type.com
+  name: Widcomm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbaa9970-6bff-4d91-bfea-8113df0f7af3
+  macAddresses:
+  - 00:20:79:00:00:00/24
+  manufacturer: Mikron Gmbh
+  manufacturerUri: https://device-type.com
+  name: Mikron
+type: d3-device-type-assertion

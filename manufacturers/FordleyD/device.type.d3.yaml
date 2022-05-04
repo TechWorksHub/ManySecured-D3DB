@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03abd45e-9d0c-4e6f-b3b5-493055556e74
+  macAddresses:
+  - 00:16:E5:00:00:00/24
+  manufacturer: Fordley Development Limited
+  manufacturerUri: https://device-type.com
+  name: FordleyD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 793dccb7-92a6-4c7c-b5b3-452d82636d84
+  macAddresses:
+  - A0:DE:05:00:00:00/24
+  manufacturer: JSC "Irbis-T"
+  manufacturerUri: https://device-type.com
+  name: Irbis-T
+type: d3-device-type-assertion

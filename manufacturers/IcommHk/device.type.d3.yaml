@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45699970-2b14-4e57-9cc3-ae2dc61dce82
+  macAddresses:
+  - 3C:CF:5B:00:00:00/24
+  - 58:04:54:00:00:00/24
+  manufacturer: Icomm Hk Limited
+  manufacturerUri: https://device-type.com
+  name: IcommHk
+type: d3-device-type-assertion

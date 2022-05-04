@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3b5f7911-83df-4eca-953a-9326840b0899
+  macAddresses:
+  - 00:18:52:00:00:00/24
+  - 00:50:C2:2B:D0:00/36
+  manufacturer: StorLink Semiconductors, Inc.
+  manufacturerUri: https://device-type.com
+  name: StorLink
+type: d3-device-type-assertion

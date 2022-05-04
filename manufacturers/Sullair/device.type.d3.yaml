@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48297db1-f12a-4b26-bf4e-34488f3d7839
+  macAddresses:
+  - 00:04:AE:00:00:00/24
+  manufacturer: Sullair Corporation
+  manufacturerUri: https://device-type.com
+  name: Sullair
+type: d3-device-type-assertion

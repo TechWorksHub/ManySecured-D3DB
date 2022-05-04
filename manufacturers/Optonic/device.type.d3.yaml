@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e10ee4ee-253b-40a6-9139-cd2976fdf11f
+  macAddresses:
+  - 78:52:4A:00:00:00/24
+  manufacturer: Optonic GmbH
+  manufacturerUri: https://device-type.com
+  name: Optonic
+type: d3-device-type-assertion

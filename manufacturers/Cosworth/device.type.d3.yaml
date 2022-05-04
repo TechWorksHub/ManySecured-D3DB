@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ba9aa7e-f3a9-4830-b500-aede5838837a
+  macAddresses:
+  - 00:E0:B7:00:00:00/24
+  manufacturer: Cosworth Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: Cosworth
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6b7c198-b9b5-49c0-b4c4-3fb9970b4409
+  macAddresses:
+  - 40:F3:85:60:00:00/28
+  manufacturer: Lennox International Incorporated
+  manufacturerUri: https://device-type.com
+  name: LennoxIn
+type: d3-device-type-assertion

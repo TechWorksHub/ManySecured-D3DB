@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b47acef9-41cc-446f-8782-300ead169ae7
+  macAddresses:
+  - 00:40:AE:00:00:00/24
+  - 88:B1:68:00:00:00/24
+  manufacturer: Delta Controls, Inc.
+  manufacturerUri: https://device-type.com
+  name: DeltaCon
+type: d3-device-type-assertion

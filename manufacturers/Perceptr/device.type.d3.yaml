@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b1e3d91-b7ef-481d-84b6-87e1c72095fc
+  macAddresses:
+  - 00:24:4B:00:00:00/24
+  manufacturer: Perceptron Inc
+  manufacturerUri: https://device-type.com
+  name: Perceptr
+type: d3-device-type-assertion

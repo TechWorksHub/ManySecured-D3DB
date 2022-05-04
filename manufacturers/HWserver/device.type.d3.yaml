@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 57e5da63-4502-43e6-93ce-148dd8f82c4d
+  macAddresses:
+  - 00:0A:59:00:00:00/24
+  manufacturer: HW server
+  manufacturerUri: https://device-type.com
+  name: HWserver
+type: d3-device-type-assertion

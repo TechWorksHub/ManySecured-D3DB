@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3db5bb8c-27a0-4041-8d9b-0ae5560b696d
+  macAddresses:
+  - 00:12:BC:00:00:00/24
+  manufacturer: Echolab LLC
+  manufacturerUri: https://device-type.com
+  name: Echolab
+type: d3-device-type-assertion

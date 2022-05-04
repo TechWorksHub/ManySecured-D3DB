@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25c93342-fe1e-4643-acfc-77a4c624b760
+  macAddresses:
+  - 2C:79:3D:00:00:00/24
+  manufacturer: Boditech Med
+  manufacturerUri: https://device-type.com
+  name: Boditech
+type: d3-device-type-assertion

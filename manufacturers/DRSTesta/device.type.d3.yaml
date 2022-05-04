@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 699c31ab-2574-4f81-871e-a9537cba6ba2
+  macAddresses:
+  - 00:05:99:00:00:00/24
+  manufacturer: DRS Test and Energy Management or DRS-TEM
+  manufacturerUri: https://device-type.com
+  name: DRSTesta
+type: d3-device-type-assertion

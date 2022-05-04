@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 96467355-41e2-4f70-9d9c-cba0cc483bdf
+  macAddresses:
+  - 00:04:88:00:00:00/24
+  - 00:0A:8D:00:00:00/24
+  - 08:00:48:00:00:00/24
+  manufacturer: Eurotherm Controls
+  manufacturerUri: https://device-type.com
+  name: Eurother
+type: d3-device-type-assertion

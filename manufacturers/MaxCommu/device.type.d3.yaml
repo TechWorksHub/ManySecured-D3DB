@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 19abc269-b42d-4928-8f3f-6c6b76688247
+  macAddresses:
+  - 14:4C:1A:00:00:00/24
+  manufacturer: Max Communication GmbH
+  manufacturerUri: https://device-type.com
+  name: MaxCommu
+type: d3-device-type-assertion

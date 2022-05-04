@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 87005ef3-ee97-4efd-a2c1-4fd8b8341da4
+  macAddresses:
+  - 64:5E:2C:00:00:00/24
+  - 90:74:9D:00:00:00/24
+  manufacturer: IRay Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: IRayTech
+type: d3-device-type-assertion

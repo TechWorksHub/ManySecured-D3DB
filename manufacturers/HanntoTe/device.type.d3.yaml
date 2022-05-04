@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 89822955-1693-4b33-9211-f663ca7f1c21
+  macAddresses:
+  - 54:A4:93:60:00:00/28
+  - F0:13:C1:00:00:00/24
+  manufacturer: Hannto Technology Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: HanntoTe
+type: d3-device-type-assertion

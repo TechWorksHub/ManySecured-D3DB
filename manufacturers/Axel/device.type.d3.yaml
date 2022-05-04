@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5b0e3734-ea69-4484-985c-2b804e8a8177
+  macAddresses:
+  - 00:A0:34:00:00:00/24
+  - F4:0E:11:20:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Axel
+type: d3-device-type-assertion

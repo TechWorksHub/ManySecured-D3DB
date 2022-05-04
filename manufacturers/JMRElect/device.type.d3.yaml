@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 85f0b8a6-7956-4989-acb6-a7463109c58f
+  macAddresses:
+  - A0:AD:A1:00:00:00/24
+  manufacturer: JMR Electronics, Inc
+  manufacturerUri: https://device-type.com
+  name: JMRElect
+type: d3-device-type-assertion

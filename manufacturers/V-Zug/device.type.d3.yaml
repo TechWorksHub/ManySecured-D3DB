@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba2a90f0-62e1-4c08-ac5f-ae16a39508cc
+  macAddresses:
+  - FC:1B:FF:00:00:00/24
+  manufacturer: V-Zug Ag
+  manufacturerUri: https://device-type.com
+  name: V-Zug
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1b43284-acd9-4bad-8aef-64a9a39f8758
+  macAddresses:
+  - 00:15:ED:00:00:00/24
+  manufacturer: Fulcrum Microsystems, Inc.
+  manufacturerUri: https://device-type.com
+  name: FulcrumM
+type: d3-device-type-assertion

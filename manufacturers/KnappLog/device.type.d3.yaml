@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc0a925c-9fc9-4041-bd4a-d9a23d8bd9c5
+  macAddresses:
+  - 00:24:22:00:00:00/24
+  manufacturer: Knapp Logistik Automation GmbH
+  manufacturerUri: https://device-type.com
+  name: KnappLog
+type: d3-device-type-assertion

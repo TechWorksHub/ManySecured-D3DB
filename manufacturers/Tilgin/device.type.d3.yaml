@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7140dda8-6176-4f55-8715-b26d2e578491
+  macAddresses:
+  - 00:02:61:00:00:00/24
+  - 64:20:9F:00:00:00/24
+  manufacturer: Tilgin AB
+  manufacturerUri: https://device-type.com
+  name: Tilgin
+type: d3-device-type-assertion

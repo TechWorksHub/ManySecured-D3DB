@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c7935fe-e463-44a7-88e4-ae692b85bed6
+  macAddresses:
+  - 30:65:EC:00:00:00/24
+  manufacturer: Wistron (ChongQing)
+  manufacturerUri: https://device-type.com
+  name: WistronC
+type: d3-device-type-assertion

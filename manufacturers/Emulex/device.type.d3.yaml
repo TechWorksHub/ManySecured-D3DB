@@ -1,0 +1,12 @@
+credentialSubject:
+  id: e093ee45-2109-498c-8c5b-e988c95fae41
+  macAddresses:
+  - 00:0A:33:00:00:00/24
+  - 00:0E:03:00:00:00/24
+  - 00:10:9B:00:00:00/24
+  - 00:90:FA:00:00:00/24
+  - 00:E0:D5:00:00:00/24
+  manufacturer: Emulex Corporation
+  manufacturerUri: https://device-type.com
+  name: Emulex
+type: d3-device-type-assertion

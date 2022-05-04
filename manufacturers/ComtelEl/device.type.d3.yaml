@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd27c234-bc63-4d34-904a-5142d9f155ba
+  macAddresses:
+  - 40:D8:55:09:60:00/36
+  manufacturer: Comtel Electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: ComtelEl
+type: d3-device-type-assertion

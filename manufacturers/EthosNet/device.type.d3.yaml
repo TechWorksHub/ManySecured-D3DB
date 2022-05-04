@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce43e7b2-f625-4d2f-955c-cade8f88d6dc
+  macAddresses:
+  - 00:1A:B7:00:00:00/24
+  manufacturer: Ethos Networks LTD.
+  manufacturerUri: https://device-type.com
+  name: EthosNet
+type: d3-device-type-assertion

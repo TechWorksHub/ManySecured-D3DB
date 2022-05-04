@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a3e31f1-0ded-4534-a8f0-d750dd5b0250
+  macAddresses:
+  - 10:09:0C:00:00:00/24
+  manufacturer: Janome Sewing Machine Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: JanomeSe
+type: d3-device-type-assertion

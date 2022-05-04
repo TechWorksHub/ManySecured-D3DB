@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb825bb7-e280-4594-85ca-2bf926fe464d
+  macAddresses:
+  - 00:01:9F:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: ReadyNet
+type: d3-device-type-assertion

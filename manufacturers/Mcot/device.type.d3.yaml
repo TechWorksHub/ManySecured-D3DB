@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c01f2b88-0535-4ddf-9b13-34bfb2d1706d
+  macAddresses:
+  - F8:E4:4E:00:00:00/24
+  manufacturer: Mcot Inc.
+  manufacturerUri: https://device-type.com
+  name: Mcot
+type: d3-device-type-assertion

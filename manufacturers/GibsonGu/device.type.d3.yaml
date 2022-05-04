@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc051e98-6513-40dd-8f6d-a5c283a71fe0
+  macAddresses:
+  - 00:07:5B:00:00:00/24
+  manufacturer: Gibson Guitars
+  manufacturerUri: https://device-type.com
+  name: GibsonGu
+type: d3-device-type-assertion

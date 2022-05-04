@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc0e8a63-416b-4a79-98e8-9211a48ada2a
+  macAddresses:
+  - 00:03:3F:00:00:00/24
+  manufacturer: BigBand Networks, Ltd.
+  manufacturerUri: https://device-type.com
+  name: BigBandN
+type: d3-device-type-assertion

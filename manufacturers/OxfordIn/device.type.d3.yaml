@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b0b13ea-2e67-46a3-adfd-aca5cb02188f
+  macAddresses:
+  - 00:10:A5:00:00:00/24
+  manufacturer: Oxford Instruments
+  manufacturerUri: https://device-type.com
+  name: OxfordIn
+type: d3-device-type-assertion

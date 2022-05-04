@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1b842d0-0ed7-48f3-85bf-a9919e4bc8e8
+  macAddresses:
+  - C0:81:70:00:00:00/24
+  manufacturer: Effigis GeoSolutions
+  manufacturerUri: https://device-type.com
+  name: EffigisG
+type: d3-device-type-assertion

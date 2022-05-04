@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 386281cf-8495-4a13-a1ae-e87fae51a4ee
+  macAddresses:
+  - AC:64:DD:80:00:00/28
+  manufacturer: Pfdc Elancyl
+  manufacturerUri: https://device-type.com
+  name: PfdcElan
+type: d3-device-type-assertion

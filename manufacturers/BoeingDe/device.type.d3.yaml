@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3a0a0790-fd66-4545-9422-89c0a70a469e
+  macAddresses:
+  - 00:40:BE:00:00:00/24
+  - 98:49:E1:00:00:00/24
+  - A4:29:83:00:00:00/24
+  manufacturer: Boeing Defense & Space
+  manufacturerUri: https://device-type.com
+  name: BoeingDe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b0387d25-20f8-44f4-b9c7-69010e8c5e77
+  macAddresses:
+  - 00:0F:EC:00:00:00/24
+  manufacturer: ARKUS Inc.
+  manufacturerUri: https://device-type.com
+  name: ARKUS
+type: d3-device-type-assertion

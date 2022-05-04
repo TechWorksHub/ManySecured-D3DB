@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6d98b4a-5e71-44bc-852a-acddece68c43
+  macAddresses:
+  - 00:60:DB:00:00:00/24
+  manufacturer: Ntp Elektronik A/S
+  manufacturerUri: https://device-type.com
+  name: NtpElekt
+type: d3-device-type-assertion

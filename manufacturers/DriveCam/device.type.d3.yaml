@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98ced01e-38e5-4545-9561-3239a32e631c
+  macAddresses:
+  - 00:16:B2:00:00:00/24
+  manufacturer: DriveCam Inc
+  manufacturerUri: https://device-type.com
+  name: DriveCam
+type: d3-device-type-assertion

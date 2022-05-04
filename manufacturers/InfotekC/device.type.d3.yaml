@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c99bd583-4649-4866-9c8c-da1a63f0c70c
+  macAddresses:
+  - 00:A0:F2:00:00:00/24
+  manufacturer: Infotek Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: InfotekC
+type: d3-device-type-assertion

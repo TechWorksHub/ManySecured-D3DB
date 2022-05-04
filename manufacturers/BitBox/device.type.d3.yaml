@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e66df71a-748e-4f94-8046-d4306df96c68
+  macAddresses:
+  - 00:50:C2:1A:A0:00/36
+  - C0:B8:B1:00:00:00/24
+  manufacturer: BitBox Ltd
+  manufacturerUri: https://device-type.com
+  name: BitBox
+type: d3-device-type-assertion

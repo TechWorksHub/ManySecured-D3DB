@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8db888a5-eb63-4dc2-ba6f-6c6e86ae5d55
+  macAddresses:
+  - D0:3D:C3:00:00:00/24
+  manufacturer: AQ Corporation
+  manufacturerUri: https://device-type.com
+  name: AQ
+type: d3-device-type-assertion

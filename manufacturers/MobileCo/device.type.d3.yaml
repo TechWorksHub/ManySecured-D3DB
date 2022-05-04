@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d4aae0db-e940-4835-88b1-79e6b18546c1
+  macAddresses:
+  - 00:17:A7:00:00:00/24
+  - 00:1D:0C:00:00:00/24
+  - 00:25:CC:00:00:00/24
+  manufacturer: Mobile Computing Promotion Consortium
+  manufacturerUri: https://device-type.com
+  name: MobileCo
+type: d3-device-type-assertion

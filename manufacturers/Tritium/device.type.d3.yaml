@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9f297654-ecf7-41cd-8942-25b697afcc8d
+  macAddresses:
+  - 00:50:C2:CF:C0:00/36
+  - E4:1E:0A:70:00:00/28
+  manufacturer: Tritium Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Tritium
+type: d3-device-type-assertion

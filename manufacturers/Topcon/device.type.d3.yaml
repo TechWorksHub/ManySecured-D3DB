@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c27ed79-0202-4de3-80f3-ac89c1ad34e5
+  macAddresses:
+  - BC:FF:AC:00:00:00/24
+  manufacturer: Topcon Corporation
+  manufacturerUri: https://device-type.com
+  name: Topcon
+type: d3-device-type-assertion

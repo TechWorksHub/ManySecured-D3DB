@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da64edc1-c9c7-462f-a02e-3cc0c7ec9c34
+  macAddresses:
+  - 00:C0:A8:00:00:00/24
+  manufacturer: Gvc Corporation
+  manufacturerUri: https://device-type.com
+  name: Gvc
+type: d3-device-type-assertion

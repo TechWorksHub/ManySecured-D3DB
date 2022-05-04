@@ -1,0 +1,11 @@
+credentialSubject:
+  id: cbaefb82-b30d-4339-91fb-0a5b56c57c23
+  macAddresses:
+  - 00:50:C2:C5:80:00/36
+  - 70:B3:D5:2B:40:00/36
+  - 70:B3:D5:45:30:00/36
+  - 70:B3:D5:9F:70:00/36
+  manufacturer: Foerster-Technik GmbH
+  manufacturerUri: https://device-type.com
+  name: Foerster
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 84ce356e-89b8-4c35-831f-3473f3274e64
+  macAddresses:
+  - 00:50:C2:A1:80:00/36
+  - BC:E0:9D:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Eoslink
+type: d3-device-type-assertion

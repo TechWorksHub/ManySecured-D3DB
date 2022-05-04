@@ -1,0 +1,15 @@
+credentialSubject:
+  id: a1ef5fb2-f6c0-4cbb-967d-c224c004c1f0
+  macAddresses:
+  - 00:06:D4:00:00:00/24
+  - 00:13:2F:00:00:00/24
+  - 00:19:18:00:00:00/24
+  - 00:1A:DF:00:00:00/24
+  - 00:1C:DE:00:00:00/24
+  - 00:26:FD:00:00:00/24
+  - 00:50:C2:6E:E0:00/36
+  - 00:C0:11:00:00:00/24
+  manufacturer: Interactive Objects, Inc.
+  manufacturerUri: https://device-type.com
+  name: Interact
+type: d3-device-type-assertion

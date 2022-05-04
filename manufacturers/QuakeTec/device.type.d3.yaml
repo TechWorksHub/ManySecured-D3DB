@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5055e977-3181-4be8-b2cc-f003661baf9a
+  macAddresses:
+  - 00:08:97:00:00:00/24
+  manufacturer: Quake Technologies
+  manufacturerUri: https://device-type.com
+  name: QuakeTec
+type: d3-device-type-assertion

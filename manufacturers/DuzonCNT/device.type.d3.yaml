@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0f63f8f-6fcc-4e8a-b65f-a34026cadb38
+  macAddresses:
+  - 00:1C:B6:00:00:00/24
+  manufacturer: Duzon CNT Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DuzonCNT
+type: d3-device-type-assertion

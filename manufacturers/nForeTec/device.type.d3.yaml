@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 20f97615-caae-4be8-85bf-946da56eea82
+  macAddresses:
+  - 00:17:53:00:00:00/24
+  - 50:C3:A2:00:00:00/24
+  - A4:04:50:00:00:00/24
+  manufacturer: nFore Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: nForeTec
+type: d3-device-type-assertion

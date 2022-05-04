@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8c9354a-6f26-4b29-9c65-9b868bd8350f
+  macAddresses:
+  - 00:14:DD:00:00:00/24
+  manufacturer: Covergence Inc.
+  manufacturerUri: https://device-type.com
+  name: Covergen
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f5a5bfa-8b7d-4a79-8f57-c78030544ad6
+  macAddresses:
+  - 9C:68:5B:00:00:00/24
+  manufacturer: Octonion SA
+  manufacturerUri: https://device-type.com
+  name: Octonion
+type: d3-device-type-assertion

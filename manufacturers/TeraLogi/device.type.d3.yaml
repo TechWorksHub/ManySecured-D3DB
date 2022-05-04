@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fabbe94-8177-4b9b-8e32-c709bc6fc845
+  macAddresses:
+  - 00:10:8A:00:00:00/24
+  manufacturer: TeraLogic, Inc.
+  manufacturerUri: https://device-type.com
+  name: TeraLogi
+type: d3-device-type-assertion

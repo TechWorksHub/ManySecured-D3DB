@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fdc12d4-9cff-4a37-8435-93e2f3c479da
+  macAddresses:
+  - 00:17:67:00:00:00/24
+  manufacturer: Earforce AS
+  manufacturerUri: https://device-type.com
+  name: Earforce
+type: d3-device-type-assertion

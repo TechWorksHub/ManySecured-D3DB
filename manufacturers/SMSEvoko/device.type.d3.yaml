@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8bd6c6b-4c71-4a06-8e2e-2e494c10069a
+  macAddresses:
+  - 38:1F:26:90:00:00/28
+  manufacturer: SMS Evoko Group AB
+  manufacturerUri: https://device-type.com
+  name: SMSEvoko
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08087d27-c364-4cf3-bd81-5a634d39dff6
+  macAddresses:
+  - 00:15:5F:00:00:00/24
+  manufacturer: GreenPeak Technologies
+  manufacturerUri: https://device-type.com
+  name: GreenPea
+type: d3-device-type-assertion

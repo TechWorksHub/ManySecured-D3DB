@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd57d8de-f828-4ccc-8eb6-a2b2ecac2505
+  macAddresses:
+  - 00:0D:CD:00:00:00/24
+  manufacturer: Groupe Txcom
+  manufacturerUri: https://device-type.com
+  name: GroupeTx
+type: d3-device-type-assertion

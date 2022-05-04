@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5381024f-32c3-48da-afb4-d5be1192e050
+  macAddresses:
+  - 24:14:07:00:00:00/24
+  - 60:95:CE:60:00:00/28
+  manufacturer: Xiamen Sigmastar Technology Ltd.
+  manufacturerUri: https://device-type.com
+  name: XiamenSi
+type: d3-device-type-assertion

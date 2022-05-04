@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 110a8f4a-4dad-4ca1-bab3-675894fc734f
+  macAddresses:
+  - 00:10:D3:00:00:00/24
+  manufacturer: Grips Electronic Gmbh
+  manufacturerUri: https://device-type.com
+  name: GripsEle
+type: d3-device-type-assertion

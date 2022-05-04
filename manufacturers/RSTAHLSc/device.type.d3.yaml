@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 90b0b553-df74-4591-88bc-a77755d21dee
+  macAddresses:
+  - 00:1D:F7:00:00:00/24
+  manufacturer: "R. STAHL Schaltger\xE4te GmbH"
+  manufacturerUri: https://device-type.com
+  name: RSTAHLSc
+type: d3-device-type-assertion

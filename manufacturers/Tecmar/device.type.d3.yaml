@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6817cc0-499d-4f01-8ffb-29f3855f7ef5
+  macAddresses:
+  - 08:00:73:00:00:00/24
+  manufacturer: Tecmar Inc.
+  manufacturerUri: https://device-type.com
+  name: Tecmar
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e17361eb-4600-4a89-b0f2-11a2827a69b8
+  macAddresses:
+  - 00:08:55:00:00:00/24
+  manufacturer: NASA-Goddard Space Flight Center
+  manufacturerUri: https://device-type.com
+  name: NASA-God
+type: d3-device-type-assertion

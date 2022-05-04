@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 64f07783-5276-41f2-adaf-5a03f8e54756
+  macAddresses:
+  - 00:50:C2:1A:60:00/36
+  - 00:50:C2:68:90:00/36
+  - 00:50:C2:BE:50:00/36
+  - 00:50:C2:DB:10:00/36
+  - 00:50:C2:F7:10:00/36
+  - 40:D8:55:19:40:00/36
+  - 70:B3:D5:94:B0:00/36
+  - 70:B3:D5:A5:10:00/36
+  - 70:B3:D5:AD:B0:00/36
+  manufacturer: RF Code
+  manufacturerUri: https://device-type.com
+  name: RFCode
+type: d3-device-type-assertion

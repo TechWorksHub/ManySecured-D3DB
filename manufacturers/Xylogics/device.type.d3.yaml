@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5d4c67a-c22a-4405-aeee-be5b65cefd8e
+  macAddresses:
+  - 00:80:2D:00:00:00/24
+  manufacturer: Xylogics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Xylogics
+type: d3-device-type-assertion

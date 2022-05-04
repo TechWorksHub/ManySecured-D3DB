@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9dcd433-914d-4f2f-a038-a44a3aabe535
+  macAddresses:
+  - 00:19:FF:00:00:00/24
+  manufacturer: Finnzymes
+  manufacturerUri: https://device-type.com
+  name: Finnzyme
+type: d3-device-type-assertion

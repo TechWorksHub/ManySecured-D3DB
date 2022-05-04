@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 0795df9b-ba42-4a1b-8e2d-48e60cf72266
+  macAddresses:
+  - 00:50:C2:3A:D0:00/36
+  - 00:50:C2:73:10:00/36
+  - 00:50:C2:C5:60:00/36
+  - 00:50:C2:FF:C0:00/36
+  manufacturer: Spirent Communications (Scotland) Limited
+  manufacturerUri: https://device-type.com
+  name: SpirentC
+type: d3-device-type-assertion

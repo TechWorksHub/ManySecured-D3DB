@@ -1,0 +1,8 @@
+credentialSubject:
+  id: acc1013c-ce5c-4fcd-b840-576fbf66535c
+  macAddresses:
+  - 00:12:FD:00:00:00/24
+  manufacturer: Optimus Ic S.A.
+  manufacturerUri: https://device-type.com
+  name: OptimusI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fa4e494-bdd3-4386-80d7-3904d62e360a
+  macAddresses:
+  - 00:09:8D:00:00:00/24
+  manufacturer: Velocity Semiconductor
+  manufacturerUri: https://device-type.com
+  name: Velocity
+type: d3-device-type-assertion

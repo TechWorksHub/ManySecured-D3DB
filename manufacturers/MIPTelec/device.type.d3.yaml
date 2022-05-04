@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eede19e0-5444-461a-adf1-3c98cdd2102e
+  macAddresses:
+  - 00:06:1D:00:00:00/24
+  manufacturer: MIP Telecom, Inc.
+  manufacturerUri: https://device-type.com
+  name: MIPTelec
+type: d3-device-type-assertion

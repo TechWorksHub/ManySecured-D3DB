@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac1426de-7689-4ba9-9d50-ea8b0b13090d
+  macAddresses:
+  - 00:40:DA:00:00:00/24
+  manufacturer: Telspec Ltd
+  manufacturerUri: https://device-type.com
+  name: Telspec
+type: d3-device-type-assertion

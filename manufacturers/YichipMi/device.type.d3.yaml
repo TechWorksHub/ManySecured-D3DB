@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 1675bee3-5dcd-4b5a-9f09-404ca9c68f2d
+  macAddresses:
+  - 00:B8:10:00:00:00/24
+  - 1C:C1:BC:00:00:00/24
+  - 9C:82:75:00:00:00/24
+  - B4:C1:70:00:00:00/24
+  manufacturer: Yichip Microelectronics (Hangzhou) Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: YichipMi
+type: d3-device-type-assertion

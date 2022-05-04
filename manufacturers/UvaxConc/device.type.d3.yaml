@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5061e1e5-ecfe-45be-9ad2-df68a34a593f
+  macAddresses:
+  - 00:50:C2:D6:60:00/36
+  - B0:1F:81:10:00:00/28
+  manufacturer: Uvax Concepts
+  manufacturerUri: https://device-type.com
+  name: UvaxConc
+type: d3-device-type-assertion

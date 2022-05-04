@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 390e344d-7a1e-4d90-84d5-b4a6b11188e3
+  macAddresses:
+  - 00:16:3C:00:00:00/24
+  manufacturer: Rebox B.V.
+  manufacturerUri: https://device-type.com
+  name: Rebox
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30f604d9-3733-448d-98ce-efa28c6a79cc
+  macAddresses:
+  - 00:16:D6:00:00:00/24
+  manufacturer: TDA Tech Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: TDATech
+type: d3-device-type-assertion

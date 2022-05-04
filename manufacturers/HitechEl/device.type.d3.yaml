@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 57b6bb48-8d07-40dd-b26e-79e0d53298df
+  macAddresses:
+  - 00:0C:9A:00:00:00/24
+  manufacturer: Hitech Electronics Corp.
+  manufacturerUri: https://device-type.com
+  name: HitechEl
+type: d3-device-type-assertion

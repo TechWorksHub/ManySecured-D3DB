@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ce9ffc5-ccd0-4764-b8b0-c9373943da5e
+  macAddresses:
+  - 5C:B5:59:00:00:00/24
+  manufacturer: CNEX Labs
+  manufacturerUri: https://device-type.com
+  name: CNEXLabs
+type: d3-device-type-assertion

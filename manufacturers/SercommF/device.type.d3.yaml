@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bcd5ef50-96e0-4c1f-8ef3-51664ba2ee83
+  macAddresses:
+  - 2C:08:23:00:00:00/24
+  - 2C:93:FB:00:00:00/24
+  manufacturer: Sercomm France Sarl
+  manufacturerUri: https://device-type.com
+  name: SercommF
+type: d3-device-type-assertion

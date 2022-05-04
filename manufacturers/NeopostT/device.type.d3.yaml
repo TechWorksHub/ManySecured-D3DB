@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ecab4ae-c886-45ad-84c9-75ac2aa290cb
+  macAddresses:
+  - 00:1B:00:00:00:00/24
+  manufacturer: Neopost Technologies
+  manufacturerUri: https://device-type.com
+  name: NeopostT
+type: d3-device-type-assertion

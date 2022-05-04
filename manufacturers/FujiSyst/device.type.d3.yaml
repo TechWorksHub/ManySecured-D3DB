@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e4a19a80-92f0-4f8d-8734-79d5afac6c88
+  macAddresses:
+  - 00:0F:3B:00:00:00/24
+  manufacturer: Fuji System Machines Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: FujiSyst
+type: d3-device-type-assertion

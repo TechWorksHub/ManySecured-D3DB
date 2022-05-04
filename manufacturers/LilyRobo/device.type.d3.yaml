@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff646fa4-fcf6-4bc4-bea7-1be7d45332b2
+  macAddresses:
+  - 3C:67:16:00:00:00/24
+  manufacturer: Lily Robotics
+  manufacturerUri: https://device-type.com
+  name: LilyRobo
+type: d3-device-type-assertion

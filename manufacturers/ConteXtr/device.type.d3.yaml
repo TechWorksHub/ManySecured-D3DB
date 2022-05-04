@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd5c6c03-b4d9-4e79-adc8-d7e8e2ed34eb
+  macAddresses:
+  - 00:24:85:00:00:00/24
+  manufacturer: ConteXtream Ltd
+  manufacturerUri: https://device-type.com
+  name: ConteXtr
+type: d3-device-type-assertion

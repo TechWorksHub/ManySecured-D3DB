@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f879e6a5-3b6a-4075-b4c4-278fc8c441a8
+  macAddresses:
+  - 0C:C4:7E:00:00:00/24
+  manufacturer: EUCAST Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: EUCAST
+type: d3-device-type-assertion

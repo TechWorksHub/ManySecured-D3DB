@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6774d1c2-0921-4034-8e58-ee109f7749b1
+  macAddresses:
+  - A0:59:3A:00:00:00/24
+  manufacturer: V.D.S. Video Display Systems srl
+  manufacturerUri: https://device-type.com
+  name: VDSVideo
+type: d3-device-type-assertion

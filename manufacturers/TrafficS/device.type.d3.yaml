@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09feeb47-edb0-4ba7-8290-d2af023775dc
+  macAddresses:
+  - 00:13:98:00:00:00/24
+  manufacturer: TrafficSim Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: TrafficS
+type: d3-device-type-assertion

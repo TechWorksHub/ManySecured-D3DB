@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 04a5dbcf-c0e1-4212-bbb3-32a942f35d4d
+  macAddresses:
+  - 00:04:F2:00:00:00/24
+  - 64:16:7F:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Polycom
+type: d3-device-type-assertion

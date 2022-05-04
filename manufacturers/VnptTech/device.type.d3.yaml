@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fe8e3a2c-1a64-46eb-9a0f-03078341eb4b
+  macAddresses:
+  - A0:65:18:00:00:00/24
+  - A4:F4:C2:00:00:00/24
+  - D4:9A:A0:00:00:00/24
+  manufacturer: Vnpt Technology
+  manufacturerUri: https://device-type.com
+  name: VnptTech
+type: d3-device-type-assertion

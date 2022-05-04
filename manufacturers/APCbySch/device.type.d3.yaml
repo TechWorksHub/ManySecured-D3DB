@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75fe8a0f-edce-42f7-9ae8-58867a5e77d8
+  macAddresses:
+  - 28:29:86:00:00:00/24
+  manufacturer: APC by Schneider Electric
+  manufacturerUri: https://device-type.com
+  name: APCbySch
+type: d3-device-type-assertion

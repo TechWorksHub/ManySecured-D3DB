@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bafe069d-fc90-443a-a4ce-2f6bf3ef1a31
+  macAddresses:
+  - 00:50:C2:5D:A0:00/36
+  - 40:D8:55:19:50:00/36
+  manufacturer: Tonna Electronique
+  manufacturerUri: https://device-type.com
+  name: TonnaEle
+type: d3-device-type-assertion

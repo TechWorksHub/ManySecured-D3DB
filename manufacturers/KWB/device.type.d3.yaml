@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b74261f-2ea7-49a2-bf37-706bd2a65bf7
+  macAddresses:
+  - 00:F0:51:00:00:00/24
+  manufacturer: KWB Gmbh
+  manufacturerUri: https://device-type.com
+  name: KWB
+type: d3-device-type-assertion

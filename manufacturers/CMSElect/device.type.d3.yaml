@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab4164a9-2215-495d-b870-9de9836377ba
+  macAddresses:
+  - B8:2F:CB:00:00:00/24
+  manufacturer: CMS Electracom
+  manufacturerUri: https://device-type.com
+  name: CMSElect
+type: d3-device-type-assertion

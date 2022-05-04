@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f0d365e-99d1-4c9e-855a-203d67c4debb
+  macAddresses:
+  - 00:1F:96:00:00:00/24
+  manufacturer: Aprotech Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: Aprotech
+type: d3-device-type-assertion

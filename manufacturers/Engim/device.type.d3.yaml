@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f9946717-f158-4116-8155-3f6f633fb739
+  macAddresses:
+  - 00:13:4A:00:00:00/24
+  - 00:50:C2:3A:80:00/36
+  manufacturer: Engim, Inc.
+  manufacturerUri: https://device-type.com
+  name: Engim
+type: d3-device-type-assertion

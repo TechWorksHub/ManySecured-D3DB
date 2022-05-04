@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f28fd09-33fe-4690-9946-ec6453d0ab77
+  macAddresses:
+  - 00:03:C4:00:00:00/24
+  manufacturer: Tomra Systems ASA
+  manufacturerUri: https://device-type.com
+  name: TomraASA
+type: d3-device-type-assertion

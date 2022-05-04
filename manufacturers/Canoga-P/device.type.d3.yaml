@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d9a447b-19e2-4ad4-8a58-19b37cca1813
+  macAddresses:
+  - 00:40:2A:00:00:00/24
+  manufacturer: Canoga-Perkins
+  manufacturerUri: https://device-type.com
+  name: Canoga-P
+type: d3-device-type-assertion

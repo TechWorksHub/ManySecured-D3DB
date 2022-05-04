@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67bcfc98-11f8-4e9d-90b5-93af552b6467
+  macAddresses:
+  - 00:22:E1:00:00:00/24
+  manufacturer: ZORT Labs, LLC.
+  manufacturerUri: https://device-type.com
+  name: ZORTLabs
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: faa3615a-2a81-4bcd-9332-726508cfacce
+  macAddresses:
+  - 24:59:0B:00:00:00/24
+  manufacturer: White Sky Inc. Limited
+  manufacturerUri: https://device-type.com
+  name: WhiteSky
+type: d3-device-type-assertion

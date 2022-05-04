@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 331e85fb-5026-4513-ab51-624f704cfd80
+  macAddresses:
+  - 00:0D:AC:00:00:00/24
+  manufacturer: Japan CBM Corporation
+  manufacturerUri: https://device-type.com
+  name: JapanCBM
+type: d3-device-type-assertion

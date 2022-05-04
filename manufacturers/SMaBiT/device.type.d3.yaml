@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 604b33d0-aa8c-407b-a0cf-4f5da5db42c1
+  macAddresses:
+  - 24:15:10:10:00:00/28
+  manufacturer: SMaBiT GmbH
+  manufacturerUri: https://device-type.com
+  name: SMaBiT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a33cbf07-6115-4341-9dea-1850660b0efc
+  macAddresses:
+  - 00:14:FF:00:00:00/24
+  manufacturer: Precise Automation, Inc.
+  manufacturerUri: https://device-type.com
+  name: PreciseA
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8517fccc-b176-406f-a1ca-3c031cda89cc
+  macAddresses:
+  - 00:02:F4:00:00:00/24
+  - 68:79:12:00:00:00/28
+  - 70:B3:D5:ED:20:00/36
+  manufacturer: PCTEL, Inc.
+  manufacturerUri: https://device-type.com
+  name: PCTEL
+type: d3-device-type-assertion

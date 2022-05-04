@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88b9abf8-d80c-4ee6-845b-087cbd511804
+  macAddresses:
+  - 00:0A:3B:00:00:00/24
+  manufacturer: GCT Semiconductor, Inc
+  manufacturerUri: https://device-type.com
+  name: GCTSemic
+type: d3-device-type-assertion

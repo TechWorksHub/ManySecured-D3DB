@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20292dce-a132-48f5-88d7-e552fc903aed
+  macAddresses:
+  - 00:0F:C5:00:00:00/24
+  manufacturer: KeyMed Ltd
+  manufacturerUri: https://device-type.com
+  name: KeyMed
+type: d3-device-type-assertion

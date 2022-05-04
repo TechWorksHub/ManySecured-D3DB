@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba00b328-d118-452c-aff6-e1bd6681b528
+  macAddresses:
+  - D8:58:D7:00:00:00/24
+  manufacturer: CZ.NIC, z.s.p.o.
+  manufacturerUri: https://device-type.com
+  name: CZNICzsp
+type: d3-device-type-assertion

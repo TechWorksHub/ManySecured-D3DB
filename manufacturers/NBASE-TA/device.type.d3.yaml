@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e54f6022-fdb3-44b9-b7de-9bc5b78027f6
+  macAddresses:
+  - FA:07:3E:00:00:00/24
+  manufacturer: NBASE-T Alliance
+  manufacturerUri: https://device-type.com
+  name: NBASE-TA
+type: d3-device-type-assertion

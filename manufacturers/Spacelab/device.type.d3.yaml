@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f597c116-2edd-49e8-8ed9-297a803bfbfd
+  macAddresses:
+  - 00:A0:AA:00:00:00/24
+  manufacturer: Spacelabs Medical
+  manufacturerUri: https://device-type.com
+  name: Spacelab
+type: d3-device-type-assertion

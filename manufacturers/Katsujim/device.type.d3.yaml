@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5fc7818-1ef6-4b00-8c5c-71577c352fc6
+  macAddresses:
+  - 00:D0:B4:00:00:00/24
+  manufacturer: Katsujima Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Katsujim
+type: d3-device-type-assertion

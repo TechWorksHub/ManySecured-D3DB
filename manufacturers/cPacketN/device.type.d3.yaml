@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a02b8c0e-5361-415d-83a4-04a78d465250
+  macAddresses:
+  - 00:1B:C5:01:70:00/36
+  manufacturer: cPacket Networks
+  manufacturerUri: https://device-type.com
+  name: cPacketN
+type: d3-device-type-assertion

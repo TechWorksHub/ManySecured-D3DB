@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 564dc7b9-810a-4389-b73e-1b514dc0eb95
+  macAddresses:
+  - 64:33:B5:70:00:00/28
+  manufacturer: ABB Electrification Smart Power (ELSP)
+  manufacturerUri: https://device-type.com
+  name: ABBElect
+type: d3-device-type-assertion

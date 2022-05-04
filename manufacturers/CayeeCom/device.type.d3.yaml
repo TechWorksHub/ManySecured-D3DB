@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe359829-1c96-4862-a7a7-2e0fc2c95d3d
+  macAddresses:
+  - 00:23:00:00:00:00/24
+  manufacturer: Cayee Computer Ltd.
+  manufacturerUri: https://device-type.com
+  name: CayeeCom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 90a2a20c-c526-4a8a-b4a1-4f51f5f92d25
+  macAddresses:
+  - 70:B3:D5:31:F0:00/36
+  - E8:B4:70:60:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Elcoma
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4ba6485-0a04-423c-808e-da176cd1012f
+  macAddresses:
+  - 00:16:11:00:00:00/24
+  manufacturer: Altecon Srl
+  manufacturerUri: https://device-type.com
+  name: Altecon
+type: d3-device-type-assertion

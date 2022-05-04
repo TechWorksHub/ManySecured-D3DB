@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 571e151a-e918-472a-b363-eed946ce2666
+  macAddresses:
+  - 00:50:C2:DB:30:00/36
+  - 20:CE:2A:D0:00:00/28
+  manufacturer: Lauda Dr. R. Wobser Gmbh & Co. Kg
+  manufacturerUri: https://device-type.com
+  name: LaudaDrR
+type: d3-device-type-assertion

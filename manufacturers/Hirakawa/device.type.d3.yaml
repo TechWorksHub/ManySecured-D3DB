@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce8c93e3-9fb1-4ec7-b919-9cbd3c199d00
+  macAddresses:
+  - 00:C0:10:00:00:00/24
+  manufacturer: Hirakawa Hewtech Corp.
+  manufacturerUri: https://device-type.com
+  name: Hirakawa
+type: d3-device-type-assertion

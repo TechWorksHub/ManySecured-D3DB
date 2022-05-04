@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfc87b53-c9dc-481a-92f5-5c1c8f696ae6
+  macAddresses:
+  - 00:09:9F:00:00:00/24
+  manufacturer: Videx Inc.
+  manufacturerUri: https://device-type.com
+  name: Videx
+type: d3-device-type-assertion

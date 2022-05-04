@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92ea79c0-d056-4f33-bb21-11cf037d11ce
+  macAddresses:
+  - 90:7A:0A:00:00:00/24
+  manufacturer: Gebr. Bode GmbH & Co KG
+  manufacturerUri: https://device-type.com
+  name: GebrBode
+type: d3-device-type-assertion

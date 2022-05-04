@@ -1,0 +1,11 @@
+credentialSubject:
+  id: a61485cd-b552-41ce-8662-d32c0a0bff66
+  macAddresses:
+  - 3A:A3:F8:00:00:00/24
+  - 4A:07:D6:00:00:00/24
+  - CA:30:BF:00:00:00/24
+  - FA:94:F1:00:00:00/24
+  manufacturer: IEEE 802.1 Chair
+  manufacturerUri: https://device-type.com
+  name: IEEE8021
+type: d3-device-type-assertion

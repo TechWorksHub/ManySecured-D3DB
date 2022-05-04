@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e52f347-d301-4af0-98e6-a7128f81e0de
+  macAddresses:
+  - 60:61:DF:00:00:00/24
+  manufacturer: Z-meta Research LLC
+  manufacturerUri: https://device-type.com
+  name: Z-metaRe
+type: d3-device-type-assertion

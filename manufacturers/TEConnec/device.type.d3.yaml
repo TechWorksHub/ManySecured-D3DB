@@ -1,0 +1,10 @@
+credentialSubject:
+  id: eb0fd41f-6f88-43e3-add7-752bb44f45f9
+  macAddresses:
+  - 98:8E:DD:00:00:00/24
+  - BC:AF:91:00:00:00/24
+  - CC:91:2B:00:00:00/24
+  manufacturer: TE Connectivity Limerick
+  manufacturerUri: https://device-type.com
+  name: TEConnec
+type: d3-device-type-assertion

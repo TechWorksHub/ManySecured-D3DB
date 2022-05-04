@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b262b69-90fa-4021-ae2d-1d1bdd1eb361
+  macAddresses:
+  - 00:12:18:00:00:00/24
+  manufacturer: ARUZE Corporation
+  manufacturerUri: https://device-type.com
+  name: ARUZE
+type: d3-device-type-assertion

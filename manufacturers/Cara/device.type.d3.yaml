@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e723104-db8e-4226-8ea6-136a1aff1f2d
+  macAddresses:
+  - 10:30:34:00:00:00/24
+  manufacturer: Cara Systems
+  manufacturerUri: https://device-type.com
+  name: Cara
+type: d3-device-type-assertion

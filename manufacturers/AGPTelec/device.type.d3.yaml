@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3166ecae-8052-4a21-a2a7-f53c88ad1cf1
+  macAddresses:
+  - 00:11:BE:00:00:00/24
+  manufacturer: AGP Telecom Co. Ltd
+  manufacturerUri: https://device-type.com
+  name: AGPTelec
+type: d3-device-type-assertion

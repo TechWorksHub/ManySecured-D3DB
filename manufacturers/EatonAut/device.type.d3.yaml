@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bdb57f88-fdbf-46dc-91ae-102fd4a90cfa
+  macAddresses:
+  - 00:05:4B:00:00:00/24
+  manufacturer: Eaton Automation AG
+  manufacturerUri: https://device-type.com
+  name: EatonAut
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a79134a7-f73f-4d7a-be14-7cd10ee986f1
+  macAddresses:
+  - 00:50:C2:4F:80:00/36
+  - 40:D8:55:15:E0:00/36
+  manufacturer: Prodco International Inc.
+  manufacturerUri: https://device-type.com
+  name: ProdcoIn
+type: d3-device-type-assertion

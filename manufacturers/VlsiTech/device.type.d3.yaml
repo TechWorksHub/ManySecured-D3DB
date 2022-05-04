@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6dcb8c75-e38e-4942-a3d9-b8126975f746
+  macAddresses:
+  - 00:D0:2F:00:00:00/24
+  manufacturer: Vlsi Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: VlsiTech
+type: d3-device-type-assertion

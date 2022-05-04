@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c780cf76-08bf-4db9-a89f-e7b1dde042bb
+  macAddresses:
+  - C0:DF:77:00:00:00/24
+  manufacturer: Conrad Electronic SE
+  manufacturerUri: https://device-type.com
+  name: ConradEl
+type: d3-device-type-assertion

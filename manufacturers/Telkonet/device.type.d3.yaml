@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 211b535e-ed6a-4b2b-97ff-ac30b660a89f
+  macAddresses:
+  - 00:0A:80:00:00:00/24
+  manufacturer: Telkonet Inc.
+  manufacturerUri: https://device-type.com
+  name: Telkonet
+type: d3-device-type-assertion

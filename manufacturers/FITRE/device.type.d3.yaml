@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1705d3b-3e03-48fc-9ff6-818bf6d5db6f
+  macAddresses:
+  - 00:17:21:00:00:00/24
+  manufacturer: FITRE S.p.A.
+  manufacturerUri: https://device-type.com
+  name: FITRE
+type: d3-device-type-assertion

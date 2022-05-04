@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 384486c8-7093-4088-9aa4-a6d9006d4395
+  macAddresses:
+  - 00:19:28:00:00:00/24
+  - 00:50:07:00:00:00/24
+  manufacturer: Siemens AG, Transportation Systems
+  manufacturerUri: https://device-type.com
+  name: SiemensT
+type: d3-device-type-assertion

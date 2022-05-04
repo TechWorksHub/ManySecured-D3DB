@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51b28787-7d6b-457c-95d9-f27229891526
+  macAddresses:
+  - 08:00:75:00:00:00/24
+  manufacturer: DDE (Danish Data Elektronik A/S)
+  manufacturerUri: https://device-type.com
+  name: DdeDanis
+type: d3-device-type-assertion

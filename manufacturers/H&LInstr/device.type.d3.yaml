@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cf74f71-27c3-4ae3-a5fb-2fe0416f2482
+  macAddresses:
+  - 00:50:C2:F2:E0:00/36
+  manufacturer: H&L Instruments, LLC
+  manufacturerUri: https://device-type.com
+  name: H&LInstr
+type: d3-device-type-assertion

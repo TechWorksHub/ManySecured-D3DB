@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da9b477d-7005-4944-931e-43f68d69f292
+  macAddresses:
+  - 00:0E:1C:00:00:00/24
+  manufacturer: Hach Company
+  manufacturerUri: https://device-type.com
+  name: Hach
+type: d3-device-type-assertion

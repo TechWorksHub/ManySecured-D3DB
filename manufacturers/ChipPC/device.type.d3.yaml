@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9c0e9d0-925a-43a2-bd31-46638c32f9e4
+  macAddresses:
+  - 00:05:35:00:00:00/24
+  manufacturer: Chip PC Ltd.
+  manufacturerUri: https://device-type.com
+  name: ChipPC
+type: d3-device-type-assertion

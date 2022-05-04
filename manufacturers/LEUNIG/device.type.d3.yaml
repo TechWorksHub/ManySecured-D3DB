@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b808e3d1-ed2a-4dd2-954b-3519bcac58f7
+  macAddresses:
+  - 00:01:9A:00:00:00/24
+  manufacturer: LEUNIG GmbH
+  manufacturerUri: https://device-type.com
+  name: LEUNIG
+type: d3-device-type-assertion

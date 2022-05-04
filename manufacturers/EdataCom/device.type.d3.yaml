@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ddcb0b9c-a8c7-4e5c-bdd3-48c765f3df74
+  macAddresses:
+  - 00:14:2B:00:00:00/24
+  manufacturer: Edata Communication Inc.
+  manufacturerUri: https://device-type.com
+  name: EdataCom
+type: d3-device-type-assertion

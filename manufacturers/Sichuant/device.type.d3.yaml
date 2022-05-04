@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 25c2b03f-a551-4780-b3ab-903715388c48
+  macAddresses:
+  - 18:AA:CA:00:00:00/24
+  - 48:A7:3C:00:00:00/24
+  - B0:AA:D2:00:00:00/24
+  - B4:CF:E0:00:00:00/24
+  - F4:32:3D:00:00:00/24
+  manufacturer: Sichuan tianyi kanghe communications co., LTD
+  manufacturerUri: https://device-type.com
+  name: Sichuant
+type: d3-device-type-assertion

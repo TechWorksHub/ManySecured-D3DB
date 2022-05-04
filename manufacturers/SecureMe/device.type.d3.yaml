@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cde8c730-f778-4347-8908-301216c8fd53
+  macAddresses:
+  - 90:3D:BD:00:00:00/24
+  - B8:79:7E:00:00:00/24
+  manufacturer: Secure Meters Limited
+  manufacturerUri: https://device-type.com
+  name: SecureMe
+type: d3-device-type-assertion

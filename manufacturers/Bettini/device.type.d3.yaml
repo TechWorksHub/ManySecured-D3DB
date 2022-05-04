@@ -1,0 +1,16 @@
+credentialSubject:
+  id: c993e963-8993-4cdc-903d-0dc51a3cd01a
+  macAddresses:
+  - 00:1B:C5:02:E0:00/36
+  - 00:50:C2:99:B0:00/36
+  - 00:50:C2:B7:C0:00/36
+  - 00:50:C2:D5:10:00/36
+  - 00:50:C2:DF:B0:00/36
+  - 40:D8:55:03:20:00/36
+  - 40:D8:55:1B:30:00/36
+  - CC:00:80:00:00:00/24
+  - F8:02:78:70:00:00/28
+  manufacturer: Bettini Srl
+  manufacturerUri: https://device-type.com
+  name: Bettini
+type: d3-device-type-assertion

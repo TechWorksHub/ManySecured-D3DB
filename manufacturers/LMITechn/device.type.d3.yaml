@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 625b0c83-f327-41c8-9c90-3344d449ac15
+  macAddresses:
+  - 00:50:C2:0B:00:00/36
+  - 88:20:12:00:00:00/24
+  manufacturer: LMI Technologies
+  manufacturerUri: https://device-type.com
+  name: LMITechn
+type: d3-device-type-assertion

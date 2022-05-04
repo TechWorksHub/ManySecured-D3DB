@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5e60bf23-674d-4d56-bf4c-69dc0334ee5b
+  macAddresses:
+  - 00:21:45:00:00:00/24
+  - 00:28:9F:00:00:00/24
+  - FC:76:92:00:00:00/24
+  manufacturer: Semptian Technologies Ltd.
+  manufacturerUri: https://device-type.com
+  name: Semptian
+type: d3-device-type-assertion

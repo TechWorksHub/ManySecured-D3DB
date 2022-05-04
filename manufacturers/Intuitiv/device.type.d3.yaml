@@ -1,0 +1,12 @@
+credentialSubject:
+  id: d5a780ae-97d9-4511-9453-b2b94016eeba
+  macAddresses:
+  - 00:50:C2:5C:20:00/36
+  - 00:50:C2:9C:F0:00/36
+  - 00:50:C2:D9:B0:00/36
+  - 00:50:C2:FA:50:00/36
+  - BC:66:41:60:00:00/28
+  manufacturer: Intuitive Surgical, Inc
+  manufacturerUri: https://device-type.com
+  name: Intuitiv
+type: d3-device-type-assertion

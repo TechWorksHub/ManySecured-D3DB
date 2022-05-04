@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5cc0214a-ceff-404e-8d0a-923ce6794f33
+  macAddresses:
+  - 00:1B:27:00:00:00/24
+  - 70:B3:D5:C4:10:00/36
+  manufacturer: Merlin CSI
+  manufacturerUri: https://device-type.com
+  name: MerlinCS
+type: d3-device-type-assertion

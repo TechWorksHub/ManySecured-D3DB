@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da1ab71f-f2f4-42ae-95b8-5e724d462e83
+  macAddresses:
+  - F0:23:B9:B0:00:00/28
+  manufacturer: Q Core Medical Ltd
+  manufacturerUri: https://device-type.com
+  name: QCoreMed
+type: d3-device-type-assertion

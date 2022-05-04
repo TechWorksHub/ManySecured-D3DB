@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30d34416-05de-4bc1-9827-de2e381dbae5
+  macAddresses:
+  - A0:19:B2:80:00:00/28
+  manufacturer: MIS Industrie Systeme GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: MISIndus
+type: d3-device-type-assertion

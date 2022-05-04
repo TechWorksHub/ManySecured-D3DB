@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7a6b23d6-07f5-4a21-9865-ebcad1279ac9
+  macAddresses:
+  - 00:50:C2:6C:50:00/36
+  - 8C:92:46:00:00:00/24
+  manufacturer: Oerlikon Contraves AG
+  manufacturerUri: https://device-type.com
+  name: Oerlikon
+type: d3-device-type-assertion

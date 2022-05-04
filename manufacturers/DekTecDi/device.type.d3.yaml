@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da08f969-1150-4b73-8854-7334604601e9
+  macAddresses:
+  - 00:14:F4:00:00:00/24
+  manufacturer: DekTec Digital Video B.V.
+  manufacturerUri: https://device-type.com
+  name: DekTecDi
+type: d3-device-type-assertion

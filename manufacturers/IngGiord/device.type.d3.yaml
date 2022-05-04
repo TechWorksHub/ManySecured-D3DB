@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de89f0ff-7b61-42c4-9487-5a17df39800f
+  macAddresses:
+  - 00:E0:19:00:00:00/24
+  manufacturer: Ing. Giordano Elettronica
+  manufacturerUri: https://device-type.com
+  name: IngGiord
+type: d3-device-type-assertion

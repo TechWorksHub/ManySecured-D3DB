@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06880253-e6e0-48bf-9c68-0db2bb454f35
+  macAddresses:
+  - 00:50:5C:00:00:00/24
+  manufacturer: Tundo Corporation
+  manufacturerUri: https://device-type.com
+  name: Tundo
+type: d3-device-type-assertion

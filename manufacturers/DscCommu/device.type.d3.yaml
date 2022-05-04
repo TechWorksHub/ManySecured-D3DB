@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f761d362-778b-4228-a57d-134398e756ab
+  macAddresses:
+  - 00:C0:E0:00:00:00/24
+  manufacturer: Dsc Communication Corp.
+  manufacturerUri: https://device-type.com
+  name: DscCommu
+type: d3-device-type-assertion

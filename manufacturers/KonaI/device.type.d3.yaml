@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ab032a5-6777-4141-9ace-6989013c3520
+  macAddresses:
+  - B4:A2:EB:70:00:00/28
+  manufacturer: Kona I
+  manufacturerUri: https://device-type.com
+  name: KonaI
+type: d3-device-type-assertion

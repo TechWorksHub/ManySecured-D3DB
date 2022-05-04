@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e012761-2a09-45a3-8f1f-a51c6697cd9f
+  macAddresses:
+  - BC:6A:2F:00:00:00/24
+  manufacturer: Henge Docks LLC
+  manufacturerUri: https://device-type.com
+  name: HengeDoc
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ff112ec-b7a1-41e1-8d5f-1501b35d57b0
+  macAddresses:
+  - 00:A0:EC:00:00:00/24
+  manufacturer: Transmitton Ltd.
+  manufacturerUri: https://device-type.com
+  name: Transmit
+type: d3-device-type-assertion

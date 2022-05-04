@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50acf268-e4ca-4b88-b2ab-1b3f8b8eac20
+  macAddresses:
+  - A4:24:DD:00:00:00/24
+  manufacturer: Cambrionix Ltd
+  manufacturerUri: https://device-type.com
+  name: Cambrion
+type: d3-device-type-assertion

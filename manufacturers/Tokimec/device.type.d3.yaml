@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4240426-c84d-4f11-933b-ac8176196666
+  macAddresses:
+  - 00:60:17:00:00:00/24
+  manufacturer: Tokimec Inc.
+  manufacturerUri: https://device-type.com
+  name: Tokimec
+type: d3-device-type-assertion

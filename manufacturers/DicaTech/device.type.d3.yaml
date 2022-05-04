@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c626bec2-15b2-46c8-99ed-5ba8246f5587
+  macAddresses:
+  - 00:01:82:00:00:00/24
+  manufacturer: Dica Technologies Ag
+  manufacturerUri: https://device-type.com
+  name: DicaTech
+type: d3-device-type-assertion

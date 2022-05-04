@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c74084e-9f9d-4bc8-9571-f85066c43648
+  macAddresses:
+  - 00:D0:86:00:00:00/24
+  manufacturer: Foveon, Inc.
+  manufacturerUri: https://device-type.com
+  name: Foveon
+type: d3-device-type-assertion

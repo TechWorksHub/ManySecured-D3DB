@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fcba6a9-aa3f-48ee-b7d9-88b73da1b5fe
+  macAddresses:
+  - 5C:86:4A:00:00:00/24
+  manufacturer: Secret Labs LLC
+  manufacturerUri: https://device-type.com
+  name: SecretLa
+type: d3-device-type-assertion

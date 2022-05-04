@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 69c0261a-6b22-41bf-8306-e1d41902f530
+  macAddresses:
+  - 00:0A:71:00:00:00/24
+  manufacturer: Avrio Technologies, Inc
+  manufacturerUri: https://device-type.com
+  name: AvrioTec
+type: d3-device-type-assertion

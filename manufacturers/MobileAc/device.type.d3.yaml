@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 513a5b38-97e1-4cf5-b762-a738b8b4e406
+  macAddresses:
+  - 00:18:8C:00:00:00/24
+  - 00:26:6D:00:00:00/24
+  manufacturer: Mobile Action Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: MobileAc
+type: d3-device-type-assertion

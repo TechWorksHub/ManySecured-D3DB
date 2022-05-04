@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d6adf28-251c-44e1-be98-cc4671db7790
+  macAddresses:
+  - 00:20:30:00:00:00/24
+  manufacturer: Analog & Digital Systems
+  manufacturerUri: https://device-type.com
+  name: AnalogDi
+type: d3-device-type-assertion

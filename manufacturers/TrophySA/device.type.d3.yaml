@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 620ac983-2325-4cb4-99fc-c0232d0a786e
+  macAddresses:
+  - 60:95:CE:80:00:00/28
+  manufacturer: Trophy SAS
+  manufacturerUri: https://device-type.com
+  name: TrophySA
+type: d3-device-type-assertion

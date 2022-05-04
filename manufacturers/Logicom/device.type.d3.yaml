@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcb4a3c7-7e3c-4acd-a733-5a5f1ce6d96c
+  macAddresses:
+  - DC:78:34:00:00:00/24
+  manufacturer: Logicom Sa
+  manufacturerUri: https://device-type.com
+  name: Logicom
+type: d3-device-type-assertion

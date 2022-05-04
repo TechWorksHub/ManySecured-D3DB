@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a3cb3a0-0924-4155-bc5b-bdf4e9e02cb9
+  macAddresses:
+  - 00:11:DD:00:00:00/24
+  manufacturer: FROMUS TEC. Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: FROMUSTE
+type: d3-device-type-assertion

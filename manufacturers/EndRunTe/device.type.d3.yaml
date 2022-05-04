@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43fdc090-8bc4-444d-9e23-33d7140ed7d0
+  macAddresses:
+  - 00:0E:FE:00:00:00/24
+  manufacturer: EndRun Technologies LLC
+  manufacturerUri: https://device-type.com
+  name: EndRunTe
+type: d3-device-type-assertion

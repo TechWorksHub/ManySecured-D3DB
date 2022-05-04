@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc8302d2-9199-467a-991e-f949602ef69b
+  macAddresses:
+  - 00:60:77:00:00:00/24
+  manufacturer: Prisa Networks
+  manufacturerUri: https://device-type.com
+  name: PrisaNet
+type: d3-device-type-assertion

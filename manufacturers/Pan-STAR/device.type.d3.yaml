@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8cc8a417-b238-4e6d-919f-1255d29e9b8e
+  macAddresses:
+  - 00:50:C2:64:90:00/36
+  manufacturer: Pan-STARRS
+  manufacturerUri: https://device-type.com
+  name: Pan-STAR
+type: d3-device-type-assertion

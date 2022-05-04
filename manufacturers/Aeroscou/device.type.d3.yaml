@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60cfbb67-815f-40e0-bf1d-d6e3d75663ff
+  macAddresses:
+  - 00:0C:CC:00:00:00/24
+  manufacturer: Aeroscout Ltd.
+  manufacturerUri: https://device-type.com
+  name: Aeroscou
+type: d3-device-type-assertion

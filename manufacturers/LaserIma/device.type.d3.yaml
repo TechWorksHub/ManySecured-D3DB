@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 64c5d3c2-9c2b-4221-a0de-c92a19e31a37
+  macAddresses:
+  - 70:B3:D5:0D:80:00/36
+  - 70:B3:D5:3E:E0:00/36
+  - 70:B3:D5:FD:D0:00/36
+  manufacturer: Laser Imagineering GmbH
+  manufacturerUri: https://device-type.com
+  name: LaserIma
+type: d3-device-type-assertion

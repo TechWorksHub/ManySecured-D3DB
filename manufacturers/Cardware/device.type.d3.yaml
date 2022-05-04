@@ -1,0 +1,8 @@
+credentialSubject:
+  id: efa5a974-87a3-4b8f-bf44-86af9a107693
+  macAddresses:
+  - 00:A0:76:00:00:00/24
+  manufacturer: Cardware Lab, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cardware
+type: d3-device-type-assertion

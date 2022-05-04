@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4820aff9-da54-448c-81f5-eb7a1789825f
+  macAddresses:
+  - 00:40:8B:00:00:00/24
+  manufacturer: Raylan Corporation
+  manufacturerUri: https://device-type.com
+  name: Raylan
+type: d3-device-type-assertion

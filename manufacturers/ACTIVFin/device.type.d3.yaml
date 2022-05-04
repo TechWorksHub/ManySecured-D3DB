@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b64f5f20-a3e7-499f-8e99-72a0fa0025d1
+  macAddresses:
+  - 00:50:C2:D3:00:00/36
+  manufacturer: ACTIV Financial Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: ACTIVFin
+type: d3-device-type-assertion

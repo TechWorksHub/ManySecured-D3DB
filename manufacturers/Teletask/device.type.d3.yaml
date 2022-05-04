@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9298cb83-fb78-4b9c-86da-00f47179e2ff
+  macAddresses:
+  - 00:50:C2:6A:40:00/36
+  - 70:B3:D5:C5:60:00/36
+  - E4:1E:0A:C0:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Teletask
+type: d3-device-type-assertion

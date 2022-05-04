@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 491e2a3c-815a-4f63-814d-7d553ced8410
+  macAddresses:
+  - 00:50:C2:58:C0:00/36
+  - 00:D0:BD:00:00:00/24
+  manufacturer: Lattice Semiconductor Corp. (LPA)
+  manufacturerUri: https://device-type.com
+  name: LatticeS
+type: d3-device-type-assertion

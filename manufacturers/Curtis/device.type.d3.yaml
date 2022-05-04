@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8b68a5b3-e09a-4159-b353-d181350ff1b2
+  macAddresses:
+  - 00:1B:3E:00:00:00/24
+  - 00:50:C2:04:30:00/36
+  manufacturer: Curtis, Inc.
+  manufacturerUri: https://device-type.com
+  name: Curtis
+type: d3-device-type-assertion

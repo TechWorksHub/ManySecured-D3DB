@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ff72f5a-70a9-4c31-88ed-6d869b25ac4c
+  macAddresses:
+  - 00:A0:25:00:00:00/24
+  manufacturer: Redcom Labs Inc.
+  manufacturerUri: https://device-type.com
+  name: RedcomLa
+type: d3-device-type-assertion

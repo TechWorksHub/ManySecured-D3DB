@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04871472-21dc-4836-a3c8-2bb2bd6b8c3d
+  macAddresses:
+  - 00:20:4B:00:00:00/24
+  manufacturer: Autocomputer Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Autocomp
+type: d3-device-type-assertion

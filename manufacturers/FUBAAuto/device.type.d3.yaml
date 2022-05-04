@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b454c45b-1a36-4afc-ab01-1551e4e6b108
+  macAddresses:
+  - 38:FD:FE:D0:00:00/28
+  manufacturer: FUBA Automotive Electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: FUBAAuto
+type: d3-device-type-assertion

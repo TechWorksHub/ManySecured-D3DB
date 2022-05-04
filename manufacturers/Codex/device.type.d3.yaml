@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6fb08c6-5776-4775-ad8f-3a80eb75402c
+  macAddresses:
+  - 08:00:3E:00:00:00/24
+  manufacturer: Codex Corporation
+  manufacturerUri: https://device-type.com
+  name: Codex
+type: d3-device-type-assertion

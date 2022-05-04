@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1b805b2-e6aa-422e-b3b2-ccd5be9d7f16
+  macAddresses:
+  - 00:E0:93:00:00:00/24
+  manufacturer: Ackfin Networks
+  manufacturerUri: https://device-type.com
+  name: AckfinNe
+type: d3-device-type-assertion

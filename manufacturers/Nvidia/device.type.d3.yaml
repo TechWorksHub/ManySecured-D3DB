@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b302711-9656-41df-b67e-1276cb563fee
+  macAddresses:
+  - 00:04:4B:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Nvidia
+type: d3-device-type-assertion

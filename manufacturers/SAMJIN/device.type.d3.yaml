@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2c078eed-41df-49e9-a7bf-f79149b37f0c
+  macAddresses:
+  - 28:6D:97:00:00:00/24
+  - 68:3A:48:00:00:00/24
+  manufacturer: SAMJIN Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SAMJIN
+type: d3-device-type-assertion

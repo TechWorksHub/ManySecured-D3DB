@@ -1,0 +1,12 @@
+credentialSubject:
+  id: b7515e70-00fb-43c9-94d8-b909c00e9c2c
+  macAddresses:
+  - 00:0D:1E:00:00:00/24
+  - 00:20:25:00:00:00/24
+  - 00:C0:CB:00:00:00/24
+  - B4:DD:15:00:00:00/24
+  - F8:9D:0D:00:00:00/24
+  manufacturer: Control Techniques
+  manufacturerUri: https://device-type.com
+  name: ControlT
+type: d3-device-type-assertion

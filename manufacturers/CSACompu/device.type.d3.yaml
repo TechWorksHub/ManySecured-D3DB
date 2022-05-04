@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a001f751-9d03-4723-86ca-4c10485e7611
+  macAddresses:
+  - 00:50:C2:2A:F0:00/36
+  manufacturer: CSA Computer & Antriebstechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: CSACompu
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 95763db7-e2eb-4d5c-b61a-16ffaa84bf96
+  macAddresses:
+  - 00:11:1E:00:00:00/24
+  - 00:15:1E:00:00:00/24
+  manufacturer: ETHERNET Powerlink Standarization Group (EPSG)
+  manufacturerUri: https://device-type.com
+  name: ETHERNET
+type: d3-device-type-assertion

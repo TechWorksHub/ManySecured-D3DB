@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dfe59d5d-b4e8-4890-8bfb-b11cc22f33cc
+  macAddresses:
+  - 00:12:D0:00:00:00/24
+  manufacturer: Gossen-Metrawatt-GmbH
+  manufacturerUri: https://device-type.com
+  name: Gossen-M
+type: d3-device-type-assertion

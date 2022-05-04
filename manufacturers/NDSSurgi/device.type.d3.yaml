@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed61cbc5-588e-4c90-a16e-66763e7758d1
+  macAddresses:
+  - 00:24:F5:00:00:00/24
+  manufacturer: NDS Surgical Imaging
+  manufacturerUri: https://device-type.com
+  name: NDSSurgi
+type: d3-device-type-assertion

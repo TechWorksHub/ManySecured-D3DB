@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f78f5d62-14f0-494a-9bbc-b9f80a371a4c
+  macAddresses:
+  - 00:04:AB:00:00:00/24
+  manufacturer: Mavenir Inc.
+  manufacturerUri: https://device-type.com
+  name: Mavenir
+type: d3-device-type-assertion

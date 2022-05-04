@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 498419fa-f510-4f30-a4c3-1bd6279fe70d
+  macAddresses:
+  - 28:CD:C1:00:00:00/24
+  - 3A:35:41:00:00:00/24
+  - B8:27:EB:00:00:00/24
+  - DC:A6:32:00:00:00/24
+  - E4:5F:01:00:00:00/24
+  manufacturer: Raspberry Pi Trading Ltd
+  manufacturerUri: https://device-type.com
+  name: Raspberr
+type: d3-device-type-assertion

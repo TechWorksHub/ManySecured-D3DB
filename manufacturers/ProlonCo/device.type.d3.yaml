@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ee4c505-bb1b-45c1-a515-efa0238b1c46
+  macAddresses:
+  - 00:11:48:00:00:00/24
+  manufacturer: Prolon Control Systems
+  manufacturerUri: https://device-type.com
+  name: ProlonCo
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e00af7e5-8b11-4b05-955b-831c205a7043
+  macAddresses:
+  - 00:50:C2:43:A0:00/36
+  - 00:50:C2:F6:C0:00/36
+  - 00:50:C2:F6:D0:00/36
+  manufacturer: ProDesign GmbH
+  manufacturerUri: https://device-type.com
+  name: ProDesig
+type: d3-device-type-assertion

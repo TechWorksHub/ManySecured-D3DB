@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9f683dc-3453-4643-a744-65d733b7984f
+  macAddresses:
+  - 00:13:08:00:00:00/24
+  manufacturer: Nuvera Fuel Cells
+  manufacturerUri: https://device-type.com
+  name: NuveraFu
+type: d3-device-type-assertion

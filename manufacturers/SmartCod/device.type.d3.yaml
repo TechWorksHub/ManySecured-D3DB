@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4da08ca2-aa5f-4bfa-b0bf-f39057a5966c
+  macAddresses:
+  - 84:8B:CD:70:00:00/28
+  - BC:FF:21:00:00:00/24
+  manufacturer: Smart Code (Shenzhen) Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: SmartCod
+type: d3-device-type-assertion

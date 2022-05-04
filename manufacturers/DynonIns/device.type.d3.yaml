@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 269af057-3692-4df7-8d2a-bd06e8552460
+  macAddresses:
+  - 00:50:C2:A0:70:00/36
+  - 00:50:C2:F8:40:00/36
+  manufacturer: Dynon Instruments
+  manufacturerUri: https://device-type.com
+  name: DynonIns
+type: d3-device-type-assertion

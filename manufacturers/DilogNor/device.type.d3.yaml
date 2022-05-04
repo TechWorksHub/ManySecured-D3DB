@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd0c2893-8e8f-46f8-ba71-ab036d56b875
+  macAddresses:
+  - 00:24:05:00:00:00/24
+  manufacturer: Dilog Nordic AB
+  manufacturerUri: https://device-type.com
+  name: DilogNor
+type: d3-device-type-assertion

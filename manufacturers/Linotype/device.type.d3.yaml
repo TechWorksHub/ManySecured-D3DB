@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25fff9f4-4325-4e44-b7a2-13680acf5e80
+  macAddresses:
+  - 00:00:7F:00:00:00/24
+  manufacturer: Linotype-Hell AG
+  manufacturerUri: https://device-type.com
+  name: Linotype
+type: d3-device-type-assertion

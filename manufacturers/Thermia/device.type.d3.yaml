@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83dd1bc2-fd80-440a-9d16-893cd73e1675
+  macAddresses:
+  - 18:A5:9C:50:00:00/28
+  manufacturer: Thermia AB
+  manufacturerUri: https://device-type.com
+  name: Thermia
+type: d3-device-type-assertion

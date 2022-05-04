@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3ce8050-888a-4fcc-948f-27c3700106c9
+  macAddresses:
+  - 84:DD:B7:00:00:00/24
+  manufacturer: Cilag GmbH International
+  manufacturerUri: https://device-type.com
+  name: CilagInt
+type: d3-device-type-assertion

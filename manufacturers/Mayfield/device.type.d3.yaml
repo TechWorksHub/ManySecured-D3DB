@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 456f7518-2ee0-4bdc-8c34-7966bb0a22ce
+  macAddresses:
+  - 74:28:57:00:00:00/24
+  manufacturer: Mayfield Robotics
+  manufacturerUri: https://device-type.com
+  name: Mayfield
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a0a8399f-129d-4a6b-a908-de86fbcde3b5
+  macAddresses:
+  - 14:3F:C3:00:00:00/24
+  - D4:6A:91:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: SnapAV
+type: d3-device-type-assertion

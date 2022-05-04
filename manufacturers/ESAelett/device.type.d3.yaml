@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6c78033-4618-4d2e-bf09-edc07b4bff36
+  macAddresses:
+  - 00:0E:0E:00:00:00/24
+  manufacturer: ESA elettronica S.P.A.
+  manufacturerUri: https://device-type.com
+  name: ESAelett
+type: d3-device-type-assertion

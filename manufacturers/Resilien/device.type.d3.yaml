@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 673e6d05-c038-4f8d-8d03-8ccb06c2b1fe
+  macAddresses:
+  - 00:60:AC:00:00:00/24
+  manufacturer: Resilience Corporation
+  manufacturerUri: https://device-type.com
+  name: Resilien
+type: d3-device-type-assertion

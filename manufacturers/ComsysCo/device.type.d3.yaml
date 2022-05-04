@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cafe0854-05d8-4218-bf28-96040ff20409
+  macAddresses:
+  - 00:1E:39:00:00:00/24
+  manufacturer: Comsys Communication Ltd.
+  manufacturerUri: https://device-type.com
+  name: ComsysCo
+type: d3-device-type-assertion

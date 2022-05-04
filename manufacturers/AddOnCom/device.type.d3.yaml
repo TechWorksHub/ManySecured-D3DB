@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 799f8b8e-2a13-4ae9-b839-a36a8ae0e93e
+  macAddresses:
+  - 44:D5:A5:00:00:00/24
+  manufacturer: AddOn Computer
+  manufacturerUri: https://device-type.com
+  name: AddOnCom
+type: d3-device-type-assertion

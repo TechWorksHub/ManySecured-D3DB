@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd356539-f89e-4990-869d-d3138eaf0a86
+  macAddresses:
+  - D0:CF:5E:00:00:00/24
+  manufacturer: Energy Micro AS
+  manufacturerUri: https://device-type.com
+  name: EnergyMi
+type: d3-device-type-assertion

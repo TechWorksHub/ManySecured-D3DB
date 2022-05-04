@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6933e4b-a5e1-4729-8b2d-baa1c2d5702c
+  macAddresses:
+  - 00:0F:3F:00:00:00/24
+  manufacturer: Big Bear Networks
+  manufacturerUri: https://device-type.com
+  name: BigBearN
+type: d3-device-type-assertion

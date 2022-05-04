@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d54f1fc-e289-4f7a-8dcd-3c0939e24766
+  macAddresses:
+  - 58:CF:4B:00:00:00/24
+  manufacturer: Lufkin Industries
+  manufacturerUri: https://device-type.com
+  name: LufkinIn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d62dcd9d-1ee4-4f4b-aebe-d84ed0986c99
+  macAddresses:
+  - 00:11:EE:00:00:00/24
+  manufacturer: Estari, Inc.
+  manufacturerUri: https://device-type.com
+  name: Estari
+type: d3-device-type-assertion

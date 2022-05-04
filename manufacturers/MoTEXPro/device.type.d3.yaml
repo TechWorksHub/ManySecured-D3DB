@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fc50261-b364-4a1a-9d28-e8891caa5dc6
+  macAddresses:
+  - 00:0B:F0:00:00:00/24
+  manufacturer: MoTEX Products Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: MoTEXPro
+type: d3-device-type-assertion

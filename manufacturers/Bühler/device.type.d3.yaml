@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc357e67-da1e-4172-a076-4a2b3e9376cc
+  macAddresses:
+  - 64:62:66:50:00:00/28
+  manufacturer: "B\xFChler AG"
+  manufacturerUri: https://device-type.com
+  name: "B\xFChler"
+type: d3-device-type-assertion

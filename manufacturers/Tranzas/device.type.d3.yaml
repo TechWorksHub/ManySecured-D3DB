@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc57bfac-75e7-4dc2-86aa-3b4acc06edfe
+  macAddresses:
+  - 00:1A:6A:00:00:00/24
+  manufacturer: Tranzas, Inc.
+  manufacturerUri: https://device-type.com
+  name: Tranzas
+type: d3-device-type-assertion

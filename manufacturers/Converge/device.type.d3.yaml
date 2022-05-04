@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 9452ab93-343d-4eaf-a2ca-5d66d505c4c9
+  macAddresses:
+  - 00:19:F4:00:00:00/24
+  - 00:30:B0:00:00:00/24
+  - 00:50:C2:54:E0:00/36
+  - 00:50:C2:BE:20:00/36
+  - 00:D0:10:00:00:00/24
+  - 70:B3:D5:1F:80:00/36
+  - B8:74:47:00:00:00/24
+  manufacturer: Convergens Oy Ltd
+  manufacturerUri: https://device-type.com
+  name: Converge
+type: d3-device-type-assertion

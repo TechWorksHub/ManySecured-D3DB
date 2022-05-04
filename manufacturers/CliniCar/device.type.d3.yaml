@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91c3372b-9a2d-45c0-9d2a-65fd26b39901
+  macAddresses:
+  - 08:5B:DA:00:00:00/24
+  manufacturer: CliniCare LTD
+  manufacturerUri: https://device-type.com
+  name: CliniCar
+type: d3-device-type-assertion

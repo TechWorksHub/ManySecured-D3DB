@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 039838ac-1437-444a-8c0c-cc9b8ead77ff
+  macAddresses:
+  - 00:1A:63:00:00:00/24
+  - 00:23:9B:00:00:00/24
+  manufacturer: Elster Solutions, LLC,
+  manufacturerUri: https://device-type.com
+  name: ElsterSo
+type: d3-device-type-assertion

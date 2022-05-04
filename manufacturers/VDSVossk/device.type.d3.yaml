@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4bd4adba-ef1c-48db-8432-6766efb69509
+  macAddresses:
+  - 00:07:C6:00:00:00/24
+  manufacturer: VDS Vosskuhler GmbH
+  manufacturerUri: https://device-type.com
+  name: VDSVossk
+type: d3-device-type-assertion

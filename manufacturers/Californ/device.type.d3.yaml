@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e94429c9-075a-492d-8bf2-7bc3fc0c81d8
+  macAddresses:
+  - 00:03:95:00:00:00/24
+  - 00:22:A3:00:00:00/24
+  - 70:04:33:00:00:00/24
+  manufacturer: California Amplifier
+  manufacturerUri: https://device-type.com
+  name: Californ
+type: d3-device-type-assertion

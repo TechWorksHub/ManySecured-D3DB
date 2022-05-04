@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 8d20ab47-9ed6-4f4c-b76c-11db3e61b66d
+  macAddresses:
+  - 14:5B:B9:00:00:00/24
+  - 34:EE:2A:00:00:00/24
+  - 54:66:F9:00:00:00/24
+  - D0:98:9C:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: ConMet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7048572-6252-4c2e-b32e-8ed2d44089ae
+  macAddresses:
+  - 14:AE:85:80:00:00/28
+  manufacturer: Trimble LEM
+  manufacturerUri: https://device-type.com
+  name: TrimbleL
+type: d3-device-type-assertion

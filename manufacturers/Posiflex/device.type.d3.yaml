@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a8fd133-f41e-4796-8617-b450669b9e78
+  macAddresses:
+  - 00:19:17:00:00:00/24
+  manufacturer: Posiflex Inc.
+  manufacturerUri: https://device-type.com
+  name: Posiflex
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b5c68e8-e40e-464f-a134-58eb96c7553d
+  macAddresses:
+  - 08:3A:5C:00:00:00/24
+  manufacturer: Junilab, Inc.
+  manufacturerUri: https://device-type.com
+  name: Junilab
+type: d3-device-type-assertion

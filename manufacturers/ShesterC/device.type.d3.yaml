@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee102bfb-8436-4823-b9a0-4b120e02fdd0
+  macAddresses:
+  - 00:0E:29:00:00:00/24
+  manufacturer: Shester Communications Inc
+  manufacturerUri: https://device-type.com
+  name: ShesterC
+type: d3-device-type-assertion

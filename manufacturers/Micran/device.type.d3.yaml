@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac77466f-785c-4cbd-8f7d-7290ffd03a69
+  macAddresses:
+  - 00:1E:0D:00:00:00/24
+  manufacturer: Micran Ltd.
+  manufacturerUri: https://device-type.com
+  name: Micran
+type: d3-device-type-assertion

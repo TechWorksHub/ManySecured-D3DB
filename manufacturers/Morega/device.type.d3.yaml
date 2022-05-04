@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b2b6da1-9e75-4a07-a6fd-6bed6db49c68
+  macAddresses:
+  - 00:22:1B:00:00:00/24
+  manufacturer: Morega Systems
+  manufacturerUri: https://device-type.com
+  name: Morega
+type: d3-device-type-assertion

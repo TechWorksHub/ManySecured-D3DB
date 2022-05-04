@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b6376fa-de15-40ee-b762-7927e0f1ab48
+  macAddresses:
+  - 00:25:87:00:00:00/24
+  manufacturer: Vitality, Inc.
+  manufacturerUri: https://device-type.com
+  name: Vitality
+type: d3-device-type-assertion

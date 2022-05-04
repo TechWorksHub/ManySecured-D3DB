@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aae80ef-9064-44c6-8538-632ca81da9a1
+  macAddresses:
+  - 28:34:10:00:00:00/24
+  manufacturer: Enigma Diagnostics Limited
+  manufacturerUri: https://device-type.com
+  name: EnigmaDi
+type: d3-device-type-assertion

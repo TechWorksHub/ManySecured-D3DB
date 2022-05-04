@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fda8e91-7e4e-4b97-8750-f8795e91dce4
+  macAddresses:
+  - D0:14:11:00:00:00/28
+  manufacturer: EkkoSense Ltd
+  manufacturerUri: https://device-type.com
+  name: EkkoSens
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a2c8221-acb7-46ed-b10a-e9e0f07883d9
+  macAddresses:
+  - 00:10:BF:00:00:00/24
+  manufacturer: InterAir Wireless
+  manufacturerUri: https://device-type.com
+  name: InterAir
+type: d3-device-type-assertion

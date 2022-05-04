@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4fff0e89-0a9d-483c-9869-2495675e77eb
+  macAddresses:
+  - 00:A0:A2:00:00:00/24
+  manufacturer: B810 S.R.L.
+  manufacturerUri: https://device-type.com
+  name: B810
+type: d3-device-type-assertion

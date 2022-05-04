@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b747c606-131a-4cf0-97b5-762858cc13a6
+  macAddresses:
+  - 00:0F:92:00:00:00/24
+  - 00:15:42:00:00:00/24
+  manufacturer: Microhard Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Microhar
+type: d3-device-type-assertion

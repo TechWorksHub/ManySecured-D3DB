@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02df4c57-ba17-4daa-89eb-baf8e696941a
+  macAddresses:
+  - 00:1E:C4:00:00:00/24
+  manufacturer: Celio Corp
+  manufacturerUri: https://device-type.com
+  name: Celio
+type: d3-device-type-assertion

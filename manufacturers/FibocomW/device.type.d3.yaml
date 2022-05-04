@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3d2e060b-185b-4a19-99c1-2bbbe19c67ec
+  macAddresses:
+  - 64:F6:BB:00:00:00/24
+  - 88:23:1F:00:00:00/24
+  - B4:36:A9:00:00:00/24
+  manufacturer: Fibocom Wireless Inc.
+  manufacturerUri: https://device-type.com
+  name: FibocomW
+type: d3-device-type-assertion

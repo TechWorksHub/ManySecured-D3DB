@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b097e136-f47b-4022-b759-311daf98b83a
+  macAddresses:
+  - 09:00:6A:00:00:00/24
+  - DA:2B:DD:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: AT&T
+type: d3-device-type-assertion

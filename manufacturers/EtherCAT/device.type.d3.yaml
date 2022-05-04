@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f6d98a9-e5e3-4717-83b2-b1dace184665
+  macAddresses:
+  - 70:16:9F:00:00:00/24
+  manufacturer: EtherCAT Technology Group
+  manufacturerUri: https://device-type.com
+  name: EtherCAT
+type: d3-device-type-assertion

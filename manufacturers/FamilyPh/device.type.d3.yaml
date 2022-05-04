@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 889f6041-9df7-42aa-9118-67ab658c8ec9
+  macAddresses:
+  - 00:22:74:00:00:00/24
+  manufacturer: FamilyPhone AB
+  manufacturerUri: https://device-type.com
+  name: FamilyPh
+type: d3-device-type-assertion

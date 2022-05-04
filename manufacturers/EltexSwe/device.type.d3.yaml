@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c68e6e70-dccd-4a24-8061-2051492c74c8
+  macAddresses:
+  - 00:D0:78:00:00:00/24
+  manufacturer: Eltex of Sweden AB
+  manufacturerUri: https://device-type.com
+  name: EltexSwe
+type: d3-device-type-assertion

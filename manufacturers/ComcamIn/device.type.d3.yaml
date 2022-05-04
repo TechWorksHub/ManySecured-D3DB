@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fdd8ef7-b1b3-442d-8505-65ca4a030c2e
+  macAddresses:
+  - 00:D0:7B:00:00:00/24
+  manufacturer: Comcam International Inc
+  manufacturerUri: https://device-type.com
+  name: ComcamIn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23bee64c-1dea-42e1-890d-610f4cd7be9c
+  macAddresses:
+  - 00:08:84:00:00:00/24
+  manufacturer: Index Braille AB
+  manufacturerUri: https://device-type.com
+  name: IndexBra
+type: d3-device-type-assertion

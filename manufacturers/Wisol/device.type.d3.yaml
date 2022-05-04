@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 863b7419-fd3d-4b32-b436-aec003323897
+  macAddresses:
+  - 48:5A:3F:00:00:00/24
+  - 70:2C:1F:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Wisol
+type: d3-device-type-assertion

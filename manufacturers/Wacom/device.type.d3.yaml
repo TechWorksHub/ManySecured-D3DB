@@ -1,0 +1,11 @@
+credentialSubject:
+  id: d98b4294-8b57-4f7e-afab-30b9388b8d3e
+  macAddresses:
+  - 44:68:0C:00:00:00/24
+  - 68:A8:E1:00:00:00/24
+  - 88:4A:70:00:00:00/24
+  - BC:06:2D:00:00:00/24
+  manufacturer: Wacom Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Wacom
+type: d3-device-type-assertion

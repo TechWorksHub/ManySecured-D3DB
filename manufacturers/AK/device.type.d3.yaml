@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7afbe219-bedd-4fcf-80b1-61d491856ae7
+  macAddresses:
+  - 00:E1:75:00:00:00/24
+  manufacturer: AK-Systems Ltd
+  manufacturerUri: https://device-type.com
+  name: AK
+type: d3-device-type-assertion

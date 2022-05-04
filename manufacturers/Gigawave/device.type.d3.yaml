@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 73a99ffd-3b16-4295-bea6-f60549a7c66d
+  macAddresses:
+  - 00:0F:8C:00:00:00/24
+  - 54:04:96:00:00:00/24
+  - 8C:AE:49:A0:00:00/28
+  manufacturer: Gigawavetech Pte Ltd
+  manufacturerUri: https://device-type.com
+  name: Gigawave
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf07fa11-8623-4d17-b2d2-3f09de4cee02
+  macAddresses:
+  - 00:A0:A1:00:00:00/24
+  manufacturer: Epic Data Inc.
+  manufacturerUri: https://device-type.com
+  name: EpicData
+type: d3-device-type-assertion

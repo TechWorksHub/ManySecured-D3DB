@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c99b8515-0f70-43be-b2e6-253cea641274
+  macAddresses:
+  - 00:06:D9:00:00:00/24
+  manufacturer: IPM-Net S.p.A.
+  manufacturerUri: https://device-type.com
+  name: IPM-Net
+type: d3-device-type-assertion

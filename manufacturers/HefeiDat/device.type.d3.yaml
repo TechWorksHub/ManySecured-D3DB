@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7f114e10-be87-4d27-b4b0-e4d9e0df7aba
+  macAddresses:
+  - 9C:1C:6D:00:00:00/24
+  - DC:4A:9E:C0:00:00/28
+  manufacturer: Hefei Datang Storage Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: HefeiDat
+type: d3-device-type-assertion

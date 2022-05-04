@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dbc5f75a-a350-44bb-9d36-ff212a3d7b26
+  macAddresses:
+  - 00:1F:93:00:00:00/24
+  - 00:D0:B2:00:00:00/24
+  manufacturer: Xiotech Corporation
+  manufacturerUri: https://device-type.com
+  name: Xiotech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02ba5316-db6c-44f7-85e3-f132b588d8bc
+  macAddresses:
+  - A0:FE:91:00:00:00/24
+  manufacturer: AVAT Automation GmbH
+  manufacturerUri: https://device-type.com
+  name: AVATAuto
+type: d3-device-type-assertion

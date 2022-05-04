@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 983e4184-485b-46dc-b3a0-c953da56179f
+  macAddresses:
+  - 44:EA:4B:00:00:00/24
+  manufacturer: Actlas Inc.
+  manufacturerUri: https://device-type.com
+  name: Actlas
+type: d3-device-type-assertion

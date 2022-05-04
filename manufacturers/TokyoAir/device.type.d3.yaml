@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5da2fb48-184c-4c5d-b33d-60fb54ffa33c
+  macAddresses:
+  - 00:12:50:00:00:00/24
+  manufacturer: Tokyo Aircaft Instrument Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: TokyoAir
+type: d3-device-type-assertion

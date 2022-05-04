@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d44ec200-fd6b-428b-8478-ed7cd61de00d
+  macAddresses:
+  - 00:11:D6:00:00:00/24
+  manufacturer: HandEra, Inc.
+  manufacturerUri: https://device-type.com
+  name: HandEra
+type: d3-device-type-assertion

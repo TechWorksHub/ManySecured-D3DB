@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4dc0545a-ceda-4ed5-92bc-5f257960b2a7
+  macAddresses:
+  - 00:10:5E:00:00:00/24
+  manufacturer: Spirent plc, Service Assurance Broadband
+  manufacturerUri: https://device-type.com
+  name: SpirentS
+type: d3-device-type-assertion

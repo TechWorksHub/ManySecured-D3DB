@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a6e0f48-0b72-482b-a070-4b8c11c6efff
+  macAddresses:
+  - 00:1D:CA:00:00:00/24
+  manufacturer: PAV Electronics Limited
+  manufacturerUri: https://device-type.com
+  name: PAVElect
+type: d3-device-type-assertion

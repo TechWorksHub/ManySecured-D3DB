@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9a11bf0-3063-4015-a86e-5ccd775e9213
+  macAddresses:
+  - 00:00:33:00:00:00/24
+  manufacturer: Egan Machinery Company
+  manufacturerUri: https://device-type.com
+  name: EganMach
+type: d3-device-type-assertion

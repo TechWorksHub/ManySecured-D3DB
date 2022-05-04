@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c719c781-0b18-4135-8f3b-968c443e1211
+  macAddresses:
+  - 0C:4F:5A:00:00:00/24
+  manufacturer: ASA-RT s.r.l.
+  manufacturerUri: https://device-type.com
+  name: ASA-RT
+type: d3-device-type-assertion

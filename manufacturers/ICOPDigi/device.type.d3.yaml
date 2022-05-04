@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ad617cc-e8ba-43e7-90fb-b895be6cc82e
+  macAddresses:
+  - 00:1B:BE:00:00:00/24
+  manufacturer: ICOP Digital
+  manufacturerUri: https://device-type.com
+  name: ICOPDigi
+type: d3-device-type-assertion

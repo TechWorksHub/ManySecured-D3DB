@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf04fde0-8c5d-4c93-bb85-9fe8cc81a53d
+  macAddresses:
+  - 00:E0:E0:00:00:00/24
+  manufacturer: Si Electronics, Ltd.
+  manufacturerUri: https://device-type.com
+  name: SiElectr
+type: d3-device-type-assertion

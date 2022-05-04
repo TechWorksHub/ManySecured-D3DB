@@ -1,0 +1,11 @@
+credentialSubject:
+  id: d521912f-aa58-4cfc-96d1-0e452aa5e573
+  macAddresses:
+  - 00:03:2C:00:00:00/24
+  - 00:12:93:00:00:00/24
+  - 00:50:C2:1A:20:00/36
+  - 10:DC:B6:10:00:00/28
+  manufacturer: ABB Switzerland Ltd
+  manufacturerUri: https://device-type.com
+  name: ABBSwitz
+type: d3-device-type-assertion

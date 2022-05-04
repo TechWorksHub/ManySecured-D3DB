@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8d47d70-dea1-40dc-a674-d4dcf6428140
+  macAddresses:
+  - 00:0E:BC:00:00:00/24
+  manufacturer: Paragon Fidelity GmbH
+  manufacturerUri: https://device-type.com
+  name: ParagonF
+type: d3-device-type-assertion

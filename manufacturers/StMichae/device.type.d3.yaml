@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f697d58c-1273-4455-ac5c-56b5b4e15f5e
+  macAddresses:
+  - 00:50:C2:34:20:00/36
+  - 00:50:C2:6F:F0:00/36
+  - 00:50:C2:9B:70:00/36
+  - 00:50:C2:BB:20:00/36
+  manufacturer: St. Michael Strategies
+  manufacturerUri: https://device-type.com
+  name: StMichae
+type: d3-device-type-assertion

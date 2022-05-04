@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e6a84fa3-5252-48a3-8138-9fad3697741d
+  macAddresses:
+  - 94:F2:78:00:00:00/24
+  - D0:47:C1:00:00:00/24
+  manufacturer: Elma Electronic
+  manufacturerUri: https://device-type.com
+  name: ElmaElec
+type: d3-device-type-assertion

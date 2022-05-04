@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d9cc5476-1c11-4961-b8d7-a6e5c86247f1
+  macAddresses:
+  - 00:50:C2:41:20:00/36
+  - 00:50:C2:93:F0:00/36
+  manufacturer: TSB Solutions Inc.
+  manufacturerUri: https://device-type.com
+  name: TSBSolut
+type: d3-device-type-assertion

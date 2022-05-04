@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ffbb28d2-dcdc-4430-9c7a-367b264db55e
+  macAddresses:
+  - 00:10:34:00:00:00/24
+  manufacturer: GNP Computers
+  manufacturerUri: https://device-type.com
+  name: GNPCompu
+type: d3-device-type-assertion

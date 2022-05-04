@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ba83b4f9-3f1e-47aa-bb4e-a5e1a4139837
+  macAddresses:
+  - 00:04:94:00:00:00/24
+  - 00:10:E7:00:00:00/24
+  - 00:20:D6:00:00:00/24
+  manufacturer: Breezecom, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Breezeco
+type: d3-device-type-assertion

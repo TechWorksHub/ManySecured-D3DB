@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 128abf32-e9d9-4d34-9aee-e06007b5b411
+  macAddresses:
+  - 00:A0:01:00:00:00/24
+  manufacturer: DRS Signal Solutions
+  manufacturerUri: https://device-type.com
+  name: DRSSigna
+type: d3-device-type-assertion

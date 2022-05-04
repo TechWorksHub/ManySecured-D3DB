@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b947e95d-7c70-4920-8a8f-599381b380b9
+  macAddresses:
+  - 00:14:B5:00:00:00/24
+  manufacturer: Physiometrix,Inc
+  manufacturerUri: https://device-type.com
+  name: Physiome
+type: d3-device-type-assertion

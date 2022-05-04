@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5d3093e-cf04-4090-b43e-440a9a7e8b80
+  macAddresses:
+  - 00:A0:10:00:00:00/24
+  manufacturer: Syslogic Datentechnik Ag
+  manufacturerUri: https://device-type.com
+  name: Syslogic
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 369eaeb8-c490-4830-bd33-649216229586
+  macAddresses:
+  - 70:B3:D5:67:40:00/36
+  - F8:99:55:00:00:00/24
+  manufacturer: Fortress Cyber Security
+  manufacturerUri: https://device-type.com
+  name: Fortress
+type: d3-device-type-assertion

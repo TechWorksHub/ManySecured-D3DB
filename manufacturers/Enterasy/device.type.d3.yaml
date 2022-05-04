@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 97a90a94-c28e-4cf7-9ddf-f795c80e6501
+  macAddresses:
+  - 00:01:F4:00:00:00/24
+  - 00:11:88:00:00:00/24
+  - 00:1F:45:00:00:00/24
+  - 20:B3:99:00:00:00/24
+  manufacturer: Enterasys
+  manufacturerUri: https://device-type.com
+  name: Enterasy
+type: d3-device-type-assertion

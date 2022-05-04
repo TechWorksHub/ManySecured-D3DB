@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5454a33d-1613-40ce-abd2-3d43109688b7
+  macAddresses:
+  - 00:60:FB:00:00:00/24
+  manufacturer: Packeteer, Inc.
+  manufacturerUri: https://device-type.com
+  name: Packetee
+type: d3-device-type-assertion

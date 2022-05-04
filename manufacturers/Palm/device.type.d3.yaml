@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6b0ee159-990f-4ed7-b2dc-6a763bace8bc
+  macAddresses:
+  - 00:07:E0:00:00:00/24
+  - 00:1D:FE:00:00:00/24
+  - 00:50:C2:0D:40:00/36
+  manufacturer: Palm Inc.
+  manufacturerUri: https://device-type.com
+  name: Palm
+type: d3-device-type-assertion

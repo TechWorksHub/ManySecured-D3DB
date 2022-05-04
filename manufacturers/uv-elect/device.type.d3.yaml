@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74d9888b-c1fb-466a-b215-1f356046cb29
+  macAddresses:
+  - 00:22:27:00:00:00/24
+  manufacturer: uv-electronic GmbH
+  manufacturerUri: https://device-type.com
+  name: uv-elect
+type: d3-device-type-assertion

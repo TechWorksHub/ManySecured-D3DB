@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0982cfd9-cc87-4e77-827a-b497305e9dc3
+  macAddresses:
+  - 00:11:83:00:00:00/24
+  - 00:18:67:00:00:00/24
+  manufacturer: Datalogic ADC, Inc.
+  manufacturerUri: https://device-type.com
+  name: Datalogi
+type: d3-device-type-assertion

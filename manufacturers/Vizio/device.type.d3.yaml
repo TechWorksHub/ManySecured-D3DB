@@ -1,0 +1,17 @@
+credentialSubject:
+  id: 789c2b6f-4d6a-4f86-8467-cec7f946523f
+  macAddresses:
+  - 00:19:9D:00:00:00/24
+  - 00:6B:9E:00:00:00/24
+  - 00:BD:3E:00:00:00/24
+  - 0C:8B:7D:00:00:00/24
+  - 2C:64:1F:00:00:00/24
+  - 3C:9B:D6:00:00:00/24
+  - A0:6A:44:00:00:00/24
+  - A4:8D:3B:00:00:00/24
+  - C4:1C:FF:00:00:00/24
+  - CC:95:D7:00:00:00/24
+  manufacturer: Vizio, Inc
+  manufacturerUri: https://device-type.com
+  name: Vizio
+type: d3-device-type-assertion

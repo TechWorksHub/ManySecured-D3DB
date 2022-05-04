@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 143d0d5e-62d9-4c88-a2da-5bbf76da10ed
+  macAddresses:
+  - 1C:59:74:A0:00:00/28
+  - 70:B3:D5:7C:90:00/36
+  manufacturer: Council Rock
+  manufacturerUri: https://device-type.com
+  name: CouncilR
+type: d3-device-type-assertion

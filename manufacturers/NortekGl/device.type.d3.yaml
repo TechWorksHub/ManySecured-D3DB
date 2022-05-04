@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5de5dc95-36ce-407c-a582-7a97490c6d6f
+  macAddresses:
+  - 70:B3:D5:4D:40:00/36
+  manufacturer: Nortek Global HVAC
+  manufacturerUri: https://device-type.com
+  name: NortekGl
+type: d3-device-type-assertion

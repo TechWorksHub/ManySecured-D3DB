@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c01d319a-2fd3-4ee2-96a9-20d934a11fa7
+  macAddresses:
+  - 00:80:61:00:00:00/24
+  manufacturer: Litton Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Litton
+type: d3-device-type-assertion

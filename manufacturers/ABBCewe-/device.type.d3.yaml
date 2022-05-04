@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ea27582-fe63-4edb-9edf-bd52fce9f329
+  macAddresses:
+  - 00:0C:62:00:00:00/24
+  manufacturer: ABB AB, Cewe-Control
+  manufacturerUri: https://device-type.com
+  name: ABBCewe-
+type: d3-device-type-assertion

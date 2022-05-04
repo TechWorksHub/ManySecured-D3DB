@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ec201d2-e924-4248-8c46-855a3b242d13
+  macAddresses:
+  - 70:B3:D5:21:40:00/36
+  manufacturer: signalparser
+  manufacturerUri: https://device-type.com
+  name: signalpa
+type: d3-device-type-assertion

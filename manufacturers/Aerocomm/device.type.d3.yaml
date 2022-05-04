@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7eb5e4a7-eb42-4f28-a6a0-24a6bbcf3ff7
+  macAddresses:
+  - 00:50:67:00:00:00/24
+  manufacturer: Aerocomm, Inc.
+  manufacturerUri: https://device-type.com
+  name: Aerocomm
+type: d3-device-type-assertion

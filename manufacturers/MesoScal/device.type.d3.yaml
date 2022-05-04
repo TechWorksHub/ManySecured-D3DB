@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50815c87-d430-4fca-898c-639eabf75df9
+  macAddresses:
+  - 00:17:76:00:00:00/24
+  manufacturer: Meso Scale Diagnostics, LLC
+  manufacturerUri: https://device-type.com
+  name: MesoScal
+type: d3-device-type-assertion

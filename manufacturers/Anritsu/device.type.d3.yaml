@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45a8095b-fdeb-4d57-8b43-645a7ab1f99c
+  macAddresses:
+  - 00:00:91:00:00:00/24
+  - 00:02:B1:00:00:00/24
+  manufacturer: Anritsu Corporation
+  manufacturerUri: https://device-type.com
+  name: Anritsu
+type: d3-device-type-assertion

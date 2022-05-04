@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ae45b67a-0583-4b8a-9c14-1aeac0d80c51
+  macAddresses:
+  - 20:76:93:00:00:00/24
+  - A0:32:99:00:00:00/24
+  manufacturer: Lenovo (Beijing) Limited.
+  manufacturerUri: https://device-type.com
+  name: LenovoBe
+type: d3-device-type-assertion

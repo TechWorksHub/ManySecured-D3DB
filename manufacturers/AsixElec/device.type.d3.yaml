@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7da01397-3073-49a0-b5e8-c933c9f54129
+  macAddresses:
+  - 00:0E:C6:00:00:00/24
+  manufacturer: Asix Electronics Corp.
+  manufacturerUri: https://device-type.com
+  name: AsixElec
+type: d3-device-type-assertion

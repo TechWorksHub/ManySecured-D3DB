@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16331d55-fd38-42dd-afda-eecf2d53601a
+  macAddresses:
+  - 60:36:96:00:00:00/24
+  manufacturer: The Sapling Company
+  manufacturerUri: https://device-type.com
+  name: Sapling
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 118cd14c-92ef-4c8b-a58d-1a31381de9d2
+  macAddresses:
+  - 00:01:B7:00:00:00/24
+  manufacturer: Centos, Inc.
+  manufacturerUri: https://device-type.com
+  name: Centos
+type: d3-device-type-assertion

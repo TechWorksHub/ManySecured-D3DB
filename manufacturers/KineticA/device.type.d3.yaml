@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c8b0ac3-1a41-43eb-9fb3-6a9074717940
+  macAddresses:
+  - 58:92:0D:00:00:00/24
+  manufacturer: Kinetic Avionics Limited
+  manufacturerUri: https://device-type.com
+  name: KineticA
+type: d3-device-type-assertion

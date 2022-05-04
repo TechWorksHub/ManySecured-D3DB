@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 780e8b74-5fe0-4e14-9d4a-a006c4d30bb2
+  macAddresses:
+  - 00:1B:7D:00:00:00/24
+  manufacturer: CXR Anderson Jacobson
+  manufacturerUri: https://device-type.com
+  name: CXRAnder
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4805409c-a0f5-42f5-91de-f00d9bf14f2b
+  macAddresses:
+  - 00:55:DA:40:00:00/28
+  manufacturer: Datapath Limited
+  manufacturerUri: https://device-type.com
+  name: Datapath
+type: d3-device-type-assertion

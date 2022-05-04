@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 640c16af-93b3-4c8e-8959-8c144c53f0bb
+  macAddresses:
+  - 00:90:82:00:00:00/24
+  manufacturer: Force Institute
+  manufacturerUri: https://device-type.com
+  name: ForceIns
+type: d3-device-type-assertion

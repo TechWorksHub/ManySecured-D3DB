@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88af8c87-8152-4a7d-a80a-4459f138b056
+  macAddresses:
+  - 00:05:98:00:00:00/24
+  manufacturer: CRONOS S.r.l.
+  manufacturerUri: https://device-type.com
+  name: CRONOS
+type: d3-device-type-assertion

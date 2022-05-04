@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56cc8002-0d37-410e-bc84-40afa8b17061
+  macAddresses:
+  - 70:4C:ED:00:00:00/24
+  manufacturer: TMRG, Inc.
+  manufacturerUri: https://device-type.com
+  name: TMRG
+type: d3-device-type-assertion

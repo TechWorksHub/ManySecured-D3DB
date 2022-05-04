@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c85d321-b83a-41cf-9bfe-914fc276dc08
+  macAddresses:
+  - 00:E0:E4:00:00:00/24
+  manufacturer: FANUC ROBOTICS NORTH AMERICA, Inc.
+  manufacturerUri: https://device-type.com
+  name: FANUCROB
+type: d3-device-type-assertion

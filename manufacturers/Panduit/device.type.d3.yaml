@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60b44a63-bbd3-4629-ac18-5a866d3c2327
+  macAddresses:
+  - 00:0F:9C:00:00:00/24
+  manufacturer: Panduit Corp
+  manufacturerUri: https://device-type.com
+  name: Panduit
+type: d3-device-type-assertion

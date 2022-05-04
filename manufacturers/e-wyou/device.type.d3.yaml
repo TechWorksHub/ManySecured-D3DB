@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b92b8001-cd2b-4a94-a5f4-58c6451770c6
+  macAddresses:
+  - 00:0F:BE:00:00:00/24
+  manufacturer: e-w/you Inc.
+  manufacturerUri: https://device-type.com
+  name: e-wyou
+type: d3-device-type-assertion

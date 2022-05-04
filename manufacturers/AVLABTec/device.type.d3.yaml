@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b10da019-b7cb-47a5-bf47-430d2eb39259
+  macAddresses:
+  - 00:01:08:00:00:00/24
+  manufacturer: AVLAB Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: AVLABTec
+type: d3-device-type-assertion

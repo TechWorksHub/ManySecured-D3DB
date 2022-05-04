@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f598acd-2d2b-4a44-bda2-5333e40c0b69
+  macAddresses:
+  - 00:11:F4:00:00:00/24
+  manufacturer: woori-net
+  manufacturerUri: https://device-type.com
+  name: woori-ne
+type: d3-device-type-assertion

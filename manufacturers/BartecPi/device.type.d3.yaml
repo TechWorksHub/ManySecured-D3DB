@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3585f7d9-3392-40ea-937b-74a29e845ef9
+  macAddresses:
+  - C4:A1:0E:10:00:00/28
+  manufacturer: Bartec Pixavi As
+  manufacturerUri: https://device-type.com
+  name: BartecPi
+type: d3-device-type-assertion

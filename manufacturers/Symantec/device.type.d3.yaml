@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4351c675-5da4-49c0-8b3e-679c5e6f8330
+  macAddresses:
+  - 00:0D:D4:00:00:00/24
+  - 00:A0:65:00:00:00/24
+  - B4:A9:84:00:00:00/24
+  manufacturer: Symantec Corporation
+  manufacturerUri: https://device-type.com
+  name: Symantec
+type: d3-device-type-assertion

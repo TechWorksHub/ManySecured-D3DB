@@ -1,0 +1,12 @@
+credentialSubject:
+  id: d2638419-16c1-4ae5-bc86-9f36afe51089
+  macAddresses:
+  - A8:F9:4B:00:00:00/24
+  - CC:9D:A2:00:00:00/24
+  - E0:D9:E3:00:00:00/24
+  - E4:5A:D4:00:00:00/24
+  - E8:28:C1:00:00:00/24
+  manufacturer: Eltex Enterprise Ltd.
+  manufacturerUri: https://device-type.com
+  name: EltexEnt
+type: d3-device-type-assertion

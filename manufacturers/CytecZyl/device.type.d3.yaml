@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32cea4a3-d972-41de-a671-f52adc1e4369
+  macAddresses:
+  - 00:50:C2:EE:50:00/36
+  manufacturer: Cytec Zylindertechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: CytecZyl
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9870d268-1aad-48ab-a536-49aaa23930f9
+  macAddresses:
+  - 00:60:B1:00:00:00/24
+  manufacturer: Input/Output, Inc.
+  manufacturerUri: https://device-type.com
+  name: InputOut
+type: d3-device-type-assertion

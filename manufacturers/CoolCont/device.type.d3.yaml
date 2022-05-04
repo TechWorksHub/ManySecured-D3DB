@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ae5fac4-2849-4bd0-891b-7855a1441206
+  macAddresses:
+  - 28:3B:96:00:00:00/24
+  manufacturer: Cool Control LTD
+  manufacturerUri: https://device-type.com
+  name: CoolCont
+type: d3-device-type-assertion

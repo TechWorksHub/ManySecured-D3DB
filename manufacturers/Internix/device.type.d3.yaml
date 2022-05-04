@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3d02b17-c89c-4c31-9ee3-8b6074ffd091
+  macAddresses:
+  - 00:60:50:00:00:00/24
+  manufacturer: Internix Inc.
+  manufacturerUri: https://device-type.com
+  name: Internix
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d3b48504-c5aa-4b42-80cb-6abd6f66ac45
+  macAddresses:
+  - 00:15:65:00:00:00/24
+  - F4:B5:49:00:00:00/24
+  manufacturer: Xiamen Yealink Network Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: XiamenYe
+type: d3-device-type-assertion

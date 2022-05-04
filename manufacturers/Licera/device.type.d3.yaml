@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c5f05ba-57d2-4120-a061-273bb0ec0cf0
+  macAddresses:
+  - 00:26:11:00:00:00/24
+  manufacturer: Licera AB
+  manufacturerUri: https://device-type.com
+  name: Licera
+type: d3-device-type-assertion

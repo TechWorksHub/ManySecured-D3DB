@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0bace345-9eb0-4727-907d-3d65620fec53
+  macAddresses:
+  - D0:14:11:20:00:00/28
+  manufacturer: Evoco Labs CO., LTD
+  manufacturerUri: https://device-type.com
+  name: EvocoLab
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ec2588e8-89b2-49ac-8227-2aaeb281fa29
+  macAddresses:
+  - 18:74:E2:D0:00:00/28
+  - 70:B3:D5:11:C0:00/36
+  - 70:B3:D5:BB:A0:00/36
+  manufacturer: Samriddi Automations Pvt. Ltd.
+  manufacturerUri: https://device-type.com
+  name: Samriddi
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0242746f-8659-46fb-a7c7-51364b4d18e9
+  macAddresses:
+  - 34:D7:12:00:00:00/24
+  - B4:0B:44:00:00:00/24
+  manufacturer: Smartisan Digital Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Smartisa
+type: d3-device-type-assertion

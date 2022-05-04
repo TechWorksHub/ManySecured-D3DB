@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c84f9b9-7938-4b08-b3fa-fe7457d2f8b1
+  macAddresses:
+  - 34:82:DE:00:00:00/24
+  manufacturer: Kiio Inc
+  manufacturerUri: https://device-type.com
+  name: Kiio
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04a6a268-d782-487c-ba0e-5475852468c5
+  macAddresses:
+  - 80:E4:DA:70:00:00/28
+  manufacturer: Shortcut Labs
+  manufacturerUri: https://device-type.com
+  name: Shortcut
+type: d3-device-type-assertion

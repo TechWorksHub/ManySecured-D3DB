@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76ca4265-8529-4ea3-b95a-383f547be20b
+  macAddresses:
+  - 00:20:4D:00:00:00/24
+  manufacturer: Inovis Gmbh
+  manufacturerUri: https://device-type.com
+  name: Inovis
+type: d3-device-type-assertion

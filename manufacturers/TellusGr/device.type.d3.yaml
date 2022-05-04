@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ff1c5a2-b086-471c-b845-f2135fa7d166
+  macAddresses:
+  - 00:04:DB:00:00:00/24
+  manufacturer: Tellus Group Corp.
+  manufacturerUri: https://device-type.com
+  name: TellusGr
+type: d3-device-type-assertion

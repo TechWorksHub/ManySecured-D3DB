@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1dd79e9-4179-4a14-825a-2d3af60c871e
+  macAddresses:
+  - 00:D0:29:00:00:00/24
+  manufacturer: Wakefern Food Corporation
+  manufacturerUri: https://device-type.com
+  name: Wakefern
+type: d3-device-type-assertion

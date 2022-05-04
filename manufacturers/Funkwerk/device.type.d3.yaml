@@ -1,0 +1,14 @@
+credentialSubject:
+  id: ad25d49e-55ac-4e00-acb6-7c5ec9806438
+  macAddresses:
+  - 00:0D:62:00:00:00/24
+  - 00:50:C2:45:A0:00/36
+  - 00:50:C2:82:50:00/36
+  - 00:50:C2:86:90:00/36
+  - 00:50:C2:E2:D0:00/36
+  - 08:38:A5:00:00:00/24
+  - 20:CE:2A:E0:00:00/28
+  manufacturer: Funkwerk Dabendorf GmbH
+  manufacturerUri: https://device-type.com
+  name: Funkwerk
+type: d3-device-type-assertion

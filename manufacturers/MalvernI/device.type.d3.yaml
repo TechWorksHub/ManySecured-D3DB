@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78cdb81d-7967-43fa-893b-e3d991868f5a
+  macAddresses:
+  - 70:AD:54:00:00:00/24
+  manufacturer: Malvern Instruments Ltd
+  manufacturerUri: https://device-type.com
+  name: MalvernI
+type: d3-device-type-assertion

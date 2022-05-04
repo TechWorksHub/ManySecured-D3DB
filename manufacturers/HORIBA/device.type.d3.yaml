@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb54c524-d3c9-4a70-8193-6a538f28d861
+  macAddresses:
+  - 00:05:2B:00:00:00/24
+  manufacturer: HORIBA, Ltd.
+  manufacturerUri: https://device-type.com
+  name: HORIBA
+type: d3-device-type-assertion

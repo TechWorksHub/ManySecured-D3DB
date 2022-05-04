@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88adec2a-2afe-405e-8798-7e956049879e
+  macAddresses:
+  - 38:43:E5:00:00:00/24
+  manufacturer: Grotech Inc
+  manufacturerUri: https://device-type.com
+  name: Grotech
+type: d3-device-type-assertion

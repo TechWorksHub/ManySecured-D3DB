@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 996f779c-5c90-4392-8873-a06a10cfab3d
+  macAddresses:
+  - 00:0A:4F:00:00:00/24
+  - 00:50:C2:03:C0:00/36
+  manufacturer: Brain Boxes Limited
+  manufacturerUri: https://device-type.com
+  name: BrainBox
+type: d3-device-type-assertion

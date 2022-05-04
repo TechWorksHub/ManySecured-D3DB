@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d015b05-2185-4d6d-ad4e-85f0e7b68de8
+  macAddresses:
+  - 00:30:30:00:00:00/24
+  manufacturer: Harmonix Corporation
+  manufacturerUri: https://device-type.com
+  name: Harmonix
+type: d3-device-type-assertion

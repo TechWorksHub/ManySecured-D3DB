@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc3afe4a-7906-4659-ae64-6f1610167dd1
+  macAddresses:
+  - 68:3E:02:00:00:00/24
+  manufacturer: SIEMENS AG, Digital Factory, Motion Control System
+  manufacturerUri: https://device-type.com
+  name: SIEMENSD
+type: d3-device-type-assertion

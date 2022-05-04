@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7aac9d36-790f-405a-8407-ca6c454dd95b
+  macAddresses:
+  - 00:50:C2:21:A0:00/36
+  - 14:A9:E3:00:00:00/24
+  manufacturer: Mst Systems Limited
+  manufacturerUri: https://device-type.com
+  name: Mst
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 036676ec-599a-41f6-a7c7-60898e4e1c19
+  macAddresses:
+  - AC:E5:F0:00:00:00/24
+  manufacturer: Doppler Labs
+  manufacturerUri: https://device-type.com
+  name: DopplerL
+type: d3-device-type-assertion

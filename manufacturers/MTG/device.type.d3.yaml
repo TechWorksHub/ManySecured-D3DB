@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc078ecd-2600-4c4d-8a8f-1b49c93c7947
+  macAddresses:
+  - 74:34:00:00:00:00/24
+  manufacturer: MTG Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: MTG
+type: d3-device-type-assertion

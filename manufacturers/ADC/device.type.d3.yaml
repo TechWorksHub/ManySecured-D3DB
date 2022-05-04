@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3b2c5418-3f93-4adf-ad69-f1da2de23c47
+  macAddresses:
+  - 38:06:B4:00:00:00/24
+  - EC:42:B4:00:00:00/24
+  manufacturer: A.D.C. GmbH
+  manufacturerUri: https://device-type.com
+  name: ADC
+type: d3-device-type-assertion

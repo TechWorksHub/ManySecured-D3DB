@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b64ab49d-950b-4c67-ba2d-7791d0e37d10
+  macAddresses:
+  - 00:50:C2:C9:F0:00/36
+  - C0:D3:91:90:00:00/28
+  manufacturer: xxter b.v.
+  manufacturerUri: https://device-type.com
+  name: xxter
+type: d3-device-type-assertion

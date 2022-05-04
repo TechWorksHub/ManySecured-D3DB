@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5edd51f-e237-4b9f-bb9a-aede6b7c3c3d
+  macAddresses:
+  - 00:00:25:00:00:00/24
+  manufacturer: Ramtek Corp.
+  manufacturerUri: https://device-type.com
+  name: Ramtek
+type: d3-device-type-assertion

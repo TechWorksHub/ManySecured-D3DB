@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 152a8c57-269f-4d9d-970e-0e98b089711e
+  macAddresses:
+  - 00:15:C3:00:00:00/24
+  manufacturer: Ruf Telematik AG
+  manufacturerUri: https://device-type.com
+  name: RufTelem
+type: d3-device-type-assertion

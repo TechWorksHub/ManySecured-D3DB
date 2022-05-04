@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d40cc998-640c-4f3a-903e-fd5d0be9cfee
+  macAddresses:
+  - 00:0A:CB:00:00:00/24
+  manufacturer: XPAK MSA Group
+  manufacturerUri: https://device-type.com
+  name: XPAKMSAG
+type: d3-device-type-assertion

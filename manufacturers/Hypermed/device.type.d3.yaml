@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13e2445b-849d-4669-9ceb-5a1ea2c0ee9a
+  macAddresses:
+  - 00:1B:75:00:00:00/24
+  manufacturer: Hypermedia Systems
+  manufacturerUri: https://device-type.com
+  name: Hypermed
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9d42388d-76ec-4c39-bfcf-38e44d0d8847
+  macAddresses:
+  - 00:15:93:00:00:00/24
+  - 00:1A:BC:00:00:00/24
+  manufacturer: U4EA Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: U4EATech
+type: d3-device-type-assertion

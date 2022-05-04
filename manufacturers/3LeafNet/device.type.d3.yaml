@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 161bb6aa-780f-4770-b463-17fb817d253d
+  macAddresses:
+  - 00:16:A1:00:00:00/24
+  manufacturer: 3Leaf Networks
+  manufacturerUri: https://device-type.com
+  name: 3LeafNet
+type: d3-device-type-assertion

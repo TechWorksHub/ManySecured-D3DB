@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cbc4c9f8-cede-494b-ac05-f196c63f56c7
+  macAddresses:
+  - 00:A0:5F:00:00:00/24
+  manufacturer: BTG Electronics Design BV
+  manufacturerUri: https://device-type.com
+  name: BTGElect
+type: d3-device-type-assertion

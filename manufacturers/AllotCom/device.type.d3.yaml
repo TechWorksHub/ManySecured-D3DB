@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b5edd960-8979-477c-b467-4d320e92f8a6
+  macAddresses:
+  - 00:09:38:00:00:00/24
+  manufacturer: Allot Communications
+  manufacturerUri: https://device-type.com
+  name: AllotCom
+type: d3-device-type-assertion

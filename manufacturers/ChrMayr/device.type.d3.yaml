@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74a1cd39-1d61-4924-885a-48f38443bebf
+  macAddresses:
+  - 00:04:7F:00:00:00/24
+  manufacturer: Chr. Mayr GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: ChrMayr
+type: d3-device-type-assertion

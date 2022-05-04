@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7e384898-0757-4ec0-bf3b-62ac888263a1
+  macAddresses:
+  - 00:A0:BB:00:00:00/24
+  manufacturer: Hilan Gmbh
+  manufacturerUri: https://device-type.com
+  name: Hilan
+type: d3-device-type-assertion

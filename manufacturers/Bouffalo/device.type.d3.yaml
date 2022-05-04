@@ -1,0 +1,13 @@
+credentialSubject:
+  id: c235bb24-f7e5-4151-9aa7-edd037f5f889
+  macAddresses:
+  - 7C:B9:4C:00:00:00/24
+  - A8:17:10:00:00:00/24
+  - AC:D8:29:00:00:00/24
+  - B4:0E:CF:00:00:00/24
+  - C4:D7:FD:00:00:00/24
+  - FC:13:F0:00:00:00/24
+  manufacturer: Bouffalo Lab (Nanjing) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Bouffalo
+type: d3-device-type-assertion

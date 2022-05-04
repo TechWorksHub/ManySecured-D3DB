@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d7faaef-0236-4e17-87cc-a4ebcb1118f9
+  macAddresses:
+  - 00:1F:04:00:00:00/24
+  manufacturer: Granch Ltd.
+  manufacturerUri: https://device-type.com
+  name: Granch
+type: d3-device-type-assertion

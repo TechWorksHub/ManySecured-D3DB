@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de578b3f-9218-4dd3-bceb-702e2920f3d4
+  macAddresses:
+  - 00:90:C1:00:00:00/24
+  manufacturer: Peco II, Inc.
+  manufacturerUri: https://device-type.com
+  name: PecoII
+type: d3-device-type-assertion

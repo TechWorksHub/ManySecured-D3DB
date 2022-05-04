@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf50acd7-b5cc-4412-929c-b4c854287047
+  macAddresses:
+  - 00:50:EF:00:00:00/24
+  manufacturer: SPE Systemhaus GmbH
+  manufacturerUri: https://device-type.com
+  name: SPESyste
+type: d3-device-type-assertion

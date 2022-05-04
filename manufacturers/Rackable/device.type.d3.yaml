@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b98940ac-aa90-49bb-817c-436d8064ea12
+  macAddresses:
+  - 00:19:40:00:00:00/24
+  manufacturer: Rackable Systems
+  manufacturerUri: https://device-type.com
+  name: Rackable
+type: d3-device-type-assertion

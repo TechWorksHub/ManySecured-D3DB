@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f53a820b-cee4-4278-8387-1ff78c51ba4a
+  macAddresses:
+  - 00:09:0E:00:00:00/24
+  manufacturer: Helix Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: HelixTec
+type: d3-device-type-assertion

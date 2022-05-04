@@ -1,0 +1,20 @@
+credentialSubject:
+  id: e52a86f1-a78a-4e12-afbb-231505bf87c1
+  macAddresses:
+  - 00:04:0E:00:00:00/24
+  - 00:15:0C:00:00:00/24
+  - 00:1A:4F:00:00:00/24
+  - 00:1C:4A:00:00:00/24
+  - 00:1F:3F:00:00:00/24
+  - 00:24:FE:00:00:00/24
+  - 08:96:D7:00:00:00/24
+  - 24:65:11:00:00:00/24
+  - 34:31:C4:00:00:00/24
+  - 34:81:C4:00:00:00/24
+  - 9C:C7:A6:00:00:00/24
+  - BC:05:43:00:00:00/24
+  - C0:25:06:00:00:00/24
+  manufacturer: AVM GmbH
+  manufacturerUri: https://device-type.com
+  name: AVM
+type: d3-device-type-assertion

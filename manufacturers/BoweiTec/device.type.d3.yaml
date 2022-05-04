@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cf037b78-a1be-41b4-bbd8-5fea91ddeb8d
+  macAddresses:
+  - 10:B3:6F:00:00:00/24
+  - 2C:D1:41:60:00:00/28
+  manufacturer: Bowei Technology Company Limited
+  manufacturerUri: https://device-type.com
+  name: BoweiTec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 800fade4-51f2-4c6a-9206-369bd3b5e130
+  macAddresses:
+  - 00:02:1B:00:00:00/24
+  - 00:10:DA:00:00:00/24
+  manufacturer: Kollmorgen-Servotronix
+  manufacturerUri: https://device-type.com
+  name: Kollmorg
+type: d3-device-type-assertion

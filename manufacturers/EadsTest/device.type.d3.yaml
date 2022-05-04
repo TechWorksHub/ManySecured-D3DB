@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc410491-aef9-465c-820b-fd698305e8c3
+  macAddresses:
+  - 00:50:C2:5E:70:00/36
+  manufacturer: Eads Test & Services
+  manufacturerUri: https://device-type.com
+  name: EadsTest
+type: d3-device-type-assertion

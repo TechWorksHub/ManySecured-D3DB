@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e5352c2-ac27-42e9-a0df-93bf59e613c3
+  macAddresses:
+  - 00:07:49:00:00:00/24
+  manufacturer: CENiX Inc.
+  manufacturerUri: https://device-type.com
+  name: CENiX
+type: d3-device-type-assertion

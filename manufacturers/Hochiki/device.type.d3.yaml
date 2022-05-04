@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba2b9346-a3a5-4e84-a760-122d6841cd09
+  macAddresses:
+  - 00:0A:A6:00:00:00/24
+  manufacturer: Hochiki Corporation
+  manufacturerUri: https://device-type.com
+  name: Hochiki
+type: d3-device-type-assertion

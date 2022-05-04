@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5eec7605-3045-442b-8f86-e94f86bd56e4
+  macAddresses:
+  - 00:50:C2:3F:50:00/36
+  - 00:50:C2:BE:00:00/36
+  manufacturer: Phaedrus Limited
+  manufacturerUri: https://device-type.com
+  name: Phaedrus
+type: d3-device-type-assertion

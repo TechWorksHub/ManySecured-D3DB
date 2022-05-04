@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ab7d51c5-d560-4a23-83ad-6fd2a3da4400
+  macAddresses:
+  - 00:80:30:00:00:00/24
+  - 70:B3:D5:CD:80:00/36
+  - 98:AA:FC:30:00:00/28
+  manufacturer: Nexus Electronics
+  manufacturerUri: https://device-type.com
+  name: NexusEle
+type: d3-device-type-assertion

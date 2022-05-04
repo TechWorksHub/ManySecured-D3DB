@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9cee323-b907-4e5c-bef8-03c2b12e9606
+  macAddresses:
+  - 00:15:04:00:00:00/24
+  manufacturer: Game Plus Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: GamePlus
+type: d3-device-type-assertion

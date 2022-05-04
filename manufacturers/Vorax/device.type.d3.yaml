@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e347b0e-33f3-4726-8b92-b1853715182c
+  macAddresses:
+  - 00:A0:A7:00:00:00/24
+  manufacturer: Vorax Corporation
+  manufacturerUri: https://device-type.com
+  name: Vorax
+type: d3-device-type-assertion

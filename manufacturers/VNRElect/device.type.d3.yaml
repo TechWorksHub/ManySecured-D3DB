@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1a1beb5-fa58-43f6-9ae2-131dc84f926a
+  macAddresses:
+  - 00:50:C2:03:B0:00/36
+  manufacturer: VNR Electronique SA
+  manufacturerUri: https://device-type.com
+  name: VNRElect
+type: d3-device-type-assertion

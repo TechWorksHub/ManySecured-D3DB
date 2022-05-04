@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 17eaf759-bdbd-4249-aff0-06a334d7d518
+  macAddresses:
+  - 00:14:65:00:00:00/24
+  manufacturer: Novo Nordisk A/S
+  manufacturerUri: https://device-type.com
+  name: NovoNord
+type: d3-device-type-assertion

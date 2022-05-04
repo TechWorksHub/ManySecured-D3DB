@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 614aa6c1-e6f1-4d11-ab4d-e2c01cf94f9b
+  macAddresses:
+  - 00:00:97:00:00:00/24
+  - 00:01:44:00:00:00/24
+  - 00:12:48:00:00:00/24
+  - 00:15:30:00:00:00/24
+  - 00:60:48:00:00:00/24
+  - 08:00:1B:00:00:00/24
+  - 7C:C9:5A:00:00:00/24
+  - 8C:CF:09:00:00:00/24
+  manufacturer: Dell EMC
+  manufacturerUri: https://device-type.com
+  name: DellEMC
+type: d3-device-type-assertion

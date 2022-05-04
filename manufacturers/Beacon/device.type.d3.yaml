@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47705d5a-ccf0-4629-a3b0-0edf31b05011
+  macAddresses:
+  - 68:98:61:00:00:00/24
+  manufacturer: Beacon Inc
+  manufacturerUri: https://device-type.com
+  name: Beacon
+type: d3-device-type-assertion

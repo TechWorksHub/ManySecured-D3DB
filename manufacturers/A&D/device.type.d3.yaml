@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12a468fa-0b41-4a06-9590-407ec34c7a19
+  macAddresses:
+  - 00:09:1F:00:00:00/24
+  manufacturer: A&D Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: A&D
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 41fe2e73-4032-4d81-8c42-bacfb35d7a95
+  macAddresses:
+  - 00:17:6F:00:00:00/24
+  - 54:81:2D:00:00:00/24
+  - F4:02:23:00:00:00/24
+  manufacturer: PAX Computer Technology(Shenzhen) Ltd.
+  manufacturerUri: https://device-type.com
+  name: PAXCompu
+type: d3-device-type-assertion

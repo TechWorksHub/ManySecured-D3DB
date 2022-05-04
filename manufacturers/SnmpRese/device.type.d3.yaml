@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcfb597e-b4cd-4e56-a71c-ebade1465f13
+  macAddresses:
+  - 00:60:D0:00:00:00/24
+  manufacturer: Snmp Research Incorporated
+  manufacturerUri: https://device-type.com
+  name: SnmpRese
+type: d3-device-type-assertion

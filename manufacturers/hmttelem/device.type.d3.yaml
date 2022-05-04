@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c52648a-37b8-4581-9825-27b6663615ac
+  macAddresses:
+  - 70:B3:D5:EC:40:00/36
+  manufacturer: hmt telematik GmbH
+  manufacturerUri: https://device-type.com
+  name: hmttelem
+type: d3-device-type-assertion

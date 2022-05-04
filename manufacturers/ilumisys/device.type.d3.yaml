@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 96d588fd-14a5-4814-8e65-9c9bc7bf4eb8
+  macAddresses:
+  - 30:42:A1:00:00:00/24
+  manufacturer: ilumisys Inc. DBA Toggled
+  manufacturerUri: https://device-type.com
+  name: ilumisys
+type: d3-device-type-assertion

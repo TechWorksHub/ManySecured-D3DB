@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fdb4e440-5000-4007-b6a2-55fc3ccdd070
+  macAddresses:
+  - 00:09:A8:00:00:00/24
+  manufacturer: Eastmode Pte Ltd
+  manufacturerUri: https://device-type.com
+  name: Eastmode
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6b3c56f1-7cfa-423a-919e-72030ec19533
+  macAddresses:
+  - 00:1B:F9:00:00:00/24
+  - 5C:63:C9:00:00:00/24
+  manufacturer: Intellitect Water Ltd
+  manufacturerUri: https://device-type.com
+  name: Intellit
+type: d3-device-type-assertion

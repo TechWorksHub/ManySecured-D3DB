@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0559324-06de-4d1c-bb37-927f0a7f52d5
+  macAddresses:
+  - 00:60:BE:00:00:00/24
+  manufacturer: Webtronics
+  manufacturerUri: https://device-type.com
+  name: Webtroni
+type: d3-device-type-assertion

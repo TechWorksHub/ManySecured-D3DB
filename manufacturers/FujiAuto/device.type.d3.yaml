@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e291daab-f996-44db-a43c-5463c23c9956
+  macAddresses:
+  - 00:60:E5:00:00:00/24
+  manufacturer: Fuji Automation Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: FujiAuto
+type: d3-device-type-assertion

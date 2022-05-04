@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c513d0e7-4a5a-48a3-8712-c2b6409628ab
+  macAddresses:
+  - 00:60:CB:00:00:00/24
+  manufacturer: Hitachi Zosen Corporation
+  manufacturerUri: https://device-type.com
+  name: HitachiZ
+type: d3-device-type-assertion

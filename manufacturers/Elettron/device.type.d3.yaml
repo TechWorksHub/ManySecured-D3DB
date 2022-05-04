@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c48e81fb-ffb0-40c3-bbea-64843783ea39
+  macAddresses:
+  - 00:50:C2:44:A0:00/36
+  - 58:05:56:00:00:00/24
+  - 90:51:3F:00:00:00/24
+  manufacturer: Elettronica Santerno SpA
+  manufacturerUri: https://device-type.com
+  name: Elettron
+type: d3-device-type-assertion

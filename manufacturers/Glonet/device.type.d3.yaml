@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 037b403d-28d3-4fc7-8d13-6d6e4c37949d
+  macAddresses:
+  - 00:04:E5:00:00:00/24
+  manufacturer: Glonet Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Glonet
+type: d3-device-type-assertion

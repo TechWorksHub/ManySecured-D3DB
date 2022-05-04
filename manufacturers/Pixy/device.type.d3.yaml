@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4da32ce-79a0-43f8-859e-364c9b22948f
+  macAddresses:
+  - 00:50:C2:2D:50:00/36
+  manufacturer: Pixy Ag
+  manufacturerUri: https://device-type.com
+  name: Pixy
+type: d3-device-type-assertion

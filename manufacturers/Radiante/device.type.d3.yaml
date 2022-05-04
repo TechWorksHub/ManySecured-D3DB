@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0af02222-c32e-4ab2-9be9-cf158ed050bf
+  macAddresses:
+  - 00:0A:CE:00:00:00/24
+  manufacturer: Radiantech, Inc.
+  manufacturerUri: https://device-type.com
+  name: Radiante
+type: d3-device-type-assertion

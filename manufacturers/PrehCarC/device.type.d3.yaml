@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a85173fb-e9a1-449f-b496-f13b11af4038
+  macAddresses:
+  - 40:FA:7F:00:00:00/24
+  manufacturer: Preh Car Connect GmbH
+  manufacturerUri: https://device-type.com
+  name: PrehCarC
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 97c3cc7b-6d79-489d-9fb3-6818fda80dc1
+  macAddresses:
+  - 00:00:6B:00:00:00/24
+  - 08:00:69:00:00:00/24
+  manufacturer: Silicon Graphics
+  manufacturerUri: https://device-type.com
+  name: SiliconG
+type: d3-device-type-assertion

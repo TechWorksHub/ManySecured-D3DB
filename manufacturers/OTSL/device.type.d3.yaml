@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df6364ec-7310-4a50-8bfd-ea0f3275adcc
+  macAddresses:
+  - 9C:FF:BE:00:00:00/24
+  manufacturer: OTSL Inc.
+  manufacturerUri: https://device-type.com
+  name: OTSL
+type: d3-device-type-assertion

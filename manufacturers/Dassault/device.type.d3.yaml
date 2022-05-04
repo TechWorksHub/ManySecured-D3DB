@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfb1937a-8fd6-46fd-a32c-82443696c9da
+  macAddresses:
+  - 00:00:AE:00:00:00/24
+  manufacturer: Dassault Electronique
+  manufacturerUri: https://device-type.com
+  name: Dassault
+type: d3-device-type-assertion

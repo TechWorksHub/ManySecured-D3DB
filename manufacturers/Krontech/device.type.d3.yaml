@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7e22fc9f-0c21-4e5a-a479-f5d70dd65d56
+  macAddresses:
+  - 70:B3:D5:6E:90:00/36
+  - CC:D3:9D:60:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Krontech
+type: d3-device-type-assertion

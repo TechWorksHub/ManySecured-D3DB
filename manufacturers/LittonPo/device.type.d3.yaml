@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 44380a41-bb06-444c-98ea-b0c25e4e234e
+  macAddresses:
+  - 00:60:44:00:00:00/24
+  manufacturer: Litton/Poly-Scientific
+  manufacturerUri: https://device-type.com
+  name: LittonPo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 44f40c47-71bb-4a8f-a046-2442f552132b
+  macAddresses:
+  - 00:1E:DF:00:00:00/24
+  manufacturer: Master Industrialization Center Kista
+  manufacturerUri: https://device-type.com
+  name: MasterIn
+type: d3-device-type-assertion

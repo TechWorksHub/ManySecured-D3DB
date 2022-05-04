@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d98d717-0100-4249-96f1-ec10ca85a240
+  macAddresses:
+  - 44:96:2B:00:00:00/24
+  manufacturer: Aidon Oy
+  manufacturerUri: https://device-type.com
+  name: Aidon
+type: d3-device-type-assertion

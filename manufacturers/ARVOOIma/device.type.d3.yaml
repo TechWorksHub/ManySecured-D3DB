@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8a62e29b-1b84-4f86-91b1-5cbb8d4ad05e
+  macAddresses:
+  - 00:1E:22:00:00:00/24
+  - 00:50:C2:43:F0:00/36
+  manufacturer: ARVOO Imaging Products BV
+  manufacturerUri: https://device-type.com
+  name: ARVOOIma
+type: d3-device-type-assertion

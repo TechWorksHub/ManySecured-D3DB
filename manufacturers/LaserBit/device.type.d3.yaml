@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d2a7c8f-8ba7-43e6-929b-3300b9cfbdcf
+  macAddresses:
+  - 00:50:C2:19:30:00/36
+  manufacturer: LaserBit Communications Corp.
+  manufacturerUri: https://device-type.com
+  name: LaserBit
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e82b5c54-0d39-4188-86c6-a012cddef464
+  macAddresses:
+  - 00:0A:77:00:00:00/24
+  manufacturer: Bluewire Technologies LLC
+  manufacturerUri: https://device-type.com
+  name: Bluewire
+type: d3-device-type-assertion

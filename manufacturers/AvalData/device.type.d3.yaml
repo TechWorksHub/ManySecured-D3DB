@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5113b5c-41c8-4c47-8c70-c7b5d980e7c0
+  macAddresses:
+  - 00:80:B3:00:00:00/24
+  manufacturer: Aval Data Corporation
+  manufacturerUri: https://device-type.com
+  name: AvalData
+type: d3-device-type-assertion

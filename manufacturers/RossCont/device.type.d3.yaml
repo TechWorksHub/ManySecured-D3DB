@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89f15393-de3a-4c35-8543-f445cac5dffb
+  macAddresses:
+  - 00:21:B3:00:00:00/24
+  manufacturer: Ross Controls
+  manufacturerUri: https://device-type.com
+  name: RossCont
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc9d363b-c842-4378-9f3c-31d711cff72d
+  macAddresses:
+  - 00:60:91:00:00:00/24
+  manufacturer: First Pacific Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: FirstPac
+type: d3-device-type-assertion

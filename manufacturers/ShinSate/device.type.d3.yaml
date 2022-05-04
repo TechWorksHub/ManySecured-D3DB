@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e44d43c-afa5-46bb-9661-c016978d614f
+  macAddresses:
+  - 00:07:93:00:00:00/24
+  manufacturer: Shin Satellite Public Company Limited
+  manufacturerUri: https://device-type.com
+  name: ShinSate
+type: d3-device-type-assertion

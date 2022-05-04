@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 329e7ae8-9160-4a39-8fb2-b145a68567dc
+  macAddresses:
+  - 00:04:BF:00:00:00/24
+  - 00:50:C2:02:A0:00/36
+  manufacturer: VersaLogic Corp.
+  manufacturerUri: https://device-type.com
+  name: VersaLog
+type: d3-device-type-assertion

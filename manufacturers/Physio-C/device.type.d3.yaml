@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 404321bf-89ad-4e55-a99f-c8737e0f1115
+  macAddresses:
+  - 40:BD:9E:00:00:00/24
+  manufacturer: Physio-Control, Inc
+  manufacturerUri: https://device-type.com
+  name: Physio-C
+type: d3-device-type-assertion

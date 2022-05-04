@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03780137-cc2d-4e15-83c8-3f380c94174c
+  macAddresses:
+  - EC:E9:15:00:00:00/24
+  manufacturer: STI Ltd
+  manufacturerUri: https://device-type.com
+  name: STI
+type: d3-device-type-assertion

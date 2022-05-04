@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbf6b916-f9ce-4fd6-850d-e83b96807305
+  macAddresses:
+  - 00:20:B1:00:00:00/24
+  manufacturer: Comtech Research Inc.
+  manufacturerUri: https://device-type.com
+  name: ComtechR
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ecb5166-5e22-40ae-b539-541919ed28ab
+  macAddresses:
+  - 00:0E:A2:00:00:00/24
+  manufacturer: McAfee, Inc
+  manufacturerUri: https://device-type.com
+  name: McAfee
+type: d3-device-type-assertion

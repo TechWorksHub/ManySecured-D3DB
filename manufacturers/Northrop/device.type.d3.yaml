@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3abfa90f-a10a-4874-bffd-13210ed8485f
+  macAddresses:
+  - 00:19:8A:00:00:00/24
+  manufacturer: Northrop Grumman Systems Corp.
+  manufacturerUri: https://device-type.com
+  name: Northrop
+type: d3-device-type-assertion

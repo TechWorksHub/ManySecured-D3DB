@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccd5bd01-5284-467d-af5e-0b2fa3bf4f65
+  macAddresses:
+  - F4:EB:9F:00:00:00/24
+  manufacturer: Ellu Company 2019 SL
+  manufacturerUri: https://device-type.com
+  name: Ellu2019
+type: d3-device-type-assertion

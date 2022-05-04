@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d56a42bc-85bd-4f6c-bc97-ea4b0f09ce2b
+  macAddresses:
+  - 00:1F:B5:00:00:00/24
+  manufacturer: I/O Interconnect Inc.
+  manufacturerUri: https://device-type.com
+  name: IOInterc
+type: d3-device-type-assertion

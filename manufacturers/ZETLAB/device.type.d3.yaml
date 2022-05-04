@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bae9e765-50be-4fbd-aa19-fcda5ed00813
+  macAddresses:
+  - E8:98:C2:00:00:00/24
+  manufacturer: ZETLAB Company
+  manufacturerUri: https://device-type.com
+  name: ZETLAB
+type: d3-device-type-assertion

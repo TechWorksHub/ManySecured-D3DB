@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a38cf9c-7362-4cc1-b175-fab12da8c3c9
+  macAddresses:
+  - 00:0A:DE:00:00:00/24
+  manufacturer: Happy Communication Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: HappyCom
+type: d3-device-type-assertion

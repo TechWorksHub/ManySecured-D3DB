@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cebbe48-6dd5-4d58-8fdf-f7ea617afb67
+  macAddresses:
+  - 00:30:A5:00:00:00/24
+  manufacturer: Active Power
+  manufacturerUri: https://device-type.com
+  name: ActivePo
+type: d3-device-type-assertion

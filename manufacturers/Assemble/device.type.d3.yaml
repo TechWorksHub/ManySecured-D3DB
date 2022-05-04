@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60d0f008-65fd-48d9-ad1f-fb976d65e13a
+  macAddresses:
+  - 98:35:B8:00:00:00/24
+  manufacturer: Assembled Products Corporation
+  manufacturerUri: https://device-type.com
+  name: Assemble
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32e90b54-1b3a-4c7e-831f-d631957b8b52
+  macAddresses:
+  - 00:12:9B:00:00:00/24
+  manufacturer: E2S Electronic Engineering Solutions, S.L.
+  manufacturerUri: https://device-type.com
+  name: E2SElect
+type: d3-device-type-assertion

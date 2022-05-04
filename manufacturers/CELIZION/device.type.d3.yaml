@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 85a10a2a-6414-4c9f-99af-c5a5707b9b33
+  macAddresses:
+  - 5C:0C:BB:00:00:00/24
+  manufacturer: CELIZION Inc.
+  manufacturerUri: https://device-type.com
+  name: CELIZION
+type: d3-device-type-assertion

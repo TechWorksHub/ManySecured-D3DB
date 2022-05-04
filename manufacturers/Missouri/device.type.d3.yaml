@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ea5ce536-6199-4ed9-9a6e-539991a9dfd5
+  macAddresses:
+  - 00:08:6D:00:00:00/24
+  - 00:11:8C:00:00:00/24
+  manufacturer: Missouri FreeNet
+  manufacturerUri: https://device-type.com
+  name: Missouri
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f0733100-78ad-497d-b9a2-5976a157f40d
+  macAddresses:
+  - DC:E5:78:00:00:00/24
+  manufacturer: Experimental Factory of Scientific Engineering and Special Design
+    Department
+  manufacturerUri: https://device-type.com
+  name: Experime
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0698df7-48eb-41c4-bdc9-9a488d987635
+  macAddresses:
+  - 0C:EF:7C:00:00:00/24
+  manufacturer: AnaCom Inc
+  manufacturerUri: https://device-type.com
+  name: AnaCom
+type: d3-device-type-assertion

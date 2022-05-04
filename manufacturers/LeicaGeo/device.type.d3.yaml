@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32a08f9c-5d28-4959-9209-c9444e210ccc
+  macAddresses:
+  - 00:17:17:00:00:00/24
+  manufacturer: Leica Geosystems AG
+  manufacturerUri: https://device-type.com
+  name: LeicaGeo
+type: d3-device-type-assertion

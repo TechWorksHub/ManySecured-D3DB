@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 542d656f-1e75-4e5d-ac27-9eb87392037d
+  macAddresses:
+  - 5C:35:DA:00:00:00/24
+  manufacturer: There Corporation Oy
+  manufacturerUri: https://device-type.com
+  name: There
+type: d3-device-type-assertion

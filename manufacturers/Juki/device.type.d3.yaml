@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b965426-ec7d-439b-89a2-05da665edde4
+  macAddresses:
+  - 00:20:3F:00:00:00/24
+  manufacturer: Juki Corporation
+  manufacturerUri: https://device-type.com
+  name: Juki
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c45e3be-4f0b-4d7c-9c04-864ecec92f82
+  macAddresses:
+  - 00:50:B5:00:00:00/24
+  manufacturer: Fichet Securite Electronique
+  manufacturerUri: https://device-type.com
+  name: FichetSe
+type: d3-device-type-assertion

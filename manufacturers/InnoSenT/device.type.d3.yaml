@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ea93e8a4-bfbc-499f-9ae7-415cb5962895
+  macAddresses:
+  - 70:B3:D5:33:20:00/36
+  - 78:13:05:00:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: InnoSenT
+type: d3-device-type-assertion

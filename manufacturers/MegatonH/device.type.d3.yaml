@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65b5cc60-78c2-4648-b175-43248a0bc885
+  macAddresses:
+  - 00:50:78:00:00:00/24
+  manufacturer: Megaton House, Ltd.
+  manufacturerUri: https://device-type.com
+  name: MegatonH
+type: d3-device-type-assertion

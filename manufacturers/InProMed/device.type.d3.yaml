@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8b70e1d-3837-4be2-bc26-6ca35d23e6e5
+  macAddresses:
+  - 20:05:E8:00:00:00/24
+  manufacturer: OOO InProMedia
+  manufacturerUri: https://device-type.com
+  name: InProMed
+type: d3-device-type-assertion

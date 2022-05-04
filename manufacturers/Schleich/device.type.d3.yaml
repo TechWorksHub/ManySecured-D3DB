@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9797124-8c95-4f1b-866e-83f03571b86e
+  macAddresses:
+  - 00:08:53:00:00:00/24
+  manufacturer: Schleicher GmbH & Co. Relaiswerke KG
+  manufacturerUri: https://device-type.com
+  name: Schleich
+type: d3-device-type-assertion

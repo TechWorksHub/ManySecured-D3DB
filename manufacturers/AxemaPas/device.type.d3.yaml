@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c7d77d3-8ce5-4e04-8490-964138cdcf9f
+  macAddresses:
+  - F0:D7:67:00:00:00/24
+  manufacturer: Axema Passagekontroll AB
+  manufacturerUri: https://device-type.com
+  name: AxemaPas
+type: d3-device-type-assertion

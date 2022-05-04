@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7484a11-60a0-40e3-95ac-56007e960b2b
+  macAddresses:
+  - 00:30:9C:00:00:00/24
+  manufacturer: Timing Applications, Inc.
+  manufacturerUri: https://device-type.com
+  name: TimingAp
+type: d3-device-type-assertion

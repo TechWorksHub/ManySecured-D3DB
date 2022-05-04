@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf447150-5cca-4463-bb59-d933d6c19c35
+  macAddresses:
+  - 00:1E:96:00:00:00/24
+  manufacturer: Sepura Plc
+  manufacturerUri: https://device-type.com
+  name: Sepura
+type: d3-device-type-assertion

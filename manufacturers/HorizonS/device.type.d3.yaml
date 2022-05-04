@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ebe48777-7eca-4a35-bfc7-21a9f4678f79
+  macAddresses:
+  - 00:15:74:00:00:00/24
+  manufacturer: Horizon Semiconductors Ltd.
+  manufacturerUri: https://device-type.com
+  name: HorizonS
+type: d3-device-type-assertion

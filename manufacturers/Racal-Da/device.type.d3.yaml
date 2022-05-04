@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 08ef5a53-c16b-4fb8-b2ce-8c7f3b38911a
+  macAddresses:
+  - 00:07:01:00:00:00/24
+  - 02:07:01:00:00:00/24
+  - 02:70:01:00:00:00/24
+  manufacturer: Racal-Datacom
+  manufacturerUri: https://device-type.com
+  name: Racal-Da
+type: d3-device-type-assertion

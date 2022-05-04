@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8db22c99-7868-4be6-aca5-5fef92ff918b
+  macAddresses:
+  - 00:0F:E5:00:00:00/24
+  manufacturer: Mercury Security Corporation
+  manufacturerUri: https://device-type.com
+  name: MercuryS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1123cc04-867a-4d9c-aec0-62ea175498a0
+  macAddresses:
+  - 00:17:6E:00:00:00/24
+  manufacturer: Ducati Sistemi
+  manufacturerUri: https://device-type.com
+  name: DucatiSi
+type: d3-device-type-assertion

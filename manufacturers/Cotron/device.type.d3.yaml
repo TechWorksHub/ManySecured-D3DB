@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8611e93-f685-47f8-9618-2a98516266b7
+  macAddresses:
+  - 00:11:72:00:00:00/24
+  manufacturer: Cotron Corporation
+  manufacturerUri: https://device-type.com
+  name: Cotron
+type: d3-device-type-assertion

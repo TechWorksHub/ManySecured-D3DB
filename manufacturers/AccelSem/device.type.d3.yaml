@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d66f85e6-acfc-43fa-8d2f-36045820b727
+  macAddresses:
+  - 00:1F:81:00:00:00/24
+  manufacturer: Accel Semiconductor Corp
+  manufacturerUri: https://device-type.com
+  name: AccelSem
+type: d3-device-type-assertion

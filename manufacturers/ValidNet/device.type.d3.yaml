@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4bb4445-0ecb-4684-a480-d359017e8644
+  macAddresses:
+  - 00:90:BA:00:00:00/24
+  manufacturer: Valid Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: ValidNet
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 9957958e-8c32-43a6-84b9-dae1c431e120
+  macAddresses:
+  - 00:16:E1:00:00:00/24
+  - 00:24:52:00:00:00/24
+  - 70:B3:D5:54:40:00/36
+  - A4:E3:2E:00:00:00/24
+  - FC:D2:B6:C0:00:00/28
+  manufacturer: SiliconStor, Inc.
+  manufacturerUri: https://device-type.com
+  name: SiliconS
+type: d3-device-type-assertion

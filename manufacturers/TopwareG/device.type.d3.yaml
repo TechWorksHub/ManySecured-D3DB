@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e4fd5a3d-7a76-41a7-b4d9-db4929fe000b
+  macAddresses:
+  - 00:20:FE:00:00:00/24
+  manufacturer: Topware Inc. / Grand Computer
+  manufacturerUri: https://device-type.com
+  name: TopwareG
+type: d3-device-type-assertion

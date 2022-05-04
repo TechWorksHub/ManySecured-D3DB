@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40d6c524-3e2a-485a-970e-82d795b27e39
+  macAddresses:
+  - 00:23:DC:00:00:00/24
+  manufacturer: Benein, Inc
+  manufacturerUri: https://device-type.com
+  name: Benein
+type: d3-device-type-assertion

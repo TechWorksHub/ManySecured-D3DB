@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dacfaa54-7d0f-4634-b691-87fcafc7db86
+  macAddresses:
+  - 00:A0:EB:00:00:00/24
+  - 00:E0:7D:00:00:00/24
+  manufacturer: Encore Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: EncoreNe
+type: d3-device-type-assertion

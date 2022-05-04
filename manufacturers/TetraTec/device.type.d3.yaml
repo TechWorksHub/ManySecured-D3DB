@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2a2b53f-1160-41fb-8cd6-7985386e06b4
+  macAddresses:
+  - 00:0D:D0:00:00:00/24
+  manufacturer: TetraTec Instruments GmbH
+  manufacturerUri: https://device-type.com
+  name: TetraTec
+type: d3-device-type-assertion

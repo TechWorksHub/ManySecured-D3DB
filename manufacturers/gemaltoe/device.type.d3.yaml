@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d616efe4-bf51-42b1-8a82-826a80b07cf0
+  macAddresses:
+  - 00:1A:15:00:00:00/24
+  manufacturer: gemalto e-Payment
+  manufacturerUri: https://device-type.com
+  name: gemaltoe
+type: d3-device-type-assertion

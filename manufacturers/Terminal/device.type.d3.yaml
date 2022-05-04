@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f66c5abd-aaf8-40eb-b1bf-82fc7272f6d0
+  macAddresses:
+  - 00:11:C4:00:00:00/24
+  manufacturer: Terminales de Telecomunicacion Terrestre, S.L.
+  manufacturerUri: https://device-type.com
+  name: Terminal
+type: d3-device-type-assertion

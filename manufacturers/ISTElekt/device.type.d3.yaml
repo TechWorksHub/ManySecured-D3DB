@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 234fe536-4bb4-46eb-bff2-f75de716dd0c
+  macAddresses:
+  - 70:B3:D5:60:C0:00/36
+  - A0:22:4E:A0:00:00/28
+  manufacturer: IST ElektronikgesmbH
+  manufacturerUri: https://device-type.com
+  name: ISTElekt
+type: d3-device-type-assertion

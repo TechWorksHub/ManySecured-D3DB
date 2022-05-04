@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 156c3386-0d14-44b2-a044-97265647aab4
+  macAddresses:
+  - 00:0B:F3:00:00:00/24
+  - 70:B3:D5:05:50:00/36
+  manufacturer: Bae Systems
+  manufacturerUri: https://device-type.com
+  name: Bae
+type: d3-device-type-assertion

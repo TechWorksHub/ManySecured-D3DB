@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 836f215c-4a92-4b43-95cb-7ab359c1b6ee
+  macAddresses:
+  - 50:F2:61:00:00:00/24
+  manufacturer: Photon Sail Technologies
+  manufacturerUri: https://device-type.com
+  name: PhotonSa
+type: d3-device-type-assertion

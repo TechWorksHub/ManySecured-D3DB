@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68803b24-dc57-450d-bb8b-7898d34bd0fb
+  macAddresses:
+  - DC:E7:1C:00:00:00/24
+  manufacturer: AUG Elektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: AUGElekt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c00f7956-c931-48e8-92d4-73fb88dbb5ab
+  macAddresses:
+  - 00:23:96:00:00:00/24
+  manufacturer: Andes Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: AndesTec
+type: d3-device-type-assertion

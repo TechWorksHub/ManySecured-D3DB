@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58ee1bb3-f97e-4691-80c5-e10c600d6b1a
+  macAddresses:
+  - 00:14:9C:00:00:00/24
+  manufacturer: HF Company
+  manufacturerUri: https://device-type.com
+  name: HF
+type: d3-device-type-assertion

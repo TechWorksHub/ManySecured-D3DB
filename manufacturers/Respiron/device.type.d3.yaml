@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b199c88c-2163-47fc-aece-3e127040f692
+  macAddresses:
+  - 00:1F:FF:00:00:00/24
+  - 00:50:C2:50:30:00/36
+  manufacturer: Respironics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Respiron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0bdb3afd-5893-4ab3-907f-d39c4885b7ba
+  macAddresses:
+  - B8:2A:DC:00:00:00/24
+  manufacturer: "EFR Europ\xE4ische Funk-Rundsteuerung GmbH"
+  manufacturerUri: https://device-type.com
+  name: EFREurop
+type: d3-device-type-assertion

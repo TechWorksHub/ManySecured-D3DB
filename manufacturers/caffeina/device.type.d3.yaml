@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd28968a-2620-43de-9ae5-41756ef79390
+  macAddresses:
+  - 00:11:4C:00:00:00/24
+  manufacturer: caffeina applied research ltd.
+  manufacturerUri: https://device-type.com
+  name: caffeina
+type: d3-device-type-assertion

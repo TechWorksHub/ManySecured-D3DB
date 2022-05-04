@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e76dbf6e-82be-4af1-82c8-82e19219c2d8
+  macAddresses:
+  - 00:50:C2:5C:10:00/36
+  - F0:3F:F8:00:00:00/24
+  manufacturer: R. L. Drake Company
+  manufacturerUri: https://device-type.com
+  name: RLDrake
+type: d3-device-type-assertion

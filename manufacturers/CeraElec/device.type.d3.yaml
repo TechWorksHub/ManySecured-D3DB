@@ -1,0 +1,8 @@
+credentialSubject:
+  id: caaefffa-c437-463f-9c9b-529501ae076e
+  macAddresses:
+  - B0:DA:00:00:00:00/24
+  manufacturer: Cera Electronique
+  manufacturerUri: https://device-type.com
+  name: CeraElec
+type: d3-device-type-assertion

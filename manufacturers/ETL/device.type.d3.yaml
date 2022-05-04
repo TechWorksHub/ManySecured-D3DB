@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6462d28-022a-414d-a923-7b053cf80603
+  macAddresses:
+  - 00:1E:EE:00:00:00/24
+  manufacturer: ETL Systems Ltd
+  manufacturerUri: https://device-type.com
+  name: ETL
+type: d3-device-type-assertion

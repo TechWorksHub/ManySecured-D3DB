@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f4b0404-18fb-4b73-833b-0050edd1a0a0
+  macAddresses:
+  - 68:9A:B7:00:00:00/24
+  manufacturer: Atelier Vision Corporation
+  manufacturerUri: https://device-type.com
+  name: AtelierV
+type: d3-device-type-assertion

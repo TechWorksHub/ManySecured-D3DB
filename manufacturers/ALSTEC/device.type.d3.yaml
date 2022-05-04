@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a22b8888-888f-4dec-b705-d8910fb10d4d
+  macAddresses:
+  - 00:13:AA:00:00:00/24
+  manufacturer: ALS & TEC Ltd.
+  manufacturerUri: https://device-type.com
+  name: ALSTEC
+type: d3-device-type-assertion

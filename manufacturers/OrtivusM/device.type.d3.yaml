@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc867b19-3b27-4fa3-bce0-121060041ed7
+  macAddresses:
+  - 00:A0:C1:00:00:00/24
+  manufacturer: Ortivus Medical Ab
+  manufacturerUri: https://device-type.com
+  name: OrtivusM
+type: d3-device-type-assertion

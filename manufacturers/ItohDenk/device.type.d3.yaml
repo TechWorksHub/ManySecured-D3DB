@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d33d24ca-355c-4759-9d4c-2295e9470802
+  macAddresses:
+  - 00:22:21:00:00:00/24
+  manufacturer: Itoh Denki Co,Ltd.
+  manufacturerUri: https://device-type.com
+  name: ItohDenk
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10c96f77-f463-4aaa-9d50-18f927c13fcd
+  macAddresses:
+  - 00:90:9B:00:00:00/24
+  manufacturer: Markem-Imaje
+  manufacturerUri: https://device-type.com
+  name: Markem-I
+type: d3-device-type-assertion

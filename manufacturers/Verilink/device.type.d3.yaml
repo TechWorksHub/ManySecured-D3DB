@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 12607dd1-4da8-4af0-9960-bb2b26c481d7
+  macAddresses:
+  - 00:20:51:00:00:00/24
+  - 00:A0:6A:00:00:00/24
+  - 00:C0:E6:00:00:00/24
+  - 00:E0:75:00:00:00/24
+  - A0:6A:00:00:00:00/24
+  manufacturer: Verilink Corporation
+  manufacturerUri: https://device-type.com
+  name: Verilink
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04b111d6-c052-48ea-9808-fd3edb2e4aa5
+  macAddresses:
+  - 00:50:C2:81:20:00/36
+  manufacturer: Femto SA
+  manufacturerUri: https://device-type.com
+  name: Femto
+type: d3-device-type-assertion

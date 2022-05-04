@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23dc6141-a0de-4bc2-a134-7adb83e655db
+  macAddresses:
+  - C4:E5:06:00:00:00/24
+  manufacturer: Piper Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: PiperNet
+type: d3-device-type-assertion

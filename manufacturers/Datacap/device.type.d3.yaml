@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6aa4a005-bb7a-4d68-bed4-2129baeb9241
+  macAddresses:
+  - 00:0F:78:00:00:00/24
+  manufacturer: Datacap Systems Inc
+  manufacturerUri: https://device-type.com
+  name: Datacap
+type: d3-device-type-assertion

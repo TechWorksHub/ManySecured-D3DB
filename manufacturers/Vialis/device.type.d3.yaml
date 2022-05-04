@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ad55291-cbe3-4a3d-b418-907cf0c352c2
+  macAddresses:
+  - A0:77:71:00:00:00/24
+  manufacturer: Vialis BV
+  manufacturerUri: https://device-type.com
+  name: Vialis
+type: d3-device-type-assertion

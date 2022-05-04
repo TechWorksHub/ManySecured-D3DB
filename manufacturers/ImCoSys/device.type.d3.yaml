@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f2be609-75b9-4448-9ca2-d6dc8fd5feed
+  macAddresses:
+  - 00:19:27:00:00:00/24
+  manufacturer: ImCoSys Ltd
+  manufacturerUri: https://device-type.com
+  name: ImCoSys
+type: d3-device-type-assertion

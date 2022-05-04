@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1c8d2a9-8a68-4d61-980b-0d374f4f91cf
+  macAddresses:
+  - 00:A0:FE:00:00:00/24
+  manufacturer: Boston Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: BostonTe
+type: d3-device-type-assertion

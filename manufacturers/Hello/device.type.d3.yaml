@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ceaee3db-c431-4dab-8f65-0b24247d6791
+  macAddresses:
+  - 5C:6B:4F:00:00:00/24
+  manufacturer: Hello Inc.
+  manufacturerUri: https://device-type.com
+  name: Hello
+type: d3-device-type-assertion

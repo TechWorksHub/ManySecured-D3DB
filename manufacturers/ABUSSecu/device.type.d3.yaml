@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1aa3c3d-898e-4a11-8728-6418b61fec92
+  macAddresses:
+  - 8C:11:CB:00:00:00/24
+  manufacturer: ABUS Security-Center GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: ABUSSecu
+type: d3-device-type-assertion

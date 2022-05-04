@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43545513-b8c8-4264-9f8e-f605257630db
+  macAddresses:
+  - 00:08:4F:00:00:00/24
+  manufacturer: Qualstar Corporation
+  manufacturerUri: https://device-type.com
+  name: Qualstar
+type: d3-device-type-assertion

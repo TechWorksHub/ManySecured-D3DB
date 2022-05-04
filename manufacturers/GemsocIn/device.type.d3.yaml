@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f938698-3f64-4daa-b2f0-f0285b11566b
+  macAddresses:
+  - 00:0E:76:00:00:00/24
+  manufacturer: Gemsoc Innovision Inc.
+  manufacturerUri: https://device-type.com
+  name: GemsocIn
+type: d3-device-type-assertion

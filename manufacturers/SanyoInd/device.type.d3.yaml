@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fac5d657-77b2-4d81-ae78-e0b5430b5567
+  macAddresses:
+  - 00:09:29:00:00:00/24
+  manufacturer: Sanyo Industries (UK) Limited
+  manufacturerUri: https://device-type.com
+  name: SanyoInd
+type: d3-device-type-assertion

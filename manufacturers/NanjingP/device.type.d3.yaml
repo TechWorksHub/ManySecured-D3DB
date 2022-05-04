@@ -1,0 +1,13 @@
+credentialSubject:
+  id: ac09bddf-9fa0-467b-94ae-2f2507341594
+  macAddresses:
+  - 00:07:3D:00:00:00/24
+  - 00:24:5A:00:00:00/24
+  - 70:B3:D5:54:10:00/36
+  - 90:6F:A9:00:00:00/24
+  - B4:37:D1:C0:00:00/28
+  - E0:AA:DB:00:00:00/24
+  manufacturer: Nanjing Postel Telecommunications Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NanjingP
+type: d3-device-type-assertion

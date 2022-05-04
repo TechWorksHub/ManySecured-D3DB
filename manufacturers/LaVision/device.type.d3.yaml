@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 15f7ceae-0a93-49bb-bad3-01b51fdcaf91
+  macAddresses:
+  - 70:60:DE:00:00:00/24
+  manufacturer: LaVision GmbH
+  manufacturerUri: https://device-type.com
+  name: LaVision
+type: d3-device-type-assertion

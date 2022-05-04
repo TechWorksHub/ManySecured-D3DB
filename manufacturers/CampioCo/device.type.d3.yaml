@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55e21fc6-3932-420c-9155-b9e24d612761
+  macAddresses:
+  - 00:D0:67:00:00:00/24
+  manufacturer: Campio Communications
+  manufacturerUri: https://device-type.com
+  name: CampioCo
+type: d3-device-type-assertion

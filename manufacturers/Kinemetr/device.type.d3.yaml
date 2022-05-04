@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cd76ae14-6ad2-4e16-b762-0c3b4f152752
+  macAddresses:
+  - 00:50:C2:5A:C0:00/36
+  - 70:B3:D5:CE:90:00/36
+  manufacturer: Kinemetrics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Kinemetr
+type: d3-device-type-assertion

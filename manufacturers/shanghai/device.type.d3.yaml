@@ -1,0 +1,16 @@
+credentialSubject:
+  id: abd03b43-0253-4981-9092-3783276d5e26
+  macAddresses:
+  - 00:50:C2:1D:60:00/36
+  - 00:5B:A1:00:00:00/24
+  - 40:D8:55:12:10:00/36
+  - 40:D8:55:13:C0:00/36
+  - 40:D8:55:1B:F0:00/36
+  - 48:0B:B2:30:00:00/28
+  - 70:B3:D5:ED:00:00/36
+  - 78:D4:F1:90:00:00/28
+  - B0:C5:CA:40:00:00/28
+  manufacturer: shanghai trend intelligent systems CO.,LTD
+  manufacturerUri: https://device-type.com
+  name: shanghai
+type: d3-device-type-assertion

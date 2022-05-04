@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 3b571c54-8691-4437-a119-9be0885a3300
+  macAddresses:
+  - 00:22:5C:00:00:00/24
+  - 00:50:C2:33:B0:00/36
+  - 00:50:C2:80:50:00/36
+  - 18:F6:50:00:00:00/24
+  manufacturer: Multimedia & Communication Technology
+  manufacturerUri: https://device-type.com
+  name: Multimed
+type: d3-device-type-assertion

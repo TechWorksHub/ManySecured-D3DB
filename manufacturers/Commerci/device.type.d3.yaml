@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4c9f4079-3caf-4946-9627-377f107cdf5a
+  macAddresses:
+  - 00:19:62:00:00:00/24
+  - 00:50:C2:99:60:00/36
+  - 40:D8:55:1D:90:00/36
+  manufacturer: Commerciant, LP
+  manufacturerUri: https://device-type.com
+  name: Commerci
+type: d3-device-type-assertion

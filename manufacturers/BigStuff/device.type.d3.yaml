@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d0b3272-87b6-4cc9-8b42-ef9c0c65bb85
+  macAddresses:
+  - 70:B3:D5:64:E0:00/36
+  manufacturer: BigStuff3, Inc.
+  manufacturerUri: https://device-type.com
+  name: BigStuff
+type: d3-device-type-assertion

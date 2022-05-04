@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32dea15c-0513-4afc-9f30-8106aba10f39
+  macAddresses:
+  - 00:1C:22:00:00:00/24
+  manufacturer: Aeris Elettronica s.r.l.
+  manufacturerUri: https://device-type.com
+  name: AerisEle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bf0ec74-116b-47d1-9514-1c3949107a83
+  macAddresses:
+  - 00:0F:D3:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Digium
+type: d3-device-type-assertion

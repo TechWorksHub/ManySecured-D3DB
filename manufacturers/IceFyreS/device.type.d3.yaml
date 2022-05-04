@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f626e1d-4435-4af3-bc0c-2076a2f5faf8
+  macAddresses:
+  - 00:0D:30:00:00:00/24
+  manufacturer: IceFyre Semiconductor
+  manufacturerUri: https://device-type.com
+  name: IceFyreS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a2e68b7-b4bc-4c07-b317-8c590bc73a2d
+  macAddresses:
+  - F4:1F:0B:00:00:00/24
+  manufacturer: YAMABISHI Corporation
+  manufacturerUri: https://device-type.com
+  name: YAMABISH
+type: d3-device-type-assertion

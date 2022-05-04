@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 932806ae-1817-44a0-b722-6907e573ab19
+  macAddresses:
+  - 00:10:2B:00:00:00/24
+  manufacturer: Umax Data Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: UmaxData
+type: d3-device-type-assertion

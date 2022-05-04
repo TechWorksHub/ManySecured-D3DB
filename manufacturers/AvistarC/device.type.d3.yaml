@@ -1,0 +1,8 @@
+credentialSubject:
+  id: edb26c37-b7bf-4c6a-9c61-abcfcd76c0f3
+  macAddresses:
+  - 00:08:C1:00:00:00/24
+  manufacturer: Avistar Communications Corporation
+  manufacturerUri: https://device-type.com
+  name: AvistarC
+type: d3-device-type-assertion

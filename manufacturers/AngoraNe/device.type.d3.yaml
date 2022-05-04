@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dd7c2fbe-c18e-4fbc-ae25-f175e906ccbe
+  macAddresses:
+  - 70:B3:D5:82:20:00/36
+  - 98:06:37:A0:00:00/28
+  manufacturer: Angora Networks
+  manufacturerUri: https://device-type.com
+  name: AngoraNe
+type: d3-device-type-assertion

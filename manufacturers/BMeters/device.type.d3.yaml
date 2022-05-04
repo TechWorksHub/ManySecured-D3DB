@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c559c884-90ae-4706-863c-ba2dc4ae2848
+  macAddresses:
+  - CC:0D:E7:00:00:00/24
+  - E4:1E:0A:90:00:00/28
+  manufacturer: B Meters S.R.L.
+  manufacturerUri: https://device-type.com
+  name: BMeters
+type: d3-device-type-assertion

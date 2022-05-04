@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6cba8d19-6d62-4ebc-a19b-414953548a92
+  macAddresses:
+  - 20:0A:0D:30:00:00/28
+  - 70:B3:D5:9B:00:00/36
+  manufacturer: Clearly IP Inc
+  manufacturerUri: https://device-type.com
+  name: ClearlyI
+type: d3-device-type-assertion

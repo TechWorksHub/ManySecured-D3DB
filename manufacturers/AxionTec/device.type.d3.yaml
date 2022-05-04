@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 40678319-f0d3-4aa4-8995-506ea5e90d64
+  macAddresses:
+  - 00:1D:9E:00:00:00/24
+  - B4:9D:B4:00:00:00/24
+  manufacturer: Axion Technologies
+  manufacturerUri: https://device-type.com
+  name: AxionTec
+type: d3-device-type-assertion

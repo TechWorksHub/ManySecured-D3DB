@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5daa4d60-341a-49f3-846a-ea6554b2a5a3
+  macAddresses:
+  - 00:C0:1A:00:00:00/24
+  manufacturer: Corometrics Medical Systems
+  manufacturerUri: https://device-type.com
+  name: Corometr
+type: d3-device-type-assertion

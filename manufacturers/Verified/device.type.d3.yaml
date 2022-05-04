@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3470efd0-d9e6-4a33-82fe-009b2587c07d
+  macAddresses:
+  - 00:1B:C5:06:B0:00/36
+  - 00:50:C2:F1:F0:00/36
+  manufacturer: Verified Energy, LLC.
+  manufacturerUri: https://device-type.com
+  name: Verified
+type: d3-device-type-assertion

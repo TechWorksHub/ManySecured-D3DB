@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a306626-22d1-44c5-8883-bc29d7b7032b
+  macAddresses:
+  - 00:15:55:00:00:00/24
+  manufacturer: DFM GmbH
+  manufacturerUri: https://device-type.com
+  name: DFM
+type: d3-device-type-assertion

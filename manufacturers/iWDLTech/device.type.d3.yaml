@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f746ed17-7ca3-4874-82e7-ee75afc9bf52
+  macAddresses:
+  - 00:22:EF:00:00:00/24
+  manufacturer: iWDL Technologies
+  manufacturerUri: https://device-type.com
+  name: iWDLTech
+type: d3-device-type-assertion

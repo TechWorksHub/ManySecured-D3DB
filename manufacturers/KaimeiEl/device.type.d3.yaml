@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e24545e2-506b-4e2e-8429-87e9d4924554
+  macAddresses:
+  - 00:12:5B:00:00:00/24
+  manufacturer: Kaimei Electroni
+  manufacturerUri: https://device-type.com
+  name: KaimeiEl
+type: d3-device-type-assertion

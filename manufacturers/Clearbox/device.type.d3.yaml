@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31a16f27-4652-4cb7-817b-14a82be94362
+  macAddresses:
+  - 00:21:10:00:00:00/24
+  manufacturer: Clearbox Systems
+  manufacturerUri: https://device-type.com
+  name: Clearbox
+type: d3-device-type-assertion

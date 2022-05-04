@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 287cd041-5d20-4881-9eb6-60dc4aebaa31
+  macAddresses:
+  - 00:15:DF:00:00:00/24
+  manufacturer: Clivet S.p.A.
+  manufacturerUri: https://device-type.com
+  name: Clivet
+type: d3-device-type-assertion

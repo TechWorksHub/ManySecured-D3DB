@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16a42181-5985-406b-9f03-0cd4e9bed238
+  macAddresses:
+  - 00:25:88:00:00:00/24
+  manufacturer: Genie Industries, Inc.
+  manufacturerUri: https://device-type.com
+  name: GenieInd
+type: d3-device-type-assertion

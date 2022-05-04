@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f77d02d5-4e9e-49b0-91a3-1255546ff092
+  macAddresses:
+  - 00:14:90:00:00:00/24
+  manufacturer: ASP Corporation
+  manufacturerUri: https://device-type.com
+  name: ASP
+type: d3-device-type-assertion

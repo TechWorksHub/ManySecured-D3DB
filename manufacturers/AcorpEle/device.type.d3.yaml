@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48968ed8-26d1-44db-8d44-efab111c214c
+  macAddresses:
+  - 00:08:75:00:00:00/24
+  manufacturer: Acorp Electronics Corp.
+  manufacturerUri: https://device-type.com
+  name: AcorpEle
+type: d3-device-type-assertion

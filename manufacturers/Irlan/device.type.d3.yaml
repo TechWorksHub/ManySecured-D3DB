@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f70b0c13-61e5-481a-b74b-b6f7f9ac2a39
+  macAddresses:
+  - 00:30:7F:00:00:00/24
+  manufacturer: Irlan Ltd.
+  manufacturerUri: https://device-type.com
+  name: Irlan
+type: d3-device-type-assertion

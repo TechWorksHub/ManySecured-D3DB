@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5af5d42a-59e6-48ae-91b2-afddfd60d254
+  macAddresses:
+  - 00:04:66:00:00:00/24
+  manufacturer: ARMITEL Co.
+  manufacturerUri: https://device-type.com
+  name: ARMITEL
+type: d3-device-type-assertion

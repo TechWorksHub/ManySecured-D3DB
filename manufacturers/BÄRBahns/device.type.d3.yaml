@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 708931bc-bef2-4545-bf29-5a46c5252641
+  macAddresses:
+  - 70:B3:D5:34:80:00/36
+  - 74:1A:E0:70:00:00/28
+  manufacturer: "B\xC4R Bahnsicherung AG"
+  manufacturerUri: https://device-type.com
+  name: "B\xC4RBahns"
+type: d3-device-type-assertion

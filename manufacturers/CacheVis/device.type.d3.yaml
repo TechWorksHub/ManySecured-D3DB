@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1afa602-03ae-40be-abd0-d236acaa5684
+  macAddresses:
+  - 00:09:1C:00:00:00/24
+  manufacturer: CacheVision, Inc
+  manufacturerUri: https://device-type.com
+  name: CacheVis
+type: d3-device-type-assertion

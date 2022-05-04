@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91cfe268-5a3a-45b1-8f61-6162322de46e
+  macAddresses:
+  - 00:0F:EE:00:00:00/24
+  manufacturer: XTec, Incorporated
+  manufacturerUri: https://device-type.com
+  name: XTec
+type: d3-device-type-assertion

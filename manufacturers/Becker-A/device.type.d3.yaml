@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26a27427-5336-4d9d-b9f6-22e06dde25e9
+  macAddresses:
+  - A0:DC:04:00:00:00/24
+  manufacturer: Becker-Antriebe GmbH
+  manufacturerUri: https://device-type.com
+  name: Becker-A
+type: d3-device-type-assertion

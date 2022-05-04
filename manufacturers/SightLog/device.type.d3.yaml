@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 36fd5abb-062e-45c2-8b7f-67af3c511cb3
+  macAddresses:
+  - 00:18:08:00:00:00/24
+  manufacturer: SightLogix, Inc.
+  manufacturerUri: https://device-type.com
+  name: SightLog
+type: d3-device-type-assertion

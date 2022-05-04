@@ -1,0 +1,11 @@
+credentialSubject:
+  id: d593720e-6ef7-4186-aa43-e7d817e7e8e6
+  macAddresses:
+  - 00:50:C2:DC:60:00/36
+  - 70:B3:D5:9F:90:00/36
+  - 70:B3:D5:A1:D0:00/36
+  - 8C:1F:64:BF:40:00/36
+  manufacturer: Fluid Components Intl
+  manufacturerUri: https://device-type.com
+  name: FluidCom
+type: d3-device-type-assertion

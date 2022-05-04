@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd9fedcf-bcd9-4584-a92c-76847093f392
+  macAddresses:
+  - 00:02:86:00:00:00/24
+  manufacturer: Occam Networks
+  manufacturerUri: https://device-type.com
+  name: OccamNet
+type: d3-device-type-assertion

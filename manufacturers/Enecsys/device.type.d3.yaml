@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16a20b24-2d74-4a6f-9b35-6ef18aba6dfe
+  macAddresses:
+  - 34:C6:9A:00:00:00/24
+  manufacturer: Enecsys Ltd
+  manufacturerUri: https://device-type.com
+  name: Enecsys
+type: d3-device-type-assertion

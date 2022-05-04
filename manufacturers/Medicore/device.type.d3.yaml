@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d2c17eb-5afa-4fe7-86e0-9e25a1b0b78f
+  macAddresses:
+  - 00:09:C4:00:00:00/24
+  manufacturer: Medicore Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Medicore
+type: d3-device-type-assertion

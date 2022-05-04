@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b71e2dfc-5797-46cc-a5bd-0902641a8378
+  macAddresses:
+  - 00:00:69:00:00:00/24
+  manufacturer: Concord Communications Inc
+  manufacturerUri: https://device-type.com
+  name: ConcordC
+type: d3-device-type-assertion

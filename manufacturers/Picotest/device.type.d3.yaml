@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e1f960c-b421-494e-b624-90817018a602
+  macAddresses:
+  - 00:19:7B:00:00:00/24
+  manufacturer: Picotest Corp.
+  manufacturerUri: https://device-type.com
+  name: Picotest
+type: d3-device-type-assertion

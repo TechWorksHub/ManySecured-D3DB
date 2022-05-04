@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 352c4850-b7fe-42b5-970f-2d84de8386f5
+  macAddresses:
+  - 90:92:B4:00:00:00/24
+  manufacturer: Diehl BGT Defence GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: DiehlBGT
+type: d3-device-type-assertion

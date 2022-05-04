@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f086ba8-123a-44ed-8b50-07017265f7dd
+  macAddresses:
+  - 00:07:EA:00:00:00/24
+  manufacturer: Massana, Inc.
+  manufacturerUri: https://device-type.com
+  name: Massana
+type: d3-device-type-assertion

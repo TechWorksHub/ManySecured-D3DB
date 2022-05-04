@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4937a92-b48a-43bc-9675-46f554686ccc
+  macAddresses:
+  - 00:1D:9B:00:00:00/24
+  manufacturer: Hokuyo Automatic Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: HokuyoAu
+type: d3-device-type-assertion

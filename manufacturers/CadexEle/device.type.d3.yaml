@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b750747-fcd8-4ffa-ada1-60188279ccda
+  macAddresses:
+  - 00:50:C2:77:00:00/36
+  manufacturer: Cadex Electronics Inc.
+  manufacturerUri: https://device-type.com
+  name: CadexEle
+type: d3-device-type-assertion

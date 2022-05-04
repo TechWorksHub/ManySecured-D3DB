@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3b30abfc-8ce2-4b6e-be3f-b9de35a61094
+  macAddresses:
+  - 00:50:C2:B7:00:00/36
+  - 00:A0:4A:00:00:00/24
+  manufacturer: Nisshin Electronics co.,ltd.
+  manufacturerUri: https://device-type.com
+  name: NisshinE
+type: d3-device-type-assertion

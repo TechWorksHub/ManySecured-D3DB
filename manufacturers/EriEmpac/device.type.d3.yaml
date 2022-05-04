@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 015f7f6b-ee3a-4dc6-b345-b057b9a82d37
+  macAddresses:
+  - 00:80:6A:00:00:00/24
+  manufacturer: Eri (Empac Research Inc.)
+  manufacturerUri: https://device-type.com
+  name: EriEmpac
+type: d3-device-type-assertion

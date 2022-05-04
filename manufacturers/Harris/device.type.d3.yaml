@@ -1,0 +1,10 @@
+credentialSubject:
+  id: af1188dc-caf9-49e5-93c6-d64895899fec
+  macAddresses:
+  - 00:00:C3:00:00:00/24
+  - 00:06:EC:00:00:00/24
+  - 00:17:F3:00:00:00/24
+  manufacturer: Harris Corporation
+  manufacturerUri: https://device-type.com
+  name: Harris
+type: d3-device-type-assertion

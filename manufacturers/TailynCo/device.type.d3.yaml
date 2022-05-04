@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb62e843-5a65-4b50-b4d8-28f45733eddc
+  macAddresses:
+  - 00:05:65:00:00:00/24
+  manufacturer: Tailyn Communication Company Ltd.
+  manufacturerUri: https://device-type.com
+  name: TailynCo
+type: d3-device-type-assertion

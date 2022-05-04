@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a28a03fe-6ba0-44f5-b63d-e3d5cbf9d4b8
+  macAddresses:
+  - 24:9A:D8:00:00:00/24
+  - 80:5E:0C:00:00:00/24
+  - 80:5E:C0:00:00:00/24
+  manufacturer: Yealink(Xiamen) Network Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: YealinkX
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01fd1d04-72c5-4d99-9186-e82f784a5ee2
+  macAddresses:
+  - AC:D9:D6:00:00:00/24
+  manufacturer: tci GmbH
+  manufacturerUri: https://device-type.com
+  name: tci
+type: d3-device-type-assertion

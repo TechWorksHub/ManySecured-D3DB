@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80f75b1c-dc16-4574-b6d8-ea5cd502e72b
+  macAddresses:
+  - 00:22:45:00:00:00/24
+  manufacturer: Leine & Linde AB
+  manufacturerUri: https://device-type.com
+  name: LeineLin
+type: d3-device-type-assertion

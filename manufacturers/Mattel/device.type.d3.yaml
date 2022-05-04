@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8cbd3064-b191-4fb7-9029-cf35e4076e78
+  macAddresses:
+  - 00:22:AE:00:00:00/24
+  manufacturer: Mattel Inc.
+  manufacturerUri: https://device-type.com
+  name: Mattel
+type: d3-device-type-assertion

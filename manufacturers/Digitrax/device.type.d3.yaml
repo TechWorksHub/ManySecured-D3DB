@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d7c0a90-a202-43bf-83c0-42f6e59a3986
+  macAddresses:
+  - 00:1B:F8:00:00:00/24
+  manufacturer: Digitrax Inc.
+  manufacturerUri: https://device-type.com
+  name: Digitrax
+type: d3-device-type-assertion

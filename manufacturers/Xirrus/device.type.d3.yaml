@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5babadac-539d-49eb-b11a-fe4e2fe95a9a
+  macAddresses:
+  - 00:0F:7D:00:00:00/24
+  - 48:C0:93:00:00:00/24
+  - 50:60:28:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Xirrus
+type: d3-device-type-assertion

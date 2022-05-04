@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d39ca27-f750-48dd-8b6b-2cbb781ad2b7
+  macAddresses:
+  - 00:1D:1B:00:00:00/24
+  manufacturer: Sangean Electronics Inc.
+  manufacturerUri: https://device-type.com
+  name: SangeanE
+type: d3-device-type-assertion

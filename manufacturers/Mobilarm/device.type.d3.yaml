@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dac854df-299e-43ad-9cb5-95400ec67bfb
+  macAddresses:
+  - 00:24:C7:00:00:00/24
+  manufacturer: Mobilarm Ltd
+  manufacturerUri: https://device-type.com
+  name: Mobilarm
+type: d3-device-type-assertion

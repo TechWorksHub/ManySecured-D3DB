@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9a25a71-d132-418c-90d6-8b7700266745
+  macAddresses:
+  - B4:17:80:00:00:00/24
+  manufacturer: DTI Group Ltd
+  manufacturerUri: https://device-type.com
+  name: DTIGroup
+type: d3-device-type-assertion

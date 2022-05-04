@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 812e9699-a7b4-4b04-aa22-55deb013f03b
+  macAddresses:
+  - 00:0F:C1:00:00:00/24
+  manufacturer: WAVE Corporation
+  manufacturerUri: https://device-type.com
+  name: WAVE
+type: d3-device-type-assertion

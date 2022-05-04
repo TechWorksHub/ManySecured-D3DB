@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6743ddbc-a302-400d-a561-33169f1aa84d
+  macAddresses:
+  - E4:75:1E:00:00:00/24
+  manufacturer: Getinge Sterilization AB
+  manufacturerUri: https://device-type.com
+  name: GetingeS
+type: d3-device-type-assertion

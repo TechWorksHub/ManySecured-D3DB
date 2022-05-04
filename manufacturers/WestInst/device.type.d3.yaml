@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 571337e7-cae6-4bc2-9e33-e54751f36abb
+  macAddresses:
+  - 00:0F:67:00:00:00/24
+  manufacturer: West Instruments
+  manufacturerUri: https://device-type.com
+  name: WestInst
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 1b02e0fa-1860-4828-ab28-9dd6a624a3d1
+  macAddresses:
+  - 00:0A:E0:00:00:00/24
+  - 00:10:8C:00:00:00/24
+  - 00:30:05:00:00:00/24
+  manufacturer: Fujitsu Softek
+  manufacturerUri: https://device-type.com
+  name: FujitsuS
+type: d3-device-type-assertion

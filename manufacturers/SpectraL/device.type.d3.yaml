@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91cc88a3-0206-4870-93cb-b7bf57737ab8
+  macAddresses:
+  - 00:90:A5:00:00:00/24
+  manufacturer: Spectra Logic
+  manufacturerUri: https://device-type.com
+  name: SpectraL
+type: d3-device-type-assertion

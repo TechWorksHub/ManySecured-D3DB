@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a64055b-7d75-4c84-a8d8-ded1dd9c48b2
+  macAddresses:
+  - 00:50:C2:77:30:00/36
+  manufacturer: Pointe Conception Medical Inc.
+  manufacturerUri: https://device-type.com
+  name: PointeCo
+type: d3-device-type-assertion

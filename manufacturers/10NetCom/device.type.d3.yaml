@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c34805eb-a947-4b5d-ac43-42fd9af4b9a2
+  macAddresses:
+  - 08:00:24:00:00:00/24
+  manufacturer: 10Net Communications/Dca
+  manufacturerUri: https://device-type.com
+  name: 10NetCom
+type: d3-device-type-assertion

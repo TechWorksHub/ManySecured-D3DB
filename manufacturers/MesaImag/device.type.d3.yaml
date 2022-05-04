@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b666bf32-614b-4193-91b4-2a82f0a0423a
+  macAddresses:
+  - 00:1C:8D:00:00:00/24
+  manufacturer: Mesa Imaging
+  manufacturerUri: https://device-type.com
+  name: MesaImag
+type: d3-device-type-assertion

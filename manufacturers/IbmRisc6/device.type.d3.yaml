@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 71b1c1d3-342e-4048-a507-af79bb698f89
+  macAddresses:
+  - 00:06:29:00:00:00/24
+  manufacturer: IBM RISC6000 system
+  manufacturerUri: https://device-type.com
+  name: IbmRisc6
+type: d3-device-type-assertion

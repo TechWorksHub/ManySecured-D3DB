@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d3d008b-a6ba-45aa-b38e-ae21ca028d5c
+  macAddresses:
+  - 00:A0:4F:00:00:00/24
+  manufacturer: Ameritec Corp.
+  manufacturerUri: https://device-type.com
+  name: Ameritec
+type: d3-device-type-assertion

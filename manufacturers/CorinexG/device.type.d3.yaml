@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42cdef41-c5a5-4217-bfb2-3571dbce5fa1
+  macAddresses:
+  - 00:50:C2:14:E0:00/36
+  manufacturer: Corinex Global
+  manufacturerUri: https://device-type.com
+  name: CorinexG
+type: d3-device-type-assertion

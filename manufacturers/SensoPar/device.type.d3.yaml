@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b69170c3-7ee7-49ff-8660-32c393e90de1
+  macAddresses:
+  - 00:19:6F:00:00:00/24
+  manufacturer: SensoPart GmbH
+  manufacturerUri: https://device-type.com
+  name: SensoPar
+type: d3-device-type-assertion

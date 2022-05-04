@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c74d1ab-c676-4f1a-a99b-9e8c67c59535
+  macAddresses:
+  - 40:F3:85:90:00:00/28
+  manufacturer: Fast Precision Technologies Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: FastPrec
+type: d3-device-type-assertion

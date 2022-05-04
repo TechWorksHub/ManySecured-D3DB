@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 64471668-1bee-4115-a459-f808fbdd7e1c
+  macAddresses:
+  - 00:27:0F:00:00:00/24
+  - 04:D1:6E:70:00:00/28
+  - AC:94:03:00:00:00/24
+  manufacturer: Envisionnovation Inc
+  manufacturerUri: https://device-type.com
+  name: Envision
+type: d3-device-type-assertion

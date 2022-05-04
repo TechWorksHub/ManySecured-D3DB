@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 665047a4-7957-40c1-9ac4-3bfd33a14606
+  macAddresses:
+  - 00:50:C2:36:10:00/36
+  - 00:80:4C:00:00:00/24
+  - 74:6F:3D:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Contec
+type: d3-device-type-assertion

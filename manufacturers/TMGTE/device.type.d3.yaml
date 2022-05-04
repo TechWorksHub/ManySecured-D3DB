@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4db1166-db9c-4d65-a49a-25b4de013b97
+  macAddresses:
+  - 14:AE:85:60:00:00/28
+  manufacturer: TMG TE GmbH
+  manufacturerUri: https://device-type.com
+  name: TMGTE
+type: d3-device-type-assertion

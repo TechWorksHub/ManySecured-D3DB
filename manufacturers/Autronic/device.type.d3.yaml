@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9459021e-f3e3-4762-8145-f9b0b7668a08
+  macAddresses:
+  - 00:24:74:00:00:00/24
+  - 00:50:C2:4F:30:00/36
+  manufacturer: Autronica Fire And Securirty
+  manufacturerUri: https://device-type.com
+  name: Autronic
+type: d3-device-type-assertion

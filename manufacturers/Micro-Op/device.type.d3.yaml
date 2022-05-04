@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcfc1e32-dd01-455e-9913-80f26a678b39
+  macAddresses:
+  - 00:0C:12:00:00:00/24
+  manufacturer: Micro-Optronic-Messtechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: Micro-Op
+type: d3-device-type-assertion

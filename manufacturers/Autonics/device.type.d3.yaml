@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b97853ca-70dd-4a60-932c-c8cf48f53c5b
+  macAddresses:
+  - 58:E8:08:00:00:00/24
+  - C8:63:14:10:00:00/28
+  manufacturer: Autonics Corporation
+  manufacturerUri: https://device-type.com
+  name: Autonics
+type: d3-device-type-assertion

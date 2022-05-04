@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c899ff01-267a-4ef2-b5c1-8871232c677a
+  macAddresses:
+  - 00:03:DC:00:00:00/24
+  manufacturer: Lexar Media, Inc.
+  manufacturerUri: https://device-type.com
+  name: LexarMed
+type: d3-device-type-assertion

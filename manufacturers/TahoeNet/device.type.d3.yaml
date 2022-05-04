@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3d71224-cd60-4e2e-acae-9c9e5fb0346a
+  macAddresses:
+  - 00:06:D1:00:00:00/24
+  manufacturer: Tahoe Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: TahoeNet
+type: d3-device-type-assertion

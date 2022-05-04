@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8631920-7685-49d0-b10d-c3582f9ed346
+  macAddresses:
+  - 00:09:0B:00:00:00/24
+  manufacturer: MTL Instruments PLC
+  manufacturerUri: https://device-type.com
+  name: MTLInstr
+type: d3-device-type-assertion

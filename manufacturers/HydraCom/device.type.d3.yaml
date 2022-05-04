@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d90e3058-1f90-4585-8279-a5d7743ead6f
+  macAddresses:
+  - 08:00:4C:00:00:00/24
+  manufacturer: Hydra Computer Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: HydraCom
+type: d3-device-type-assertion

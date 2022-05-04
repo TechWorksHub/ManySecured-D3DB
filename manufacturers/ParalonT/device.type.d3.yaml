@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 907bb130-4bfb-4319-9032-1ee21c7eb29f
+  macAddresses:
+  - 00:02:19:00:00:00/24
+  manufacturer: Paralon Technologies
+  manufacturerUri: https://device-type.com
+  name: ParalonT
+type: d3-device-type-assertion

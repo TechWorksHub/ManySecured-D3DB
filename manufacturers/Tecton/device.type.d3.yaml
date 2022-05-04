@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a1f23d0-355e-40b5-86d6-7adba96c3834
+  macAddresses:
+  - 00:0A:7C:00:00:00/24
+  manufacturer: Tecton Ltd
+  manufacturerUri: https://device-type.com
+  name: Tecton
+type: d3-device-type-assertion

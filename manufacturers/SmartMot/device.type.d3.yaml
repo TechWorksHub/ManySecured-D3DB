@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8df1d65-7edb-435d-b2e2-ad0b8382ab4b
+  macAddresses:
+  - 00:50:C2:40:00:00/36
+  manufacturer: SmartMotor AS
+  manufacturerUri: https://device-type.com
+  name: SmartMot
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21e9bc08-756a-4691-a558-792fa8d53796
+  macAddresses:
+  - 00:C0:D0:00:00:00/24
+  manufacturer: Ratoc System Inc.
+  manufacturerUri: https://device-type.com
+  name: RatocSys
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1faf7521-a990-4d2e-bf10-3a0248f451b6
+  macAddresses:
+  - 70:B3:D5:A6:F0:00/36
+  - AC:64:DD:40:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: 8Cups
+type: d3-device-type-assertion

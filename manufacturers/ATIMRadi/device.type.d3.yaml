@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ead40aad-6c4f-46d3-9fbc-95ab75a7f141
+  macAddresses:
+  - 70:B3:D5:9B:A0:00/36
+  manufacturer: ATIM Radiocommunication
+  manufacturerUri: https://device-type.com
+  name: ATIMRadi
+type: d3-device-type-assertion

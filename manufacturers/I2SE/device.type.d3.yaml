@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fb8468b-0730-41fc-8776-f51dfc443af3
+  macAddresses:
+  - 00:01:87:00:00:00/24
+  manufacturer: I2SE GmbH
+  manufacturerUri: https://device-type.com
+  name: I2SE
+type: d3-device-type-assertion

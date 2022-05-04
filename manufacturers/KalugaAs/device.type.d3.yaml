@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 51ed30bb-16e9-4f03-9e1d-596b3e553d05
+  macAddresses:
+  - 70:B3:D5:E8:90:00/36
+  - 70:B3:D5:E9:80:00/36
+  manufacturer: JSC Kaluga Astral
+  manufacturerUri: https://device-type.com
+  name: KalugaAs
+type: d3-device-type-assertion

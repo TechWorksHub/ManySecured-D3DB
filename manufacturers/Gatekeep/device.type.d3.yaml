@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 067b9dad-b991-4cce-b3e6-7b7767100a2a
+  macAddresses:
+  - 90:34:2B:00:00:00/24
+  manufacturer: Gatekeeper Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Gatekeep
+type: d3-device-type-assertion

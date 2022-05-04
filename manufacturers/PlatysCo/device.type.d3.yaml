@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24fc30c1-c254-486e-9457-a197033cafa0
+  macAddresses:
+  - 00:06:F2:00:00:00/24
+  manufacturer: Platys Communications
+  manufacturerUri: https://device-type.com
+  name: PlatysCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f195caa9-d4b4-4cb5-acbf-7413dbb14ad0
+  macAddresses:
+  - 30:49:50:60:00:00/28
+  manufacturer: Curb, Inc.
+  manufacturerUri: https://device-type.com
+  name: Curb
+type: d3-device-type-assertion

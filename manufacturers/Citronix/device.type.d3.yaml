@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8b4549e-5c2e-47fe-a9c1-29deec4bdcab
+  macAddresses:
+  - 00:12:52:00:00:00/24
+  manufacturer: Citronix, LLC
+  manufacturerUri: https://device-type.com
+  name: Citronix
+type: d3-device-type-assertion

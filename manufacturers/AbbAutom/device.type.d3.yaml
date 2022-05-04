@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4e3643c-0fb9-447e-96d7-30f4e5077c51
+  macAddresses:
+  - 00:00:23:00:00:00/24
+  manufacturer: ABB Automation AB, Dept. Q
+  manufacturerUri: https://device-type.com
+  name: AbbAutom
+type: d3-device-type-assertion

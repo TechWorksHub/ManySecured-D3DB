@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e005aaec-da7d-423d-9f12-51598dde7d29
+  macAddresses:
+  - 00:1A:C2:00:00:00/24
+  manufacturer: YEC Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: YEC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a14b8a51-cd5e-435c-a974-27f4bebe485d
+  macAddresses:
+  - D4:5A:B2:00:00:00/24
+  manufacturer: Galleon Systems
+  manufacturerUri: https://device-type.com
+  name: Galleon
+type: d3-device-type-assertion

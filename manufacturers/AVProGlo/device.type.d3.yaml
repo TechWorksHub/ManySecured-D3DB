@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5ae34a5b-fa39-4a2b-a9d8-523049e807b3
+  macAddresses:
+  - 18:8A:6A:00:00:00/24
+  - F8:1D:78:A0:00:00/28
+  manufacturer: AVPro Global Hldgs
+  manufacturerUri: https://device-type.com
+  name: AVProGlo
+type: d3-device-type-assertion

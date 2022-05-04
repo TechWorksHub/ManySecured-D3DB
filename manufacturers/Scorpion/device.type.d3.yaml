@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 067d358c-e5e5-4774-96b3-26b0986527be
+  macAddresses:
+  - 00:20:62:00:00:00/24
+  - 70:B3:D5:02:B0:00/36
+  manufacturer: Scorpion Logic, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Scorpion
+type: d3-device-type-assertion

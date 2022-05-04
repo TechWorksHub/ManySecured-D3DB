@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0f647a28-b8e8-49c2-a5da-9a59a725a439
+  macAddresses:
+  - 00:05:3A:00:00:00/24
+  - 00:50:C2:1F:B0:00/36
+  manufacturer: Willowglen Services Pte Ltd
+  manufacturerUri: https://device-type.com
+  name: Willowgl
+type: d3-device-type-assertion

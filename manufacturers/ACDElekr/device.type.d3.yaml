@@ -1,0 +1,14 @@
+credentialSubject:
+  id: eb8ba246-0da0-40c6-bf89-b8e8d8bd6223
+  macAddresses:
+  - 70:B3:D5:3C:60:00/36
+  - 70:B3:D5:5C:A0:00/36
+  - 70:B3:D5:67:30:00/36
+  - 70:B3:D5:D6:D0:00/36
+  - 70:B3:D5:D9:80:00/36
+  - 70:B3:D5:DA:20:00/36
+  - 70:B3:D5:DE:20:00/36
+  manufacturer: ACD Elekronik GmbH
+  manufacturerUri: https://device-type.com
+  name: ACDElekr
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: cee73a1d-6ee1-4f9f-84d4-60c473ee5fb8
+  macAddresses:
+  - 00:50:C2:26:50:00/36
+  - 00:50:C2:98:F0:00/36
+  - 00:50:C2:ED:B0:00/36
+  manufacturer: Belik S.P.R.L.
+  manufacturerUri: https://device-type.com
+  name: BelikSPR
+type: d3-device-type-assertion

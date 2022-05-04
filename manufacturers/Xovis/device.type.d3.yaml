@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 52c08edb-66a1-44bf-9954-356c02bd3e8d
+  macAddresses:
+  - 00:6E:02:00:00:00/24
+  manufacturer: Xovis AG
+  manufacturerUri: https://device-type.com
+  name: Xovis
+type: d3-device-type-assertion

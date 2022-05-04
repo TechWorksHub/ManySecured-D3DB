@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 18ba0785-5ce5-4bb5-8fd2-8fd0f47e9d4a
+  macAddresses:
+  - 00:00:4D:00:00:00/24
+  manufacturer: Dci Corporation
+  manufacturerUri: https://device-type.com
+  name: Dci
+type: d3-device-type-assertion

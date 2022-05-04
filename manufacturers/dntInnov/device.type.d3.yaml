@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6c5e162-72c9-4af7-8f24-a9f04685047a
+  macAddresses:
+  - 70:66:E1:00:00:00/24
+  manufacturer: dnt Innovation GmbH
+  manufacturerUri: https://device-type.com
+  name: dntInnov
+type: d3-device-type-assertion

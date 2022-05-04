@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2839b20c-1306-464d-9273-d62cc279d7a4
+  macAddresses:
+  - 00:1E:25:00:00:00/24
+  - 30:EB:25:00:00:00/24
+  manufacturer: Intek Digital
+  manufacturerUri: https://device-type.com
+  name: IntekDig
+type: d3-device-type-assertion

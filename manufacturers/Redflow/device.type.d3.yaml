@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 710afaf3-8901-400f-9b68-2e641853915d
+  macAddresses:
+  - 68:F8:95:00:00:00/24
+  manufacturer: Redflow Limited
+  manufacturerUri: https://device-type.com
+  name: Redflow
+type: d3-device-type-assertion

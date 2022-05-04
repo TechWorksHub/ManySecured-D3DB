@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64dbde5f-33ce-4bc6-9522-18abe410b17f
+  macAddresses:
+  - 00:1E:C5:00:00:00/24
+  manufacturer: Middle Atlantic Products Inc
+  manufacturerUri: https://device-type.com
+  name: MiddleAt
+type: d3-device-type-assertion

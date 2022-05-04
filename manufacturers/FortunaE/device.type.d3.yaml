@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bad73c8c-7d8e-4f3f-94fa-a16641ae1bfa
+  macAddresses:
+  - 00:11:A5:00:00:00/24
+  manufacturer: Fortuna Electronic Corp.
+  manufacturerUri: https://device-type.com
+  name: FortunaE
+type: d3-device-type-assertion

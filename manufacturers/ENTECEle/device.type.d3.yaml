@@ -1,0 +1,18 @@
+credentialSubject:
+  id: 78e49ce5-c9d3-4efa-948f-89e0f9d59b89
+  macAddresses:
+  - 00:50:C2:B8:90:00/36
+  - 40:D8:55:02:00:00/36
+  - 40:D8:55:1A:70:00/36
+  - 70:B3:D5:07:E0:00/36
+  - 70:B3:D5:1D:F0:00/36
+  - 70:B3:D5:92:B0:00/36
+  - 70:B3:D5:B4:40:00/36
+  - 70:B3:D5:C7:A0:00/36
+  - 70:B3:D5:E0:B0:00/36
+  - 70:B3:D5:E8:40:00/36
+  - 94:CC:04:90:00:00/28
+  manufacturer: ENTEC Electric & Electronic Co., LTD.
+  manufacturerUri: https://device-type.com
+  name: ENTECEle
+type: d3-device-type-assertion

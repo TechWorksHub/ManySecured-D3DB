@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b872bcd-276a-406a-abab-bfca3b87d310
+  macAddresses:
+  - 00:50:C2:47:70:00/36
+  manufacturer: SEV Tidsystem AB
+  manufacturerUri: https://device-type.com
+  name: SEVTidsy
+type: d3-device-type-assertion

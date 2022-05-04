@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00f616a7-1e21-4512-bb2f-bc18dd8754c7
+  macAddresses:
+  - 00:0C:4E:00:00:00/24
+  manufacturer: Winbest Technology CO,LT
+  manufacturerUri: https://device-type.com
+  name: WinbestT
+type: d3-device-type-assertion

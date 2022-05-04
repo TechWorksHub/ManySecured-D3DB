@@ -1,0 +1,9 @@
+credentialSubject:
+  id: de9befe6-b6b8-4faa-ac08-4cf5ae23ec87
+  macAddresses:
+  - 00:01:6C:00:00:00/24
+  - 00:15:58:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Foxconn
+type: d3-device-type-assertion

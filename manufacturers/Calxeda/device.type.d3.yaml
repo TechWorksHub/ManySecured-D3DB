@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 073f19c8-c3ce-4abe-b65e-c790e99a6214
+  macAddresses:
+  - 74:CA:25:00:00:00/24
+  - FC:2F:40:00:00:00/24
+  manufacturer: Calxeda, Inc.
+  manufacturerUri: https://device-type.com
+  name: Calxeda
+type: d3-device-type-assertion

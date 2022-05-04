@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59ec726b-18aa-4b3e-9c9a-8c1acd214e7f
+  macAddresses:
+  - 00:20:F4:00:00:00/24
+  manufacturer: Spectrix Corporation
+  manufacturerUri: https://device-type.com
+  name: Spectrix
+type: d3-device-type-assertion

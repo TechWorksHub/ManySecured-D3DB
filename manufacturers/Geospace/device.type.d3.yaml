@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e6235ae-ee99-4d51-bf5e-fd17915b6ada
+  macAddresses:
+  - 00:05:F5:00:00:00/24
+  manufacturer: Geospace Technologies
+  manufacturerUri: https://device-type.com
+  name: Geospace
+type: d3-device-type-assertion

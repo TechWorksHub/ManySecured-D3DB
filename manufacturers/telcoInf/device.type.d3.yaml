@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34ffa31e-7029-4f53-badb-10a4aed5036e
+  macAddresses:
+  - 00:07:EE:00:00:00/24
+  manufacturer: telco Informationssysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: telcoInf
+type: d3-device-type-assertion

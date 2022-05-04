@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d78edc53-18a5-435c-bad7-88184dcf7a2a
+  macAddresses:
+  - 00:25:25:00:00:00/24
+  manufacturer: CTERA Networks Ltd.
+  manufacturerUri: https://device-type.com
+  name: CTERANet
+type: d3-device-type-assertion

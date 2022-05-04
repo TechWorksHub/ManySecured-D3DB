@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2856a0f6-ab58-464e-a217-a8f7902a0c22
+  macAddresses:
+  - 00:07:C7:00:00:00/24
+  - 00:14:BC:00:00:00/24
+  manufacturer: Synectics Systems Limited
+  manufacturerUri: https://device-type.com
+  name: Synectic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: babf0ac1-c9ff-4355-a2df-b1b64efd8390
+  macAddresses:
+  - DC:1E:A3:00:00:00/24
+  manufacturer: Accensus LLC
+  manufacturerUri: https://device-type.com
+  name: Accensus
+type: d3-device-type-assertion

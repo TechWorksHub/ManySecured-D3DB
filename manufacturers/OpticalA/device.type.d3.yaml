@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a15465a2-5041-4f47-a164-60975167b305
+  macAddresses:
+  - 00:04:90:00:00:00/24
+  - 00:50:C2:39:A0:00/36
+  - 00:E0:65:00:00:00/24
+  manufacturer: Optical Access
+  manufacturerUri: https://device-type.com
+  name: OpticalA
+type: d3-device-type-assertion

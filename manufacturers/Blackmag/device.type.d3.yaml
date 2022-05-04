@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e89180fe-a1a6-4783-8187-38c1ce216a6f
+  macAddresses:
+  - 7C:2E:0D:00:00:00/24
+  manufacturer: Blackmagic Design
+  manufacturerUri: https://device-type.com
+  name: Blackmag
+type: d3-device-type-assertion

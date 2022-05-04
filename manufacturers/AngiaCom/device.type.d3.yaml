@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 950c35d7-93f7-45b5-a99b-92119a4d8a1b
+  macAddresses:
+  - 00:A0:51:00:00:00/24
+  manufacturer: Angia Communications. Inc.
+  manufacturerUri: https://device-type.com
+  name: AngiaCom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bed54007-8359-495c-9cf3-83e0391f5a58
+  macAddresses:
+  - 00:A0:5E:00:00:00/24
+  manufacturer: Myriad Logic Inc.
+  manufacturerUri: https://device-type.com
+  name: MyriadLo
+type: d3-device-type-assertion

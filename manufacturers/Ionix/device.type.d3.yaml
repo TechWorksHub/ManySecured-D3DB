@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb2e2ee3-552e-454b-bba3-ffdd7076059a
+  macAddresses:
+  - 00:0D:F1:00:00:00/24
+  manufacturer: Ionix Inc.
+  manufacturerUri: https://device-type.com
+  name: Ionix
+type: d3-device-type-assertion

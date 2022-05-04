@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 584792f7-9d39-4425-ab73-bcae05ad4b48
+  macAddresses:
+  - 68:F0:D0:00:00:00/24
+  - 9C:54:DA:00:00:00/24
+  manufacturer: SkyBell Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: SkyBellT
+type: d3-device-type-assertion

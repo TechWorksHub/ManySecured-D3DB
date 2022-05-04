@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d915322-9112-4be4-9660-7dd4ee4a6da3
+  macAddresses:
+  - 00:30:5B:00:00:00/24
+  manufacturer: Toko Inc.
+  manufacturerUri: https://device-type.com
+  name: Toko
+type: d3-device-type-assertion

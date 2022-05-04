@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d116fc0-0936-4558-a839-dbc183cea40b
+  macAddresses:
+  - 8C:47:6E:60:00:00/28
+  manufacturer: Oxford Nanopore Technologies Ltd.
+  manufacturerUri: https://device-type.com
+  name: OxfordNa
+type: d3-device-type-assertion

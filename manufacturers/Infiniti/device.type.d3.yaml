@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 84e4a632-d352-446f-9f19-0b51064d9ccc
+  macAddresses:
+  - 00:50:C2:1C:10:00/36
+  - 00:50:C2:D5:B0:00/36
+  - 10:73:EB:00:00:00/24
+  manufacturer: InfinitiNetworks Inc.
+  manufacturerUri: https://device-type.com
+  name: Infiniti
+type: d3-device-type-assertion

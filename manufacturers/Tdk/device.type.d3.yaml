@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88cfa224-1a25-40ae-a9c1-7ccee2d5fb27
+  macAddresses:
+  - 00:80:98:00:00:00/24
+  manufacturer: Tdk Corporation
+  manufacturerUri: https://device-type.com
+  name: Tdk
+type: d3-device-type-assertion

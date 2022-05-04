@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78baaf9c-f93e-4515-9366-7457e616fbae
+  macAddresses:
+  - 60:86:45:00:00:00/24
+  manufacturer: Avery Weigh-Tronix, LLC
+  manufacturerUri: https://device-type.com
+  name: AveryWei
+type: d3-device-type-assertion

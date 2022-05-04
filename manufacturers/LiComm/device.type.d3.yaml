@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f99e5bd-50d3-449d-9182-a30cbc531e35
+  macAddresses:
+  - 00:1E:03:00:00:00/24
+  manufacturer: LiComm Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: LiComm
+type: d3-device-type-assertion

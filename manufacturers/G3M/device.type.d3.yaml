@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91c62e9f-8a93-4422-be65-7fc440d0a57e
+  macAddresses:
+  - 00:01:54:00:00:00/24
+  manufacturer: G3M Corporation
+  manufacturerUri: https://device-type.com
+  name: G3M
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04e62d2c-00db-43a2-9ded-a055d0abd226
+  macAddresses:
+  - 70:B3:D5:51:F0:00/36
+  manufacturer: Valeo Cda
+  manufacturerUri: https://device-type.com
+  name: ValeoCda
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0bb3a953-44c3-4ed7-8e69-3616371c1926
+  macAddresses:
+  - DC:E5:33:50:00:00/28
+  manufacturer: Controls Inc
+  manufacturerUri: https://device-type.com
+  name: Controls
+type: d3-device-type-assertion

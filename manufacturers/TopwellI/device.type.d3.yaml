@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d5510b4-abcb-4103-9b9c-d97a7722f1b9
+  macAddresses:
+  - D0:6F:4A:00:00:00/24
+  - FC:6B:F0:00:00:00/24
+  manufacturer: Topwell International Holdings Limited
+  manufacturerUri: https://device-type.com
+  name: TopwellI
+type: d3-device-type-assertion

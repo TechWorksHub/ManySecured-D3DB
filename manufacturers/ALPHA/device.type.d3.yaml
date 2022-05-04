@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c4d3f170-bc31-4dde-87ad-4580dc41de8f
+  macAddresses:
+  - 00:50:C2:D6:C0:00/36
+  - 70:B3:D5:D6:70:00/36
+  - 8C:1F:64:8E:20:00/36
+  manufacturer: ALPHA Corporation
+  manufacturerUri: https://device-type.com
+  name: ALPHA
+type: d3-device-type-assertion

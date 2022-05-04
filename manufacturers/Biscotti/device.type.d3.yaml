@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88fed936-2ef2-429e-9c40-bb972a8a59b1
+  macAddresses:
+  - C0:3F:2A:00:00:00/24
+  manufacturer: Biscotti, Inc.
+  manufacturerUri: https://device-type.com
+  name: Biscotti
+type: d3-device-type-assertion

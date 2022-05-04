@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59668a07-6b13-4f93-8e28-c688b9bab97b
+  macAddresses:
+  - 00:02:27:00:00:00/24
+  manufacturer: ESD Electronic System Design GmbH
+  manufacturerUri: https://device-type.com
+  name: ESDElect
+type: d3-device-type-assertion

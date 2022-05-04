@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f364f2d4-d996-457f-ad0e-d654bb1d0e87
+  macAddresses:
+  - 00:12:10:00:00:00/24
+  manufacturer: WideRay Corp
+  manufacturerUri: https://device-type.com
+  name: WideRay
+type: d3-device-type-assertion

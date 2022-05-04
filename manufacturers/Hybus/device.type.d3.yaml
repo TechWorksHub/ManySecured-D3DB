@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95e6f364-9058-46fb-a082-ca6fbfed9529
+  macAddresses:
+  - 00:24:8B:00:00:00/24
+  manufacturer: Hybus Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Hybus
+type: d3-device-type-assertion

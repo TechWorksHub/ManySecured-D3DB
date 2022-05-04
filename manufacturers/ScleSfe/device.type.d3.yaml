@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d045128-7318-46f6-bd09-f4d87dae29f2
+  macAddresses:
+  - 9C:A1:0A:00:00:00/24
+  manufacturer: Scle Sfe
+  manufacturerUri: https://device-type.com
+  name: ScleSfe
+type: d3-device-type-assertion

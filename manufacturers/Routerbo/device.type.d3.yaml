@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 28e639a3-554d-4e34-8b94-655b1cb1d981
+  macAddresses:
+  - 00:0C:42:00:00:00/24
+  - 08:55:31:00:00:00/24
+  - 18:FD:74:00:00:00/24
+  - 2C:C8:1B:00:00:00/24
+  - 48:8F:5A:00:00:00/24
+  - 4C:5E:0C:00:00:00/24
+  - 64:D1:54:00:00:00/24
+  - 6C:3B:6B:00:00:00/24
+  - 74:4D:28:00:00:00/24
+  - B8:69:F4:00:00:00/24
+  - C4:AD:34:00:00:00/24
+  - CC:2D:E0:00:00:00/24
+  - D4:CA:6D:00:00:00/24
+  - DC:2C:6E:00:00:00/24
+  - E4:8D:8C:00:00:00/24
+  manufacturer: Routerboard.com
+  manufacturerUri: https://device-type.com
+  name: Routerbo
+type: d3-device-type-assertion

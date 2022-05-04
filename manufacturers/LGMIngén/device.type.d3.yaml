@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42160a88-c263-46d3-a154-8c44624c32b1
+  macAddresses:
+  - 70:B3:D5:96:80:00/36
+  manufacturer: "LGM Ing\xE9nierie"
+  manufacturerUri: https://device-type.com
+  name: "LGMIng\xE9n"
+type: d3-device-type-assertion

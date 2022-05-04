@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dda7b60d-7d14-4fdc-bc2b-12ef8c754b7e
+  macAddresses:
+  - 00:05:B2:00:00:00/24
+  manufacturer: Medison Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Medison
+type: d3-device-type-assertion

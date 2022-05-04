@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de1a1acc-bd8b-47b5-be0a-0851eea8bce6
+  macAddresses:
+  - 00:90:3B:00:00:00/24
+  manufacturer: TriEMS Research Lab, Inc.
+  manufacturerUri: https://device-type.com
+  name: TriEMSRe
+type: d3-device-type-assertion

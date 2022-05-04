@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8abccb01-d419-4f11-ac52-7a08962b1433
+  macAddresses:
+  - 00:22:E2:00:00:00/24
+  manufacturer: WABTEC Transit Division
+  manufacturerUri: https://device-type.com
+  name: WABTECTr
+type: d3-device-type-assertion

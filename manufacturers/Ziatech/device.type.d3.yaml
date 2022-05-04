@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8a5a515-5a1a-4bc8-8ab6-00032d4d7caa
+  macAddresses:
+  - 00:80:50:00:00:00/24
+  manufacturer: Ziatech Corporation
+  manufacturerUri: https://device-type.com
+  name: Ziatech
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d51fe2de-b63d-4322-a4ac-31d36c723138
+  macAddresses:
+  - 1C:21:D1:A0:00:00/28
+  - B0:98:9F:00:00:00/24
+  manufacturer: Lg Cns
+  manufacturerUri: https://device-type.com
+  name: LgCns
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0c9438b-36fc-4893-aa5d-b885ea5b63c5
+  macAddresses:
+  - 00:15:E3:00:00:00/24
+  manufacturer: Dream Technologies Corporation
+  manufacturerUri: https://device-type.com
+  name: DreamTec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: acd129fa-d81f-49c7-9f35-b36c483ddc76
+  macAddresses:
+  - 00:05:F1:00:00:00/24
+  manufacturer: Vrcom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Vrcom
+type: d3-device-type-assertion

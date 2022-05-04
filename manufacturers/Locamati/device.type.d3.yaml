@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 82a102d4-b563-4e56-9d96-5a28060e0ff1
+  macAddresses:
+  - 00:40:D6:00:00:00/24
+  manufacturer: Locamation B.V.
+  manufacturerUri: https://device-type.com
+  name: Locamati
+type: d3-device-type-assertion

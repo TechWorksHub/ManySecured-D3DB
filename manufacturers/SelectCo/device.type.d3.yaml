@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d121fbf-b84e-479b-938a-094c8b19158e
+  macAddresses:
+  - 64:DB:A0:00:00:00/24
+  - CC:04:B4:00:00:00/24
+  manufacturer: Select Comfort
+  manufacturerUri: https://device-type.com
+  name: SelectCo
+type: d3-device-type-assertion

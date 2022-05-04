@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3859689d-03ea-49af-84de-6da864550fa5
+  macAddresses:
+  - 00:0F:AA:00:00:00/24
+  - 70:B3:D5:0C:10:00/36
+  - 70:B3:D5:B8:A0:00/36
+  manufacturer: Nexus Technologies
+  manufacturerUri: https://device-type.com
+  name: NexusTec
+type: d3-device-type-assertion

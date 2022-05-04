@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91b60043-7739-43cb-8df4-843b6dba97df
+  macAddresses:
+  - 18:C4:51:00:00:00/24
+  manufacturer: Tucson Embedded Systems
+  manufacturerUri: https://device-type.com
+  name: TucsonEm
+type: d3-device-type-assertion

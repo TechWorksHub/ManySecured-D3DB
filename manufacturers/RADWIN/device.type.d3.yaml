@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3400d2a-2ddb-4693-96c1-073ed21a82f8
+  macAddresses:
+  - 00:15:67:00:00:00/24
+  manufacturer: RADWIN Inc.
+  manufacturerUri: https://device-type.com
+  name: RADWIN
+type: d3-device-type-assertion

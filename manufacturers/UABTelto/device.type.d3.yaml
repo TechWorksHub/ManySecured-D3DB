@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9d4cddfd-3444-4dc7-a375-66eb4ab0d256
+  macAddresses:
+  - 38:8A:21:00:00:00/24
+  - 7C:D9:F4:00:00:00/24
+  manufacturer: UAB "Teltonika Telematics"
+  manufacturerUri: https://device-type.com
+  name: UABTelto
+type: d3-device-type-assertion

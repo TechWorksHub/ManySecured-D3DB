@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c368a4e-d22f-4ced-9cbc-801e17cf24c1
+  macAddresses:
+  - 2C:22:8B:00:00:00/24
+  manufacturer: Ctr Srl
+  manufacturerUri: https://device-type.com
+  name: Ctr
+type: d3-device-type-assertion

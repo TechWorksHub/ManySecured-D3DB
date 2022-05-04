@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03282121-4ae9-470f-8934-2526dd96aba5
+  macAddresses:
+  - 00:1F:50:00:00:00/24
+  manufacturer: Swissdis AG
+  manufacturerUri: https://device-type.com
+  name: Swissdis
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b68af711-0f1e-47cc-9a6d-513cf1035c26
+  macAddresses:
+  - 28:89:15:00:00:00/24
+  manufacturer: CashGuard Sverige AB
+  manufacturerUri: https://device-type.com
+  name: CashGuar
+type: d3-device-type-assertion

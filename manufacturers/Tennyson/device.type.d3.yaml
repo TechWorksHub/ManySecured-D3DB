@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ae46bf2-143c-445c-8351-6604a311767b
+  macAddresses:
+  - 00:A0:E0:00:00:00/24
+  manufacturer: Tennyson Technologies Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Tennyson
+type: d3-device-type-assertion

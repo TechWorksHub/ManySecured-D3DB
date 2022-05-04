@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bcf23df-0190-4bcf-ab24-2ce4e4c0e058
+  macAddresses:
+  - 60:F3:DA:00:00:00/24
+  manufacturer: Logic Way GmbH
+  manufacturerUri: https://device-type.com
+  name: LogicWay
+type: d3-device-type-assertion

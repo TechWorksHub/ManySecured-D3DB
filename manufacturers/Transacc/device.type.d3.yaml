@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b2b09eb-7beb-4fa0-8716-86f0c5a9ac56
+  macAddresses:
+  - 00:07:B2:00:00:00/24
+  manufacturer: Transaccess S.A.
+  manufacturerUri: https://device-type.com
+  name: Transacc
+type: d3-device-type-assertion

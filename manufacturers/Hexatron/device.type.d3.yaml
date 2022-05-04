@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e2d5c540-9fa2-4194-803f-ccc23b853243
+  macAddresses:
+  - AC:80:D6:00:00:00/24
+  manufacturer: Hexatronic AB
+  manufacturerUri: https://device-type.com
+  name: Hexatron
+type: d3-device-type-assertion

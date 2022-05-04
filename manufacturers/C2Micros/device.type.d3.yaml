@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 42b41b53-fe6e-40d8-98cd-396bbd41320a
+  macAddresses:
+  - 00:50:C2:7A:F0:00/36
+  - E0:BC:43:00:00:00/24
+  manufacturer: C2 Microsystems
+  manufacturerUri: https://device-type.com
+  name: C2Micros
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a59b398f-f4e0-43a8-9c69-e4cb960af549
+  macAddresses:
+  - 00:02:AE:00:00:00/24
+  manufacturer: Scannex Electronics Ltd.
+  manufacturerUri: https://device-type.com
+  name: ScannexE
+type: d3-device-type-assertion

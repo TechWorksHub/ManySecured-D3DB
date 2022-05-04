@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 154c034b-c4a8-4abe-8a7d-f51743e66aa1
+  macAddresses:
+  - 00:07:5F:00:00:00/24
+  manufacturer: VCS Video Communication Systems AG
+  manufacturerUri: https://device-type.com
+  name: VCSVideo
+type: d3-device-type-assertion

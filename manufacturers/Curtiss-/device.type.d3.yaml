@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e8d03e0c-c065-4018-8ac3-1c15a60bcf13
+  macAddresses:
+  - 00:0C:4D:00:00:00/24
+  - 2C:16:BD:10:00:00/28
+  manufacturer: Curtiss-Wright Controls Avionics & Electronics
+  manufacturerUri: https://device-type.com
+  name: Curtiss-
+type: d3-device-type-assertion

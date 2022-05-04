@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c923d23-2751-4e3e-af4d-b08aa231e44b
+  macAddresses:
+  - 00:1C:2F:00:00:00/24
+  manufacturer: Pfister GmbH
+  manufacturerUri: https://device-type.com
+  name: Pfister
+type: d3-device-type-assertion

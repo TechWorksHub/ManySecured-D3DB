@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a3aba3e0-ad8b-4f8c-879d-5721f78510fd
+  macAddresses:
+  - 00:50:AE:00:00:00/24
+  manufacturer: FDK Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: FDK
+type: d3-device-type-assertion

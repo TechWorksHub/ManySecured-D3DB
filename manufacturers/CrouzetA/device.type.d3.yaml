@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f3dd1af-1509-4031-bf29-6fac2b177e0b
+  macAddresses:
+  - 84:AC:FB:00:00:00/24
+  manufacturer: Crouzet Automatismes
+  manufacturerUri: https://device-type.com
+  name: CrouzetA
+type: d3-device-type-assertion

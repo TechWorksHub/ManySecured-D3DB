@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b42c2d3a-95f3-4114-939a-93c33e285a86
+  macAddresses:
+  - 08:03:71:00:00:00/24
+  manufacturer: Krg Corporate
+  manufacturerUri: https://device-type.com
+  name: KrgCorpo
+type: d3-device-type-assertion

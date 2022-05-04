@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc175d5f-2a66-4d1b-8b38-65faac79ceb6
+  macAddresses:
+  - 7C:79:E8:00:00:00/24
+  manufacturer: PayRange Inc.
+  manufacturerUri: https://device-type.com
+  name: PayRange
+type: d3-device-type-assertion

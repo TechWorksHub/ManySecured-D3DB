@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 583de129-c541-4bf8-911c-9b0a5b45472f
+  macAddresses:
+  - 00:04:D0:00:00:00/24
+  - F8:3D:4E:00:00:00/24
+  manufacturer: Softlink s.r.o.
+  manufacturerUri: https://device-type.com
+  name: Softlink
+type: d3-device-type-assertion

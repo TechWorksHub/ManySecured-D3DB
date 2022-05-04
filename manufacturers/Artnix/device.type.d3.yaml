@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 53da7a59-01c1-49bd-bf1c-cffc2a239771
+  macAddresses:
+  - 00:0A:2F:00:00:00/24
+  manufacturer: Artnix Inc.
+  manufacturerUri: https://device-type.com
+  name: Artnix
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bee069cb-2e8d-4073-a8a9-7eb6a2a203b5
+  macAddresses:
+  - 78:49:1D:00:00:00/24
+  manufacturer: The Will-Burt Company
+  manufacturerUri: https://device-type.com
+  name: Will-Bur
+type: d3-device-type-assertion

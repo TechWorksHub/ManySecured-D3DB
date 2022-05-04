@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae85f398-0e27-43d0-9e19-b1adbc16a225
+  macAddresses:
+  - 00:01:48:00:00:00/24
+  manufacturer: X-traWeb Inc.
+  manufacturerUri: https://device-type.com
+  name: X-traWeb
+type: d3-device-type-assertion

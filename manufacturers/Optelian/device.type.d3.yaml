@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d49cb76-d1e8-49bc-b4f7-77b1c077cf31
+  macAddresses:
+  - 00:18:0C:00:00:00/24
+  manufacturer: Optelian Access Networks
+  manufacturerUri: https://device-type.com
+  name: Optelian
+type: d3-device-type-assertion

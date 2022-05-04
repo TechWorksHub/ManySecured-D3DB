@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59c66633-b2ca-488c-b63c-8d754d7247f7
+  macAddresses:
+  - 1C:F0:61:00:00:00/24
+  manufacturer: SCAPS GmbH
+  manufacturerUri: https://device-type.com
+  name: SCAPS
+type: d3-device-type-assertion

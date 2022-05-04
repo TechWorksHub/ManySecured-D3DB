@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1f4464c-63f1-414e-8d7b-1625ff0e4c48
+  macAddresses:
+  - 98:02:D8:A0:00:00/28
+  manufacturer: HySecurity
+  manufacturerUri: https://device-type.com
+  name: HySecuri
+type: d3-device-type-assertion

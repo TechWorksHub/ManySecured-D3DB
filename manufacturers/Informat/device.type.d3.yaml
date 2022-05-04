@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 2ea7a216-6478-43b7-af29-835e4e2f76af
+  macAddresses:
+  - 00:00:12:00:00:00/24
+  - 00:00:9B:00:00:00/24
+  - 00:00:C2:00:00:00/24
+  - 00:02:9E:00:00:00/24
+  - 00:20:E2:00:00:00/24
+  - 00:21:E7:00:00:00/24
+  - 00:50:C2:25:60:00/36
+  - 4C:42:4C:00:00:00/24
+  - CC:5D:57:00:00:00/24
+  manufacturer: Information Technology Limited
+  manufacturerUri: https://device-type.com
+  name: Informat
+type: d3-device-type-assertion

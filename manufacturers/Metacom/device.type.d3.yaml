@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e2347f3-288e-4d7e-bfd5-44cc9565479a
+  macAddresses:
+  - 00:19:6E:00:00:00/24
+  manufacturer: Metacom (Pty) Ltd.
+  manufacturerUri: https://device-type.com
+  name: Metacom
+type: d3-device-type-assertion

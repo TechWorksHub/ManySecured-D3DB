@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c81f51cd-4361-4bf1-849a-88af3beda136
+  macAddresses:
+  - 00:0F:E3:00:00:00/24
+  manufacturer: Damm Cellular Systems A/S
+  manufacturerUri: https://device-type.com
+  name: DammCell
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc3b902b-03e3-44e7-a8d6-3fccbe9c73df
+  macAddresses:
+  - 00:0C:32:00:00:00/24
+  manufacturer: Avionic Design GmbH
+  manufacturerUri: https://device-type.com
+  name: AvionicD
+type: d3-device-type-assertion

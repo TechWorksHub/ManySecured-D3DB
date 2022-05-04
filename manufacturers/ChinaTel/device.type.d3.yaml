@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cbd954bf-ffe3-472f-908f-569337d834be
+  macAddresses:
+  - 20:AC:9C:00:00:00/24
+  - 70:B3:D5:38:E0:00/36
+  manufacturer: China Telecom Corporation Limited
+  manufacturerUri: https://device-type.com
+  name: ChinaTel
+type: d3-device-type-assertion

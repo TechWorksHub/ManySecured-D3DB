@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8bdaca0c-72bd-42ca-ac10-8944a2772830
+  macAddresses:
+  - 00:22:E5:00:00:00/24
+  manufacturer: Fisher-Rosemount Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Fisher-R
+type: d3-device-type-assertion

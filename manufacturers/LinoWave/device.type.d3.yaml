@@ -1,0 +1,8 @@
+credentialSubject:
+  id: afb881be-2b5b-439d-938d-5f1f4cf05c4a
+  macAddresses:
+  - 00:22:96:00:00:00/24
+  manufacturer: LinoWave Corporation
+  manufacturerUri: https://device-type.com
+  name: LinoWave
+type: d3-device-type-assertion

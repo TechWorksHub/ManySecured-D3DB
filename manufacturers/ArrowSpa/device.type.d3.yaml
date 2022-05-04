@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d55d619a-6afb-43a6-b5f5-aba0b0854ed4
+  macAddresses:
+  - 00:14:67:00:00:00/24
+  manufacturer: ArrowSpan Inc.
+  manufacturerUri: https://device-type.com
+  name: ArrowSpa
+type: d3-device-type-assertion

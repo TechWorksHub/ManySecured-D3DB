@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1accd3e-ec55-4a06-9026-6fee7bb8a326
+  macAddresses:
+  - 6C:23:CB:00:00:00/24
+  manufacturer: Wattty Corporation
+  manufacturerUri: https://device-type.com
+  name: Wattty
+type: d3-device-type-assertion

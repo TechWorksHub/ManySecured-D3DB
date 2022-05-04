@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4d5014c-eac2-4aa7-b00c-b1a5c578f0e3
+  macAddresses:
+  - 00:15:DB:00:00:00/24
+  manufacturer: Canesta Inc.
+  manufacturerUri: https://device-type.com
+  name: Canesta
+type: d3-device-type-assertion

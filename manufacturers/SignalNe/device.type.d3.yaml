@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb26ecd1-b2fc-4880-99c9-8e6fce07b95d
+  macAddresses:
+  - 00:1A:B0:00:00:00/24
+  manufacturer: Signal Networks Pvt. Ltd.,
+  manufacturerUri: https://device-type.com
+  name: SignalNe
+type: d3-device-type-assertion

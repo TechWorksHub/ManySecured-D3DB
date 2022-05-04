@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 057d0726-f758-4afd-a013-3d0f22fa62eb
+  macAddresses:
+  - 00:09:A0:00:00:00/24
+  - 00:20:86:00:00:00/24
+  - 00:50:C2:A1:C0:00/36
+  - CC:1B:E0:00:00:00/28
+  manufacturer: Microtechno Corporation
+  manufacturerUri: https://device-type.com
+  name: Microtec
+type: d3-device-type-assertion

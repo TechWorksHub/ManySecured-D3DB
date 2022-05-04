@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9dab2010-c905-4e69-8a68-23eb015ad044
+  macAddresses:
+  - 00:10:C5:00:00:00/24
+  manufacturer: Protocol Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Protocol
+type: d3-device-type-assertion

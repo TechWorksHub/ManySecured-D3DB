@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60564fae-22d6-4f98-9422-f42455e0d69f
+  macAddresses:
+  - 00:24:40:00:00:00/24
+  manufacturer: Halo Monitoring, Inc.
+  manufacturerUri: https://device-type.com
+  name: HaloMoni
+type: d3-device-type-assertion

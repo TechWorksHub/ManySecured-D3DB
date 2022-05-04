@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 69344452-e074-40c7-a880-77f47c043672
+  macAddresses:
+  - 00:A0:DE:00:00:00/24
+  - AC:44:F2:00:00:00/24
+  manufacturer: Yamaha Corporation
+  manufacturerUri: https://device-type.com
+  name: Yamaha
+type: d3-device-type-assertion

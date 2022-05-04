@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45216cdf-fda0-4162-90b1-32ccbe183e06
+  macAddresses:
+  - 00:0C:EE:00:00:00/24
+  manufacturer: jp-embedded
+  manufacturerUri: https://device-type.com
+  name: jp-embed
+type: d3-device-type-assertion

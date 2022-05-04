@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0890b952-a8cd-42e7-b1fc-3bc714d467c5
+  macAddresses:
+  - 10:07:23:70:00:00/28
+  manufacturer: nanoTech Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: nanoTech
+type: d3-device-type-assertion

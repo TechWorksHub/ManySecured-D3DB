@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de58428d-1b6f-46f6-83fa-753ff2836069
+  macAddresses:
+  - 00:23:C4:00:00:00/24
+  manufacturer: Lux Lumen
+  manufacturerUri: https://device-type.com
+  name: LuxLumen
+type: d3-device-type-assertion

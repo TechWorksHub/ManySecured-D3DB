@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63e836d8-bf37-42b1-b4c8-5fc8a02b708f
+  macAddresses:
+  - DC:3C:84:00:00:00/24
+  manufacturer: Ticom Geomatics, Inc.
+  manufacturerUri: https://device-type.com
+  name: TicomGeo
+type: d3-device-type-assertion

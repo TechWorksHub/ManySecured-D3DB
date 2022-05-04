@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 69aa83c1-cef0-4b6b-9b6b-2b0faf2daade
+  macAddresses:
+  - 00:30:2C:00:00:00/24
+  manufacturer: Sylantro Systems Corporation
+  manufacturerUri: https://device-type.com
+  name: Sylantro
+type: d3-device-type-assertion

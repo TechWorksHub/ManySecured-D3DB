@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4fe0b279-2f3e-47e1-badc-9deefbb1f0d0
+  macAddresses:
+  - 00:11:E9:00:00:00/24
+  manufacturer: Starnex Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Starnex
+type: d3-device-type-assertion

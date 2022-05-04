@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2a46dee6-eb42-4fcc-b383-27149a0689ee
+  macAddresses:
+  - 00:14:71:00:00:00/24
+  - 00:25:D1:00:00:00/24
+  manufacturer: Eastern Asia Technology Limited
+  manufacturerUri: https://device-type.com
+  name: EasternA
+type: d3-device-type-assertion

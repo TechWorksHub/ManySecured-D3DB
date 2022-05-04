@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 8addafb1-4f24-473e-be17-f7d91a376068
+  macAddresses:
+  - 70:B3:D5:04:00:00/36
+  - 70:B3:D5:20:70:00/36
+  - 9C:F6:DD:80:00:00/28
+  manufacturer: Savari Inc
+  manufacturerUri: https://device-type.com
+  name: Savari
+type: d3-device-type-assertion

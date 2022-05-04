@@ -1,0 +1,12 @@
+credentialSubject:
+  id: d23182a6-6c42-4f24-b24f-8f7708f60199
+  macAddresses:
+  - 00:50:C2:20:F0:00/36
+  - 00:50:C2:78:B0:00/36
+  - 00:50:C2:9B:B0:00/36
+  - 00:50:C2:C1:60:00/36
+  - 20:B7:C0:00:00:00/24
+  manufacturer: OMICRON electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: OMICRONe
+type: d3-device-type-assertion

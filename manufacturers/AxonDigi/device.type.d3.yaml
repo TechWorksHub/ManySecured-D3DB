@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d0c7b016-a7ba-45b6-af48-99eb6a078262
+  macAddresses:
+  - 00:03:41:00:00:00/24
+  manufacturer: Axon Digital Design
+  manufacturerUri: https://device-type.com
+  name: AxonDigi
+type: d3-device-type-assertion

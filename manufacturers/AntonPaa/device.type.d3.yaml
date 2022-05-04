@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2360a66-36b6-4e19-9b36-9204da55c22b
+  macAddresses:
+  - 00:0D:D9:00:00:00/24
+  manufacturer: Anton Paar GmbH
+  manufacturerUri: https://device-type.com
+  name: AntonPaa
+type: d3-device-type-assertion

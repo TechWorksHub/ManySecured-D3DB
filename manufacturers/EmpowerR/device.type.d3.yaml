@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e710015-f6ab-4555-908d-34aa126190ce
+  macAddresses:
+  - CC:60:BB:00:00:00/24
+  manufacturer: Empower RF Systems
+  manufacturerUri: https://device-type.com
+  name: EmpowerR
+type: d3-device-type-assertion

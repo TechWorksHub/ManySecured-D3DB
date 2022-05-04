@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f77cf14-1bdb-4306-ac52-1d841bc42950
+  macAddresses:
+  - 70:B3:D5:5F:00:00/36
+  manufacturer: managee GmbH & Co KG
+  manufacturerUri: https://device-type.com
+  name: managee
+type: d3-device-type-assertion

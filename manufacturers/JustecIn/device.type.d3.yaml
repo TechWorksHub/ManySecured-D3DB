@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b275c44-8103-4d41-87c0-c2e6bf74014b
+  macAddresses:
+  - 10:13:EE:00:00:00/24
+  manufacturer: Justec International Technology INC.
+  manufacturerUri: https://device-type.com
+  name: JustecIn
+type: d3-device-type-assertion

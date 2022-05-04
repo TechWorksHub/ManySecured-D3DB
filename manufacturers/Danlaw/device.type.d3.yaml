@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 53f8f5ec-62b8-49ba-bdb4-2c4166ad7bf1
+  macAddresses:
+  - 00:50:C2:27:C0:00/36
+  - 08:90:BA:00:00:00/24
+  - 4C:CE:2D:00:00:00/24
+  manufacturer: Danlaw Inc
+  manufacturerUri: https://device-type.com
+  name: Danlaw
+type: d3-device-type-assertion

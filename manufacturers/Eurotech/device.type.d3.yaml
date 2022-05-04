@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 41b215b4-652d-49ad-8f6b-a2891d595ab5
+  macAddresses:
+  - 00:60:0C:00:00:00/24
+  - 00:E0:C7:00:00:00/24
+  manufacturer: Eurotech Inc.
+  manufacturerUri: https://device-type.com
+  name: Eurotech
+type: d3-device-type-assertion

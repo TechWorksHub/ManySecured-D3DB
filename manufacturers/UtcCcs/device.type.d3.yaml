@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cb9963c5-4537-48c3-b658-a8b752175e51
+  macAddresses:
+  - 00:08:F8:00:00:00/24
+  - 00:B0:19:00:00:00/24
+  manufacturer: Utc Ccs
+  manufacturerUri: https://device-type.com
+  name: UtcCcs
+type: d3-device-type-assertion

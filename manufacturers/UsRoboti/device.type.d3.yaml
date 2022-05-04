@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe75f2bd-ce7b-4c21-8736-5723c5f5ee10
+  macAddresses:
+  - 00:C0:49:00:00:00/24
+  manufacturer: US Robotics Total Control (tm) NETServer Card
+  manufacturerUri: https://device-type.com
+  name: UsRoboti
+type: d3-device-type-assertion

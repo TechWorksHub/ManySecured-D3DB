@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00f2aeff-dcf8-4802-9eb0-6575713a42bf
+  macAddresses:
+  - 00:30:D9:00:00:00/24
+  manufacturer: Datacore Software Corp.
+  manufacturerUri: https://device-type.com
+  name: Datacore
+type: d3-device-type-assertion

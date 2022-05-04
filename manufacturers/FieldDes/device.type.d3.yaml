@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 58d98a61-9ea2-4030-8d72-1adcd635065a
+  macAddresses:
+  - 00:50:C2:7A:10:00/36
+  - 70:B3:D5:8D:10:00/36
+  manufacturer: Field Design Service
+  manufacturerUri: https://device-type.com
+  name: FieldDes
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 408f50db-1c7b-4777-a3ec-d15d0aa57f96
+  macAddresses:
+  - 00:0D:3F:00:00:00/24
+  manufacturer: VTI Instruments Corporation
+  manufacturerUri: https://device-type.com
+  name: VTIInstr
+type: d3-device-type-assertion

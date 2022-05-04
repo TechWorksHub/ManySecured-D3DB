@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27b7e446-4c1d-43aa-b7a1-113d4794453c
+  macAddresses:
+  - E0:E6:56:00:00:00/24
+  manufacturer: Nethesis srl
+  manufacturerUri: https://device-type.com
+  name: Nethesis
+type: d3-device-type-assertion

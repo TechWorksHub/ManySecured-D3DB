@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df1a42f4-81c9-43eb-abbc-03aa69dd4522
+  macAddresses:
+  - 00:01:66:00:00:00/24
+  manufacturer: Tc Group A/S
+  manufacturerUri: https://device-type.com
+  name: TcGroup
+type: d3-device-type-assertion

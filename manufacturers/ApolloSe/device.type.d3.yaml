@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95ab9302-aa1e-4107-8511-02aceffdb5bd
+  macAddresses:
+  - 14:44:4A:00:00:00/24
+  manufacturer: Apollo Seiko Ltd.
+  manufacturerUri: https://device-type.com
+  name: ApolloSe
+type: d3-device-type-assertion

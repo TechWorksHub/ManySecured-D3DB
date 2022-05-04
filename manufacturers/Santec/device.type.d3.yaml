@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f0b5c014-69d9-455d-ab55-9da8a628aac0
+  macAddresses:
+  - 00:1E:44:00:00:00/24
+  - 2C:48:35:C0:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Santec
+type: d3-device-type-assertion

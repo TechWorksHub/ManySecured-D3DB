@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ccaab58e-4c11-4deb-86f8-4904bb71765d
+  macAddresses:
+  - 00:03:7F:00:00:00/24
+  - 00:13:74:00:00:00/24
+  - 00:B0:52:00:00:00/24
+  manufacturer: Atheros Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: AtherosC
+type: d3-device-type-assertion

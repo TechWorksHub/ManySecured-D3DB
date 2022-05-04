@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e8970129-f37a-4393-a544-9fc13601f257
+  macAddresses:
+  - 00:1A:94:00:00:00/24
+  manufacturer: Votronic GmbH
+  manufacturerUri: https://device-type.com
+  name: Votronic
+type: d3-device-type-assertion

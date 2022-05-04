@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6e4414b4-a6e4-4adf-a674-4542095c3cf2
+  macAddresses:
+  - 18:3B:D2:00:00:00/24
+  - 90:20:3A:00:00:00/24
+  - 98:BB:1E:00:00:00/24
+  - BC:23:92:00:00:00/24
+  manufacturer: BYD Precision Manufacture Company Ltd.
+  manufacturerUri: https://device-type.com
+  name: BYDPreci
+type: d3-device-type-assertion

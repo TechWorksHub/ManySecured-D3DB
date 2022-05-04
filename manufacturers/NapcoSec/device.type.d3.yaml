@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ac56569-9778-4cb6-ae62-0b846b59c368
+  macAddresses:
+  - D4:F0:B4:00:00:00/24
+  manufacturer: Napco Security Technologies
+  manufacturerUri: https://device-type.com
+  name: NapcoSec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b90e7d44-b0d7-4939-954f-ca9245cf8d87
+  macAddresses:
+  - 00:09:9B:00:00:00/24
+  manufacturer: Western Telematic Inc.
+  manufacturerUri: https://device-type.com
+  name: WesternT
+type: d3-device-type-assertion

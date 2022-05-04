@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8d9c800-f77a-4ed4-83dd-89e6a8576756
+  macAddresses:
+  - 00:14:96:00:00:00/24
+  manufacturer: Phonic Corp.
+  manufacturerUri: https://device-type.com
+  name: Phonic
+type: d3-device-type-assertion

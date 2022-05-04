@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ea49d9d-be26-4716-acf2-19d83336c5ff
+  macAddresses:
+  - 00:80:FD:00:00:00/24
+  manufacturer: Exsceed Corpration
+  manufacturerUri: https://device-type.com
+  name: ExsceedC
+type: d3-device-type-assertion

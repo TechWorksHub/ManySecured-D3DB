@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b96e2fb3-c55e-466e-b1c7-0892a26dde37
+  macAddresses:
+  - 00:40:E0:00:00:00/24
+  manufacturer: Atomwide Ltd.
+  manufacturerUri: https://device-type.com
+  name: Atomwide
+type: d3-device-type-assertion

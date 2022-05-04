@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 50971d8b-d6db-4afb-8676-b19807b54963
+  macAddresses:
+  - 40:D8:55:17:D0:00/36
+  - B8:D8:12:A0:00:00/28
+  manufacturer: Kiwigrid GmbH
+  manufacturerUri: https://device-type.com
+  name: Kiwigrid
+type: d3-device-type-assertion

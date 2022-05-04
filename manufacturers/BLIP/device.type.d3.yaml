@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce8cb4b3-f14d-449d-820e-61c16477cf00
+  macAddresses:
+  - 00:0E:A5:00:00:00/24
+  manufacturer: BLIP Systems
+  manufacturerUri: https://device-type.com
+  name: BLIP
+type: d3-device-type-assertion

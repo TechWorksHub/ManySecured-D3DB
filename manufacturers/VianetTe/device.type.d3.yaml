@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f51e7ae-df2a-4aac-93cb-99568123df60
+  macAddresses:
+  - 00:30:A6:00:00:00/24
+  manufacturer: Vianet Technologies, Ltd.
+  manufacturerUri: https://device-type.com
+  name: VianetTe
+type: d3-device-type-assertion

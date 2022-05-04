@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e085269-6421-4454-b40a-cd3c9f117ffe
+  macAddresses:
+  - 00:D0:04:00:00:00/24
+  manufacturer: Pentacom Ltd.
+  manufacturerUri: https://device-type.com
+  name: Pentacom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a68c1c0-b017-4e07-857e-f9a6163c33c8
+  macAddresses:
+  - 38:05:46:00:00:00/24
+  manufacturer: Foctek Photonics, Inc.
+  manufacturerUri: https://device-type.com
+  name: FoctekPh
+type: d3-device-type-assertion

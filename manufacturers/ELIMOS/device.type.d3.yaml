@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ffbd7d97-00a3-464f-9d1e-9aec037a5fbf
+  macAddresses:
+  - 0C:E9:36:00:00:00/24
+  manufacturer: ELIMOS srl
+  manufacturerUri: https://device-type.com
+  name: ELIMOS
+type: d3-device-type-assertion

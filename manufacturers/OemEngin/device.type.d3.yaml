@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a1be6d9-3b1a-4a09-8342-497c1559cd1e
+  macAddresses:
+  - 00:40:F5:00:00:00/24
+  manufacturer: Oem Engines
+  manufacturerUri: https://device-type.com
+  name: OemEngin
+type: d3-device-type-assertion

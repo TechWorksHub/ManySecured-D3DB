@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cbd7388-a480-4a0d-a8e0-cd802aae7a43
+  macAddresses:
+  - 74:73:1D:00:00:00/24
+  manufacturer: ifm electronic gmbh
+  manufacturerUri: https://device-type.com
+  name: ifmelect
+type: d3-device-type-assertion

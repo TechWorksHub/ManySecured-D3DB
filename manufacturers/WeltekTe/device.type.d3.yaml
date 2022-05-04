@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c34f846f-c9b3-4125-a088-bbc75a53c12c
+  macAddresses:
+  - 00:50:C2:C4:70:00/36
+  - 70:B3:D5:A4:F0:00/36
+  - 70:B3:D5:C4:80:00/36
+  manufacturer: Weltek Technologies Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: WeltekTe
+type: d3-device-type-assertion

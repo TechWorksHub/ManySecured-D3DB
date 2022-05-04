@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b374711b-71dd-4af1-a617-e82aab3e2add
+  macAddresses:
+  - 00:26:3D:00:00:00/24
+  manufacturer: MIA Corporation
+  manufacturerUri: https://device-type.com
+  name: MIA
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e4f9cfb2-2771-43fb-8db0-5c57c63da4ae
+  macAddresses:
+  - 00:1B:74:00:00:00/24
+  manufacturer: MiraLink Corporation
+  manufacturerUri: https://device-type.com
+  name: MiraLink
+type: d3-device-type-assertion

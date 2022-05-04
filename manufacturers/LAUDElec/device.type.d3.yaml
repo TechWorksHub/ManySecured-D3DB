@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7c13c53-02e4-4e58-bb68-a6f6c46c8ea8
+  macAddresses:
+  - 00:50:C2:10:10:00/36
+  manufacturer: LAUD Electronic Design AS
+  manufacturerUri: https://device-type.com
+  name: LAUDElec
+type: d3-device-type-assertion

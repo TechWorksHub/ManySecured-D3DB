@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd2f9f05-4e3b-4565-938f-1532723cf1bd
+  macAddresses:
+  - 00:50:82:00:00:00/24
+  manufacturer: Foresson Corporation
+  manufacturerUri: https://device-type.com
+  name: Foresson
+type: d3-device-type-assertion

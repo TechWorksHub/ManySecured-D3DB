@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 59e0e601-6df6-4314-b082-5e3cb6e39c47
+  macAddresses:
+  - C8:45:8F:00:00:00/24
+  manufacturer: Wyler AG
+  manufacturerUri: https://device-type.com
+  name: Wyler
+type: d3-device-type-assertion

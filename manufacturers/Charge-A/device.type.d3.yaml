@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a07d0fa0-0858-4a0c-94c3-e59b83a14ad1
+  macAddresses:
+  - 4C:BC:98:00:00:00/28
+  manufacturer: Charge-Amps AB
+  manufacturerUri: https://device-type.com
+  name: Charge-A
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6a36f270-20ca-4994-9fe5-46fa6b5dfe5d
+  macAddresses:
+  - 00:17:55:00:00:00/24
+  - 00:50:C2:4D:90:00/36
+  - 00:50:C2:79:00:00/36
+  - 00:50:C2:9C:30:00/36
+  manufacturer: GE Security
+  manufacturerUri: https://device-type.com
+  name: GESecuri
+type: d3-device-type-assertion

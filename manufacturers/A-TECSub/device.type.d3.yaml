@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a8b5446-a1fd-4ded-b73e-3c0481010158
+  macAddresses:
+  - 00:16:67:00:00:00/24
+  manufacturer: A-TEC Subsystem INC.
+  manufacturerUri: https://device-type.com
+  name: A-TECSub
+type: d3-device-type-assertion

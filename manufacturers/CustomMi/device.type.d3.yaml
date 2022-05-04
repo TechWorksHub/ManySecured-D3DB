@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed952c58-a1ce-461b-a7ac-0bfbcd25e585
+  macAddresses:
+  - 00:01:CE:00:00:00/24
+  manufacturer: Custom Micro Products, Ltd.
+  manufacturerUri: https://device-type.com
+  name: CustomMi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ce6bc73-5c6d-46b4-a4c9-555b198d9fbd
+  macAddresses:
+  - 00:10:9C:00:00:00/24
+  manufacturer: M-System Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: M-System
+type: d3-device-type-assertion

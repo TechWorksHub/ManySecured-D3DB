@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0afb3691-285f-4bd8-9699-418ede50e055
+  macAddresses:
+  - 00:0E:C1:00:00:00/24
+  manufacturer: MYNAH Technologies
+  manufacturerUri: https://device-type.com
+  name: MYNAHTec
+type: d3-device-type-assertion

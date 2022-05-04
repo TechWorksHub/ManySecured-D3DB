@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f19e2e75-be6b-4942-8082-de54bc8355c4
+  macAddresses:
+  - 00:10:71:00:00:00/24
+  manufacturer: Advanet Inc.
+  manufacturerUri: https://device-type.com
+  name: Advanet
+type: d3-device-type-assertion

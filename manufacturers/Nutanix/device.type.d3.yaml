@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 184e3dc2-2822-472e-8b28-448dfa706ecf
+  macAddresses:
+  - 50:6B:8D:00:00:00/24
+  - B4:79:47:00:00:00/24
+  - E0:19:95:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Nutanix
+type: d3-device-type-assertion

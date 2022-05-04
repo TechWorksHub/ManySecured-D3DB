@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e52d879-605a-49f2-aca9-46af4e1bc0fc
+  macAddresses:
+  - 1C:5A:0B:00:00:00/24
+  manufacturer: Tegile Systems
+  manufacturerUri: https://device-type.com
+  name: Tegile
+type: d3-device-type-assertion

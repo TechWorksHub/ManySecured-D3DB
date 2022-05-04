@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87c8f10c-c31e-442e-a2fd-852c0198110d
+  macAddresses:
+  - 40:48:FD:30:00:00/28
+  manufacturer: RL Controls LLC.
+  manufacturerUri: https://device-type.com
+  name: RLContro
+type: d3-device-type-assertion

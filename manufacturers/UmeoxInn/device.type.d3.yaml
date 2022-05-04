@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1abde39b-e82c-4a82-b919-1403cde40986
+  macAddresses:
+  - 1C:FD:08:30:00:00/28
+  - 34:DD:7E:00:00:00/24
+  manufacturer: Umeox Innovations Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: UmeoxInn
+type: d3-device-type-assertion

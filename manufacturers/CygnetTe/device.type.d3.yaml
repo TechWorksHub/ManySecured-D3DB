@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f86a8c97-48ff-482b-b77d-d26c45d96ed1
+  macAddresses:
+  - 00:01:62:00:00:00/24
+  manufacturer: Cygnet Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: CygnetTe
+type: d3-device-type-assertion

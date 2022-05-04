@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df243d61-8cea-4937-9b58-d671abf8db4e
+  macAddresses:
+  - 00:0C:07:00:00:00/24
+  manufacturer: Iftest AG
+  manufacturerUri: https://device-type.com
+  name: Iftest
+type: d3-device-type-assertion

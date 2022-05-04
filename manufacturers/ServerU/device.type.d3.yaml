@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e766cbf5-0678-4598-8b72-80ec5d0102d2
+  macAddresses:
+  - 84:44:64:00:00:00/24
+  manufacturer: ServerU Inc
+  manufacturerUri: https://device-type.com
+  name: ServerU
+type: d3-device-type-assertion

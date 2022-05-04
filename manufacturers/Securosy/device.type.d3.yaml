@@ -1,0 +1,9 @@
+credentialSubject:
+  id: baf40e30-2262-4529-8b90-3e37bc3ebed0
+  macAddresses:
+  - 64:FB:81:70:00:00/28
+  - C0:88:6D:00:00:00/24
+  manufacturer: Securosys SA
+  manufacturerUri: https://device-type.com
+  name: Securosy
+type: d3-device-type-assertion

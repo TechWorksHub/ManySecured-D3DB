@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e96543df-625f-48be-915c-0f0dc7638219
+  macAddresses:
+  - 00:23:84:00:00:00/24
+  manufacturer: GGH Engineering s.r.l.
+  manufacturerUri: https://device-type.com
+  name: GGHEngin
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2f0d426-5802-475d-a12d-2bedc6bdac4d
+  macAddresses:
+  - 00:0E:B1:00:00:00/24
+  manufacturer: Newcotech,Ltd
+  manufacturerUri: https://device-type.com
+  name: Newcotec
+type: d3-device-type-assertion

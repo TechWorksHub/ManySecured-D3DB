@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fd43fe0-1ac6-46bc-b571-9fac4759b8e9
+  macAddresses:
+  - 00:18:D8:00:00:00/24
+  manufacturer: ARCH METER Corporation
+  manufacturerUri: https://device-type.com
+  name: ARCHMETE
+type: d3-device-type-assertion

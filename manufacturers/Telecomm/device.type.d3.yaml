@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9a42f9fd-ea18-4dcb-8a15-e051003bacef
+  macAddresses:
+  - 00:10:BD:00:00:00/24
+  - 00:12:BB:00:00:00/24
+  - 00:40:4D:00:00:00/24
+  manufacturer: The Telecommunication Technology Committee (Ttc)
+  manufacturerUri: https://device-type.com
+  name: Telecomm
+type: d3-device-type-assertion

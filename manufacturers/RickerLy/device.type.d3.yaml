@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f89358db-8139-4b4e-ae00-d51c243f8781
+  macAddresses:
+  - F4:90:CB:30:00:00/28
+  manufacturer: Ricker Lyman Robotic
+  manufacturerUri: https://device-type.com
+  name: RickerLy
+type: d3-device-type-assertion

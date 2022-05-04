@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b431f69e-7308-4b7d-bedc-5ee138704829
+  macAddresses:
+  - 00:C0:25:00:00:00/24
+  manufacturer: Dataproducts Corporation
+  manufacturerUri: https://device-type.com
+  name: Dataprod
+type: d3-device-type-assertion

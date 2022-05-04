@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60a17b1e-98d1-44a3-81fe-1e3c8fdeb344
+  macAddresses:
+  - 00:26:84:00:00:00/24
+  manufacturer: Kisan System
+  manufacturerUri: https://device-type.com
+  name: KisanSys
+type: d3-device-type-assertion

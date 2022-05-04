@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0d1561e-6861-459b-951b-f946207ad31f
+  macAddresses:
+  - 00:A0:4B:00:00:00/24
+  manufacturer: Tfl Lan Inc.
+  manufacturerUri: https://device-type.com
+  name: TflLan
+type: d3-device-type-assertion

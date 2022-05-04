@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17e0c962-3243-457f-a8d9-446bdf560c78
+  macAddresses:
+  - 00:A2:65:00:00:00/24
+  - FC:06:ED:00:00:00/24
+  manufacturer: M2Motive Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: M2Motive
+type: d3-device-type-assertion

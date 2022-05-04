@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4de024cd-c5b5-4fc5-87a2-9ae7e61a7010
+  macAddresses:
+  - 8C:2F:A6:00:00:00/24
+  - C4:89:ED:00:00:00/24
+  manufacturer: Solid Optics B.V.
+  manufacturerUri: https://device-type.com
+  name: SolidOpt
+type: d3-device-type-assertion

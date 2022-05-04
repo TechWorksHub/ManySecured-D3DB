@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c491bb1-e026-4c41-b44f-a8bf80fb1e8d
+  macAddresses:
+  - 00:0D:F0:00:00:00/24
+  manufacturer: Qcom Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: QcomTech
+type: d3-device-type-assertion

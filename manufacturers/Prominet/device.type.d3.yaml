@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c1e8ad4d-7bbc-43cd-b210-d4a9fb092304
+  macAddresses:
+  - 00:E0:3B:00:00:00/24
+  - 02:E0:3B:00:00:00/24
+  manufacturer: Prominet Corporation
+  manufacturerUri: https://device-type.com
+  name: Prominet
+type: d3-device-type-assertion

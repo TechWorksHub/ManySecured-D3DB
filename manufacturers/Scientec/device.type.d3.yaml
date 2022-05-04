@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 23846502-302c-47f3-aa99-a62e83d8f934
+  macAddresses:
+  - 20:12:D5:00:00:00/24
+  - D0:CD:E1:00:00:00/24
+  manufacturer: Scientech Materials Corporation
+  manufacturerUri: https://device-type.com
+  name: Scientec
+type: d3-device-type-assertion

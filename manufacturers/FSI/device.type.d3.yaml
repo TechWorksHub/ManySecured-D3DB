@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d741dce3-21d3-4c2f-a77e-5715b37c4e65
+  macAddresses:
+  - 00:12:BA:00:00:00/24
+  manufacturer: FSI Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: FSI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b030d417-105a-4900-89eb-db5f2c4bf51e
+  macAddresses:
+  - 9C:36:F8:00:00:00/24
+  manufacturer: Hyundai Kefico
+  manufacturerUri: https://device-type.com
+  name: HyundaiK
+type: d3-device-type-assertion

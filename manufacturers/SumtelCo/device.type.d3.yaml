@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c03e5ff8-285e-4b8c-a2a3-584c8c3d3e71
+  macAddresses:
+  - 00:05:CC:00:00:00/24
+  manufacturer: Sumtel Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: SumtelCo
+type: d3-device-type-assertion

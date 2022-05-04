@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f888efc0-bdbb-4a30-a7c6-229ea7cf0a81
+  macAddresses:
+  - 64:FB:50:00:00:00/24
+  manufacturer: RoomReady/Zdi, Inc.
+  manufacturerUri: https://device-type.com
+  name: RoomRead
+type: d3-device-type-assertion

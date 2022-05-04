@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eeb3dfda-fdb0-4807-824a-c7a60cd92954
+  macAddresses:
+  - 00:14:D8:00:00:00/24
+  manufacturer: bio-logic SA
+  manufacturerUri: https://device-type.com
+  name: bio-logi
+type: d3-device-type-assertion

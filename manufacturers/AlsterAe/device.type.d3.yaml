@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d4a0239-8b99-48d8-82d7-a16c3daf6226
+  macAddresses:
+  - 00:1A:D8:00:00:00/24
+  manufacturer: AlsterAero GmbH
+  manufacturerUri: https://device-type.com
+  name: AlsterAe
+type: d3-device-type-assertion

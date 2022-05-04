@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c25a6a7b-0f0a-478c-8e5c-6b02cbb25e80
+  macAddresses:
+  - 50:FC:30:00:00:00/24
+  manufacturer: Treehouse Labs
+  manufacturerUri: https://device-type.com
+  name: Treehous
+type: d3-device-type-assertion

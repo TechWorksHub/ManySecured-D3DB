@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fea38cf0-8ef2-4cc8-9bdb-1309ca4142e6
+  macAddresses:
+  - FA:14:66:00:00:00/24
+  manufacturer: Allegion PLC
+  manufacturerUri: https://device-type.com
+  name: Allegion
+type: d3-device-type-assertion

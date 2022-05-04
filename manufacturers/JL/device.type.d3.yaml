@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d42827d5-2232-4160-8d4d-9259bfdbc85f
+  macAddresses:
+  - 00:11:3E:00:00:00/24
+  manufacturer: JL Corporation
+  manufacturerUri: https://device-type.com
+  name: JL
+type: d3-device-type-assertion

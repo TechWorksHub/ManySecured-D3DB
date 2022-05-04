@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6d742a5-ab43-48bc-b8d1-c4f9477ade7a
+  macAddresses:
+  - 70:55:F8:00:00:00/24
+  manufacturer: Cerebras Systems Inc
+  manufacturerUri: https://device-type.com
+  name: Cerebras
+type: d3-device-type-assertion

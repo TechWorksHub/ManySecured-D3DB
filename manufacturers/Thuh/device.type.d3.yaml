@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a79b3ced-612e-49af-9b82-ba337f8c70ad
+  macAddresses:
+  - B4:B8:8D:00:00:00/24
+  manufacturer: Thuh Company
+  manufacturerUri: https://device-type.com
+  name: Thuh
+type: d3-device-type-assertion

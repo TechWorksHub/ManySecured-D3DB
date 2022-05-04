@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ab7981c-7200-46bc-928b-0cf19275d45c
+  macAddresses:
+  - 60:D7:E3:10:00:00/28
+  manufacturer: Elap s.r.l.
+  manufacturerUri: https://device-type.com
+  name: Elap
+type: d3-device-type-assertion

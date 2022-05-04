@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 35a55355-9cc5-4f2a-8142-6551c2b13b6d
+  macAddresses:
+  - 00:01:7D:00:00:00/24
+  manufacturer: ThermoQuest
+  manufacturerUri: https://device-type.com
+  name: ThermoQu
+type: d3-device-type-assertion

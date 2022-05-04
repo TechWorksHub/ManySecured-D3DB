@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 846ee519-f8b0-4bed-8b9f-e26c34cb2f0e
+  macAddresses:
+  - FC:D2:B6:20:00:00/28
+  manufacturer: Soma GmbH
+  manufacturerUri: https://device-type.com
+  name: Soma
+type: d3-device-type-assertion

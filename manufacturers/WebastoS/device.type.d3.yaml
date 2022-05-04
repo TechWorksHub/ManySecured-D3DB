@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a4591d8-0c08-48b6-9924-17a9daa46053
+  macAddresses:
+  - 6C:AF:15:00:00:00/24
+  manufacturer: Webasto SE
+  manufacturerUri: https://device-type.com
+  name: WebastoS
+type: d3-device-type-assertion

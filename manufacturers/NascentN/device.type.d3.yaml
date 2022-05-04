@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09832de7-25a9-4879-afca-e14b58a0cf02
+  macAddresses:
+  - 00:A0:1C:00:00:00/24
+  manufacturer: Nascent Networks Corporation
+  manufacturerUri: https://device-type.com
+  name: NascentN
+type: d3-device-type-assertion

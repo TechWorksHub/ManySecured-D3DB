@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 728bb88e-ef1e-4a56-aba9-7ddf4e4de48b
+  macAddresses:
+  - 00:04:A0:00:00:00/24
+  manufacturer: Verity Instruments, Inc.
+  manufacturerUri: https://device-type.com
+  name: VerityIn
+type: d3-device-type-assertion

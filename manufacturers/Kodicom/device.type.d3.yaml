@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a1e1fe3-caeb-4cf6-b34c-9c801bb6477a
+  macAddresses:
+  - 00:0C:8C:00:00:00/24
+  manufacturer: Kodicom Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Kodicom
+type: d3-device-type-assertion

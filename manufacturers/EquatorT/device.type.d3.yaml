@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0519ab67-6259-422d-b68f-94965aaf80d0
+  macAddresses:
+  - 00:07:B1:00:00:00/24
+  manufacturer: Equator Technologies
+  manufacturerUri: https://device-type.com
+  name: EquatorT
+type: d3-device-type-assertion

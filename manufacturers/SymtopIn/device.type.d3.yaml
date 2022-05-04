@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a1c66ca-544d-4b5a-b73d-d27516b19c8e
+  macAddresses:
+  - 74:19:F8:20:00:00/28
+  manufacturer: Symtop Instrument Co.
+  manufacturerUri: https://device-type.com
+  name: SymtopIn
+type: d3-device-type-assertion

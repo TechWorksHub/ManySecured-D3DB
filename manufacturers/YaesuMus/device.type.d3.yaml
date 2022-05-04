@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10475cd2-7530-41dd-a90e-2f2c77db43e2
+  macAddresses:
+  - 00:01:25:00:00:00/24
+  manufacturer: Yaesu Musen Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: YaesuMus
+type: d3-device-type-assertion

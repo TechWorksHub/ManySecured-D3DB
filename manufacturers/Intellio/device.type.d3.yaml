@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1c4f10ee-cdc9-46ba-92f1-a4c4fc636404
+  macAddresses:
+  - 00:19:B4:00:00:00/24
+  - 48:75:83:00:00:00/24
+  manufacturer: Intellio Ltd
+  manufacturerUri: https://device-type.com
+  name: Intellio
+type: d3-device-type-assertion

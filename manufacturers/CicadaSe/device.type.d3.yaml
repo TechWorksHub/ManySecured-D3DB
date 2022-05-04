@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9198dd2-9bf7-4e43-b166-d320a6f26cf7
+  macAddresses:
+  - 00:03:F1:00:00:00/24
+  manufacturer: Cicada Semiconductor, Inc.
+  manufacturerUri: https://device-type.com
+  name: CicadaSe
+type: d3-device-type-assertion

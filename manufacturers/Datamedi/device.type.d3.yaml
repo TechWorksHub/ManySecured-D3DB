@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 36be04a5-2585-4dc8-91b1-7cf3cf907e8b
+  macAddresses:
+  - 00:80:80:00:00:00/24
+  manufacturer: Datamedia Corporation
+  manufacturerUri: https://device-type.com
+  name: Datamedi
+type: d3-device-type-assertion

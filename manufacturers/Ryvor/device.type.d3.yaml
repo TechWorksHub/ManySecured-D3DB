@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b17b749-04b2-47f8-8634-94954aaff0b3
+  macAddresses:
+  - 00:13:DF:00:00:00/24
+  manufacturer: Ryvor Corp.
+  manufacturerUri: https://device-type.com
+  name: Ryvor
+type: d3-device-type-assertion

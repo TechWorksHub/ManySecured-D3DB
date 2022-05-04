@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f795f249-3a3a-4d90-9afa-bb037174bf85
+  macAddresses:
+  - 00:90:DC:00:00:00/24
+  manufacturer: Teco Information Systems
+  manufacturerUri: https://device-type.com
+  name: TecoInfo
+type: d3-device-type-assertion

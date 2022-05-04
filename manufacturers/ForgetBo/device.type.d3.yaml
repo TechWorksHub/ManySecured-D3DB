@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1af41b03-3235-4f70-8223-de7a530ca27e
+  macAddresses:
+  - 80:0E:24:00:00:00/24
+  manufacturer: ForgetBox
+  manufacturerUri: https://device-type.com
+  name: ForgetBo
+type: d3-device-type-assertion

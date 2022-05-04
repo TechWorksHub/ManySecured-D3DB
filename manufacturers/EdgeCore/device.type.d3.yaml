@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1222f221-308b-4168-a17e-8595228f3396
+  macAddresses:
+  - 70:72:CF:00:00:00/24
+  manufacturer: EdgeCore Networks
+  manufacturerUri: https://device-type.com
+  name: EdgeCore
+type: d3-device-type-assertion

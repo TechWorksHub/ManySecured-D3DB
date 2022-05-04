@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 59aa7198-b3c0-42e5-a66c-c4c82f25383e
+  macAddresses:
+  - 00:A0:A6:00:00:00/24
+  - 70:B3:D5:6F:C0:00/36
+  - 70:B3:D5:D2:60:00/36
+  manufacturer: M.I. Systems, K.K.
+  manufacturerUri: https://device-type.com
+  name: MI
+type: d3-device-type-assertion

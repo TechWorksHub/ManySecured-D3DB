@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01a44f10-54d3-4614-a5a0-3c1e7c6b9b23
+  macAddresses:
+  - 00:80:F4:00:00:00/24
+  manufacturer: Telemechanique Electrique
+  manufacturerUri: https://device-type.com
+  name: Telemech
+type: d3-device-type-assertion

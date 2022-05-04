@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fa8298b-c6b2-40d4-8a60-56d3b6d02317
+  macAddresses:
+  - 40:0E:67:00:00:00/24
+  manufacturer: Tremol Ltd.
+  manufacturerUri: https://device-type.com
+  name: Tremol
+type: d3-device-type-assertion

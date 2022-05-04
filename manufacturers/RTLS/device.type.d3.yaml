@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3cc1d16-344b-4309-84cd-028170a6f231
+  macAddresses:
+  - 00:1B:C5:03:50:00/36
+  manufacturer: RTLS Ltd.
+  manufacturerUri: https://device-type.com
+  name: RTLS
+type: d3-device-type-assertion

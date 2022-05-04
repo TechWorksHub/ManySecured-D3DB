@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e0b018b-c43b-47c4-b50d-0b72dbdf0c32
+  macAddresses:
+  - 00:50:C2:B8:10:00/36
+  - 74:F8:DB:10:00:00/28
+  manufacturer: GHL Advanced Technolgy GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: GHLAdvan
+type: d3-device-type-assertion

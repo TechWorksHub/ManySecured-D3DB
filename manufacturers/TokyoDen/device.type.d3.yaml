@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b2ce920f-762b-4458-80ab-759f6ff6bbae
+  macAddresses:
+  - 00:C0:A1:00:00:00/24
+  - 40:D8:55:09:B0:00/36
+  manufacturer: Tokyo Denshi Sekei Co.
+  manufacturerUri: https://device-type.com
+  name: TokyoDen
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 806d76ef-786d-4643-b946-1eedab400537
+  macAddresses:
+  - 44:A9:2C:C0:00:00/28
+  - 70:B3:D5:7D:00:00/36
+  - 70:B3:D5:89:30:00/36
+  - 70:B3:D5:91:D0:00/36
+  - 70:B3:D5:AE:D0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Cubitech
+type: d3-device-type-assertion

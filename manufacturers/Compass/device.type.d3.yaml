@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e1e9931-0176-4c75-a9be-b6cb942dbc41
+  macAddresses:
+  - 00:1F:60:00:00:00/24
+  manufacturer: Compass Systems Corp.
+  manufacturerUri: https://device-type.com
+  name: Compass
+type: d3-device-type-assertion

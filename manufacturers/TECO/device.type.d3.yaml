@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fdeb821-5020-483f-b4ac-53a316f58045
+  macAddresses:
+  - 00:0A:14:00:00:00/24
+  manufacturer: TECO a.s.
+  manufacturerUri: https://device-type.com
+  name: TECO
+type: d3-device-type-assertion

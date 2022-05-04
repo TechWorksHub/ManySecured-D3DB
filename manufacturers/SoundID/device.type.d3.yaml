@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a95faccd-1e6a-4b20-a83c-f0f815f03dea
+  macAddresses:
+  - 00:14:9D:00:00:00/24
+  manufacturer: Sound ID Inc.
+  manufacturerUri: https://device-type.com
+  name: SoundID
+type: d3-device-type-assertion

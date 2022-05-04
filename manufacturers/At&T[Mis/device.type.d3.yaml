@@ -1,0 +1,9 @@
+credentialSubject:
+  id: eeb75866-48ac-4cef-bcd3-f87fcc4aec48
+  macAddresses:
+  - 08:00:10:00:00:00/24
+  - 80:00:10:00:00:00/24
+  manufacturer: AT&T [misrepresentation of 800010?]
+  manufacturerUri: https://device-type.com
+  name: At&T[Mis
+type: d3-device-type-assertion

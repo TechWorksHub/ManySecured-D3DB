@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d8d22281-e99a-4758-bf29-e47a113d5224
+  macAddresses:
+  - 00:50:C2:19:F0:00/36
+  - 48:6B:91:00:00:00/24
+  manufacturer: Fleetwood Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: Fleetwoo
+type: d3-device-type-assertion

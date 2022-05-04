@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95b5df99-385a-491a-a723-2764f92de69e
+  macAddresses:
+  - 00:03:EF:00:00:00/24
+  manufacturer: Oneline AG
+  manufacturerUri: https://device-type.com
+  name: Oneline
+type: d3-device-type-assertion

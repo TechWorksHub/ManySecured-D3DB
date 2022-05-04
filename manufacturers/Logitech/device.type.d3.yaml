@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 690127ed-4699-472a-b883-b76ad621de9d
+  macAddresses:
+  - 00:1F:20:00:00:00/24
+  - 08:81:B2:00:00:00/24
+  - 10:94:97:00:00:00/24
+  - 34:88:5D:00:00:00/24
+  - 38:F0:C8:00:00:00/24
+  - 40:58:99:00:00:00/24
+  - 44:73:D6:00:00:00/24
+  - 88:C6:26:00:00:00/24
+  - 94:02:30:00:00:00/24
+  - C0:28:8D:00:00:00/24
+  - C8:DB:26:00:00:00/24
+  - EC:81:93:00:00:00/24
+  - F4:73:35:00:00:00/24
+  manufacturer: Logitech Europe SA
+  manufacturerUri: https://device-type.com
+  name: Logitech
+type: d3-device-type-assertion

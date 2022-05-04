@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 32d05982-2aae-4770-860c-88f9651cfade
+  macAddresses:
+  - 00:05:F7:00:00:00/24
+  - 00:60:88:00:00:00/24
+  - 00:E0:22:00:00:00/24
+  - 64:F9:C0:00:00:00/24
+  - 78:C6:BB:00:00:00/24
+  - 90:94:0A:00:00:00/24
+  manufacturer: Analog Devices, Inc.
+  manufacturerUri: https://device-type.com
+  name: AnalogDe
+type: d3-device-type-assertion

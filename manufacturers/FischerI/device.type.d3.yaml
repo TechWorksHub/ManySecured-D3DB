@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a10c828-0dbf-4d5a-85fd-4450711c308d
+  macAddresses:
+  - 34:A7:BA:00:00:00/24
+  manufacturer: Fischer International Systems Corporation
+  manufacturerUri: https://device-type.com
+  name: FischerI
+type: d3-device-type-assertion

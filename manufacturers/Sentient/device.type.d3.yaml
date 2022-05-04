@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a751f21a-3f89-4414-9d34-3fdbd8664c12
+  macAddresses:
+  - 00:60:7D:00:00:00/24
+  manufacturer: Sentient Networks Inc.
+  manufacturerUri: https://device-type.com
+  name: Sentient
+type: d3-device-type-assertion

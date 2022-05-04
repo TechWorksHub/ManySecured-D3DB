@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 99a4fa55-eb9c-487a-9d92-ea76489e9a34
+  macAddresses:
+  - 00:08:F1:00:00:00/24
+  - 88:DD:79:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Voltaire
+type: d3-device-type-assertion

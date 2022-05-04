@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7deb6b27-b341-4fbf-86b3-2f6230359bd4
+  macAddresses:
+  - 6C:B4:A7:00:00:00/24
+  manufacturer: Landauer, Inc.
+  manufacturerUri: https://device-type.com
+  name: Landauer
+type: d3-device-type-assertion

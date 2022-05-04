@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47dc0ee5-c0d3-45e6-83dd-72e377fefc58
+  macAddresses:
+  - 00:60:5D:00:00:00/24
+  manufacturer: Scanivalve Corp.
+  manufacturerUri: https://device-type.com
+  name: Scanival
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f752946f-9913-4261-a4d4-b3f3382b09d1
+  macAddresses:
+  - 00:00:7C:00:00:00/24
+  manufacturer: Ampere Incorporated
+  manufacturerUri: https://device-type.com
+  name: Ampere
+type: d3-device-type-assertion

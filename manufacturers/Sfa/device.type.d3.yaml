@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 640f4185-3a09-4666-a267-8910c0349aa5
+  macAddresses:
+  - 00:20:07:00:00:00/24
+  manufacturer: Sfa, Inc.
+  manufacturerUri: https://device-type.com
+  name: Sfa
+type: d3-device-type-assertion

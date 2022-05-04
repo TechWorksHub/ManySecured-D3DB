@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41b183a4-0a6f-4c76-a814-f3f10efca19f
+  macAddresses:
+  - 00:50:C2:77:40:00/36
+  manufacturer: GeoSIG Ltd.
+  manufacturerUri: https://device-type.com
+  name: GeoSIG
+type: d3-device-type-assertion

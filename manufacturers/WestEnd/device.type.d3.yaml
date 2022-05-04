@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a2c5ded-5065-47b1-bdd1-25a42d21f663
+  macAddresses:
+  - 00:E0:5B:00:00:00/24
+  manufacturer: West End Systems Corp.
+  manufacturerUri: https://device-type.com
+  name: WestEnd
+type: d3-device-type-assertion

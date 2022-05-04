@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d38665ca-27aa-4c77-a118-f20d07b94138
+  macAddresses:
+  - 00:1C:81:00:00:00/24
+  manufacturer: NextGen Venturi LTD
+  manufacturerUri: https://device-type.com
+  name: NextGenV
+type: d3-device-type-assertion

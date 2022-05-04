@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 71e493fa-7f03-4767-b5eb-c4a94010884c
+  macAddresses:
+  - 00:50:C2:10:90:00/36
+  - 70:B3:D5:58:A0:00/36
+  manufacturer: ITK Dr. Kassen GmbH
+  manufacturerUri: https://device-type.com
+  name: ITKDrKas
+type: d3-device-type-assertion

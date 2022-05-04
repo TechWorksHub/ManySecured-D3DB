@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e10182ea-565c-4267-bbfa-2cf6526e4e1b
+  macAddresses:
+  - 90:FF:79:00:00:00/24
+  manufacturer: Metro Ethernet Forum
+  manufacturerUri: https://device-type.com
+  name: MetroEth
+type: d3-device-type-assertion

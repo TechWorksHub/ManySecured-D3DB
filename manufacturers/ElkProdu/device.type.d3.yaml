@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4643fbce-f4dc-4c3f-b539-ce62b4badb9e
+  macAddresses:
+  - 00:50:C2:68:80:00/36
+  - CC:D3:1E:B0:00:00/28
+  manufacturer: Elk Products
+  manufacturerUri: https://device-type.com
+  name: ElkProdu
+type: d3-device-type-assertion

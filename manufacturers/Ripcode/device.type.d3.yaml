@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 14d2c4bc-de0e-4cbb-ba3a-04eded1e0e4a
+  macAddresses:
+  - 00:1B:76:00:00:00/24
+  manufacturer: Ripcode, Inc.
+  manufacturerUri: https://device-type.com
+  name: Ripcode
+type: d3-device-type-assertion

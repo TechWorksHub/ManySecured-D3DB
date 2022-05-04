@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7ec98a42-5384-4ee8-aac0-47589d8ed80b
+  macAddresses:
+  - 00:50:C2:FC:E0:00/36
+  - 00:D0:7C:00:00:00/24
+  manufacturer: Koyo Electric
+  manufacturerUri: https://device-type.com
+  name: KoyoElec
+type: d3-device-type-assertion

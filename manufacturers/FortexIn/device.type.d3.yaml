@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae719afd-6ee7-4967-95c6-45e6f078e972
+  macAddresses:
+  - 00:22:D9:00:00:00/24
+  manufacturer: Fortex Industrial Ltd.
+  manufacturerUri: https://device-type.com
+  name: FortexIn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8eaaa38-9e72-47de-ad8a-c6cf7486e0d9
+  macAddresses:
+  - 00:90:A7:00:00:00/24
+  manufacturer: Clientec Corporation
+  manufacturerUri: https://device-type.com
+  name: Clientec
+type: d3-device-type-assertion

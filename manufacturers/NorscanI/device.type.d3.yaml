@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e20b90e-98e2-47e7-bde3-eeeef2d0f3a7
+  macAddresses:
+  - 00:03:48:00:00:00/24
+  manufacturer: Norscan Instruments, Ltd.
+  manufacturerUri: https://device-type.com
+  name: NorscanI
+type: d3-device-type-assertion

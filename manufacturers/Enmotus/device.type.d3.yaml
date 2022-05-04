@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2efa6b4-8f39-4243-8f0f-410d1d311aa8
+  macAddresses:
+  - 7C:D8:44:00:00:00/24
+  manufacturer: Enmotus Inc
+  manufacturerUri: https://device-type.com
+  name: Enmotus
+type: d3-device-type-assertion

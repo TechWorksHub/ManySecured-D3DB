@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 2569ff3b-5b68-4975-91b1-0abe11a15d68
+  macAddresses:
+  - 28:B4:FB:00:00:00/24
+  - 30:43:D7:60:00:00/28
+  - 90:0B:C1:00:00:00/24
+  - B0:B3:53:10:00:00/28
+  manufacturer: Sprocomm Technologies CO.,LTD.
+  manufacturerUri: https://device-type.com
+  name: Sprocomm
+type: d3-device-type-assertion

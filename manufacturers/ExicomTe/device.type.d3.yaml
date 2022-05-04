@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5d8948b9-dc5d-4131-9b14-3c316c04fe60
+  macAddresses:
+  - 1C:A0:D3:E0:00:00/28
+  - 70:B3:D5:3A:E0:00/36
+  manufacturer: Exicom Tele-Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: ExicomTe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d286b07-07d6-41b8-835a-ca7f385bf0b9
+  macAddresses:
+  - 3C:FA:D3:60:00:00/28
+  manufacturer: Nox Medical
+  manufacturerUri: https://device-type.com
+  name: NoxMedic
+type: d3-device-type-assertion

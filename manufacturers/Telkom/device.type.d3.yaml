@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50e9aaf2-6f56-4180-bb36-3b3cf7b2032c
+  macAddresses:
+  - 00:50:86:00:00:00/24
+  manufacturer: Telkom Sa, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Telkom
+type: d3-device-type-assertion

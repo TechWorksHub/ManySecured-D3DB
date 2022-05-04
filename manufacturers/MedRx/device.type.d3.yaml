@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9100a0a0-5361-4128-b507-63f8a03918bd
+  macAddresses:
+  - 70:B3:D5:3B:60:00/36
+  manufacturer: MedRx, Inc
+  manufacturerUri: https://device-type.com
+  name: MedRx
+type: d3-device-type-assertion

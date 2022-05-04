@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27dd14e1-13b8-4eee-b3fe-24cb740d28a3
+  macAddresses:
+  - 60:BC:4C:00:00:00/24
+  manufacturer: EWM Hightec Welding GmbH
+  manufacturerUri: https://device-type.com
+  name: EWMHight
+type: d3-device-type-assertion

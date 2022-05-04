@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fa4054f5-3786-41d7-8a83-78686d2c3f6f
+  macAddresses:
+  - 70:B3:D5:0C:50:00/36
+  - 8C:AE:49:70:00:00/28
+  manufacturer: Precitec Optronik GmbH
+  manufacturerUri: https://device-type.com
+  name: Precitec
+type: d3-device-type-assertion

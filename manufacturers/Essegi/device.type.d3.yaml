@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f37ac86-07d4-4f0f-bc4d-eadbf040616e
+  macAddresses:
+  - 00:04:B2:00:00:00/24
+  manufacturer: Essegi Srl
+  manufacturerUri: https://device-type.com
+  name: Essegi
+type: d3-device-type-assertion

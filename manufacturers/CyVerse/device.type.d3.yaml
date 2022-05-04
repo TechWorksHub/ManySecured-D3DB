@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55524f45-9e4f-4519-ae86-f4dc67550f4a
+  macAddresses:
+  - 00:1E:2C:00:00:00/24
+  manufacturer: CyVerse Corporation
+  manufacturerUri: https://device-type.com
+  name: CyVerse
+type: d3-device-type-assertion

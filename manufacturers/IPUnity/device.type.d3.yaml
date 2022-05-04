@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8b905ddb-e6a5-41a2-b538-0b743596ea6d
+  macAddresses:
+  - 00:50:C2:08:C0:00/36
+  - 00:50:C2:29:30:00/36
+  manufacturer: IP Unity
+  manufacturerUri: https://device-type.com
+  name: IPUnity
+type: d3-device-type-assertion

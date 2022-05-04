@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34e4af1d-202d-46ca-89cb-24ce6dcbe319
+  macAddresses:
+  - 00:90:08:00:00:00/24
+  manufacturer: HanA Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: HanA
+type: d3-device-type-assertion

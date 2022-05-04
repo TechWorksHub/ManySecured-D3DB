@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b066c45-9aa5-48ce-ae05-9b98e8484878
+  macAddresses:
+  - 00:20:33:00:00:00/24
+  manufacturer: Synapse Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: SynapseT
+type: d3-device-type-assertion

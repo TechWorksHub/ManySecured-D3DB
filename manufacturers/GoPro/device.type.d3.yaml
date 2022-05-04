@@ -1,0 +1,13 @@
+credentialSubject:
+  id: b36691ec-d703-41b6-a4c1-9689abda2ce1
+  macAddresses:
+  - 04:41:69:00:00:00/24
+  - 24:74:F7:00:00:00/24
+  - D4:32:60:00:00:00/24
+  - D4:D9:19:00:00:00/24
+  - D8:96:85:00:00:00/24
+  - F4:DD:9E:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: GoPro
+type: d3-device-type-assertion

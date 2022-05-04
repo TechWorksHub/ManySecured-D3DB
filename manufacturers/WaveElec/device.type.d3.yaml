@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba44a9b7-b397-4c09-883e-f6d8684075ee
+  macAddresses:
+  - 00:1A:60:00:00:00/24
+  manufacturer: Wave Electronics Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: WaveElec
+type: d3-device-type-assertion

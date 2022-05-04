@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b086b9d6-3f50-40dc-82a8-86848eb3fe9c
+  macAddresses:
+  - 08:00:2F:00:00:00/24
+  manufacturer: Prime Computer
+  manufacturerUri: https://device-type.com
+  name: PrimeCom
+type: d3-device-type-assertion

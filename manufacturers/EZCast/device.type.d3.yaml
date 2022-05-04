@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 450eb3bd-ad1a-4e0b-bea0-a6db977fefaf
+  macAddresses:
+  - 00:03:96:00:00:00/24
+  manufacturer: EZ Cast Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: EZCast
+type: d3-device-type-assertion

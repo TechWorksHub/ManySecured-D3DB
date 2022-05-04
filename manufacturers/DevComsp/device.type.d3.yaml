@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e53c0f53-a9db-4cdd-9799-4b98b133192f
+  macAddresses:
+  - 90:E2:FC:E0:00:00/28
+  manufacturer: DevCom spol. s r.o.
+  manufacturerUri: https://device-type.com
+  name: DevComsp
+type: d3-device-type-assertion

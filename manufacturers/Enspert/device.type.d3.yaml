@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b772aea9-dd4a-4a77-9c0f-63b2fbd9cf01
+  macAddresses:
+  - AC:6F:4F:00:00:00/24
+  manufacturer: Enspert Inc
+  manufacturerUri: https://device-type.com
+  name: Enspert
+type: d3-device-type-assertion

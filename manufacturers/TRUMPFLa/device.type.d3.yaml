@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cace69b3-c54b-450e-89aa-e6ca6921d923
+  macAddresses:
+  - 00:1A:BF:00:00:00/24
+  - 74:57:98:00:00:00/24
+  manufacturer: TRUMPF Laser Marking Systems AG
+  manufacturerUri: https://device-type.com
+  name: TRUMPFLa
+type: d3-device-type-assertion

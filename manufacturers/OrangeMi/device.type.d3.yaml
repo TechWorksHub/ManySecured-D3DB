@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 57e1791b-f2b7-41af-ac6b-2e09ac4795f0
+  macAddresses:
+  - 00:D0:F5:00:00:00/24
+  manufacturer: Orange Micro, Inc.
+  manufacturerUri: https://device-type.com
+  name: OrangeMi
+type: d3-device-type-assertion

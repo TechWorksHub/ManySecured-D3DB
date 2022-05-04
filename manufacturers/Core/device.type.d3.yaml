@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e471eed-ec98-4ed0-ba56-3e868ec7302c
+  macAddresses:
+  - 00:17:6D:00:00:00/24
+  manufacturer: Core Corporation
+  manufacturerUri: https://device-type.com
+  name: Core
+type: d3-device-type-assertion

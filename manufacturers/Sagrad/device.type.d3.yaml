@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bc0c34e-eba6-4276-9a64-6117718012c1
+  macAddresses:
+  - 00:22:88:00:00:00/24
+  manufacturer: Sagrad, Inc.
+  manufacturerUri: https://device-type.com
+  name: Sagrad
+type: d3-device-type-assertion

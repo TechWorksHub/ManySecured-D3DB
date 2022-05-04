@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d0a2564-a298-4e2c-b0fc-54f4f172c409
+  macAddresses:
+  - 00:50:9C:00:00:00/24
+  manufacturer: Beta Research
+  manufacturerUri: https://device-type.com
+  name: BetaRese
+type: d3-device-type-assertion

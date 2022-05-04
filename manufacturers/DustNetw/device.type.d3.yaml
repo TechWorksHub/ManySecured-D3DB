@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dbd9dced-6666-4329-8095-cdef8b26ed97
+  macAddresses:
+  - 00:17:0D:00:00:00/24
+  manufacturer: Dust Networks Inc.
+  manufacturerUri: https://device-type.com
+  name: DustNetw
+type: d3-device-type-assertion

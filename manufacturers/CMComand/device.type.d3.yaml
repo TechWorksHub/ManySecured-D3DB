@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30ae18b8-1fe4-4f18-9216-babff56a50f8
+  macAddresses:
+  - 00:19:22:00:00:00/24
+  manufacturer: CM Comandos Lineares
+  manufacturerUri: https://device-type.com
+  name: CMComand
+type: d3-device-type-assertion

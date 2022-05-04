@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb43bf3e-567f-429f-bc88-c65319b5bbc6
+  macAddresses:
+  - 00:90:90:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: I-Bus
+type: d3-device-type-assertion

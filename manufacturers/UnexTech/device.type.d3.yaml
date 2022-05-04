@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ccbd598b-2687-4dc0-bd33-8eaa5c3e500e
+  macAddresses:
+  - 00:01:A7:00:00:00/24
+  - 00:10:A7:00:00:00/24
+  manufacturer: Unex Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: UnexTech
+type: d3-device-type-assertion

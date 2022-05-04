@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b25b7dfe-85d1-4edb-bbfc-4c93aab121af
+  macAddresses:
+  - E0:A5:09:00:00:00/24
+  manufacturer: Bitmain Technologies Inc
+  manufacturerUri: https://device-type.com
+  name: BitmainT
+type: d3-device-type-assertion

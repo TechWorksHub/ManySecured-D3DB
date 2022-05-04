@@ -17,6 +17,7 @@ packages = [
 [tool.poetry.dependencies]
 python = ">=3.7"
 PyYAML = "^6.0"
+requests = "^2.27.1"
 jsonschema = "^4.4.0"
 yamllint = "^1.26.3"
 

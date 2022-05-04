@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07ef1a64-a58a-4c28-9939-105846e5f34e
+  macAddresses:
+  - 70:B3:D5:12:B0:00/36
+  manufacturer: RIC Electronics
+  manufacturerUri: https://device-type.com
+  name: RICElect
+type: d3-device-type-assertion

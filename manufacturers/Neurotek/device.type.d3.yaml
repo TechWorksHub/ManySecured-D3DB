@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf0ac15a-9b35-4000-a76b-556f67ae669b
+  macAddresses:
+  - 80:A7:96:00:00:00/24
+  manufacturer: Neurotek LLC
+  manufacturerUri: https://device-type.com
+  name: Neurotek
+type: d3-device-type-assertion

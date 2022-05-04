@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e700f46-f878-47e2-a58a-35d2f9df1521
+  macAddresses:
+  - 70:B3:D5:88:20:00/36
+  manufacturer: Simon Tech, S.L.
+  manufacturerUri: https://device-type.com
+  name: SimonTec
+type: d3-device-type-assertion

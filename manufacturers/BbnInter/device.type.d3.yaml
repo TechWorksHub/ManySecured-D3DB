@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47cebfe7-86ca-4107-b9d8-761c17749fb8
+  macAddresses:
+  - 02:04:06:00:00:00/24
+  manufacturer: BBN
+  manufacturerUri: https://device-type.com
+  name: BbnInter
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c50687b-b6f1-4b4d-9735-188aef0122a3
+  macAddresses:
+  - 00:13:A4:00:00:00/24
+  manufacturer: KeyEye Communications
+  manufacturerUri: https://device-type.com
+  name: KeyEyeCo
+type: d3-device-type-assertion

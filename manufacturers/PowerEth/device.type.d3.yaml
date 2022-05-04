@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5ddef90-cdb4-46ce-99b0-c5214e366f11
+  macAddresses:
+  - D4:D2:49:00:00:00/24
+  manufacturer: Power Ethernet
+  manufacturerUri: https://device-type.com
+  name: PowerEth
+type: d3-device-type-assertion

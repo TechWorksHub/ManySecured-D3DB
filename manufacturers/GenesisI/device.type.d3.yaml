@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 402ecc8d-f582-43b1-89df-bdc433c9f912
+  macAddresses:
+  - 00:1F:37:00:00:00/24
+  manufacturer: Genesis I&C
+  manufacturerUri: https://device-type.com
+  name: GenesisI
+type: d3-device-type-assertion

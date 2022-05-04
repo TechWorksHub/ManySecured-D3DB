@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 467c7c8b-d055-4f57-8506-0d176190c4d9
+  macAddresses:
+  - 00:55:DA:50:00:00/28
+  - 80:8A:F7:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Nanoleaf
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d960feff-3c8d-4757-a90b-3b4a9f5db2bc
+  macAddresses:
+  - 00:15:B5:00:00:00/24
+  manufacturer: CI Network Corp.
+  manufacturerUri: https://device-type.com
+  name: CINetwor
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f03326ff-6d3c-4ed4-af1d-cddc6b585296
+  macAddresses:
+  - 00:26:E9:00:00:00/24
+  manufacturer: SP Corp
+  manufacturerUri: https://device-type.com
+  name: SP
+type: d3-device-type-assertion

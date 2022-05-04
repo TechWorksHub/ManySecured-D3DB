@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa0f042f-8d23-4766-8556-2b264466770a
+  macAddresses:
+  - 00:03:AC:00:00:00/24
+  manufacturer: Fronius Schweissmaschinen
+  manufacturerUri: https://device-type.com
+  name: FroniusS
+type: d3-device-type-assertion

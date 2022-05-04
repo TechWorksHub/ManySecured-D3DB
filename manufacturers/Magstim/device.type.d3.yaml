@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f34d29f-e7ec-4d91-ba3b-9448e0b8aa43
+  macAddresses:
+  - A4:3B:FA:E0:00:00/28
+  manufacturer: The Magstim Company Ltd.
+  manufacturerUri: https://device-type.com
+  name: Magstim
+type: d3-device-type-assertion

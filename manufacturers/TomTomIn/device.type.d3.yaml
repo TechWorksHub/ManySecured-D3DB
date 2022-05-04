@@ -1,0 +1,9 @@
+credentialSubject:
+  id: af42d400-3e92-400e-8afa-95b307c38ef7
+  macAddresses:
+  - 00:21:3E:00:00:00/24
+  - 24:E9:27:00:00:00/24
+  manufacturer: TomTom International BV
+  manufacturerUri: https://device-type.com
+  name: TomTomIn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef84f226-98fe-4593-8349-1a1dcf07af8a
+  macAddresses:
+  - 00:11:B7:00:00:00/24
+  manufacturer: Octalix B.V.
+  manufacturerUri: https://device-type.com
+  name: Octalix
+type: d3-device-type-assertion

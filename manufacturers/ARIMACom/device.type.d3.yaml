@@ -1,0 +1,12 @@
+credentialSubject:
+  id: c3646f32-8337-48be-a715-225afe6c87d6
+  macAddresses:
+  - 00:0D:92:00:00:00/24
+  - 00:E6:66:00:00:00/24
+  - 40:BA:61:00:00:00/24
+  - 98:F9:C7:70:00:00/28
+  - A0:19:B2:70:00:00/28
+  manufacturer: ARIMA Communications Corp.
+  manufacturerUri: https://device-type.com
+  name: ARIMACom
+type: d3-device-type-assertion

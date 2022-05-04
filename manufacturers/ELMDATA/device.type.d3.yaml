@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5df7e02-6fb5-4828-a04c-10f17188154e
+  macAddresses:
+  - 00:19:90:00:00:00/24
+  manufacturer: ELM DATA Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: ELMDATA
+type: d3-device-type-assertion

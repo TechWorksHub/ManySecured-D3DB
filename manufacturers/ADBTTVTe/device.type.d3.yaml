@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1b950d9-25f9-474f-8ea1-6e2159a1bb9d
+  macAddresses:
+  - 00:0C:97:00:00:00/24
+  manufacturer: NV ADB TTV Technologies SA
+  manufacturerUri: https://device-type.com
+  name: ADBTTVTe
+type: d3-device-type-assertion

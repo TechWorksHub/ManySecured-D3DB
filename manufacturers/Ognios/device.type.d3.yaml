@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f01d3a5d-6027-47d6-9fc9-df464967dd78
+  macAddresses:
+  - 1C:21:D1:10:00:00/28
+  manufacturer: Ognios GmbH
+  manufacturerUri: https://device-type.com
+  name: Ognios
+type: d3-device-type-assertion

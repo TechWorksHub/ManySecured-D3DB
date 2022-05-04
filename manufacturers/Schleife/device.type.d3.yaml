@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4201e46-b544-404d-aa54-a0ce97513cfb
+  macAddresses:
+  - D0:22:12:B0:00:00/28
+  manufacturer: Schleifenbauer Holding BV
+  manufacturerUri: https://device-type.com
+  name: Schleife
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c4837ce4-1135-43d3-befa-9b21fb84907e
+  macAddresses:
+  - 00:D0:71:00:00:00/24
+  manufacturer: Echelon Corp.
+  manufacturerUri: https://device-type.com
+  name: Echelon
+type: d3-device-type-assertion

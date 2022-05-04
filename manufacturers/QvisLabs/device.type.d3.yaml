@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f64d2481-69c9-42ac-9af8-937996d0a046
+  macAddresses:
+  - 18:D9:49:00:00:00/24
+  manufacturer: Qvis Labs, LLC
+  manufacturerUri: https://device-type.com
+  name: QvisLabs
+type: d3-device-type-assertion

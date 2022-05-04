@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 49a0172e-d1db-4e53-8bb1-588d2f4726ad
+  macAddresses:
+  - 00:13:1D:00:00:00/24
+  - 70:B3:D5:C1:00:00/36
+  - 70:B3:D5:F3:80:00/36
+  manufacturer: Scanvaegt International A/S
+  manufacturerUri: https://device-type.com
+  name: Scanvaeg
+type: d3-device-type-assertion

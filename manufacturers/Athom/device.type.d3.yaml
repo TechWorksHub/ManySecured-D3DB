@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d89e2da6-fada-4b63-85a9-cde79ba80298
+  macAddresses:
+  - 90:13:DA:00:00:00/24
+  manufacturer: Athom B.V.
+  manufacturerUri: https://device-type.com
+  name: Athom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f16fffdc-5d48-4019-8aef-797467b5afb8
+  macAddresses:
+  - 00:00:3A:00:00:00/24
+  manufacturer: Chyron Corporation
+  manufacturerUri: https://device-type.com
+  name: Chyron
+type: d3-device-type-assertion

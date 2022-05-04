@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d3f90f4-1c4f-4bc2-827d-af4af20acab4
+  macAddresses:
+  - 00:A0:05:00:00:00/24
+  manufacturer: Daniel Instruments, Ltd.
+  manufacturerUri: https://device-type.com
+  name: DanielIn
+type: d3-device-type-assertion

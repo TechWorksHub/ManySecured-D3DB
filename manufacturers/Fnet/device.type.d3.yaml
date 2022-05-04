@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f15405c-0987-4fc8-87bc-fa35dcadcaf2
+  macAddresses:
+  - 00:06:FC:00:00:00/24
+  manufacturer: Fnet Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Fnet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65af8327-76a5-49c9-8047-29974c110628
+  macAddresses:
+  - 00:11:76:00:00:00/24
+  manufacturer: Intellambda Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Intellam
+type: d3-device-type-assertion

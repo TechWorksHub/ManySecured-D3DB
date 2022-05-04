@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1aa51c50-212f-45f5-be22-36db2fa7108f
+  macAddresses:
+  - 00:01:8D:00:00:00/24
+  manufacturer: AudeSi Technologies
+  manufacturerUri: https://device-type.com
+  name: AudeSiTe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a70693fa-71ba-4b4f-ad57-7ab0195e7632
+  macAddresses:
+  - 00:1B:C5:07:90:00/36
+  manufacturer: HPI High Pressure Instrumentation GmbH
+  manufacturerUri: https://device-type.com
+  name: HPIHighP
+type: d3-device-type-assertion

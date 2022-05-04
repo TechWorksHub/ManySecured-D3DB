@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29a1d074-f936-471b-9381-3bc5337ca3a9
+  macAddresses:
+  - 70:B3:D5:0E:C0:00/36
+  - 70:B3:D5:9D:20:00/36
+  manufacturer: Acs Motion Control
+  manufacturerUri: https://device-type.com
+  name: AcsMotio
+type: d3-device-type-assertion

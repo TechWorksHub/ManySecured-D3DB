@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fae8e382-313b-4451-9d83-29ccdf6851d1
+  macAddresses:
+  - 00:23:62:00:00:00/24
+  manufacturer: Goldline Controls
+  manufacturerUri: https://device-type.com
+  name: Goldline
+type: d3-device-type-assertion

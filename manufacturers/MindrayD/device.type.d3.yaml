@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65e80040-a358-4a3e-aed6-ec6a787bd724
+  macAddresses:
+  - 00:A0:37:00:00:00/24
+  manufacturer: Mindray DS USA, Inc.
+  manufacturerUri: https://device-type.com
+  name: MindrayD
+type: d3-device-type-assertion

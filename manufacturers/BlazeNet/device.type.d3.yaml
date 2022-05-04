@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5b54d0f-bee4-41b8-90e0-8f069bb7c0e5
+  macAddresses:
+  - 00:03:87:00:00:00/24
+  manufacturer: Blaze Network Products
+  manufacturerUri: https://device-type.com
+  name: BlazeNet
+type: d3-device-type-assertion

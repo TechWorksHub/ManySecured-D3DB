@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e6f7b24-c4d1-4853-9286-7cbfa9775392
+  macAddresses:
+  - 00:0F:42:00:00:00/24
+  manufacturer: Xalyo Systems
+  manufacturerUri: https://device-type.com
+  name: Xalyo
+type: d3-device-type-assertion

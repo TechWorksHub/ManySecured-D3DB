@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74a7d02c-99ee-44fe-9fd7-3e5860328f33
+  macAddresses:
+  - F4:FC:B1:00:00:00/24
+  manufacturer: JJ Corp
+  manufacturerUri: https://device-type.com
+  name: JJ
+type: d3-device-type-assertion

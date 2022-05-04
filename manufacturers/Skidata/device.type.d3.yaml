@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ef9826a-6d3f-4c14-9e35-eb2844f7d96c
+  macAddresses:
+  - 00:04:7C:00:00:00/24
+  manufacturer: Skidata AG
+  manufacturerUri: https://device-type.com
+  name: Skidata
+type: d3-device-type-assertion

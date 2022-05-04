@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f91f2f8b-0b35-478f-9de2-1b0e3696854c
+  macAddresses:
+  - 00:09:E7:00:00:00/24
+  manufacturer: ADC Techonology
+  manufacturerUri: https://device-type.com
+  name: ADCTecho
+type: d3-device-type-assertion

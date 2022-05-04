@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 503ecbd5-77a4-439e-8348-0dc6f4ac27b6
+  macAddresses:
+  - 00:03:82:00:00:00/24
+  manufacturer: A-One Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: A-One
+type: d3-device-type-assertion

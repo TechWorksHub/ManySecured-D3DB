@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0a619b3-a96c-40ed-8a21-70e59b8bfcb4
+  macAddresses:
+  - 00:10:38:00:00:00/24
+  manufacturer: Micro Research Ltd.
+  manufacturerUri: https://device-type.com
+  name: MicroRes
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b97faf89-a100-414d-9c78-381fc6b09c0b
+  macAddresses:
+  - 00:15:6F:00:00:00/24
+  manufacturer: Xiranet Communications GmbH
+  manufacturerUri: https://device-type.com
+  name: XiranetC
+type: d3-device-type-assertion

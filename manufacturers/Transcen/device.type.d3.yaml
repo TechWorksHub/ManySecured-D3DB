@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 49a91c68-39cb-4438-bcbc-4f37631233d1
+  macAddresses:
+  - 60:63:FD:00:00:00/24
+  - 7C:35:48:00:00:00/24
+  - F0:23:B9:70:00:00/28
+  manufacturer: Transcend Communication Beijing Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Transcen
+type: d3-device-type-assertion

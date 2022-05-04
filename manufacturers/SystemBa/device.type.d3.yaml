@@ -1,0 +1,8 @@
+credentialSubject:
+  id: edc62ad9-fccf-44d9-8baa-f796d7b98b6e
+  macAddresses:
+  - 00:05:F4:00:00:00/24
+  manufacturer: System Base Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SystemBa
+type: d3-device-type-assertion

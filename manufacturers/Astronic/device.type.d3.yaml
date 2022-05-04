@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 62bf29eb-c3f1-4d44-865b-3e3652e2da65
+  macAddresses:
+  - 00:50:C2:A2:A0:00/36
+  - 28:2C:02:10:00:00/28
+  - 60:81:2B:00:00:00/24
+  manufacturer: Astronics Custom Control Concepts
+  manufacturerUri: https://device-type.com
+  name: Astronic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc46d774-84ea-41a8-b57b-f1bd344630d9
+  macAddresses:
+  - 00:50:C2:B4:20:00/36
+  manufacturer: ETM Electromatic Incorporated
+  manufacturerUri: https://device-type.com
+  name: ETMElect
+type: d3-device-type-assertion

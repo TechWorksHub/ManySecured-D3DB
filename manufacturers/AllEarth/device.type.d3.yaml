@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09de21ed-b7da-4dd1-8be0-21cc3b209033
+  macAddresses:
+  - 00:22:D2:00:00:00/24
+  manufacturer: "All Earth Com\xE9rcio de Eletr\xF4nicos LTDA."
+  manufacturerUri: https://device-type.com
+  name: AllEarth
+type: d3-device-type-assertion

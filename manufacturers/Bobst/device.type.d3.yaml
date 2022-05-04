@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9d0a749-c531-4475-b49f-56d39e90bfaf
+  macAddresses:
+  - 00:19:AD:00:00:00/24
+  manufacturer: Bobst Sa
+  manufacturerUri: https://device-type.com
+  name: Bobst
+type: d3-device-type-assertion

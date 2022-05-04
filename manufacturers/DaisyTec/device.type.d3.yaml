@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 86081a74-545b-4e33-ae0e-80df98da0cdd
+  macAddresses:
+  - 00:09:FE:00:00:00/24
+  manufacturer: Daisy Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: DaisyTec
+type: d3-device-type-assertion

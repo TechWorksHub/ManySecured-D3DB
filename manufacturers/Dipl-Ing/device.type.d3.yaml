@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6467c087-88e7-4980-aa7d-ebb52c426884
+  macAddresses:
+  - 00:50:C2:8D:F0:00/36
+  - B0:7D:62:00:00:00/24
+  manufacturer: Dipl.-Ing. W. Nophut GmbH
+  manufacturerUri: https://device-type.com
+  name: Dipl-Ing
+type: d3-device-type-assertion

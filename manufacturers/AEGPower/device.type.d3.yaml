@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af04139d-8f11-4b36-ae04-2aa3790b2038
+  macAddresses:
+  - 00:26:E5:00:00:00/24
+  manufacturer: AEG Power Solutions
+  manufacturerUri: https://device-type.com
+  name: AEGPower
+type: d3-device-type-assertion

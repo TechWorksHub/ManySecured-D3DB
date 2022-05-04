@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af82c822-4825-4096-83d2-5a433ac300c9
+  macAddresses:
+  - 00:16:70:00:00:00/24
+  manufacturer: SKNET Corporation
+  manufacturerUri: https://device-type.com
+  name: SKNET
+type: d3-device-type-assertion

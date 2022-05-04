@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b36f05d6-d4be-4b1f-a30c-92223c269a29
+  macAddresses:
+  - 00:50:4A:00:00:00/24
+  manufacturer: Elteco A.S.
+  manufacturerUri: https://device-type.com
+  name: Elteco
+type: d3-device-type-assertion

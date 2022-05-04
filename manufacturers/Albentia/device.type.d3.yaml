@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b5c3133-ef49-4246-9b03-e6f7e8c9f246
+  macAddresses:
+  - 00:1F:4A:00:00:00/24
+  manufacturer: Albentia Systems S.A.
+  manufacturerUri: https://device-type.com
+  name: Albentia
+type: d3-device-type-assertion

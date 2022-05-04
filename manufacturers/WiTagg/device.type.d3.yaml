@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 88401e7b-cd3f-4dd1-a25c-592dbc4abd81
+  macAddresses:
+  - 70:B3:D5:4F:40:00/36
+  - 70:B3:D5:4F:E0:00/36
+  - C0:D3:91:50:00:00/28
+  manufacturer: WiTagg, Inc
+  manufacturerUri: https://device-type.com
+  name: WiTagg
+type: d3-device-type-assertion

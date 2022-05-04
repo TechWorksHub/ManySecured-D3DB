@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d1c444de-66da-4077-9753-9d8395ef6afa
+  macAddresses:
+  - 10:81:B4:00:00:00/24
+  - 50:58:B0:00:00:00/24
+  manufacturer: Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: HunanGre
+type: d3-device-type-assertion

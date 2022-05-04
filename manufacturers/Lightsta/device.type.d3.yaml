@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fad9c8c3-845e-4cde-83c7-c753760db2d4
+  macAddresses:
+  - 40:D8:55:0E:70:00/36
+  - 40:D8:55:12:70:00/36
+  manufacturer: Lightstar
+  manufacturerUri: https://device-type.com
+  name: Lightsta
+type: d3-device-type-assertion

@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 6f2f8d56-7ae8-480b-8d6b-028b0adc4e19
+  macAddresses:
+  - 2C:27:9E:00:00:00/28
+  - 44:6F:D8:C0:00:00/28
+  - 50:ED:78:00:00:00/24
+  - 70:B3:D5:E8:00:00/36
+  - 90:38:DF:00:00:00/24
+  - 98:6E:E8:D0:00:00/28
+  - 98:8F:E0:80:00:00/28
+  - C4:82:4E:00:00:00/24
+  - D4:43:A8:00:00:00/24
+  manufacturer: Changzhou WEBO Weighing Device & System CO.,LTD
+  manufacturerUri: https://device-type.com
+  name: Changzho
+type: d3-device-type-assertion

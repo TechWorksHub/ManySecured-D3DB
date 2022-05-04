@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5bc33f13-0b40-4649-b11a-670812d928bd
+  macAddresses:
+  - 00:0A:6B:00:00:00/24
+  - 00:A0:C7:00:00:00/24
+  manufacturer: Tadiran Telecom Business Systems LTD
+  manufacturerUri: https://device-type.com
+  name: TadiranT
+type: d3-device-type-assertion

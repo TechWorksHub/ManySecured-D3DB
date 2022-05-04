@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f721ab9-674b-4398-98ce-d5d0467bad0e
+  macAddresses:
+  - 00:60:FF:00:00:00/24
+  manufacturer: QuVis, Inc.
+  manufacturerUri: https://device-type.com
+  name: QuVis
+type: d3-device-type-assertion

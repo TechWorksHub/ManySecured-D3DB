@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 131ba6bb-ad65-41ee-b683-1c8bcf29c177
+  macAddresses:
+  - 00:50:C2:18:A0:00/36
+  - 4C:06:8A:00:00:00/24
+  manufacturer: Basler Electric Company
+  manufacturerUri: https://device-type.com
+  name: BaslerEl
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12e7b0af-50a8-4e4f-b9b1-f79b874334a4
+  macAddresses:
+  - 00:02:D0:00:00:00/24
+  manufacturer: Comdial Corporation
+  manufacturerUri: https://device-type.com
+  name: Comdial
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74d95b85-5a23-4af0-a9ce-fac9a81bc62b
+  macAddresses:
+  - 00:50:C2:7A:60:00/36
+  manufacturer: Asiana Idt
+  manufacturerUri: https://device-type.com
+  name: AsianaId
+type: d3-device-type-assertion

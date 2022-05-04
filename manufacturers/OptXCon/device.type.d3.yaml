@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5cd3568-5a98-4374-aa8a-239780024458
+  macAddresses:
+  - 00:04:BE:00:00:00/24
+  manufacturer: OptXCon, Inc.
+  manufacturerUri: https://device-type.com
+  name: OptXCon
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: baeef2bd-c3b3-495d-954a-5fdb1899a77c
+  macAddresses:
+  - B4:0A:C6:00:00:00/24
+  manufacturer: DEXON Systems Ltd.
+  manufacturerUri: https://device-type.com
+  name: DEXON
+type: d3-device-type-assertion

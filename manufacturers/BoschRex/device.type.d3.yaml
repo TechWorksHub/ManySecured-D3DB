@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 53b85a49-2999-465a-9c2b-ec0a8b0ca482
+  macAddresses:
+  - 00:0B:0F:00:00:00/24
+  manufacturer: Bosch Rexroth
+  manufacturerUri: https://device-type.com
+  name: BoschRex
+type: d3-device-type-assertion

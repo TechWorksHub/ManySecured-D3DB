@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 284ce1eb-81ab-417d-8f4b-79ca089af267
+  macAddresses:
+  - 00:40:5A:00:00:00/24
+  - 00:40:A0:00:00:00/24
+  - 00:40:BB:00:00:00/24
+  manufacturer: Goldstar Information & Comm.
+  manufacturerUri: https://device-type.com
+  name: Goldstar
+type: d3-device-type-assertion

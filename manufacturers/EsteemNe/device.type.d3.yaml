@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5edcfa74-af2e-4b28-b14b-8327d32c090a
+  macAddresses:
+  - 00:09:06:00:00:00/24
+  manufacturer: Esteem Networks
+  manufacturerUri: https://device-type.com
+  name: EsteemNe
+type: d3-device-type-assertion

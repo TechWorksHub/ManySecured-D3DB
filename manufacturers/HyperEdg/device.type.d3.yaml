@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8501623-4a61-4899-bcde-0130573a1639
+  macAddresses:
+  - 00:0B:5A:00:00:00/24
+  manufacturer: HyperEdge
+  manufacturerUri: https://device-type.com
+  name: HyperEdg
+type: d3-device-type-assertion

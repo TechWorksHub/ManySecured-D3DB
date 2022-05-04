@@ -1,0 +1,27 @@
+credentialSubject:
+  id: 30a9c79e-51f6-41cd-be0f-b945a3af86f9
+  macAddresses:
+  - 00:77:E4:00:00:00/24
+  - 08:9B:B9:00:00:00/24
+  - 0C:7C:28:00:00:00/24
+  - 20:78:52:00:00:00/24
+  - 28:74:F5:00:00:00/24
+  - 34:CE:69:00:00:00/24
+  - 38:A0:67:00:00:00/24
+  - 40:E1:E4:00:00:00/24
+  - 48:EC:5B:00:00:00/24
+  - 54:FA:96:00:00:00/24
+  - 60:8F:A4:00:00:00/24
+  - 60:A8:FE:00:00:00/24
+  - 6C:F7:12:00:00:00/24
+  - 78:F9:B4:00:00:00/24
+  - A0:C9:8B:00:00:00/24
+  - AC:8F:A9:00:00:00/24
+  - C0:41:21:00:00:00/24
+  - D8:EF:CD:00:00:00/24
+  - DC:8D:8A:00:00:00/24
+  - E0:1F:2B:00:00:00/24
+  manufacturer: Nokia Solutions and Networks GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: NokiaSol
+type: d3-device-type-assertion

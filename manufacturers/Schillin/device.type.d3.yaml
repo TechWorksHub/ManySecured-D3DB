@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c100c8a3-b5eb-48d4-8a60-6d83750f03ae
+  macAddresses:
+  - 00:15:FE:00:00:00/24
+  manufacturer: Schilling Robotics Llc
+  manufacturerUri: https://device-type.com
+  name: Schillin
+type: d3-device-type-assertion

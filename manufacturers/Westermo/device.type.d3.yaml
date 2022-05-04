@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b68f2533-6c5a-4fbe-87ae-bead9fa87a81
+  macAddresses:
+  - 00:07:7C:00:00:00/24
+  - 00:11:B4:00:00:00/24
+  - 00:14:5A:00:00:00/24
+  manufacturer: Westermo Network Technologies AB
+  manufacturerUri: https://device-type.com
+  name: Westermo
+type: d3-device-type-assertion

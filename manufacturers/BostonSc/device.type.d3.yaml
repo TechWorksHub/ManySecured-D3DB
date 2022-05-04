@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b144ba0-5006-48cf-871e-80133c3c5734
+  macAddresses:
+  - 00:0F:19:00:00:00/24
+  manufacturer: Boston Scientific
+  manufacturerUri: https://device-type.com
+  name: BostonSc
+type: d3-device-type-assertion

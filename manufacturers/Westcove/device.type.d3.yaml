@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da72be48-4a32-435e-baf9-f331fcc79e25
+  macAddresses:
+  - 00:80:8D:00:00:00/24
+  manufacturer: Westcove Technology BV
+  manufacturerUri: https://device-type.com
+  name: Westcove
+type: d3-device-type-assertion

@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 20f6623c-b880-4794-a643-730d762ae6f0
+  macAddresses:
+  - 00:00:A7:00:00:00/24
+  - 00:18:5B:00:00:00/24
+  - 00:1D:FF:00:00:00/24
+  - 00:40:ED:00:00:00/24
+  - 00:90:FC:00:00:00/24
+  - 00:C0:F3:00:00:00/24
+  - 70:B3:D5:B4:B0:00/36
+  manufacturer: Network Computing Devices Inc.
+  manufacturerUri: https://device-type.com
+  name: NetworkC
+type: d3-device-type-assertion

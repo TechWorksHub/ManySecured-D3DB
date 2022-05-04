@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d4c13878-816b-4325-bc7f-ad507ac2d19f
+  macAddresses:
+  - 00:12:C1:00:00:00/24
+  - 00:1C:7F:00:00:00/24
+  - 00:A0:8E:00:00:00/24
+  manufacturer: Check Point Software Technologies
+  manufacturerUri: https://device-type.com
+  name: CheckPoi
+type: d3-device-type-assertion

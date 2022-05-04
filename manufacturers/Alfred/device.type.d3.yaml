@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05bba7c9-7aa0-4a79-91e4-a243ef242571
+  macAddresses:
+  - 80:02:F4:E0:00:00/28
+  manufacturer: Alfred Systems Inc
+  manufacturerUri: https://device-type.com
+  name: Alfred
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08b208f8-7f80-4fa9-b9da-972d125e7f0f
+  macAddresses:
+  - 00:20:E6:00:00:00/24
+  manufacturer: Lidkoping Machine Tools Ab
+  manufacturerUri: https://device-type.com
+  name: Lidkopin
+type: d3-device-type-assertion

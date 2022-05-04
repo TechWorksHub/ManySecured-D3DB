@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd96db11-b2b6-4cdd-8eb6-81523a56dabc
+  macAddresses:
+  - 00:17:DA:00:00:00/24
+  manufacturer: Spans Logic
+  manufacturerUri: https://device-type.com
+  name: SpansLog
+type: d3-device-type-assertion

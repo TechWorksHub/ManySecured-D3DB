@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 836e456f-747f-479e-80f7-3805f882523a
+  macAddresses:
+  - 00:17:B1:00:00:00/24
+  manufacturer: ACIST Medical Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: ACISTMed
+type: d3-device-type-assertion

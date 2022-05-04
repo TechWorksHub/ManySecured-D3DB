@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa17f569-4c9d-4bd4-b913-b6eb86c3b31f
+  macAddresses:
+  - 00:30:BF:00:00:00/24
+  manufacturer: Multidata Gmbh
+  manufacturerUri: https://device-type.com
+  name: Multidat
+type: d3-device-type-assertion

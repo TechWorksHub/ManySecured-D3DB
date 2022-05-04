@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aafc0748-3912-4ce6-a256-a2e1f4713f3f
+  macAddresses:
+  - AC:14:D2:00:00:00/24
+  manufacturer: wi-daq, inc.
+  manufacturerUri: https://device-type.com
+  name: wi-daq
+type: d3-device-type-assertion

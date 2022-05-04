@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 4b88c919-5ffe-44d3-89bd-76ce4d63f17e
+  macAddresses:
+  - 00:50:C2:3D:80:00/36
+  - 00:50:C2:D2:F0:00/36
+  - 40:D8:55:14:10:00/36
+  manufacturer: Key Systems , Inc.
+  manufacturerUri: https://device-type.com
+  name: Key
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 639cd595-a340-4fc4-afa0-308f8d64d0d9
+  macAddresses:
+  - 00:40:B0:00:00:00/24
+  manufacturer: Bytex Corporation, Engineering
+  manufacturerUri: https://device-type.com
+  name: BytexEng
+type: d3-device-type-assertion

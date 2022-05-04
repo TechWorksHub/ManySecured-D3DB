@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63420ccf-9cf0-4d0e-8236-539d887a6730
+  macAddresses:
+  - 00:04:85:00:00:00/24
+  manufacturer: PicoLight
+  manufacturerUri: https://device-type.com
+  name: PicoLigh
+type: d3-device-type-assertion

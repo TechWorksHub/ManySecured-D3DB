@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ba7a3371-c2fd-4aac-9a0a-56811bc17d11
+  macAddresses:
+  - 00:50:C2:E2:70:00/36
+  - 00:50:C2:FF:30:00/36
+  - 70:B3:D5:22:90:00/36
+  manufacturer: CONTROL SYSTEMS Srl
+  manufacturerUri: https://device-type.com
+  name: CONTROL
+type: d3-device-type-assertion

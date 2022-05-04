@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 83016083-ad12-4cb0-bc42-9907031d0c61
+  macAddresses:
+  - 28:FB:D3:00:00:00/24
+  - 88:A7:3C:00:00:00/24
+  - C0:85:4C:00:00:00/24
+  manufacturer: Ragentek Technology Group
+  manufacturerUri: https://device-type.com
+  name: Ragentek
+type: d3-device-type-assertion

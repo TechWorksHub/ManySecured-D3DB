@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d31ecf11-8282-4cdd-8d02-a2de536b0ee0
+  macAddresses:
+  - 00:0D:A0:00:00:00/24
+  manufacturer: Nedap N.V.
+  manufacturerUri: https://device-type.com
+  name: Nedap
+type: d3-device-type-assertion

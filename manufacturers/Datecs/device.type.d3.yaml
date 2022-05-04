@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c332c83-99dc-42e2-a78c-9abae0e228bc
+  macAddresses:
+  - 68:AA:D2:00:00:00/24
+  manufacturer: Datecs Ltd.,
+  manufacturerUri: https://device-type.com
+  name: Datecs
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bef2e37c-ebaf-4b64-b1c5-5d6f0974aadd
+  macAddresses:
+  - DA:41:62:00:00:00/24
+  manufacturer: Xperi Corporation
+  manufacturerUri: https://device-type.com
+  name: Xperi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 867bb8ed-95af-4f99-bc5c-5d780180ddf9
+  macAddresses:
+  - 00:20:5F:00:00:00/24
+  manufacturer: Gammadata Computer Gmbh
+  manufacturerUri: https://device-type.com
+  name: Gammadat
+type: d3-device-type-assertion

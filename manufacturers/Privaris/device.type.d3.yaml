@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e099dbf-b16d-426c-98c0-d96f6d57841b
+  macAddresses:
+  - 00:0E:D0:00:00:00/24
+  manufacturer: Privaris, Inc.
+  manufacturerUri: https://device-type.com
+  name: Privaris
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03ef01a6-4cd5-476b-a4d1-5c3f8540fd5e
+  macAddresses:
+  - 00:19:E6:00:00:00/24
+  manufacturer: Toyo Medic Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: ToyoMedi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 532c1b8b-1b83-4df7-8cd3-ed44cd9b90e3
+  macAddresses:
+  - 00:C0:1E:00:00:00/24
+  manufacturer: La Francaise Des Jeux
+  manufacturerUri: https://device-type.com
+  name: LaFranca
+type: d3-device-type-assertion

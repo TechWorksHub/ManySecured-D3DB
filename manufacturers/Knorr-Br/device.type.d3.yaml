@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc1c1e3c-8d80-4c14-ad8c-a770c9c16f5d
+  macAddresses:
+  - 00:1D:69:00:00:00/24
+  manufacturer: Knorr-Bremse IT-Services GmbH
+  manufacturerUri: https://device-type.com
+  name: Knorr-Br
+type: d3-device-type-assertion

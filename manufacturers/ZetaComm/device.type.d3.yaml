@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2b09bee-903a-452c-82fe-f803d561e6cd
+  macAddresses:
+  - 00:20:2F:00:00:00/24
+  manufacturer: Zeta Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: ZetaComm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e6be1e1-bc7e-49da-9b9d-d73dbb48746a
+  macAddresses:
+  - EC:FC:55:00:00:00/24
+  manufacturer: A. Eberle GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: AEberle
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa886c0f-b474-48b9-af03-ceec111c7686
+  macAddresses:
+  - 00:03:B3:00:00:00/24
+  manufacturer: IA Link Systems Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: IALink
+type: d3-device-type-assertion

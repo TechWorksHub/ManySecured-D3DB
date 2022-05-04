@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c0c793e-f5ad-4768-983c-d980a734fd8b
+  macAddresses:
+  - 00:19:A2:00:00:00/24
+  manufacturer: Ordyn Technologies
+  manufacturerUri: https://device-type.com
+  name: OrdynTec
+type: d3-device-type-assertion

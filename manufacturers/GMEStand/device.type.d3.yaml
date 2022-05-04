@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c4232c8-1227-47d0-91b4-e4d9f8d23071
+  macAddresses:
+  - C0:F9:91:00:00:00/24
+  manufacturer: GME Standard Communications P/L
+  manufacturerUri: https://device-type.com
+  name: GMEStand
+type: d3-device-type-assertion

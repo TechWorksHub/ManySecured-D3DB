@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fad75c2b-c8b9-4684-970e-c47ce07f7b00
+  macAddresses:
+  - 00:06:3E:00:00:00/24
+  manufacturer: Opthos Inc.
+  manufacturerUri: https://device-type.com
+  name: Opthos
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f20f2bb-ea2d-4edc-b52e-7cd94f6ab906
+  macAddresses:
+  - 00:00:21:00:00:00/24
+  manufacturer: Sureman Comp. & Commun. Corp.
+  manufacturerUri: https://device-type.com
+  name: SuremanC
+type: d3-device-type-assertion

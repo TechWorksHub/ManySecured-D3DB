@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 012d09e1-8682-4303-aeb7-cba0a4d7f60e
+  macAddresses:
+  - 00:0F:64:00:00:00/24
+  manufacturer: D&R Electronica Weesp BV
+  manufacturerUri: https://device-type.com
+  name: D&RElect
+type: d3-device-type-assertion

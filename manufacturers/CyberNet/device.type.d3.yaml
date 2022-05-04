@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0dc5974d-83e7-41ad-a816-0415db3ca9ce
+  macAddresses:
+  - 00:12:5D:00:00:00/24
+  manufacturer: CyberNet Inc.
+  manufacturerUri: https://device-type.com
+  name: CyberNet
+type: d3-device-type-assertion

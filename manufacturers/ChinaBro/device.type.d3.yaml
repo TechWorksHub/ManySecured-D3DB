@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e45ad05-926d-4aab-9fa7-f8358c1110bf
+  macAddresses:
+  - 00:14:72:00:00:00/24
+  manufacturer: China Broadband Wireless IP Standard group(ChinaBWIPS)
+  manufacturerUri: https://device-type.com
+  name: ChinaBro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60782dab-76be-4069-99ab-15f3900a12ca
+  macAddresses:
+  - 0C:53:31:00:00:00/24
+  manufacturer: ETH Zurich
+  manufacturerUri: https://device-type.com
+  name: ETHZuric
+type: d3-device-type-assertion

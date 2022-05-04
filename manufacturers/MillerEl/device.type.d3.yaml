@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83a6c078-8957-4942-97b4-375de590db22
+  macAddresses:
+  - 28:A5:74:00:00:00/24
+  manufacturer: Miller Electric Mfg. Co.
+  manufacturerUri: https://device-type.com
+  name: MillerEl
+type: d3-device-type-assertion

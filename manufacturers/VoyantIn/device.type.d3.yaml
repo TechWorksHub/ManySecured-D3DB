@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc98a308-adae-485c-8acf-ab618ce05f63
+  macAddresses:
+  - 00:24:4A:00:00:00/24
+  manufacturer: Voyant International
+  manufacturerUri: https://device-type.com
+  name: VoyantIn
+type: d3-device-type-assertion

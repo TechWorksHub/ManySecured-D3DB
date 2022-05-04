@@ -1,0 +1,9 @@
+credentialSubject:
+  id: afcb2cce-d6af-4a98-b218-e1f4983d4785
+  macAddresses:
+  - 00:1A:CD:00:00:00/24
+  - 00:50:C2:1A:30:00/36
+  manufacturer: Tidel Engineering LP
+  manufacturerUri: https://device-type.com
+  name: TidelEng
+type: d3-device-type-assertion

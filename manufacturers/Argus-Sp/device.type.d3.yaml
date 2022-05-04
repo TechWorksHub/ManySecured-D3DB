@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 725ce043-0a2c-4968-bece-0c7c4f789f59
+  macAddresses:
+  - 00:50:C2:76:40:00/36
+  - 00:50:C2:FB:60:00/36
+  - 40:D8:55:17:A0:00/36
+  - BC:66:41:40:00:00/28
+  manufacturer: Argus-Spectrum
+  manufacturerUri: https://device-type.com
+  name: Argus-Sp
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8becd84-c35f-48b0-b879-9b6c4f5aab22
+  macAddresses:
+  - 00:00:EA:00:00:00/24
+  manufacturer: Upnod Ab
+  manufacturerUri: https://device-type.com
+  name: Upnod
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4abd2ed1-17b5-45f0-af96-d5b8024fb27d
+  macAddresses:
+  - 00:0C:66:00:00:00/24
+  manufacturer: Pronto Networks Inc
+  manufacturerUri: https://device-type.com
+  name: ProntoNe
+type: d3-device-type-assertion

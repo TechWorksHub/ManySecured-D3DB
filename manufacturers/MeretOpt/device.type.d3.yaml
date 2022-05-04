@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d5314d1-0b4d-40e9-ae17-b6d4b7744448
+  macAddresses:
+  - 00:09:69:00:00:00/24
+  manufacturer: Meret Optical Communications
+  manufacturerUri: https://device-type.com
+  name: MeretOpt
+type: d3-device-type-assertion

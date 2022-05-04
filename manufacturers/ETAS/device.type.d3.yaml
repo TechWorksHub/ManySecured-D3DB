@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dcb9b925-523b-40a6-bb43-9c7696394b01
+  macAddresses:
+  - 00:02:E0:00:00:00/24
+  manufacturer: ETAS GmbH
+  manufacturerUri: https://device-type.com
+  name: ETAS
+type: d3-device-type-assertion

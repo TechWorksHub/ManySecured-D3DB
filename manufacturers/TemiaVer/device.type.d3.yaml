@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03379a86-c11b-430c-91cf-8a2fad873340
+  macAddresses:
+  - 00:04:8A:00:00:00/24
+  manufacturer: Temia Vertriebs GmbH
+  manufacturerUri: https://device-type.com
+  name: TemiaVer
+type: d3-device-type-assertion

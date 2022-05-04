@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 21102084-d9cd-4919-ab3e-2cf5fab37cba
+  macAddresses:
+  - 40:D8:55:10:F0:00/36
+  - 80:E4:DA:50:00:00/28
+  manufacturer: Cavalry Storage Inc
+  manufacturerUri: https://device-type.com
+  name: CavalryS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03e5301d-a537-4e42-9144-5e904bc1e9be
+  macAddresses:
+  - 00:0F:0E:00:00:00/24
+  manufacturer: WaveSplitter Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: WaveSpli
+type: d3-device-type-assertion

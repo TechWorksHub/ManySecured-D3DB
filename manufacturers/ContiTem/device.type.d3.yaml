@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 07d01653-22c4-4965-842a-b5ffb12301f5
+  macAddresses:
+  - 00:36:F8:00:00:00/24
+  - D8:18:2B:00:00:00/24
+  manufacturer: Conti Temic microelectronic GmbH
+  manufacturerUri: https://device-type.com
+  name: ContiTem
+type: d3-device-type-assertion

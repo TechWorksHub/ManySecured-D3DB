@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b02ead41-622f-48b4-a505-0d09eaafa356
+  macAddresses:
+  - 00:90:39:00:00:00/24
+  manufacturer: Shasta Networks
+  manufacturerUri: https://device-type.com
+  name: ShastaNe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e43502b-39b7-454a-931c-0dfe187322d8
+  macAddresses:
+  - 00:0D:A1:00:00:00/24
+  manufacturer: MIRAE ITS Co.,LTD.
+  manufacturerUri: https://device-type.com
+  name: MIRAEITS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eadaaa2c-bb68-4b42-986d-920174fec9cc
+  macAddresses:
+  - A0:A1:30:00:00:00/24
+  manufacturer: DLI Taiwan Branch office
+  manufacturerUri: https://device-type.com
+  name: DLITaiwa
+type: d3-device-type-assertion

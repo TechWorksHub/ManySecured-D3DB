@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06dfb92b-42fb-469c-828f-ff6b6d1c141e
+  macAddresses:
+  - 00:10:93:00:00:00/24
+  manufacturer: Cms Computers, Ltd.
+  manufacturerUri: https://device-type.com
+  name: CmsCompu
+type: d3-device-type-assertion

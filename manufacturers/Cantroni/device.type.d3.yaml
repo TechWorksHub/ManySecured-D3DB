@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7fa6565d-94c2-4720-9700-fee4426f4479
+  macAddresses:
+  - 00:1E:EF:00:00:00/24
+  - 4C:93:A6:D0:00:00/28
+  manufacturer: Cantronic International Limited
+  manufacturerUri: https://device-type.com
+  name: Cantroni
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb045aed-7128-496c-bcb8-cd13a7636c91
+  macAddresses:
+  - 00:30:3C:00:00:00/24
+  manufacturer: Onnto Corp.
+  manufacturerUri: https://device-type.com
+  name: Onnto
+type: d3-device-type-assertion

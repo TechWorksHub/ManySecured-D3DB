@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbb5a807-2c69-476a-a14d-99ed31daa95d
+  macAddresses:
+  - 90:AC:3F:00:00:00/24
+  manufacturer: BrightSign LLC
+  manufacturerUri: https://device-type.com
+  name: BrightSi
+type: d3-device-type-assertion

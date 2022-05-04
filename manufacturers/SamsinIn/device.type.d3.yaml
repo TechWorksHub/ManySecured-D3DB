@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6bbe9fc-9030-451d-8ac7-ecf5ca966e93
+  macAddresses:
+  - 00:21:0D:00:00:00/24
+  manufacturer: Samsin Innotec
+  manufacturerUri: https://device-type.com
+  name: SamsinIn
+type: d3-device-type-assertion

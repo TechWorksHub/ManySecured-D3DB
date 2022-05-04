@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f886732-2dce-4709-9f1a-e04da1e06a92
+  macAddresses:
+  - 7C:01:87:00:00:00/24
+  manufacturer: Curtis Instruments, Inc.
+  manufacturerUri: https://device-type.com
+  name: CurtisIn
+type: d3-device-type-assertion

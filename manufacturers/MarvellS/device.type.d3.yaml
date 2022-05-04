@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 46bc7ea0-4d58-4759-aea7-183c5dafa273
+  macAddresses:
+  - 00:50:43:00:00:00/24
+  - F4:C7:AA:00:00:00/24
+  manufacturer: Marvell Semiconductor, Inc.
+  manufacturerUri: https://device-type.com
+  name: MarvellS
+type: d3-device-type-assertion

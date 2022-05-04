@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ece7e6f-6a47-4d99-9df7-2621d72c937e
+  macAddresses:
+  - 00:30:8F:00:00:00/24
+  manufacturer: MICRILOR, Inc.
+  manufacturerUri: https://device-type.com
+  name: MICRILOR
+type: d3-device-type-assertion

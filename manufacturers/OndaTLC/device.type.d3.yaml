@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cbdefd8-8aa9-4d06-8d76-e1686df137a1
+  macAddresses:
+  - B0:38:93:00:00:00/24
+  manufacturer: Onda TLC GmbH
+  manufacturerUri: https://device-type.com
+  name: OndaTLC
+type: d3-device-type-assertion

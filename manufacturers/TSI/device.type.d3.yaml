@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c72f0ad0-d615-4446-8b12-a57e0735c63b
+  macAddresses:
+  - 00:30:20:00:00:00/24
+  manufacturer: TSI, Inc..
+  manufacturerUri: https://device-type.com
+  name: TSI
+type: d3-device-type-assertion

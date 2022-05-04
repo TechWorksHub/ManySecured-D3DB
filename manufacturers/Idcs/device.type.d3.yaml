@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de271c2a-d20f-4f51-abd5-886591aa382c
+  macAddresses:
+  - 00:14:63:00:00:00/24
+  manufacturer: Idcs N.V.
+  manufacturerUri: https://device-type.com
+  name: Idcs
+type: d3-device-type-assertion

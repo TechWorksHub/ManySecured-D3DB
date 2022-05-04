@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 39b980a1-cc89-44e3-8aad-0bd6ce778b0b
+  macAddresses:
+  - 00:50:FE:00:00:00/24
+  manufacturer: PCTVnet ASA
+  manufacturerUri: https://device-type.com
+  name: PCTVnetA
+type: d3-device-type-assertion

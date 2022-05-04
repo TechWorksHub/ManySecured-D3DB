@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09ebb6be-d03c-4675-8984-bb5ba91911c8
+  macAddresses:
+  - 00:15:C8:00:00:00/24
+  manufacturer: FlexiPanel Ltd
+  manufacturerUri: https://device-type.com
+  name: FlexiPan
+type: d3-device-type-assertion

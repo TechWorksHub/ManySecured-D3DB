@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dd375be-cfa4-499d-8a7a-427c45252597
+  macAddresses:
+  - EC:01:33:00:00:00/24
+  manufacturer: Trinus Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Trinus
+type: d3-device-type-assertion

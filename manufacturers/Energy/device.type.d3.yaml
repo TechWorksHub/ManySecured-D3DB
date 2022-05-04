@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f09f7fdf-8c60-4ead-8e5e-8668bae4c87c
+  macAddresses:
+  - 00:25:2F:00:00:00/24
+  manufacturer: Energy, Inc.
+  manufacturerUri: https://device-type.com
+  name: Energy
+type: d3-device-type-assertion

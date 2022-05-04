@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12f370f7-a762-40af-b580-87064eb5311b
+  macAddresses:
+  - 00:A0:3A:00:00:00/24
+  manufacturer: Kubotek Corporation
+  manufacturerUri: https://device-type.com
+  name: Kubotek
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 84d8145c-7791-40c4-83ba-2450d7661ccd
+  macAddresses:
+  - 00:03:6F:00:00:00/24
+  - 00:21:96:00:00:00/24
+  manufacturer: Telsey SPA
+  manufacturerUri: https://device-type.com
+  name: Telsey
+type: d3-device-type-assertion

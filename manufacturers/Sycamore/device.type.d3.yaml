@@ -1,0 +1,10 @@
+credentialSubject:
+  id: d82b5b2b-bed3-46ce-bf1b-db72a479c670
+  macAddresses:
+  - 00:20:54:00:00:00/24
+  - 00:90:97:00:00:00/24
+  - 00:D0:D1:00:00:00/24
+  manufacturer: Sycamore Networks
+  manufacturerUri: https://device-type.com
+  name: Sycamore
+type: d3-device-type-assertion

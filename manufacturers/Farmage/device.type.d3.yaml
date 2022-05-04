@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95a2a7a9-0353-4869-a8e2-8f5ef54bf5e5
+  macAddresses:
+  - 44:23:AA:00:00:00/24
+  manufacturer: Farmage Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Farmage
+type: d3-device-type-assertion

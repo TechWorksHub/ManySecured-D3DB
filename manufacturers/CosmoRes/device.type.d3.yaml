@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07e96d11-bb23-477f-89bc-d58352b51658
+  macAddresses:
+  - 00:02:37:00:00:00/24
+  manufacturer: Cosmo Research Corp.
+  manufacturerUri: https://device-type.com
+  name: CosmoRes
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5e77cd1-afea-41a7-8acb-d26880363d64
+  macAddresses:
+  - DC:36:43:B0:00:00/28
+  manufacturer: nami.ai
+  manufacturerUri: https://device-type.com
+  name: namiai
+type: d3-device-type-assertion

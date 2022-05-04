@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a293c35-72a2-406f-94f0-b086b7cc55f4
+  macAddresses:
+  - 00:17:D9:00:00:00/24
+  manufacturer: AAI Corporation
+  manufacturerUri: https://device-type.com
+  name: AAI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bcc8569-c005-4c8a-b0dd-88094e10c934
+  macAddresses:
+  - F0:BC:C8:00:00:00/24
+  manufacturer: MaxID (Pty) Ltd
+  manufacturerUri: https://device-type.com
+  name: MaxID
+type: d3-device-type-assertion

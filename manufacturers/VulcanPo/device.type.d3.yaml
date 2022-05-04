@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4abffad4-5edc-4a17-818c-8ded50b49363
+  macAddresses:
+  - 00:0E:F7:00:00:00/24
+  manufacturer: Vulcan Portals Inc
+  manufacturerUri: https://device-type.com
+  name: VulcanPo
+type: d3-device-type-assertion

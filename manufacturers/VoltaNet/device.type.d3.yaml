@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a3860b8a-adc2-4bbd-b6c2-16fb9940fe00
+  macAddresses:
+  - C0:2F:F1:00:00:00/24
+  manufacturer: Volta Networks
+  manufacturerUri: https://device-type.com
+  name: VoltaNet
+type: d3-device-type-assertion

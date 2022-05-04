@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 349c8d96-9f33-4301-8e7b-c03260098e28
+  macAddresses:
+  - 28:FD:80:30:00:00/28
+  - 7C:F4:29:00:00:00/24
+  manufacturer: NUUO, Inc.
+  manufacturerUri: https://device-type.com
+  name: NUUO
+type: d3-device-type-assertion

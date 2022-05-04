@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 768eb9b2-e6ec-4025-9997-c3896dfc6a2c
+  macAddresses:
+  - 00:07:6E:00:00:00/24
+  - 00:50:C2:02:F0:00/36
+  manufacturer: Sinetica Corporation Limited
+  manufacturerUri: https://device-type.com
+  name: Sinetica
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1202c6ef-ca05-4b06-b98e-2bbc8e76ea28
+  macAddresses:
+  - 00:50:C2:CD:00:00/36
+  manufacturer: MME Mueller Mikroelektronik
+  manufacturerUri: https://device-type.com
+  name: MMEMuell
+type: d3-device-type-assertion

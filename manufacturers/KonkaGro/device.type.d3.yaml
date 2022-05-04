@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 55c8ad63-c49c-4cb5-bde7-b3893163a6f7
+  macAddresses:
+  - 00:1A:34:00:00:00/24
+  - 88:79:5B:00:00:00/24
+  - F8:45:AD:00:00:00/24
+  manufacturer: Konka Group Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KonkaGro
+type: d3-device-type-assertion

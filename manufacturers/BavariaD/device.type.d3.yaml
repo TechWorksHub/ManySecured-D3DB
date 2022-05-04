@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bc9f41e5-418b-4359-bc1a-422f069f20f0
+  macAddresses:
+  - 00:50:C2:3D:90:00/36
+  - 70:B3:D5:F1:C0:00/36
+  manufacturer: Bavaria Digital Technik GmbH
+  manufacturerUri: https://device-type.com
+  name: BavariaD
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1c8a3352-128e-41eb-b9fa-62128dda0820
+  macAddresses:
+  - 00:02:52:00:00:00/24
+  - 34:6D:9C:00:00:00/24
+  manufacturer: Carrier Corporation
+  manufacturerUri: https://device-type.com
+  name: Carrier
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16c21911-7b8c-4c94-843a-f127729a783c
+  macAddresses:
+  - 30:F3:3A:00:00:00/24
+  manufacturer: +plugg srl
+  manufacturerUri: https://device-type.com
+  name: +plugg
+type: d3-device-type-assertion

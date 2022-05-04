@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c912ba98-8a8e-4aed-9a81-d16cf9938021
+  macAddresses:
+  - 00:50:C2:05:60:00/36
+  manufacturer: Base 2
+  manufacturerUri: https://device-type.com
+  name: Base2
+type: d3-device-type-assertion

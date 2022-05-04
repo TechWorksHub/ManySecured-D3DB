@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47e6ffc9-092a-4cc1-8aea-746283412e44
+  macAddresses:
+  - 00:06:2C:00:00:00/24
+  manufacturer: Bivio Networks
+  manufacturerUri: https://device-type.com
+  name: BivioNet
+type: d3-device-type-assertion

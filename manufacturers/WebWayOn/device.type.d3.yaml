@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b738b5d-f1fd-4c57-ab82-3086d28f550a
+  macAddresses:
+  - 00:0A:07:00:00:00/24
+  manufacturer: WebWayOne Ltd
+  manufacturerUri: https://device-type.com
+  name: WebWayOn
+type: d3-device-type-assertion

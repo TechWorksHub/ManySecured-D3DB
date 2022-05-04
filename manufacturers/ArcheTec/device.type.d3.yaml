@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 503e1a17-1e1d-46c4-b957-ec8ce6d8b188
+  macAddresses:
+  - 00:80:B9:00:00:00/24
+  manufacturer: Arche Technoligies Inc.
+  manufacturerUri: https://device-type.com
+  name: ArcheTec
+type: d3-device-type-assertion

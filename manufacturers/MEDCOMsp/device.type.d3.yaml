@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e4ec884c-faa2-4720-815c-7bdf1e5fdede
+  macAddresses:
+  - CC:22:37:00:00:00/28
+  manufacturer: MEDCOM sp. z o.o.
+  manufacturerUri: https://device-type.com
+  name: MEDCOMsp
+type: d3-device-type-assertion

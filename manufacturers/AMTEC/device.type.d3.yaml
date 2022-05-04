@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6fc4909-91f6-4e66-a9c0-b71dcd149f26
+  macAddresses:
+  - 00:60:3B:00:00:00/24
+  manufacturer: AMTEC spa
+  manufacturerUri: https://device-type.com
+  name: AMTEC
+type: d3-device-type-assertion

@@ -1,0 +1,22 @@
+credentialSubject:
+  id: d44a2d6c-762b-4d39-92b0-5fcf56fdf1e7
+  macAddresses:
+  - 00:02:3C:00:00:00/24
+  - 00:50:C2:4E:F0:00/36
+  - 00:50:C2:C8:90:00/36
+  - 00:80:A2:00:00:00/24
+  - 00:A0:18:00:00:00/24
+  - 00:C0:4B:00:00:00/24
+  - 14:43:19:00:00:00/24
+  - 14:59:C3:00:00:00/24
+  - 40:D8:55:1B:A0:00/36
+  - 70:B3:D5:5E:C0:00/36
+  - 70:B3:D5:A6:50:00/36
+  - 7C:EF:18:00:00:00/24
+  - 88:5D:90:80:00:00/28
+  - C0:CF:A3:00:00:00/24
+  - F0:2A:23:00:00:00/24
+  manufacturer: Creative Technology, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Creative
+type: d3-device-type-assertion

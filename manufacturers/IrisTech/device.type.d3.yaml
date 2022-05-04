@@ -1,0 +1,8 @@
+credentialSubject:
+  id: adad08f4-2366-4e2c-bdf6-459394eb0414
+  macAddresses:
+  - 00:50:0A:00:00:00/24
+  manufacturer: Iris Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: IrisTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcc93500-464d-44a8-be90-9eabeb7a03b2
+  macAddresses:
+  - 7C:EB:7F:00:00:00/24
+  manufacturer: Dmet Products Corp.
+  manufacturerUri: https://device-type.com
+  name: DmetProd
+type: d3-device-type-assertion

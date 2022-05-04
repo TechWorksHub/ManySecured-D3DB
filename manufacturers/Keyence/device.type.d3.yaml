@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 36883321-6772-425f-b334-420b22d04de9
+  macAddresses:
+  - 00:01:FC:00:00:00/24
+  manufacturer: Keyence Corporation
+  manufacturerUri: https://device-type.com
+  name: Keyence
+type: d3-device-type-assertion

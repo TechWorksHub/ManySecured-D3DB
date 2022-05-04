@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a35316c-3e4b-4e80-a5f5-71591db13120
+  macAddresses:
+  - AC:58:7B:00:00:00/24
+  manufacturer: JCT Healthcare
+  manufacturerUri: https://device-type.com
+  name: JCTHealt
+type: d3-device-type-assertion

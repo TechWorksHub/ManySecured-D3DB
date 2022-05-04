@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bd69799-f51d-493b-a893-e293943bec9f
+  macAddresses:
+  - 00:01:1B:00:00:00/24
+  manufacturer: Unizone Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: UnizoneT
+type: d3-device-type-assertion

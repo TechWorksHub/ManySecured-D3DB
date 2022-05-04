@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 409d5a40-4aaf-419b-acad-2610e92f8fc1
+  macAddresses:
+  - 00:1D:B4:00:00:00/24
+  manufacturer: Kumho Eng Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: KumhoEng
+type: d3-device-type-assertion

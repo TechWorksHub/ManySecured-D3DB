@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77e5750a-5820-424e-884e-d449484dd14f
+  macAddresses:
+  - 00:17:28:00:00:00/24
+  manufacturer: Selex Communications
+  manufacturerUri: https://device-type.com
+  name: SelexCom
+type: d3-device-type-assertion

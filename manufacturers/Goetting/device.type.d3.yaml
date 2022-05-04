@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a252f18-c6ef-4cb4-8766-2e3cdf38770a
+  macAddresses:
+  - 50:FF:99:C0:00:00/28
+  manufacturer: Goetting KG
+  manufacturerUri: https://device-type.com
+  name: Goetting
+type: d3-device-type-assertion

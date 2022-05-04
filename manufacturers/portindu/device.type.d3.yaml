@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 66a4298a-3f68-41a9-85b3-7a094f37b87c
+  macAddresses:
+  - B4:E9:A3:00:00:00/24
+  manufacturer: port industrial automation GmbH
+  manufacturerUri: https://device-type.com
+  name: portindu
+type: d3-device-type-assertion

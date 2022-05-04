@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 60e74ddc-e91b-437d-afd4-91c66233595b
+  macAddresses:
+  - 00:50:C2:3B:B0:00/36
+  - 00:50:C2:DB:00:00/36
+  - A8:01:80:00:00:00/24
+  manufacturer: IMAGO Technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: IMAGOTec
+type: d3-device-type-assertion

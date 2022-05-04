@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac70cf36-dc67-4bcc-8345-3d6cdbb35b69
+  macAddresses:
+  - 00:0D:0C:00:00:00/24
+  manufacturer: MDI Security Systems
+  manufacturerUri: https://device-type.com
+  name: MDISecur
+type: d3-device-type-assertion

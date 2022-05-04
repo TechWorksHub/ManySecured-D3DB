@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6ea595ac-2fb9-4964-9925-68d7f5060f60
+  macAddresses:
+  - 70:B3:D5:F6:10:00/36
+  - A0:19:B2:30:00:00/28
+  manufacturer: Power Diagnostic Service
+  manufacturerUri: https://device-type.com
+  name: PowerDia
+type: d3-device-type-assertion

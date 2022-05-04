@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 6582d76c-456d-455f-93a2-ee69e2ac4ee9
+  macAddresses:
+  - 00:04:56:00:00:00/24
+  - 30:CB:C7:00:00:00/24
+  - 58:C1:7A:00:00:00/24
+  - B4:A2:5C:00:00:00/24
+  - BC:A9:93:00:00:00/24
+  - BC:E6:7C:00:00:00/24
+  manufacturer: Cambium Networks Limited
+  manufacturerUri: https://device-type.com
+  name: CambiumN
+type: d3-device-type-assertion

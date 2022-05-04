@@ -1,0 +1,8 @@
+credentialSubject:
+  id: acac0dc7-1706-4118-8ac1-a7cd035a395d
+  macAddresses:
+  - F0:AF:50:00:00:00/24
+  manufacturer: Phantom Intelligence
+  manufacturerUri: https://device-type.com
+  name: PhantomI
+type: d3-device-type-assertion

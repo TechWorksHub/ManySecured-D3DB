@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c50855d-ab9e-43c6-ae3a-ac9589bdb027
+  macAddresses:
+  - 00:08:17:00:00:00/24
+  manufacturer: EmergeCore Networks LLC
+  manufacturerUri: https://device-type.com
+  name: EmergeCo
+type: d3-device-type-assertion

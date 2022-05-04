@@ -1,0 +1,9 @@
+credentialSubject:
+  id: aacc3b14-3fec-4664-8b76-2a32c993d63e
+  macAddresses:
+  - 2C:1E:4F:00:00:00/24
+  - E0:EF:02:00:00:00/24
+  manufacturer: Chengdu Qianli Network Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: ChengduQ
+type: d3-device-type-assertion

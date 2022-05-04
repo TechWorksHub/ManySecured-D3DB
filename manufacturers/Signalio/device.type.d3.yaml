@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc4ec0ef-7b34-47c0-99ed-7453aeed99b7
+  macAddresses:
+  - 00:1F:89:00:00:00/24
+  manufacturer: Signalion GmbH
+  manufacturerUri: https://device-type.com
+  name: Signalio
+type: d3-device-type-assertion

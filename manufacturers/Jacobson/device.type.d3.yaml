@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51a78351-777b-45d4-8595-4c3dc3083852
+  macAddresses:
+  - 00:11:CB:00:00:00/24
+  manufacturer: Jacobsons AB
+  manufacturerUri: https://device-type.com
+  name: Jacobson
+type: d3-device-type-assertion

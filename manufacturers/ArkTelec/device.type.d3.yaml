@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00b4d11f-ea9e-4678-9177-104733b6111e
+  macAddresses:
+  - 00:A0:CB:00:00:00/24
+  manufacturer: Ark Telecommunications, Inc.
+  manufacturerUri: https://device-type.com
+  name: ArkTelec
+type: d3-device-type-assertion

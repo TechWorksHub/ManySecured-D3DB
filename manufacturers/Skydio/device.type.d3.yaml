@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 29c37a13-4657-43f5-8ce5-9f4cc9dfc8d5
+  macAddresses:
+  - 38:1D:14:00:00:00/24
+  manufacturer: Skydio Inc.
+  manufacturerUri: https://device-type.com
+  name: Skydio
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0983cfb-f98f-4dc8-9508-191a58d449bb
+  macAddresses:
+  - 00:D0:43:00:00:00/24
+  manufacturer: Zonal Retail Data Systems
+  manufacturerUri: https://device-type.com
+  name: ZonalRet
+type: d3-device-type-assertion

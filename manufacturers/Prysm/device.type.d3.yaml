@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c05659df-b892-48f9-8c2d-0290021b4dc2
+  macAddresses:
+  - C4:16:FA:00:00:00/24
+  manufacturer: Prysm Inc
+  manufacturerUri: https://device-type.com
+  name: Prysm
+type: d3-device-type-assertion

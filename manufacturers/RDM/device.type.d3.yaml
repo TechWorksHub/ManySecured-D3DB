@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01601945-6518-4572-b4ec-5742e9c28816
+  macAddresses:
+  - 00:0F:10:00:00:00/24
+  manufacturer: RDM Corporation
+  manufacturerUri: https://device-type.com
+  name: RDM
+type: d3-device-type-assertion

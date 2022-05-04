@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6c94345-053e-4792-bc08-7cb5b1f0d2d5
+  macAddresses:
+  - 00:60:C2:00:00:00/24
+  manufacturer: Mpl Ag
+  manufacturerUri: https://device-type.com
+  name: Mpl
+type: d3-device-type-assertion

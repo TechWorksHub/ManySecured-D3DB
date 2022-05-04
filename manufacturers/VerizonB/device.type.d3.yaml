@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e330c88-4239-4318-96e6-06e0128140a8
+  macAddresses:
+  - C8:A7:0A:00:00:00/24
+  manufacturer: Verizon Business
+  manufacturerUri: https://device-type.com
+  name: VerizonB
+type: d3-device-type-assertion

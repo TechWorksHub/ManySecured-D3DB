@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ef78341-9848-4577-bfd9-2e45d00d4892
+  macAddresses:
+  - 00:07:5A:00:00:00/24
+  manufacturer: Air Products and Chemicals, Inc.
+  manufacturerUri: https://device-type.com
+  name: AirProdu
+type: d3-device-type-assertion

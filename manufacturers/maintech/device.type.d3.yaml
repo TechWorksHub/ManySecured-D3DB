@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 26de46c4-05dd-4655-9889-aca523dfbc35
+  macAddresses:
+  - 00:22:2E:00:00:00/24
+  manufacturer: maintech GmbH
+  manufacturerUri: https://device-type.com
+  name: maintech
+type: d3-device-type-assertion

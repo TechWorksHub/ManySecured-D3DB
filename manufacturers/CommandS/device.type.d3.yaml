@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a2234e0-bb21-42a4-b0ab-47a6d32d482d
+  macAddresses:
+  - 90:4E:91:80:00:00/28
+  manufacturer: CommandScape, Inc.
+  manufacturerUri: https://device-type.com
+  name: CommandS
+type: d3-device-type-assertion

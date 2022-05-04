@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4719d7e5-1691-41c3-a40e-69d937c1dff3
+  macAddresses:
+  - 14:2C:78:00:00:00/24
+  - 68:D6:ED:00:00:00/24
+  manufacturer: GooWi Wireless Technology Co., Limited
+  manufacturerUri: https://device-type.com
+  name: GooWiWir
+type: d3-device-type-assertion

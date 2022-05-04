@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 649ef8fc-66b7-4fb9-b0f0-bbb36178fbcc
+  macAddresses:
+  - 00:15:E2:00:00:00/24
+  manufacturer: Dr.Ing. Herbert Knauer GmbH
+  manufacturerUri: https://device-type.com
+  name: DrIngHer
+type: d3-device-type-assertion

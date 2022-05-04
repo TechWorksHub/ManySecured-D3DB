@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ef5561d-ec2f-44d2-9750-dd50944e6c35
+  macAddresses:
+  - C0:D3:91:A0:00:00/28
+  manufacturer: Alpha Audiotronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: AlphaAud
+type: d3-device-type-assertion

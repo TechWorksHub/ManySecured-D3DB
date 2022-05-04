@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ce699c6a-9af5-4545-baf4-9a2329f1dbb1
+  macAddresses:
+  - 00:17:47:00:00:00/24
+  - 70:B3:D5:76:D0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Trimble
+type: d3-device-type-assertion

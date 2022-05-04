@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7252e11-5d23-4c00-9bdd-194b76846c29
+  macAddresses:
+  - 00:03:70:00:00:00/24
+  manufacturer: NXTV, Inc.
+  manufacturerUri: https://device-type.com
+  name: NXTV
+type: d3-device-type-assertion

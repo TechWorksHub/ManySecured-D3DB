@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dbc94e1-c9a7-4786-80a3-120cf60e7e26
+  macAddresses:
+  - 00:1A:40:00:00:00/24
+  manufacturer: A-Four Tech Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: A-FourTe
+type: d3-device-type-assertion

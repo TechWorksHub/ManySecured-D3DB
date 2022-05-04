@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e074a98-0165-434e-890d-9c2b5ae9a9ba
+  macAddresses:
+  - 00:30:28:00:00:00/24
+  manufacturer: FASE Saldatura srl
+  manufacturerUri: https://device-type.com
+  name: FASESald
+type: d3-device-type-assertion

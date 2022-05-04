@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a7d7642-2a3f-4640-873d-4730729fdec7
+  macAddresses:
+  - 24:5C:CB:00:00:00/24
+  manufacturer: AXIe Consortium, Inc.
+  manufacturerUri: https://device-type.com
+  name: AXIeCons
+type: d3-device-type-assertion

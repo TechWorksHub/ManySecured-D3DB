@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5b6967e-61f2-42f9-928d-44e58451d44e
+  macAddresses:
+  - 00:1B:C5:00:30:00/36
+  manufacturer: MicroSigns Technologies Inc
+  manufacturerUri: https://device-type.com
+  name: MicroSig
+type: d3-device-type-assertion

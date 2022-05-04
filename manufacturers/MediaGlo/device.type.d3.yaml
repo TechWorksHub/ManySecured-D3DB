@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bec15cdc-8114-4d7a-b8b6-036177acd65a
+  macAddresses:
+  - 00:10:C4:00:00:00/24
+  - 04:61:69:00:00:00/24
+  manufacturer: Media Global Links Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: MediaGlo
+type: d3-device-type-assertion

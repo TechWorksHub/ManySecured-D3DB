@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9321e5a8-6093-46bc-94e3-cac39c860e19
+  macAddresses:
+  - 00:0F:0A:00:00:00/24
+  manufacturer: Clear Edge Networks
+  manufacturerUri: https://device-type.com
+  name: ClearEdg
+type: d3-device-type-assertion

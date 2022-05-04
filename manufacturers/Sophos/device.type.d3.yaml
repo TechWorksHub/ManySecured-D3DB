@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ec41b549-357f-4014-9f93-483764aba283
+  macAddresses:
+  - 00:1A:8C:00:00:00/24
+  - 7C:5A:1C:00:00:00/24
+  - C8:4F:86:00:00:00/24
+  manufacturer: Sophos Ltd
+  manufacturerUri: https://device-type.com
+  name: Sophos
+type: d3-device-type-assertion

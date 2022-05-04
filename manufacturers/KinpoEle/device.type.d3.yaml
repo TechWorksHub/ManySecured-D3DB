@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 863a3c68-bdb1-4418-ac5d-6f9b89a8c0e1
+  macAddresses:
+  - 00:01:E1:00:00:00/24
+  - DC:D2:55:00:00:00/24
+  manufacturer: Kinpo Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: KinpoEle
+type: d3-device-type-assertion

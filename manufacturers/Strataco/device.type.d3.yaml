@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 49e8a88e-e7cc-49e2-856b-72fff5a8f80d
+  macAddresses:
+  - 00:C0:43:00:00:00/24
+  manufacturer: Stratacom
+  manufacturerUri: https://device-type.com
+  name: Strataco
+type: d3-device-type-assertion

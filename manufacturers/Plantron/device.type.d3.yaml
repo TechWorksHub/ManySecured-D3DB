@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 347e4a10-1518-475d-8a56-76561a923048
+  macAddresses:
+  - 00:03:89:00:00:00/24
+  - 00:19:7F:00:00:00/24
+  - 00:23:7F:00:00:00/24
+  - 0C:E0:E4:00:00:00/24
+  - 38:5C:76:00:00:00/24
+  - 48:C1:AC:00:00:00/24
+  - BC:F2:92:00:00:00/24
+  - E4:22:A5:00:00:00/24
+  - F4:B6:88:00:00:00/24
+  manufacturer: Plantronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Plantron
+type: d3-device-type-assertion

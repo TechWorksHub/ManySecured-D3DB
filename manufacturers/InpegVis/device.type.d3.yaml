@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10cfdecb-6fd4-47a0-8d9c-ce33de511eb5
+  macAddresses:
+  - 00:25:D2:00:00:00/24
+  manufacturer: InpegVision Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: InpegVis
+type: d3-device-type-assertion

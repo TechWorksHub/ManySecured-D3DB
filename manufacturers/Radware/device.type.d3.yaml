@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c153c4d-2dd7-444d-aa48-cd85fe7be200
+  macAddresses:
+  - 00:03:B2:00:00:00/24
+  - 2C:B6:93:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Radware
+type: d3-device-type-assertion

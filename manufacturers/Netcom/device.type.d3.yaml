@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f51b866-5eac-4ec5-a683-8497ce0d95ed
+  macAddresses:
+  - 00:05:8A:00:00:00/24
+  manufacturer: Netcom Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Netcom
+type: d3-device-type-assertion

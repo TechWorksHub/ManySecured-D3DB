@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eae9086c-60cc-4edb-bc20-150a7a2cf08d
+  macAddresses:
+  - 00:0F:BC:00:00:00/24
+  manufacturer: Onkey Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: OnkeyTec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cdb9b97a-70fb-441e-97a5-0d9299335594
+  macAddresses:
+  - 00:50:C2:41:50:00/36
+  - 70:B3:D5:AA:C0:00/36
+  manufacturer: SensoTech GmbH
+  manufacturerUri: https://device-type.com
+  name: SensoTec
+type: d3-device-type-assertion

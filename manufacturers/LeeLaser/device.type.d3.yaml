@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed1a292b-23a5-44b2-9b1b-fdd0e4395684
+  macAddresses:
+  - 00:50:C2:DE:D0:00/36
+  manufacturer: Lee Laser
+  manufacturerUri: https://device-type.com
+  name: LeeLaser
+type: d3-device-type-assertion

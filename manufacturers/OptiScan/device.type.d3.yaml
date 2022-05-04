@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9cea1517-b503-4b63-ac9c-77869725f9b7
+  macAddresses:
+  - 70:B3:D5:08:80:00/36
+  manufacturer: OptiScan Biomedical Corp.
+  manufacturerUri: https://device-type.com
+  name: OptiScan
+type: d3-device-type-assertion

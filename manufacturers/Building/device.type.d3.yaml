@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c721990b-2fc2-4d18-90c7-ffb49dc4f4ea
+  macAddresses:
+  - 00:21:33:00:00:00/24
+  - C8:F7:04:00:00:00/24
+  manufacturer: Building B, Inc
+  manufacturerUri: https://device-type.com
+  name: Building
+type: d3-device-type-assertion

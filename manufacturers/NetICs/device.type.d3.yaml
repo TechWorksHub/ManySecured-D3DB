@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34c72fd0-9dba-4beb-a661-049b6e6285dc
+  macAddresses:
+  - 00:60:FD:00:00:00/24
+  manufacturer: NetICs, Inc.
+  manufacturerUri: https://device-type.com
+  name: NetICs
+type: d3-device-type-assertion

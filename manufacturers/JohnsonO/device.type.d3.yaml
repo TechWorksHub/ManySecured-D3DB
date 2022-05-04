@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5a067ee3-8c12-481c-bf2b-8fc039a6572f
+  macAddresses:
+  - 00:1A:29:00:00:00/24
+  - 90:B9:7D:00:00:00/24
+  - C8:71:25:00:00:00/24
+  manufacturer: Johnson Outdoors Marine Electronics d/b/a Minnkota
+  manufacturerUri: https://device-type.com
+  name: JohnsonO
+type: d3-device-type-assertion

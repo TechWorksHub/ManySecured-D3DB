@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af670e12-97f6-4971-a9cf-e7e144ba072e
+  macAddresses:
+  - 00:1E:30:00:00:00/24
+  manufacturer: Shireen Inc
+  manufacturerUri: https://device-type.com
+  name: Shireen
+type: d3-device-type-assertion

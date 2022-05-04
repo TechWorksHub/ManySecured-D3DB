@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 787676b8-da09-44dd-96f1-1c6a891f0f9f
+  macAddresses:
+  - 00:0C:35:00:00:00/24
+  manufacturer: KaVo Dental GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: KaVoDent
+type: d3-device-type-assertion

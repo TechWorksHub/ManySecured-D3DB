@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7e1e8715-1902-4038-abb2-497c75c38521
+  macAddresses:
+  - 00:0A:B4:00:00:00/24
+  manufacturer: ETIC Telecommunications
+  manufacturerUri: https://device-type.com
+  name: ETICTele
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d61ba3a-4a7a-4774-89e1-fa072814d888
+  macAddresses:
+  - 00:20:0F:00:00:00/24
+  manufacturer: EBRAINS Inc
+  manufacturerUri: https://device-type.com
+  name: EBRAINS
+type: d3-device-type-assertion

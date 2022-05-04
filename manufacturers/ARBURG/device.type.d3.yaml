@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bce4725-e203-4c0e-ab9f-44df0ca71fb2
+  macAddresses:
+  - 00:23:0A:00:00:00/24
+  manufacturer: ARBURG GmbH & Co KG
+  manufacturerUri: https://device-type.com
+  name: ARBURG
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 137a7091-caf7-48b1-b49f-5730a92ce91a
+  macAddresses:
+  - 00:26:CE:00:00:00/24
+  manufacturer: Kozumi USA Corp.
+  manufacturerUri: https://device-type.com
+  name: KozumiUS
+type: d3-device-type-assertion

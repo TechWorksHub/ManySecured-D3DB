@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 64fc36c8-aafb-416c-9fb0-2a8426c8ed7c
+  macAddresses:
+  - 00:13:0B:00:00:00/24
+  manufacturer: Mextal B.V.
+  manufacturerUri: https://device-type.com
+  name: Mextal
+type: d3-device-type-assertion

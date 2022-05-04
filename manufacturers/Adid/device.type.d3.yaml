@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dd267e9-8d41-414d-a4b6-2f33c22114ef
+  macAddresses:
+  - 00:30:7C:00:00:00/24
+  manufacturer: Adid Sa
+  manufacturerUri: https://device-type.com
+  name: Adid
+type: d3-device-type-assertion

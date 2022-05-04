@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 48febb28-aaab-4641-a969-337a35167431
+  macAddresses:
+  - 00:50:C2:0D:A0:00/36
+  - 00:50:C2:87:70:00/36
+  - F0:F6:69:00:00:00/24
+  manufacturer: Motion Analysis Corp.
+  manufacturerUri: https://device-type.com
+  name: MotionAn
+type: d3-device-type-assertion

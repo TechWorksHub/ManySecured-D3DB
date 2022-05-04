@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d67fd77-b7c3-4374-a10d-17548a0d4c61
+  macAddresses:
+  - 00:15:EA:00:00:00/24
+  manufacturer: Tellumat (Pty) Ltd
+  manufacturerUri: https://device-type.com
+  name: Tellumat
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f1cbf61-dc64-46ef-9f66-592ba88543b7
+  macAddresses:
+  - 00:09:65:00:00:00/24
+  manufacturer: HyunJu Computer Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: HyunJuCo
+type: d3-device-type-assertion

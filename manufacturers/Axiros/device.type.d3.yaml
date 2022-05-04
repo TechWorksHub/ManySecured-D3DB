@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 20a04373-2200-4244-9a8d-1eb33dc2ea77
+  macAddresses:
+  - 0C:55:21:00:00:00/24
+  manufacturer: Axiros GmbH
+  manufacturerUri: https://device-type.com
+  name: Axiros
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e55d18c8-68a8-4f9d-955c-e0ed0b863b0b
+  macAddresses:
+  - 00:02:E5:00:00:00/24
+  manufacturer: Timeware Ltd.
+  manufacturerUri: https://device-type.com
+  name: Timeware
+type: d3-device-type-assertion

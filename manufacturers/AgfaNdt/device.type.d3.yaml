@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e734bf4-d21a-48ec-ba71-6e0de07c54f3
+  macAddresses:
+  - 00:0B:CF:00:00:00/24
+  manufacturer: Agfa Ndt Inc.
+  manufacturerUri: https://device-type.com
+  name: AgfaNdt
+type: d3-device-type-assertion

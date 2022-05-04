@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be940add-b781-4300-b2bb-51593f129f14
+  macAddresses:
+  - 00:80:DB:00:00:00/24
+  manufacturer: Graphon Corporation
+  manufacturerUri: https://device-type.com
+  name: Graphon
+type: d3-device-type-assertion

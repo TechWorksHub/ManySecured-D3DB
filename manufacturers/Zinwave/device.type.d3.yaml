@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8bec2412-7944-493a-8a6e-df6333280d64
+  macAddresses:
+  - 00:17:68:00:00:00/24
+  manufacturer: Zinwave Ltd
+  manufacturerUri: https://device-type.com
+  name: Zinwave
+type: d3-device-type-assertion

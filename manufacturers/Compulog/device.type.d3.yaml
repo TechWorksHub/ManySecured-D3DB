@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78f38ece-d414-4985-9d44-2d3b450d7f17
+  macAddresses:
+  - 00:0D:06:00:00:00/24
+  manufacturer: Compulogic Limited
+  manufacturerUri: https://device-type.com
+  name: Compulog
+type: d3-device-type-assertion

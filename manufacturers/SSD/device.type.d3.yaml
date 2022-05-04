@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f55be6c-8846-4666-9c4e-3b7a6097def5
+  macAddresses:
+  - 00:16:48:00:00:00/24
+  manufacturer: SSD Company Limited
+  manufacturerUri: https://device-type.com
+  name: SSD
+type: d3-device-type-assertion

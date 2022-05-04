@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f2d47ca-7a58-4066-bffe-cb2069f5ce09
+  macAddresses:
+  - 00:24:DB:00:00:00/24
+  manufacturer: Alcohol Monitoring Systems
+  manufacturerUri: https://device-type.com
+  name: AlcoholM
+type: d3-device-type-assertion

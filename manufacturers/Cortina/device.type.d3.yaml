@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 90bfa72e-25f3-4869-a5aa-84797804bd66
+  macAddresses:
+  - 00:13:25:00:00:00/24
+  manufacturer: Cortina Systems Inc
+  manufacturerUri: https://device-type.com
+  name: Cortina
+type: d3-device-type-assertion

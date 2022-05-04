@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8980c38f-daab-4024-982f-c52f4aa6b594
+  macAddresses:
+  - 00:A0:2B:00:00:00/24
+  - 00:C0:F2:00:00:00/24
+  manufacturer: Transitions Research Corp.
+  manufacturerUri: https://device-type.com
+  name: Transiti
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a9b0f28-0696-4cb4-a3ca-3b3a2bbd272e
+  macAddresses:
+  - 00:20:A7:00:00:00/24
+  manufacturer: Pairgain Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Pairgain
+type: d3-device-type-assertion

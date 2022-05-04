@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a39d2fe-4c91-4620-abcb-b0d488958cac
+  macAddresses:
+  - 00:30:C8:00:00:00/24
+  manufacturer: Gad Line, Ltd.
+  manufacturerUri: https://device-type.com
+  name: GadLine
+type: d3-device-type-assertion

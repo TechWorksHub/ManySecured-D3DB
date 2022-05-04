@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04803c68-e2cc-4518-be38-54755701cff1
+  macAddresses:
+  - 00:11:51:00:00:00/24
+  manufacturer: Mykotronx
+  manufacturerUri: https://device-type.com
+  name: Mykotron
+type: d3-device-type-assertion

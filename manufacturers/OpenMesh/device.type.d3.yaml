@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b3c4a57f-fcce-4f29-ab19-c979f6a9cc23
+  macAddresses:
+  - AC:86:74:00:00:00/24
+  - F8:D9:B8:00:00:00/24
+  manufacturer: Open Mesh, Inc.
+  manufacturerUri: https://device-type.com
+  name: OpenMesh
+type: d3-device-type-assertion

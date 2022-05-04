@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95070b33-c958-4ad3-bba6-56f51274c104
+  macAddresses:
+  - 00:04:86:00:00:00/24
+  manufacturer: ITTC, University of Kansas
+  manufacturerUri: https://device-type.com
+  name: ITTCUniv
+type: d3-device-type-assertion

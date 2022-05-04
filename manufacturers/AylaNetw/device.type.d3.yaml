@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8a281bee-2a75-4ffa-bdc3-68381ec49a06
+  macAddresses:
+  - 60:E9:56:00:00:00/24
+  - C4:A1:0E:80:00:00/28
+  manufacturer: Ayla Networks, Inc
+  manufacturerUri: https://device-type.com
+  name: AylaNetw
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e601f6c-10b2-4dd5-8616-ee7357407d0f
+  macAddresses:
+  - 00:C0:B3:00:00:00/24
+  manufacturer: Comstat Datacomm Corporation
+  manufacturerUri: https://device-type.com
+  name: ComstatD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce187de8-fac0-4fa0-a9ff-767766cfbceb
+  macAddresses:
+  - 00:90:A0:00:00:00/24
+  manufacturer: 8X8 Inc.
+  manufacturerUri: https://device-type.com
+  name: 8X8
+type: d3-device-type-assertion

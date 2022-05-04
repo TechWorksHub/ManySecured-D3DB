@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ddf9098f-beda-4882-88cf-cd4547cd78ab
+  macAddresses:
+  - 00:01:A5:00:00:00/24
+  manufacturer: Nextcomm, Inc.
+  manufacturerUri: https://device-type.com
+  name: Nextcomm
+type: d3-device-type-assertion

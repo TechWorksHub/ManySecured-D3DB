@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7984eb01-7086-4654-99ba-30e1857063ce
+  macAddresses:
+  - 00:1F:07:00:00:00/24
+  manufacturer: AZTEQ Mobile
+  manufacturerUri: https://device-type.com
+  name: AZTEQMob
+type: d3-device-type-assertion

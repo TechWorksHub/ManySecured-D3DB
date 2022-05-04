@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 800ffe55-9ed0-43f3-a186-1ad23fc4a95e
+  macAddresses:
+  - 00:50:C2:F5:00:00/36
+  manufacturer: Moritex Corporation
+  manufacturerUri: https://device-type.com
+  name: Moritex
+type: d3-device-type-assertion

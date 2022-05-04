@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 48a54386-a5eb-4467-ae21-d5cb7429ac86
+  macAddresses:
+  - 00:50:C2:CF:30:00/36
+  - D0:76:50:10:00:00/28
+  manufacturer: Daiken Automacao Ltda
+  manufacturerUri: https://device-type.com
+  name: DaikenAu
+type: d3-device-type-assertion

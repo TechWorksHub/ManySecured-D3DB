@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fcdf9a4-a30f-4fc9-9b8d-b31681f4f554
+  macAddresses:
+  - 00:13:07:00:00:00/24
+  manufacturer: Paravirtual Corporation
+  manufacturerUri: https://device-type.com
+  name: Paravirt
+type: d3-device-type-assertion

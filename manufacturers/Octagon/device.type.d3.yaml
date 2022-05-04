@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e3577b9e-023b-4d19-9fd9-95ae3d56d115
+  macAddresses:
+  - 00:20:0B:00:00:00/24
+  - FC:95:6A:00:00:00/24
+  manufacturer: Octagon Systems Corp.
+  manufacturerUri: https://device-type.com
+  name: Octagon
+type: d3-device-type-assertion

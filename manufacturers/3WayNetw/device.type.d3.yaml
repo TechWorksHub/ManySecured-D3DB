@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3ce1c8b4-ce5d-48cc-a95b-56ad7dec1736
+  macAddresses:
+  - 00:1A:8E:00:00:00/24
+  manufacturer: 3Way Networks Ltd
+  manufacturerUri: https://device-type.com
+  name: 3WayNetw
+type: d3-device-type-assertion

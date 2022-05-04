@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f365b70-280d-47d7-a693-d0937b56e93f
+  macAddresses:
+  - 04:44:A1:00:00:00/24
+  manufacturer: Telecon Galicia,S.A.
+  manufacturerUri: https://device-type.com
+  name: TeleconG
+type: d3-device-type-assertion

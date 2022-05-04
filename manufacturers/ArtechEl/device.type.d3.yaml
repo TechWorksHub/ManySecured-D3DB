@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5fd40fd7-60b1-471b-b504-6d4730f63f6c
+  macAddresses:
+  - 00:14:FE:00:00:00/24
+  manufacturer: Artech Electronics
+  manufacturerUri: https://device-type.com
+  name: ArtechEl
+type: d3-device-type-assertion

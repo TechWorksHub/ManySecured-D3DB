@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f5ddc9d3-8e45-43e1-a646-ff420d1ff369
+  macAddresses:
+  - 00:14:C8:00:00:00/24
+  - 00:50:DB:00:00:00/24
+  - E0:5A:9F:A0:00:00/28
+  manufacturer: Contemporary Research Corp
+  manufacturerUri: https://device-type.com
+  name: Contempo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fecdef4-f28e-42c2-895c-63ef87509639
+  macAddresses:
+  - 00:0E:8B:00:00:00/24
+  manufacturer: Astarte Technology Co, Ltd.
+  manufacturerUri: https://device-type.com
+  name: AstarteT
+type: d3-device-type-assertion

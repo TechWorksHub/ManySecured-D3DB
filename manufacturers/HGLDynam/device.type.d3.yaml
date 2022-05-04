@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c13800ea-f5f7-45eb-b450-05fc210931d9
+  macAddresses:
+  - 00:50:C2:E3:40:00/36
+  - 70:B3:D5:02:10:00/36
+  manufacturer: HGL Dynamics
+  manufacturerUri: https://device-type.com
+  name: HGLDynam
+type: d3-device-type-assertion

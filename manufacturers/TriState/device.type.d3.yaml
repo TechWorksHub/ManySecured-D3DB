@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4bc687d8-68bf-4c9a-b9c5-c7c0e1b585d8
+  macAddresses:
+  - 00:02:CB:00:00:00/24
+  manufacturer: TriState Ltd.
+  manufacturerUri: https://device-type.com
+  name: TriState
+type: d3-device-type-assertion

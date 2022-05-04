@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ffcdc76d-0fbe-4d27-93db-b6c26483c19a
+  macAddresses:
+  - 00:22:E7:00:00:00/24
+  manufacturer: WPS Parking Systems
+  manufacturerUri: https://device-type.com
+  name: WPSParki
+type: d3-device-type-assertion

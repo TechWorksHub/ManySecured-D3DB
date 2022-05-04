@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae7bf064-e128-4142-bea5-180178cb0fb0
+  macAddresses:
+  - 00:16:C3:00:00:00/24
+  manufacturer: BA Systems Inc
+  manufacturerUri: https://device-type.com
+  name: BA
+type: d3-device-type-assertion

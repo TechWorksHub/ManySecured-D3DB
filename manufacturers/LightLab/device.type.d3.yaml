@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d4c97d03-a5b3-4862-8cb6-bdd48e26de18
+  macAddresses:
+  - 38:45:4C:00:00:00/24
+  manufacturer: Light Labs, Inc.
+  manufacturerUri: https://device-type.com
+  name: LightLab
+type: d3-device-type-assertion

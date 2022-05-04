@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8d5bbd8-28a6-43dc-abcb-cef0c82b2bcd
+  macAddresses:
+  - 00:40:8A:00:00:00/24
+  manufacturer: Tps Teleprocessing Sys. Gmbh
+  manufacturerUri: https://device-type.com
+  name: TpsTelep
+type: d3-device-type-assertion

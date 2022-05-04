@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1125d6c-c80d-446f-919b-56942a6085fe
+  macAddresses:
+  - 04:6E:02:00:00:00/24
+  manufacturer: OpenRTLS Group
+  manufacturerUri: https://device-type.com
+  name: OpenRTLS
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e952782a-9aa5-44a1-a1e9-eb7b0ad6bd42
+  macAddresses:
+  - 00:50:C2:01:50:00/36
+  - 08:9F:97:00:00:00/24
+  manufacturer: Leroy Automation
+  manufacturerUri: https://device-type.com
+  name: LeroyAut
+type: d3-device-type-assertion

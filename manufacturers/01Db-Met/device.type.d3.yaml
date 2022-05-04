@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd5cc565-d7c8-43fa-9f2b-1cd1ef5cfead
+  macAddresses:
+  - 70:02:58:00:00:00/24
+  manufacturer: 01Db-Metravib
+  manufacturerUri: https://device-type.com
+  name: 01Db-Met
+type: d3-device-type-assertion

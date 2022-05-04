@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abcc7928-dd4b-4efb-bf0c-97a1ce7510df
+  macAddresses:
+  - 24:4F:1D:00:00:00/24
+  manufacturer: iRule LLC
+  manufacturerUri: https://device-type.com
+  name: iRule
+type: d3-device-type-assertion

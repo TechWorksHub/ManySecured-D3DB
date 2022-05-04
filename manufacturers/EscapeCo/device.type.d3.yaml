@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c41c69e9-d161-45aa-9a54-3476ef730cbf
+  macAddresses:
+  - 00:18:EF:00:00:00/24
+  manufacturer: Escape Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: EscapeCo
+type: d3-device-type-assertion

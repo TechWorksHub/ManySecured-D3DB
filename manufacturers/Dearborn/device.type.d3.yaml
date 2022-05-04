@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 37c0a0cf-6ca5-4c27-ae1f-d0cd6013ee37
+  macAddresses:
+  - 00:90:5A:00:00:00/24
+  manufacturer: Dearborn Group, Inc.
+  manufacturerUri: https://device-type.com
+  name: Dearborn
+type: d3-device-type-assertion

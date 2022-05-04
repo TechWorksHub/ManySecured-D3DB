@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab91e74a-90df-449f-a283-aaca6a256244
+  macAddresses:
+  - 00:03:AF:00:00:00/24
+  manufacturer: Paragea Communications
+  manufacturerUri: https://device-type.com
+  name: ParageaC
+type: d3-device-type-assertion

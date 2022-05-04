@@ -1,0 +1,20 @@
+credentialSubject:
+  id: b4b9866e-ab72-4350-8671-638c42b11dee
+  macAddresses:
+  - 00:09:E1:00:00:00/24
+  - 00:14:A5:00:00:00/24
+  - 00:1A:73:00:00:00/24
+  - 00:21:00:00:00:00/24
+  - 00:26:82:00:00:00/24
+  - 00:90:4B:00:00:00/24
+  - 1C:49:7B:00:00:00/24
+  - 20:10:7A:00:00:00/24
+  - 58:13:D3:00:00:00/24
+  - 80:02:9C:00:00:00/24
+  - AC:81:12:00:00:00/24
+  - E8:E1:E1:00:00:00/24
+  - F8:35:DD:00:00:00/24
+  manufacturer: Gemtek Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: GemtekTe
+type: d3-device-type-assertion

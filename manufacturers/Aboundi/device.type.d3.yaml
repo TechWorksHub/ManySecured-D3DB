@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3acaa196-29e9-4604-8ca4-541501408030
+  macAddresses:
+  - 50:A7:15:00:00:00/24
+  manufacturer: Aboundi, Inc.
+  manufacturerUri: https://device-type.com
+  name: Aboundi
+type: d3-device-type-assertion

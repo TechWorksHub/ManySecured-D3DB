@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e924168-8b74-4276-96f8-eadb8f76436f
+  macAddresses:
+  - 00:0D:AF:00:00:00/24
+  manufacturer: Plexus Corp (UK) Ltd
+  manufacturerUri: https://device-type.com
+  name: PlexusUK
+type: d3-device-type-assertion

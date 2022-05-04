@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff6dcdbc-5864-4229-811e-fed901292df6
+  macAddresses:
+  - 00:09:94:00:00:00/24
+  manufacturer: Cronyx Engineering
+  manufacturerUri: https://device-type.com
+  name: CronyxEn
+type: d3-device-type-assertion

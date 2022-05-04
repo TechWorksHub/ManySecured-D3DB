@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c2c825d-ac75-44cc-bf1e-c8668a4df2d5
+  macAddresses:
+  - 6C:9C:E9:00:00:00/24
+  manufacturer: Nimble Storage
+  manufacturerUri: https://device-type.com
+  name: NimbleSt
+type: d3-device-type-assertion

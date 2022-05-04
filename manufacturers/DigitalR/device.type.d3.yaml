@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 443bbf3b-7549-480e-85a1-5f027ac7b06b
+  macAddresses:
+  - 00:25:32:00:00:00/24
+  - 00:50:C2:26:F0:00/36
+  - 00:50:C2:36:00:00/36
+  - 54:54:14:00:00:00/24
+  manufacturer: Digital Recorders
+  manufacturerUri: https://device-type.com
+  name: DigitalR
+type: d3-device-type-assertion

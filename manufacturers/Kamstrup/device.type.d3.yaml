@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b331c175-1c2f-45fa-9d00-0bb61b3912e1
+  macAddresses:
+  - 00:13:EA:00:00:00/24
+  manufacturer: Kamstrup A/S
+  manufacturerUri: https://device-type.com
+  name: Kamstrup
+type: d3-device-type-assertion

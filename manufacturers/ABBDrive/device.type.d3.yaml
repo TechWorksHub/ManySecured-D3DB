@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 136563c7-6619-49ab-bbaf-69d918999faf
+  macAddresses:
+  - 00:1C:01:00:00:00/24
+  manufacturer: ABB Oy Drives
+  manufacturerUri: https://device-type.com
+  name: ABBDrive
+type: d3-device-type-assertion

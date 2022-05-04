@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d373929-7bc5-4e1d-88ac-d5088999490b
+  macAddresses:
+  - 00:14:3D:00:00:00/24
+  manufacturer: Aevoe Inc.
+  manufacturerUri: https://device-type.com
+  name: Aevoe
+type: d3-device-type-assertion

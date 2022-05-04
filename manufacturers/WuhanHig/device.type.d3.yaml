@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42c8d417-f8f6-4425-bbe1-e2cbc328d351
+  macAddresses:
+  - 00:24:B9:00:00:00/24
+  manufacturer: Wuhan Higheasy Electronic Technology Development Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: WuhanHig
+type: d3-device-type-assertion

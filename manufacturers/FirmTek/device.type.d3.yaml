@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9c2ce806-2570-4ad4-9cb3-8ca9ddb19aa1
+  macAddresses:
+  - 88:D3:7B:00:00:00/24
+  - 9A:D2:63:00:00:00/24
+  manufacturer: FirmTek, LLC
+  manufacturerUri: https://device-type.com
+  name: FirmTek
+type: d3-device-type-assertion

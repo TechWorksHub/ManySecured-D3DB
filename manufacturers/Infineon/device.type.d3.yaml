@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 08a8532b-3014-4834-b675-c6bb11650db6
+  macAddresses:
+  - 00:03:19:00:00:00/24
+  manufacturer: Infineon AG
+  manufacturerUri: https://device-type.com
+  name: Infineon
+type: d3-device-type-assertion

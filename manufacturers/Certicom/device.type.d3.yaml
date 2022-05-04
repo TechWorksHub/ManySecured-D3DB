@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a8f6808-bf02-4816-a59b-957fe80038b9
+  macAddresses:
+  - 00:22:08:00:00:00/24
+  manufacturer: Certicom Corp
+  manufacturerUri: https://device-type.com
+  name: Certicom
+type: d3-device-type-assertion

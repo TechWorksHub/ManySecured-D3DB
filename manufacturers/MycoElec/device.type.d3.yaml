@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02533477-3c15-4111-8cbe-b11c072994e3
+  macAddresses:
+  - 00:C0:57:00:00:00/24
+  manufacturer: Myco Electronics
+  manufacturerUri: https://device-type.com
+  name: MycoElec
+type: d3-device-type-assertion

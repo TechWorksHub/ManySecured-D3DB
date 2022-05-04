@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9d0445a9-3dfc-4ef4-92e4-d3c814f049ec
+  macAddresses:
+  - 00:50:C2:99:40:00/36
+  - 70:B3:D5:EC:10:00/36
+  manufacturer: Xafax Nederland bv
+  manufacturerUri: https://device-type.com
+  name: XafaxNed
+type: d3-device-type-assertion

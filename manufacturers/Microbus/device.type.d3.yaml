@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07232887-d2ea-406e-b083-59457d3abcca
+  macAddresses:
+  - 00:80:79:00:00:00/24
+  manufacturer: Microbus Designs Ltd.
+  manufacturerUri: https://device-type.com
+  name: Microbus
+type: d3-device-type-assertion

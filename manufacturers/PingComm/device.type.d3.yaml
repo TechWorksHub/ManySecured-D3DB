@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b435e3f2-c3e4-44b8-abf1-e09f1c02b8b7
+  macAddresses:
+  - 00:21:94:00:00:00/24
+  - 50:4E:DC:00:00:00/24
+  - 78:8C:54:00:00:00/24
+  manufacturer: Ping Communication
+  manufacturerUri: https://device-type.com
+  name: PingComm
+type: d3-device-type-assertion

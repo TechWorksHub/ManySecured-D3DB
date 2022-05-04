@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00bff78b-721a-4d53-88f5-8a53ff689549
+  macAddresses:
+  - 00:90:2D:00:00:00/24
+  manufacturer: Data Electronics (Aust.) Pty, Ltd.
+  manufacturerUri: https://device-type.com
+  name: DataElec
+type: d3-device-type-assertion

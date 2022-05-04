@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6186ec9f-5f9e-47c1-9abd-fbbcf58b3741
+  macAddresses:
+  - 00:C0:7C:00:00:00/24
+  - 4C:33:4E:00:00:00/24
+  manufacturer: Hightech Information
+  manufacturerUri: https://device-type.com
+  name: Hightech
+type: d3-device-type-assertion

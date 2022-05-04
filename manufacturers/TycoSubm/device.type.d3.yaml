@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c11a3de9-08f3-4773-8894-e56033a4cc05
+  macAddresses:
+  - 00:30:A0:00:00:00/24
+  manufacturer: Tyco Submarine Systems, Ltd.
+  manufacturerUri: https://device-type.com
+  name: TycoSubm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e0f89cb-5ede-4e8d-99ec-8cbd7e5efd4c
+  macAddresses:
+  - 00:24:0C:00:00:00/24
+  manufacturer: DELEC GmbH
+  manufacturerUri: https://device-type.com
+  name: DELEC
+type: d3-device-type-assertion

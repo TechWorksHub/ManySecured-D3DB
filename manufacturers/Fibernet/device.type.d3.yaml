@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 806aefae-2c11-4f84-b5a4-5094f5732804
+  macAddresses:
+  - 00:40:C6:00:00:00/24
+  - 70:B3:D5:04:10:00/36
+  manufacturer: Fibernet Research, Inc.
+  manufacturerUri: https://device-type.com
+  name: Fibernet
+type: d3-device-type-assertion

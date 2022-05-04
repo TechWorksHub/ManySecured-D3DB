@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24f9160e-68c4-47a3-a2a4-67bee736461c
+  macAddresses:
+  - 00:0F:BA:00:00:00/24
+  manufacturer: Tevebox AB
+  manufacturerUri: https://device-type.com
+  name: Tevebox
+type: d3-device-type-assertion

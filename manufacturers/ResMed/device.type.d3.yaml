@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 003cf8c0-183d-4862-86e1-aeae6f9fa914
+  macAddresses:
+  - 00:23:6D:00:00:00/24
+  manufacturer: ResMed Ltd
+  manufacturerUri: https://device-type.com
+  name: ResMed
+type: d3-device-type-assertion

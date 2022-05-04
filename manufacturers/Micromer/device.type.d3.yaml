@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e41283e8-18cf-496f-8292-573bd8c87d02
+  macAddresses:
+  - 00:D0:0D:00:00:00/24
+  manufacturer: Micromeritics Instrument
+  manufacturerUri: https://device-type.com
+  name: Micromer
+type: d3-device-type-assertion

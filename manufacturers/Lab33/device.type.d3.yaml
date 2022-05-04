@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e2d4c5e-9dab-40a9-ba41-a5677ea1a0c3
+  macAddresses:
+  - 00:12:84:00:00:00/24
+  manufacturer: Lab33 Srl
+  manufacturerUri: https://device-type.com
+  name: Lab33
+type: d3-device-type-assertion

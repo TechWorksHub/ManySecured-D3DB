@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0f7ab2ac-2a9e-4ad6-839c-f54c107fb128
+  macAddresses:
+  - 70:B3:D5:81:20:00/36
+  manufacturer: TESCAN Brno, s.r.o.
+  manufacturerUri: https://device-type.com
+  name: TESCANBr
+type: d3-device-type-assertion

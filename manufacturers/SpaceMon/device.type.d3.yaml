@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2999027-07c2-4a72-b60e-61a91440e5ce
+  macAddresses:
+  - 70:93:F8:00:00:00/24
+  manufacturer: Space Monkey, Inc.
+  manufacturerUri: https://device-type.com
+  name: SpaceMon
+type: d3-device-type-assertion

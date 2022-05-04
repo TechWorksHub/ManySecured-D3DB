@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a1e0ad5-98fa-45ce-8464-fe4b6a00fcb3
+  macAddresses:
+  - 00:A0:4D:00:00:00/24
+  manufacturer: Eda Instruments, Inc.
+  manufacturerUri: https://device-type.com
+  name: EdaInstr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 384e898f-4ac5-4e22-b7a7-1710fceadc8a
+  macAddresses:
+  - 4C:BC:B4:00:00:00/24
+  manufacturer: ABB SpA - DIN Rail
+  manufacturerUri: https://device-type.com
+  name: ABB-DINR
+type: d3-device-type-assertion

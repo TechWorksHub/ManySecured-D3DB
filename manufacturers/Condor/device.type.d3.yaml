@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63c63821-85cb-47da-9fb2-521c9c6b8d0e
+  macAddresses:
+  - 00:80:5B:00:00:00/24
+  manufacturer: Condor Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Condor
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bbaa1a8-882b-4483-8311-a72a69696c0a
+  macAddresses:
+  - 00:07:0F:00:00:00/24
+  manufacturer: Fujant, Inc.
+  manufacturerUri: https://device-type.com
+  name: Fujant
+type: d3-device-type-assertion

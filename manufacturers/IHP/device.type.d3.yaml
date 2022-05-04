@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bd28585-f932-465d-875c-6c643a6f1caf
+  macAddresses:
+  - 00:50:C2:61:20:00/36
+  manufacturer: IHP-GmbH
+  manufacturerUri: https://device-type.com
+  name: IHP
+type: d3-device-type-assertion

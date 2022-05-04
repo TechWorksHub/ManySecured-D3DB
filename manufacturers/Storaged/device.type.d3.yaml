@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d540d0da-9ec7-4b52-a2db-73c213891eda
+  macAddresses:
+  - C8:20:8E:00:00:00/24
+  manufacturer: Storagedata
+  manufacturerUri: https://device-type.com
+  name: Storaged
+type: d3-device-type-assertion

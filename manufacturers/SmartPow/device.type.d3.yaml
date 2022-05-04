@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b488a21c-ebe5-4379-8499-d9f305cae8d9
+  macAddresses:
+  - 00:50:C2:EF:30:00/36
+  - F0:AC:D7:D0:00:00/28
+  manufacturer: Smart Power Electronics GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: SmartPow
+type: d3-device-type-assertion

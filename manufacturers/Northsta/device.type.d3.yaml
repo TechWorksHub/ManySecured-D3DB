@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 421d930b-ee16-4d27-9f92-acc100099c19
+  macAddresses:
+  - 00:05:34:00:00:00/24
+  - 00:21:DD:00:00:00/24
+  manufacturer: Northstar Engineering Ltd.
+  manufacturerUri: https://device-type.com
+  name: Northsta
+type: d3-device-type-assertion

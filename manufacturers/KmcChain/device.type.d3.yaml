@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d20c44d-0a87-447a-8397-cb7b616f09a2
+  macAddresses:
+  - 00:1A:D5:00:00:00/24
+  manufacturer: Kmc Chain Industrial Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KmcChain
+type: d3-device-type-assertion

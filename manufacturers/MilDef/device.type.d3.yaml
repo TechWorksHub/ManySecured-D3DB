@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 391d5e68-9aeb-4279-903b-cd3827c80a2a
+  macAddresses:
+  - E0:C6:B3:00:00:00/24
+  manufacturer: MilDef AB
+  manufacturerUri: https://device-type.com
+  name: MilDef
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f70f1a1c-b218-42a6-bfac-4a53b8c8ebdb
+  macAddresses:
+  - 00:50:6C:00:00:00/24
+  manufacturer: Beijer Electronics Products AB
+  manufacturerUri: https://device-type.com
+  name: BeijerEl
+type: d3-device-type-assertion

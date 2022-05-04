@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4abd4643-31fe-4e56-b3f3-55b1a601352c
+  macAddresses:
+  - 00:1C:78:00:00:00/24
+  manufacturer: Wyplay Sas
+  manufacturerUri: https://device-type.com
+  name: WyplaySa
+type: d3-device-type-assertion

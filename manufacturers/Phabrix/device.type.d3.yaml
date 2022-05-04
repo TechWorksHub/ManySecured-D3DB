@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88afa63f-6d90-4de7-bf9e-8cbc1ecacf6e
+  macAddresses:
+  - 00:1F:7F:00:00:00/24
+  manufacturer: Phabrix Limited
+  manufacturerUri: https://device-type.com
+  name: Phabrix
+type: d3-device-type-assertion

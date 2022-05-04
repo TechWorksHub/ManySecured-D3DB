@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1fcd7d64-f0c5-452b-894f-5fe9d39593b2
+  macAddresses:
+  - 00:11:9B:00:00:00/24
+  manufacturer: Telesynergy Research Inc.
+  manufacturerUri: https://device-type.com
+  name: Telesyne
+type: d3-device-type-assertion

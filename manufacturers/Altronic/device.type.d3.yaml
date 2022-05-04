@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc3d9bf6-abc1-4fd6-b7e6-29c280b3b312
+  macAddresses:
+  - 00:50:C2:41:D0:00/36
+  - BC:FE:8C:00:00:00/24
+  manufacturer: Altronic, Inc.
+  manufacturerUri: https://device-type.com
+  name: Altronic
+type: d3-device-type-assertion

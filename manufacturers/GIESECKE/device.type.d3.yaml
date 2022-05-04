@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2e83484-aeb0-4663-8976-d06e5806646b
+  macAddresses:
+  - 00:90:D3:00:00:00/24
+  manufacturer: GIESECKE & DEVRIENT GmbH
+  manufacturerUri: https://device-type.com
+  name: GIESECKE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df71cecf-d6de-44f5-83cb-ba90c4893508
+  macAddresses:
+  - 00:E0:28:00:00:00/24
+  manufacturer: Aptix Corporation
+  manufacturerUri: https://device-type.com
+  name: Aptix
+type: d3-device-type-assertion

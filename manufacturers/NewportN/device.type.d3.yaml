@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51309b51-71b9-48d6-a575-c9499368efa9
+  macAddresses:
+  - 00:09:81:00:00:00/24
+  manufacturer: Newport Networks
+  manufacturerUri: https://device-type.com
+  name: NewportN
+type: d3-device-type-assertion

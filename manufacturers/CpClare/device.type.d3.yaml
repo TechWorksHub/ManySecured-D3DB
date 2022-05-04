@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a084b65-5063-4eb1-8669-b925811f2880
+  macAddresses:
+  - 00:30:15:00:00:00/24
+  manufacturer: Cp Clare Corp.
+  manufacturerUri: https://device-type.com
+  name: CpClare
+type: d3-device-type-assertion

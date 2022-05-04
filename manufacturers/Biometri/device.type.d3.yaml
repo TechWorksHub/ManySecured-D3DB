@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9127c2ac-336d-4520-887d-c9068e63f02a
+  macAddresses:
+  - 00:BA:C0:00:00:00/24
+  - 40:1D:59:00:00:00/24
+  manufacturer: Biometric Access Company
+  manufacturerUri: https://device-type.com
+  name: Biometri
+type: d3-device-type-assertion

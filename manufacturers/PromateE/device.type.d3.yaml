@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8b243184-cd16-40ff-8df5-047d77feed9b
+  macAddresses:
+  - 00:50:C2:7B:D0:00/36
+  - 2C:5A:A3:00:00:00/24
+  manufacturer: Promate Electronic Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: PromateE
+type: d3-device-type-assertion

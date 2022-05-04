@@ -1,0 +1,26 @@
+credentialSubject:
+  id: 9ddcf8d0-7a0a-4df4-bcdf-651946601877
+  macAddresses:
+  - 00:50:C2:4E:E0:00/36
+  - 00:55:DA:20:00:00/28
+  - 10:A9:32:00:00:00/24
+  - 2C:16:BD:C0:00:00/28
+  - 40:48:FD:00:00:00/28
+  - 70:B3:D5:08:E0:00/36
+  - 70:E8:43:00:00:00/24
+  - 78:C2:C0:80:00:00/28
+  - 78:CA:83:70:00:00/28
+  - 7C:83:34:30:00:00/28
+  - 80:02:F4:20:00:00/28
+  - A8:D5:79:00:00:00/24
+  - AC:1D:DF:C0:00:00/28
+  - C0:83:59:60:00:00/28
+  - CC:4F:5C:C0:00:00/28
+  - D0:1C:BB:00:00:00/24
+  - D0:5F:64:70:00:00/28
+  - E4:7B:3F:00:00:00/24
+  - F4:DC:4D:00:00:00/24
+  manufacturer: Beijing Corelogic Communication Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: BeijingC
+type: d3-device-type-assertion

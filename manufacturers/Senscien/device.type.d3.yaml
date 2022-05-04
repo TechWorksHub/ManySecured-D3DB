@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 534e6563-5503-41d9-a433-ed6f790f6c8b
+  macAddresses:
+  - 00:26:94:00:00:00/24
+  manufacturer: Senscient Ltd
+  manufacturerUri: https://device-type.com
+  name: Senscien
+type: d3-device-type-assertion

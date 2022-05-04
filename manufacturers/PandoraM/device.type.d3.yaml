@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f717664-9c85-42c6-a547-bf4eec477efb
+  macAddresses:
+  - 68:83:1A:00:00:00/24
+  manufacturer: Pandora Mobility Corporation
+  manufacturerUri: https://device-type.com
+  name: PandoraM
+type: d3-device-type-assertion

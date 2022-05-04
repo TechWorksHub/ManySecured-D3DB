@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8cd48512-d911-45df-bf10-350d2cefbc88
+  macAddresses:
+  - 00:50:C2:1F:F0:00/36
+  - 64:31:39:A0:00:00/28
+  manufacturer: Product Design Dept., Sohwa Corporation
+  manufacturerUri: https://device-type.com
+  name: ProductD
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d58c66e2-c224-491f-892f-f24a3c55cba3
+  macAddresses:
+  - 00:0A:E9:00:00:00/24
+  - 00:50:C2:15:20:00/36
+  manufacturer: AirVast Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: AirVastT
+type: d3-device-type-assertion

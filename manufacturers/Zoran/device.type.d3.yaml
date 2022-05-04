@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3967f999-bf58-4ea6-ad2a-747cf2b32124
+  macAddresses:
+  - 00:0E:C8:00:00:00/24
+  manufacturer: Zoran Corporation
+  manufacturerUri: https://device-type.com
+  name: Zoran
+type: d3-device-type-assertion

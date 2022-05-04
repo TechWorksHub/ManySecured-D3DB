@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02d8f91e-f4a7-4551-9a62-b418fb2cf39f
+  macAddresses:
+  - 00:17:1A:00:00:00/24
+  manufacturer: Winegard Company
+  manufacturerUri: https://device-type.com
+  name: Winegard
+type: d3-device-type-assertion

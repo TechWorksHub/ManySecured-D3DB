@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fa646109-10b5-4c8f-9fe1-3a6814c0e010
+  macAddresses:
+  - 00:50:C2:40:50:00/36
+  - 8C:59:3C:40:00:00/28
+  manufacturer: Guralp Systems Limited
+  manufacturerUri: https://device-type.com
+  name: Guralp
+type: d3-device-type-assertion

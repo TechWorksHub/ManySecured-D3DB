@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0d2b5360-69f2-4ff8-ba9a-424fb6ef9117
+  macAddresses:
+  - 00:40:44:00:00:00/24
+  manufacturer: Qnix Computer Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: QnixComp
+type: d3-device-type-assertion

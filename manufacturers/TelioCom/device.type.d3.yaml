@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92d8fb60-4b73-4a75-b5ce-ed3fda58ddac
+  macAddresses:
+  - 00:0C:19:00:00:00/24
+  manufacturer: Telio Communications GmbH
+  manufacturerUri: https://device-type.com
+  name: TelioCom
+type: d3-device-type-assertion

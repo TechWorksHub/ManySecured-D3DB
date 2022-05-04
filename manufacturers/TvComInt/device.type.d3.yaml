@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5afbe58f-2cbd-429d-8cbb-cce6e5f47260
+  macAddresses:
+  - 00:60:81:00:00:00/24
+  manufacturer: Tv/Com International
+  manufacturerUri: https://device-type.com
+  name: TvComInt
+type: d3-device-type-assertion

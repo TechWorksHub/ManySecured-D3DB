@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 385b1910-784d-4eb8-9d1e-0a64ded45d77
+  macAddresses:
+  - 00:08:8E:00:00:00/24
+  manufacturer: Nihon Computer Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NihonCom
+type: d3-device-type-assertion

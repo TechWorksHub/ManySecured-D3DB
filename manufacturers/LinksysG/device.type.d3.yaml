@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3aa16db6-c0f4-4d67-880d-da08ef494dd2
+  macAddresses:
+  - 00:04:5A:00:00:00/24
+  - 00:06:25:00:00:00/24
+  manufacturer: The Linksys Group, Inc.
+  manufacturerUri: https://device-type.com
+  name: LinksysG
+type: d3-device-type-assertion

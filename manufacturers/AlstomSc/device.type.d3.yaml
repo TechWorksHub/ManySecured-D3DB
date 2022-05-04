@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ceb2ddf-6136-40ac-adc7-86f11d2d873c
+  macAddresses:
+  - 00:50:C2:7B:60:00/36
+  manufacturer: Alstom (Schweiz) AG
+  manufacturerUri: https://device-type.com
+  name: AlstomSc
+type: d3-device-type-assertion

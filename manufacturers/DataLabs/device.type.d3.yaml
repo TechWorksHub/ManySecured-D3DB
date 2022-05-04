@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 314dd303-5c86-422e-9930-04ccdf4f7659
+  macAddresses:
+  - 00:E0:E9:00:00:00/24
+  manufacturer: Data Labs, Inc.
+  manufacturerUri: https://device-type.com
+  name: DataLabs
+type: d3-device-type-assertion

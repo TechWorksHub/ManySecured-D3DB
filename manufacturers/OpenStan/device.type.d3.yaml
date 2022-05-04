@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eeee4561-1208-43de-9e59-7d96b1433f60
+  macAddresses:
+  - E0:DB:88:00:00:00/24
+  manufacturer: Open Standard Digital-IF Interface for SATCOM Systems
+  manufacturerUri: https://device-type.com
+  name: OpenStan
+type: d3-device-type-assertion

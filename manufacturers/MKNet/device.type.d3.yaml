@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ec7965b-b5f4-4b00-b4b8-9a09f46b963e
+  macAddresses:
+  - 00:03:EE:00:00:00/24
+  manufacturer: MKNet Corporation
+  manufacturerUri: https://device-type.com
+  name: MKNet
+type: d3-device-type-assertion

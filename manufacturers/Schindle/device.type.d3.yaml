@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d151962b-aeac-423c-97e1-b209ca5cd1a3
+  macAddresses:
+  - 00:06:C3:00:00:00/24
+  - CC:C9:2C:00:00:00/24
+  manufacturer: Schindler Elevator Ltd.
+  manufacturerUri: https://device-type.com
+  name: Schindle
+type: d3-device-type-assertion

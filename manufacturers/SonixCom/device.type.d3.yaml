@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcc99c21-ffa4-4baa-be29-3023b6095431
+  macAddresses:
+  - 00:20:8A:00:00:00/24
+  manufacturer: Sonix Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: SonixCom
+type: d3-device-type-assertion

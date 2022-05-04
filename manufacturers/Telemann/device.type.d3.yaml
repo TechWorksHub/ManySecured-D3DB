@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c60c25a5-7d23-4a1c-8bee-0ec025e73794
+  macAddresses:
+  - 00:90:BC:00:00:00/24
+  manufacturer: Telemann Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Telemann
+type: d3-device-type-assertion

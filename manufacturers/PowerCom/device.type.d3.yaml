@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 6b024eba-5e4b-4773-afa7-f4508bf32134
+  macAddresses:
+  - 00:30:3B:00:00:00/24
+  - 00:60:12:00:00:00/24
+  - 64:B3:70:00:00:00/24
+  manufacturer: PowerCom Technology
+  manufacturerUri: https://device-type.com
+  name: PowerCom
+type: d3-device-type-assertion

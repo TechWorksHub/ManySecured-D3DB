@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b38c969-e24a-402c-9e20-fa09371fccdf
+  macAddresses:
+  - 00:18:88:00:00:00/24
+  manufacturer: GOTIVE a.s.
+  manufacturerUri: https://device-type.com
+  name: GOTIVE
+type: d3-device-type-assertion

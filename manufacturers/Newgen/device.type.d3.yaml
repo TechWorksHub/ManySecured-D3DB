@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f96d76bd-6093-4b5d-a308-2565dbe4bec2
+  macAddresses:
+  - 00:40:99:00:00:00/24
+  manufacturer: Newgen Systems Corp.
+  manufacturerUri: https://device-type.com
+  name: Newgen
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d07b932-016d-439e-905d-8cf8aefffa0c
+  macAddresses:
+  - 00:D0:9F:00:00:00/24
+  manufacturer: Novtek Test Systems
+  manufacturerUri: https://device-type.com
+  name: NovtekTe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbeb3445-436a-41af-9503-0a23ddb7156d
+  macAddresses:
+  - 00:30:5A:00:00:00/24
+  manufacturer: Telgen Corporation
+  manufacturerUri: https://device-type.com
+  name: Telgen
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6a99a89-a435-4bb5-bbe3-200eb80a0508
+  macAddresses:
+  - C4:6B:B4:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: myIDkey
+type: d3-device-type-assertion

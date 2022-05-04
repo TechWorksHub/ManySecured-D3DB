@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 49083053-bb9f-406b-bc73-fe750b270bd1
+  macAddresses:
+  - 10:9A:B9:00:00:00/24
+  manufacturer: Tosibox Oy
+  manufacturerUri: https://device-type.com
+  name: Tosibox
+type: d3-device-type-assertion

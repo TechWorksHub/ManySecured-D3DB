@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a41db420-d58b-4c22-a6f7-1e6f3cf080c4
+  macAddresses:
+  - D0:D9:4F:40:00:00/28
+  manufacturer: peiker CEE
+  manufacturerUri: https://device-type.com
+  name: peikerCE
+type: d3-device-type-assertion

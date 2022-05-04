@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2c44ccd-cb75-410b-87b0-c09605a5e445
+  macAddresses:
+  - 00:09:03:00:00:00/24
+  manufacturer: Panasas, Inc
+  manufacturerUri: https://device-type.com
+  name: Panasas
+type: d3-device-type-assertion

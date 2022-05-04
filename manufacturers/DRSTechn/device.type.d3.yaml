@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5e5cb2dd-c6b9-4176-acfd-bb320a3597d3
+  macAddresses:
+  - 00:50:C2:02:10:00/36
+  - 00:D0:B3:00:00:00/24
+  manufacturer: DRS Technologies Canada Co.
+  manufacturerUri: https://device-type.com
+  name: DRSTechn
+type: d3-device-type-assertion

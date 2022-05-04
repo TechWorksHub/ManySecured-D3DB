@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b21d1b4-cda7-42a5-92ac-196461806a37
+  macAddresses:
+  - 00:26:30:00:00:00/24
+  manufacturer: Acorel S.A.S
+  manufacturerUri: https://device-type.com
+  name: AcorelS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 67a03496-699a-4bf5-ab4f-a651512d65fd
+  macAddresses:
+  - 00:12:2B:00:00:00/24
+  manufacturer: Virbiage Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Virbiage
+type: d3-device-type-assertion

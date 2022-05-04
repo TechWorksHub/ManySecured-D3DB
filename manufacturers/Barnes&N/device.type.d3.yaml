@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 975f72c6-5c40-40f0-a15f-a40868eb3825
+  macAddresses:
+  - 58:67:1A:00:00:00/24
+  - 64:C6:67:00:00:00/24
+  manufacturer: Barnes&Noble
+  manufacturerUri: https://device-type.com
+  name: Barnes&N
+type: d3-device-type-assertion

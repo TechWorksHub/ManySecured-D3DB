@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a616ebbe-e0bf-4b18-adf6-0b2cb33e86fc
+  macAddresses:
+  - 00:0C:D3:00:00:00/24
+  manufacturer: Prettl Elektronik Radeberg GmbH
+  manufacturerUri: https://device-type.com
+  name: PrettlEl
+type: d3-device-type-assertion

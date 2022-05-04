@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bff57423-8984-42a9-b1e9-594f078a17aa
+  macAddresses:
+  - 48:88:1E:00:00:00/24
+  manufacturer: EthoSwitch LLC
+  manufacturerUri: https://device-type.com
+  name: EthoSwit
+type: d3-device-type-assertion

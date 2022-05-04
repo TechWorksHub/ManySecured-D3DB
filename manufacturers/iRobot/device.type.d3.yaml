@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 95f9268d-2ef5-491c-aa8e-ef1bbb55c15c
+  macAddresses:
+  - 4C:B9:EA:00:00:00/24
+  - 50:14:79:00:00:00/24
+  manufacturer: iRobot Corporation
+  manufacturerUri: https://device-type.com
+  name: iRobot
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4470b62d-970c-48d8-a28d-c99ba700dfef
+  macAddresses:
+  - 64:62:66:80:00:00/28
+  - 70:B3:D5:20:10:00/36
+  manufacturer: Leontech Limited
+  manufacturerUri: https://device-type.com
+  name: Leontech
+type: d3-device-type-assertion

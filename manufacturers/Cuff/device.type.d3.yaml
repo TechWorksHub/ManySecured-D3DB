@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcb9dd72-c3cc-4a79-bafc-df6eadaa15c6
+  macAddresses:
+  - C0:2D:EE:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Cuff
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9c0897c-5ef5-4c87-9d2d-588d76260407
+  macAddresses:
+  - AC:54:EC:00:00:00/24
+  manufacturer: IEEE P1823 Standards Working Group
+  manufacturerUri: https://device-type.com
+  name: IEEEP182
+type: d3-device-type-assertion

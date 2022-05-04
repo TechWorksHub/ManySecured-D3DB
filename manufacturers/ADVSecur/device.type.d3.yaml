@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 223d58ca-6e1e-448e-b1dc-df62bb09dc6a
+  macAddresses:
+  - C8:1E:8E:00:00:00/24
+  manufacturer: ADV Security (S) Pte Ltd
+  manufacturerUri: https://device-type.com
+  name: ADVSecur
+type: d3-device-type-assertion

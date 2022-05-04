@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fc3a737-94a3-4cbb-bf15-4875a303febe
+  macAddresses:
+  - 00:1B:A3:00:00:00/24
+  manufacturer: Flexit Group GmbH
+  manufacturerUri: https://device-type.com
+  name: FlexitGr
+type: d3-device-type-assertion

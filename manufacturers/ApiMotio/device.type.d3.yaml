@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 79a4f513-a3fb-4988-98ba-dfa2ccbd84a0
+  macAddresses:
+  - 00:30:58:00:00:00/24
+  manufacturer: Api Motion
+  manufacturerUri: https://device-type.com
+  name: ApiMotio
+type: d3-device-type-assertion

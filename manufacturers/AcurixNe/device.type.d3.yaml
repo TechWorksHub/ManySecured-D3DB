@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ada232c-7f6b-4bce-a1dc-7b885c2ea9e7
+  macAddresses:
+  - F0:FD:A0:00:00:00/24
+  manufacturer: Acurix Networks Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: AcurixNe
+type: d3-device-type-assertion

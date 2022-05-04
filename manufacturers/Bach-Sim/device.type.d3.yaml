@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60165e88-d3bc-4f37-8ba0-2b384d17d5ba
+  macAddresses:
+  - C4:55:C2:00:00:00/24
+  manufacturer: Bach-Simpson
+  manufacturerUri: https://device-type.com
+  name: Bach-Sim
+type: d3-device-type-assertion

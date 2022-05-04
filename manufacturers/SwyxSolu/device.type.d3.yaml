@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba55f5ad-d20f-46f6-849e-760ac34eedbe
+  macAddresses:
+  - 00:1B:6B:00:00:00/24
+  manufacturer: Swyx Solutions AG
+  manufacturerUri: https://device-type.com
+  name: SwyxSolu
+type: d3-device-type-assertion

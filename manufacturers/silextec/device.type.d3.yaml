@@ -1,0 +1,9 @@
+credentialSubject:
+  id: acdc8ffa-611a-4141-99a4-169f3f94173e
+  macAddresses:
+  - 1C:BC:EC:00:00:00/24
+  - 84:25:3F:00:00:00/24
+  manufacturer: silex technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: silextec
+type: d3-device-type-assertion

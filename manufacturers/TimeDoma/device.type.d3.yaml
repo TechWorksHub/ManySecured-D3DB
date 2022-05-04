@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 52220f5e-6633-40b7-b351-d35d09f1bfef
+  macAddresses:
+  - 00:50:C2:16:A0:00/36
+  - A0:9A:5A:00:00:00/24
+  manufacturer: Time Domain
+  manufacturerUri: https://device-type.com
+  name: TimeDoma
+type: d3-device-type-assertion

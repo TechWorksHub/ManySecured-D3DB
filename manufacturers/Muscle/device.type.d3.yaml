@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e9cffc7b-3d7a-4e0e-9f8b-c4c743ea09df
+  macAddresses:
+  - 00:1D:3C:00:00:00/24
+  manufacturer: Muscle Corporation
+  manufacturerUri: https://device-type.com
+  name: Muscle
+type: d3-device-type-assertion

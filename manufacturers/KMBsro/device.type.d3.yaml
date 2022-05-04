@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8da821e-32b4-46cf-95d1-a62efce8e447
+  macAddresses:
+  - 58:21:36:00:00:00/24
+  manufacturer: KMB systems, s.r.o.
+  manufacturerUri: https://device-type.com
+  name: KMBsro
+type: d3-device-type-assertion

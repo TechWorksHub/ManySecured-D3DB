@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfd9b3ed-5b40-448c-a08f-2c186458f1da
+  macAddresses:
+  - 48:B9:C2:00:00:00/24
+  manufacturer: Teletics Inc.
+  manufacturerUri: https://device-type.com
+  name: Teletics
+type: d3-device-type-assertion

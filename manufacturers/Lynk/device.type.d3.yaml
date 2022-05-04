@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 154e51f4-7559-43ce-90e7-b41da2070c9d
+  macAddresses:
+  - 00:C0:86:00:00:00/24
+  - 00:E0:72:00:00:00/24
+  manufacturer: The Lynk Corporation
+  manufacturerUri: https://device-type.com
+  name: Lynk
+type: d3-device-type-assertion

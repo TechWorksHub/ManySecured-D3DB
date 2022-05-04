@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fba2d9ac-4b0e-4a50-be72-87c0e922d72d
+  macAddresses:
+  - 00:22:D6:00:00:00/24
+  manufacturer: Cypak AB
+  manufacturerUri: https://device-type.com
+  name: Cypak
+type: d3-device-type-assertion

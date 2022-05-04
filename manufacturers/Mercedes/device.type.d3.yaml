@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8ea8d56-66ca-4b46-9bd6-6fe1815a4c54
+  macAddresses:
+  - 3C:CE:15:00:00:00/24
+  manufacturer: Mercedes-Benz USA, LLC
+  manufacturerUri: https://device-type.com
+  name: Mercedes
+type: d3-device-type-assertion

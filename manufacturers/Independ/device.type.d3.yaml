@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 35177286-bc95-4507-b691-cdb9aeab9a5b
+  macAddresses:
+  - 00:09:50:00:00:00/24
+  - 00:17:8C:00:00:00/24
+  - FC:90:FA:00:00:00/24
+  manufacturer: Independent Storage Corporation
+  manufacturerUri: https://device-type.com
+  name: Independ
+type: d3-device-type-assertion

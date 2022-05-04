@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c13ee283-b6cb-4c54-b14f-b8aeb7a26a1b
+  macAddresses:
+  - 90:0E:83:00:00:00/24
+  manufacturer: Monico Monitoring, Inc.
+  manufacturerUri: https://device-type.com
+  name: MonicoMo
+type: d3-device-type-assertion

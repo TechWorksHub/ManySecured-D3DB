@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0f7b0fc-a4de-4e04-b5b4-ced4c6f3fe93
+  macAddresses:
+  - 00:04:99:00:00:00/24
+  manufacturer: Chino Corporation
+  manufacturerUri: https://device-type.com
+  name: Chino
+type: d3-device-type-assertion

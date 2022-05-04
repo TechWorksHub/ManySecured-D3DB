@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24f87dea-1a7f-43fe-a388-4209624805d9
+  macAddresses:
+  - 00:C0:61:00:00:00/24
+  manufacturer: Solectek Corporation
+  manufacturerUri: https://device-type.com
+  name: Solectek
+type: d3-device-type-assertion

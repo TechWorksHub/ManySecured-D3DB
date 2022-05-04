@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 444309b1-c80b-4ebb-a152-56cd6114019a
+  macAddresses:
+  - 18:30:0C:00:00:00/24
+  - 38:F5:54:00:00:00/24
+  - 5C:34:00:00:00:00/24
+  - A8:82:00:00:00:00/24
+  manufacturer: Hisense Electric Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: HisenseE
+type: d3-device-type-assertion

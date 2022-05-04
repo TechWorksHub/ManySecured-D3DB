@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cfbbbee-6bb7-439c-a1c7-89447b5b381d
+  macAddresses:
+  - 00:10:EE:00:00:00/24
+  manufacturer: Cti Products, Inc.
+  manufacturerUri: https://device-type.com
+  name: CtiProdu
+type: d3-device-type-assertion

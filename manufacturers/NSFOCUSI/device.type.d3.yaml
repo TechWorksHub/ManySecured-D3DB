@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fd530934-7602-4ba1-bdfa-21975434aabd
+  macAddresses:
+  - 00:50:C2:4B:10:00/36
+  - 64:55:7F:00:00:00/24
+  manufacturer: NSFOCUS Information Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NSFOCUSI
+type: d3-device-type-assertion

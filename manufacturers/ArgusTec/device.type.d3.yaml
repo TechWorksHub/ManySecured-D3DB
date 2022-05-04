@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d995efaf-c075-4c4b-a5d4-7deeaa832839
+  macAddresses:
+  - 00:03:0A:00:00:00/24
+  manufacturer: Argus Technologies
+  manufacturerUri: https://device-type.com
+  name: ArgusTec
+type: d3-device-type-assertion

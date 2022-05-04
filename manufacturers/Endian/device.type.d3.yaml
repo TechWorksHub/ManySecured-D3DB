@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c5e1777-481f-4217-bf82-02dc91436176
+  macAddresses:
+  - 80:C6:CA:00:00:00/24
+  manufacturer: Endian s.r.l.
+  manufacturerUri: https://device-type.com
+  name: Endian
+type: d3-device-type-assertion

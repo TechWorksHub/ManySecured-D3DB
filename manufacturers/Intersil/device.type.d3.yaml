@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f22c13d-7f86-4478-8a24-0aca35f89c3b
+  macAddresses:
+  - 00:30:B4:00:00:00/24
+  manufacturer: Intersil Corp.
+  manufacturerUri: https://device-type.com
+  name: Intersil
+type: d3-device-type-assertion

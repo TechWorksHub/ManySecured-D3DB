@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed295d49-d0c9-452d-9f98-f8b6515b9fe0
+  macAddresses:
+  - 00:0F:CF:00:00:00/24
+  - 00:50:C2:2C:D0:00/36
+  manufacturer: DataWind Research
+  manufacturerUri: https://device-type.com
+  name: DataWind
+type: d3-device-type-assertion

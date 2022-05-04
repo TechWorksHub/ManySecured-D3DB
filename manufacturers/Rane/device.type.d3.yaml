@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d60d7aad-bf9b-4802-bb6b-8cee54bd813d
+  macAddresses:
+  - 00:11:FA:00:00:00/24
+  manufacturer: Rane Corporation
+  manufacturerUri: https://device-type.com
+  name: Rane
+type: d3-device-type-assertion

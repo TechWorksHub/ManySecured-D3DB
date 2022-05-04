@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ca820a2-1351-434b-82c4-f372e68af9f0
+  macAddresses:
+  - 00:20:36:00:00:00/24
+  manufacturer: Bmc Software
+  manufacturerUri: https://device-type.com
+  name: BmcSoftw
+type: d3-device-type-assertion

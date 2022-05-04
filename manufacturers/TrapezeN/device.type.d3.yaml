@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7573b62f-990c-4006-8b46-c50e26301f70
+  macAddresses:
+  - 00:0B:0E:00:00:00/24
+  - 00:26:3E:00:00:00/24
+  manufacturer: Trapeze Networks
+  manufacturerUri: https://device-type.com
+  name: TrapezeN
+type: d3-device-type-assertion

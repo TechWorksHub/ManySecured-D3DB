@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f48462ec-6fe2-42ef-a8b9-b306375be473
+  macAddresses:
+  - 00:02:93:00:00:00/24
+  manufacturer: Solid Data Systems
+  manufacturerUri: https://device-type.com
+  name: SolidDat
+type: d3-device-type-assertion

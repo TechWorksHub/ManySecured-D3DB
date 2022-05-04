@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1abc25a0-ef22-471a-ab43-03a91fe06634
+  macAddresses:
+  - 70:B3:D5:E3:10:00/36
+  manufacturer: NEUROPHET, Inc.
+  manufacturerUri: https://device-type.com
+  name: NEUROPHE
+type: d3-device-type-assertion

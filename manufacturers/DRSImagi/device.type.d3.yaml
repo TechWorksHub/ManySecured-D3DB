@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 412072ac-1187-41b4-88a0-524c765c72ea
+  macAddresses:
+  - 00:50:C2:DD:E0:00/36
+  - F8:05:1C:00:00:00/24
+  manufacturer: DRS Imaging and Targeting Solutions
+  manufacturerUri: https://device-type.com
+  name: DRSImagi
+type: d3-device-type-assertion

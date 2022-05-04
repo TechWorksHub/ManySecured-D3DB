@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c795c00-4302-4777-ab47-1d58caac2e77
+  macAddresses:
+  - 1C:FD:08:20:00:00/28
+  manufacturer: HiHi Ltd
+  manufacturerUri: https://device-type.com
+  name: HiHi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ae4ef93-c4b2-4b21-9e69-d7a2739cf06f
+  macAddresses:
+  - 00:1D:10:00:00:00/24
+  manufacturer: LightHaus Logic, Inc.
+  manufacturerUri: https://device-type.com
+  name: LightHau
+type: d3-device-type-assertion

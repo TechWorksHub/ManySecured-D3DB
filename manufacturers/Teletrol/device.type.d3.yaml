@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3db0c374-8177-4033-88bc-8006072e359a
+  macAddresses:
+  - 00:30:B7:00:00:00/24
+  manufacturer: Teletrol Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Teletrol
+type: d3-device-type-assertion

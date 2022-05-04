@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa49f652-33c2-4ee3-bf25-d6e27db3329b
+  macAddresses:
+  - 00:0F:2C:00:00:00/24
+  manufacturer: Uplogix, Inc.
+  manufacturerUri: https://device-type.com
+  name: Uplogix
+type: d3-device-type-assertion

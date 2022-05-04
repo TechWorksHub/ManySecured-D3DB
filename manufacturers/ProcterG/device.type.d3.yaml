@@ -1,0 +1,9 @@
+credentialSubject:
+  id: df14b2e3-e5a9-4814-9cf3-af7ead970568
+  macAddresses:
+  - 34:CB:1A:00:00:00/24
+  - AC:DC:E5:00:00:00/24
+  manufacturer: Procter & Gamble Company
+  manufacturerUri: https://device-type.com
+  name: ProcterG
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a37cfcaf-13ea-42b5-866e-abf35c0dd7d8
+  macAddresses:
+  - 00:00:09:00:00:00/24
+  manufacturer: powerpipes?
+  manufacturerUri: https://device-type.com
+  name: Powerpip
+type: d3-device-type-assertion

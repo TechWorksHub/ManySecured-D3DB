@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2f997696-d954-418d-840e-844ce88cd29d
+  macAddresses:
+  - 40:D8:55:16:E0:00/36
+  - 70:B3:D5:B0:80:00/36
+  manufacturer: Secuinfo Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: Secuinfo
+type: d3-device-type-assertion

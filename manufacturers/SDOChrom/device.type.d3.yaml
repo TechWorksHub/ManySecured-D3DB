@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e41ac286-eeb9-463c-85c2-e416034f6a41
+  macAddresses:
+  - A4:B3:6A:00:00:00/24
+  manufacturer: JSC SDO Chromatec
+  manufacturerUri: https://device-type.com
+  name: SDOChrom
+type: d3-device-type-assertion

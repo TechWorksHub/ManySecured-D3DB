@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab99b512-0b32-4ad6-b0aa-f67f0c708dd5
+  macAddresses:
+  - 00:18:95:00:00:00/24
+  manufacturer: Hansun Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: HansunTe
+type: d3-device-type-assertion

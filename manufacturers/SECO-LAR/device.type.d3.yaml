@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cda4ad0c-f57d-4d57-bcda-0b1ef0c343fe
+  macAddresses:
+  - 64:0E:6A:00:00:00/24
+  manufacturer: SECO-LARM USA Inc
+  manufacturerUri: https://device-type.com
+  name: SECO-LAR
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11024d3d-b23f-44a3-9a1c-6e9bc2cab736
+  macAddresses:
+  - 00:D0:AA:00:00:00/24
+  manufacturer: Chase Communications
+  manufacturerUri: https://device-type.com
+  name: ChaseCom
+type: d3-device-type-assertion

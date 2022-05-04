@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cf1cd30e-cc58-49d4-b9a2-2b88e3b13092
+  macAddresses:
+  - 00:04:73:00:00:00/24
+  manufacturer: Photonex Corporation
+  manufacturerUri: https://device-type.com
+  name: Photonex
+type: d3-device-type-assertion

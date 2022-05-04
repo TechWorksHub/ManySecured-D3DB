@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02cb2e81-146f-4b02-8104-c2d3e2c97b6f
+  macAddresses:
+  - 9C:BE:E0:00:00:00/24
+  manufacturer: Biosoundlab Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Biosound
+type: d3-device-type-assertion

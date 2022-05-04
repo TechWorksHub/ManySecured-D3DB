@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 94ee2773-f62b-4aaf-a790-ec103025d999
+  macAddresses:
+  - 00:C0:CD:00:00:00/24
+  manufacturer: Comelta, S.A.
+  manufacturerUri: https://device-type.com
+  name: Comelta
+type: d3-device-type-assertion

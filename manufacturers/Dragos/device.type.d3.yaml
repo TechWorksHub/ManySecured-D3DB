@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5eab5ff1-233c-4aaf-83fc-92e54c64ec94
+  macAddresses:
+  - 58:4D:42:00:00:00/24
+  manufacturer: Dragos, Inc.
+  manufacturerUri: https://device-type.com
+  name: Dragos
+type: d3-device-type-assertion

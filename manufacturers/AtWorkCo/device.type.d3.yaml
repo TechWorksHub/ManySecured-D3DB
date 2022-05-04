@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c4b8ab4-c527-4a95-8798-df0baf257278
+  macAddresses:
+  - 00:30:F3:00:00:00/24
+  manufacturer: At Work Computers
+  manufacturerUri: https://device-type.com
+  name: AtWorkCo
+type: d3-device-type-assertion

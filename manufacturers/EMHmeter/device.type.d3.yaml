@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d04f2bd-4d13-4e90-94e2-201897c99e10
+  macAddresses:
+  - 00:15:3B:00:00:00/24
+  manufacturer: EMH metering GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: EMHmeter
+type: d3-device-type-assertion

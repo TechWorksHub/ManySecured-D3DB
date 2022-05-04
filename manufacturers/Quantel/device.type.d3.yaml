@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1b5af60-b537-4b85-838a-150ce0dc606a
+  macAddresses:
+  - 00:80:F5:00:00:00/24
+  manufacturer: Quantel Ltd
+  manufacturerUri: https://device-type.com
+  name: Quantel
+type: d3-device-type-assertion

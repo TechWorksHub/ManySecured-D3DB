@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c01e3d89-8009-401e-b178-0170502ec3fe
+  macAddresses:
+  - 64:62:66:B0:00:00/28
+  manufacturer: Signal Hound
+  manufacturerUri: https://device-type.com
+  name: SignalHo
+type: d3-device-type-assertion

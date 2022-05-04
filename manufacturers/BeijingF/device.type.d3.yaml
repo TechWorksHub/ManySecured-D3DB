@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 029d8441-0e4a-42ab-9308-3682a1f9e6d8
+  macAddresses:
+  - 1C:59:74:B0:00:00/28
+  - 38:CD:07:00:00:00/24
+  - 6C:DF:FB:E0:00:00/28
+  manufacturer: Beijing Flintec Electronic Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: BeijingF
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9a26513-f814-4f9a-b02d-42b76dc1d1c0
+  macAddresses:
+  - 00:60:E0:00:00:00/24
+  manufacturer: Axiom Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: AxiomTec
+type: d3-device-type-assertion

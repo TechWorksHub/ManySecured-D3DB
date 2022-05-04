@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2cf5968a-7bae-440e-abac-3faedd4999d1
+  macAddresses:
+  - 00:0C:B1:00:00:00/24
+  - 00:50:C2:3F:10:00/36
+  manufacturer: Salland Engineering (Europe) BV
+  manufacturerUri: https://device-type.com
+  name: SallandE
+type: d3-device-type-assertion

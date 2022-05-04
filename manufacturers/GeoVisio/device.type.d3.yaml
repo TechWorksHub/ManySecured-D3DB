@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06d258d6-94fe-4632-a8cd-6515c63e93f7
+  macAddresses:
+  - 00:13:E2:00:00:00/24
+  manufacturer: GeoVision Inc.
+  manufacturerUri: https://device-type.com
+  name: GeoVisio
+type: d3-device-type-assertion

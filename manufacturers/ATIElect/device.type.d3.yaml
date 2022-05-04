@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d4df872-9041-4651-8c00-60d0b03c4b00
+  macAddresses:
+  - 00:25:DB:00:00:00/24
+  manufacturer: ATI Electronics(Shenzhen) Co., LTD
+  manufacturerUri: https://device-type.com
+  name: ATIElect
+type: d3-device-type-assertion

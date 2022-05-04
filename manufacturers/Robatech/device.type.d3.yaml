@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 28a8df5c-b54e-48bd-87c6-28d0e29c70fb
+  macAddresses:
+  - 00:15:A7:00:00:00/24
+  manufacturer: Robatech AG
+  manufacturerUri: https://device-type.com
+  name: Robatech
+type: d3-device-type-assertion

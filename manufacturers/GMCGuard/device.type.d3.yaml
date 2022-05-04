@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b6ff0d9-cb22-41e5-93b2-bbc8cafff6d3
+  macAddresses:
+  - 00:19:3D:00:00:00/24
+  manufacturer: GMC Guardian Mobility Corp.
+  manufacturerUri: https://device-type.com
+  name: GMCGuard
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e7d1a9e-9f25-46e4-be2b-89a34e2fa7d1
+  macAddresses:
+  - 00:05:C3:00:00:00/24
+  manufacturer: Pacific Instruments, Inc.
+  manufacturerUri: https://device-type.com
+  name: PacificI
+type: d3-device-type-assertion

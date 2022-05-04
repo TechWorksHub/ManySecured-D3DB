@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b90cd48a-73d8-4925-8d10-5d283f084be5
+  macAddresses:
+  - 80:58:C5:00:00:00/24
+  manufacturer: NovaTec Kommunikationstechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: NovaTecK
+type: d3-device-type-assertion

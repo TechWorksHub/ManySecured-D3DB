@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9062d36-62da-4e0a-b598-34dbb6c64cbc
+  macAddresses:
+  - 00:11:56:00:00:00/24
+  manufacturer: Pharos Systems NZ
+  manufacturerUri: https://device-type.com
+  name: PharosNZ
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45b306f6-5707-439c-ad9c-5851e4b5802f
+  macAddresses:
+  - 70:B3:D5:C9:30:00/36
+  - 70:B3:D5:F0:30:00/36
+  manufacturer: GMI Ltd
+  manufacturerUri: https://device-type.com
+  name: GMI
+type: d3-device-type-assertion

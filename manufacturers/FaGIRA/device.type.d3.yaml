@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55e55415-e19f-4bd8-b0b2-7142e64694c7
+  macAddresses:
+  - 00:0A:B3:00:00:00/24
+  manufacturer: Fa. GIRA
+  manufacturerUri: https://device-type.com
+  name: FaGIRA
+type: d3-device-type-assertion

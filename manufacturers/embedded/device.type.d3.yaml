@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a80b6e3-28cc-4d8f-b593-12b55841e405
+  macAddresses:
+  - 00:16:27:00:00:00/24
+  manufacturer: embedded-logic DESIGN AND MORE GmbH
+  manufacturerUri: https://device-type.com
+  name: embedded
+type: d3-device-type-assertion

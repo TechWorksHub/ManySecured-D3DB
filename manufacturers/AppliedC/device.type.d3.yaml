@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9f0e6713-b5de-4675-9dd4-3b8afd2eb26e
+  macAddresses:
+  - 00:40:C2:00:00:00/24
+  - 00:A0:23:00:00:00/24
+  - 1C:82:59:D0:00:00/28
+  manufacturer: Applied Computing Devices
+  manufacturerUri: https://device-type.com
+  name: AppliedC
+type: d3-device-type-assertion

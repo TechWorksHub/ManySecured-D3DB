@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fb33f096-912b-4faf-a948-3d9e1c9cbe39
+  macAddresses:
+  - 00:17:2F:00:00:00/24
+  - 00:50:C2:3E:10:00/36
+  manufacturer: NeuLion Incorporated
+  manufacturerUri: https://device-type.com
+  name: NeuLion
+type: d3-device-type-assertion

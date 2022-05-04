@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0624c288-ed64-444d-9baf-a7e5c98b363b
+  macAddresses:
+  - 00:50:C2:1F:E0:00/36
+  - 00:D0:30:00:00:00/24
+  manufacturer: Safetran Traffic Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Safetran
+type: d3-device-type-assertion

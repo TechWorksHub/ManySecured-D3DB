@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 18c65d62-02dc-45fb-b90e-23d060d4b893
+  macAddresses:
+  - 00:1B:C5:02:60:00/36
+  - 9C:45:63:00:00:00/24
+  manufacturer: DIMEP Sistemas
+  manufacturerUri: https://device-type.com
+  name: DIMEPSis
+type: d3-device-type-assertion

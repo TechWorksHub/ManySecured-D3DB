@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e1b5777-71d5-49ab-924e-65a9bf54e875
+  macAddresses:
+  - 10:45:BE:00:00:00/24
+  manufacturer: Norphonic AS
+  manufacturerUri: https://device-type.com
+  name: Norphoni
+type: d3-device-type-assertion

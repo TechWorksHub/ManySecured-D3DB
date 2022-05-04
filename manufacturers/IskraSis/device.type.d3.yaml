@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 07e425df-49c3-479d-a2cf-bac45d7378ad
+  macAddresses:
+  - 00:1B:DF:00:00:00/24
+  manufacturer: Iskra Sistemi d.d.
+  manufacturerUri: https://device-type.com
+  name: IskraSis
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8a14dd4-cf9a-4a0d-b8ea-39b199612f46
+  macAddresses:
+  - 00:25:9A:00:00:00/24
+  manufacturer: CEStronics GmbH
+  manufacturerUri: https://device-type.com
+  name: CEStroni
+type: d3-device-type-assertion

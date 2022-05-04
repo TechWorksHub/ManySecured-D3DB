@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d78e6e4c-ddf5-4378-8fb9-4ef8c712f751
+  macAddresses:
+  - 00:50:C2:97:A0:00/36
+  - 00:50:C2:E0:80:00/36
+  manufacturer: KST Technology Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: KSTTechn
+type: d3-device-type-assertion

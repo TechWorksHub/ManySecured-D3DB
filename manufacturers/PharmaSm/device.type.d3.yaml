@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 11d97ba2-fe1e-4950-bc13-49b244745535
+  macAddresses:
+  - 00:24:11:00:00:00/24
+  manufacturer: PharmaSmart LLC
+  manufacturerUri: https://device-type.com
+  name: PharmaSm
+type: d3-device-type-assertion

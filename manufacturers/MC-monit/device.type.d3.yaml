@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 384ba55a-8f0e-4c66-ab71-b2bb30523c7c
+  macAddresses:
+  - 00:50:C2:FB:40:00/36
+  manufacturer: MC-monitoring SA
+  manufacturerUri: https://device-type.com
+  name: MC-monit
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 101f1409-a6bf-427b-b11e-f3425e4551bc
+  macAddresses:
+  - 00:0F:FD:00:00:00/24
+  manufacturer: Glorytek Network Inc.
+  manufacturerUri: https://device-type.com
+  name: Glorytek
+type: d3-device-type-assertion

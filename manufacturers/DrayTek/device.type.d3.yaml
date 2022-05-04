@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 302eff06-422d-4ded-bd17-18725f0cb1ec
+  macAddresses:
+  - 00:1D:AA:00:00:00/24
+  - 00:50:7F:00:00:00/24
+  - 14:49:BC:00:00:00/24
+  manufacturer: DrayTek Corp.
+  manufacturerUri: https://device-type.com
+  name: DrayTek
+type: d3-device-type-assertion

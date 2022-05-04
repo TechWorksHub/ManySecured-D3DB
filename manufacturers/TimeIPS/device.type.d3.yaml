@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0bd5ef9e-84df-49fd-80dd-8b839af4a035
+  macAddresses:
+  - 00:1F:B0:00:00:00/24
+  manufacturer: TimeIPS, Inc.
+  manufacturerUri: https://device-type.com
+  name: TimeIPS
+type: d3-device-type-assertion

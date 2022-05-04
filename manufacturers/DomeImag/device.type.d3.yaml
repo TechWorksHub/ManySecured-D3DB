@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2f60e64-5c1c-4572-95d1-23317014053c
+  macAddresses:
+  - 0C:3C:65:00:00:00/24
+  manufacturer: Dome Imaging Inc
+  manufacturerUri: https://device-type.com
+  name: DomeImag
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d32f93f-afff-4214-81b9-789f2db5fcb3
+  macAddresses:
+  - 00:21:0A:00:00:00/24
+  manufacturer: byd:sign Corporation
+  manufacturerUri: https://device-type.com
+  name: bydsign
+type: d3-device-type-assertion

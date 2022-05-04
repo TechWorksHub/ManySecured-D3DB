@@ -1,0 +1,9 @@
+credentialSubject:
+  id: fc8846c7-f1ce-4005-be0d-3a72cf4d1fdb
+  macAddresses:
+  - 08:ED:02:70:00:00/28
+  - 70:B3:D5:6E:60:00/36
+  manufacturer: Eleven Engineering Incorporated
+  manufacturerUri: https://device-type.com
+  name: ElevenEn
+type: d3-device-type-assertion

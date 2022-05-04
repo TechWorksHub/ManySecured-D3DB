@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7506405-b435-4f7d-8133-72adc3921dd0
+  macAddresses:
+  - 00:09:B3:00:00:00/24
+  manufacturer: MCM Systems Ltd
+  manufacturerUri: https://device-type.com
+  name: MCM
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c16452a-2838-44e4-a234-fd4157beeb68
+  macAddresses:
+  - 00:16:8B:00:00:00/24
+  manufacturer: Paralan Corporation
+  manufacturerUri: https://device-type.com
+  name: Paralan
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01d64771-15bd-488e-9f26-c45bcddb2416
+  macAddresses:
+  - 00:03:1E:00:00:00/24
+  manufacturer: Optranet, Inc.
+  manufacturerUri: https://device-type.com
+  name: Optranet
+type: d3-device-type-assertion

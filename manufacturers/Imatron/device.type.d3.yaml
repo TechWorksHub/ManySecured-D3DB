@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2d455d7-ac98-464f-9b73-6370c6a23760
+  macAddresses:
+  - 00:10:03:00:00:00/24
+  manufacturer: Imatron, Inc.
+  manufacturerUri: https://device-type.com
+  name: Imatron
+type: d3-device-type-assertion

@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 90d259bb-5905-45ef-b141-b0476595c48a
+  macAddresses:
+  - 00:1E:AE:00:00:00/24
+  - 00:50:C2:26:B0:00/36
+  - 00:50:C2:88:A0:00/36
+  - 00:54:AF:00:00:00/24
+  - 18:4C:AE:00:00:00/24
+  - 20:AD:56:00:00:00/24
+  - 24:08:5D:00:00:00/24
+  - 40:82:56:00:00:00/24
+  - 7C:BC:84:40:00:00/28
+  - 8C:5F:48:00:00:00/24
+  - 9C:28:BF:00:00:00/24
+  - AC:C3:58:00:00:00/24
+  - B4:DD:D0:00:00:00/24
+  - C0:9B:F4:E0:00:00/28
+  - CC:D3:9D:20:00:00/28
+  - D4:94:FB:00:00:00/24
+  manufacturer: Continental Automotive Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Continen
+type: d3-device-type-assertion

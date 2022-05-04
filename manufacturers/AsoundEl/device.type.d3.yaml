@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ddec2831-49bc-464b-bafa-09816954c62d
+  macAddresses:
+  - 00:02:2A:00:00:00/24
+  manufacturer: Asound Electronic
+  manufacturerUri: https://device-type.com
+  name: AsoundEl
+type: d3-device-type-assertion

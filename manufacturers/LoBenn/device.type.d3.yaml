@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f303e37e-4af4-461e-a227-9d33041a23c9
+  macAddresses:
+  - 00:17:82:00:00:00/24
+  manufacturer: LoBenn Inc.
+  manufacturerUri: https://device-type.com
+  name: LoBenn
+type: d3-device-type-assertion

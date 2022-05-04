@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 986c69a3-7177-4d8a-a687-6ca71942bdea
+  macAddresses:
+  - 00:90:F7:00:00:00/24
+  manufacturer: Nbase Communications Ltd.
+  manufacturerUri: https://device-type.com
+  name: NbaseCom
+type: d3-device-type-assertion

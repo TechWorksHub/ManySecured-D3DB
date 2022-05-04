@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9289348b-a6e0-4feb-9cd8-985eb43c5ae2
+  macAddresses:
+  - 00:50:C2:B2:F0:00/36
+  - 8C:47:6E:80:00:00/28
+  - EC:23:68:00:00:00/24
+  manufacturer: IntelliVision Technologies, Corp
+  manufacturerUri: https://device-type.com
+  name: IntelliV
+type: d3-device-type-assertion

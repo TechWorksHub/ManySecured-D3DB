@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e4c1be69-95c3-4d3f-806e-6cc325e37214
+  macAddresses:
+  - 00:07:F7:00:00:00/24
+  - 68:4B:88:00:00:00/24
+  manufacturer: Galtronics
+  manufacturerUri: https://device-type.com
+  name: Galtroni
+type: d3-device-type-assertion

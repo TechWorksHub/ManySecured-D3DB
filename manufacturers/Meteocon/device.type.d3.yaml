@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55cd82d6-29b5-44cf-b700-b834b7728ee9
+  macAddresses:
+  - 00:24:80:00:00:00/24
+  manufacturer: Meteocontrol GmbH
+  manufacturerUri: https://device-type.com
+  name: Meteocon
+type: d3-device-type-assertion

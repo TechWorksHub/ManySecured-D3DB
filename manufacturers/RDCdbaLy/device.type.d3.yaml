@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd1903fb-8aa2-4cb4-9302-cbc943dbe88f
+  macAddresses:
+  - 00:23:50:00:00:00/24
+  manufacturer: RDC, Inc. dba LynTec
+  manufacturerUri: https://device-type.com
+  name: RDCdbaLy
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63d074c7-25aa-412f-8893-3baa608e0c03
+  macAddresses:
+  - 40:D8:55:00:60:00/36
+  manufacturer: Bactest Limited
+  manufacturerUri: https://device-type.com
+  name: Bactest
+type: d3-device-type-assertion

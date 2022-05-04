@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 350f58d0-45f7-4ac7-8fe4-11ca2c64cc83
+  macAddresses:
+  - 00:1E:99:00:00:00/24
+  manufacturer: Vantanol Industrial Corporation
+  manufacturerUri: https://device-type.com
+  name: Vantanol
+type: d3-device-type-assertion

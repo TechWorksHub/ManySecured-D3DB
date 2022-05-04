@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6e785157-75d5-457d-96df-acd2dfdab526
+  macAddresses:
+  - 00:06:3C:00:00:00/24
+  - 00:D0:CA:00:00:00/24
+  manufacturer: Intrinsyc Software International Inc.
+  manufacturerUri: https://device-type.com
+  name: Intrinsy
+type: d3-device-type-assertion

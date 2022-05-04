@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c03b232-19e0-4a2c-b021-cd2810a5c6c7
+  macAddresses:
+  - 08:ED:02:00:00:00/28
+  manufacturer: D2SLink Systems
+  manufacturerUri: https://device-type.com
+  name: D2SLink
+type: d3-device-type-assertion

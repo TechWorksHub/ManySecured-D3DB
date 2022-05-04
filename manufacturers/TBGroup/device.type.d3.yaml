@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95629e69-cd1e-4601-940d-2e51726d9eb4
+  macAddresses:
+  - 00:0A:9B:00:00:00/24
+  manufacturer: TB Group Inc
+  manufacturerUri: https://device-type.com
+  name: TBGroup
+type: d3-device-type-assertion

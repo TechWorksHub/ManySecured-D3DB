@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1cf87007-037d-49ae-86bf-1ef0765ed022
+  macAddresses:
+  - 00:23:82:00:00:00/24
+  - 80:91:2A:00:00:00/24
+  manufacturer: Lih Rong electronic Enterprise Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: LihRonge
+type: d3-device-type-assertion

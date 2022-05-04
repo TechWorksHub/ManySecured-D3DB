@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12faa505-82ef-4845-b489-23d286fbe819
+  macAddresses:
+  - 00:0D:6F:00:00:00/24
+  manufacturer: Ember Corporation
+  manufacturerUri: https://device-type.com
+  name: Ember
+type: d3-device-type-assertion

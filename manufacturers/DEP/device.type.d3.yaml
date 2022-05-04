@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 425948c0-b656-49d9-91a7-65135d39fc6e
+  macAddresses:
+  - 64:E1:61:00:00:00/24
+  - 88:D7:BC:00:00:00/24
+  manufacturer: DEP Corp.
+  manufacturerUri: https://device-type.com
+  name: DEP
+type: d3-device-type-assertion

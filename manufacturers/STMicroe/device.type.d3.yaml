@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 16ec1246-7513-421f-870e-bd6be3d46e58
+  macAddresses:
+  - 00:50:C2:25:50:00/36
+  - 00:80:E1:00:00:00/24
+  manufacturer: STMicroelectronics SRL
+  manufacturerUri: https://device-type.com
+  name: STMicroe
+type: d3-device-type-assertion

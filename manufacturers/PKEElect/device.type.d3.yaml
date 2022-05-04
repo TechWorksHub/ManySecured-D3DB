@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e58d5cd-1b0d-40f1-8b42-c77e9657affd
+  macAddresses:
+  - 70:B3:D5:61:E0:00/36
+  manufacturer: PKE Electronics AG
+  manufacturerUri: https://device-type.com
+  name: PKEElect
+type: d3-device-type-assertion

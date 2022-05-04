@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4b39c0bb-0935-4889-9931-5f7136b02955
+  macAddresses:
+  - 00:19:B8:00:00:00/24
+  - 70:B3:D5:BB:C0:00/36
+  manufacturer: Boundary Devices
+  manufacturerUri: https://device-type.com
+  name: Boundary
+type: d3-device-type-assertion

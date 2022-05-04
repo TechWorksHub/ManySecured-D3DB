@@ -1,0 +1,13 @@
+credentialSubject:
+  id: dd393fe0-c2ca-4222-bc6c-68eb137d8c3c
+  macAddresses:
+  - 00:09:93:00:00:00/24
+  - 00:0A:30:00:00:00/24
+  - 0C:D9:C1:00:00:00/24
+  - 7C:FC:3C:00:00:00/24
+  - F8:55:CD:00:00:00/24
+  - FC:35:E6:00:00:00/24
+  manufacturer: Visteon Corporation
+  manufacturerUri: https://device-type.com
+  name: Visteon
+type: d3-device-type-assertion

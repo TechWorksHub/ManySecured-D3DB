@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8f8c7508-6621-4796-9962-b24a962f99a9
+  macAddresses:
+  - 00:0D:6B:00:00:00/24
+  - F0:32:1A:00:00:00/24
+  manufacturer: Mita-Teknik A/S
+  manufacturerUri: https://device-type.com
+  name: Mita-Tek
+type: d3-device-type-assertion

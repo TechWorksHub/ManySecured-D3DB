@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b90284a-12d7-490d-b529-271c399a6d28
+  macAddresses:
+  - 00:02:ED:00:00:00/24
+  manufacturer: DXO Telecom Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DXOTelec
+type: d3-device-type-assertion

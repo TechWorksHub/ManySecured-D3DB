@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b485791-4b13-4267-b2be-4db58fc5a4e6
+  macAddresses:
+  - 00:50:C2:45:80:00/36
+  manufacturer: HRZ data GmbH
+  manufacturerUri: https://device-type.com
+  name: HRZdata
+type: d3-device-type-assertion

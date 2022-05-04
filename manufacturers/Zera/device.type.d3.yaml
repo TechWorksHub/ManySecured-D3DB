@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80970356-315e-42f9-b90c-d8d2c65e2df7
+  macAddresses:
+  - DC:2B:CA:00:00:00/24
+  manufacturer: Zera GmbH
+  manufacturerUri: https://device-type.com
+  name: Zera
+type: d3-device-type-assertion

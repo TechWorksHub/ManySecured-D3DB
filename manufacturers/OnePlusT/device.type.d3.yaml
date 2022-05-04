@@ -1,0 +1,21 @@
+credentialSubject:
+  id: 6ba9059b-b61d-4047-a8a5-b6a362d5b0ee
+  macAddresses:
+  - 30:BB:7D:00:00:00/24
+  - 48:01:C5:00:00:00/24
+  - 48:74:12:00:00:00/24
+  - 4C:4F:EE:00:00:00/24
+  - 5C:17:CF:00:00:00/24
+  - 64:A2:F9:00:00:00/24
+  - 8C:64:A2:00:00:00/24
+  - 94:65:2D:00:00:00/24
+  - 98:09:CF:00:00:00/24
+  - AC:5F:EA:00:00:00/24
+  - AC:D6:18:00:00:00/24
+  - C0:EE:FB:00:00:00/24
+  - D0:49:7C:00:00:00/24
+  - E4:41:22:00:00:00/24
+  manufacturer: OnePlus Technology (Shenzhen) Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: OnePlusT
+type: d3-device-type-assertion

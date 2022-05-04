@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6026a9d7-c744-4bd6-8999-62ba1bffff36
+  macAddresses:
+  - 00:50:37:00:00:00/24
+  manufacturer: Koga Electronics Co.
+  manufacturerUri: https://device-type.com
+  name: KogaElec
+type: d3-device-type-assertion

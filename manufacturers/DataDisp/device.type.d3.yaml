@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8aa1fc1e-95da-44db-9f55-02f173d2a8ff
+  macAddresses:
+  - 00:14:E1:00:00:00/24
+  manufacturer: Data Display AG
+  manufacturerUri: https://device-type.com
+  name: DataDisp
+type: d3-device-type-assertion

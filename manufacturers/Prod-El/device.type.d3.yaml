@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9050dc2c-1fa4-44ae-98b3-eacdbda17412
+  macAddresses:
+  - 00:16:64:00:00:00/24
+  manufacturer: Prod-El SpA
+  manufacturerUri: https://device-type.com
+  name: Prod-El
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0b5cd577-63e3-4df7-8f3e-80bda15c56f4
+  macAddresses:
+  - 00:50:C0:00:00:00/24
+  manufacturer: Gatan, Inc.
+  manufacturerUri: https://device-type.com
+  name: Gatan
+type: d3-device-type-assertion

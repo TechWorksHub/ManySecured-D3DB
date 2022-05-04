@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a0e3aba-3f8e-4b40-82cd-0fdb8178d098
+  macAddresses:
+  - 00:50:C2:17:30:00/36
+  manufacturer: DeMeTec GmbH
+  manufacturerUri: https://device-type.com
+  name: DeMeTec
+type: d3-device-type-assertion

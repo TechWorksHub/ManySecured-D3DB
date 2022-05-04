@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8e63e82-e9ec-4aa2-8805-38c045939916
+  macAddresses:
+  - 00:40:79:00:00:00/24
+  manufacturer: Juko Manufacture Company, Ltd.
+  manufacturerUri: https://device-type.com
+  name: JukoManu
+type: d3-device-type-assertion

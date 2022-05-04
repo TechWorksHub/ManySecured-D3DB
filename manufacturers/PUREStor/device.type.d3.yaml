@@ -1,0 +1,8 @@
+credentialSubject:
+  id: faea46cf-58db-48a7-a2eb-a35998873353
+  macAddresses:
+  - 24:A9:37:00:00:00/24
+  manufacturer: PURE Storage
+  manufacturerUri: https://device-type.com
+  name: PUREStor
+type: d3-device-type-assertion

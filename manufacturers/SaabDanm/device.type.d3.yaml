@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4c5a0df-bbd3-4cda-bdbf-ee4dceb65aa1
+  macAddresses:
+  - 00:13:68:00:00:00/24
+  manufacturer: Saab Danmark A/S
+  manufacturerUri: https://device-type.com
+  name: SaabDanm
+type: d3-device-type-assertion

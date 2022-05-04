@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d93bc795-e977-4817-b0ec-6e5f99b84d7d
+  macAddresses:
+  - 00:A0:0D:00:00:00/24
+  manufacturer: The Panda Project
+  manufacturerUri: https://device-type.com
+  name: PandaPro
+type: d3-device-type-assertion

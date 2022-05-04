@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c2fac2c6-09a8-4503-80f9-b55d10c8002b
+  macAddresses:
+  - 00:22:81:00:00:00/24
+  - 00:50:C2:37:80:00/36
+  manufacturer: Daintree Networks Pty
+  manufacturerUri: https://device-type.com
+  name: Daintree
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e040df25-0c37-44c5-b72d-e71b6ec38328
+  macAddresses:
+  - 70:53:3F:00:00:00/24
+  manufacturer: Alfa Instrumentos Eletronicos Ltda.
+  manufacturerUri: https://device-type.com
+  name: AlfaInst
+type: d3-device-type-assertion

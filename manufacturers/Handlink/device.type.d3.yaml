@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bce9ad5f-e88f-4217-a1cb-30af899b23a7
+  macAddresses:
+  - 00:90:0E:00:00:00/24
+  manufacturer: Handlink Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Handlink
+type: d3-device-type-assertion

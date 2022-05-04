@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 17b125ac-2679-480c-ae49-0f37cf8d29d2
+  macAddresses:
+  - 00:11:8E:00:00:00/24
+  manufacturer: Halytech Mace
+  manufacturerUri: https://device-type.com
+  name: Halytech
+type: d3-device-type-assertion

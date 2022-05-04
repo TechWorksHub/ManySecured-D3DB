@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 587ea0e3-c6fd-45ef-b1dc-8bddfe6f36cd
+  macAddresses:
+  - 00:50:C2:DE:C0:00/36
+  - 54:9A:11:A0:00:00/28
+  - 70:B3:D5:1E:50:00/36
+  manufacturer: VendNovation LLC
+  manufacturerUri: https://device-type.com
+  name: VendNova
+type: d3-device-type-assertion

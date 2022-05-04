@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a689550-2be0-49f6-bcab-34dc6f209f9f
+  macAddresses:
+  - D8:4B:2A:00:00:00/24
+  manufacturer: Cognitas Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cognitas
+type: d3-device-type-assertion

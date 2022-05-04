@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4fb4837-34ad-4021-8c09-cde214f79d66
+  macAddresses:
+  - 00:FC:70:00:00:00/24
+  manufacturer: Intrepid Control Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Intrepid
+type: d3-device-type-assertion

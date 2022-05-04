@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3fdc5cfd-7825-4f2c-ba6b-6660eec2524e
+  macAddresses:
+  - 00:11:38:00:00:00/24
+  manufacturer: Taishin Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Taishin
+type: d3-device-type-assertion

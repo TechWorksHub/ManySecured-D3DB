@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6be8f2a2-9fbe-4925-829d-15f23338c036
+  macAddresses:
+  - 00:20:9A:00:00:00/24
+  manufacturer: The 3Do Company
+  manufacturerUri: https://device-type.com
+  name: 3Do
+type: d3-device-type-assertion

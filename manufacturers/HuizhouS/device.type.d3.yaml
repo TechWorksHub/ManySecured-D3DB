@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7bbb1a3f-16b4-42ab-8c24-9e88637eda9b
+  macAddresses:
+  - 7C:FF:62:00:00:00/24
+  - B4:4B:D6:30:00:00/28
+  manufacturer: Huizhou Super Electron Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: HuizhouS
+type: d3-device-type-assertion

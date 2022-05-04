@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a23d6ba8-3d37-4b24-8f2d-11a5880ece7a
+  macAddresses:
+  - 70:EE:A3:00:00:00/24
+  - 8A:00:B0:00:00:00/24
+  manufacturer: Eoptolink Technology Inc. Ltd,
+  manufacturerUri: https://device-type.com
+  name: Eoptolin
+type: d3-device-type-assertion

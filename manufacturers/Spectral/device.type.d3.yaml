@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a090e80e-6154-4fe5-b0dd-7e9587870746
+  macAddresses:
+  - 00:19:2E:00:00:00/24
+  - 00:90:7A:00:00:00/24
+  manufacturer: Spectral Instruments, Inc.
+  manufacturerUri: https://device-type.com
+  name: Spectral
+type: d3-device-type-assertion

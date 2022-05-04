@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8de4c80-b336-49a4-b9ee-8165b5ea123a
+  macAddresses:
+  - 00:10:86:00:00:00/24
+  manufacturer: ATTO Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: ATTOTech
+type: d3-device-type-assertion

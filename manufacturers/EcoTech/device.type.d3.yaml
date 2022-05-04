@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ebf1fa92-58ae-420b-b1f8-3aaf2e4d58c8
+  macAddresses:
+  - F8:DA:DF:00:00:00/24
+  manufacturer: EcoTech, Inc.
+  manufacturerUri: https://device-type.com
+  name: EcoTech
+type: d3-device-type-assertion

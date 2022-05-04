@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b79af91-9022-41b2-8b65-0c2442a6b139
+  macAddresses:
+  - 00:16:D5:00:00:00/24
+  manufacturer: Synccom Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Synccom
+type: d3-device-type-assertion

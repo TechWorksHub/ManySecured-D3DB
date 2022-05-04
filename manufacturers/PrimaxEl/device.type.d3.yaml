@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 2198076b-a103-4543-8bd5-6a7f57465db4
+  macAddresses:
+  - 00:02:76:00:00:00/24
+  - 00:1C:EF:00:00:00/24
+  - 38:0D:D4:00:00:00/24
+  - 98:FD:B4:00:00:00/24
+  - F0:65:DD:00:00:00/24
+  manufacturer: Primax Electronics Ltd.
+  manufacturerUri: https://device-type.com
+  name: PrimaxEl
+type: d3-device-type-assertion

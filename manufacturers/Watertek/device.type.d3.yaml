@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a63f3afa-459c-4cdc-a359-49a374540b06
+  macAddresses:
+  - 00:0D:F4:00:00:00/24
+  manufacturer: Watertek Co.
+  manufacturerUri: https://device-type.com
+  name: Watertek
+type: d3-device-type-assertion

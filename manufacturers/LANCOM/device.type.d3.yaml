@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04303f5b-219d-4ad6-ab38-fd6795b7cc10
+  macAddresses:
+  - 00:A0:57:00:00:00/24
+  manufacturer: LANCOM Systems GmbH
+  manufacturerUri: https://device-type.com
+  name: LANCOM
+type: d3-device-type-assertion

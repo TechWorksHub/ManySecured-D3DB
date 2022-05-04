@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8890709a-b6f8-4977-8bd8-a0dbd11ba2db
+  macAddresses:
+  - F8:1D:78:60:00:00/28
+  - F8:6D:73:00:00:00/24
+  manufacturer: Zengge Co., Limited
+  manufacturerUri: https://device-type.com
+  name: Zengge
+type: d3-device-type-assertion

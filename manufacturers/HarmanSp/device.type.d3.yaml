@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 409f3b88-8bb2-4e24-860d-861b5d801d17
+  macAddresses:
+  - 00:16:5A:00:00:00/24
+  manufacturer: Harman Specialty Group
+  manufacturerUri: https://device-type.com
+  name: HarmanSp
+type: d3-device-type-assertion

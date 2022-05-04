@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45ea8d59-356e-4eae-bc6e-08cd5ee9d519
+  macAddresses:
+  - 00:19:98:00:00:00/24
+  manufacturer: Sato Corporation
+  manufacturerUri: https://device-type.com
+  name: Sato
+type: d3-device-type-assertion

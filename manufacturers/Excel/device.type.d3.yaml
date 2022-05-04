@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7daaafae-3aec-469b-94e9-645d53d8c4ad
+  macAddresses:
+  - 00:20:1C:00:00:00/24
+  manufacturer: Excel, Inc.
+  manufacturerUri: https://device-type.com
+  name: Excel
+type: d3-device-type-assertion

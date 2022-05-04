@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc40e398-7dda-4aa0-a8b0-a80776f5798a
+  macAddresses:
+  - 00:00:52:00:00:00/24
+  manufacturer: Intrusion.com, Inc.
+  manufacturerUri: https://device-type.com
+  name: Intrusio
+type: d3-device-type-assertion

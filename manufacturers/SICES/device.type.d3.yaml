@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0a8c6cfc-6504-43d2-bb9b-59366b2f2e1f
+  macAddresses:
+  - 00:1B:C5:09:C0:00/36
+  - 4C:91:7A:70:00:00/28
+  - 70:B3:D5:EA:70:00/36
+  manufacturer: S.I.C.E.S. srl
+  manufacturerUri: https://device-type.com
+  name: SICES
+type: d3-device-type-assertion

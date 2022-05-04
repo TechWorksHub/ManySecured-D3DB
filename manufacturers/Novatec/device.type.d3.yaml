@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a9b69c4-6f3b-40d1-ac1c-4a76aaf08ae2
+  macAddresses:
+  - 00:08:AF:00:00:00/24
+  manufacturer: Novatec Corporation
+  manufacturerUri: https://device-type.com
+  name: Novatec
+type: d3-device-type-assertion

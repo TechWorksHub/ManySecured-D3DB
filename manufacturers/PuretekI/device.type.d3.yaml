@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc1cc63f-e47c-4af6-b209-1c9554ceb2f5
+  macAddresses:
+  - 00:05:25:00:00:00/24
+  manufacturer: Puretek Industrial Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: PuretekI
+type: d3-device-type-assertion

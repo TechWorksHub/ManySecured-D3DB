@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a58351b-5301-46ee-b231-481c5562d29c
+  macAddresses:
+  - 00:1D:1C:00:00:00/24
+  manufacturer: Gennet s.a.
+  manufacturerUri: https://device-type.com
+  name: Gennet
+type: d3-device-type-assertion

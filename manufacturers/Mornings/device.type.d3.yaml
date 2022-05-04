@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 66c56417-0ee6-4449-b103-e96ca2d6e7b2
+  macAddresses:
+  - 00:25:5D:00:00:00/24
+  manufacturer: Morningstar Corporation
+  manufacturerUri: https://device-type.com
+  name: Mornings
+type: d3-device-type-assertion

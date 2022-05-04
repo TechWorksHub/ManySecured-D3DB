@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 380a319e-e89d-49aa-97e9-c965f69915dd
+  macAddresses:
+  - 00:01:DB:00:00:00/24
+  manufacturer: Freecom Technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: FreecomT
+type: d3-device-type-assertion

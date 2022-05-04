@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55d8b36c-545a-48c8-937c-b6ecf90b5cac
+  macAddresses:
+  - 00:07:B9:00:00:00/24
+  manufacturer: Ginganet Corporation
+  manufacturerUri: https://device-type.com
+  name: Ginganet
+type: d3-device-type-assertion

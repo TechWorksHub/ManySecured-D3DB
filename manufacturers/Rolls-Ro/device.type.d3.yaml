@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42eaa1a1-ffce-4bc9-972d-1faa6b9f681f
+  macAddresses:
+  - 00:0C:E2:00:00:00/24
+  manufacturer: Rolls-Royce
+  manufacturerUri: https://device-type.com
+  name: Rolls-Ro
+type: d3-device-type-assertion

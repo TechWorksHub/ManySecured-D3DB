@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cfb3b56e-9906-4852-85a1-4def34253aca
+  macAddresses:
+  - 80:D3:36:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Cern
+type: d3-device-type-assertion

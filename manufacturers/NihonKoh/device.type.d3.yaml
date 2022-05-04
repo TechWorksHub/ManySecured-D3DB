@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99c1f751-5cee-4726-867c-ac4342191cad
+  macAddresses:
+  - 00:A0:9A:00:00:00/24
+  manufacturer: Nihon Kohden America
+  manufacturerUri: https://device-type.com
+  name: NihonKoh
+type: d3-device-type-assertion

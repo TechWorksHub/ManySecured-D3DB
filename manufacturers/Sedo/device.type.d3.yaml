@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2410b07a-86d2-40ab-bb44-dc51d1e0e04a
+  macAddresses:
+  - 00:17:BA:00:00:00/24
+  - 00:50:C2:4E:50:00/36
+  manufacturer: Sedo Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Sedo
+type: d3-device-type-assertion

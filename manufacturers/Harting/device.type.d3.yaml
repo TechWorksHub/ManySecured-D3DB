@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4cef32c-2509-437a-b51b-bfc07ad1d8a7
+  macAddresses:
+  - 10:49:63:00:00:00/24
+  manufacturer: Harting K.K.
+  manufacturerUri: https://device-type.com
+  name: Harting
+type: d3-device-type-assertion

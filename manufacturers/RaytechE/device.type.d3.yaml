@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a66c37e5-5cae-4f94-b833-80e8acbd4868
+  macAddresses:
+  - 00:C0:36:00:00:00/24
+  manufacturer: Raytech Electronic Corp.
+  manufacturerUri: https://device-type.com
+  name: RaytechE
+type: d3-device-type-assertion

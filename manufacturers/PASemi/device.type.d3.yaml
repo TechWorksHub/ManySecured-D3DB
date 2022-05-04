@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6211fe8-804e-4694-a3f8-7180505f4db7
+  macAddresses:
+  - 00:14:1E:00:00:00/24
+  manufacturer: P.A. Semi, Inc.
+  manufacturerUri: https://device-type.com
+  name: PASemi
+type: d3-device-type-assertion

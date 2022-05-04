@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa15d6fe-c055-4e91-a244-fa5c56aebbea
+  macAddresses:
+  - 00:80:8A:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Summit
+type: d3-device-type-assertion

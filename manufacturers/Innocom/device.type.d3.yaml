@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dc29e30-468b-4a3a-a8eb-cdd17ea96fe5
+  macAddresses:
+  - 00:04:69:00:00:00/24
+  manufacturer: Innocom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Innocom
+type: d3-device-type-assertion

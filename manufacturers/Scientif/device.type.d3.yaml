@@ -1,0 +1,23 @@
+credentialSubject:
+  id: 2ae87fd1-e24d-4d40-a7cc-133463877d2c
+  macAddresses:
+  - 00:01:A6:00:00:00/24
+  - 00:0A:0C:00:00:00/24
+  - 00:0A:73:00:00:00/24
+  - 00:0C:51:00:00:00/24
+  - 00:0F:21:00:00:00/24
+  - 00:11:E6:00:00:00/24
+  - 00:14:F8:00:00:00/24
+  - 00:16:92:00:00:00/24
+  - 00:1A:C3:00:00:00/24
+  - 00:1B:C5:06:10:00/36
+  - 00:1C:EA:00:00:00/24
+  - 00:40:7B:00:00:00/24
+  - 1C:21:D1:40:00:00/28
+  - 8C:1F:64:E5:C0:00/36
+  - BC:66:41:50:00:00/28
+  - F0:4B:6A:00:00:00/24
+  manufacturer: Scientific-Atlanta Arcodan A/S
+  manufacturerUri: https://device-type.com
+  name: Scientif
+type: d3-device-type-assertion

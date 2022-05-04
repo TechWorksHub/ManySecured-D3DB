@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ff01c49-260c-418d-9f7b-f22d64cfcb01
+  macAddresses:
+  - 00:50:C2:75:80:00/36
+  manufacturer: AixSolve GmbH
+  manufacturerUri: https://device-type.com
+  name: AixSolve
+type: d3-device-type-assertion

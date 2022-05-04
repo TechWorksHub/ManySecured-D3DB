@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13a67748-2eb4-4d1c-89f4-1a83cb0e554a
+  macAddresses:
+  - 00:09:D8:00:00:00/24
+  manufacturer: "F\xE4lt Communications AB"
+  manufacturerUri: https://device-type.com
+  name: "F\xE4ltComm"
+type: d3-device-type-assertion

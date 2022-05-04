@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 995defa7-fd2e-45aa-8a30-201fa7eb8adf
+  macAddresses:
+  - 14:DC:E2:00:00:00/24
+  manufacturer: THALES AVS France
+  manufacturerUri: https://device-type.com
+  name: THALESAV
+type: d3-device-type-assertion

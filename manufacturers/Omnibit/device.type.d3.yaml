@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbbfb3e2-93c0-46ac-8e4a-7cf943daca68
+  macAddresses:
+  - 00:B5:D6:00:00:00/24
+  manufacturer: Omnibit Inc.
+  manufacturerUri: https://device-type.com
+  name: Omnibit
+type: d3-device-type-assertion

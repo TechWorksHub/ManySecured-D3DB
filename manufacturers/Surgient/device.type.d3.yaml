@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3dbc1ad1-2b2d-4fbd-856c-67382be7e768
+  macAddresses:
+  - 00:04:9C:00:00:00/24
+  manufacturer: Surgient Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: Surgient
+type: d3-device-type-assertion

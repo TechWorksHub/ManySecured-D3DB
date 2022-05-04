@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c2d087b-2a8e-423e-9656-304530cb5deb
+  macAddresses:
+  - 00:10:69:00:00:00/24
+  manufacturer: Helioss Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: HeliossC
+type: d3-device-type-assertion

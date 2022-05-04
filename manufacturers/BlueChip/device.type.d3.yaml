@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d750bd1-ad88-4912-9395-92dc55154eeb
+  macAddresses:
+  - 00:C0:46:00:00:00/24
+  manufacturer: Blue Chip Technology Ltd
+  manufacturerUri: https://device-type.com
+  name: BlueChip
+type: d3-device-type-assertion

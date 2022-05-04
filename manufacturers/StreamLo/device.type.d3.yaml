@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d5623060-be69-47bd-8cde-c79be5b7904a
+  macAddresses:
+  - 00:60:EA:00:00:00/24
+  - 18:FD:CB:D0:00:00/28
+  manufacturer: StreamLogic
+  manufacturerUri: https://device-type.com
+  name: StreamLo
+type: d3-device-type-assertion

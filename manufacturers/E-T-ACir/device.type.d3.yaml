@@ -1,0 +1,8 @@
+credentialSubject:
+  id: edb51f5a-1e42-406d-a887-bdafeb851601
+  macAddresses:
+  - 00:C3:43:00:00:00/24
+  manufacturer: E-T-A Circuit Breakers Ltd
+  manufacturerUri: https://device-type.com
+  name: E-T-ACir
+type: d3-device-type-assertion

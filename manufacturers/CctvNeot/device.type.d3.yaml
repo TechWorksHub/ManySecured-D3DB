@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d76180cb-8282-4bcc-8d80-44aa74cce827
+  macAddresses:
+  - 38:C2:BA:00:00:00/24
+  manufacturer: Cctv Neotech
+  manufacturerUri: https://device-type.com
+  name: CctvNeot
+type: d3-device-type-assertion

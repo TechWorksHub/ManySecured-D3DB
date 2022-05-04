@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8142be56-39a9-404c-9a8f-21701cd7b2ff
+  macAddresses:
+  - 08:00:80:00:00:00/24
+  manufacturer: Aes Data Inc.
+  manufacturerUri: https://device-type.com
+  name: AesData
+type: d3-device-type-assertion

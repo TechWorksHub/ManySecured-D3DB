@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4d57ac74-e8fb-4db7-a4c2-29c7d6b84ef5
+  macAddresses:
+  - 00:10:99:00:00:00/24
+  - 00:E0:2D:00:00:00/24
+  manufacturer: InnoMedia, Inc.
+  manufacturerUri: https://device-type.com
+  name: InnoMedi
+type: d3-device-type-assertion

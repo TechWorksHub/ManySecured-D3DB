@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e71addf-4b7f-485a-ad7a-ec35701ba509
+  macAddresses:
+  - 00:0C:52:00:00:00/24
+  manufacturer: Roll Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Roll
+type: d3-device-type-assertion

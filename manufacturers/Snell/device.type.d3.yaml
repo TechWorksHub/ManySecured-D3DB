@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8102b725-d0e3-40e6-9347-a38c4cabb608
+  macAddresses:
+  - 00:05:81:00:00:00/24
+  - 00:23:70:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Snell
+type: d3-device-type-assertion

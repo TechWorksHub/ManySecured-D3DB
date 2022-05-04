@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e43e1ea1-ccb3-4a41-af47-f11962a1c133
+  macAddresses:
+  - 00:50:C2:55:30:00/36
+  - 00:50:C2:D4:A0:00/36
+  - 60:B1:85:00:00:00/24
+  manufacturer: ATH system
+  manufacturerUri: https://device-type.com
+  name: ATHsyste
+type: d3-device-type-assertion

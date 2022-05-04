@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f6710492-dd31-41e9-bf62-3aad9d23e0a2
+  macAddresses:
+  - 88:ED:1C:00:00:00/24
+  manufacturer: Cudo Communication Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: CudoComm
+type: d3-device-type-assertion

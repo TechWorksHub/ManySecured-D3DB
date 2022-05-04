@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55e70245-48c6-4f49-a9e9-0784f2fc0ff2
+  macAddresses:
+  - 34:04:9E:E0:00:00/28
+  manufacturer: ND SatCom GmbH
+  manufacturerUri: https://device-type.com
+  name: NDSatCom
+type: d3-device-type-assertion

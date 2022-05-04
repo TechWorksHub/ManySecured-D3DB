@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc633ff7-a79e-4b95-8749-64573e9e6e1d
+  macAddresses:
+  - 00:A0:B1:00:00:00/24
+  manufacturer: First Virtual Corporation
+  manufacturerUri: https://device-type.com
+  name: FirstVir
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f88d7034-2f4e-4060-a525-903b25986a78
+  macAddresses:
+  - BC:66:41:B0:00:00/28
+  manufacturer: Sidus Novum Sp. z o. o.
+  manufacturerUri: https://device-type.com
+  name: SidusNov
+type: d3-device-type-assertion

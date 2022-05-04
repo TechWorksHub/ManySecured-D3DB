@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c1f175f-eb01-4f87-a511-25314bf9efbf
+  macAddresses:
+  - 00:02:1A:00:00:00/24
+  manufacturer: Zuma Networks
+  manufacturerUri: https://device-type.com
+  name: ZumaNetw
+type: d3-device-type-assertion

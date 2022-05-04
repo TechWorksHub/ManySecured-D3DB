@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dee26bd1-39e5-4a2c-80ec-40b5d6080ef7
+  macAddresses:
+  - 00:0B:96:00:00:00/24
+  manufacturer: Innotrac Diagnostics Oy
+  manufacturerUri: https://device-type.com
+  name: Innotrac
+type: d3-device-type-assertion

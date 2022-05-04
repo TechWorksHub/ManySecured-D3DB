@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a7ee6f7-eb9a-4294-80c4-0bd1c027e518
+  macAddresses:
+  - 00:08:BC:00:00:00/24
+  manufacturer: Ilevo AB
+  manufacturerUri: https://device-type.com
+  name: Ilevo
+type: d3-device-type-assertion

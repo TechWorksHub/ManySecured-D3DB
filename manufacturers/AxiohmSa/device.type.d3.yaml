@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7eeef8fc-bcaf-4724-aa06-568744eb525d
+  macAddresses:
+  - 00:18:CC:00:00:00/24
+  manufacturer: Axiohm Sas
+  manufacturerUri: https://device-type.com
+  name: AxiohmSa
+type: d3-device-type-assertion

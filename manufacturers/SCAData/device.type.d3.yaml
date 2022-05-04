@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c6716c1-402b-4e64-a6a2-7cb5b3299445
+  macAddresses:
+  - 00:50:C2:1A:00:00/36
+  manufacturer: SCA Data Systems
+  manufacturerUri: https://device-type.com
+  name: SCAData
+type: d3-device-type-assertion

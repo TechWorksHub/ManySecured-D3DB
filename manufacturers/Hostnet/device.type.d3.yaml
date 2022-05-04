@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05a2376a-57ff-4243-aa37-09120fad2fd8
+  macAddresses:
+  - 00:0B:2B:00:00:00/24
+  manufacturer: Hostnet Corporation
+  manufacturerUri: https://device-type.com
+  name: Hostnet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7aafd8e9-e2cb-4872-b4fb-cde83716becd
+  macAddresses:
+  - 00:22:DB:00:00:00/24
+  manufacturer: Translogic Corporation
+  manufacturerUri: https://device-type.com
+  name: Translog
+type: d3-device-type-assertion

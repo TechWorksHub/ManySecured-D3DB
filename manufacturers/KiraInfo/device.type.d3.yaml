@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e47052f-9c35-4505-9213-d9890e8d9e03
+  macAddresses:
+  - 00:03:65:00:00:00/24
+  manufacturer: Kira Information & Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: KiraInfo
+type: d3-device-type-assertion

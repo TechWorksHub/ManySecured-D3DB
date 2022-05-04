@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2c4868f-bc33-4dfd-a80c-888ef7512528
+  macAddresses:
+  - 28:05:2E:00:00:00/24
+  manufacturer: Dematic Corp
+  manufacturerUri: https://device-type.com
+  name: Dematic
+type: d3-device-type-assertion

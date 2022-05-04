@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9e1e294-4f24-47c3-af34-98cef9db6dfb
+  macAddresses:
+  - 00:60:98:00:00:00/24
+  manufacturer: Ht Communications
+  manufacturerUri: https://device-type.com
+  name: HtCommun
+type: d3-device-type-assertion

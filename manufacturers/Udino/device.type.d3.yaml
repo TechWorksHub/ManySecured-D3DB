@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6797b48c-d3c4-4959-af93-10f9fc032b25
+  macAddresses:
+  - 4C:E2:F1:00:00:00/24
+  manufacturer: Udino srl
+  manufacturerUri: https://device-type.com
+  name: Udino
+type: d3-device-type-assertion

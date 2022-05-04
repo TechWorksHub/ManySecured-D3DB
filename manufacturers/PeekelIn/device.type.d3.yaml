@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0af8c9de-eaac-4484-97f3-77160c1a3727
+  macAddresses:
+  - 00:50:C2:D0:30:00/36
+  manufacturer: Peekel Instruments B.V.
+  manufacturerUri: https://device-type.com
+  name: PeekelIn
+type: d3-device-type-assertion

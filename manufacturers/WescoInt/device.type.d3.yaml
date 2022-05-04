@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1bf3fdf7-44bc-4255-95fb-6b0470523d34
+  macAddresses:
+  - AC:1D:DF:A0:00:00/28
+  manufacturer: Wesco Integrated Supply
+  manufacturerUri: https://device-type.com
+  name: WescoInt
+type: d3-device-type-assertion

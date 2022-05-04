@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3c7c1f93-f5db-4d10-b29b-19d71a93f098
+  macAddresses:
+  - 2C:01:0B:00:00:00/24
+  - 78:19:2E:00:00:00/24
+  manufacturer: NASCENT Technology, LLC - RemKon
+  manufacturerUri: https://device-type.com
+  name: NASCENTT
+type: d3-device-type-assertion

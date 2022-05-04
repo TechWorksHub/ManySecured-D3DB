@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3fb5bc1-46cd-43c6-834a-f58cff1cbacd
+  macAddresses:
+  - 00:05:5C:00:00:00/24
+  manufacturer: Kowa Company, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Kowa
+type: d3-device-type-assertion

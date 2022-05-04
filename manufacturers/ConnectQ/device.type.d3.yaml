@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 937f0ff6-265d-4dca-8e02-073ebbd3302d
+  macAddresses:
+  - 3C:38:88:00:00:00/24
+  manufacturer: ConnectQuest, llc
+  manufacturerUri: https://device-type.com
+  name: ConnectQ
+type: d3-device-type-assertion

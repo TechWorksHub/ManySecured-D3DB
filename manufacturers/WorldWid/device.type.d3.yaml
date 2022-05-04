@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a00b583-67a3-4c80-bc38-99a54fb97e82
+  macAddresses:
+  - 00:02:A1:00:00:00/24
+  manufacturer: World Wide Packets
+  manufacturerUri: https://device-type.com
+  name: WorldWid
+type: d3-device-type-assertion

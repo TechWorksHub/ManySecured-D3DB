@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f488a7e0-ba3d-43fe-9494-207d77f82ae0
+  macAddresses:
+  - 00:C0:7B:00:00:00/24
+  - 00:D0:52:00:00:00/24
+  manufacturer: Ascend Communications
+  manufacturerUri: https://device-type.com
+  name: AscendCo
+type: d3-device-type-assertion

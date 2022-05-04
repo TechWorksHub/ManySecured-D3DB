@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cbe8839e-ef32-44bc-81dc-d4dcb0396132
+  macAddresses:
+  - 00:50:C2:34:D0:00/36
+  - 1C:A0:EF:B0:00:00/28
+  manufacturer: BMK professional electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: BMKprofe
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: efd1da11-ffd3-49ea-a372-aaae6f6812aa
+  macAddresses:
+  - 00:12:34:00:00:00/24
+  manufacturer: Camille Bauer
+  manufacturerUri: https://device-type.com
+  name: CamilleB
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0a0e2cb-db4a-4850-93f6-583f7a4b87cc
+  macAddresses:
+  - 00:0D:50:00:00:00/24
+  manufacturer: Galazar Networks
+  manufacturerUri: https://device-type.com
+  name: GalazarN
+type: d3-device-type-assertion

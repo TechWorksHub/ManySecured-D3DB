@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f594b64a-bc28-4949-af37-b37b36eeb280
+  macAddresses:
+  - 44:86:C1:00:00:00/24
+  manufacturer: Siemens Low Voltage & Products
+  manufacturerUri: https://device-type.com
+  name: SiemensL
+type: d3-device-type-assertion

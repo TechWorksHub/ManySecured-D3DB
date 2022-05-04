@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 865cf8c6-ca12-46ab-947a-049e9aff4631
+  macAddresses:
+  - 10:2C:EF:00:00:00/24
+  manufacturer: EMU Electronic AG
+  manufacturerUri: https://device-type.com
+  name: EMUElect
+type: d3-device-type-assertion

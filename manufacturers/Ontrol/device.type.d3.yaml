@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2f7b42d-663a-4777-8847-5b78de379e2c
+  macAddresses:
+  - B0:1B:7C:00:00:00/24
+  manufacturer: Ontrol A.S.
+  manufacturerUri: https://device-type.com
+  name: Ontrol
+type: d3-device-type-assertion

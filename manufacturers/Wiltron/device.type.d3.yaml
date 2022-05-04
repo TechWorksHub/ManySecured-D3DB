@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e14d5b3a-8092-47ee-8fee-f1859e0ebe0a
+  macAddresses:
+  - 00:E0:A0:00:00:00/24
+  manufacturer: Wiltron Co.
+  manufacturerUri: https://device-type.com
+  name: Wiltron
+type: d3-device-type-assertion

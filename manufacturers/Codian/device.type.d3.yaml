@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63f9ecb3-d1cd-4ad8-8cca-be6b8d70a329
+  macAddresses:
+  - 00:0D:7C:00:00:00/24
+  manufacturer: Codian Ltd
+  manufacturerUri: https://device-type.com
+  name: Codian
+type: d3-device-type-assertion

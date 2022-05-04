@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9cac16a-e245-4a7e-89a7-26ef6aa313ee
+  macAddresses:
+  - 00:30:4E:00:00:00/24
+  manufacturer: Bustec Production Ltd.
+  manufacturerUri: https://device-type.com
+  name: BustecPr
+type: d3-device-type-assertion

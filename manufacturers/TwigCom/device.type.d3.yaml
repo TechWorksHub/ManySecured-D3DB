@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a45783c9-5907-4989-a4b1-425e335fc275
+  macAddresses:
+  - 00:17:0C:00:00:00/24
+  manufacturer: Twig Com Ltd.
+  manufacturerUri: https://device-type.com
+  name: TwigCom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60cd5459-2e0c-4cc1-848c-55a8e74a75bf
+  macAddresses:
+  - 00:06:9F:00:00:00/24
+  manufacturer: Kuokoa Networks
+  manufacturerUri: https://device-type.com
+  name: KuokoaNe
+type: d3-device-type-assertion

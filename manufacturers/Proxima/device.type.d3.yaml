@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 661ef97b-236b-4c39-841a-421200b00fef
+  macAddresses:
+  - 00:E0:38:00:00:00/24
+  manufacturer: Proxima Corporation
+  manufacturerUri: https://device-type.com
+  name: Proxima
+type: d3-device-type-assertion

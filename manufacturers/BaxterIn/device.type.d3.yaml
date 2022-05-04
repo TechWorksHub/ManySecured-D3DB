@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 05e630cd-be41-4087-b2d7-c96130e492bf
+  macAddresses:
+  - 00:50:C2:2E:00:00/36
+  - 58:42:E4:00:00:00/24
+  - 58:46:E1:00:00:00/24
+  manufacturer: Baxter International Inc
+  manufacturerUri: https://device-type.com
+  name: BaxterIn
+type: d3-device-type-assertion

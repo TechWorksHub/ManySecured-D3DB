@@ -1,0 +1,10 @@
+credentialSubject:
+  id: f60fd5dd-cfde-47b9-aa89-88820ad58e54
+  macAddresses:
+  - 70:B3:D5:1E:70:00/36
+  - 70:B3:D5:30:20:00/36
+  - 70:B3:D5:56:70:00/36
+  manufacturer: DogWatch Inc
+  manufacturerUri: https://device-type.com
+  name: DogWatch
+type: d3-device-type-assertion

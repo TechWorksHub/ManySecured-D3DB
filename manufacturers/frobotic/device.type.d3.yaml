@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c32cf6b-116e-42d6-ae5f-5f967c574757
+  macAddresses:
+  - 78:4B:08:00:00:00/24
+  manufacturer: f.robotics acquisitions ltd
+  manufacturerUri: https://device-type.com
+  name: frobotic
+type: d3-device-type-assertion

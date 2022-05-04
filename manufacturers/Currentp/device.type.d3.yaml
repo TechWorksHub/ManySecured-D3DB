@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef6091ce-92ce-4519-870b-249e3c36c079
+  macAddresses:
+  - 8C:C6:61:00:00:00/24
+  manufacturer: Current, powered by GE
+  manufacturerUri: https://device-type.com
+  name: Currentp
+type: d3-device-type-assertion

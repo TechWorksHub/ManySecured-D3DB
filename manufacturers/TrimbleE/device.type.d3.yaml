@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 13fcb51c-6da1-4ba6-8857-da496bdd9bfc
+  macAddresses:
+  - 00:09:66:00:00:00/24
+  manufacturer: Trimble Europe Bv
+  manufacturerUri: https://device-type.com
+  name: TrimbleE
+type: d3-device-type-assertion

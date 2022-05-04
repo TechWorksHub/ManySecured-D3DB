@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 9be440ca-8441-4fe6-aeda-b8404bb6c17c
+  macAddresses:
+  - 00:02:D9:00:00:00/24
+  - 00:50:C2:A7:00:00/36
+  - 00:A0:A3:00:00:00/24
+  - 4A:67:04:00:00:00/24
+  manufacturer: Reliable Controls
+  manufacturerUri: https://device-type.com
+  name: Reliable
+type: d3-device-type-assertion

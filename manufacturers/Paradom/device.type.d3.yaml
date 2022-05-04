@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42f5f5c1-5f5d-40af-9bb4-500c01eec71d
+  macAddresses:
+  - 30:61:18:00:00:00/24
+  manufacturer: Paradom Inc.
+  manufacturerUri: https://device-type.com
+  name: Paradom
+type: d3-device-type-assertion

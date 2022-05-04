@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b5d1fa0-3678-4545-ac0e-9544735a7082
+  macAddresses:
+  - 54:E4:A9:00:00:00/24
+  manufacturer: BHR Tech GmbH
+  manufacturerUri: https://device-type.com
+  name: BHRTech
+type: d3-device-type-assertion

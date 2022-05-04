@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a4db56b-258a-41d2-bd38-610164491626
+  macAddresses:
+  - 00:0E:79:00:00:00/24
+  manufacturer: Ample Communications Inc.
+  manufacturerUri: https://device-type.com
+  name: AmpleCom
+type: d3-device-type-assertion

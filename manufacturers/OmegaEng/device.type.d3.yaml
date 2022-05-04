@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b0c2610e-8b9b-4fa1-a95c-faf12fbce5bd
+  macAddresses:
+  - 00:03:34:00:00:00/24
+  manufacturer: Omega Engineering Inc.
+  manufacturerUri: https://device-type.com
+  name: OmegaEng
+type: d3-device-type-assertion

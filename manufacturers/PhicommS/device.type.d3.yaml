@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 8caad85f-4ba1-41fb-9bb0-f83b4e4824f2
+  macAddresses:
+  - 2C:15:E1:00:00:00/24
+  - 2C:B2:1A:00:00:00/24
+  - 68:DB:54:00:00:00/24
+  - 74:7D:24:00:00:00/24
+  - 98:BB:99:00:00:00/24
+  - CC:81:DA:00:00:00/24
+  - D8:C8:E9:00:00:00/24
+  - FC:7C:02:00:00:00/24
+  manufacturer: Phicomm (Shanghai) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: PhicommS
+type: d3-device-type-assertion

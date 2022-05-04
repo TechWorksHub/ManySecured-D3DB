@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e7afaf14-4136-42aa-b139-ddd9e83c2cc3
+  macAddresses:
+  - 00:C0:AA:00:00:00/24
+  - D8:46:06:00:00:00/24
+  manufacturer: Silicon Valley Computer
+  manufacturerUri: https://device-type.com
+  name: SiliconV
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a32dfdf-7f4c-4e8d-85a2-6d5171f12fd3
+  macAddresses:
+  - 00:03:A7:00:00:00/24
+  manufacturer: Unixtar Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: UnixtarT
+type: d3-device-type-assertion

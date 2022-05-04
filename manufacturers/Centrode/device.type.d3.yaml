@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc58a462-21df-451b-a7a1-7a201e4d9ca6
+  macAddresses:
+  - 70:B3:D5:73:C0:00/36
+  - 98:6E:E8:70:00:00/28
+  manufacturer: Centro de Ingenieria y Desarrollo industrial
+  manufacturerUri: https://device-type.com
+  name: Centrode
+type: d3-device-type-assertion

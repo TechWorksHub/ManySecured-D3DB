@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 721c954b-098d-40e8-8515-5d9f0629779c
+  macAddresses:
+  - 00:12:19:00:00:00/24
+  - 00:14:8C:00:00:00/24
+  - 00:14:B4:00:00:00/24
+  - 00:25:D4:00:00:00/24
+  - 00:26:89:00:00:00/24
+  - 00:A0:21:00:00:00/24
+  - 00:C0:64:00:00:00/24
+  - 00:E0:AF:00:00:00/24
+  - 08:00:62:00:00:00/24
+  manufacturer: General Datacomm LLC
+  manufacturerUri: https://device-type.com
+  name: GeneralD
+type: d3-device-type-assertion

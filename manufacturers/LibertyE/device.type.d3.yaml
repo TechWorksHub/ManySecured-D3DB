@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 002622df-d4cc-4308-b766-c77712b3cb0d
+  macAddresses:
+  - 00:80:A4:00:00:00/24
+  manufacturer: Liberty Electronics
+  manufacturerUri: https://device-type.com
+  name: LibertyE
+type: d3-device-type-assertion

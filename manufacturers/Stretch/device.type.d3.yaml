@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91c67a97-170e-4915-bbd3-611c38acd0eb
+  macAddresses:
+  - 00:0F:45:00:00:00/24
+  manufacturer: Stretch, Inc.
+  manufacturerUri: https://device-type.com
+  name: Stretch
+type: d3-device-type-assertion

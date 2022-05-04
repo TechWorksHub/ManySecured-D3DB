@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d4663d8-e01b-4565-80e9-73aa3e6ebf24
+  macAddresses:
+  - 00:19:CC:00:00:00/24
+  manufacturer: RCG (HK) Ltd
+  manufacturerUri: https://device-type.com
+  name: RCGHK
+type: d3-device-type-assertion

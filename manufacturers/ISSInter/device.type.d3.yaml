@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c5c5448-2ba7-468b-8ee9-a39e7e5720fa
+  macAddresses:
+  - 00:50:C2:3E:B0:00/36
+  manufacturer: ISS International
+  manufacturerUri: https://device-type.com
+  name: ISSInter
+type: d3-device-type-assertion

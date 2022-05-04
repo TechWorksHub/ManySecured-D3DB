@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e9ab894-1cf7-4309-a824-b045d806c22e
+  macAddresses:
+  - 00:07:43:00:00:00/24
+  manufacturer: Chelsio Communications
+  manufacturerUri: https://device-type.com
+  name: ChelsioC
+type: d3-device-type-assertion

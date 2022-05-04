@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb63b868-707c-4e28-925d-32ccb4e23431
+  macAddresses:
+  - 00:40:97:00:00:00/24
+  manufacturer: Datex Division Of
+  manufacturerUri: https://device-type.com
+  name: DatexDiv
+type: d3-device-type-assertion

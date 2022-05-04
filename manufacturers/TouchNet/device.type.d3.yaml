@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d744ff17-89b0-4034-bdc8-b7589737fc7f
+  macAddresses:
+  - 28:85:2D:00:00:00/24
+  manufacturer: Touch Networks
+  manufacturerUri: https://device-type.com
+  name: TouchNet
+type: d3-device-type-assertion

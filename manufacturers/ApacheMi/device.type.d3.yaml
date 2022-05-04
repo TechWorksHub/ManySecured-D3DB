@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 53986fbb-1fe2-40c1-b2d5-d4f6f088cf7c
+  macAddresses:
+  - 00:0C:88:00:00:00/24
+  manufacturer: Apache Micro Peripherals, Inc.
+  manufacturerUri: https://device-type.com
+  name: ApacheMi
+type: d3-device-type-assertion

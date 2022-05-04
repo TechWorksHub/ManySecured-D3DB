@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd5627c9-4f99-4e88-815c-7cd240dd07c3
+  macAddresses:
+  - 00:E0:9D:00:00:00/24
+  manufacturer: Sarnoff Corporation
+  manufacturerUri: https://device-type.com
+  name: Sarnoff
+type: d3-device-type-assertion

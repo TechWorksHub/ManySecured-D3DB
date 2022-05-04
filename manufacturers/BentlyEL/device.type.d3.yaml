@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea36f2eb-c28b-4c44-97dd-917ab68ddeed
+  macAddresses:
+  - 20:0A:0D:D0:00:00/28
+  manufacturer: Bently & EL Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: BentlyEL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5250a12e-0b71-4d72-ba50-41f37ed1a7a1
+  macAddresses:
+  - 00:60:C5:00:00:00/24
+  manufacturer: Ancot Corp.
+  manufacturerUri: https://device-type.com
+  name: Ancot
+type: d3-device-type-assertion

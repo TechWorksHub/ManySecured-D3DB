@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3a1cd625-9370-4649-a1d4-214619288f8d
+  macAddresses:
+  - 00:80:EF:00:00:00/24
+  - 70:B3:D5:D7:00:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Rational
+type: d3-device-type-assertion

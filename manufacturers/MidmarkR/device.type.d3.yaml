@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b6604f1e-757e-4223-9c93-5b69b52e49d8
+  macAddresses:
+  - 00:45:01:00:00:00/24
+  - 78:C9:5E:00:00:00/24
+  manufacturer: Midmark RTLS
+  manufacturerUri: https://device-type.com
+  name: MidmarkR
+type: d3-device-type-assertion

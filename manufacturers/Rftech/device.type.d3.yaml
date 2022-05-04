@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1f6e9aaf-3a92-4182-84c3-3f87000564c5
+  macAddresses:
+  - 00:8B:43:00:00:00/24
+  - E8:F9:28:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Rftech
+type: d3-device-type-assertion

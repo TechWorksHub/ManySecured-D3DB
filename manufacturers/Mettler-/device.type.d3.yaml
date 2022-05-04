@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2df9fbc3-419e-4d08-80ea-06f5416b12fd
+  macAddresses:
+  - 00:10:52:00:00:00/24
+  - 00:E0:7C:00:00:00/24
+  manufacturer: Mettler-Toledo (Albstadt) Gmbh
+  manufacturerUri: https://device-type.com
+  name: Mettler-
+type: d3-device-type-assertion

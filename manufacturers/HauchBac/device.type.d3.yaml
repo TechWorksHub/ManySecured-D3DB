@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b2a25ab7-f256-4db0-8ff9-10e03decb351
+  macAddresses:
+  - 00:50:C2:70:50:00/36
+  - 88:5F:E8:50:00:00/28
+  manufacturer: Hauch & Bach ApS
+  manufacturerUri: https://device-type.com
+  name: HauchBac
+type: d3-device-type-assertion

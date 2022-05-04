@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe2f00cd-8386-458b-924b-49926e683d95
+  macAddresses:
+  - 00:50:C2:44:20:00/36
+  manufacturer: Pico Computing, Inc.
+  manufacturerUri: https://device-type.com
+  name: PicoComp
+type: d3-device-type-assertion

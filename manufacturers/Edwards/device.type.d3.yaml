@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 343ca9cb-655e-4a26-9b43-dd93d5c8688c
+  macAddresses:
+  - 00:0C:6D:00:00:00/24
+  manufacturer: Edwards Ltd.
+  manufacturerUri: https://device-type.com
+  name: Edwards
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 24294fd2-5ebc-42cf-8b6a-506a2a3692cf
+  macAddresses:
+  - 00:01:D0:00:00:00/24
+  manufacturer: VitalPoint, Inc.
+  manufacturerUri: https://device-type.com
+  name: VitalPoi
+type: d3-device-type-assertion

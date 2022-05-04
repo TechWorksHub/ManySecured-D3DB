@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 839f61d8-6290-406a-9d9c-dd2b046cd1b8
+  macAddresses:
+  - 00:00:6D:00:00:00/24
+  - 00:00:80:00:00:00/24
+  manufacturer: Cray Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: CrayComm
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 1a6a2461-cd5d-4b68-a8b1-5f1d3474e635
+  macAddresses:
+  - 70:B3:D5:18:30:00/36
+  - 70:B3:D5:A8:00:00/36
+  - F0:D7:AF:B0:00:00/28
+  manufacturer: Evco S.p.a.
+  manufacturerUri: https://device-type.com
+  name: Evco
+type: d3-device-type-assertion

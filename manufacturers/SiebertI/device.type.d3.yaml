@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03bc4d44-e8a4-4101-ad64-028d66916fcc
+  macAddresses:
+  - 40:ED:98:B0:00:00/28
+  manufacturer: Siebert Industrieelektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: SiebertI
+type: d3-device-type-assertion

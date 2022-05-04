@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aaa9327a-a664-4aca-93da-2ef233408905
+  macAddresses:
+  - 00:01:A3:00:00:00/24
+  manufacturer: Genesys Logic, Inc.
+  manufacturerUri: https://device-type.com
+  name: GenesysL
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e610a71-9b56-4fd8-925e-376e0b02da09
+  macAddresses:
+  - 00:15:5B:00:00:00/24
+  manufacturer: Sampo Corporation
+  manufacturerUri: https://device-type.com
+  name: Sampo
+type: d3-device-type-assertion

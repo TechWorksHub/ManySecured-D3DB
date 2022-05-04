@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43a298bb-2604-469d-8eeb-3f0bea02ebf8
+  macAddresses:
+  - 00:C0:B4:00:00:00/24
+  manufacturer: Myson Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: MysonTec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 926fa763-23a4-4132-85d1-46f88660d275
+  macAddresses:
+  - 00:15:AC:00:00:00/24
+  manufacturer: Capelon AB
+  manufacturerUri: https://device-type.com
+  name: Capelon
+type: d3-device-type-assertion

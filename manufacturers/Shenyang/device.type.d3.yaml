@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 0ffe3eb9-3de7-4138-b26f-c2dc93b7c254
+  macAddresses:
+  - 00:06:EE:00:00:00/24
+  - 00:26:46:00:00:00/24
+  - 00:50:C2:1D:20:00/36
+  - 70:B3:D5:47:D0:00/36
+  - 78:69:D4:00:00:00/24
+  - 94:29:0C:00:00:00/24
+  - C8:8E:D1:60:00:00/28
+  - F0:23:B9:D0:00:00/28
+  manufacturer: Shenyang Neu-era Information & Technology Stock Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Shenyang
+type: d3-device-type-assertion

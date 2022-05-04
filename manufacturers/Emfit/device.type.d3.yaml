@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fe727f5-479e-444a-81cc-1c9d6bfc35ca
+  macAddresses:
+  - 00:1C:6F:00:00:00/24
+  manufacturer: Emfit Ltd
+  manufacturerUri: https://device-type.com
+  name: Emfit
+type: d3-device-type-assertion

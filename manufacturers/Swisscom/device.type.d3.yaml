@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 10e6d8bc-0603-4259-a933-26cc342d1d16
+  macAddresses:
+  - 00:12:66:00:00:00/24
+  - 64:42:14:00:00:00/24
+  - 68:79:12:B0:00:00/28
+  manufacturer: Swisscom Hospitality Services SA
+  manufacturerUri: https://device-type.com
+  name: Swisscom
+type: d3-device-type-assertion

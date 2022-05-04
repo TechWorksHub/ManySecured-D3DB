@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 402f2be5-26c3-46ee-b13f-dc3a57a52096
+  macAddresses:
+  - 10:5B:AD:00:00:00/24
+  - A4:FC:77:00:00:00/24
+  manufacturer: Mega Well Limited
+  manufacturerUri: https://device-type.com
+  name: MegaWell
+type: d3-device-type-assertion

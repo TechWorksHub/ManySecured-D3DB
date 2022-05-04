@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 52940f62-8676-4a6c-905a-2308491071ad
+  macAddresses:
+  - 00:0E:A4:00:00:00/24
+  - 00:30:8C:00:00:00/24
+  - 00:50:84:00:00:00/24
+  - 00:E0:9E:00:00:00/24
+  manufacturer: Quantum Corp.
+  manufacturerUri: https://device-type.com
+  name: Quantum
+type: d3-device-type-assertion

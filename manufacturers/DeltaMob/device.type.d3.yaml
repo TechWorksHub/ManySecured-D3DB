@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03c26551-eb23-425b-ae72-d33f9c84b859
+  macAddresses:
+  - 30:0B:9C:00:00:00/24
+  manufacturer: Delta Mobile Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: DeltaMob
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c39b05f7-f919-4f6c-99fd-7d1e80cf5824
+  macAddresses:
+  - 70:B3:D5:2E:20:00/36
+  manufacturer: Spark Lasers
+  manufacturerUri: https://device-type.com
+  name: SparkLas
+type: d3-device-type-assertion

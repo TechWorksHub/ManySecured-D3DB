@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b8c65c7e-b642-4bda-9149-2a6d3715215f
+  macAddresses:
+  - 00:21:38:00:00:00/24
+  - 00:50:C2:15:D0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Cepheid
+type: d3-device-type-assertion

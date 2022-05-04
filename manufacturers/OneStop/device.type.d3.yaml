@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 224d2cff-da35-457f-90c7-b87c84b8c64a
+  macAddresses:
+  - 00:02:25:00:00:00/24
+  manufacturer: One Stop Systems
+  manufacturerUri: https://device-type.com
+  name: OneStop
+type: d3-device-type-assertion

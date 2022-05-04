@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f706fae9-6ff8-4bfc-a458-a3be8d0f5755
+  macAddresses:
+  - 00:B0:9A:00:00:00/24
+  manufacturer: Morrow Technologies Corp.
+  manufacturerUri: https://device-type.com
+  name: MorrowTe
+type: d3-device-type-assertion

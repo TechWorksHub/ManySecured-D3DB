@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d191c316-ff41-4dd7-9cef-db6f834d5bae
+  macAddresses:
+  - F8:2F:5B:00:00:00/24
+  manufacturer: eGauge Systems LLC
+  manufacturerUri: https://device-type.com
+  name: eGauge
+type: d3-device-type-assertion

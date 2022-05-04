@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f52550d2-ff6b-4e5c-a9e5-17b6abd6cc45
+  macAddresses:
+  - 00:12:5F:00:00:00/24
+  manufacturer: AWIND Inc.
+  manufacturerUri: https://device-type.com
+  name: AWIND
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc4318d1-d19a-4aa7-9288-ed6427a3733d
+  macAddresses:
+  - 00:06:32:00:00:00/24
+  manufacturer: Mesco Engineering GmbH
+  manufacturerUri: https://device-type.com
+  name: MescoEng
+type: d3-device-type-assertion

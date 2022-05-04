@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1eeeb21d-df4d-494b-b573-f9c420202374
+  macAddresses:
+  - 00:0A:38:00:00:00/24
+  manufacturer: Apani Networks
+  manufacturerUri: https://device-type.com
+  name: ApaniNet
+type: d3-device-type-assertion

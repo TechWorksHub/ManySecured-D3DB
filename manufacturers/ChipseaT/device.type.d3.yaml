@@ -1,0 +1,17 @@
+credentialSubject:
+  id: dc86c278-55ed-4fbe-9b3f-8b2596e2cec1
+  macAddresses:
+  - 0C:95:41:00:00:00/24
+  - 10:96:1A:00:00:00/24
+  - 28:29:47:00:00:00/24
+  - 38:1E:C7:00:00:00/24
+  - 50:FB:19:00:00:00/24
+  - 5C:CA:D3:00:00:00/24
+  - 88:22:B2:00:00:00/24
+  - C8:B2:1E:00:00:00/24
+  - D0:3E:7D:00:00:00/24
+  - E8:CB:ED:00:00:00/24
+  manufacturer: Chipsea Technologies (Shenzhen) Corp.
+  manufacturerUri: https://device-type.com
+  name: ChipseaT
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 26ee2529-1ce9-415c-ae13-bb8c0bf2e04f
+  macAddresses:
+  - 00:02:99:00:00:00/24
+  - 00:50:C2:D3:90:00/36
+  manufacturer: Apex, Inc.
+  manufacturerUri: https://device-type.com
+  name: Apex
+type: d3-device-type-assertion

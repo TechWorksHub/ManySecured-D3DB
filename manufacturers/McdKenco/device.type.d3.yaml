@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0e9ac4d-58bd-4ad1-bae8-4d35e1db3bd3
+  macAddresses:
+  - 00:20:E3:00:00:00/24
+  manufacturer: Mcd Kencom Corporation
+  manufacturerUri: https://device-type.com
+  name: McdKenco
+type: d3-device-type-assertion

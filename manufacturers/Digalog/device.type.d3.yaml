@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ca42ff5b-2ce3-4253-97b1-f2e20b7364c1
+  macAddresses:
+  - 00:40:DF:00:00:00/24
+  manufacturer: Digalog Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Digalog
+type: d3-device-type-assertion

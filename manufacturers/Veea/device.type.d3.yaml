@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bb13f046-77ea-4079-91c3-33523a656c1d
+  macAddresses:
+  - 00:76:3D:00:00:00/24
+  - D4:25:CC:B0:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Veea
+type: d3-device-type-assertion

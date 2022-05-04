@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c63cb4eb-d732-4f92-a49d-1e6ef80ef4ae
+  macAddresses:
+  - 24:CB:E7:00:00:00/24
+  manufacturer: MYK, Inc.
+  manufacturerUri: https://device-type.com
+  name: MYK
+type: d3-device-type-assertion

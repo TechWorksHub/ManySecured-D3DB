@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1ce830db-cae1-4002-9bcb-b6302789043a
+  macAddresses:
+  - 00:50:C2:36:50:00/36
+  - 40:D8:55:0D:E0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Vpg
+type: d3-device-type-assertion

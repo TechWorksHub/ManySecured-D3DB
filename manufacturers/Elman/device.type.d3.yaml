@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 865eec0c-474a-4746-9a63-63333227adf2
+  macAddresses:
+  - 00:50:C2:2C:50:00/36
+  - 70:B3:D5:B2:C0:00/36
+  manufacturer: Elman srl
+  manufacturerUri: https://device-type.com
+  name: Elman
+type: d3-device-type-assertion

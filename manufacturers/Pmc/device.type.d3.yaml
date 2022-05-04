@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 3df6766f-c1c2-4ef2-ba63-f62d2781f0d8
+  macAddresses:
+  - 00:1A:B9:00:00:00/24
+  - 00:50:C2:16:E0:00/36
+  - 00:50:C2:4E:A0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Pmc
+type: d3-device-type-assertion

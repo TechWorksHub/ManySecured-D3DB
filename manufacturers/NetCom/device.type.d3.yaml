@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02f0aed3-2a1d-460a-b103-35f6af0e828e
+  macAddresses:
+  - 00:02:DF:00:00:00/24
+  manufacturer: Net Com Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: NetCom
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2ef0b735-f2f3-4904-8cb1-2188e13dd09d
+  macAddresses:
+  - 00:50:C2:84:20:00/36
+  - 00:55:DA:90:00:00/28
+  manufacturer: Quantum Controls BV
+  manufacturerUri: https://device-type.com
+  name: QuantumC
+type: d3-device-type-assertion

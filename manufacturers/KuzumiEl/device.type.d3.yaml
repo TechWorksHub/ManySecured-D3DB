@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d167982-4236-4cbb-a008-51eaf7636950
+  macAddresses:
+  - 00:D0:DF:00:00:00/24
+  manufacturer: Kuzumi Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: KuzumiEl
+type: d3-device-type-assertion

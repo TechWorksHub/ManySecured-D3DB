@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a72692e9-ad38-473d-8049-c6503093b8f1
+  macAddresses:
+  - 84:3B:10:00:00:00/24
+  - B8:12:DA:00:00:00/24
+  manufacturer: Lvswitches Inc.
+  manufacturerUri: https://device-type.com
+  name: Lvswitch
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b9696ed-1494-4489-a835-50d41a7e40d4
+  macAddresses:
+  - 00:02:D5:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Acr
+type: d3-device-type-assertion

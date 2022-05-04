@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83b70af2-d836-4976-92ec-7715f7d7af44
+  macAddresses:
+  - 00:0F:B1:00:00:00/24
+  manufacturer: Cognio Inc.
+  manufacturerUri: https://device-type.com
+  name: Cognio
+type: d3-device-type-assertion

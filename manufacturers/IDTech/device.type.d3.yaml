@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d26bc0b2-57d8-4ae8-b811-3e38419392b2
+  macAddresses:
+  - 78:20:79:00:00:00/24
+  manufacturer: ID Tech
+  manufacturerUri: https://device-type.com
+  name: IDTech
+type: d3-device-type-assertion

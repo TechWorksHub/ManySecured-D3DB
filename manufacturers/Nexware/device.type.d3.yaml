@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60fd4996-6ca8-434d-b835-6bdba319ddfb
+  macAddresses:
+  - 00:E0:DC:00:00:00/24
+  manufacturer: Nexware Corp.
+  manufacturerUri: https://device-type.com
+  name: Nexware
+type: d3-device-type-assertion

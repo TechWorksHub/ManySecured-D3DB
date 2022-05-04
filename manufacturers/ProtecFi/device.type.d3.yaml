@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 78916d9f-7e8a-4ed7-b43b-3deaaf48f819
+  macAddresses:
+  - 00:18:AA:00:00:00/24
+  - 00:50:C2:60:00:00/36
+  manufacturer: Protec Fire Detection plc
+  manufacturerUri: https://device-type.com
+  name: ProtecFi
+type: d3-device-type-assertion

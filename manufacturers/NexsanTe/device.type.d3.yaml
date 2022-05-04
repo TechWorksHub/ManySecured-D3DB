@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e8a32bb-d511-41fd-9ee3-ae2034c9c088
+  macAddresses:
+  - 00:04:02:00:00:00/24
+  manufacturer: Nexsan Technologies, Ltd.
+  manufacturerUri: https://device-type.com
+  name: NexsanTe
+type: d3-device-type-assertion

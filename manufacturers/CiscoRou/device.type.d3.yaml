@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4474f8b3-36ca-4b06-98d9-b9edbd22abf3
+  macAddresses:
+  - 00:60:70:00:00:00/24
+  manufacturer: Cisco
+  manufacturerUri: https://device-type.com
+  name: CiscoRou
+type: d3-device-type-assertion

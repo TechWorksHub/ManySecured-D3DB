@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d95829d-e2b6-4a07-a1be-3c3597ab46e1
+  macAddresses:
+  - 00:11:3A:00:00:00/24
+  manufacturer: Shinboram
+  manufacturerUri: https://device-type.com
+  name: Shinbora
+type: d3-device-type-assertion

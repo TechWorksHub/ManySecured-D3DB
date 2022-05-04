@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89cec237-bf6a-4e99-8f11-c81fee41610b
+  macAddresses:
+  - 00:02:D3:00:00:00/24
+  manufacturer: NetBotz, Inc.
+  manufacturerUri: https://device-type.com
+  name: NetBotz
+type: d3-device-type-assertion

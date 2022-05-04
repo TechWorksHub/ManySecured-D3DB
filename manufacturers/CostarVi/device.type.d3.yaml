@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1fb3971-f880-46f4-b4d9-2ec6b0893765
+  macAddresses:
+  - A0:C2:DE:00:00:00/24
+  manufacturer: Costar Video Systems
+  manufacturerUri: https://device-type.com
+  name: CostarVi
+type: d3-device-type-assertion

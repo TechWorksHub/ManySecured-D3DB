@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95b1af68-9abd-4fce-abe7-ffc6bf611f42
+  macAddresses:
+  - 60:BA:18:00:00:00/24
+  manufacturer: nextLAP GmbH
+  manufacturerUri: https://device-type.com
+  name: nextLAP
+type: d3-device-type-assertion

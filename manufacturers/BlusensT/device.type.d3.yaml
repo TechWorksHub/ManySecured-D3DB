@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ab2f05b-a8fe-4c03-ab32-651bea5ceac5
+  macAddresses:
+  - 00:1A:AF:00:00:00/24
+  manufacturer: Blusens Technology
+  manufacturerUri: https://device-type.com
+  name: BlusensT
+type: d3-device-type-assertion

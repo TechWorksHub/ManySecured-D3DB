@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 94e14546-6a8c-46ac-b4b8-0086b511131d
+  macAddresses:
+  - 00:40:00:00:00:00/24
+  manufacturer: Pci Componentes Da Amzonia Ltd
+  manufacturerUri: https://device-type.com
+  name: PciCompo
+type: d3-device-type-assertion

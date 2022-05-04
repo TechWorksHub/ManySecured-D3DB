@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 70d04999-6804-4914-b126-3e8fafd066f9
+  macAddresses:
+  - 00:50:C2:BE:A0:00/36
+  - E8:0C:38:00:00:00/24
+  manufacturer: Daeyoung inc.
+  manufacturerUri: https://device-type.com
+  name: Daeyoung
+type: d3-device-type-assertion

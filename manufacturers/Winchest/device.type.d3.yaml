@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c350e078-6697-457b-9424-c400cbab0911
+  macAddresses:
+  - 00:21:3A:00:00:00/24
+  manufacturer: Winchester Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Winchest
+type: d3-device-type-assertion

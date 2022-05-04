@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e51dabf9-5e4b-4a38-90f7-839db42614b3
+  macAddresses:
+  - 00:09:49:00:00:00/24
+  manufacturer: Glyph Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: GlyphTec
+type: d3-device-type-assertion

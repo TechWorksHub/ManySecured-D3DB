@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8e4e3b93-9f50-4acc-a09b-ec2f9859fb0b
+  macAddresses:
+  - 00:50:C2:9D:F0:00/36
+  - 70:B3:D5:B3:70:00/36
+  manufacturer: CODEC Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: CODEC
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da33ad3f-61fc-4e2a-85d7-9e4c3e8f3216
+  macAddresses:
+  - 08:00:82:00:00:00/24
+  manufacturer: Veritas Software
+  manufacturerUri: https://device-type.com
+  name: VeritasS
+type: d3-device-type-assertion

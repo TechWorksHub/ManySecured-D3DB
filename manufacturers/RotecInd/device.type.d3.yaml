@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c9b5e25-9297-4c9e-a852-445a86660120
+  macAddresses:
+  - 00:20:34:00:00:00/24
+  manufacturer: Rotec Industrieautomation Gmbh
+  manufacturerUri: https://device-type.com
+  name: RotecInd
+type: d3-device-type-assertion

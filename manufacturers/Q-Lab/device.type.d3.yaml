@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc41a1e5-fd90-4a2b-9121-54674daa7f10
+  macAddresses:
+  - 10:BD:55:00:00:00/24
+  manufacturer: Q-Lab Corporation
+  manufacturerUri: https://device-type.com
+  name: Q-Lab
+type: d3-device-type-assertion

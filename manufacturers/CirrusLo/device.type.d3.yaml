@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f084451-31aa-4f80-8cce-955edb14168c
+  macAddresses:
+  - 00:0E:3A:00:00:00/24
+  manufacturer: Cirrus Logic
+  manufacturerUri: https://device-type.com
+  name: CirrusLo
+type: d3-device-type-assertion

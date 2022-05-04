@@ -1,0 +1,9 @@
+credentialSubject:
+  id: de2e4d40-6266-4d37-845d-696230ea79b6
+  macAddresses:
+  - 30:5D:A6:00:00:00/24
+  - 40:D8:55:0A:10:00/36
+  manufacturer: ADVALY SYSTEM Inc.
+  manufacturerUri: https://device-type.com
+  name: ADVALYSY
+type: d3-device-type-assertion

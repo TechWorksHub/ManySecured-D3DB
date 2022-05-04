@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f07b4b57-8e26-41b5-85eb-8595d6848583
+  macAddresses:
+  - 00:30:5C:00:00:00/24
+  manufacturer: SMAR Laboratories Corp.
+  manufacturerUri: https://device-type.com
+  name: SMARLabo
+type: d3-device-type-assertion

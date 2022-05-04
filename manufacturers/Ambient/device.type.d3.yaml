@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6820bdf-8b74-4b0b-a95d-c020c535f9a5
+  macAddresses:
+  - 00:15:B1:00:00:00/24
+  manufacturer: Ambient Corporation
+  manufacturerUri: https://device-type.com
+  name: Ambient
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c0f9cb9-6bd3-4046-962f-fb8e950ec659
+  macAddresses:
+  - 00:0E:BF:00:00:00/24
+  manufacturer: Remsdaq Limited
+  manufacturerUri: https://device-type.com
+  name: Remsdaq
+type: d3-device-type-assertion

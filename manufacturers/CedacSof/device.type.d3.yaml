@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ee0caf9-2df8-4334-aa09-b64277e1dfd8
+  macAddresses:
+  - 30:DE:86:00:00:00/24
+  manufacturer: Cedac Software S.r.l.
+  manufacturerUri: https://device-type.com
+  name: CedacSof
+type: d3-device-type-assertion

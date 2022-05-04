@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 25faa796-2313-4d75-9964-8018b1676405
+  macAddresses:
+  - 00:50:C2:4C:70:00/36
+  - 00:50:C2:D7:A0:00/36
+  - CC:9F:35:00:00:00/24
+  manufacturer: Transbit Sp.z o.o.
+  manufacturerUri: https://device-type.com
+  name: Transbit
+type: d3-device-type-assertion

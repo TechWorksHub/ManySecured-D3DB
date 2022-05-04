@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a2e8ecc1-c7dc-43ac-9386-2ca093db919c
+  macAddresses:
+  - 08:00:78:00:00:00/24
+  manufacturer: Accell Corporation
+  manufacturerUri: https://device-type.com
+  name: Accell
+type: d3-device-type-assertion

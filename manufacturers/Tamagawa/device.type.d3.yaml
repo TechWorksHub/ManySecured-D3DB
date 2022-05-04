@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 405235d9-1327-46f4-b729-1614145163fb
+  macAddresses:
+  - 00:50:C2:ED:40:00/36
+  - D0:C4:2F:00:00:00/24
+  manufacturer: Tamagawa Electronics Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Tamagawa
+type: d3-device-type-assertion

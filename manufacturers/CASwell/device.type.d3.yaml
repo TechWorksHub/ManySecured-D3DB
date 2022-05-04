@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40f2edc8-4cdf-4e48-9ff0-8e3661da33a0
+  macAddresses:
+  - 08:35:71:00:00:00/24
+  manufacturer: CASwell INC.
+  manufacturerUri: https://device-type.com
+  name: CASwell
+type: d3-device-type-assertion

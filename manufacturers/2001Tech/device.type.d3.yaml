@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1a2c9fa-ca62-4130-bcde-b209d5805cde
+  macAddresses:
+  - 00:11:B2:00:00:00/24
+  manufacturer: 2001 Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: 2001Tech
+type: d3-device-type-assertion

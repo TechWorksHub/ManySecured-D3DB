@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5599e676-390a-405a-b0b0-b07cab07178f
+  macAddresses:
+  - 34:38:AF:00:00:00/24
+  manufacturer: Inlab Software GmbH
+  manufacturerUri: https://device-type.com
+  name: InlabSof
+type: d3-device-type-assertion

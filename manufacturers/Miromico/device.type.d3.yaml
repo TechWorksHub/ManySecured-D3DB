@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 09459529-e54e-4d04-875e-9697756b55fc
+  macAddresses:
+  - 00:50:C2:99:A0:00/36
+  - 10:CE:45:00:00:00/24
+  manufacturer: Miromico AG
+  manufacturerUri: https://device-type.com
+  name: Miromico
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcade581-22f5-43ce-98a0-1f39c1e54da0
+  macAddresses:
+  - 00:15:3C:00:00:00/24
+  manufacturer: Kprotech Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Kprotech
+type: d3-device-type-assertion

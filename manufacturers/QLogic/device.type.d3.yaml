@@ -1,0 +1,13 @@
+credentialSubject:
+  id: a85c42d7-c59e-495b-bf35-0c8a24a0b83c
+  macAddresses:
+  - 00:0E:1E:00:00:00/24
+  - 00:1B:32:00:00:00/24
+  - 00:24:FF:00:00:00/24
+  - 00:C0:DD:00:00:00/24
+  - 00:E0:8B:00:00:00/24
+  - F4:E9:D4:00:00:00/24
+  manufacturer: QLogic Corporation
+  manufacturerUri: https://device-type.com
+  name: QLogic
+type: d3-device-type-assertion

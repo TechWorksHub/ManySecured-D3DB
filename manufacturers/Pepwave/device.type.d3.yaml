@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f44ef803-62f3-4279-99f1-71f7b17063f4
+  macAddresses:
+  - A8:C0:EA:00:00:00/24
+  manufacturer: Pepwave Limited
+  manufacturerUri: https://device-type.com
+  name: Pepwave
+type: d3-device-type-assertion

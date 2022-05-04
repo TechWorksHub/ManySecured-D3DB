@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9bbf67cc-7995-4b77-940b-333a3a94e548
+  macAddresses:
+  - 00:25:73:00:00:00/24
+  - A4:4A:D3:00:00:00/24
+  manufacturer: ST Electronics (Info-Security) Pte Ltd
+  manufacturerUri: https://device-type.com
+  name: STElectr
+type: d3-device-type-assertion

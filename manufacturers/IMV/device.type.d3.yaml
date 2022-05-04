@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4c37d1e-3e0d-4ced-ba54-64fa3b985aff
+  macAddresses:
+  - 00:17:1F:00:00:00/24
+  manufacturer: IMV Corporation
+  manufacturerUri: https://device-type.com
+  name: IMV
+type: d3-device-type-assertion

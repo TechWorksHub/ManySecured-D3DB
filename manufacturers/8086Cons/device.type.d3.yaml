@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27fb441e-95d1-4fc8-b94b-4b14679dfcd9
+  macAddresses:
+  - 00:22:82:00:00:00/24
+  manufacturer: 8086 Consultancy
+  manufacturerUri: https://device-type.com
+  name: 8086Cons
+type: d3-device-type-assertion

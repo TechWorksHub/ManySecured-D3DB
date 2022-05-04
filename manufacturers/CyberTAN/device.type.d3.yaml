@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 28747393-a3e4-497d-9ea6-b0c25de63556
+  macAddresses:
+  - 00:01:36:00:00:00/24
+  - 00:45:E2:00:00:00/24
+  - 00:90:A2:00:00:00/24
+  - 28:39:26:00:00:00/24
+  - 60:14:B3:00:00:00/24
+  - 70:25:59:00:00:00/24
+  - 78:45:61:00:00:00/24
+  - B0:FC:36:00:00:00/24
+  - C8:3D:D4:00:00:00/24
+  manufacturer: CyberTAN Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: CyberTAN
+type: d3-device-type-assertion

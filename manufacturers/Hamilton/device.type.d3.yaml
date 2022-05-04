@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 601ef430-b9fc-4872-98ad-292a40d8a98f
+  macAddresses:
+  - 00:A0:59:00:00:00/24
+  - 4C:55:85:00:00:00/24
+  manufacturer: Hamilton Hallmark
+  manufacturerUri: https://device-type.com
+  name: Hamilton
+type: d3-device-type-assertion

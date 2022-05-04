@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 54622a35-51f4-4d8c-8ad1-8c78b92ea523
+  macAddresses:
+  - A4:11:62:00:00:00/24
+  - FC:9C:98:00:00:00/24
+  manufacturer: Arlo Technology
+  manufacturerUri: https://device-type.com
+  name: ArloTech
+type: d3-device-type-assertion

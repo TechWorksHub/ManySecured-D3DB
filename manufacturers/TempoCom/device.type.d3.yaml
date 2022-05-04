@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 485381fa-3a62-4ab1-8144-1484bf572b74
+  macAddresses:
+  - C8:83:14:00:00:00/24
+  manufacturer: Tempo Communications
+  manufacturerUri: https://device-type.com
+  name: TempoCom
+type: d3-device-type-assertion

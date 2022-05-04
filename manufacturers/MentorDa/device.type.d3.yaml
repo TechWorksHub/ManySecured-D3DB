@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d2d325b-6917-4fbc-aba9-cbb9c6158296
+  macAddresses:
+  - 00:07:8A:00:00:00/24
+  manufacturer: Mentor Data System Inc.
+  manufacturerUri: https://device-type.com
+  name: MentorDa
+type: d3-device-type-assertion

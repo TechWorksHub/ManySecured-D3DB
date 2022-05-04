@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fba6c222-d255-4347-9d5f-d6aa651f5595
+  macAddresses:
+  - 00:0A:D6:00:00:00/24
+  manufacturer: BeamReach Networks
+  manufacturerUri: https://device-type.com
+  name: BeamReac
+type: d3-device-type-assertion

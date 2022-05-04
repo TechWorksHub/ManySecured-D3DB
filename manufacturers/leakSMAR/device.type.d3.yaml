@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee33450c-7c77-4a12-ba34-5d347afbd9b5
+  macAddresses:
+  - A4:ED:43:C0:00:00/28
+  manufacturer: leakSMART
+  manufacturerUri: https://device-type.com
+  name: leakSMAR
+type: d3-device-type-assertion

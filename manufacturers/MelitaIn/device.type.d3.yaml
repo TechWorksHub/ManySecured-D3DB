@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ade64e81-a7b8-4bdd-bedf-0dbec5936fce
+  macAddresses:
+  - 00:E0:30:00:00:00/24
+  manufacturer: Melita International Corp.
+  manufacturerUri: https://device-type.com
+  name: MelitaIn
+type: d3-device-type-assertion

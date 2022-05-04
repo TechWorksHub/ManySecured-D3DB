@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 188ea721-154c-4d71-80ac-4e627fc02bc6
+  macAddresses:
+  - 70:76:DD:00:00:00/24
+  manufacturer: OxyGuard Internation A/S
+  manufacturerUri: https://device-type.com
+  name: OxyGuard
+type: d3-device-type-assertion

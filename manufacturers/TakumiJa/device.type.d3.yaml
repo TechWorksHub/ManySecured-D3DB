@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2472ee22-fec9-4e11-97ef-acb43b88a135
+  macAddresses:
+  - 98:DD:5B:00:00:00/24
+  - D4:25:CC:90:00:00/28
+  manufacturer: Takumi Japan Ltd
+  manufacturerUri: https://device-type.com
+  name: TakumiJa
+type: d3-device-type-assertion

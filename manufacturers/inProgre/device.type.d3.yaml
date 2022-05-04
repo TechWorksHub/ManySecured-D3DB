@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8acf83c-b35b-4332-96b8-d8404e1923d5
+  macAddresses:
+  - 00:0E:8D:00:00:00/24
+  manufacturer: Systems in Progress Holding GmbH
+  manufacturerUri: https://device-type.com
+  name: inProgre
+type: d3-device-type-assertion

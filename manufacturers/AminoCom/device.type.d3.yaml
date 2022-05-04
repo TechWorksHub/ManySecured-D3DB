@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5e28c761-172b-4333-9041-e21c8846fc4b
+  macAddresses:
+  - 00:02:02:00:00:00/24
+  - 5C:0F:FB:00:00:00/24
+  manufacturer: Amino Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: AminoCom
+type: d3-device-type-assertion

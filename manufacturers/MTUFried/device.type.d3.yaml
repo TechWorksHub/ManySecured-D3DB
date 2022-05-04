@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f213ee7b-4cfa-4f6f-9eea-270658711817
+  macAddresses:
+  - 00:0E:21:00:00:00/24
+  manufacturer: MTU Friedrichshafen GmbH
+  manufacturerUri: https://device-type.com
+  name: MTUFried
+type: d3-device-type-assertion

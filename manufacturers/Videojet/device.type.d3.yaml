@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f07d52f-160c-4a37-877a-b65223fa7bca
+  macAddresses:
+  - 00:50:6D:00:00:00/24
+  manufacturer: Videojet Systems
+  manufacturerUri: https://device-type.com
+  name: Videojet
+type: d3-device-type-assertion

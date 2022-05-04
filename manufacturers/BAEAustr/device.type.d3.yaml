@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 256ff31b-b4ef-4e8f-ba61-931e490972e9
+  macAddresses:
+  - 00:90:25:00:00:00/24
+  manufacturer: BAE Systems Australia (Electronic Systems) Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: BAEAustr
+type: d3-device-type-assertion

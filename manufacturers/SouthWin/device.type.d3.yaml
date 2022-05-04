@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 64989bb5-b0d2-410f-920c-6b1e2980c455
+  macAddresses:
+  - 00:0E:16:00:00:00/24
+  - 00:50:C2:1F:D0:00/36
+  manufacturer: SouthWing S.L.
+  manufacturerUri: https://device-type.com
+  name: SouthWin
+type: d3-device-type-assertion

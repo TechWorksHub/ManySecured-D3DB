@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6ec200e-d0f9-4d81-96a7-b902b92584d1
+  macAddresses:
+  - 98:A4:0E:00:00:00/24
+  manufacturer: Snap, Inc.
+  manufacturerUri: https://device-type.com
+  name: Snap
+type: d3-device-type-assertion

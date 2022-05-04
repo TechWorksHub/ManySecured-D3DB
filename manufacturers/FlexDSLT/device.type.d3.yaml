@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a12ec04-84f4-460f-9529-ab8f68715682
+  macAddresses:
+  - 00:0F:D9:00:00:00/24
+  manufacturer: FlexDSL Telecommunications AG
+  manufacturerUri: https://device-type.com
+  name: FlexDSLT
+type: d3-device-type-assertion

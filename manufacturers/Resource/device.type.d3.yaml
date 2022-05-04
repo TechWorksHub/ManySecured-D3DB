@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17ebf49f-be8c-4404-8938-db0f478d17ca
+  macAddresses:
+  - 00:05:BC:00:00:00/24
+  - 00:08:6F:00:00:00/24
+  manufacturer: Resource Data Management Ltd
+  manufacturerUri: https://device-type.com
+  name: Resource
+type: d3-device-type-assertion

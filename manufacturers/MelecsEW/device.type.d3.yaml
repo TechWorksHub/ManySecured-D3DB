@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 598a3b38-ea43-4965-b39d-770843d4d812
+  macAddresses:
+  - 70:B3:D5:70:40:00/36
+  - 70:B3:D5:E8:A0:00/36
+  manufacturer: Melecs EWS GmbH
+  manufacturerUri: https://device-type.com
+  name: MelecsEW
+type: d3-device-type-assertion

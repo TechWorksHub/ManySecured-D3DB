@@ -1,0 +1,21 @@
+credentialSubject:
+  id: c091fc69-5f96-4d1c-9846-fa7ed140e78c
+  macAddresses:
+  - 04:F8:F8:00:00:00/24
+  - 14:44:8F:00:00:00/24
+  - 1C:EA:0B:00:00:00/24
+  - 34:EF:B6:00:00:00/24
+  - 3C:2C:99:00:00:00/24
+  - 68:21:5F:00:00:00/24
+  - 80:A2:35:00:00:00/24
+  - 8C:EA:1B:00:00:00/24
+  - 90:3C:B3:00:00:00/24
+  - 98:19:2C:00:00:00/24
+  - A8:2B:B5:00:00:00/24
+  - B8:6A:97:00:00:00/24
+  - CC:37:AB:00:00:00/24
+  - F8:8E:A1:00:00:00/24
+  manufacturer: Edgecore Networks Corporation
+  manufacturerUri: https://device-type.com
+  name: Edgecore
+type: d3-device-type-assertion

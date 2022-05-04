@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cfc8b28-256f-4987-8b26-a58c2e4d1f6b
+  macAddresses:
+  - 00:40:6D:00:00:00/24
+  manufacturer: Lanco, Inc.
+  manufacturerUri: https://device-type.com
+  name: Lanco
+type: d3-device-type-assertion

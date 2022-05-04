@@ -1,0 +1,11 @@
+credentialSubject:
+  id: d9e4f7af-90c3-4558-bbb0-ec698f5bd808
+  macAddresses:
+  - 18:00:DB:00:00:00/24
+  - 58:A8:7B:00:00:00/24
+  - 5C:75:AF:00:00:00/24
+  - F0:51:EA:00:00:00/24
+  manufacturer: Fitbit Inc.
+  manufacturerUri: https://device-type.com
+  name: Fitbit
+type: d3-device-type-assertion

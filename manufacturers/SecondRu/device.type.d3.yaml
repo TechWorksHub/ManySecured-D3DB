@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df042301-3ddf-46b3-8d35-378d98eabbf7
+  macAddresses:
+  - 00:12:3C:00:00:00/24
+  manufacturer: Second Rule LLC
+  manufacturerUri: https://device-type.com
+  name: SecondRu
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ffe7270d-0511-44eb-adc6-afb46097c55f
+  macAddresses:
+  - 50:A4:D0:00:00:00/28
+  - 50:DE:19:30:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Traxens
+type: d3-device-type-assertion

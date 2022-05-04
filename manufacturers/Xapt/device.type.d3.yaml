@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ee752ab-54ef-4694-9287-19a7e03820b5
+  macAddresses:
+  - 80:93:93:00:00:00/24
+  manufacturer: Xapt GmbH
+  manufacturerUri: https://device-type.com
+  name: Xapt
+type: d3-device-type-assertion

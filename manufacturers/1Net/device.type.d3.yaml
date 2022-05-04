@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65595d15-bad8-42b2-b554-a263631f67a8
+  macAddresses:
+  - 00:30:70:00:00:00/24
+  manufacturer: 1Net Corporation
+  manufacturerUri: https://device-type.com
+  name: 1Net
+type: d3-device-type-assertion

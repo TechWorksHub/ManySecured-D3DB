@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04264c64-caec-401b-8c1f-a150595e1a0e
+  macAddresses:
+  - 00:20:3C:00:00:00/24
+  manufacturer: Eurotime Ab
+  manufacturerUri: https://device-type.com
+  name: Eurotime
+type: d3-device-type-assertion

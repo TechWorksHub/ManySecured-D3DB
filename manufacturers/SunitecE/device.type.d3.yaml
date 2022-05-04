@@ -1,0 +1,19 @@
+credentialSubject:
+  id: c5ac6024-2002-4a99-b352-bfb6cd585269
+  macAddresses:
+  - 00:1D:DF:00:00:00/24
+  - 00:42:79:00:00:00/24
+  - 04:21:44:00:00:00/24
+  - 0C:A6:94:00:00:00/24
+  - 20:64:DE:00:00:00/24
+  - 6C:47:60:00:00:00/24
+  - 78:5E:A2:00:00:00/24
+  - 98:52:3D:00:00:00/24
+  - B8:69:C2:00:00:00/24
+  - B8:D5:0B:00:00:00/24
+  - F8:DF:15:00:00:00/24
+  - FC:A8:9A:00:00:00/24
+  manufacturer: Sunitec Enterprise Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: SunitecE
+type: d3-device-type-assertion

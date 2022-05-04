@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 52844053-9fcc-48b5-8392-b90305eb9032
+  macAddresses:
+  - 00:30:C7:00:00:00/24
+  - 70:B3:D5:11:80:00/36
+  manufacturer: Macromate Corp.
+  manufacturerUri: https://device-type.com
+  name: Macromat
+type: d3-device-type-assertion

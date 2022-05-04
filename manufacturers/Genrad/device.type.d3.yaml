@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5c08f775-562c-4a13-8f4f-18dd21b46048
+  macAddresses:
+  - 00:50:2B:00:00:00/24
+  - 08:00:65:00:00:00/24
+  manufacturer: Genrad Ltd.
+  manufacturerUri: https://device-type.com
+  name: Genrad
+type: d3-device-type-assertion

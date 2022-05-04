@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d86315c0-00a0-4e98-98db-544353ef8ac8
+  macAddresses:
+  - B0:75:0C:00:00:00/24
+  manufacturer: QA Cafe
+  manufacturerUri: https://device-type.com
+  name: QACafe
+type: d3-device-type-assertion

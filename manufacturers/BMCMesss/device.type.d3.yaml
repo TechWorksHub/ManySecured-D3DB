@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5161b0c7-e447-484a-af7e-b68bd59d82b5
+  macAddresses:
+  - 00:50:C2:0A:D0:00/36
+  - 18:A5:9C:E0:00:00/28
+  manufacturer: BMC Messsysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: BMCMesss
+type: d3-device-type-assertion

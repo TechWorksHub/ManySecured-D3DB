@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a985c56-81f2-4a3e-98c7-deeb9b41b1e1
+  macAddresses:
+  - 60:AC:C8:00:00:00/24
+  manufacturer: KunTeng Inc.
+  manufacturerUri: https://device-type.com
+  name: KunTeng
+type: d3-device-type-assertion

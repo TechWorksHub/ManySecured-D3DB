@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fa3e05f2-ee01-41cb-98b0-f64da3909273
+  macAddresses:
+  - 00:07:9D:00:00:00/24
+  manufacturer: Musashi Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Musashi
+type: d3-device-type-assertion

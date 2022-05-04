@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c478fd70-92f0-4f95-b0e5-2f558bd33e5a
+  macAddresses:
+  - E0:5A:9F:90:00:00/28
+  manufacturer: Gemalto "Document Readers"
+  manufacturerUri: https://device-type.com
+  name: GemaltoD
+type: d3-device-type-assertion

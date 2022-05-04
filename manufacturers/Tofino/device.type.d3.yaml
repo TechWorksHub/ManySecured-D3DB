@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1cd130d6-8362-4873-b8f0-0e9f9bcb0aa0
+  macAddresses:
+  - 70:B3:D5:83:80:00/36
+  - F8:1D:78:D0:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Tofino
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be24182f-1099-4f96-a9d3-45a8c5f1559b
+  macAddresses:
+  - 00:A0:82:00:00:00/24
+  manufacturer: Nkt Elektronik A/S
+  manufacturerUri: https://device-type.com
+  name: NktElekt
+type: d3-device-type-assertion

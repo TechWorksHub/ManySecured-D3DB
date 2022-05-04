@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a73f93a4-87b2-42e3-8048-ce8e1d27f498
+  macAddresses:
+  - 00:25:01:00:00:00/24
+  - 00:50:C2:24:C0:00/36
+  manufacturer: JSC "Supertel"
+  manufacturerUri: https://device-type.com
+  name: Supertel
+type: d3-device-type-assertion

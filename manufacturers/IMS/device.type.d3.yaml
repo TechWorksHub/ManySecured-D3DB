@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b0ca5dd-e5b6-41bd-8430-c26e7176a88c
+  macAddresses:
+  - EC:FA:AA:00:00:00/24
+  manufacturer: The IMS Company
+  manufacturerUri: https://device-type.com
+  name: IMS
+type: d3-device-type-assertion

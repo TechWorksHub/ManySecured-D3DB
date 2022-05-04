@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77b38dde-ca91-4b53-b90d-eb6730281c55
+  macAddresses:
+  - 00:15:B3:00:00:00/24
+  manufacturer: Caretech AB
+  manufacturerUri: https://device-type.com
+  name: Caretech
+type: d3-device-type-assertion

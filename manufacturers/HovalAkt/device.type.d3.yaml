@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16bdd900-a2e8-44eb-bc0d-30631b32bd4f
+  macAddresses:
+  - 34:E3:DA:00:00:00/24
+  manufacturer: Hoval Aktiengesellschaft
+  manufacturerUri: https://device-type.com
+  name: HovalAkt
+type: d3-device-type-assertion

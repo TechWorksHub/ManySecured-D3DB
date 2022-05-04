@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 934dd9ce-2c45-4bb2-b29c-910fc8946551
+  macAddresses:
+  - 34:00:8A:20:00:00/28
+  manufacturer: RPE "Monitor"
+  manufacturerUri: https://device-type.com
+  name: RPEMonit
+type: d3-device-type-assertion

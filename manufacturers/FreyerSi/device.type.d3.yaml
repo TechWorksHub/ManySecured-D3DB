@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eaca1767-bf7f-4229-9181-efeda35759c9
+  macAddresses:
+  - 00:0A:58:00:00:00/24
+  manufacturer: Freyer & Siegel Elektronik GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: FreyerSi
+type: d3-device-type-assertion

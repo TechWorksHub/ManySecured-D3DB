@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa80b78a-8522-42fd-a7f5-53859a800cc0
+  macAddresses:
+  - 00:10:5A:00:00:00/24
+  manufacturer: 3Com
+  manufacturerUri: https://device-type.com
+  name: 3comFast
+type: d3-device-type-assertion

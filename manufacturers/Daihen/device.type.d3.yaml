@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cf8d158-61ca-4b1f-bf81-a23c2e2ce2fb
+  macAddresses:
+  - 00:07:4B:00:00:00/24
+  manufacturer: Daihen Corporation
+  manufacturerUri: https://device-type.com
+  name: Daihen
+type: d3-device-type-assertion

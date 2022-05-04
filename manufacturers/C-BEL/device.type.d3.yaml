@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41bbef02-503a-4820-80ad-161b51990e87
+  macAddresses:
+  - 00:1D:DB:00:00:00/24
+  manufacturer: C-BEL Corporation
+  manufacturerUri: https://device-type.com
+  name: C-BEL
+type: d3-device-type-assertion

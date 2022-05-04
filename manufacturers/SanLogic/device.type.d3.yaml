@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ced944c6-ddb6-4273-902f-f496c7b8508b
+  macAddresses:
+  - 6C:90:B1:00:00:00/24
+  manufacturer: SanLogic Inc
+  manufacturerUri: https://device-type.com
+  name: SanLogic
+type: d3-device-type-assertion

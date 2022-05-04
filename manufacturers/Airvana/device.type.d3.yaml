@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1d51c59-5069-4a10-8d66-ee868f4cd8e8
+  macAddresses:
+  - 00:05:B9:00:00:00/24
+  manufacturer: Airvana, Inc.
+  manufacturerUri: https://device-type.com
+  name: Airvana
+type: d3-device-type-assertion

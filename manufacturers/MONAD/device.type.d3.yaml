@@ -1,0 +1,8 @@
+credentialSubject:
+  id: beead529-bbfe-4278-ab13-608c3f499827
+  macAddresses:
+  - 70:A8:4C:00:00:00/24
+  manufacturer: MONAD., Inc.
+  manufacturerUri: https://device-type.com
+  name: MONAD
+type: d3-device-type-assertion

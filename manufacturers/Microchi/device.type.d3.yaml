@@ -1,0 +1,20 @@
+credentialSubject:
+  id: bca207e2-38be-4ae1-98fa-2e0f2b90167b
+  macAddresses:
+  - 00:04:A3:00:00:00/24
+  - 00:1E:C0:00:00:00/24
+  - 04:91:62:00:00:00/24
+  - 54:10:EC:00:00:00/24
+  - 60:8A:10:00:00:00/24
+  - 68:27:19:00:00:00/24
+  - 70:B3:D5:77:F0:00/36
+  - 80:1F:12:00:00:00/24
+  - 80:34:28:00:00:00/24
+  - 9C:95:6E:00:00:00/24
+  - D8:80:39:00:00:00/24
+  - E8:EB:1B:00:00:00/24
+  - FC:0F:E7:00:00:00/24
+  manufacturer: Microchip Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: Microchi
+type: d3-device-type-assertion

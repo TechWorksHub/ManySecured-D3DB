@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 6da96578-9ba4-47ed-afde-d6b90e2e5846
+  macAddresses:
+  - 00:50:C2:AA:B0:00/36
+  - 40:D8:55:06:B0:00/36
+  - 70:B3:D5:1F:D0:00/36
+  - 70:B3:D5:35:60:00/36
+  - 70:B3:D5:3C:D0:00/36
+  - 70:B3:D5:55:E0:00/36
+  - 70:B3:D5:D9:70:00/36
+  - 70:B3:D5:F1:60:00/36
+  - 8C:1F:64:2C:80:00/36
+  manufacturer: "BRS Sistemas Eletr\xF4nicos"
+  manufacturerUri: https://device-type.com
+  name: BRSSiste
+type: d3-device-type-assertion

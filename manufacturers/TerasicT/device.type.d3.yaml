@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5eda829-a13f-4818-9d62-ca598c7dd227
+  macAddresses:
+  - 1C:76:CA:00:00:00/24
+  manufacturer: Terasic Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: TerasicT
+type: d3-device-type-assertion

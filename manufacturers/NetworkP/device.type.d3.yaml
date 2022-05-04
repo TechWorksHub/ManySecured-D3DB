@@ -1,0 +1,12 @@
+credentialSubject:
+  id: da32b2bb-f94e-40c5-bff8-0c7b8512fb75
+  macAddresses:
+  - 00:05:0C:00:00:00/24
+  - 00:80:20:00:00:00/24
+  - 00:80:26:00:00:00/24
+  - 00:80:D8:00:00:00/24
+  - 00:C0:54:00:00:00/24
+  manufacturer: Network Photonics, Inc.
+  manufacturerUri: https://device-type.com
+  name: NetworkP
+type: d3-device-type-assertion

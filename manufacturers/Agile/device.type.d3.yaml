@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad868c96-894b-45bb-b62b-7128442b1a48
+  macAddresses:
+  - 00:0B:0C:00:00:00/24
+  manufacturer: Agile Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Agile
+type: d3-device-type-assertion

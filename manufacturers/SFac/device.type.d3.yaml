@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 776190bd-c9ce-46cc-afe8-fce2f69908b8
+  macAddresses:
+  - 44:22:F1:00:00:00/24
+  manufacturer: S.Fac, Inc
+  manufacturerUri: https://device-type.com
+  name: SFac
+type: d3-device-type-assertion

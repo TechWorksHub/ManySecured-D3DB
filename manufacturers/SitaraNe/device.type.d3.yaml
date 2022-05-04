@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7de45b08-d441-4a90-8647-a8fc0da0e2cd
+  macAddresses:
+  - 00:01:AC:00:00:00/24
+  manufacturer: Sitara Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: SitaraNe
+type: d3-device-type-assertion

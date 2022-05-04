@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cf3f362-5110-464c-838b-0c92a3563c7e
+  macAddresses:
+  - 0C:1C:20:00:00:00/24
+  manufacturer: Kakao Corp
+  manufacturerUri: https://device-type.com
+  name: Kakao
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4110d83-9ff6-45a7-91e6-198f225fc24b
+  macAddresses:
+  - 00:24:3D:00:00:00/24
+  manufacturer: Emerson Appliance Motors and Controls
+  manufacturerUri: https://device-type.com
+  name: EmersonA
+type: d3-device-type-assertion

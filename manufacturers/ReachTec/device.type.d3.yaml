@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 14cdf5ab-823c-4d57-a540-57f49826263b
+  macAddresses:
+  - 00:50:C2:F5:70:00/36
+  - 30:68:8C:00:00:00/24
+  manufacturer: Reach Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: ReachTec
+type: d3-device-type-assertion

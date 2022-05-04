@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1c55e8a9-8d22-4370-b7e4-3a846de3c8fe
+  macAddresses:
+  - 00:50:C2:49:30:00/36
+  - 1C:87:76:E0:00:00/28
+  manufacturer: Artis GmbH
+  manufacturerUri: https://device-type.com
+  name: Artis
+type: d3-device-type-assertion

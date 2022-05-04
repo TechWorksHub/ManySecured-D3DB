@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16f00be8-0b0e-4a12-9dc4-d94c331bb85d
+  macAddresses:
+  - 00:09:EF:00:00:00/24
+  manufacturer: Vocera Communications
+  manufacturerUri: https://device-type.com
+  name: VoceraCo
+type: d3-device-type-assertion

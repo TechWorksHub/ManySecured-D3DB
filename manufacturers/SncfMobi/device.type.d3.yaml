@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 596051e3-75eb-4647-9bc6-87ae2cd48993
+  macAddresses:
+  - EC:F6:BD:00:00:00/24
+  manufacturer: "Sncf Mobilit\xE9s"
+  manufacturerUri: https://device-type.com
+  name: SncfMobi
+type: d3-device-type-assertion

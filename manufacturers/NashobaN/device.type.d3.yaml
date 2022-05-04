@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b686b2f4-c897-4c2b-a69c-1ada6d4a33ef
+  macAddresses:
+  - 00:A0:EE:00:00:00/24
+  manufacturer: Nashoba Networks
+  manufacturerUri: https://device-type.com
+  name: NashobaN
+type: d3-device-type-assertion

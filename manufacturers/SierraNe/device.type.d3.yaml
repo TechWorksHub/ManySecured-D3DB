@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2feb0ff5-9702-4331-9c27-aaab69df48ab
+  macAddresses:
+  - 70:B3:D5:25:20:00/36
+  - 70:B3:D5:33:90:00/36
+  manufacturer: Sierra Nevada Corporation
+  manufacturerUri: https://device-type.com
+  name: SierraNe
+type: d3-device-type-assertion

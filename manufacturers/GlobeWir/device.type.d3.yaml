@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a3fa127b-f700-4792-bb33-f44391a0112a
+  macAddresses:
+  - 00:50:C2:29:D0:00/36
+  - 00:50:C2:C0:90:00/36
+  manufacturer: Globe Wireless
+  manufacturerUri: https://device-type.com
+  name: GlobeWir
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd098f91-4809-4c2a-938f-b5ff8400b666
+  macAddresses:
+  - 00:05:CB:00:00:00/24
+  manufacturer: ROIS Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: ROISTech
+type: d3-device-type-assertion

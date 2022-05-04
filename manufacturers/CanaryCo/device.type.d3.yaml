@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 520ca54f-b7ae-4ec0-8da7-b5d435a8ee1d
+  macAddresses:
+  - 00:C0:FA:00:00:00/24
+  - 7C:70:BC:50:00:00/28
+  - D8:42:E2:00:00:00/24
+  manufacturer: Canary Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: CanaryCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5df4de7c-46d6-4292-889d-676e37656c68
+  macAddresses:
+  - B4:D1:35:00:00:00/24
+  manufacturer: Cloudistics
+  manufacturerUri: https://device-type.com
+  name: Cloudist
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 938be53e-681d-434c-b245-c12137babd01
+  macAddresses:
+  - 00:50:C2:7C:50:00/36
+  - 48:65:EE:70:00:00/28
+  manufacturer: Venture Research Inc.
+  manufacturerUri: https://device-type.com
+  name: VentureR
+type: d3-device-type-assertion

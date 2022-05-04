@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 94f99326-87fd-4242-a530-a14b0f14cb97
+  macAddresses:
+  - 70:69:79:B0:00:00/28
+  - 70:B3:D5:87:B0:00/36
+  manufacturer: Liquid Instruments Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: LiquidIn
+type: d3-device-type-assertion

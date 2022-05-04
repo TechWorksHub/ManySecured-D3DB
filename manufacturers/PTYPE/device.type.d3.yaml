@@ -1,0 +1,10 @@
+credentialSubject:
+  id: bcac446f-67bf-4545-a11d-82f66e626083
+  macAddresses:
+  - 70:B3:D5:69:E0:00/36
+  - 70:B3:D5:6B:00:00/36
+  - 8C:C8:F4:B0:00:00/28
+  manufacturer: PTYPE Co., LTD.
+  manufacturerUri: https://device-type.com
+  name: PTYPE
+type: d3-device-type-assertion

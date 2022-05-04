@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63fce47d-c89b-4076-b87d-8e903b348eda
+  macAddresses:
+  - 00:11:40:00:00:00/24
+  manufacturer: Nanometrics Inc.
+  manufacturerUri: https://device-type.com
+  name: Nanometr
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c377952-30b5-4130-bacc-9de85f598409
+  macAddresses:
+  - 00:0B:3D:00:00:00/24
+  manufacturer: CONTAL OK Ltd.
+  manufacturerUri: https://device-type.com
+  name: CONTALOK
+type: d3-device-type-assertion

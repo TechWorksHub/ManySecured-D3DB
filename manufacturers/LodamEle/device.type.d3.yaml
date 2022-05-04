@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 517a24ea-81a6-4da8-8cd6-47640d644e65
+  macAddresses:
+  - 00:1F:79:00:00:00/24
+  manufacturer: Lodam Electronics A/S
+  manufacturerUri: https://device-type.com
+  name: LodamEle
+type: d3-device-type-assertion

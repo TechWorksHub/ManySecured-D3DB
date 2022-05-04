@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88f9216f-0022-4a76-92b2-53550d412214
+  macAddresses:
+  - C4:EB:E3:00:00:00/24
+  manufacturer: Rrcn Sas
+  manufacturerUri: https://device-type.com
+  name: RrcnSas
+type: d3-device-type-assertion

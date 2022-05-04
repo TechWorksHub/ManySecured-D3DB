@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4bcb338-baa4-4b7f-9478-faf015bef00b
+  macAddresses:
+  - 00:50:C2:75:A0:00/36
+  manufacturer: Gaisler Research AB
+  manufacturerUri: https://device-type.com
+  name: GaislerR
+type: d3-device-type-assertion

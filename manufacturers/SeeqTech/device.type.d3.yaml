@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd8aff81-96ba-4e2b-a6cb-b3c0093c0c1c
+  macAddresses:
+  - 00:A0:7D:00:00:00/24
+  manufacturer: Seeq Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: SeeqTech
+type: d3-device-type-assertion

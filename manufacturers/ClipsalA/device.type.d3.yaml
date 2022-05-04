@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80072532-59cb-4349-a466-55d8670c141d
+  macAddresses:
+  - 00:17:DD:00:00:00/24
+  manufacturer: Clipsal Australia
+  manufacturerUri: https://device-type.com
+  name: ClipsalA
+type: d3-device-type-assertion

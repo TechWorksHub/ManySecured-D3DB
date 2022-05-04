@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 81fd6d7b-2829-4b50-9fb6-f0c2ad1994f5
+  macAddresses:
+  - 50:2E:CE:00:00:00/24
+  manufacturer: Asahi Electronics Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: AsahiEle
+type: d3-device-type-assertion

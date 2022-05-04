@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef3830a2-cca5-4595-9b0b-c5b3b316824e
+  macAddresses:
+  - 00:08:98:00:00:00/24
+  manufacturer: Gigabit Optics Corporation
+  manufacturerUri: https://device-type.com
+  name: GigabitO
+type: d3-device-type-assertion

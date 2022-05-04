@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e63beb0d-dd5e-4070-b5e4-d862f3456451
+  macAddresses:
+  - 24:C8:6E:00:00:00/24
+  manufacturer: Chaney Instrument Co.
+  manufacturerUri: https://device-type.com
+  name: ChaneyIn
+type: d3-device-type-assertion

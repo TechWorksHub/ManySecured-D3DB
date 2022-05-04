@@ -1,0 +1,13 @@
+credentialSubject:
+  id: a0a2d3b0-644b-42b0-b055-ec752b16ac43
+  macAddresses:
+  - 00:17:2B:00:00:00/24
+  - 00:50:C2:7A:E0:00/36
+  - 00:50:C2:EB:E0:00/36
+  - 44:6F:D8:80:00:00/28
+  - 70:B3:D5:19:B0:00/36
+  - 70:B3:D5:A1:F0:00/36
+  manufacturer: Global Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: GlobalTe
+type: d3-device-type-assertion

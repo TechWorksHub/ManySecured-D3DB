@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ec023315-b47b-4309-8cbe-b02386c0b51e
+  macAddresses:
+  - 00:AE:CD:00:00:00/24
+  - 04:90:81:00:00:00/24
+  manufacturer: Pensando Systems
+  manufacturerUri: https://device-type.com
+  name: Pensando
+type: d3-device-type-assertion

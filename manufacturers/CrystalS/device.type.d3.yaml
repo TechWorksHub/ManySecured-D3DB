@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d49e7c35-0ef3-4ca2-bf26-7844b9b1fd52
+  macAddresses:
+  - 00:60:11:00:00:00/24
+  manufacturer: Crystal Semiconductor Corp.
+  manufacturerUri: https://device-type.com
+  name: CrystalS
+type: d3-device-type-assertion

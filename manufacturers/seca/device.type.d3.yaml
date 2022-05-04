@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab0349c0-7fae-419e-8e7f-7c7c772bdb0d
+  macAddresses:
+  - 28:A6:AC:00:00:00/24
+  manufacturer: seca gmbh & co. kg
+  manufacturerUri: https://device-type.com
+  name: seca
+type: d3-device-type-assertion

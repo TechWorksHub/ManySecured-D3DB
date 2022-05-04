@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ea695c6-046a-44df-813b-894baff7c8ee
+  macAddresses:
+  - 00:24:A3:00:00:00/24
+  manufacturer: Sonim Technologies Inc
+  manufacturerUri: https://device-type.com
+  name: SonimTec
+type: d3-device-type-assertion

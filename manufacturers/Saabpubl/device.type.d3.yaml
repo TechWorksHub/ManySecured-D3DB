@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac5a91c6-91d4-4a47-adaf-612a60fb1c22
+  macAddresses:
+  - A8:CC:C5:00:00:00/24
+  manufacturer: Saab AB (publ)
+  manufacturerUri: https://device-type.com
+  name: Saabpubl
+type: d3-device-type-assertion

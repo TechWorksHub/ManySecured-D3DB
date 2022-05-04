@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d2c12adb-a825-45be-96ca-e620f2a3bfd3
+  macAddresses:
+  - 00:24:B0:00:00:00/24
+  manufacturer: Esab Ab
+  manufacturerUri: https://device-type.com
+  name: Esab
+type: d3-device-type-assertion

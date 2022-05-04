@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbe71895-1e7c-4b63-850a-69b2b265c9c4
+  macAddresses:
+  - 00:0B:32:00:00:00/24
+  manufacturer: Vormetric, Inc.
+  manufacturerUri: https://device-type.com
+  name: Vormetri
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 861c85f7-8c37-40f6-9c82-e5e7d73e4a27
+  macAddresses:
+  - 00:25:A4:00:00:00/24
+  - 00:50:C2:30:20:00/36
+  manufacturer: EuroDesign embedded technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: EuroDesi
+type: d3-device-type-assertion

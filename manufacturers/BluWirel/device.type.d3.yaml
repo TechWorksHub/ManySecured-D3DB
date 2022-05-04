@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 661b2a45-31fb-49cb-ad38-d4cabae4be7d
+  macAddresses:
+  - 68:1F:40:00:00:00/24
+  - 70:B3:D5:6E:80:00/36
+  manufacturer: Blu Wireless Technology Ltd
+  manufacturerUri: https://device-type.com
+  name: BluWirel
+type: d3-device-type-assertion

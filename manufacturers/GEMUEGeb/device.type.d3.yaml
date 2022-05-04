@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30d373cf-8c11-4b1e-8cbb-e48e997d76ad
+  macAddresses:
+  - 24:45:97:00:00:00/24
+  manufacturer: GEMUE Gebr. Mueller Apparatebau
+  manufacturerUri: https://device-type.com
+  name: GEMUEGeb
+type: d3-device-type-assertion

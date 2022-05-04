@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51d72c42-9671-41a5-b2cd-a868c12ade0a
+  macAddresses:
+  - 00:90:C2:00:00:00/24
+  manufacturer: JK microsystems, Inc.
+  manufacturerUri: https://device-type.com
+  name: JKmicros
+type: d3-device-type-assertion

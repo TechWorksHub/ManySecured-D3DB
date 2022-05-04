@@ -1,0 +1,17 @@
+credentialSubject:
+  id: 60291d09-a4ba-43b4-b498-ed0124286b06
+  macAddresses:
+  - 00:1A:3F:00:00:00/24
+  - 18:0D:2C:00:00:00/24
+  - 24:FD:0D:00:00:00/24
+  - 44:3B:32:00:00:00/24
+  - 48:51:CF:00:00:00/24
+  - 58:10:8C:00:00:00/24
+  - 80:8F:E8:00:00:00/24
+  - B8:7E:E5:00:00:00/24
+  - D8:36:5F:00:00:00/24
+  - D8:77:8B:00:00:00/24
+  manufacturer: Intelbras
+  manufacturerUri: https://device-type.com
+  name: Intelbra
+type: d3-device-type-assertion

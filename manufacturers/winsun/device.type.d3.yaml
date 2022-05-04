@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 45329d9f-7bc7-4068-b513-61c85ff8a744
+  macAddresses:
+  - 1C:82:59:40:00:00/28
+  - 70:B3:D5:F6:70:00/36
+  manufacturer: winsun AG
+  manufacturerUri: https://device-type.com
+  name: winsun
+type: d3-device-type-assertion

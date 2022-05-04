@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4140fdd8-8c30-4fad-aefe-e9c2184d6f6b
+  macAddresses:
+  - 00:0B:DE:00:00:00/24
+  manufacturer: TELDIX GmbH
+  manufacturerUri: https://device-type.com
+  name: TELDIX
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b13f2121-077d-40ec-b88c-d7575451866a
+  macAddresses:
+  - 00:1D:8E:00:00:00/24
+  manufacturer: Alereon, Inc.
+  manufacturerUri: https://device-type.com
+  name: Alereon
+type: d3-device-type-assertion

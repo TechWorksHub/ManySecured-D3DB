@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74d06315-5a2b-4ee3-a424-785332d1bcb4
+  macAddresses:
+  - 00:22:80:00:00:00/24
+  manufacturer: A2B Electronics AB
+  manufacturerUri: https://device-type.com
+  name: A2BElect
+type: d3-device-type-assertion

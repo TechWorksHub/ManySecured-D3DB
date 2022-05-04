@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1a609d2e-956f-461f-83f2-adbc54074504
+  macAddresses:
+  - 2C:C4:07:00:00:00/24
+  - 70:B3:D5:3E:60:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: machineQ
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10eb6797-7655-460f-99ec-0b5b74a03ffd
+  macAddresses:
+  - 50:DE:19:50:00:00/28
+  manufacturer: Bliq B.V.
+  manufacturerUri: https://device-type.com
+  name: Bliq
+type: d3-device-type-assertion

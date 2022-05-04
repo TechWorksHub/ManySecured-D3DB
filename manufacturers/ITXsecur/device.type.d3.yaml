@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a47e364-776e-4564-8bcf-e570d1680378
+  macAddresses:
+  - 00:A7:84:00:00:00/24
+  manufacturer: ITX security
+  manufacturerUri: https://device-type.com
+  name: ITXsecur
+type: d3-device-type-assertion

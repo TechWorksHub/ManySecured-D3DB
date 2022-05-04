@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 5086c0f1-8010-43bc-9a07-93333473081d
+  macAddresses:
+  - 00:50:C2:70:90:00/36
+  - 00:50:C2:B6:30:00/36
+  - 00:50:C2:EF:40:00/36
+  - 3C:39:E7:60:00:00/28
+  - 60:B9:82:00:00:00/24
+  manufacturer: RO.VE.R. Laboratories S.p.A
+  manufacturerUri: https://device-type.com
+  name: ROVERLab
+type: d3-device-type-assertion

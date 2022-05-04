@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f5bf9a9-4dd9-4729-94d7-ca7c213b4919
+  macAddresses:
+  - 00:16:15:00:00:00/24
+  manufacturer: Nittan Company, Limited
+  manufacturerUri: https://device-type.com
+  name: Nittan
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c5bdeab-39a1-4f9c-b20c-35e59b85e858
+  macAddresses:
+  - 00:00:71:00:00:00/24
+  manufacturer: Adra Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: Adra
+type: d3-device-type-assertion

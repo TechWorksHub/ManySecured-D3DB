@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1883b327-ce85-4945-93d9-ccabb9d38c69
+  macAddresses:
+  - 00:50:C2:11:30:00/36
+  - 00:50:C2:4D:C0:00/36
+  manufacturer: Ace Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: AceElect
+type: d3-device-type-assertion

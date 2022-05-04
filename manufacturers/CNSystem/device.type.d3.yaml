@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef41a257-59ac-47af-b47f-85eb40d35a01
+  macAddresses:
+  - 00:07:2D:00:00:00/24
+  manufacturer: CNSystems
+  manufacturerUri: https://device-type.com
+  name: CNSystem
+type: d3-device-type-assertion

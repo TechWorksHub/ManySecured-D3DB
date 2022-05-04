@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7740718-5f40-4f75-9cea-3d86ec242b07
+  macAddresses:
+  - 48:4A:30:00:00:00/24
+  manufacturer: George Robotics Limited
+  manufacturerUri: https://device-type.com
+  name: GeorgeRo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3d26da5-ff6c-4e9c-9f8a-736bf7a61143
+  macAddresses:
+  - 90:45:06:00:00:00/24
+  manufacturer: Tokyo Boeki Medisys Inc.
+  manufacturerUri: https://device-type.com
+  name: TokyoBoe
+type: d3-device-type-assertion

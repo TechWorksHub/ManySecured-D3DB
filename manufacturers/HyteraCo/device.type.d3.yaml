@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4415b262-4fc2-4ffb-b2f2-364ad64b0670
+  macAddresses:
+  - 64:69:BC:00:00:00/24
+  - 9C:06:6E:00:00:00/24
+  manufacturer: Hytera Communications Co.,ltd
+  manufacturerUri: https://device-type.com
+  name: HyteraCo
+type: d3-device-type-assertion

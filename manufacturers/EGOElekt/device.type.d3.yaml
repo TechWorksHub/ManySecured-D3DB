@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d101f70-a7e7-4599-be4e-f329c39cb492
+  macAddresses:
+  - 38:B5:BD:00:00:00/24
+  manufacturer: E.G.O. Elektro-Ger
+  manufacturerUri: https://device-type.com
+  name: EGOElekt
+type: d3-device-type-assertion

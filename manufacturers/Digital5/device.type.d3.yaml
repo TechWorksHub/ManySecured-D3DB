@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d053ea2-bffd-485c-a4b2-92048ae2d745
+  macAddresses:
+  - 00:0E:44:00:00:00/24
+  manufacturer: Digital 5, Inc.
+  manufacturerUri: https://device-type.com
+  name: Digital5
+type: d3-device-type-assertion

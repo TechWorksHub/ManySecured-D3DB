@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5edbb449-23cf-4a5f-9397-f5efbfe1a375
+  macAddresses:
+  - D8:65:95:00:00:00/24
+  manufacturer: Toy's Myth Inc.
+  manufacturerUri: https://device-type.com
+  name: ToysMyth
+type: d3-device-type-assertion

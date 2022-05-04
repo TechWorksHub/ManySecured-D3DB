@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33e77912-d787-432f-a516-a9694d193c29
+  macAddresses:
+  - 00:D0:32:00:00:00/24
+  manufacturer: Yano Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: YanoElec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 05524b7a-1968-44db-bb91-d702b79f3b5a
+  macAddresses:
+  - 00:08:23:00:00:00/24
+  - B4:B8:59:00:00:00/24
+  manufacturer: Texa Corp.
+  manufacturerUri: https://device-type.com
+  name: Texa
+type: d3-device-type-assertion

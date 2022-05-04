@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9afeaff-f070-4d8c-a68f-b1a89b837900
+  macAddresses:
+  - 00:1D:3D:00:00:00/24
+  manufacturer: Avidyne Corporation
+  manufacturerUri: https://device-type.com
+  name: Avidyne
+type: d3-device-type-assertion

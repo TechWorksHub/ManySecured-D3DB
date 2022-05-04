@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6cec2c32-1a7f-4b2b-a183-4225f4b75307
+  macAddresses:
+  - 7C:6A:C3:00:00:00/24
+  manufacturer: GatesAir, Inc
+  manufacturerUri: https://device-type.com
+  name: GatesAir
+type: d3-device-type-assertion

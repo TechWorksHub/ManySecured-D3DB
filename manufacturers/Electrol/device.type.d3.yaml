@@ -1,0 +1,12 @@
+credentialSubject:
+  id: e600f932-b786-4a0b-bdba-aca9b77ea941
+  macAddresses:
+  - 00:0B:C9:00:00:00/24
+  - 00:50:C2:D8:70:00/36
+  - 44:3E:07:00:00:00/24
+  - 4C:4B:F9:A0:00:00/28
+  - 70:B3:D5:7A:60:00/36
+  manufacturer: Electroline Equipment
+  manufacturerUri: https://device-type.com
+  name: Electrol
+type: d3-device-type-assertion

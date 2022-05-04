@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cb7d756-37f7-44a4-8a4a-08a2d07d1d7d
+  macAddresses:
+  - 00:50:66:00:00:00/24
+  manufacturer: AtecoM GmbH advanced telecomunication modules
+  manufacturerUri: https://device-type.com
+  name: AtecoMad
+type: d3-device-type-assertion

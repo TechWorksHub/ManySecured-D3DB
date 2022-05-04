@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 05dcda0a-eb63-45df-b2e4-555ef493a711
+  macAddresses:
+  - 00:24:E6:00:00:00/24
+  manufacturer: In Motion Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: InMotion
+type: d3-device-type-assertion

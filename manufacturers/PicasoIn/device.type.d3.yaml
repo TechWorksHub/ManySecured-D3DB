@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f0ccb7f-94bb-43e6-9029-410353d97597
+  macAddresses:
+  - 00:12:30:00:00:00/24
+  manufacturer: Picaso Infocommunication CO., LTD.
+  manufacturerUri: https://device-type.com
+  name: PicasoIn
+type: d3-device-type-assertion

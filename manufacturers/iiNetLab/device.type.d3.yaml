@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ee7ad2de-fba4-4f9a-be63-ebb48674b5fc
+  macAddresses:
+  - 78:A0:51:00:00:00/24
+  manufacturer: iiNet Labs Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: iiNetLab
+type: d3-device-type-assertion

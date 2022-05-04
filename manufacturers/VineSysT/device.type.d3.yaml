@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b96a3758-3d0c-42f4-8388-9cc449b9d348
+  macAddresses:
+  - 00:0E:CB:00:00:00/24
+  manufacturer: VineSys Technology
+  manufacturerUri: https://device-type.com
+  name: VineSysT
+type: d3-device-type-assertion

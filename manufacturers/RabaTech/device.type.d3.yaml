@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef40a5b7-a2ca-4a98-ae2b-8e73cf75b07d
+  macAddresses:
+  - 00:18:C4:00:00:00/24
+  manufacturer: Raba Technologies LLC
+  manufacturerUri: https://device-type.com
+  name: RabaTech
+type: d3-device-type-assertion

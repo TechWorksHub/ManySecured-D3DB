@@ -1,0 +1,11 @@
+credentialSubject:
+  id: fd0f41b9-11c1-4d18-8917-038b733cdfef
+  macAddresses:
+  - 00:05:94:00:00:00/24
+  - 00:30:11:00:00:00/24
+  - 00:30:56:00:00:00/24
+  - CC:3F:1D:00:00:00/24
+  manufacturer: HMS Industrial Networks
+  manufacturerUri: https://device-type.com
+  name: HMSIndus
+type: d3-device-type-assertion

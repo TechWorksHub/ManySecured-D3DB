@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c59b7ce-4885-417e-870e-e7d257f58167
+  macAddresses:
+  - 3C:69:D1:00:00:00/24
+  manufacturer: ADC Automotive Distance Control System GmbH
+  manufacturerUri: https://device-type.com
+  name: ADCAutom
+type: d3-device-type-assertion

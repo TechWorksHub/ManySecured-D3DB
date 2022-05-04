@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c132d503-aeff-43e1-87f1-34d319a867b3
+  macAddresses:
+  - 00:50:C2:B5:50:00/36
+  - 08:00:7B:00:00:00/24
+  manufacturer: Sanyo Electronic Industries Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: SanyoEle
+type: d3-device-type-assertion

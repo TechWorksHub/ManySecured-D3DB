@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 60d44c5a-aba4-432f-a1f4-c3fad58b1657
+  macAddresses:
+  - 6C:D3:EE:00:00:00/24
+  - 74:A3:4A:00:00:00/24
+  manufacturer: Zimi Corporation
+  manufacturerUri: https://device-type.com
+  name: Zimi
+type: d3-device-type-assertion

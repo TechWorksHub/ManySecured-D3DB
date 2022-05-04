@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bea41667-8012-42f6-a2f5-aad222b1639f
+  macAddresses:
+  - 14:4F:D7:20:00:00/28
+  manufacturer: FedEx Services OTI
+  manufacturerUri: https://device-type.com
+  name: FedExSer
+type: d3-device-type-assertion

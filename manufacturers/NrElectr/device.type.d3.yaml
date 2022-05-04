@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4e042da9-a104-468c-9773-5662ab7a3496
+  macAddresses:
+  - 2C:60:CD:00:00:00/24
+  - B4:4C:C2:00:00:00/24
+  manufacturer: Nr Electric Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: NrElectr
+type: d3-device-type-assertion

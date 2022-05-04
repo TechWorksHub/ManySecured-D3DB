@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4e9a230-406e-42e1-a307-90ac31f67624
+  macAddresses:
+  - 00:C0:AC:00:00:00/24
+  manufacturer: Gambit Computer Communications
+  manufacturerUri: https://device-type.com
+  name: GambitCo
+type: d3-device-type-assertion

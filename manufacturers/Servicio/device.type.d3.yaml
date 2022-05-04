@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8c15011c-5c48-4821-a57c-38f7881c38b2
+  macAddresses:
+  - 00:1B:C5:07:A0:00/36
+  - 00:50:C2:27:30:00/36
+  manufacturer: Servicios Electronicos Industriales Berbel s.l.
+  manufacturerUri: https://device-type.com
+  name: Servicio
+type: d3-device-type-assertion

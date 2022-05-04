@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8ae6daf3-5d82-4797-9107-bdd7dd203426
+  macAddresses:
+  - 00:40:7C:00:00:00/24
+  manufacturer: Qume Corporation
+  manufacturerUri: https://device-type.com
+  name: Qume
+type: d3-device-type-assertion

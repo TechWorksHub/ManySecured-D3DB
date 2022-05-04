@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f87785e-f5e1-4c46-be45-10e7fb3458c2
+  macAddresses:
+  - 00:1B:F7:00:00:00/24
+  manufacturer: Lund IP Products AB
+  manufacturerUri: https://device-type.com
+  name: LundIPPr
+type: d3-device-type-assertion

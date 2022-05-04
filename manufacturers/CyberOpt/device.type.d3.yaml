@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 75249a0b-d77f-4607-a988-f1adce221313
+  macAddresses:
+  - 00:01:74:00:00:00/24
+  manufacturer: CyberOptics Corporation
+  manufacturerUri: https://device-type.com
+  name: CyberOpt
+type: d3-device-type-assertion

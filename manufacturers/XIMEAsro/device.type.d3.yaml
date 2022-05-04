@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00c08af9-507b-4bd3-b424-4da70e9323e2
+  macAddresses:
+  - 00:50:C2:36:F0:00/36
+  manufacturer: XIMEA s.r.o.
+  manufacturerUri: https://device-type.com
+  name: XIMEAsro
+type: d3-device-type-assertion

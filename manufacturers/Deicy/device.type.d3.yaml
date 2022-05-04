@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 180ecd1c-b660-4a5d-8982-c21c4c67f1ad
+  macAddresses:
+  - 00:14:1A:00:00:00/24
+  manufacturer: Deicy Corporation
+  manufacturerUri: https://device-type.com
+  name: Deicy
+type: d3-device-type-assertion

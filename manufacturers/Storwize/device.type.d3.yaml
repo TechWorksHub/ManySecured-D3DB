@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3469db8b-4dc8-432b-838f-66dbaea0dcc1
+  macAddresses:
+  - 00:24:3F:00:00:00/24
+  manufacturer: Storwize, Inc.
+  manufacturerUri: https://device-type.com
+  name: Storwize
+type: d3-device-type-assertion

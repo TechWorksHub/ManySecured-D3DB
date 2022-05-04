@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 217dcd90-9c05-40c2-96e5-f05606b85eae
+  macAddresses:
+  - 00:10:BB:00:00:00/24
+  - 70:B3:D5:56:60:00/36
+  manufacturer: Data & Information Technology
+  manufacturerUri: https://device-type.com
+  name: DataInfo
+type: d3-device-type-assertion

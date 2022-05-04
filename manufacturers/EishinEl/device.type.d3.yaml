@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 419c31b1-5d55-4f64-beb3-e6f0992effa0
+  macAddresses:
+  - 00:16:68:00:00:00/24
+  manufacturer: Eishin Electronics
+  manufacturerUri: https://device-type.com
+  name: EishinEl
+type: d3-device-type-assertion

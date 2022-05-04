@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 411178b0-f343-4def-b99b-da6c37b9facf
+  macAddresses:
+  - 00:50:64:00:00:00/24
+  manufacturer: Cae Electronics
+  manufacturerUri: https://device-type.com
+  name: CaeElect
+type: d3-device-type-assertion

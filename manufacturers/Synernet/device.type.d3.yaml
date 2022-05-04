@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 334c4d62-9406-441f-babb-9488d15de98a
+  macAddresses:
+  - 00:80:3E:00:00:00/24
+  manufacturer: Synernetics
+  manufacturerUri: https://device-type.com
+  name: Synernet
+type: d3-device-type-assertion

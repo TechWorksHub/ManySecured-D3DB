@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 33bfeb4f-3799-435f-92a7-88390c21b38e
+  macAddresses:
+  - 00:50:C2:63:50:00/36
+  - 00:50:C2:89:40:00/36
+  - 00:50:C2:96:20:00/36
+  manufacturer: Shockfish SA
+  manufacturerUri: https://device-type.com
+  name: Shockfis
+type: d3-device-type-assertion

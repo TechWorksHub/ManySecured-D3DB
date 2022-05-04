@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 36e71964-3b45-4c7c-a448-201ca44ea9d3
+  macAddresses:
+  - 00:80:8F:00:00:00/24
+  manufacturer: C. Itoh Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: CItohEle
+type: d3-device-type-assertion

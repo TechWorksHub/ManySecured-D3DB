@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef56812d-408f-42e3-b718-9c719ef7bbca
+  macAddresses:
+  - 00:60:5A:00:00:00/24
+  manufacturer: Celcore, Inc.
+  manufacturerUri: https://device-type.com
+  name: Celcore
+type: d3-device-type-assertion

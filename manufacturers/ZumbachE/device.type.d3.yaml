@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 01285066-4441-43ba-a4c6-b1cdb1b4ae24
+  macAddresses:
+  - 00:50:C2:70:F0:00/36
+  - 70:B3:D5:7B:40:00/36
+  - 70:B3:D5:B1:00:00/36
+  - 70:B3:D5:C1:90:00/36
+  manufacturer: Zumbach Electronic AG
+  manufacturerUri: https://device-type.com
+  name: ZumbachE
+type: d3-device-type-assertion

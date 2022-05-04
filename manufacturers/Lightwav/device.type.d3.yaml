@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7691242d-4853-4477-9d1e-7685dfeca800
+  macAddresses:
+  - 00:30:31:00:00:00/24
+  - 74:0A:BC:00:00:00/24
+  manufacturer: Lightwave Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: Lightwav
+type: d3-device-type-assertion

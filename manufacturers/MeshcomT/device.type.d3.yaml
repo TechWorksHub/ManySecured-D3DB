@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f2732ca-b2f0-46e0-a5ce-b07b0b2a2a70
+  macAddresses:
+  - 00:17:7E:00:00:00/24
+  manufacturer: Meshcom Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: MeshcomT
+type: d3-device-type-assertion

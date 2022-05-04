@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 30a79483-b062-4c5f-a948-0cebee5a8f0e
+  macAddresses:
+  - 00:05:66:00:00:00/24
+  manufacturer: Secui.com Corporation
+  manufacturerUri: https://device-type.com
+  name: Secuicom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c2e640ad-4818-4a73-8f20-bf0a40dc1115
+  macAddresses:
+  - 00:0C:CA:00:00:00/24
+  manufacturer: HGST a Western Digital Company
+  manufacturerUri: https://device-type.com
+  name: HGSTaWes
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc5211f2-7856-4a9b-af8c-723bd587c8db
+  macAddresses:
+  - 70:B3:D5:B0:40:00/36
+  - B8:F4:D0:00:00:00/24
+  manufacturer: Herrmann Datensysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: Herrmann
+type: d3-device-type-assertion

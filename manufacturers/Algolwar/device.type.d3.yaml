@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cda23405-f12c-47e0-af28-ed7f48b27369
+  macAddresses:
+  - 00:23:90:00:00:00/24
+  manufacturer: Algolware Corporation
+  manufacturerUri: https://device-type.com
+  name: Algolwar
+type: d3-device-type-assertion

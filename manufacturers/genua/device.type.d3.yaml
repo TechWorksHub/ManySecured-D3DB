@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c20c572-0eb0-4bf7-b9d8-d071b9515d43
+  macAddresses:
+  - 54:A4:93:20:00:00/28
+  manufacturer: genua GmbH
+  manufacturerUri: https://device-type.com
+  name: genua
+type: d3-device-type-assertion

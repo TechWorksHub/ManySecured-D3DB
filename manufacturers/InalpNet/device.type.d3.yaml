@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cdb9f8c-5108-4666-a66b-602abaee1f3d
+  macAddresses:
+  - 00:30:2B:00:00:00/24
+  manufacturer: Inalp Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: InalpNet
+type: d3-device-type-assertion

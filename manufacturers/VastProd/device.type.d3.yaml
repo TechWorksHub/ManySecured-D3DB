@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7e15d42-f7d1-41d4-a123-7fbc1967deff
+  macAddresses:
+  - A0:19:B2:00:00:00/28
+  manufacturer: Vast Production Services
+  manufacturerUri: https://device-type.com
+  name: VastProd
+type: d3-device-type-assertion

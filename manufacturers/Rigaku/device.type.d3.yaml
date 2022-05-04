@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c5f9586-147c-4dd4-a8ec-9ccd8b0a9865
+  macAddresses:
+  - 00:07:FE:00:00:00/24
+  manufacturer: Rigaku Corporation
+  manufacturerUri: https://device-type.com
+  name: Rigaku
+type: d3-device-type-assertion

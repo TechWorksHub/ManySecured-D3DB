@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aa8a44ff-087b-4c66-a7b5-68993119f10b
+  macAddresses:
+  - 00:90:4C:00:00:00/24
+  manufacturer: Epigram, Inc.
+  manufacturerUri: https://device-type.com
+  name: Epigram
+type: d3-device-type-assertion

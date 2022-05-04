@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a6aba65-50d4-49e5-9136-f14de1baf37f
+  macAddresses:
+  - 00:15:45:00:00:00/24
+  manufacturer: SEECODE Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SEECODE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bdb2b52d-415e-48fa-9c50-f3e986ff0826
+  macAddresses:
+  - 00:09:F4:00:00:00/24
+  manufacturer: Alcon Laboratories, Inc.
+  manufacturerUri: https://device-type.com
+  name: AlconLab
+type: d3-device-type-assertion

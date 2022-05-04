@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77be902b-910d-4fad-ba59-132ceb565933
+  macAddresses:
+  - 00:50:C2:87:D0:00/36
+  manufacturer: AT&T Government Solutions
+  manufacturerUri: https://device-type.com
+  name: AT&TGove
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 98467a4b-f826-41ef-9895-753e9c71bca9
+  macAddresses:
+  - 6C:92:BF:00:00:00/24
+  - 9C:C2:C4:00:00:00/24
+  - B4:05:5D:00:00:00/24
+  manufacturer: Inspur Electronic Information Industry Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: InspurEl
+type: d3-device-type-assertion

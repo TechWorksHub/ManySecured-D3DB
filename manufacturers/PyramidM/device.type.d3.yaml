@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f24552c-8007-4e17-87ea-a2eb16b3e5ac
+  macAddresses:
+  - 00:17:F6:00:00:00/24
+  manufacturer: Pyramid Meriden Inc.
+  manufacturerUri: https://device-type.com
+  name: PyramidM
+type: d3-device-type-assertion

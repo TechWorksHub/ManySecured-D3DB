@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b283b459-aa5a-4033-ad6e-463646c52e96
+  macAddresses:
+  - 00:25:8E:00:00:00/24
+  manufacturer: The Weather Channel
+  manufacturerUri: https://device-type.com
+  name: WeatherC
+type: d3-device-type-assertion

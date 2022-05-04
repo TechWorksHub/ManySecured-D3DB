@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41e1ee35-159a-4ee0-9b22-9e9e8f180c2d
+  macAddresses:
+  - 00:C0:B2:00:00:00/24
+  manufacturer: Norand Corporation
+  manufacturerUri: https://device-type.com
+  name: Norand
+type: d3-device-type-assertion

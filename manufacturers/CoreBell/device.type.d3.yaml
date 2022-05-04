@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7188c91c-e6d7-454f-b391-4e6d8923adf7
+  macAddresses:
+  - 00:0A:D4:00:00:00/24
+  manufacturer: CoreBell Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: CoreBell
+type: d3-device-type-assertion

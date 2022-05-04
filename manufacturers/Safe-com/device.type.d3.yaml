@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 92ca810d-8415-4b5e-bdd1-a99430c82ec3
+  macAddresses:
+  - 00:60:4B:00:00:00/24
+  manufacturer: Safe-com GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: Safe-com
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 86190c3a-d84d-4db7-8ebc-65715f9556ad
+  macAddresses:
+  - 00:0C:C2:00:00:00/24
+  - 00:60:C9:00:00:00/24
+  manufacturer: ControlNet (India) Private Limited
+  manufacturerUri: https://device-type.com
+  name: ControlN
+type: d3-device-type-assertion

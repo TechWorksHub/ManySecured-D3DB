@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42ef82e3-3966-44dd-85e8-68341eae5c8c
+  macAddresses:
+  - 00:50:C2:D0:10:00/36
+  manufacturer: Aanderaa Data Instruments
+  manufacturerUri: https://device-type.com
+  name: Aanderaa
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f09a4a01-e26a-4970-9f5f-6fa8297e058d
+  macAddresses:
+  - 00:50:C2:57:10:00/36
+  manufacturer: Oberon Service srl
+  manufacturerUri: https://device-type.com
+  name: OberonSe
+type: d3-device-type-assertion

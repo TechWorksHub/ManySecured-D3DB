@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fdcc33f4-00cd-415e-adaf-fdafc65e68a9
+  macAddresses:
+  - 00:21:B0:00:00:00/24
+  manufacturer: Tyco Telecommunications
+  manufacturerUri: https://device-type.com
+  name: TycoTele
+type: d3-device-type-assertion

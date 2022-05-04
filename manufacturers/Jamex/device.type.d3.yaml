@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6c4661c2-f5ed-4a0b-b510-a33d8062760f
+  macAddresses:
+  - 00:0C:BA:00:00:00/24
+  manufacturer: Jamex, Inc.
+  manufacturerUri: https://device-type.com
+  name: Jamex
+type: d3-device-type-assertion

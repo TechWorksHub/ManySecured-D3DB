@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e6479edb-af22-4076-9e33-19e1edf489ca
+  macAddresses:
+  - 00:0F:D8:00:00:00/24
+  manufacturer: Force, Inc.
+  manufacturerUri: https://device-type.com
+  name: Force
+type: d3-device-type-assertion

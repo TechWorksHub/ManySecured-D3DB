@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cbcb2fd2-abbf-4a69-b6d1-38d4b0addad8
+  macAddresses:
+  - 00:02:FE:00:00:00/24
+  manufacturer: Viditec, Inc.
+  manufacturerUri: https://device-type.com
+  name: Viditec
+type: d3-device-type-assertion

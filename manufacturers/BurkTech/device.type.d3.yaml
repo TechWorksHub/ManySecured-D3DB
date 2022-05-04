@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 4eec0d0a-2ae6-494b-8a41-0e68c67e2c5a
+  macAddresses:
+  - 00:50:C2:6B:10:00/36
+  - 00:50:C2:FF:40:00/36
+  - 70:B3:D5:64:10:00/36
+  - 70:B3:D5:98:50:00/36
+  - 70:B3:D5:BD:20:00/36
+  manufacturer: Burk Technology
+  manufacturerUri: https://device-type.com
+  name: BurkTech
+type: d3-device-type-assertion

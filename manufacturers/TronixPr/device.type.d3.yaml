@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7bf8a20-6893-4407-a67a-37ebc6eaa458
+  macAddresses:
+  - 00:C0:8D:00:00:00/24
+  manufacturer: Tronix Product Development
+  manufacturerUri: https://device-type.com
+  name: TronixPr
+type: d3-device-type-assertion

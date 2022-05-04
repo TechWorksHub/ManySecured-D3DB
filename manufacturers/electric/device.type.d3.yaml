@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d56b060-fe1f-4f29-a2d2-f2da17d95c70
+  macAddresses:
+  - 0C:2A:69:00:00:00/24
+  manufacturer: electric imp, incorporated
+  manufacturerUri: https://device-type.com
+  name: electric
+type: d3-device-type-assertion

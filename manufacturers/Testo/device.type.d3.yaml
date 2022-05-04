@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04433c21-1372-48ed-af6b-96a150dd00b8
+  macAddresses:
+  - 00:19:4A:00:00:00/24
+  manufacturer: Testo Ag
+  manufacturerUri: https://device-type.com
+  name: Testo
+type: d3-device-type-assertion

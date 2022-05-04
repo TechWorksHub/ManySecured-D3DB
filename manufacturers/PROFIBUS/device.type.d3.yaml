@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ff730f58-4d43-4ffe-a073-dddf8ede1e0c
+  macAddresses:
+  - 00:0E:CF:00:00:00/24
+  manufacturer: PROFIBUS Nutzerorganisation e.V.
+  manufacturerUri: https://device-type.com
+  name: PROFIBUS
+type: d3-device-type-assertion

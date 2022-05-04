@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e4021ec-4b39-436b-a5e4-6a7bc10c80cc
+  macAddresses:
+  - 3C:6F:F7:00:00:00/24
+  manufacturer: EnTek Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: EnTek
+type: d3-device-type-assertion

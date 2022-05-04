@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bbec153-829e-4152-a99e-1c6afd965ec6
+  macAddresses:
+  - 00:01:EB:00:00:00/24
+  manufacturer: C-COM Corporation
+  manufacturerUri: https://device-type.com
+  name: C-COM
+type: d3-device-type-assertion

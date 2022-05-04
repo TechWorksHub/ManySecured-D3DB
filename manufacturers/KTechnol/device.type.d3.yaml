@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 82c73fcc-a2fa-41ce-b25f-caa58f38c01d
+  macAddresses:
+  - 00:14:D4:00:00:00/24
+  - 8C:1C:DA:70:00:00/28
+  manufacturer: K Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: KTechnol
+type: d3-device-type-assertion

@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 6d34c043-27de-4b4e-b51d-e5734c29e8e0
+  macAddresses:
+  - 00:01:0D:00:00:00/24
+  - 00:10:4C:00:00:00/24
+  - 00:17:8B:00:00:00/24
+  - 00:50:C2:48:E0:00/36
+  - 00:50:C2:4A:50:00/36
+  - 00:50:C2:B2:40:00/36
+  - 70:B3:D5:F9:D0:00/36
+  - DC:60:A1:00:00:00/24
+  manufacturer: Teledyne DALSA Inc.
+  manufacturerUri: https://device-type.com
+  name: Teledyne
+type: d3-device-type-assertion

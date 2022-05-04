@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 44d670a5-e1da-4fab-972d-455147b6ecb5
+  macAddresses:
+  - 00:12:F3:00:00:00/24
+  manufacturer: connectBlue AB
+  manufacturerUri: https://device-type.com
+  name: connectB
+type: d3-device-type-assertion

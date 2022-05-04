@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5fcb9ac0-79c9-4f83-956f-fbc700ec1e27
+  macAddresses:
+  - 00:13:42:00:00:00/24
+  - 00:50:C2:05:80:00/36
+  manufacturer: Vision Research, Inc.
+  manufacturerUri: https://device-type.com
+  name: VisionRe
+type: d3-device-type-assertion

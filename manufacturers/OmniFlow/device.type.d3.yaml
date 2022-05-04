@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf4530db-da69-4171-a1c2-78a5fa0cc602
+  macAddresses:
+  - 00:30:CB:00:00:00/24
+  manufacturer: Omni Flow Computers, Inc.
+  manufacturerUri: https://device-type.com
+  name: OmniFlow
+type: d3-device-type-assertion

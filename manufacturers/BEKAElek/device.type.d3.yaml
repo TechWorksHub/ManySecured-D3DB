@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4a04f42-8ce3-4bb2-b3d9-1d0e97473776
+  macAddresses:
+  - 00:04:5D:00:00:00/24
+  manufacturer: BEKA Elektronik
+  manufacturerUri: https://device-type.com
+  name: BEKAElek
+type: d3-device-type-assertion

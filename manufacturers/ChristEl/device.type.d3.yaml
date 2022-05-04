@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e6a99449-b4f4-4e13-b198-c086a6bbac36
+  macAddresses:
+  - 00:50:C2:51:80:00/36
+  - 18:9B:A5:C0:00:00/28
+  - 70:B3:D5:A5:B0:00/36
+  manufacturer: Christ Elektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: ChristEl
+type: d3-device-type-assertion

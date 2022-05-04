@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec725837-b0ed-4aa4-bc8a-e3b984c064f0
+  macAddresses:
+  - 00:10:39:00:00:00/24
+  manufacturer: Vectron Systems AG
+  manufacturerUri: https://device-type.com
+  name: Vectron
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd8a090b-01e4-4d20-9c1d-98752a34690d
+  macAddresses:
+  - B4:37:D1:50:00:00/28
+  manufacturer: Stratom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Stratom
+type: d3-device-type-assertion

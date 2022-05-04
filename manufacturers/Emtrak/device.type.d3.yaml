@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04cacaa9-72d5-4e6b-8c74-9803754b34bf
+  macAddresses:
+  - 00:60:CC:00:00:00/24
+  manufacturer: Emtrak, Incorporated
+  manufacturerUri: https://device-type.com
+  name: Emtrak
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 097f128a-29c0-4883-8377-657c658a5587
+  macAddresses:
+  - 90:6D:C8:00:00:00/24
+  manufacturer: "DLG Automa\xE7\xE3o Industrial Ltda"
+  manufacturerUri: https://device-type.com
+  name: DLGAutom
+type: d3-device-type-assertion

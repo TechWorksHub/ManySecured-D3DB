@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65b3eeb1-ccf6-4b60-9331-611e1dc72eaf
+  macAddresses:
+  - 30:55:ED:00:00:00/24
+  manufacturer: Trex Network LLC
+  manufacturerUri: https://device-type.com
+  name: TrexNetw
+type: d3-device-type-assertion

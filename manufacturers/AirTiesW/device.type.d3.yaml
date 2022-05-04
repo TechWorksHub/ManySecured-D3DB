@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 93a2abbf-af5e-4d82-8c1f-bf929e21f817
+  macAddresses:
+  - 00:1C:A8:00:00:00/24
+  - 18:28:61:00:00:00/24
+  - 88:41:FC:00:00:00/24
+  - A0:2D:13:00:00:00/24
+  - F4:17:B8:00:00:00/24
+  manufacturer: AirTies Wireless Networks
+  manufacturerUri: https://device-type.com
+  name: AirTiesW
+type: d3-device-type-assertion

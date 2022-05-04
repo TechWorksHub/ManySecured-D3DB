@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ecc690d2-12c9-46db-9165-5cc7247ca4b6
+  macAddresses:
+  - 00:20:CA:00:00:00/24
+  - 58:4C:EE:00:00:00/24
+  - 70:B3:D5:35:30:00/36
+  manufacturer: Digital Ocean
+  manufacturerUri: https://device-type.com
+  name: DigitalO
+type: d3-device-type-assertion

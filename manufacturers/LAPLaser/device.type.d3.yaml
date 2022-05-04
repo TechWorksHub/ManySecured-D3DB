@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6fd83f0b-61cd-4f5e-8f74-a1daddf1cccc
+  macAddresses:
+  - 00:0B:F1:00:00:00/24
+  manufacturer: LAP Laser Applikations
+  manufacturerUri: https://device-type.com
+  name: LAPLaser
+type: d3-device-type-assertion

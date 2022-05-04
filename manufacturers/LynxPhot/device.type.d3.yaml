@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d78f0a5-db03-4c22-8e21-983e57993c75
+  macAddresses:
+  - 00:05:8D:00:00:00/24
+  manufacturer: Lynx Photonic Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: LynxPhot
+type: d3-device-type-assertion

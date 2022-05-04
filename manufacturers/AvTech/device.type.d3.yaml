@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d31d78a3-cacc-4c2b-ab18-a022eea8caf4
+  macAddresses:
+  - 00:0E:53:00:00:00/24
+  manufacturer: Av Tech Corporation
+  manufacturerUri: https://device-type.com
+  name: AvTech
+type: d3-device-type-assertion

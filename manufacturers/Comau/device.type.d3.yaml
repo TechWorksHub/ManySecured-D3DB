@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23c14ef9-28e3-446b-9ed4-363fa1db1361
+  macAddresses:
+  - 78:AF:E4:00:00:00/24
+  manufacturer: Comau S.p.A
+  manufacturerUri: https://device-type.com
+  name: Comau
+type: d3-device-type-assertion

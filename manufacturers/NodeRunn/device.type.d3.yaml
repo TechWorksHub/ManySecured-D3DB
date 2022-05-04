@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0f2e7fda-997f-45ba-8fd3-30ab3591e0a1
+  macAddresses:
+  - 00:02:67:00:00:00/24
+  - 00:20:67:00:00:00/24
+  manufacturer: Node Runner, Inc.
+  manufacturerUri: https://device-type.com
+  name: NodeRunn
+type: d3-device-type-assertion

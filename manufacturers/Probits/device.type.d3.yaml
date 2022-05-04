@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9285602-eae0-46c5-ba9d-8141b9ccb0e6
+  macAddresses:
+  - 00:25:DE:00:00:00/24
+  manufacturer: Probits Co., LTD.
+  manufacturerUri: https://device-type.com
+  name: Probits
+type: d3-device-type-assertion

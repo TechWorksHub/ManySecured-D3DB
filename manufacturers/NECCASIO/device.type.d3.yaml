@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6d7534af-50db-4e46-ae8f-fd91cbce84c5
+  macAddresses:
+  - 10:0E:2B:00:00:00/24
+  - 38:BF:33:00:00:00/24
+  manufacturer: NEC CASIO Mobile Communications
+  manufacturerUri: https://device-type.com
+  name: NECCASIO
+type: d3-device-type-assertion

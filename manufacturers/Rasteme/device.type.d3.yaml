@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a8177d9-9e25-4f41-8cc4-644675b7eb5c
+  macAddresses:
+  - 00:04:15:00:00:00/24
+  manufacturer: Rasteme Systems Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Rasteme
+type: d3-device-type-assertion

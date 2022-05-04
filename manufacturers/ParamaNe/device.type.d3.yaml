@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 29a498ed-65b9-4f94-86d2-e5e8184e3a36
+  macAddresses:
+  - 00:0A:23:00:00:00/24
+  manufacturer: Parama Networks Inc
+  manufacturerUri: https://device-type.com
+  name: ParamaNe
+type: d3-device-type-assertion

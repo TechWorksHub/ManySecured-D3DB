@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f32af4ac-b285-46d7-9f93-8efdee0a9c69
+  macAddresses:
+  - 00:1B:E6:00:00:00/24
+  manufacturer: Vr Ag
+  manufacturerUri: https://device-type.com
+  name: Vr
+type: d3-device-type-assertion

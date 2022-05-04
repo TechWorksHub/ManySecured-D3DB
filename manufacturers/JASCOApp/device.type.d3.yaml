@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b0e0235-1afd-484e-b77f-659e50a73ebe
+  macAddresses:
+  - 70:B3:D5:7F:70:00/36
+  manufacturer: JASCO Applied Sciences Canada Ltd
+  manufacturerUri: https://device-type.com
+  name: JASCOApp
+type: d3-device-type-assertion

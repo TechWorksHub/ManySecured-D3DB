@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f7f7aaf-ae05-4f59-b60f-7897b233bece
+  macAddresses:
+  - 00:0F:A8:00:00:00/24
+  manufacturer: Photometrics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Photomet
+type: d3-device-type-assertion

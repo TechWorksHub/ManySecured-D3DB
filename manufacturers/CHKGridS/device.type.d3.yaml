@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb83823a-be73-4f68-95d6-f1fe7ed2df5c
+  macAddresses:
+  - 00:50:C2:91:60:00/36
+  manufacturer: CHK GridSense P/L
+  manufacturerUri: https://device-type.com
+  name: CHKGridS
+type: d3-device-type-assertion

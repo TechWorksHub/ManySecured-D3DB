@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc0b9171-bb14-424b-ae14-bbf7bb416954
+  macAddresses:
+  - 00:1B:97:00:00:00/24
+  manufacturer: Violin Technologies
+  manufacturerUri: https://device-type.com
+  name: ViolinTe
+type: d3-device-type-assertion

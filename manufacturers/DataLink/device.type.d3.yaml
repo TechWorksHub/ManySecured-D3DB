@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f625897-0969-4dc3-83ba-755786b35e59
+  macAddresses:
+  - 00:C0:84:00:00:00/24
+  manufacturer: Data Link Corp. Ltd.
+  manufacturerUri: https://device-type.com
+  name: DataLink
+type: d3-device-type-assertion

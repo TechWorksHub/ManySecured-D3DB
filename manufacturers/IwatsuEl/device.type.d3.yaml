@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e5c87fc-eb50-42da-b9e1-b0e2fd3644e4
+  macAddresses:
+  - 00:50:51:00:00:00/24
+  manufacturer: Iwatsu Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: IwatsuEl
+type: d3-device-type-assertion

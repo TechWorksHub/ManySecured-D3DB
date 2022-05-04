@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80179af9-fa3d-4ebe-b2df-7c8687691f3d
+  macAddresses:
+  - 00:E0:33:00:00:00/24
+  manufacturer: E.E.P.D. GmbH
+  manufacturerUri: https://device-type.com
+  name: EEPD
+type: d3-device-type-assertion

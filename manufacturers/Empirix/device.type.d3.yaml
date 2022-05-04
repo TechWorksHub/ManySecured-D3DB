@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e492abb8-eee0-42e3-9bbd-9ed763bac7cc
+  macAddresses:
+  - 00:05:E0:00:00:00/24
+  manufacturer: Empirix Corp.
+  manufacturerUri: https://device-type.com
+  name: Empirix
+type: d3-device-type-assertion

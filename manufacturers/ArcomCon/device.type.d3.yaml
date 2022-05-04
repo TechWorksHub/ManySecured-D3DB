@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 78abaa9e-bbbf-4621-b326-5aa4172cfe32
+  macAddresses:
+  - 00:80:66:00:00:00/24
+  manufacturer: Arcom Control Systems, Ltd.
+  manufacturerUri: https://device-type.com
+  name: ArcomCon
+type: d3-device-type-assertion

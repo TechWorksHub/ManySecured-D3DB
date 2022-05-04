@@ -1,0 +1,12 @@
+credentialSubject:
+  id: c7ca073b-dcfd-4a79-8469-5da30b3250b5
+  macAddresses:
+  - 38:F3:2E:00:00:00/24
+  - 5C:44:3E:00:00:00/24
+  - 60:C5:E6:00:00:00/24
+  - 98:67:2E:00:00:00/24
+  - D0:8A:55:00:00:00/24
+  manufacturer: Skullcandy
+  manufacturerUri: https://device-type.com
+  name: Skullcan
+type: d3-device-type-assertion

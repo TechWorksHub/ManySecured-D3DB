@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d91c090e-1bf8-408f-8369-5990763e7bdd
+  macAddresses:
+  - C0:22:50:00:00:00/24
+  manufacturer: Koss Corporation
+  manufacturerUri: https://device-type.com
+  name: Koss
+type: d3-device-type-assertion

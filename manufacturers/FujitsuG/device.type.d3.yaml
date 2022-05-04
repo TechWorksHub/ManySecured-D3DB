@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df7bc4d1-dbd9-4be1-b861-225b9d54f0d5
+  macAddresses:
+  - 00:02:DC:00:00:00/24
+  manufacturer: Fujitsu General Limited
+  manufacturerUri: https://device-type.com
+  name: FujitsuG
+type: d3-device-type-assertion

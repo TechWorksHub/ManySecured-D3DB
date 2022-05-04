@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5568418a-9948-43c7-bda0-18fc923d8889
+  macAddresses:
+  - 00:1A:4C:00:00:00/24
+  - 00:50:C2:2F:30:00/36
+  manufacturer: Crossbow Technology, Inc
+  manufacturerUri: https://device-type.com
+  name: Crossbow
+type: d3-device-type-assertion

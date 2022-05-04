@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b9eaf35-301a-4cc2-9d2f-d11a84d65116
+  macAddresses:
+  - 3A:78:CA:00:00:00/24
+  manufacturer: SoundTalks NV
+  manufacturerUri: https://device-type.com
+  name: SoundTal
+type: d3-device-type-assertion

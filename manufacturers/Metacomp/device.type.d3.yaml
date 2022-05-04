@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 815f4d4f-abe7-4fbf-a4fc-7530a68d16ca
+  macAddresses:
+  - 00:C0:F5:00:00:00/24
+  manufacturer: Metacomp, Inc.
+  manufacturerUri: https://device-type.com
+  name: Metacomp
+type: d3-device-type-assertion

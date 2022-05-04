@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 655a781b-2c2a-44a9-86b9-2b0c25b1028d
+  macAddresses:
+  - 00:50:27:00:00:00/24
+  manufacturer: Genicom Corporation
+  manufacturerUri: https://device-type.com
+  name: Genicom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf9b3713-ae9d-4788-81bd-1b932e83c0f3
+  macAddresses:
+  - 00:50:C2:37:70:00/36
+  manufacturer: Xycom VME
+  manufacturerUri: https://device-type.com
+  name: XycomVME
+type: d3-device-type-assertion

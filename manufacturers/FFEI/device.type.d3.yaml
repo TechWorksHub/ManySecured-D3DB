@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1739c2a-18c7-4000-ac4b-d587347702d5
+  macAddresses:
+  - 00:1A:B4:00:00:00/24
+  manufacturer: FFEI Ltd.
+  manufacturerUri: https://device-type.com
+  name: FFEI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f2de9c37-1594-4679-9f02-e530cd5885ed
+  macAddresses:
+  - 00:20:19:00:00:00/24
+  manufacturer: Ohler Gmbh
+  manufacturerUri: https://device-type.com
+  name: Ohler
+type: d3-device-type-assertion

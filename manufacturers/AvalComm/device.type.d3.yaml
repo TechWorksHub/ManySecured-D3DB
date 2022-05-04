@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27c6566c-6242-4e94-94c9-77c9e11ea0ef
+  macAddresses:
+  - 00:50:28:00:00:00/24
+  manufacturer: Aval Communications
+  manufacturerUri: https://device-type.com
+  name: AvalComm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 967df06a-c33d-4bd5-a1d0-b025fa43e777
+  macAddresses:
+  - 00:D0:FB:00:00:00/24
+  manufacturer: Tek Microsystems, Incorporated
+  manufacturerUri: https://device-type.com
+  name: TekMicro
+type: d3-device-type-assertion

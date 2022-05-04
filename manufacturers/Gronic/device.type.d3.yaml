@@ -1,0 +1,9 @@
+credentialSubject:
+  id: da3408db-5304-4952-b7c2-7d615db2a7fd
+  macAddresses:
+  - 00:50:C2:C8:30:00/36
+  - 4C:BC:98:50:00:00/28
+  manufacturer: Gronic Systems GmbH
+  manufacturerUri: https://device-type.com
+  name: Gronic
+type: d3-device-type-assertion

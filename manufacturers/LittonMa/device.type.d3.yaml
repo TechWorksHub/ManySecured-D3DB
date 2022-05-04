@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2fb83222-8902-4802-8fc4-d8d27bacce76
+  macAddresses:
+  - 00:01:E9:00:00:00/24
+  manufacturer: Litton Marine Systems B.V.
+  manufacturerUri: https://device-type.com
+  name: LittonMa
+type: d3-device-type-assertion

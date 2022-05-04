@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b10dd9f4-52cf-46e6-9d4d-fbdef5a0a07b
+  macAddresses:
+  - 50:98:F3:00:00:00/24
+  manufacturer: Rheem Australia Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: RheemAus
+type: d3-device-type-assertion

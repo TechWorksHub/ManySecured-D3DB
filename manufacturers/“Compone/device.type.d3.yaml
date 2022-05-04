@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4cdab2d2-1c8d-4c3b-8226-97069fdc39f1
+  macAddresses:
+  - A4:3B:FA:D0:00:00/28
+  manufacturer: "JSC \u201CComponent-ASU\u201D"
+  manufacturerUri: https://device-type.com
+  name: "\u201CCompone"
+type: d3-device-type-assertion

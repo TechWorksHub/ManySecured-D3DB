@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00a277cc-46e9-45c2-b2aa-194de9e09838
+  macAddresses:
+  - 00:0F:50:00:00:00/24
+  manufacturer: StreamScale Limited
+  manufacturerUri: https://device-type.com
+  name: StreamSc
+type: d3-device-type-assertion

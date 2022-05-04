@@ -1,0 +1,16 @@
+credentialSubject:
+  id: b25148de-c76b-4bce-9361-2244d3b50a98
+  macAddresses:
+  - 00:69:2D:00:00:00/24
+  - 08:A5:C8:00:00:00/24
+  - 20:4B:22:00:00:00/24
+  - 2C:43:BE:00:00:00/24
+  - 54:C5:7A:00:00:00/24
+  - 60:31:3B:00:00:00/24
+  - 60:D2:1C:00:00:00/24
+  - 88:6B:44:00:00:00/24
+  - AC:56:7B:00:00:00/24
+  manufacturer: Sunnovo International Limited
+  manufacturerUri: https://device-type.com
+  name: SunnovoI
+type: d3-device-type-assertion

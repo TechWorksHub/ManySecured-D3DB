@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a18ca4e4-e3fc-4b72-9f1c-1db978edce32
+  macAddresses:
+  - 00:02:77:00:00:00/24
+  manufacturer: Cash Systemes Industrie
+  manufacturerUri: https://device-type.com
+  name: CashSyst
+type: d3-device-type-assertion

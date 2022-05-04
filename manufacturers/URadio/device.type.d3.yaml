@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1b2134c-a4b2-4603-b6bc-7741092b1b6e
+  macAddresses:
+  - B0:8E:1A:00:00:00/24
+  manufacturer: URadio Systems Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: URadio
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09e75bbd-874c-4c0e-910a-11ccfd4dbddc
+  macAddresses:
+  - 00:40:A5:00:00:00/24
+  manufacturer: Clinicomp Intl.
+  manufacturerUri: https://device-type.com
+  name: Clinicom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27a8d24d-af2c-4a3b-aef7-e654f054ce80
+  macAddresses:
+  - 00:0B:E5:00:00:00/24
+  manufacturer: HIMS International Corporation
+  manufacturerUri: https://device-type.com
+  name: HIMSInte
+type: d3-device-type-assertion

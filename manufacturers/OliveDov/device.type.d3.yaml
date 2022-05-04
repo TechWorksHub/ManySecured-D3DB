@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da385f4a-24fa-4a21-8cff-2ce3ede53de0
+  macAddresses:
+  - 10:7B:A4:00:00:00/24
+  manufacturer: Olive & Dove Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: OliveDov
+type: d3-device-type-assertion

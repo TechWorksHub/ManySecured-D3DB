@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 28343808-dac6-4abc-bda4-d046430acfd3
+  macAddresses:
+  - 00:0A:5B:00:00:00/24
+  - 00:50:C2:42:30:00/36
+  - 00:50:C2:E6:E0:00/36
+  - 00:50:C2:FA:20:00/36
+  - DC:57:26:00:00:00/24
+  manufacturer: Power-One as
+  manufacturerUri: https://device-type.com
+  name: Power-On
+type: d3-device-type-assertion

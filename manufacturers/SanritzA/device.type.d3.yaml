@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c54909f7-5fc9-4ec0-909e-76c61deba80f
+  macAddresses:
+  - 00:A0:B6:00:00:00/24
+  manufacturer: Sanritz Automation Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SanritzA
+type: d3-device-type-assertion

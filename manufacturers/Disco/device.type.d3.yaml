@@ -1,0 +1,8 @@
+credentialSubject:
+  id: faae4b3e-37fa-4604-8695-f770238dc829
+  macAddresses:
+  - 00:05:48:00:00:00/24
+  manufacturer: Disco Corporation
+  manufacturerUri: https://device-type.com
+  name: Disco
+type: d3-device-type-assertion

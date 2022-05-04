@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccb3cbbc-b2b7-4e93-bce3-c152cd458e9a
+  macAddresses:
+  - 68:CC:9C:00:00:00/24
+  manufacturer: Mine Site Technologies
+  manufacturerUri: https://device-type.com
+  name: MineSite
+type: d3-device-type-assertion

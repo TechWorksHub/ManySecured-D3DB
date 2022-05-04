@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 67f37038-fd93-4704-a42a-9087271b2b73
+  macAddresses:
+  - 00:12:6F:00:00:00/24
+  - 54:B7:E5:00:00:00/24
+  manufacturer: Rayson Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: RaysonTe
+type: d3-device-type-assertion

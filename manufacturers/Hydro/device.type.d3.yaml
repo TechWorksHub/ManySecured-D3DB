@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fc5fffc-6da5-4da7-be02-623ae2f5fa2d
+  macAddresses:
+  - BC:35:E5:00:00:00/24
+  manufacturer: Hydro Systems Company
+  manufacturerUri: https://device-type.com
+  name: Hydro
+type: d3-device-type-assertion

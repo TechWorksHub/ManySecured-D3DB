@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c8062c0-1fcb-42ac-abc8-0d8c0e1f2338
+  macAddresses:
+  - 00:90:11:00:00:00/24
+  manufacturer: WAVTrace, Inc.
+  manufacturerUri: https://device-type.com
+  name: WAVTrace
+type: d3-device-type-assertion

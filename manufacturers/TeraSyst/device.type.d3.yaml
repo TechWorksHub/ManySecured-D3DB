@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f48e96d-d76d-45e3-b05f-0ac89e278dca
+  macAddresses:
+  - 00:03:9E:00:00:00/24
+  manufacturer: Tera System Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: TeraSyst
+type: d3-device-type-assertion

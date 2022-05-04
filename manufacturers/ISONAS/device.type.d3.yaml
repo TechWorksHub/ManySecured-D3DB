@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8530b2b-91c0-40f2-a57e-c5e8544c3b33
+  macAddresses:
+  - 00:18:C8:00:00:00/24
+  manufacturer: ISONAS Inc.
+  manufacturerUri: https://device-type.com
+  name: ISONAS
+type: d3-device-type-assertion

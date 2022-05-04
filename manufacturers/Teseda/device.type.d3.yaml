@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1d5026d8-b98f-4e9a-b3d6-67d702264383
+  macAddresses:
+  - 00:50:C2:16:20:00/36
+  manufacturer: Teseda Corporation
+  manufacturerUri: https://device-type.com
+  name: Teseda
+type: d3-device-type-assertion

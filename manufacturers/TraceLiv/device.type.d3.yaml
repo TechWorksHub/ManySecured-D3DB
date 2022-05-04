@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9323fdf-3fa1-4fb6-a482-20eeaa25f662
+  macAddresses:
+  - B8:13:E9:00:00:00/24
+  manufacturer: Trace Live Network
+  manufacturerUri: https://device-type.com
+  name: TraceLiv
+type: d3-device-type-assertion

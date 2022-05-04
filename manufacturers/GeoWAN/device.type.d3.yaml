@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0faffda-f805-4a23-8cdc-828fd173841e
+  macAddresses:
+  - 68:A8:78:00:00:00/24
+  manufacturer: GeoWAN Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: GeoWAN
+type: d3-device-type-assertion

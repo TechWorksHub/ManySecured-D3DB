@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 282e83f6-9aa7-44eb-99b9-9aa7895b167f
+  macAddresses:
+  - 00:0B:C6:00:00:00/24
+  manufacturer: ISAC, Inc.
+  manufacturerUri: https://device-type.com
+  name: ISAC
+type: d3-device-type-assertion

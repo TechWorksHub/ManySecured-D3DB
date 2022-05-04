@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 80dc507c-2f33-456c-ae11-5588d4ec601a
+  macAddresses:
+  - 70:B3:D5:82:40:00/36
+  - 8C:55:BB:00:00:00/24
+  manufacturer: Songwoo Information & Technology Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: SongwooI
+type: d3-device-type-assertion

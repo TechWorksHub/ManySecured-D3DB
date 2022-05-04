@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fe8ecb7-92a7-4907-b606-335e81616807
+  macAddresses:
+  - 38:01:18:00:00:00/24
+  manufacturer: ULVAC,Inc.
+  manufacturerUri: https://device-type.com
+  name: ULVAC
+type: d3-device-type-assertion

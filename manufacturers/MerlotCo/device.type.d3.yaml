@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8460275-62cf-434e-b46f-64c7e1f78479
+  macAddresses:
+  - 00:50:7B:00:00:00/24
+  manufacturer: Merlot Communications
+  manufacturerUri: https://device-type.com
+  name: MerlotCo
+type: d3-device-type-assertion

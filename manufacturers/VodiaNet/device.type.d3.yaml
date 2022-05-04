@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42d25825-e18a-430a-8bf2-f84e7a7acb0b
+  macAddresses:
+  - D8:E0:04:00:00:00/24
+  manufacturer: Vodia Networks Inc
+  manufacturerUri: https://device-type.com
+  name: VodiaNet
+type: d3-device-type-assertion

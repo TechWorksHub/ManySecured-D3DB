@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b29ec0db-1c41-4d53-b13f-9874990cf19e
+  macAddresses:
+  - 00:C0:08:00:00:00/24
+  manufacturer: Seco Srl
+  manufacturerUri: https://device-type.com
+  name: Seco
+type: d3-device-type-assertion

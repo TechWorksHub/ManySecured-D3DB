@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5fbcb07c-cbad-4383-9e9a-3f76c1dfcd9b
+  macAddresses:
+  - 00:50:C2:17:80:00/36
+  - 00:50:C2:19:10:00/36
+  manufacturer: Partner Voxstream A/S
+  manufacturerUri: https://device-type.com
+  name: PartnerV
+type: d3-device-type-assertion

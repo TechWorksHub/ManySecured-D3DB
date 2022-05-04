@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cfe5ab5-e8bd-4697-ae30-38bab7160e34
+  macAddresses:
+  - 00:0B:4A:00:00:00/24
+  manufacturer: Visimetrics (UK) Ltd
+  manufacturerUri: https://device-type.com
+  name: Visimetr
+type: d3-device-type-assertion

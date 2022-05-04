@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc4fb7dd-2bb5-46d1-8e08-f70c8b288206
+  macAddresses:
+  - 00:21:C1:00:00:00/24
+  manufacturer: ABB Oy / Medium Voltage Products
+  manufacturerUri: https://device-type.com
+  name: ABBMediu
+type: d3-device-type-assertion

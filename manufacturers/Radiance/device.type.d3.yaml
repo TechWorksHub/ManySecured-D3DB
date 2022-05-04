@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aeab1e5-b016-4d5e-8555-c8ea5f774c4c
+  macAddresses:
+  - 00:13:AE:00:00:00/24
+  manufacturer: Radiance Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: Radiance
+type: d3-device-type-assertion

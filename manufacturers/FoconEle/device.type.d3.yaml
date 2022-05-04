@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6b57c6b-1005-4e9b-b57c-67a1a132fde3
+  macAddresses:
+  - 00:E0:3D:00:00:00/24
+  manufacturer: Focon Electronic Systems A/S
+  manufacturerUri: https://device-type.com
+  name: FoconEle
+type: d3-device-type-assertion

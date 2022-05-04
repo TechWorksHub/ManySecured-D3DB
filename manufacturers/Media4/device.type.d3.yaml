@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50b9bbbb-9c19-48ed-b9dc-8c9e5550b8f5
+  macAddresses:
+  - 00:10:AA:00:00:00/24
+  manufacturer: Media4, Inc.
+  manufacturerUri: https://device-type.com
+  name: Media4
+type: d3-device-type-assertion

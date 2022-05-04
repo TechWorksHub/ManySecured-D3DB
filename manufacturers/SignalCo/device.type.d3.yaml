@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ffff0e4b-20fa-443e-9c16-8fe90d31f414
+  macAddresses:
+  - 00:03:BB:00:00:00/24
+  - 00:09:D5:00:00:00/24
+  manufacturer: Signal Communications Limited
+  manufacturerUri: https://device-type.com
+  name: SignalCo
+type: d3-device-type-assertion

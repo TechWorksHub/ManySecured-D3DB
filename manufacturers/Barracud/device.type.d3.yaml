@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1519b27f-6b60-4e4a-82e9-ffae0152054a
+  macAddresses:
+  - 00:03:00:00:00:00/24
+  - 70:B3:D5:FF:A0:00/36
+  manufacturer: Barracuda Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: Barracud
+type: d3-device-type-assertion

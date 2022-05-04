@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 36ca8900-8183-466b-b7f3-055122b5aea4
+  macAddresses:
+  - 70:B3:D5:13:80:00/36
+  - 70:B3:D5:31:20:00/36
+  manufacturer: SMITEC S.p.A.
+  manufacturerUri: https://device-type.com
+  name: SMITEC
+type: d3-device-type-assertion

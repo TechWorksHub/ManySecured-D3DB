@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f18e30d-911a-4820-96d7-1a6393aa8992
+  macAddresses:
+  - 34:04:9E:20:00:00/28
+  manufacturer: EFD Induction
+  manufacturerUri: https://device-type.com
+  name: EFDInduc
+type: d3-device-type-assertion

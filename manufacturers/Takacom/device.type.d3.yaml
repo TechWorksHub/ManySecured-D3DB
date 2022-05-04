@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9aa13a87-7000-4859-9338-1018be12d730
+  macAddresses:
+  - 00:1A:48:00:00:00/24
+  manufacturer: Takacom Corporation
+  manufacturerUri: https://device-type.com
+  name: Takacom
+type: d3-device-type-assertion

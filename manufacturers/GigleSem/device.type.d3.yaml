@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f1f1a37-046b-4a7f-80a8-91ec3b5d1645
+  macAddresses:
+  - 00:1F:84:00:00:00/24
+  manufacturer: Gigle Semiconductor
+  manufacturerUri: https://device-type.com
+  name: GigleSem
+type: d3-device-type-assertion

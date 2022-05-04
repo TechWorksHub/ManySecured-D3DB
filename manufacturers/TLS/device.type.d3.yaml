@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29bd575d-25aa-4085-8f65-538d935846b5
+  macAddresses:
+  - 00:50:C2:00:00:00/36
+  - 58:50:AB:00:00:00/24
+  manufacturer: T.L.S. Corp.
+  manufacturerUri: https://device-type.com
+  name: TLS
+type: d3-device-type-assertion

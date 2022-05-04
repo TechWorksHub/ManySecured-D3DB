@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 53d1de05-e433-4c15-9ce4-74b96a1f4bbf
+  macAddresses:
+  - 00:22:7D:00:00:00/24
+  manufacturer: Ye Data Inc.
+  manufacturerUri: https://device-type.com
+  name: YeData
+type: d3-device-type-assertion

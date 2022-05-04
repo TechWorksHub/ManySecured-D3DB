@@ -1,0 +1,11 @@
+credentialSubject:
+  id: f7072d92-3c86-4e8b-bef3-f05ac9d20672
+  macAddresses:
+  - 00:19:B3:00:00:00/24
+  - 00:26:E1:00:00:00/24
+  - 08:00:55:00:00:00/24
+  - 08:00:56:00:00:00/24
+  manufacturer: Stanford Research Systems
+  manufacturerUri: https://device-type.com
+  name: Stanford
+type: d3-device-type-assertion

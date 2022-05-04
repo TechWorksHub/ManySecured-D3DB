@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 909d531b-e135-4e9f-806e-8dc397b21774
+  macAddresses:
+  - 00:09:4B:00:00:00/24
+  manufacturer: FillFactory NV
+  manufacturerUri: https://device-type.com
+  name: FillFact
+type: d3-device-type-assertion

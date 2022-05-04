@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17b57da2-1d3e-4ca3-bd56-8901c7387ceb
+  macAddresses:
+  - 50:62:55:50:00:00/28
+  - 58:20:8A:90:00:00/28
+  manufacturer: Suzhou Ruixinjie Information Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: SuzhouRu
+type: d3-device-type-assertion

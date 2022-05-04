@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a832bc11-330b-4777-8801-e38910765ba7
+  macAddresses:
+  - 00:08:A0:00:00:00/24
+  manufacturer: Stotz Feinmesstechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: StotzFei
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c57cfd85-23b3-40b6-bfa6-02dfb3ba3c61
+  macAddresses:
+  - 00:50:B8:00:00:00/24
+  manufacturer: Inova Computers Gmbh & Co. Kg
+  manufacturerUri: https://device-type.com
+  name: InovaCom
+type: d3-device-type-assertion

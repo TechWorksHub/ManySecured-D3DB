@@ -1,0 +1,20 @@
+credentialSubject:
+  id: 0e091249-5f05-429c-819c-5719634acf3e
+  macAddresses:
+  - 00:0F:86:00:00:00/24
+  - 00:1C:CC:00:00:00/24
+  - 00:25:57:00:00:00/24
+  - 00:26:FF:00:00:00/24
+  - 1C:69:A5:00:00:00/24
+  - 34:BB:1F:00:00:00/24
+  - 40:6F:2A:00:00:00/24
+  - 48:9D:24:00:00:00/24
+  - 68:ED:43:00:00:00/24
+  - 70:AA:B2:00:00:00/24
+  - 94:EB:CD:00:00:00/24
+  - A4:E4:B8:00:00:00/24
+  - F4:0B:93:00:00:00/24
+  manufacturer: BlackBerry RTS
+  manufacturerUri: https://device-type.com
+  name: BlackBer
+type: d3-device-type-assertion

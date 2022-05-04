@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5039f72-bebc-48e0-8d52-09f6c529d826
+  macAddresses:
+  - 00:22:CA:00:00:00/24
+  manufacturer: Anviz Biometric Tech. Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: AnvizBio
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7eecaaab-93d7-416c-9242-946e2e2decba
+  macAddresses:
+  - 00:17:11:00:00:00/24
+  manufacturer: Cytiva Sweden AB
+  manufacturerUri: https://device-type.com
+  name: CytivaSw
+type: d3-device-type-assertion

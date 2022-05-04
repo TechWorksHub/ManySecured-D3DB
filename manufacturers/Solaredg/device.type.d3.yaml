@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b74248bc-2fb6-4630-9b1b-c9fa9b8cd587
+  macAddresses:
+  - 48:0B:B2:50:00:00/28
+  - 88:A9:A7:10:00:00/28
+  manufacturer: Solaredge LTD.
+  manufacturerUri: https://device-type.com
+  name: Solaredg
+type: d3-device-type-assertion

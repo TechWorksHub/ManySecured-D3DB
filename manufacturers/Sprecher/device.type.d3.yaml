@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dda71ef-0231-47b2-9f97-44889383e716
+  macAddresses:
+  - 00:0F:A4:00:00:00/24
+  manufacturer: Sprecher Automation GmbH
+  manufacturerUri: https://device-type.com
+  name: Sprecher
+type: d3-device-type-assertion

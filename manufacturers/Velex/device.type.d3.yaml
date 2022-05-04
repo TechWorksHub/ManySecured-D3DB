@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0593886-bf77-4ccb-813f-6c6756f9a2bc
+  macAddresses:
+  - 08:0E:A8:00:00:00/24
+  manufacturer: Velex s.r.l.
+  manufacturerUri: https://device-type.com
+  name: Velex
+type: d3-device-type-assertion

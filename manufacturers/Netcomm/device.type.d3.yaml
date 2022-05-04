@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a270e309-d1c1-46dd-b40e-57f7cb259211
+  macAddresses:
+  - 00:40:28:00:00:00/24
+  - 00:60:64:00:00:00/24
+  manufacturer: Netcomm Limited
+  manufacturerUri: https://device-type.com
+  name: Netcomm
+type: d3-device-type-assertion

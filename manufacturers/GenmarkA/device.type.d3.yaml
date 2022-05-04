@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 643a4b50-96cf-4d72-bd38-0e2d5cf4bd5e
+  macAddresses:
+  - 28:B3:AB:00:00:00/24
+  manufacturer: Genmark Automation
+  manufacturerUri: https://device-type.com
+  name: GenmarkA
+type: d3-device-type-assertion

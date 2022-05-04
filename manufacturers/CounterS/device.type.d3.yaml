@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 417b5a31-eaf3-4e22-a63f-0dc54a4cf4f7
+  macAddresses:
+  - 00:20:C3:00:00:00/24
+  manufacturer: Counter Solutions Ltd.
+  manufacturerUri: https://device-type.com
+  name: CounterS
+type: d3-device-type-assertion

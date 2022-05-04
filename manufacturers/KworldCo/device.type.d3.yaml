@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09a802f3-033a-4ed5-93c6-d11a515a47e2
+  macAddresses:
+  - 00:1B:F2:00:00:00/24
+  manufacturer: Kworld Computer Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: KworldCo
+type: d3-device-type-assertion

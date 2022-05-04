@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc2de3a5-61db-459b-9527-e321d16d7fec
+  macAddresses:
+  - 00:17:77:00:00:00/24
+  manufacturer: Obsidian Research Corporation
+  manufacturerUri: https://device-type.com
+  name: Obsidian
+type: d3-device-type-assertion

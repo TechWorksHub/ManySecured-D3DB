@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 89cd409d-1882-427e-95a0-e6b6e0ec8549
+  macAddresses:
+  - 00:11:D0:00:00:00/24
+  - 00:16:A5:00:00:00/24
+  - 00:50:60:00:00:00/24
+  - 00:E0:2A:00:00:00/24
+  manufacturer: Tandberg Data ASA
+  manufacturerUri: https://device-type.com
+  name: Tandberg
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e374df8-da86-4d02-9c8f-eb3793918cf3
+  macAddresses:
+  - 00:0C:D9:00:00:00/24
+  manufacturer: Itcare Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: Itcare
+type: d3-device-type-assertion

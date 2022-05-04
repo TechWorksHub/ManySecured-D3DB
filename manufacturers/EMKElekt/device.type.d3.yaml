@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af71ef11-4b7e-44f5-ad77-0ea521186563
+  macAddresses:
+  - 00:80:D9:00:00:00/24
+  manufacturer: EMK Elektronik GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: EMKElekt
+type: d3-device-type-assertion

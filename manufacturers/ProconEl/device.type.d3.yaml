@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 33332f19-fea1-4f10-9c0d-34d51dcdbd80
+  macAddresses:
+  - 00:50:C2:13:20:00/36
+  - 00:50:C2:56:00:00/36
+  - 00:50:C2:62:D0:00/36
+  - 00:50:C2:C3:20:00/36
+  - 00:50:C2:EE:10:00/36
+  - 70:B3:D5:52:70:00/36
+  - 70:B3:D5:55:B0:00/36
+  - 70:B3:D5:8E:B0:00/36
+  - 70:B3:D5:CB:C0:00/36
+  manufacturer: Procon Electronics
+  manufacturerUri: https://device-type.com
+  name: ProconEl
+type: d3-device-type-assertion

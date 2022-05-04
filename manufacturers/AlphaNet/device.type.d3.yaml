@@ -1,0 +1,15 @@
+credentialSubject:
+  id: e929e749-fb34-42c7-bda8-a78f1634bc6d
+  macAddresses:
+  - 00:0F:A3:00:00:00/24
+  - 00:18:02:00:00:00/24
+  - 00:1D:6A:00:00:00/24
+  - 0C:83:CC:00:00:00/24
+  - 54:2A:A2:00:00:00/24
+  - 5C:33:8E:00:00:00/24
+  - 88:6A:E3:00:00:00/24
+  - D0:AE:EC:00:00:00/24
+  manufacturer: Alpha Networks Inc.
+  manufacturerUri: https://device-type.com
+  name: AlphaNet
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 46003a7a-86a3-402b-8d91-4dd5bedec623
+  macAddresses:
+  - 00:1D:5D:00:00:00/24
+  - 08:00:25:00:00:00/24
+  manufacturer: Control Dynamics Pty. Ltd.
+  manufacturerUri: https://device-type.com
+  name: ControlD
+type: d3-device-type-assertion

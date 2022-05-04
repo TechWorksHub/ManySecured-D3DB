@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 038cae59-ce49-4d8b-be43-231be1642243
+  macAddresses:
+  - 64:FC:8C:00:00:00/24
+  manufacturer: Zonar Systems
+  manufacturerUri: https://device-type.com
+  name: Zonar
+type: d3-device-type-assertion

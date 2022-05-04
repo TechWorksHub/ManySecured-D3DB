@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23f7dd65-d76b-4e42-b69e-3f9a34fddce2
+  macAddresses:
+  - 00:50:C2:E2:F0:00/36
+  manufacturer: Beam Ltd
+  manufacturerUri: https://device-type.com
+  name: Beam
+type: d3-device-type-assertion

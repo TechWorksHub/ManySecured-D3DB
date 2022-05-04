@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a68110e1-e882-437b-b52b-9f7ade131ab1
+  macAddresses:
+  - EC:A2:9B:00:00:00/24
+  manufacturer: Kemppi Oy
+  manufacturerUri: https://device-type.com
+  name: Kemppi
+type: d3-device-type-assertion

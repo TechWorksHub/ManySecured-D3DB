@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ed2f1934-9e76-4416-8d15-0c9a2eef760c
+  macAddresses:
+  - 00:50:C2:3F:E0:00/36
+  - 00:50:C2:C6:10:00/36
+  manufacturer: HaiVision Systems Inc
+  manufacturerUri: https://device-type.com
+  name: HaiVisio
+type: d3-device-type-assertion

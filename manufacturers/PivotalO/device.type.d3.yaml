@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02f3d261-5d48-4806-80e6-21d9c9001578
+  macAddresses:
+  - E4:28:05:00:00:00/24
+  manufacturer: Pivotal Optics
+  manufacturerUri: https://device-type.com
+  name: PivotalO
+type: d3-device-type-assertion

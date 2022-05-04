@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7b1a3c4-a034-4192-8d28-f54888a950a7
+  macAddresses:
+  - 00:1D:06:00:00:00/24
+  manufacturer: HM Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: HMElectr
+type: d3-device-type-assertion

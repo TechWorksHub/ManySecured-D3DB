@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7cbe8db3-b6e8-495c-ad5f-e8372239218c
+  macAddresses:
+  - 54:27:8D:00:00:00/24
+  - B8:7C:6F:00:00:00/24
+  manufacturer: NXP (China) Management Ltd.
+  manufacturerUri: https://device-type.com
+  name: NXPChina
+type: d3-device-type-assertion

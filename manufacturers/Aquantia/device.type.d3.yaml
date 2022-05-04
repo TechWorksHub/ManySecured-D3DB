@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c5f8171f-be56-45de-b7da-2b57c49d6fc4
+  macAddresses:
+  - 00:17:B6:00:00:00/24
+  - 30:0E:E3:00:00:00/24
+  manufacturer: Aquantia Corporation
+  manufacturerUri: https://device-type.com
+  name: Aquantia
+type: d3-device-type-assertion

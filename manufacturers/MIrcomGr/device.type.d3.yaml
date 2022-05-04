@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8419cd2-c312-45a8-a806-73d0d3e0e1af
+  macAddresses:
+  - 00:1E:71:00:00:00/24
+  manufacturer: MIrcom Group of Companies
+  manufacturerUri: https://device-type.com
+  name: MIrcomGr
+type: d3-device-type-assertion

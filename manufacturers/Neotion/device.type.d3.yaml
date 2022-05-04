@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9876e573-872f-4947-b23f-1a433bece51e
+  macAddresses:
+  - 00:23:7C:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Neotion
+type: d3-device-type-assertion

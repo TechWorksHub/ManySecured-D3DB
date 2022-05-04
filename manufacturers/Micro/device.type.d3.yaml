@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a3805ef7-9244-4433-8aaa-9b3fe2d0b1ff
+  macAddresses:
+  - 00:0B:B7:00:00:00/24
+  - 00:40:F0:00:00:00/24
+  manufacturer: Micro Systems Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Micro
+type: d3-device-type-assertion

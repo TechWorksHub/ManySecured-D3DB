@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3097d231-5dc2-47a5-afa4-1b011fdc5743
+  macAddresses:
+  - 00:C0:92:00:00:00/24
+  manufacturer: Mennen Medical Inc.
+  manufacturerUri: https://device-type.com
+  name: MennenMe
+type: d3-device-type-assertion

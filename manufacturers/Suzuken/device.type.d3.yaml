@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6d0e3f8b-01ee-4a5e-8fc3-50ea8d0b9c5f
+  macAddresses:
+  - 00:1A:C9:00:00:00/24
+  - D8:43:ED:00:00:00/24
+  manufacturer: Suzuken Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Suzuken
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 388a7406-5bba-4782-a1dc-859dd305cdea
+  macAddresses:
+  - 00:16:FD:00:00:00/24
+  manufacturer: Jaty Electronics
+  manufacturerUri: https://device-type.com
+  name: JatyElec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9078a991-2ce6-4222-90c9-53ad22301062
+  macAddresses:
+  - 70:B3:D5:A8:B0:00/36
+  - DC:E5:33:E0:00:00/28
+  manufacturer: Giant Power Technology Biomedical Corporation
+  manufacturerUri: https://device-type.com
+  name: GiantPow
+type: d3-device-type-assertion

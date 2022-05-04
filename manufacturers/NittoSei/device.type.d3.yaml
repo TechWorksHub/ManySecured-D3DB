@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df8ceb8e-5a81-4572-94b6-a364260e3391
+  macAddresses:
+  - 1C:C0:E1:C0:00:00/28
+  manufacturer: Nitto Seiko
+  manufacturerUri: https://device-type.com
+  name: NittoSei
+type: d3-device-type-assertion

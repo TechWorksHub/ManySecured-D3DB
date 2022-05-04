@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4e92e0a-71b0-4c49-b16a-7dc7fdfdb9fe
+  macAddresses:
+  - 00:01:75:00:00:00/24
+  manufacturer: Radiant Communications Corp.
+  manufacturerUri: https://device-type.com
+  name: RadiantC
+type: d3-device-type-assertion

@@ -1,0 +1,13 @@
+credentialSubject:
+  id: ab36bcde-6158-48bb-9075-32413b63d073
+  macAddresses:
+  - 00:00:1F:00:00:00/24
+  - 00:0F:96:00:00:00/24
+  - 00:10:CA:00:00:00/24
+  - 00:40:9F:00:00:00/24
+  - 00:A0:12:00:00:00/24
+  - 00:C0:AB:00:00:00/24
+  manufacturer: Telco Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Telco
+type: d3-device-type-assertion

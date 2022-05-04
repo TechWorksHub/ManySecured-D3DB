@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c52ff70-986e-4572-a57a-5e483fab05d3
+  macAddresses:
+  - DC:DB:70:00:00:00/24
+  manufacturer: Tonfunk Systementwicklung und Service GmbH
+  manufacturerUri: https://device-type.com
+  name: TonfunkS
+type: d3-device-type-assertion

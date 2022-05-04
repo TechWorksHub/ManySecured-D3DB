@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16ca99b7-8fcf-475b-990b-ddedf25684c4
+  macAddresses:
+  - 00:19:EB:00:00:00/24
+  manufacturer: Pyronix Ltd
+  manufacturerUri: https://device-type.com
+  name: Pyronix
+type: d3-device-type-assertion

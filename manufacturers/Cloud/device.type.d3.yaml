@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 37758c4d-5448-4d8a-8f7c-a5e7dac006cf
+  macAddresses:
+  - 00:80:84:00:00:00/24
+  manufacturer: The Cloud Inc.
+  manufacturerUri: https://device-type.com
+  name: Cloud
+type: d3-device-type-assertion

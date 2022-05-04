@@ -1,0 +1,11 @@
+credentialSubject:
+  id: de385ec6-689a-44a6-b667-cef8fdc12b4f
+  macAddresses:
+  - 00:20:4F:00:00:00/24
+  - 00:50:C2:8E:10:00/36
+  - 14:1F:BA:20:00:00/28
+  - E0:AF:4F:00:00:00/24
+  manufacturer: Deutsche Aerospace Ag
+  manufacturerUri: https://device-type.com
+  name: Deutsche
+type: d3-device-type-assertion

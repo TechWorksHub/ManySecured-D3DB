@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e5b65cb-2656-41ba-8b18-a01fe2112488
+  macAddresses:
+  - 00:12:85:00:00:00/24
+  manufacturer: Gizmondo Europe Ltd
+  manufacturerUri: https://device-type.com
+  name: Gizmondo
+type: d3-device-type-assertion

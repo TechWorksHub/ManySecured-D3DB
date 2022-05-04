@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5445ad53-cb78-4f52-bc7c-8e163c5b0131
+  macAddresses:
+  - AA:38:C7:00:00:00/24
+  manufacturer: Kaloom inc
+  manufacturerUri: https://device-type.com
+  name: Kaloom
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 50c642f7-bc34-4be4-bcc2-4b0dbe530dd4
+  macAddresses:
+  - 00:C0:E8:00:00:00/24
+  manufacturer: Plexcom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Plexcom
+type: d3-device-type-assertion

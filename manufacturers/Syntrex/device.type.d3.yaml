@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1918d426-84cd-4735-ab93-7746c80fbedd
+  macAddresses:
+  - 00:00:3F:00:00:00/24
+  manufacturer: Syntrex, Inc.
+  manufacturerUri: https://device-type.com
+  name: Syntrex
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0e814dd-1e9a-4a94-9a39-dec6da21e865
+  macAddresses:
+  - 00:27:01:00:00:00/24
+  manufacturer: INCOstartec GmbH
+  manufacturerUri: https://device-type.com
+  name: INCOstar
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 095b59bf-ec41-454d-9a1a-da3f15fc62a1
+  macAddresses:
+  - 00:00:B8:00:00:00/24
+  manufacturer: Seikosha Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Seikosha
+type: d3-device-type-assertion

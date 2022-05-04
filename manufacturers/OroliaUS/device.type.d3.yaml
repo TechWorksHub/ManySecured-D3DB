@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23c8724b-64b4-44ad-b950-def674e99bd1
+  macAddresses:
+  - 00:0C:EC:00:00:00/24
+  manufacturer: Orolia USA
+  manufacturerUri: https://device-type.com
+  name: OroliaUS
+type: d3-device-type-assertion

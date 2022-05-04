@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 33d88f18-c8d0-44a5-b5b2-36ed28a06cdf
+  macAddresses:
+  - 00:01:7B:00:00:00/24
+  - 00:06:5D:00:00:00/24
+  - 00:11:FB:00:00:00/24
+  manufacturer: Heidelberger Druckmaschinen AG
+  manufacturerUri: https://device-type.com
+  name: Heidelbe
+type: d3-device-type-assertion

@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 0a86ca23-27c6-4991-8a71-787f1e4b1f4f
+  macAddresses:
+  - 00:20:96:00:00:00/24
+  - 00:50:C2:09:00:00/36
+  - 00:50:C2:2C:40:00/36
+  - FC:FE:C2:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Invensys
+type: d3-device-type-assertion

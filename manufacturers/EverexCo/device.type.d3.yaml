@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e708daf0-fe1a-4a3d-a037-37ea7b9ea0d6
+  macAddresses:
+  - 00:06:3F:00:00:00/24
+  manufacturer: Everex Communications Inc.
+  manufacturerUri: https://device-type.com
+  name: EverexCo
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68c939c9-803a-4bfa-86e6-5daae8934cb4
+  macAddresses:
+  - C0:58:A7:00:00:00/24
+  manufacturer: Pico Systems Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Pico
+type: d3-device-type-assertion

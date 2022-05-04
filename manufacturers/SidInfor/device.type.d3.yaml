@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8c78d7d-160b-49da-b551-bddaa45f6f41
+  macAddresses:
+  - 00:C0:C5:00:00:00/24
+  manufacturer: Sid Informatica
+  manufacturerUri: https://device-type.com
+  name: SidInfor
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9b6b546b-a6d2-453c-a5cb-87166e60c5c0
+  macAddresses:
+  - 70:B3:D5:37:B0:00/36
+  - 70:B3:D5:77:60:00/36
+  manufacturer: Power Ltd.
+  manufacturerUri: https://device-type.com
+  name: Power
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7da564b-ef47-4171-8765-aeeb90393305
+  macAddresses:
+  - 00:24:BD:00:00:00/24
+  manufacturer: Hainzl Industriesysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: HainzlIn
+type: d3-device-type-assertion

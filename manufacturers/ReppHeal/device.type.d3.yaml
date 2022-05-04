@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba7d2724-72b1-4dfe-b093-c4f8f276393f
+  macAddresses:
+  - C8:2C:2B:20:00:00/28
+  manufacturer: Repp Health
+  manufacturerUri: https://device-type.com
+  name: ReppHeal
+type: d3-device-type-assertion

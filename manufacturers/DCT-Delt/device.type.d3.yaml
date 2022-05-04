@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 095ec35b-b978-4cb4-b206-78cdde9eb60b
+  macAddresses:
+  - 00:24:1F:00:00:00/24
+  manufacturer: DCT-Delta GmbH
+  manufacturerUri: https://device-type.com
+  name: DCT-Delt
+type: d3-device-type-assertion

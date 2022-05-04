@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 00b259cb-c16b-47b4-861c-708f8ff0f6fa
+  macAddresses:
+  - 00:50:C2:D6:90:00/36
+  - 00:50:C2:E4:A0:00/36
+  manufacturer: GHL Systems Bhd
+  manufacturerUri: https://device-type.com
+  name: GHLBhd
+type: d3-device-type-assertion

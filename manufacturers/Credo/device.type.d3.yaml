@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 80f20401-d419-4faf-8305-88e5791f5e0d
+  macAddresses:
+  - 9A:AD:CA:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Credo
+type: d3-device-type-assertion

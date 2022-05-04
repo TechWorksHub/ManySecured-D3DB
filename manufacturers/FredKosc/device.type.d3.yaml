@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 44a6796d-ae81-49cd-b473-a251aca356a4
+  macAddresses:
+  - 08:00:3F:00:00:00/24
+  manufacturer: Fred Koschara Enterprises
+  manufacturerUri: https://device-type.com
+  name: FredKosc
+type: d3-device-type-assertion

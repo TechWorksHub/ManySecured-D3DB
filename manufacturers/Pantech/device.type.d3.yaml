@@ -1,0 +1,12 @@
+credentialSubject:
+  id: d82c6a63-65c5-4643-910e-efbba56e1e8e
+  macAddresses:
+  - 00:0F:E4:00:00:00/24
+  - 2C:30:68:00:00:00/24
+  - A0:78:BA:00:00:00/24
+  - D0:57:85:00:00:00/24
+  - D0:95:C7:00:00:00/24
+  manufacturer: Pantech Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Pantech
+type: d3-device-type-assertion

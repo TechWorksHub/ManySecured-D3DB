@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 942f62c0-1e9c-4582-b895-7cebd48192a0
+  macAddresses:
+  - 00:50:C2:24:70:00/36
+  - 00:50:C2:60:A0:00/36
+  - 00:50:C2:8C:60:00/36
+  - 50:93:4F:00:00:00/24
+  manufacturer: Gradual Tecnologia Ltda.
+  manufacturerUri: https://device-type.com
+  name: GradualT
+type: d3-device-type-assertion

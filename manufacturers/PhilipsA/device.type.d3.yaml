@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 38cd6f92-caba-4b9b-9418-bdb64ef3c155
+  macAddresses:
+  - 00:90:20:00:00:00/24
+  - 08:00:6F:00:00:00/24
+  manufacturer: Philips Analytical X-Ray B.V.
+  manufacturerUri: https://device-type.com
+  name: PhilipsA
+type: d3-device-type-assertion

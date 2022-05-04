@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2a5d4d4-bc66-470b-b59b-77aa53120860
+  macAddresses:
+  - 00:50:C2:13:40:00/36
+  manufacturer: DRS Photronics
+  manufacturerUri: https://device-type.com
+  name: DRSPhotr
+type: d3-device-type-assertion

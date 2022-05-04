@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f85b6d22-467c-4d42-9a46-fe94c8b21a65
+  macAddresses:
+  - 00:1B:C5:09:50:00/36
+  manufacturer: PREVAC sp. z o.o.
+  manufacturerUri: https://device-type.com
+  name: PREVACsp
+type: d3-device-type-assertion

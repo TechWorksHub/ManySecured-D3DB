@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9895d29-77cf-4233-9ddf-b3b21086c4f6
+  macAddresses:
+  - 00:0F:FA:00:00:00/24
+  manufacturer: Optinel Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Optinel
+type: d3-device-type-assertion

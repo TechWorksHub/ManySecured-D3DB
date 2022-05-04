@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e7cbcb8-e29b-44ca-a303-18b5f3b6d0ca
+  macAddresses:
+  - 00:05:CE:00:00:00/24
+  manufacturer: Prolink Microsystems Corporation
+  manufacturerUri: https://device-type.com
+  name: ProlinkM
+type: d3-device-type-assertion

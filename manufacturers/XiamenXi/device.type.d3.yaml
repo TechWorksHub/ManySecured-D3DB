@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 937e8e25-c021-4959-8396-6c8a932b113a
+  macAddresses:
+  - 00:12:F7:00:00:00/24
+  - B8:D8:12:50:00:00/28
+  manufacturer: Xiamen Xinglian Electronics Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: XiamenXi
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 53d12772-f90b-4e5e-99da-cba098eb9065
+  macAddresses:
+  - 00:0D:AB:00:00:00/24
+  - 00:90:55:00:00:00/24
+  - 34:F8:6E:00:00:00/24
+  - A0:04:3E:00:00:00/24
+  - B8:28:8B:00:00:00/24
+  manufacturer: Parker Hannifin GmbH Electromechanical Division Europe
+  manufacturerUri: https://device-type.com
+  name: ParkerHa
+type: d3-device-type-assertion

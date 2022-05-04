@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9fb0444-cec9-40a5-b6cf-e37b694c21c9
+  macAddresses:
+  - 30:61:12:00:00:00/24
+  manufacturer: PAV GmbH
+  manufacturerUri: https://device-type.com
+  name: PAV
+type: d3-device-type-assertion

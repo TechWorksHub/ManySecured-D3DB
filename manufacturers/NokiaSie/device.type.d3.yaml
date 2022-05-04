@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e333f38a-84b1-4572-b055-2f2f5ef45c92
+  macAddresses:
+  - 00:0F:BB:00:00:00/24
+  manufacturer: Nokia Siemens Networks GmbH & Co. KG.
+  manufacturerUri: https://device-type.com
+  name: NokiaSie
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7d1b7a1-ff54-4140-9aa9-44bc8ea5dae1
+  macAddresses:
+  - 00:60:90:00:00:00/24
+  manufacturer: Artiza Networks Inc
+  manufacturerUri: https://device-type.com
+  name: ArtizaNe
+type: d3-device-type-assertion

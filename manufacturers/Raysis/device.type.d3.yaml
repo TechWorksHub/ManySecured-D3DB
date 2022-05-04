@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42408325-c8e7-4889-b1b1-12ec6dac9dae
+  macAddresses:
+  - 00:02:43:00:00:00/24
+  manufacturer: Raysis Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Raysis
+type: d3-device-type-assertion

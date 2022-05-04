@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1bb77a72-a00f-40d5-b5be-f1ca6c212722
+  macAddresses:
+  - 00:50:C2:73:C0:00/36
+  - 50:FF:99:00:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Simicon
+type: d3-device-type-assertion

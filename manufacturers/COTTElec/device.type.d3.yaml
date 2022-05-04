@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 22725d6c-b148-4445-bd0e-22cb73480c0b
+  macAddresses:
+  - 50:62:55:D0:00:00/28
+  - 70:B3:D5:D2:30:00/36
+  manufacturer: COTT Electronics
+  manufacturerUri: https://device-type.com
+  name: COTTElec
+type: d3-device-type-assertion

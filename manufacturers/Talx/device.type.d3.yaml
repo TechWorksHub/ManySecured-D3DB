@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f9412b22-b702-438e-9b6f-170b650bce7b
+  macAddresses:
+  - 00:E0:51:00:00:00/24
+  manufacturer: Talx Corporation
+  manufacturerUri: https://device-type.com
+  name: Talx
+type: d3-device-type-assertion

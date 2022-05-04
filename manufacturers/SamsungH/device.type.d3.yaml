@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9b8f5b9d-eb2e-480f-8a81-b3455ac8015f
+  macAddresses:
+  - 00:0D:AE:00:00:00/24
+  - 00:50:C2:9D:80:00/36
+  manufacturer: Samsung Heavy Industries Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SamsungH
+type: d3-device-type-assertion

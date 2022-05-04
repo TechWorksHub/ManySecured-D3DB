@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09035df6-f17c-4aa9-971e-6cc7b96275fa
+  macAddresses:
+  - 00:1D:F1:00:00:00/24
+  manufacturer: Intego Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Intego
+type: d3-device-type-assertion

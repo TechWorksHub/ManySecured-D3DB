@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e97f99c5-ee20-4148-b050-08bbad269cf2
+  macAddresses:
+  - 00:0A:DF:00:00:00/24
+  manufacturer: Gennum Corporation
+  manufacturerUri: https://device-type.com
+  name: Gennum
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e25b2252-2882-4367-abcd-97db8de84a4e
+  macAddresses:
+  - 00:0F:74:00:00:00/24
+  manufacturer: Qamcom Technology AB
+  manufacturerUri: https://device-type.com
+  name: QamcomTe
+type: d3-device-type-assertion

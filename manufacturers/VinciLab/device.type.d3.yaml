@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c719b2c-75bd-4bec-a389-d57ecdf929bd
+  macAddresses:
+  - 00:17:56:00:00:00/24
+  manufacturer: Vinci Labs Oy
+  manufacturerUri: https://device-type.com
+  name: VinciLab
+type: d3-device-type-assertion

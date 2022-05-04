@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48ca8680-7e9a-475b-a7b6-38d01f1c63d0
+  macAddresses:
+  - 00:C0:19:00:00:00/24
+  manufacturer: Leap Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: LeapTech
+type: d3-device-type-assertion

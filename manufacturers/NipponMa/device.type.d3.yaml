@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e32029a1-2ed3-4065-ad6d-13dc8779259a
+  macAddresses:
+  - 00:50:C2:A2:20:00/36
+  - 70:B3:D5:53:30:00/36
+  manufacturer: Nippon Manufacturing Service Corporation (abbreviated as 'nms')
+  manufacturerUri: https://device-type.com
+  name: NipponMa
+type: d3-device-type-assertion

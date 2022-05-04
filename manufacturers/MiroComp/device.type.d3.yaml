@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5ec28c6-1e66-4575-ba8b-a22ea48ff58b
+  macAddresses:
+  - 00:20:59:00:00:00/24
+  manufacturer: Miro Computer Products Ag
+  manufacturerUri: https://device-type.com
+  name: MiroComp
+type: d3-device-type-assertion

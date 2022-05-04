@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d3cbc48-740c-4cd5-ab57-3386df815b28
+  macAddresses:
+  - 00:80:49:00:00:00/24
+  manufacturer: Nissin Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NissinEl
+type: d3-device-type-assertion

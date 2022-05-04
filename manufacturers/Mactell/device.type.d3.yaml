@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cbbd565-802f-4817-8fc8-52f43d20d7f0
+  macAddresses:
+  - 00:D0:08:00:00:00/24
+  manufacturer: Mactell Corporation
+  manufacturerUri: https://device-type.com
+  name: Mactell
+type: d3-device-type-assertion

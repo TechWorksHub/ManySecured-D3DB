@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ad6a014-72f3-4dad-81f8-499787d4b35a
+  macAddresses:
+  - 00:50:C2:C4:00:00/36
+  manufacturer: BAE Systems Bofors AB
+  manufacturerUri: https://device-type.com
+  name: BAEBofor
+type: d3-device-type-assertion

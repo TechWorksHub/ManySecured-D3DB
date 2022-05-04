@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4037fde-815a-4d43-835f-578ee073ea0a
+  macAddresses:
+  - 00:0D:5F:00:00:00/24
+  manufacturer: Minds Inc
+  manufacturerUri: https://device-type.com
+  name: Minds
+type: d3-device-type-assertion

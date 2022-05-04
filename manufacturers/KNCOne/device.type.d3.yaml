@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ad0edf63-a196-44d5-843a-8b518990068c
+  macAddresses:
+  - 00:09:D6:00:00:00/24
+  manufacturer: KNC One GmbH
+  manufacturerUri: https://device-type.com
+  name: KNCOne
+type: d3-device-type-assertion

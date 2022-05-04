@@ -1,0 +1,14 @@
+credentialSubject:
+  id: b72ae3b1-7b71-431c-80c9-204bfff986cb
+  macAddresses:
+  - 00:06:E5:00:00:00/24
+  - 38:28:EA:00:00:00/24
+  - 38:3C:9C:00:00:00/24
+  - A8:F4:70:00:00:00/24
+  - C4:82:3F:00:00:00/24
+  - D0:9F:D9:C0:00:00/28
+  - E0:5A:9F:80:00:00/28
+  manufacturer: Fujian Newland Computer Ltd. Co.
+  manufacturerUri: https://device-type.com
+  name: FujianNe
+type: d3-device-type-assertion

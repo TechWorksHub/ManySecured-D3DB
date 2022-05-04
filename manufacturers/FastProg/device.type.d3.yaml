@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c131b8ea-c412-4ba3-89e2-34ad35814744
+  macAddresses:
+  - 40:48:FD:10:00:00/28
+  manufacturer: Fast Programming
+  manufacturerUri: https://device-type.com
+  name: FastProg
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 830e8992-47a0-4694-9e04-8cc1093494bb
+  macAddresses:
+  - 00:14:35:00:00:00/24
+  - BC:EA:2B:00:00:00/24
+  manufacturer: CityCom Corp.
+  manufacturerUri: https://device-type.com
+  name: CityCom
+type: d3-device-type-assertion

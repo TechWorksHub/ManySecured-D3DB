@@ -1,0 +1,11 @@
+credentialSubject:
+  id: edd6386e-58e9-474f-b8e8-77df04094111
+  macAddresses:
+  - 00:14:D1:00:00:00/24
+  - 3C:8C:F8:00:00:00/24
+  - 78:2D:7E:00:00:00/24
+  - D8:EB:97:00:00:00/24
+  manufacturer: TRENDnet, Inc.
+  manufacturerUri: https://device-type.com
+  name: TRENDnet
+type: d3-device-type-assertion

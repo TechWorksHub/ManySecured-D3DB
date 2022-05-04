@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e540552c-8dbc-4524-828a-69de34de82d1
+  macAddresses:
+  - 08:00:71:00:00:00/24
+  manufacturer: Matra (Dsie)
+  manufacturerUri: https://device-type.com
+  name: MatraDsi
+type: d3-device-type-assertion

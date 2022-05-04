@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9f5db856-defb-4362-a575-56e79c0f48b7
+  macAddresses:
+  - 00:0B:33:00:00:00/24
+  manufacturer: Vivato Technologies
+  manufacturerUri: https://device-type.com
+  name: VivatoTe
+type: d3-device-type-assertion

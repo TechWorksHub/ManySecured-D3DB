@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a18a8dfa-3edc-4905-8490-3646f25d4879
+  macAddresses:
+  - 00:15:03:00:00:00/24
+  manufacturer: PROFIcomms s.r.o.
+  manufacturerUri: https://device-type.com
+  name: PROFIcom
+type: d3-device-type-assertion

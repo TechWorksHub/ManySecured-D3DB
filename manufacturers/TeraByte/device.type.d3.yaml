@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a0be8944-c616-41fc-9648-6b895da2638c
+  macAddresses:
+  - 8A:FB:16:00:00:00/24
+  manufacturer: TeraByte, Inc.
+  manufacturerUri: https://device-type.com
+  name: TeraByte
+type: d3-device-type-assertion

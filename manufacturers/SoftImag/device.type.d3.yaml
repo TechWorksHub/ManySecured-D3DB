@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a6ca10d-ed3f-4f18-90ee-f1edc204dcec
+  macAddresses:
+  - 00:11:D1:00:00:00/24
+  manufacturer: Soft Imaging System GmbH
+  manufacturerUri: https://device-type.com
+  name: SoftImag
+type: d3-device-type-assertion

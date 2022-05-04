@@ -1,0 +1,10 @@
+credentialSubject:
+  id: e4103045-df73-4325-aff8-193217c818ed
+  macAddresses:
+  - 00:50:C2:52:D0:00/36
+  - 40:D8:55:06:90:00/36
+  - 50:A9:DE:00:00:00/24
+  manufacturer: Smartcom-Bulgaria AD
+  manufacturerUri: https://device-type.com
+  name: Smartcom
+type: d3-device-type-assertion

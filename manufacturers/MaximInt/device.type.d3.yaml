@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 793bf2fd-ed21-43ec-8a8a-b2e34fcae078
+  macAddresses:
+  - 00:18:80:00:00:00/24
+  manufacturer: Maxim Integrated Products
+  manufacturerUri: https://device-type.com
+  name: MaximInt
+type: d3-device-type-assertion

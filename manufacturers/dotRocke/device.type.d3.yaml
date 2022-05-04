@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0cde3343-c803-4705-a049-1835e8db15ff
+  macAddresses:
+  - 00:02:BF:00:00:00/24
+  manufacturer: dotRocket, Inc.
+  manufacturerUri: https://device-type.com
+  name: dotRocke
+type: d3-device-type-assertion

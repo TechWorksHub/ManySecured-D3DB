@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dff879a3-ac99-4542-8ebd-8fed825d620b
+  macAddresses:
+  - 70:B3:D5:0A:50:00/36
+  manufacturer: Fuelcellpower
+  manufacturerUri: https://device-type.com
+  name: Fuelcell
+type: d3-device-type-assertion

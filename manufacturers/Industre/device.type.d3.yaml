@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b7c91f47-35b7-4403-9dc6-dbe17664f9bb
+  macAddresses:
+  - 00:50:9D:00:00:00/24
+  - 00:50:C2:E4:60:00/36
+  manufacturer: The Industree B.V.
+  manufacturerUri: https://device-type.com
+  name: Industre
+type: d3-device-type-assertion

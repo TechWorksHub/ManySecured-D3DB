@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bfeff159-970d-42a3-9d19-e638996cb0cf
+  macAddresses:
+  - 00:0A:F5:00:00:00/24
+  manufacturer: Airgo Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: AirgoNet
+type: d3-device-type-assertion

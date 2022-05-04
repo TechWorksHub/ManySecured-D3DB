@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b72440a-ac14-404f-a168-51d0146981d7
+  macAddresses:
+  - 00:11:98:00:00:00/24
+  manufacturer: Prism Media Products Limited
+  manufacturerUri: https://device-type.com
+  name: PrismMed
+type: d3-device-type-assertion

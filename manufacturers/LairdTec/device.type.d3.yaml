@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae8452aa-9ac2-48e9-94b3-c076fc7f7112
+  macAddresses:
+  - 00:23:3D:00:00:00/24
+  manufacturer: Laird Technologies
+  manufacturerUri: https://device-type.com
+  name: LairdTec
+type: d3-device-type-assertion

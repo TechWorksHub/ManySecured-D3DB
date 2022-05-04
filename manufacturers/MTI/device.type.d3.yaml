@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3bafa70f-7743-469f-8601-efaa50c2877f
+  macAddresses:
+  - 00:13:CD:00:00:00/24
+  - 44:EE:02:00:00:00/24
+  manufacturer: MTI co. LTD
+  manufacturerUri: https://device-type.com
+  name: MTI
+type: d3-device-type-assertion

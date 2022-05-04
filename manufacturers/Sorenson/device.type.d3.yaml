@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e4888bc-cba1-4044-943b-17fc44cba787
+  macAddresses:
+  - 00:08:72:00:00:00/24
+  manufacturer: Sorenson Communications
+  manufacturerUri: https://device-type.com
+  name: Sorenson
+type: d3-device-type-assertion

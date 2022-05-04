@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 007fd42a-1f6c-4c7e-b3b9-801c8244a271
+  macAddresses:
+  - 20:5C:FA:00:00:00/24
+  - 60:15:92:80:00:00/28
+  manufacturer: Yangzhou ChangLian Network Technology Co,ltd.
+  manufacturerUri: https://device-type.com
+  name: Yangzhou
+type: d3-device-type-assertion

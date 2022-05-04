@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cc3d43a7-9a55-435b-9d47-d7470ef4fb6d
+  macAddresses:
+  - 00:1B:B6:00:00:00/24
+  manufacturer: Bird Electronic Corp.
+  manufacturerUri: https://device-type.com
+  name: BirdElec
+type: d3-device-type-assertion

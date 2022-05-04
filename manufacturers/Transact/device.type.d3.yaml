@@ -1,0 +1,10 @@
+credentialSubject:
+  id: fd2f3832-50ff-4ec7-b689-af79fa24fe25
+  macAddresses:
+  - 00:0E:3C:00:00:00/24
+  - 00:24:87:00:00:00/24
+  - 00:C0:34:00:00:00/24
+  manufacturer: Transact Technologies Inc
+  manufacturerUri: https://device-type.com
+  name: Transact
+type: d3-device-type-assertion

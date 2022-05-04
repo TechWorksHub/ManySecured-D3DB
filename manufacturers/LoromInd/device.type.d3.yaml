@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe0b365b-9108-4aff-a861-1eac1c44ac58
+  macAddresses:
+  - FC:2E:2D:00:00:00/24
+  manufacturer: Lorom Industrial Co.LTD.
+  manufacturerUri: https://device-type.com
+  name: LoromInd
+type: d3-device-type-assertion

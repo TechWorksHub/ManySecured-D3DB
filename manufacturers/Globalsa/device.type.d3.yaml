@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5545722a-f096-412b-8d0c-124e603aad3b
+  macAddresses:
+  - 00:0D:B5:00:00:00/24
+  - 0C:F0:B4:00:00:00/24
+  manufacturer: Globalsat Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: Globalsa
+type: d3-device-type-assertion

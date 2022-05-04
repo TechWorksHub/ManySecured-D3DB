@@ -1,0 +1,8 @@
+credentialSubject:
+  id: be3af886-ef1a-4784-a25c-ff746477da3b
+  macAddresses:
+  - 00:09:EE:00:00:00/24
+  manufacturer: Meikyo Electric Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: MeikyoEl
+type: d3-device-type-assertion

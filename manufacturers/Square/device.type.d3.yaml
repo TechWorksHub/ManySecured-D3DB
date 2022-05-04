@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 70af4899-be01-41d9-973d-31c211f6c660
+  macAddresses:
+  - 1C:59:74:60:00:00/28
+  - 2C:D1:41:D0:00:00/28
+  - 8C:47:6E:50:00:00/28
+  manufacturer: Square Inc.
+  manufacturerUri: https://device-type.com
+  name: Square
+type: d3-device-type-assertion

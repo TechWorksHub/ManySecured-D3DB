@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1e9a7b3-389d-4ac7-a9e2-3f021f1abc1f
+  macAddresses:
+  - 00:0C:8D:00:00:00/24
+  manufacturer: MATRIX VISION GmbH
+  manufacturerUri: https://device-type.com
+  name: MATRIXVI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a86a33a9-7dcf-4bc0-8ccf-4b45f127d04a
+  macAddresses:
+  - 00:0C:E4:00:00:00/24
+  manufacturer: NeuroCom International, Inc.
+  manufacturerUri: https://device-type.com
+  name: NeuroCom
+type: d3-device-type-assertion

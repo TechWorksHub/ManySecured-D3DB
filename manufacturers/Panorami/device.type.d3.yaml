@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 3136cc4c-b33b-4ff2-b3a0-c2823bd9ceec
+  macAddresses:
+  - 70:B3:D5:06:D0:00/36
+  - 70:B3:D5:07:D0:00/36
+  - 70:B3:D5:4E:D0:00/36
+  - 70:B3:D5:53:A0:00/36
+  - 70:B3:D5:66:90:00/36
+  manufacturer: Panoramic Power
+  manufacturerUri: https://device-type.com
+  name: Panorami
+type: d3-device-type-assertion

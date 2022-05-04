@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f93db299-3dff-495c-9d1e-917b599170d0
+  macAddresses:
+  - 40:D8:55:19:80:00/36
+  manufacturer: devboards GmbH
+  manufacturerUri: https://device-type.com
+  name: devboard
+type: d3-device-type-assertion

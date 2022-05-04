@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc2d0761-67da-458d-b6f5-66606242f3f2
+  macAddresses:
+  - 00:18:3D:00:00:00/24
+  manufacturer: Vertex Link Corporation
+  manufacturerUri: https://device-type.com
+  name: VertexLi
+type: d3-device-type-assertion

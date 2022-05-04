@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1ae82c28-1671-4ce6-af2b-3c118f461649
+  macAddresses:
+  - 70:B3:D5:10:70:00/36
+  manufacturer: OOO "Alyans"
+  manufacturerUri: https://device-type.com
+  name: Alyans
+type: d3-device-type-assertion

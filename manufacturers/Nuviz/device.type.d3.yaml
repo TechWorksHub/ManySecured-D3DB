@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a67210e3-1f74-4a5e-a78f-18bf6c0a1170
+  macAddresses:
+  - 4C:65:A8:60:00:00/28
+  - 70:B3:D5:AA:E0:00/36
+  manufacturer: Nuviz Oy
+  manufacturerUri: https://device-type.com
+  name: Nuviz
+type: d3-device-type-assertion

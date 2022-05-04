@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 32ba1a50-ed18-4003-906e-14d16912267a
+  macAddresses:
+  - 00:50:C2:65:60:00/36
+  - 70:B3:D5:68:50:00/36
+  manufacturer: LDA Audio Video Profesional
+  manufacturerUri: https://device-type.com
+  name: LDAAudio
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2e6df9db-e516-4f3e-a489-547230033bcd
+  macAddresses:
+  - 00:15:90:00:00:00/24
+  - 00:20:98:00:00:00/24
+  manufacturer: Hectronic GmbH
+  manufacturerUri: https://device-type.com
+  name: Hectroni
+type: d3-device-type-assertion

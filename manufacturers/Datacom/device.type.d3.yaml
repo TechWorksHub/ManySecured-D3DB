@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6d100518-2f8f-40b8-ad7b-8425d1e58c1a
+  macAddresses:
+  - 00:40:A9:00:00:00/24
+  manufacturer: Datacom Inc.
+  manufacturerUri: https://device-type.com
+  name: Datacom
+type: d3-device-type-assertion

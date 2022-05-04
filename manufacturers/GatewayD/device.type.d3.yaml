@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9eec0521-a265-4af2-885c-e0b8eb0bb88a
+  macAddresses:
+  - 00:20:B0:00:00:00/24
+  manufacturer: Gateway Devices, Inc.
+  manufacturerUri: https://device-type.com
+  name: GatewayD
+type: d3-device-type-assertion

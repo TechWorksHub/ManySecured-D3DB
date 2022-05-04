@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 24f3837d-6c37-4c1b-bdb4-221186561893
+  macAddresses:
+  - 00:26:15:00:00:00/24
+  - 54:5F:A9:00:00:00/24
+  - 5C:32:C5:00:00:00/24
+  - 9C:8E:DC:00:00:00/24
+  manufacturer: Teracom Limited
+  manufacturerUri: https://device-type.com
+  name: Teracom
+type: d3-device-type-assertion

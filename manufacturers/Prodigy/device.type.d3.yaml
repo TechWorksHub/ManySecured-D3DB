@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9e5add6f-97ec-4f82-b48b-57da893265f2
+  macAddresses:
+  - 00:00:28:00:00:00/24
+  manufacturer: Prodigy Systems Corporation
+  manufacturerUri: https://device-type.com
+  name: Prodigy
+type: d3-device-type-assertion

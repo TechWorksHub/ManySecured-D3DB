@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 89e3d44d-cb97-4970-aec9-1b3c510a2eae
+  macAddresses:
+  - EC:98:6C:00:00:00/24
+  manufacturer: Lufft Mess- und Regeltechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: LufftMes
+type: d3-device-type-assertion

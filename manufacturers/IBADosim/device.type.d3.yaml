@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b6325e7-70ff-45c9-b87f-a83540299b8b
+  macAddresses:
+  - 8C:2F:39:00:00:00/24
+  manufacturer: IBA Dosimetry GmbH
+  manufacturerUri: https://device-type.com
+  name: IBADosim
+type: d3-device-type-assertion

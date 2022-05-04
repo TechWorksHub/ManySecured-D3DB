@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d8cc90e6-844c-40cd-90df-4464259dee83
+  macAddresses:
+  - 00:50:C2:C5:30:00/36
+  - 20:85:93:60:00:00/28
+  manufacturer: Eilersen Electric A/S
+  manufacturerUri: https://device-type.com
+  name: Eilersen
+type: d3-device-type-assertion

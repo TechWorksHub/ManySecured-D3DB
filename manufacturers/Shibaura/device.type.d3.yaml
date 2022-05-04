@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 210e61de-e2c8-4bd7-8e7c-1b1fad26904b
+  macAddresses:
+  - 00:22:16:00:00:00/24
+  manufacturer: Shibaura Vending Machine Corporation
+  manufacturerUri: https://device-type.com
+  name: Shibaura
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dc2b9ccc-3768-46b9-b148-0f65d941c448
+  macAddresses:
+  - 00:01:D3:00:00:00/24
+  manufacturer: PAXCOMM, Inc.
+  manufacturerUri: https://device-type.com
+  name: PAXCOMM
+type: d3-device-type-assertion

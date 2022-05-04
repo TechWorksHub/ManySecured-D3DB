@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4cf545f-fed0-4077-9e59-e66cf0982734
+  macAddresses:
+  - 2C:6A:6F:60:00:00/28
+  manufacturer: Beep, Inc.
+  manufacturerUri: https://device-type.com
+  name: Beep
+type: d3-device-type-assertion

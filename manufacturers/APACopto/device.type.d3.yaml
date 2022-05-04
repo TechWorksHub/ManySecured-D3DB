@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e5343b1f-816b-41a0-ba6e-447ad1e5918e
+  macAddresses:
+  - 00:0F:99:00:00:00/24
+  manufacturer: APAC opto Electronics Inc.
+  manufacturerUri: https://device-type.com
+  name: APACopto
+type: d3-device-type-assertion

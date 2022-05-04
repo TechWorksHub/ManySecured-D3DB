@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ccb08601-2b5d-480c-834d-5c879cba049d
+  macAddresses:
+  - 00:14:09:00:00:00/24
+  manufacturer: MAGNETI MARELLI S.E. S.p.A.
+  manufacturerUri: https://device-type.com
+  name: MAGNETIM
+type: d3-device-type-assertion

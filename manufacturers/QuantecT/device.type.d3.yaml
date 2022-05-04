@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e1dbb10-f225-4cbc-89b8-a8a9e11d757b
+  macAddresses:
+  - 00:15:E7:00:00:00/24
+  manufacturer: Quantec Tontechnik
+  manufacturerUri: https://device-type.com
+  name: QuantecT
+type: d3-device-type-assertion

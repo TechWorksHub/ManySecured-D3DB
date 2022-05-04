@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68b557cc-0f38-4aeb-bab7-1d49c4885246
+  macAddresses:
+  - 38:89:DC:00:00:00/24
+  manufacturer: Opticon Sensors Europe B.V.
+  manufacturerUri: https://device-type.com
+  name: OpticonS
+type: d3-device-type-assertion

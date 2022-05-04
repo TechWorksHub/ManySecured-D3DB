@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 69a8e8f3-1acb-4361-a360-59105751a9ee
+  macAddresses:
+  - 00:0C:5C:00:00:00/24
+  manufacturer: GTN Systems B.V.
+  manufacturerUri: https://device-type.com
+  name: GTN
+type: d3-device-type-assertion

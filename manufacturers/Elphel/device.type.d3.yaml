@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bf8c993-44f0-45d5-a4d3-2bf7fec18a03
+  macAddresses:
+  - 00:0E:64:00:00:00/24
+  manufacturer: Elphel, Inc
+  manufacturerUri: https://device-type.com
+  name: Elphel
+type: d3-device-type-assertion

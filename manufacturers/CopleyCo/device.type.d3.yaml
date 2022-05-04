@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e432f96-257a-4a02-b2ce-80fb11e2fded
+  macAddresses:
+  - 00:1A:F8:00:00:00/24
+  manufacturer: Copley Controls Corporation
+  manufacturerUri: https://device-type.com
+  name: CopleyCo
+type: d3-device-type-assertion

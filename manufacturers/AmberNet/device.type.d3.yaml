@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fc27fc76-1270-478c-adca-0216dc45c702
+  macAddresses:
+  - 00:30:9F:00:00:00/24
+  manufacturer: Amber Networks
+  manufacturerUri: https://device-type.com
+  name: AmberNet
+type: d3-device-type-assertion

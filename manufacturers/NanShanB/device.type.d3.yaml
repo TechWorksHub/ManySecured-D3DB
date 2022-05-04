@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9a37af6c-6db0-4241-bb1b-d4f20c6a85ee
+  macAddresses:
+  - 00:50:C2:40:40:00/36
+  - 00:50:C2:53:30:00/36
+  manufacturer: NanShanBridge Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: NanShanB
+type: d3-device-type-assertion

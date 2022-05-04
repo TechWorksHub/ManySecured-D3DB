@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 597103f5-9c54-42b6-9122-6219f37ff09e
+  macAddresses:
+  - 00:10:94:00:00:00/24
+  - 00:50:C2:84:C0:00/36
+  - 00:60:A5:00:00:00/24
+  - 00:60:F3:00:00:00/24
+  - 00:C0:8C:00:00:00/24
+  - 28:F5:37:E0:00:00/28
+  - 70:B3:D5:8D:30:00/36
+  - EC:3E:09:00:00:00/24
+  manufacturer: Performance Analysis Broadband, Spirent plc
+  manufacturerUri: https://device-type.com
+  name: Performa
+type: d3-device-type-assertion

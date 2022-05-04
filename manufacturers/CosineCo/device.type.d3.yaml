@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22aa4c5b-e1b3-40a9-949f-98f901eeae5e
+  macAddresses:
+  - 00:D0:7D:00:00:00/24
+  manufacturer: Cosine Communications
+  manufacturerUri: https://device-type.com
+  name: CosineCo
+type: d3-device-type-assertion

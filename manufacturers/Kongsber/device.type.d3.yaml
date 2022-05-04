@@ -1,0 +1,10 @@
+credentialSubject:
+  id: ed9814d3-6015-428c-af44-b917d0a38910
+  macAddresses:
+  - 00:05:BE:00:00:00/24
+  - 00:1F:F5:00:00:00/24
+  - 70:B3:D5:EF:20:00/36
+  manufacturer: Kongsberg Seatex AS
+  manufacturerUri: https://device-type.com
+  name: Kongsber
+type: d3-device-type-assertion

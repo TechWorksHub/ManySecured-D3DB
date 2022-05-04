@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 82d48543-d56b-4d92-8eb5-d986126e412a
+  macAddresses:
+  - 00:1C:06:00:00:00/24
+  - 00:90:40:00:00:00/24
+  - 08:00:06:00:00:00/24
+  manufacturer: Siemens Numerical Control Ltd., Nanjing
+  manufacturerUri: https://device-type.com
+  name: SiemensN
+type: d3-device-type-assertion

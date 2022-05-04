@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b0a8481-9628-4252-80c7-c88f51f178a2
+  macAddresses:
+  - 00:C0:D2:00:00:00/24
+  manufacturer: Syntellect, Inc.
+  manufacturerUri: https://device-type.com
+  name: Syntelle
+type: d3-device-type-assertion

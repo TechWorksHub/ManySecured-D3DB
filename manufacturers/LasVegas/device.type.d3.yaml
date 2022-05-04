@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 09d85448-ef5f-4e49-8af1-4bc41f7f47ec
+  macAddresses:
+  - 00:18:4B:00:00:00/24
+  manufacturer: Las Vegas Gaming, Inc.
+  manufacturerUri: https://device-type.com
+  name: LasVegas
+type: d3-device-type-assertion

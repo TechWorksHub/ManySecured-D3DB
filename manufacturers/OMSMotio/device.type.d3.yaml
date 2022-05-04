@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fdb604e0-31b7-48fa-9622-864f954f0cfc
+  macAddresses:
+  - 00:16:82:00:00:00/24
+  manufacturer: OMS Motion
+  manufacturerUri: https://device-type.com
+  name: OMSMotio
+type: d3-device-type-assertion

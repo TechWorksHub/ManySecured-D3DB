@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8ae10b50-589e-407b-b42e-84c76190c0e7
+  macAddresses:
+  - 00:50:C2:5F:70:00/36
+  - CC:1E:FF:00:00:00/24
+  manufacturer: Metrologic Group
+  manufacturerUri: https://device-type.com
+  name: Metrolog
+type: d3-device-type-assertion

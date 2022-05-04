@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 06269092-8fbb-41fe-bc72-4dbf5b20414c
+  macAddresses:
+  - 70:B3:D5:87:90:00/36
+  - 94:05:BB:60:00:00/28
+  - EA:1E:D0:00:00:00/24
+  manufacturer: ZIGPOS GmbH
+  manufacturerUri: https://device-type.com
+  name: ZIGPOS
+type: d3-device-type-assertion

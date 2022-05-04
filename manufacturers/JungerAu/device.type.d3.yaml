@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8f34d401-52db-4f04-b5b1-a2d960e3aaae
+  macAddresses:
+  - 00:50:C2:58:30:00/36
+  - 9C:E1:D6:00:00:00/24
+  manufacturer: Junger Audio-Studiotechnik GmbH
+  manufacturerUri: https://device-type.com
+  name: JungerAu
+type: d3-device-type-assertion

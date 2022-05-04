@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cddf64ce-93f5-44b4-a79b-2c7b3e07cae4
+  macAddresses:
+  - 00:23:92:00:00:00/24
+  manufacturer: Proteus Industries Inc.
+  manufacturerUri: https://device-type.com
+  name: ProteusI
+type: d3-device-type-assertion

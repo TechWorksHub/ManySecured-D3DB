@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5820f244-77f8-416d-ba8c-c1f9c98b8749
+  macAddresses:
+  - 00:21:65:00:00:00/24
+  manufacturer: Presstek Inc.
+  manufacturerUri: https://device-type.com
+  name: Presstek
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3cba941d-6a4d-49b2-8332-81d9a37f25b7
+  macAddresses:
+  - 00:18:CA:00:00:00/24
+  manufacturer: Viprinet GmbH
+  manufacturerUri: https://device-type.com
+  name: Viprinet
+type: d3-device-type-assertion

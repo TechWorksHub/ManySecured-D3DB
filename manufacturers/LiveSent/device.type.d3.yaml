@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8acc49bb-0ae0-4e39-9f9d-05d143c40a27
+  macAddresses:
+  - 38:73:EA:60:00:00/28
+  manufacturer: Live Sentinel
+  manufacturerUri: https://device-type.com
+  name: LiveSent
+type: d3-device-type-assertion

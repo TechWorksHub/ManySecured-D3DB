@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b4329dc-1feb-40fb-b13f-d3ee7f110f70
+  macAddresses:
+  - 00:07:3B:00:00:00/24
+  manufacturer: Tenovis GmbH & Co KG
+  manufacturerUri: https://device-type.com
+  name: Tenovis
+type: d3-device-type-assertion

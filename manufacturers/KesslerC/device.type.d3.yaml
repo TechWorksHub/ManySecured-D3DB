@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e97744b-6c3f-40f7-861f-269c4ba42f5b
+  macAddresses:
+  - 3C:57:BD:00:00:00/24
+  manufacturer: Kessler Crane Inc.
+  manufacturerUri: https://device-type.com
+  name: KesslerC
+type: d3-device-type-assertion

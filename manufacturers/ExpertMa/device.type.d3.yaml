@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab4c351a-eb66-45fb-955e-6c199b19a36f
+  macAddresses:
+  - 00:30:ED:00:00:00/24
+  manufacturer: Expert Magnetics Corp.
+  manufacturerUri: https://device-type.com
+  name: ExpertMa
+type: d3-device-type-assertion

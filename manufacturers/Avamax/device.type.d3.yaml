@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c7b380c-f5f6-4c04-8b00-d05eceb50064
+  macAddresses:
+  - 00:0F:98:00:00:00/24
+  manufacturer: Avamax Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: Avamax
+type: d3-device-type-assertion

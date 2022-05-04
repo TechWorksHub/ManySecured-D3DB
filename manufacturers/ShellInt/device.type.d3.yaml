@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a48639fd-a2e0-499f-8a3b-93099b2c2652
+  macAddresses:
+  - 00:0D:34:00:00:00/24
+  manufacturer: Shell International Exploration and Production, Inc.
+  manufacturerUri: https://device-type.com
+  name: ShellInt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4f263307-54d5-4a3b-b673-caa2f0ee5a09
+  macAddresses:
+  - C0:F9:D2:00:00:00/24
+  manufacturer: arkona technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: arkonate
+type: d3-device-type-assertion

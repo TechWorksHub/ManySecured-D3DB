@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a6ecc99-376f-43c0-9d35-69e69e02aef9
+  macAddresses:
+  - 00:01:9C:00:00:00/24
+  manufacturer: JDS Uniphase Inc.
+  manufacturerUri: https://device-type.com
+  name: JDSUniph
+type: d3-device-type-assertion

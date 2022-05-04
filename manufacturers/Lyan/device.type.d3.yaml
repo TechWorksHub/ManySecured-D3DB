@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef715529-6faf-47ee-9589-ae45240a565f
+  macAddresses:
+  - 00:08:91:00:00:00/24
+  manufacturer: Lyan Inc.
+  manufacturerUri: https://device-type.com
+  name: Lyan
+type: d3-device-type-assertion

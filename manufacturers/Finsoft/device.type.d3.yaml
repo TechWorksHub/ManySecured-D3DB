@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf2659a0-6c78-4fd7-ab6c-70034abdf7ca
+  macAddresses:
+  - 00:1B:83:00:00:00/24
+  manufacturer: Finsoft Ltd
+  manufacturerUri: https://device-type.com
+  name: Finsoft
+type: d3-device-type-assertion

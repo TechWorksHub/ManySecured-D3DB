@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c971ab67-b259-441b-986f-b273879587d2
+  macAddresses:
+  - 00:50:29:00:00:00/24
+  manufacturer: 1394 Printer Working Group
+  manufacturerUri: https://device-type.com
+  name: 1394Prin
+type: d3-device-type-assertion

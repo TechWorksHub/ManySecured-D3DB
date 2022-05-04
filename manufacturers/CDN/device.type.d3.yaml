@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b3ad37a-33c0-4da0-8f56-b6d3bb7274d4
+  macAddresses:
+  - 70:B3:D5:C7:30:00/36
+  manufacturer: C.D.N.Corporation
+  manufacturerUri: https://device-type.com
+  name: CDN
+type: d3-device-type-assertion

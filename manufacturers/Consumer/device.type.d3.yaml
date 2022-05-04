@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb80dc43-e12e-4add-ac51-dd58a560e401
+  macAddresses:
+  - 00:15:32:00:00:00/24
+  manufacturer: Consumer Technologies Group, LLC
+  manufacturerUri: https://device-type.com
+  name: Consumer
+type: d3-device-type-assertion

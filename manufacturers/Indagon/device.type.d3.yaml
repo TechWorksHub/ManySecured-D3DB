@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c110688-5ec1-40dc-94b9-6aec4a694d34
+  macAddresses:
+  - 00:0F:08:00:00:00/24
+  manufacturer: Indagon Oy
+  manufacturerUri: https://device-type.com
+  name: Indagon
+type: d3-device-type-assertion

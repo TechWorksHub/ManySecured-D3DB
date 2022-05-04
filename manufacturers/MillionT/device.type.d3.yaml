@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42d1b7b1-f8f1-4207-a60d-1329a640ea7b
+  macAddresses:
+  - 00:50:C2:10:20:00/36
+  manufacturer: Million Tech Development Ltd.
+  manufacturerUri: https://device-type.com
+  name: MillionT
+type: d3-device-type-assertion

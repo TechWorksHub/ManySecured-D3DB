@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd3a0e46-f145-42c4-b815-a051bd423f02
+  macAddresses:
+  - 00:80:64:00:00:00/24
+  manufacturer: Wyse Technology Llc
+  manufacturerUri: https://device-type.com
+  name: WyseTech
+type: d3-device-type-assertion

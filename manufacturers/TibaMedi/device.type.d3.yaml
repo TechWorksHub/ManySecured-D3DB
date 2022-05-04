@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f766654-a392-4246-a080-e765defdb52b
+  macAddresses:
+  - 00:16:E9:00:00:00/24
+  manufacturer: Tiba Medical Inc
+  manufacturerUri: https://device-type.com
+  name: TibaMedi
+type: d3-device-type-assertion

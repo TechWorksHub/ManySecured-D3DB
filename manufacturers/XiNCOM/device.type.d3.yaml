@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba39b756-41cb-42ea-89bd-d5bcb441b3ec
+  macAddresses:
+  - 00:0E:DB:00:00:00/24
+  manufacturer: XiNCOM Corp.
+  manufacturerUri: https://device-type.com
+  name: XiNCOM
+type: d3-device-type-assertion

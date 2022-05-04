@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6f38d271-33e3-48ff-be69-c565a3ef29c0
+  macAddresses:
+  - 1C:A0:EF:40:00:00/28
+  - 70:B3:D5:A6:90:00/36
+  manufacturer: Leviathan Solutions Ltd.
+  manufacturerUri: https://device-type.com
+  name: Leviatha
+type: d3-device-type-assertion

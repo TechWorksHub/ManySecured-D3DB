@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f9f05fa-8626-4f68-993f-d3c67e102329
+  macAddresses:
+  - 00:D0:9B:00:00:00/24
+  manufacturer: Spectel Ltd.
+  manufacturerUri: https://device-type.com
+  name: Spectel
+type: d3-device-type-assertion

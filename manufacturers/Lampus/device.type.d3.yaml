@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fe7b3a09-7810-43f0-9065-ce618e78ea90
+  macAddresses:
+  - 00:02:45:00:00:00/24
+  manufacturer: Lampus Co, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Lampus
+type: d3-device-type-assertion

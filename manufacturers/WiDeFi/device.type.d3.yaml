@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e75ecbb8-2f8f-4f2d-8e4e-fd165b8f5861
+  macAddresses:
+  - 00:1C:48:00:00:00/24
+  manufacturer: WiDeFi, Inc.
+  manufacturerUri: https://device-type.com
+  name: WiDeFi
+type: d3-device-type-assertion

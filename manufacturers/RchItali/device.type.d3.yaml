@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 5151a02b-9f78-4d73-8cd9-bd0958f9b727
+  macAddresses:
+  - 70:B3:D5:05:70:00/36
+  - 70:B3:D5:42:D0:00/36
+  - 70:B3:D5:5D:40:00/36
+  - 70:B3:D5:7F:E0:00/36
+  - 70:B3:D5:85:70:00/36
+  - 70:B3:D5:97:10:00/36
+  - 70:B3:D5:99:B0:00/36
+  - 70:B3:D5:A3:40:00/36
+  - 70:B3:D5:BF:80:00/36
+  manufacturer: Rch Italia Spa
+  manufacturerUri: https://device-type.com
+  name: RchItali
+type: d3-device-type-assertion

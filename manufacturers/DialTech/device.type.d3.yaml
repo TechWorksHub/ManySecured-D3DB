@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a07651c-d254-4e34-b68d-9d2b5890262c
+  macAddresses:
+  - 00:1C:8C:00:00:00/24
+  manufacturer: Dial Technology Ltd.
+  manufacturerUri: https://device-type.com
+  name: DialTech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7f1040cd-6de0-4b36-9626-63fb56574d32
+  macAddresses:
+  - 00:15:28:00:00:00/24
+  manufacturer: Beacon Medical Products LLC d.b.a. BeaconMedaes
+  manufacturerUri: https://device-type.com
+  name: BeaconMe
+type: d3-device-type-assertion

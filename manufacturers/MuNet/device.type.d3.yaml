@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c51ed360-e925-4544-80a7-6918823c3847
+  macAddresses:
+  - 00:02:80:00:00:00/24
+  manufacturer: Mu Net, Inc.
+  manufacturerUri: https://device-type.com
+  name: MuNet
+type: d3-device-type-assertion

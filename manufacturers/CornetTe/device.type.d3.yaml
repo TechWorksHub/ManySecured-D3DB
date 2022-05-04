@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1de8e1c4-b8fd-4b77-8a4b-09ebf8ded44e
+  macAddresses:
+  - 00:03:23:00:00:00/24
+  - 00:10:1B:00:00:00/24
+  manufacturer: Cornet Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: CornetTe
+type: d3-device-type-assertion

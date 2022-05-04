@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4da10bc-3a2d-4392-8f5f-ad6f69a2da53
+  macAddresses:
+  - 00:14:15:00:00:00/24
+  manufacturer: Intec Automation inc.
+  manufacturerUri: https://device-type.com
+  name: IntecAut
+type: d3-device-type-assertion

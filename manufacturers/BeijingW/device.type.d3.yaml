@@ -1,0 +1,19 @@
+credentialSubject:
+  id: 1d3cd04b-e195-4959-8d2d-e36c5d20a612
+  macAddresses:
+  - 00:0B:D4:00:00:00/24
+  - 0C:FE:5D:30:00:00/28
+  - 28:6D:CD:00:00:00/24
+  - 70:B3:D5:C1:20:00/36
+  - 70:B3:D5:EB:B0:00/36
+  - 8C:1F:64:A8:40:00/36
+  - 9C:03:9E:00:00:00/24
+  - A8:90:42:00:00:00/24
+  - A8:DE:68:00:00:00/24
+  - BC:12:5E:00:00:00/24
+  - C4:BA:A3:00:00:00/24
+  - F8:B5:68:90:00:00/28
+  manufacturer: Beijing Wise Technology & Science Development Co.Ltd
+  manufacturerUri: https://device-type.com
+  name: BeijingW
+type: d3-device-type-assertion

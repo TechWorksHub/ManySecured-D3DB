@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 084e501b-9db9-4f7e-ae77-ed23bd49c33e
+  macAddresses:
+  - 00:1B:C5:03:40:00/36
+  manufacturer: InterCEL Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: InterCEL
+type: d3-device-type-assertion

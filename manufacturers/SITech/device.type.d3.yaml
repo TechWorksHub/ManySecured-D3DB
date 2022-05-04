@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fabc6431-9bb6-4526-bdc3-2fd79467efc4
+  macAddresses:
+  - 00:10:E1:00:00:00/24
+  manufacturer: S.I. Tech, Inc.
+  manufacturerUri: https://device-type.com
+  name: SITech
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d1d0fc28-c92e-4ea6-9901-be814ec821b1
+  macAddresses:
+  - 00:80:18:00:00:00/24
+  manufacturer: Kobe Steel, Ltd.
+  manufacturerUri: https://device-type.com
+  name: KobeStee
+type: d3-device-type-assertion

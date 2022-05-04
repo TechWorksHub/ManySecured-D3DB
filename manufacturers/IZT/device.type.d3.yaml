@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f23a4a61-59d9-4d96-a751-1fdf0e71b137
+  macAddresses:
+  - 00:11:2C:00:00:00/24
+  manufacturer: IZT GmbH
+  manufacturerUri: https://device-type.com
+  name: IZT
+type: d3-device-type-assertion

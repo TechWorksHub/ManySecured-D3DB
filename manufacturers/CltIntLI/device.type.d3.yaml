@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e5c0df1-6c09-4fe5-8aca-c9484367f5c8
+  macAddresses:
+  - AC:C2:EC:00:00:00/24
+  manufacturer: Clt Int'L Ind. Corp.
+  manufacturerUri: https://device-type.com
+  name: CltIntLI
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f4f8986-ef0e-4b5d-9848-2ffc9f0092cb
+  macAddresses:
+  - 28:2C:02:C0:00:00/28
+  manufacturer: Epoch International Enterprises, Inc.
+  manufacturerUri: https://device-type.com
+  name: EpochInt
+type: d3-device-type-assertion

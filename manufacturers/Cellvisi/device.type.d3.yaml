@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b68b8e5-3c9e-49ef-b0d1-f48f5a3a9357
+  macAddresses:
+  - 00:03:1B:00:00:00/24
+  manufacturer: Cellvision Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cellvisi
+type: d3-device-type-assertion

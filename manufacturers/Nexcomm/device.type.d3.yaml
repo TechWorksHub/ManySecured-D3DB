@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 342aaac0-f017-41e1-9f34-08810d4fdd23
+  macAddresses:
+  - 00:D0:84:00:00:00/24
+  manufacturer: Nexcomm Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Nexcomm
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a93ad136-8c13-46cb-bc0d-ad46bc53d732
+  macAddresses:
+  - 00:06:1A:00:00:00/24
+  manufacturer: Zetari Inc.
+  manufacturerUri: https://device-type.com
+  name: Zetari
+type: d3-device-type-assertion

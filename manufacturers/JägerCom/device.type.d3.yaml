@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4b921c70-cc13-412e-97a7-e64df468f123
+  macAddresses:
+  - 00:22:71:00:00:00/24
+  - 00:50:C2:0A:20:00/36
+  manufacturer: "J\xE4ger Computergesteuerte Me\xDFtechnik GmbH."
+  manufacturerUri: https://device-type.com
+  name: "J\xE4gerCom"
+type: d3-device-type-assertion

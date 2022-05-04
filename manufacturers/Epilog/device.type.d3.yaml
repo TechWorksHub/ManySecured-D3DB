@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f51f6e33-8d2e-431f-9c8d-fd60928d453c
+  macAddresses:
+  - 00:D0:D2:00:00:00/24
+  manufacturer: Epilog Corporation
+  manufacturerUri: https://device-type.com
+  name: Epilog
+type: d3-device-type-assertion

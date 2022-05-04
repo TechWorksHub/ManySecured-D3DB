@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25b77152-f750-455b-b060-229d3bf72087
+  macAddresses:
+  - 00:50:C2:6F:60:00/36
+  manufacturer: AV SatCom AS
+  manufacturerUri: https://device-type.com
+  name: AVSatCom
+type: d3-device-type-assertion

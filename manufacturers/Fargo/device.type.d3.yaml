@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c749ea67-9ce0-4066-aaa7-a3b24c33ae58
+  macAddresses:
+  - 00:1A:D1:00:00:00/24
+  manufacturer: Fargo Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Fargo
+type: d3-device-type-assertion

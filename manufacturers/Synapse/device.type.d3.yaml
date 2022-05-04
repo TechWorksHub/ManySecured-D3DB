@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0ce09f93-b195-452c-9354-4f2eb407e698
+  macAddresses:
+  - 00:1C:2C:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Synapse
+type: d3-device-type-assertion

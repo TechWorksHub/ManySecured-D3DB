@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbe77632-876d-4998-9a00-916f23345bf0
+  macAddresses:
+  - 00:16:EF:00:00:00/24
+  manufacturer: Koko Fitness, Inc.
+  manufacturerUri: https://device-type.com
+  name: KokoFitn
+type: d3-device-type-assertion

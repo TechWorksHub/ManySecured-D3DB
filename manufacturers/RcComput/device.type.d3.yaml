@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2ae8ee9-ff0e-48f6-be3e-03adcdd70ecf
+  macAddresses:
+  - 00:00:9A:00:00:00/24
+  manufacturer: Rc Computer A/S
+  manufacturerUri: https://device-type.com
+  name: RcComput
+type: d3-device-type-assertion

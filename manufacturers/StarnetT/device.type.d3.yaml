@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b7aa0435-4a3f-41f1-b7bd-455fbdcda8c9
+  macAddresses:
+  - 00:10:98:00:00:00/24
+  manufacturer: Starnet Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: StarnetT
+type: d3-device-type-assertion

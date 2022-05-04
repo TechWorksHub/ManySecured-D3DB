@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f18c7d97-78db-400b-ae02-f67ffc296212
+  macAddresses:
+  - 00:0B:AD:00:00:00/24
+  manufacturer: PC-PoS Inc.
+  manufacturerUri: https://device-type.com
+  name: PC-PoS
+type: d3-device-type-assertion

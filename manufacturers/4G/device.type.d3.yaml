@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8d8ff36-aa42-4085-a90b-54e9ab719c38
+  macAddresses:
+  - 00:0E:56:00:00:00/24
+  manufacturer: 4G Systems GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: 4G
+type: d3-device-type-assertion

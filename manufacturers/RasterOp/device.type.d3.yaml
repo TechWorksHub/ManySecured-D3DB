@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b6656c1-62c7-4297-818a-75a52d069946
+  macAddresses:
+  - 00:40:3E:00:00:00/24
+  manufacturer: Raster Ops Corporation
+  manufacturerUri: https://device-type.com
+  name: RasterOp
+type: d3-device-type-assertion

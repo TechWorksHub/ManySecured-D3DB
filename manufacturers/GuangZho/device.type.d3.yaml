@@ -1,0 +1,15 @@
+credentialSubject:
+  id: f308767e-a338-47f4-be28-2e40730c6981
+  macAddresses:
+  - 00:07:74:00:00:00/24
+  - 00:0C:E8:00:00:00/24
+  - 00:13:13:00:00:00/24
+  - 04:4B:FF:00:00:00/24
+  - 40:ED:98:10:00:00/28
+  - 98:00:C1:00:00:00/24
+  - E8:13:24:00:00:00/24
+  - EC:E9:F8:00:00:00/24
+  manufacturer: GuangZhou Thinker Technology Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: GuangZho
+type: d3-device-type-assertion

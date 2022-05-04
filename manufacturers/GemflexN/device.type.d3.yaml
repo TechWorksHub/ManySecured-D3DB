@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 68c2c16c-e98a-4498-9071-76722dcec223
+  macAddresses:
+  - 00:50:C1:00:00:00/24
+  manufacturer: Gemflex Networks, Ltd.
+  manufacturerUri: https://device-type.com
+  name: GemflexN
+type: d3-device-type-assertion

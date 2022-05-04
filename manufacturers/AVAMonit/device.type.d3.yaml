@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 17a8973f-65a1-4850-887a-bb95e76cbe30
+  macAddresses:
+  - 00:50:C2:FF:90:00/36
+  - 70:B3:D5:31:D0:00/36
+  manufacturer: AVA Monitoring AB
+  manufacturerUri: https://device-type.com
+  name: AVAMonit
+type: d3-device-type-assertion

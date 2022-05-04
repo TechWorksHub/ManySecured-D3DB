@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5dcce825-9d7a-4b3d-8b3e-5fcc78ada087
+  macAddresses:
+  - 00:03:C0:00:00:00/24
+  manufacturer: RFTNC Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: RFTNC
+type: d3-device-type-assertion

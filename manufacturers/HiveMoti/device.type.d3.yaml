@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8d84e5bb-b38e-484c-9f0c-6d5956f6ff51
+  macAddresses:
+  - 2C:71:55:00:00:00/24
+  manufacturer: HiveMotion
+  manufacturerUri: https://device-type.com
+  name: HiveMoti
+type: d3-device-type-assertion

@@ -1,0 +1,16 @@
+credentialSubject:
+  id: bf6ba477-62ca-4fb7-9259-7a97721ad544
+  macAddresses:
+  - 00:0C:B6:00:00:00/24
+  - 00:1B:F1:00:00:00/24
+  - 00:50:C2:F9:F0:00/36
+  - 00:B7:8D:00:00:00/24
+  - 0C:63:FC:00:00:00/24
+  - 20:DF:3F:00:00:00/24
+  - 34:29:8F:80:00:00/28
+  - 6C:83:66:00:00:00/24
+  - C0:61:9A:80:00:00/28
+  manufacturer: Nanjing Seu Mobile & Internet Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: NanjingS
+type: d3-device-type-assertion

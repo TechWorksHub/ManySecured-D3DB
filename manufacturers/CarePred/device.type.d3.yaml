@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1e9f27e8-ae77-4b23-bcb7-78e4209ebd4b
+  macAddresses:
+  - 34:26:06:00:00:00/24
+  manufacturer: CarePredict, Inc.
+  manufacturerUri: https://device-type.com
+  name: CarePred
+type: d3-device-type-assertion

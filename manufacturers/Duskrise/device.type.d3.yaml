@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0b5f537-dd56-442f-b201-3cc507a46318
+  macAddresses:
+  - 10:AE:A5:00:00:00/24
+  manufacturer: Duskrise inc.
+  manufacturerUri: https://device-type.com
+  name: Duskrise
+type: d3-device-type-assertion

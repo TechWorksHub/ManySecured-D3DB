@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 68256a37-2e43-403d-b30e-cf4bce4515f5
+  macAddresses:
+  - 00:21:B8:00:00:00/24
+  - 70:B3:D5:37:00:00/36
+  manufacturer: Inphi Corporation
+  manufacturerUri: https://device-type.com
+  name: Inphi
+type: d3-device-type-assertion

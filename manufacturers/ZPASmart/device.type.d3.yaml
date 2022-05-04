@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 32e86e15-0ce2-4bc8-86fb-676e01d9ba20
+  macAddresses:
+  - C0:BD:42:00:00:00/24
+  manufacturer: ZPA Smart Energy a.s.
+  manufacturerUri: https://device-type.com
+  name: ZPASmart
+type: d3-device-type-assertion

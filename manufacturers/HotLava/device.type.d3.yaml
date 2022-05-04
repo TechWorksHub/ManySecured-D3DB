@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 217d8941-ee42-45da-bdd4-b88a8bfe6219
+  macAddresses:
+  - 00:12:C0:00:00:00/24
+  manufacturer: HotLava Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: HotLava
+type: d3-device-type-assertion

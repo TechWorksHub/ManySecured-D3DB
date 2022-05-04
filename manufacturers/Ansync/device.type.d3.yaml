@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 574ce2bb-f89f-4367-9ff6-d05acc380d0a
+  macAddresses:
+  - 00:23:DE:00:00:00/24
+  manufacturer: Ansync Inc.
+  manufacturerUri: https://device-type.com
+  name: Ansync
+type: d3-device-type-assertion

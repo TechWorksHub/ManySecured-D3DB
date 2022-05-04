@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3dab4c86-0949-4f08-abe9-728e96924852
+  macAddresses:
+  - 00:12:59:00:00:00/24
+  - 00:50:C2:4D:F0:00/36
+  manufacturer: Thermo Electron Karlsruhe
+  manufacturerUri: https://device-type.com
+  name: ThermoEl
+type: d3-device-type-assertion

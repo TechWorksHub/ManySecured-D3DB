@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8062299-6dc7-4ef2-8307-762dd5b75d3e
+  macAddresses:
+  - 00:21:EE:00:00:00/24
+  manufacturer: Full Spectrum Inc.
+  manufacturerUri: https://device-type.com
+  name: FullSpec
+type: d3-device-type-assertion

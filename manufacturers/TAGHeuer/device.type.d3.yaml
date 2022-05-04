@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac9492c8-1057-41b2-a4f6-53d84cb8956c
+  macAddresses:
+  - 00:1E:B6:00:00:00/24
+  manufacturer: TAG Heuer SA
+  manufacturerUri: https://device-type.com
+  name: TAGHeuer
+type: d3-device-type-assertion

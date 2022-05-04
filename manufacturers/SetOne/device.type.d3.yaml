@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6e184d47-f672-435e-9c2c-5b37f20e39f2
+  macAddresses:
+  - 00:16:49:00:00:00/24
+  manufacturer: SetOne GmbH
+  manufacturerUri: https://device-type.com
+  name: SetOne
+type: d3-device-type-assertion

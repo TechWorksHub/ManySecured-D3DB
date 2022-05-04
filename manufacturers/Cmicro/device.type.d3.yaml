@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd16d536-8440-4718-846e-663f4a5ab7a2
+  macAddresses:
+  - 00:10:51:00:00:00/24
+  manufacturer: Cmicro Corporation
+  manufacturerUri: https://device-type.com
+  name: Cmicro
+type: d3-device-type-assertion

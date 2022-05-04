@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dbb58db8-135c-4aaf-9030-7ac1ff8481df
+  macAddresses:
+  - 00:80:32:00:00:00/24
+  manufacturer: Access Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Access
+type: d3-device-type-assertion

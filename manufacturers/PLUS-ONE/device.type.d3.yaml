@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed32fd30-b24c-484c-8d79-0928932914f0
+  macAddresses:
+  - 00:03:8B:00:00:00/24
+  manufacturer: PLUS-ONE I&T, Inc.
+  manufacturerUri: https://device-type.com
+  name: PLUS-ONE
+type: d3-device-type-assertion

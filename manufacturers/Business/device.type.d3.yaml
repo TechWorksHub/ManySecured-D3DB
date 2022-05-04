@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7171dafd-bf01-4486-8387-24fca7dcab8d
+  macAddresses:
+  - 00:14:F0:00:00:00/24
+  - 70:B3:D5:A7:20:00/36
+  - A0:3E:6B:10:00:00/28
+  manufacturer: Business Security OL AB
+  manufacturerUri: https://device-type.com
+  name: Business
+type: d3-device-type-assertion

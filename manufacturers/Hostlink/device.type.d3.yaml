@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25b87198-78b2-4354-81aa-1ff3a1a7be72
+  macAddresses:
+  - 00:10:61:00:00:00/24
+  manufacturer: Hostlink Corp.
+  manufacturerUri: https://device-type.com
+  name: Hostlink
+type: d3-device-type-assertion

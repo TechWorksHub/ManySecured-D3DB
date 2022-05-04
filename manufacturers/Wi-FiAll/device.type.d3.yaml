@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c1e0cae3-0a6d-4604-835a-b9ccd7b9378e
+  macAddresses:
+  - 50:6F:9A:00:00:00/24
+  - D4:5C:70:00:00:00/24
+  manufacturer: Wi-Fi Alliance
+  manufacturerUri: https://device-type.com
+  name: Wi-FiAll
+type: d3-device-type-assertion

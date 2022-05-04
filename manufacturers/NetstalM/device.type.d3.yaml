@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f65173f7-5973-4d22-beb8-cf7411ae1e81
+  macAddresses:
+  - 00:60:13:00:00:00/24
+  manufacturer: Netstal Maschinen Ag
+  manufacturerUri: https://device-type.com
+  name: NetstalM
+type: d3-device-type-assertion

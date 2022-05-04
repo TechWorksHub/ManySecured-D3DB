@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 725ef377-2faa-4836-9473-6ddb7bec79fc
+  macAddresses:
+  - 00:0C:4B:00:00:00/24
+  manufacturer: Cheops Elektronik
+  manufacturerUri: https://device-type.com
+  name: CheopsEl
+type: d3-device-type-assertion

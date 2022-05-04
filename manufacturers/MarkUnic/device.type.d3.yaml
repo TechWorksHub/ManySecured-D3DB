@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d856980a-18f5-4c9f-b98a-19bd135cd544
+  macAddresses:
+  - 00:01:F2:00:00:00/24
+  manufacturer: Mark of the Unicorn, Inc.
+  manufacturerUri: https://device-type.com
+  name: MarkUnic
+type: d3-device-type-assertion

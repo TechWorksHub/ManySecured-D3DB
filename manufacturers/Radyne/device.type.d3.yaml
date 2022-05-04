@@ -1,0 +1,9 @@
+credentialSubject:
+  id: bff5be1a-34a2-43aa-bcd4-8f3b235de439
+  macAddresses:
+  - 00:10:65:00:00:00/24
+  - 00:50:C2:F2:90:00/36
+  manufacturer: Radyne Corporation
+  manufacturerUri: https://device-type.com
+  name: Radyne
+type: d3-device-type-assertion

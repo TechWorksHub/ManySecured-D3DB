@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0621690d-e3eb-4e06-9f07-b1afd828138d
+  macAddresses:
+  - 00:1C:18:00:00:00/24
+  manufacturer: Sicert S.r.L.
+  manufacturerUri: https://device-type.com
+  name: Sicert
+type: d3-device-type-assertion

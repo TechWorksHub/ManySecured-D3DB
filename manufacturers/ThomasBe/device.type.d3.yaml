@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 1068d8f8-d952-4fd3-976e-dadee05426e6
+  macAddresses:
+  - 00:50:C2:CE:80:00/36
+  - 00:D0:C6:00:00:00/24
+  - 60:FE:F9:00:00:00/24
+  manufacturer: Thomas & Betts
+  manufacturerUri: https://device-type.com
+  name: ThomasBe
+type: d3-device-type-assertion

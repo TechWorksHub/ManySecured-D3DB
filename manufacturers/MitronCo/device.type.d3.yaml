@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45e075a4-cb79-4a82-b9f6-154add5bd01a
+  macAddresses:
+  - 00:20:4C:00:00:00/24
+  manufacturer: Mitron Computer Pte Ltd.
+  manufacturerUri: https://device-type.com
+  name: MitronCo
+type: d3-device-type-assertion

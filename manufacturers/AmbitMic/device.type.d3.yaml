@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 0947d6c5-7966-49b7-99c7-1aed2a5d8120
+  macAddresses:
+  - 00:02:8A:00:00:00/24
+  - 00:0E:9B:00:00:00/24
+  - 00:D0:59:00:00:00/24
+  manufacturer: Ambit Microsystems Corporation
+  manufacturerUri: https://device-type.com
+  name: AmbitMic
+type: d3-device-type-assertion

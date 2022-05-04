@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7ac51f79-671b-4f95-b91d-48e1912554d6
+  macAddresses:
+  - 18:A9:58:00:00:00/24
+  - 74:F8:DB:50:00:00/28
+  - 84:11:C2:C0:00:00/28
+  manufacturer: Provision Thai Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Provisio
+type: d3-device-type-assertion

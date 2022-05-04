@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5bc77ea5-5f28-49dd-982d-c9584ab9e41b
+  macAddresses:
+  - 00:1E:2B:00:00:00/24
+  manufacturer: Radio Systems Design, Inc.
+  manufacturerUri: https://device-type.com
+  name: RadioDes
+type: d3-device-type-assertion

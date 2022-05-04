@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5dbb5bba-b405-487a-82c5-ea38061931c3
+  macAddresses:
+  - 44:6F:D8:20:00:00/28
+  - 70:B3:D5:25:80:00/36
+  manufacturer: "BAYKON End\xFCstriyel Kontrol Sistemleri San. ve Tic. A.\u015E."
+  manufacturerUri: https://device-type.com
+  name: BAYKONEn
+type: d3-device-type-assertion

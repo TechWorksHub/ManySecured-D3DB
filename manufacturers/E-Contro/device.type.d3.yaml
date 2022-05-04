@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0e0ef834-1557-4b5d-81f1-6728a6c26ac2
+  macAddresses:
+  - 00:01:9D:00:00:00/24
+  - 70:B3:D5:6E:20:00/36
+  manufacturer: E-Control Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: E-Contro
+type: d3-device-type-assertion

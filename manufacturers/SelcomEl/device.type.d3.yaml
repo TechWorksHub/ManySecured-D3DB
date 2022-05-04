@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bbe6a82a-a444-4759-b585-6c906043affb
+  macAddresses:
+  - 00:90:52:00:00:00/24
+  manufacturer: Selcom Elettronica S.R.L.
+  manufacturerUri: https://device-type.com
+  name: SelcomEl
+type: d3-device-type-assertion

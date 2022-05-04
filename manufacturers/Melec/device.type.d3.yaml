@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 223e12f5-7b4b-4ffb-94d7-1e9d8a9c1db3
+  macAddresses:
+  - E8:61:BE:00:00:00/24
+  manufacturer: Melec Inc.
+  manufacturerUri: https://device-type.com
+  name: Melec
+type: d3-device-type-assertion

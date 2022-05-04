@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 719b1e82-fe86-474b-ae01-c9f6df2ee989
+  macAddresses:
+  - 00:50:C2:19:00:00/36
+  - 00:50:C2:B0:80:00/36
+  - 0C:EF:AF:10:00:00/28
+  manufacturer: Goerlitz AG
+  manufacturerUri: https://device-type.com
+  name: Goerlitz
+type: d3-device-type-assertion

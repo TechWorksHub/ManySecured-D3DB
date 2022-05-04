@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b13af357-44af-459c-b135-5f13bad71d48
+  macAddresses:
+  - 00:08:5E:00:00:00/24
+  manufacturer: Pco Ag
+  manufacturerUri: https://device-type.com
+  name: Pco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0dfe875-65b8-43ff-be30-3078d6dfa37b
+  macAddresses:
+  - 00:26:B5:00:00:00/24
+  manufacturer: ICOMM Tele Ltd
+  manufacturerUri: https://device-type.com
+  name: ICOMMTel
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b3d1e332-eb98-47e5-b382-ad7e2ef09bf3
+  macAddresses:
+  - 00:22:73:00:00:00/24
+  - 40:D8:55:16:B0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Techway
+type: d3-device-type-assertion

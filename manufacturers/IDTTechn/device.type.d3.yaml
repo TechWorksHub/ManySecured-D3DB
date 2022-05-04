@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b494524a-be7b-40bb-be29-18a5d972d8f8
+  macAddresses:
+  - 00:17:7D:00:00:00/24
+  - 98:F8:C1:00:00:00/24
+  manufacturer: IDT Technology Limited
+  manufacturerUri: https://device-type.com
+  name: IDTTechn
+type: d3-device-type-assertion

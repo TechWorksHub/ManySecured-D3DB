@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 88307f64-30ee-46c2-8b07-f05e19887f86
+  macAddresses:
+  - 00:0F:F2:00:00:00/24
+  manufacturer: Loud Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: LoudTech
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: e22a0150-6395-4e27-a95f-78c2ba607145
+  macAddresses:
+  - 48:57:DD:00:00:00/24
+  - 80:F3:EF:00:00:00/24
+  - A4:0E:2B:00:00:00/24
+  - B4:17:A8:00:00:00/24
+  - C0:DD:8A:00:00:00/24
+  manufacturer: Facebook Inc
+  manufacturerUri: https://device-type.com
+  name: Facebook
+type: d3-device-type-assertion

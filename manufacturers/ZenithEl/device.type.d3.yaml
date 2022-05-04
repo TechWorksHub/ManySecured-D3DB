@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 82a61bd3-6ed1-42a5-a234-61b28168f15e
+  macAddresses:
+  - 00:0C:63:00:00:00/24
+  - 00:E0:DD:00:00:00/24
+  manufacturer: Zenith Electronics Corporation
+  manufacturerUri: https://device-type.com
+  name: ZenithEl
+type: d3-device-type-assertion

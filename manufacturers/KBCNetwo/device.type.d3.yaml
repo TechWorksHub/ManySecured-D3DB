@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f1f42022-0dcd-4811-8229-6e40e5c7b4d9
+  macAddresses:
+  - 3C:0F:C1:00:00:00/24
+  manufacturer: KBC Networks
+  manufacturerUri: https://device-type.com
+  name: KBCNetwo
+type: d3-device-type-assertion

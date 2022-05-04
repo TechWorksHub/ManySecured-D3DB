@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 052f21a8-2566-4f76-8365-1756df91bbe5
+  macAddresses:
+  - 00:0B:3A:00:00:00/24
+  - 00:50:C2:1A:F0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Pesa
+type: d3-device-type-assertion

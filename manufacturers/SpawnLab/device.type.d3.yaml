@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0aa2021f-2dab-447b-a832-a3bb0b9472ea
+  macAddresses:
+  - 44:56:B7:00:00:00/24
+  manufacturer: Spawn Labs, Inc
+  manufacturerUri: https://device-type.com
+  name: SpawnLab
+type: d3-device-type-assertion

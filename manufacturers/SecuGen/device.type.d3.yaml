@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 555768d8-f310-440b-9cd1-4c333f90230b
+  macAddresses:
+  - CC:35:5A:00:00:00/24
+  manufacturer: SecuGen Corporation
+  manufacturerUri: https://device-type.com
+  name: SecuGen
+type: d3-device-type-assertion

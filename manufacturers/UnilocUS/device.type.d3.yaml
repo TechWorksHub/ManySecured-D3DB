@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a4dd98f1-8b14-46a4-8971-09126a2d9056
+  macAddresses:
+  - 00:23:D0:00:00:00/24
+  manufacturer: Uniloc USA Inc.
+  manufacturerUri: https://device-type.com
+  name: UnilocUS
+type: d3-device-type-assertion

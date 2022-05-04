@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4418b2ee-b768-4dd8-b456-1e92596b5d6e
+  macAddresses:
+  - 84:D3:2A:00:00:00/24
+  manufacturer: Ieee 1905.1
+  manufacturerUri: https://device-type.com
+  name: Ieee1905
+type: d3-device-type-assertion

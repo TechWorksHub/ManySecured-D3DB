@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 88e45b57-cd34-462e-8e41-4e80c59f993a
+  macAddresses:
+  - 00:50:C2:8A:30:00/36
+  - F8:2E:DB:00:00:00/24
+  manufacturer: RTW GmbH & Co.KG
+  manufacturerUri: https://device-type.com
+  name: RTW
+type: d3-device-type-assertion

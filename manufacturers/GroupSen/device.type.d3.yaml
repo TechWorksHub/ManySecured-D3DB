@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1ac7271-f880-4b59-841d-fd33069eb60b
+  macAddresses:
+  - 00:07:62:00:00:00/24
+  manufacturer: Group Sense Limited
+  manufacturerUri: https://device-type.com
+  name: GroupSen
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f32daada-042c-4373-bddf-e96370bf0fab
+  macAddresses:
+  - 20:05:05:00:00:00/24
+  manufacturer: Radmax Communication Private Limited
+  manufacturerUri: https://device-type.com
+  name: RadmaxCo
+type: d3-device-type-assertion

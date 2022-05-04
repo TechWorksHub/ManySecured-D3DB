@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5c93b590-7e36-4a1e-830c-d5754ef819ff
+  macAddresses:
+  - 80:D7:33:00:00:00/24
+  manufacturer: QSR Automations, Inc.
+  manufacturerUri: https://device-type.com
+  name: QSRAutom
+type: d3-device-type-assertion

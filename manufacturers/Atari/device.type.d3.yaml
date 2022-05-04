@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4cedf808-f6bb-4255-b3a6-f9da504f0694
+  macAddresses:
+  - 00:00:36:00:00:00/24
+  - 44:03:77:10:00:00/28
+  manufacturer: Atari Corporation
+  manufacturerUri: https://device-type.com
+  name: Atari
+type: d3-device-type-assertion

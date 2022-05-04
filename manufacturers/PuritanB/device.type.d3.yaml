@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c3ef885-78c6-4c0e-ba81-bee9b77169c9
+  macAddresses:
+  - 00:A0:61:00:00:00/24
+  manufacturer: Puritan Bennett
+  manufacturerUri: https://device-type.com
+  name: PuritanB
+type: d3-device-type-assertion

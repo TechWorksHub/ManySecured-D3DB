@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3bdd00f8-4864-460e-bc9e-d325b35f5baa
+  macAddresses:
+  - 00:C0:66:00:00:00/24
+  manufacturer: Docupoint, Inc.
+  manufacturerUri: https://device-type.com
+  name: Docupoin
+type: d3-device-type-assertion

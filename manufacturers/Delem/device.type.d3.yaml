@@ -1,0 +1,9 @@
+credentialSubject:
+  id: e52dc9ae-fba3-44e1-be55-f8ffa9462809
+  macAddresses:
+  - 00:90:4E:00:00:00/24
+  - F4:90:CB:10:00:00/28
+  manufacturer: Delem Bv
+  manufacturerUri: https://device-type.com
+  name: Delem
+type: d3-device-type-assertion

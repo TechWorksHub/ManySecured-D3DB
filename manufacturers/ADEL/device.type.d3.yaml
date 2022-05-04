@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5f742e2a-8699-44cd-95fc-c85180a15cce
+  macAddresses:
+  - 00:13:40:00:00:00/24
+  manufacturer: AD.EL s.r.l.
+  manufacturerUri: https://device-type.com
+  name: ADEL
+type: d3-device-type-assertion

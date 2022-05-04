@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b13d9422-8d2d-479c-8fb2-8d7fd3a3c96b
+  macAddresses:
+  - 70:B3:D5:86:F0:00/36
+  manufacturer: Llc "Ntc Actor"
+  manufacturerUri: https://device-type.com
+  name: NtcActor
+type: d3-device-type-assertion

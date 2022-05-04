@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae2165ef-3ef2-460a-8bcf-ef6f2d55a6c9
+  macAddresses:
+  - 00:03:3C:00:00:00/24
+  manufacturer: Daiden Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Daiden
+type: d3-device-type-assertion

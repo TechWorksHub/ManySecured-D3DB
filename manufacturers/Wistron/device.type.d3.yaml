@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 1528d80d-4927-41ba-94b9-4da4088adea2
+  macAddresses:
+  - 00:0A:E4:00:00:00/24
+  - 00:16:D3:00:00:00/24
+  - 00:1D:72:00:00:00/24
+  - 00:1F:16:00:00:00/24
+  - 00:26:2D:00:00:00/24
+  - 5C:FF:35:00:00:00/24
+  - 80:EB:77:00:00:00/24
+  - F8:CE:72:00:00:00/24
+  manufacturer: Wistron Corporation
+  manufacturerUri: https://device-type.com
+  name: Wistron
+type: d3-device-type-assertion

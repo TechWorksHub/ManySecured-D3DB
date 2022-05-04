@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b1220fe9-a9c2-4c5b-bee1-683a8c67982a
+  macAddresses:
+  - 00:90:81:00:00:00/24
+  manufacturer: Aloha Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: AlohaNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ea2062a-e21f-490e-871f-d337293849ea
+  macAddresses:
+  - 00:01:DF:00:00:00/24
+  manufacturer: ISDN Communications, Ltd.
+  manufacturerUri: https://device-type.com
+  name: ISDNComm
+type: d3-device-type-assertion

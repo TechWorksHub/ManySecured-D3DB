@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b0dc982-3a75-4c2e-a558-d39a8a494854
+  macAddresses:
+  - 00:1D:2F:00:00:00/24
+  manufacturer: QuantumVision Corporation
+  manufacturerUri: https://device-type.com
+  name: QuantumV
+type: d3-device-type-assertion

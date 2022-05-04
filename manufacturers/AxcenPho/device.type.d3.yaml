@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83da2113-2052-4cc2-9f73-0e36e892f8cd
+  macAddresses:
+  - 00:17:2D:00:00:00/24
+  manufacturer: Axcen Photonics Corporation
+  manufacturerUri: https://device-type.com
+  name: AxcenPho
+type: d3-device-type-assertion

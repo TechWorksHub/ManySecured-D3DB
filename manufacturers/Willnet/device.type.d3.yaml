@@ -1,0 +1,8 @@
+credentialSubject:
+  id: abd40239-0ee7-4d83-8756-39ab25ba5454
+  macAddresses:
+  - 00:10:C2:00:00:00/24
+  manufacturer: Willnet, Inc.
+  manufacturerUri: https://device-type.com
+  name: Willnet
+type: d3-device-type-assertion

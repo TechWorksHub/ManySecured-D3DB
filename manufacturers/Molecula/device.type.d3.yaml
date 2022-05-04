@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 53196f04-1eb6-4923-bce2-f645d8a4d96b
+  macAddresses:
+  - 00:0A:4C:00:00:00/24
+  - 00:40:25:00:00:00/24
+  manufacturer: Molecular Devices Corporation
+  manufacturerUri: https://device-type.com
+  name: Molecula
+type: d3-device-type-assertion

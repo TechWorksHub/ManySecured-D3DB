@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3a7d9450-36c8-4d1d-81f7-a816aa642cee
+  macAddresses:
+  - 00:1E:0C:00:00:00/24
+  - 00:E0:60:00:00:00/24
+  manufacturer: Sherwood Information Partners, Inc.
+  manufacturerUri: https://device-type.com
+  name: Sherwood
+type: d3-device-type-assertion

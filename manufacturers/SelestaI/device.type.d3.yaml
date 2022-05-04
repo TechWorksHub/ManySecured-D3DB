@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d89c9e60-cc8e-4f51-be7b-4061b67b79b9
+  macAddresses:
+  - 00:90:1E:00:00:00/24
+  manufacturer: Selesta Ingegneria S.p.A.
+  manufacturerUri: https://device-type.com
+  name: SelestaI
+type: d3-device-type-assertion

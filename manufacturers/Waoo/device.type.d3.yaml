@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 761a2c68-c1ea-4c75-9f5a-e3fdc0ce73e2
+  macAddresses:
+  - 58:48:49:A0:00:00/28
+  - 6A:8E:AF:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Waoo
+type: d3-device-type-assertion

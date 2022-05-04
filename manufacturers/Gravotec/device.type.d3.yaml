@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9f65752-a7e6-418c-9a3d-4c8f1ef5f85e
+  macAddresses:
+  - E8:E0:8F:00:00:00/24
+  manufacturer: Gravotech Marking Sas
+  manufacturerUri: https://device-type.com
+  name: Gravotec
+type: d3-device-type-assertion

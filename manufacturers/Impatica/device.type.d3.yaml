@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56f05a6a-f50e-4434-bce2-3f2fdc3d6e1f
+  macAddresses:
+  - 00:1A:BD:00:00:00/24
+  manufacturer: Impatica Inc.
+  manufacturerUri: https://device-type.com
+  name: Impatica
+type: d3-device-type-assertion

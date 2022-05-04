@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7c08b2e3-7e6b-4199-a9a5-47197297f64a
+  macAddresses:
+  - 00:80:0C:00:00:00/24
+  manufacturer: Videcom Limited
+  manufacturerUri: https://device-type.com
+  name: Videcom
+type: d3-device-type-assertion

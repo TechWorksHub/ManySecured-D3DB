@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e9f4cf5-e19e-43cd-91ba-ba40d6ca5896
+  macAddresses:
+  - 64:1A:BA:00:00:00/24
+  manufacturer: Dryad Networks GmbH
+  manufacturerUri: https://device-type.com
+  name: DryadNet
+type: d3-device-type-assertion

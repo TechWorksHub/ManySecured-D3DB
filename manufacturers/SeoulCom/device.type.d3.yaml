@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c6e2d720-5a90-4d3c-b12b-19ae18804d32
+  macAddresses:
+  - 00:16:B7:00:00:00/24
+  manufacturer: Seoul Commtech
+  manufacturerUri: https://device-type.com
+  name: SeoulCom
+type: d3-device-type-assertion

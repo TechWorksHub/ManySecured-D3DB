@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4c48e849-12e3-4caa-b9f2-36013b3c2ada
+  macAddresses:
+  - B4:D6:4E:00:00:00/24
+  manufacturer: Caldero Limited
+  manufacturerUri: https://device-type.com
+  name: Caldero
+type: d3-device-type-assertion

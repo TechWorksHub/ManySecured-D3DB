@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a6afe12-fb88-4c85-8331-c2a3348c62ad
+  macAddresses:
+  - 60:12:83:00:00:00/24
+  manufacturer: Tsb Real Time Location Systems S.L.
+  manufacturerUri: https://device-type.com
+  name: TsbRealT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42efeb21-78ae-4eed-a5ce-5f097eca512e
+  macAddresses:
+  - 70:B3:D5:DA:30:00/36
+  manufacturer: Voleatech GmbH
+  manufacturerUri: https://device-type.com
+  name: Voleatec
+type: d3-device-type-assertion

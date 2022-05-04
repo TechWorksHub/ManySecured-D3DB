@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fabe809-8cb0-42fe-af87-72059fccbe26
+  macAddresses:
+  - 00:50:C2:12:70:00/36
+  manufacturer: TPA Traffic & Parking Automation BV
+  manufacturerUri: https://device-type.com
+  name: TPATraff
+type: d3-device-type-assertion

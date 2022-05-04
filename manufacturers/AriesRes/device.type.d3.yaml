@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b12efeb-73aa-47ab-837b-664c6a7457f9
+  macAddresses:
+  - 00:80:BE:00:00:00/24
+  manufacturer: Aries Research
+  manufacturerUri: https://device-type.com
+  name: AriesRes
+type: d3-device-type-assertion

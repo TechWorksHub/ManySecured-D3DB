@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fea2a027-18e5-46d4-a293-5fb9db28ea35
+  macAddresses:
+  - 58:FC:C6:00:00:00/24
+  manufacturer: Tozo Inc
+  manufacturerUri: https://device-type.com
+  name: Tozo
+type: d3-device-type-assertion

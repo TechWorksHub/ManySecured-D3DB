@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b9a9552f-0707-49a6-9b95-889d0a951657
+  macAddresses:
+  - 00:50:C2:8E:B0:00/36
+  - 40:D8:55:06:E0:00/36
+  - 70:B3:D5:D4:F0:00/36
+  manufacturer: C-COM Satellite Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: C-COMSat
+type: d3-device-type-assertion

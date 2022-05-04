@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 53eee272-fdc7-401a-9ec8-f6cccc48f9c5
+  macAddresses:
+  - 00:A0:F5:00:00:00/24
+  manufacturer: Radguard Ltd.
+  manufacturerUri: https://device-type.com
+  name: Radguard
+type: d3-device-type-assertion

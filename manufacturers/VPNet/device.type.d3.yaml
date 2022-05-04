@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8a14b34b-9a4e-4b41-b1e1-3aea93153ca5
+  macAddresses:
+  - 00:60:A1:00:00:00/24
+  manufacturer: VPNet, Inc.
+  manufacturerUri: https://device-type.com
+  name: VPNet
+type: d3-device-type-assertion

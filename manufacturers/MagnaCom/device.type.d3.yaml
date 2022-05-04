@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b1fc9079-7d9f-4913-8d66-c729fe570c38
+  macAddresses:
+  - 00:00:F1:00:00:00/24
+  - 28:10:1B:00:00:00/24
+  manufacturer: Magna Computer Corporation
+  manufacturerUri: https://device-type.com
+  name: MagnaCom
+type: d3-device-type-assertion

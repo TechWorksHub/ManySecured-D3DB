@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65c7f390-6b70-4324-9de7-a3964be000a1
+  macAddresses:
+  - 00:0E:CA:00:00:00/24
+  manufacturer: WTSS Inc
+  manufacturerUri: https://device-type.com
+  name: WTSS
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f413b25-c1cd-4b26-8abf-7be5401f6d1b
+  macAddresses:
+  - 00:50:C2:28:90:00/36
+  manufacturer: Rototype S.p.A.
+  manufacturerUri: https://device-type.com
+  name: Rototype
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2be6d206-1a26-4504-9e19-9cfbd3fdd46c
+  macAddresses:
+  - 00:C0:45:00:00:00/24
+  manufacturer: Isolation Systems Inc
+  manufacturerUri: https://device-type.com
+  name: Isolatio
+type: d3-device-type-assertion

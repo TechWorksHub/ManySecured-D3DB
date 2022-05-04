@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 93cdf914-c047-45b0-8758-30c582f41b0b
+  macAddresses:
+  - 30:43:D7:40:00:00/28
+  - 8C:1F:64:C6:80:00/36
+  manufacturer: Fiberme Communications Llc
+  manufacturerUri: https://device-type.com
+  name: FibermeC
+type: d3-device-type-assertion

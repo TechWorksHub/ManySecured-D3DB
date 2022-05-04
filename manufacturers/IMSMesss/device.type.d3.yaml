@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c9794d09-c883-4eb6-9c82-183bc51a79af
+  macAddresses:
+  - 1C:48:40:00:00:00/24
+  manufacturer: IMS Messsysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: IMSMesss
+type: d3-device-type-assertion

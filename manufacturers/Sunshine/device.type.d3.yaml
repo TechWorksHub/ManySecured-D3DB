@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8068776e-d99c-43e3-8956-e326cc940196
+  macAddresses:
+  - 00:1D:F5:00:00:00/24
+  - 00:E0:D7:00:00:00/24
+  manufacturer: Sunshine Co,LTD
+  manufacturerUri: https://device-type.com
+  name: Sunshine
+type: d3-device-type-assertion

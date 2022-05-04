@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ece07f8b-a0ab-4506-95ad-1e1ce14529d8
+  macAddresses:
+  - 00:60:43:00:00:00/24
+  manufacturer: iDirect, INC.
+  manufacturerUri: https://device-type.com
+  name: iDirect
+type: d3-device-type-assertion

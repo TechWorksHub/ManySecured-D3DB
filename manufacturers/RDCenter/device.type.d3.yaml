@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 169c8e50-15f2-45a9-bbe8-6659286bbd5b
+  macAddresses:
+  - 00:06:97:00:00:00/24
+  manufacturer: R & D Center
+  manufacturerUri: https://device-type.com
+  name: RDCenter
+type: d3-device-type-assertion

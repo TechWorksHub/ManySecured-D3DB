@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e7b723c5-d989-4bb0-a6e0-684b72a56a08
+  macAddresses:
+  - 00:50:C2:45:B0:00/36
+  manufacturer: Matra Electronique
+  manufacturerUri: https://device-type.com
+  name: MatraEle
+type: d3-device-type-assertion

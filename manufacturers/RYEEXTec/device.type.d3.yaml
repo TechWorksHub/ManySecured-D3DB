@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a9154c82-2e17-404a-960e-3bc63eb94c89
+  macAddresses:
+  - 98:80:BB:00:00:00/28
+  - 9C:F6:DD:30:00:00/28
+  manufacturer: RYEEX Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: RYEEXTec
+type: d3-device-type-assertion

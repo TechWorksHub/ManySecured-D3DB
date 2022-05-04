@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f925d916-0bc2-47e4-8441-94b6a0043f57
+  macAddresses:
+  - 00:25:23:00:00:00/24
+  manufacturer: OCP Inc.
+  manufacturerUri: https://device-type.com
+  name: OCP
+type: d3-device-type-assertion

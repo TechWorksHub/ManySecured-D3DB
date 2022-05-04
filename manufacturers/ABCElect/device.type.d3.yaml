@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 35364c02-c915-410f-9d90-7a6f900f9ef5
+  macAddresses:
+  - 70:B3:D5:3C:80:00/36
+  manufacturer: ABC Electric Co.
+  manufacturerUri: https://device-type.com
+  name: ABCElect
+type: d3-device-type-assertion

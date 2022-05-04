@@ -1,0 +1,8 @@
+credentialSubject:
+  id: de2fe4fe-739e-4493-a426-d4e189cc9b53
+  macAddresses:
+  - 00:1D:9A:00:00:00/24
+  manufacturer: Godex International Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: GodexInt
+type: d3-device-type-assertion

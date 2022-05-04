@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 873c9cbb-8938-4e3a-a6df-baab8a1ce438
+  macAddresses:
+  - 00:05:B0:00:00:00/24
+  - 00:20:50:00:00:00/24
+  manufacturer: Korea Computer Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KoreaCom
+type: d3-device-type-assertion

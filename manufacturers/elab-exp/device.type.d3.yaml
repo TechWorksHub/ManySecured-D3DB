@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b09da95-ae9a-47b5-bec0-5b181e1495cd
+  macAddresses:
+  - 00:17:AA:00:00:00/24
+  manufacturer: elab-experience inc.
+  manufacturerUri: https://device-type.com
+  name: elab-exp
+type: d3-device-type-assertion

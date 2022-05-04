@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8dceb8dc-f636-4226-b030-361037e15569
+  macAddresses:
+  - 00:50:C2:2B:00:00/36
+  manufacturer: Telda Electronics
+  manufacturerUri: https://device-type.com
+  name: TeldaEle
+type: d3-device-type-assertion

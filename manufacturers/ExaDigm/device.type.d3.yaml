@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33ad4a1c-4b07-4657-81bd-c45bf47cab58
+  macAddresses:
+  - 00:1C:93:00:00:00/24
+  manufacturer: ExaDigm Inc
+  manufacturerUri: https://device-type.com
+  name: ExaDigm
+type: d3-device-type-assertion

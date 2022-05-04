@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76d3f45e-a756-4868-b69d-4a9da76e1b10
+  macAddresses:
+  - 00:A0:3E:00:00:00/24
+  manufacturer: Atm Forum
+  manufacturerUri: https://device-type.com
+  name: AtmForum
+type: d3-device-type-assertion

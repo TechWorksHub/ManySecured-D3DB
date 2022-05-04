@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b85dd3af-fc35-485c-8c7b-55de6aa6f4e5
+  macAddresses:
+  - 38:F7:CD:B0:00:00/28
+  - 98:2D:BA:00:00:00/24
+  - C8:8E:D1:50:00:00/28
+  manufacturer: Fibergate Inc.
+  manufacturerUri: https://device-type.com
+  name: Fibergat
+type: d3-device-type-assertion

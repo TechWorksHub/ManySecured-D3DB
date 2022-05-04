@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98a49a09-6b7b-4f20-8884-408282bf6bae
+  macAddresses:
+  - 00:25:28:00:00:00/24
+  manufacturer: Daido Signal Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DaidoSig
+type: d3-device-type-assertion

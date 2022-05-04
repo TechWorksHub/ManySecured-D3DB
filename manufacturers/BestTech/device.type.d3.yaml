@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5150a6e0-ae75-446b-b82c-7d2666764df4
+  macAddresses:
+  - 00:01:5E:00:00:00/24
+  manufacturer: Best Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: BestTech
+type: d3-device-type-assertion

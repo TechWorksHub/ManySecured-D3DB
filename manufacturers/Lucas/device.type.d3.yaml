@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fbb6affe-4efd-4934-886f-8a4aeeaf6a3b
+  macAddresses:
+  - 00:1F:80:00:00:00/24
+  manufacturer: Lucas Holding bv
+  manufacturerUri: https://device-type.com
+  name: Lucas
+type: d3-device-type-assertion

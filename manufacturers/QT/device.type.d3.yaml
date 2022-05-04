@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ef72de84-797a-41e6-83ce-b448ab57a617
+  macAddresses:
+  - 00:50:C2:41:70:00/36
+  - 78:72:64:D0:00:00/28
+  manufacturer: QT systems ab
+  manufacturerUri: https://device-type.com
+  name: QT
+type: d3-device-type-assertion

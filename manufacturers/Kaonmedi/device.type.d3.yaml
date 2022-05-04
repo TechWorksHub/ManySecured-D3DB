@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 567b5c5d-2aa3-4ae7-8076-38c7888b8680
+  macAddresses:
+  - 00:08:B9:00:00:00/24
+  - 18:34:AF:00:00:00/24
+  - 44:F0:34:00:00:00/24
+  - 74:3A:EF:00:00:00/24
+  - 80:8C:97:00:00:00/24
+  - 84:01:12:00:00:00/24
+  - 90:F8:91:00:00:00/24
+  - 94:3B:B1:00:00:00/24
+  - 98:77:E7:00:00:00/24
+  manufacturer: Kaonmedia CO., LTD.
+  manufacturerUri: https://device-type.com
+  name: Kaonmedi
+type: d3-device-type-assertion

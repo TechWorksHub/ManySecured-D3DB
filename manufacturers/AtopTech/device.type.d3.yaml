@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4fd04f41-af15-4fe3-86d8-f9e89b7bbe66
+  macAddresses:
+  - 00:60:E9:00:00:00/24
+  manufacturer: Atop Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: AtopTech
+type: d3-device-type-assertion

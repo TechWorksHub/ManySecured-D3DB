@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8b6a48d-a999-466a-b433-5acd328d7878
+  macAddresses:
+  - 00:1C:6A:00:00:00/24
+  manufacturer: Weiss Engineering Ltd.
+  manufacturerUri: https://device-type.com
+  name: WeissEng
+type: d3-device-type-assertion

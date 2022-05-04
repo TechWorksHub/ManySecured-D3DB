@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0e15c97-e5fa-4098-aaac-991b34610f1b
+  macAddresses:
+  - 00:30:10:00:00:00/24
+  manufacturer: Visionetics International
+  manufacturerUri: https://device-type.com
+  name: Visionet
+type: d3-device-type-assertion

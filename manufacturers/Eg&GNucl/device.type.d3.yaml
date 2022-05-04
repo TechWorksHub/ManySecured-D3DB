@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55c7584f-bd14-4955-bb3e-b20386427189
+  macAddresses:
+  - 00:A0:3C:00:00:00/24
+  manufacturer: Eg&G Nuclear Instruments
+  manufacturerUri: https://device-type.com
+  name: Eg&GNucl
+type: d3-device-type-assertion

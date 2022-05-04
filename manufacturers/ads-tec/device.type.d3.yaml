@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 38fd5245-a4aa-4060-a565-dc9b17ab0b21
+  macAddresses:
+  - 00:18:92:00:00:00/24
+  - 00:50:C2:25:20:00/36
+  - 00:50:C2:34:40:00/36
+  - 00:50:C2:40:E0:00/36
+  - 00:50:C2:42:20:00/36
+  - 00:50:C2:48:B0:00/36
+  - 00:50:C2:4A:E0:00/36
+  - 00:50:C2:55:C0:00/36
+  - 00:50:C2:59:F0:00/36
+  manufacturer: ads-tec GmbH
+  manufacturerUri: https://device-type.com
+  name: ads-tec
+type: d3-device-type-assertion

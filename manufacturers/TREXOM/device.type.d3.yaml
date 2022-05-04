@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb213d18-332c-43fd-ae1c-bd18082d5bd9
+  macAddresses:
+  - 50:A4:D0:50:00:00/28
+  manufacturer: TREXOM S.r.l.
+  manufacturerUri: https://device-type.com
+  name: TREXOM
+type: d3-device-type-assertion

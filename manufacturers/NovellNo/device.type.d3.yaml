@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd5f9587-a755-406d-a0cf-dc4a66abda2d
+  macAddresses:
+  - 00:00:1B:00:00:00/24
+  manufacturer: Novell (now Eagle Technology)
+  manufacturerUri: https://device-type.com
+  name: NovellNo
+type: d3-device-type-assertion

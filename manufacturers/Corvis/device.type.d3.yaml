@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fd348ce9-1376-476e-8c36-04ba32d3c92b
+  macAddresses:
+  - 00:50:72:00:00:00/24
+  manufacturer: Corvis Corporation
+  manufacturerUri: https://device-type.com
+  name: Corvis
+type: d3-device-type-assertion

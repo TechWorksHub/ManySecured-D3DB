@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba88dff1-44cb-43e2-9b75-236421d101b9
+  macAddresses:
+  - 00:05:B6:00:00:00/24
+  manufacturer: INSYS Microelectronics GmbH
+  manufacturerUri: https://device-type.com
+  name: INSYSMic
+type: d3-device-type-assertion

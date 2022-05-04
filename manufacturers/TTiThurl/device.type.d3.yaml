@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b717f17-4e82-4de1-a54d-ef9b291281e5
+  macAddresses:
+  - 00:50:C2:F9:50:00/36
+  manufacturer: TTi LTD (Thurlby Thandar Instruments LTD)
+  manufacturerUri: https://device-type.com
+  name: TTiThurl
+type: d3-device-type-assertion

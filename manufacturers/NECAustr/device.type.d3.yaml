@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d8af6097-1762-46f5-9e0e-9080f4e051bc
+  macAddresses:
+  - 00:22:77:00:00:00/24
+  manufacturer: NEC Australia Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: NECAustr
+type: d3-device-type-assertion

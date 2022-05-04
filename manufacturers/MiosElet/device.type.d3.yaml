@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b88da6e-7908-4103-856b-6feb3cae2bef
+  macAddresses:
+  - 34:0B:40:00:00:00/24
+  manufacturer: Mios Elettronica Srl
+  manufacturerUri: https://device-type.com
+  name: MiosElet
+type: d3-device-type-assertion

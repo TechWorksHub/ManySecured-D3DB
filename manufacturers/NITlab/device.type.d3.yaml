@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed20b57e-2f81-4dc8-b61d-3af3c01ed087
+  macAddresses:
+  - 00:12:74:00:00:00/24
+  manufacturer: NIT lab
+  manufacturerUri: https://device-type.com
+  name: NITlab
+type: d3-device-type-assertion

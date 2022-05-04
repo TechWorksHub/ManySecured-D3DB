@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f311d0a1-22dc-4aca-9797-92c77e6cc471
+  macAddresses:
+  - A0:82:AC:00:00:00/24
+  manufacturer: Linear DMS Solutions Sdn. Bhd.
+  manufacturerUri: https://device-type.com
+  name: LinearDM
+type: d3-device-type-assertion

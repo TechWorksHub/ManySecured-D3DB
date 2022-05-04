@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c752441-d869-42ba-9b72-dfcfa0869bee
+  macAddresses:
+  - 00:13:4D:00:00:00/24
+  manufacturer: Inepro BV
+  manufacturerUri: https://device-type.com
+  name: Inepro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 58cd55b7-49e1-48b8-8a6d-b48461cebd5b
+  macAddresses:
+  - 00:21:F4:00:00:00/24
+  manufacturer: INRange Systems, Inc
+  manufacturerUri: https://device-type.com
+  name: INRange
+type: d3-device-type-assertion

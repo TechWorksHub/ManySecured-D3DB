@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 464bb626-f798-41c5-afa5-c64154e8e92a
+  macAddresses:
+  - 00:1A:AE:00:00:00/24
+  manufacturer: Savant Systems LLC
+  manufacturerUri: https://device-type.com
+  name: Savant
+type: d3-device-type-assertion

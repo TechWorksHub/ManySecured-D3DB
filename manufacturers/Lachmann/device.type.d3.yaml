@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a93b240-8532-401e-b528-9f62ce35dbe9
+  macAddresses:
+  - 90:C6:82:B0:00:00/28
+  manufacturer: Lachmann & Rink GmbH
+  manufacturerUri: https://device-type.com
+  name: Lachmann
+type: d3-device-type-assertion

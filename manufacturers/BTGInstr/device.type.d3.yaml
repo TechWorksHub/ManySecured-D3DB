@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5549e882-f1e1-423e-bdeb-79e3767aa293
+  macAddresses:
+  - 70:B3:D5:C4:90:00/36
+  - 70:B3:D5:D8:50:00/36
+  manufacturer: BTG Instruments AB
+  manufacturerUri: https://device-type.com
+  name: BTGInstr
+type: d3-device-type-assertion

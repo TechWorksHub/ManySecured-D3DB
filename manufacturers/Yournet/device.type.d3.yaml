@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cec199b7-a87d-403e-9294-e08ebe79c048
+  macAddresses:
+  - 00:21:61:00:00:00/24
+  manufacturer: Yournet Inc.
+  manufacturerUri: https://device-type.com
+  name: Yournet
+type: d3-device-type-assertion

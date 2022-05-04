@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a5f24797-185d-414f-8a72-84160e258c03
+  macAddresses:
+  - 00:D0:8D:00:00:00/24
+  - 9C:86:DA:00:00:00/24
+  manufacturer: Phoenix Group, Inc.
+  manufacturerUri: https://device-type.com
+  name: PhoenixG
+type: d3-device-type-assertion

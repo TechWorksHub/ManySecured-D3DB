@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a5638424-1578-4b6f-9665-72f516eb91c7
+  macAddresses:
+  - 00:11:CF:00:00:00/24
+  - 00:50:C2:1B:50:00/36
+  manufacturer: Thrane & Thrane A/S
+  manufacturerUri: https://device-type.com
+  name: ThraneTh
+type: d3-device-type-assertion

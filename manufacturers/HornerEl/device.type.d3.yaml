@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 27e72168-2678-4b51-8934-275b92dc93da
+  macAddresses:
+  - 00:E0:C4:00:00:00/24
+  manufacturer: Horner Electric, Inc.
+  manufacturerUri: https://device-type.com
+  name: HornerEl
+type: d3-device-type-assertion

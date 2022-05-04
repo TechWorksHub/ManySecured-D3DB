@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 119fe9dc-7ef4-4d6c-8590-06aa2e9b4537
+  macAddresses:
+  - 70:B3:D5:46:20:00/36
+  - 70:B3:D5:62:70:00/36
+  - 70:B3:D5:E0:10:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: EarTex
+type: d3-device-type-assertion

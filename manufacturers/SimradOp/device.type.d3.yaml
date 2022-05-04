@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 281a6592-6f4e-4eae-bd70-748ab0e14194
+  macAddresses:
+  - 00:0D:D2:00:00:00/24
+  manufacturer: Simrad Optronics ASA
+  manufacturerUri: https://device-type.com
+  name: SimradOp
+type: d3-device-type-assertion

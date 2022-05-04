@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c0107b8-3353-4810-99cc-dad0d02df6b4
+  macAddresses:
+  - 34:E1:D1:30:00:00/28
+  manufacturer: Rinco Ultrasonics AG
+  manufacturerUri: https://device-type.com
+  name: RincoUlt
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b89368ca-92db-496f-98f2-b52029721f8c
+  macAddresses:
+  - 00:17:64:00:00:00/24
+  manufacturer: ATMedia GmbH
+  manufacturerUri: https://device-type.com
+  name: ATMedia
+type: d3-device-type-assertion

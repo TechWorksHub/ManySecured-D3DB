@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 7c4a0895-9af4-447a-ba56-3718d7544c48
+  macAddresses:
+  - 00:1E:D4:00:00:00/24
+  - 00:50:C2:03:30:00/36
+  - 00:50:C2:65:30:00/36
+  manufacturer: Doble Engineering
+  manufacturerUri: https://device-type.com
+  name: DobleEng
+type: d3-device-type-assertion

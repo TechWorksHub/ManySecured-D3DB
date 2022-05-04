@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4d8f2c9-0dcc-4cd6-8e96-ddfb025c5c52
+  macAddresses:
+  - E8:96:06:00:00:00/24
+  manufacturer: testo Instruments (Shenzhen) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: testoIns
+type: d3-device-type-assertion

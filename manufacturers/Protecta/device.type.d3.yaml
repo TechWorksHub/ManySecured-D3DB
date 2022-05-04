@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce83009c-3173-4d3a-be33-7eda0e83d1cd
+  macAddresses:
+  - 00:22:DD:00:00:00/24
+  manufacturer: Protecta Electronics Ltd
+  manufacturerUri: https://device-type.com
+  name: Protecta
+type: d3-device-type-assertion

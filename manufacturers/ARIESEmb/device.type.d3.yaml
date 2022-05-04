@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cbe816b0-66e5-40b1-80ed-69706687a7cc
+  macAddresses:
+  - C0:E5:4E:00:00:00/24
+  manufacturer: ARIES Embedded GmbH
+  manufacturerUri: https://device-type.com
+  name: ARIESEmb
+type: d3-device-type-assertion

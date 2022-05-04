@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5498512-0ae7-4938-ba39-17dd4ea58957
+  macAddresses:
+  - 00:B0:3B:00:00:00/24
+  manufacturer: HiQ Networks
+  manufacturerUri: https://device-type.com
+  name: HiQNetwo
+type: d3-device-type-assertion

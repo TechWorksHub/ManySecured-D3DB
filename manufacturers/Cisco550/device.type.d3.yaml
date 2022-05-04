@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e9fb5208-9b84-4e65-97dd-4f2c0561d46e
+  macAddresses:
+  - 00:10:79:00:00:00/24
+  manufacturer: Cisco
+  manufacturerUri: https://device-type.com
+  name: Cisco550
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8afa0881-5ca1-47cc-82e5-2ef189816931
+  macAddresses:
+  - 00:25:2B:00:00:00/24
+  manufacturer: Stirling Energy Systems
+  manufacturerUri: https://device-type.com
+  name: Stirling
+type: d3-device-type-assertion

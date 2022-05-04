@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d6c88683-42fc-486e-b0fd-aabbe3c60f13
+  macAddresses:
+  - 00:16:C4:00:00:00/24
+  manufacturer: SiRF Technology, Inc.
+  manufacturerUri: https://device-type.com
+  name: SiRFTech
+type: d3-device-type-assertion

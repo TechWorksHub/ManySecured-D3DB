@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f3c3039c-bc1e-46b8-ac25-9e984dee0432
+  macAddresses:
+  - A0:28:33:C0:00:00/28
+  manufacturer: Kalray S.A.
+  manufacturerUri: https://device-type.com
+  name: Kalray
+type: d3-device-type-assertion

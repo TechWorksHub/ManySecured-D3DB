@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3bb1c181-3c5a-4617-a209-76748230fcd2
+  macAddresses:
+  - 70:B3:D5:D8:90:00/36
+  - 98:2D:56:00:00:00/24
+  manufacturer: Resolution Systems
+  manufacturerUri: https://device-type.com
+  name: Resoluti
+type: d3-device-type-assertion

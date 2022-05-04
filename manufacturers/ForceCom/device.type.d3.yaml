@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9c49dd48-4cc9-43b0-ba02-84d99a2ab004
+  macAddresses:
+  - 00:1C:89:00:00:00/24
+  - 00:80:42:00:00:00/24
+  manufacturer: Force Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: ForceCom
+type: d3-device-type-assertion

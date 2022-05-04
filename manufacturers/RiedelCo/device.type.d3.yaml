@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b43b076b-c2b1-4f21-9a51-32cf47bda97d
+  macAddresses:
+  - 00:19:7C:00:00:00/24
+  manufacturer: Riedel Communications GmbH
+  manufacturerUri: https://device-type.com
+  name: RiedelCo
+type: d3-device-type-assertion

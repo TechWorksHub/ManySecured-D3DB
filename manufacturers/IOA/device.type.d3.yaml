@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 173c2757-286f-481a-a7c2-a6450ab2167c
+  macAddresses:
+  - 00:07:F2:00:00:00/24
+  manufacturer: IOA Corporation
+  manufacturerUri: https://device-type.com
+  name: IOA
+type: d3-device-type-assertion

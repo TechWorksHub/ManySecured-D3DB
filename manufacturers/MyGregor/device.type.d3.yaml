@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e51a6372-1e63-4158-b349-9f2cf526ca4d
+  macAddresses:
+  - 0C:86:29:80:00:00/28
+  manufacturer: MyGregor Ltd
+  manufacturerUri: https://device-type.com
+  name: MyGregor
+type: d3-device-type-assertion

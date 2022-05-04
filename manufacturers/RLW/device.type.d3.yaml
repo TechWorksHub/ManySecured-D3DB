@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3191341-c2eb-47eb-ae82-222fdaede040
+  macAddresses:
+  - 00:15:91:00:00:00/24
+  manufacturer: RLW Inc.
+  manufacturerUri: https://device-type.com
+  name: RLW
+type: d3-device-type-assertion

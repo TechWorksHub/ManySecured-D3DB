@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 1bf6d9e2-1437-4be5-94e4-348346b9b374
+  macAddresses:
+  - 2C:48:35:90:00:00/28
+  - 70:B3:D5:F9:C0:00/36
+  - 98:27:82:E0:00:00/28
+  manufacturer: SureFlap Ltd
+  manufacturerUri: https://device-type.com
+  name: SureFlap
+type: d3-device-type-assertion

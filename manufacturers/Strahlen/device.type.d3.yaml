@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d776d068-40c0-408b-8c44-be69c34f029c
+  macAddresses:
+  - B8:DA:F1:00:00:00/24
+  manufacturer: Strahlenschutz- Entwicklungs- und Ausruestungsgesellschaft mbH
+  manufacturerUri: https://device-type.com
+  name: Strahlen
+type: d3-device-type-assertion

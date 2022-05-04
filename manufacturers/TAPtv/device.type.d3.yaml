@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 375396f1-b9a4-4ee1-a46a-95a3755896a4
+  macAddresses:
+  - 00:24:76:00:00:00/24
+  manufacturer: TAP.tv
+  manufacturerUri: https://device-type.com
+  name: TAPtv
+type: d3-device-type-assertion

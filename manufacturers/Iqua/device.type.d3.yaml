@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ee1bc1a-66cc-40ad-bc65-679204a79701
+  macAddresses:
+  - 00:15:BE:00:00:00/24
+  manufacturer: Iqua Ltd.
+  manufacturerUri: https://device-type.com
+  name: Iqua
+type: d3-device-type-assertion

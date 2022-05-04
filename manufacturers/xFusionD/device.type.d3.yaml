@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 046dc675-4440-4fc5-8c5d-24e9bc2b533a
+  macAddresses:
+  - 2A:0B:B8:00:00:00/24
+  - 34:73:79:00:00:00/24
+  manufacturer: xFusion Digital Technologies Co., Limited
+  manufacturerUri: https://device-type.com
+  name: xFusionD
+type: d3-device-type-assertion

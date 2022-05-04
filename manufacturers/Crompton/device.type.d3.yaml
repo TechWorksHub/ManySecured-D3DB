@@ -1,0 +1,8 @@
+credentialSubject:
+  id: adc99a89-2b59-48ce-8c55-61f28dbe9db6
+  macAddresses:
+  - 60:10:A2:00:00:00/24
+  manufacturer: Crompton Instruments
+  manufacturerUri: https://device-type.com
+  name: Crompton
+type: d3-device-type-assertion

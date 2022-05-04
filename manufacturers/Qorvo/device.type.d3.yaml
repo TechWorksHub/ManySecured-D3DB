@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6b2706a2-7b45-4517-af08-72e2e1d9a4ca
+  macAddresses:
+  - 28:36:13:B0:00:00/28
+  - C8:B1:EE:00:00:00/24
+  manufacturer: Qorvo, Inc.
+  manufacturerUri: https://device-type.com
+  name: Qorvo
+type: d3-device-type-assertion

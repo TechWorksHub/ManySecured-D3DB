@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a526da5d-bcc5-407a-9f65-f851f5c8ebf7
+  macAddresses:
+  - 00:10:D4:00:00:00/24
+  - 00:60:85:00:00:00/24
+  manufacturer: Storage Computer Corporation
+  manufacturerUri: https://device-type.com
+  name: StorageC
+type: d3-device-type-assertion

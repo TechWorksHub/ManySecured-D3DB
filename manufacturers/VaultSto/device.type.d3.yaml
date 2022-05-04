@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a5fc1cad-1ccd-4483-a696-0595bd76957b
+  macAddresses:
+  - 00:1D:89:00:00:00/24
+  manufacturer: VaultStor Corporation
+  manufacturerUri: https://device-type.com
+  name: VaultSto
+type: d3-device-type-assertion

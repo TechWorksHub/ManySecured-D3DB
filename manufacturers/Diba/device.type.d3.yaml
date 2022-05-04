@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac4d9791-54d6-408e-b655-1efb26b47b92
+  macAddresses:
+  - 00:E0:0A:00:00:00/24
+  manufacturer: Diba, Inc.
+  manufacturerUri: https://device-type.com
+  name: Diba
+type: d3-device-type-assertion

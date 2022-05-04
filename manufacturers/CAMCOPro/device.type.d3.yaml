@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f454765-f3df-40e9-b36b-2460b49dfa0d
+  macAddresses:
+  - 00:25:7A:00:00:00/24
+  manufacturer: "CAMCO Produktions- und Vertriebs-GmbH f\xFCr Beschallungs- und Beleuchtungsanlagen"
+  manufacturerUri: https://device-type.com
+  name: CAMCOPro
+type: d3-device-type-assertion

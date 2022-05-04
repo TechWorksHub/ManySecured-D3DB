@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02ec7df7-3fdb-4b23-bba6-66a87d85f532
+  macAddresses:
+  - 00:14:7E:00:00:00/24
+  manufacturer: InnerWireless
+  manufacturerUri: https://device-type.com
+  name: InnerWir
+type: d3-device-type-assertion

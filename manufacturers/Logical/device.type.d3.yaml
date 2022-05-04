@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 48059ba1-0c4a-496e-a381-2403030ca97d
+  macAddresses:
+  - 00:01:A2:00:00:00/24
+  - 00:50:C2:CA:20:00/36
+  manufacturer: Logical Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Logical
+type: d3-device-type-assertion

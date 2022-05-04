@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d78580a3-8f9b-4c2d-85e9-858773fad0ac
+  macAddresses:
+  - 70:B3:D5:F6:40:00/36
+  - 90:EC:77:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: silicom
+type: d3-device-type-assertion

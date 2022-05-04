@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29e7afd8-1807-4aa1-b436-853d57cc9c45
+  macAddresses:
+  - 00:50:C2:6A:E0:00/36
+  - C4:19:EC:00:00:00/24
+  manufacturer: Qualisys AB
+  manufacturerUri: https://device-type.com
+  name: Qualisys
+type: d3-device-type-assertion

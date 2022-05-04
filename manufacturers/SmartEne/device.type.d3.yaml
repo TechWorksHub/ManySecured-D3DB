@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 8599d167-31dd-421e-86cc-9ea43b6eac18
+  macAddresses:
+  - 00:1F:A8:00:00:00/24
+  - 70:B3:D5:1F:30:00/36
+  manufacturer: Smart Energy Instruments Inc.
+  manufacturerUri: https://device-type.com
+  name: SmartEne
+type: d3-device-type-assertion

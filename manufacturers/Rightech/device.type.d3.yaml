@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e409e254-46e0-4975-bc41-07bd1d2a844d
+  macAddresses:
+  - 00:30:DC:00:00:00/24
+  manufacturer: Rightech Corporation
+  manufacturerUri: https://device-type.com
+  name: Rightech
+type: d3-device-type-assertion

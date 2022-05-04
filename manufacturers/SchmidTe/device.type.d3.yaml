@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e3af4393-2631-4f8d-b137-c148addc2f2b
+  macAddresses:
+  - 00:80:6B:00:00:00/24
+  manufacturer: Schmid Telecommunication
+  manufacturerUri: https://device-type.com
+  name: SchmidTe
+type: d3-device-type-assertion

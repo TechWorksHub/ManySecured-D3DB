@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba9768e7-013c-40d4-8b33-773d20e196c2
+  macAddresses:
+  - 00:1A:55:00:00:00/24
+  manufacturer: ACA-Digital Corporation
+  manufacturerUri: https://device-type.com
+  name: ACA-Digi
+type: d3-device-type-assertion

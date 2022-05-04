@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ea2a44ed-71f4-4cf5-8bd0-d40f1a6d7242
+  macAddresses:
+  - 1C:41:58:00:00:00/24
+  manufacturer: Gemalto M2M GmbH
+  manufacturerUri: https://device-type.com
+  name: GemaltoM
+type: d3-device-type-assertion

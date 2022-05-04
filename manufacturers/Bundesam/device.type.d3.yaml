@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60a7b83f-c170-47dc-8635-e8f630149429
+  macAddresses:
+  - 00:50:C2:59:80:00/36
+  manufacturer: "Bundesamt f\xFCr Strahlenschutz"
+  manufacturerUri: https://device-type.com
+  name: Bundesam
+type: d3-device-type-assertion

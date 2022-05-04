@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 61d53ca9-5de8-4668-a675-8847ed95f541
+  macAddresses:
+  - 60:FF:DD:00:00:00/24
+  manufacturer: C.E. Electronics, Inc
+  manufacturerUri: https://device-type.com
+  name: CEElectr
+type: d3-device-type-assertion

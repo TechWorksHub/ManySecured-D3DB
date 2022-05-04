@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 561dcc31-de00-41bc-887c-8c1b3cd157b6
+  macAddresses:
+  - 7C:55:E7:00:00:00/24
+  manufacturer: YSI, Inc.
+  manufacturerUri: https://device-type.com
+  name: YSI
+type: d3-device-type-assertion

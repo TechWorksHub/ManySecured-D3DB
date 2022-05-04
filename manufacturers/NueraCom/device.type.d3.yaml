@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34e7e886-1565-418e-9de0-d29eaac7ac39
+  macAddresses:
+  - 00:10:78:00:00:00/24
+  manufacturer: Nuera Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: NueraCom
+type: d3-device-type-assertion

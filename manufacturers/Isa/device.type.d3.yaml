@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b2ac612-f8de-4f67-a623-8b0ef9e70535
+  macAddresses:
+  - 00:A0:66:00:00:00/24
+  manufacturer: Isa Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Isa
+type: d3-device-type-assertion

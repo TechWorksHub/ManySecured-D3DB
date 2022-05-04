@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cf36272-0cd1-4b3f-9a72-36e05f343d59
+  macAddresses:
+  - 00:04:40:00:00:00/24
+  manufacturer: cyberPIXIE, Inc.
+  manufacturerUri: https://device-type.com
+  name: cyberPIX
+type: d3-device-type-assertion

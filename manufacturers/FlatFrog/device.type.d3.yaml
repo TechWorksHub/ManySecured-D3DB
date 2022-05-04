@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04ebf244-683f-42e8-820a-9a557aee72d8
+  macAddresses:
+  - A4:24:B3:00:00:00/24
+  manufacturer: FlatFrog Laboratories AB
+  manufacturerUri: https://device-type.com
+  name: FlatFrog
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 036c2598-88c7-43a0-bc05-3dceab87a794
+  macAddresses:
+  - 00:06:E7:00:00:00/24
+  manufacturer: Bit Blitz Communications Inc.
+  manufacturerUri: https://device-type.com
+  name: BitBlitz
+type: d3-device-type-assertion

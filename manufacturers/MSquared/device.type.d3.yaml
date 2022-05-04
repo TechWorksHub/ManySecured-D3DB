@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 95fc5aab-05db-4e06-9304-f3ddd5bfe9c3
+  macAddresses:
+  - 00:50:C2:79:10:00/36
+  manufacturer: M Squared Lasers Limited
+  manufacturerUri: https://device-type.com
+  name: MSquared
+type: d3-device-type-assertion

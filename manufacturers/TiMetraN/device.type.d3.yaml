@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2eb950a-ff48-46bd-8afe-214b0771dab7
+  macAddresses:
+  - 00:03:FA:00:00:00/24
+  manufacturer: TiMetra Networks
+  manufacturerUri: https://device-type.com
+  name: TiMetraN
+type: d3-device-type-assertion

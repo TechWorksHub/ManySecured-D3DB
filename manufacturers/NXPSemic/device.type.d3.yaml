@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 4bab23e1-a290-484b-bcce-ae608eeab4a5
+  macAddresses:
+  - 00:60:37:00:00:00/24
+  - 20:8B:D1:00:00:00/24
+  - 50:C1:F0:00:00:00/24
+  - AC:9A:22:00:00:00/24
+  - D4:19:F6:00:00:00/24
+  - E0:51:24:00:00:00/24
+  manufacturer: NXP Semiconductors
+  manufacturerUri: https://device-type.com
+  name: NXPSemic
+type: d3-device-type-assertion

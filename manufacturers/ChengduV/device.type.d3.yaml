@@ -1,0 +1,10 @@
+credentialSubject:
+  id: aea5ca24-4e4c-4cba-aeb7-4318c6e01529
+  macAddresses:
+  - 48:A2:B8:00:00:00/24
+  - 58:E8:76:80:00:00/28
+  - EC:6C:9F:00:00:00/24
+  manufacturer: Chengdu Vision-Zenith Tech.Co,.Ltd
+  manufacturerUri: https://device-type.com
+  name: ChengduV
+type: d3-device-type-assertion

@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 8f56937f-044e-4bb6-a8b0-86fc647dd3e6
+  macAddresses:
+  - 00:02:0E:00:00:00/24
+  - 00:06:5F:00:00:00/24
+  - 00:16:FA:00:00:00/24
+  - 00:20:8F:00:00:00/24
+  - 30:C5:07:00:00:00/24
+  - F8:54:AF:00:00:00/24
+  manufacturer: ECI Telecom Ltd.
+  manufacturerUri: https://device-type.com
+  name: ECITelec
+type: d3-device-type-assertion

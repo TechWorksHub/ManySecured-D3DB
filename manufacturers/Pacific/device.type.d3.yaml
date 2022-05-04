@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02362742-0829-46bf-888f-205ad2bdc90a
+  macAddresses:
+  - 00:05:6D:00:00:00/24
+  manufacturer: Pacific Corporation
+  manufacturerUri: https://device-type.com
+  name: Pacific
+type: d3-device-type-assertion

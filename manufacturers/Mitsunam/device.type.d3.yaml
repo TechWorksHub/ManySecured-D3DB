@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01000ca5-45df-416f-bdd0-ddb34d5f85c7
+  macAddresses:
+  - 1C:6B:CA:00:00:00/24
+  manufacturer: Mitsunami Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Mitsunam
+type: d3-device-type-assertion

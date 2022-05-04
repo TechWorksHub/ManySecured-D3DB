@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 4bbb9453-cd64-4f95-b9aa-469b3063820c
+  macAddresses:
+  - 08:47:D0:00:00:00/24
+  - 08:9C:86:00:00:00/24
+  - 10:47:38:00:00:00/24
+  - 30:23:64:00:00:00/24
+  - 4C:21:13:00:00:00/24
+  - 54:9F:06:00:00:00/24
+  - 78:17:35:00:00:00/24
+  - 88:B3:62:00:00:00/24
+  - 90:75:BC:00:00:00/24
+  - 98:86:5D:00:00:00/24
+  - AC:60:6F:00:00:00/24
+  - B8:19:04:00:00:00/24
+  - CC:ED:21:00:00:00/24
+  - DC:D9:AE:00:00:00/24
+  - E0:1F:ED:00:00:00/24
+  manufacturer: Nokia Shanghai Bell Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NokiaSha
+type: d3-device-type-assertion

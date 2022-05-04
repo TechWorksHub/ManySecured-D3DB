@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 92abaa94-223c-4a3d-98c6-3a095d361227
+  macAddresses:
+  - 28:97:B8:00:00:00/24
+  - 70:B3:D5:3A:60:00/36
+  manufacturer: myenergi Ltd
+  manufacturerUri: https://device-type.com
+  name: myenergi
+type: d3-device-type-assertion

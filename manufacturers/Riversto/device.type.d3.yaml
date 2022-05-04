@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 098d409e-17a0-4045-8b2a-dd21c89c235f
+  macAddresses:
+  - 00:02:85:00:00:00/24
+  manufacturer: Riverstone Networks
+  manufacturerUri: https://device-type.com
+  name: Riversto
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b387c96-d7f5-44f8-997f-649387d4f63d
+  macAddresses:
+  - 00:15:53:00:00:00/24
+  manufacturer: Cytyc Corporation
+  manufacturerUri: https://device-type.com
+  name: Cytyc
+type: d3-device-type-assertion

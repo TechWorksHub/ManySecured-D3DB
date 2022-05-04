@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 12123e89-8f82-4419-b91e-afe7bb121919
+  macAddresses:
+  - 00:50:C2:23:80:00/36
+  - 70:B3:D5:09:90:00/36
+  manufacturer: Schwer+Kopka GmbH
+  manufacturerUri: https://device-type.com
+  name: Schwer+K
+type: d3-device-type-assertion

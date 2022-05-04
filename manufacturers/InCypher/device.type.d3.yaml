@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5978b01-e9e2-40e1-b680-0d3611aa2a7d
+  macAddresses:
+  - 00:0A:88:00:00:00/24
+  manufacturer: InCypher S.A.
+  manufacturerUri: https://device-type.com
+  name: InCypher
+type: d3-device-type-assertion

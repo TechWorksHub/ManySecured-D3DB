@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 7afb7c20-a70e-4289-845a-9508b4e00068
+  macAddresses:
+  - 08:C8:C2:00:00:00/24
+  - 30:50:75:00:00:00/24
+  - 50:C2:75:00:00:00/24
+  - 50:C2:ED:00:00:00/24
+  - 70:BF:92:00:00:00/24
+  - 74:5C:4B:00:00:00/24
+  manufacturer: GN Audio A/S
+  manufacturerUri: https://device-type.com
+  name: GNAudio
+type: d3-device-type-assertion

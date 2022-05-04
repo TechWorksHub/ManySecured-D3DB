@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c44093b2-36fc-41f4-b4dc-722d61cc4ef3
+  macAddresses:
+  - 00:D0:03:00:00:00/24
+  manufacturer: Comda Enterprises Corp.
+  manufacturerUri: https://device-type.com
+  name: ComdaEnt
+type: d3-device-type-assertion

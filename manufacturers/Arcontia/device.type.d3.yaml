@@ -1,0 +1,10 @@
+credentialSubject:
+  id: b8ee6a87-b1a5-4e31-9074-388d9b419ead
+  macAddresses:
+  - 00:50:C2:87:C0:00/36
+  - 00:50:C2:ED:10:00/36
+  - E8:92:18:00:00:00/24
+  manufacturer: Arcontia AB
+  manufacturerUri: https://device-type.com
+  name: Arcontia
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21e88f77-2823-43dc-a63d-0e9ab7a110ae
+  macAddresses:
+  - 00:15:9F:00:00:00/24
+  manufacturer: Terascala, Inc.
+  manufacturerUri: https://device-type.com
+  name: Terascal
+type: d3-device-type-assertion

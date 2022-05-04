@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 60e264a4-5b84-47d0-856d-d5e81e60d193
+  macAddresses:
+  - 00:D0:EC:00:00:00/24
+  - 48:0C:49:00:00:00/24
+  - 8C:3C:4A:00:00:00/24
+  - C8:07:39:00:00:00/24
+  - F4:96:51:00:00:00/24
+  manufacturer: NAKAYO Inc
+  manufacturerUri: https://device-type.com
+  name: NAKAYO
+type: d3-device-type-assertion

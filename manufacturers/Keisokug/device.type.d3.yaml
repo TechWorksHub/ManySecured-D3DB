@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df96f8e0-36ee-4e96-925a-7d1df46361aa
+  macAddresses:
+  - 00:A0:E2:00:00:00/24
+  manufacturer: Keisokugiken Corporation
+  manufacturerUri: https://device-type.com
+  name: Keisokug
+type: d3-device-type-assertion

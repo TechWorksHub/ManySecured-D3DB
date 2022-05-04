@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 811b2faa-b46f-4c39-bbff-c2204d1e55b0
+  macAddresses:
+  - 00:03:25:00:00:00/24
+  manufacturer: Arima Computer Corp.
+  manufacturerUri: https://device-type.com
+  name: ArimaCom
+type: d3-device-type-assertion

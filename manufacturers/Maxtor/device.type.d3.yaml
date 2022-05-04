@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f7eb1098-4dea-4635-a259-2ef15b96505a
+  macAddresses:
+  - 00:10:B9:00:00:00/24
+  manufacturer: Maxtor Corp.
+  manufacturerUri: https://device-type.com
+  name: Maxtor
+type: d3-device-type-assertion

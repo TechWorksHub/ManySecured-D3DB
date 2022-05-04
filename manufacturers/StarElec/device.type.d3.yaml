@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c2191672-a900-4d76-9ca5-91884f1a176d
+  macAddresses:
+  - 00:50:C2:A9:C0:00/36
+  - 38:B1:9E:50:00:00/28
+  - 70:B3:D5:3B:F0:00/36
+  manufacturer: Star Electronics GmbH & Co. KG
+  manufacturerUri: https://device-type.com
+  name: StarElec
+type: d3-device-type-assertion

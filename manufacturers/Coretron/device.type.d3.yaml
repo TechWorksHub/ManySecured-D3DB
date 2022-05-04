@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcc3a20d-1d72-47a5-8a43-55e327e51cec
+  macAddresses:
+  - 00:50:41:00:00:00/24
+  manufacturer: Coretronic Corporation
+  manufacturerUri: https://device-type.com
+  name: Coretron
+type: d3-device-type-assertion

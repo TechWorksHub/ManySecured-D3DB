@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d68f678f-c8ef-4bfa-bbf5-c6c4483ad757
+  macAddresses:
+  - 00:20:CF:00:00:00/24
+  manufacturer: Test & Measurement Systems Inc
+  manufacturerUri: https://device-type.com
+  name: TestMeas
+type: d3-device-type-assertion

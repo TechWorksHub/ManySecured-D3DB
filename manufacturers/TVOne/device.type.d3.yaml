@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 40cabc12-3a80-432f-981b-dd5cb62c921a
+  macAddresses:
+  - 00:16:9E:00:00:00/24
+  manufacturer: TV One Ltd
+  manufacturerUri: https://device-type.com
+  name: TVOne
+type: d3-device-type-assertion

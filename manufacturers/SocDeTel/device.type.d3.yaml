@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48c1f976-4ad2-42e3-bf0b-75adb2b95e8d
+  macAddresses:
+  - 00:80:FF:00:00:00/24
+  manufacturer: Soc. De Teleinformatique Rtc
+  manufacturerUri: https://device-type.com
+  name: SocDeTel
+type: d3-device-type-assertion

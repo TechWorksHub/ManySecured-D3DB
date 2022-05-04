@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b8074ad4-d408-4c83-be22-8b88055d24c7
+  macAddresses:
+  - 00:21:D4:00:00:00/24
+  manufacturer: Vollmer Werke GmbH
+  manufacturerUri: https://device-type.com
+  name: VollmerW
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9d36907e-3037-4d4b-ad3f-12677b4d022d
+  macAddresses:
+  - 00:01:98:00:00:00/24
+  manufacturer: Darim Vision
+  manufacturerUri: https://device-type.com
+  name: DarimVis
+type: d3-device-type-assertion

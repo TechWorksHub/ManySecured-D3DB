@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 23537491-f65f-4ea7-979c-5aeb724a84dc
+  macAddresses:
+  - 00:20:B5:00:00:00/24
+  manufacturer: Yaskawa Electric Corporation
+  manufacturerUri: https://device-type.com
+  name: YaskawaE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2c683de-0ee2-49b6-9f38-48fc5a90eb14
+  macAddresses:
+  - 00:50:C2:6B:E0:00/36
+  manufacturer: ESTEC Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: ESTEC
+type: d3-device-type-assertion

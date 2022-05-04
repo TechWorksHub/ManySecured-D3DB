@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10d81f82-4f3b-4581-99cd-36ac2de508ab
+  macAddresses:
+  - 2C:A2:B4:00:00:00/24
+  manufacturer: Fortify Technologies, LLC
+  manufacturerUri: https://device-type.com
+  name: FortifyT
+type: d3-device-type-assertion

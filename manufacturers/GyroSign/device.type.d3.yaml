@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e76c287-58b5-49c2-a98e-54129e215cd9
+  macAddresses:
+  - 00:0A:51:00:00:00/24
+  manufacturer: GyroSignal Technology Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: GyroSign
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2cf75b81-841a-418c-9d13-83d599913772
+  macAddresses:
+  - 00:22:9A:00:00:00/24
+  manufacturer: Lastar, Inc.
+  manufacturerUri: https://device-type.com
+  name: Lastar
+type: d3-device-type-assertion

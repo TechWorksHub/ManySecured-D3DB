@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f42ec1ea-bb82-4e03-9558-b01461405b25
+  macAddresses:
+  - 00:19:5C:00:00:00/24
+  manufacturer: Innotech Corporation
+  manufacturerUri: https://device-type.com
+  name: Innotech
+type: d3-device-type-assertion

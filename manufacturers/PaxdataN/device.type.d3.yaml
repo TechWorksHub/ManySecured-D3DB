@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9bc6c180-eef6-428b-a4a4-cfbfa63fca90
+  macAddresses:
+  - 00:40:93:00:00:00/24
+  manufacturer: Paxdata Networks Ltd.
+  manufacturerUri: https://device-type.com
+  name: PaxdataN
+type: d3-device-type-assertion

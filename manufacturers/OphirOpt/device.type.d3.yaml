@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d28c9ea-79a7-480b-8210-e0ffa5711af7
+  macAddresses:
+  - 00:1E:AF:00:00:00/24
+  manufacturer: Ophir Optronics Ltd
+  manufacturerUri: https://device-type.com
+  name: OphirOpt
+type: d3-device-type-assertion

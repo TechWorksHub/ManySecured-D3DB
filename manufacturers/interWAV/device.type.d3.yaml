@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bad1e8a-30ac-459e-a94a-583dc9ac0d35
+  macAddresses:
+  - 00:A0:2C:00:00:00/24
+  manufacturer: interWAVE Communications
+  manufacturerUri: https://device-type.com
+  name: interWAV
+type: d3-device-type-assertion

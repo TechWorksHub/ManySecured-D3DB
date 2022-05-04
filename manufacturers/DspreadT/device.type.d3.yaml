@@ -1,0 +1,15 @@
+credentialSubject:
+  id: 636f4b78-6853-4ea8-bd89-6b8b5639d9b9
+  macAddresses:
+  - 04:D1:6E:50:00:00/28
+  - 1C:87:76:00:00:00/28
+  - 28:36:38:40:00:00/28
+  - 7C:47:7C:A0:00:00/28
+  - 94:C9:B7:D0:00:00/28
+  - 98:27:82:40:00:00/28
+  - A4:11:63:80:00:00/28
+  - CC:C2:61:D0:00:00/28
+  manufacturer: Dspread Technology (Beijing) Inc.
+  manufacturerUri: https://device-type.com
+  name: DspreadT
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d98f75d0-0e10-4a39-81ca-a478d869c4b0
+  macAddresses:
+  - 00:01:2D:00:00:00/24
+  manufacturer: Komodo Technology
+  manufacturerUri: https://device-type.com
+  name: KomodoTe
+type: d3-device-type-assertion

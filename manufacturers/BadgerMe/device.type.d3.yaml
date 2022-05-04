@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 45af8073-5221-4fe5-8db5-9f962a223aad
+  macAddresses:
+  - 00:16:0F:00:00:00/24
+  manufacturer: Badger Meter Inc
+  manufacturerUri: https://device-type.com
+  name: BadgerMe
+type: d3-device-type-assertion

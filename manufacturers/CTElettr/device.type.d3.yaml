@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 21e6f36f-1f3e-40eb-a17e-9a84f2d2e1b1
+  macAddresses:
+  - 00:1A:CF:00:00:00/24
+  manufacturer: C.T. Elettronica
+  manufacturerUri: https://device-type.com
+  name: CTElettr
+type: d3-device-type-assertion

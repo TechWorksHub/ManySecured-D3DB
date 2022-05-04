@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b069e17-6b24-4fd1-a015-570ff80fbdd7
+  macAddresses:
+  - 00:50:C2:D3:A0:00/36
+  manufacturer: WellSense Technologies
+  manufacturerUri: https://device-type.com
+  name: WellSens
+type: d3-device-type-assertion

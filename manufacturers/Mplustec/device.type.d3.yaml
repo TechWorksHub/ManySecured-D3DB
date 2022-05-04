@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd5a026f-880d-4330-825d-ffce03abca53
+  macAddresses:
+  - 60:32:F0:00:00:00/24
+  manufacturer: Mplus technology
+  manufacturerUri: https://device-type.com
+  name: Mplustec
+type: d3-device-type-assertion

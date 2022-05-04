@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c273c71f-f8e2-4e94-af1a-6498fea78d05
+  macAddresses:
+  - 00:00:6F:00:00:00/24
+  manufacturer: Madge Networks Ltd.
+  manufacturerUri: https://device-type.com
+  name: MadgeNet
+type: d3-device-type-assertion

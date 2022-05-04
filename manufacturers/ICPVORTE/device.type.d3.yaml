@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a31fc223-5f55-4496-af61-bf5db18ba533
+  macAddresses:
+  - 00:90:62:00:00:00/24
+  manufacturer: ICP VORTEX COMPUTERSYSTEME GmbH
+  manufacturerUri: https://device-type.com
+  name: ICPVORTE
+type: d3-device-type-assertion

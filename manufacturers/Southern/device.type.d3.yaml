@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 1fab1141-86f2-4f23-a8be-502443bcddea
+  macAddresses:
+  - 00:19:0B:00:00:00/24
+  - 00:30:2A:00:00:00/24
+  - 00:80:7E:00:00:00/24
+  - 50:62:55:90:00:00/28
+  - 70:B3:D5:9D:50:00/36
+  - 70:B3:D5:C1:60:00/36
+  - 70:B3:D5:CD:40:00/36
+  manufacturer: Southern Vision Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Southern
+type: d3-device-type-assertion

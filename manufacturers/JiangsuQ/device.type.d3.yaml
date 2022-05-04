@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 07034f19-e8a0-49ba-840f-a2c20b4bbdec
+  macAddresses:
+  - 38:3B:26:00:00:00/24
+  - 84:C2:E4:00:00:00/24
+  manufacturer: Jiangsu Qinheng Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: JiangsuQ
+type: d3-device-type-assertion

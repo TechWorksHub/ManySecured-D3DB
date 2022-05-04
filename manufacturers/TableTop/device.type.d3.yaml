@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6f515c2e-7e47-43b2-8779-718edc634c6c
+  macAddresses:
+  - 5C:A1:78:00:00:00/24
+  manufacturer: TableTop Media (dba Ziosk)
+  manufacturerUri: https://device-type.com
+  name: TableTop
+type: d3-device-type-assertion

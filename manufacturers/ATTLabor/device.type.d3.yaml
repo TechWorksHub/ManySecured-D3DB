@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf2dcab6-3f8c-43fd-87c0-7892f81d2043
+  macAddresses:
+  - 00:06:DD:00:00:00/24
+  manufacturer: AT & T Laboratories - Cambridge Ltd
+  manufacturerUri: https://device-type.com
+  name: ATTLabor
+type: d3-device-type-assertion

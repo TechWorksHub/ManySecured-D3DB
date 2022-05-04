@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6aecbdc2-b2d0-433d-90f2-1858ef292870
+  macAddresses:
+  - 00:16:66:00:00:00/24
+  manufacturer: Quantier Communication Inc.
+  manufacturerUri: https://device-type.com
+  name: Quantier
+type: d3-device-type-assertion

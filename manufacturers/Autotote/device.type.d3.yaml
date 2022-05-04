@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2eef3640-11e0-422f-bccc-3832400ec813
+  macAddresses:
+  - 00:00:2C:00:00:00/24
+  manufacturer: Autotote Limited
+  manufacturerUri: https://device-type.com
+  name: Autotote
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 42139e41-71a2-4cb9-a2ac-bc55430dc56a
+  macAddresses:
+  - 44:D5:F2:60:00:00/28
+  manufacturer: Beam Communications Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: BeamComm
+type: d3-device-type-assertion

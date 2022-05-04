@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f9083323-2061-433c-808b-fb234b57371c
+  macAddresses:
+  - 70:B3:D5:83:B0:00/36
+  - F0:AC:D7:80:00:00/28
+  manufacturer: Telefonix Incorporated
+  manufacturerUri: https://device-type.com
+  name: Telefoni
+type: d3-device-type-assertion

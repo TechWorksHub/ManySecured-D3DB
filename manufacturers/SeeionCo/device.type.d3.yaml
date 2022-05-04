@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b2ae1496-00cb-4e1e-ac59-0861594bec3a
+  macAddresses:
+  - 00:D0:94:00:00:00/24
+  manufacturer: Seeion Control LLC
+  manufacturerUri: https://device-type.com
+  name: SeeionCo
+type: d3-device-type-assertion

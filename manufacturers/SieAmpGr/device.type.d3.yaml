@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1aca10c9-14be-4515-bb76-1a7d797f8139
+  macAddresses:
+  - 00:22:BF:00:00:00/24
+  manufacturer: SieAmp Group of Companies
+  manufacturerUri: https://device-type.com
+  name: SieAmpGr
+type: d3-device-type-assertion

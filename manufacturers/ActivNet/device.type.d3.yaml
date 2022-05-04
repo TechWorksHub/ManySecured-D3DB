@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 813c582d-8f1f-4f9c-b578-7ff63998ab0c
+  macAddresses:
+  - 00:12:03:00:00:00/24
+  manufacturer: ActivNetworks
+  manufacturerUri: https://device-type.com
+  name: ActivNet
+type: d3-device-type-assertion

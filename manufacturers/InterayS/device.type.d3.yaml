@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c0a52a72-9390-4b0a-bfeb-c64d69a3cb65
+  macAddresses:
+  - 00:1A:04:00:00:00/24
+  manufacturer: Interay Solutions BV
+  manufacturerUri: https://device-type.com
+  name: InterayS
+type: d3-device-type-assertion

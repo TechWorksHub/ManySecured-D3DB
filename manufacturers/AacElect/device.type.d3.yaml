@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 90fdae53-59f5-4ad3-86a4-7e193c54e3bd
+  macAddresses:
+  - 00:0E:E7:00:00:00/24
+  manufacturer: Aac Electronics Corp.
+  manufacturerUri: https://device-type.com
+  name: AacElect
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4a9590f5-a027-439e-aac9-3c0a30e16a1f
+  macAddresses:
+  - 2C:48:35:80:00:00/28
+  manufacturer: DPS Electronics
+  manufacturerUri: https://device-type.com
+  name: DPSElect
+type: d3-device-type-assertion

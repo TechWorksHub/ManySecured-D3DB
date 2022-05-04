@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df8a36f8-ebf8-4332-a086-9feb13154576
+  macAddresses:
+  - 60:95:CE:00:00:00/28
+  manufacturer: Siema Applications
+  manufacturerUri: https://device-type.com
+  name: SiemaApp
+type: d3-device-type-assertion

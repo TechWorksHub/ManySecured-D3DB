@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 43916efd-b295-4177-88a2-a23b41dcdfc3
+  macAddresses:
+  - 00:06:38:00:00:00/24
+  - D4:96:DF:00:00:00/24
+  manufacturer: Sungjin C&C Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SungjinC
+type: d3-device-type-assertion

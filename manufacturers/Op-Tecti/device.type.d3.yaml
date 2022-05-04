@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dabef1f4-3469-4b47-9ba5-9d3382db6837
+  macAddresses:
+  - 00:24:02:00:00:00/24
+  manufacturer: Op-Tection GmbH
+  manufacturerUri: https://device-type.com
+  name: Op-Tecti
+type: d3-device-type-assertion

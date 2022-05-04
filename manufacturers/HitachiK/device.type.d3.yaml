@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b068b22f-28bc-4393-a604-c26f69244173
+  macAddresses:
+  - 00:03:46:00:00:00/24
+  manufacturer: Hitachi Kokusai Electric, Inc.
+  manufacturerUri: https://device-type.com
+  name: HitachiK
+type: d3-device-type-assertion

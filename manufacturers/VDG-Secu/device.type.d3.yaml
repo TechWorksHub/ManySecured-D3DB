@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5a384c1-3e47-400b-ba73-880abefdc2e5
+  macAddresses:
+  - 00:1C:40:00:00:00/24
+  manufacturer: VDG-Security bv
+  manufacturerUri: https://device-type.com
+  name: VDG-Secu
+type: d3-device-type-assertion

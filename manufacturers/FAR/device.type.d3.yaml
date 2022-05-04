@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1a278315-1230-4157-8e29-79c93a5260ea
+  macAddresses:
+  - 00:E0:6E:00:00:00/24
+  manufacturer: FAR SYSTEMS S.p.A.
+  manufacturerUri: https://device-type.com
+  name: FAR
+type: d3-device-type-assertion

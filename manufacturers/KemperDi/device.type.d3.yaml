@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 25fd6827-5e76-412e-9342-d7d16e1add0c
+  macAddresses:
+  - D4:4F:80:00:00:00/24
+  manufacturer: Kemper Digital GmbH
+  manufacturerUri: https://device-type.com
+  name: KemperDi
+type: d3-device-type-assertion

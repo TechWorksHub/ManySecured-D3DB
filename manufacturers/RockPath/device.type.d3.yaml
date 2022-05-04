@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8113026-681e-4e38-8437-6fe09a7a390e
+  macAddresses:
+  - 30:A0:23:00:00:00/24
+  manufacturer: Rock Path S.R.L
+  manufacturerUri: https://device-type.com
+  name: RockPath
+type: d3-device-type-assertion

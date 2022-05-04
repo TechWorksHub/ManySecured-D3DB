@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5a4e540-8a32-42cc-a214-303d5424e8c4
+  macAddresses:
+  - 00:14:56:00:00:00/24
+  manufacturer: Edge Products
+  manufacturerUri: https://device-type.com
+  name: EdgeProd
+type: d3-device-type-assertion

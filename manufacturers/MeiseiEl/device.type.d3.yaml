@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef4cf05e-2513-4a17-8c71-a9ef7deb2b4f
+  macAddresses:
+  - 00:06:45:00:00:00/24
+  manufacturer: Meisei Electric Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: MeiseiEl
+type: d3-device-type-assertion

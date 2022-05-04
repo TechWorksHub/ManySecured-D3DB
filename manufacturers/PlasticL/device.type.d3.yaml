@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1e7d3dcc-6aa7-4530-a593-669348647bb7
+  macAddresses:
+  - 00:50:C2:5A:60:00/36
+  - A4:38:FC:00:00:00/24
+  manufacturer: Plastic Logic
+  manufacturerUri: https://device-type.com
+  name: PlasticL
+type: d3-device-type-assertion

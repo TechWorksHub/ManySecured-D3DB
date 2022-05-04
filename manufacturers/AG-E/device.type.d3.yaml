@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ffe97e6-36a8-45fb-b3d6-9b9434783b84
+  macAddresses:
+  - 00:01:7C:00:00:00/24
+  manufacturer: AG-E GmbH
+  manufacturerUri: https://device-type.com
+  name: AG-E
+type: d3-device-type-assertion

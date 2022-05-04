@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 55b1b303-a41d-45c6-989e-1e2628ef932e
+  macAddresses:
+  - 00:1A:FF:00:00:00/24
+  manufacturer: Wizyoung Tech.
+  manufacturerUri: https://device-type.com
+  name: Wizyoung
+type: d3-device-type-assertion

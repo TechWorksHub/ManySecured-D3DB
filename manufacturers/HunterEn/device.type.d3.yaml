@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00f8945a-f0ac-4a43-9248-8502ead1ec9e
+  macAddresses:
+  - 00:15:1A:00:00:00/24
+  manufacturer: Hunter Engineering Company
+  manufacturerUri: https://device-type.com
+  name: HunterEn
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b9984db3-ffa0-4c05-98bc-93b4b6b19d6d
+  macAddresses:
+  - 00:00:40:00:00:00/24
+  manufacturer: Applicon, Inc.
+  manufacturerUri: https://device-type.com
+  name: Applicon
+type: d3-device-type-assertion

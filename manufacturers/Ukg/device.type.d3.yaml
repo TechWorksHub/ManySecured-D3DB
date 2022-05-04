@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 098111ed-b5bd-49ae-95bf-4d8b988fbe70
+  macAddresses:
+  - 00:40:58:00:00:00/24
+  - DC:36:43:70:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Ukg
+type: d3-device-type-assertion

@@ -1,0 +1,12 @@
+credentialSubject:
+  id: da423011-50d3-4895-9451-c8461ba307b5
+  macAddresses:
+  - 34:40:B5:00:00:00/24
+  - 40:F2:E9:00:00:00/24
+  - 90:4E:91:70:00:00/28
+  - 98:BE:94:00:00:00/24
+  - A8:97:DC:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Ibm
+type: d3-device-type-assertion

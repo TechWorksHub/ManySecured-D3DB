@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 6c147ba8-e100-48cc-b4ef-93162135b3c9
+  macAddresses:
+  - 00:50:C2:3E:90:00/36
+  - 00:50:C2:4F:00:00/36
+  - 00:50:C2:60:10:00/36
+  - 00:50:C2:6C:60:00/36
+  - 00:50:C2:7A:00:00/36
+  manufacturer: MedAvant Healthcare
+  manufacturerUri: https://device-type.com
+  name: MedAvant
+type: d3-device-type-assertion

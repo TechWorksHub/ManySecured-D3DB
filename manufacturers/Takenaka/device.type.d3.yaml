@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5b51bb17-817d-4b4a-b6b1-b52dafec5bca
+  macAddresses:
+  - 00:15:87:00:00:00/24
+  manufacturer: Takenaka Seisakusho Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Takenaka
+type: d3-device-type-assertion

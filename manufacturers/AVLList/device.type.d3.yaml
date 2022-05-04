@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f10522a3-5749-4f4f-9649-604f9536040b
+  macAddresses:
+  - 00:05:23:00:00:00/24
+  manufacturer: AVL List GmbH
+  manufacturerUri: https://device-type.com
+  name: AVLList
+type: d3-device-type-assertion

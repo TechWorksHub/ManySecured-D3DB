@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 12e63978-05d4-42b0-95c5-6cd1d651afae
+  macAddresses:
+  - 00:A0:C6:00:00:00/24
+  - 64:9C:81:00:00:00/24
+  - 88:12:4E:00:00:00/24
+  - 8C:FD:F0:00:00:00/24
+  manufacturer: Qualcomm Inc.
+  manufacturerUri: https://device-type.com
+  name: Qualcomm
+type: d3-device-type-assertion

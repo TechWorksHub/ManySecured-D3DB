@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 620ac220-8d24-4003-a0d9-8bdbccfece58
+  macAddresses:
+  - 00:06:1E:00:00:00/24
+  manufacturer: Maxan Systems
+  manufacturerUri: https://device-type.com
+  name: Maxan
+type: d3-device-type-assertion

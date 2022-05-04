@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 4d04ddaf-a38f-4680-af80-015f489a5e66
+  macAddresses:
+  - 18:38:25:00:00:00/24
+  - DC:36:43:20:00:00/28
+  manufacturer: Wuhan Lingjiu High-tech Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: WuhanLin
+type: d3-device-type-assertion

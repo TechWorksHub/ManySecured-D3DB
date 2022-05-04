@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a99fe3d0-5810-436c-810b-73e4229f759f
+  macAddresses:
+  - 00:0E:33:00:00:00/24
+  manufacturer: Shuko Electronics Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: ShukoEle
+type: d3-device-type-assertion

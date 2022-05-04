@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 30250ef2-93f0-40cc-86a4-f71beac82796
+  macAddresses:
+  - 00:50:C2:87:80:00/36
+  - 0C:1A:10:00:00:00/24
+  manufacturer: Acoustic Research Laboratories Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Acoustic
+type: d3-device-type-assertion

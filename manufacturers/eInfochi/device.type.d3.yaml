@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 232a4867-987a-4444-8d13-15b92ef81ea1
+  macAddresses:
+  - 00:50:C2:85:20:00/36
+  - B4:37:D1:80:00:00/28
+  manufacturer: eInfochips Ltd.
+  manufacturerUri: https://device-type.com
+  name: eInfochi
+type: d3-device-type-assertion

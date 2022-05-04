@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1b51cb19-baa6-4158-a7bf-3a6d7579be27
+  macAddresses:
+  - B8:D8:12:D0:00:00/28
+  manufacturer: Lam Research
+  manufacturerUri: https://device-type.com
+  name: LamResea
+type: d3-device-type-assertion

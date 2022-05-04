@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1db0b64d-0c56-4ce4-8f43-8fabf9b53571
+  macAddresses:
+  - 80:B7:08:00:00:00/24
+  manufacturer: Blue Danube Systems, Inc
+  manufacturerUri: https://device-type.com
+  name: BlueDanu
+type: d3-device-type-assertion

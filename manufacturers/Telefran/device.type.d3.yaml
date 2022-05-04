@@ -1,0 +1,11 @@
+credentialSubject:
+  id: e40dc259-0895-4600-bd37-4996cc6553c2
+  macAddresses:
+  - 00:50:C2:0D:00:00/36
+  - 40:D8:55:0A:30:00/36
+  - 40:D8:55:15:50:00/36
+  - 70:B3:D5:A8:20:00/36
+  manufacturer: Telefrang AB
+  manufacturerUri: https://device-type.com
+  name: Telefran
+type: d3-device-type-assertion

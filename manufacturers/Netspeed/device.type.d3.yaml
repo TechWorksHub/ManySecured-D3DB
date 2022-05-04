@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8b0f5183-0d6b-4330-987a-85e0eda01c8f
+  macAddresses:
+  - 00:E0:D0:00:00:00/24
+  manufacturer: Netspeed, Inc.
+  manufacturerUri: https://device-type.com
+  name: Netspeed
+type: d3-device-type-assertion

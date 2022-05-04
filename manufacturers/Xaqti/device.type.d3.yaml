@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a1cc3e26-c6db-41e2-a337-793e9680b2de
+  macAddresses:
+  - 00:E0:AE:00:00:00/24
+  manufacturer: Xaqti Corporation
+  manufacturerUri: https://device-type.com
+  name: Xaqti
+type: d3-device-type-assertion

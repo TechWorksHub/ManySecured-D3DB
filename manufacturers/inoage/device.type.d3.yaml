@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c95008cb-18f5-4e65-864b-92d57b1be843
+  macAddresses:
+  - 40:D8:55:05:E0:00/36
+  - CC:D3:1E:80:00:00/28
+  manufacturer: inoage GmbH
+  manufacturerUri: https://device-type.com
+  name: inoage
+type: d3-device-type-assertion

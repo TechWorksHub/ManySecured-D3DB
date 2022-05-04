@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 70fa9341-3728-4d81-96c0-9370307b7f45
+  macAddresses:
+  - 00:05:A9:00:00:00/24
+  - 00:12:D4:00:00:00/24
+  - 00:13:D8:00:00:00/24
+  - 00:50:C2:01:D0:00/36
+  manufacturer: Princeton Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: Princeto
+type: d3-device-type-assertion

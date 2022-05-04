@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 489e22b5-4927-4d10-9cf8-c33d88c46042
+  macAddresses:
+  - 00:A0:79:00:00:00/24
+  - DC:B7:FC:00:00:00/24
+  manufacturer: Alps Electric (Usa), Inc.
+  manufacturerUri: https://device-type.com
+  name: AlpsElec
+type: d3-device-type-assertion

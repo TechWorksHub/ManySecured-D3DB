@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2afa513a-1eeb-4c3c-98f1-e1685d25bdd4
+  macAddresses:
+  - 50:DE:19:10:00:00/28
+  - 70:B3:D5:1C:E0:00/36
+  manufacturer: Clear Flow by Antiference
+  manufacturerUri: https://device-type.com
+  name: ClearFlo
+type: d3-device-type-assertion

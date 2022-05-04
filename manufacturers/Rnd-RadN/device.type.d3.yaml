@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cae617ec-d52c-4dc7-a8a6-8cc6f6c172ce
+  macAddresses:
+  - 00:00:B0:00:00:00/24
+  manufacturer: Rnd-Rad Network Devices
+  manufacturerUri: https://device-type.com
+  name: Rnd-RadN
+type: d3-device-type-assertion

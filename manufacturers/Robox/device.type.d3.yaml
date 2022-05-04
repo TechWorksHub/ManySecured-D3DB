@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9c57b7e7-e062-472b-9c51-46b3d4c2e9b5
+  macAddresses:
+  - 00:0F:47:00:00:00/24
+  manufacturer: Robox Spa
+  manufacturerUri: https://device-type.com
+  name: Robox
+type: d3-device-type-assertion

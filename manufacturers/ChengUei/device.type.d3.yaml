@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 98acdcc8-d59a-476d-98ff-c66a47b1ff5d
+  macAddresses:
+  - 00:1A:0E:00:00:00/24
+  - 9C:CD:82:00:00:00/24
+  - E0:F5:CA:00:00:00/24
+  manufacturer: Cheng Uei Precision Industry Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: ChengUei
+type: d3-device-type-assertion

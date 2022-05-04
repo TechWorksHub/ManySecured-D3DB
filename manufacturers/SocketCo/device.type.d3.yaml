@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 807473df-702c-4858-80a2-5aba78c362ca
+  macAddresses:
+  - 00:C0:1B:00:00:00/24
+  manufacturer: Socket Communications
+  manufacturerUri: https://device-type.com
+  name: SocketCo
+type: d3-device-type-assertion

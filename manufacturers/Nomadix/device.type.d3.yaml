@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8fc2e2d1-2ef4-4748-93dc-270adde42c53
+  macAddresses:
+  - 00:50:E8:00:00:00/24
+  manufacturer: Nomadix, Inc
+  manufacturerUri: https://device-type.com
+  name: Nomadix
+type: d3-device-type-assertion

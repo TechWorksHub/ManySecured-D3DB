@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 240b2252-24ba-474c-a862-e921f066a831
+  macAddresses:
+  - 00:A0:EA:00:00:00/24
+  manufacturer: Ethercom Corp.
+  manufacturerUri: https://device-type.com
+  name: Ethercom
+type: d3-device-type-assertion

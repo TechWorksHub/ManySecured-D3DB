@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3090aacc-e64c-4867-9a13-e1f23a20a1bb
+  macAddresses:
+  - 00:40:E7:00:00:00/24
+  manufacturer: Arnos Instruments & Computer
+  manufacturerUri: https://device-type.com
+  name: ArnosIns
+type: d3-device-type-assertion

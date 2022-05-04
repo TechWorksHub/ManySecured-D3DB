@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4210f5d-e3e2-4ed7-85a8-4f0685f6d955
+  macAddresses:
+  - 00:D0:15:00:00:00/24
+  manufacturer: Univex Microtechnology Corp.
+  manufacturerUri: https://device-type.com
+  name: UnivexMi
+type: d3-device-type-assertion

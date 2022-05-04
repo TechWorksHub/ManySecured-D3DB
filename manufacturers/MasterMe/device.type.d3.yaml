@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2aee97ba-cb52-440f-ad2d-7f309771abf1
+  macAddresses:
+  - 70:B3:D5:A9:F0:00/36
+  manufacturer: Master Meter Inc.
+  manufacturerUri: https://device-type.com
+  name: MasterMe
+type: d3-device-type-assertion

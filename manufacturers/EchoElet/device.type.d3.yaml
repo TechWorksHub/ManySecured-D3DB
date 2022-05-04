@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a7bed65-78dd-4564-bede-b93d8497fa10
+  macAddresses:
+  - 00:10:47:00:00:00/24
+  manufacturer: Echo Eletric Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: EchoElet
+type: d3-device-type-assertion

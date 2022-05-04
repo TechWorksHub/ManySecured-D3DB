@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cd5a0dc8-a6f9-4e1b-96a6-32d6671f2827
+  macAddresses:
+  - 00:00:27:00:00:00/24
+  - 70:88:4D:00:00:00/24
+  manufacturer: Japan Radio Company
+  manufacturerUri: https://device-type.com
+  name: JapanRad
+type: d3-device-type-assertion

@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 14895283-954e-43fd-a6c1-48605f783002
+  macAddresses:
+  - 00:25:90:00:00:00/24
+  - 00:30:48:00:00:00/24
+  - 0C:C4:7A:00:00:00/24
+  - 3C:EC:EF:00:00:00/24
+  - 7C:C2:55:00:00:00/24
+  - AC:1F:6B:00:00:00/24
+  manufacturer: Super Micro Computer, Inc.
+  manufacturerUri: https://device-type.com
+  name: SuperMic
+type: d3-device-type-assertion

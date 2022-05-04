@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ec8cf590-0a46-4f90-88cd-645ff2888cc6
+  macAddresses:
+  - 00:1C:60:00:00:00/24
+  manufacturer: CSP Frontier Technologies,Inc.
+  manufacturerUri: https://device-type.com
+  name: CSPFront
+type: d3-device-type-assertion

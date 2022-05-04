@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a567b42c-1081-43ea-973a-eb080e02b76a
+  macAddresses:
+  - 00:50:C2:09:B0:00/36
+  manufacturer: Seffle Instrument AB
+  manufacturerUri: https://device-type.com
+  name: SeffleIn
+type: d3-device-type-assertion

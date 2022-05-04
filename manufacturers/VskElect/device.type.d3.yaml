@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ef6a42e-3a0f-46a5-96e1-3464b1a78db7
+  macAddresses:
+  - 00:50:FB:00:00:00/24
+  manufacturer: Vsk Electronics
+  manufacturerUri: https://device-type.com
+  name: VskElect
+type: d3-device-type-assertion

@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 02db4bc5-d02b-438c-8051-4bb03cfb532b
+  macAddresses:
+  - 08:F8:0D:70:00:00/28
+  - 20:0A:0D:E0:00:00/28
+  - 58:E8:73:00:00:00/24
+  manufacturer: HANGZHOU YILI Communication Equipment Ltd
+  manufacturerUri: https://device-type.com
+  name: HANGZHOU
+type: d3-device-type-assertion

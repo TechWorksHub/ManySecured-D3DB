@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7591b344-c273-4c2e-8c99-e78142b4e745
+  macAddresses:
+  - 00:02:30:00:00:00/24
+  - 00:06:AC:00:00:00/24
+  manufacturer: Intersoft Electronics
+  manufacturerUri: https://device-type.com
+  name: Intersof
+type: d3-device-type-assertion

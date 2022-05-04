@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b096751f-0fc7-4dbb-8367-68d879334c5a
+  macAddresses:
+  - 00:50:C2:44:30:00/36
+  - 10:DC:B6:A0:00:00/28
+  manufacturer: Pickering Laboratories
+  manufacturerUri: https://device-type.com
+  name: Pickerin
+type: d3-device-type-assertion

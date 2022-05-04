@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 34f84d0c-3543-466c-83e8-744cd6e79607
+  macAddresses:
+  - 00:07:03:00:00:00/24
+  manufacturer: CSEE Transport
+  manufacturerUri: https://device-type.com
+  name: CSEETran
+type: d3-device-type-assertion

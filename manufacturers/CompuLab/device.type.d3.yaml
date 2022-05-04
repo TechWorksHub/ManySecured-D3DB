@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5071047d-ac45-4849-ab4d-b6c3384409fe
+  macAddresses:
+  - 00:01:C0:00:00:00/24
+  manufacturer: CompuLab, Ltd.
+  manufacturerUri: https://device-type.com
+  name: CompuLab
+type: d3-device-type-assertion

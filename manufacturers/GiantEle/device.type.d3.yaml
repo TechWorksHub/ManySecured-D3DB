@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2b0ff649-56f2-468f-942e-1ade40571b13
+  macAddresses:
+  - 00:09:6E:00:00:00/24
+  manufacturer: Giant Electronics Ltd.
+  manufacturerUri: https://device-type.com
+  name: GiantEle
+type: d3-device-type-assertion

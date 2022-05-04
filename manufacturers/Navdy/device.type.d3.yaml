@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e8ef15a-2a59-43d6-bb61-7ae95a2b3ff3
+  macAddresses:
+  - 54:ED:A3:00:00:00/24
+  manufacturer: Navdy, Inc.
+  manufacturerUri: https://device-type.com
+  name: Navdy
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 25ec8bc5-c0d9-40a1-9cc3-8f4e70430205
+  macAddresses:
+  - 00:1B:C5:09:B0:00/36
+  - 5C:5B:C2:00:00:00/24
+  manufacturer: YIK Corporation
+  manufacturerUri: https://device-type.com
+  name: YIK
+type: d3-device-type-assertion

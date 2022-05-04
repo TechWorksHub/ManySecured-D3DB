@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0d28e159-082a-4f7a-b8d8-41c1771fc7ae
+  macAddresses:
+  - 00:23:5F:00:00:00/24
+  - 48:68:34:00:00:00/24
+  manufacturer: Silicon Micro Sensors GmbH
+  manufacturerUri: https://device-type.com
+  name: SiliconM
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 7f593060-8ff2-40a5-9848-72713b6e8f15
+  macAddresses:
+  - 00:06:80:00:00:00/24
+  - 00:50:C2:5B:E0:00/36
+  manufacturer: Card Access, Inc.
+  manufacturerUri: https://device-type.com
+  name: CardAcce
+type: d3-device-type-assertion

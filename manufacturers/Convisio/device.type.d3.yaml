@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22f1a1fa-b165-446c-b839-f30c9b38af04
+  macAddresses:
+  - 00:D0:F0:00:00:00/24
+  manufacturer: Convision Technology Gmbh
+  manufacturerUri: https://device-type.com
+  name: Convisio
+type: d3-device-type-assertion

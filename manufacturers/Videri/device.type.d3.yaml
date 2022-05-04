@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 29603d47-f83e-4a5c-9799-eaa1c1afe77e
+  macAddresses:
+  - 1C:C0:E1:40:00:00/28
+  - 70:B3:D5:33:C0:00/36
+  manufacturer: Videri Inc.
+  manufacturerUri: https://device-type.com
+  name: Videri
+type: d3-device-type-assertion

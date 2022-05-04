@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0fa6aa55-1b28-4059-8079-e187bc1d17e6
+  macAddresses:
+  - 08:00:1E:00:00:00/24
+  manufacturer: Apollo Computer Inc.
+  manufacturerUri: https://device-type.com
+  name: ApolloCo
+type: d3-device-type-assertion

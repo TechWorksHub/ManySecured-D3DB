@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5eed73a5-cb1b-4517-925e-db5427fb8892
+  macAddresses:
+  - 78:D4:F1:D0:00:00/28
+  manufacturer: Quidel Corporation
+  manufacturerUri: https://device-type.com
+  name: Quidel
+type: d3-device-type-assertion

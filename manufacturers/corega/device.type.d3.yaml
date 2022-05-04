@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6532807a-059d-4a8d-aa37-8b4deda04999
+  macAddresses:
+  - 00:0A:79:00:00:00/24
+  - 00:26:87:00:00:00/24
+  manufacturer: corega K.K
+  manufacturerUri: https://device-type.com
+  name: corega
+type: d3-device-type-assertion

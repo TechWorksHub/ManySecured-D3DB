@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cf71c711-1878-4810-8bce-b02b23fa89e4
+  macAddresses:
+  - 00:21:0C:00:00:00/24
+  - 70:B3:D5:90:30:00/36
+  manufacturer: Cymtec Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cymtec
+type: d3-device-type-assertion

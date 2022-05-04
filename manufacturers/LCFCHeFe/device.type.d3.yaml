@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 96bc3863-5cd3-485f-8f3d-08ddaab03c88
+  macAddresses:
+  - 00:2B:67:00:00:00/24
+  - 28:D2:44:00:00:00/24
+  - 38:F3:AB:00:00:00/24
+  - 50:7B:9D:00:00:00/24
+  - 54:05:DB:00:00:00/24
+  - 54:E1:AD:00:00:00/24
+  - 68:F7:28:00:00:00/24
+  - 84:A9:38:00:00:00/24
+  - 8C:16:45:00:00:00/24
+  - 8C:8C:AA:00:00:00/24
+  - 90:2E:16:00:00:00/24
+  - 98:FA:9B:00:00:00/24
+  - C8:5B:76:00:00:00/24
+  - E8:6A:64:00:00:00/24
+  - F8:75:A4:00:00:00/24
+  manufacturer: LCFC(HeFei) Electronics Technology co., ltd
+  manufacturerUri: https://device-type.com
+  name: LCFCHeFe
+type: d3-device-type-assertion

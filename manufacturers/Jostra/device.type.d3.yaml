@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 16c8561b-23ef-434e-b4d8-83a5ecacef96
+  macAddresses:
+  - 00:50:C2:15:40:00/36
+  manufacturer: Jostra AB
+  manufacturerUri: https://device-type.com
+  name: Jostra
+type: d3-device-type-assertion

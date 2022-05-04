@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 87a55027-4406-4daf-a35b-4373f7232c4e
+  macAddresses:
+  - 00:13:69:00:00:00/24
+  manufacturer: Honda Electron Co., LED.
+  manufacturerUri: https://device-type.com
+  name: HondaEle
+type: d3-device-type-assertion

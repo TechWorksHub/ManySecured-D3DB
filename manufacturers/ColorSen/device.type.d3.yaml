@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 476e178b-1bf9-4719-8c58-1bc669f10c6f
+  macAddresses:
+  - 00:A0:6F:00:00:00/24
+  manufacturer: Color Sentinel Systems, LLC
+  manufacturerUri: https://device-type.com
+  name: ColorSen
+type: d3-device-type-assertion

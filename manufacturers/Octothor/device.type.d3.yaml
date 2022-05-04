@@ -1,0 +1,9 @@
+credentialSubject:
+  id: adb3746d-ea7e-4fbf-9a33-d0e80913a903
+  macAddresses:
+  - 00:BB:01:00:00:00/24
+  - 02:BB:01:00:00:00/24
+  manufacturer: Octothorpe Corp.
+  manufacturerUri: https://device-type.com
+  name: Octothor
+type: d3-device-type-assertion

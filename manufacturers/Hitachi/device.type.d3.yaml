@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6aa9ff4e-579d-431a-af83-4f6bb0396e73
+  macAddresses:
+  - 00:00:87:00:00:00/24
+  - 00:1F:67:00:00:00/24
+  - 68:69:CA:00:00:00/24
+  - F8:48:97:00:00:00/24
+  manufacturer: Hitachi, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Hitachi
+type: d3-device-type-assertion

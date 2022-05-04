@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1cf2049-d123-456c-bccf-e6301ed9a83f
+  macAddresses:
+  - 00:1B:EC:00:00:00/24
+  manufacturer: Netio Technologies Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: NetioTec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 77de2a00-8e47-47ac-ac06-41be3adaabb0
+  macAddresses:
+  - B4:A4:B5:00:00:00/24
+  manufacturer: Zen Eye Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: ZenEye
+type: d3-device-type-assertion

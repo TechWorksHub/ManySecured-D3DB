@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bf4bc8ee-1b59-448a-9b52-861c5890da11
+  macAddresses:
+  - 00:02:0C:00:00:00/24
+  manufacturer: Metro-Optix
+  manufacturerUri: https://device-type.com
+  name: Metro-Op
+type: d3-device-type-assertion

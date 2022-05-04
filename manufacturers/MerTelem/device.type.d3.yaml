@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d4742306-8c12-4012-a8bf-a21ab14300de
+  macAddresses:
+  - 00:90:78:00:00:00/24
+  manufacturer: Mer Telemanagement Solutions, Ltd.
+  manufacturerUri: https://device-type.com
+  name: MerTelem
+type: d3-device-type-assertion

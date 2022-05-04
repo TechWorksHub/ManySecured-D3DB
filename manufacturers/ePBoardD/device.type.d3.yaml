@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 512c7b56-841d-4638-a690-8feb4d003633
+  macAddresses:
+  - EC:63:E5:00:00:00/24
+  manufacturer: ePBoard Design LLC
+  manufacturerUri: https://device-type.com
+  name: ePBoardD
+type: d3-device-type-assertion

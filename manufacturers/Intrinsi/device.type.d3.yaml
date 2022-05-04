@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 593e6631-fffd-4b1a-8197-cbe9dac46436
+  macAddresses:
+  - 00:50:C2:22:C0:00/36
+  - 70:B3:D5:66:30:00/36
+  manufacturer: Intrinsity
+  manufacturerUri: https://device-type.com
+  name: Intrinsi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fca1b701-ec44-49e4-ab84-7f82e9de7f61
+  macAddresses:
+  - EC:11:20:00:00:00/24
+  manufacturer: FloDesign Wind Turbine Corporation
+  manufacturerUri: https://device-type.com
+  name: FloDesig
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12b5ce97-5d41-4112-99ae-c278654bb684
+  macAddresses:
+  - 00:90:BD:00:00:00/24
+  manufacturer: Omnia Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: OmniaCom
+type: d3-device-type-assertion

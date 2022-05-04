@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dbc57dfb-07f5-4835-a3ed-263929272d33
+  macAddresses:
+  - 00:90:8A:00:00:00/24
+  manufacturer: Bayly Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: BaylyCom
+type: d3-device-type-assertion

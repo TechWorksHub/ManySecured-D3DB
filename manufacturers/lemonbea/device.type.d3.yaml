@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c8a4e040-ba42-4fea-b650-53e73fe8ed02
+  macAddresses:
+  - 18:61:C7:00:00:00/24
+  manufacturer: lemonbeat GmbH
+  manufacturerUri: https://device-type.com
+  name: lemonbea
+type: d3-device-type-assertion

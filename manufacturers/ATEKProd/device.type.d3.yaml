@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 20dfdd42-5cdc-47f0-b600-2330b4f6fe95
+  macAddresses:
+  - 34:F9:68:00:00:00/24
+  - 74:BE:08:00:00:00/24
+  manufacturer: ATEK Products, LLC
+  manufacturerUri: https://device-type.com
+  name: ATEKProd
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65b56e49-39e7-4476-956b-580cc7d06f95
+  macAddresses:
+  - 00:50:C2:35:70:00/36
+  manufacturer: Athena Semiconductor
+  manufacturerUri: https://device-type.com
+  name: AthenaSe
+type: d3-device-type-assertion

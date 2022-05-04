@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4e6fa229-40d0-4d90-b644-863e23488500
+  macAddresses:
+  - 00:20:F3:00:00:00/24
+  manufacturer: Raynet Corporation
+  manufacturerUri: https://device-type.com
+  name: Raynet
+type: d3-device-type-assertion

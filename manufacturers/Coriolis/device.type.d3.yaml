@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 233f8178-23a9-41f2-8780-57bf3903079b
+  macAddresses:
+  - 00:02:73:00:00:00/24
+  manufacturer: Coriolis Networks
+  manufacturerUri: https://device-type.com
+  name: Coriolis
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8133589f-7e3b-45b4-ae6c-4e891bb7e422
+  macAddresses:
+  - 34:9B:5B:00:00:00/24
+  manufacturer: Maquet GmbH
+  manufacturerUri: https://device-type.com
+  name: Maquet
+type: d3-device-type-assertion

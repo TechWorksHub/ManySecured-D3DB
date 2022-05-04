@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7cf4f20-231f-4b0a-961e-983be13b9076
+  macAddresses:
+  - 00:A0:38:00:00:00/24
+  manufacturer: Email Electronics
+  manufacturerUri: https://device-type.com
+  name: EmailEle
+type: d3-device-type-assertion

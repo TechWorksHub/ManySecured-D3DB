@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5d5941e9-c066-47e3-bc2e-dca38c2c7ec8
+  macAddresses:
+  - C0:12:42:00:00:00/24
+  manufacturer: Alpha Security Products
+  manufacturerUri: https://device-type.com
+  name: AlphaSec
+type: d3-device-type-assertion

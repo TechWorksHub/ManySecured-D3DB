@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7fa703bc-cce3-43db-987d-e01288300b6c
+  macAddresses:
+  - D8:7E:B1:00:00:00/24
+  manufacturer: x.o.ware, inc.
+  manufacturerUri: https://device-type.com
+  name: xoware
+type: d3-device-type-assertion

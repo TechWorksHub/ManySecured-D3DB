@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 83b45891-a007-45f4-b328-1ac5461c1cf6
+  macAddresses:
+  - 00:15:FF:00:00:00/24
+  - 18:EE:86:00:00:00/24
+  - 28:80:A2:00:00:00/24
+  - E0:86:14:00:00:00/24
+  manufacturer: Novatel Wireless Solutions, Inc.
+  manufacturerUri: https://device-type.com
+  name: NovatelW
+type: d3-device-type-assertion

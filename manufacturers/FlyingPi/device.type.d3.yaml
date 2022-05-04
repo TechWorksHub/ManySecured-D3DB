@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae265807-0ad5-4614-baaf-6d0bdd34d4c5
+  macAddresses:
+  - 00:90:A1:00:00:00/24
+  manufacturer: Flying Pig Systems/High End Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: FlyingPi
+type: d3-device-type-assertion

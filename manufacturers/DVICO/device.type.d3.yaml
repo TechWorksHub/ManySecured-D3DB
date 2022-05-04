@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 69f57278-5e80-4be7-841a-29e62d630fb7
+  macAddresses:
+  - 00:01:04:00:00:00/24
+  manufacturer: DVICO Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: DVICO
+type: d3-device-type-assertion

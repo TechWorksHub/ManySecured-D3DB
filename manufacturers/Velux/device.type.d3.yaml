@@ -1,0 +1,9 @@
+credentialSubject:
+  id: d86d2577-eb2d-476b-8747-ec209eace95b
+  macAddresses:
+  - 00:50:C2:51:D0:00/36
+  - 64:61:84:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Velux
+type: d3-device-type-assertion

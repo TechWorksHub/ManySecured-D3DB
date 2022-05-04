@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a0f9a3a9-12c0-4cd9-a30f-9fb1b2d1becf
+  macAddresses:
+  - 00:1F:4C:00:00:00/24
+  - 00:50:C2:2C:90:00/36
+  manufacturer: Roseman Engineering Ltd
+  manufacturerUri: https://device-type.com
+  name: RosemanE
+type: d3-device-type-assertion

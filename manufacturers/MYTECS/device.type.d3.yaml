@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5a02979-a4ca-4ed2-a701-2d67c8a4b2c4
+  macAddresses:
+  - 00:09:2A:00:00:00/24
+  manufacturer: MYTECS Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: MYTECS
+type: d3-device-type-assertion

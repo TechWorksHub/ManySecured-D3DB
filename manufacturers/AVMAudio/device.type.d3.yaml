@@ -1,0 +1,28 @@
+credentialSubject:
+  id: ce09ff5e-e682-4b46-a28a-71d997e29dc9
+  macAddresses:
+  - 1C:ED:6F:00:00:00/24
+  - 2C:3A:FD:00:00:00/24
+  - 2C:91:AB:00:00:00/24
+  - 38:10:D5:00:00:00/24
+  - 3C:37:12:00:00:00/24
+  - 3C:A6:2F:00:00:00/24
+  - 44:4E:6D:00:00:00/24
+  - 50:E6:36:00:00:00/24
+  - 5C:49:79:00:00:00/24
+  - 74:42:7F:00:00:00/24
+  - 7C:FF:4D:00:00:00/24
+  - 98:9B:CB:00:00:00/24
+  - B0:F2:08:00:00:00/24
+  - C8:0E:14:00:00:00/24
+  - CC:CE:1E:00:00:00/24
+  - D0:12:CB:00:00:00/24
+  - DC:15:C8:00:00:00/24
+  - DC:39:6F:00:00:00/24
+  - E0:28:6D:00:00:00/24
+  - E8:DF:70:00:00:00/24
+  - F0:B0:14:00:00:00/24
+  manufacturer: AVM Audiovisuelles Marketing und Computersysteme GmbH
+  manufacturerUri: https://device-type.com
+  name: AVMAudio
+type: d3-device-type-assertion

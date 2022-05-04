@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e94b046a-825f-4e22-bcf0-64fdf130f92d
+  macAddresses:
+  - 00:1B:5D:00:00:00/24
+  manufacturer: Vololink Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Vololink
+type: d3-device-type-assertion

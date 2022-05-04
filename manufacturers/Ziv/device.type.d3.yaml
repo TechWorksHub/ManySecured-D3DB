@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 75d2269b-2dbf-4891-a76c-b55623c63be1
+  macAddresses:
+  - 40:40:22:00:00:00/24
+  - 40:40:28:00:00:00/24
+  - A4:31:11:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Ziv
+type: d3-device-type-assertion

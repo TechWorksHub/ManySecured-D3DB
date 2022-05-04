@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e3cd81e-51cd-430d-a225-691515ea189f
+  macAddresses:
+  - 00:30:E4:00:00:00/24
+  manufacturer: Chiyoda System Riken
+  manufacturerUri: https://device-type.com
+  name: ChiyodaS
+type: d3-device-type-assertion

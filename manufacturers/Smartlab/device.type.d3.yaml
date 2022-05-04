@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 61cd444e-f8ac-49f9-8d52-9519d1113cd3
+  macAddresses:
+  - 00:0E:F3:00:00:00/24
+  - E4:27:71:00:00:00/24
+  manufacturer: Smartlabs, Inc.
+  manufacturerUri: https://device-type.com
+  name: Smartlab
+type: d3-device-type-assertion

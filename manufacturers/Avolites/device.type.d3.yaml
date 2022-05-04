@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2c8fb195-e44e-45de-ade8-fc4a6f2b2d91
+  macAddresses:
+  - 00:12:B2:00:00:00/24
+  manufacturer: Avolites Ltd.
+  manufacturerUri: https://device-type.com
+  name: Avolites
+type: d3-device-type-assertion

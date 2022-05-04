@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33069310-f685-4be4-b5e4-1cbc92f84eea
+  macAddresses:
+  - 00:60:C1:00:00:00/24
+  manufacturer: WaveSpan Corporation
+  manufacturerUri: https://device-type.com
+  name: WaveSpan
+type: d3-device-type-assertion

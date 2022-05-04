@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bc11e09f-9ea3-49e5-8c7d-a8dbe86ea49b
+  macAddresses:
+  - 00:50:C2:0D:70:00/36
+  manufacturer: Summit Avionics, Inc.
+  manufacturerUri: https://device-type.com
+  name: SummitAv
+type: d3-device-type-assertion

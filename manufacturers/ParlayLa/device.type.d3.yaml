@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f993eebe-c501-4efa-98ac-b27ddaac30b9
+  macAddresses:
+  - BC:34:00:C0:00:00/28
+  manufacturer: Parlay Labs dba Highfive
+  manufacturerUri: https://device-type.com
+  name: ParlayLa
+type: d3-device-type-assertion

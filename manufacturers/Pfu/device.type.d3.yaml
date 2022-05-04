@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0057e49b-5955-4c4d-bb3e-b6cbc08da9ea
+  macAddresses:
+  - 00:80:17:00:00:00/24
+  - F0:BC:C9:00:00:00/24
+  manufacturer: Pfu Limited
+  manufacturerUri: https://device-type.com
+  name: Pfu
+type: d3-device-type-assertion

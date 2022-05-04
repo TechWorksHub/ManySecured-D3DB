@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb262565-0f29-427f-9f78-75127f15cf18
+  macAddresses:
+  - 14:2D:F5:00:00:00/24
+  manufacturer: Amphitech
+  manufacturerUri: https://device-type.com
+  name: Amphitec
+type: d3-device-type-assertion

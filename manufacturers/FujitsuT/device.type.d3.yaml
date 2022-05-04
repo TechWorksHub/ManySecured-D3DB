@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a3dfc4f4-2d86-466c-baed-ea2bc99ece35
+  macAddresses:
+  - 00:19:99:00:00:00/24
+  - 4C:52:62:00:00:00/24
+  - 90:1B:0E:00:00:00/24
+  manufacturer: Fujitsu Technology Solutions GmbH
+  manufacturerUri: https://device-type.com
+  name: FujitsuT
+type: d3-device-type-assertion

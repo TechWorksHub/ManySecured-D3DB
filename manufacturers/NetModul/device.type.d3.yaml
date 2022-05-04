@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a61ccb0d-1b3a-48b4-b6de-27cbd5d3823e
+  macAddresses:
+  - 00:11:2B:00:00:00/24
+  manufacturer: NetModule AG
+  manufacturerUri: https://device-type.com
+  name: NetModul
+type: d3-device-type-assertion

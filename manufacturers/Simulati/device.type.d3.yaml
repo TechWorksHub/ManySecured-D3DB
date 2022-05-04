@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f0f9ed86-5ac5-41e3-a37b-b5baa161ee31
+  macAddresses:
+  - 00:90:10:00:00:00/24
+  manufacturer: Simulation Laboratories, Inc.
+  manufacturerUri: https://device-type.com
+  name: Simulati
+type: d3-device-type-assertion

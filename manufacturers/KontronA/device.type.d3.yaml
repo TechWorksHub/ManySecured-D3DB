@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 50f1d8f2-fa3a-4e90-a39c-1ba2cbdb0cb6
+  macAddresses:
+  - 00:10:13:00:00:00/24
+  - 00:B3:38:00:00:00/24
+  manufacturer: Kontron America, Inc.
+  manufacturerUri: https://device-type.com
+  name: KontronA
+type: d3-device-type-assertion

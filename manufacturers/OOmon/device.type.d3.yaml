@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 125a88a1-0005-4643-8ac8-726a63493105
+  macAddresses:
+  - 00:10:15:00:00:00/24
+  manufacturer: OOmon Inc.
+  manufacturerUri: https://device-type.com
+  name: OOmon
+type: d3-device-type-assertion

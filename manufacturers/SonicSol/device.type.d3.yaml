@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb27df48-d9a2-40a4-99c3-5709d9f7fa82
+  macAddresses:
+  - 00:C0:E1:00:00:00/24
+  manufacturer: Sonic Solutions
+  manufacturerUri: https://device-type.com
+  name: SonicSol
+type: d3-device-type-assertion

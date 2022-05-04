@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f4326489-ebb4-4a09-ac2a-ad7fe7ed3cd6
+  macAddresses:
+  - 00:11:9A:00:00:00/24
+  manufacturer: Alkeria srl
+  manufacturerUri: https://device-type.com
+  name: Alkeria
+type: d3-device-type-assertion

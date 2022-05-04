@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ac60358a-ed49-416e-8ca1-445a0319f90b
+  macAddresses:
+  - 28:2C:02:40:00:00/28
+  - 70:B3:D5:1B:B0:00/36
+  manufacturer: "Efento T P Szyd\u0142owski K Zar\u0119ba Sp\xF3\u0142ka Jawna"
+  manufacturerUri: https://device-type.com
+  name: EfentoTP
+type: d3-device-type-assertion

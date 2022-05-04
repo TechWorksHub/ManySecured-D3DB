@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8c82d21e-df6c-4dc2-9118-8be8ce2b7684
+  macAddresses:
+  - 1C:55:3A:00:00:00/24
+  manufacturer: QianGua Corp.
+  manufacturerUri: https://device-type.com
+  name: QianGua
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 94ddd107-c5ea-4293-94e4-ee504b1f2ae9
+  macAddresses:
+  - 34:DD:04:00:00:00/24
+  manufacturer: Minut AB
+  manufacturerUri: https://device-type.com
+  name: Minut
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6423c71-212a-4732-ac6f-927525fd35b5
+  macAddresses:
+  - 00:A2:FF:00:00:00/24
+  manufacturer: abatec group AG
+  manufacturerUri: https://device-type.com
+  name: abatecgr
+type: d3-device-type-assertion

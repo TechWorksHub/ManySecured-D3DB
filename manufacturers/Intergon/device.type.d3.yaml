@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bb91e404-be4e-4528-bb0e-357db18d58eb
+  macAddresses:
+  - 00:50:AF:00:00:00/24
+  manufacturer: Intergon, Inc.
+  manufacturerUri: https://device-type.com
+  name: Intergon
+type: d3-device-type-assertion

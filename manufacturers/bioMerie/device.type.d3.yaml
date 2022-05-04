@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d72f2488-ea73-4835-ba3e-340364fcf617
+  macAddresses:
+  - 28:DE:F6:00:00:00/24
+  manufacturer: bioMerieux Inc.
+  manufacturerUri: https://device-type.com
+  name: bioMerie
+type: d3-device-type-assertion

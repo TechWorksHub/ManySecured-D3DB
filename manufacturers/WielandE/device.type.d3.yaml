@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3c3be7f1-5519-4611-9f50-4e1bd659cdd9
+  macAddresses:
+  - 00:07:17:00:00:00/24
+  manufacturer: Wieland Electric GmbH
+  manufacturerUri: https://device-type.com
+  name: WielandE
+type: d3-device-type-assertion

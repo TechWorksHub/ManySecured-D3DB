@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e67f787c-a1d1-4224-bed0-fbdbd7e6efc3
+  macAddresses:
+  - CC:09:C8:00:00:00/24
+  manufacturer: Imaqliq Ltd
+  manufacturerUri: https://device-type.com
+  name: Imaqliq
+type: d3-device-type-assertion

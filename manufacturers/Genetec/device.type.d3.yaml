@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 9ce32bce-71fa-457f-85d2-9a8ae28fa66d
+  macAddresses:
+  - 00:50:C2:BE:70:00/36
+  - 00:BF:15:00:00:00/24
+  - 0C:BF:15:00:00:00/24
+  manufacturer: Genetec Inc.
+  manufacturerUri: https://device-type.com
+  name: Genetec
+type: d3-device-type-assertion

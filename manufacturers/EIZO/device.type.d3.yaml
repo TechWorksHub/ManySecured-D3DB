@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fffab68-0d56-4b10-97ee-ad8119c8d878
+  macAddresses:
+  - 00:90:93:00:00:00/24
+  manufacturer: EIZO Corporation
+  manufacturerUri: https://device-type.com
+  name: EIZO
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d7227aac-2517-47df-8a47-a4a785ad5254
+  macAddresses:
+  - 3C:AE:69:00:00:00/24
+  manufacturer: ESA Elektroschaltanlagen Grimma GmbH
+  manufacturerUri: https://device-type.com
+  name: ESAElekt
+type: d3-device-type-assertion

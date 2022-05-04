@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 2690ffc6-61fb-4721-9cab-4878473b6029
+  macAddresses:
+  - 68:F9:56:00:00:00/24
+  - D8:61:94:00:00:00/24
+  - E4:C1:46:00:00:00/24
+  manufacturer: "Objetivos y Servicio de Valor A\xF1adido"
+  manufacturerUri: https://device-type.com
+  name: Objetivo
+type: d3-device-type-assertion

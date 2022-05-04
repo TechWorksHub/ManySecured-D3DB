@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f5cd269a-cff7-40f8-bd1c-dfc00fda4299
+  macAddresses:
+  - 00:19:00:00:00:00/24
+  - 64:17:59:00:00:00/24
+  manufacturer: Intelliverese - DBA Voicecom
+  manufacturerUri: https://device-type.com
+  name: Intelliv
+type: d3-device-type-assertion

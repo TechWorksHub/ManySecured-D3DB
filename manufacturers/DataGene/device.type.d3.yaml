@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d960c752-9edb-474c-bf5c-e814249c4b92
+  macAddresses:
+  - 00:02:1D:00:00:00/24
+  manufacturer: Data General Communication Ltd.
+  manufacturerUri: https://device-type.com
+  name: DataGene
+type: d3-device-type-assertion

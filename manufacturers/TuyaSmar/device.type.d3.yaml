@@ -1,0 +1,20 @@
+credentialSubject:
+  id: f117378a-5879-44e8-9ae5-2f3d11ab9db2
+  macAddresses:
+  - 10:5A:17:00:00:00/24
+  - 10:D5:61:00:00:00/24
+  - 18:69:D8:00:00:00/24
+  - 38:1F:8D:00:00:00/24
+  - 50:8A:06:00:00:00/24
+  - 68:57:2D:00:00:00/24
+  - 70:89:76:00:00:00/24
+  - 7C:F6:66:00:00:00/24
+  - 84:E3:42:00:00:00/24
+  - A0:92:08:00:00:00/24
+  - CC:8C:BF:00:00:00/24
+  - D4:A6:51:00:00:00/24
+  - D8:1F:12:00:00:00/24
+  manufacturer: Tuya Smart Inc.
+  manufacturerUri: https://device-type.com
+  name: TuyaSmar
+type: d3-device-type-assertion

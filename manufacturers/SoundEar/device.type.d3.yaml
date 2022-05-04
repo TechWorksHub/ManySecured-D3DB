@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b4467bc3-bb19-46c5-9c1e-0922d46ed561
+  macAddresses:
+  - 00:22:2A:00:00:00/24
+  manufacturer: SoundEar A/S
+  manufacturerUri: https://device-type.com
+  name: SoundEar
+type: d3-device-type-assertion

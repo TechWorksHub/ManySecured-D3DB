@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3e86f682-a874-45e2-ab7c-49558d0746bf
+  macAddresses:
+  - 94:49:96:00:00:00/24
+  manufacturer: WiSilica Inc
+  manufacturerUri: https://device-type.com
+  name: WiSilica
+type: d3-device-type-assertion

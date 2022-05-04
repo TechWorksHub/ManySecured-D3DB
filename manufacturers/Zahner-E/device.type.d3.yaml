@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2f222505-7a2d-4613-acab-1aafb50e4f41
+  macAddresses:
+  - 00:C0:6A:00:00:00/24
+  manufacturer: Zahner-Elektrik Gmbh & Co KG
+  manufacturerUri: https://device-type.com
+  name: Zahner-E
+type: d3-device-type-assertion

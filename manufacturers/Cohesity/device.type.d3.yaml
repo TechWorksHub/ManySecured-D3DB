@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ba365fd-bf59-4b12-9147-523aac97a268
+  macAddresses:
+  - 44:F4:E7:00:00:00/24
+  manufacturer: Cohesity Inc
+  manufacturerUri: https://device-type.com
+  name: Cohesity
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: fcd1217c-a140-4fbd-a6e5-c133e05ff69c
+  macAddresses:
+  - 00:06:A1:00:00:00/24
+  manufacturer: Celsian Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: CelsianT
+type: d3-device-type-assertion

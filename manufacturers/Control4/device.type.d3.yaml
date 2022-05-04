@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7e79979c-2fdc-49c1-99e8-4106edb9b970
+  macAddresses:
+  - 00:0F:FF:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Control4
+type: d3-device-type-assertion

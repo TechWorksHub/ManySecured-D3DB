@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d5f879a1-9ba7-4674-a843-4ab755941299
+  macAddresses:
+  - 00:08:6E:00:00:00/24
+  manufacturer: Hyglo AB
+  manufacturerUri: https://device-type.com
+  name: Hyglo
+type: d3-device-type-assertion

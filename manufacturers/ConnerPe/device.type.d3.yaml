@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e47bfc0d-0dd6-45c3-a6ab-a0cf6d2aba93
+  macAddresses:
+  - 00:A0:28:00:00:00/24
+  manufacturer: Conner Peripherals
+  manufacturerUri: https://device-type.com
+  name: ConnerPe
+type: d3-device-type-assertion

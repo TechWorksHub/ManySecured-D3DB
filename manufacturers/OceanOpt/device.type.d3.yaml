@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c5cd3721-aee4-45dd-acbf-00620c55f767
+  macAddresses:
+  - 00:19:8D:00:00:00/24
+  manufacturer: Ocean Optics, Inc.
+  manufacturerUri: https://device-type.com
+  name: OceanOpt
+type: d3-device-type-assertion

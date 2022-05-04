@@ -1,0 +1,8 @@
+credentialSubject:
+  id: acdc34c0-f626-44d7-ac0b-c2f5832259c8
+  macAddresses:
+  - 00:26:35:00:00:00/24
+  manufacturer: Bluetechnix GmbH
+  manufacturerUri: https://device-type.com
+  name: Bluetech
+type: d3-device-type-assertion

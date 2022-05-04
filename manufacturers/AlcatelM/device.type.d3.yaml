@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 60ac5bc3-d807-4549-9c15-e946435a3951
+  macAddresses:
+  - 00:08:9A:00:00:00/24
+  manufacturer: Alcatel Microelectronics
+  manufacturerUri: https://device-type.com
+  name: AlcatelM
+type: d3-device-type-assertion

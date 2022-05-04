@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 74a13182-d645-43d1-aef8-823ead3ef80d
+  macAddresses:
+  - 98:C8:45:00:00:00/24
+  manufacturer: PacketAccess
+  manufacturerUri: https://device-type.com
+  name: PacketAc
+type: d3-device-type-assertion

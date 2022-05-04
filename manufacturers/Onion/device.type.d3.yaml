@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 508b4d0d-05db-4857-8b55-21d6812b22ae
+  macAddresses:
+  - 40:A3:6B:C0:00:00/28
+  manufacturer: Onion Corporation
+  manufacturerUri: https://device-type.com
+  name: Onion
+type: d3-device-type-assertion

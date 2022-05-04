@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed7500da-566c-4c7a-8b33-fc2df88042ae
+  macAddresses:
+  - 00:23:79:00:00:00/24
+  manufacturer: Union Business Machines Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: UnionBus
+type: d3-device-type-assertion

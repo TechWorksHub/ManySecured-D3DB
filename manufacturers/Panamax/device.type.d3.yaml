@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1b3f60f-9160-4486-8d73-984f2b47c327
+  macAddresses:
+  - 10:65:A3:00:00:00/24
+  manufacturer: Panamax LLC
+  manufacturerUri: https://device-type.com
+  name: Panamax
+type: d3-device-type-assertion

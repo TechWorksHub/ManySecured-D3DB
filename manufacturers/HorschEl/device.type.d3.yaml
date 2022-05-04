@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a050dd07-b92d-4e65-91b4-438bf597f80d
+  macAddresses:
+  - 00:90:E7:00:00:00/24
+  manufacturer: Horsch Elektronik Ag
+  manufacturerUri: https://device-type.com
+  name: HorschEl
+type: d3-device-type-assertion

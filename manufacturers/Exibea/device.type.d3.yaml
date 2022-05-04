@@ -1,0 +1,10 @@
+credentialSubject:
+  id: aa57fb43-ada8-4cd3-b179-fcfd2666697f
+  macAddresses:
+  - 00:1B:C5:0B:50:00/36
+  - 00:50:C2:FE:60:00/36
+  - 40:D8:55:15:80:00/36
+  manufacturer: Exibea AB
+  manufacturerUri: https://device-type.com
+  name: Exibea
+type: d3-device-type-assertion

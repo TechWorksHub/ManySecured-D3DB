@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 721c28d7-b56f-4e1d-bfe0-20db6eba5893
+  macAddresses:
+  - 50:2C:C6:00:00:00/24
+  - 94:24:B8:00:00:00/24
+  - C0:39:37:00:00:00/24
+  manufacturer: Gree Electric Appliances, Inc. Of Zhuhai
+  manufacturerUri: https://device-type.com
+  name: GreeElec
+type: d3-device-type-assertion

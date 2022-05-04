@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6b365fed-1a19-4223-afed-d2286df5cfbc
+  macAddresses:
+  - 00:1B:07:00:00:00/24
+  manufacturer: Mendocino Software
+  manufacturerUri: https://device-type.com
+  name: Mendocin
+type: d3-device-type-assertion

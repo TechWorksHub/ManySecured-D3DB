@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 7066a45a-4afb-45cc-b38e-5fad1ef38b81
+  macAddresses:
+  - 00:12:42:00:00:00/24
+  - 00:1B:FF:00:00:00/24
+  - 00:50:C2:D2:A0:00/36
+  - 70:B3:D5:3B:00:00/36
+  - 78:32:4F:00:00:00/24
+  manufacturer: Millennial Net
+  manufacturerUri: https://device-type.com
+  name: Millenni
+type: d3-device-type-assertion

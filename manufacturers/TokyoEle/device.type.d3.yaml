@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 47a8a9fc-c977-4dd6-9f47-3aff728eadd6
+  macAddresses:
+  - 00:08:29:00:00:00/24
+  - 00:50:4D:00:00:00/24
+  - 00:80:91:00:00:00/24
+  manufacturer: Tokyo Electron Device Nagasaki Limited
+  manufacturerUri: https://device-type.com
+  name: TokyoEle
+type: d3-device-type-assertion

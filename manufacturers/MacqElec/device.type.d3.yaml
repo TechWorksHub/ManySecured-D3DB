@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bcea00cb-ac03-44f7-8120-3ebc0d0404dc
+  macAddresses:
+  - 00:40:B9:00:00:00/24
+  manufacturer: Macq Electronique Sa
+  manufacturerUri: https://device-type.com
+  name: MacqElec
+type: d3-device-type-assertion

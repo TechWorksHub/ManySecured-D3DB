@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3b9ba86d-8dda-4b49-aa48-5c9cbe619004
+  macAddresses:
+  - FC:E1:D9:00:00:00/24
+  manufacturer: Stable Imaging Solutions LLC
+  manufacturerUri: https://device-type.com
+  name: StableIm
+type: d3-device-type-assertion

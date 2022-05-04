@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c3a357d-ec51-4f62-b06e-c2ed42c71f16
+  macAddresses:
+  - 00:D0:EB:00:00:00/24
+  manufacturer: Lightera Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: Lightera
+type: d3-device-type-assertion

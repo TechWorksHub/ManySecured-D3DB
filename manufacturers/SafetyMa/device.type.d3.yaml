@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7c130c2-d637-4343-a180-04c3f468ba85
+  macAddresses:
+  - 00:50:89:00:00:00/24
+  manufacturer: Safety Management Systems
+  manufacturerUri: https://device-type.com
+  name: SafetyMa
+type: d3-device-type-assertion

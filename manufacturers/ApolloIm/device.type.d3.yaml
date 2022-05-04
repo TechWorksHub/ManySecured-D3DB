@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b673f65-7a58-4b5c-81e1-eab885e4a367
+  macAddresses:
+  - 00:1B:5A:00:00:00/24
+  manufacturer: Apollo Imaging Technologies, Inc.
+  manufacturerUri: https://device-type.com
+  name: ApolloIm
+type: d3-device-type-assertion

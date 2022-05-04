@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 91c05db2-b4ea-40f3-80eb-5901b43853c3
+  macAddresses:
+  - 00:24:88:00:00:00/24
+  - 00:A0:22:00:00:00/24
+  manufacturer: Centre For Development Of Telematics
+  manufacturerUri: https://device-type.com
+  name: CentreFo
+type: d3-device-type-assertion

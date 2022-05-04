@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a468935-b267-4cef-98dc-41fcb1fba21f
+  macAddresses:
+  - 00:90:14:00:00:00/24
+  manufacturer: Rotork Instruments, Ltd.
+  manufacturerUri: https://device-type.com
+  name: RotorkIn
+type: d3-device-type-assertion

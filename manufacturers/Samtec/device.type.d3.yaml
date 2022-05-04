@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51a0a2f1-3eca-4f35-8b22-d5921879f2b1
+  macAddresses:
+  - 04:C8:80:00:00:00/24
+  manufacturer: Samtec Inc
+  manufacturerUri: https://device-type.com
+  name: Samtec
+type: d3-device-type-assertion

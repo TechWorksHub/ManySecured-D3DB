@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 6279fe31-9e11-430e-864e-8b80996209c5
+  macAddresses:
+  - 00:50:C2:77:90:00/36
+  - 00:50:C2:FB:90:00/36
+  - 4C:DC:0D:00:00:00/24
+  - 70:B3:D5:C8:E0:00/36
+  manufacturer: Coral Telecom Ltd
+  manufacturerUri: https://device-type.com
+  name: CoralTel
+type: d3-device-type-assertion

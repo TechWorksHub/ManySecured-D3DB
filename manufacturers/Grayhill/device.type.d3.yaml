@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e8dd307-3dac-4879-9b73-1ead273adfde
+  macAddresses:
+  - 00:10:25:00:00:00/24
+  manufacturer: Grayhill, Inc
+  manufacturerUri: https://device-type.com
+  name: Grayhill
+type: d3-device-type-assertion

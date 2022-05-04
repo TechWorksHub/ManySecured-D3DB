@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4b54ea67-d498-4bd8-b978-96a82d9d2779
+  macAddresses:
+  - 00:90:E3:00:00:00/24
+  manufacturer: Avex Electronics Inc.
+  manufacturerUri: https://device-type.com
+  name: AvexElec
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6869f8be-107e-4fa0-b357-37d12c7c677e
+  macAddresses:
+  - 64:81:25:00:00:00/24
+  - 94:31:9B:00:00:00/24
+  manufacturer: Alphatron Marine BV
+  manufacturerUri: https://device-type.com
+  name: Alphatro
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0a84787c-c703-4ddd-bdc6-df8936b56ed3
+  macAddresses:
+  - E0:5A:9F:40:00:00/28
+  manufacturer: Hale Products
+  manufacturerUri: https://device-type.com
+  name: HaleProd
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a48024fd-02c2-4111-b625-de141c556f06
+  macAddresses:
+  - 00:D3:18:00:00:00/24
+  manufacturer: SPG Controls
+  manufacturerUri: https://device-type.com
+  name: SPGContr
+type: d3-device-type-assertion

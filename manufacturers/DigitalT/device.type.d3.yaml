@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a583d3d0-d118-4d48-abb8-6afdbdbc7889
+  macAddresses:
+  - 00:15:C0:00:00:00/24
+  - 00:C0:41:00:00:00/24
+  - 64:0B:4A:00:00:00/24
+  manufacturer: Digital Telemedia Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: DigitalT
+type: d3-device-type-assertion

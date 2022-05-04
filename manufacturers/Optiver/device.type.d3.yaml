@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01a30f47-8857-4293-b9c5-f273fa6b1942
+  macAddresses:
+  - 70:B3:D5:B7:10:00/36
+  manufacturer: Optiver Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Optiver
+type: d3-device-type-assertion

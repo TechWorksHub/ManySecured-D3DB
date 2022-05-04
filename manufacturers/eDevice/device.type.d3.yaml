@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22f95fd1-6834-43e9-b382-e11b395acd53
+  macAddresses:
+  - 00:02:F2:00:00:00/24
+  manufacturer: eDevice, Inc.
+  manufacturerUri: https://device-type.com
+  name: eDevice
+type: d3-device-type-assertion

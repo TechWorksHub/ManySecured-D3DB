@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a7fed37c-caa7-42f1-bdb1-5e46248ffe75
+  macAddresses:
+  - 5C:CA:32:00:00:00/24
+  manufacturer: Theben AG
+  manufacturerUri: https://device-type.com
+  name: Theben
+type: d3-device-type-assertion

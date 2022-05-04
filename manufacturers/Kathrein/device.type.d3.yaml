@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3a2baab1-26ad-46e9-bda1-1cc3d841ed37
+  macAddresses:
+  - 00:D0:55:00:00:00/24
+  manufacturer: Kathrein-Werke Kg
+  manufacturerUri: https://device-type.com
+  name: Kathrein
+type: d3-device-type-assertion

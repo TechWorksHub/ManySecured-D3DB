@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 41238cfb-d1c2-438a-bf08-f8badcadd15e
+  macAddresses:
+  - 00:00:7A:00:00:00/24
+  manufacturer: Dana Computer Inc.
+  manufacturerUri: https://device-type.com
+  name: DanaComp
+type: d3-device-type-assertion

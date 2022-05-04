@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 1480837d-ddd8-4e0a-b552-a5f3630a79d9
+  macAddresses:
+  - 00:50:C2:8F:C0:00/36
+  - 40:D8:55:02:60:00/36
+  - 70:B3:D5:0A:80:00/36
+  - 70:B3:D5:FF:C0:00/36
+  manufacturer: Symetrics Industries
+  manufacturerUri: https://device-type.com
+  name: Symetric
+type: d3-device-type-assertion

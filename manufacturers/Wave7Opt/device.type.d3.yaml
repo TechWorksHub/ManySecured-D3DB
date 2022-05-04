@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2222d112-4497-429f-9bb4-8e14d6aacdcf
+  macAddresses:
+  - 00:06:0D:00:00:00/24
+  manufacturer: Wave7 Optics
+  manufacturerUri: https://device-type.com
+  name: Wave7Opt
+type: d3-device-type-assertion

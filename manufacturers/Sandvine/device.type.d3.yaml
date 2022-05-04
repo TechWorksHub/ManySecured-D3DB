@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ed35c07a-da62-4499-8399-4129bec6174c
+  macAddresses:
+  - 00:09:35:00:00:00/24
+  manufacturer: Sandvine Incorporated
+  manufacturerUri: https://device-type.com
+  name: Sandvine
+type: d3-device-type-assertion

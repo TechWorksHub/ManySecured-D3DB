@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 165d1a6d-7504-42d2-8e62-ce379666188c
+  macAddresses:
+  - 00:05:FC:00:00:00/24
+  - 00:15:84:00:00:00/24
+  manufacturer: Schenck Pegasus Corp.
+  manufacturerUri: https://device-type.com
+  name: SchenckP
+type: d3-device-type-assertion

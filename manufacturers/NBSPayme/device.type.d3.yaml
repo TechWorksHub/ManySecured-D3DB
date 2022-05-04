@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2143d04b-45e6-4758-9b6c-1e829bbc82ef
+  macAddresses:
+  - 78:11:85:00:00:00/24
+  manufacturer: NBS Payment Solutions Inc.
+  manufacturerUri: https://device-type.com
+  name: NBSPayme
+type: d3-device-type-assertion

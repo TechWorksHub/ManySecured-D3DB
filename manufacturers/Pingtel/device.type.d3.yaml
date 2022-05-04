@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 03cabf2c-a5f5-4a04-909e-7f45e8ec52cd
+  macAddresses:
+  - 00:D0:1E:00:00:00/24
+  manufacturer: Pingtel Corp.
+  manufacturerUri: https://device-type.com
+  name: Pingtel
+type: d3-device-type-assertion

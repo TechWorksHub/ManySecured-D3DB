@@ -1,0 +1,17 @@
+credentialSubject:
+  id: afeee3c0-0e94-44a5-82ed-004a035e2fb8
+  macAddresses:
+  - 00:50:C2:64:B0:00/36
+  - 00:50:C2:6E:40:00/36
+  - 00:50:C2:7F:70:00/36
+  - 00:50:C2:91:C0:00/36
+  - 00:50:C2:BA:F0:00/36
+  - 00:50:C2:DA:10:00/36
+  - 00:50:C2:F0:10:00/36
+  - 00:50:C2:FE:80:00/36
+  - 40:D8:55:12:B0:00/36
+  - 70:B3:D5:6D:F0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: MangoDSP
+type: d3-device-type-assertion

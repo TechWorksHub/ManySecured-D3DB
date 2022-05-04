@@ -1,0 +1,22 @@
+credentialSubject:
+  id: 0d8f5326-25f9-49f2-885a-b0784123684a
+  macAddresses:
+  - 00:13:41:00:00:00/24
+  - 1C:82:59:00:00:00/28
+  - 24:15:10:60:00:00/28
+  - 28:36:13:00:00:00/28
+  - 4C:4B:F9:60:00:00/28
+  - 4C:93:A6:60:00:00/28
+  - 58:48:49:70:00:00/28
+  - 64:22:16:00:00:00/24
+  - 70:B3:D5:57:60:00/36
+  - 8C:96:5F:00:00:00/24
+  - 94:CC:04:B0:00:00/28
+  - 9C:A5:25:00:00:00/24
+  - A0:98:ED:00:00:00/24
+  - E8:11:CA:00:00:00/24
+  - F0:07:86:00:00:00/24
+  manufacturer: Shandong New Beiyang Information Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: Shandong
+type: d3-device-type-assertion

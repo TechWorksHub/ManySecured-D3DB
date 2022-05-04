@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 36e75736-4c84-42a6-bc6c-cde8ed72d32c
+  macAddresses:
+  - 00:50:C2:97:E0:00/36
+  - 70:B3:D5:F0:B0:00/36
+  - BC:22:FB:00:00:00/24
+  manufacturer: RF Industries
+  manufacturerUri: https://device-type.com
+  name: RFIndust
+type: d3-device-type-assertion

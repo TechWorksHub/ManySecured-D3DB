@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9df8a2b2-9c96-4f66-b04b-44cec3f67f1b
+  macAddresses:
+  - 00:0B:9F:00:00:00/24
+  manufacturer: Neue ELSA GmbH
+  manufacturerUri: https://device-type.com
+  name: NeueELSA
+type: d3-device-type-assertion

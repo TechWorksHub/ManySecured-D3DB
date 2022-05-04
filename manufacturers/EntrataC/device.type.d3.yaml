@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ba99e01-d902-4b46-876e-87b7ad5a24d1
+  macAddresses:
+  - 00:10:B6:00:00:00/24
+  manufacturer: Entrata Communications Corp.
+  manufacturerUri: https://device-type.com
+  name: EntrataC
+type: d3-device-type-assertion

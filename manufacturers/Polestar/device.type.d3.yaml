@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 54333f3a-0d16-40a9-a432-9f7aaec2536d
+  macAddresses:
+  - 00:04:EF:00:00:00/24
+  manufacturer: Polestar Corp.
+  manufacturerUri: https://device-type.com
+  name: Polestar
+type: d3-device-type-assertion

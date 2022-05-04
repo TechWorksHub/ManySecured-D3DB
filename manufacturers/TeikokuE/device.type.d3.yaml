@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 31f668fa-4ad1-43b7-81bb-fd11fb1b550f
+  macAddresses:
+  - 00:0C:7D:00:00:00/24
+  manufacturer: Teikoku Electric Mfg. Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: TeikokuE
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9ebe0b92-07af-4163-9fc3-ac2fe85817a9
+  macAddresses:
+  - FC:6D:C0:00:00:00/24
+  manufacturer: Bme Corporation
+  manufacturerUri: https://device-type.com
+  name: Bme
+type: d3-device-type-assertion

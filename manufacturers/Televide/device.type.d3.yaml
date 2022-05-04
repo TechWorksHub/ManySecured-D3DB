@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9c08a3e6-f25d-4478-9f7b-696508e4af5c
+  macAddresses:
+  - 00:00:B2:00:00:00/24
+  - 00:02:53:00:00:00/24
+  manufacturer: Televideo Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Televide
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 10326114-7939-406c-b93b-6a4378474b71
+  macAddresses:
+  - 70:B3:D5:48:A0:00/36
+  - BA:30:54:00:00:00/24
+  manufacturer: George Wilson Industries Ltd
+  manufacturerUri: https://device-type.com
+  name: GeorgeWi
+type: d3-device-type-assertion

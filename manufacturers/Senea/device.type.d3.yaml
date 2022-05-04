@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 76deb559-0fcf-469b-94e1-7952a54e10bb
+  macAddresses:
+  - 00:16:D8:00:00:00/24
+  manufacturer: Senea AB
+  manufacturerUri: https://device-type.com
+  name: Senea
+type: d3-device-type-assertion

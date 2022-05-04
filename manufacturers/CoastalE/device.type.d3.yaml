@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cd1e7832-1a1d-4189-a865-eba566955a43
+  macAddresses:
+  - 00:1A:1F:00:00:00/24
+  manufacturer: Coastal Environmental Systems
+  manufacturerUri: https://device-type.com
+  name: CoastalE
+type: d3-device-type-assertion

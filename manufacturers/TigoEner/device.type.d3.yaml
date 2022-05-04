@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 091dc13f-87ca-4ffc-90bc-e4b888e4adab
+  macAddresses:
+  - 04:C0:5B:00:00:00/24
+  manufacturer: Tigo Energy
+  manufacturerUri: https://device-type.com
+  name: TigoEner
+type: d3-device-type-assertion

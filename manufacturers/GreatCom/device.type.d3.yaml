@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1486712-b550-43a7-8908-e4d159066df7
+  macAddresses:
+  - 90:1E:DD:00:00:00/24
+  manufacturer: Great Computer Corporation
+  manufacturerUri: https://device-type.com
+  name: GreatCom
+type: d3-device-type-assertion

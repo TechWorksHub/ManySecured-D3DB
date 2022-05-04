@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 83cd425d-f227-4cc9-933a-87670ebba2f7
+  macAddresses:
+  - 00:09:15:00:00:00/24
+  manufacturer: CAS Corp.
+  manufacturerUri: https://device-type.com
+  name: CAS
+type: d3-device-type-assertion

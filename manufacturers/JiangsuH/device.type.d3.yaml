@@ -1,0 +1,18 @@
+credentialSubject:
+  id: 632b2e66-fe60-4fe4-852c-ffcbcef26e5c
+  macAddresses:
+  - 08:EB:29:00:00:00/24
+  - 18:BF:1C:00:00:00/24
+  - 40:E1:71:00:00:00/24
+  - 44:CE:3A:00:00:00/24
+  - 54:27:6C:00:00:00/24
+  - 70:B3:D5:D8:A0:00/36
+  - A8:42:A7:00:00:00/24
+  - AC:04:81:00:00:00/24
+  - AC:36:51:00:00:00/24
+  - B4:7C:59:00:00:00/24
+  - E8:0A:EC:00:00:00/24
+  manufacturer: Jiangsu Huitong Group Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: JiangsuH
+type: d3-device-type-assertion

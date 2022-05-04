@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8e3ce60c-2046-489f-8cff-f1cffafa3572
+  macAddresses:
+  - 00:10:A4:00:00:00/24
+  manufacturer: Xircom
+  manufacturerUri: https://device-type.com
+  name: XircomRe
+type: d3-device-type-assertion

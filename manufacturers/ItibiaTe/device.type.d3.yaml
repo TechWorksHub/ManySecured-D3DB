@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 159b175f-d7b5-430b-9ead-764831c0c849
+  macAddresses:
+  - 00:50:C2:77:B0:00/36
+  - D8:AE:90:00:00:00/24
+  manufacturer: Itibia Technologies
+  manufacturerUri: https://device-type.com
+  name: ItibiaTe
+type: d3-device-type-assertion

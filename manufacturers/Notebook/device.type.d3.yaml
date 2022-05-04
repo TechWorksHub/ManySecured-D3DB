@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d44b9646-db35-4d87-a010-c1aad8c12d46
+  macAddresses:
+  - 00:06:1B:00:00:00/24
+  manufacturer: Notebook Development Lab. Lenovo Japan Ltd.
+  manufacturerUri: https://device-type.com
+  name: Notebook
+type: d3-device-type-assertion

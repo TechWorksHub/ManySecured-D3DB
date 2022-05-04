@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ede728f-b5ce-499f-afdd-62901f499ccc
+  macAddresses:
+  - 00:90:23:00:00:00/24
+  manufacturer: Zilog Inc.
+  manufacturerUri: https://device-type.com
+  name: Zilog
+type: d3-device-type-assertion

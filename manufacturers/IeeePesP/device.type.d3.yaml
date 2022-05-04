@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e083c489-9c7b-4d1b-a666-c8d68535a3a0
+  macAddresses:
+  - 1C:12:9D:00:00:00/24
+  manufacturer: Ieee Pes Psrc/Sub
+  manufacturerUri: https://device-type.com
+  name: IeeePesP
+type: d3-device-type-assertion

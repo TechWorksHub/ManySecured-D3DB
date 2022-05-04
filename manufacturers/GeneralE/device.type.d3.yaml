@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 42efc4ae-90e6-48a7-9510-520110e010dc
+  macAddresses:
+  - 08:00:19:00:00:00/24
+  - 90:20:83:00:00:00/24
+  - 90:83:7A:00:00:00/24
+  - A4:DA:22:00:00:00/28
+  - C4:B5:12:00:00:00/24
+  - D8:28:C9:00:00:00/24
+  - D8:93:41:00:00:00/24
+  manufacturer: General Electric Corporation
+  manufacturerUri: https://device-type.com
+  name: GeneralE
+type: d3-device-type-assertion

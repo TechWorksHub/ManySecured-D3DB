@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f8038fb8-0513-4fba-9ebf-56d83ed4fc7c
+  macAddresses:
+  - 00:10:E8:00:00:00/24
+  manufacturer: Telocity, Incorporated
+  manufacturerUri: https://device-type.com
+  name: Telocity
+type: d3-device-type-assertion

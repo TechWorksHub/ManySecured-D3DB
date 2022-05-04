@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 583af38a-10f4-427b-b18a-27ecbc81c16b
+  macAddresses:
+  - 00:20:E4:00:00:00/24
+  - 00:30:21:00:00:00/24
+  - 00:D0:09:00:00:00/24
+  manufacturer: Hsing Tech Enterprise Co., Ltd
+  manufacturerUri: https://device-type.com
+  name: HsingTec
+type: d3-device-type-assertion

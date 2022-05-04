@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5ecd528c-d0f2-4971-9aa8-4efad4984944
+  macAddresses:
+  - 00:10:EB:00:00:00/24
+  manufacturer: Selsius Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Selsius
+type: d3-device-type-assertion

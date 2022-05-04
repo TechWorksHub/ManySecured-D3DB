@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f2bbe42-fbac-4bea-90d2-41cb507f37d9
+  macAddresses:
+  - 7C:D9:FE:00:00:00/24
+  manufacturer: New Cosmos Electric Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: NewCosmo
+type: d3-device-type-assertion

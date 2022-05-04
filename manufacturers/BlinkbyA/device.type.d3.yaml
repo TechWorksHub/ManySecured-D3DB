@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c67f1530-df3c-478f-8f25-10ce07644075
+  macAddresses:
+  - 74:AB:93:00:00:00/24
+  manufacturer: Blink by Amazon
+  manufacturerUri: https://device-type.com
+  name: BlinkbyA
+type: d3-device-type-assertion

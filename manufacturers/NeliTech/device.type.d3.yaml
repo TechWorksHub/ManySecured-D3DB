@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cb1e3d7-a758-4d58-b1fa-0fe7bc431203
+  macAddresses:
+  - 00:25:76:00:00:00/24
+  manufacturer: Neli Technologies
+  manufacturerUri: https://device-type.com
+  name: NeliTech
+type: d3-device-type-assertion

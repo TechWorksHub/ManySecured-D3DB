@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d3c4bff4-0ba7-4b24-ae5f-d6b3efc67941
+  macAddresses:
+  - 00:08:A7:00:00:00/24
+  manufacturer: iLogic Inc.
+  manufacturerUri: https://device-type.com
+  name: iLogic
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df9dc1ad-6fea-471f-9220-2ec1538132ee
+  macAddresses:
+  - 00:1E:95:00:00:00/24
+  manufacturer: Sigmalink
+  manufacturerUri: https://device-type.com
+  name: Sigmalin
+type: d3-device-type-assertion

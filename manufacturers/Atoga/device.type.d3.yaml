@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 8f5a978d-01bb-42a4-8f17-a478ea96209a
+  macAddresses:
+  - 00:03:8E:00:00:00/24
+  manufacturer: Atoga Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Atoga
+type: d3-device-type-assertion

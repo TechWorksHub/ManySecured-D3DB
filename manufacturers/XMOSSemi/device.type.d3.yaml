@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 43663641-2b2b-43c2-adf5-399467f8eea6
+  macAddresses:
+  - 00:22:97:00:00:00/24
+  manufacturer: XMOS Semiconductor
+  manufacturerUri: https://device-type.com
+  name: XMOSSemi
+type: d3-device-type-assertion

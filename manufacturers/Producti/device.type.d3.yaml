@@ -1,0 +1,9 @@
+credentialSubject:
+  id: eb1ae394-0d6d-407b-b2f4-77945ca97c55
+  macAddresses:
+  - 00:0B:36:00:00:00/24
+  - 00:1C:A0:00:00:00/24
+  manufacturer: Productivity Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Producti
+type: d3-device-type-assertion

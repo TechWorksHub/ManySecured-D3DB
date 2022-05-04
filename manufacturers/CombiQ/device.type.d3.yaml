@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 48f3e311-ca63-4e68-8fcd-df87d15ac365
+  macAddresses:
+  - 64:BC:11:00:00:00/24
+  manufacturer: CombiQ AB
+  manufacturerUri: https://device-type.com
+  name: CombiQ
+type: d3-device-type-assertion

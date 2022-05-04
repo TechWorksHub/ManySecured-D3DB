@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 114ef3f7-4105-4a6c-8230-c6b02f5213a9
+  macAddresses:
+  - 00:D0:53:00:00:00/24
+  - 1C:73:28:00:00:00/24
+  - 34:04:9E:10:00:00/28
+  - 44:7F:77:00:00:00/24
+  - 4C:4B:F9:C0:00:00/28
+  - 70:B3:D5:C9:C0:00/36
+  - C0:9B:F4:10:00:00/28
+  - E4:1E:0A:10:00:00/28
+  - FC:2A:54:00:00:00/24
+  manufacturer: Connected Systems
+  manufacturerUri: https://device-type.com
+  name: Connecte
+type: d3-device-type-assertion

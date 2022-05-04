@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ab2d4fc7-b939-48b5-9773-3dd681db9145
+  macAddresses:
+  - 00:26:EE:00:00:00/24
+  manufacturer: TKM GmbH
+  manufacturerUri: https://device-type.com
+  name: TKM
+type: d3-device-type-assertion

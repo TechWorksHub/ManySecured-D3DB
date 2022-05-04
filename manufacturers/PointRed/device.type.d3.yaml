@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0908053c-9557-4e35-a256-288f28c0756b
+  macAddresses:
+  - 00:25:7D:00:00:00/24
+  manufacturer: PointRed Telecom Private Ltd.
+  manufacturerUri: https://device-type.com
+  name: PointRed
+type: d3-device-type-assertion

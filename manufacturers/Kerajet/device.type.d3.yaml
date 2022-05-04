@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce9bb86a-fd14-4146-80e1-771fe9611ddd
+  macAddresses:
+  - 00:0B:8B:00:00:00/24
+  manufacturer: Kerajet, S.A.
+  manufacturerUri: https://device-type.com
+  name: Kerajet
+type: d3-device-type-assertion

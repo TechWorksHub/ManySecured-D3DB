@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6a6dc093-9506-4589-9bc7-820966c0c7d9
+  macAddresses:
+  - 00:12:8E:00:00:00/24
+  manufacturer: Q-Free ASA
+  manufacturerUri: https://device-type.com
+  name: Q-FreeAS
+type: d3-device-type-assertion

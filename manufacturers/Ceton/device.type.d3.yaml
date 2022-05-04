@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 583a907f-f703-4375-9b07-d5987989302e
+  macAddresses:
+  - 00:22:2C:00:00:00/24
+  manufacturer: Ceton Corp
+  manufacturerUri: https://device-type.com
+  name: Ceton
+type: d3-device-type-assertion

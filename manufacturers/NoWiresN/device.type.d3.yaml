@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06103dbd-6f43-4b0e-982c-cbfcac6cdcf8
+  macAddresses:
+  - 00:10:91:00:00:00/24
+  manufacturer: No Wires Needed Bv
+  manufacturerUri: https://device-type.com
+  name: NoWiresN
+type: d3-device-type-assertion

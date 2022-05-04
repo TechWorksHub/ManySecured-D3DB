@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4ebbbb81-7279-44c4-82a9-66d45045bc5d
+  macAddresses:
+  - DC:2B:66:00:00:00/24
+  manufacturer: InfoBLOCK S.A. de C.V.
+  manufacturerUri: https://device-type.com
+  name: InfoBLOC
+type: d3-device-type-assertion

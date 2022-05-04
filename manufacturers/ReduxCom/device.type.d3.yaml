@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2dea55ec-4512-4c12-a569-78024a5777e9
+  macAddresses:
+  - 00:12:72:00:00:00/24
+  - 00:50:C2:15:10:00/36
+  manufacturer: Redux Communications Ltd.
+  manufacturerUri: https://device-type.com
+  name: ReduxCom
+type: d3-device-type-assertion

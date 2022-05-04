@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0950e8ab-55da-47fa-8a20-0f9727239857
+  macAddresses:
+  - 00:15:13:00:00:00/24
+  manufacturer: EFS sas
+  manufacturerUri: https://device-type.com
+  name: EFSsas
+type: d3-device-type-assertion

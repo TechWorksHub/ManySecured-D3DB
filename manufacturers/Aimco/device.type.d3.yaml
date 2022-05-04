@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f701ae3c-a20f-49c4-93d2-466de5ec45d9
+  macAddresses:
+  - 2C:16:BD:20:00:00/28
+  - 70:B3:D5:3C:30:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Aimco
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af220be4-3f34-42bd-91b8-3bc2b86c2752
+  macAddresses:
+  - 00:14:99:00:00:00/24
+  manufacturer: Helicomm Inc
+  manufacturerUri: https://device-type.com
+  name: Helicomm
+type: d3-device-type-assertion

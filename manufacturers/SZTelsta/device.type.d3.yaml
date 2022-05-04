@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12b3b9e4-9a83-4c9a-a915-46a040f2afbf
+  macAddresses:
+  - E0:31:D0:00:00:00/24
+  manufacturer: SZ Telstar CO., LTD
+  manufacturerUri: https://device-type.com
+  name: SZTelsta
+type: d3-device-type-assertion

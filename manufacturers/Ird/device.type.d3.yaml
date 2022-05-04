@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e0acb64a-1436-4f48-bd00-3877eb9de809
+  macAddresses:
+  - 00:23:2B:00:00:00/24
+  manufacturer: Ird A/S
+  manufacturerUri: https://device-type.com
+  name: Ird
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7bad2dcf-9c62-4d0b-9d18-ab7e9755112a
+  macAddresses:
+  - 84:E6:29:00:00:00/24
+  manufacturer: Bluwan SA
+  manufacturerUri: https://device-type.com
+  name: Bluwan
+type: d3-device-type-assertion

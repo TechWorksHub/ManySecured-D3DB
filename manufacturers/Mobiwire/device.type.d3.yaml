@@ -1,0 +1,14 @@
+credentialSubject:
+  id: a9916b2d-18db-4359-afaa-05a773253c2a
+  macAddresses:
+  - 4C:11:54:00:00:00/24
+  - 74:04:F0:00:00:00/24
+  - B0:35:0B:00:00:00/24
+  - C0:CB:F1:00:00:00/24
+  - D0:4E:50:00:00:00/24
+  - E0:48:D3:00:00:00/24
+  - E4:FB:8F:00:00:00/24
+  manufacturer: Mobiwire Mobiles (NingBo) Co., LTD
+  manufacturerUri: https://device-type.com
+  name: Mobiwire
+type: d3-device-type-assertion

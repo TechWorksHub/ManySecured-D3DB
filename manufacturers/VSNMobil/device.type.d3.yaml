@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2e49dbc6-6991-4200-9412-83effa031df9
+  macAddresses:
+  - BC:66:41:70:00:00/28
+  manufacturer: VSN Mobil
+  manufacturerUri: https://device-type.com
+  name: VSNMobil
+type: d3-device-type-assertion

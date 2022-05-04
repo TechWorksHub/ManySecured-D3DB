@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eae744fb-845c-4cba-952d-959d272a5846
+  macAddresses:
+  - 00:20:44:00:00:00/24
+  manufacturer: Genitech Pty Ltd
+  manufacturerUri: https://device-type.com
+  name: Genitech
+type: d3-device-type-assertion

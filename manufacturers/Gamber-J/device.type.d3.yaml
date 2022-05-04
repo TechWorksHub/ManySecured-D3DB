@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3faacdd9-550d-4efc-9fe4-c3a86ea4cd22
+  macAddresses:
+  - 00:50:C2:84:F0:00/36
+  - 00:50:C2:A7:20:00/36
+  manufacturer: Gamber-Johnson LLC
+  manufacturerUri: https://device-type.com
+  name: Gamber-J
+type: d3-device-type-assertion

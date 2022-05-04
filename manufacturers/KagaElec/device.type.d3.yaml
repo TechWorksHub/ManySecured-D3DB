@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 169a0f94-d4fc-4d03-ba1e-3f34c91567d0
+  macAddresses:
+  - 00:24:8A:00:00:00/24
+  - C4:FF:BC:B0:00:00/28
+  manufacturer: Kaga Electronics Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: KagaElec
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f5616e92-18ec-4259-8437-ffc02a694b92
+  macAddresses:
+  - 00:80:31:00:00:00/24
+  manufacturer: Basys, Corp.
+  manufacturerUri: https://device-type.com
+  name: Basys
+type: d3-device-type-assertion

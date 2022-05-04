@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 6e44b700-5028-4c6b-9ba4-cac992a7a9d3
+  macAddresses:
+  - 00:50:C2:D8:E0:00/36
+  - 00:95:69:00:00:00/24
+  manufacturer: LSD Science&Technology Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: LSDScien
+type: d3-device-type-assertion

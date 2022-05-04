@@ -1,0 +1,12 @@
+credentialSubject:
+  id: fa00a6cc-990f-41ed-88ba-12f2c5fb93e1
+  macAddresses:
+  - 0C:C0:C0:00:00:00/24
+  - 4C:D9:C4:00:00:00/24
+  - 70:B3:D5:F4:40:00/36
+  - B8:24:10:00:00:00/24
+  - E4:2A:D3:00:00:00/24
+  manufacturer: Magneti Marelli Sistemas Electronicos Mexico
+  manufacturerUri: https://device-type.com
+  name: MagnetiM
+type: d3-device-type-assertion

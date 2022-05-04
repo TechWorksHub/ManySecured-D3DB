@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 86081c53-2aa2-4081-8d73-613ff4882e16
+  macAddresses:
+  - 00:22:D0:00:00:00/24
+  - A0:9E:1A:00:00:00/24
+  manufacturer: Polar Electro Oy
+  manufacturerUri: https://device-type.com
+  name: PolarEle
+type: d3-device-type-assertion

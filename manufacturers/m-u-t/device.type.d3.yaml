@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a6f9973e-eb8e-4bcf-8702-74d95e7a2f18
+  macAddresses:
+  - 00:07:51:00:00:00/24
+  manufacturer: m-u-t AG
+  manufacturerUri: https://device-type.com
+  name: m-u-t
+type: d3-device-type-assertion

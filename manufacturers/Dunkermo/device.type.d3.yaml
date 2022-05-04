@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5dc8b82c-e2bd-4e53-8567-30e6969ab87b
+  macAddresses:
+  - E4:1F:E9:00:00:00/24
+  manufacturer: Dunkermotoren GmbH
+  manufacturerUri: https://device-type.com
+  name: Dunkermo
+type: d3-device-type-assertion

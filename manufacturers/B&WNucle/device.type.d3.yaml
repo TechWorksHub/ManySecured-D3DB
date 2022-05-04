@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 316dd36a-a07c-4247-af4e-e9e42e90b810
+  macAddresses:
+  - 00:20:E7:00:00:00/24
+  manufacturer: B&W Nuclear Service Company
+  manufacturerUri: https://device-type.com
+  name: B&WNucle
+type: d3-device-type-assertion

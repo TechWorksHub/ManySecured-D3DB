@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02aac7d5-c158-4971-8cc3-fa6e0b0093fd
+  macAddresses:
+  - 60:DE:35:00:00:00/24
+  manufacturer: GITSN, Inc.
+  manufacturerUri: https://device-type.com
+  name: GITSN
+type: d3-device-type-assertion

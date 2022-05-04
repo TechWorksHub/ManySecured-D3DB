@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9bcaecc6-3c7b-4987-9f7d-2c61cf30622d
+  macAddresses:
+  - 40:48:FD:70:00:00/28
+  - 70:B3:D5:45:F0:00/36
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Cloud4Wi
+type: d3-device-type-assertion

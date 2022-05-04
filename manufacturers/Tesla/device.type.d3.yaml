@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 71a38220-811d-48d0-a2b5-57611c9e8937
+  macAddresses:
+  - 4C:FC:AA:00:00:00/24
+  - 98:ED:5C:00:00:00/24
+  - DC:44:27:10:00:00/28
+  manufacturer: Tesla,Inc.
+  manufacturerUri: https://device-type.com
+  name: Tesla
+type: d3-device-type-assertion

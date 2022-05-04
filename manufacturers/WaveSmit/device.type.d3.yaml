@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7cd57e08-c33c-46b4-a80a-80f9a701fdf1
+  macAddresses:
+  - 00:04:12:00:00:00/24
+  manufacturer: WaveSmith Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: WaveSmit
+type: d3-device-type-assertion

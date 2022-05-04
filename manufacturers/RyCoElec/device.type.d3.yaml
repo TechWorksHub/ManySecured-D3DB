@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 120b6dcc-380d-4c1d-a805-309504bbed3e
+  macAddresses:
+  - 00:13:B8:00:00:00/24
+  manufacturer: RyCo Electronic Systems Limited
+  manufacturerUri: https://device-type.com
+  name: RyCoElec
+type: d3-device-type-assertion

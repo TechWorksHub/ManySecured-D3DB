@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b27d3089-24e1-4852-83b1-1926aff810ac
+  macAddresses:
+  - 00:09:98:00:00:00/24
+  manufacturer: Capinfo Company Limited
+  manufacturerUri: https://device-type.com
+  name: Capinfo
+type: d3-device-type-assertion

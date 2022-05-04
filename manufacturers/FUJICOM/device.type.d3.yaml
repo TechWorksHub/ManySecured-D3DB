@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 302fa0ad-0768-4ae2-a80b-43bcae4ef4ad
+  macAddresses:
+  - 70:B3:D5:00:A0:00/36
+  - 70:B3:D5:9F:00:00/36
+  manufacturer: FUJICOM Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: FUJICOM
+type: d3-device-type-assertion

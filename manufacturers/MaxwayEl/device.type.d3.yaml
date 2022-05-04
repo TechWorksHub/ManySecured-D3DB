@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1dd604ef-283a-494e-99bc-b1c2a5eb3a41
+  macAddresses:
+  - 10:DD:F4:00:00:00/24
+  manufacturer: Maxway Electronics CO.,LTD
+  manufacturerUri: https://device-type.com
+  name: MaxwayEl
+type: d3-device-type-assertion

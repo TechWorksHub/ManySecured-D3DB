@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f398518b-afc3-44e5-97a1-46bb76ec668a
+  macAddresses:
+  - 08:B4:CF:00:00:00/24
+  manufacturer: Abicom International
+  manufacturerUri: https://device-type.com
+  name: AbicomIn
+type: d3-device-type-assertion

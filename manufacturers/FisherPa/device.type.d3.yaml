@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4dd69f0b-42fa-4685-8f8f-29113a46bb32
+  macAddresses:
+  - 00:A0:DB:00:00:00/24
+  manufacturer: Fisher & Paykel Production
+  manufacturerUri: https://device-type.com
+  name: FisherPa
+type: d3-device-type-assertion

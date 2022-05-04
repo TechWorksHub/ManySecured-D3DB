@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 04521ae1-a4c9-46c7-a3f3-fc66252281ec
+  macAddresses:
+  - 00:40:47:00:00:00/24
+  manufacturer: Wind River Systems
+  manufacturerUri: https://device-type.com
+  name: WindRive
+type: d3-device-type-assertion

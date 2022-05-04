@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a8dc44e-fe42-4afb-8df2-8f204513083d
+  macAddresses:
+  - 00:1C:90:00:00:00/24
+  manufacturer: Empacket Corporation
+  manufacturerUri: https://device-type.com
+  name: Empacket
+type: d3-device-type-assertion

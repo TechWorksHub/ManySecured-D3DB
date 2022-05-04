@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 396a843b-a360-4f20-80dc-18124edaf65c
+  macAddresses:
+  - 00:0F:E6:00:00:00/24
+  manufacturer: MBTech Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: MBTech
+type: d3-device-type-assertion

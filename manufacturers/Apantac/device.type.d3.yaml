@@ -1,0 +1,11 @@
+credentialSubject:
+  id: ccbb9670-2982-42bd-8e3e-6940cddda50a
+  macAddresses:
+  - 00:50:C2:A7:80:00/36
+  - 40:D8:55:0A:90:00/36
+  - 70:B3:D5:45:00:00/36
+  - 70:B3:D5:CD:50:00/36
+  manufacturer: Apantac LLC
+  manufacturerUri: https://device-type.com
+  name: Apantac
+type: d3-device-type-assertion

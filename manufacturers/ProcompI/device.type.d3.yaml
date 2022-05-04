@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c0c31465-1093-457d-9e3b-c67ad02237d8
+  macAddresses:
+  - 00:30:95:00:00:00/24
+  - 00:40:91:00:00:00/24
+  manufacturer: Procomp Informatics, Ltd.
+  manufacturerUri: https://device-type.com
+  name: ProcompI
+type: d3-device-type-assertion

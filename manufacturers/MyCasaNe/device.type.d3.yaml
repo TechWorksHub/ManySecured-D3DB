@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98a8042e-0aed-42c5-a99f-707b313d46c4
+  macAddresses:
+  - 00:09:84:00:00:00/24
+  manufacturer: MyCasa Network Inc.
+  manufacturerUri: https://device-type.com
+  name: MyCasaNe
+type: d3-device-type-assertion

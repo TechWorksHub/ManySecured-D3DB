@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f049817f-74eb-40bb-9a88-3bceeef47ef1
+  macAddresses:
+  - 44:37:08:00:00:00/24
+  - DC:4D:23:00:00:00/24
+  manufacturer: MRV Comunications
+  manufacturerUri: https://device-type.com
+  name: MRVComun
+type: d3-device-type-assertion

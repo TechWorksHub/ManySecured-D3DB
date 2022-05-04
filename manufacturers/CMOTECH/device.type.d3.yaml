@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cee50602-86a9-449f-8980-c9e52aeb520a
+  macAddresses:
+  - 00:1A:20:00:00:00/24
+  manufacturer: CMOTECH Co. Ltd.
+  manufacturerUri: https://device-type.com
+  name: CMOTECH
+type: d3-device-type-assertion

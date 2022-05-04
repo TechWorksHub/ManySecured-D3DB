@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3d0c857b-6e5e-4bc0-bddd-4371d95d8bbe
+  macAddresses:
+  - 98:6D:35:30:00:00/28
+  manufacturer: DH Mechatronic AG
+  manufacturerUri: https://device-type.com
+  name: DHMechat
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b84d8c3f-7501-4a48-b999-a92612ad5f29
+  macAddresses:
+  - 58:B0:D4:00:00:00/24
+  manufacturer: ZuniData Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: ZuniData
+type: d3-device-type-assertion

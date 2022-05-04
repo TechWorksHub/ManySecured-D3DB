@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1f3c5917-33e6-4ef7-bc94-4b906d9c2146
+  macAddresses:
+  - 00:0E:6C:00:00:00/24
+  manufacturer: Device Drivers Limited
+  manufacturerUri: https://device-type.com
+  name: DeviceDr
+type: d3-device-type-assertion

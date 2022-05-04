@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b400b1e7-4bf1-4018-8167-86f64056d952
+  macAddresses:
+  - 00:80:15:00:00:00/24
+  manufacturer: Seiko Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Seiko
+type: d3-device-type-assertion

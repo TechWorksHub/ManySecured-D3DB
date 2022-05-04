@@ -1,0 +1,8 @@
+credentialSubject:
+  id: bd29aca1-9808-4e37-8f12-1e9041eadb4f
+  macAddresses:
+  - 00:08:E5:00:00:00/24
+  manufacturer: IDK Corporation
+  manufacturerUri: https://device-type.com
+  name: IDK
+type: d3-device-type-assertion

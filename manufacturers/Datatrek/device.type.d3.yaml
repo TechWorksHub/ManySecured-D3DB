@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 12bdd910-59a0-4f5c-8bba-ef851e87202f
+  macAddresses:
+  - 00:20:E8:00:00:00/24
+  manufacturer: Datatrek Corporation
+  manufacturerUri: https://device-type.com
+  name: Datatrek
+type: d3-device-type-assertion

@@ -1,0 +1,24 @@
+credentialSubject:
+  id: 96d0e4d3-380e-4c31-9763-e34f9e1e1af5
+  macAddresses:
+  - 00:50:C2:C6:30:00/36
+  - 00:50:C2:DF:40:00/36
+  - 70:B3:D5:1B:E0:00/36
+  - 70:B3:D5:26:10:00/36
+  - 70:B3:D5:6D:50:00/36
+  - 70:B3:D5:70:C0:00/36
+  - 70:B3:D5:7A:40:00/36
+  - 70:B3:D5:83:20:00/36
+  - 70:B3:D5:A1:B0:00/36
+  - 70:B3:D5:B9:A0:00/36
+  - 70:B3:D5:BE:B0:00/36
+  - 70:B3:D5:C1:70:00/36
+  - 70:B3:D5:F5:D0:00/36
+  - 8C:1F:64:31:60:00/36
+  - 8C:1F:64:57:B0:00/36
+  - 8C:1F:64:6A:D0:00/36
+  - 8C:1F:64:FE:00:00/36
+  manufacturer: Potter Electric Signal Co. LLC
+  manufacturerUri: https://device-type.com
+  name: PotterEl
+type: d3-device-type-assertion

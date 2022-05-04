@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a4aca65-246d-4416-ad1f-d736d53c6443
+  macAddresses:
+  - 00:07:4C:00:00:00/24
+  manufacturer: Beicom Inc.
+  manufacturerUri: https://device-type.com
+  name: Beicom
+type: d3-device-type-assertion

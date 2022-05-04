@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b63aa75f-291d-4aba-af67-d8afe70ccbd0
+  macAddresses:
+  - 00:0D:2A:00:00:00/24
+  - D8:86:0B:60:00:00/28
+  manufacturer: Scanmatic AS
+  manufacturerUri: https://device-type.com
+  name: Scanmati
+type: d3-device-type-assertion

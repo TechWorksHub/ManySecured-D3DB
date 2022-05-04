@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a379ce1-66ca-43c9-9527-278ee217a95d
+  macAddresses:
+  - 74:34:AE:00:00:00/24
+  manufacturer: this is engineering Inc.
+  manufacturerUri: https://device-type.com
+  name: thisisen
+type: d3-device-type-assertion

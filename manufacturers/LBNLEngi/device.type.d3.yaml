@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 63a5c357-2ebc-48c6-881c-eb2aff2405dc
+  macAddresses:
+  - 00:19:24:00:00:00/24
+  manufacturer: LBNL Engineering
+  manufacturerUri: https://device-type.com
+  name: LBNLEngi
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1efcb296-8d4b-4b76-bf2a-13fc86606cb7
+  macAddresses:
+  - 00:11:DE:00:00:00/24
+  manufacturer: Eurilogic
+  manufacturerUri: https://device-type.com
+  name: Eurilogi
+type: d3-device-type-assertion

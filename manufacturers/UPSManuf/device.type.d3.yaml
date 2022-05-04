@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 293ff4c1-5d9c-43b0-b80a-442d336e518f
+  macAddresses:
+  - 00:02:63:00:00:00/24
+  manufacturer: UPS Manufacturing SRL
+  manufacturerUri: https://device-type.com
+  name: UPSManuf
+type: d3-device-type-assertion

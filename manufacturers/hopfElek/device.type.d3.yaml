@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d7e6ade-ff27-4446-b056-dcfd0fa476bf
+  macAddresses:
+  - 00:03:C7:00:00:00/24
+  manufacturer: hopf Elektronik GmbH
+  manufacturerUri: https://device-type.com
+  name: hopfElek
+type: d3-device-type-assertion

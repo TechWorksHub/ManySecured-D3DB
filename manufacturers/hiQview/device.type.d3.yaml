@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 841aac66-e0cb-43b2-8c9a-aedc1b7db1e9
+  macAddresses:
+  - 64:FB:81:90:00:00/28
+  manufacturer: hiQview Corporation
+  manufacturerUri: https://device-type.com
+  name: hiQview
+type: d3-device-type-assertion

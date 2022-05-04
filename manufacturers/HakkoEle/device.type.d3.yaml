@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 4d080188-85ef-4cb4-92e8-27a6ae6b08bd
+  macAddresses:
+  - 00:50:FF:00:00:00/24
+  manufacturer: Hakko Electronics Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: HakkoEle
+type: d3-device-type-assertion

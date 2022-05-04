@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2d6c98fb-f439-4aa9-ac81-9fcd87625c02
+  macAddresses:
+  - 00:02:CD:00:00:00/24
+  manufacturer: TeleDream, Inc.
+  manufacturerUri: https://device-type.com
+  name: TeleDrea
+type: d3-device-type-assertion

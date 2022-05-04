@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9592809-4c7d-4e35-a6c5-19899f4d5854
+  macAddresses:
+  - 00:50:10:00:00:00/24
+  manufacturer: NovaNET Learning, Inc.
+  manufacturerUri: https://device-type.com
+  name: NovaNETL
+type: d3-device-type-assertion

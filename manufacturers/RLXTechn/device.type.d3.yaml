@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5dac2885-f568-4d92-8b51-19c567c58f10
+  macAddresses:
+  - 00:42:52:00:00:00/24
+  manufacturer: RLX Technologies
+  manufacturerUri: https://device-type.com
+  name: RLXTechn
+type: d3-device-type-assertion

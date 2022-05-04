@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d25ca314-2352-4057-b615-a02888e18635
+  macAddresses:
+  - 00:06:88:00:00:00/24
+  manufacturer: Telways Communication Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: TelwaysC
+type: d3-device-type-assertion

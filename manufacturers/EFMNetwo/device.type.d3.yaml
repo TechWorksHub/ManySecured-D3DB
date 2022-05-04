@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 18005736-6731-4755-a33f-8c41f3079bae
+  macAddresses:
+  - 00:08:9F:00:00:00/24
+  - 00:26:66:00:00:00/24
+  - 58:86:94:00:00:00/24
+  - 64:E5:99:00:00:00/24
+  - 70:5D:CC:00:00:00/24
+  - 88:36:6C:00:00:00/24
+  - 90:9F:33:00:00:00/24
+  manufacturer: EFM Networks
+  manufacturerUri: https://device-type.com
+  name: EFMNetwo
+type: d3-device-type-assertion

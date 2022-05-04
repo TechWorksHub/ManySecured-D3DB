@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7b611bdf-14de-4878-93f5-a04b05126b72
+  macAddresses:
+  - 9C:22:0E:00:00:00/24
+  manufacturer: TASCAN Systems GmbH
+  manufacturerUri: https://device-type.com
+  name: TASCAN
+type: d3-device-type-assertion

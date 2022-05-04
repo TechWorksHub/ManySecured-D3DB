@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a12d3cef-fca4-4136-9c04-d65262171d3b
+  macAddresses:
+  - 04:71:4B:00:00:00/28
+  - 70:B3:D5:75:00:00/36
+  manufacturer: Neurio Technology Inc.
+  manufacturerUri: https://device-type.com
+  name: NeurioTe
+type: d3-device-type-assertion

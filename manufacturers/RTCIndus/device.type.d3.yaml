@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0c46dbca-84f0-4c8a-855b-2a2945f21ef0
+  macAddresses:
+  - 84:FE:9E:00:00:00/24
+  manufacturer: RTC Industries, Inc.
+  manufacturerUri: https://device-type.com
+  name: RTCIndus
+type: d3-device-type-assertion

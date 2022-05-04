@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9a918f0e-c691-44c8-9fa4-5130f2bbf80e
+  macAddresses:
+  - 7C:2C:F3:00:00:00/24
+  manufacturer: Secure Electrans Ltd
+  manufacturerUri: https://device-type.com
+  name: SecureEl
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7a0a0078-bd9b-4b76-b71d-0261c16ccbb0
+  macAddresses:
+  - 48:12:49:00:00:00/24
+  manufacturer: Luxcom Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: LuxcomTe
+type: d3-device-type-assertion

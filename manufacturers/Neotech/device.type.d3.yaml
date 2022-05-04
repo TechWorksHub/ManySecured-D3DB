@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 94e3d76a-589b-4daf-8a3a-b96765d5d99f
+  macAddresses:
+  - 1C:73:70:00:00:00/24
+  - A4:4F:29:E0:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Neotech
+type: d3-device-type-assertion

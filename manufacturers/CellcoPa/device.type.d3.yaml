@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f276f52a-dbee-4357-92e6-7724c984c8f6
+  macAddresses:
+  - E4:A7:FD:00:00:00/24
+  manufacturer: Cellco Partnership
+  manufacturerUri: https://device-type.com
+  name: CellcoPa
+type: d3-device-type-assertion

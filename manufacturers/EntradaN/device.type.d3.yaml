@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33a260c1-97ed-4a8e-98e6-c1cdfcf24512
+  macAddresses:
+  - 00:E0:B6:00:00:00/24
+  manufacturer: Entrada Networks
+  manufacturerUri: https://device-type.com
+  name: EntradaN
+type: d3-device-type-assertion

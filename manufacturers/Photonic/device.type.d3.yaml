@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 8c2d1c92-992e-4f2b-ab4e-a2462f1bc07d
+  macAddresses:
+  - 00:16:B3:00:00:00/24
+  - 00:50:C2:10:C0:00/36
+  - 00:50:C2:4E:60:00/36
+  - 00:C0:9A:00:00:00/24
+  - 70:B3:D5:E1:70:00/36
+  manufacturer: Photonicbridges (China) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Photonic
+type: d3-device-type-assertion

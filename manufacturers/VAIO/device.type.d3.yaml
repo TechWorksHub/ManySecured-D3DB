@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06bc532c-3af0-4591-9459-004eecc3e812
+  macAddresses:
+  - CC:30:80:00:00:00/24
+  manufacturer: VAIO Corporation
+  manufacturerUri: https://device-type.com
+  name: VAIO
+type: d3-device-type-assertion

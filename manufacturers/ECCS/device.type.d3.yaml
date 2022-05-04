@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 33d92eac-22c2-4f0a-9f21-dadab21073fd
+  macAddresses:
+  - 00:90:42:00:00:00/24
+  manufacturer: ECCS, Inc.
+  manufacturerUri: https://device-type.com
+  name: ECCS
+type: d3-device-type-assertion

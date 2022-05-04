@@ -1,0 +1,8 @@
+credentialSubject:
+  id: afc4f0d0-d1e6-47f0-bc2c-27beb5323b54
+  macAddresses:
+  - 00:50:C2:DC:30:00/36
+  manufacturer: ZED Ziegler Electronic Devices GmbH
+  manufacturerUri: https://device-type.com
+  name: ZEDZiegl
+type: d3-device-type-assertion

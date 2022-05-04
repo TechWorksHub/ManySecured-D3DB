@@ -1,0 +1,9 @@
+credentialSubject:
+  id: ad7ea4de-4442-408c-a217-fdd718dba370
+  macAddresses:
+  - 18:FD:CB:80:00:00/28
+  - 70:B3:D5:C3:D0:00/36
+  manufacturer: CISTECH Solutions
+  manufacturerUri: https://device-type.com
+  name: CISTECHS
+type: d3-device-type-assertion

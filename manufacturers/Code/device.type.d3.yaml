@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 652fa639-f978-4bcb-9fd6-f2255a60ebae
+  macAddresses:
+  - 00:0B:EF:00:00:00/24
+  manufacturer: Code Corporation
+  manufacturerUri: https://device-type.com
+  name: Code
+type: d3-device-type-assertion

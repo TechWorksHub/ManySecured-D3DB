@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 3e165a70-2d54-4383-9d32-4b42a8388c1a
+  macAddresses:
+  - 00:60:86:00:00:00/24
+  - 02:60:86:00:00:00/24
+  manufacturer: Logic Replacement Tech. Ltd.
+  manufacturerUri: https://device-type.com
+  name: LogicRep
+type: d3-device-type-assertion

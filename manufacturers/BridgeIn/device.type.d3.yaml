@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a72fb7f7-7ba9-4a42-8b5e-53ac05881361
+  macAddresses:
+  - 00:03:AB:00:00:00/24
+  - 00:0A:1C:00:00:00/24
+  manufacturer: Bridge Information Systems
+  manufacturerUri: https://device-type.com
+  name: BridgeIn
+type: d3-device-type-assertion

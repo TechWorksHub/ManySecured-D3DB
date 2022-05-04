@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1db92ea7-5d52-480f-aabf-810223f1a2a0
+  macAddresses:
+  - 00:1C:DC:00:00:00/24
+  manufacturer: Custom Computer Services, Inc.
+  manufacturerUri: https://device-type.com
+  name: CustomCo
+type: d3-device-type-assertion

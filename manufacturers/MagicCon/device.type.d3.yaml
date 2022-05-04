@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6d1cebf-c2c0-4019-8849-c06c39ce2638
+  macAddresses:
+  - 00:05:1B:00:00:00/24
+  manufacturer: Magic Control Technology Corporation
+  manufacturerUri: https://device-type.com
+  name: MagicCon
+type: d3-device-type-assertion

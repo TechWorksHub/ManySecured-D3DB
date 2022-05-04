@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 118217fa-c16e-4738-8c53-653f11708e51
+  macAddresses:
+  - 00:1B:DC:00:00:00/24
+  - 88:D1:99:00:00:00/24
+  manufacturer: Vencer Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Vencer
+type: d3-device-type-assertion

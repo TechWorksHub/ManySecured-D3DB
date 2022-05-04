@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a2bb9abd-b78b-487f-9036-76691ed01006
+  macAddresses:
+  - 30:89:76:00:00:00/24
+  - 70:B3:D5:DA:C0:00/36
+  manufacturer: Dalian Lamba Technology Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: DalianLa
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c7389de3-771a-4b2e-a5f0-56d9efed2959
+  macAddresses:
+  - 00:26:02:00:00:00/24
+  manufacturer: SMART Temps LLC
+  manufacturerUri: https://device-type.com
+  name: SMARTTem
+type: d3-device-type-assertion

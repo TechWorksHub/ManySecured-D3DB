@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 611d8a2c-d23d-480f-9aa8-5a352ee2215f
+  macAddresses:
+  - 00:03:0E:00:00:00/24
+  manufacturer: Core Communications Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: CoreComm
+type: d3-device-type-assertion

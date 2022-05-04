@@ -1,0 +1,9 @@
+credentialSubject:
+  id: a0c8f0b0-aebb-47a2-b562-164da1c23681
+  macAddresses:
+  - 00:50:C2:DF:90:00/36
+  - AC:6B:AC:00:00:00/24
+  manufacturer: Jenny Science AG
+  manufacturerUri: https://device-type.com
+  name: JennySci
+type: d3-device-type-assertion

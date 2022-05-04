@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 014cd8fb-9759-487f-9ee1-2fc2f863eecc
+  macAddresses:
+  - 50:E9:71:00:00:00/24
+  manufacturer: Jibo, Inc.
+  manufacturerUri: https://device-type.com
+  name: Jibo
+type: d3-device-type-assertion

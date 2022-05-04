@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ac2128d-fd29-4858-96ef-8cba5111afc4
+  macAddresses:
+  - 00:50:CA:00:00:00/24
+  manufacturer: Net To Net Technologies
+  manufacturerUri: https://device-type.com
+  name: NetToNet
+type: d3-device-type-assertion

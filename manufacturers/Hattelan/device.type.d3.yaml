@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 03373b30-67f1-4d7d-af17-fd446843e612
+  macAddresses:
+  - 00:3D:41:00:00:00/24
+  - 70:B3:D5:BC:60:00/36
+  manufacturer: Hatteland Computer AS
+  manufacturerUri: https://device-type.com
+  name: Hattelan
+type: d3-device-type-assertion

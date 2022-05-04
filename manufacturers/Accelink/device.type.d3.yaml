@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c8de993-36b1-40a3-a600-3890b0982ea4
+  macAddresses:
+  - 6C:2E:33:00:00:00/24
+  manufacturer: Accelink Technologies Co.,Ltd.
+  manufacturerUri: https://device-type.com
+  name: Accelink
+type: d3-device-type-assertion

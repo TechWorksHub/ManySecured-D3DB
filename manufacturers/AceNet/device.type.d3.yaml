@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 65ac978c-ae26-4a3c-8e80-4c1b9ccd26c0
+  macAddresses:
+  - 00:17:AD:00:00:00/24
+  manufacturer: AceNet Corporation
+  manufacturerUri: https://device-type.com
+  name: AceNet
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 17ee18ab-dbf3-4918-ab1e-077b0e2335cf
+  macAddresses:
+  - 0A:87:36:00:00:00/24
+  manufacturer: IEEE 1901 Working Group
+  manufacturerUri: https://device-type.com
+  name: IEEE1901
+type: d3-device-type-assertion

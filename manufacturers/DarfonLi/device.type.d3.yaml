@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5fa2abc5-e039-40d5-bfa6-a2c57cbeb305
+  macAddresses:
+  - 00:0F:F6:00:00:00/24
+  - EC:EA:03:00:00:00/24
+  manufacturer: Darfon Lighting Corp
+  manufacturerUri: https://device-type.com
+  name: DarfonLi
+type: d3-device-type-assertion

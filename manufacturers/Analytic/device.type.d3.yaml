@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 5522d7f5-fca1-4c22-865e-39c0244f7b4b
+  macAddresses:
+  - 00:1B:C5:02:A0:00/36
+  - 00:50:C2:09:40:00/36
+  - 00:50:C2:3C:B0:00/36
+  - B8:8F:14:00:00:00/24
+  manufacturer: Analytical Instrument Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: Analytic
+type: d3-device-type-assertion

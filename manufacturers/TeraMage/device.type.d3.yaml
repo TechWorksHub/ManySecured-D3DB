@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 10aae7cc-bcc3-4e2d-868d-e3f580df2add
+  macAddresses:
+  - 00:19:EA:00:00:00/24
+  manufacturer: TeraMage Technologies Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: TeraMage
+type: d3-device-type-assertion

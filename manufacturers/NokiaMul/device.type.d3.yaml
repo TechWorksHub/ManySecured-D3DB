@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c32903e7-e8bd-48f6-8a4c-3b8a4de1f63a
+  macAddresses:
+  - 00:10:B3:00:00:00/24
+  manufacturer: Nokia Multimedia Terminals
+  manufacturerUri: https://device-type.com
+  name: NokiaMul
+type: d3-device-type-assertion

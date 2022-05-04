@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 49088e00-1da4-4be7-9220-f60979f8e94d
+  macAddresses:
+  - 00:50:C2:0C:E0:00/36
+  - 00:50:C2:DA:C0:00/36
+  - 00:50:C2:ED:50:00/36
+  - 70:B3:D5:54:E0:00/36
+  - 70:B3:D5:FA:60:00/36
+  manufacturer: RFL Electronics, Inc.
+  manufacturerUri: https://device-type.com
+  name: RFLElect
+type: d3-device-type-assertion

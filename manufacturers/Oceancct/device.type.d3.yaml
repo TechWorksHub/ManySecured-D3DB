@@ -1,0 +1,9 @@
+credentialSubject:
+  id: c1430791-c62c-4774-927d-fced96f9875d
+  macAddresses:
+  - 50:DE:19:60:00:00/28
+  - 70:B3:D5:FD:50:00/36
+  manufacturer: Oceancctv Ltd
+  manufacturerUri: https://device-type.com
+  name: Oceancct
+type: d3-device-type-assertion

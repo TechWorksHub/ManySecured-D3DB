@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 840a03cc-4642-4f7c-b5d2-a34543707e90
+  macAddresses:
+  - 00:50:C2:A3:30:00/36
+  manufacturer: Fuji Firmware
+  manufacturerUri: https://device-type.com
+  name: FujiFirm
+type: d3-device-type-assertion

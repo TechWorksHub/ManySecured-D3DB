@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 912a1b7f-6fb7-42d4-8989-72bf1923195c
+  macAddresses:
+  - 00:1F:08:00:00:00/24
+  manufacturer: Risco Ltd
+  manufacturerUri: https://device-type.com
+  name: Risco
+type: d3-device-type-assertion

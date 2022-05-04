@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 24b5578a-53f4-4a0a-bd20-b8d0a5e1714d
+  macAddresses:
+  - 4C:91:7A:80:00:00/28
+  - 70:B3:D5:80:70:00/36
+  - 70:B3:D5:FE:90:00/36
+  manufacturer: "Camsat Przemys\u0142aw Gralak"
+  manufacturerUri: https://device-type.com
+  name: CamsatPr
+type: d3-device-type-assertion

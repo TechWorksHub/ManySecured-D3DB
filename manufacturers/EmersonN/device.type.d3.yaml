@@ -1,0 +1,10 @@
+credentialSubject:
+  id: db32aeef-8824-4528-895e-ea7551c8d1aa
+  macAddresses:
+  - 00:09:F5:00:00:00/24
+  - 00:E0:86:00:00:00/24
+  - 14:4F:D7:90:00:00/28
+  manufacturer: Emerson Network Power Co.,Ltd
+  manufacturerUri: https://device-type.com
+  name: EmersonN
+type: d3-device-type-assertion

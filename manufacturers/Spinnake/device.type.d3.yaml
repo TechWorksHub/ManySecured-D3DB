@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56728b81-ead2-4281-9799-3787c5c701bc
+  macAddresses:
+  - 00:04:10:00:00:00/24
+  manufacturer: Spinnaker Networks, Inc.
+  manufacturerUri: https://device-type.com
+  name: Spinnake
+type: d3-device-type-assertion

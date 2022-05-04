@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 98ddc19f-6218-4234-9eee-90559d091c05
+  macAddresses:
+  - 00:50:C2:58:40:00/36
+  manufacturer: Toyota Motorsport GmbH
+  manufacturerUri: https://device-type.com
+  name: ToyotaMo
+type: d3-device-type-assertion

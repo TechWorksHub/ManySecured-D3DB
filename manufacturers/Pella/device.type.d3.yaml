@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9dbf426a-5ecd-4c0c-9c7e-3199866255bc
+  macAddresses:
+  - 40:A3:6B:70:00:00/28
+  manufacturer: Pella Corporation
+  manufacturerUri: https://device-type.com
+  name: Pella
+type: d3-device-type-assertion

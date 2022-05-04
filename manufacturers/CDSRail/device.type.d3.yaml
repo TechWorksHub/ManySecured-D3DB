@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7d055cbd-79b1-4327-aa38-a2970db461e8
+  macAddresses:
+  - 00:50:C2:24:A0:00/36
+  manufacturer: CDS Rail
+  manufacturerUri: https://device-type.com
+  name: CDSRail
+type: d3-device-type-assertion

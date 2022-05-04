@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d48d78f8-4657-4b5a-a484-345838f28566
+  macAddresses:
+  - 00:19:AE:00:00:00/24
+  manufacturer: Hopling Technologies b.v.
+  manufacturerUri: https://device-type.com
+  name: HoplingT
+type: d3-device-type-assertion

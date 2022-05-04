@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 0e65d6cc-02ff-4ae8-9f0d-a90546db7cbc
+  macAddresses:
+  - EC:92:33:00:00:00/24
+  manufacturer: Eddyfi NDT Inc
+  manufacturerUri: https://device-type.com
+  name: EddyfiND
+type: d3-device-type-assertion

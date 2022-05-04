@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1e0f807-825b-417f-b88b-08d0ade2c0c3
+  macAddresses:
+  - 00:11:E1:00:00:00/24
+  manufacturer: Arcelik A.S
+  manufacturerUri: https://device-type.com
+  name: Arcelik
+type: d3-device-type-assertion

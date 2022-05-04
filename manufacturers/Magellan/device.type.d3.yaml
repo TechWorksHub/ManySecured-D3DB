@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0e985948-1980-4f27-9b79-4dee1dc2f498
+  macAddresses:
+  - 00:1D:F4:00:00:00/24
+  - 00:50:C2:2C:00:00/36
+  manufacturer: Magellan Technology Pty Limited
+  manufacturerUri: https://device-type.com
+  name: Magellan
+type: d3-device-type-assertion

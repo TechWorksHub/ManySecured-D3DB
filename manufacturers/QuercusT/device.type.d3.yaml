@@ -1,0 +1,16 @@
+credentialSubject:
+  id: 36a17a54-5766-47ad-ae31-2ade8954303c
+  macAddresses:
+  - 00:50:C2:C0:10:00/36
+  - 00:50:C2:FD:C0:00/36
+  - 70:B3:D5:03:D0:00/36
+  - 70:B3:D5:40:B0:00/36
+  - 70:B3:D5:4C:10:00/36
+  - 70:B3:D5:77:70:00/36
+  - 70:B3:D5:A1:20:00/36
+  - 8C:1F:64:B9:A0:00/36
+  - 8C:1F:64:D7:C0:00/36
+  manufacturer: Quercus Technologies, S.L.
+  manufacturerUri: https://device-type.com
+  name: QuercusT
+type: d3-device-type-assertion

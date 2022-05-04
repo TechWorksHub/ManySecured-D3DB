@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 2bd2aca9-96d7-43bd-a5a5-903464b11218
+  macAddresses:
+  - 70:B3:D5:34:20:00/36
+  - BC:66:41:30:00:00/28
+  manufacturer: Solectrix
+  manufacturerUri: https://device-type.com
+  name: Solectri
+type: d3-device-type-assertion

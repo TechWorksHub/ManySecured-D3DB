@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9386f68-6d55-4bde-a93e-cbcb6969c11d
+  macAddresses:
+  - FC:FE:77:00:00:00/24
+  manufacturer: Hitachi Reftechno, Inc.
+  manufacturerUri: https://device-type.com
+  name: HitachiR
+type: d3-device-type-assertion

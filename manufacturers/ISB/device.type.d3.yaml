@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2bdde209-e0f6-49f7-b2cc-b6ffd31df55a
+  macAddresses:
+  - 04:BF:A8:00:00:00/24
+  manufacturer: ISB Corporation
+  manufacturerUri: https://device-type.com
+  name: ISB
+type: d3-device-type-assertion

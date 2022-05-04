@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b28784da-cd36-4813-960e-a63bd1773f95
+  macAddresses:
+  - 00:00:93:00:00:00/24
+  manufacturer: Proteon Inc.
+  manufacturerUri: https://device-type.com
+  name: Proteon
+type: d3-device-type-assertion

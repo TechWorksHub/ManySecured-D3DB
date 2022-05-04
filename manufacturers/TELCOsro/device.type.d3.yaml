@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a9b4e4bd-da23-41a4-86d2-5367dc96197d
+  macAddresses:
+  - 54:7F:A8:00:00:00/24
+  manufacturer: TELCO systems, s.r.o.
+  manufacturerUri: https://device-type.com
+  name: TELCOsro
+type: d3-device-type-assertion

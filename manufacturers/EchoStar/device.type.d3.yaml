@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1f8f8d44-a832-4498-bc15-d2be1196ea6e
+  macAddresses:
+  - 00:0D:C5:00:00:00/24
+  - FC:61:79:30:00:00/28
+  manufacturer: EchoStar Global B.V.
+  manufacturerUri: https://device-type.com
+  name: EchoStar
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 47b99676-30ab-4831-83f4-fb9b7cca9d3a
+  macAddresses:
+  - 00:20:B2:00:00:00/24
+  manufacturer: GKD Gesellschaft Fur Kommunikation Und Datentechnik
+  manufacturerUri: https://device-type.com
+  name: GKDGesel
+type: d3-device-type-assertion

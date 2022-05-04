@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 37f308f7-7384-4f84-9839-44a4ee28c66b
+  macAddresses:
+  - 00:1D:53:00:00:00/24
+  - 6A:E6:4A:00:00:00/24
+  manufacturer: S&O Electronics (Malaysia) Sdn. Bhd.
+  manufacturerUri: https://device-type.com
+  name: S&OElect
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5e4b0223-3726-475a-ba0b-9dcc8ed2957d
+  macAddresses:
+  - 3C:83:1E:00:00:00/24
+  manufacturer: CKD Corporation
+  manufacturerUri: https://device-type.com
+  name: CKD
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1c651e2b-b907-4e57-9877-fcbdab6f2f91
+  macAddresses:
+  - 70:B3:D5:92:E0:00/36
+  manufacturer: Medical Monitoring Center OOD
+  manufacturerUri: https://device-type.com
+  name: MedicalM
+type: d3-device-type-assertion

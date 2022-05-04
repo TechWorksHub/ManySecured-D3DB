@@ -1,0 +1,8 @@
+credentialSubject:
+  id: aabfc163-d058-46e3-80c0-6b634bf76b01
+  macAddresses:
+  - 00:18:CF:00:00:00/24
+  manufacturer: Baldor Electric Company
+  manufacturerUri: https://device-type.com
+  name: BaldorEl
+type: d3-device-type-assertion

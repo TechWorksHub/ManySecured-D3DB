@@ -1,0 +1,8 @@
+credentialSubject:
+  id: d9b5135d-eaf4-413c-8597-1586143b6d69
+  macAddresses:
+  - 7C:8A:C0:00:00:00/24
+  manufacturer: EVBox BV
+  manufacturerUri: https://device-type.com
+  name: EVBox
+type: d3-device-type-assertion

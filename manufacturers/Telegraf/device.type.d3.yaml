@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 174c2931-448a-44c7-a200-94194b99c5df
+  macAddresses:
+  - A0:FC:6E:00:00:00/24
+  manufacturer: Telegrafia a.s.
+  manufacturerUri: https://device-type.com
+  name: Telegraf
+type: d3-device-type-assertion

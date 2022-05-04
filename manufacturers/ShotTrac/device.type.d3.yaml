@@ -1,0 +1,8 @@
+credentialSubject:
+  id: eb66ea5e-e1aa-463b-b527-9ca80083df8b
+  macAddresses:
+  - 6C:16:0E:00:00:00/24
+  manufacturer: ShotTracker
+  manufacturerUri: https://device-type.com
+  name: ShotTrac
+type: d3-device-type-assertion

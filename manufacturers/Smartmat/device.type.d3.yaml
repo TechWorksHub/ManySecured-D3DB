@@ -1,0 +1,9 @@
+credentialSubject:
+  id: b43aa921-438a-42a2-9af0-1334eb7699db
+  macAddresses:
+  - 00:06:C2:00:00:00/24
+  - 28:72:C5:00:00:00/24
+  manufacturer: Smartmatic Corporation
+  manufacturerUri: https://device-type.com
+  name: Smartmat
+type: d3-device-type-assertion

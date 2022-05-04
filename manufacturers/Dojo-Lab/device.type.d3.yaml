@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91a8085b-1c6e-4f07-811c-7db901a7b777
+  macAddresses:
+  - 38:B8:EB:50:00:00/28
+  manufacturer: Dojo-Labs Ltd
+  manufacturerUri: https://device-type.com
+  name: Dojo-Lab
+type: d3-device-type-assertion

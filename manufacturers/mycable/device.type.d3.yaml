@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 22a0accd-23a2-4484-bd2b-431e21952572
+  macAddresses:
+  - D0:D9:4F:10:00:00/28
+  manufacturer: mycable GmbH
+  manufacturerUri: https://device-type.com
+  name: mycable
+type: d3-device-type-assertion

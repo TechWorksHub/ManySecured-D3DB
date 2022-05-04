@@ -1,0 +1,8 @@
+credentialSubject:
+  id: f79401be-01c2-4592-bcdf-a8221e1f239c
+  macAddresses:
+  - 00:0E:75:00:00:00/24
+  manufacturer: New York Air Brake Corp.
+  manufacturerUri: https://device-type.com
+  name: NewYorkA
+type: d3-device-type-assertion

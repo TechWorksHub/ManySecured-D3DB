@@ -1,0 +1,10 @@
+credentialSubject:
+  id: a668e581-a6da-4f5f-af9e-97956bdd1eaa
+  macAddresses:
+  - 00:50:C2:9B:20:00/36
+  - 70:B3:D5:23:A0:00/36
+  - 9C:4C:AE:00:00:00/24
+  manufacturer: Mesa Labs, Inc.
+  manufacturerUri: https://device-type.com
+  name: MesaLabs
+type: d3-device-type-assertion

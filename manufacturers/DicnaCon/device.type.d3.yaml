@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e839990c-a6a5-4193-b5e2-d82d1676e08b
+  macAddresses:
+  - 00:E0:F8:00:00:00/24
+  manufacturer: Dicna Control Ab
+  manufacturerUri: https://device-type.com
+  name: DicnaCon
+type: d3-device-type-assertion

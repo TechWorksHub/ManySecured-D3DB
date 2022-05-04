@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 881fcacf-3333-4e49-ae9e-1aa5af882747
+  macAddresses:
+  - 00:50:DD:00:00:00/24
+  manufacturer: Serra Soldadura, S.A.
+  manufacturerUri: https://device-type.com
+  name: SerraSol
+type: d3-device-type-assertion

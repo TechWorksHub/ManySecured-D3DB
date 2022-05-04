@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 526f5873-86ca-42b8-a7e9-968376124f4d
+  macAddresses:
+  - 00:16:42:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Pangolin
+type: d3-device-type-assertion

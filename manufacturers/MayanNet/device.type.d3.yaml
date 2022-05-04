@@ -1,0 +1,8 @@
+credentialSubject:
+  id: e1cde76a-d254-4ec0-b750-ef359980d3b0
+  macAddresses:
+  - 00:50:33:00:00:00/24
+  manufacturer: Mayan Networks
+  manufacturerUri: https://device-type.com
+  name: MayanNet
+type: d3-device-type-assertion

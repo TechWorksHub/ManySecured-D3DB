@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f26b3b8-db1e-4d88-b1d1-b78ac57ad4ba
+  macAddresses:
+  - 00:50:C2:84:00:00/36
+  manufacturer: Residential Control Systems
+  manufacturerUri: https://device-type.com
+  name: Resident
+type: d3-device-type-assertion

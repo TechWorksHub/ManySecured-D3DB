@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5caf36b6-5d56-455a-b4d5-e41330806919
+  macAddresses:
+  - 00:25:27:00:00:00/24
+  manufacturer: Bitrode Corp.
+  manufacturerUri: https://device-type.com
+  name: Bitrode
+type: d3-device-type-assertion

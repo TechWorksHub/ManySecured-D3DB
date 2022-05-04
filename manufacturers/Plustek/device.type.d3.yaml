@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06a69be4-55d0-4f99-a623-cc65ff7b963c
+  macAddresses:
+  - 00:15:8E:00:00:00/24
+  manufacturer: Plustek.INC
+  manufacturerUri: https://device-type.com
+  name: Plustek
+type: d3-device-type-assertion

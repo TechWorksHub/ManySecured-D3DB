@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a73b380d-8f3a-43c3-a2d6-aeb0776a0305
+  macAddresses:
+  - 8A:94:AD:00:00:00/24
+  manufacturer: Nexgen A/S
+  manufacturerUri: https://device-type.com
+  name: Nexgen
+type: d3-device-type-assertion

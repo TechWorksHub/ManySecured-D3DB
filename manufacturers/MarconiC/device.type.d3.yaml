@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 4cfa42cc-ce15-4326-8ac3-22fd16684d35
+  macAddresses:
+  - 00:20:48:00:00:00/24
+  - 00:90:45:00:00:00/24
+  - 00:A0:78:00:00:00/24
+  - 00:A0:FA:00:00:00/24
+  - 00:B0:48:00:00:00/24
+  manufacturer: Marconi Communications
+  manufacturerUri: https://device-type.com
+  name: MarconiC
+type: d3-device-type-assertion

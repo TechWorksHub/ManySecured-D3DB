@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 51e3f852-c90b-4096-810a-23e5ce5b2648
+  macAddresses:
+  - 44:62:46:00:00:00/24
+  manufacturer: Comat AG
+  manufacturerUri: https://device-type.com
+  name: Comat
+type: d3-device-type-assertion

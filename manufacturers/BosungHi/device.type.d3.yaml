@@ -1,0 +1,8 @@
+credentialSubject:
+  id: da5f8da9-e849-4cd5-9684-5aa3bc8bb4f7
+  macAddresses:
+  - 00:03:5D:00:00:00/24
+  manufacturer: Bosung Hi-Net Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: BosungHi
+type: d3-device-type-assertion

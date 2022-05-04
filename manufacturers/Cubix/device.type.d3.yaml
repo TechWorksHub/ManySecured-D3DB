@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9ce33e3c-8565-49e3-884d-eb27a6d24353
+  macAddresses:
+  - 00:20:94:00:00:00/24
+  - 9A:56:4B:00:00:00/24
+  manufacturer: Cubix Corporation
+  manufacturerUri: https://device-type.com
+  name: Cubix
+type: d3-device-type-assertion

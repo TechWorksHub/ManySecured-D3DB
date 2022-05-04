@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ef06e4ac-7ce8-4688-8d9f-bc0e65f6fd87
+  macAddresses:
+  - 00:30:F7:00:00:00/24
+  manufacturer: Ramix Inc.
+  manufacturerUri: https://device-type.com
+  name: Ramix
+type: d3-device-type-assertion

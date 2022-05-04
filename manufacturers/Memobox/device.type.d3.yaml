@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 6ddaec45-47b1-4bec-bc4f-407e49cdc6b9
+  macAddresses:
+  - 00:04:EC:00:00:00/24
+  manufacturer: Memobox SA
+  manufacturerUri: https://device-type.com
+  name: Memobox
+type: d3-device-type-assertion

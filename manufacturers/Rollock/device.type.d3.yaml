@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a82b5119-98a4-418f-9497-2086a9b41cd8
+  macAddresses:
+  - BC:97:40:D0:00:00/28
+  manufacturer: Rollock Oy
+  manufacturerUri: https://device-type.com
+  name: Rollock
+type: d3-device-type-assertion

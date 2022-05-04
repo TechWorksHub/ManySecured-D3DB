@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 7ae66799-0823-43ab-8669-25266b30030c
+  macAddresses:
+  - 00:10:C0:00:00:00/24
+  manufacturer: ARMA, Inc.
+  manufacturerUri: https://device-type.com
+  name: ARMA
+type: d3-device-type-assertion

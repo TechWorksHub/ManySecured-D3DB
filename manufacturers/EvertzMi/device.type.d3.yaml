@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 02792283-3cb7-4295-8f41-e7c45fac4d0c
+  macAddresses:
+  - 00:02:C5:00:00:00/24
+  manufacturer: Evertz Microsystems Ltd.
+  manufacturerUri: https://device-type.com
+  name: EvertzMi
+type: d3-device-type-assertion

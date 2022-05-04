@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 91bb8cb0-b0d0-4563-acbc-fc77c1681983
+  macAddresses:
+  - 00:24:EA:00:00:00/24
+  manufacturer: iris-GmbH infrared & intelligent sensors
+  manufacturerUri: https://device-type.com
+  name: irisinfr
+type: d3-device-type-assertion

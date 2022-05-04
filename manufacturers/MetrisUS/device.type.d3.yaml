@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 99c14c0c-1058-4733-8b76-a1f9584f4efa
+  macAddresses:
+  - 00:1F:8E:00:00:00/24
+  manufacturer: Metris USA Inc.
+  manufacturerUri: https://device-type.com
+  name: MetrisUS
+type: d3-device-type-assertion

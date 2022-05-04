@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b43b10e5-849b-4917-baba-8b4c397a6831
+  macAddresses:
+  - 00:05:06:00:00:00/24
+  manufacturer: Reddo Networks AB
+  manufacturerUri: https://device-type.com
+  name: ReddoNet
+type: d3-device-type-assertion

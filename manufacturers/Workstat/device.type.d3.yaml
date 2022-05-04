@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9b6cf1be-e0aa-4ab4-9af1-b907d2ffc85c
+  macAddresses:
+  - 00:02:D2:00:00:00/24
+  manufacturer: Workstation AG
+  manufacturerUri: https://device-type.com
+  name: Workstat
+type: d3-device-type-assertion

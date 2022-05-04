@@ -1,0 +1,13 @@
+credentialSubject:
+  id: 19eed49a-73e0-449b-8985-1d460a1271e5
+  macAddresses:
+  - 00:1A:7C:00:00:00/24
+  - 00:D0:26:00:00:00/24
+  - 64:60:38:00:00:00/24
+  - A0:B0:86:00:00:00/24
+  - EC:74:BA:00:00:00/24
+  - EC:E5:55:00:00:00/24
+  manufacturer: Hirschmann Multimedia B.V.
+  manufacturerUri: https://device-type.com
+  name: Hirschma
+type: d3-device-type-assertion

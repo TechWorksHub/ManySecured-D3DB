@@ -1,0 +1,10 @@
+credentialSubject:
+  id: c6fee007-3bce-444c-a0e5-12e8bced08c8
+  macAddresses:
+  - 00:22:B2:00:00:00/24
+  - 00:50:C2:2E:D0:00/36
+  - 00:50:C2:6B:30:00/36
+  manufacturer: 4RF Communications Ltd
+  manufacturerUri: https://device-type.com
+  name: 4RFCommu
+type: d3-device-type-assertion

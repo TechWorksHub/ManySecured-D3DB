@@ -1,0 +1,8 @@
+credentialSubject:
+  id: addc17ad-ebf2-4908-8996-9c6d6e23213b
+  macAddresses:
+  - 00:08:51:00:00:00/24
+  manufacturer: Canadian Bank Note Company, Ltd.
+  manufacturerUri: https://device-type.com
+  name: Canadian
+type: d3-device-type-assertion

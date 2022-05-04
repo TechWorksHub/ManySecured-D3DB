@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2a105b75-4ccb-489b-b9e0-f8c64610bf6d
+  macAddresses:
+  - 00:09:99:00:00:00/24
+  manufacturer: Cp Georges Renault
+  manufacturerUri: https://device-type.com
+  name: CpGeorge
+type: d3-device-type-assertion

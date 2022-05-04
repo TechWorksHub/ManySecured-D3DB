@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 858e7817-7d65-4be9-ad17-ba87985e71b1
+  macAddresses:
+  - 00:02:03:00:00:00/24
+  manufacturer: Woonsang Telecom, Inc.
+  manufacturerUri: https://device-type.com
+  name: Woonsang
+type: d3-device-type-assertion

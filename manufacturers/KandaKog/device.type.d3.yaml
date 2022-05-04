@@ -1,0 +1,8 @@
+credentialSubject:
+  id: c1187e27-82e6-4166-84be-b8e715b64243
+  macAddresses:
+  - 40:11:75:20:00:00/28
+  manufacturer: Kanda Kogyo
+  manufacturerUri: https://device-type.com
+  name: KandaKog
+type: d3-device-type-assertion

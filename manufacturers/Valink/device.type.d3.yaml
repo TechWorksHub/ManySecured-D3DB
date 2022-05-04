@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ac7ac55-bb32-4689-94a7-a92c3534d65f
+  macAddresses:
+  - C8:7C:BC:00:00:00/24
+  manufacturer: Valink Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: Valink
+type: d3-device-type-assertion

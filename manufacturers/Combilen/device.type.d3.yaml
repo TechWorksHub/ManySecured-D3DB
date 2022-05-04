@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 178c0b63-53d1-449f-a636-ec84e24d0b47
+  macAddresses:
+  - 00:50:C2:DF:70:00/36
+  - 70:B3:D5:C5:00:00/36
+  - 70:B3:D5:E0:40:00/36
+  manufacturer: Combilent
+  manufacturerUri: https://device-type.com
+  name: Combilen
+type: d3-device-type-assertion

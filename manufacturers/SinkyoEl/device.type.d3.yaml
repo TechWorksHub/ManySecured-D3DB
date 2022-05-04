@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 73ca3693-c420-46d2-ad0f-e71a57cd8c95
+  macAddresses:
+  - 00:1B:2E:00:00:00/24
+  manufacturer: Sinkyo Electron Inc
+  manufacturerUri: https://device-type.com
+  name: SinkyoEl
+type: d3-device-type-assertion

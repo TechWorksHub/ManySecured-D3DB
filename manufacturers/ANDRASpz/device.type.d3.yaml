@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 81bef009-0669-4647-80e3-5fc4f1c2fe34
+  macAddresses:
+  - 04:45:62:00:00:00/24
+  - 1C:88:79:10:00:00/28
+  manufacturer: ANDRA Sp. z o. o.
+  manufacturerUri: https://device-type.com
+  name: ANDRASpz
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5cb738f9-fffe-4bfb-960e-055390521fee
+  macAddresses:
+  - 88:89:14:00:00:00/24
+  manufacturer: All Components Incorporated
+  manufacturerUri: https://device-type.com
+  name: AllCompo
+type: d3-device-type-assertion

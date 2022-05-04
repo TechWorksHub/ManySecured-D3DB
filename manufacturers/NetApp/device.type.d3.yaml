@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 76cee04d-a27a-4751-9b2a-464da1a7bd5f
+  macAddresses:
+  - 00:80:E5:00:00:00/24
+  - 00:A0:98:00:00:00/24
+  - 00:A0:B8:00:00:00/24
+  - D0:39:EA:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: NetApp
+type: d3-device-type-assertion

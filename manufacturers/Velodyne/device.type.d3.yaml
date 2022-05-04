@@ -1,0 +1,8 @@
+credentialSubject:
+  id: df2d1e24-68be-4465-ba42-41e58b51f890
+  macAddresses:
+  - 60:76:88:00:00:00/24
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Velodyne
+type: d3-device-type-assertion

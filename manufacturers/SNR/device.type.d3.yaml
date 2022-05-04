@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 3f20785c-0d2f-4571-8fef-6d9746e8502e
+  macAddresses:
+  - 00:1D:C6:00:00:00/24
+  manufacturer: SNR Inc.
+  manufacturerUri: https://device-type.com
+  name: SNR
+type: d3-device-type-assertion

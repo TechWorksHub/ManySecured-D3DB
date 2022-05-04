@@ -1,0 +1,12 @@
+credentialSubject:
+  id: cfae489a-4e4c-48cf-a782-872c1db5260f
+  macAddresses:
+  - 00:12:4A:00:00:00/24
+  - 00:AD:63:00:00:00/24
+  - 00:D0:D9:00:00:00/24
+  - 38:0F:E4:00:00:00/24
+  - E4:55:EA:00:00:00/24
+  manufacturer: Dedicated Devices, Inc.
+  manufacturerUri: https://device-type.com
+  name: Dedicate
+type: d3-device-type-assertion

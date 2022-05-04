@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 27223dd1-af10-4cd9-b253-0366fc0f4188
+  macAddresses:
+  - 00:08:F0:00:00:00/24
+  - 64:D0:2D:00:00:00/24
+  manufacturer: Next Generation Systems, Inc.
+  manufacturerUri: https://device-type.com
+  name: NextGene
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2ac02465-21bb-44ec-81fc-58cd91ddc6ae
+  macAddresses:
+  - 00:D0:17:00:00:00/24
+  manufacturer: Syntech Information Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: SyntechI
+type: d3-device-type-assertion

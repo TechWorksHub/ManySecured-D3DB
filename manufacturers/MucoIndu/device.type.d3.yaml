@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ce461391-e04c-4e2c-a2a3-1029a049b05c
+  macAddresses:
+  - 00:0E:EE:00:00:00/24
+  manufacturer: Muco Industrie BV
+  manufacturerUri: https://device-type.com
+  name: MucoIndu
+type: d3-device-type-assertion

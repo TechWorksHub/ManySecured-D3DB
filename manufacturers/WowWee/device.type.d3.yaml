@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 06011823-0ba4-4567-abdd-966bd23e6a12
+  macAddresses:
+  - 00:18:76:00:00:00/24
+  manufacturer: WowWee Ltd.
+  manufacturerUri: https://device-type.com
+  name: WowWee
+type: d3-device-type-assertion

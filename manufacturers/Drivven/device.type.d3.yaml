@@ -1,0 +1,8 @@
+credentialSubject:
+  id: dd20be25-90f5-4a7f-8c32-205871178123
+  macAddresses:
+  - AC:61:23:00:00:00/24
+  manufacturer: Drivven, Inc.
+  manufacturerUri: https://device-type.com
+  name: Drivven
+type: d3-device-type-assertion

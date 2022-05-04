@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ae61b31c-f695-4625-a24c-01d05faea224
+  macAddresses:
+  - 58:67:7F:00:00:00/24
+  manufacturer: Clare Controls Inc.
+  manufacturerUri: https://device-type.com
+  name: ClareCon
+type: d3-device-type-assertion

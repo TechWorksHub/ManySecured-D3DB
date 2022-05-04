@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 2dff58bf-2633-4749-ba31-22714a796bc0
+  macAddresses:
+  - 70:B3:D5:49:90:00/36
+  manufacturer: Pycom Ltd
+  manufacturerUri: https://device-type.com
+  name: Pycom
+type: d3-device-type-assertion

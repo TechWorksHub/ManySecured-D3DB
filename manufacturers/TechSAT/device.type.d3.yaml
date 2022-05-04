@@ -1,0 +1,8 @@
+credentialSubject:
+  id: cb00865a-10e2-4488-860c-2a65bea8b478
+  macAddresses:
+  - DC:33:50:00:00:00/24
+  manufacturer: TechSAT GmbH
+  manufacturerUri: https://device-type.com
+  name: TechSAT
+type: d3-device-type-assertion

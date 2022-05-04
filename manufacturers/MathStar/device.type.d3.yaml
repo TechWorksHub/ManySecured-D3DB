@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 9fdbac27-d631-4106-9512-e0615f26edd4
+  macAddresses:
+  - 00:09:BB:00:00:00/24
+  manufacturer: MathStar, Inc.
+  manufacturerUri: https://device-type.com
+  name: MathStar
+type: d3-device-type-assertion

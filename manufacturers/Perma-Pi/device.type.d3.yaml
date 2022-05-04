@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 15b5f988-c25b-48ac-bbbd-6f4598467d3a
+  macAddresses:
+  - 10:5C:3B:00:00:00/24
+  manufacturer: Perma-Pipe, Inc.
+  manufacturerUri: https://device-type.com
+  name: Perma-Pi
+type: d3-device-type-assertion

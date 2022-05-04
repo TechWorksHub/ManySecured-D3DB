@@ -1,0 +1,9 @@
+credentialSubject:
+  id: f4d5a6b7-571c-4ed5-b591-bb3a708b62f6
+  macAddresses:
+  - 00:50:C2:17:F0:00/36
+  - 00:50:C2:A9:B0:00/36
+  manufacturer: PDQ Manufacturing
+  manufacturerUri: https://device-type.com
+  name: PDQManuf
+type: d3-device-type-assertion

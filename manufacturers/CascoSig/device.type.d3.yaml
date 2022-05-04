@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ac16c24f-a6be-49de-a3cb-053fbc93b933
+  macAddresses:
+  - DC:49:C9:00:00:00/24
+  manufacturer: Casco Signal Ltd
+  manufacturerUri: https://device-type.com
+  name: CascoSig
+type: d3-device-type-assertion

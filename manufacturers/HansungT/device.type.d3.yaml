@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 01dd0f76-d0cb-4b5b-9195-35627a6d1348
+  macAddresses:
+  - 00:08:86:00:00:00/24
+  manufacturer: Hansung Teliann, Inc.
+  manufacturerUri: https://device-type.com
+  name: HansungT
+type: d3-device-type-assertion

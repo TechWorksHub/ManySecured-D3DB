@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 00a96366-8d7c-46ae-abe4-40ede3738f77
+  macAddresses:
+  - 00:40:9B:00:00:00/24
+  manufacturer: Hal Computer Systems Inc.
+  manufacturerUri: https://device-type.com
+  name: HalCompu
+type: d3-device-type-assertion

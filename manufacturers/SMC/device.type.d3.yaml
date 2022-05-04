@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 9d23f2fd-bddb-4d81-8285-1f2759760f96
+  macAddresses:
+  - 00:23:C6:00:00:00/24
+  - 84:9D:64:00:00:00/24
+  manufacturer: SMC Corporation
+  manufacturerUri: https://device-type.com
+  name: SMC
+type: d3-device-type-assertion

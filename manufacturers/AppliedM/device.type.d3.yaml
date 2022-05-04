@@ -1,0 +1,17 @@
+credentialSubject:
+  id: 527c5b60-333f-4d48-b23d-9d70a052788c
+  macAddresses:
+  - 00:00:F6:00:00:00/24
+  - 00:1F:EA:00:00:00/24
+  - 00:50:C2:40:C0:00/36
+  - 00:50:C2:B3:00:00/36
+  - 00:50:C2:D1:90:00/36
+  - 00:50:C2:E4:C0:00/36
+  - 00:50:C2:F3:30:00/36
+  - 4A:5A:6F:00:00:00/24
+  - 70:B3:D5:7E:10:00/36
+  - D4:0F:B2:00:00:00/24
+  manufacturer: Applied Microsystems Corp.
+  manufacturerUri: https://device-type.com
+  name: AppliedM
+type: d3-device-type-assertion

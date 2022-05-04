@@ -1,0 +1,8 @@
+credentialSubject:
+  id: ba4f1b12-94d9-4db0-9e46-b8417ea18f02
+  macAddresses:
+  - 00:1C:28:00:00:00/24
+  manufacturer: Sphairon Technologies GmbH
+  manufacturerUri: https://device-type.com
+  name: Sphairon
+type: d3-device-type-assertion

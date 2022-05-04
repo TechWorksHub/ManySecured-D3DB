@@ -1,0 +1,8 @@
+credentialSubject:
+  id: b6d0fed3-62fe-4bfd-9202-3c56312c543d
+  macAddresses:
+  - 00:0A:B0:00:00:00/24
+  manufacturer: LOYTEC electronics GmbH
+  manufacturerUri: https://device-type.com
+  name: LOYTECel
+type: d3-device-type-assertion

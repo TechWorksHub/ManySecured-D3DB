@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 840ecc5d-9f32-4b12-8d2a-a1139f998659
+  macAddresses:
+  - 00:0D:C8:00:00:00/24
+  manufacturer: AirMagnet, Inc
+  manufacturerUri: https://device-type.com
+  name: AirMagne
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: af03e121-604a-45b5-be44-28e86784c9ca
+  macAddresses:
+  - 00:02:54:00:00:00/24
+  manufacturer: WorldGate
+  manufacturerUri: https://device-type.com
+  name: WorldGat
+type: d3-device-type-assertion

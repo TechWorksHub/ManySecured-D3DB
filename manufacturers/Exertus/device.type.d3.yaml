@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 5a885448-8949-43a8-b162-b0279d33bfc7
+  macAddresses:
+  - 00:50:C2:70:C0:00/36
+  - 2C:48:35:60:00:00/28
+  manufacturer: ''
+  manufacturerUri: https://device-type.com
+  name: Exertus
+type: d3-device-type-assertion

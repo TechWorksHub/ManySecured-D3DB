@@ -1,0 +1,8 @@
+credentialSubject:
+  id: a8688c61-6def-4041-8dc0-65b375a5d25e
+  macAddresses:
+  - 00:08:ED:00:00:00/24
+  manufacturer: ST&T Instrument Corp.
+  manufacturerUri: https://device-type.com
+  name: ST&TInst
+type: d3-device-type-assertion

@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 56a4031b-4e24-47a1-95a2-9756feb9bef8
+  macAddresses:
+  - 5C:B6:CC:00:00:00/24
+  manufacturer: NovaComm Technologies Inc.
+  manufacturerUri: https://device-type.com
+  name: NovaComm
+type: d3-device-type-assertion

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: cc9ba99a-36aa-43f4-b3dd-ffc09dbc0681
+  macAddresses:
+  - 00:11:3F:00:00:00/24
+  - 00:A0:81:00:00:00/24
+  manufacturer: Alcatel DI
+  manufacturerUri: https://device-type.com
+  name: AlcatelD
+type: d3-device-type-assertion

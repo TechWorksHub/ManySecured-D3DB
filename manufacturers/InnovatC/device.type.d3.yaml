@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 1cc0ce51-4e10-4f19-874a-0c3e5f8638e5
+  macAddresses:
+  - 00:E0:EA:00:00:00/24
+  manufacturer: Innovat Communications, Inc.
+  manufacturerUri: https://device-type.com
+  name: InnovatC
+type: d3-device-type-assertion

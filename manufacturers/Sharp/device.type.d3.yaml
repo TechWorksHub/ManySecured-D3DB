@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 228e30ab-4a89-4bec-a073-77152e3bc757
+  macAddresses:
+  - 00:17:5C:00:00:00/24
+  - 08:00:1F:00:00:00/24
+  - BC:B1:81:00:00:00/24
+  manufacturer: Sharp Corporation
+  manufacturerUri: https://device-type.com
+  name: Sharp
+type: d3-device-type-assertion

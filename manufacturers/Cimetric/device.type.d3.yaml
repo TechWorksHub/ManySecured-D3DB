@@ -1,0 +1,9 @@
+credentialSubject:
+  id: dfdf6d46-183c-4350-ae9b-6d98f8032c6e
+  macAddresses:
+  - 00:10:90:00:00:00/24
+  - 00:50:C2:73:30:00/36
+  manufacturer: Cimetrics, Inc.
+  manufacturerUri: https://device-type.com
+  name: Cimetric
+type: d3-device-type-assertion

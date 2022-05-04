@@ -1,0 +1,8 @@
+credentialSubject:
+  id: 5a09c628-f937-4aa6-91c9-80b2b371c9f9
+  macAddresses:
+  - 00:30:3E:00:00:00/24
+  manufacturer: Radcom Ltd.
+  manufacturerUri: https://device-type.com
+  name: Radcom
+type: d3-device-type-assertion

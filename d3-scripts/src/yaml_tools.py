@@ -7,7 +7,7 @@ def is_valid_yaml_claim(file_name: str):
     # Filename takes the form ...<d3_type>.<d3_ext>.yaml
     # [-3:] bypasses ValueError if file_name takes form:
     # brother-firmware MFC15.05.95.firmware.d3.yaml
-    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes[-3:]
+    *_unused, d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
     assert (
         d3_type[1:] in d3_types
     ), f"File has invalid d3 type extension {d3_types} ({file_name})"

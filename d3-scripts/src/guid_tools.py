@@ -16,7 +16,7 @@ def get_guid(file_name: str) -> str:
         # If the claim exists an ID field
         if(yaml_data.get("credentialSubject", {}).get("id", False)):
             return yaml_data['credentialSubject']['id']
-    pass
+    return False
 
 
 def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
@@ -73,9 +73,6 @@ def find_guid_file_names(guid_id: str, file_names: typing.List[str]) -> str:
     """
     files = []
     for file_name in file_names:
-        if(is_valid_yaml_claim(file_name)):
-            yaml_data = load_claim(file_name)
-            if(yaml_data.get("credentialSubject", {}).get("id", False)):
-                if(yaml_data['credentialSubject']['id'] == guid_id):
-                    files.append(file_name)
+        if(get_guid(file_name) == guid_id):
+            files.append(file_name)
     return guid_id + " in files:\n" + "\n".join(list(files))

@@ -36,9 +36,9 @@ def generate_d3_type(mac: str, short_name: str, long_name: str):
         "credentialSubject": {
             "id": str(uuid.uuid4()),
             "manufacturer": long_name,
-            "manufacturer-uri": "https://device-type.com",
+            "manufacturerUri": "https://device-type.com",
             "name": short_name,
-            "mac-addresses": []
+            "macAddresses": []
         }
     }
 

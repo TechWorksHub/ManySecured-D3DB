@@ -1,6 +1,6 @@
 from yaml_tools import load_claim, is_valid_yaml_claim
-import re
 import typing
+import uuid
 
 
 def get_guid(file_name: str) -> str:
@@ -19,6 +19,14 @@ def get_guid(file_name: str) -> str:
     return False
 
 
+def is_valid_guid(guid):
+    try:
+        uuid.uuid(str(guid))
+        return True
+    except ValueError:
+        return False
+
+
 def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
     """
     Checks all GUIDs are unique and of the correct type
@@ -35,10 +43,9 @@ def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
 
     # ensure each GUID is a valid UUID
     for guid in guids:
-        assert (re.match(
-            r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
-            guid
-        )), f"Invalid GUID format: \n{find_guid_file_names(guid, file_names)}"
+        assert (
+            is_valid_guid(guid)
+        ), f"Invalid GUID format: \n{find_guid_file_names(guid, file_names)}"
 
     return True
 

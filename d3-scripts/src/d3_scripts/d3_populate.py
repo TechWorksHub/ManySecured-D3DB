@@ -12,9 +12,10 @@ import sys
 import os
 import yaml
 import uuid
+from pathlib import Path
 
 GIT_REPO_ADDRESS = "https://gitlab.com/wireshark/wireshark/-/raw/master/manuf"
-POPULATE_FOLDER_PATH = "./db"
+POPULATE_FOLDER_PATH = str(Path("./db"))
 DEVICE_TYPE_FILENAME = "device.type.d3.yaml"
 
 
@@ -115,7 +116,7 @@ if __name__ == "__main__":
         populate_folder = POPULATE_FOLDER_PATH
     else:
         git_repo = sys.argv[1]
-        populate_folder = sys.argv[2]
+        populate_folder = str(Path(sys.argv[2]))
 
     csv_out = get_storage_file(git_repo)
     if csv_out is None:

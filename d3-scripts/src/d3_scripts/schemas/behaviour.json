@@ -7,6 +7,7 @@
   "properties": {
     "id": {
       "type": "string",
+      "format": "uuid",
       "description": "GUID for the device behaviour rule"
     },
     "rules": {
@@ -29,10 +30,12 @@
                 "properties": {
                   "sourceIp4": {
                     "type": "string",
+                    "format": "ipv4",
                     "description": "The source IPv4 address"
                   },
                   "destinationIp4": {
                     "type": "string",
+                    "format": "ipv4",
                     "description": "The destination IPv4 address"
                   },
                   "sourceDnsName": {
@@ -56,10 +59,12 @@
                 "properties": {
                   "sourceMac": {
                     "type": "string",
+                    "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
                     "description": "The source MAC address"
                   },
                   "destinationMac": {
                     "type": "string",
+                    "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
                     "description": "The destination MAC address"
                   },
                   "etherType": {

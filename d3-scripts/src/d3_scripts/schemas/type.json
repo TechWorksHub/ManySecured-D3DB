@@ -28,6 +28,7 @@
       },
       "modelSupportUri": {
         "type": "string",
+        "format": "uri",
         "description": "The model support URI of the device type"
       },
       "modelInformationUri": {

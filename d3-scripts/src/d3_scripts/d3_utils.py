@@ -1,10 +1,10 @@
 import logging
-from pathlib import Path
 import typing
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
 from .json_tools import check_json_unchanged, get_json_file_name, write_json
-from .validate_schemas import get_schema_from_path, get_schema_from_d3_claim, validate_schema
+from .validate_schemas import \
+    get_schema_from_path, get_schema_from_d3_claim, validate_schema
 from .check_uri_resolve import check_uri_resolve
 
 
@@ -43,6 +43,18 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
 
 
 def process_claim_file(yaml_file_name: str):
+    """Processes a single D3 claim file.
+    Checks include:
+    - is unchanged claim
+    - is valid claim relative to JSONSchema for type
+    - are all URIs/refs resolveable/valid
+
+    Args:
+        yaml_file_name: The filepath to the YAML file
+
+    Returns:
+        Boolean indicating if the file was successfully processed
+    """
     # check if file is YAML with right extension
     is_valid_yaml_claim(yaml_file_name)
 

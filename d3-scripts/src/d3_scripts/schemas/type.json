@@ -50,6 +50,13 @@
           "#tag1,#tag2",
           "#tag1, #tag2"
         ]
+      },
+      "macAddresses": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "An array of MAC addresses"
       }
     },
     "required": ["id"]

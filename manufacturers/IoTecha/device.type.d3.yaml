@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 183278e3-c0d8-41eb-b37e-1aca16415e04
-  mac-addresses:
+  id: 76b3461d-42df-4e59-a610-995e41817bf7
+  macAddresses:
   - A0:02:4A:E0:00:00/28
   manufacturer: IoTecha Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTecha
 type: d3-device-type-assertion

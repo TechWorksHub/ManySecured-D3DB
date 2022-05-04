@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec1ba5e5-8a00-4146-aed4-41d1f6c4bc7e
-  mac-addresses:
+  id: 9e113663-2a06-4bd3-9eda-a7727701e069
+  macAddresses:
   - 70:B3:D5:3C:70:00/36
   manufacturer: Softcreate Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Softcrea
 type: d3-device-type-assertion

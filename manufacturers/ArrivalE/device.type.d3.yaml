@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b20012f3-4fad-4f25-9afe-0aeba7d2e281
-  mac-addresses:
+  id: 90b11649-9ffd-49aa-b516-38f48c113e72
+  macAddresses:
   - 30:A4:52:00:00:00/24
   manufacturer: Arrival Elements BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArrivalE
 type: d3-device-type-assertion

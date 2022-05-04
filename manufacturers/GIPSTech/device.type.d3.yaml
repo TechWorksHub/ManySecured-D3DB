@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0261e277-f61e-4a35-9f2c-90d0d7c2bfd1
-  mac-addresses:
+  id: 691944e4-e643-4020-a3de-b857dbcaa587
+  macAddresses:
   - 10:54:D2:00:00:00/28
   manufacturer: GIPS Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GIPSTech
 type: d3-device-type-assertion

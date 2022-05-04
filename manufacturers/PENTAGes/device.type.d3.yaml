@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 90d4e1f6-f626-4ff5-8041-d0548dd1320b
-  mac-addresses:
+  id: d8196df0-4928-4f0b-afa1-3cb79a32c7be
+  macAddresses:
   - A4:B8:18:00:00:00/24
   manufacturer: "PENTA Gesellschaft f\xFCr elektronische Industriedatenverarbeitung\
     \ mbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PENTAGes
 type: d3-device-type-assertion

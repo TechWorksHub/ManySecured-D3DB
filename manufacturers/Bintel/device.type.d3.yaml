@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a80359c-c38e-443a-86fb-87d431dda359
-  mac-addresses:
+  id: 16097782-e3ff-4ecf-aa3c-1771f583a0b9
+  macAddresses:
   - 70:B3:D5:97:00:00/36
   manufacturer: Bintel AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bintel
 type: d3-device-type-assertion

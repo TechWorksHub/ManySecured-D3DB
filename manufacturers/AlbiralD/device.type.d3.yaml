@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0d2a682-4a3c-48a3-8b71-9941c1437669
-  mac-addresses:
+  id: d6a3ecfa-697c-40a0-ada0-8cdd440111f6
+  macAddresses:
   - 70:B3:D5:49:70:00/36
   manufacturer: Albiral Display Solutions Sl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlbiralD
 type: d3-device-type-assertion

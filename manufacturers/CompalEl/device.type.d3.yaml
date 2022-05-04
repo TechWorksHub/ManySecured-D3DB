@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 91823f60-1fb2-4d74-a74d-6da6b76b0284
-  mac-addresses:
+  id: 5c75d68e-195a-48f0-93e0-8887cc0b0dcd
+  macAddresses:
   - 00:02:3F:00:00:00/24
   - 00:0F:B0:00:00:00/24
   - 3C:42:7E:B0:00:00/28
   - 70:B3:D5:26:F0:00/36
   - 70:B3:D5:4F:20:00/36
   manufacturer: Compal Electronics INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompalEl
 type: d3-device-type-assertion

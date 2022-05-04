@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0733218-0a51-4880-a575-7c5b6d1d722a
-  mac-addresses:
+  id: 69cc843c-d4c8-4c07-b8f6-a461dcbcf2d1
+  macAddresses:
   - 08:BB:CC:00:00:00/24
   manufacturer: AK-NORD EDV VERTRIEBSGES. mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AK-NORDE
 type: d3-device-type-assertion

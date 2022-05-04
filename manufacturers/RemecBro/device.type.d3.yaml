@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1617242-0047-4ab9-be7c-0e1c40774c84
-  mac-addresses:
+  id: 3d39e719-af8c-4f29-a43a-e143aea2816a
+  macAddresses:
   - 80:C6:3F:00:00:00/24
   manufacturer: Remec Broadband Wireless , LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RemecBro
 type: d3-device-type-assertion

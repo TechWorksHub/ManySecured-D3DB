@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3277088d-b626-4e0e-a95a-885d4cc17ca4
-  mac-addresses:
+  id: 6f59cc69-b940-4e96-96be-d8141f80c7d0
+  macAddresses:
   - 08:ED:02:90:00:00/28
   manufacturer: Savox Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SavoxCom
 type: d3-device-type-assertion

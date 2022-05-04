@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dadca7f-1738-4e1c-a2b9-22850e5de7f9
-  mac-addresses:
+  id: c48d3220-f7e0-464c-a7b6-7e3a2b7de3ff
+  macAddresses:
   - A0:E2:01:00:00:00/24
   manufacturer: AVTrace Ltd.(China)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVTraceC
 type: d3-device-type-assertion

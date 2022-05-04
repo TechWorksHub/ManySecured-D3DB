@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b40de093-4dd4-45e5-83d0-818a5a60da3f
-  mac-addresses:
+  id: a95abb45-97ad-433d-a7b9-6b15b1ebd456
+  macAddresses:
   - 54:9A:11:50:00:00/28
   manufacturer: Elotech Industrieelektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElotechI
 type: d3-device-type-assertion

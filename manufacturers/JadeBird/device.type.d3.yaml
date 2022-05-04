@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d637052a-0674-4c8d-9bdc-75d2b713a788
-  mac-addresses:
+  id: 89b763f1-f410-455a-badf-4815b1783079
+  macAddresses:
   - 38:1F:26:C0:00:00/28
   manufacturer: Jade Bird Fire Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JadeBird
 type: d3-device-type-assertion

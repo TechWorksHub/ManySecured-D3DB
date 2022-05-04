@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de80cd77-b5cd-4919-a626-580e24a6e36a
-  mac-addresses:
+  id: c11b22de-b78a-4f76-9c49-bc8ae7961ca9
+  macAddresses:
   - 00:05:A8:00:00:00/24
   manufacturer: Wyle Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WyleElec
 type: d3-device-type-assertion

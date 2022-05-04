@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bb8ed4d-71f8-4b0b-8a71-efe08be87cb9
-  mac-addresses:
+  id: 8c81e7ac-3e03-4599-89fb-a5e5d5365f62
+  macAddresses:
   - 74:1A:E0:40:00:00/28
   manufacturer: Revl Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Revl
 type: d3-device-type-assertion

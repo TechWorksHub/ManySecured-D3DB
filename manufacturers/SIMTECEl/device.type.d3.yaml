@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94598ba4-8c83-49b2-9d80-144d631d1d6e
-  mac-addresses:
+  id: e7ab5798-7b14-46fa-92a4-e3f92c5583df
+  macAddresses:
   - A0:BB:3E:70:00:00/28
   manufacturer: SIMTEC Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIMTECEl
 type: d3-device-type-assertion

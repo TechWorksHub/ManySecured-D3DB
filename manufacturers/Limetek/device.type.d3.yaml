@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba32c4cf-5eb2-4fa2-a811-f9e646c486fe
-  mac-addresses:
+  id: 9d16a38e-7c50-4c41-a88d-2c3168d70360
+  macAddresses:
   - 00:1C:CF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Limetek
 type: d3-device-type-assertion

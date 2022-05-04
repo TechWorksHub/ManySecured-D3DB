@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68396846-e1fd-40b8-b92e-8cb1caff199f
-  mac-addresses:
+  id: ee0069ae-6ada-4aee-9cbc-6d0b04ff327b
+  macAddresses:
   - 00:50:C2:80:30:00/36
   manufacturer: dB Broadcast Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dBBroadc
 type: d3-device-type-assertion

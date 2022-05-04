@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4624ba52-16f7-4b91-828f-816dca7fc435
-  mac-addresses:
+  id: d43f9a80-938c-45b2-8d58-59e3637b31d3
+  macAddresses:
   - FC:61:79:00:00:00/28
   manufacturer: Zhuhai Anjubao Electronics Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiAn
 type: d3-device-type-assertion

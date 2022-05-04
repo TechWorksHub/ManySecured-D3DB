@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd2c30ec-76b8-4f26-983d-792179f92105
-  mac-addresses:
+  id: 27e3bafc-05ec-4fdb-9e45-77f94ab04d91
+  macAddresses:
   - 70:B3:D5:77:30:00/36
   manufacturer: Rugged Science
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuggedSc
 type: d3-device-type-assertion

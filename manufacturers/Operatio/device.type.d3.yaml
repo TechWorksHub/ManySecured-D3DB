@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 951a1698-daa7-475b-8762-6dad4b544215
-  mac-addresses:
+  id: e6bdc38e-9db4-4a19-9b3d-8db2b9da9da1
+  macAddresses:
   - 70:B3:D5:4D:60:00/36
   manufacturer: Operational Technology Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Operatio
 type: d3-device-type-assertion

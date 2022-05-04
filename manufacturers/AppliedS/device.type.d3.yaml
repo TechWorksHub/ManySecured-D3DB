@@ -1,10 +1,10 @@
 credentialSubject:
-  id: ce80ef66-d2ec-4dea-b6e9-7063511a7094
-  mac-addresses:
+  id: dba0d4af-c942-446e-94d0-5601aef98464
+  macAddresses:
   - 00:20:97:00:00:00/24
   - 70:B3:D5:23:90:00/36
   - 70:B3:D5:A4:80:00/36
   manufacturer: Applied Signal Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppliedS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29506a66-12cd-45da-a91d-555e70aa7a69
-  mac-addresses:
+  id: a4d3c8a9-86ee-492d-abf3-74f0fd4a6bff
+  macAddresses:
   - 60:9B:2D:00:00:00/24
   manufacturer: JMACS Japan Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JMACSJap
 type: d3-device-type-assertion

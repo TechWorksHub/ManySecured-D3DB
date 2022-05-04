@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf31689f-8001-4dbe-95a9-a26b6c0eb29a
-  mac-addresses:
+  id: 254cc80d-7c38-4581-82e4-a8889451d3c5
+  macAddresses:
   - 70:B3:D5:C2:C0:00/36
   manufacturer: Dromont S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dromont
 type: d3-device-type-assertion

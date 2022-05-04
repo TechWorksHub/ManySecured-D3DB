@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 855d33c8-4e5d-4bf9-9833-46eff8f5074a
-  mac-addresses:
+  id: ca54b9f9-d695-4722-8fc8-4072b5fb2736
+  macAddresses:
   - EC:6F:0B:00:00:00/24
   manufacturer: FADU, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FADU
 type: d3-device-type-assertion

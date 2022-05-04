@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5714f619-e09c-4a14-bb65-7c801deba20c
-  mac-addresses:
+  id: 9fbacfa5-aa00-4c61-9742-ca17c8c607bb
+  macAddresses:
   - 00:17:90:00:00:00/24
   manufacturer: HYUNDAI DIGITECH Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HYUNDAID
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 171c6d37-77c4-42a3-8f1d-997f21f95d7d
-  mac-addresses:
+  id: d3bb8089-f387-48a4-a93d-bd4212eca46e
+  macAddresses:
   - 00:18:E9:00:00:00/24
   manufacturer: Numata Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Numata
 type: d3-device-type-assertion

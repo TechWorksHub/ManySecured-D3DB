@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f9236b9b-9090-4dbc-be14-73e748a3e90c
-  mac-addresses:
+  id: 8be76e1f-c10d-4bcb-8c4d-d44928538a37
+  macAddresses:
   - 00:25:A8:00:00:00/24
   - 00:50:C2:5B:60:00/36
   manufacturer: Kontron (BeiJing) Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KontronB
 type: d3-device-type-assertion

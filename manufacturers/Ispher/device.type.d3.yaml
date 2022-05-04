@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d770bb1-1c2f-4000-b8ea-835a1e24d8b7
-  mac-addresses:
+  id: c5e95b4d-8d1b-420e-aa6c-bc5ce7e70e33
+  macAddresses:
   - 70:B3:D5:51:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ispher
 type: d3-device-type-assertion

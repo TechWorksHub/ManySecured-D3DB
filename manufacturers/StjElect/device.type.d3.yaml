@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5a4f44d-a84c-4dce-9eec-12f545cbb4d0
-  mac-addresses:
+  id: 3b973c8b-5f59-4759-8427-d972bce76c2b
+  macAddresses:
   - 00:25:7B:00:00:00/24
   manufacturer: Stj Electronics Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StjElect
 type: d3-device-type-assertion

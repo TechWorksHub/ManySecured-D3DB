@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77aa070c-94a1-4423-be86-a6d34ac54071
-  mac-addresses:
+  id: 609b10b2-b627-4152-a5fb-ee6664861195
+  macAddresses:
   - 00:1A:56:00:00:00/24
   manufacturer: ViewTel Co,. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViewTel
 type: d3-device-type-assertion

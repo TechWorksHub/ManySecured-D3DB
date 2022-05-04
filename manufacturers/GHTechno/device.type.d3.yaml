@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b17183af-4616-4efe-83fb-f9fc35c45d6a
-  mac-addresses:
+  id: 93763a2b-b17e-42d7-b51e-b1b20dade4c2
+  macAddresses:
   - 90:8D:1D:00:00:00/24
   manufacturer: GH Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GHTechno
 type: d3-device-type-assertion

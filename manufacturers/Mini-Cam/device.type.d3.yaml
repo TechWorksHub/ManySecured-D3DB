@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b443c9c4-ca63-4b48-9499-86a6967ec7d4
-  mac-addresses:
+  id: 403fae3e-8be2-4027-bd1c-0b76b2852610
+  macAddresses:
   - 94:41:C1:00:00:00/24
   manufacturer: Mini-Cam Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mini-Cam
 type: d3-device-type-assertion

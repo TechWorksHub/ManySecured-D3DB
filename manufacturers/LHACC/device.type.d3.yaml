@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdbc9e47-c270-4bed-bf81-fee510ab9a9f
-  mac-addresses:
+  id: b59de5a9-b424-4ed1-910e-91eb3ae74b22
+  macAddresses:
   - 00:50:C2:A3:F0:00/36
   manufacturer: LHA Systems CC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LHACC
 type: d3-device-type-assertion

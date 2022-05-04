@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c10f5fb-b8b7-4b5e-80d0-2a4a40ba17da
-  mac-addresses:
+  id: 02b49f5c-88ee-444d-b27a-fd2967adbf72
+  macAddresses:
   - A0:D8:6F:00:00:00/24
   manufacturer: Argo Ai, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArgoAi
 type: d3-device-type-assertion

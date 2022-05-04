@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38fc199f-34db-4020-ac85-077c84faedb1
-  mac-addresses:
+  id: e4519ce8-0a79-46ca-ac4f-dce015d8f982
+  macAddresses:
   - 50:E0:C7:00:00:00/24
   manufacturer: TurControlSystme AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TurContr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6860e8d5-faf6-4082-af57-933920e3e6f9
-  mac-addresses:
+  id: 7a72d144-47d2-4d5a-9dd6-76706995025e
+  macAddresses:
   - 00:50:C2:44:40:00/36
   manufacturer: Offshore Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Offshore
 type: d3-device-type-assertion

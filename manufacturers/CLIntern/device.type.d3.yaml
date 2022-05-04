@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9d9eb264-442f-4723-8a69-585391393b22
-  mac-addresses:
+  id: 3d0734a7-2576-47b9-9579-7dd96b2ca05c
+  macAddresses:
   - 70:B3:D5:AB:A0:00/36
   - 78:D8:00:E0:00:00/28
   manufacturer: CL International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CLIntern
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d37dd57-ae61-4e60-a8b5-58c4b2953ed8
-  mac-addresses:
+  id: 5a77d7d1-8cc9-46dd-9098-e029101501ef
+  macAddresses:
   - 20:55:32:00:00:00/24
   manufacturer: Gotech International Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GotechIn
 type: d3-device-type-assertion

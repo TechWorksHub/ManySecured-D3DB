@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24225ba6-8523-4289-be65-24cc53be832d
-  mac-addresses:
+  id: 631bafbd-fb8a-404c-8cec-eff2b7615a50
+  macAddresses:
   - 00:A0:C3:00:00:00/24
   manufacturer: Unicomputer Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unicompu
 type: d3-device-type-assertion

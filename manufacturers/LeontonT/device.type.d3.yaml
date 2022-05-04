@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a55b5d81-6a0e-4711-bbe8-b8c3cf077e05
-  mac-addresses:
+  id: 50bf67e4-4042-4bdd-9247-70e095054687
+  macAddresses:
   - 9C:8D:D3:00:00:00/24
   manufacturer: Leonton Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeontonT
 type: d3-device-type-assertion

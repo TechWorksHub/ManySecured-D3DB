@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1d6710f-fb7b-4cb9-93bb-cb7ddc1289e6
-  mac-addresses:
+  id: 9d21932b-76b5-47d3-8800-5e8ee6c0948b
+  macAddresses:
   - 98:AA:FC:90:00:00/28
   manufacturer: BEAM Authentic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BEAMAuth
 type: d3-device-type-assertion

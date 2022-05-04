@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5328f4de-d276-4285-a0b8-480b9722d456
-  mac-addresses:
+  id: 58dd8b14-4440-4666-9658-57b0811c0a79
+  macAddresses:
   - 00:06:E3:00:00:00/24
   manufacturer: Quantitative Imaging Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quantita
 type: d3-device-type-assertion

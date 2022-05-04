@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c65f771c-8af5-4771-b274-7cc0b8fb9443
-  mac-addresses:
+  id: e08f0374-a669-4eb9-9e26-9d1c0c8230dc
+  macAddresses:
   - F4:6A:BC:00:00:00/24
   manufacturer: Adonit Corp. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adonit
 type: d3-device-type-assertion

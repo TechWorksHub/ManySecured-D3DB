@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36aab9f2-f289-42f8-bc2f-c217b5563435
-  mac-addresses:
+  id: ca52e2e9-2b72-4c69-84b7-2d452c8f1466
+  macAddresses:
   - 58:20:8A:20:00:00/28
   manufacturer: Mars Digi Tech Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarsDigi
 type: d3-device-type-assertion

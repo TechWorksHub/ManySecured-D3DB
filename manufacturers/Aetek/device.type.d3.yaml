@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06766898-1bdc-47af-b0bc-73561db64d78
-  mac-addresses:
+  id: 5467d62b-48c6-4b09-9098-3df046a50007
+  macAddresses:
   - 68:8D:B6:00:00:00/24
   manufacturer: Aetek Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aetek
 type: d3-device-type-assertion

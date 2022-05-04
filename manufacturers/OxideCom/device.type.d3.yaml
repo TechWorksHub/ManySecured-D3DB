@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2c57435-23ec-4203-b957-19a8c9ee0c4d
-  mac-addresses:
+  id: 32327368-2972-4e3a-8ecd-6320a1ea33ad
+  macAddresses:
   - A8:40:25:00:00:00/24
   manufacturer: Oxide Computer Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OxideCom
 type: d3-device-type-assertion

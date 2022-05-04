@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 581167b9-7319-462c-8f46-56e207f4e6ef
-  mac-addresses:
+  id: d2084440-dbca-49bc-80b9-0117ba6b8d7f
+  macAddresses:
   - 00:25:0F:00:00:00/24
   manufacturer: On-Ramp Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: On-RampW
 type: d3-device-type-assertion

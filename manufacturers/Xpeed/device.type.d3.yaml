@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7d191d23-99cb-4ff3-8257-740f68a82143
-  mac-addresses:
+  id: c884fd03-15f3-4808-a2c2-cf38acb10e1e
+  macAddresses:
   - 00:03:20:00:00:00/24
   - 00:50:7A:00:00:00/24
   manufacturer: Xpeed, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xpeed
 type: d3-device-type-assertion

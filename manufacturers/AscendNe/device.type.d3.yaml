@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b219793c-129b-4bdf-942e-270f3e916a82
-  mac-addresses:
+  id: c1b14e28-fde6-41d1-9833-2d7c262ea68a
+  macAddresses:
   - 00:18:2C:00:00:00/24
   manufacturer: Ascend Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AscendNe
 type: d3-device-type-assertion

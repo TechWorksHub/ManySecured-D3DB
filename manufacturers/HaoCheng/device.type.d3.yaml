@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4ade16c-eaa3-4b2e-942a-efaeb268ea28
-  mac-addresses:
+  id: 5c141c0b-0c56-47c5-ac97-9b9b514206fb
+  macAddresses:
   - E4:62:51:00:00:00/24
   manufacturer: Hao Cheng Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HaoCheng
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d6bdda4-7a51-47e7-8551-763d985640e1
-  mac-addresses:
+  id: 670ac8a0-4490-4363-911a-e62f0f1ee6bb
+  macAddresses:
   - 00:21:A5:00:00:00/24
   manufacturer: ERLPhase Power Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ERLPhase
 type: d3-device-type-assertion

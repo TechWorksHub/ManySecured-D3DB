@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01a45a65-98cf-406c-87c7-2789d375a9ab
-  mac-addresses:
+  id: 4c455386-ce8e-45b0-a73a-92ec03fda41e
+  macAddresses:
   - 18:2C:91:00:00:00/24
   manufacturer: Concept Development, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConceptD
 type: d3-device-type-assertion

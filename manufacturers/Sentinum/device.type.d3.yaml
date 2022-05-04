@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c02d110-68ea-4542-941e-0ff4ec5c2fa0
-  mac-addresses:
+  id: 664f2e11-eefa-476d-a9e8-a1842951a833
+  macAddresses:
   - FC:A8:4A:00:00:00/24
   manufacturer: Sentinum GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sentinum
 type: d3-device-type-assertion

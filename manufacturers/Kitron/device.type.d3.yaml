@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd35c2b9-ba0e-4392-bf1c-a55366143681
-  mac-addresses:
+  id: e750f162-27ea-4f38-8a33-86f1f71ba30d
+  macAddresses:
   - 00:1B:C5:07:50:00/36
   manufacturer: Kitron GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kitron
 type: d3-device-type-assertion

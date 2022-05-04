@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67694180-a858-4615-85cc-964038feacbb
-  mac-addresses:
+  id: 89dbff00-41d9-4eb4-b983-8475e0af7599
+  macAddresses:
   - 44:D5:F2:30:00:00/28
   manufacturer: Vuro Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vuro
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 63fb1fb4-cc32-4150-9155-58268fffd3cc
-  mac-addresses:
+  id: ce95c557-97df-46c1-9fde-5e84a188561d
+  macAddresses:
   - 00:50:C2:3A:60:00/36
   - 40:D8:55:0E:D0:00/36
   - 40:F3:85:30:00:00/28
   - 70:B3:D5:06:10:00/36
   manufacturer: IntelliDesign Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntelliD
 type: d3-device-type-assertion

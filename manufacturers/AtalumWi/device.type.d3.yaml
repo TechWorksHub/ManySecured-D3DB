@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3585b474-2f3e-4218-9c5a-baa9dc52d48a
-  mac-addresses:
+  id: cd1bffb2-91e0-4161-be2a-18ac4965b968
+  macAddresses:
   - 00:15:54:00:00:00/24
   manufacturer: Atalum Wireless S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtalumWi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3438fcd6-1f0f-4812-a6c5-5d05775e951d
-  mac-addresses:
+  id: df71cecf-d6de-44f5-83cb-ba90c4893508
+  macAddresses:
   - 00:E0:28:00:00:00/24
   manufacturer: Aptix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aptix
 type: d3-device-type-assertion

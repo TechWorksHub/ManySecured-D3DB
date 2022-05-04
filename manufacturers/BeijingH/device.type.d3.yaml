@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 07e78ab4-7ee0-43bf-a095-da21d968495c
-  mac-addresses:
+  id: 30c0ee4f-3995-4410-aa4d-6d833c6b5c78
+  macAddresses:
   - 00:19:75:00:00:00/24
   - 00:1D:80:00:00:00/24
   - 00:23:FF:00:00:00/24
@@ -34,6 +34,6 @@ credentialSubject:
   - EC:B8:70:00:00:00/24
   - FC:D8:17:00:00:00/24
   manufacturer: Beijing Huisen networks technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingH
 type: d3-device-type-assertion

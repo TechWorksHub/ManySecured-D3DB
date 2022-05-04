@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a37d58cd-3658-4c2c-b894-142c3ea650f1
-  mac-addresses:
+  id: d122593a-2aed-41ca-b05b-aed7bdbf4f0b
+  macAddresses:
   - 00:09:18:00:00:00/24
   - 00:0D:E5:00:00:00/24
   manufacturer: Samsung Techwin Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamsungT
 type: d3-device-type-assertion

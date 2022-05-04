@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aa814c9-7ef7-49dd-99df-893615aaa2ed
-  mac-addresses:
+  id: 870597b1-19ad-416d-9283-bc95537f4f79
+  macAddresses:
   - D8:86:0B:A0:00:00/28
   manufacturer: GLO Science
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLOScien
 type: d3-device-type-assertion

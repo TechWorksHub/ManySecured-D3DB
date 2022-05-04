@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07572369-04bc-4b0d-bd91-f02e2ca675cb
-  mac-addresses:
+  id: 73be9300-e433-4bf5-a019-1ca6b0cd08d9
+  macAddresses:
   - 5C:EB:4E:00:00:00/24
   manufacturer: R. STAHL HMI Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RSTAHLHM
 type: d3-device-type-assertion

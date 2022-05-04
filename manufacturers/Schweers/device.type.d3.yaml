@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16ff4e60-b3af-4393-8587-a23bb6ecb797
-  mac-addresses:
+  id: 1f8b260c-9dcd-4bde-ad08-bc7635ad5543
+  macAddresses:
   - 40:D8:55:03:60:00/36
   manufacturer: Schweers informationstechnologie GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Schweers
 type: d3-device-type-assertion

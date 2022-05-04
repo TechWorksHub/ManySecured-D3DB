@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09ec3b82-50d1-4229-be8a-c976a67ef6dd
-  mac-addresses:
+  id: 479bf974-ce0c-42ce-93b9-64eb8fd1dea4
+  macAddresses:
   - 00:10:EA:00:00:00/24
   manufacturer: Adept Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdeptTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92ccd684-9edb-4810-b7ad-856ece245442
-  mac-addresses:
+  id: c155ff8d-a222-41c7-86a3-a2e35a3b2131
+  macAddresses:
   - 00:02:60:00:00:00/24
   manufacturer: Accordion Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accordio
 type: d3-device-type-assertion

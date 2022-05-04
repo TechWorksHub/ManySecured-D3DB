@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8688968-1d92-42f7-a294-133b47ee4655
-  mac-addresses:
+  id: 1fcbc9b4-24e3-440c-9fbf-4de2603361c9
+  macAddresses:
   - 00:80:F7:00:00:00/24
   manufacturer: Zenith Communications Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZenithCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c1da9f8-59ad-4004-9543-60281e67170f
-  mac-addresses:
+  id: 440c4f5f-8478-463f-b931-1968a569a3cb
+  macAddresses:
   - 00:1E:27:00:00:00/24
   manufacturer: SBN TECH Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SBNTECH
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c643552-ad98-4259-8d30-2de2ce38f89d
-  mac-addresses:
+  id: 47427c65-394b-4853-8e1c-bf9b40d33bc0
+  macAddresses:
   - 1C:CA:E3:60:00:00/28
   manufacturer: Tokai Rika Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TokaiRik
 type: d3-device-type-assertion

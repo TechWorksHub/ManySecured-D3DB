@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec6723b6-f0e8-4171-abe0-f5e36b2064d5
-  mac-addresses:
+  id: 0d02702b-c296-48ab-b339-87a4ef002e4c
+  macAddresses:
   - 40:F3:85:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Creanord
 type: d3-device-type-assertion

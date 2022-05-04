@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ceb654c5-069f-4af3-a92b-f45ab497858e
-  mac-addresses:
+  id: 2cf4b2b7-6356-4c20-9980-fb7643759be3
+  macAddresses:
   - 00:30:A9:00:00:00/24
   manufacturer: Netiverse, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netivers
 type: d3-device-type-assertion

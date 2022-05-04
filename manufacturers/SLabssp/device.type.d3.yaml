@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d5609565-bd7b-4ab6-868e-571115cf8de4
-  mac-addresses:
+  id: 2a3a129b-7653-4998-83ea-e89882461acd
+  macAddresses:
   - 60:15:92:00:00:00/28
   - 70:B3:D5:C5:30:00/36
   manufacturer: S Labs sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SLabssp
 type: d3-device-type-assertion

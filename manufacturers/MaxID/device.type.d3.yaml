@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecc5433f-0156-47a6-82f5-eb56ae74063e
-  mac-addresses:
+  id: 5bcc8569-c005-4c8a-b0dd-88094e10c934
+  macAddresses:
   - F0:BC:C8:00:00:00/24
   manufacturer: MaxID (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxID
 type: d3-device-type-assertion

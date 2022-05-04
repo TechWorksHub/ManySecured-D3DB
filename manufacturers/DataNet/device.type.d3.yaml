@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf3b7d04-a63a-4c8a-a2d4-0cea3f035354
-  mac-addresses:
+  id: 4af71c62-fef6-448a-b884-e9a10df52eac
+  macAddresses:
   - 00:20:41:00:00:00/24
   manufacturer: Data Net
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DataNet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6ef63a2-9e1e-4079-b273-c46dce9c08ad
-  mac-addresses:
+  id: 3e9e8064-1fa4-4ace-9d9c-642bf4d58aa8
+  macAddresses:
   - 00:30:1A:00:00:00/24
   manufacturer: Smartbridges Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartbri
 type: d3-device-type-assertion

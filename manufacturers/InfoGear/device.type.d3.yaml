@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f35ad59d-3c29-4576-b402-6249d7f6d73c
-  mac-addresses:
+  id: 1acb6ded-c1cf-44fd-b0be-b0641794edf3
+  macAddresses:
   - 00:B0:17:00:00:00/24
   manufacturer: InfoGear Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InfoGear
 type: d3-device-type-assertion

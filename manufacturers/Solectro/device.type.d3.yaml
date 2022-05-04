@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 78378442-7d5d-4194-8299-14356c6f0221
-  mac-addresses:
+  id: 7d825425-db67-4106-aab2-0c5e14907c41
+  macAddresses:
   - 00:0B:6D:00:00:00/24
   - 00:10:E5:00:00:00/24
   - 00:11:9E:00:00:00/24
   - 00:50:C2:20:70:00/36
   manufacturer: Solectron Japan Nakaniida
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Solectro
 type: d3-device-type-assertion

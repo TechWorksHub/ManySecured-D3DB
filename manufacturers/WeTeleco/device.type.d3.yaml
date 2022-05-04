@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70985f86-b314-416a-8f23-683c9d9d44d5
-  mac-addresses:
+  id: b1af6872-8549-4b9e-8e30-7fd71c36c22a
+  macAddresses:
   - B4:94:4E:00:00:00/24
   manufacturer: WeTelecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeTeleco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d15cd9a-5826-4b49-835d-e9d93e9546b1
-  mac-addresses:
+  id: 16a68cc0-8caf-4cb1-b05b-9661dfc1f005
+  macAddresses:
   - E4:8F:65:00:00:00/24
   manufacturer: Yelatma Instrument Making Enterprise, JSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YelatmaI
 type: d3-device-type-assertion

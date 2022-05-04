@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c5628b0-2d2d-4c2a-90bc-c7303b7af1cb
-  mac-addresses:
+  id: fc6cc105-4460-4b2d-86f9-1fddce42c298
+  macAddresses:
   - 00:1B:49:00:00:00/24
   manufacturer: Roberts Radio limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RobertsR
 type: d3-device-type-assertion

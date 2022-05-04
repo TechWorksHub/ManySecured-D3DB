@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ad79896-a587-4695-beb4-77b1c5cb0e29
-  mac-addresses:
+  id: 0a5b2b11-68f2-477a-b113-5db40ecea5ef
+  macAddresses:
   - 40:16:FA:00:00:00/24
   manufacturer: EKM Metering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EKMMeter
 type: d3-device-type-assertion

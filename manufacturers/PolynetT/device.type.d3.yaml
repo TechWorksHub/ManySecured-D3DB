@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8798a863-7ffc-4a01-9342-1a579cf11ee9
-  mac-addresses:
+  id: a2d39f90-350e-4646-bdfa-8d0c5da3b110
+  macAddresses:
   - 70:B3:D5:87:70:00/36
   manufacturer: Polynet Telecommunications Consulting and Contractor Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PolynetT
 type: d3-device-type-assertion

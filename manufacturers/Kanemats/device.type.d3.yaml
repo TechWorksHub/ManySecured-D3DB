@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0423292b-4410-41d0-966c-0d7e564333e5
-  mac-addresses:
+  id: 4dd21d0d-092c-4e6b-bff9-514e6b58e01c
+  macAddresses:
   - 00:09:B1:00:00:00/24
   manufacturer: Kanematsu Electronics, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kanemats
 type: d3-device-type-assertion

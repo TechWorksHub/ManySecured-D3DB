@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b80ee78-72b6-4775-b189-8f4da08f392a
-  mac-addresses:
+  id: b8a084bc-fdc4-4e63-9bea-f790943f71e7
+  macAddresses:
   - 70:B3:D5:D9:D0:00/36
   manufacturer: Electroimpact, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Electroi
 type: d3-device-type-assertion

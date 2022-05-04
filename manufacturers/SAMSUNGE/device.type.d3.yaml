@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9bcc0da6-4ff0-4f4a-b7d4-e194937dedd5
-  mac-addresses:
+  id: 231e13de-b1b6-4e32-8289-69539a1c39c9
+  macAddresses:
   - 00:23:C2:00:00:00/24
   - 00:50:C2:E6:C0:00/36
   manufacturer: SAMSUNG Electronics. Co. LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAMSUNGE
 type: d3-device-type-assertion

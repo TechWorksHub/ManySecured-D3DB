@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4be0edb4-690d-4cba-9ffc-c556d8affc2c
-  mac-addresses:
+  id: 8adda7b2-32fa-45a6-98f4-c7147095ec9e
+  macAddresses:
   - D4:81:CA:00:00:00/24
   manufacturer: iDevices, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iDevices
 type: d3-device-type-assertion

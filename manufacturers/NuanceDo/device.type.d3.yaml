@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6780d711-3c87-4147-801c-8e1544488dcb
-  mac-addresses:
+  id: 9db3fea6-af28-4a61-bfa7-5f90718b28f0
+  macAddresses:
   - 00:08:24:00:00:00/24
   manufacturer: Nuance Document Imaging
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NuanceDo
 type: d3-device-type-assertion

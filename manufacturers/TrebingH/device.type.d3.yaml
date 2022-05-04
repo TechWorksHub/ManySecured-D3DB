@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f75f3d05-8e9a-4d97-8cd7-a9ffab2ea4e4
-  mac-addresses:
+  id: 2b4cabb3-bd4c-48d4-814f-9a1b682d16f1
+  macAddresses:
   - 00:14:13:00:00:00/24
   manufacturer: "Trebing & Himstedt Proze\xDFautomation GmbH & Co. KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrebingH
 type: d3-device-type-assertion

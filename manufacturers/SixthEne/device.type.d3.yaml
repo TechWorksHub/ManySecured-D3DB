@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d464ea20-eee0-4427-bac2-05fbfb5b1fc6
-  mac-addresses:
+  id: a093b16a-5f9e-489e-8ac4-0bab0a1b0495
+  macAddresses:
   - 30:0A:60:D0:00:00/28
   manufacturer: Sixth Energy Technologies Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SixthEne
 type: d3-device-type-assertion

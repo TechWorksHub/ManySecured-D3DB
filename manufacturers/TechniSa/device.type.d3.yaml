@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4bed0ef0-032f-4a88-bc90-fe86ece8fd3f
-  mac-addresses:
+  id: 517809e4-989d-45fd-9ef9-f9401cd4ae03
+  macAddresses:
   - 00:08:C9:00:00:00/24
   manufacturer: TechniSat Digital GmbH Daun
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechniSa
 type: d3-device-type-assertion

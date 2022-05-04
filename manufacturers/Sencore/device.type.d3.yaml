@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d387cf4a-0fac-421e-8a02-244d531bac68
-  mac-addresses:
+  id: 782addb0-1b43-449e-be44-668afc0180f5
+  macAddresses:
   - 00:06:4D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sencore
 type: d3-device-type-assertion

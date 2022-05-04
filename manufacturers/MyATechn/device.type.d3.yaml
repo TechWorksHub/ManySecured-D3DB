@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4cb6d935-18bc-4111-8b02-bbe0d816b82c
-  mac-addresses:
+  id: c737788e-283c-4010-8895-5bbcd80c2e05
+  macAddresses:
   - 00:0E:18:00:00:00/24
   manufacturer: MyA Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MyATechn
 type: d3-device-type-assertion

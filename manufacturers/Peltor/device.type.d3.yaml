@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9572b4c-1fe2-4eda-a69f-7b8f9a387866
-  mac-addresses:
+  id: 62519557-d48d-48cc-afba-fab200cde4a4
+  macAddresses:
   - 00:15:F3:00:00:00/24
   manufacturer: Peltor Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Peltor
 type: d3-device-type-assertion

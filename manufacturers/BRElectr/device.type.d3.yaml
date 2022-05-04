@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e45ddabe-fcb1-4cc9-8b00-658002a4adec
-  mac-addresses:
+  id: f6860d45-a16e-460f-a08c-e1a3dab50464
+  macAddresses:
   - 00:50:C2:04:70:00/36
   manufacturer: B. R. Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BRElectr
 type: d3-device-type-assertion

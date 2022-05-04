@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e3ca4b0-a4d0-4b5d-a0f1-90a833fd2a3a
-  mac-addresses:
+  id: 77ae9e4c-c3c8-4035-bd34-83e911419861
+  macAddresses:
   - 00:06:44:00:00:00/24
   manufacturer: NextGen Business Solutions, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextGenB
 type: d3-device-type-assertion

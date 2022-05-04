@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f6ad8ff-0c08-4ac6-867c-5340362f0a06
-  mac-addresses:
+  id: c63ba044-a4e0-4132-87d9-4c8893caac89
+  macAddresses:
   - E0:5D:A6:00:00:00/24
   manufacturer: Detlef Fink Elektronik & Softwareentwicklung
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DetlefFi
 type: d3-device-type-assertion

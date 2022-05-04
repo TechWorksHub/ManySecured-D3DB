@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbef4193-505c-4eb3-91f4-91188e9392e6
-  mac-addresses:
+  id: b68d6aeb-8f2e-4bda-a8e4-ab61b64e587d
+  macAddresses:
   - 00:00:8A:00:00:00/24
   manufacturer: Datahouse Information Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datahous
 type: d3-device-type-assertion

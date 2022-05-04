@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22975d51-108e-48eb-a684-e1040fdb09ee
-  mac-addresses:
+  id: 247063fd-7827-4587-a018-5eed64c2a998
+  macAddresses:
   - 70:B3:D5:37:E0:00/36
   manufacturer: Elinkgate Jsc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elinkgat
 type: d3-device-type-assertion

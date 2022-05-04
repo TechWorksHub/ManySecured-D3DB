@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7154053-09c1-47ac-b9c7-2ad31e0dc6bf
-  mac-addresses:
+  id: 5a35316c-3e4b-4e80-a5f5-71591db13120
+  macAddresses:
   - AC:58:7B:00:00:00/24
   manufacturer: JCT Healthcare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JCTHealt
 type: d3-device-type-assertion

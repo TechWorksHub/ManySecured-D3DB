@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea29fcdd-515f-42e0-aedd-72a54cedd5de
-  mac-addresses:
+  id: 5334401a-28a8-4fde-8453-2d799bbfd87e
+  macAddresses:
   - 00:50:C2:72:F0:00/36
   manufacturer: Priority Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Priority
 type: d3-device-type-assertion

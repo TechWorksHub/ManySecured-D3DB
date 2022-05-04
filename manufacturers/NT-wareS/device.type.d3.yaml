@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a1dcd3d-43f1-4701-a5b8-0bf787b76670
-  mac-addresses:
+  id: 0dd2e090-8155-4204-bc53-29c893a9b177
+  macAddresses:
   - 74:32:56:00:00:00/24
   manufacturer: NT-ware Systemprg GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NT-wareS
 type: d3-device-type-assertion

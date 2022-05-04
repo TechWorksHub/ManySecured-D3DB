@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73c3f8e9-10bf-4213-aee2-82f15c9f592f
-  mac-addresses:
+  id: 7f2dfe03-4afc-4e79-9539-6f570211a36e
+  macAddresses:
   - D8:F1:F0:00:00:00/24
   manufacturer: Pepxim International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PepximIn
 type: d3-device-type-assertion

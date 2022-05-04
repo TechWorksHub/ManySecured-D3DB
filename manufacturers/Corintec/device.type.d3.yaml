@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15fb9ee0-383a-4d0d-8e85-190889264699
-  mac-addresses:
+  id: 5ba8d2cd-c9c2-41e9-b9a0-c04b5dd5e89d
+  macAddresses:
   - 98:8B:AD:00:00:00/24
   manufacturer: Corintech Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corintec
 type: d3-device-type-assertion

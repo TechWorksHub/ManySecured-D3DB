@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 641961b5-089e-4b9d-b990-0b1d221369b1
-  mac-addresses:
+  id: 6de2f9fd-1868-40e3-9036-dcdc6f6f572e
+  macAddresses:
   - 4C:9E:6C:00:00:00/24
   manufacturer: Broadex Technologies Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BroadexT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32038a3f-4d04-4278-a4b2-b73f88069ff8
-  mac-addresses:
+  id: 071af294-9801-401b-a596-6a348d78a319
+  macAddresses:
   - AC:CE:8F:00:00:00/24
   manufacturer: Hwa Yao Technologies Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HwaYaoTe
 type: d3-device-type-assertion

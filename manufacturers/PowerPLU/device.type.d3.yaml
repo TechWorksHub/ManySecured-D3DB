@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd63c3b2-63a8-4328-8f16-b4b096cf0661
-  mac-addresses:
+  id: 16362882-d38b-46e3-a5d9-3b11baccd4e8
+  macAddresses:
   - 00:25:18:00:00:00/24
   manufacturer: Power PLUS Communications AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerPLU
 type: d3-device-type-assertion

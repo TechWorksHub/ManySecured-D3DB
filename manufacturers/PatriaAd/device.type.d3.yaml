@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 838e126e-3829-4fb5-bf7b-1f70c7a4581a
-  mac-addresses:
+  id: 75ee582a-9950-419e-bb59-2ed6d2ed2dfe
+  macAddresses:
   - 00:50:C2:2F:F0:00/36
   manufacturer: Patria Advanced Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PatriaAd
 type: d3-device-type-assertion

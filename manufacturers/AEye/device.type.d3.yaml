@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd569bee-f948-4967-9f4f-92840d51aa76
-  mac-addresses:
+  id: 59416979-c852-4331-9398-555a36b2a2e4
+  macAddresses:
   - 70:B3:D5:B5:20:00/36
   manufacturer: AEye, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEye
 type: d3-device-type-assertion

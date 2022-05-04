@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 88ccd744-2c14-4b44-ad52-d730c1a9407f
-  mac-addresses:
+  id: b6072694-1400-428a-b631-d72b79a1cf75
+  macAddresses:
   - 00:04:1F:00:00:00/24
   - 00:13:15:00:00:00/24
   - 00:15:C1:00:00:00/24
@@ -26,6 +26,6 @@ credentialSubject:
   - F8:D0:AC:00:00:00/24
   - FC:0F:E6:00:00:00/24
   manufacturer: Sony Interactive Entertainment Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonyInte
 type: d3-device-type-assertion

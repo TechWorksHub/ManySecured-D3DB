@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0df4238a-9f4f-4cc1-810d-8af6c2502d15
-  mac-addresses:
+  id: e9a5f284-0208-4ec9-9c08-8c49bdf5cad5
+  macAddresses:
   - 00:40:03:00:00:00/24
   manufacturer: Emerson Process Management Power & Water Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmersonP
 type: d3-device-type-assertion

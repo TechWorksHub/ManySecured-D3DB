@@ -1,11 +1,11 @@
 credentialSubject:
-  id: ad4cc46d-a5f5-49bf-be49-55e0d37d9487
-  mac-addresses:
+  id: 2aa9857c-df35-419b-9967-aeb52f953d72
+  macAddresses:
   - 50:A4:D0:A0:00:00/28
   - 7C:BA:CC:10:00:00/28
   - 88:5F:E8:80:00:00/28
   - A4:58:0F:70:00:00/28
   manufacturer: Changsha SinoCare, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Changsha
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d471dc3f-fac1-4fdb-9f1f-5ea0bc3988f4
-  mac-addresses:
+  id: 879e2206-76c6-4f7e-8efa-380dcc1d0078
+  macAddresses:
   - 70:B3:D5:EE:30:00/36
   manufacturer: Lithe Technology, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LitheTec
 type: d3-device-type-assertion

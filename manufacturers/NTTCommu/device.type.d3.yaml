@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06d1f0b0-f1ba-4fd0-a0e3-2de3e0d4cfcf
-  mac-addresses:
+  id: 6150ae77-544a-48eb-813e-a884c201ee0a
+  macAddresses:
   - 34:EF:8B:00:00:00/24
   manufacturer: NTT Communications Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NTTCommu
 type: d3-device-type-assertion

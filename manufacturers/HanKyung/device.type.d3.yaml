@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28e456c5-8e0c-4ad7-9629-28903d2839b7
-  mac-addresses:
+  id: b994cd8f-8c9f-4ecd-8e6a-14161de72885
+  macAddresses:
   - FC:22:9C:00:00:00/24
   manufacturer: Han Kyung I Net Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanKyung
 type: d3-device-type-assertion

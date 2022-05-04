@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d5874c0-0301-4815-aab2-336b32cc040a
-  mac-addresses:
+  id: a1668573-f1eb-4b1d-8ef1-906be95ee4a2
+  macAddresses:
   - 58:E8:76:60:00:00/28
   manufacturer: DivioTec Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DivioTec
 type: d3-device-type-assertion

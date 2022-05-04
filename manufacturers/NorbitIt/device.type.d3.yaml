@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8106276-2eac-4b14-a256-24c1a5151507
-  mac-addresses:
+  id: 407dfb49-9474-469a-9d9f-f8ac1134a9ff
+  macAddresses:
   - 10:37:11:00:00:00/24
   manufacturer: Norbit Its
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NorbitIt
 type: d3-device-type-assertion

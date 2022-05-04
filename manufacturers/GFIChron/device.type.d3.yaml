@@ -1,12 +1,12 @@
 credentialSubject:
-  id: ae55f309-c056-4a67-8f66-8411c1e56890
-  mac-addresses:
+  id: a18124c0-ea78-4277-8873-094d07e8f529
+  macAddresses:
   - 00:50:C2:08:20:00/36
   - 00:50:C2:1D:A0:00/36
   - 00:50:C2:4B:70:00/36
   - 00:50:C2:7E:F0:00/36
   - 3C:19:15:00:00:00/24
   manufacturer: GFI Chrono Time
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GFIChron
 type: d3-device-type-assertion

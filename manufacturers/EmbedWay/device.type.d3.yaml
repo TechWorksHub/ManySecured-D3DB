@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b504e614-45bc-47da-b16f-a42530193b54
-  mac-addresses:
+  id: e3cc77b1-d10f-42fa-91a6-dcaad5d49392
+  macAddresses:
   - 5C:A1:E0:00:00:00/24
   manufacturer: EmbedWay Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmbedWay
 type: d3-device-type-assertion

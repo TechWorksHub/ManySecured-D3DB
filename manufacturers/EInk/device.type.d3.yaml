@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f5e0f93-644f-4c94-b4b4-1a71882d4eeb
-  mac-addresses:
+  id: 9395e4b4-60da-49d2-a431-b34b9e298d5b
+  macAddresses:
   - CC:22:37:90:00:00/28
   manufacturer: E Ink Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EInk
 type: d3-device-type-assertion

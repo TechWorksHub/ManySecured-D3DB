@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2baeafd4-9e25-48ce-85fa-d89d6db6c23e
-  mac-addresses:
+  id: 0af0527e-a062-43fe-bf26-fffe89f9f9a8
+  macAddresses:
   - 2C:D1:41:30:00:00/28
   manufacturer: AOptix Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AOptixTe
 type: d3-device-type-assertion

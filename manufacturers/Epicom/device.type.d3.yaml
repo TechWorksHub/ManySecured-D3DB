@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4d81d62a-04ef-414c-9acc-be8878ce4751
-  mac-addresses:
+  id: 92e53b44-5f8a-4ca2-8408-d550961637cc
+  macAddresses:
   - 00:13:05:00:00:00/24
   - 1C:0B:52:00:00:00/24
   manufacturer: Epicom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Epicom
 type: d3-device-type-assertion

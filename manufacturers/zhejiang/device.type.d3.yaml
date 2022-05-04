@@ -1,10 +1,10 @@
 credentialSubject:
-  id: a5527af0-8e3e-4841-bef3-c0511eb20926
-  mac-addresses:
+  id: ba4514a8-2d12-454b-a034-4841ee349ff9
+  macAddresses:
   - 18:D7:93:A0:00:00/28
   - 88:5F:E8:D0:00:00/28
   - 8C:C7:D0:00:00:00/24
   manufacturer: zhejiang Anhong technology co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: zhejiang
 type: d3-device-type-assertion

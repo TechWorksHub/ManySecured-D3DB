@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 768cbafa-e2a2-4ef6-81f7-b8a9a878aff4
-  mac-addresses:
+  id: a6d9486b-bbf8-4246-932c-3e65c49ce9d7
+  macAddresses:
   - 10:27:79:00:00:00/24
   - 70:B3:D5:68:B0:00/36
   - 70:B3:D5:7A:A0:00/36
   - 70:B3:D5:A7:40:00/36
   manufacturer: Sadel S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sadel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5553e20-a7ba-4dcd-bbda-71541123dd71
-  mac-addresses:
+  id: e7fea9f4-2098-4309-8f3c-ffd99dd6ba1a
+  macAddresses:
   - AC:06:13:00:00:00/24
   manufacturer: Senselogix Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senselog
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff780a4f-721b-4f35-b4dd-ed59aa4a47dc
-  mac-addresses:
+  id: 2ae92184-b767-429d-895c-f2b2c37748ab
+  macAddresses:
   - 00:22:70:00:00:00/24
   manufacturer: ABK North America, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABKNorth
 type: d3-device-type-assertion

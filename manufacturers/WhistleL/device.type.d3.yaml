@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9761a514-11be-4aa5-b3c7-43197557ae8f
-  mac-addresses:
+  id: 211840bd-334f-4ec4-947e-75f38546ee7c
+  macAddresses:
   - E0:7C:62:00:00:00/24
   manufacturer: Whistle Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhistleL
 type: d3-device-type-assertion

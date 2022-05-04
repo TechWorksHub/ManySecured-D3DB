@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 895cd531-00e8-4555-a412-4b52bb6fb5d2
-  mac-addresses:
+  id: edb59e40-e3ac-40bf-ab0d-ef03f66f9bd5
+  macAddresses:
   - F4:F6:46:00:00:00/24
   manufacturer: Dediprog Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dediprog
 type: d3-device-type-assertion

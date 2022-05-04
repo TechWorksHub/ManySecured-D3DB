@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9bd1f43-60ba-459a-806a-ee39d1b33b13
-  mac-addresses:
+  id: 7b598c95-4458-460a-9e01-077af32fcb87
+  macAddresses:
   - 7C:BA:CC:60:00:00/28
   manufacturer: Fossil Power Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FossilPo
 type: d3-device-type-assertion

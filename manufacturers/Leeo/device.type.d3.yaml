@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83c851ef-93d7-435b-bed1-7ca206dea126
-  mac-addresses:
+  id: 46da5a1f-4e1b-46d4-a595-bd99657f3e8f
+  macAddresses:
   - 50:F4:3C:00:00:00/24
   manufacturer: Leeo Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leeo
 type: d3-device-type-assertion

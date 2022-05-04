@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5aea0416-d8e6-4b4a-a4e4-3af8ab1d3930
-  mac-addresses:
+  id: 1828a91f-6e1b-4ef3-b295-0b757fdff772
+  macAddresses:
   - 00:19:D8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maxfor
 type: d3-device-type-assertion

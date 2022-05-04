@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1b56d8d-a2ec-4bff-8a33-7b14e70e1c1c
-  mac-addresses:
+  id: fb7f2e66-7a1c-4b8e-bee9-351359baea1e
+  macAddresses:
   - 00:50:C2:56:70:00/36
   manufacturer: Tess GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tess
 type: d3-device-type-assertion

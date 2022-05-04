@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce61307b-8e8e-4505-9faa-1035abeed931
-  mac-addresses:
+  id: 4f09d8da-44c8-433e-ba60-d542236e6785
+  macAddresses:
   - 00:07:E7:00:00:00/24
   manufacturer: FreeWave Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FreeWave
 type: d3-device-type-assertion

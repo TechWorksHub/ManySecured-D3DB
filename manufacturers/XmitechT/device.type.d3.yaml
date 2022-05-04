@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0b5b88e-447c-4b20-9a09-9d5934ecbadb
-  mac-addresses:
+  id: f3052249-c45b-4746-a438-e5c1d5353cf3
+  macAddresses:
   - FC:CD:2F:30:00:00/28
   manufacturer: Xmitech Technology Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XmitechT
 type: d3-device-type-assertion

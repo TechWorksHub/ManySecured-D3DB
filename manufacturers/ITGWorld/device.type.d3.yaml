@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 922d054a-eaa6-47ce-a6bd-06f113a55d48
-  mac-addresses:
+  id: becb2fe4-1d63-41ac-b7f9-ad5324081e8f
+  macAddresses:
   - 00:15:46:00:00:00/24
   manufacturer: ITG Worldwide Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITGWorld
 type: d3-device-type-assertion

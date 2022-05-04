@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53ac898e-fcf6-4ebf-b86c-1effb0d85951
-  mac-addresses:
+  id: bd4f503c-074f-4b42-b741-d3375e910a46
+  macAddresses:
   - 88:4A:18:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opulinks
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe64b080-4eed-4fab-9303-f2aeae15d4f4
-  mac-addresses:
+  id: c22860d9-f1e1-42fd-b5db-3aa8551cbe89
+  macAddresses:
   - 00:0E:F6:00:00:00/24
   manufacturer: E-TEN Information Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-TENInf
 type: d3-device-type-assertion

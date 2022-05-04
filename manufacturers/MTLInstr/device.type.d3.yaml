@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 414b707c-05e3-4333-893b-91a1ff60366a
-  mac-addresses:
+  id: b8631920-7685-49d0-b10d-c3582f9ed346
+  macAddresses:
   - 00:09:0B:00:00:00/24
   manufacturer: MTL Instruments PLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MTLInstr
 type: d3-device-type-assertion

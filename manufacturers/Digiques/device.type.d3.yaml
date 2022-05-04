@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 592536fc-3b4e-4646-8b44-62b5519be716
-  mac-addresses:
+  id: a14a6932-0e05-4489-b5eb-f0fcde8b8440
+  macAddresses:
   - 6C:09:D6:00:00:00/24
   manufacturer: Digiquest Electronics LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digiques
 type: d3-device-type-assertion

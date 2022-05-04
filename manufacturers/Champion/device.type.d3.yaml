@@ -1,9 +1,9 @@
 credentialSubject:
-  id: af7819f6-a907-4f98-a596-fcd1cc3bb565
-  mac-addresses:
+  id: 71aa48ce-38fb-4fc0-a278-bd9c1755cadd
+  macAddresses:
   - E4:4E:76:00:00:00/24
   - E8:07:34:00:00:00/24
   manufacturer: Championtech Enterprise (Shenzhen) Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Champion
 type: d3-device-type-assertion

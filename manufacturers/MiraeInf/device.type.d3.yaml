@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 21988394-9426-4f97-ab7c-4ffc7dc56179
-  mac-addresses:
+  id: f449d6a3-2b18-4934-8cc8-7b035d95fcbc
+  macAddresses:
   - 34:58:7C:00:00:00/24
   - 70:B3:D5:05:60:00/36
   manufacturer: Mirae Information Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiraeInf
 type: d3-device-type-assertion

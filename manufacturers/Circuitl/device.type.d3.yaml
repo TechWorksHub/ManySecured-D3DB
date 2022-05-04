@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b1b73461-94b6-469c-a68c-587a2f10dccb
-  mac-addresses:
+  id: e1091dcb-6729-4d22-aee1-fe078017a9cd
+  macAddresses:
   - 40:D8:55:04:60:00/36
   - 70:B3:D5:09:40:00/36
   manufacturer: Circuitlink Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Circuitl
 type: d3-device-type-assertion

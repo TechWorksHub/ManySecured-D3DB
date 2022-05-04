@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9070f774-7914-4ce3-b34f-192bc0fc6496
-  mac-addresses:
+  id: e3d53346-2867-4575-9785-111ee4817d18
+  macAddresses:
   - 38:F7:CD:90:00:00/28
   manufacturer: RFbeam Microwave GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFbeamMi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84a23c2b-2300-4fe9-b1c3-778832957d5e
-  mac-addresses:
+  id: bfd1b714-6460-4c0e-bd7e-d64048c09deb
+  macAddresses:
   - 90:A7:83:00:00:00/24
   manufacturer: Jsw Pacific Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JswPacif
 type: d3-device-type-assertion

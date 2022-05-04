@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a441ae2-183c-4251-8aa3-c0a0074dd336
-  mac-addresses:
+  id: fec0a616-119a-49ab-a820-c5bb43dead12
+  macAddresses:
   - 00:20:CD:00:00:00/24
   manufacturer: Hybrid Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HybridNe
 type: d3-device-type-assertion

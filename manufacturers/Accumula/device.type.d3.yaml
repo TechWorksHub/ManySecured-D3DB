@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00b50965-8c8b-436e-873a-3d7ed25797c5
-  mac-addresses:
+  id: cf9ba5ef-e08d-4742-917a-55fbb2e4384c
+  macAddresses:
   - D0:76:50:80:00:00/28
   manufacturer: Accumulate AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accumula
 type: d3-device-type-assertion

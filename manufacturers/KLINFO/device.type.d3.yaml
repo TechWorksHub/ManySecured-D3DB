@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3953d15-5685-4b24-81f8-7ae5afbf60e7
-  mac-addresses:
+  id: e10ef0fb-d965-4958-ab30-bd215335bfa4
+  macAddresses:
   - A4:79:E4:00:00:00/24
   manufacturer: KLINFO Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KLINFO
 type: d3-device-type-assertion

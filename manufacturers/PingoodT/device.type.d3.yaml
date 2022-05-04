@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f65d8d30-6223-4c1b-b16b-20e5eb40163f
-  mac-addresses:
+  id: 6edbe932-e36c-48fa-bc8a-7fbbda7cb1d5
+  macAddresses:
   - 00:1F:69:00:00:00/24
   manufacturer: Pingood Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PingoodT
 type: d3-device-type-assertion

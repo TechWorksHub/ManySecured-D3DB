@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72cdca59-3165-4e2a-8e0a-8d48c870d1d7
-  mac-addresses:
+  id: 5892988f-2a89-4c68-9ccd-c8f627735b4d
+  macAddresses:
   - 00:50:C2:66:10:00/36
   manufacturer: P.C.E.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCE
 type: d3-device-type-assertion

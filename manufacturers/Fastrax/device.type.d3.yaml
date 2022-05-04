@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e29ae29-5143-4bf8-9103-884182b3e585
-  mac-addresses:
+  id: 1f290d54-379d-4548-bf91-2faf629ec48a
+  macAddresses:
   - 00:12:09:00:00:00/24
   manufacturer: Fastrax Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fastrax
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9242438-1a40-4c6a-8e28-2fe8a32c1910
-  mac-addresses:
+  id: 9f7ddc77-437b-4e46-abec-d79a251acc79
+  macAddresses:
   - 00:22:13:00:00:00/24
   manufacturer: Pci Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pci
 type: d3-device-type-assertion

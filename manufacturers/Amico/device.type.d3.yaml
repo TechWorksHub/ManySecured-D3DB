@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81fab763-0ddc-47b0-9dc2-97b1fa4257f6
-  mac-addresses:
+  id: 591739ed-2173-4d79-bbcf-e95c4283b8ad
+  macAddresses:
   - 70:B3:D5:B9:00:00/36
   manufacturer: Amico Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amico
 type: d3-device-type-assertion

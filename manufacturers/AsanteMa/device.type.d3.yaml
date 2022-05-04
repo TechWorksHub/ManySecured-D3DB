@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 833684b1-53bb-4cac-bd44-e44b9aedc44f
-  mac-addresses:
+  id: 83927fcf-7309-4e08-b77c-6511e055e4d2
+  macAddresses:
   - 00:00:94:00:00:00/24
   manufacturer: Asante
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsanteMa
 type: d3-device-type-assertion

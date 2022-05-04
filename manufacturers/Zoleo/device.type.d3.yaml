@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0448f75b-d70d-4d3a-89bc-0c21f3beeb2d
-  mac-addresses:
+  id: 392d9cbe-a76b-4cd1-8548-a31e276b6e43
+  macAddresses:
   - 98:06:37:00:00:00/28
   manufacturer: Zoleo Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zoleo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf4b9195-1948-46e7-8b04-7d5ba7a3e9e9
-  mac-addresses:
+  id: af1e9f85-af2f-4807-b7ba-2c25b575f1a5
+  macAddresses:
   - 00:C0:FC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asdg
 type: d3-device-type-assertion

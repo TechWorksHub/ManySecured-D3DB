@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4f36792-3674-472d-8da3-d033cd44326e
-  mac-addresses:
+  id: 7b957bb9-ca21-4aae-8f6d-69be1291ccd5
+  macAddresses:
   - 00:D0:07:00:00:00/24
   manufacturer: Mic Associates, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicAssoc
 type: d3-device-type-assertion

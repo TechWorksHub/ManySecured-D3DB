@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c591ed2f-500e-4e91-a980-93e1a50d55b8
-  mac-addresses:
+  id: 65646842-29ff-43f1-8b90-29ff25c43f3e
+  macAddresses:
   - BC:1C:81:00:00:00/24
   manufacturer: Sichuan iLink Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sichuani
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8da7686-cef9-4adc-b6cc-65b11576c2f8
-  mac-addresses:
+  id: fcf704fb-1c85-4bf7-a924-863ad5db9c86
+  macAddresses:
   - 28:0C:28:00:00:00/24
   manufacturer: Unigen DataStorage Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnigenDa
 type: d3-device-type-assertion

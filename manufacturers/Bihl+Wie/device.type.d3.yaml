@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d7112843-9f1e-416f-ac0e-e4a591248414
-  mac-addresses:
+  id: 9efd3c08-b188-488f-b636-5c2504d1806b
+  macAddresses:
   - 00:16:77:00:00:00/24
   - 00:50:C2:01:10:00/36
   manufacturer: Bihl + Wiedemann GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bihl+Wie
 type: d3-device-type-assertion

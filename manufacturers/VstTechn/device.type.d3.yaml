@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b77152eb-e750-4f5d-83f4-9155bf5074e6
-  mac-addresses:
+  id: d6c0bf72-3bb0-43c3-8225-bdbca0a577f7
+  macAddresses:
   - 00:D0:01:00:00:00/24
   manufacturer: Vst Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VstTechn
 type: d3-device-type-assertion

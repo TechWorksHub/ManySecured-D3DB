@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e01790bf-0e6f-4ef0-8c7b-9b3f11550109
-  mac-addresses:
+  id: 244b21d8-35c4-451d-bc60-d272fb29ddbe
+  macAddresses:
   - 00:06:EF:00:00:00/24
   manufacturer: Maxxan Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maxxan
 type: d3-device-type-assertion

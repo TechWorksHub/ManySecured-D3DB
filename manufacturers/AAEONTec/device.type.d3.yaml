@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed5b9199-9e44-41cf-aeec-89a37d6df882
-  mac-addresses:
+  id: e767c571-41fa-483e-bb5e-654dbb926f54
+  macAddresses:
   - 00:07:32:00:00:00/24
   manufacturer: AAEON Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AAEONTec
 type: d3-device-type-assertion

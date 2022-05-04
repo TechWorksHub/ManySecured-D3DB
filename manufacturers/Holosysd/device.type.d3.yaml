@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd7da276-be6e-44c5-bc05-f3ef01ea0752
-  mac-addresses:
+  id: 8ba944d1-f7f7-4fbf-ade3-d209fef987b0
+  macAddresses:
   - 00:1E:5D:00:00:00/24
   manufacturer: Holosys d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Holosysd
 type: d3-device-type-assertion

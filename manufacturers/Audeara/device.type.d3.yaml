@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 534fc6a7-71eb-4d75-9391-09af5cefbe4f
-  mac-addresses:
+  id: e7e66485-4a1c-46ba-a3c9-a6207c716686
+  macAddresses:
   - F0:23:B9:50:00:00/28
   manufacturer: Audeara Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audeara
 type: d3-device-type-assertion

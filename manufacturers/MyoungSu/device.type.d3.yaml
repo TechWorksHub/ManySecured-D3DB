@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a9c834f-8ec1-498c-89a4-0e849e264d24
-  mac-addresses:
+  id: 753cbde8-cb4a-4d2f-a556-c725666b5603
+  macAddresses:
   - 70:B3:D5:9B:40:00/36
   manufacturer: MyoungSung System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MyoungSu
 type: d3-device-type-assertion

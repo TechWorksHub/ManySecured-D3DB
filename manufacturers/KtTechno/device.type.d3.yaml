@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85a8cb93-f76d-4b7a-85b5-b4cb7ac5012d
-  mac-addresses:
+  id: 37f59f89-719c-4bee-b645-b337452c6c3b
+  macAddresses:
   - 00:C0:09:00:00:00/24
   manufacturer: KT Technology (s) Pte Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KtTechno
 type: d3-device-type-assertion

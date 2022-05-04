@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da0d0118-d80f-4d45-8e59-7362e92ae3fc
-  mac-addresses:
+  id: 249df756-4cd3-4870-8881-f691339b5aef
+  macAddresses:
   - 70:B3:D5:62:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ozray
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c81f1f6-ddbd-46e1-96bb-a31dd50728bf
-  mac-addresses:
+  id: a0ed6a60-80da-4be1-8095-16d78aa41a3a
+  macAddresses:
   - D0:ED:FF:00:00:00/24
   manufacturer: Zf Cvcs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZfCvcs
 type: d3-device-type-assertion

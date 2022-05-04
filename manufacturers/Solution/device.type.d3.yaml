@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d0331ce-5bb2-4324-862c-bc5f25cc37c2
-  mac-addresses:
+  id: 315c7a95-1fa0-4d68-8b92-1a58cf3cc156
+  macAddresses:
   - 00:0E:B0:00:00:00/24
   manufacturer: Solutions Radio BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Solution
 type: d3-device-type-assertion

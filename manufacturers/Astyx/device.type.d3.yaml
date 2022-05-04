@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f532895-05d2-406c-b2dc-e6b5e1474195
-  mac-addresses:
+  id: 38f9ed48-85e6-412e-88af-96d2971dc0dc
+  macAddresses:
   - B0:C5:CA:80:00:00/28
   manufacturer: Astyx GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Astyx
 type: d3-device-type-assertion

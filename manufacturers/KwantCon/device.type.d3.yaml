@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8d2a983-b90b-4832-bc69-f45de7a18cfd
-  mac-addresses:
+  id: c9df22ea-1887-47bf-8465-27a4923574c6
+  macAddresses:
   - 70:B3:D5:74:C0:00/36
   manufacturer: Kwant Controls BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KwantCon
 type: d3-device-type-assertion

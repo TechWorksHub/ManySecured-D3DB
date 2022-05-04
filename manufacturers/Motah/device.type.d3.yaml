@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1636140d-ca85-4f11-aca3-4289dccc5351
-  mac-addresses:
+  id: a3d2d975-e105-4f97-99ef-c15c24fa9834
+  macAddresses:
   - 00:07:77:00:00:00/24
   manufacturer: Motah Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Motah
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd1950b5-6319-499c-b5ca-1fea5f8d08c1
-  mac-addresses:
+  id: edd77f47-975f-451b-b2b9-b39ad11e2a62
+  macAddresses:
   - 6C:0F:6A:00:00:00/24
   manufacturer: JDC Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JDCTech
 type: d3-device-type-assertion

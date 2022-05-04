@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a7bb276-950e-4492-b570-8ffe91965a2f
-  mac-addresses:
+  id: eb39066f-0a15-4fe5-bbc0-dc137526cd78
+  macAddresses:
   - 00:19:65:00:00:00/24
   manufacturer: YuHua TelTech (ShangHai) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YuHuaTel
 type: d3-device-type-assertion

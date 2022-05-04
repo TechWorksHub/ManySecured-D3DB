@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7b2f281-5cb0-4d06-be83-26680904e90c
-  mac-addresses:
+  id: 6f88fd58-6db7-4125-b248-d746f37da2a9
+  macAddresses:
   - 00:22:20:00:00:00/24
   manufacturer: Mitac Technology Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MitacTec
 type: d3-device-type-assertion

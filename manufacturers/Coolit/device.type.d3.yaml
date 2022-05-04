@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6229c2cb-6375-4fcc-8e8d-d2f4fcb99f01
-  mac-addresses:
+  id: befc7994-51dc-4054-a810-8564607a03fa
+  macAddresses:
   - 00:1B:C5:01:C0:00/36
   - 00:50:C2:A3:10:00/36
   manufacturer: Coolit Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coolit
 type: d3-device-type-assertion

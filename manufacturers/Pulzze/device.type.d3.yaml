@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcb292a1-79dc-43db-be6e-9330c637dd87
-  mac-addresses:
+  id: 7bc6876c-64fd-4bb2-a446-346e241b924a
+  macAddresses:
   - 88:4C:CF:00:00:00/24
   manufacturer: Pulzze Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pulzze
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcdb5e5f-7e2c-43dc-bed2-3fb78bc1f828
-  mac-addresses:
+  id: 5a6536a4-2d2a-48d6-8452-d5de5ded4de7
+  macAddresses:
   - 68:86:E7:00:00:00/24
   manufacturer: Orbotix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Orbotix
 type: d3-device-type-assertion

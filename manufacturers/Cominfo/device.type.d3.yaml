@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 63bf1771-14b1-4eea-b147-d6f75681b838
-  mac-addresses:
+  id: 7b663d5f-1249-422c-90b8-6d6835ce7ed0
+  macAddresses:
   - 00:50:C2:19:40:00/36
   - 00:50:C2:77:E0:00/36
   - 40:D8:55:06:10:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:61:70:00/36
   - 70:B3:D5:6F:50:00/36
   manufacturer: Cominfo, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cominfo
 type: d3-device-type-assertion

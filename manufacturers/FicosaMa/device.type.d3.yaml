@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25d40a5b-7ad0-49f2-8a2b-b75ca5478115
-  mac-addresses:
+  id: e0d00bcc-1ae6-4efc-a691-bf914158c837
+  macAddresses:
   - 44:3C:88:00:00:00/24
   manufacturer: Ficosa Maroc International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FicosaMa
 type: d3-device-type-assertion

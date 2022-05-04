@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 296b30b2-aaa6-4ed2-8719-3577458b40b0
-  mac-addresses:
+  id: a3c9e695-78f7-40fc-b190-45d156ed11c1
+  macAddresses:
   - 00:C0:48:00:00:00/24
   manufacturer: Bay Technical Associates
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BayTechn
 type: d3-device-type-assertion

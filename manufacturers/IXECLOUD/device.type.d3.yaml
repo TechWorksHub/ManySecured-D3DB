@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c433944f-e1ac-4af0-a15e-846c989e202d
-  mac-addresses:
+  id: b179d7a5-36e5-408d-8d59-a05321095e7e
+  macAddresses:
   - 60:56:61:00:00:00/24
   manufacturer: IXECLOUD Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IXECLOUD
 type: d3-device-type-assertion

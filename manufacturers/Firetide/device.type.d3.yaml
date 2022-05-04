@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8814f97-34cd-404b-90b8-c1c852b25cd4
-  mac-addresses:
+  id: 3aedef39-9c27-4f12-87b5-cdd964e92776
+  macAddresses:
   - 00:18:C2:00:00:00/24
   manufacturer: Firetide, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Firetide
 type: d3-device-type-assertion

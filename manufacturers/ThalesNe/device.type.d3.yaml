@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 338248b4-e9f1-4003-9ba2-281dea78cd60
-  mac-addresses:
+  id: 77b9f023-b691-46e5-947d-70003bafccd2
+  macAddresses:
   - 00:50:C2:D4:60:00/36
   - 70:B3:D5:32:40:00/36
   manufacturer: Thales Nederland BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThalesNe
 type: d3-device-type-assertion

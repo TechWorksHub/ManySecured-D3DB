@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a47020f-86a9-4b8b-908b-ed588158f0fe
-  mac-addresses:
+  id: 57895325-8bff-45d6-9555-7266c123495c
+  macAddresses:
   - 00:30:09:00:00:00/24
   manufacturer: Tachion Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TachionN
 type: d3-device-type-assertion

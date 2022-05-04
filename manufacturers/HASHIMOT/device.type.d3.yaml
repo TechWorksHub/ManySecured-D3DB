@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f89626a4-f9f6-407a-9219-55eb0dcc7bee
-  mac-addresses:
+  id: 6999161b-0a1c-4429-b096-82b079fa43c4
+  macAddresses:
   - 00:0E:B9:00:00:00/24
   manufacturer: HASHIMOTO Electronics Industry Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HASHIMOT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5c93cf7-a63a-4165-8bda-2a83df487af0
-  mac-addresses:
+  id: 230dac2c-dc1c-4101-99dd-09927e481db5
+  macAddresses:
   - E0:B6:F5:00:00:00/28
   manufacturer: BeSTAR Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeSTAR
 type: d3-device-type-assertion

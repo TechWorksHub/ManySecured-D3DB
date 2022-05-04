@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cc872f5-f2ea-468c-b461-9185b8a84a72
-  mac-addresses:
+  id: 154b7642-0cca-4712-bf26-7fb63279abed
+  macAddresses:
   - 00:50:20:00:00:00/24
   manufacturer: Mediastar Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mediasta
 type: d3-device-type-assertion

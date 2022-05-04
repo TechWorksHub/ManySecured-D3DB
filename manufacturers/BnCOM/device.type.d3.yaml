@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f8824ba-c8ad-4a6f-9cd6-2528bb18c26a
-  mac-addresses:
+  id: 514bb209-71c5-4ac8-9155-1cac210cea44
+  macAddresses:
   - 74:F0:7D:00:00:00/24
   manufacturer: BnCOM Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BnCOM
 type: d3-device-type-assertion

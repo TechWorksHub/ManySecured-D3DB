@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 199e85ba-4b0b-4c94-9501-58ae84707640
-  mac-addresses:
+  id: 33124af1-477a-43fd-b390-4559b5377c79
+  macAddresses:
   - DC:3E:51:00:00:00/24
   manufacturer: Solberg & Andersen AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolbergA
 type: d3-device-type-assertion

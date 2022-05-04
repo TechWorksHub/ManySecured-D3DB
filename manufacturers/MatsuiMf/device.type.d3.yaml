@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eca3ce6f-13d8-4158-81e7-de102acb2654
-  mac-addresses:
+  id: 970d531f-a7f7-4f53-8450-fe92cf6775a8
+  macAddresses:
   - 00:50:C2:18:F0:00/36
   manufacturer: Matsui Mfg Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MatsuiMf
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c3a5358-091e-465c-a4c4-ff8192ead9d2
-  mac-addresses:
+  id: b0dd74da-9d57-461b-bc4e-474a58ab9d29
+  macAddresses:
   - 00:50:C2:C7:D0:00/36
   manufacturer: TAE Antriebstechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TAEAntri
 type: d3-device-type-assertion

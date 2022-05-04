@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bdb6abc-3183-4305-a2d1-2b20b57616d1
-  mac-addresses:
+  id: 84a440cc-bd17-480e-823e-8ede130bbbe3
+  macAddresses:
   - 40:F3:85:50:00:00/28
   manufacturer: Kato Engineering Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KatoEngi
 type: d3-device-type-assertion

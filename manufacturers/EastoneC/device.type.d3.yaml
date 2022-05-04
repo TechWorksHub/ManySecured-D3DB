@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b65a3588-7510-48ca-8637-fcd578c73dfd
-  mac-addresses:
+  id: fc3306a0-e602-474c-a9a0-7be285f24d3d
+  macAddresses:
   - 70:B3:D5:21:00:00/36
   manufacturer: Eastone Century Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EastoneC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cd0a8af-9c30-4b24-be47-2d44556c7e17
-  mac-addresses:
+  id: f4f31606-849d-4730-bb18-9d6ddc22a28c
+  macAddresses:
   - 78:D8:00:60:00:00/28
   manufacturer: Alango Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlangoTe
 type: d3-device-type-assertion

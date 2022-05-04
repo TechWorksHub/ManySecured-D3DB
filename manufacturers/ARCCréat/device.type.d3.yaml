@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3218abfe-eac4-4b76-bbe8-1af3bce17cbf
-  mac-addresses:
+  id: 31b0da33-9fa0-4f0f-8d5d-cfeb02bd4a6b
+  macAddresses:
   - 00:50:C2:1F:70:00/36
   manufacturer: "ARC'Cr\xE9ations"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "ARCCr\xE9at"
 type: d3-device-type-assertion

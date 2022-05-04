@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8058014b-8984-4b75-803a-7211f23bef19
-  mac-addresses:
+  id: d4b07c12-3e51-4d9d-9a60-bf7655228e14
+  macAddresses:
   - 00:07:F4:00:00:00/24
   manufacturer: Eletex Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eletex
 type: d3-device-type-assertion

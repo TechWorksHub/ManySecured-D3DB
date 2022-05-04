@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d13e4a6f-99aa-4b1b-a970-68f14e961454
-  mac-addresses:
+  id: df70aaf2-05f3-4d34-b3a2-a891b6910e6c
+  macAddresses:
   - A4:11:63:90:00:00/28
   manufacturer: accesso Technology Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: accessoT
 type: d3-device-type-assertion

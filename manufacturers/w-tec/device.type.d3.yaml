@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4932d35-ac25-474f-9b04-d919a2d2345c
-  mac-addresses:
+  id: 683368c4-b544-44fe-9d2c-7ccdd0ecc70c
+  macAddresses:
   - 70:B3:D5:A1:00:00/36
   manufacturer: w-tec AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: w-tec
 type: d3-device-type-assertion

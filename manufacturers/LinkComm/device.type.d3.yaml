@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8dbdfd4-75a3-48ad-95b4-5d17bc0a6ed5
-  mac-addresses:
+  id: 5eb8baee-1de7-4df4-add1-6ea70a3e16ea
+  macAddresses:
   - 00:50:C2:90:50:00/36
   manufacturer: Link Communications, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkComm
 type: d3-device-type-assertion

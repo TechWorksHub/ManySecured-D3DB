@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50c1deba-ae3d-4613-8c3e-58014cc981a8
-  mac-addresses:
+  id: 3b3a7ab7-d68b-4b05-8f39-29b46a339b1f
+  macAddresses:
   - 88:7F:03:00:00:00/24
   manufacturer: Comper Technology Investment Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComperTe
 type: d3-device-type-assertion

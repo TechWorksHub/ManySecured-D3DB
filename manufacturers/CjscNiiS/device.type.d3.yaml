@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38033ab1-17bd-403e-98b3-b46e16bb187e
-  mac-addresses:
+  id: 74fee182-81ca-4414-8e08-3a25fc81ce4d
+  macAddresses:
   - 00:8D:4E:00:00:00/24
   manufacturer: Cjsc Nii Stt
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CjscNiiS
 type: d3-device-type-assertion

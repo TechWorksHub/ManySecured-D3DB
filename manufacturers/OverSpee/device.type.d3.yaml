@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae1c0a79-d930-477a-8d2e-b6d058180be0
-  mac-addresses:
+  id: 4314ab32-7e00-49c1-a703-237582bd102a
+  macAddresses:
   - 00:1D:5F:00:00:00/24
   manufacturer: OverSpeed SARL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OverSpee
 type: d3-device-type-assertion

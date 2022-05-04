@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63590354-d142-465b-8488-24c990a97cdc
-  mac-addresses:
+  id: 6651e9c6-6521-47ae-9769-c90e17c850ca
+  macAddresses:
   - 00:0A:A7:00:00:00/24
   manufacturer: FEI Electron Optics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FEIElect
 type: d3-device-type-assertion

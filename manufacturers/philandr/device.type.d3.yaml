@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 859fb55d-5b3e-45f7-ae28-19e5c259afe2
-  mac-addresses:
+  id: 23b0b679-3df6-4429-b95a-5ef175e16f42
+  macAddresses:
   - 1C:87:76:60:00:00/28
   manufacturer: philandro Software GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: philandr
 type: d3-device-type-assertion

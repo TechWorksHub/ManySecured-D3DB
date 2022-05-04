@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d5f7012-09ba-4d4e-9e67-02156844b593
-  mac-addresses:
+  id: 941d40c0-4d5d-41f1-968d-265033030450
+  macAddresses:
   - 00:50:C2:F9:C0:00/36
   manufacturer: R&D Kometeh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: R&DKomet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62ef35b6-599f-457a-beb5-40a76497a620
-  mac-addresses:
+  id: b2c121d0-b409-42f4-8608-0698741a6540
+  macAddresses:
   - 34:D7:72:00:00:00/24
   manufacturer: Xiamen Yudian Automation Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenYu
 type: d3-device-type-assertion

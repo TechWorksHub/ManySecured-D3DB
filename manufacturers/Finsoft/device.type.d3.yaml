@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a142f5a-47ac-44d1-aaf4-af01ca117ea2
-  mac-addresses:
+  id: bf2659a0-6c78-4fd7-ab6c-70034abdf7ca
+  macAddresses:
   - 00:1B:83:00:00:00/24
   manufacturer: Finsoft Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Finsoft
 type: d3-device-type-assertion

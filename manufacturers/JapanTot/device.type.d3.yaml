@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a6ab557-2d3f-4776-b974-837fa469eb19
-  mac-addresses:
+  id: abbd5c0d-4763-427e-bc96-52cc041c1e28
+  macAddresses:
   - 00:01:CC:00:00:00/24
   manufacturer: Japan Total Design Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanTot
 type: d3-device-type-assertion

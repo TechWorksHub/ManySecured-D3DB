@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 490343c9-e3c1-42b5-a97f-1e13b3887288
-  mac-addresses:
+  id: d99f15b1-a1c8-4f07-920c-acd669c58a24
+  macAddresses:
   - 70:B3:D5:2C:40:00/36
   manufacturer: Hodwa Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hodwa
 type: d3-device-type-assertion

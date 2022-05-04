@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21025185-c497-42fe-a68e-0021bb1ceb51
-  mac-addresses:
+  id: f3b35f30-e5ba-43e0-886c-0d9a1d9259ca
+  macAddresses:
   - 68:89:75:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: nuoxc
 type: d3-device-type-assertion

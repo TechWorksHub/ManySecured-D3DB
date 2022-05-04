@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb13e255-7e4a-4fb2-9e0f-b5163e01f216
-  mac-addresses:
+  id: ee372448-4375-4d41-a88b-ae761f991381
+  macAddresses:
   - 88:94:F9:00:00:00/24
   manufacturer: Gemicom Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GemicomT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: debf0c8e-f3b9-4aaf-9e3c-04a0a3c6a920
-  mac-addresses:
+  id: 57f4074b-0968-406f-b812-5e043f9fb5c5
+  macAddresses:
   - 00:06:B0:00:00:00/24
   manufacturer: Comtech EF Data Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComtechE
 type: d3-device-type-assertion

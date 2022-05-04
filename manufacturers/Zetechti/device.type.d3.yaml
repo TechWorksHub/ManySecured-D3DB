@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a58b772d-102b-4142-9562-102c0532b153
-  mac-addresses:
+  id: c22da50a-aaad-445f-afcb-233e8d65862e
+  macAddresses:
   - 70:B3:D5:88:80:00/36
   manufacturer: Zetechtics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zetechti
 type: d3-device-type-assertion

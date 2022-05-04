@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c27e048d-7288-4587-8af3-8cf2f7b24a29
-  mac-addresses:
+  id: 82d09093-5b77-4782-a29a-854255ccef16
+  macAddresses:
   - 00:15:E5:00:00:00/24
   manufacturer: Cheertek Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cheertek
 type: d3-device-type-assertion

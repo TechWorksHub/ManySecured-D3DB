@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4c9132d-ca98-4079-b9c1-8828c8273c0d
-  mac-addresses:
+  id: 0f88a0bc-b1f6-4a54-8e44-cbde250f9138
+  macAddresses:
   - 00:0E:DE:00:00:00/24
   manufacturer: REMEC, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: REMEC
 type: d3-device-type-assertion

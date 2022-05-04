@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6e6b20f3-b029-4c7d-a4a5-2c4e759e041a
-  mac-addresses:
+  id: d5381db6-bd8e-4adf-b8d0-ea01b9b6f138
+  macAddresses:
   - 1C:AE:3E:00:00:00/28
   - 70:B3:D5:3B:D0:00/36
   manufacturer: Dao Qin Technology Co.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaoQinTe
 type: d3-device-type-assertion

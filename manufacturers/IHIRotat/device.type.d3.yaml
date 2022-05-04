@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abb09776-36cc-471a-b162-3cc444309b8a
-  mac-addresses:
+  id: acce7701-16c6-484b-bddb-ea8f877acb08
+  macAddresses:
   - 70:B3:D5:89:C0:00/36
   manufacturer: IHI Rotating Machinery Engineering Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IHIRotat
 type: d3-device-type-assertion

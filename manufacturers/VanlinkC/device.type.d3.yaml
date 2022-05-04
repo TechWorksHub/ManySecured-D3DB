@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c6913d3-5720-402e-ba3c-4c7c5d7fb76b
-  mac-addresses:
+  id: e53f772b-e6ca-48ef-b23b-daa4608f95cc
+  macAddresses:
   - 00:50:CF:00:00:00/24
   manufacturer: Vanlink Communication Technology Research Institute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VanlinkC
 type: d3-device-type-assertion

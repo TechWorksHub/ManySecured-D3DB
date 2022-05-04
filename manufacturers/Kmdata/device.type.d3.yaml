@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 370558b7-00f0-43f6-80fd-3c8b6f1091e4
-  mac-addresses:
+  id: d6019199-e3ea-4050-97bb-1be3f1ba9ea1
+  macAddresses:
   - 98:5B:B0:00:00:00/24
   manufacturer: Kmdata Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kmdata
 type: d3-device-type-assertion

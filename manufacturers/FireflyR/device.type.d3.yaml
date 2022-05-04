@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d08c25d5-ffc9-4fdb-9b67-b169e45c729f
-  mac-addresses:
+  id: 4f482bd1-4ab2-4fe4-ab8d-2a3f225b0097
+  macAddresses:
   - 70:B3:D5:8B:30:00/36
   manufacturer: Firefly RFID Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FireflyR
 type: d3-device-type-assertion

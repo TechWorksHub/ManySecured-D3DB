@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a7fb288-b8dd-49a1-a7fa-e604c7c2c9b7
-  mac-addresses:
+  id: 45d0fb11-b1b7-424e-90e7-a3b8d2ddef14
+  macAddresses:
   - 00:0D:FF:00:00:00/24
   manufacturer: Chenming Mold Industry Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chenming
 type: d3-device-type-assertion

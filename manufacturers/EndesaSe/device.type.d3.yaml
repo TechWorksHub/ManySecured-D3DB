@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 372d7612-75f3-43b7-8b9a-2e1746326efd
-  mac-addresses:
+  id: 9334d63c-f3ba-4d01-a936-8aad06fcb8f9
+  macAddresses:
   - 00:0A:03:00:00:00/24
   manufacturer: Endesa Servicios, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EndesaSe
 type: d3-device-type-assertion

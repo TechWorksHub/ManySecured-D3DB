@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd3cfc22-112e-482f-9c22-f5b3ccf27a1c
-  mac-addresses:
+  id: 25c3bdf6-f9a3-40fa-9383-40ed3f93c69a
+  macAddresses:
   - F4:B3:81:00:00:00/24
   manufacturer: WindowMaster A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WindowMa
 type: d3-device-type-assertion

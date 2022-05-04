@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 384d53f6-9ed3-4981-b9aa-8e761ea80eaa
-  mac-addresses:
+  id: 0fdacb34-3c07-47a4-b57c-e5699c701cbc
+  macAddresses:
   - 2C:FC:E4:00:00:00/24
   manufacturer: CTEK Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CTEKSwed
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0da707ec-eb48-49db-94ac-fe4f9343731b
-  mac-addresses:
+  id: efe9f84b-570e-4dc0-93f2-2dc08ec8af8d
+  macAddresses:
   - C4:00:06:00:00:00/24
   manufacturer: Lipi Data Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LipiData
 type: d3-device-type-assertion

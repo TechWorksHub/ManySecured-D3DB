@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 695d13df-9dd0-49be-b458-308be7a72194
-  mac-addresses:
+  id: 643aaa2c-d470-4a13-a622-1b381be8859a
+  macAddresses:
   - 00:63:DE:00:00:00/24
   - 2C:16:BD:60:00:00/28
   manufacturer: Cloudwalk Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cloudwal
 type: d3-device-type-assertion

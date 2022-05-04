@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bbb1df5-2fc5-4b59-8149-e684e06a38da
-  mac-addresses:
+  id: 76f60054-8971-49ae-a68c-992ad1404338
+  macAddresses:
   - 00:60:E2:00:00:00/24
   manufacturer: Quest Engineering & Development
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuestEng
 type: d3-device-type-assertion

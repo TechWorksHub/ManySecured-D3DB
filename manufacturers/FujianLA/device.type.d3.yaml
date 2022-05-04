@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 691aaf24-73be-4891-9f4f-6bf414a51da2
-  mac-addresses:
+  id: 67c4a3da-021d-4f44-841c-3549e887bcc7
+  macAddresses:
   - 00:1D:FA:00:00:00/24
   - 4C:91:57:00:00:00/24
   - E8:9A:FF:00:00:00/24
   manufacturer: Fujian LANDI Commercial Equipment Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujianLA
 type: d3-device-type-assertion

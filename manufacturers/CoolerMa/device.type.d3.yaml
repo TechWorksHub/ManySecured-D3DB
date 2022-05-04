@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0eb6280b-c6f5-41c0-9587-a42bf8dba257
-  mac-addresses:
+  id: 23cd5b75-4a36-44b7-b292-474e46132a4c
+  macAddresses:
   - C8:A4:0D:00:00:00/24
   manufacturer: Cooler Master Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoolerMa
 type: d3-device-type-assertion

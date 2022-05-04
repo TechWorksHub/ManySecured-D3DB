@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73c0519d-53da-4157-a1f4-df9e232e24df
-  mac-addresses:
+  id: 88589341-509c-4f4c-9405-57674e0e8750
+  macAddresses:
   - 00:23:0F:00:00:00/24
   manufacturer: Hirsch Electronics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HirschEl
 type: d3-device-type-assertion

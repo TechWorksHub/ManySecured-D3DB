@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6005cae2-3f52-4aed-bd49-46ea36106c7a
-  mac-addresses:
+  id: 1137f721-f9e4-42b4-ae45-e611c4903501
+  macAddresses:
   - 00:0C:B7:00:00:00/24
   - D0:5F:64:C0:00:00/28
   manufacturer: Nanjing Huazhuo Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingH
 type: d3-device-type-assertion

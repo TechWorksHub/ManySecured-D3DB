@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d20ff2fe-0190-486d-b193-2b688dc515c7
-  mac-addresses:
+  id: 5473a89c-5366-48d9-91bd-004dd77d6f97
+  macAddresses:
   - E4:4E:18:00:00:00/24
   manufacturer: Gardasoft VisionLimited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gardasof
 type: d3-device-type-assertion

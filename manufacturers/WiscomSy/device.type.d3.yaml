@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e3f0416-ac0d-4c7a-a9d9-d171da6a5201
-  mac-addresses:
+  id: 7ddbee46-aeec-482d-97b8-03cd1338c1c9
+  macAddresses:
   - 00:21:12:00:00:00/24
   manufacturer: Wiscom System Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiscomSy
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af0feb1a-4803-439a-8611-f1140f7fe70e
-  mac-addresses:
+  id: c624ac0f-9d64-4b45-88b0-9e2c301e4483
+  macAddresses:
   - 50:FE:F2:00:00:00/24
   manufacturer: Sify Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SifyTech
 type: d3-device-type-assertion

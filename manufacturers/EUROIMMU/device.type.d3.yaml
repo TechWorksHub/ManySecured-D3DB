@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55e0b0f9-83dd-4789-b731-efedc15da064
-  mac-addresses:
+  id: b55b8a1e-289e-4f15-83bf-2caf9a72f00f
+  macAddresses:
   - 5C:F2:86:50:00:00/28
   manufacturer: EUROIMMUN Medizinische Labordiagnostika AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EUROIMMU
 type: d3-device-type-assertion

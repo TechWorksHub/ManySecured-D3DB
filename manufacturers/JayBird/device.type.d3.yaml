@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2b36481-e4f6-499d-b4c6-c37aa184b922
-  mac-addresses:
+  id: aad40774-40b6-45af-a384-6e43fd0f8f25
+  macAddresses:
   - D4:9C:28:00:00:00/24
   manufacturer: JayBird LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JayBird
 type: d3-device-type-assertion

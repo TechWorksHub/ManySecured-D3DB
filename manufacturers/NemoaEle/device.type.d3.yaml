@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dec551a-f140-4eca-bb9f-ac9c92b4ce59
-  mac-addresses:
+  id: 5b0a1c2e-ac9c-4ef3-9a48-4cb30ff08f62
+  macAddresses:
   - 14:29:71:00:00:00/24
   manufacturer: Nemoa Electronics (Hk) Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NemoaEle
 type: d3-device-type-assertion

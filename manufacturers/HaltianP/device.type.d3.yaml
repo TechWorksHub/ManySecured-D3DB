@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fda8ac2-bb9f-4afe-b3fe-be10ae2f8816
-  mac-addresses:
+  id: 7e3bfe7f-7e0c-4f6b-8f96-acf863718314
+  macAddresses:
   - B0:FD:0B:C0:00:00/28
   manufacturer: Haltian Products Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HaltianP
 type: d3-device-type-assertion

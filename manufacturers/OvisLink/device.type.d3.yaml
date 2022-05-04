@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b330c81-4f40-451e-99d8-481c75a4037a
-  mac-addresses:
+  id: 858a4a7d-e07f-4b98-849a-389cfe7b7123
+  macAddresses:
   - 00:1D:1A:00:00:00/24
   manufacturer: OvisLink S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OvisLink
 type: d3-device-type-assertion

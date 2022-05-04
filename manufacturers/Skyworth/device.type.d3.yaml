@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 18decf43-2181-48f2-b1a2-0e93ce34b88e
-  mac-addresses:
+  id: 872d10f5-80a8-4f3a-b69a-bcef382d9d3a
+  macAddresses:
   - 00:16:7A:00:00:00/24
   - 00:1A:9A:00:00:00/24
   - 14:11:5D:00:00:00/24
@@ -21,6 +21,6 @@ credentialSubject:
   - C8:8F:26:00:00:00/24
   - F4:4C:70:00:00:00/24
   manufacturer: Skyworth Overseas Development Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skyworth
 type: d3-device-type-assertion

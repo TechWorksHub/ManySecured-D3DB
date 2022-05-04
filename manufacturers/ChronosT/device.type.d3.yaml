@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1d086f1e-f7ed-4c30-a052-a9215d1a62a8
-  mac-addresses:
+  id: bee6e555-a01f-4756-be4d-f1d7cbcce680
+  macAddresses:
   - 00:50:C2:9A:D0:00/36
   - 58:E8:76:70:00:00/28
   manufacturer: Chronos Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChronosT
 type: d3-device-type-assertion

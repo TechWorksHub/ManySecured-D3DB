@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4c3ede1-21d0-4041-b216-1427227b52c0
-  mac-addresses:
+  id: 981f4d4f-1aac-4c20-a787-ee8a4c785763
+  macAddresses:
   - 70:B3:D5:03:00:00/36
   manufacturer: Tresent Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TresentT
 type: d3-device-type-assertion

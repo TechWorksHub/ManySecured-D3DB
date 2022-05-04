@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a0a4992-99b3-4150-b7eb-1a504480dec4
-  mac-addresses:
+  id: 9cb4776a-d3b9-4b7d-9c6f-b000cc04be35
+  macAddresses:
   - 00:0A:62:00:00:00/24
   manufacturer: Crinis Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrinisNe
 type: d3-device-type-assertion

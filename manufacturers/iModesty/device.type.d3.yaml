@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70069c83-075c-4f52-b39f-e1b1743f9b42
-  mac-addresses:
+  id: fe7501d8-e9d8-4ad9-9e60-1958ccfea219
+  macAddresses:
   - B8:D8:12:30:00:00/28
   manufacturer: iModesty Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iModesty
 type: d3-device-type-assertion

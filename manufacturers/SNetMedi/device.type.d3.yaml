@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46b3645a-5101-41c5-bfc7-a98d2dffaa9a
-  mac-addresses:
+  id: 9cf4726b-53a5-41ef-af42-c6e6d4e7aea7
+  macAddresses:
   - 14:DB:85:00:00:00/24
   manufacturer: S Net Media
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SNetMedi
 type: d3-device-type-assertion

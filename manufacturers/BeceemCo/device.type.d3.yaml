@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 18233beb-e005-4641-9dc2-45ded80209af
-  mac-addresses:
+  id: e90481d3-b48f-4455-9a72-c69debb48387
+  macAddresses:
   - 00:50:C2:74:D0:00/36
   - 00:50:C2:C5:00:00/36
   manufacturer: Beceem Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeceemCo
 type: d3-device-type-assertion

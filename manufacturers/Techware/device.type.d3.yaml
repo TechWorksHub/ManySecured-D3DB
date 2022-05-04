@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d977d5b6-307c-4d91-8691-ebdeae5037ed
-  mac-addresses:
+  id: e6c53fea-d9ca-4c9e-b378-ec23b3cc32ea
+  macAddresses:
   - 00:20:EC:00:00:00/24
   manufacturer: Techware Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techware
 type: d3-device-type-assertion

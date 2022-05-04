@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 296749d0-389c-4eeb-b554-89c93600a8fd
-  mac-addresses:
+  id: 895029b5-907f-4fce-9786-fba94b3eef9c
+  macAddresses:
   - 00:50:C2:2B:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Perax
 type: d3-device-type-assertion

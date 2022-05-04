@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e232584-ffe8-4ea7-9547-0636e0076306
-  mac-addresses:
+  id: 13ae16ca-c3ac-42e1-9088-7ca7c3aa4b13
+  macAddresses:
   - 00:1D:04:00:00:00/24
   manufacturer: Zipit Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZipitWir
 type: d3-device-type-assertion

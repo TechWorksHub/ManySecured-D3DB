@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28a9b31e-4525-4cf9-9a5f-0d870d2817d8
-  mac-addresses:
+  id: f72349ba-8d9d-4fdf-b5c5-1a6a7f265c7b
+  macAddresses:
   - 80:6A:10:00:00:00/24
   manufacturer: Whisker Labs - Ting
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhiskerL
 type: d3-device-type-assertion

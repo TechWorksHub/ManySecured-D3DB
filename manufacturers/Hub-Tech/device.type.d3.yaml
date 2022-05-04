@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab1b043c-f02f-4e24-9e09-39678a6ab13c
-  mac-addresses:
+  id: 65db8d73-701a-4ebc-9337-c64c19bd6ce9
+  macAddresses:
   - 00:22:D3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hub-Tech
 type: d3-device-type-assertion

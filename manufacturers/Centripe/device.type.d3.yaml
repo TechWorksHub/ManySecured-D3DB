@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6107c73-1114-48be-adc3-cbfb9292ab77
-  mac-addresses:
+  id: c9b36089-712d-4dd1-bc32-ca6df5a849be
+  macAddresses:
   - 2C:5B:E1:00:00:00/24
   manufacturer: Centripetal Networks, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Centripe
 type: d3-device-type-assertion

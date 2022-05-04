@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbe0fbdd-fd4f-4298-a5dc-43f982650753
-  mac-addresses:
+  id: 188177ec-0db6-4cc6-8524-87fbca65e819
+  macAddresses:
   - 00:50:C2:45:00:00/36
   manufacturer: Enconair Ecological Chambers Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enconair
 type: d3-device-type-assertion

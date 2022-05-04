@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10045627-21b9-49e1-89fc-7aae8cc0b8f0
-  mac-addresses:
+  id: 42991549-aea7-425e-949f-7e32ad211afd
+  macAddresses:
   - 00:1E:56:00:00:00/24
   manufacturer: Bally Wulff Entertainment GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BallyWul
 type: d3-device-type-assertion

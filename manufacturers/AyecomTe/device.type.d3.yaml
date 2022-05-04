@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 335fbeb2-f984-4ea7-a21a-23c1c2d4518a
-  mac-addresses:
+  id: 1d6a0d9b-beb0-4cbb-bac0-99da7a0292df
+  macAddresses:
   - 00:1A:2B:00:00:00/24
   manufacturer: Ayecom Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AyecomTe
 type: d3-device-type-assertion

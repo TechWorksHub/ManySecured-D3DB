@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 858873d0-abd9-4795-996d-befe98dd18e2
-  mac-addresses:
+  id: 9f5c19d2-c6db-41ba-8bee-a1aaea28b8f1
+  macAddresses:
   - F4:A4:54:40:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Earshots
 type: d3-device-type-assertion

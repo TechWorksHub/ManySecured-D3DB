@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f91402e8-723f-4588-9d4b-92b5805c865a
-  mac-addresses:
+  id: fb03ea12-ec0e-4ab2-aee4-69dbde9352de
+  macAddresses:
   - D4:28:B2:00:00:00/24
   manufacturer: ioBridge, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ioBridge
 type: d3-device-type-assertion

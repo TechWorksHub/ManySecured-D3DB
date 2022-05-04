@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d805183-4832-4be9-a1de-03cb91b9b096
-  mac-addresses:
+  id: 9024d5c4-0d05-4060-a415-df816505e9dc
+  macAddresses:
   - 1C:A0:D3:20:00:00/28
   manufacturer: NovTech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovTech
 type: d3-device-type-assertion

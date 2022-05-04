@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1d32e97-74ad-4840-b493-1a490cf7e973
-  mac-addresses:
+  id: 22f01858-528a-48d3-a7a2-46a779cda761
+  macAddresses:
   - 00:16:17:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Msi
 type: d3-device-type-assertion

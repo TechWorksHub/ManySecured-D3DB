@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d38b260a-a250-41c0-abee-6db60e569f8b
-  mac-addresses:
+  id: 35794c7e-7d7e-4a34-9143-44c32aa81486
+  macAddresses:
   - 10:D1:DC:00:00:00/24
   manufacturer: INSTAR Deutschland GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INSTARDe
 type: d3-device-type-assertion

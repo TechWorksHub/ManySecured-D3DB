@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 172e5918-1c0f-4c71-934e-4f9fc185b4b4
-  mac-addresses:
+  id: e8d7c2df-c0c3-406e-aef2-2cb5a7241727
+  macAddresses:
   - 00:A0:64:00:00:00/24
   manufacturer: Kvb/Analect
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KvbAnale
 type: d3-device-type-assertion

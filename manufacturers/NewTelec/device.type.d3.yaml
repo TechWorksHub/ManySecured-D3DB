@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 453c408c-5dcd-4e15-9224-85c4dcefd72d
-  mac-addresses:
+  id: 8d5f86ec-0868-4d51-b5bd-c1733dfb4adc
+  macAddresses:
   - 38:FD:FE:40:00:00/28
   manufacturer: New Telecom Solutions LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewTelec
 type: d3-device-type-assertion

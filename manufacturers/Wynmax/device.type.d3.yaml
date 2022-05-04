@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a21d4aaf-e0ef-40bc-b3de-91fef6122d98
-  mac-addresses:
+  id: b384ce85-fe66-46b0-a1cd-91b9750fac0d
+  macAddresses:
   - 00:24:EE:00:00:00/24
   manufacturer: Wynmax Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wynmax
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: f41a2eeb-797a-4503-a889-3c5283c61865
-  mac-addresses:
+  id: 32e57446-af38-4a0b-a060-d5e8181f30a6
+  macAddresses:
   - 00:50:C2:84:A0:00/36
   - 28:65:6B:00:00:00/24
   - 34:29:8F:D0:00:00/28
   manufacturer: Keystone Electronic Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Keystone
 type: d3-device-type-assertion

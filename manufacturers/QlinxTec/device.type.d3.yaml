@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bffbf65-c19a-4e68-b3a0-c9b67cc5f878
-  mac-addresses:
+  id: e7c7eed6-97d2-4fcb-af1a-5658c38ca803
+  macAddresses:
   - 70:B3:D5:EC:90:00/36
   manufacturer: Qlinx Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QlinxTec
 type: d3-device-type-assertion

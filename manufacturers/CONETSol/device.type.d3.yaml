@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c032801-d1d8-431e-aca3-ea9702f122f0
-  mac-addresses:
+  id: 29d6f420-9d68-4ff7-9ccb-6baa0b3c5fe0
+  macAddresses:
   - 00:50:C2:F9:20:00/36
   manufacturer: CONET Solutions GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CONETSol
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d311578f-b8ff-4f53-bd0c-4e5ae7c12d46
-  mac-addresses:
+  id: 34b338d9-82c2-4a97-9438-b7e0286d6a29
+  macAddresses:
   - C8:8E:D1:A0:00:00/28
   manufacturer: AP Sensing GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APSensin
 type: d3-device-type-assertion

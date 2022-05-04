@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5e5ca12-0ac3-46e2-bdbc-30a323b16b04
-  mac-addresses:
+  id: ec06fe9b-f67d-46e0-9c9d-501fd7b7e7d2
+  macAddresses:
   - 00:80:24:00:00:00/24
   manufacturer: Kalpana, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kalpana
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ea395009-e8e8-4ca3-9d94-b7882e956a07
-  mac-addresses:
+  id: d357c649-ea31-438b-96ad-a20d113e79eb
+  macAddresses:
   - 04:56:04:00:00:00/24
   - 34:78:D7:00:00:00/24
   - 48:A3:80:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - B8:B4:2E:00:00:00/24
   - DC:DE:4F:00:00:00/24
   manufacturer: Gionee Communication Equipment Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GioneeCo
 type: d3-device-type-assertion

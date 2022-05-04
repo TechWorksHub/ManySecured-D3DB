@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4b438519-a94f-4d2c-afe1-58e8dbbf15ea
-  mac-addresses:
+  id: 03203398-a6b0-46ed-aa3a-358f42ba5f22
+  macAddresses:
   - 28:2C:02:60:00:00/28
   - 70:B3:D5:38:B0:00/36
   manufacturer: Lookman Electroplast Industries Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LookmanE
 type: d3-device-type-assertion

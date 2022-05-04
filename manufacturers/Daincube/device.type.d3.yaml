@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5775115-9633-436d-8a3f-daf6bb4d85d3
-  mac-addresses:
+  id: 4b2e8020-5e31-43e4-91bf-539c1154d69b
+  macAddresses:
   - 78:CA:83:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daincube
 type: d3-device-type-assertion

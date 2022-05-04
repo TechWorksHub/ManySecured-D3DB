@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8c69564-bf98-4338-8c31-d8d80caca911
-  mac-addresses:
+  id: e7847305-1fd6-4db4-98e5-6100b3622471
+  macAddresses:
   - 00:50:C2:53:B0:00/36
   manufacturer: Teleks Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teleks
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcfe891c-4d28-4e7e-bfc5-b269050d95b7
-  mac-addresses:
+  id: df55c9cf-97e5-4595-9670-d3d47fb4a744
+  macAddresses:
   - 70:B3:D5:19:20:00/36
   manufacturer: Aspt, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aspt
 type: d3-device-type-assertion

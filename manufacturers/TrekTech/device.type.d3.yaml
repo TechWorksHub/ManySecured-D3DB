@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad82b180-a26c-4ce0-8dc3-282c8cd20ba7
-  mac-addresses:
+  id: 0df1b455-3542-48b7-a124-29e19b522eb3
+  macAddresses:
   - 44:7E:76:00:00:00/24
   manufacturer: Trek Technology (S) Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrekTech
 type: d3-device-type-assertion

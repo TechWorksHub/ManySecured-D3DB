@@ -1,8 +1,8 @@
 credentialSubject:
-  id: febf6337-92fd-4a89-984d-4c30c19cfc54
-  mac-addresses:
+  id: 6510635a-d8b5-4a93-bd71-92cc48eeff4d
+  macAddresses:
   - 04:CE:7E:00:00:00/24
   manufacturer: NXP France Semiconductors France
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NXPFranc
 type: d3-device-type-assertion

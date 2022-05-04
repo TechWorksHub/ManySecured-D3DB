@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7818f41a-6a39-4abf-8851-7706416cb015
-  mac-addresses:
+  id: 1f679701-79cc-45e2-9809-dfb169567232
+  macAddresses:
   - D4:10:90:00:00:00/24
   manufacturer: iNFORM Systems AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iNFORM
 type: d3-device-type-assertion

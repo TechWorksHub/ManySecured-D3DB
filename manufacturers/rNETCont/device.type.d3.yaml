@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 865e8072-9e70-4602-a504-503a29e7b579
-  mac-addresses:
+  id: d2778eb1-2441-4db0-ada2-0b4d7d9fa7f9
+  macAddresses:
   - A0:22:4E:10:00:00/28
   manufacturer: rNET Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: rNETCont
 type: d3-device-type-assertion

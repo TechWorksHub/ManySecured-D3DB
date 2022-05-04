@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fec8b878-85ff-4412-935e-5677b74e1960
-  mac-addresses:
+  id: c64190b7-66f3-4831-98bd-2ca4395f1f5a
+  macAddresses:
   - 60:15:C7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IdaTech
 type: d3-device-type-assertion

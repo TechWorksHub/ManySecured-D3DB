@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9cb5bc2-f174-4953-843b-cf37a7afbec0
-  mac-addresses:
+  id: 555f363d-ee7a-474d-afc0-928db6a62ed1
+  macAddresses:
   - 00:50:C2:F1:E0:00/36
   manufacturer: Dell'Orto S.P.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DellOrto
 type: d3-device-type-assertion

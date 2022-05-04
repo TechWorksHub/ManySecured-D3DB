@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a5136ab-116a-4687-8e27-b4e8e3727be0
-  mac-addresses:
+  id: a4a185e6-3291-4706-bdb6-18e45622d6ad
+  macAddresses:
   - 00:1F:F1:00:00:00/24
   manufacturer: Paradox Hellas S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParadoxH
 type: d3-device-type-assertion

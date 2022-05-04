@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 432c0ef9-3636-4fe4-9d47-db9ed20c7224
-  mac-addresses:
+  id: 2b64b680-6ef0-4e4d-b8f2-d74ccd4fca3f
+  macAddresses:
   - 70:B3:D5:4B:50:00/36
   - 8C:1F:64:54:F0:00/36
   manufacturer: Toolplanet Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toolplan
 type: d3-device-type-assertion

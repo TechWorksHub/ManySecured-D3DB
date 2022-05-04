@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91f0cd26-8608-4897-8ea8-6b1dece2d231
-  mac-addresses:
+  id: 23b14b4a-dca1-4e62-a2e7-b8f2fca27d5b
+  macAddresses:
   - E8:DA:00:00:00:00/24
   manufacturer: Kivo Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KivoTech
 type: d3-device-type-assertion

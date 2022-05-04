@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 498d3823-9afe-413b-ba40-1bdf55684887
-  mac-addresses:
+  id: 275e92ed-8da9-4423-8b86-f81c5dc34b69
+  macAddresses:
   - 68:91:D0:70:00:00/28
   manufacturer: Omniimpex GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omniimpe
 type: d3-device-type-assertion

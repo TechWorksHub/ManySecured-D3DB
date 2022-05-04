@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 075385dd-229a-4bbc-ae3a-544dbe4e50e5
-  mac-addresses:
+  id: 85e531ad-5433-4bc1-bd5b-53c13f33b0ac
+  macAddresses:
   - 04:04:EA:00:00:00/24
   manufacturer: Valens Semiconductor Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValensSe
 type: d3-device-type-assertion

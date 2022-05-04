@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e25c078c-0ca9-4075-86e5-f26437877a50
-  mac-addresses:
+  id: 1b9d57f6-baa1-4bd9-8d1f-898c49cbddad
+  macAddresses:
   - A4:AE:9A:00:00:00/24
   manufacturer: Maestro Wireless Solutions ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaestroW
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16a5d07f-29ce-41f7-b95d-d3134c694d36
-  mac-addresses:
+  id: 023605c0-9a5e-4516-a302-ad00996a6383
+  macAddresses:
   - 00:50:C2:2C:70:00/36
   manufacturer: Siliquent Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siliquen
 type: d3-device-type-assertion

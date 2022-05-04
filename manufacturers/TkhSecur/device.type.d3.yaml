@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d15388cd-e270-4ac4-a1ac-3ce07fdc3e68
-  mac-addresses:
+  id: 30fef89f-fc06-4251-b5a4-60fa06af9d0b
+  macAddresses:
   - 40:17:F6:00:00:00/24
   manufacturer: Tkh Security,S.L.U.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TkhSecur
 type: d3-device-type-assertion

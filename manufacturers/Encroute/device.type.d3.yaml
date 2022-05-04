@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9be6bbc7-83c0-4812-b3dc-6c0ebd77aad5
-  mac-addresses:
+  id: 077b086b-6d0b-42c9-8f0f-41cd6b405e2b
+  macAddresses:
   - A0:02:4A:C0:00:00/28
   manufacturer: Encroute AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Encroute
 type: d3-device-type-assertion

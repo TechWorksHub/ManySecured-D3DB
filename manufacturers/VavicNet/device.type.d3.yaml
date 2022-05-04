@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c42ba39b-7eba-4efe-add0-1a609d42f40b
-  mac-addresses:
+  id: 0e2711ec-dbcb-4e3e-9dd0-05798623f35b
+  macAddresses:
   - 00:0F:68:00:00:00/24
   manufacturer: Vavic Network Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VavicNet
 type: d3-device-type-assertion

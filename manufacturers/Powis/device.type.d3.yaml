@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a4c70e1-4033-4c99-82e1-950a2334875f
-  mac-addresses:
+  id: 56614447-b9c0-4e9f-8f60-bf757e172793
+  macAddresses:
   - 00:50:C2:63:B0:00/36
   manufacturer: Powis Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powis
 type: d3-device-type-assertion

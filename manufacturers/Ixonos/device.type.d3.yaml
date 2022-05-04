@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09eb2229-d74b-4a9d-b9a2-1bfd24a547af
-  mac-addresses:
+  id: b329a4a5-2af7-47a5-bad5-92a8229778a6
+  macAddresses:
   - 00:50:C2:EC:20:00/36
   manufacturer: Ixonos Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ixonos
 type: d3-device-type-assertion

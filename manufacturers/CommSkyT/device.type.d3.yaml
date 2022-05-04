@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e793599e-babb-4a96-8268-5703fa412b27
-  mac-addresses:
+  id: 0dc16e5f-85d8-4f5d-b257-e35b37c9465f
+  macAddresses:
   - 34:CD:6D:00:00:00/24
   manufacturer: CommSky Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CommSkyT
 type: d3-device-type-assertion

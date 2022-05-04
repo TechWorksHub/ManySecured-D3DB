@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe6c3ea5-4ebb-4a5f-8869-f8f4ab93c8e0
-  mac-addresses:
+  id: cbe4f12a-4fbe-4ebc-931f-81904963e5c5
+  macAddresses:
   - 0C:84:84:00:00:00/24
   manufacturer: Zenovia Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZenoviaE
 type: d3-device-type-assertion

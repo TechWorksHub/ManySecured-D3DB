@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72739c2d-d0cb-4b0f-8e6e-687a63495eb6
-  mac-addresses:
+  id: 397f35ed-dff3-4561-a5a3-c82b75c4a9f2
+  macAddresses:
   - 00:03:DB:00:00:00/24
   manufacturer: Apogee Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApogeeEl
 type: d3-device-type-assertion

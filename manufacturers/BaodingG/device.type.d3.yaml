@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7ca6bbe-c524-440b-886a-dc00a385f677
-  mac-addresses:
+  id: 9dff77cf-632c-40f4-9816-64c91cd9a4cb
+  macAddresses:
   - 00:21:92:00:00:00/24
   manufacturer: Baoding Galaxy Electronic Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaodingG
 type: d3-device-type-assertion

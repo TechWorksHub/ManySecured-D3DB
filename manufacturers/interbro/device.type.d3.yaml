@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7bc63b4-517a-4987-9f1e-4108ea7b1d45
-  mac-addresses:
+  id: feef3dc7-6f70-4611-b5ba-a4c681b578a8
+  macAddresses:
   - 00:25:62:00:00:00/24
   manufacturer: interbro Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: interbro
 type: d3-device-type-assertion

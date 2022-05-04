@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2a3003b-0d73-4ad7-b02d-acafd55eb879
-  mac-addresses:
+  id: 6a966fb2-e8a8-4ca3-96bf-aa6860a0c469
+  macAddresses:
   - 00:1C:C6:00:00:00/24
   manufacturer: ProStor Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProStor
 type: d3-device-type-assertion

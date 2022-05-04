@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e7b2cf8-2f3f-46d0-9f14-75c7b046add0
-  mac-addresses:
+  id: 436437c4-4c2a-437a-8fd5-6fd74f19e003
+  macAddresses:
   - 70:B3:D5:3F:F0:00/36
   manufacturer: Hydra Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HydraCon
 type: d3-device-type-assertion

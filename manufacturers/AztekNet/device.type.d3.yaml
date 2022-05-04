@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 170c1e27-4060-4d7b-bad4-8cc37e92b924
-  mac-addresses:
+  id: c437620c-5845-43a0-936a-4263e6d64eb3
+  macAddresses:
   - 00:1A:E7:00:00:00/24
   manufacturer: Aztek Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AztekNet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d333a8ec-96e7-4bb4-b5f1-b26422413e97
-  mac-addresses:
+  id: 98d3b27c-b51f-4e69-95c8-e63fffb1b482
+  macAddresses:
   - 00:0F:C6:00:00:00/24
   manufacturer: Eurocom Industries A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EurocomI
 type: d3-device-type-assertion

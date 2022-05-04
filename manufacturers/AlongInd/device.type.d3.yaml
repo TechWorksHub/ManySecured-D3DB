@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11f26d33-86c3-4ce3-aeb2-66afa85143ca
-  mac-addresses:
+  id: bd2859f4-cec8-4406-9435-804719d0466b
+  macAddresses:
   - 68:F0:6D:00:00:00/24
   manufacturer: Along Industrial Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlongInd
 type: d3-device-type-assertion

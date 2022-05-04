@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c2e6e30-7348-460b-a6fc-f01d17cd6173
-  mac-addresses:
+  id: 5238b833-1a42-4a29-8031-57a9a066860a
+  macAddresses:
   - 10:DC:B6:30:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hanacns
 type: d3-device-type-assertion

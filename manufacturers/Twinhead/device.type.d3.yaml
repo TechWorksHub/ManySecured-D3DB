@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 091bf8a0-d890-4de9-98fd-801a52ebd13f
-  mac-addresses:
+  id: 815f9e5a-c591-4acb-bc25-21400da6dcb1
+  macAddresses:
   - 00:01:2F:00:00:00/24
   - 00:40:45:00:00:00/24
   manufacturer: Twinhead International Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Twinhead
 type: d3-device-type-assertion

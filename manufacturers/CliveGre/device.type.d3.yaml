@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 484428c0-56d2-495e-a085-ac7d312ff8d8
-  mac-addresses:
+  id: d52b5453-4d13-4d04-8967-342303628a81
+  macAddresses:
   - 00:50:C2:00:70:00/36
   manufacturer: Clive Green & Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CliveGre
 type: d3-device-type-assertion

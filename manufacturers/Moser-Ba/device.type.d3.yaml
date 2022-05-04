@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e31aaf5-43d0-431a-8ed8-7eb56d2ade77
-  mac-addresses:
+  id: cf241790-7731-4cb6-857f-4b44ed6840ae
+  macAddresses:
   - 00:16:91:00:00:00/24
   manufacturer: Moser-Baer AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Moser-Ba
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cdfeb4b-39be-4d6d-8c2c-6efe966d2777
-  mac-addresses:
+  id: b61c2002-5ee2-40d6-9534-1567a12bbdc3
+  macAddresses:
   - 00:06:11:00:00:00/24
   manufacturer: Zeus Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZeusWire
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 3ca99c3f-edf6-45ea-b1d3-6e52f67e298f
-  mac-addresses:
+  id: 8e76b8d3-0530-4e2a-a6f8-694be5008f5f
+  macAddresses:
   - 00:50:C2:02:40:00/36
   - 00:50:C2:97:10:00/36
   - 70:B3:D5:EC:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ipitek
 type: d3-device-type-assertion

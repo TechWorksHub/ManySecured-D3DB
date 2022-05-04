@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5116a24b-00a2-4e8d-8c9a-026385e27ce4
-  mac-addresses:
+  id: 1ebef227-5109-4e9a-8a67-5817f0c4a3a5
+  macAddresses:
   - 00:15:0A:00:00:00/24
   manufacturer: Sonoa Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sonoa
 type: d3-device-type-assertion

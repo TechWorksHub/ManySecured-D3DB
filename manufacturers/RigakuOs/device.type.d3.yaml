@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38841216-9bf9-40ea-83cf-89cca97f4076
-  mac-addresses:
+  id: a2f50cb0-68ff-4f9f-84d5-c1f88512a938
+  macAddresses:
   - 00:50:92:00:00:00/24
   manufacturer: Rigaku Corporation Osaka Plant
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RigakuOs
 type: d3-device-type-assertion

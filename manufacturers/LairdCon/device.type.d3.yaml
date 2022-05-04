@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 6b4a7480-3867-4bf0-ab2c-f115ce1365ef
-  mac-addresses:
+  id: 9e21b064-cc1e-4257-8a09-0dc7998ddd5d
+  macAddresses:
   - 00:25:CA:00:00:00/24
   - 18:C2:93:00:00:00/24
   - C0:EE:40:00:00:00/24
   manufacturer: Laird Connectivity
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LairdCon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a32b552d-5169-4e04-85ba-509c0bdf8958
-  mac-addresses:
+  id: 27d673e3-7fdf-4576-b8cb-4090f1060db4
+  macAddresses:
   - 04:96:45:00:00:00/24
   manufacturer: Wuxi Sky Chip Interconnection Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuxiSkyC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b68049d5-32ac-4588-8ca2-0c1881ed112a
-  mac-addresses:
+  id: b924e50a-e90f-44ae-9757-c5a58b4548da
+  macAddresses:
   - FC:61:79:B0:00:00/28
   manufacturer: Fulian Precision Electronics(Tianjin) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FulianPr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3859a43-b24d-4c12-b219-219cd81541b3
-  mac-addresses:
+  id: 22622398-9bd3-48c9-bbb7-b1552a2dc47d
+  macAddresses:
   - 48:46:8D:00:00:00/24
   manufacturer: Zepcam B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zepcam
 type: d3-device-type-assertion

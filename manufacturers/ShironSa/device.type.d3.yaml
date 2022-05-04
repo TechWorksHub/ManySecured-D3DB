@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de14fc96-80b3-46be-ad4c-80b3dda2637d
-  mac-addresses:
+  id: c5f21836-2fc2-4686-a65d-5fface44e755
+  macAddresses:
   - 00:0B:A4:00:00:00/24
   manufacturer: Shiron Satellite Communications Ltd. (1996)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShironSa
 type: d3-device-type-assertion

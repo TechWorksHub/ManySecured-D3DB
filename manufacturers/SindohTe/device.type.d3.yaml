@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11354e06-3185-431a-8b27-7bf331db4d3b
-  mac-addresses:
+  id: 0e83c680-d3a4-4106-937f-e6a8a2bd4529
+  macAddresses:
   - 90:E2:FC:60:00:00/28
   manufacturer: Sindoh Techno Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SindohTe
 type: d3-device-type-assertion

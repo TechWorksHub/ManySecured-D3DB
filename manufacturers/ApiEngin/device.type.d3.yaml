@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10386315-7f14-4823-ac2f-f14a6a3f3250
-  mac-addresses:
+  id: d44e0819-2fc0-4348-90ab-410f1dccfdb5
+  macAddresses:
   - 00:20:A5:00:00:00/24
   manufacturer: Api Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApiEngin
 type: d3-device-type-assertion

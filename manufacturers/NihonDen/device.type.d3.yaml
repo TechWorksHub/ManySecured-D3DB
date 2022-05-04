@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b848617a-da15-4bf9-bb98-1c5ed795ab7d
-  mac-addresses:
+  id: 485b71d8-a466-4601-829e-03e5249ca074
+  macAddresses:
   - 68:23:4B:00:00:00/24
   manufacturer: Nihon Dengyo Kousaku
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NihonDen
 type: d3-device-type-assertion

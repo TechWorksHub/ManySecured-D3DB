@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f408391d-f379-46ac-8832-2b7b812bc38f
-  mac-addresses:
+  id: 078ecab9-0890-4515-95f3-ade44f272ab3
+  macAddresses:
   - 00:06:02:00:00:00/24
   manufacturer: Cirkitech Electronics Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cirkitec
 type: d3-device-type-assertion

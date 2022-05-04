@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23cc7c01-e0ad-4e74-b7f7-dacf5dcf6ec7
-  mac-addresses:
+  id: 5eb12cbd-7587-4c7e-8045-38ac5816cf93
+  macAddresses:
   - 00:03:85:00:00:00/24
   manufacturer: Actelis Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActelisN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27754fb0-eead-423c-8c72-dfe00b8b6f7c
-  mac-addresses:
+  id: b33facd0-95d1-4cf9-80bb-4e751db8f295
+  macAddresses:
   - 00:23:D1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trg
 type: d3-device-type-assertion

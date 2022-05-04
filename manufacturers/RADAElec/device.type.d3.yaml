@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7ff7b1d0-f9e4-4ccc-97ab-0f56295a80d3
-  mac-addresses:
+  id: 67867c0a-67a7-4b53-8dc5-ead5d8c8faaf
+  macAddresses:
   - 00:50:C2:5C:D0:00/36
   - 70:B3:D5:C4:D0:00/36
   manufacturer: RADA Electronics Industries Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RADAElec
 type: d3-device-type-assertion

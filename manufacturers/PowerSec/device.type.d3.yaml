@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b810a7ad-fde7-4e33-8fa8-e11b170c0bd5
-  mac-addresses:
+  id: d7cd14c5-369f-428e-9daf-5d32e80cd218
+  macAddresses:
   - 70:B3:D5:AF:A0:00/36
   manufacturer: Power Security Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerSec
 type: d3-device-type-assertion

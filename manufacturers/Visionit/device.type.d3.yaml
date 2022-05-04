@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0336612e-358d-436a-b86a-f7d9dd15e588
-  mac-addresses:
+  id: 1ad7c14d-6a5f-4b3a-a464-ed44256e1c38
+  macAddresses:
   - 00:1A:B3:00:00:00/24
   manufacturer: Visionite Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visionit
 type: d3-device-type-assertion

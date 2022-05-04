@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fa2207f-6c72-473f-ac3b-2f8c281db383
-  mac-addresses:
+  id: bc6cf19e-1221-41a9-9856-7e66da3cd6e8
+  macAddresses:
   - 70:B3:D5:2E:10:00/36
   manufacturer: hiSky S.C.S LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: hiSkySCS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fffd76bc-ec4f-4e6a-8bde-6e06b8fe3216
-  mac-addresses:
+  id: 53c4bc46-095d-4b55-95f1-459e501719f5
+  macAddresses:
   - 80:7D:1B:00:00:00/24
   manufacturer: Neosystem Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neosyste
 type: d3-device-type-assertion

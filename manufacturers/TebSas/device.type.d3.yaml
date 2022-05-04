@@ -1,8 +1,8 @@
 credentialSubject:
-  id: edfa96f2-1bfa-4bdc-ac6d-3f46c5abdd22
-  mac-addresses:
+  id: 0491bca0-7627-4e92-9a4b-ca9ef9b43013
+  macAddresses:
   - 18:14:20:00:00:00/24
   manufacturer: Teb Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TebSas
 type: d3-device-type-assertion

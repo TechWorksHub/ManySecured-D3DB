@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26a07be4-b3f3-4b7e-b0d6-479033622c53
-  mac-addresses:
+  id: 813b7f32-6937-41cd-97b4-713dffceb0b4
+  macAddresses:
   - 00:04:DA:00:00:00/24
   manufacturer: Relax Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RelaxTec
 type: d3-device-type-assertion

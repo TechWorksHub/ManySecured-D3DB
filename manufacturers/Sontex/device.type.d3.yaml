@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a709565-f774-490c-acd1-bf842308bdc2
-  mac-addresses:
+  id: 18ae00bb-42aa-41fb-b834-1634e7a51e81
+  macAddresses:
   - F8:0D:F1:00:00:00/24
   manufacturer: Sontex SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sontex
 type: d3-device-type-assertion

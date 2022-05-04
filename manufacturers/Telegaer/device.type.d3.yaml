@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0a01d10-a054-4583-a929-a107f0655b57
-  mac-addresses:
+  id: 669b15bb-7928-41e1-a67f-b37a4c011e6c
+  macAddresses:
   - 58:48:49:D0:00:00/28
   manufacturer: Telegaertner Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telegaer
 type: d3-device-type-assertion

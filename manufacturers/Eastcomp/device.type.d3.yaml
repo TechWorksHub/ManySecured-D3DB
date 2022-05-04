@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a276f6f8-6a0f-429a-a366-29cbc52b31d1
-  mac-addresses:
+  id: 3cfea9ae-9940-4ea9-8df8-de52b770f64b
+  macAddresses:
   - 70:06:AC:00:00:00/24
   manufacturer: Eastcompeace Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eastcomp
 type: d3-device-type-assertion

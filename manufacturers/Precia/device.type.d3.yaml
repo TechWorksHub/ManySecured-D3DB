@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d70cf2d8-9d33-47e7-9e9d-26f4ca99b2e4
-  mac-addresses:
+  id: 48bd5ad3-3364-4b63-a44c-4df2aae0ef60
+  macAddresses:
   - 10:CA:81:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Precia
 type: d3-device-type-assertion

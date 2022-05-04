@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ab34e12-6eac-4e66-a4cb-df2d2adbf285
-  mac-addresses:
+  id: 2f999812-27cf-4fc2-a867-6f7798bc8d9f
+  macAddresses:
   - DC:63:73:00:00:00/24
   manufacturer: Obara Korea
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ObaraKor
 type: d3-device-type-assertion

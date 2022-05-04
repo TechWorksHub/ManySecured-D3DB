@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b6ade9-b498-43c5-aab6-4b4a8da00d6b
-  mac-addresses:
+  id: c632d5f9-f1b5-4c90-989a-505a0d15653e
+  macAddresses:
   - 88:B6:6B:00:00:00/24
   manufacturer: easynetworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: easynetw
 type: d3-device-type-assertion

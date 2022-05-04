@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0263330-cdd4-4a29-ac9f-8b6be8cc8b53
-  mac-addresses:
+  id: 2be26556-10f4-41b0-ae8c-0a3bc963c9cc
+  macAddresses:
   - 00:50:C2:CA:50:00/36
   manufacturer: Yokowo Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yokowo
 type: d3-device-type-assertion

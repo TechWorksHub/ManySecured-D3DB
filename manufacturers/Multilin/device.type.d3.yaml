@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e4aa95f-8d6b-4e46-8c3e-99df7d980872
-  mac-addresses:
+  id: e2abd15e-a411-41a5-8a72-db6631772629
+  macAddresses:
   - 00:14:81:00:00:00/24
   manufacturer: Multilink Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Multilin
 type: d3-device-type-assertion

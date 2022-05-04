@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b74454de-7ffc-43e4-9de7-b034a0d5b995
-  mac-addresses:
+  id: 559d05bd-0ce9-454c-8eea-17ac66024de2
+  macAddresses:
   - 70:B3:D5:21:A0:00/36
   manufacturer: Acutronic Link Robotics AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acutroni
 type: d3-device-type-assertion

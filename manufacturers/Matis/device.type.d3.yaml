@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b6d0879-dcf9-4890-b2c5-2813b5de7cdd
-  mac-addresses:
+  id: fb533ed6-96a6-4294-ab8f-d7b1e1a0e6dc
+  macAddresses:
   - A0:E6:17:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Matis
 type: d3-device-type-assertion

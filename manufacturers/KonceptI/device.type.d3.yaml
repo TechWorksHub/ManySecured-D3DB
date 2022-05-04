@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac734664-1785-4f2f-96c7-7a0fff6ef889
-  mac-addresses:
+  id: a292703f-a18b-4274-914f-cfd5b71b3d61
+  macAddresses:
   - 00:14:2C:00:00:00/24
   manufacturer: Koncept International, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KonceptI
 type: d3-device-type-assertion

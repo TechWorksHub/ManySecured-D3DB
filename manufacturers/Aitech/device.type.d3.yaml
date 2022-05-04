@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d53c1646-8116-46bd-b9ef-1d74d3aac506
-  mac-addresses:
+  id: 8c3fab69-2a5a-4d09-8f8a-87c0e205a396
+  macAddresses:
   - 00:80:7A:00:00:00/24
   manufacturer: Aitech Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aitech
 type: d3-device-type-assertion

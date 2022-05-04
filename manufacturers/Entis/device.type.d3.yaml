@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f160ef7-3250-4110-b624-d84ce4d13563
-  mac-addresses:
+  id: 1b803e8d-ba15-4e0a-8b2f-39d3ba06a7e4
+  macAddresses:
   - 14:54:12:00:00:00/24
   manufacturer: Entis Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Entis
 type: d3-device-type-assertion

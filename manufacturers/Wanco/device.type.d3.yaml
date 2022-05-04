@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ce8fe7fe-973c-432d-982a-563311399cf9
-  mac-addresses:
+  id: 7a847215-2e9e-4259-ab43-238060dcdcaa
+  macAddresses:
   - 00:50:C2:BF:30:00/36
   - 70:B3:D5:0A:A0:00/36
   manufacturer: Wanco Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wanco
 type: d3-device-type-assertion

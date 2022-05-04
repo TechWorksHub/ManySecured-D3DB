@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f906a26d-c745-4a44-ac2b-d06f94c458d4
-  mac-addresses:
+  id: 91588a2d-38da-4dc6-8bb8-d205609359ba
+  macAddresses:
   - 00:24:A6:00:00:00/24
   manufacturer: TELESTAR DIGITAL GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TELESTAR
 type: d3-device-type-assertion

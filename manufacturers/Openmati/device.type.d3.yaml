@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a05a9ed5-aa8b-4b53-986f-b1f167a86226
-  mac-addresses:
+  id: c1aa176a-02a9-4397-8a4d-a8c870cae79a
+  macAddresses:
   - 7C:97:63:00:00:00/24
   manufacturer: Openmatics s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Openmati
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7674510-29a7-49fd-9f1b-87487e0b2676
-  mac-addresses:
+  id: 08d9e744-fbeb-4128-ac37-bcfc8a0dd9ee
+  macAddresses:
   - 70:B3:D5:6C:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arinax
 type: d3-device-type-assertion

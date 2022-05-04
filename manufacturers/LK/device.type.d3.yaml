@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f119d2ee-e3a0-4fe7-af7e-695377b25881
-  mac-addresses:
+  id: f420a066-ee45-4bd6-a08c-92bfea63632a
+  macAddresses:
   - 00:50:C2:20:90:00/36
   manufacturer: LK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LK
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b12d449-e0a6-44fd-943a-e82327e36d93
-  mac-addresses:
+  id: c380e3cf-8b91-4b46-9613-7db19e712faf
+  macAddresses:
   - 00:16:F5:00:00:00/24
   manufacturer: Dalian Golden Hualu Digital Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DalianGo
 type: d3-device-type-assertion

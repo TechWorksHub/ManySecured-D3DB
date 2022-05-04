@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c440f65-3f88-4e36-acdd-d99718b2a541
-  mac-addresses:
+  id: 8d8b1b97-3b07-4a81-8a80-a7a5943b2bc6
+  macAddresses:
   - 00:08:B7:00:00:00/24
   manufacturer: HIT Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HIT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3847a780-2804-4b0c-9a70-f12519023502
-  mac-addresses:
+  id: bd682550-263c-46b6-a15e-a4c83c3bfba1
+  macAddresses:
   - 00:01:16:00:00:00/24
   manufacturer: Netspect Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netspect
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7d2c0dd-15a3-432b-bf2f-4a66b26938e1
-  mac-addresses:
+  id: 24531f97-a4c0-4983-bd24-fba6159c7a0f
+  macAddresses:
   - 00:22:79:00:00:00/24
   manufacturer: Nippon Conlux Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NipponCo
 type: d3-device-type-assertion

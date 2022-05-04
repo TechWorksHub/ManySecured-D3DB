@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8815387-5a52-4548-892b-a187469c87f1
-  mac-addresses:
+  id: 7ff4bc75-5b64-4945-9a6d-0cb03af2a43b
+  macAddresses:
   - 00:18:78:00:00:00/24
   manufacturer: Mackware GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mackware
 type: d3-device-type-assertion

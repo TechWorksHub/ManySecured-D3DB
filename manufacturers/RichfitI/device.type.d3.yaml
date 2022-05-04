@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29f1ee4f-9ebc-40ae-acd2-b50c80e9d21b
-  mac-addresses:
+  id: d2623c96-e5d6-4ed7-a9df-c86990f79323
+  macAddresses:
   - 50:14:B5:00:00:00/24
   manufacturer: Richfit Information Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RichfitI
 type: d3-device-type-assertion

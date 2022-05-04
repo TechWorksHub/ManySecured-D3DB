@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4684cb6b-a890-4a6f-a75a-8d02e98130e0
-  mac-addresses:
+  id: f364ed38-6c1b-4d9e-9dd3-91a4fb9cb80d
+  macAddresses:
   - 00:50:C2:D9:80:00/36
   manufacturer: Rong Shun Xuan Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RongShun
 type: d3-device-type-assertion

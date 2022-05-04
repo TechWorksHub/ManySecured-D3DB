@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 698cf037-ea82-4957-934c-c0e88bbf8cf0
-  mac-addresses:
+  id: 9f76a5a8-39c6-4d40-88ac-f19fa12322f1
+  macAddresses:
   - 00:10:30:00:00:00/24
   manufacturer: EION Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EION
 type: d3-device-type-assertion

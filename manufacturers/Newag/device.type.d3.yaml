@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab564c4b-6638-4fe9-aff5-ba827164bb2c
-  mac-addresses:
+  id: f5dc3011-f61f-4eb2-9506-66ba192c8182
+  macAddresses:
   - 80:76:93:00:00:00/24
   manufacturer: Newag SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newag
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0453e61-3b70-4b85-80ae-eb720670d5bf
-  mac-addresses:
+  id: 29edaff8-5091-4339-9906-b33ca17ab448
+  macAddresses:
   - 88:BF:D5:00:00:00/24
   manufacturer: Simple Audio Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimpleAu
 type: d3-device-type-assertion

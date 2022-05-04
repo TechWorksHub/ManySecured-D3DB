@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1a9f161-a485-4763-abfa-c6b11b2bb5f3
-  mac-addresses:
+  id: bfacd9b9-ad00-410c-8736-2052930edd13
+  macAddresses:
   - 78:CB:33:00:00:00/24
   manufacturer: DHC Software Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DHCSoftw
 type: d3-device-type-assertion

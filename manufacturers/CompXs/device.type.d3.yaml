@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e90860ea-6ba5-4b22-bc86-8b58cc71d6d8
-  mac-addresses:
+  id: b03844b3-7e6d-4e54-a3d4-de090561c20a
+  macAddresses:
   - 00:0D:EB:00:00:00/24
   manufacturer: CompXs Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompXs
 type: d3-device-type-assertion

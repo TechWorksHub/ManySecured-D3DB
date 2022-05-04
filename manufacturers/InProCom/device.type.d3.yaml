@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f3d449e-f305-4a81-8566-9e23695c0f8b
-  mac-addresses:
+  id: 819fd230-ec80-4f59-80a8-fdd6540eb3bc
+  macAddresses:
   - 00:08:22:00:00:00/24
   manufacturer: InPro Comm
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InProCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16d139c7-7a3e-40ba-a86b-b3ca89d1d59f
-  mac-addresses:
+  id: 98e0e9e0-b9e7-4554-a829-cc5ee08c89de
+  macAddresses:
   - 00:18:54:00:00:00/24
   manufacturer: Argard Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Argard
 type: d3-device-type-assertion

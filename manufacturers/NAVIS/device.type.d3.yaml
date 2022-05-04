@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98629d47-1d34-4d09-ae15-f1bbdb9a7d00
-  mac-addresses:
+  id: 4976d33b-a7f6-4cc2-8853-b4c788e8bd95
+  macAddresses:
   - C4:7B:A3:00:00:00/24
   manufacturer: NAVIS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NAVIS
 type: d3-device-type-assertion

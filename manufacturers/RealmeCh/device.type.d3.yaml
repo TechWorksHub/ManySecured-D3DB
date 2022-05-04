@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 091f58c1-4aad-4c3a-b6c4-daade0070abd
-  mac-addresses:
+  id: 1c85494b-20eb-41fd-a27b-0f26ee409be8
+  macAddresses:
   - 0C:90:43:00:00:00/24
   - 10:82:D7:00:00:00/24
   - 10:F6:05:00:00:00/24
@@ -36,6 +36,6 @@ credentialSubject:
   - F8:5E:0B:00:00:00/24
   - F8:AD:24:00:00:00/24
   manufacturer: Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealmeCh
 type: d3-device-type-assertion

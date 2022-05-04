@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8fb4465-d2bc-49b2-bfc4-1e10d748e973
-  mac-addresses:
+  id: f0c1aea3-2bdc-4359-9e1d-db2d033d11ac
+  macAddresses:
   - 48:F4:7D:00:00:00/24
   manufacturer: TechVision Holding Internation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechVisi
 type: d3-device-type-assertion

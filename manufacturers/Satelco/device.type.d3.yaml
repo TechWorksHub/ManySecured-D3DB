@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93c78603-fd69-4a1a-a79a-ea8fc6f3e26b
-  mac-addresses:
+  id: e636a350-b6f4-4fa2-bad9-2077bbb79571
+  macAddresses:
   - 7C:B1:77:00:00:00/24
   manufacturer: Satelco AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satelco
 type: d3-device-type-assertion

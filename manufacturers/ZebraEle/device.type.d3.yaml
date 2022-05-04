@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2947e0d0-14f5-4f97-adc7-261999fc48a8
-  mac-addresses:
+  id: 732617ed-d44d-4b19-8acf-94b9bea08cb9
+  macAddresses:
   - 70:B3:D5:25:90:00/36
   manufacturer: Zebra Elektronik A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZebraEle
 type: d3-device-type-assertion

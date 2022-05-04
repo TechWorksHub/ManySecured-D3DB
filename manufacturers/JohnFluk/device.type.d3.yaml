@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c365a67-8782-406b-8a91-47426796f036
-  mac-addresses:
+  id: b9b9c589-7421-4ec6-9d4b-4a6c7b97a18c
+  macAddresses:
   - 00:80:40:00:00:00/24
   manufacturer: John Fluke Manufacturing Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JohnFluk
 type: d3-device-type-assertion

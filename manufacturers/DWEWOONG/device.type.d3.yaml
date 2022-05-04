@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95e876c9-94be-4e4f-99f8-2c0a696e69fd
-  mac-addresses:
+  id: ca1c3da3-9e4c-417f-a9d4-a81b617c119f
+  macAddresses:
   - 70:B3:D5:BC:20:00/36
   manufacturer: DWEWOONG ELECTRIC Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DWEWOONG
 type: d3-device-type-assertion

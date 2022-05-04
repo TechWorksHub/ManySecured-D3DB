@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6278e124-b772-4bc5-8eef-b7a3e674b99b
-  mac-addresses:
+  id: 3e42456c-17b2-4485-8bf7-905291a5c34c
+  macAddresses:
   - 34:99:6F:00:00:00/24
   manufacturer: VPI Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VPIEngin
 type: d3-device-type-assertion

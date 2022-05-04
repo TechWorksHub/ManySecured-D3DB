@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d673dfa-7b12-48c9-ac7e-85ccd7510d61
-  mac-addresses:
+  id: 9cb279de-af53-40e2-a107-ce8d3327d03b
+  macAddresses:
   - 24:69:3E:00:00:00/24
   manufacturer: innodisk Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: innodisk
 type: d3-device-type-assertion

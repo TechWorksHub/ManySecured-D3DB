@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ec2187f-8e91-425e-978c-f40f44382173
-  mac-addresses:
+  id: 15503be8-9e8b-47d7-a92a-b45f719be9e4
+  macAddresses:
   - 00:01:B0:00:00:00/24
   manufacturer: Fulltek Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FulltekT
 type: d3-device-type-assertion

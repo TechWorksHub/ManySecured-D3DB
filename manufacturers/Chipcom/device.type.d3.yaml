@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7748bd8a-e8d9-4bb6-a84e-8aed96599322
-  mac-addresses:
+  id: 46b1d181-f739-430f-8deb-e4467f5f91ae
+  macAddresses:
   - 08:00:8F:00:00:00/24
   manufacturer: Chipcom Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chipcom
 type: d3-device-type-assertion

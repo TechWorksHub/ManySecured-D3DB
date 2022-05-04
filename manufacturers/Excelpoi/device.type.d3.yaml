@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae57bd0b-39fe-4965-9d2a-8d5acf9c2de5
-  mac-addresses:
+  id: fa7c3462-55c6-4280-a782-f9bdfc96641a
+  macAddresses:
   - 00:1C:7D:00:00:00/24
   manufacturer: Excelpoint Manufacturing Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Excelpoi
 type: d3-device-type-assertion

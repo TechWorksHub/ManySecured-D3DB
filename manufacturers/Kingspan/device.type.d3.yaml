@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf0fa948-4782-466d-adf5-7dfed4ab354c
-  mac-addresses:
+  id: 06ae374c-8f35-4abd-b226-d0191408bd13
+  macAddresses:
   - A4:DB:2E:00:00:00/24
   manufacturer: Kingspan Environmental Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kingspan
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44791471-f0a9-49f1-831e-1a34b31949a1
-  mac-addresses:
+  id: 3047dbae-7420-4af2-849a-797c95d84ec7
+  macAddresses:
   - 00:1C:F5:00:00:00/24
   manufacturer: Wiseblue Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wiseblue
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df101f0f-35d4-4788-a7c8-f7ee0b061d33
-  mac-addresses:
+  id: bbadde0d-37c9-4ee5-a884-71db8fc2197d
+  macAddresses:
   - 00:E0:1F:00:00:00/24
   manufacturer: AVIDIA Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVIDIA
 type: d3-device-type-assertion

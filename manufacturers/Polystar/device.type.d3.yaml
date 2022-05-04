@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 273a508a-9698-4079-b61c-9c375c0bdcd0
-  mac-addresses:
+  id: 30f9652e-594f-48b4-a072-2107d9416ffb
+  macAddresses:
   - 00:50:C2:50:F0:00/36
   manufacturer: Polystar Instruments AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polystar
 type: d3-device-type-assertion

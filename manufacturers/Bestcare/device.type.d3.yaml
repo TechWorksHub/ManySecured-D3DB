@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2dd9367-97cd-41e8-96d4-69c8fc1ba1ec
-  mac-addresses:
+  id: 2d14139d-5b7a-43ed-b8a2-a80323b235c8
+  macAddresses:
   - D0:B5:23:00:00:00/24
   manufacturer: Bestcare Cloucal Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bestcare
 type: d3-device-type-assertion

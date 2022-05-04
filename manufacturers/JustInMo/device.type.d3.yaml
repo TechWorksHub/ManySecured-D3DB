@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 854cb329-c46d-4223-9147-8d6bf6a09393
-  mac-addresses:
+  id: 77e8f3a3-100d-4de0-87be-e573c8f8c053
+  macAddresses:
   - 00:19:11:00:00:00/24
   manufacturer: Just In Mobile Information Technologies (Shanghai) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JustInMo
 type: d3-device-type-assertion

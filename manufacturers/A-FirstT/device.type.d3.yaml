@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 906d9b9a-4023-4675-a9a1-717d2e86af8a
-  mac-addresses:
+  id: 67d01a75-dab4-43c1-81df-16d197451512
+  macAddresses:
   - 00:15:66:00:00:00/24
   manufacturer: A-First Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A-FirstT
 type: d3-device-type-assertion

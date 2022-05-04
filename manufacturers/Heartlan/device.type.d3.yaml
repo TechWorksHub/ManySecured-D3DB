@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d1ecfed8-d8b5-44ba-a68e-7640611944b7
-  mac-addresses:
+  id: 475a1829-1acc-4165-bb47-3fc27100ea6f
+  macAddresses:
   - 70:B3:D5:45:50:00/36
   - 70:B3:D5:AC:80:00/36
   manufacturer: Heartlandmicropayments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Heartlan
 type: d3-device-type-assertion

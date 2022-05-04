@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3252911-ecbc-406b-aba1-a3c3111053bd
-  mac-addresses:
+  id: 8604e708-96de-4be4-bbe9-c4aa76d45c61
+  macAddresses:
   - 00:E0:B9:00:00:00/24
   manufacturer: Byas Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Byas
 type: d3-device-type-assertion

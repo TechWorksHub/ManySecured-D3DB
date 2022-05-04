@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4035bf1-e8e9-456d-a641-0b6538ac8d82
-  mac-addresses:
+  id: 78763aa6-6919-456a-930d-fc04622ace38
+  macAddresses:
   - 98:06:37:60:00:00/28
   manufacturer: Boeing Ssg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoeingSs
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3acf750b-b8b5-42a9-8f55-692aac0f33c0
-  mac-addresses:
+  id: ea4491ba-f5dd-48b2-a041-5a644e4bffbb
+  macAddresses:
   - 30:0A:C5:00:00:00/24
   manufacturer: Ruio telecommunication technologies Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ruiotele
 type: d3-device-type-assertion

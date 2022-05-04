@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b971c6d-1dbe-4ae0-a59c-dde4093ed239
-  mac-addresses:
+  id: 24eb588e-31c2-4c29-9636-3675a0d1773d
+  macAddresses:
   - 00:21:C8:00:00:00/24
   manufacturer: LOHUIS Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LOHUISNe
 type: d3-device-type-assertion

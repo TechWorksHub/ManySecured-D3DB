@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 769b2022-0ce9-4055-a410-3f6eb5682e8f
-  mac-addresses:
+  id: 456e71e2-a413-4389-a07e-cf4da0e00c5d
+  macAddresses:
   - 00:1C:46:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qtum
 type: d3-device-type-assertion

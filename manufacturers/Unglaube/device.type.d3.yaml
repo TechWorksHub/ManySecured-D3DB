@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80739e39-b0d9-4910-9bfa-ab6b57d99de4
-  mac-addresses:
+  id: 72b6a022-bead-4227-bb49-9e3265936877
+  macAddresses:
   - 68:E4:1F:00:00:00/24
   manufacturer: Unglaube Identech GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unglaube
 type: d3-device-type-assertion

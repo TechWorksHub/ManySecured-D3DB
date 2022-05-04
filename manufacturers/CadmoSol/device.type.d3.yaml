@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f561525c-5700-4417-abd2-fab5cdb93226
-  mac-addresses:
+  id: 074da41a-e587-42f1-9576-21d4b649012b
+  macAddresses:
   - 60:95:CE:70:00:00/28
   manufacturer: Cadmo Soluciones SAC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CadmoSol
 type: d3-device-type-assertion

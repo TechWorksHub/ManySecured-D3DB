@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce5eee58-2576-453e-a6d7-d393543a2606
-  mac-addresses:
+  id: 4ada1f75-5cfe-4982-9e00-2328b7621d3d
+  macAddresses:
   - CC:A0:E5:00:00:00/24
   manufacturer: DZG Metering GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DZGMeter
 type: d3-device-type-assertion

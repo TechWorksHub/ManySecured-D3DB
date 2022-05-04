@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d324261-da0b-442c-a531-c11573248638
-  mac-addresses:
+  id: e2411982-b375-4a51-87cf-cf5c98a77e76
+  macAddresses:
   - 50:97:07:00:00:00/24
   manufacturer: Xiamen Paperang Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenPa
 type: d3-device-type-assertion

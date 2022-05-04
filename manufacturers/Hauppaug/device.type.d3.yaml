@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6665b165-e3ba-4c73-a0f7-66e5d2d38f9f
-  mac-addresses:
+  id: fe36bf37-6e2b-4199-b5ed-3fd16a500938
+  macAddresses:
   - 00:0D:FE:00:00:00/24
   - 00:50:C2:24:50:00/36
   manufacturer: Hauppauge Computer Works, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hauppaug
 type: d3-device-type-assertion

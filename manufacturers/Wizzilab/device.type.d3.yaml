@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e60a2a9-5def-405d-90d4-94099b694003
-  mac-addresses:
+  id: ebab4632-5e34-4223-88ed-115e09940ce9
+  macAddresses:
   - 00:1B:C5:0C:70:00/36
   manufacturer: Wizzilab Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wizzilab
 type: d3-device-type-assertion

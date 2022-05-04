@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b9bed61-6466-4522-81a4-0a666ef72ff7
-  mac-addresses:
+  id: c5a42da2-85fb-4391-a85a-c9ce33d0d036
+  macAddresses:
   - E0:ED:1A:00:00:00/24
   manufacturer: vastriver Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vastrive
 type: d3-device-type-assertion

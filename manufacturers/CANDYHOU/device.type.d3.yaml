@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aef4975f-7832-41b6-8ea1-d75caec8497d
-  mac-addresses:
+  id: 903080d4-e3fb-4fe4-af8c-c88bc8dd5e25
+  macAddresses:
   - 38:56:10:00:00:00/24
   manufacturer: CANDY HOUSE, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CANDYHOU
 type: d3-device-type-assertion

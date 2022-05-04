@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89af7f5b-5260-48aa-96ab-f0323d0140e0
-  mac-addresses:
+  id: 2d9bf10f-30e1-4f05-a11e-c8bcef1a5f16
+  macAddresses:
   - F0:23:B9:10:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubiant
 type: d3-device-type-assertion

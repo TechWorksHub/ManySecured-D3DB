@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4000d38f-c585-40c6-8bfb-14a98137b16b
-  mac-addresses:
+  id: 2adcbc99-45d1-43ec-a9b5-848e8160a668
+  macAddresses:
   - 00:0F:D4:00:00:00/24
   manufacturer: Soundcraft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Soundcra
 type: d3-device-type-assertion

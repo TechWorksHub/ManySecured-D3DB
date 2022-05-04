@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 851bb529-4590-4a31-9ee0-3304095f2a47
-  mac-addresses:
+  id: fb59e3e9-9d1d-4097-b903-93abac29dba8
+  macAddresses:
   - 00:20:0C:00:00:00/24
   manufacturer: Adastra Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adastra
 type: d3-device-type-assertion

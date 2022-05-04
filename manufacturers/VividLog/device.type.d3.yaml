@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 411f8665-c341-451f-be33-65918ab96edb
-  mac-addresses:
+  id: 41504884-00c5-4017-ba86-67acf5742f60
+  macAddresses:
   - 00:09:89:00:00:00/24
   manufacturer: VividLogic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VividLog
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1104258-08fd-40a1-bbeb-c9bbb880f54d
-  mac-addresses:
+  id: de3d3186-1904-44fb-b4bd-9fb42afe5b8b
+  macAddresses:
   - 40:D8:55:14:20:00/36
   manufacturer: Tetracore, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tetracor
 type: d3-device-type-assertion

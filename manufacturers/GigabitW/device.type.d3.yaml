@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d434e2ad-28c5-44dc-a1c8-d516b92fe88c
-  mac-addresses:
+  id: ac94720a-a345-439e-baa1-9f57bc72f419
+  macAddresses:
   - 00:03:77:00:00:00/24
   manufacturer: Gigabit Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GigabitW
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d21b3434-f90b-49e0-9e17-1e9f80d2f2e7
-  mac-addresses:
+  id: 2866c9a4-a8b0-4131-a1c7-683a4f3e5aac
+  macAddresses:
   - 00:E0:27:00:00:00/24
   manufacturer: Dux, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dux
 type: d3-device-type-assertion

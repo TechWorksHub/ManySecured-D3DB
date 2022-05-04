@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c9a9046-1eac-4ef6-8bbd-902871f8d381
-  mac-addresses:
+  id: a906c3d6-18a7-4d63-9446-135b3bb8fc73
+  macAddresses:
   - 6C:D1:46:00:00:00/24
   manufacturer: FRAMOS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FRAMOS
 type: d3-device-type-assertion

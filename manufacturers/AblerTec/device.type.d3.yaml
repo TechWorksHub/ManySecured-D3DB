@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78e4d0f9-b33d-4df6-8b09-7c6f2d30024c
-  mac-addresses:
+  id: f6997583-c102-442e-a80e-295f4e84e0a6
+  macAddresses:
   - 00:E0:F0:00:00:00/24
   manufacturer: Abler Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AblerTec
 type: d3-device-type-assertion

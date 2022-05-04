@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d62522fa-0bcb-4f43-80bc-bfbf683b3c0d
-  mac-addresses:
+  id: 2a776c89-ed7c-4d00-9a25-66dd733456bb
+  macAddresses:
   - 00:06:DB:00:00:00/24
   manufacturer: ICHIPS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICHIPS
 type: d3-device-type-assertion

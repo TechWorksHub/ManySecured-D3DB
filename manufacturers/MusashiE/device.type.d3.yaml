@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf409634-f226-49b8-9d54-21272e03cf22
-  mac-addresses:
+  id: e0a5ef18-7b5c-441d-b8d7-8a0d51a5e5b2
+  macAddresses:
   - 00:08:D0:00:00:00/24
   manufacturer: Musashi Engineering Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MusashiE
 type: d3-device-type-assertion

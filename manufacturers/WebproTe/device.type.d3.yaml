@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f38b041-8e65-4576-9329-879b017c2007
-  mac-addresses:
+  id: f939d5ec-af9e-4c73-a2d0-3b359da62a45
+  macAddresses:
   - 00:11:54:00:00:00/24
   manufacturer: Webpro Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WebproTe
 type: d3-device-type-assertion

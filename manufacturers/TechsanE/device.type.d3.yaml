@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7895d13-f63a-4b94-9219-f2a029669730
-  mac-addresses:
+  id: 836bf711-2cb5-4c00-9233-73b9759b1d92
+  macAddresses:
   - 00:04:5B:00:00:00/24
   manufacturer: Techsan Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechsanE
 type: d3-device-type-assertion

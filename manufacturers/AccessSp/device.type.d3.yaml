@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6a549bd-061b-4be2-aeb7-31af73434c96
-  mac-addresses:
+  id: 578c9947-0ef2-47b5-8a8f-aed0de7ba84b
+  macAddresses:
   - 00:50:C2:68:70:00/36
   manufacturer: Access Specialties, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccessSp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e16ec8d6-436d-41c2-89ca-ea1325a5d3d4
-  mac-addresses:
+  id: aa8146cc-e230-4534-a519-b274c9d12318
+  macAddresses:
   - 78:CA:83:60:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nomiku
 type: d3-device-type-assertion

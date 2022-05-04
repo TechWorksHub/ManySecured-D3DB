@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c365e549-72bd-4803-a472-f33a6dc6d2c9
-  mac-addresses:
+  id: 34e2e785-29b2-4b46-854c-715cacd5cca9
+  macAddresses:
   - 6C:5C:3D:D0:00:00/28
   manufacturer: Syowatsusinkougyo Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Syowatsu
 type: d3-device-type-assertion

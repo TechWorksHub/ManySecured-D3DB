@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 383178c1-ca92-43ca-b6d5-b00a3b439707
-  mac-addresses:
+  id: 4b8e11f4-6f45-4c07-9f55-8b4caf282e24
+  macAddresses:
   - DC:82:5B:00:00:00/24
   manufacturer: JANUS, spol. s r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JANUSspo
 type: d3-device-type-assertion

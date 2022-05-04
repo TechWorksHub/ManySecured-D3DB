@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b8e681e-35f7-42ea-8f03-52b568b929eb
-  mac-addresses:
+  id: a1aacbd5-e0ec-4450-86d5-f0aec7eb76cb
+  macAddresses:
   - B4:BA:02:00:00:00/24
   manufacturer: Agatel Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Agatel
 type: d3-device-type-assertion

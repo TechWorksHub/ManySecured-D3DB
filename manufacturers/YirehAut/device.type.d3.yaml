@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35ad1f48-41ac-42ef-9464-0aaf5e56c58d
-  mac-addresses:
+  id: 2e4de6c3-7c7d-4455-ad78-07ab29e0707a
+  macAddresses:
   - B4:37:D1:60:00:00/28
   manufacturer: Yireh Auto Tech Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YirehAut
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f593eb51-9a7d-4e50-811c-6e89aa174845
-  mac-addresses:
+  id: 5e394b7d-59f1-449a-b8a3-c1ca0a21f89f
+  macAddresses:
   - 00:E0:C8:00:00:00/24
   manufacturer: Virtual Access, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VirtualA
 type: d3-device-type-assertion

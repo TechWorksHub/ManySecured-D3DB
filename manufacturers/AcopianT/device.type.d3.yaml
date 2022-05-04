@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e60b4a7-5277-4140-a9a0-bfabeaa0c01e
-  mac-addresses:
+  id: fe738824-6563-4bd0-b224-d71c0f262e79
+  macAddresses:
   - E8:18:63:E0:00:00/28
   manufacturer: Acopian Technical Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcopianT
 type: d3-device-type-assertion

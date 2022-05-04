@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a95a5fb-211c-4938-9df6-f868d61bc136
-  mac-addresses:
+  id: 130d7ded-33c7-4066-9647-afdac4b7a19e
+  macAddresses:
   - 00:50:C2:53:50:00/36
   manufacturer: MMS Servis s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MMSServi
 type: d3-device-type-assertion

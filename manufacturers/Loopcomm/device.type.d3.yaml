@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b226531-5bf1-4bcc-b1f0-1c138e65e53a
-  mac-addresses:
+  id: c505366f-7bfa-4337-9b67-3f14118ae738
+  macAddresses:
   - 00:1A:EF:00:00:00/24
   manufacturer: Loopcomm Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Loopcomm
 type: d3-device-type-assertion

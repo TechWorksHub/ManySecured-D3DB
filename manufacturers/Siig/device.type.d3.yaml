@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98e2cbfb-e5d7-4831-b70a-c8e9fb84f158
-  mac-addresses:
+  id: 44328daf-d434-4c0e-a91e-7dd29d6f2e34
+  macAddresses:
   - 00:00:BA:00:00:00/24
   manufacturer: Siig, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siig
 type: d3-device-type-assertion

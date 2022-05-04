@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9bf03c3e-437b-4af5-940f-8563d0c3cb4c
-  mac-addresses:
+  id: 365b2423-f900-4ef2-a01e-862424c8e8fc
+  macAddresses:
   - 00:50:C2:B1:F0:00/36
   - 00:50:D6:00:00:00/24
   - 94:C3:E4:00:00:00/24
   manufacturer: Atlas Copco IAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtlasCop
 type: d3-device-type-assertion

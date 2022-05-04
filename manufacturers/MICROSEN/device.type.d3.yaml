@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 251a8132-d2c1-4443-af16-8bf50fc722d0
-  mac-addresses:
+  id: cdf61f5d-74c0-41ed-a2a0-c8eee00dc77a
+  macAddresses:
   - 00:60:A7:00:00:00/24
   manufacturer: MICROSENS GmbH & CO. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MICROSEN
 type: d3-device-type-assertion

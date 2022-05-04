@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79689f3f-ac94-40e8-8aaa-1eb1d0ce9cb0
-  mac-addresses:
+  id: 77673262-d80d-473a-8334-71e00e551466
+  macAddresses:
   - 00:50:C2:19:A0:00/36
   manufacturer: Azio Technology Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AzioTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 824d9248-53c5-4150-8e40-00085298959f
-  mac-addresses:
+  id: 6a84bbd3-98a4-4957-be09-d3e56258f15f
+  macAddresses:
   - 00:30:D1:00:00:00/24
   manufacturer: Inova Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inova
 type: d3-device-type-assertion

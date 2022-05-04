@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3cbdff41-0b36-4a39-b54b-34b26bd1f584
-  mac-addresses:
+  id: c8967956-261d-4eb6-b2aa-d5f80d5dba39
+  macAddresses:
   - 28:4D:92:00:00:00/24
   manufacturer: Luminator
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Luminato
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbd3688b-0c72-4358-942d-a2f27db906db
-  mac-addresses:
+  id: 987cdfb6-e664-42c4-bd0f-d3d0df1934df
+  macAddresses:
   - 00:30:8B:00:00:00/24
   manufacturer: Brix Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrixNetw
 type: d3-device-type-assertion

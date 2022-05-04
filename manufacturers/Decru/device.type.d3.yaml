@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 826245c3-eef6-4327-9043-de207466d25b
-  mac-addresses:
+  id: 9e46f5e7-f2b8-417a-9b06-93b4ecfed9e1
+  macAddresses:
   - 00:0E:77:00:00:00/24
   manufacturer: Decru, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Decru
 type: d3-device-type-assertion

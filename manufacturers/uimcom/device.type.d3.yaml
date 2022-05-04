@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 350a786e-5c16-496b-b28b-35a39086d371
-  mac-addresses:
+  id: 7d77de05-1804-4b19-aef6-2253b64c0433
+  macAddresses:
   - 44:A9:2C:10:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: uimcom
 type: d3-device-type-assertion

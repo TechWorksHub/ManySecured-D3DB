@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 481cdbe1-b28c-4600-992d-266a171d5be7
-  mac-addresses:
+  id: a3ec3bcb-7846-4e00-b6a3-7f7e83192956
+  macAddresses:
   - 00:1A:43:00:00:00/24
   manufacturer: Logical Link Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicalL
 type: d3-device-type-assertion

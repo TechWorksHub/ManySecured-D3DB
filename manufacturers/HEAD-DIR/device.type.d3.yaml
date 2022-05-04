@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 228d70b5-9e42-455e-abf8-c82dae48668b
-  mac-addresses:
+  id: b017f8d7-ea2f-46e6-a8bf-c4c68c94ef64
+  macAddresses:
   - FC:CD:2F:B0:00:00/28
   manufacturer: HEAD-DIRECT (KUNSHAN) Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HEAD-DIR
 type: d3-device-type-assertion

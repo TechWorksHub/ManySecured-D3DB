@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4b30f97-8870-4e38-bd71-5e246a449efc
-  mac-addresses:
+  id: 86c85ffb-ab98-4704-93a2-02436c2482f4
+  macAddresses:
   - 00:23:D3:00:00:00/24
   manufacturer: AirLink WiFi Networking Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirLinkW
 type: d3-device-type-assertion

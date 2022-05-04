@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9aa97ee1-3a27-4237-92d9-248e11730a18
-  mac-addresses:
+  id: e8ef9370-ebf9-459b-8082-dd199497f6c3
+  macAddresses:
   - 70:B3:D5:7E:60:00/36
   manufacturer: 11811347 CANADA Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: '11811347'
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a871ae24-9e57-4f37-8703-493a19082161
-  mac-addresses:
+  id: 8c0f84f7-7b1e-49cf-8922-60374f94163b
+  macAddresses:
   - 2C:A7:80:00:00:00/24
   manufacturer: True Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrueTech
 type: d3-device-type-assertion

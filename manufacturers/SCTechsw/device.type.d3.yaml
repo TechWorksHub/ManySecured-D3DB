@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ff5c2b8-b99a-43bb-a32c-1477ce625596
-  mac-addresses:
+  id: f902add6-0590-4591-9653-ba76d80d03da
+  macAddresses:
   - 40:D8:55:0C:20:00/36
   manufacturer: SC Techswarm SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SCTechsw
 type: d3-device-type-assertion

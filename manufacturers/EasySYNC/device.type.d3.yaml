@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39e5f9d1-06e0-4b9e-9c0b-3c3913843430
-  mac-addresses:
+  id: 4a138b03-b0a0-4dc3-bf3f-4fc210b30aed
+  macAddresses:
   - 78:3F:15:00:00:00/24
   manufacturer: EasySYNC Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EasySYNC
 type: d3-device-type-assertion

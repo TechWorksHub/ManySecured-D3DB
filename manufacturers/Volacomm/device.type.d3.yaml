@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f1d4e64b-137a-45b3-85b5-49359dc971de
-  mac-addresses:
+  id: f368b77e-4313-44ba-b5c8-b0dbc02a9d4e
+  macAddresses:
   - 20:9A:E9:00:00:00/24
   - 74:19:F8:E0:00:00/28
   manufacturer: Volacomm Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Volacomm
 type: d3-device-type-assertion

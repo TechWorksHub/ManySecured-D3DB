@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 972211ab-2e9f-47aa-8f73-7bdfa45de225
-  mac-addresses:
+  id: aabcdfbd-d64f-4e83-b9e2-255f32ac0f74
+  macAddresses:
   - 00:15:72:00:00:00/24
   manufacturer: Red-Lemon
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Red-Lemo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c909d877-5754-4525-9d40-429ad2025b2d
-  mac-addresses:
+  id: 09d97982-f04a-48d3-ba6b-0a7d7434941f
+  macAddresses:
   - 00:C0:B8:00:00:00/24
   manufacturer: Fraser'S Hill Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FraserSH
 type: d3-device-type-assertion

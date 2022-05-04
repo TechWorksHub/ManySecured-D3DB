@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 387a3194-5329-4ecc-be84-51686f98ff87
-  mac-addresses:
+  id: 3da792fa-94b4-4d0e-bb22-731128199d85
+  macAddresses:
   - A0:C5:F2:A0:00:00/28
   manufacturer: Serious Integrated, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeriousI
 type: d3-device-type-assertion

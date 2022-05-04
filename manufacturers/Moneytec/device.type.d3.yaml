@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d15eb5a-d6a3-4ce2-a8f5-463fd0c1d124
-  mac-addresses:
+  id: 791b6748-bdcb-479f-9f91-68aef5041707
+  macAddresses:
   - 00:25:43:00:00:00/24
   manufacturer: Moneytech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Moneytec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f0bb020-8724-454e-920b-c2d41e387767
-  mac-addresses:
+  id: 82fae631-ec56-4d6f-9a7c-45225d32947d
+  macAddresses:
   - 00:03:F9:00:00:00/24
   manufacturer: Pleiades Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pleiades
 type: d3-device-type-assertion

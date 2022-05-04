@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d23e1315-fd60-4ade-997d-feb6105f8c7d
-  mac-addresses:
+  id: 9dda062d-23fa-4742-b196-d4f61b8d9172
+  macAddresses:
   - 98:D3:E7:00:00:00/24
   manufacturer: Netafim L
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetafimL
 type: d3-device-type-assertion

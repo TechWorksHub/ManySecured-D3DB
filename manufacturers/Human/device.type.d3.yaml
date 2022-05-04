@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b93aa48f-2a2a-4361-afbc-9cf09b9edadb
-  mac-addresses:
+  id: a2271979-9bb4-4e78-80c3-b37944bc567b
+  macAddresses:
   - 5C:B3:F6:00:00:00/24
   manufacturer: Human, Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Human
 type: d3-device-type-assertion

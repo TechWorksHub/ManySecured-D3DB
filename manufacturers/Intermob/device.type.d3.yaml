@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60cf324d-070b-429f-b4c7-3ed314bce666
-  mac-addresses:
+  id: e43e7392-c502-4784-8f0e-124464b178c4
+  macAddresses:
   - 70:B3:D5:6A:A0:00/36
   manufacturer: Intermobility
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intermob
 type: d3-device-type-assertion

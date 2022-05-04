@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bf980bf-2dfc-40d9-bb37-7dfaf2938b7b
-  mac-addresses:
+  id: 0d2f957e-58a6-488c-bdd2-c5da6c637b3b
+  macAddresses:
   - 70:B3:D5:D7:10:00/36
   manufacturer: RZB Rudolf Zimmermann, Bamberg GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RZBRudol
 type: d3-device-type-assertion

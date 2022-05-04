@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7f56141-043a-4a6b-9096-3a49a993f9da
-  mac-addresses:
+  id: 169fa46a-3f5a-4538-ab16-9e04996857c1
+  macAddresses:
   - 68:D4:8B:00:00:00/24
   manufacturer: Hailo Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HailoTec
 type: d3-device-type-assertion

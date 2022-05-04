@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 008a7386-a5ed-48b6-a26b-14462613e348
-  mac-addresses:
+  id: 6cd38106-405d-4804-8f49-cee0359f7102
+  macAddresses:
   - 00:19:7A:00:00:00/24
   manufacturer: MAZeT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MAZeT
 type: d3-device-type-assertion

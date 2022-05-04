@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54e5d2ee-623e-4995-a194-c5179c3da386
-  mac-addresses:
+  id: a718f2f8-fa02-43c0-a51c-ac07a7c1c268
+  macAddresses:
   - C0:91:32:00:00:00/24
   manufacturer: Patriot Memory
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PatriotM
 type: d3-device-type-assertion

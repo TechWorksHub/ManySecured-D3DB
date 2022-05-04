@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f2f2fb0-d1ce-45e9-a976-a329acad62c3
-  mac-addresses:
+  id: a5594687-0368-4241-8625-9e4e2ded1ee5
+  macAddresses:
   - 78:D4:F1:00:00:00/28
   manufacturer: Burisch Elektronik Bauteile GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BurischE
 type: d3-device-type-assertion

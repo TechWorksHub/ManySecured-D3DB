@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96b64757-6124-4771-aaa9-8c0a9e1b685f
-  mac-addresses:
+  id: e5ed2a6e-fc1f-45c4-9532-7598f66a76c5
+  macAddresses:
   - 00:50:C2:BC:00:00/36
   manufacturer: Galaxia Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GalaxiaE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cf7d637-6925-4365-a17b-fde177683eb9
-  mac-addresses:
+  id: c6f967ad-179d-41bc-899e-4146cf8419c0
+  macAddresses:
   - 20:A7:87:00:00:00/24
   manufacturer: Bointec Taiwan Corporation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BointecT
 type: d3-device-type-assertion

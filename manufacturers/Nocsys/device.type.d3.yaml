@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af180398-6761-420d-955b-eb0e1c6ce99b
-  mac-addresses:
+  id: ab2eb92f-8bbb-4968-91c2-094ce70f065f
+  macAddresses:
   - 48:18:FA:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nocsys
 type: d3-device-type-assertion

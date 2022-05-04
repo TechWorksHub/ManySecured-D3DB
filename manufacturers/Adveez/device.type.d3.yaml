@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c0227b6-2a12-4453-92be-c9083f595a90
-  mac-addresses:
+  id: 9ac0360e-46cf-4f19-ba0c-b4519348fe77
+  macAddresses:
   - 70:B3:D5:7E:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adveez
 type: d3-device-type-assertion

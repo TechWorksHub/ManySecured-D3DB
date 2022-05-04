@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d0f43f7-e619-44ba-a8ed-086040fa1407
-  mac-addresses:
+  id: 9494193c-d62e-45b3-929a-3d7a6800789d
+  macAddresses:
   - 00:24:35:00:00:00/24
   manufacturer: Wide Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wide
 type: d3-device-type-assertion

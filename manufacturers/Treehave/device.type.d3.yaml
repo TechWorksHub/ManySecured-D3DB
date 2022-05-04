@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d121bdf1-30a5-4c50-9523-c061c3bc3ff0
-  mac-addresses:
+  id: dbeba8df-b179-4e9f-b9ff-5af9ee10f0c7
+  macAddresses:
   - 00:50:C2:F0:B0:00/36
   manufacturer: Treehaven Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Treehave
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f381202-4c96-48ef-93b7-ff44a00c0fd0
-  mac-addresses:
+  id: 941d1eae-f665-48a2-9ab4-39d62711df96
+  macAddresses:
   - 00:03:68:00:00:00/24
   manufacturer: Embedone Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embedone
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 076f3a4f-9f39-4f28-a531-acd531975f9a
-  mac-addresses:
+  id: 670eee5f-b8f4-4260-87b0-93ddfdd2c46f
+  macAddresses:
   - 50:62:55:70:00:00/28
   manufacturer: AVTECH Software, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVTECHSo
 type: d3-device-type-assertion

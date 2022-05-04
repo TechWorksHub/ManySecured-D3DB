@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d154b665-96c9-4354-9b41-dd21f9a55d76
-  mac-addresses:
+  id: 1f0b787b-3978-44f4-905d-1796eb8933d3
+  macAddresses:
   - 70:B3:D5:C0:00:00/36
   - 70:B3:D5:D7:D0:00/36
   manufacturer: BESO sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BESOsp
 type: d3-device-type-assertion

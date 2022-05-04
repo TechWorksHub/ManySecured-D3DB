@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d552ec74-9339-44ac-83dc-94b40a889fbe
-  mac-addresses:
+  id: 7e429b16-ff25-43b9-abd3-0d17fe679f1a
+  macAddresses:
   - 00:50:C2:9B:A0:00/36
   manufacturer: Connor-Winfield
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Connor-W
 type: d3-device-type-assertion

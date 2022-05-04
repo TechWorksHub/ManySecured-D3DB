@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f9a7f729-f52a-47a8-bb59-601eae12cdc2
-  mac-addresses:
+  id: 51cf6216-a21b-4e30-b315-bca690645ad1
+  macAddresses:
   - 00:13:32:00:00:00/24
   - 00:18:F2:00:00:00/24
   - 20:3C:C0:00:00:00/24
@@ -16,6 +16,6 @@ credentialSubject:
   - CC:4F:5C:E0:00:00/28
   - FC:9D:D8:00:00:00/24
   manufacturer: Beijing Topsec Network Security Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingT
 type: d3-device-type-assertion

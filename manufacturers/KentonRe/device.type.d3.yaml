@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f31f859-c531-4683-9c76-aa51fc31bf7b
-  mac-addresses:
+  id: fc442fb5-9538-4f2a-a3f6-096fb8101068
+  macAddresses:
   - 00:50:C2:67:50:00/36
   manufacturer: Kenton Research Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KentonRe
 type: d3-device-type-assertion

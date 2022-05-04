@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfa76ec0-db1d-4137-84a1-12bc161d81b6
-  mac-addresses:
+  id: 2fd41355-2f5e-4eaa-80f1-04d4811bcbb5
+  macAddresses:
   - 00:50:C2:B9:30:00/36
   manufacturer: Emc Partner Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmcPartn
 type: d3-device-type-assertion

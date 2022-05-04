@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8249503a-9a5f-4e62-b120-f89023002c87
-  mac-addresses:
+  id: 5f4c0a18-d690-421b-a203-534d458a7ebf
+  macAddresses:
   - 70:B3:D5:4B:00:00/36
   manufacturer: Tecogen Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecogen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cad3953e-5166-4936-a2b9-931203fd518d
-  mac-addresses:
+  id: 2a6e3261-d4bb-4f3b-b276-3bdf0a3e84d2
+  macAddresses:
   - 70:B3:D5:DC:10:00/36
   manufacturer: Metralight, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metralig
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82834617-9778-4522-920c-d3e6a71cb539
-  mac-addresses:
+  id: 9c64257c-bbb3-4106-a8c1-5af11190348c
+  macAddresses:
   - E4:95:6E:40:00:00/28
   manufacturer: Guang Lian Zhi Tong Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GuangLia
 type: d3-device-type-assertion

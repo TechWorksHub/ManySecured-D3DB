@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 238bebdd-12a7-49db-8831-88af9750e2cc
-  mac-addresses:
+  id: 65d0a023-94cb-494d-89c2-1528fff493b7
+  macAddresses:
   - F8:8A:3C:D0:00:00/28
   manufacturer: THK Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: THK
 type: d3-device-type-assertion

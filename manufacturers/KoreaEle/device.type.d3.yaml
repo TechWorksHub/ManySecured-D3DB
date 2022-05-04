@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8aa62f60-9a8e-4a1a-979e-c310b1ee1dec
-  mac-addresses:
+  id: 1b003afa-2043-46bd-8ad5-75a75f0d2856
+  macAddresses:
   - 00:1A:5A:00:00:00/24
   - 00:1F:65:00:00:00/24
   manufacturer: Korea Electric Power Data Network (KDN) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoreaEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eafe4da8-4a05-4552-ae25-a6b876247c71
-  mac-addresses:
+  id: 0eb1873e-cffa-44ec-b7dc-7d09777c83b0
+  macAddresses:
   - 00:05:2D:00:00:00/24
   manufacturer: Zoltrix International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZoltrixI
 type: d3-device-type-assertion

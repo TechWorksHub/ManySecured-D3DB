@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf15f25f-367a-4a91-925d-c3582b2f7e5a
-  mac-addresses:
+  id: 5e17a727-02ac-4932-9af0-4dedd2b6dc8f
+  macAddresses:
   - 00:1F:11:00:00:00/24
   manufacturer: Openmoko, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Openmoko
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb0db738-82b8-426e-a3a8-f71464241a5c
-  mac-addresses:
+  id: daea5687-c57f-4629-8479-9d4a2682360c
+  macAddresses:
   - 30:09:F9:50:00:00/28
   manufacturer: Velsitec-Clibase
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Velsitec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81cac524-b979-4ff7-a196-e1cebd4f347c
-  mac-addresses:
+  id: c725e016-0819-4c30-a3c4-4eaba8a9af82
+  macAddresses:
   - 00:01:59:00:00:00/24
   manufacturer: S1 Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S1
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9665709c-8484-4d1e-9210-185408c66ec3
-  mac-addresses:
+  id: f207878a-2b11-4175-86b9-e1e1bd7007f5
+  macAddresses:
   - 70:B3:D5:42:80:00/36
   manufacturer: Presentation Switchers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Presenta
 type: d3-device-type-assertion

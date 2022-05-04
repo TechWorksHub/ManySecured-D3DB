@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4d12167-16ee-41f3-99f8-cc53a75f3b88
-  mac-addresses:
+  id: c217a966-ecd9-4afe-9f91-4639c8b90592
+  macAddresses:
   - F0:F5:AE:00:00:00/24
   manufacturer: Adaptrum Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adaptrum
 type: d3-device-type-assertion

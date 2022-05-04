@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fba7b6e1-3fb3-4556-90c9-5af5e9f12d92
-  mac-addresses:
+  id: a8183d17-c823-495a-8e1c-f83d77600393
+  macAddresses:
   - 34:29:8F:E0:00:00/28
   - 70:B3:D5:FA:D0:00/36
   manufacturer: ARC Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARCTechn
 type: d3-device-type-assertion

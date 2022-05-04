@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d365cfd4-3f01-43a9-88fd-b062baa947cc
-  mac-addresses:
+  id: 9fbd58c4-ba44-4263-a0ad-05bb68ce72e3
+  macAddresses:
   - 00:50:C2:06:70:00/36
   manufacturer: Riverlink Computers, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Riverlin
 type: d3-device-type-assertion

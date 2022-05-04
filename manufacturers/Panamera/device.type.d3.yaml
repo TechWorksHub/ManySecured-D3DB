@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03c88dd4-c750-404b-b2ee-14f7def6907b
-  mac-addresses:
+  id: b2ff2eb8-26c0-4dba-bea8-a6c8bf120948
+  macAddresses:
   - 70:B3:D5:7B:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Panamera
 type: d3-device-type-assertion

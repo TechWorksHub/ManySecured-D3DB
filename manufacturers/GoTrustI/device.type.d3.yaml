@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a8ddaa1-e016-4ef9-b17c-2e96d7e95905
-  mac-addresses:
+  id: 3880c9d5-ed13-47df-96e1-06cef5d5aa9b
+  macAddresses:
   - 70:B3:D5:B3:80:00/36
   manufacturer: GoTrustID Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoTrustI
 type: d3-device-type-assertion

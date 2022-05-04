@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfe4f114-5340-44ae-ac06-7d380a886ac0
-  mac-addresses:
+  id: 981ac865-0fb5-4cbc-9c20-e62e41b00b7d
+  macAddresses:
   - 34:B5:71:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plds
 type: d3-device-type-assertion

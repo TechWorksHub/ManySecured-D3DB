@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9edef9f4-d2cc-4ffc-8fb8-564da85cfcc4
-  mac-addresses:
+  id: af506971-eddd-49c9-894b-1ddda72c92ac
+  macAddresses:
   - 00:23:B6:00:00:00/24
   manufacturer: Securite Communications / Honeywell
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Securite
 type: d3-device-type-assertion

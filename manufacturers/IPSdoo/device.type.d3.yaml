@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c22cf362-f4c2-4b3b-97a7-e9d0b927c74b
-  mac-addresses:
+  id: 3f60c2be-5746-4f6e-a78a-0695ebe93796
+  macAddresses:
   - 00:12:68:00:00:00/24
   manufacturer: IPS d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPSdoo
 type: d3-device-type-assertion

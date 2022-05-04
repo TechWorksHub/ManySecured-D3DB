@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78da9a6a-d77a-4ee4-973f-2369ef464f01
-  mac-addresses:
+  id: 4058003c-528b-40c1-a3a5-d4ad049c8915
+  macAddresses:
   - 00:E0:4E:00:00:00/24
   manufacturer: Sanyo Denki Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanyoDen
 type: d3-device-type-assertion

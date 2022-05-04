@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 092aec5b-2f9f-4580-bb1f-e9a1ad6c4ced
-  mac-addresses:
+  id: 3ade1a76-3fdd-4359-a119-f41065181b31
+  macAddresses:
   - F0:E5:C3:00:00:00/24
   manufacturer: "Dr\xE4gerwerk AG & Co. KG aA"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Dr\xE4gerwe"
 type: d3-device-type-assertion

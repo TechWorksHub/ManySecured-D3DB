@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 142bec6a-269a-4f64-983f-1d87d3ee9550
-  mac-addresses:
+  id: d8dca35f-da6d-4dde-a2b9-d808719c486f
+  macAddresses:
   - 00:08:E9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextGig
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2ee4d58-8dc3-4bfa-9a2c-6e91419c9680
-  mac-addresses:
+  id: fd8dbad9-5a5f-49ee-9133-b6c3e3cd1204
+  macAddresses:
   - 00:11:79:00:00:00/24
   manufacturer: Singular Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Singular
 type: d3-device-type-assertion

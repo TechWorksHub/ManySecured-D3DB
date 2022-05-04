@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59916260-0864-42a7-934b-02ba807529cd
-  mac-addresses:
+  id: 5d3a9898-0363-48db-ab93-d2d497a45a5a
+  macAddresses:
   - 00:C0:D1:00:00:00/24
   manufacturer: Comtree Technology Corporation (EFA also reported)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComtreeT
 type: d3-device-type-assertion

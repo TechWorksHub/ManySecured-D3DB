@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af57b9c1-f998-4496-94ba-bc5295251981
-  mac-addresses:
+  id: bc4d43fb-70e1-4934-a69b-bfb5d6f37643
+  macAddresses:
   - 34:12:90:00:00:00/24
   manufacturer: Treeview Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Treeview
 type: d3-device-type-assertion

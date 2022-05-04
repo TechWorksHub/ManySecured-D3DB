@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6bb2ee8-340c-4d1a-893e-70b19f3ee659
-  mac-addresses:
+  id: 88c7d7d5-0088-450a-bd45-d1ec875ee237
+  macAddresses:
   - 04:AB:6A:00:00:00/24
   manufacturer: Chun-il Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chun-il
 type: d3-device-type-assertion

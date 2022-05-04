@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4a638e4-59d2-4515-8386-0e87bed34614
-  mac-addresses:
+  id: caa11013-06bf-4b67-a472-dbd19cf0cbd2
+  macAddresses:
   - 00:24:12:00:00:00/24
   manufacturer: Benign Technologies Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BenignTe
 type: d3-device-type-assertion

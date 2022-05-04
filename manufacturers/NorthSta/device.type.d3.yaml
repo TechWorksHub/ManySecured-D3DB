@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1fea9830-3ee3-41e1-8b7a-a13d565f5007
-  mac-addresses:
+  id: 5ae10467-9eda-43d8-a00b-8872a94893fa
+  macAddresses:
   - 70:1D:C4:00:00:00/24
   - 70:B3:D5:42:10:00/36
   manufacturer: NorthStar Battery Company, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NorthSta
 type: d3-device-type-assertion

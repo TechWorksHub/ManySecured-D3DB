@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ae1b6b0-4f60-44d7-a248-48f0bceb5121
-  mac-addresses:
+  id: aa65ed3e-e426-40d2-a621-966ee1cbf4e4
+  macAddresses:
   - 1C:87:79:30:00:00/28
   manufacturer: Visual Land Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisualLa
 type: d3-device-type-assertion

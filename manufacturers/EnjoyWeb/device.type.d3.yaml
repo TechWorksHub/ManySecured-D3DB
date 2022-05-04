@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 655d8afd-8871-4224-b7de-97fd44b767f3
-  mac-addresses:
+  id: 46da5fbd-0536-4ce7-914f-89c2575f4447
+  macAddresses:
   - 00:01:28:00:00:00/24
   manufacturer: EnjoyWeb, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnjoyWeb
 type: d3-device-type-assertion

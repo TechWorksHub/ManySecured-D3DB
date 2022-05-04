@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dac1e7c6-d11f-404c-878d-97e549224e05
-  mac-addresses:
+  id: 2ccdd9e7-c8b9-485d-abf1-9bdab3bdbef9
+  macAddresses:
   - 70:B3:D5:33:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Laborie
 type: d3-device-type-assertion

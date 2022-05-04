@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e99bfbd8-7de7-4237-9080-c9221ab64a10
-  mac-addresses:
+  id: c0717d3b-2226-4097-a2c7-071aec93803a
+  macAddresses:
   - 64:62:8A:00:00:00/24
   manufacturer: evon GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: evon
 type: d3-device-type-assertion

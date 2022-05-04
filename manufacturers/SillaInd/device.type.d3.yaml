@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 467f8373-1e67-48e8-aa52-c898e0ec5396
-  mac-addresses:
+  id: 3e1bfe83-6ef0-44c1-b71c-f2a7e04f8306
+  macAddresses:
   - 78:D4:F1:10:00:00/28
   manufacturer: Silla Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SillaInd
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 039deb7c-0535-4c21-8c8a-adab8fc58cd8
-  mac-addresses:
+  id: 93782701-709c-44ed-a0e5-7d0e9f0599fe
+  macAddresses:
   - 70:B3:D5:2E:F0:00/36
   manufacturer: Iem Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iem
 type: d3-device-type-assertion

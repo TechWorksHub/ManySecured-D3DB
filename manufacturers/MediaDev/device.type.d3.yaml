@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83d827a2-41ac-4ad0-b8e2-c629ba9a0345
-  mac-addresses:
+  id: dbb10b6c-cb22-4363-9ceb-044842520099
+  macAddresses:
   - 00:22:1E:00:00:00/24
   manufacturer: Media Devices Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MediaDev
 type: d3-device-type-assertion

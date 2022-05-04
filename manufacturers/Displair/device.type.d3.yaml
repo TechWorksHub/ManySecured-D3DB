@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 636f5c7a-00ea-46f8-a088-0cdebddf225d
-  mac-addresses:
+  id: a31e9c83-3669-4cdf-b57b-6b6eff6026f8
+  macAddresses:
   - A8:63:DF:00:00:00/24
   manufacturer: Displaire Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Displair
 type: d3-device-type-assertion

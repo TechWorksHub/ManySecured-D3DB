@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72f1c635-fce7-4cd2-8427-07d3c7672530
-  mac-addresses:
+  id: ae99edd0-f09b-456e-9dac-27b21fa7e835
+  macAddresses:
   - 7C:70:BC:E0:00:00/28
   manufacturer: Hoperun Mmax Digital Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HoperunM
 type: d3-device-type-assertion

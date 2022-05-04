@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 740583f8-2c49-4c26-b29a-9970c3dcba2f
-  mac-addresses:
+  id: 76d35bfb-5776-4d3e-a677-d8d7c4d9bfe6
+  macAddresses:
   - 34:00:8A:B0:00:00/28
   manufacturer: Project Engineering srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProjectE
 type: d3-device-type-assertion

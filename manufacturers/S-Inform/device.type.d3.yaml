@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bd2cfdd-3c9f-4937-ad3c-795d4a4af7d2
-  mac-addresses:
+  id: c0d710a2-1fb6-40d0-a7fa-ab06aa8a58a6
+  macAddresses:
   - 00:19:E9:00:00:00/24
   manufacturer: S-Information Technolgy, Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S-Inform
 type: d3-device-type-assertion

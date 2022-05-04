@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 418f2445-e01d-4e4d-9be4-4a40609653cd
-  mac-addresses:
+  id: 07bbf384-5f82-41a8-b66d-44440d9fd0b9
+  macAddresses:
   - 18:9A:67:00:00:00/24
   manufacturer: CSE-Servelec Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSE-Serv
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43f39b8a-2a2d-438c-9066-8dffeb7d9f04
-  mac-addresses:
+  id: b12286c7-e01e-446c-8329-21d8a4bbbc6f
+  macAddresses:
   - 00:A0:71:00:00:00/24
   manufacturer: Video Lottery Technologies,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VideoLot
 type: d3-device-type-assertion

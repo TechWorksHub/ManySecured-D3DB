@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23919fa7-77a8-49ea-890f-73c2f18a7276
-  mac-addresses:
+  id: 09de6386-c9e6-45d2-a8ce-094a71df95fc
+  macAddresses:
   - 8C:1F:64:01:70:00/36
   manufacturer: Farmote Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Farmote
 type: d3-device-type-assertion

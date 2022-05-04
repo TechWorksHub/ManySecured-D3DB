@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e92e6f40-e050-4953-a35e-14d9c3797c61
-  mac-addresses:
+  id: 7cad30e3-924c-42b4-a04e-628364bcdfb0
+  macAddresses:
   - 00:18:5E:00:00:00/24
   manufacturer: Nexterm Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nexterm
 type: d3-device-type-assertion

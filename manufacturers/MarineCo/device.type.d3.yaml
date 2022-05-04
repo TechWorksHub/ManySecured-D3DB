@@ -1,8 +1,8 @@
 credentialSubject:
-  id: faab144f-f217-4c1d-bbb3-a82518ca714d
-  mac-addresses:
+  id: cc56d669-db3a-4973-aab1-22eeb41b3468
+  macAddresses:
   - 00:50:C2:89:50:00/36
   manufacturer: Marine Communications Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarineCo
 type: d3-device-type-assertion

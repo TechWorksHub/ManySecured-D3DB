@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7363f8f3-f98d-4186-8055-d218a81acf0d
-  mac-addresses:
+  id: 75d13498-eaeb-4717-b8a0-9a5352251999
+  macAddresses:
   - 58:B9:61:00:00:00/24
   manufacturer: SOLEM Electronique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SOLEMEle
 type: d3-device-type-assertion

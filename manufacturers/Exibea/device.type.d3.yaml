@@ -1,10 +1,10 @@
 credentialSubject:
-  id: e7e3589a-7595-4e88-bc08-5e9ccf4deb9e
-  mac-addresses:
+  id: aa57fb43-ada8-4cd3-b179-fcfd2666697f
+  macAddresses:
   - 00:1B:C5:0B:50:00/36
   - 00:50:C2:FE:60:00/36
   - 40:D8:55:15:80:00/36
   manufacturer: Exibea AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exibea
 type: d3-device-type-assertion

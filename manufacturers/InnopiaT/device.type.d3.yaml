@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 894ebfb5-7202-4762-b3c2-af163d78074f
-  mac-addresses:
+  id: 666a4241-1953-4eed-9062-42cb3e53f8b3
+  macAddresses:
   - 00:09:74:00:00:00/24
   manufacturer: Innopia Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnopiaT
 type: d3-device-type-assertion

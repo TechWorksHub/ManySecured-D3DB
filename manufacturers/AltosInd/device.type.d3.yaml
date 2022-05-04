@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dac341f9-4a09-4cf8-a82d-4981ba6d8018
-  mac-addresses:
+  id: 664355a6-2599-45c6-80d6-bbc2ce2e4fcf
+  macAddresses:
   - 00:20:F1:00:00:00/24
   manufacturer: Altos India Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltosInd
 type: d3-device-type-assertion

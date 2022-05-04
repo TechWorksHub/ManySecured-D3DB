@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b7b5830-a1ef-4bfd-bdfa-d8167be2e05a
-  mac-addresses:
+  id: 4da09db4-639e-4d50-af11-a54f9d11977f
+  macAddresses:
   - 00:50:1F:00:00:00/24
   manufacturer: Mrg Systems, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mrg
 type: d3-device-type-assertion

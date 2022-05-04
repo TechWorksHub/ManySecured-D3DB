@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36b42160-07a0-454c-99fc-9333944357d6
-  mac-addresses:
+  id: 2a7bc073-61de-4cc2-a026-79e69c2dd3c7
+  macAddresses:
   - 00:08:65:00:00:00/24
   manufacturer: Jascom Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jascom
 type: d3-device-type-assertion

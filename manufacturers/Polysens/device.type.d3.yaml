@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85f7106c-d03f-4dd3-aa92-9b8fa5d7968d
-  mac-addresses:
+  id: b2863f05-25dc-4a8d-886e-4ef6e895ea73
+  macAddresses:
   - 78:20:BD:00:00:00/24
   manufacturer: Polysense (Beijing) Technologies Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polysens
 type: d3-device-type-assertion

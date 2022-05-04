@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf103841-c4f6-4378-b0a3-d11171d5f05a
-  mac-addresses:
+  id: a922eb33-7875-46b0-b9fd-851260608bc4
+  macAddresses:
   - 30:43:D7:20:00:00/28
   manufacturer: Apollo Infoways Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApolloIn
 type: d3-device-type-assertion

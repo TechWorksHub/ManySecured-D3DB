@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 541316a1-a6de-454d-88c5-00d641a04ee2
-  mac-addresses:
+  id: 4a7caf91-29f3-465e-a712-c4a284ad7610
+  macAddresses:
   - 1C:A0:D3:70:00:00/28
   manufacturer: U-TX Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: U-TXTech
 type: d3-device-type-assertion

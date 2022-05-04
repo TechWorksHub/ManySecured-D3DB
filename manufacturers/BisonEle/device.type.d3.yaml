@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f3f6bd0-23d5-4025-a6de-15ef31a479a3
-  mac-addresses:
+  id: 5d1b900a-2582-41fe-a3c5-8b6cf0655d97
+  macAddresses:
   - 4C:BA:A3:00:00:00/24
   manufacturer: Bison Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BisonEle
 type: d3-device-type-assertion

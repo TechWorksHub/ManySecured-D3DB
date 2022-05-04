@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d125fe3-7108-4680-b94e-7afe634353ca
-  mac-addresses:
+  id: 035a69e6-7b3a-448d-90ac-62df1c450172
+  macAddresses:
   - 70:B3:D5:ED:90:00/36
   manufacturer: AADONA Communication Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AADONACo
 type: d3-device-type-assertion

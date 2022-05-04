@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8339bed6-7646-4ddf-9d76-f4e9d10ff102
-  mac-addresses:
+  id: 6e80a454-c7ad-4f80-833b-0adccd683877
+  macAddresses:
   - C4:38:D3:00:00:00/24
   manufacturer: Tagatec Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tagatec
 type: d3-device-type-assertion

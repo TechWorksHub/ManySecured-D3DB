@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 97b53eb6-4aeb-4e7a-8ed6-5791c59b7a5a
-  mac-addresses:
+  id: 48202c4d-443e-4e78-8c8c-df21ed11d53a
+  macAddresses:
   - 00:40:B7:00:00:00/24
   - 70:B3:D5:86:A0:00/36
   manufacturer: Stealth Computer Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StealthC
 type: d3-device-type-assertion

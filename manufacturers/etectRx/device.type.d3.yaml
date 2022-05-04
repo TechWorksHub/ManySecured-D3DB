@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bfa0152-8dd7-4e3b-88fa-5cbb2dfec698
-  mac-addresses:
+  id: 5e3eed0d-de01-45de-8ea8-e5080bb0b2a9
+  macAddresses:
   - F8:B5:68:50:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: etectRx
 type: d3-device-type-assertion

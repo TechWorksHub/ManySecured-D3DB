@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 19dda39c-9c7e-411d-b8f2-fee9d39231d9
-  mac-addresses:
+  id: d5c1ad68-6697-4b4f-9960-005a75deecef
+  macAddresses:
   - 68:DB:67:00:00:00/24
   - 6C:8A:EC:00:00:00/24
   manufacturer: Nantong Coship Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NantongC
 type: d3-device-type-assertion

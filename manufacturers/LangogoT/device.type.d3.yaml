@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75dc3a0c-8e6a-40d0-a8a5-42e28fda11c8
-  mac-addresses:
+  id: 63be1789-6349-457d-bccf-9708b7baf2e2
+  macAddresses:
   - 50:DE:19:40:00:00/28
   manufacturer: Langogo Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LangogoT
 type: d3-device-type-assertion

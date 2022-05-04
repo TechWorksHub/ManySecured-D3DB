@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80867617-f3f7-4477-bd79-f21159bccfb2
-  mac-addresses:
+  id: 8a691660-fd16-4401-9b60-43586d711301
+  macAddresses:
   - 40:D8:55:00:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuNS
 type: d3-device-type-assertion

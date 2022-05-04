@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acb88ee3-b929-454e-a86f-4a68b8c6f52b
-  mac-addresses:
+  id: d3d71224-cd60-4e2e-acae-9c9e5fb0346a
+  macAddresses:
   - 00:06:D1:00:00:00/24
   manufacturer: Tahoe Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TahoeNet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c491084-f7f6-4830-96fd-8d84b32e81b6
-  mac-addresses:
+  id: 290a6044-9651-4f65-ad63-14e8172aac9c
+  macAddresses:
   - 6C:5C:3D:30:00:00/28
   manufacturer: Kwong Ming Electrical Manufactory Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KwongMin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1151289a-aa4e-40ee-bdc8-61cc1bd1c24a
-  mac-addresses:
+  id: 4b38b66a-bbd9-49eb-80d2-48a3b02e1d4b
+  macAddresses:
   - 00:03:4D:00:00:00/24
   manufacturer: Chiaro Networks, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChiaroNe
 type: d3-device-type-assertion

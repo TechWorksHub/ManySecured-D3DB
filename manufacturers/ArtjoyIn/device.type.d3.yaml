@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ea4cfba-26c3-4b55-9215-1f2f8a2af334
-  mac-addresses:
+  id: 75365e73-ce46-41f6-9d58-50bce5d7e0d7
+  macAddresses:
   - 00:1D:9D:00:00:00/24
   manufacturer: Artjoy International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtjoyIn
 type: d3-device-type-assertion

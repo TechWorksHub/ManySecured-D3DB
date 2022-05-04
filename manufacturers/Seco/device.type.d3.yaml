@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 599e18d8-bf94-444c-bb25-177809cce84f
-  mac-addresses:
+  id: b29ec0db-1c41-4d53-b13f-9874990cf19e
+  macAddresses:
   - 00:C0:08:00:00:00/24
   manufacturer: Seco Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seco
 type: d3-device-type-assertion

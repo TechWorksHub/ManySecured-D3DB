@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dabbbc13-1e7a-4f22-a640-990e4ff0c6a0
-  mac-addresses:
+  id: de09d4ce-aec7-4f57-8227-1daf0a832382
+  macAddresses:
   - 00:80:02:00:00:00/24
   manufacturer: Satelcom (Uk) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satelcom
 type: d3-device-type-assertion

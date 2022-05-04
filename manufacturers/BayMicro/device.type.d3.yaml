@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 305ff23f-aca4-45c0-9d7c-e109dec0804d
-  mac-addresses:
+  id: b48945c5-5a52-4e32-a0b8-57d12284f309
+  macAddresses:
   - 00:0B:C1:00:00:00/24
   manufacturer: Bay Microsystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BayMicro
 type: d3-device-type-assertion

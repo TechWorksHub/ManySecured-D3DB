@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebd18c9b-39c5-467e-a118-1008bd25d440
-  mac-addresses:
+  id: 2f997657-a1d4-42be-aa18-1759c18ca32f
+  macAddresses:
   - 38:D1:35:00:00:00/24
   manufacturer: EasyIO Corporation Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EasyIOSd
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50744376-3b9a-499d-b4ae-ea5a5f2d52c8
-  mac-addresses:
+  id: 29400530-ec48-4050-9c15-c7deeb40c1e6
+  macAddresses:
   - 00:09:08:00:00:00/24
   manufacturer: VTech Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VTechTec
 type: d3-device-type-assertion

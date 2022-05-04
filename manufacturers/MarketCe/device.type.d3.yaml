@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdc0ae14-fdd3-4b87-81a6-5ea4cdbcfafd
-  mac-addresses:
+  id: 435d5762-fcdb-475a-ba27-9f51b31d1961
+  macAddresses:
   - 00:06:57:00:00:00/24
   manufacturer: Market Central, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarketCe
 type: d3-device-type-assertion

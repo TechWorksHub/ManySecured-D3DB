@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6aa66f3-9b3b-4174-a9dc-84a62a883c35
-  mac-addresses:
+  id: 677425d9-35c8-4306-a625-4f5ec8b57742
+  macAddresses:
   - 00:50:C2:A9:70:00/36
   manufacturer: Microsystemes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microsys
 type: d3-device-type-assertion

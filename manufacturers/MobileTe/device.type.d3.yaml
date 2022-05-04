@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b01820f4-dcb6-4cc8-97b5-97152ea26d12
-  mac-addresses:
+  id: 1e921d4b-c63b-4836-9a03-809c448a6920
+  macAddresses:
   - 08:42:96:00:00:00/24
   manufacturer: Mobile Technology Solutions LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MobileTe
 type: d3-device-type-assertion

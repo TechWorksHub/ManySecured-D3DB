@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37c918a0-2c13-491c-b76a-5538d698a254
-  mac-addresses:
+  id: 2276ea32-e727-48d8-8bc8-f7ca6d1715eb
+  macAddresses:
   - 00:09:D7:00:00:00/24
   manufacturer: DC Security Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DCSecuri
 type: d3-device-type-assertion

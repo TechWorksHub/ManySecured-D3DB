@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a68a1f47-bb22-4c90-9632-652bbc987e34
-  mac-addresses:
+  id: 63659ce6-b7af-42c6-a7a7-39b3579e3290
+  macAddresses:
   - 00:0F:81:00:00:00/24
   manufacturer: PAL Pacific Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PALPacif
 type: d3-device-type-assertion

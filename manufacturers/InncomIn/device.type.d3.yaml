@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46110314-1c32-4863-acb7-36c26e588e5f
-  mac-addresses:
+  id: e7a16078-7030-441d-8c18-6a931121468e
+  macAddresses:
   - 00:06:05:00:00:00/24
   manufacturer: Inncom International, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InncomIn
 type: d3-device-type-assertion

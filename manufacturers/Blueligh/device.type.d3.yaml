@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d11f480b-47c2-476e-b3a4-4cc8c6c3733d
-  mac-addresses:
+  id: cfd17f98-d487-4510-88f0-2b720af6999b
+  macAddresses:
   - 00:1E:BB:00:00:00/24
   manufacturer: Bluelight Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blueligh
 type: d3-device-type-assertion

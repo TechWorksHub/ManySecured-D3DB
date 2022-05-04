@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4066d4a-5d75-418f-af55-ef7f84d480ac
-  mac-addresses:
+  id: 29738966-b22c-4584-9c0b-7c3905f9e05f
+  macAddresses:
   - 00:16:05:00:00:00/24
   manufacturer: Yorkville Sound Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yorkvill
 type: d3-device-type-assertion

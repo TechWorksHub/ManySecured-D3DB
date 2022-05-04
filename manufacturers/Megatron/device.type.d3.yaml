@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9f6cc37c-86c9-49d7-9d24-e742479721e8
-  mac-addresses:
+  id: 217b42bd-2b81-49b9-87d1-4b1e41a9d928
+  macAddresses:
   - 00:20:20:00:00:00/24
   - 9C:93:B0:00:00:00/24
   manufacturer: Megatron Computer Industries Pty, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Megatron
 type: d3-device-type-assertion

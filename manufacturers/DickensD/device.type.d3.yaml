@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bde4c03f-9954-44b6-8a83-f3535400911e
-  mac-addresses:
+  id: b3994afd-5ebe-48a2-9663-390a986956a1
+  macAddresses:
   - 00:C0:A5:00:00:00/24
   manufacturer: Dickens Data Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DickensD
 type: d3-device-type-assertion

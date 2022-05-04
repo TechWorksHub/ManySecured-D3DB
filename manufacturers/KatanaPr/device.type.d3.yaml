@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab4f1722-d2c3-4f9b-968a-d25d465b05f2
-  mac-addresses:
+  id: 5192021f-2f2e-4dc2-a641-7700bffa5f0e
+  macAddresses:
   - 00:20:1D:00:00:00/24
   manufacturer: Katana Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KatanaPr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c184461-0e96-4927-a7b7-d26cafccbfb0
-  mac-addresses:
+  id: 6f5e5e5e-1abd-47f8-88b4-8fd64845b405
+  macAddresses:
   - 58:9C:FC:00:00:00/24
   manufacturer: FreeBSD Foundation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FreeBSDF
 type: d3-device-type-assertion

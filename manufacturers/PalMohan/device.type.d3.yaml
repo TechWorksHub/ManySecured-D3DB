@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cd8830f-8ead-4d60-a366-f1b7aea51263
-  mac-addresses:
+  id: f6e07a02-a8eb-4e7e-bb43-e133033d8664
+  macAddresses:
   - 34:BA:38:00:00:00/24
   manufacturer: Pal Mohan Electronics Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PalMohan
 type: d3-device-type-assertion

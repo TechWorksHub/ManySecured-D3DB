@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca99d48e-a3d6-42da-80a8-ef6f10334d48
-  mac-addresses:
+  id: 2769fa7e-dd0e-4a91-bbaa-66d4e50aa149
+  macAddresses:
   - 00:50:C2:F7:50:00/36
   manufacturer: PumpWell Solutions Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PumpWell
 type: d3-device-type-assertion

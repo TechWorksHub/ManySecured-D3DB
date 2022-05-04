@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5515f057-dbe8-438a-85e4-69c9257742e8
-  mac-addresses:
+  id: f04fbb2b-53b0-4f7c-9013-929db6e483d7
+  macAddresses:
   - 00:0C:EA:00:00:00/24
   manufacturer: aphona Kommunikationssysteme
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: aphonaKo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 312de70f-0ef8-4bfb-a64f-7dcf46368b74
-  mac-addresses:
+  id: d5084b98-9a2c-4065-b871-67b49aa438cc
+  macAddresses:
   - 00:06:A5:00:00:00/24
   manufacturer: PINON Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PINON
 type: d3-device-type-assertion

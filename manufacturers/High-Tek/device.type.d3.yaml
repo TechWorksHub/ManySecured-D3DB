@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b497e124-8624-4302-8fe4-7ef7f28936ee
-  mac-addresses:
+  id: f827805f-a1ca-4849-ad67-e4f799092aad
+  macAddresses:
   - 00:0D:1D:00:00:00/24
   manufacturer: High-Tek Harness Ent. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: High-Tek
 type: d3-device-type-assertion

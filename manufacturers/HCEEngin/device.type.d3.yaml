@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d6e2944-bbe2-4cfa-b186-aac3a73c385e
-  mac-addresses:
+  id: b1c46662-28e1-4cca-a96a-7d149704b67a
+  macAddresses:
   - 00:50:C2:A1:20:00/36
   manufacturer: HCE Engineering S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HCEEngin
 type: d3-device-type-assertion

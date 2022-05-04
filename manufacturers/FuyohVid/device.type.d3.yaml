@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2ad4fd4-1f42-486e-bc0a-d9fa5d16548c
-  mac-addresses:
+  id: e4caa5ab-d7b5-4480-8439-69ddfef38a70
+  macAddresses:
   - 00:0A:C0:00:00:00/24
   manufacturer: Fuyoh Video Industry CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuyohVid
 type: d3-device-type-assertion

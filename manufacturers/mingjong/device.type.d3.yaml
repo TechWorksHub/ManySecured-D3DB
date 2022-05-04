@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95a5c05d-5eee-410d-adff-4880d159daf1
-  mac-addresses:
+  id: ecc9c49a-66aa-4546-a4f5-06d4e42b6c06
+  macAddresses:
   - 00:15:0F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: mingjong
 type: d3-device-type-assertion

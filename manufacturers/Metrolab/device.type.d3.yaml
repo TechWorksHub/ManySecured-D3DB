@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc79ae6c-59fc-4f2c-b169-a53ded076cd5
-  mac-addresses:
+  id: 8fb0bd2f-48a9-46f6-aca0-f27bda184ddb
+  macAddresses:
   - 00:50:C2:42:40:00/36
   manufacturer: Metrolab Technology SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metrolab
 type: d3-device-type-assertion

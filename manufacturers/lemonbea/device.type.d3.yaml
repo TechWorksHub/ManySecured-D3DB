@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42e120ad-f879-4956-acf1-80644e6aa661
-  mac-addresses:
+  id: c8a4e040-ba42-4fea-b650-53e73fe8ed02
+  macAddresses:
   - 18:61:C7:00:00:00/24
   manufacturer: lemonbeat GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: lemonbea
 type: d3-device-type-assertion

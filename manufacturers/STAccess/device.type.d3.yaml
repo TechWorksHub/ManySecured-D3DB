@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 370f2bc2-daaf-443c-99b9-d9ef4342a49d
-  mac-addresses:
+  id: 6de16823-4d39-4d69-8d52-a257221ec3e8
+  macAddresses:
   - 9C:43:1E:A0:00:00/28
   manufacturer: ST Access Control System Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STAccess
 type: d3-device-type-assertion

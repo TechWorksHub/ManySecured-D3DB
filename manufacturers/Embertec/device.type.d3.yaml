@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fb17253-d804-4c0f-919f-adc6dab16ddc
-  mac-addresses:
+  id: 4a645661-84b9-4ace-8a5e-b645f7b06a31
+  macAddresses:
   - 84:8E:96:00:00:00/24
   manufacturer: Embertec Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embertec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6278a540-888c-4dd2-9cbf-0de833b2ca35
-  mac-addresses:
+  id: 09477e72-87b1-48ff-940c-e16c33b4359b
+  macAddresses:
   - 00:04:3B:00:00:00/24
   manufacturer: Lava Computer Mfg., Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LavaComp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caa484d3-d558-48b2-acb6-9975a750fcd2
-  mac-addresses:
+  id: 44081f96-cd84-4927-bdf8-2496724eaa23
+  macAddresses:
   - 00:80:56:00:00:00/24
   manufacturer: SPHINX Electronics GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPHINXEl
 type: d3-device-type-assertion

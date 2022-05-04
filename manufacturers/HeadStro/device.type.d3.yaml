@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e03459d7-a82d-4826-bc43-d114a03de8ac
-  mac-addresses:
+  id: cb4ad903-3662-4113-8da4-76b3dfbc8013
+  macAddresses:
   - 00:12:07:00:00:00/24
   manufacturer: Head Strong International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeadStro
 type: d3-device-type-assertion

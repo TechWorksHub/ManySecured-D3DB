@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5887c673-5d89-4b35-ba20-190ebe042e47
-  mac-addresses:
+  id: be98993d-f914-42aa-b41b-263618485465
+  macAddresses:
   - 00:1B:A5:00:00:00/24
   manufacturer: MyungMin Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MyungMin
 type: d3-device-type-assertion

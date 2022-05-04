@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcc3836f-0b08-4d15-9175-1d19dadb4ad8
-  mac-addresses:
+  id: 74475a1e-9ac2-4c0a-bd8d-fde5e33a4e5c
+  macAddresses:
   - 00:09:36:00:00:00/24
   manufacturer: Ipetronik GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ipetroni
 type: d3-device-type-assertion

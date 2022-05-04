@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acec4557-c99e-4702-8932-df7f4f5e488d
-  mac-addresses:
+  id: 4f5b36b6-76d0-408a-887e-9ec45e83642e
+  macAddresses:
   - A8:87:ED:00:00:00/24
   manufacturer: ARC Wireless LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARCWirel
 type: d3-device-type-assertion

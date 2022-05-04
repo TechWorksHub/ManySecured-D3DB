@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0448ed64-a80d-42e3-abb3-d01cdec53c86
-  mac-addresses:
+  id: fe7d4637-88f1-4806-b5d6-3243d3c234fa
+  macAddresses:
   - 60:A9:B0:00:00:00/24
   manufacturer: Merchandising Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Merchand
 type: d3-device-type-assertion

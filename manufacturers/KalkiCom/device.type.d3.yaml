@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3861dc6a-92a3-410e-aaf8-5f821f9b2f52
-  mac-addresses:
+  id: 6e8f9832-2615-4ccf-bc5b-bf1f3722f32d
+  macAddresses:
   - 00:25:97:00:00:00/24
   manufacturer: Kalki Communication Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KalkiCom
 type: d3-device-type-assertion

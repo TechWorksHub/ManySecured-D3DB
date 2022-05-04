@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81ca6667-1c69-44f1-b20b-ac6863e1f3ce
-  mac-addresses:
+  id: 3d108615-184f-4df3-9064-89a3cee799e2
+  macAddresses:
   - FA:4C:77:00:00:00/24
   manufacturer: Occitaline
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Occitali
 type: d3-device-type-assertion

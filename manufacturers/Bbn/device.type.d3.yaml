@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf29ecbd-f391-44f4-b2cc-5dd97d93646f
-  mac-addresses:
+  id: 4605ff87-d15d-4e29-abe9-1123f8f3590b
+  macAddresses:
   - 00:0D:D8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bbn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9536a95-9163-432b-9e1c-0623e025f2f1
-  mac-addresses:
+  id: 91f9bbc9-29ab-4c44-811a-73d32d13f32e
+  macAddresses:
   - 00:1B:F5:00:00:00/24
   manufacturer: "Tellink Sistemas de Telecomunicaci\xF3n S.L."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TellinkS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6381b090-ffa4-4946-abad-e0f2547b0ebf
-  mac-addresses:
+  id: 5211efd6-8839-4d4a-902e-e6ae5c64d72c
+  macAddresses:
   - 08:00:5D:00:00:00/24
   manufacturer: Gould Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gould
 type: d3-device-type-assertion

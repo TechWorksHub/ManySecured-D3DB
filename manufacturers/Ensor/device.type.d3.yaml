@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b58b5f4-d24e-4e7a-b9c6-bff5ae7de444
-  mac-addresses:
+  id: bf0acfc3-bad8-4484-a263-e5e105f05f9d
+  macAddresses:
   - 18:74:E2:00:00:00/28
   manufacturer: Ensor AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ensor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9337adf2-8ac8-4ec3-9cfd-379aab6fbdbb
-  mac-addresses:
+  id: b379bd57-4e74-4981-b65c-fd841093f688
+  macAddresses:
   - 6C:5C:3D:A0:00:00/28
   manufacturer: krtkl inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: krtkl
 type: d3-device-type-assertion

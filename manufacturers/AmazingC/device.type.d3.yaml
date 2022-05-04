@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68549771-f5b1-4350-9475-e775a63813a5
-  mac-addresses:
+  id: 06e221fc-6c82-45b6-a7d1-1805cd8bb385
+  macAddresses:
   - 00:E0:08:00:00:00/24
   manufacturer: Amazing Controls! Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmazingC
 type: d3-device-type-assertion

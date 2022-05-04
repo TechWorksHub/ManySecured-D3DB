@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0cbc0db-a904-4eb3-ba3e-c98a339b4926
-  mac-addresses:
+  id: 307074a3-fe46-4862-8cf9-dcc11f6e2d5b
+  macAddresses:
   - B0:12:66:00:00:00/24
   manufacturer: Futaba-Kikaku
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Futaba-K
 type: d3-device-type-assertion

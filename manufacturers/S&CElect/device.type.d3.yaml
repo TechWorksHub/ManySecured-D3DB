@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0661e29-43ba-4c96-a7ab-c0ffe85b57c9
-  mac-addresses:
+  id: 33121edf-1ae4-453d-a8c4-54da5351fbbe
+  macAddresses:
   - 00:19:C9:00:00:00/24
   manufacturer: S&C Electric Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S&CElect
 type: d3-device-type-assertion

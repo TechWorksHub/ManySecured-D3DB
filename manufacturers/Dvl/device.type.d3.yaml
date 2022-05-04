@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2bda658-03ef-47b0-8f09-1b7a60dd7126
-  mac-addresses:
+  id: dc9f6187-14f2-437a-b3ed-9613ebd0ff29
+  macAddresses:
   - 20:BF:DB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dvl
 type: d3-device-type-assertion

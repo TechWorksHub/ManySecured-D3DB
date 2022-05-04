@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d532da82-685a-45bd-84ef-3ed884cc74e0
-  mac-addresses:
+  id: 7c1b63dc-c929-4f85-a2fc-c932840023a4
+  macAddresses:
   - 00:04:0F:00:00:00/24
   manufacturer: Asus Network Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsusNetw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07239f21-44f6-4939-aa00-65203dd05732
-  mac-addresses:
+  id: 112af0ec-f6f6-4f7f-8801-f34003187b27
+  macAddresses:
   - 00:50:C2:7F:20:00/36
   manufacturer: Logotherm Regelsysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logother
 type: d3-device-type-assertion

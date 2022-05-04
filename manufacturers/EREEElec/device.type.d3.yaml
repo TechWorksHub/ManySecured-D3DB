@@ -1,11 +1,11 @@
 credentialSubject:
-  id: d3ba19d0-2eca-4a8e-aeb3-44067a295d07
-  mac-addresses:
+  id: 9ea29757-e8ad-4210-b23b-d659d10df6a4
+  macAddresses:
   - 00:1B:C5:05:70:00/36
   - 00:1B:C5:0C:10:00/36
   - 00:50:C2:48:90:00/36
   - 70:B3:D5:D1:10:00/36
   manufacturer: EREE Electronique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EREEElec
 type: d3-device-type-assertion

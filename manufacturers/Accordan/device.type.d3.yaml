@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12484697-56b8-49d2-a94d-54c2150fb293
-  mac-addresses:
+  id: da21bd17-1da0-4fd7-9dc2-98c64496a97c
+  macAddresses:
   - BC:3E:13:00:00:00/24
   manufacturer: Accordance Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accordan
 type: d3-device-type-assertion

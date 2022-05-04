@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7702a72-a5d6-43d7-b5ea-992500ee73dd
-  mac-addresses:
+  id: 3014a564-52d7-4e19-9b90-f76a9090c758
+  macAddresses:
   - 00:50:C2:75:B0:00/36
   manufacturer: DMT System S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DMTSyste
 type: d3-device-type-assertion

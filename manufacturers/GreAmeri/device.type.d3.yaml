@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67b62eec-a06a-44a9-89e4-c199a5f9ad10
-  mac-addresses:
+  id: 795825b8-8b5d-4bc6-950c-165a8a83a11e
+  macAddresses:
   - 00:30:7D:00:00:00/24
   manufacturer: Gre America, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreAmeri
 type: d3-device-type-assertion

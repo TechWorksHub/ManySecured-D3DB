@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c31a38ab-bc6f-47a4-9fe5-d18d009511bc
-  mac-addresses:
+  id: 2f7ca654-f6b6-45a0-b75b-9e75b46b658e
+  macAddresses:
   - D0:C8:57:70:00:00/28
   manufacturer: Eco Mobile
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcoMobil
 type: d3-device-type-assertion

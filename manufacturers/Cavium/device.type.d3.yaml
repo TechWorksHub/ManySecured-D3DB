@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 81c3c4f3-b177-419b-a8df-9ca9d31cd6fc
-  mac-addresses:
+  id: 1cdbafe1-aea3-417a-af22-06c8ad0de682
+  macAddresses:
   - 00:0F:B7:00:00:00/24
   - 34:80:0D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cavium
 type: d3-device-type-assertion

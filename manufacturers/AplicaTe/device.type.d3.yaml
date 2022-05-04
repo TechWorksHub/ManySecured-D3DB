@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1dde954e-d6f9-4e3c-b035-6fc7dd1504d3
-  mac-addresses:
+  id: 64ddadd0-59b5-4e2b-b038-93a36af679f4
+  macAddresses:
   - 00:50:C2:CE:60:00/36
   manufacturer: Aplica Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AplicaTe
 type: d3-device-type-assertion

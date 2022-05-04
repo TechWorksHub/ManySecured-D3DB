@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 87c95751-d479-4e4e-a952-4fcc63bf32c9
-  mac-addresses:
+  id: ce7f7ad8-e26d-471b-9b00-a7a7c3c02010
+  macAddresses:
   - 00:B0:9D:00:00:00/24
   - 2C:DD:A3:00:00:00/24
   manufacturer: Point Grey Research Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PointGre
 type: d3-device-type-assertion

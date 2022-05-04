@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93916d76-a706-492b-b00c-3bb54081ed19
-  mac-addresses:
+  id: ca9eae27-b1fe-4b07-b8c0-18632a7a0cdf
+  macAddresses:
   - 3C:89:70:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neosfar
 type: d3-device-type-assertion

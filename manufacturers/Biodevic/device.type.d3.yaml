@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0db3843b-a49a-49c0-afa7-11eccf5d1a0b
-  mac-addresses:
+  id: a5c93993-a579-470e-98d6-09b4324d22a4
+  macAddresses:
   - 00:23:FE:00:00:00/24
   manufacturer: Biodevices, SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Biodevic
 type: d3-device-type-assertion

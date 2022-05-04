@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5dc87341-6402-43fc-947c-658e315f7f18
-  mac-addresses:
+  id: f793dbd8-bace-4a19-9eed-33fbe069c25e
+  macAddresses:
   - 00:50:C2:8E:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unidata
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b967b63-786d-42dc-87e2-6015ff9852b3
-  mac-addresses:
+  id: a406bcb0-151f-4194-b9d6-d01c737720b0
+  macAddresses:
   - 70:B3:D5:35:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nevotek
 type: d3-device-type-assertion

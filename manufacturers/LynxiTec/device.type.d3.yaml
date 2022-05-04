@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1dd8eda7-239b-4e67-81bd-39616b685e4d
-  mac-addresses:
+  id: 09aa880f-4899-46a2-8c42-93a7e9d6043f
+  macAddresses:
   - 1C:59:74:70:00:00/28
   manufacturer: Lynxi Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LynxiTec
 type: d3-device-type-assertion

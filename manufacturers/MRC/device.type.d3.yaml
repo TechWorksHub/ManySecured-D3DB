@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db73e151-da9c-4403-ae8d-28e6d2a8b737
-  mac-addresses:
+  id: ded1fbdb-a266-411e-b750-b447e4822f06
+  macAddresses:
   - 70:B3:D5:72:A0:00/36
   manufacturer: MRC Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MRC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88105dc9-8451-43db-8d7c-7c7a0567f1bb
-  mac-addresses:
+  id: 197c8c5a-3716-4029-932f-1f776d50113e
+  macAddresses:
   - 00:0C:2A:00:00:00/24
   manufacturer: OCTTEL Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OCTTELCo
 type: d3-device-type-assertion

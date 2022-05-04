@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42a76140-44a5-40dc-b093-a8fd57651b72
-  mac-addresses:
+  id: b7233357-2b6f-47fc-989b-561f8c6a73a8
+  macAddresses:
   - 00:27:1E:00:00:00/24
   manufacturer: Xagyl Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XagylCom
 type: d3-device-type-assertion

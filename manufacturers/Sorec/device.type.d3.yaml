@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7189839-5c11-4c8a-ac2f-7eab1598e49d
-  mac-addresses:
+  id: 653216c6-afa5-40cf-9357-a41f88061427
+  macAddresses:
   - 00:50:C2:7F:30:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sorec
 type: d3-device-type-assertion

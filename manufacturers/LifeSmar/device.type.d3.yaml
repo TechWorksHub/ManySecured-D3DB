@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c277ec9a-c549-4802-af85-c4ca88c048fe
-  mac-addresses:
+  id: d5e3db2e-c3b6-4845-a796-b5d78831e948
+  macAddresses:
   - BC:34:00:20:00:00/28
   manufacturer: LifeSmart
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifeSmar
 type: d3-device-type-assertion

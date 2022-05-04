@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7223cb71-5d1d-4032-89b5-11f10dd24d21
-  mac-addresses:
+  id: 33eb9e47-7012-4da3-ada5-81657362912f
+  macAddresses:
   - C0:34:B4:00:00:00/24
   manufacturer: Gigastone Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gigaston
 type: d3-device-type-assertion

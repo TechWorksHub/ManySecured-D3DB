@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7192e15f-be54-4dd7-b682-38759d224d3f
-  mac-addresses:
+  id: 77e22dc1-ba6e-425e-ab64-83fbdad9b2b8
+  macAddresses:
   - C8:63:14:80:00:00/28
   manufacturer: Thinci, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thinci
 type: d3-device-type-assertion

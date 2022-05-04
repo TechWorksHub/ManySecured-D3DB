@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58a46465-b02a-4967-90cb-67a69ff0d055
-  mac-addresses:
+  id: fa0e6f02-9575-4bec-a2f3-2247ad0da45e
+  macAddresses:
   - 00:40:B4:00:00:00/24
   manufacturer: Nextcom K.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nextcom
 type: d3-device-type-assertion

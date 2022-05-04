@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b7b30d3-d923-4cf3-8ec1-f37b1a4eee68
-  mac-addresses:
+  id: f7bb0bc6-196c-4d82-8dd5-21f52ecc2581
+  macAddresses:
   - 00:21:9F:00:00:00/24
   manufacturer: Satel Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satel
 type: d3-device-type-assertion

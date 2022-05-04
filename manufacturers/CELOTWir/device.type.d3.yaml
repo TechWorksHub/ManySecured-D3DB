@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85d57416-32b9-44b8-b11b-c9b2530896b4
-  mac-addresses:
+  id: 345326d9-1dbb-4b2c-b100-fa86284f390e
+  macAddresses:
   - FC:32:88:00:00:00/24
   manufacturer: CELOT Wireless Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CELOTWir
 type: d3-device-type-assertion

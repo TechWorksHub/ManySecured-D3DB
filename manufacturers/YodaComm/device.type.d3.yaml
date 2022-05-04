@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb15e3f3-062b-4ffd-b585-46a78ba1edd2
-  mac-addresses:
+  id: 0eef24cb-1c48-426f-9fb7-144bb260f261
+  macAddresses:
   - 00:09:26:00:00:00/24
   manufacturer: Yoda Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YodaComm
 type: d3-device-type-assertion

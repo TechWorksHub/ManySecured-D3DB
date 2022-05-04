@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 3d16b04e-2f8d-4e02-938b-0b06d689c4d1
-  mac-addresses:
+  id: 4f4c2991-95d7-4115-8a0a-f2a3270a99d7
+  macAddresses:
   - 00:09:DF:00:00:00/24
   - 48:6D:BB:00:00:00/24
   - 70:54:B4:00:00:00/24
   - CC:D3:C1:00:00:00/24
   - EC:BE:5F:00:00:00/24
   manufacturer: "Vestel Elektronik San ve Tic. A.\u015E."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VestelEl
 type: d3-device-type-assertion

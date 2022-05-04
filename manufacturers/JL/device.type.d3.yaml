@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a919a4c8-a785-457b-aca1-277ba95256c1
-  mac-addresses:
+  id: d42827d5-2232-4160-8d4d-9259bfdbc85f
+  macAddresses:
   - 00:11:3E:00:00:00/24
   manufacturer: JL Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JL
 type: d3-device-type-assertion

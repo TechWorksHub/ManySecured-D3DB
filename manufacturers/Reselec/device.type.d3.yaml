@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6efb8cd-429c-48d3-a20c-d7d38091dab8
-  mac-addresses:
+  id: 0691a2ac-a511-46ca-b27c-9ac7fa9b49fc
+  macAddresses:
   - 00:50:C2:07:80:00/36
   manufacturer: Reselec AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reselec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4b0db80-14f3-4679-8183-9d5dab254bc0
-  mac-addresses:
+  id: ad4642cb-2489-49f2-bd60-eacc7a9c9c03
+  macAddresses:
   - 00:22:A2:00:00:00/24
   manufacturer: Xtramus Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XtramusT
 type: d3-device-type-assertion

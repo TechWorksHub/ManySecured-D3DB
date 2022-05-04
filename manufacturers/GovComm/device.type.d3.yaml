@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37c38b29-e04e-4f7c-aad0-3fe2961bdc59
-  mac-addresses:
+  id: e9ef87f8-75db-4064-baca-f9088a3e6bec
+  macAddresses:
   - 60:95:CE:D0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GovComm
 type: d3-device-type-assertion

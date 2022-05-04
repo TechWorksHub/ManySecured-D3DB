@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e7a1c8b-1548-47ce-b1cd-b78a0de0e86d
-  mac-addresses:
+  id: 93812327-3b43-42e0-b9e7-b209fba36455
+  macAddresses:
   - A0:41:5E:00:00:00/24
   manufacturer: Opsens Solution Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpsensSo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddaff856-db56-4c6a-9c84-5f64736eb278
-  mac-addresses:
+  id: b21fe20d-2ea6-4da5-b513-11ca483dcbf9
+  macAddresses:
   - 48:C8:62:00:00:00/24
   manufacturer: Simo Wireless,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimoWire
 type: d3-device-type-assertion

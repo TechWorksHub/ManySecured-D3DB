@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca7e3589-2cbf-4914-9a2d-6280d5016151
-  mac-addresses:
+  id: b08f3084-fd5c-4945-9945-576cb1620da5
+  macAddresses:
   - 00:14:B0:00:00:00/24
   manufacturer: Naeil Community
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaeilCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fa8c5a0-dbd3-46c5-9b8f-2750db02520c
-  mac-addresses:
+  id: 52f31b56-fcbf-4c35-9a59-26297701620c
+  macAddresses:
   - 00:1E:7B:00:00:00/24
   manufacturer: R.I.CO. S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RI
 type: d3-device-type-assertion

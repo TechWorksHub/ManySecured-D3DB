@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e51a4ce5-91f1-4799-bd3b-af8350d49a0c
-  mac-addresses:
+  id: ebd60152-3f82-45cd-a881-8d7d8abd7d7a
+  macAddresses:
   - 70:B3:D5:A8:E0:00/36
   manufacturer: Omesh City Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmeshCit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e2357eb-6b5e-4d71-9450-11eb9ad8f89a
-  mac-addresses:
+  id: be205c4f-809e-4314-935a-c55e957d0a30
+  macAddresses:
   - 00:50:C2:9C:E0:00/36
   manufacturer: Ronan Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RonanEng
 type: d3-device-type-assertion

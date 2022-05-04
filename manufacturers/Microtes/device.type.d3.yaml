@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9e2c72a-4a11-40a5-af41-81e151a880b3
-  mac-addresses:
+  id: 95fca41a-60f9-44a4-961c-f8d7524dff9d
+  macAddresses:
   - 00:80:A1:00:00:00/24
   manufacturer: Microtest
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microtes
 type: d3-device-type-assertion

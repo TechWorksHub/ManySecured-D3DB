@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e92653f5-85b5-4765-acf4-94c041207129
-  mac-addresses:
+  id: 387ba386-b597-47be-9ac1-d4859bad24f9
+  macAddresses:
   - D0:76:50:00:00:00/28
   manufacturer: CentrAlert, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentrAle
 type: d3-device-type-assertion

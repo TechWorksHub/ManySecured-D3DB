@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7dbc837-79bf-4e3a-897e-999a94c03074
-  mac-addresses:
+  id: 817f11c9-f5fa-48b3-97eb-453fa457fb06
+  macAddresses:
   - 00:50:C2:D3:70:00/36
   manufacturer: LJT & Associates, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LJTAssoc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 71d88b94-7d12-4672-aeba-c59ddee3f649
-  mac-addresses:
+  id: 3206aeab-3834-470c-b339-aca19e2182f3
+  macAddresses:
   - 00:1E:A1:00:00:00/24
   manufacturer: Brunata a/s
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brunata
 type: d3-device-type-assertion

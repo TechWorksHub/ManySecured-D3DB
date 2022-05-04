@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c064e62d-d42f-4784-b9f7-51c860621bbb
-  mac-addresses:
+  id: 43e9d3c4-c674-4e5c-a2ef-61d0d46c1080
+  macAddresses:
   - 70:B3:D5:2E:B0:00/36
   manufacturer: Brnet Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brnet
 type: d3-device-type-assertion

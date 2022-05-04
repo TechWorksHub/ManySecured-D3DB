@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 267b30ec-6c6f-4167-a83c-ef3e10d47c0c
-  mac-addresses:
+  id: 5a12ed3a-ae7f-4894-9246-ab2e55b63d40
+  macAddresses:
   - 00:80:AF:00:00:00/24
   manufacturer: Allumer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Allumer
 type: d3-device-type-assertion

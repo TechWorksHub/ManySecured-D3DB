@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f3aad2e-3039-4897-b473-9049a945192d
-  mac-addresses:
+  id: 3ba40f4d-6985-439e-b9cf-ab848afb901a
+  macAddresses:
   - 70:B3:D5:34:E0:00/36
   manufacturer: Risk Expert sarl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RiskExpe
 type: d3-device-type-assertion

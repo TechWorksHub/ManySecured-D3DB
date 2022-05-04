@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 314658c0-1545-4d21-aac8-ea6dff6332dc
-  mac-addresses:
+  id: c68e5588-00b1-4091-92a3-7d39148d9a95
+  macAddresses:
   - 00:50:C2:14:40:00/36
   - 00:50:C2:32:A0:00/36
   - 00:50:C2:39:20:00/36
@@ -38,6 +38,6 @@ credentialSubject:
   - 00:50:C2:BF:70:00/36
   - 50:2D:F4:00:00:00/24
   manufacturer: Phytec Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhytecMe
 type: d3-device-type-assertion

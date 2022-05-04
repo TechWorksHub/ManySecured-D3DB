@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d273fb3-3420-434a-8f80-4dc76f14c8be
-  mac-addresses:
+  id: ada4c6c6-8f71-4473-b88c-f11dde21b552
+  macAddresses:
   - 0C:5C:B5:60:00:00/28
   manufacturer: S2C limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S2C
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7545628e-c97e-42c7-9a6c-0c17bcd604fb
-  mac-addresses:
+  id: afb6ddd9-da9c-4b75-86c0-8ad4edd0c8ad
+  macAddresses:
   - C8:87:22:00:00:00/24
   manufacturer: Lumenpulse
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumenpul
 type: d3-device-type-assertion

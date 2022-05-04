@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a33821d8-2889-4e37-9a58-0fb3b40c03c7
-  mac-addresses:
+  id: 3dd091e4-0a7f-4049-86a8-2b6a5eaa2864
+  macAddresses:
   - 50:DE:19:90:00:00/28
   manufacturer: AEG Identifikationssysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEGIdent
 type: d3-device-type-assertion

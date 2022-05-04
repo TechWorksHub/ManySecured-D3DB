@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37fb326a-b84a-4d84-a35d-821484a17c30
-  mac-addresses:
+  id: cc627eb3-f169-47b3-8fea-0a750a01d4f5
+  macAddresses:
   - 3C:EA:FB:00:00:00/24
   manufacturer: Nse Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nse
 type: d3-device-type-assertion

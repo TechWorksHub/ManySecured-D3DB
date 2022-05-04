@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f43f9ce-df4a-41ae-be69-66f740ccb637
-  mac-addresses:
+  id: a0e9b7c4-7565-4168-bc4e-c82468876582
+  macAddresses:
   - 00:50:C2:9E:B0:00/36
   manufacturer: AFORE Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AFORESol
 type: d3-device-type-assertion

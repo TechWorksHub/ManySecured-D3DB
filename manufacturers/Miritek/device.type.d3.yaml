@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f5f5c33-ae31-4e0f-87a8-8a23c63f8223
-  mac-addresses:
+  id: fc900821-a2ba-4d21-aac8-27db9bdb0c54
+  macAddresses:
   - 00:50:C2:2D:10:00/36
   manufacturer: Miritek, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Miritek
 type: d3-device-type-assertion

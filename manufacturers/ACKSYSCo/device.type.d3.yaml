@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26f0ae96-4288-49b6-94d7-c93cbdf4e21f
-  mac-addresses:
+  id: 9d5256d5-435e-46ac-9c78-523e73fd3ee2
+  macAddresses:
   - 00:09:90:00:00:00/24
   manufacturer: ACKSYS Communications & systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACKSYSCo
 type: d3-device-type-assertion

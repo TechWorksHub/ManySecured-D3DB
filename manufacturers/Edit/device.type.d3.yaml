@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27d42bb5-c758-4890-9311-5810b4d7602d
-  mac-addresses:
+  id: 45022cd1-5373-47ee-8f47-9dfd050eb5bd
+  macAddresses:
   - 3C:42:7E:60:00:00/28
   manufacturer: Edit Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Edit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e00247cc-5789-4225-bcb7-615b08737a9c
-  mac-addresses:
+  id: dd5627c9-4f99-4e88-815c-7cd240dd07c3
+  macAddresses:
   - 00:E0:9D:00:00:00/24
   manufacturer: Sarnoff Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sarnoff
 type: d3-device-type-assertion

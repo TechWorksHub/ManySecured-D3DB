@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ba98e1f-485d-4faf-a384-b5972e89243e
-  mac-addresses:
+  id: 1a081a5a-aa3a-4732-841c-b7bbef459f54
+  macAddresses:
   - 00:14:CD:00:00:00/24
   manufacturer: DigitalZone Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitalZ
 type: d3-device-type-assertion

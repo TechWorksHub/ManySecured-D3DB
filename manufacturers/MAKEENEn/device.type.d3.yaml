@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f86a81e4-1bfd-4853-81b6-c43f7d7337fd
-  mac-addresses:
+  id: c0bc18e7-dfd1-47d2-8f13-7c9be2165514
+  macAddresses:
   - 28:36:13:A0:00:00/28
   manufacturer: MAKEEN Energy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MAKEENEn
 type: d3-device-type-assertion

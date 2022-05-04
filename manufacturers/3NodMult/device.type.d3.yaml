@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec344d04-00c5-4e47-a72d-87fb06f5d65c
-  mac-addresses:
+  id: 97a9fd3d-4336-4847-863d-687468b5b118
+  macAddresses:
   - 38:63:F6:00:00:00/24
   manufacturer: 3Nod Multimedia(Shenzhen)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3NodMult
 type: d3-device-type-assertion

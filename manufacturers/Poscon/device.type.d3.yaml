@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a3b93b4-f7a0-4884-b5e6-d1465c616f1f
-  mac-addresses:
+  id: 56bea7ed-435d-4aee-82f6-d8b26c16882a
+  macAddresses:
   - 00:04:8B:00:00:00/24
   manufacturer: Poscon Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Poscon
 type: d3-device-type-assertion

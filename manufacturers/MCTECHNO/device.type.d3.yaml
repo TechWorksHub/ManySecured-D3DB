@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0175aefb-603c-44c1-a5ae-a8f8456e22f7
-  mac-addresses:
+  id: 2363769f-4476-4204-995c-78f65dc00517
+  macAddresses:
   - 00:50:C2:3F:40:00/36
   manufacturer: MC TECHNOLOGY GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCTECHNO
 type: d3-device-type-assertion

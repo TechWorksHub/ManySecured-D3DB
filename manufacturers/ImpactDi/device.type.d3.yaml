@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd30ee4a-55c6-4897-ba6f-2eec2c261a43
-  mac-addresses:
+  id: 81d9681e-bca0-40ff-b8d3-93fd34a4be75
+  macAddresses:
   - 88:A9:A7:E0:00:00/28
   manufacturer: Impact Distribution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImpactDi
 type: d3-device-type-assertion

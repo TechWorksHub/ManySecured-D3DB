@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61910c9c-759f-4c20-924a-35c96eb8b64f
-  mac-addresses:
+  id: b838ba4b-4a51-49dc-9cab-c7a85f29de52
+  macAddresses:
   - 00:30:F4:00:00:00/24
   manufacturer: Stardot Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StardotT
 type: d3-device-type-assertion

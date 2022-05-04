@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d55cd8c2-2e23-406f-a5d1-b11ba888aa44
-  mac-addresses:
+  id: 085511a3-a20c-43c2-831a-f0d5f6676843
+  macAddresses:
   - 00:50:C2:A8:90:00/36
   manufacturer: CA Traffic Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CATraffi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dc7a3c2-9ace-46af-980c-adb8f3a46591
-  mac-addresses:
+  id: 14e09b24-24fb-4de9-8139-f74a3fca2d0d
+  macAddresses:
   - 8C:0F:83:00:00:00/24
   manufacturer: Angie Hospitality LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AngieHos
 type: d3-device-type-assertion

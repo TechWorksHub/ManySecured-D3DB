@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64d75696-92e4-4ac0-8e9a-6e5b756bf731
-  mac-addresses:
+  id: 6cf0b7bc-db5d-4974-913f-5f47fd999501
+  macAddresses:
   - 00:50:C2:1B:10:00/36
   manufacturer: Axes Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxesTech
 type: d3-device-type-assertion

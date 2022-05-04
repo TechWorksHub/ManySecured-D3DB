@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90890dfd-b172-4328-80cd-fa218d9463d1
-  mac-addresses:
+  id: 4742064a-4d39-4ecc-836e-8bd7788646d1
+  macAddresses:
   - 60:D2:62:00:00:00/24
   manufacturer: Tzukuri Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tzukuri
 type: d3-device-type-assertion

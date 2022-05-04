@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 234df79f-6767-4053-977f-7d3c19dc603d
-  mac-addresses:
+  id: 3de836a9-c713-47d9-b580-dcbbdbca82ee
+  macAddresses:
   - 3C:6A:2C:D0:00:00/28
   manufacturer: Xiamen Smarttek CO., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenSm
 type: d3-device-type-assertion

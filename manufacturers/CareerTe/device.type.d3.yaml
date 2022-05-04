@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 310c2f95-1c1f-48fb-b4b8-d62c447f0016
-  mac-addresses:
+  id: 1e85bc35-f3c7-4175-b1a4-b2f8cb7b6e47
+  macAddresses:
   - 84:A9:EA:00:00:00/24
   manufacturer: Career Technologies USA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CareerTe
 type: d3-device-type-assertion

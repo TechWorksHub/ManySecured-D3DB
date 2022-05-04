@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a39c4d60-e709-4681-bb5f-2788ca2bf436
-  mac-addresses:
+  id: eaac48c5-2ee7-4745-af24-bffe4d2909e6
+  macAddresses:
   - 00:13:31:00:00:00/24
   manufacturer: CellPoint Connect
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CellPoin
 type: d3-device-type-assertion

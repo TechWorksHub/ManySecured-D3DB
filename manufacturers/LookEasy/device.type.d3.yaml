@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f7b23c9f-7415-4cb8-bb2c-6e4365acc200
-  mac-addresses:
+  id: 648ed31b-4297-4f79-b92a-d7fb3e8e3bc4
+  macAddresses:
   - 70:B3:D5:0C:20:00/36
   - 80:3B:F6:00:00:00/24
   manufacturer: Look Easy International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LookEasy
 type: d3-device-type-assertion

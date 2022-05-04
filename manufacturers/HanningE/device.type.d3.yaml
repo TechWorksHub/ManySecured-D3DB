@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba01af76-bee2-4938-8316-993e2d65856f
-  mac-addresses:
+  id: 968b3efd-acd4-46f3-ac55-b616467b6541
+  macAddresses:
   - 00:50:C2:C0:20:00/36
   manufacturer: Hanning Elektro-Werke GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanningE
 type: d3-device-type-assertion

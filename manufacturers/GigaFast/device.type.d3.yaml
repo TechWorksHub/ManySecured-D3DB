@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a55fcdb4-47a3-47ee-b9ef-cb98660758bb
-  mac-addresses:
+  id: 40f6bd2f-5bab-4c9c-b038-b09834e08567
+  macAddresses:
   - 00:90:47:00:00:00/24
   manufacturer: Giga Fast E. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GigaFast
 type: d3-device-type-assertion

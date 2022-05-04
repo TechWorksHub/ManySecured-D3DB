@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7859851f-8f34-4a9e-9215-dc98ddb707db
-  mac-addresses:
+  id: 486260e4-db22-435a-ac55-76ba8d7c0a7b
+  macAddresses:
   - 38:B1:9E:00:00:00/28
   manufacturer: Triple Jump Medical
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TripleJu
 type: d3-device-type-assertion

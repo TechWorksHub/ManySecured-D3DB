@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd91f34a-6050-468e-bc11-fa0fdbd7f5f5
-  mac-addresses:
+  id: 0e223879-6ddb-41de-9e2d-4bfba34c8cc2
+  macAddresses:
   - 00:18:50:00:00:00/24
   manufacturer: Secfone Kft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SecfoneK
 type: d3-device-type-assertion

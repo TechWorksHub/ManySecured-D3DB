@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1dcc938a-35b2-4e98-83e7-efc9c2146d0b
-  mac-addresses:
+  id: c8436bcd-ccd0-4927-b205-a00c667d952b
+  macAddresses:
   - 60:95:CE:90:00:00/28
   manufacturer: Jlztlink Industry(ShenZhen)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jlztlink
 type: d3-device-type-assertion

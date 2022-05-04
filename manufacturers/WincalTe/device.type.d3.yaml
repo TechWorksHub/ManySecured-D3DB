@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caa8f75c-ed56-419b-a76f-c992a41757c6
-  mac-addresses:
+  id: e888a08f-afc2-4d97-979f-4ed5908f1e96
+  macAddresses:
   - 20:D2:1F:00:00:00/24
   manufacturer: Wincal Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WincalTe
 type: d3-device-type-assertion

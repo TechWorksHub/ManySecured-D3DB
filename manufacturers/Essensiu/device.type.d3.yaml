@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46faa6af-9035-4498-81a0-399b28b91b7b
-  mac-addresses:
+  id: e015efea-20ee-4e27-b7e6-649ae73ba646
+  macAddresses:
   - 00:26:6A:00:00:00/24
   manufacturer: Essensium Nv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Essensiu
 type: d3-device-type-assertion

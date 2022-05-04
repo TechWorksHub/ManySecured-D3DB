@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7b3c8cf-4d99-464a-bc2f-f0c6137e3313
-  mac-addresses:
+  id: f3f567d3-77c9-4245-a152-40b5b05c51de
+  macAddresses:
   - 00:50:C2:81:B0:00/36
   manufacturer: Brain Tech Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrainTec
 type: d3-device-type-assertion

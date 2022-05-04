@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ed51f64-4a5c-4c39-a090-f83dddf82d9b
-  mac-addresses:
+  id: 1aa2c0fb-c46e-4032-b4e8-fbb71df24b5d
+  macAddresses:
   - AC:9B:84:00:00:00/24
   manufacturer: Smak Tecnologia e Automacao
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmakTecn
 type: d3-device-type-assertion

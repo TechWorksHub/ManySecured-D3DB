@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20906854-8386-4f9e-953e-7ba8debe0e5e
-  mac-addresses:
+  id: 0adaed52-49ca-49fb-8394-a67a2260fca8
+  macAddresses:
   - 70:B3:D5:16:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ocean
 type: d3-device-type-assertion

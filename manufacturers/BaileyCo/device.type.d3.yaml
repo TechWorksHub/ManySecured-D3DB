@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4aed8d06-8d79-44b7-b43e-71c4ef3a199e
-  mac-addresses:
+  id: 5b47d331-e365-4318-8791-c83c0b451662
+  macAddresses:
   - 00:C0:C9:00:00:00/24
   manufacturer: Bailey Controls Co
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaileyCo
 type: d3-device-type-assertion

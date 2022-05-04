@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45345a51-1d4e-416d-9c19-118a0da67901
-  mac-addresses:
+  id: a4d1bc24-71ab-405b-9a6f-f8636bd91ed5
+  macAddresses:
   - 00:D0:A1:00:00:00/24
   manufacturer: Oskar Vierling Gmbh + Co. Kg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OskarVie
 type: d3-device-type-assertion

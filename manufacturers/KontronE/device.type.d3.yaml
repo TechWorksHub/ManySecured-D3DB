@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 2bd10f71-ccf4-4d6e-b46e-93d93212d04b
-  mac-addresses:
+  id: a9708f74-9b12-49f9-bf00-dfb1a36506ca
+  macAddresses:
   - 00:00:60:00:00:00/24
   - 00:30:59:00:00:00/24
   - 00:30:92:00:00:00/24
   - 08:85:5B:00:00:00/24
   manufacturer: Kontron Europe GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KontronE
 type: d3-device-type-assertion

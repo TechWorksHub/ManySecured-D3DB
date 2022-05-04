@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72789277-15a8-493a-b0e3-ca067df4c3f7
-  mac-addresses:
+  id: 87202237-8ed2-4636-896a-da39f5c7029f
+  macAddresses:
   - 00:50:5E:00:00:00/24
   manufacturer: Digitek Micrologic S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitekM
 type: d3-device-type-assertion

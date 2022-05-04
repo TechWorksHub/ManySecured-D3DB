@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 537ac795-2bff-435c-a02d-fab4e659ea2f
-  mac-addresses:
+  id: 0065f425-5105-4eba-b2a5-06f9235d70a7
+  macAddresses:
   - 70:B3:D5:B6:40:00/36
   manufacturer: Osung Lst Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsungLst
 type: d3-device-type-assertion

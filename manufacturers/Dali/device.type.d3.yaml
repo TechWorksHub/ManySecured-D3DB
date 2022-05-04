@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4fa21a8-4046-41e7-a275-ade18278aec7
-  mac-addresses:
+  id: 9f4f4db2-1a03-4051-8bc1-3a7210cc121d
+  macAddresses:
   - D0:C8:57:10:00:00/28
   manufacturer: Dali A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dali
 type: d3-device-type-assertion

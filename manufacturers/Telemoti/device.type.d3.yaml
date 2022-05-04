@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e26d0a26-8651-40da-a733-f0b958cee66e
-  mac-addresses:
+  id: dd5710a5-616f-44c4-b4ea-3b4240f7de96
+  macAddresses:
   - 00:13:AB:00:00:00/24
   manufacturer: Telemotive AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telemoti
 type: d3-device-type-assertion

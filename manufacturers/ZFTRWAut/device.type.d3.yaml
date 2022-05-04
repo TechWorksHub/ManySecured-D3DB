@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 317bcb6a-3f92-4877-a52a-0ab36df6aaf0
-  mac-addresses:
+  id: 76d1f960-ad60-42a0-a88c-44f0c94ce6e4
+  macAddresses:
   - 68:58:C5:00:00:00/24
   manufacturer: ZF TRW Automotive
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZFTRWAut
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45775794-e0fa-48dc-a185-6311bf7a9db9
-  mac-addresses:
+  id: d4b64c66-8dc8-40fe-9192-3b958aca20e7
+  macAddresses:
   - 00:0F:AD:00:00:00/24
   manufacturer: FMN communications GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FMNcommu
 type: d3-device-type-assertion

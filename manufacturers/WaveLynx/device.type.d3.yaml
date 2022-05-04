@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28cae1ba-a612-4b37-bd85-f54835b729fd
-  mac-addresses:
+  id: a573c1d6-67d4-4393-a262-6cd12e387b16
+  macAddresses:
   - 5C:26:23:00:00:00/24
   manufacturer: WaveLynx Technologies Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WaveLynx
 type: d3-device-type-assertion

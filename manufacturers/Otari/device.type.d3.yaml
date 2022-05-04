@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98d662cb-6eac-4524-a018-57774c51f818
-  mac-addresses:
+  id: a80ac67a-8e20-463a-b981-3e340caf1ee7
+  macAddresses:
   - 00:05:42:00:00:00/24
   manufacturer: Otari, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Otari
 type: d3-device-type-assertion

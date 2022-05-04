@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 445ce98f-5455-499e-be53-1f671bb24cf1
-  mac-addresses:
+  id: ab708aab-32c5-4baf-b20f-b4ebe974456c
+  macAddresses:
   - E8:F2:26:00:00:00/24
   manufacturer: Millson Custom Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MillsonC
 type: d3-device-type-assertion

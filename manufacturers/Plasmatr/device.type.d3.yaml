@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 801aa94c-2b82-447f-bfe3-15b7de94dcd8
-  mac-addresses:
+  id: cdaf7b14-b055-4f82-9fd9-defc35498f34
+  macAddresses:
   - 00:50:C2:ED:90:00/36
   manufacturer: Plasmatronics pty ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plasmatr
 type: d3-device-type-assertion

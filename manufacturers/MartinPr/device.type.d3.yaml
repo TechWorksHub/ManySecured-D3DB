@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39d6b75a-6e27-4f3a-8ecd-6943b4b84edc
-  mac-addresses:
+  id: 02e762e4-1b73-47fc-a684-342f6775e8d3
+  macAddresses:
   - 00:03:43:00:00:00/24
   manufacturer: Martin Professional A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MartinPr
 type: d3-device-type-assertion

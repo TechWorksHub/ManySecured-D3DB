@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7db03028-0a54-48f9-bdca-9223b4f4c088
-  mac-addresses:
+  id: 102dd91d-3717-43e5-81a9-af5a819d24d2
+  macAddresses:
   - 00:10:3D:00:00:00/24
   manufacturer: Phasecom, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phasecom
 type: d3-device-type-assertion

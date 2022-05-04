@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fe75d8f-ce6f-48d1-acb2-c3ec186d2dc1
-  mac-addresses:
+  id: 4403e48b-cf73-4608-abe7-705a8f33955c
+  macAddresses:
   - 00:0D:8A:00:00:00/24
   manufacturer: Winners Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinnersE
 type: d3-device-type-assertion

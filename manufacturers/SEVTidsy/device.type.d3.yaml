@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d91b3aae-a9a5-430c-a94e-998201bf978c
-  mac-addresses:
+  id: 1b872bcd-276a-406a-abab-bfca3b87d310
+  macAddresses:
   - 00:50:C2:47:70:00/36
   manufacturer: SEV Tidsystem AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEVTidsy
 type: d3-device-type-assertion

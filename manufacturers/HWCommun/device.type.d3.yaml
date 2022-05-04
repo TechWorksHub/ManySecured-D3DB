@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acb3480d-3085-460f-9958-a358a2c22f90
-  mac-addresses:
+  id: c282248a-271c-4d8a-a82f-cb974651cc8f
+  macAddresses:
   - E4:50:9A:00:00:00/24
   manufacturer: HW Communications Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HWCommun
 type: d3-device-type-assertion

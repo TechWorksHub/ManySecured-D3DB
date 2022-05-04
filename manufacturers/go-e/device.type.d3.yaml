@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe3b9580-756a-4f4e-abab-a343a73b4b2d
-  mac-addresses:
+  id: 71281a56-68c9-4bdb-bb07-df764d1447ec
+  macAddresses:
   - 98:FC:84:10:00:00/28
   manufacturer: go-e GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: go-e
 type: d3-device-type-assertion

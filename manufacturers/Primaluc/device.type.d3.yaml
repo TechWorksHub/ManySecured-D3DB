@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e4b572c-59dd-4ad2-92c3-abc2c4f6f77d
-  mac-addresses:
+  id: 9b46a38a-5491-4ebf-8c04-8a78a6c144e1
+  macAddresses:
   - 70:B3:D5:32:90:00/36
   manufacturer: Primalucelab isrl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Primaluc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c64d9df9-8eba-44d6-868b-e216c8e0b5a9
-  mac-addresses:
+  id: e06f0848-02b6-4f49-9b6c-abb7e597b675
+  macAddresses:
   - 70:B3:D5:E6:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adeli
 type: d3-device-type-assertion

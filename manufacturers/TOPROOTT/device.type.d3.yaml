@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 51c8cef8-a50b-4901-b97f-e17f02b14775
-  mac-addresses:
+  id: bc92f508-fa96-4951-af4c-94df7612fdff
+  macAddresses:
   - 00:50:C2:CC:70:00/36
   - 40:A3:6B:20:00:00/28
   - 70:B3:D5:1E:00:00/36
   manufacturer: TOPROOTTechnology Corp. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOPROOTT
 type: d3-device-type-assertion

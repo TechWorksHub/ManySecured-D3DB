@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09c5ad5b-cc72-4e8a-86ac-4f61f54ce8fb
-  mac-addresses:
+  id: bdaf27d8-2b7f-4ab5-973f-da39f8391e86
+  macAddresses:
   - 0C:A1:38:00:00:00/24
   manufacturer: Blinq Wireless Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlinqWir
 type: d3-device-type-assertion

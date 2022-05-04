@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09b57211-2333-49d4-b683-c4b01946689b
-  mac-addresses:
+  id: 96236fbc-4b44-4a71-8d6b-2178baca73f8
+  macAddresses:
   - 00:12:DF:00:00:00/24
   manufacturer: Novomatic AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novomati
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04fc449b-5cb8-481d-96d1-a0f68b87cb87
-  mac-addresses:
+  id: ba31e181-0e84-4662-bc9e-834f14d69af8
+  macAddresses:
   - 00:30:CD:00:00:00/24
   manufacturer: Conexant Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Conexant
 type: d3-device-type-assertion

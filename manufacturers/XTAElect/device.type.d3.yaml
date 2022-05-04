@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40bfca5c-8f22-4bd7-ba8e-ebcfb5109918
-  mac-addresses:
+  id: 109f2a2f-2e74-4c23-99a1-12a58fa1f69d
+  macAddresses:
   - 88:57:6D:00:00:00/24
   manufacturer: XTA Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XTAElect
 type: d3-device-type-assertion

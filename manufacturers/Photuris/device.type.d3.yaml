@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 993d478b-ab6a-42fb-847f-0b5a80381409
-  mac-addresses:
+  id: e66bf55b-d7c8-42eb-8ee8-55c74dcd33f8
+  macAddresses:
   - 00:06:5E:00:00:00/24
   manufacturer: Photuris, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Photuris
 type: d3-device-type-assertion

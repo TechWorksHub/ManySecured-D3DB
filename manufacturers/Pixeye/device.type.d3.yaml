@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad7adbee-e269-4d64-8cf8-30ce0a8eaa66
-  mac-addresses:
+  id: 4581efbe-fbd7-4e28-b1b5-19304e6c6125
+  macAddresses:
   - 00:50:C2:8A:70:00/36
   manufacturer: Pixeye Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pixeye
 type: d3-device-type-assertion

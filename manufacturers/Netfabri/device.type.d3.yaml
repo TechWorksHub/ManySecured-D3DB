@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8b5d880-11fb-4e4d-99c1-d69e862ea69a
-  mac-addresses:
+  id: 7fe815e6-d2bb-4aa4-ab9f-751f9ac0989b
+  macAddresses:
   - 00:12:1D:00:00:00/24
   manufacturer: Netfabric Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netfabri
 type: d3-device-type-assertion

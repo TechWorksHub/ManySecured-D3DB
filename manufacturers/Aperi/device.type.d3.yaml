@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58c47ad0-a53c-466e-a919-9b77e3aadaf1
-  mac-addresses:
+  id: 0035fbba-ac4b-41dd-9e2a-581958839e5c
+  macAddresses:
   - 74:6A:3A:00:00:00/24
   manufacturer: Aperi Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aperi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb0ba7ee-1efb-4438-9cea-05e657bd9d9d
-  mac-addresses:
+  id: 03bbfe9c-8fc9-41f7-b6f9-3b1edbd2f22e
+  macAddresses:
   - 24:E6:BA:00:00:00/24
   manufacturer: JSC Zavod im. Kozitsky
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZavodimK
 type: d3-device-type-assertion

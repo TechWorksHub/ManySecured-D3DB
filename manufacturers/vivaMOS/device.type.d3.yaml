@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dce06aa8-e354-4350-aac6-8ab4dbb352b3
-  mac-addresses:
+  id: 1bd66215-e13d-4b22-9468-f4779e2d69c9
+  macAddresses:
   - 70:B3:D5:AC:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vivaMOS
 type: d3-device-type-assertion

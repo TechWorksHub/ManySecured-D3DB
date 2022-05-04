@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a903ab53-1901-405d-b72d-dfb934101477
-  mac-addresses:
+  id: 3a9f8e79-1661-4683-a425-b8b2ecd7f73c
+  macAddresses:
   - 00:0C:DF:00:00:00/24
   - D4:1F:0C:00:00:00/24
   manufacturer: JAI Manufacturing
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JAIManuf
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: add763dd-75fc-4bcd-b324-46f9f6b6ba85
-  mac-addresses:
+  id: 2ca13ed8-388c-41a6-8583-fcdc47ab8350
+  macAddresses:
   - 00:0A:7A:00:00:00/24
   - 00:50:C2:E6:80:00/36
   - 40:D8:55:0E:60:00/36
   manufacturer: Kyoritsu Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kyoritsu
 type: d3-device-type-assertion

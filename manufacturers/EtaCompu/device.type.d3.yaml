@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e552f8ec-2748-4f3e-87fe-2b7b1411a6c2
-  mac-addresses:
+  id: fda94db4-15e1-47ae-9b93-bc8cdd5fd84a
+  macAddresses:
   - 70:50:E7:D0:00:00/28
   manufacturer: Eta Compute Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EtaCompu
 type: d3-device-type-assertion

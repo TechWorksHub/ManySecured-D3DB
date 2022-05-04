@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 867c4e4a-4164-4b50-a4e8-1c816c713bc1
-  mac-addresses:
+  id: 05390d50-7af1-439d-bfe4-a92e23d88de1
+  macAddresses:
   - 14:CC:B3:00:00:00/24
   manufacturer: Ao "Gk Nateks"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AoGkNate
 type: d3-device-type-assertion

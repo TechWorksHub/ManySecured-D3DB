@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8658bab-07f0-4933-b680-87b5e346edd8
-  mac-addresses:
+  id: 2b12bdda-e277-4af6-bc84-1e5642ec0cf3
+  macAddresses:
   - 70:B3:D5:CB:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ossiaco
 type: d3-device-type-assertion

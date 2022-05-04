@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bb359c2-119f-4856-9658-41bd920c1ca1
-  mac-addresses:
+  id: 085bb4d1-1bfd-42c0-9618-b62efe8f7890
+  macAddresses:
   - 70:B3:D5:D5:20:00/36
   manufacturer: Sensoronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sensoron
 type: d3-device-type-assertion

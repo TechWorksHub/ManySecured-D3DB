@@ -1,8 +1,8 @@
 credentialSubject:
-  id: feab3df8-f7fd-485e-b503-e1fb7b0d1268
-  mac-addresses:
+  id: 48f36150-e366-4d5f-8a04-53aff247dce2
+  macAddresses:
   - 00:09:C6:00:00:00/24
   manufacturer: Visionics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visionic
 type: d3-device-type-assertion

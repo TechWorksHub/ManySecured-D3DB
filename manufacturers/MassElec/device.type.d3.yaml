@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ff44e4d-8483-4e7c-b922-6d3b4ccbdb8e
-  mac-addresses:
+  id: c5bc4235-6f71-4351-98df-ac5ef2e22804
+  macAddresses:
   - 08:26:AE:E0:00:00/28
   manufacturer: Mass Electronics Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MassElec
 type: d3-device-type-assertion

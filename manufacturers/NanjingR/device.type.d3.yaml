@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ab9e761-d956-4000-8291-cb3a9b9f87b0
-  mac-addresses:
+  id: 403122d1-e7bb-46b9-9a91-0b383d6cc37f
+  macAddresses:
   - F4:47:2A:00:00:00/24
   manufacturer: Nanjing Rousing Sci. and Tech. Industrial Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingR
 type: d3-device-type-assertion

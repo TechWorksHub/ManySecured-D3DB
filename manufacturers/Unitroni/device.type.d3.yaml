@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 004c7f71-83a3-471d-986b-cbbc51db8149
-  mac-addresses:
+  id: bb658af0-ba40-4663-b31f-311205ca7d23
+  macAddresses:
   - 00:0D:22:00:00:00/24
   manufacturer: Unitronics LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unitroni
 type: d3-device-type-assertion

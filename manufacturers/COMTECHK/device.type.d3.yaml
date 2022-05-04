@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 054e63c4-8857-4f13-ae58-953de893b46a
-  mac-addresses:
+  id: 95eef6a8-ff4c-40e5-baf4-31e9253f5b31
+  macAddresses:
   - 70:B3:D5:09:F0:00/36
   manufacturer: COMTECH Kft.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMTECHK
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35c251cc-cc6b-4dea-8b44-f62438ccc293
-  mac-addresses:
+  id: a651dd51-67c4-476f-8b55-29e266a14e51
+  macAddresses:
   - 70:B3:D5:D3:E0:00/36
   manufacturer: enders GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: enders
 type: d3-device-type-assertion

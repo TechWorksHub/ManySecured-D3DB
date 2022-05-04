@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bba0ea7-d16b-4fc2-ae58-21c8a1db280d
-  mac-addresses:
+  id: 359c3a14-c56f-44ec-baf0-f5d4236a9e03
+  macAddresses:
   - 18:36:FC:00:00:00/24
   manufacturer: Elecsys International Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElecsysI
 type: d3-device-type-assertion

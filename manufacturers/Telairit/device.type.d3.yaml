@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b8b41ea5-312a-4092-8ad9-ae57f77299ad
-  mac-addresses:
+  id: 805d9432-4599-4ba7-a4b1-1827d73ba518
+  macAddresses:
   - 00:50:C2:78:D0:00/36
   - 70:B3:D5:1A:30:00/36
   manufacturer: Telairity
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telairit
 type: d3-device-type-assertion

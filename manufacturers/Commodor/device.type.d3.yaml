@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfd6049e-153d-4e0d-bb3f-cd468bd6d157
-  mac-addresses:
+  id: 394f7fbb-c380-4b25-bf24-4e0614177d4d
+  macAddresses:
   - 00:80:10:00:00:00/24
   manufacturer: Commodore
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Commodor
 type: d3-device-type-assertion

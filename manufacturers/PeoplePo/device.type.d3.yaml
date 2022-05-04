@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9615723-b626-42b3-b3f6-2e7430d9c333
-  mac-addresses:
+  id: eaf8fc93-b242-46e9-9d4d-c81f71ea38c8
+  macAddresses:
   - B0:C8:AD:00:00:00/24
   manufacturer: People Power Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PeoplePo
 type: d3-device-type-assertion

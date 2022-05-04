@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58091958-66cd-4161-b098-c748c917161e
-  mac-addresses:
+  id: 54dd44a1-a03e-4310-a23c-edaed1dac4e0
+  macAddresses:
   - 00:90:07:00:00:00/24
   manufacturer: Domex Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DomexTec
 type: d3-device-type-assertion

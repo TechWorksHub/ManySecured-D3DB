@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7c720db-44ce-452d-9d61-a9c26c828205
-  mac-addresses:
+  id: e854fa6d-d7ea-405e-9985-604315ae73e1
+  macAddresses:
   - 3C:31:78:00:00:00/24
   manufacturer: Qolsys Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qolsys
 type: d3-device-type-assertion

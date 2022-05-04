@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9e51eb2-27b9-45ab-83a0-d113647994e8
-  mac-addresses:
+  id: f8b9b93b-8635-48a8-849c-5a8c4ce89548
+  macAddresses:
   - 00:1E:04:00:00:00/24
   manufacturer: Hanson Research Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HansonRe
 type: d3-device-type-assertion

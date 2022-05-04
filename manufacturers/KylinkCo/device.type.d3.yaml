@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e081a67c-2559-43fd-a82f-87f7c42f35dc
-  mac-addresses:
+  id: 637547f9-2fe5-4bf6-b248-634aa363fcee
+  macAddresses:
   - 00:50:C2:08:D0:00/36
   manufacturer: Kylink Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KylinkCo
 type: d3-device-type-assertion

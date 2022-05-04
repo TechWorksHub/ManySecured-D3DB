@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb9d5b37-fdd1-45e0-ba78-7a6c877e519b
-  mac-addresses:
+  id: 5e97aab0-9977-4554-94ce-61f35c3c8f00
+  macAddresses:
   - 00:30:E2:00:00:00/24
   manufacturer: Garnet Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Garnet
 type: d3-device-type-assertion

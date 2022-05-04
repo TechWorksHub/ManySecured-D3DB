@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 05c6a9dc-e52f-40f4-b289-5e2006ac50fd
-  mac-addresses:
+  id: 4679dfbf-d487-4b92-8769-144ddd879be4
+  macAddresses:
   - 00:50:C2:5C:50:00/36
   - D0:E8:28:00:00:00/24
   manufacturer: Radiant Imaging, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadiantI
 type: d3-device-type-assertion

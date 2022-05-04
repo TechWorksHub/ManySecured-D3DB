@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75e7ae95-4259-4232-a7ec-3ae8093bdb5f
-  mac-addresses:
+  id: 966a2010-8c57-441b-8698-544c21c8a3a0
+  macAddresses:
   - 00:30:B1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrunkNet
 type: d3-device-type-assertion

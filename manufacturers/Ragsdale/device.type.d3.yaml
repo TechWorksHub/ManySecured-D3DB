@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bda90e70-1160-4d1d-a487-35e552f36ab1
-  mac-addresses:
+  id: 730babd1-d7ad-4f7a-bbf7-97740b706b34
+  macAddresses:
   - A4:AD:00:00:00:00/24
   manufacturer: Ragsdale Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ragsdale
 type: d3-device-type-assertion

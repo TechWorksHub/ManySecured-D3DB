@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32c9856f-4d85-40ce-80d2-85b4dbc6c9c5
-  mac-addresses:
+  id: f4ecf20c-7e87-4def-adc8-f325b33c1ff4
+  macAddresses:
   - 58:95:D8:C0:00:00/28
   manufacturer: Loctek Ergonomic Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LoctekEr
 type: d3-device-type-assertion

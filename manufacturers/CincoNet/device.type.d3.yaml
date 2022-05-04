@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 720ade80-ef74-4fe0-9bf5-3e1307e94099
-  mac-addresses:
+  id: 58d2589a-4783-484d-9871-817d81383b92
+  macAddresses:
   - 00:E0:E5:00:00:00/24
   manufacturer: Cinco Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CincoNet
 type: d3-device-type-assertion

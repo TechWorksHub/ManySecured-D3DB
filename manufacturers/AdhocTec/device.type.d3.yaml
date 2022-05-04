@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00315980-62b0-4a3d-b68c-a44603970fd1
-  mac-addresses:
+  id: da47d7ca-db88-483a-bf90-4b70368b41cc
+  macAddresses:
   - 00:10:A9:00:00:00/24
   manufacturer: Adhoc Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdhocTec
 type: d3-device-type-assertion

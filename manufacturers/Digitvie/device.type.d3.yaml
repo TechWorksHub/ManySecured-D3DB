@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8682e89c-d67f-4ad8-8dab-c19c96ae5c6b
-  mac-addresses:
+  id: 7d40fd0d-f5fa-4994-8af5-db2e268d9662
+  macAddresses:
   - 00:1F:24:00:00:00/24
   manufacturer: Digitview Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digitvie
 type: d3-device-type-assertion

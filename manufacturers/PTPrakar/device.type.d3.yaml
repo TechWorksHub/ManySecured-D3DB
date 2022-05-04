@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74045462-2c72-465d-9039-5c71e144e963
-  mac-addresses:
+  id: 2ed660ac-f7ee-4ee8-8ac5-18d2002b8dbd
+  macAddresses:
   - 14:37:19:00:00:00/24
   manufacturer: PT Prakarsa Visi Valutama
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTPrakar
 type: d3-device-type-assertion

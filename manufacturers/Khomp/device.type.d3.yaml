@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8082c47a-59ad-4241-9579-8f1e75aaf4a7
-  mac-addresses:
+  id: c33cdaf1-315c-434d-9463-17807e1126f0
+  macAddresses:
   - F8:03:32:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Khomp
 type: d3-device-type-assertion

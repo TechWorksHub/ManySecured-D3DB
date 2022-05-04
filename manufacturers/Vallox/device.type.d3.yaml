@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfb34780-89cf-416e-8c66-673d641222fe
-  mac-addresses:
+  id: d64fe616-e942-4027-9ff5-4433bfbbdd9f
+  macAddresses:
   - B0:57:06:00:00:00/24
   manufacturer: Vallox Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vallox
 type: d3-device-type-assertion

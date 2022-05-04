@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e4c922b-e937-4c3a-9821-bb360748fdd6
-  mac-addresses:
+  id: 4b8357e2-7709-40c4-aacd-d70dc2f97d78
+  macAddresses:
   - 00:75:32:00:00:00/24
   manufacturer: Inid Bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inid
 type: d3-device-type-assertion

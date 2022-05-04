@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 367f58ab-8281-46fa-8ac2-a9d4432e93a0
-  mac-addresses:
+  id: 1ff498b0-170d-4975-955a-c20908fd256a
+  macAddresses:
   - 00:21:BC:00:00:00/24
   manufacturer: Zala Computer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZalaComp
 type: d3-device-type-assertion

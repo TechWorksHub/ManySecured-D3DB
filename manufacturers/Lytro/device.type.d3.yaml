@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6476de89-c810-485e-80d4-b2bdf4759391
-  mac-addresses:
+  id: 48f813d7-a700-43e9-9a63-9b70076b3919
+  macAddresses:
   - 8C:7E:B3:00:00:00/24
   manufacturer: Lytro, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lytro
 type: d3-device-type-assertion

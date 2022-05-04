@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de8a9402-81d5-402a-af80-ca6060ff7a5c
-  mac-addresses:
+  id: 043ab560-9bb1-42d3-b556-8b0d23d3a5ce
+  macAddresses:
   - C4:23:7A:00:00:00/24
   manufacturer: WhizNets Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhizNets
 type: d3-device-type-assertion

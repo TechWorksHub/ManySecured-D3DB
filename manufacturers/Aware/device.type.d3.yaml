@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb8305e4-fb43-4343-b1a4-365d2b4f62b5
-  mac-addresses:
+  id: 1590665b-b4c4-41ae-81ad-195b4965bb86
+  macAddresses:
   - 00:10:9E:00:00:00/24
   manufacturer: Aware, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aware
 type: d3-device-type-assertion

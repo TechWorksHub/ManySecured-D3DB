@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89c6decd-e555-436b-942e-6eed36582c08
-  mac-addresses:
+  id: 5e428d82-c9bf-45e7-b45a-d13d029da230
+  macAddresses:
   - DC:C6:22:00:00:00/24
   manufacturer: Buheung System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BuheungS
 type: d3-device-type-assertion

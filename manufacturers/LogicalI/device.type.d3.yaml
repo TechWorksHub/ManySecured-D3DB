@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 223edeeb-9d35-4d9b-8b2d-25801ce68c59
-  mac-addresses:
+  id: f25ccd87-2d5d-4546-b115-34b72532ca93
+  macAddresses:
   - 1C:59:74:10:00:00/28
   manufacturer: Logical Infrastructure PTY LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicalI
 type: d3-device-type-assertion

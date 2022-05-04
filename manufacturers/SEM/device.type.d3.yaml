@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2aa2949e-66d0-48ea-8989-95363a5140d9
-  mac-addresses:
+  id: 3d0df3e0-a988-433e-a2a6-9004260563ac
+  macAddresses:
   - 00:26:F9:00:00:00/24
   manufacturer: S.E.M. srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEM
 type: d3-device-type-assertion

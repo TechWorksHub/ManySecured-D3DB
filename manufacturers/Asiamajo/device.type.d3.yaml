@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e4885f6-5f1b-4dec-bcbe-c786e7dcf1f9
-  mac-addresses:
+  id: d772a022-5e93-4166-af21-fdcb22b1a929
+  macAddresses:
   - 00:13:14:00:00:00/24
   manufacturer: Asiamajor Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asiamajo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b2e88d0-6c1b-40e5-99e3-be75c0e45186
-  mac-addresses:
+  id: e7b95497-d5bd-4d21-bc13-d27c94e5636b
+  macAddresses:
   - 70:B3:D5:D7:30:00/36
   manufacturer: ERMINE Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ERMINE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d52e890-e131-414c-a3f9-2fe160f1277a
-  mac-addresses:
+  id: f851eef3-bbfd-4036-9250-d7c16c4db41f
+  macAddresses:
   - 00:18:F9:00:00:00/24
   manufacturer: VVOND, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VVOND
 type: d3-device-type-assertion

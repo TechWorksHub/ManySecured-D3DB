@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f61b1109-6a58-4419-914e-214089aeabb1
-  mac-addresses:
+  id: f38521bd-5f41-49d3-8b1f-ec904ddc4c1c
+  macAddresses:
   - A4:45:CD:00:00:00/24
   manufacturer: IoT Diagnostics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTDiagn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38f6570a-61d0-4630-a4cb-6011ec502c8c
-  mac-addresses:
+  id: 3689318b-7388-430a-b557-ffab061bf5db
+  macAddresses:
   - 00:02:D8:00:00:00/24
   manufacturer: BRECIS Communications Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BRECISCo
 type: d3-device-type-assertion

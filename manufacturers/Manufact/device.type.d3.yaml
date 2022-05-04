@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 041feb0f-f5b6-49b5-a695-870659d46459
-  mac-addresses:
+  id: 798cf1bc-b84c-486f-9fea-bcce1798e1e0
+  macAddresses:
   - 00:0B:37:00:00:00/24
   - 00:11:A2:00:00:00/24
   - 00:1B:C5:06:60:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - CC:22:37:E0:00:00/28
   - DC:3C:2E:00:00:00/24
   manufacturer: Manufacture Des Montres Rolex Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Manufact
 type: d3-device-type-assertion

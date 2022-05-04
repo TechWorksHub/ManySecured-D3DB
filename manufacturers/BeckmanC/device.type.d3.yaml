@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a48d68d-516f-4dea-a2d1-a510480ecbda
-  mac-addresses:
+  id: b8482f71-7a7f-4b10-883a-c02e5e72c5d5
+  macAddresses:
   - D0:D2:86:00:00:00/24
   manufacturer: Beckman Coulter K.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeckmanC
 type: d3-device-type-assertion

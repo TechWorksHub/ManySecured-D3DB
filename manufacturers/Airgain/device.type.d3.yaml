@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40f03918-f4ca-4ae3-8ec8-5efaac3fab8f
-  mac-addresses:
+  id: 51442ff2-6ae7-45c1-9636-42eacdc249ac
+  macAddresses:
   - 00:1C:04:00:00:00/24
   manufacturer: Airgain, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airgain
 type: d3-device-type-assertion

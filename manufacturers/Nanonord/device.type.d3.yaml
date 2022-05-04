@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33aa9111-3033-4f22-b758-05f421a3380a
-  mac-addresses:
+  id: da513028-9f2e-4c5d-973a-16340b882a0f
+  macAddresses:
   - 8C:59:3C:80:00:00/28
   manufacturer: Nanonord A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nanonord
 type: d3-device-type-assertion

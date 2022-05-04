@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a33cda08-52f4-4ad7-81d0-bba60a0b8f00
-  mac-addresses:
+  id: 92f0a056-ee49-4a92-940e-9030821a6462
+  macAddresses:
   - 70:B3:D5:78:90:00/36
   manufacturer: SEMEX-EngCon GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEMEX-En
 type: d3-device-type-assertion

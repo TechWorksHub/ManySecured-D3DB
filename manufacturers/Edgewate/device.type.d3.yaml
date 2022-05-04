@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 055cd148-4568-4c60-b4df-557d7b160a05
-  mac-addresses:
+  id: decfa93d-aa00-4d66-b56f-f662364b6c90
+  macAddresses:
   - 00:1B:D9:00:00:00/24
   - 54:39:68:00:00:00/24
   manufacturer: Edgewater Wireless Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Edgewate
 type: d3-device-type-assertion

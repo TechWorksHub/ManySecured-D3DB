@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fecf83ae-44be-4044-b102-2333b7c9c5a1
-  mac-addresses:
+  id: 4786be6a-a236-41b4-bae4-c93cacb52c52
+  macAddresses:
   - FC:D2:B6:30:00:00/28
   manufacturer: Coet Costruzioni Elettrotecniche
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoetCost
 type: d3-device-type-assertion

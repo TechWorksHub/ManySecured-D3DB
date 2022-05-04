@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3a7425e-dae2-4b2d-879a-7cae6146d50c
-  mac-addresses:
+  id: 4877c68b-c25d-4941-83d8-ffec9d3abd16
+  macAddresses:
   - 00:A0:8A:00:00:00/24
   manufacturer: Brooktrout Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brooktro
 type: d3-device-type-assertion

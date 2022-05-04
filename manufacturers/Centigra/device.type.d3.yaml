@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76fc8f7d-0277-4f2b-92cf-3e7c7a5f243e
-  mac-addresses:
+  id: 89ff948e-bdc8-403a-9df5-0da921dfc31f
+  macAddresses:
   - 00:90:15:00:00:00/24
   manufacturer: Centigram Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Centigra
 type: d3-device-type-assertion

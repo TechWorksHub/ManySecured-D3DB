@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37323504-faf6-4fb7-bf22-4f904c28e3f7
-  mac-addresses:
+  id: b9fa53e6-db36-4684-aaba-672f9eaac3e5
+  macAddresses:
   - 5C:C8:E3:00:00:00/24
   manufacturer: Shintec Hozumi co.ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShintecH
 type: d3-device-type-assertion

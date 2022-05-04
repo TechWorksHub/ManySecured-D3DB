@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 078b6070-3583-4f87-822a-e95aedd6a7de
-  mac-addresses:
+  id: 1f35e4b4-599f-4b16-a9dd-111c134e2ce1
+  macAddresses:
   - 00:02:EF:00:00:00/24
   manufacturer: CCC Network Systems Group Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CCCNetwo
 type: d3-device-type-assertion

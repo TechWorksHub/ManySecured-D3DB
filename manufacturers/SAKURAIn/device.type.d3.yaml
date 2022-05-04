@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eec0720b-3edb-467e-b7e9-34af9f1636df
-  mac-addresses:
+  id: 920f9580-e373-4650-8f44-e10264326b71
+  macAddresses:
   - 9C:A3:BA:00:00:00/24
   manufacturer: SAKURA Internet Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAKURAIn
 type: d3-device-type-assertion

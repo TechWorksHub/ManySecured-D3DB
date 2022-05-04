@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e5d7329-e10b-4c16-bfc4-f8e1f965d95c
-  mac-addresses:
+  id: 48d3215e-f0a2-4c0d-bd75-be1958806d0e
+  macAddresses:
   - 2C:16:BD:40:00:00/28
   manufacturer: Sunit Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sunit
 type: d3-device-type-assertion

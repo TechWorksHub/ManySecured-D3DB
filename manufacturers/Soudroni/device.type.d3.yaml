@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 376310f2-d144-409a-886d-618ec2032331
-  mac-addresses:
+  id: 3f5237d1-4678-4fdb-8289-1e13193144a9
+  macAddresses:
   - 00:50:C2:FC:C0:00/36
   manufacturer: Soudronic AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Soudroni
 type: d3-device-type-assertion

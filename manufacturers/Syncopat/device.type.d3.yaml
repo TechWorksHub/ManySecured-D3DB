@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb65f07f-ee02-410c-898e-09f48cc17ff8
-  mac-addresses:
+  id: d9613f8b-4c77-4c83-b57f-095f2f3467f2
+  macAddresses:
   - 70:B3:D5:52:20:00/36
   manufacturer: Syncopated Engineering Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Syncopat
 type: d3-device-type-assertion

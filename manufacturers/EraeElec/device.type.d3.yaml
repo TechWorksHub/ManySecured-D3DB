@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5efc0632-035e-49e7-88c9-931ff1178b2e
-  mac-addresses:
+  id: 347a4c78-ff54-4f2f-b059-de6af01d5375
+  macAddresses:
   - 00:18:CD:00:00:00/24
   manufacturer: Erae Electronics Industry Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EraeElec
 type: d3-device-type-assertion

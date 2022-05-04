@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e885049b-24a6-4271-922f-5c50a23e9497
-  mac-addresses:
+  id: 64506a94-eefa-4ac7-bece-ca6e8b090b08
+  macAddresses:
   - 00:50:C2:C5:D0:00/36
   manufacturer: SweMet AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SweMet
 type: d3-device-type-assertion

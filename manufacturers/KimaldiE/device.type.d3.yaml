@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 209ab30b-3de0-49ab-a753-e2f8f06fac1d
-  mac-addresses:
+  id: 4b4eb845-00a2-49e2-88e5-e2860efaae8a
+  macAddresses:
   - 00:18:24:00:00:00/24
   manufacturer: Kimaldi Electronics, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KimaldiE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e49c0ef6-0a53-47d2-855f-65fe856bec13
-  mac-addresses:
+  id: d788c4f7-10a5-44bf-b322-cacff9170716
+  macAddresses:
   - 34:5A:BA:00:00:00/24
   manufacturer: tcloud intelligence
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: tcloudin
 type: d3-device-type-assertion

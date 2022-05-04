@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cac79c54-ea05-4ca4-b059-0b069d78402f
-  mac-addresses:
+  id: d135b1e8-190f-45b9-870a-048e8db6cee9
+  macAddresses:
   - 00:12:EB:00:00:00/24
   manufacturer: PDH Solutions, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PDHSolut
 type: d3-device-type-assertion

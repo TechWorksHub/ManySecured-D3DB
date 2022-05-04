@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8669f3a5-8f29-48b7-8091-22ae1d33607e
-  mac-addresses:
+  id: d8e3a24a-bb90-4731-bf7d-d722a8d30a1e
+  macAddresses:
   - 70:B3:D5:5D:B0:00/36
   manufacturer: Movicom LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Movicom
 type: d3-device-type-assertion

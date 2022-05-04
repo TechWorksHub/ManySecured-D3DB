@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4cf3f8d9-c649-4a97-b1ae-59824543d989
-  mac-addresses:
+  id: d1c25c15-a3dd-4107-983b-9659bf489dc1
+  macAddresses:
   - A4:61:91:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NamJunSa
 type: d3-device-type-assertion

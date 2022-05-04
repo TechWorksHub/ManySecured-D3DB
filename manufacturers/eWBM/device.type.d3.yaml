@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d66152f-0483-4e4a-8a0e-1c8bcd7ada3b
-  mac-addresses:
+  id: 180ca2ec-fb86-4417-916b-4d3ab5816700
+  macAddresses:
   - 50:F8:A5:00:00:00/24
   manufacturer: eWBM Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eWBM
 type: d3-device-type-assertion

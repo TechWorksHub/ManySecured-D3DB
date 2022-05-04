@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc5288c7-a5c1-438c-93ba-994c0de5b1fe
-  mac-addresses:
+  id: b0f48bb1-b3d8-43a5-8032-e30eacf589c9
+  macAddresses:
   - 00:05:3B:00:00:00/24
   manufacturer: Harbour Networks Ltd., Co. Beijing
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HarbourN
 type: d3-device-type-assertion

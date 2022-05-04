@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88de5426-04ea-4936-b677-f5ae08247391
-  mac-addresses:
+  id: 42de6352-c91a-4cfa-9dee-baa0d1964acd
+  macAddresses:
   - 20:CE:2A:90:00:00/28
   manufacturer: Rugged Monitoring
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuggedMo
 type: d3-device-type-assertion

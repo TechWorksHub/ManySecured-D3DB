@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 876d5a4b-3fad-435d-b172-b16a19fce23c
-  mac-addresses:
+  id: 6f661868-5ad6-4fdf-881b-7c0882722699
+  macAddresses:
   - 70:B3:D5:33:10:00/36
   manufacturer: Firecom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Firecom
 type: d3-device-type-assertion

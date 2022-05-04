@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae94c902-5d66-49e0-b26f-a174cf32e014
-  mac-addresses:
+  id: e52d28c0-44fd-4a86-b8a5-c34e0c45783f
+  macAddresses:
   - A8:2B:D6:00:00:00/24
   manufacturer: Shina System Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShinaSys
 type: d3-device-type-assertion

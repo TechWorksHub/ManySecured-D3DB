@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5be21236-b88c-41af-b33b-05a4c0e8c291
-  mac-addresses:
+  id: bf32f8c4-0826-4864-a7bb-5f23d65a394c
+  macAddresses:
   - 40:D8:55:07:90:00/36
   manufacturer: DelfiSolutions A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DelfiSol
 type: d3-device-type-assertion

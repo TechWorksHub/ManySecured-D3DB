@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b6ab1f6-bac8-425e-b835-9313d7ffc836
-  mac-addresses:
+  id: d879a2d3-8527-48b0-b9db-dad3302885f3
+  macAddresses:
   - B4:A5:A9:00:00:00/24
   manufacturer: MODI GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MODI
 type: d3-device-type-assertion

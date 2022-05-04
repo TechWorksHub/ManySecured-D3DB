@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85dffd5f-8f1d-43ed-998b-de03e899d2a1
-  mac-addresses:
+  id: 3a6c3a64-1007-4423-a383-f9057185c341
+  macAddresses:
   - 34:D0:B8:20:00:00/28
   manufacturer: Blustream Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blustrea
 type: d3-device-type-assertion

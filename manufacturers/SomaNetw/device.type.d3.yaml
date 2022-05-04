@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2be4d0e4-090e-4ab4-a383-9299ababced6
-  mac-addresses:
+  id: 6a3e28ea-8dee-4937-b132-1ab061ac4101
+  macAddresses:
   - 00:02:51:00:00:00/24
   manufacturer: Soma Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SomaNetw
 type: d3-device-type-assertion

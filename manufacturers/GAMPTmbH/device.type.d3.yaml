@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4312132-9dd4-4e8f-899f-1d2cdeaff096
-  mac-addresses:
+  id: e67b4924-7d79-4596-a72d-7f5465aea6dc
+  macAddresses:
   - 70:B3:D5:79:60:00/36
   manufacturer: GAMPT mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GAMPTmbH
 type: d3-device-type-assertion

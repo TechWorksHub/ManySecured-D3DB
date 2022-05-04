@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f8e3900-6def-47f9-8b74-8e0514e603a6
-  mac-addresses:
+  id: b9b6a18e-a8ff-41c4-9f65-f1ab6bae084e
+  macAddresses:
   - C4:7C:8D:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ati
 type: d3-device-type-assertion

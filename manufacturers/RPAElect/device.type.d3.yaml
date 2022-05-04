@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc2a3892-74a3-4ec5-b2e3-ef35d3497a39
-  mac-addresses:
+  id: 2ce8a565-848e-449b-aa44-db5ddd454ee8
+  macAddresses:
   - 00:50:C2:E8:B0:00/36
   manufacturer: RPA Electronic Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RPAElect
 type: d3-device-type-assertion

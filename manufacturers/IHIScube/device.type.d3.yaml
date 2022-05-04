@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c311a0d4-9d2f-4ee0-873d-ef4cf15b7f9a
-  mac-addresses:
+  id: 3d1a8d60-aff6-4b77-bce8-78a37b91064e
+  macAddresses:
   - 00:50:C2:E1:50:00/36
   manufacturer: IHI Scube Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IHIScube
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64c87fb3-aa8b-49f7-98c5-cb78da86afcc
-  mac-addresses:
+  id: 5d61659e-280c-4c73-8cbd-18f2bd10f2e0
+  macAddresses:
   - 40:2C:76:50:00:00/28
   manufacturer: Baumer Bourdon-Haenni
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaumerBo
 type: d3-device-type-assertion

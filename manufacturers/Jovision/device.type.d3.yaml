@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7e0799c-4788-4d01-805e-9e95434065fd
-  mac-addresses:
+  id: 80dbfb6e-cd94-4513-aa2d-6ca161ee0fb7
+  macAddresses:
   - AC:95:72:00:00:00/24
   manufacturer: Jovision Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jovision
 type: d3-device-type-assertion

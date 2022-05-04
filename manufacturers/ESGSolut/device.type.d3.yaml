@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9036d9b-c17f-47bd-9b95-8b96294df113
-  mac-addresses:
+  id: 02b77d5f-b688-4eb5-bdf2-d9f0251e5e68
+  macAddresses:
   - 8C:DB:25:00:00:00/24
   manufacturer: ESG Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESGSolut
 type: d3-device-type-assertion

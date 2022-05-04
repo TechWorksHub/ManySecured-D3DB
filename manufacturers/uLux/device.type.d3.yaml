@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa256a6f-09ec-40bc-b103-166825cee9c1
-  mac-addresses:
+  id: a663f376-7691-434b-b7fa-62616529515d
+  macAddresses:
   - D0:22:12:E0:00:00/28
   manufacturer: u::Lux GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: uLux
 type: d3-device-type-assertion

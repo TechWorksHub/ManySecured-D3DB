@@ -1,9 +1,9 @@
 credentialSubject:
-  id: dc5789c5-ca06-4f01-acab-a1a159bfe900
-  mac-addresses:
+  id: 9689ce87-eb4d-460a-b843-771386da843e
+  macAddresses:
   - 18:FD:CB:B0:00:00/28
   - 70:B3:D5:DB:D0:00/36
   manufacturer: Translite Global Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Translit
 type: d3-device-type-assertion

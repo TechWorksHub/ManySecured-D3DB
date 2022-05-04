@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0feb166c-79bf-41e6-ae98-1f3d7ebb0184
-  mac-addresses:
+  id: 604b2354-86aa-4115-9de2-48eddfb2cec0
+  macAddresses:
   - 80:D4:33:00:00:00/24
   manufacturer: LzLabs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LzLabs
 type: d3-device-type-assertion

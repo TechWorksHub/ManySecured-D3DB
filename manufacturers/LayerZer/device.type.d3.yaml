@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96f0ad0e-84ad-4240-a16a-d29fa1537345
-  mac-addresses:
+  id: 0f7816b2-2d38-4217-ba29-60a36188968e
+  macAddresses:
   - 00:0B:1D:00:00:00/24
   manufacturer: LayerZero Power Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LayerZer
 type: d3-device-type-assertion

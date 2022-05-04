@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 126d6dc8-546d-49bd-ac1e-f22cf4bc9c2d
-  mac-addresses:
+  id: ad118e5b-2b8e-429f-91ba-26d4054404eb
+  macAddresses:
   - 00:50:C2:EC:00:00/36
   manufacturer: UgMO Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UgMOTech
 type: d3-device-type-assertion

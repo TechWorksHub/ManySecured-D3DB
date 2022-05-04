@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67ce872e-6b3e-47a6-8f03-d21e35304652
-  mac-addresses:
+  id: deb58616-306f-488d-b8c4-41353c788a7a
+  macAddresses:
   - 00:24:4F:00:00:00/24
   manufacturer: Asantron Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asantron
 type: d3-device-type-assertion

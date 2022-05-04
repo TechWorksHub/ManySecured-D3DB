@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 060be80c-1d9a-4d23-8922-576dac036e5a
-  mac-addresses:
+  id: 583fabde-b51f-4b02-b61e-500cd5b02fcd
+  macAddresses:
   - 00:0A:F6:00:00:00/24
   - 00:12:0A:00:00:00/24
   - 50:20:6B:00:00:00/24
   manufacturer: Emerson Climate Technologies Retail Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmersonC
 type: d3-device-type-assertion

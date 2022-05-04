@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f901e131-981d-4ce1-85a9-1464b5f54f17
-  mac-addresses:
+  id: 98da5909-e4b3-4df6-813a-b1446c05282e
+  macAddresses:
   - 50:6C:BE:00:00:00/24
   manufacturer: InnosiliconTechnology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innosili
 type: d3-device-type-assertion

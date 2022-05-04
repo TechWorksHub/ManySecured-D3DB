@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72137f54-ca34-4984-ba30-39d934be5e6b
-  mac-addresses:
+  id: e78a54db-8849-4061-86ba-cd6a65871b21
+  macAddresses:
   - BC:BB:C9:00:00:00/24
   manufacturer: Kellendonk Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kellendo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7848f85e-1516-424c-9685-e7d85e8b2de3
-  mac-addresses:
+  id: 83ec3d03-c43c-4fc8-8b42-4d0e1c1faea2
+  macAddresses:
   - 00:01:C5:00:00:00/24
   manufacturer: Simpler Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimplerN
 type: d3-device-type-assertion

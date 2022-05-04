@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9fc9979-771a-40ee-a219-fc32a7ae8bb6
-  mac-addresses:
+  id: 2a742a9d-fcf8-44bb-b87f-20172b54ddce
+  macAddresses:
   - 00:19:F3:00:00:00/24
   manufacturer: Cetis, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cetis
 type: d3-device-type-assertion

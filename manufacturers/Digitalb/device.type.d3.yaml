@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 495efde7-6ada-4e96-9c95-132678c9cf50
-  mac-addresses:
+  id: 81ba673a-7de2-487d-a0c8-af8896b2d605
+  macAddresses:
   - 00:24:DF:00:00:00/24
   manufacturer: Digitalbox Europe GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digitalb
 type: d3-device-type-assertion

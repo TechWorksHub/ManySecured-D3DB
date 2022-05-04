@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2f5eb3a-76cd-4e02-a37b-d5bccea8f1cd
-  mac-addresses:
+  id: d024e284-8087-4eb6-96df-f391a9dc1d95
+  macAddresses:
   - 00:50:C2:01:20:00/36
   manufacturer: Floware System Solutions Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlowareS
 type: d3-device-type-assertion

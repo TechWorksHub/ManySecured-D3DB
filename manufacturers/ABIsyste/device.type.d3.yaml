@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dddbaa45-9045-4bb3-9d2b-c704849c1ce0
-  mac-addresses:
+  id: 9438bb6d-4db6-44b2-a3b0-43e36a390edf
+  macAddresses:
   - A4:01:30:00:00:00/24
   manufacturer: ABIsystems Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABIsyste
 type: d3-device-type-assertion

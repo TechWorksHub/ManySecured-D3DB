@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e26d2e74-d544-437b-a112-b70eb6870122
-  mac-addresses:
+  id: 3b093195-a52a-475e-84ad-fef08f2ad0b6
+  macAddresses:
   - B8:0B:9D:00:00:00/24
   manufacturer: ROPEX Industrie-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ROPEXInd
 type: d3-device-type-assertion

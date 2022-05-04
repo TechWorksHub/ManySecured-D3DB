@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fed064b-6451-4058-8a88-2ec5bfd9bddd
-  mac-addresses:
+  id: 48f2a1ea-7050-43e8-bf5b-910199f80ef5
+  macAddresses:
   - C8:8E:D1:00:00:00/28
   manufacturer: Aisworld Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aisworld
 type: d3-device-type-assertion

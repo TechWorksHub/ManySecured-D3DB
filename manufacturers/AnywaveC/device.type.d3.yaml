@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65cf0439-55a5-4225-aa5f-f8ec406f5362
-  mac-addresses:
+  id: 84985d46-b17c-4eea-82f5-3924ab0ff388
+  macAddresses:
   - 94:40:A2:00:00:00/24
   manufacturer: Anywave Communication Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnywaveC
 type: d3-device-type-assertion

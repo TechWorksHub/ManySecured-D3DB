@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04fe618d-6529-4a52-83d6-f8fe5f50a77c
-  mac-addresses:
+  id: b30a46d1-55e8-4239-92f5-2eca37a2bd8e
+  macAddresses:
   - 30:1F:9A:40:00:00/28
   manufacturer: NCM Supplies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NCMSuppl
 type: d3-device-type-assertion

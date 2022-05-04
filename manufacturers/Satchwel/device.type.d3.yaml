@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 283017ce-a22b-47c3-b4c7-d25fe83fbda3
-  mac-addresses:
+  id: 05240062-267d-4af0-b9f7-0efdede05973
+  macAddresses:
   - 00:50:B4:00:00:00/24
   manufacturer: Satchwell Control Systems, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satchwel
 type: d3-device-type-assertion

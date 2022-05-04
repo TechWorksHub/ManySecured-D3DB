@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d13c622f-38a7-4a60-9958-1efcc8e1f32e
-  mac-addresses:
+  id: c2b52a7a-d902-4db3-93ed-b1e50e589427
+  macAddresses:
   - 00:D0:AF:00:00:00/24
   manufacturer: Cutler-Hammer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cutler-H
 type: d3-device-type-assertion

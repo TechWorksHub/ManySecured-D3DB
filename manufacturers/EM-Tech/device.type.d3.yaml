@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7c1b38b7-cf09-4014-937a-888a3b19576e
-  mac-addresses:
+  id: 11d611dd-d5c9-4a50-a21c-8f7eb0cc763b
+  macAddresses:
   - B0:C5:CA:00:00:00/28
   - BC:B2:2B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EM-Tech
 type: d3-device-type-assertion

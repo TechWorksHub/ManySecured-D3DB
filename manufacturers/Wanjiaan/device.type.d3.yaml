@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f21e18c-5a4b-4847-b2fc-8f4ef14287ce
-  mac-addresses:
+  id: a974277c-54c8-418a-bdc0-c7acb2044278
+  macAddresses:
   - F4:5B:73:00:00:00/24
   manufacturer: Wanjiaan Interconnected Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wanjiaan
 type: d3-device-type-assertion

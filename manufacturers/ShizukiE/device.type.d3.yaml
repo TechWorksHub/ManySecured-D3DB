@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37f20e7b-4aaf-465b-80b2-c4b77e5b4ce2
-  mac-addresses:
+  id: 5f64656e-5ba7-4b4e-9d1f-58aca1796ece
+  macAddresses:
   - 70:B3:D5:FE:60:00/36
   manufacturer: Shizuki Electric Co.,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShizukiE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b70a208-556c-494b-af24-ef3f7aa3b4bc
-  mac-addresses:
+  id: a4db9490-cc06-40c6-bb46-f47b1d2a48b1
+  macAddresses:
   - 00:50:C2:A8:10:00/36
   manufacturer: BPC circuits Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BPCcircu
 type: d3-device-type-assertion

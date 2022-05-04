@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9332fbde-de24-4844-aaf7-0cd2b908bbbf
-  mac-addresses:
+  id: 9347f19d-15c5-4f94-a301-d924b40a3961
+  macAddresses:
   - 00:30:E3:00:00:00/24
   manufacturer: Sedona Networks Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SedonaNe
 type: d3-device-type-assertion

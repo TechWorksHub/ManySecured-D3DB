@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2af3cad5-a07d-4ce5-ad28-4e96422a7c0e
-  mac-addresses:
+  id: e54896f6-a561-4aee-b5ca-ef38363134ff
+  macAddresses:
   - 0C:C9:C6:00:00:00/24
   manufacturer: Samwin Hong Kong Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamwinHo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d88a3b43-3b90-4883-bc44-0d5dcc3cd263
-  mac-addresses:
+  id: 836dab79-643f-4ad8-af02-5e268039bca7
+  macAddresses:
   - 00:0C:94:00:00:00/24
   manufacturer: United Electronic Industries, Inc. (EUI)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnitedEl
 type: d3-device-type-assertion

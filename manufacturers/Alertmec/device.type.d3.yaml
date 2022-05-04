@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80728d04-81fb-4913-aabd-d281fdeeb4e4
-  mac-addresses:
+  id: 1969e7fb-ed15-4acc-9ded-bb9a9c834fd6
+  macAddresses:
   - 00:1C:2B:00:00:00/24
   manufacturer: Alertme.com Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alertmec
 type: d3-device-type-assertion

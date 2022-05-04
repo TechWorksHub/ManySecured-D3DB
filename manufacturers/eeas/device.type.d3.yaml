@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaabb52a-bd3b-433b-85da-9fca248062fa
-  mac-addresses:
+  id: 489227fc-58d8-4d73-8bd9-4dbb408f1375
+  macAddresses:
   - 70:B3:D5:86:C0:00/36
   manufacturer: eeas gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eeas
 type: d3-device-type-assertion

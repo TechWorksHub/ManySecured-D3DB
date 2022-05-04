@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2d9d0336-3c8d-4e0e-accb-65c26556fb22
-  mac-addresses:
+  id: 522e9926-c033-4dbb-a327-7b116cfdef4e
+  macAddresses:
   - 00:50:C2:72:D0:00/36
   - D0:52:A8:00:00:00/24
   manufacturer: Physical Acoustics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Physical
 type: d3-device-type-assertion

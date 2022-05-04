@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4c9a155-7940-4b3f-b191-074ffe38dd37
-  mac-addresses:
+  id: 8212cbf1-4bfe-44ae-983e-6bb61d92eaab
+  macAddresses:
   - 00:21:75:00:00:00/24
   manufacturer: Pacific Satellite International Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacificS
 type: d3-device-type-assertion

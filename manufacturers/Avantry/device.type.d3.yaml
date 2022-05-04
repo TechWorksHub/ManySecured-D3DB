@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 981e44d7-e8c8-40e1-b279-fe1f93a5816d
-  mac-addresses:
+  id: 2e700752-99a7-41b0-a530-2466d679b544
+  macAddresses:
   - 00:50:C2:4D:80:00/36
   manufacturer: Avantry Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avantry
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48dba9b9-6b40-46c1-8e03-b5adda14a767
-  mac-addresses:
+  id: b74a0de1-7e19-443f-be71-e67852a42182
+  macAddresses:
   - 00:0E:55:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Auvitran
 type: d3-device-type-assertion

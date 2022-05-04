@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78c67e73-53c6-4006-a4f7-d387101d7739
-  mac-addresses:
+  id: eb18cb9e-afa4-4389-8988-aeaa92b16ca9
+  macAddresses:
   - 00:03:50:00:00:00/24
   manufacturer: Bticino Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bticino
 type: d3-device-type-assertion

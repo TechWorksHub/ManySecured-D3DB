@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 497c5990-c294-43c4-bad5-f805edafe82b
-  mac-addresses:
+  id: 8d1b0879-36bd-4b13-8b06-8f8829a1d1e3
+  macAddresses:
   - 00:04:3D:00:00:00/24
   manufacturer: Indel Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Indel
 type: d3-device-type-assertion

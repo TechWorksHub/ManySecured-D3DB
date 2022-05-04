@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4d67810-a296-42d1-a8d3-464d5ac15f77
-  mac-addresses:
+  id: 9b74b210-7c01-4ee8-a68c-a344aaf1d600
+  macAddresses:
   - CC:E8:AC:00:00:00/24
   manufacturer: SOYEA Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SOYEATec
 type: d3-device-type-assertion

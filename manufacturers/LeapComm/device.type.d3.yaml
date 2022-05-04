@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2809a226-9782-4db5-9460-9f76ad8b1c6d
-  mac-addresses:
+  id: 652a5f9d-c1c0-4e76-8ab5-6a92b4a2558b
+  macAddresses:
   - 00:12:57:00:00:00/24
   manufacturer: LeapComm Communication Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeapComm
 type: d3-device-type-assertion

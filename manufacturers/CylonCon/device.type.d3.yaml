@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52002be5-9df5-41ba-a7d3-afa5685bb3a6
-  mac-addresses:
+  id: 16ad2cda-48b5-4096-a86d-a4f966fd4586
+  macAddresses:
   - 00:0F:EB:00:00:00/24
   manufacturer: Cylon Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CylonCon
 type: d3-device-type-assertion

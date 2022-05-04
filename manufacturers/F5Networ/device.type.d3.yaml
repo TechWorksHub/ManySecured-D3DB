@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 74ccb82e-9532-4604-b156-466fecf44259
-  mac-addresses:
+  id: abcef768-6f02-4bbc-97fc-e25db81e86e6
+  macAddresses:
   - 00:01:D7:00:00:00/24
   - 00:0A:49:00:00:00/24
   - 00:23:E9:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - 14:A9:D0:00:00:00/24
   - F4:15:63:00:00:00/24
   manufacturer: F5 Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: F5Networ
 type: d3-device-type-assertion

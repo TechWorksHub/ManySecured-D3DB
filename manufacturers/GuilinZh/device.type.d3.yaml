@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32e3008e-ab4a-4d4a-be5e-ed618502315d
-  mac-addresses:
+  id: aaeb46fa-cb53-4ac9-9410-1763e2c355ff
+  macAddresses:
   - 6C:DF:FB:A0:00:00/28
   manufacturer: Guilin Zhishen Information TechonlogyCO.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GuilinZh
 type: d3-device-type-assertion

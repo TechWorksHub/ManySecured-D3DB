@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01ef2346-bdf2-4818-9653-935e2fdc9e6a
-  mac-addresses:
+  id: f970ef93-ced9-43ba-86c8-fbfc1ed14ddc
+  macAddresses:
   - B8:02:A4:00:00:00/24
   manufacturer: Aeonsemi, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aeonsemi
 type: d3-device-type-assertion

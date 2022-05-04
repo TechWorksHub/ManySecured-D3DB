@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1fae8d1-1aa2-4eb5-9722-4eb9f7383405
-  mac-addresses:
+  id: 85647f05-42f9-4ad1-9278-cc6490a8b558
+  macAddresses:
   - 6C:BF:B5:00:00:00/24
   manufacturer: Noon Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NoonTech
 type: d3-device-type-assertion

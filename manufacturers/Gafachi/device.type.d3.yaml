@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f183d40c-d274-4be4-8e2f-d2688d0a2add
-  mac-addresses:
+  id: c53fb505-06eb-4716-a1b8-26283168981a
+  macAddresses:
   - 60:3E:7B:00:00:00/24
   manufacturer: Gafachi, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gafachi
 type: d3-device-type-assertion

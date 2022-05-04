@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59f8f712-980e-4180-8e42-53726c94d0b3
-  mac-addresses:
+  id: 8937ca15-8d32-4af2-9643-2febcd8430f8
+  macAddresses:
   - F8:B5:68:30:00:00/28
   manufacturer: Dongwoo Engineering Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DongwooE
 type: d3-device-type-assertion

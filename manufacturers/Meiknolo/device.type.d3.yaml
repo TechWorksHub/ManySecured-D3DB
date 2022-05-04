@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ffa6de6-b831-4d66-b249-ae5a7968b438
-  mac-addresses:
+  id: 6034b575-a1d3-4a3b-8249-a22f8395cf62
+  macAddresses:
   - 70:B3:D5:2E:30:00/36
   manufacturer: Meiknologic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meiknolo
 type: d3-device-type-assertion

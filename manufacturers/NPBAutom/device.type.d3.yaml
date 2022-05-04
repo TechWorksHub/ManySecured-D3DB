@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55bece11-c1e3-4761-8d27-7f9b8fc4c17b
-  mac-addresses:
+  id: 018889e4-3f8c-431b-9232-3b4ddb00a692
+  macAddresses:
   - 40:D8:55:1C:00:00/36
   manufacturer: NPB Automation AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPBAutom
 type: d3-device-type-assertion

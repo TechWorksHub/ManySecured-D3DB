@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 05b99d30-44df-4926-9a48-22172ad21630
-  mac-addresses:
+  id: 6d161191-dc0a-4f9c-8f17-0404ab46fffe
+  macAddresses:
   - 40:D8:55:0C:90:00/36
   - 70:B3:D5:6E:B0:00/36
   manufacturer: Quantaflow
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quantafl
 type: d3-device-type-assertion

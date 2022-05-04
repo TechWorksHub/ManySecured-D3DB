@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39776439-cb3d-476a-9ba3-5113411b705b
-  mac-addresses:
+  id: 577e42e6-a876-4148-a0d4-d00780e6ceb1
+  macAddresses:
   - 94:D2:99:00:00:00/24
   manufacturer: Techmation Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techmati
 type: d3-device-type-assertion

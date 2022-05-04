@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0884f0c0-30b5-4937-8bd5-09dd45503868
-  mac-addresses:
+  id: c7ce1ae2-0e27-4f24-ba27-0d718883320b
+  macAddresses:
   - AC:E4:2E:00:00:00/24
   manufacturer: SK hynix
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKhynix
 type: d3-device-type-assertion

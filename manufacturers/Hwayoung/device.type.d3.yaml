@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ed458ed-0c61-49d7-be05-a8092837f49b
-  mac-addresses:
+  id: 2b9999e2-7242-4a18-bf83-0a295e37d0ef
+  macAddresses:
   - 00:50:C2:4F:C0:00/36
   manufacturer: Hwayoung RF Solution Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hwayoung
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c3ed4219-5595-4ead-bf7e-5ebbe841d81d
-  mac-addresses:
+  id: 41a23511-1716-47f9-b76d-a38a5a7083bd
+  macAddresses:
   - 00:D0:D0:00:00:00/24
   - 28:52:F9:00:00:00/24
   manufacturer: Zhongxing Telecom Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zhongxin
 type: d3-device-type-assertion

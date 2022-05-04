@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f295f23-2847-4398-8775-10a6ad52d851
-  mac-addresses:
+  id: c62cac17-b258-4bf9-be8c-7d08309f8f94
+  macAddresses:
   - 00:00:E9:00:00:00/24
   manufacturer: Isicad, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Isicad
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8278add-4002-483a-b514-8348f5b3e716
-  mac-addresses:
+  id: 60421ba2-df4e-42f2-b255-104b13d84862
+  macAddresses:
   - 04:C9:91:00:00:00/24
   manufacturer: Phistek INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phistek
 type: d3-device-type-assertion

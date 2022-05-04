@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de2e6e8f-d3b2-4fc7-913d-948767e62503
-  mac-addresses:
+  id: 3f2e7638-35c7-41ea-84cf-e81da9ec91e8
+  macAddresses:
   - 70:B3:D5:12:C0:00/36
   manufacturer: Cielle S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cielle
 type: d3-device-type-assertion

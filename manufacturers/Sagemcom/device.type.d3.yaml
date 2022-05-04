@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 572cea7f-38c1-43ac-bff0-ee41f938da17
-  mac-addresses:
+  id: 7827532f-005d-44dc-88e3-6f76867ff1e5
+  macAddresses:
   - 00:0E:59:00:00:00/24
   - 00:15:56:00:00:00/24
   - 00:19:4B:00:00:00/24
@@ -136,6 +136,6 @@ credentialSubject:
   - F8:08:4F:00:00:00/24
   - F8:AB:05:00:00:00/24
   manufacturer: Sagemcom Broadband SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sagemcom
 type: d3-device-type-assertion

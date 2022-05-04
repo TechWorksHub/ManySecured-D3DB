@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5382a566-5a09-4c24-81fd-5ce94dc8ce93
-  mac-addresses:
+  id: 4e8a376c-6777-4c91-9bc0-2ac7dd5c39e9
+  macAddresses:
   - CC:FC:6D:00:00:00/24
   manufacturer: Riz Transmitters
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RizTrans
 type: d3-device-type-assertion

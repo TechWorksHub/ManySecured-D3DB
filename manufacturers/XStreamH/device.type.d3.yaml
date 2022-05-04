@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f35a4fb-d379-4053-9288-960cfce5538d
-  mac-addresses:
+  id: f8e90044-1ab2-4d33-9144-3b6919ef04f9
+  macAddresses:
   - 00:18:2E:00:00:00/24
   manufacturer: XStreamHD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XStreamH
 type: d3-device-type-assertion

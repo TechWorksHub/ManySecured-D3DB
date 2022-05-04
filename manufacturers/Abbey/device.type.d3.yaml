@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 943cc2d2-c23e-4428-8964-b27f2120256b
-  mac-addresses:
+  id: c5391134-11c5-4310-a7ea-a7253571c153
+  macAddresses:
   - 00:12:E9:00:00:00/24
   manufacturer: Abbey Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abbey
 type: d3-device-type-assertion

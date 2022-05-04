@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b771455f-a471-4141-8b4c-3add658e4661
-  mac-addresses:
+  id: 1e356a53-2ba5-48c4-a68a-7a5735161d0f
+  macAddresses:
   - 70:B3:D5:2F:C0:00/36
   manufacturer: Loanguard T/A SE Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Loanguar
 type: d3-device-type-assertion

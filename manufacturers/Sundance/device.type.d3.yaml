@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86954ea8-91f4-4f06-ad50-07a829c810a2
-  mac-addresses:
+  id: a718e4b5-0e2e-4386-9c4c-116672c95655
+  macAddresses:
   - 00:10:ED:00:00:00/24
   manufacturer: Sundance Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sundance
 type: d3-device-type-assertion

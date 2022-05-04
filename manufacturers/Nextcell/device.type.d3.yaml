@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec0a3d6d-31a4-403c-aa02-dfa15b489bb8
-  mac-addresses:
+  id: 6b459cb7-a405-4c44-9879-ea6b6b35ad58
+  macAddresses:
   - 00:B0:DB:00:00:00/24
   manufacturer: Nextcell, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nextcell
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb2aac16-c3a6-462f-acaf-874b98985259
-  mac-addresses:
+  id: c38cc9ed-320c-4115-b3af-9a5e9e423962
+  macAddresses:
   - F4:FD:2B:00:00:00/24
   manufacturer: ZOYI Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZOYI
 type: d3-device-type-assertion

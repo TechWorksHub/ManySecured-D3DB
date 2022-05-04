@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50644db5-03a6-41cf-98fa-775af5879f7f
-  mac-addresses:
+  id: db83883b-377a-4b11-ab7c-f6a852177714
+  macAddresses:
   - 00:08:1C:00:00:00/24
   manufacturer: '@pos.com'
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: '@poscom'
 type: d3-device-type-assertion

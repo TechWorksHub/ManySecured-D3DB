@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10de1c20-e57b-4e70-bf3e-70163b821f71
-  mac-addresses:
+  id: 75181fdf-da4f-4252-a6ab-1f5bf04bb579
+  macAddresses:
   - 70:B3:D5:36:10:00/36
   manufacturer: Parent Power
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParentPo
 type: d3-device-type-assertion

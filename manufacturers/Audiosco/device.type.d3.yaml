@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 606685f7-abc5-4174-8de9-863fc3aac380
-  mac-addresses:
+  id: 49e8f8b3-b83b-4fe1-b087-011fe7a3d6f0
+  macAddresses:
   - 00:50:C2:B9:F0:00/36
   manufacturer: Audioscope 2K Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audiosco
 type: d3-device-type-assertion

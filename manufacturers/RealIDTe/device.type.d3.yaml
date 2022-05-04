@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a4ff928-3d5e-4a76-b40c-514d9ccdfba6
-  mac-addresses:
+  id: 6ea8060d-bfaf-4956-9073-2c6e89f9c5e0
+  macAddresses:
   - 00:0F:0F:00:00:00/24
   manufacturer: Real ID Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealIDTe
 type: d3-device-type-assertion

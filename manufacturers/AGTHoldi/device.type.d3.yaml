@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92dbc640-cb42-4abf-8910-c6c01c4612dc
-  mac-addresses:
+  id: f4846431-2119-458c-b15a-2ed117376178
+  macAddresses:
   - 00:50:C2:DC:70:00/36
   manufacturer: AGT Holdings Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AGTHoldi
 type: d3-device-type-assertion

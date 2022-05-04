@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d55bdac-85e4-4464-bbcf-2cc7dedea3a9
-  mac-addresses:
+  id: eae75dc1-8880-419c-b0ce-9bf7b7eb2d49
+  macAddresses:
   - 44:18:47:00:00:00/24
   manufacturer: Hunan Scrown Electronic Information Tech.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HunanScr
 type: d3-device-type-assertion

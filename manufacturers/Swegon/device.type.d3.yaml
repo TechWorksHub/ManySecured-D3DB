@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cff923c-6cd8-4b80-854b-cfd16cb168fe
-  mac-addresses:
+  id: fcfb0c8e-284c-4737-8f01-3d0ee6fb91de
+  macAddresses:
   - 00:12:7C:00:00:00/24
   manufacturer: Swegon Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swegon
 type: d3-device-type-assertion

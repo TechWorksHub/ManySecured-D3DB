@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3a67b23-06da-4aa0-946d-b8da5827e07d
-  mac-addresses:
+  id: d5ffc717-ce59-43fb-8bce-3a2ba64ba7c3
+  macAddresses:
   - 00:30:AC:00:00:00/24
   manufacturer: Systeme Lauer GmbH & Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SystemeL
 type: d3-device-type-assertion

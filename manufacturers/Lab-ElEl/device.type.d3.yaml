@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 596aa85f-7755-4165-8af4-3e82fefde571
-  mac-addresses:
+  id: 987a2bae-5118-49b6-bb86-405936c469a4
+  macAddresses:
   - 00:50:C2:56:E0:00/36
   manufacturer: Lab-El Elektronika Laboratoryjna S.J.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lab-ElEl
 type: d3-device-type-assertion

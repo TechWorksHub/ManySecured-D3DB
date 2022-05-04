@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22ea7a6a-b465-4588-870c-a79c037ce674
-  mac-addresses:
+  id: 9825a12f-c537-4cf8-9e76-75b5b2292aa3
+  macAddresses:
   - 00:0F:ED:00:00:00/24
   manufacturer: Anam Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnamElec
 type: d3-device-type-assertion

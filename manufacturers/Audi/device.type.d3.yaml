@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 521ba2dc-4328-48dd-95cb-bb77a5459cd9
-  mac-addresses:
+  id: 42aa5a48-1aa3-4c0e-81dd-f9943294eaff
+  macAddresses:
   - 70:B3:D5:01:B0:00/36
   manufacturer: Audi Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audi
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0aac939d-bd54-4cba-927c-965a90a592a7
-  mac-addresses:
+  id: df82f177-5cea-4ac4-8f0b-62e7f45b110b
+  macAddresses:
   - 00:50:C2:89:D0:00/36
   - 00:50:C2:BB:A0:00/36
   manufacturer: Systemtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Systemte
 type: d3-device-type-assertion

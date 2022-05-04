@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf097ca8-e231-4ad8-92a1-ddbbf24579a3
-  mac-addresses:
+  id: 6b389c5a-ff2a-4577-b64a-e1749e6ef550
+  macAddresses:
   - 70:B3:D5:15:F0:00/36
   manufacturer: "Savroni\u0307k Elektroni\u0307k"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Savroni\u0307"
 type: d3-device-type-assertion

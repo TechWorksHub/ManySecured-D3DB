@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0efc42c1-8917-484b-b877-0f910b93ff00
-  mac-addresses:
+  id: d7349993-e250-4ba1-82f2-50c45af204e3
+  macAddresses:
   - 00:15:BA:00:00:00/24
   manufacturer: iba AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iba
 type: d3-device-type-assertion

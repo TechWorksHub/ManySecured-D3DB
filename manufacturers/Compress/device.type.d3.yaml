@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42ed32c0-ee3d-4bb8-8709-fe90fa0d9690
-  mac-addresses:
+  id: ab6236b0-4af0-4df4-a8b5-e22aa4cdb563
+  macAddresses:
   - DC:A7:D9:00:00:00/24
   manufacturer: Compressor Controls Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compress
 type: d3-device-type-assertion

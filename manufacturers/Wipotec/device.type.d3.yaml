@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f44f0bcf-f788-4bae-af0b-8919db80e67b
-  mac-addresses:
+  id: f1f2f68d-43b3-4509-ae18-d026a3bcda0e
+  macAddresses:
   - 00:08:7A:00:00:00/24
   manufacturer: Wipotec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wipotec
 type: d3-device-type-assertion

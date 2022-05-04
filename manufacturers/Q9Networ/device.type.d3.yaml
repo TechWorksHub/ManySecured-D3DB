@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9d35786-ca1e-41b0-8168-a90a4af6d0c2
-  mac-addresses:
+  id: dda20a56-a54e-46f8-85d5-32037a36ef31
+  macAddresses:
   - 78:98:FD:00:00:00/24
   manufacturer: Q9 Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Q9Networ
 type: d3-device-type-assertion

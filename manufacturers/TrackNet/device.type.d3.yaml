@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90af65c9-2f57-4f31-a936-61a0df6f9ddb
-  mac-addresses:
+  id: 6c67930c-17ac-44c6-9334-26e7aef455d3
+  macAddresses:
   - 58:A0:CB:00:00:00/24
   manufacturer: TrackNet, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrackNet
 type: d3-device-type-assertion

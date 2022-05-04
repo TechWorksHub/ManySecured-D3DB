@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d178c7d8-4b26-4d8b-b1cf-93017a817f0d
-  mac-addresses:
+  id: 18efd23b-3abb-46b5-abd6-69a1c8b0c923
+  macAddresses:
   - 70:B3:D5:0C:F0:00/36
   manufacturer: sohonet ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: sohonet
 type: d3-device-type-assertion

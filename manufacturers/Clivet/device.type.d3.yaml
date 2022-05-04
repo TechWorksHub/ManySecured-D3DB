@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bed84839-d405-46fd-92cd-d552316088fc
-  mac-addresses:
+  id: 287cd041-5d20-4881-9eb6-60dc4aebaa31
+  macAddresses:
   - 00:15:DF:00:00:00/24
   manufacturer: Clivet S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Clivet
 type: d3-device-type-assertion

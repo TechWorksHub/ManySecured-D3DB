@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba2053aa-a55a-47e9-8c48-2830b2a2330e
-  mac-addresses:
+  id: 6f3bc84d-afc3-4afb-bff8-c44d4bd1eca4
+  macAddresses:
   - 70:B3:D5:CB:90:00/36
   manufacturer: "Jsc \xABSatis-Tl-94\xBB"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "\xABSatis-T"
 type: d3-device-type-assertion

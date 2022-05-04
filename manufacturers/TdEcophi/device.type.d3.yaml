@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5673234-1273-48fc-9b15-701eb1d119bf
-  mac-addresses:
+  id: ce1ce812-d40d-4822-98e9-5e6bcde38b42
+  macAddresses:
   - 70:B3:D5:27:A0:00/36
   manufacturer: Td Ecophisika
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TdEcophi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7467e95-8bd3-487c-83eb-3bc37ce81b4e
-  mac-addresses:
+  id: bc22031a-dd3b-4ebf-853a-1a7d2ea23bf7
+  macAddresses:
   - 00:19:F7:00:00:00/24
   manufacturer: Onset Computer Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnsetCom
 type: d3-device-type-assertion

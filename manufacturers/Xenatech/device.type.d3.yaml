@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad740490-7162-4070-9f21-a5c18a8a1564
-  mac-addresses:
+  id: 3e0897e2-1ded-4e13-9fd2-013891fe1f8d
+  macAddresses:
   - 00:1F:BB:00:00:00/24
   manufacturer: Xenatech Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xenatech
 type: d3-device-type-assertion

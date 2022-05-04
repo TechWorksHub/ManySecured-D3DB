@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a925f73-1097-4830-a8d5-e162881a61b7
-  mac-addresses:
+  id: 9c66e098-401e-4b57-a533-b6310dd511a5
+  macAddresses:
   - 00:1D:11:00:00:00/24
   manufacturer: Analogue & Micro Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Analogue
 type: d3-device-type-assertion

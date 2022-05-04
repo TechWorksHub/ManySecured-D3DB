@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9cacfd99-7f51-4c36-9014-cb2c8ca37d73
-  mac-addresses:
+  id: ff40d4d7-fe91-481d-87a1-125f4354b00b
+  macAddresses:
   - 78:CA:83:D0:00:00/28
   manufacturer: Hubei Boyuan Zhijia Network Media Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HubeiBoy
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79c3c235-3831-4d59-928e-6a7b7308e614
-  mac-addresses:
+  id: a98365ac-656c-4f78-aa95-6119ea128502
+  macAddresses:
   - A8:CE:90:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cvc
 type: d3-device-type-assertion

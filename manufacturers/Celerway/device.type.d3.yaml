@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ba759a1-d1bf-4382-8e1f-d92c2159e8cc
-  mac-addresses:
+  id: 38ccdec0-2b25-4d1b-8068-0da53ef7a9c5
+  macAddresses:
   - 0C:FE:5D:90:00:00/28
   manufacturer: Celerway Communication AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Celerway
 type: d3-device-type-assertion

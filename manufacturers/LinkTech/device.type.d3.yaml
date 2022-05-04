@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55a86794-ab28-43eb-beaf-b0c58a50a91d
-  mac-addresses:
+  id: 5650a2cb-3c56-4ade-8679-0fa12118c090
+  macAddresses:
   - 00:50:C2:98:E0:00/36
   manufacturer: Link Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkTech
 type: d3-device-type-assertion

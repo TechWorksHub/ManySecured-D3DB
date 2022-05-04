@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d51565c-508c-49e9-b7b8-d043b9fd4afd
-  mac-addresses:
+  id: daf07184-9113-49fc-bdb2-946f416c61e6
+  macAddresses:
   - 88:A9:A7:C0:00:00/28
   manufacturer: AndroVideo Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndroVid
 type: d3-device-type-assertion

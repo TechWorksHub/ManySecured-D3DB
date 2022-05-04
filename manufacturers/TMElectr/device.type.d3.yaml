@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c30a73c-f43a-4588-8d94-85fe32e238e2
-  mac-addresses:
+  id: 7630e64f-388c-49c2-8d72-5968046f2681
+  macAddresses:
   - 00:26:39:00:00:00/24
   manufacturer: T.M. Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TMElectr
 type: d3-device-type-assertion

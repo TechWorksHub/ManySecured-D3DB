@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c54466ab-8598-4134-94c3-0ea7537ba533
-  mac-addresses:
+  id: 5b339b0c-ac27-49d5-82a8-5a64b2518bd0
+  macAddresses:
   - 00:10:48:00:00:00/24
   manufacturer: Htrc Automation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HtrcAuto
 type: d3-device-type-assertion

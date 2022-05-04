@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b8c5e5e-dde5-4fe1-a660-9ea6f11724b9
-  mac-addresses:
+  id: 87e79586-baa5-40b5-8af3-6058be69b800
+  macAddresses:
   - A8:EF:26:00:00:00/24
   manufacturer: Tritonwave
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tritonwa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25ad3419-c4a9-44a0-8cbf-d72e754c15b9
-  mac-addresses:
+  id: a526ebaa-4d00-4878-93bf-1166e877f6ef
+  macAddresses:
   - 00:50:C2:D5:40:00/36
   manufacturer: ABtrack s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABtrack
 type: d3-device-type-assertion

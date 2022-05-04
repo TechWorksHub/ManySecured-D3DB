@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2db593d-28a5-48da-b35f-54f0af09e465
-  mac-addresses:
+  id: 223ce5d7-ab3b-47e0-8082-466f45d6c6e5
+  macAddresses:
   - B8:D8:12:10:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Votem
 type: d3-device-type-assertion

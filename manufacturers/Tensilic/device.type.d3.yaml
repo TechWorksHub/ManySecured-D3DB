@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49de4ff2-a356-4bdf-8988-7b3b39d232ea
-  mac-addresses:
+  id: 5c280871-a512-4e98-9fd0-bf82b8b62c8a
+  macAddresses:
   - 00:50:C2:13:60:00/36
   manufacturer: Tensilica, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tensilic
 type: d3-device-type-assertion

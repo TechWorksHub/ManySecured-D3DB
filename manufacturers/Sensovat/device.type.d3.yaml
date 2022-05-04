@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99528fbe-acd2-443b-af04-c87603f42c07
-  mac-addresses:
+  id: 15ea0f22-1a18-41b0-abd6-f9a699583f62
+  macAddresses:
   - 00:14:3B:00:00:00/24
   manufacturer: Sensovation AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sensovat
 type: d3-device-type-assertion

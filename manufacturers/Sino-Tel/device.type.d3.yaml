@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4af2619-2e8c-4365-b9ef-35e003cbed77
-  mac-addresses:
+  id: 45471efd-a503-489f-8c3b-46e73ac93289
+  macAddresses:
   - 60:E6:BC:00:00:00/24
   manufacturer: Sino-Telecom Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sino-Tel
 type: d3-device-type-assertion

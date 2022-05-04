@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 360e3195-48a9-429a-8cc3-f522ee179c18
-  mac-addresses:
+  id: 8385d725-2246-4a1b-be2a-ec08f89b022c
+  macAddresses:
   - 00:1E:29:00:00:00/24
   manufacturer: Hypertherm Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hyperthe
 type: d3-device-type-assertion

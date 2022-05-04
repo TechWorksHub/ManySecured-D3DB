@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74555647-af90-4efe-ae53-ba37e1137950
-  mac-addresses:
+  id: e3e5de84-91f9-418a-8f7e-6734478f9f84
+  macAddresses:
   - 38:0E:7B:00:00:00/24
   manufacturer: V.P.S. Thai Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VPSThai
 type: d3-device-type-assertion

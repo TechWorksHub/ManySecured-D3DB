@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f3a5bca-d3fa-454a-b64b-6ab3665b327c
-  mac-addresses:
+  id: 604ad8bb-0a87-4767-8416-6dda1a21659a
+  macAddresses:
   - 00:50:C2:9A:00:00/36
   manufacturer: Trs Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trs
 type: d3-device-type-assertion

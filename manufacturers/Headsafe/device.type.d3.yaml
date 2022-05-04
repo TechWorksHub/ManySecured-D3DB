@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a1ba7f7-d8b6-487a-8593-e25bd81ea838
-  mac-addresses:
+  id: ec90f4a5-b756-46ff-94bf-16d48ff6a17d
+  macAddresses:
   - 70:B3:D5:80:00:00/36
   manufacturer: HeadsafeIP PTY LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Headsafe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 626c2a7d-34fe-4f3d-bfcc-bfece7410623
-  mac-addresses:
+  id: 027c363a-fd1c-48b2-9f8e-a956b7412bbb
+  macAddresses:
   - 88:E9:17:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tamaggo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df896461-0fa9-4a61-8f8e-988768f34c5e
-  mac-addresses:
+  id: cb450e70-6f9e-4900-840e-e01887992703
+  macAddresses:
   - E8:2E:24:00:00:00/24
   manufacturer: Out of the Fog Research LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OutFogRe
 type: d3-device-type-assertion

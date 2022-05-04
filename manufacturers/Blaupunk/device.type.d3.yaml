@@ -1,8 +1,8 @@
 credentialSubject:
-  id: edac9135-ed7f-4f82-8d82-405ca25ae207
-  mac-addresses:
+  id: 8edfc6b2-0d95-4fe0-b096-9db6c5ce623a
+  macAddresses:
   - 00:19:61:00:00:00/24
   manufacturer: Blaupunkt Embedded Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blaupunk
 type: d3-device-type-assertion

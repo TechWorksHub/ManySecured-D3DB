@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df4edac0-097e-4f47-af01-975f717b8135
-  mac-addresses:
+  id: dfa7ddd2-6793-45ce-97ec-1eb9fd5e64c4
+  macAddresses:
   - 00:50:C2:C1:10:00/36
   manufacturer: ART Antriebs- und Regeltechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARTAntri
 type: d3-device-type-assertion

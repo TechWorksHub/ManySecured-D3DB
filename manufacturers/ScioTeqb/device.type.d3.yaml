@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7da4085-32b8-4120-a71e-622d6a08864a
-  mac-addresses:
+  id: 5c5a7044-fb6b-4203-bfe0-93d5a951ea57
+  macAddresses:
   - A8:A0:97:00:00:00/24
   manufacturer: ScioTeq bvba
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScioTeqb
 type: d3-device-type-assertion

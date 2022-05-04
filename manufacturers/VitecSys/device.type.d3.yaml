@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ea45355e-b837-4f36-b491-ca90f8db327a
-  mac-addresses:
+  id: 0cfafc62-2765-4d9d-b451-6d091273815d
+  macAddresses:
   - 70:B3:D5:79:90:00/36
   - 88:01:F2:00:00:00/24
   manufacturer: Vitec System Engineering Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VitecSys
 type: d3-device-type-assertion

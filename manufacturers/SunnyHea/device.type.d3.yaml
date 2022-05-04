@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2200caea-dc79-42c1-813b-38580e6d83fa
-  mac-addresses:
+  id: b5f383ec-b75b-40ad-8554-f215666a41dd
+  macAddresses:
   - DC:D5:2A:00:00:00/24
   manufacturer: Sunny Heart Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunnyHea
 type: d3-device-type-assertion

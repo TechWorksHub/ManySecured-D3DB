@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c462c0a-6f43-4e41-9b14-10322d4ba326
-  mac-addresses:
+  id: b557dec0-150e-4e2e-8320-a3cc2700d872
+  macAddresses:
   - 00:14:88:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Akorri
 type: d3-device-type-assertion

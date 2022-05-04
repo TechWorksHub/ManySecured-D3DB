@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23b65953-677c-4587-91f1-6960915cfc1b
-  mac-addresses:
+  id: dddf7158-ba7c-4f14-b61a-d14d7a6632dd
+  macAddresses:
   - 00:A0:D7:00:00:00/24
   manufacturer: Kasten Chase Applied Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KastenCh
 type: d3-device-type-assertion

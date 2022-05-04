@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1fd280b-4739-4d5c-94bb-9888b32b1ae4
-  mac-addresses:
+  id: 152f3a9a-ce0a-40ef-ba00-cd42d7c8b071
+  macAddresses:
   - 00:50:C2:B9:60:00/36
   manufacturer: Onix Electronic Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnixElec
 type: d3-device-type-assertion

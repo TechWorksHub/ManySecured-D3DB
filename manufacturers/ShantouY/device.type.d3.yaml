@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32d7e953-a5e7-40d8-975c-c9a71b9af4fb
-  mac-addresses:
+  id: 182ad6d6-19d0-41e2-94f1-00e396ff2216
+  macAddresses:
   - 04:C3:E6:C0:00:00/28
   manufacturer: Shantou Yingsheng Import & Export Trading Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShantouY
 type: d3-device-type-assertion

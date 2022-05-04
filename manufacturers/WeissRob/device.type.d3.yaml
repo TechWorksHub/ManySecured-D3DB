@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7c5fe68-c5f3-4821-913c-a3f2980f5c64
-  mac-addresses:
+  id: 117f3810-4479-4aec-8b5e-8970f640f171
+  macAddresses:
   - 00:50:C2:CF:20:00/36
   manufacturer: Weiss Robotics GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeissRob
 type: d3-device-type-assertion

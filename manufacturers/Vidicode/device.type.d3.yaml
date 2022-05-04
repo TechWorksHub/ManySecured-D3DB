@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d14456e9-a567-472f-929f-fea288734ad6
-  mac-addresses:
+  id: df057a88-12ee-4a45-860c-8aa752b55da3
+  macAddresses:
   - 00:03:49:00:00:00/24
   manufacturer: Vidicode Datacommunicatie B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vidicode
 type: d3-device-type-assertion

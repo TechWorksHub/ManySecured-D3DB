@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5929f632-c7a2-4aa8-ab91-97be27659922
-  mac-addresses:
+  id: 020154f3-6fb3-4c19-be7e-48dd4a36c8bb
+  macAddresses:
   - F8:8C:1C:00:00:00/24
   manufacturer: Kaishun Electronic Technology Co., Ltd. Beijing
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KaishunE
 type: d3-device-type-assertion

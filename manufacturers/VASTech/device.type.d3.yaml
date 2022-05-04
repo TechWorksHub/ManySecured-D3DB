@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53d8213e-2e36-41c0-a81f-23125f2914a0
-  mac-addresses:
+  id: d8d04eb2-c096-47e2-bd80-782ec999e8fd
+  macAddresses:
   - 00:50:C2:52:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VASTech
 type: d3-device-type-assertion

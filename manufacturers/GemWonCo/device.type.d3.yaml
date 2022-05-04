@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1a1553f-cad5-4371-9e5f-999d2621c9e2
-  mac-addresses:
+  id: fa65c72c-ddca-42e8-b06d-74023f493897
+  macAddresses:
   - 00:0E:7A:00:00:00/24
   manufacturer: GemWon Communications Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GemWonCo
 type: d3-device-type-assertion

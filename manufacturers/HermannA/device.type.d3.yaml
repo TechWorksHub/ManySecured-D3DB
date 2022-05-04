@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36bae92f-07ef-40ee-942a-dd9c7ee4d12c
-  mac-addresses:
+  id: faa4f269-e23f-414d-be4b-b58a7963ba2c
+  macAddresses:
   - 70:B3:D5:B2:F0:00/36
   manufacturer: Hermann Automation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HermannA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45ef0727-cccb-4c57-8a06-0bfa0b992de3
-  mac-addresses:
+  id: 7c335bca-a05d-4ec6-b786-6ce52cc195c4
+  macAddresses:
   - 50:2A:8B:00:00:00/24
   manufacturer: Telekom Research and Development Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelekomR
 type: d3-device-type-assertion

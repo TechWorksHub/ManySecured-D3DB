@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10520b13-3f82-4c89-adb8-f7f45c2b510d
-  mac-addresses:
+  id: 1d5ad32d-d2ea-4d95-b516-7c70ba4e017a
+  macAddresses:
   - 00:04:A7:00:00:00/24
   manufacturer: FabiaTech Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FabiaTec
 type: d3-device-type-assertion

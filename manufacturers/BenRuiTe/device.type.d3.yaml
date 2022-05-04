@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e22bce25-b881-482a-80ce-57410a37d2b4
-  mac-addresses:
+  id: eec0fad0-423b-4789-a9ba-5c06120c21af
+  macAddresses:
   - B8:A3:E0:00:00:00/24
   manufacturer: BenRui Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BenRuiTe
 type: d3-device-type-assertion

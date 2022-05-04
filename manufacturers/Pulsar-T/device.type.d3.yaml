@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31e2091e-132c-4904-9630-e3fea5053e47
-  mac-addresses:
+  id: 4f7ecbb3-eb73-40e5-ae50-587e15ef7f18
+  macAddresses:
   - 00:18:45:00:00:00/24
   manufacturer: Pulsar-Telecom LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pulsar-T
 type: d3-device-type-assertion

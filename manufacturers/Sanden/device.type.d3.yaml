@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 064d4435-62d2-4c5e-a807-737eec3e8c72
-  mac-addresses:
+  id: c720b7a0-0655-4043-974c-14f80efc38ea
+  macAddresses:
   - 00:0D:25:00:00:00/24
   manufacturer: Sanden Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sanden
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6044f210-9055-41a2-93ad-c9f93b0e9905
-  mac-addresses:
+  id: 7dbcf427-1580-4c49-b0ff-23b0f20fa0af
+  macAddresses:
   - 28:F5:37:00:00:00/28
   manufacturer: Valeo Siemens eAutomotive Norway
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValeoSie
 type: d3-device-type-assertion

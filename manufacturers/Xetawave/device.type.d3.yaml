@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f772cd5-11bf-42f0-a345-8b935d49b0bf
-  mac-addresses:
+  id: 55e0515e-35d8-41f1-8c83-282e9f20bbf6
+  macAddresses:
   - 70:F1:E5:00:00:00/24
   manufacturer: Xetawave LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xetawave
 type: d3-device-type-assertion

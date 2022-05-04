@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a7fd85b-8ba5-4010-bcb8-54a07644aed8
-  mac-addresses:
+  id: ca5471d5-169a-4a00-aca3-93fd2de47d87
+  macAddresses:
   - 98:AA:3C:00:00:00/24
   manufacturer: Will i-tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Willi-te
 type: d3-device-type-assertion

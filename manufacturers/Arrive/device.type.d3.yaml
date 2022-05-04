@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35aa93e2-f515-41d2-8821-862402bfccb9
-  mac-addresses:
+  id: b67353ef-2c9a-4d44-993c-f9ccee42836e
+  macAddresses:
   - 74:4D:79:00:00:00/24
   manufacturer: Arrive Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arrive
 type: d3-device-type-assertion

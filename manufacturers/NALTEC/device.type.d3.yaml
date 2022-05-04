@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb4bf4bc-34e0-4b6e-a337-e3e482e0fad6
-  mac-addresses:
+  id: 48d21305-35ca-47a9-b2f1-e43a7087a907
+  macAddresses:
   - 00:50:AB:00:00:00/24
   manufacturer: NALTEC, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NALTEC
 type: d3-device-type-assertion

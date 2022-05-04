@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6496941-4324-4f9d-a3ac-bb2daa35660d
-  mac-addresses:
+  id: be9ea417-513d-48e9-98cc-5c6d5372a3e5
+  macAddresses:
   - DC:4A:9E:80:00:00/28
   manufacturer: Methodex Systems Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Methodex
 type: d3-device-type-assertion

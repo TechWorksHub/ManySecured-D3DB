@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0a11882-91ff-4a86-ac10-9538ea052656
-  mac-addresses:
+  id: 159d60e4-9b07-4e19-b766-17254765d5be
+  macAddresses:
   - 00:02:22:00:00:00/24
   manufacturer: Chromisys, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chromisy
 type: d3-device-type-assertion

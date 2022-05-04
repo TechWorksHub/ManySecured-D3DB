@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c24cdee8-da64-4b00-8f35-47f75942e90f
-  mac-addresses:
+  id: 513741cb-ec1c-406e-b851-25441486f448
+  macAddresses:
   - 00:1E:0A:00:00:00/24
   manufacturer: Syba Tech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SybaTech
 type: d3-device-type-assertion

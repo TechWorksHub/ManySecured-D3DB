@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7acae357-c81f-48f5-9657-95d69b772274
-  mac-addresses:
+  id: 8a955fc3-8f11-4315-9541-18b980c681f4
+  macAddresses:
   - 30:2B:DC:00:00:00/24
   manufacturer: Top-Unum Electronics Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Top-Unum
 type: d3-device-type-assertion

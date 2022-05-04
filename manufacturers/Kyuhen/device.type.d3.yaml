@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de17c34e-4234-4b60-a212-b20e7997e342
-  mac-addresses:
+  id: 58c82c61-88b2-4a4e-966c-8413d1d65292
+  macAddresses:
   - 00:50:C2:C3:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kyuhen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9864ee5d-7c32-41c3-906b-82acaddac597
-  mac-addresses:
+  id: 0245cef2-52c0-4aeb-bde4-dd1cf4668528
+  macAddresses:
   - 00:11:7A:00:00:00/24
   manufacturer: Singim International Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SingimIn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42e89626-2c2c-475d-a905-2b945a2afd95
-  mac-addresses:
+  id: 6f65b366-347a-4aa7-a7c5-d93056933ae4
+  macAddresses:
   - 00:18:E5:00:00:00/24
   manufacturer: Adhoco AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adhoco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cb434da-6b3d-4b44-a066-5cafc45b0fea
-  mac-addresses:
+  id: 7987d283-70da-42d7-9176-ed3c3e2942f1
+  macAddresses:
   - 00:0B:CB:00:00:00/24
   manufacturer: Fagor Automation , S. Coop
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FagorAut
 type: d3-device-type-assertion

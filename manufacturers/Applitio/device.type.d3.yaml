@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ed82f90-c5df-4807-9053-162ed328e517
-  mac-addresses:
+  id: a4053e80-1d96-413d-9f5c-60485af2b002
+  macAddresses:
   - 00:22:E8:00:00:00/24
   manufacturer: Applition Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Applitio
 type: d3-device-type-assertion

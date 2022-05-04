@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 077ae51f-cc84-407c-810a-72f9703cec53
-  mac-addresses:
+  id: 7c81e1db-6b91-4c3d-8124-ba731a9624f1
+  macAddresses:
   - 70:B3:D5:63:E0:00/36
   manufacturer: Riken Optech Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RikenOpt
 type: d3-device-type-assertion

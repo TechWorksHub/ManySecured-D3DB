@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fe2596e-1233-47c9-b011-566d89b9fc94
-  mac-addresses:
+  id: 7ed27765-ca17-47bf-8436-bc0399a2e12f
+  macAddresses:
   - 5C:2E:D2:00:00:00/24
   manufacturer: ABC(XiSheng) Electronics Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABCXiShe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42dcf1da-20ae-4b84-8157-3034e37b62e8
-  mac-addresses:
+  id: cccc3303-1289-4862-9e43-eeec15a2a4c4
+  macAddresses:
   - 70:B3:D5:49:50:00/36
   manufacturer: Fiem Industries Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FiemIndu
 type: d3-device-type-assertion

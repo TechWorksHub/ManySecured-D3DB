@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46fbb3e1-4293-44f8-997d-370c3c93a227
-  mac-addresses:
+  id: ebfffa1f-99b4-4227-9f9a-0ceb6043e112
+  macAddresses:
   - 08:AC:C4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FMTech
 type: d3-device-type-assertion

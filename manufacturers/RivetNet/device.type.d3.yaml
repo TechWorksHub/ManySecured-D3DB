@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e0d7a20-78b7-411a-ad25-078589c240ff
-  mac-addresses:
+  id: 9452b329-a183-4efe-a862-77c4b28aef70
+  macAddresses:
   - 9C:B6:D0:00:00:00/24
   manufacturer: Rivet Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RivetNet
 type: d3-device-type-assertion

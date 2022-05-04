@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1491ac9-276b-420f-a1ac-d46a7a73e797
-  mac-addresses:
+  id: 8dd46351-8b2d-438b-b6f4-606147edb85b
+  macAddresses:
   - 00:27:11:00:00:00/24
   manufacturer: LanPro Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LanPro
 type: d3-device-type-assertion

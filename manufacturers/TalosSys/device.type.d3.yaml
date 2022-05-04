@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a6ad314-e7a3-4261-a49e-f41cccd5e9db
-  mac-addresses:
+  id: 08d67ff0-dfd7-44bd-9d4a-ae77a2b0c9ab
+  macAddresses:
   - 00:17:FE:00:00:00/24
   manufacturer: Talos System Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TalosSys
 type: d3-device-type-assertion

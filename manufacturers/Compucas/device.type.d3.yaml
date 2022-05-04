@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc18f7ec-6d99-4687-9520-231ae2ed047d
-  mac-addresses:
+  id: a45e1895-79e0-4845-884a-61652989ee46
+  macAddresses:
   - 00:0C:33:00:00:00/24
   manufacturer: Compucase Enterprise Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compucas
 type: d3-device-type-assertion

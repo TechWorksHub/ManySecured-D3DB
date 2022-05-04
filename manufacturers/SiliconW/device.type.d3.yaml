@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b3df1e7-a0aa-4ddf-8364-32814d3bf198
-  mac-addresses:
+  id: 97b33a83-cce7-48a9-be7e-9402a5c73443
+  macAddresses:
   - 00:03:3A:00:00:00/24
   manufacturer: Silicon Wave, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiliconW
 type: d3-device-type-assertion

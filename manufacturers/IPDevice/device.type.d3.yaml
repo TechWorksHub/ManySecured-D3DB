@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 584eb335-88dd-40e7-a43c-ff785cbe866b
-  mac-addresses:
+  id: d41bddae-747e-4c38-9818-59e84a2de3af
+  macAddresses:
   - 70:B3:D5:5C:E0:00/36
   manufacturer: IP Devices
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPDevice
 type: d3-device-type-assertion

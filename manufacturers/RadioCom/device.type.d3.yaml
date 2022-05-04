@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6774114-b77b-4dde-949c-d9fa07a96eb2
-  mac-addresses:
+  id: 4e6834ef-b062-41e5-8343-67e6fd8af151
+  macAddresses:
   - 00:12:DE:00:00:00/24
   manufacturer: Radio Components Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadioCom
 type: d3-device-type-assertion

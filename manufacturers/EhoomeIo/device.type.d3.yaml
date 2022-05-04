@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 401b3dd0-10d0-45b1-950b-e6f0202da3c6
-  mac-addresses:
+  id: b48c584c-c319-49e8-ac3a-6528eddd9509
+  macAddresses:
   - 84:F1:D0:00:00:00/24
   manufacturer: Ehoome Iot Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EhoomeIo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 390c76f1-40ce-4fe0-b026-3f486ec656fd
-  mac-addresses:
+  id: 2803cd32-ac35-462c-8658-7b2862f159d3
+  macAddresses:
   - 98:16:EC:00:00:00/24
   manufacturer: IC Intracom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICIntrac
 type: d3-device-type-assertion

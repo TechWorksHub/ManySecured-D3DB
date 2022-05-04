@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c29ca1f8-3cfb-406c-91d3-9a3ad71651a5
-  mac-addresses:
+  id: b7a98770-7469-4744-9282-0348515dc792
+  macAddresses:
   - D8:C9:9D:00:00:00/24
   manufacturer: Ea Display Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EaDispla
 type: d3-device-type-assertion

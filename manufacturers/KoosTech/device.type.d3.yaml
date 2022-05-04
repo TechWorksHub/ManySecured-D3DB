@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e5d4d99-3251-4975-a429-70b536414ce6
-  mac-addresses:
+  id: dc326146-46fa-4d47-8dc1-ea63cee066d3
+  macAddresses:
   - 00:22:63:00:00:00/24
   manufacturer: Koos Technical Services, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoosTech
 type: d3-device-type-assertion

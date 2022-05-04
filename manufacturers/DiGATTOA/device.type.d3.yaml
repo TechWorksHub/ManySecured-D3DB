@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5b74eec-e157-435e-a18e-52ba1a87b535
-  mac-addresses:
+  id: dfbaf0c8-090d-43f3-ab90-f10bffef18ab
+  macAddresses:
   - 00:0D:7A:00:00:00/24
   manufacturer: DiGATTO Asia Pacific Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiGATTOA
 type: d3-device-type-assertion

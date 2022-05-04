@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db7f8d33-94c6-46fd-9e4a-4fd22a3dc8bd
-  mac-addresses:
+  id: 5eef0ab7-560b-4480-9e86-81cfcb8d8a9d
+  macAddresses:
   - 00:00:51:00:00:00/24
   manufacturer: Hob Electronic Gmbh & Co. Kg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HobElect
 type: d3-device-type-assertion

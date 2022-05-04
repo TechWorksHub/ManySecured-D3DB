@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35423514-f2b1-47d6-a7be-e8f32d145864
-  mac-addresses:
+  id: 55ab1623-ac3e-4b1e-ba3a-cf54d699cdb6
+  macAddresses:
   - A0:38:F8:00:00:00/24
   manufacturer: OURA Health Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OURAHeal
 type: d3-device-type-assertion

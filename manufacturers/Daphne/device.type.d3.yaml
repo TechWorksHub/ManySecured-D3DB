@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6e27058-557a-4398-82ac-88b500bb5c76
-  mac-addresses:
+  id: 6baf88e2-e011-4706-8ab2-ac63b45ed08d
+  macAddresses:
   - 00:02:B4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daphne
 type: d3-device-type-assertion

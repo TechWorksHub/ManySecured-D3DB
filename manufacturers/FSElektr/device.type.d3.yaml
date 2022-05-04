@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12391a09-f6e0-4d40-92f1-b7ec8a00ba3c
-  mac-addresses:
+  id: 59938bd6-ccbf-462c-b103-b2a19cc396b5
+  macAddresses:
   - 00:05:51:00:00:00/24
   manufacturer: F & S Elektronik Systeme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FSElektr
 type: d3-device-type-assertion

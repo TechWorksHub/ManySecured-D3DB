@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59b60356-b6f3-4635-9ffa-8a5a1fc1999e
-  mac-addresses:
+  id: bd41310e-12d0-4665-8d4e-8f0755b01271
+  macAddresses:
   - 0C:EF:AF:70:00:00/28
   manufacturer: Syntrans AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Syntrans
 type: d3-device-type-assertion

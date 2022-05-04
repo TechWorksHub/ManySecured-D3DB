@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20c56f18-7fe1-4d4a-ba39-e39a2ceb5c83
-  mac-addresses:
+  id: d76da693-dbbd-44d3-8996-afa416a2487e
+  macAddresses:
   - 00:50:C2:8C:B0:00/36
   manufacturer: Beonic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beonic
 type: d3-device-type-assertion

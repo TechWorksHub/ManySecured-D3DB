@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d21251e7-61c5-4ced-9e81-be9929cf8216
-  mac-addresses:
+  id: 590682f8-ad77-4be6-b3e5-1d2cd8fb8396
+  macAddresses:
   - 1C:D6:BD:00:00:00/24
   manufacturer: Leedarson Lighting Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leedarso
 type: d3-device-type-assertion

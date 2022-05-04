@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69785e52-938b-46a6-bef4-4a09c5b9125d
-  mac-addresses:
+  id: e2e36e13-9321-4148-a008-4b15083cc341
+  macAddresses:
   - 00:50:C2:C6:D0:00/36
   manufacturer: Deansoft CO., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Deansoft
 type: d3-device-type-assertion

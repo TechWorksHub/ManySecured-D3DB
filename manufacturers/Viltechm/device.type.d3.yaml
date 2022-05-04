@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e5a2cdb-16ff-40f1-95f3-083e61f30295
-  mac-addresses:
+  id: 5ce918c1-fe16-4685-bb72-79d989d44b0b
+  macAddresses:
   - F4:76:26:00:00:00/24
   manufacturer: Viltechmeda UAB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viltechm
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 32620d32-6bbb-4585-a7b9-c8158998385b
-  mac-addresses:
+  id: 5233336a-b2d3-4bec-8ec0-ddb63a0302b6
+  macAddresses:
   - 00:14:28:00:00:00/24
   - 8C:27:8A:00:00:00/24
   manufacturer: Vocollect Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vocollec
 type: d3-device-type-assertion

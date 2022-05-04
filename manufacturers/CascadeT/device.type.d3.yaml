@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ad7c74c-8e80-403c-b588-b69b5d5808a4
-  mac-addresses:
+  id: e3c8bcc4-216b-4a9d-8cd9-f00f05b148a2
+  macAddresses:
   - 00:50:C2:7D:E0:00/36
   manufacturer: Cascade Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CascadeT
 type: d3-device-type-assertion

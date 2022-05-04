@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f2d832a-a4ad-4fed-9431-718c040ddf3d
-  mac-addresses:
+  id: fcf537fc-b5b7-4143-8ab7-0213b869f724
+  macAddresses:
   - 50:8A:42:00:00:00/24
   manufacturer: Uptmate Technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UptmateT
 type: d3-device-type-assertion

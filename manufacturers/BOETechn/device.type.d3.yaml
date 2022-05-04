@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd452487-c75b-4430-b88e-12a50a7bea45
-  mac-addresses:
+  id: 33cae7b5-1ee2-49db-82a7-a8a30d5ea669
+  macAddresses:
   - 70:B3:D5:5A:10:00/36
   manufacturer: BOE Technology Group Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BOETechn
 type: d3-device-type-assertion

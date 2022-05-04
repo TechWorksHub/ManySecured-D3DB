@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7ecfac1-84d0-4df5-9490-30120ccb2432
-  mac-addresses:
+  id: e0736dfb-121d-4560-8f29-9611025c454d
+  macAddresses:
   - 00:1C:34:00:00:00/24
   manufacturer: Huey Chiao International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HueyChia
 type: d3-device-type-assertion

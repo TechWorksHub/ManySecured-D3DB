@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 746fe1e4-c0c7-4068-8544-33948ea90c18
-  mac-addresses:
+  id: 175d79ee-8a05-4ae5-9485-6a44cdfc971c
+  macAddresses:
   - 70:B3:D5:40:40:00/36
   manufacturer: RANIX,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RANIX
 type: d3-device-type-assertion

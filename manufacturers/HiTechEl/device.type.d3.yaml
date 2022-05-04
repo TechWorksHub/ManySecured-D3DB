@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 628c7761-b2f9-46d7-a24d-131751819272
-  mac-addresses:
+  id: 96cf6af2-fa63-483a-805a-b54e7a0b74a3
+  macAddresses:
   - 00:50:C2:CB:D0:00/36
   manufacturer: Hi Tech Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HiTechEl
 type: d3-device-type-assertion

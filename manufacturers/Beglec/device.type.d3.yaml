@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcb00dd2-a44f-418f-b7b5-6b91e6b01b12
-  mac-addresses:
+  id: 0c4c4441-b28d-4004-a0c9-60c164cd0cf2
+  macAddresses:
   - A8:3F:A1:60:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beglec
 type: d3-device-type-assertion

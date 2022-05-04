@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44010856-514a-43b3-93ee-5dff1923dd8e
-  mac-addresses:
+  id: 299d1ddb-5f5e-4230-ae5b-b0a96276186b
+  macAddresses:
   - 00:50:C2:9E:D0:00/36
   manufacturer: Picell B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Picell
 type: d3-device-type-assertion

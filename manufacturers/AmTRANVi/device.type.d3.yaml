@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89af5c04-d578-48c0-91e7-ce7e20696777
-  mac-addresses:
+  id: d29aa4f5-fc5a-4521-9b4b-20fd2386e17b
+  macAddresses:
   - A4:46:FA:00:00:00/24
   manufacturer: AmTRAN Video Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmTRANVi
 type: d3-device-type-assertion

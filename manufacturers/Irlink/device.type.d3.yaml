@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 582e5ae8-a4f0-4f9e-95af-242142303b17
-  mac-addresses:
+  id: 3b8e554d-84ea-482f-b417-2c246e6f330a
+  macAddresses:
   - 00:19:1A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Irlink
 type: d3-device-type-assertion

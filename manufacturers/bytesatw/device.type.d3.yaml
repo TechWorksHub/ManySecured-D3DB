@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 457b01be-863b-487e-8582-32e897461e28
-  mac-addresses:
+  id: 2336b241-7a5a-4375-bc8a-fe6662ae4296
+  macAddresses:
   - 80:3F:D6:00:00:00/24
   manufacturer: bytes at work AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bytesatw
 type: d3-device-type-assertion

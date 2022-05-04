@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fb32fec-b31b-4ffa-b292-f923b0d57ee1
-  mac-addresses:
+  id: b6e211e4-ee94-443d-8c48-9fa3ee32861c
+  macAddresses:
   - 00:50:C2:2A:90:00/36
   manufacturer: Dr. Staiger, Mohilo + Co GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DrStaige
 type: d3-device-type-assertion

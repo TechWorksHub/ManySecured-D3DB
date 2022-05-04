@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b48211e0-b805-484f-b701-b429a1f44014
-  mac-addresses:
+  id: f30de786-4eca-44c0-83ae-292843aad050
+  macAddresses:
   - F0:26:4C:00:00:00/24
   manufacturer: Sigrist-Photometer AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sigrist-
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c3c79f6-a13c-4ce9-85d6-3588ea61a8d2
-  mac-addresses:
+  id: 361510fd-c202-46c0-8f82-85fbc85ad614
+  macAddresses:
   - 70:B3:D5:A0:40:00/36
   manufacturer: Galea Electric S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GaleaEle
 type: d3-device-type-assertion

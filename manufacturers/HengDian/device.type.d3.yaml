@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a62690b7-faeb-4602-9f11-b1d97fbd64d0
-  mac-addresses:
+  id: 66719d56-7375-4d17-bbe6-2a7ff99f9d1f
+  macAddresses:
   - 70:B3:D5:FE:A0:00/36
   manufacturer: Heng Dian Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HengDian
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b789929b-9734-4865-866f-c7269a0c3674
-  mac-addresses:
+  id: ada45ad9-2bde-4fc6-bfce-88b138982bc3
+  macAddresses:
   - DC:36:43:90:00:00/28
   manufacturer: Hefei EA Excelsior Information Security Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HefeiEAE
 type: d3-device-type-assertion

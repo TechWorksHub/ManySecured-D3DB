@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a39c098-51c0-4797-955c-9b9a43cd28df
-  mac-addresses:
+  id: 6503f448-d12f-4586-9b0e-5af71f7bad7f
+  macAddresses:
   - 00:0E:0A:00:00:00/24
   manufacturer: Sakuma Design Office
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SakumaDe
 type: d3-device-type-assertion

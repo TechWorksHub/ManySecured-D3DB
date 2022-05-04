@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81b79dbe-2080-4bae-b5eb-993884eac9ac
-  mac-addresses:
+  id: b9c322a4-4177-4fb9-a47c-bbecfd2b1f52
+  macAddresses:
   - 00:12:0B:00:00:00/24
   manufacturer: Chinasys Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chinasys
 type: d3-device-type-assertion

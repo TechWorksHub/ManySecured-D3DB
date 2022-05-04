@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3602e3f9-9209-4ebe-9cc1-460c5f7199b2
-  mac-addresses:
+  id: 4519d45b-5752-4373-ac0b-0d814e47f693
+  macAddresses:
   - 00:40:3B:00:00:00/24
   manufacturer: Synerjet International Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synerjet
 type: d3-device-type-assertion

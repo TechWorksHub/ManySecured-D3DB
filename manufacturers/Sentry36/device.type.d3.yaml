@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a5a951b5-2d32-4e3f-a382-a032d5b94b7c
-  mac-addresses:
+  id: 53006993-5665-4761-a7ab-f0e4d40ecce1
+  macAddresses:
   - 00:50:C2:A9:80:00/36
   - 00:50:C2:F5:A0:00/36
   - 0C:EF:AF:40:00:00/28
@@ -8,6 +8,6 @@ credentialSubject:
   - 40:D8:55:0E:C0:00/36
   - 70:B3:D5:D8:40:00/36
   manufacturer: Sentry 360 Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sentry36
 type: d3-device-type-assertion

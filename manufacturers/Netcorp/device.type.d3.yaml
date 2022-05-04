@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f682e73-4767-4ac9-8598-04fcbd83d048
-  mac-addresses:
+  id: aa70e452-1432-4e08-a807-27fcbb00d96c
+  macAddresses:
   - 00:A0:08:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netcorp
 type: d3-device-type-assertion

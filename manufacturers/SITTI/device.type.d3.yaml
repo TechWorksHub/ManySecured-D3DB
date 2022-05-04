@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdee9c30-b108-4115-8cad-003cf8df5113
-  mac-addresses:
+  id: 36888ed4-b354-4e33-bb7e-2c7a8803e226
+  macAddresses:
   - 00:0E:CE:00:00:00/24
   manufacturer: S.I.T.T.I. S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SITTI
 type: d3-device-type-assertion

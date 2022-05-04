@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7ff404d-51fe-481a-bb98-4055f1d4551f
-  mac-addresses:
+  id: 34de1679-1c6b-4590-87d8-355924620943
+  macAddresses:
   - 70:B3:D5:BD:90:00/36
   manufacturer: SolwayTech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolwayTe
 type: d3-device-type-assertion

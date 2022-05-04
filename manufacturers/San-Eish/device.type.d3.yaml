@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a1afa68-98fd-4f97-a997-b020eafd42c1
-  mac-addresses:
+  id: 3267a06f-6c96-4183-83d9-363f324be7b7
+  macAddresses:
   - 00:1E:9B:00:00:00/24
   manufacturer: San-Eisha, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: San-Eish
 type: d3-device-type-assertion

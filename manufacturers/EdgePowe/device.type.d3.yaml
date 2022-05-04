@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f748235e-ab24-41ae-9654-4a1f1e7ea8fe
-  mac-addresses:
+  id: 531074dd-3fa1-4a18-8db5-07167e6cf56c
+  macAddresses:
   - 70:B3:D5:61:20:00/36
   manufacturer: Edge Power Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdgePowe
 type: d3-device-type-assertion

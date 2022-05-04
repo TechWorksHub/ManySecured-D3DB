@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 03551826-9479-4232-93ce-19421d37675e
-  mac-addresses:
+  id: 7664fd2c-2475-4ffd-a9a6-b930fc839c4a
+  macAddresses:
   - 9C:E1:0E:00:00:00/24
   - E8:56:D6:00:00:00/24
   manufacturer: NCTech Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NCTech
 type: d3-device-type-assertion

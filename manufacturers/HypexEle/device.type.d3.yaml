@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3eccdeb8-d25b-436b-948d-06b2747ec629
-  mac-addresses:
+  id: 98783b60-f69a-4859-9ab7-41b7bbf926e3
+  macAddresses:
   - 70:B3:D5:28:70:00/36
   manufacturer: Hypex Electronics BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HypexEle
 type: d3-device-type-assertion

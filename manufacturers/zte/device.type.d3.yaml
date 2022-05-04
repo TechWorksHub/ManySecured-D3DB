@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 86856cfd-a6f5-483b-afbd-21b3bb261ecb
-  mac-addresses:
+  id: ec0425fa-0202-4b8e-b00f-e02887d4f9f0
+  macAddresses:
   - 00:15:EB:00:00:00/24
   - 00:19:C6:00:00:00/24
   - 00:1E:73:00:00:00/24
@@ -281,6 +281,6 @@ credentialSubject:
   - FC:94:CE:00:00:00/24
   - FC:C8:97:00:00:00/24
   manufacturer: zte corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: zte
 type: d3-device-type-assertion

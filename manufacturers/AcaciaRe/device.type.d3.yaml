@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd47f394-f6d4-4db3-9f07-56fcba86eee6
-  mac-addresses:
+  id: c85e1219-3a01-466c-9703-c71de0dac1da
+  macAddresses:
   - 70:B3:D5:BF:50:00/36
   manufacturer: Acacia Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcaciaRe
 type: d3-device-type-assertion

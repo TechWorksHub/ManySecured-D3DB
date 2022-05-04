@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 647342b4-7651-4430-9956-ab460d3c3def
-  mac-addresses:
+  id: b1cc73f0-5e20-40d1-80bd-8cbfa5cea282
+  macAddresses:
   - 00:1B:38:00:00:00/24
   - 00:1E:EC:00:00:00/24
   - 00:23:5A:00:00:00/24
@@ -25,6 +25,6 @@ credentialSubject:
   - F8:A9:63:00:00:00/24
   - FC:45:96:00:00:00/24
   manufacturer: Compal Information (Kunshan) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompalIn
 type: d3-device-type-assertion

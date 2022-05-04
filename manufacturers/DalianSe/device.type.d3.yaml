@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da56f000-f95b-4945-8bf8-7fbf6a26915d
-  mac-addresses:
+  id: 17021a64-1578-45f4-9f44-8b228ae30ccb
+  macAddresses:
   - B4:6D:35:00:00:00/24
   manufacturer: Dalian Seasky Automation Co;Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DalianSe
 type: d3-device-type-assertion

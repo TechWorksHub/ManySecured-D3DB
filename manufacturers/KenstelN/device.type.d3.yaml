@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4495c9eb-155d-467a-abd3-a6585d49e659
-  mac-addresses:
+  id: 9384be08-977c-43e4-88ba-469e9b36ee04
+  macAddresses:
   - 68:33:2C:00:00:00/24
   manufacturer: Kenstel Networks Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KenstelN
 type: d3-device-type-assertion

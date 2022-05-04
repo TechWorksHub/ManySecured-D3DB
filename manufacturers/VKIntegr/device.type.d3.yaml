@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3e8e2b3-a335-408b-b06f-9a2d436a234f
-  mac-addresses:
+  id: 7d608bf1-0928-4e8f-9051-17bd41977562
+  macAddresses:
   - 70:B3:D5:A8:F0:00/36
   manufacturer: VK Integrated Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VKIntegr
 type: d3-device-type-assertion

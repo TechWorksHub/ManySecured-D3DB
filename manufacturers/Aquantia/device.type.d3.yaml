@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9c8c912e-7426-4938-94b3-a91d181dfcac
-  mac-addresses:
+  id: c5f8171f-be56-45de-b7da-2b57c49d6fc4
+  macAddresses:
   - 00:17:B6:00:00:00/24
   - 30:0E:E3:00:00:00/24
   manufacturer: Aquantia Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aquantia
 type: d3-device-type-assertion

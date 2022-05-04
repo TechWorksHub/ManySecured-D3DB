@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ecd4765-8e8f-49f0-82b9-d8cbaf27bac8
-  mac-addresses:
+  id: 761acfe7-95ec-443b-b8ee-64b9896aaf5b
+  macAddresses:
   - 00:1A:D3:00:00:00/24
   manufacturer: Vamp Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vamp
 type: d3-device-type-assertion

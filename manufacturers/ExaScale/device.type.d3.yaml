@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 513f21cc-908a-40cd-b2e0-fff24a126815
-  mac-addresses:
+  id: 4f4bc980-bfc0-47c8-954c-4dca5f6ad8c4
+  macAddresses:
   - 38:B8:EB:B0:00:00/28
   manufacturer: ExaScaler Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExaScale
 type: d3-device-type-assertion

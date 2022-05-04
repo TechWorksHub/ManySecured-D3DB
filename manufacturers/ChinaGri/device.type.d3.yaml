@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80405545-2e86-44c7-89fc-5048599934f3
-  mac-addresses:
+  id: 6c378c48-22ce-44c1-92dd-f1b6c35dd692
+  macAddresses:
   - 00:1B:65:00:00:00/24
   manufacturer: China Gridcom Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaGri
 type: d3-device-type-assertion

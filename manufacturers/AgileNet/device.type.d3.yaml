@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c26d6b79-77d2-42c1-89ae-50dafbc3db13
-  mac-addresses:
+  id: 73ff714e-7dea-4305-88aa-2d4a3cd28358
+  macAddresses:
   - 00:20:B6:00:00:00/24
   manufacturer: Agile Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AgileNet
 type: d3-device-type-assertion

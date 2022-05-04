@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3f379a1-6fed-4a27-8369-5f7739ce6cae
-  mac-addresses:
+  id: 430174f4-8963-4196-b2cb-cfcd837db755
+  macAddresses:
   - 44:37:19:00:00:00/24
   manufacturer: 2 Save Energy Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2SaveEne
 type: d3-device-type-assertion

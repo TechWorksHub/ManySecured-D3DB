@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3a2d67e-ead6-4ab1-9fb1-b46bcd2f8269
-  mac-addresses:
+  id: 4c325809-5c7f-487f-a124-1f49009bb0b4
+  macAddresses:
   - 30:18:CF:00:00:00/24
   manufacturer: DEOS control systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEOScont
 type: d3-device-type-assertion

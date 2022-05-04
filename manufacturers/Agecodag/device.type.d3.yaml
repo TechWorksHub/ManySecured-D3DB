@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe27a637-ab35-4db9-8591-db0612e26882
-  mac-addresses:
+  id: 31dad586-bd5a-4e2d-a27d-e26926685f68
+  macAddresses:
   - 00:50:C2:28:00:00/36
   manufacturer: Agecodagis Sarl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Agecodag
 type: d3-device-type-assertion

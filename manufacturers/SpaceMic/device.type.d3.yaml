@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e85ee1f9-3f68-43a4-aad3-106b84953896
-  mac-addresses:
+  id: 420357a6-cc37-41c2-b15c-2b6e66d0da48
+  macAddresses:
   - 40:D8:55:0A:D0:00/36
   manufacturer: Space Micro
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpaceMic
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fe9259e-34c7-4c0e-b750-95f9800eb7ae
-  mac-addresses:
+  id: 92ce5858-c554-473b-a4a6-88bbbf89b84b
+  macAddresses:
   - 70:B2:65:00:00:00/24
   manufacturer: Hiltron s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hiltron
 type: d3-device-type-assertion

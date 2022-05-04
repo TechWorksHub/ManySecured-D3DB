@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7b1d25b-df44-45b7-83d7-a00076c45296
-  mac-addresses:
+  id: 85123cde-b10b-45cf-a65c-98a18919c9e1
+  macAddresses:
   - 00:50:C2:69:B0:00/36
   manufacturer: Tsien (UK) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TsienUK
 type: d3-device-type-assertion

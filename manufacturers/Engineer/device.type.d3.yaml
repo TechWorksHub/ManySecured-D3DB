@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 645e3e8e-ee2f-4a6e-9d15-e3fa7d9c4ec4
-  mac-addresses:
+  id: 52c95285-4624-449e-9a49-a4988072113f
+  macAddresses:
   - 00:0D:78:00:00:00/24
   - 00:1B:C5:05:20:00/36
   - 0C:EF:AF:30:00:00/28
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:C7:10:00/36
   - A4:58:0F:30:00:00/28
   manufacturer: Engineering & Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Engineer
 type: d3-device-type-assertion

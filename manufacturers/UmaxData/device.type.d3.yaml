@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa2e63c8-2d16-4f89-a8f2-6fa90d2e04a2
-  mac-addresses:
+  id: 932806ae-1817-44a0-b722-6907e573ab19
+  macAddresses:
   - 00:10:2B:00:00:00/24
   manufacturer: Umax Data Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UmaxData
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e62d2b16-1703-414e-b570-1b7b85ca296f
-  mac-addresses:
+  id: adb3d6ae-4289-4343-bff2-756e55602740
+  macAddresses:
   - 3C:FA:D3:E0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mirico
 type: d3-device-type-assertion

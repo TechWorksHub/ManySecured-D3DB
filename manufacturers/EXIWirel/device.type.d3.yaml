@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b74c015-cbac-44d1-b9f2-a68a317b0354
-  mac-addresses:
+  id: 8b5c1eac-666e-4ca9-a769-0af7bd28e2da
+  macAddresses:
   - 00:50:C2:1F:00:00/36
   manufacturer: EXI Wireless Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EXIWirel
 type: d3-device-type-assertion

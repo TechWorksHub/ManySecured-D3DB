@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23b39f7b-ffea-4581-a47e-f1fe3bde4181
-  mac-addresses:
+  id: bb4e026b-c65b-4387-832b-99d67760b92b
+  macAddresses:
   - 00:11:47:00:00:00/24
   manufacturer: Secom-Industry co.LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Secom-In
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac71c23c-9aef-420a-b18d-81df0dd1f0c8
-  mac-addresses:
+  id: 35938ae0-d238-4ec7-8174-f96bc4f7908d
+  macAddresses:
   - 40:D8:55:0D:B0:00/36
   manufacturer: Top Connect OU
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TopConne
 type: d3-device-type-assertion

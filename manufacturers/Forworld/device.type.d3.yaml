@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e5b6af3-878c-4037-bd51-f37616baada7
-  mac-addresses:
+  id: 65371683-db85-4299-a132-7e9e6765027f
+  macAddresses:
   - 80:B2:89:00:00:00/24
   manufacturer: Forworld Electronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Forworld
 type: d3-device-type-assertion

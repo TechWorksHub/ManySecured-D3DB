@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a73d1ece-713c-473c-bceb-f68e4b7c8537
-  mac-addresses:
+  id: f2c18119-4dc1-4418-8b57-c637376d78a7
+  macAddresses:
   - 00:50:C2:EC:F0:00/36
   manufacturer: Taiwan Hiplus Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaiwanHi
 type: d3-device-type-assertion

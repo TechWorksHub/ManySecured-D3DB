@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07ee4ea2-8c46-4404-9275-4947fbc5abf1
-  mac-addresses:
+  id: 0fd0722f-5435-4866-945a-72c1a12c17e9
+  macAddresses:
   - 1C:6E:4C:00:00:00/24
   manufacturer: Logistic Service & Engineering Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logistic
 type: d3-device-type-assertion

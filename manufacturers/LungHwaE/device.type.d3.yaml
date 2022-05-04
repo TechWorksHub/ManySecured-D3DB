@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 403c441d-d7d8-4ec2-8e8a-cba11b472c8e
-  mac-addresses:
+  id: b28fcc83-c816-46ad-9999-4db06c2c54b2
+  macAddresses:
   - 00:1F:34:00:00:00/24
   manufacturer: Lung Hwa Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LungHwaE
 type: d3-device-type-assertion

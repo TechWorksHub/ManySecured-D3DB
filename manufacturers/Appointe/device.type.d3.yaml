@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bccb3772-2f2b-4db1-b14c-bb90a56b8065
-  mac-addresses:
+  id: 888fe072-71ec-4383-9eb7-3798c5fbc0ba
+  macAddresses:
   - 00:11:23:00:00:00/24
   manufacturer: Appointech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Appointe
 type: d3-device-type-assertion

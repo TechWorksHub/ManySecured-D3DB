@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f232ce3a-ece3-4a93-a74f-2d50cd1d9739
-  mac-addresses:
+  id: 3dfd2b78-dbbc-4260-8dc3-a4b39ff0acc4
+  macAddresses:
   - 00:50:C2:69:C0:00/36
   manufacturer: Bug Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BugLabs
 type: d3-device-type-assertion

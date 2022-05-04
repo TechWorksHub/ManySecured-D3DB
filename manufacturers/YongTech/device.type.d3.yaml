@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdd008e7-c552-4e5e-9b8f-30d169870f73
-  mac-addresses:
+  id: 398c268d-8734-4b11-8f72-b1c78d0d94a1
+  macAddresses:
   - 6C:DF:FB:90:00:00/28
   manufacturer: YongTechs Electric Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YongTech
 type: d3-device-type-assertion

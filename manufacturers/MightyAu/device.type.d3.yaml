@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70ee1f53-99b4-4b1d-a9bf-54e19c1d4726
-  mac-addresses:
+  id: a2846bf1-3763-4216-8e52-e3f358ce8f5e
+  macAddresses:
   - 24:4E:7B:B0:00:00/28
   manufacturer: Mighty Audio, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MightyAu
 type: d3-device-type-assertion

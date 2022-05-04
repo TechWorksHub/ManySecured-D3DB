@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a61c6e59-9e19-4c0f-853e-9c4c44285a64
-  mac-addresses:
+  id: 8ec1174b-ca17-4b1f-9eb2-309ccacc0127
+  macAddresses:
   - 9C:9C:1D:00:00:00/24
   manufacturer: Starkey Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StarkeyL
 type: d3-device-type-assertion

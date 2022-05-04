@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dd830d7-f674-405d-b752-7102c25f5631
-  mac-addresses:
+  id: 0ca98439-fef9-4f17-a16b-fccb9e94d397
+  macAddresses:
   - 64:29:ED:00:00:00/24
   manufacturer: AO "PKK Milandr"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AOPKKMil
 type: d3-device-type-assertion

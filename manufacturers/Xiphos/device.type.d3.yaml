@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5b3b1c9-29dc-47db-8f95-2a824eabc0ee
-  mac-addresses:
+  id: 6bbd52ad-9171-4703-bae7-f095bacbc3e8
+  macAddresses:
   - 00:1B:C5:03:C0:00/36
   manufacturer: Xiphos Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xiphos
 type: d3-device-type-assertion

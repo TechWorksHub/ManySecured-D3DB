@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5c6d759-388c-4bff-9207-5ca2b82a822e
-  mac-addresses:
+  id: b2496a58-162b-40d0-ba72-81284c813e8a
+  macAddresses:
   - 98:20:8E:00:00:00/24
   manufacturer: Definium Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Definium
 type: d3-device-type-assertion

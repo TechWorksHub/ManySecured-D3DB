@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6412799d-fac0-4916-b71b-8cc2b05b7d8e
-  mac-addresses:
+  id: ff77d565-407e-49c2-8a56-4fc2a1e9ea94
+  macAddresses:
   - 00:0D:B9:00:00:00/24
   manufacturer: PC Engines GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCEngine
 type: d3-device-type-assertion

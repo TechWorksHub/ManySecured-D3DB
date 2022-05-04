@@ -1,12 +1,12 @@
 credentialSubject:
-  id: ec15e3b3-a3be-4b9e-8516-ea96814a7621
-  mac-addresses:
+  id: 169145ce-b6e2-4f48-93f2-fc253515084c
+  macAddresses:
   - 00:0F:DB:00:00:00/24
   - 00:18:3A:00:00:00/24
   - 00:23:97:00:00:00/24
   - 00:60:0F:00:00:00/24
   - 0C:D5:02:00:00:00/24
   manufacturer: Westell Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WestellT
 type: d3-device-type-assertion

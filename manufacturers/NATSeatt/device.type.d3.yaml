@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eacbaa93-d5f1-41c9-ba9d-f4675b3ec9ed
-  mac-addresses:
+  id: 85530560-5a1f-4765-96a3-9c8185afb382
+  macAddresses:
   - 00:16:C9:00:00:00/24
   manufacturer: NAT Seattle, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NATSeatt
 type: d3-device-type-assertion

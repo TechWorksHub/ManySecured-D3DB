@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7146311-8245-4eb9-a7ff-8366dbfffc9d
-  mac-addresses:
+  id: 65927c89-bd02-4e13-ad77-9b8424e43100
+  macAddresses:
   - 00:50:C2:75:20:00/36
   manufacturer: Lober, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lober
 type: d3-device-type-assertion

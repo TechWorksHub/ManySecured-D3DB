@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d918708f-7960-48c1-9731-348b8a035a20
-  mac-addresses:
+  id: a3d55f45-89f3-416b-81e3-203d37ca05b5
+  macAddresses:
   - 50:0B:91:40:00:00/28
   manufacturer: Sinope technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sinopete
 type: d3-device-type-assertion

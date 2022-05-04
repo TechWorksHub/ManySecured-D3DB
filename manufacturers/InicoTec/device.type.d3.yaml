@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd73ca1c-e59b-43d1-aa38-abd53caf079d
-  mac-addresses:
+  id: 6902e615-12ce-4d6f-a0ac-0412bc96a702
+  macAddresses:
   - 00:50:C2:89:90:00/36
   manufacturer: Inico Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InicoTec
 type: d3-device-type-assertion

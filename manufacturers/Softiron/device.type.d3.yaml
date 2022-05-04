@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85937134-a76a-4924-ab28-4ce9d8c3fe89
-  mac-addresses:
+  id: c65e00a5-df63-43db-bab7-2d0949cf68b1
+  macAddresses:
   - E0:FF:F7:00:00:00/24
   manufacturer: Softiron Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Softiron
 type: d3-device-type-assertion

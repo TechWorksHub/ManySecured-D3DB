@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dfc9200-6bdd-4fc8-9aec-c78ee3d1eb7c
-  mac-addresses:
+  id: 7ac5dbe8-f5f5-47f2-8b57-163b5039e476
+  macAddresses:
   - 38:F8:B7:00:00:00/24
   manufacturer: V2Com Participacoes S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: V2ComPar
 type: d3-device-type-assertion

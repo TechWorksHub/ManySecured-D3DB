@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb0e7341-a580-44fb-a15a-1a04ff70d599
-  mac-addresses:
+  id: f7412671-c1b1-4e89-9174-fbf95fbf5961
+  macAddresses:
   - 00:40:20:00:00:00/24
   manufacturer: CommScope Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CommScop
 type: d3-device-type-assertion

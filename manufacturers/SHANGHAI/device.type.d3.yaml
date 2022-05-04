@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e005be91-47c3-4f27-9543-dd3b0e83e119
-  mac-addresses:
+  id: fee7ad3f-89e8-4e99-b31f-1fc134abbcfb
+  macAddresses:
   - 50:A0:30:B0:00:00/28
   manufacturer: SHANGHAI ZXELINK Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHANGHAI
 type: d3-device-type-assertion

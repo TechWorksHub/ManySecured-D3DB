@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7eda205-73c8-4056-b196-14829568b9be
-  mac-addresses:
+  id: d25b28c1-4029-4ac8-8c60-87acd75a8352
+  macAddresses:
   - 70:B3:D5:44:10:00/36
   manufacturer: Videoport S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videopor
 type: d3-device-type-assertion

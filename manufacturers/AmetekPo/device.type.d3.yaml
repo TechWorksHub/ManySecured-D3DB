@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 864cee9e-683a-4f78-afc6-1d88355fda67
-  mac-addresses:
+  id: 0ad63550-4c48-4150-85df-0383276862d4
+  macAddresses:
   - 00:07:5E:00:00:00/24
   manufacturer: Ametek Power Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmetekPo
 type: d3-device-type-assertion

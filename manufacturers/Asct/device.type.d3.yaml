@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e9200df-e6e8-4f2f-b22f-6b6c67790c55
-  mac-addresses:
+  id: f713a687-2dc4-48f9-88fc-5fece4d68dd4
+  macAddresses:
   - 7C:EB:EA:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asct
 type: d3-device-type-assertion

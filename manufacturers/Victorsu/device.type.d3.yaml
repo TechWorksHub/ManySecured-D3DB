@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 71d8d35d-4196-4b8e-b632-0ad2b32c3afe
-  mac-addresses:
+  id: 39539e85-1958-40a2-a829-5769d2ce9f73
+  macAddresses:
   - 00:55:DA:E0:00:00/28
   manufacturer: Victorsure Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Victorsu
 type: d3-device-type-assertion

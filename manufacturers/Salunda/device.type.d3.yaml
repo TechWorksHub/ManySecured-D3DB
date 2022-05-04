@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db2317b3-358a-4a83-9376-9993bbca9003
-  mac-addresses:
+  id: 984061a8-1145-44ff-8301-2c45c4d1d82f
+  macAddresses:
   - 78:D8:00:80:00:00/28
   manufacturer: Salunda Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Salunda
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09419eec-2bb5-469f-bb1a-4e627638221a
-  mac-addresses:
+  id: 2b30ed00-a9cf-4ebb-8f5b-7c5c6c820cb0
+  macAddresses:
   - 84:8D:84:00:00:00/24
   manufacturer: Rajant Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rajant
 type: d3-device-type-assertion

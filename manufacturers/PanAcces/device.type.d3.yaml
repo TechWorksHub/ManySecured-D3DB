@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a88cf865-d528-433a-baa8-cc851f3ee020
-  mac-addresses:
+  id: b6521a8c-8235-4d19-84e9-bd588d41d8d9
+  macAddresses:
   - 00:18:38:00:00:00/24
   manufacturer: PanAccess Communications,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PanAcces
 type: d3-device-type-assertion

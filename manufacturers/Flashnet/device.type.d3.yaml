@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba5a5a40-4f93-4527-9732-422544bb55d6
-  mac-addresses:
+  id: a4575892-8b65-4c02-992b-8b2e30710af8
+  macAddresses:
   - 70:B3:D5:BF:10:00/36
   manufacturer: Flashnet SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flashnet
 type: d3-device-type-assertion

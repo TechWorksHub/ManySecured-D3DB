@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c3e1a58-e647-446c-977e-a086cca388ce
-  mac-addresses:
+  id: 9a918f0e-c691-44c8-9fa4-5130f2bbf80e
+  macAddresses:
   - 7C:2C:F3:00:00:00/24
   manufacturer: Secure Electrans Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SecureEl
 type: d3-device-type-assertion

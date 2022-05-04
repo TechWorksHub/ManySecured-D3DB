@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e06a7b4-6f15-4969-92ab-825201d4ad47
-  mac-addresses:
+  id: 2051fdc5-9ad5-4328-884c-2924c5659a83
+  macAddresses:
   - 60:74:8D:00:00:00/24
   manufacturer: Atmaca Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtmacaEl
 type: d3-device-type-assertion

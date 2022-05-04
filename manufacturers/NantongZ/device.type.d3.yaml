@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ffb4868-aabd-4be9-9f61-f7905ac4c340
-  mac-addresses:
+  id: 485119ab-619b-4af9-be32-6764339bea50
+  macAddresses:
   - F4:69:D5:D0:00:00/28
   manufacturer: Nantong ZYDZ Electronic.,Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NantongZ
 type: d3-device-type-assertion

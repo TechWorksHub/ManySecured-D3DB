@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51cc8539-7b4b-4857-94ad-816143cc0cc4
-  mac-addresses:
+  id: c3fbfdcc-dbe8-4339-8b03-f7086632577c
+  macAddresses:
   - F0:24:05:00:00:00/24
   manufacturer: OPUS High Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OPUSHigh
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42728d90-faf5-44e4-80ff-a69257b3135d
-  mac-addresses:
+  id: c7979053-2152-4bd4-a0bc-8c37c9b7d828
+  macAddresses:
   - EC:79:F2:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Startel
 type: d3-device-type-assertion

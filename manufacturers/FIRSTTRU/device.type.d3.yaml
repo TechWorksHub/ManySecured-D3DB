@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bcda102-691b-47ad-bbdc-ed527d189f30
-  mac-addresses:
+  id: 1be44ca0-c302-446f-a2aa-f94e1d836269
+  macAddresses:
   - 00:50:C2:6E:00:00/36
   manufacturer: FIRSTTRUST Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FIRSTTRU
 type: d3-device-type-assertion

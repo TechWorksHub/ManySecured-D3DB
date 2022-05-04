@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33f17559-a4f8-460b-9267-0c85ce60ef45
-  mac-addresses:
+  id: 99723079-5814-44f9-ac37-bebedbcd1cda
+  macAddresses:
   - 00:1C:AC:00:00:00/24
   manufacturer: Qniq Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QniqTech
 type: d3-device-type-assertion

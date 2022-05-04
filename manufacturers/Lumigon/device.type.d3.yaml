@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f51b1761-faa5-4a8d-8836-da8c95fa138b
-  mac-addresses:
+  id: 7e984ebd-a981-462c-a37d-77ce026391d5
+  macAddresses:
   - B4:61:FF:00:00:00/24
   manufacturer: Lumigon A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumigon
 type: d3-device-type-assertion

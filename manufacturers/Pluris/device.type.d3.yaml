@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 673fc22c-3203-494a-8d72-edf3e61122cd
-  mac-addresses:
+  id: 26d71036-9f1d-4e58-9e70-d02f184821b6
+  macAddresses:
   - 00:D0:0E:00:00:00/24
   manufacturer: Pluris, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pluris
 type: d3-device-type-assertion

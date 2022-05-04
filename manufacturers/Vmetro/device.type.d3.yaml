@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abe26045-1f74-4ec7-b02e-1729869e99da
-  mac-addresses:
+  id: 5c6b7d51-e17d-4749-9cdb-d770176cb9df
+  macAddresses:
   - 00:60:46:00:00:00/24
   manufacturer: Vmetro, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vmetro
 type: d3-device-type-assertion

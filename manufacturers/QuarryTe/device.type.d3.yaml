@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8cdf7e3-9f5e-4551-b5e4-cb612bc8dd13
-  mac-addresses:
+  id: 878ca273-994e-40df-8c14-92028cd1c6fd
+  macAddresses:
   - 00:01:C6:00:00:00/24
   manufacturer: Quarry Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuarryTe
 type: d3-device-type-assertion

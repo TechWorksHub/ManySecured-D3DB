@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24a470eb-8d53-4ed7-9b92-f1b194e25305
-  mac-addresses:
+  id: b92d5fb3-7b46-4d73-be2d-840aa158cd22
+  macAddresses:
   - 70:B3:D5:46:00:00/36
   manufacturer: Guilin Tryin Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GuilinTr
 type: d3-device-type-assertion

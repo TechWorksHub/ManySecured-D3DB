@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b80f0f02-134d-457c-8626-c2b36606097f
-  mac-addresses:
+  id: 1b941ceb-79e2-414a-bcc1-dbd57677fab9
+  macAddresses:
   - 70:B3:D5:9C:30:00/36
   manufacturer: Sevensense Robotics AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sevensen
 type: d3-device-type-assertion

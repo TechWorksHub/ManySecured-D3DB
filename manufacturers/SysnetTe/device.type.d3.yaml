@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2772378-4fa0-41ad-96b8-816906243e17
-  mac-addresses:
+  id: 8adac911-a2e0-4788-84bc-ff782e74aea7
+  macAddresses:
   - 00:0B:B0:00:00:00/24
   manufacturer: Sysnet Telematica srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SysnetTe
 type: d3-device-type-assertion

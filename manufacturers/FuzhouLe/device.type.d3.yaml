@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06e5b933-34c7-4629-9cd9-36abf3615c89
-  mac-addresses:
+  id: a70a9514-3c31-41bf-9dd8-1b9935da5677
+  macAddresses:
   - 28:36:13:80:00:00/28
   manufacturer: Fuzhou Lesi Intelligent Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuzhouLe
 type: d3-device-type-assertion

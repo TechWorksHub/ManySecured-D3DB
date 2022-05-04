@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83b6ff3d-10f4-4aa7-a8ee-f6818dadb5b9
-  mac-addresses:
+  id: 35d94528-770e-46e8-b6fd-ac500342c307
+  macAddresses:
   - 1C:13:38:00:00:00/24
   manufacturer: Kimball Electronics Group, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KimballE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df457d6d-cbcc-4879-9825-ae190a66ff70
-  mac-addresses:
+  id: 0341ac8b-fd63-4d2e-8d3c-f4cb1054b6d3
+  macAddresses:
   - 00:0F:77:00:00:00/24
   manufacturer: Dentum Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dentum
 type: d3-device-type-assertion

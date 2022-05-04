@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d49743d0-4297-4432-a12d-3c4c23d63064
-  mac-addresses:
+  id: 924e3d3a-f9b5-4cce-8fcb-f616a08ec4ea
+  macAddresses:
   - 70:0B:C0:00:00:00/24
   manufacturer: Dewav Technology Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DewavTec
 type: d3-device-type-assertion

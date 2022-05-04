@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c4599d8-f7c8-41ff-b33c-b5926a58b701
-  mac-addresses:
+  id: fc4c22d0-2d36-48db-8cf2-17515b9e14b7
+  macAddresses:
   - 00:0E:F9:00:00:00/24
   manufacturer: REA Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: REAElekt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5edea441-4b17-4c77-8d08-81448cb08b44
-  mac-addresses:
+  id: 7d0fc172-58da-4652-bba9-64f14aa90446
+  macAddresses:
   - 00:15:20:00:00:00/24
   manufacturer: Radiocrafts AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radiocra
 type: d3-device-type-assertion

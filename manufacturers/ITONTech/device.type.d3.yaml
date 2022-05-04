@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecb16991-0310-4654-bd23-28df6344c0a0
-  mac-addresses:
+  id: b22dfd91-2f4d-4149-865c-76c9ef2d44ea
+  macAddresses:
   - BC:14:EF:00:00:00/24
   manufacturer: ITON Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITONTech
 type: d3-device-type-assertion

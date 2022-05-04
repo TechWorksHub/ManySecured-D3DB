@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 101e12c3-f3ff-4ae9-9a98-76b8d2d909c3
-  mac-addresses:
+  id: b552e22a-2960-474c-a249-2f8dc420ca8c
+  macAddresses:
   - 70:B3:D5:EF:C0:00/36
   manufacturer: Absolent AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Absolent
 type: d3-device-type-assertion

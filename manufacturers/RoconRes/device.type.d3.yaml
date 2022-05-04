@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19678eb3-e93e-4b46-a8d8-d6ea654c7a61
-  mac-addresses:
+  id: 56e68ab4-e42e-4d7b-b94d-0bb38b366a1b
+  macAddresses:
   - 00:1C:E7:00:00:00/24
   manufacturer: Rocon PLC Research Centre
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoconRes
 type: d3-device-type-assertion

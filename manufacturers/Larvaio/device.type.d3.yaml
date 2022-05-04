@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c381c12a-b708-48fa-bc51-773eb7115e09
-  mac-addresses:
+  id: 653e67bc-c7da-497f-a5e1-5a6f7d8c2d58
+  macAddresses:
   - A4:53:EE:30:00:00/28
   manufacturer: "Larva.io O\xDC"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Larvaio
 type: d3-device-type-assertion

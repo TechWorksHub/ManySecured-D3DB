@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24d3d9f2-a522-427e-a1fc-d87a9859f878
-  mac-addresses:
+  id: 38f2af24-e485-437c-86f4-fab94d586326
+  macAddresses:
   - 70:B3:D5:E2:70:00/36
   manufacturer: Woodside Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Woodside
 type: d3-device-type-assertion

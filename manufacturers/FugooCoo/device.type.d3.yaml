@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3f46abd-56f7-43d5-96e1-366e4d072bc2
-  mac-addresses:
+  id: 5b9563ce-89e0-4673-86f6-2be11b847a90
+  macAddresses:
   - C4:59:76:00:00:00/24
   manufacturer: Fugoo Coorporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FugooCoo
 type: d3-device-type-assertion

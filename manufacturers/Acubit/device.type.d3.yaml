@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a381421-6b32-4adc-8868-00c7ba76294f
-  mac-addresses:
+  id: f4ed25da-e445-45b5-970f-53913e8a38f1
+  macAddresses:
   - 5C:FA:FB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acubit
 type: d3-device-type-assertion

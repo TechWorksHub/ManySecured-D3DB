@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8402c49b-411d-449b-b8c1-d5d1f91b7bed
-  mac-addresses:
+  id: c3e67913-b359-4948-8495-0d7ab048b7bd
+  macAddresses:
   - 2C:B0:DF:00:00:00/24
   manufacturer: Soliton Technologies Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolitonT
 type: d3-device-type-assertion

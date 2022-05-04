@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56abea35-e402-43ac-b460-f4f3723f1370
-  mac-addresses:
+  id: 14731d1a-4a9f-4172-bf05-b91c52c18e48
+  macAddresses:
   - 00:FD:4C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nevatec
 type: d3-device-type-assertion

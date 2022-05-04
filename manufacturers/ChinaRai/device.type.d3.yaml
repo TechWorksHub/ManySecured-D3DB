@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25fc69fe-f548-4871-a41b-45c99c6cb867
-  mac-addresses:
+  id: 2bad6c5c-45fd-4c9e-8cf5-b5f14bfd1b10
+  macAddresses:
   - 00:50:C2:90:20:00/36
   manufacturer: China Railway Signal & Communication Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaRai
 type: d3-device-type-assertion

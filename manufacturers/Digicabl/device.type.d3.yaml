@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b99343f-6ce7-4dec-ac18-bf56f2d1f8bb
-  mac-addresses:
+  id: 6224937b-9be3-4388-90f5-c031eb085b05
+  macAddresses:
   - 00:22:5D:00:00:00/24
   manufacturer: Digicable Network India Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digicabl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0375945-9c46-4d48-af57-d64bb487e6c9
-  mac-addresses:
+  id: 323d2e65-5c6a-474a-b155-c6b040ff05de
+  macAddresses:
   - 00:10:58:00:00:00/24
   manufacturer: ArrowPoint Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArrowPoi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5220e5e-e089-4249-9121-6dff714ceb18
-  mac-addresses:
+  id: 72a987e7-ccee-46c9-a0ce-06ec16408b7a
+  macAddresses:
   - 70:B3:D5:61:50:00/36
   manufacturer: Jsc "Otzvuk"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Otzvuk
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95bfdae6-b46c-4b43-b67c-34f7a13be177
-  mac-addresses:
+  id: e5d81a6f-b744-4e16-bc67-6717731d07f3
+  macAddresses:
   - 78:07:38:00:00:00/24
   manufacturer: Z.U.K. Elzab S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZUKElzab
 type: d3-device-type-assertion

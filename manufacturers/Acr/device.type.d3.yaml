@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e62dded-ac9f-4f7d-93df-96020ed1bdb7
-  mac-addresses:
+  id: 3b9696ed-1494-4489-a835-50d41a7e40d4
+  macAddresses:
   - 00:02:D5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acr
 type: d3-device-type-assertion

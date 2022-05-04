@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7967c6b5-d38d-48b7-a4e4-5426c942af43
-  mac-addresses:
+  id: 571b3b6e-054b-4549-ba52-d3f65be857e0
+  macAddresses:
   - 78:C2:C0:E0:00:00/28
   manufacturer: Huwomobility
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Huwomobi
 type: d3-device-type-assertion

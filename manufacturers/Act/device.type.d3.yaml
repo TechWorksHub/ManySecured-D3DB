@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 654f885d-1f44-4c1e-a09a-803ff5495610
-  mac-addresses:
+  id: 50d2125b-636d-4ebe-a0a4-cabc0e7ad3c9
+  macAddresses:
   - 00:50:C2:34:50:00/36
   - 00:50:C2:B2:E0:00/36
   - 40:D8:55:0C:00:00/36
   - 90:C6:82:90:00:00/28
   - 98:FD:74:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Act
 type: d3-device-type-assertion

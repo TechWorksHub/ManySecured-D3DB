@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f93b021-a9a0-40a9-9981-98b75259ce35
-  mac-addresses:
+  id: 38d2f379-b25c-4395-aa2a-4ea6bde6e267
+  macAddresses:
   - A4:5A:1C:00:00:00/24
   manufacturer: smart-electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: smart-el
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8f6a3c53-cae2-4f0d-a453-9fa08ab186d4
-  mac-addresses:
+  id: 5157b39f-7745-4a11-a5aa-41f3066c949c
+  macAddresses:
   - 40:D8:55:07:30:00/36
   - 50:0B:91:C0:00:00/28
   manufacturer: Diamond Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiamondT
 type: d3-device-type-assertion

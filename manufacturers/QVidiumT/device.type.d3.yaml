@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93cb357c-a3f4-4d5d-b541-3ecd84cd5f97
-  mac-addresses:
+  id: 30f3320e-4d8e-4801-87a6-d61374194b54
+  macAddresses:
   - 00:26:93:00:00:00/24
   manufacturer: QVidium Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QVidiumT
 type: d3-device-type-assertion

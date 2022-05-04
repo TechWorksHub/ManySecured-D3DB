@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3f2135e-0c91-410a-b03a-d37ebd6e140d
-  mac-addresses:
+  id: bf9bc392-c6ee-4cd6-a7b1-6e56745c66da
+  macAddresses:
   - EC:9F:0D:00:00:00/28
   manufacturer: Hesai Photonics Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HesaiPho
 type: d3-device-type-assertion

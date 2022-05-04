@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5849b67c-e986-44ac-b5ca-462980380beb
-  mac-addresses:
+  id: 980eb37c-0e9c-4f3a-893e-27bdf12dea5a
+  macAddresses:
   - 4C:A1:61:00:00:00/24
   manufacturer: Rain Bird Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RainBird
 type: d3-device-type-assertion

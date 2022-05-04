@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d944b50-eca5-402a-a8cb-24d1ccfdb256
-  mac-addresses:
+  id: 2bb63596-304f-4c76-b31a-1fef082bd370
+  macAddresses:
   - EC:8E:AD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dlx
 type: d3-device-type-assertion

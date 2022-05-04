@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3a89c14-4f17-4f4d-95d6-a24b8d4644c5
-  mac-addresses:
+  id: a400eb7c-be50-42d9-a34b-7a7b154e63a5
+  macAddresses:
   - 00:50:C2:3E:80:00/36
   manufacturer: Conformative Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Conforma
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9791ace-3a96-491c-a1ae-a511a99c616c
-  mac-addresses:
+  id: 61198cf3-dc4b-4727-8541-f9e61ad47f07
+  macAddresses:
   - 00:12:33:00:00:00/24
   manufacturer: JRC TOKKI Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JRCTOKKI
 type: d3-device-type-assertion

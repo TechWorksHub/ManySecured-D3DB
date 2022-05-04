@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11798b9a-0ef7-40d6-b66a-81487f6ce0ef
-  mac-addresses:
+  id: c75ab446-eec6-4caf-a23e-ac71de23be34
+  macAddresses:
   - 00:1A:FA:00:00:00/24
   manufacturer: Welch Allyn, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WelchAll
 type: d3-device-type-assertion

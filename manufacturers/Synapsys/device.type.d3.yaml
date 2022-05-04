@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e5d72e5-a5b7-4bb5-a201-f28a09f1421b
-  mac-addresses:
+  id: 879631ed-d4a0-4912-be64-98edd8f9a1a4
+  macAddresses:
   - A0:C5:F2:E0:00:00/28
   manufacturer: Synapsys Solutions Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synapsys
 type: d3-device-type-assertion

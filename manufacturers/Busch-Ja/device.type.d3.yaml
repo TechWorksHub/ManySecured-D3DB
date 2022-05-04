@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61970b0e-dc35-4da1-8a16-5a8e29f4d6b9
-  mac-addresses:
+  id: 38e7e811-81db-43ed-96f9-3ec4a80e9dd9
+  macAddresses:
   - D8:5D:EF:00:00:00/24
   manufacturer: Busch-Jaeger Elektro GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Busch-Ja
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cae6a1a1-5b1d-40c6-9931-2b635932512a
-  mac-addresses:
+  id: 5b2e6b70-a65c-4691-8739-b350dcbce5bb
+  macAddresses:
   - 70:B3:D5:23:B0:00/36
   manufacturer: Fink Telecom Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FinkTele
 type: d3-device-type-assertion

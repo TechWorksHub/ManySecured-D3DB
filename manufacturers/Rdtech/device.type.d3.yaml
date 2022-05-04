@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 758901fe-ef1f-4fc7-8aa7-352afe971ccb
-  mac-addresses:
+  id: d4f639aa-b9ac-4892-804a-9d8c903d02ec
+  macAddresses:
   - 00:50:C2:25:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rdtech
 type: d3-device-type-assertion

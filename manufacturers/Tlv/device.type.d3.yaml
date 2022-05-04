@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c82ab046-c379-410d-be8f-4113497fb120
-  mac-addresses:
+  id: df88e32e-b333-4805-9cf9-5f72ddfbfb37
+  macAddresses:
   - 70:B3:D5:A2:C0:00/36
   manufacturer: Tlv Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tlv
 type: d3-device-type-assertion

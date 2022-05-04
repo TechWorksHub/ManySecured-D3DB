@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 957ac6d9-8a6f-40a8-8744-6e79f295020f
-  mac-addresses:
+  id: 6e27865e-1fd2-41ba-8f69-f32a39c44388
+  macAddresses:
   - 84:A3:B5:00:00:00/24
   manufacturer: Propulsion systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Propulsi
 type: d3-device-type-assertion

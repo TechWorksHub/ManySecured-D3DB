@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 641978cf-2d94-45ce-a22b-a051fdb70118
-  mac-addresses:
+  id: a5dd7016-a9c4-432c-918d-2a5339e724a4
+  macAddresses:
   - BC:A1:3A:00:00:00/24
   - DC:4A:9E:E0:00:00/28
   manufacturer: SES-imagotag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SES-imag
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51312391-e0dd-472f-94fa-6f43ef033986
-  mac-addresses:
+  id: 1466054a-7e80-411d-9341-d722c2666be3
+  macAddresses:
   - 2C:08:1C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ovh
 type: d3-device-type-assertion

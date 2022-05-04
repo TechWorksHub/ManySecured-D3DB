@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dc90632-1707-448e-a8be-001562511b41
-  mac-addresses:
+  id: 0fada4fc-9161-4db4-854f-66fb60bfb7e9
+  macAddresses:
   - 90:A4:6A:00:00:00/24
   manufacturer: Sisnet Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sisnet
 type: d3-device-type-assertion

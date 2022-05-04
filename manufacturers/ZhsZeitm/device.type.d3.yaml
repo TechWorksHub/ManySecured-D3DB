@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8091276e-342d-491c-8058-49174e376050
-  mac-addresses:
+  id: e90de414-6e5d-47a3-b24d-fd21764e3046
+  macAddresses:
   - 00:D0:05:00:00:00/24
   manufacturer: Zhs Zeitmanagementsysteme
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhsZeitm
 type: d3-device-type-assertion

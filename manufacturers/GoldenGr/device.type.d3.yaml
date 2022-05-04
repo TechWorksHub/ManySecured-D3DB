@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27b8c80b-f86c-47e8-9045-59f5dc90716d
-  mac-addresses:
+  id: fbba64c5-b1d5-4f23-b0fd-0f4712c19d90
+  macAddresses:
   - 70:B3:D5:20:A0:00/36
   manufacturer: Golden Grid Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoldenGr
 type: d3-device-type-assertion

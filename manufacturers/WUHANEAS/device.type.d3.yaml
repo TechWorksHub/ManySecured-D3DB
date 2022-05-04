@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1667f490-a879-4652-a78f-e4c66306c8ed
-  mac-addresses:
+  id: da521f7f-07a5-4f51-bc38-fd5010289d04
+  macAddresses:
   - 70:B3:D5:88:B0:00/36
   manufacturer: WUHAN EASYLINKIN TECHNOLOGY co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WUHANEAS
 type: d3-device-type-assertion

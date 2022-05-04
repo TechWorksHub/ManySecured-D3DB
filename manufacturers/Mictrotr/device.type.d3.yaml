@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6afcd1ef-48c6-4060-87dd-32c18a9c3817
-  mac-addresses:
+  id: 4537f17d-af4a-42b7-9b25-561c0e1620af
+  macAddresses:
   - 70:B3:D5:F0:90:00/36
   manufacturer: Mictrotrac Retsch GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mictrotr
 type: d3-device-type-assertion

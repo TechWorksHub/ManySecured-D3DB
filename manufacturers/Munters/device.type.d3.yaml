@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7719ee51-895b-40fb-b7ea-25021fa6369c
-  mac-addresses:
+  id: 58d2113d-c0ab-41db-a62c-32175fd6f0a2
+  macAddresses:
   - 70:B3:D5:FA:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Munters
 type: d3-device-type-assertion

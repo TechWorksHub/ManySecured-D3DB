@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f6a927f-5339-4f1a-8633-fd38e267b66a
-  mac-addresses:
+  id: e37832b4-d503-403e-a601-d228ba3be761
+  macAddresses:
   - 00:03:B9:00:00:00/24
   manufacturer: Hualong Telecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HualongT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87b33b39-c474-4514-8654-d9384142b18d
-  mac-addresses:
+  id: c3031982-e22d-4835-87cd-00d87c22e153
+  macAddresses:
   - 00:1B:C5:03:80:00/36
   manufacturer: SEED International Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEEDInte
 type: d3-device-type-assertion

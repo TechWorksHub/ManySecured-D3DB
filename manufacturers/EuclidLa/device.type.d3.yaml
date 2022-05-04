@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cdcb842-da60-4d95-bd92-1716b546f59b
-  mac-addresses:
+  id: 3acac3d3-c9a8-4d1d-98d7-2cefe909be63
+  macAddresses:
   - 54:2F:89:00:00:00/24
   manufacturer: Euclid Laboratories, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EuclidLa
 type: d3-device-type-assertion

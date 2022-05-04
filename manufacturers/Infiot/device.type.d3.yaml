@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0efe6fe-49a3-4d7b-a48d-17640f27ad3b
-  mac-addresses:
+  id: f4b3f7c5-f008-4584-b12e-115a963bf6ef
+  macAddresses:
   - C0:9B:F4:50:00:00/28
   manufacturer: Infiot Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infiot
 type: d3-device-type-assertion

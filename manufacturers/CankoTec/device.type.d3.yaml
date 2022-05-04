@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11412479-d10b-49b6-8f19-d09dbb470823
-  mac-addresses:
+  id: 8159dabd-6e70-4960-9f02-0a992d038a3e
+  macAddresses:
   - 00:17:DB:00:00:00/24
   manufacturer: Canko Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CankoTec
 type: d3-device-type-assertion

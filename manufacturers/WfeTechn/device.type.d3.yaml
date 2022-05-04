@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36d0abf6-cee0-4d64-9ec8-5d21a2d157a0
-  mac-addresses:
+  id: 9d194682-5b8f-4ebe-9ea4-aa92aac62481
+  macAddresses:
   - 00:26:47:00:00:00/24
   manufacturer: Wfe Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WfeTechn
 type: d3-device-type-assertion

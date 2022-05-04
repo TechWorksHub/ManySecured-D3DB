@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3a95f9ee-f040-4b05-bb4b-060a1fa669e2
-  mac-addresses:
+  id: b0bb25bc-d35f-4d14-81a3-010ac1126fbd
+  macAddresses:
   - 00:17:85:00:00:00/24
   - 00:50:C2:18:E0:00/36
   manufacturer: Sparr Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SparrEle
 type: d3-device-type-assertion

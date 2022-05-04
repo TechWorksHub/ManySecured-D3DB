@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3de4f28e-6f5f-49e8-a52e-d1ddbe8eb473
-  mac-addresses:
+  id: 7bf1cab3-c404-4f91-9e5d-1098a3037a02
+  macAddresses:
   - A4:3B:FA:00:00:00/28
   manufacturer: Chengdu Territory Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengduT
 type: d3-device-type-assertion

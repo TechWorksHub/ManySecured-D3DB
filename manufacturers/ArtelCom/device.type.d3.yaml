@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6279e3e9-3c5e-4137-bd1e-17538dbed075
-  mac-addresses:
+  id: 9d8f4b95-c865-415e-974e-dc33746f729f
+  macAddresses:
   - 00:80:7B:00:00:00/24
   manufacturer: Artel Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtelCom
 type: d3-device-type-assertion

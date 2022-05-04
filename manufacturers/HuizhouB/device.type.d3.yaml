@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dfeb7bd-ded6-4c7f-8bc2-539061314918
-  mac-addresses:
+  id: cd0cdd22-f588-49e8-aee7-07d04919e338
+  macAddresses:
   - D0:CF:D8:00:00:00/24
   manufacturer: Huizhou Boshijie Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuizhouB
 type: d3-device-type-assertion

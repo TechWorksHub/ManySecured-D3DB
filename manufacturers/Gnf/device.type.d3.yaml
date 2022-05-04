@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60c33840-ef21-48db-97aa-2df5aaa38c90
-  mac-addresses:
+  id: 8e4386e9-4913-4c46-9af0-63e2845fbdc8
+  macAddresses:
   - 70:B3:D5:75:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gnf
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0e9ae77-33ee-4004-90dc-7e9b80944753
-  mac-addresses:
+  id: b096ad89-a828-444f-a0ca-b54e533851f8
+  macAddresses:
   - 00:30:02:00:00:00/24
   manufacturer: Expand Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExpandNe
 type: d3-device-type-assertion

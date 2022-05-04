@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 706c1df3-fff6-4701-abce-3490f672f337
-  mac-addresses:
+  id: 10f1a6b5-ac48-4210-a204-eaaf3a7c7eb0
+  macAddresses:
   - 00:50:C2:78:10:00/36
   manufacturer: Starling Advanced Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Starling
 type: d3-device-type-assertion

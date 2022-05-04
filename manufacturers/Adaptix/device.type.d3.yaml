@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1559b31d-c608-4ca9-a11e-b434bc31a5c8
-  mac-addresses:
+  id: 69fc9caa-f667-4f64-acd2-7311bef82fc7
+  macAddresses:
   - 00:12:61:00:00:00/24
   manufacturer: Adaptix, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adaptix
 type: d3-device-type-assertion

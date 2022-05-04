@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c468d6f-2d2f-4251-838b-52799bf64a67
-  mac-addresses:
+  id: 1ee2a774-2046-4279-906f-01190b4bedc1
+  macAddresses:
   - 70:B3:D5:22:10:00/36
   manufacturer: LX Design House
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LXDesign
 type: d3-device-type-assertion

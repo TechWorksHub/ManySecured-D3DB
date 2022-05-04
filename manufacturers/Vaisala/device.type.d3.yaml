@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 6da2c259-5e99-43f7-821b-390dd9aab081
-  mac-addresses:
+  id: e0a8af5c-cf71-46c9-bfc5-0c4108a41520
+  macAddresses:
   - 00:50:C2:13:B0:00/36
   - 00:50:C2:F8:70:00/36
   - 40:ED:98:70:00:00/28
   - 70:B3:D5:5F:F0:00/36
   manufacturer: Vaisala Oyj
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vaisala
 type: d3-device-type-assertion

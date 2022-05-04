@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a47c0c7-67bb-47fb-9539-1d8066d91da9
-  mac-addresses:
+  id: 6c32bdeb-84bb-4a54-a988-76d95c6a98f3
+  macAddresses:
   - 70:B3:D5:A2:60:00/36
   manufacturer: Hear Gear, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HearGear
 type: d3-device-type-assertion

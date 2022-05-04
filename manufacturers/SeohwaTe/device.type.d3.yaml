@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eedc4c9f-2b20-4786-a5e4-a9c00d13f25d
-  mac-addresses:
+  id: 0d7524d6-3909-407b-9df4-fc0c84c69380
+  macAddresses:
   - 10:E3:C7:00:00:00/24
   manufacturer: Seohwa Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeohwaTe
 type: d3-device-type-assertion

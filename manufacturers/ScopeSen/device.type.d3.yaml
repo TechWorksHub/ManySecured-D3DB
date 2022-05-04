@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30881177-ac5c-4215-afb9-f0ea3c87e42b
-  mac-addresses:
+  id: 6bd97ac9-1562-41bf-bfff-c7b04fee663c
+  macAddresses:
   - 70:B3:D5:DF:70:00/36
   manufacturer: ScopeSensor Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScopeSen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90e63ca1-a592-4fa4-8ee4-9a5c78c904f0
-  mac-addresses:
+  id: 33976a78-4642-49c4-ac22-ce1ad0af4e3d
+  macAddresses:
   - 58:48:49:50:00:00/28
   manufacturer: Hubei Shudi Communication Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HubeiShu
 type: d3-device-type-assertion

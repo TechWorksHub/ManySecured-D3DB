@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19271ae3-fecb-4def-99f1-7edef218b2ad
-  mac-addresses:
+  id: 3a95ebb8-06d0-418a-a736-46c3be2f3c2f
+  macAddresses:
   - 00:1B:C5:01:10:00/36
   manufacturer: OOO NPP Mera
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPPMera
 type: d3-device-type-assertion

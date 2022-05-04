@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f63b63b3-a75b-4484-948f-c6cda32be43d
-  mac-addresses:
+  id: 9b92e992-5082-4b61-be36-6064a14c32d7
+  macAddresses:
   - 00:25:72:00:00:00/24
   manufacturer: Nemo-Q International AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nemo-QIn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 571f2827-e367-41b6-bc02-941f124f2390
-  mac-addresses:
+  id: ea7c71e3-88a4-49a6-9f3d-c10b49b200cf
+  macAddresses:
   - 9C:BD:9D:00:00:00/24
   manufacturer: SkyDisk, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkyDisk
 type: d3-device-type-assertion

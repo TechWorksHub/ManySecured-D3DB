@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d570a56-3710-426b-9861-8b44d1e5f917
-  mac-addresses:
+  id: ddab1cdf-4147-493d-a2a2-257d9964c5ce
+  macAddresses:
   - 00:24:AA:00:00:00/24
   manufacturer: Dycor Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DycorTec
 type: d3-device-type-assertion

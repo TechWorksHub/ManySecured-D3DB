@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7a0e4b6-3433-49d1-82c3-024a1b70f3b9
-  mac-addresses:
+  id: b9fa173b-c004-4c52-8498-3c414aa4f76f
+  macAddresses:
   - 68:79:12:90:00:00/28
   manufacturer: LEAPS s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LEAPSsro
 type: d3-device-type-assertion

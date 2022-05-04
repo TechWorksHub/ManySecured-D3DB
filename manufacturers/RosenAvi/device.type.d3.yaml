@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa6fb4e6-3f5a-48f0-8403-4ce88fd9d10f
-  mac-addresses:
+  id: 0dd47015-3d87-4675-b995-fe8fc8977dd3
+  macAddresses:
   - 00:35:60:00:00:00/24
   manufacturer: Rosen Aviation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RosenAvi
 type: d3-device-type-assertion

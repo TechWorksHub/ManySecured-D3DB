@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2eb4a3c6-f551-403f-9fba-3c6a9ad23903
-  mac-addresses:
+  id: 49b2c6bd-6e75-4e66-a190-24ae41a2993d
+  macAddresses:
   - 8C:1C:DA:20:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Geomc
 type: d3-device-type-assertion

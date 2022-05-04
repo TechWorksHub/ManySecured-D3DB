@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e794b29d-187e-4e27-8355-cbc1783fe700
-  mac-addresses:
+  id: 5e1af910-753b-41c4-8503-7d6b1a584dbf
+  macAddresses:
   - 6C:5C:DE:00:00:00/24
   manufacturer: SunReports, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunRepor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4f6112e-5194-4318-8be5-b9b901633959
-  mac-addresses:
+  id: ec6cd6af-133e-4a35-a843-12ef6be6d1aa
+  macAddresses:
   - 70:B3:D5:07:F0:00/36
   manufacturer: Abalance Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abalance
 type: d3-device-type-assertion

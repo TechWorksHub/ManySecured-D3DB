@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0678bf72-8377-4c91-ae88-3151b77049db
-  mac-addresses:
+  id: 1254e358-332c-46fe-ba9e-d06d85706c0a
+  macAddresses:
   - 00:E0:C5:00:00:00/24
   manufacturer: Bcom Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BcomElec
 type: d3-device-type-assertion

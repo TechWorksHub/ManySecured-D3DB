@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 321e93bb-3758-4533-98f1-cea15094766d
-  mac-addresses:
+  id: d377d0d2-faec-455c-8b3c-f5c2dd01a78b
+  macAddresses:
   - 70:B3:D5:24:70:00/36
   manufacturer: Satsky Communication Equipment Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SatskyCo
 type: d3-device-type-assertion

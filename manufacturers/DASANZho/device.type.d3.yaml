@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00c67742-ae28-4b69-977a-3525c3d73dcb
-  mac-addresses:
+  id: df4844f4-096c-4fe9-ada6-b99bb2a75e55
+  macAddresses:
   - 40:F2:1C:00:00:00/24
   manufacturer: DASAN Zhone Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DASANZho
 type: d3-device-type-assertion

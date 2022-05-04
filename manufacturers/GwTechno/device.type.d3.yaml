@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fcf35dc-72aa-4d50-9fa0-a7b85b0c493e
-  mac-addresses:
+  id: 0038f846-fa0e-4027-8235-e806e675255e
+  macAddresses:
   - 00:0F:E9:00:00:00/24
   manufacturer: Gw Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GwTechno
 type: d3-device-type-assertion

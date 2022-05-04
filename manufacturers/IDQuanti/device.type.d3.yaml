@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3541d356-3479-4db4-b75a-fed6515e7bd2
-  mac-addresses:
+  id: c72bfcfc-9769-4a1a-9793-b0cacba7f5ea
+  macAddresses:
   - 70:B3:D5:65:70:00/36
   manufacturer: ID Quantique SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDQuanti
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0334a606-d763-4ca1-a6d9-cdf9ef350cdf
-  mac-addresses:
+  id: 7622a4d6-f06c-48a1-a460-13a3afaaeb7c
+  macAddresses:
   - 70:B3:D5:CB:70:00/36
   - 70:B3:D5:F1:F0:00/36
   manufacturer: HKC Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HKC
 type: d3-device-type-assertion

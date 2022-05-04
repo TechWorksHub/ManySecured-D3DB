@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7d06ae6-2fc7-495d-95df-33378bb04bb0
-  mac-addresses:
+  id: 0512cc58-45cd-42e2-90d6-e07ceeff3406
+  macAddresses:
   - 00:0A:EF:00:00:00/24
   manufacturer: Otrum Asa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OtrumAsa
 type: d3-device-type-assertion

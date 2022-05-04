@@ -1,10 +1,10 @@
 credentialSubject:
-  id: dbec8079-a071-49fe-bd04-c8dd297f252c
-  mac-addresses:
+  id: 81273b98-6f04-4b81-b250-a757386e7ddf
+  macAddresses:
   - 20:CE:2A:C0:00:00/28
   - 70:B3:D5:3D:60:00/36
   - 70:B3:D5:C1:10:00/36
   manufacturer: Ariston Thermo s.p.a.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AristonT
 type: d3-device-type-assertion

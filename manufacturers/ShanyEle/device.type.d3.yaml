@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ffac648-8773-43d5-9f76-056e7e346972
-  mac-addresses:
+  id: eec0b9e9-4609-4480-9e8e-e460669c78f9
+  macAddresses:
   - 10:FC:54:00:00:00/24
   manufacturer: Shany Electronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShanyEle
 type: d3-device-type-assertion

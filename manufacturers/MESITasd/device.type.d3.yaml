@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 919b4dda-4d8f-49be-909b-117d6785091c
-  mac-addresses:
+  id: 0373fa4e-cf78-4706-a1a8-2c028f6320f5
+  macAddresses:
   - A0:22:4E:60:00:00/28
   manufacturer: MESIT asd, s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MESITasd
 type: d3-device-type-assertion

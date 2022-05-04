@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 475c5331-8dbb-4a70-b492-666682576a59
-  mac-addresses:
+  id: 2c223725-20a5-4b3d-8578-2f49da1384c9
+  macAddresses:
   - 00:13:F5:00:00:00/24
   manufacturer: Akimbi Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Akimbi
 type: d3-device-type-assertion

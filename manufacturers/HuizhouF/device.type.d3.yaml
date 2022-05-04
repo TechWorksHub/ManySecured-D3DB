@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf3188b9-a8d5-4855-adeb-7c72ac101256
-  mac-addresses:
+  id: 6ae0f0a8-4b87-442d-ae33-6effc4b10586
+  macAddresses:
   - 44:10:FE:00:00:00/24
   manufacturer: Huizhou Foryou General Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuizhouF
 type: d3-device-type-assertion

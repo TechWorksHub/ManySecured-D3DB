@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 793498ee-57eb-46ec-a281-9495d8f3988c
-  mac-addresses:
+  id: c9e628e1-e30c-4c9f-a8be-c22aedd35cff
+  macAddresses:
   - 00:60:EC:00:00:00/24
   manufacturer: Hermary Opto Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HermaryO
 type: d3-device-type-assertion

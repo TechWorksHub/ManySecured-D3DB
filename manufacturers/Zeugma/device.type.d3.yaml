@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70ee7cc5-bafc-4825-a594-30c8b3037a27
-  mac-addresses:
+  id: 9189a6eb-f6d0-4479-83a0-66b53979897a
+  macAddresses:
   - 00:19:73:00:00:00/24
   manufacturer: Zeugma Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zeugma
 type: d3-device-type-assertion

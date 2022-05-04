@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9fbeec37-aeff-406a-b9cb-c413bce54862
-  mac-addresses:
+  id: 4192e822-678f-441e-90cd-744d83f3b584
+  macAddresses:
   - 08:F7:E9:00:00:00/24
   manufacturer: HRCP Research and Development Partnership
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HRCPRese
 type: d3-device-type-assertion

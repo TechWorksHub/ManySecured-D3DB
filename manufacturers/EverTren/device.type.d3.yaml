@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19922ca9-cae5-4922-969a-5ab0db680c8d
-  mac-addresses:
+  id: f7062c1f-ce3b-4d24-b94a-b98278a681df
+  macAddresses:
   - 40:D8:55:0B:20:00/36
   manufacturer: Ever Trend Technology Development Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EverTren
 type: d3-device-type-assertion

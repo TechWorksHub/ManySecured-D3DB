@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 363935d3-6e88-4745-a4f3-c21ce5af7603
-  mac-addresses:
+  id: f5f41b63-4d52-4241-9459-0811df014c78
+  macAddresses:
   - 00:02:B0:00:00:00/24
   manufacturer: Hokubu Communication & Industrial Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HokubuCo
 type: d3-device-type-assertion

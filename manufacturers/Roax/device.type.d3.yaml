@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f0165a4-33c3-42f0-a8f2-3089fd2d24da
-  mac-addresses:
+  id: 5fb02dd3-f10f-4f5d-9631-8cc6aaa66266
+  macAddresses:
   - 00:05:BD:00:00:00/24
   manufacturer: Roax Bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Roax
 type: d3-device-type-assertion

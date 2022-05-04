@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67af8539-3900-46ea-9a54-817b99295f94
-  mac-addresses:
+  id: 682c9f50-b377-4bb7-ad7e-23b4fa5c548f
+  macAddresses:
   - 04:36:04:00:00:00/24
   manufacturer: Gyeyoung I&T
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gyeyoung
 type: d3-device-type-assertion

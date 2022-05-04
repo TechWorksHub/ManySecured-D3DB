@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8c5caae-13ca-41f8-bcca-dcaecfe62c1a
-  mac-addresses:
+  id: ad2a4695-032b-43da-9719-ca07f94eefd0
+  macAddresses:
   - 00:07:F0:00:00:00/24
   manufacturer: LogiSync LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogiSync
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 1142abca-0314-4cd9-b6a1-d0e5925bc401
-  mac-addresses:
+  id: e63b3832-da9d-4f3a-874d-9aaca8ddd950
+  macAddresses:
   - 00:50:C2:46:20:00/36
   - 00:50:C2:85:60:00/36
   - 00:50:C2:A8:20:00/36
@@ -23,6 +23,6 @@ credentialSubject:
   - 70:B3:D5:5D:50:00/36
   - 70:B3:D5:66:70:00/36
   manufacturer: CT Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CT
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cf36e3cf-72bb-4262-bbd6-c64ea262e748
-  mac-addresses:
+  id: 02f89e4b-b49b-4ce2-aa32-214061e92dd2
+  macAddresses:
   - 00:50:C2:D2:90:00/36
   - 00:50:C2:FE:B0:00/36
   manufacturer: Axible Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxibleTe
 type: d3-device-type-assertion

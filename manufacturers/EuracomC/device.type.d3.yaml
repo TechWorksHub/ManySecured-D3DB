@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24d0ee7e-45b7-4b11-ae23-9b82ea304d3c
-  mac-addresses:
+  id: 7d918c0d-3ea7-49b4-84c7-635715617d1e
+  macAddresses:
   - 00:06:90:00:00:00/24
   manufacturer: Euracom Communication GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EuracomC
 type: d3-device-type-assertion

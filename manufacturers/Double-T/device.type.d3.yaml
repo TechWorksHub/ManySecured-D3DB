@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0059d674-2fc0-4e88-8e9b-2b2b75b5b9fb
-  mac-addresses:
+  id: 3b333bdc-f1f2-4b65-a7bf-2b3b45ee4680
+  macAddresses:
   - 00:23:F9:00:00:00/24
   manufacturer: Double-Take Software, INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Double-T
 type: d3-device-type-assertion

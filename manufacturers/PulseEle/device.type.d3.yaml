@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c947eae-50e0-4377-8a59-b9211633b777
-  mac-addresses:
+  id: 502a566b-1fa9-4088-acf5-0b2f96ba6b81
+  macAddresses:
   - 00:20:C0:00:00:00/24
   manufacturer: Pulse Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PulseEle
 type: d3-device-type-assertion

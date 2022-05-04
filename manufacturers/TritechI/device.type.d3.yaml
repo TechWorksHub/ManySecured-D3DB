@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aee6fa2-139e-40dc-8e57-a16171989832
-  mac-addresses:
+  id: 5a2b708d-442b-487d-a841-820d4ba6d02a
+  macAddresses:
   - 00:50:C2:B9:40:00/36
   manufacturer: Tritech International Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TritechI
 type: d3-device-type-assertion

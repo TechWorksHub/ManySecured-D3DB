@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce072d0a-e706-4c87-85c6-a3b9b56b74dd
-  mac-addresses:
+  id: 25be095c-569b-4fb9-a936-af3677ca2314
+  macAddresses:
   - 00:C0:39:00:00:00/24
   manufacturer: Teridian Semiconductor Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teridian
 type: d3-device-type-assertion

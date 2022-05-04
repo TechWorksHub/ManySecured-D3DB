@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9dcdfd4-9c91-47d9-90ff-ca5dd63c12f5
-  mac-addresses:
+  id: e96c7c82-e629-4313-9339-5432e660d23e
+  macAddresses:
   - 70:F8:E7:70:00:00/28
   manufacturer: NST Technology Limited Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NSTTechn
 type: d3-device-type-assertion

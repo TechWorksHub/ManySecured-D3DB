@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 196409bb-7c9c-4bac-b27d-161aa35868bc
-  mac-addresses:
+  id: 954815fd-6359-4c2a-b20d-d4fe1ac1c6b7
+  macAddresses:
   - 00:50:C2:E5:C0:00/36
   manufacturer: MCOPIA Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCOPIA
 type: d3-device-type-assertion

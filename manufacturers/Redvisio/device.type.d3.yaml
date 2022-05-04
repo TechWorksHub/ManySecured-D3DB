@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bdb3564-aaff-49e2-a2a4-3e2e6d7425c6
-  mac-addresses:
+  id: b95d3c5c-f519-43bb-b323-107cd7721a03
+  macAddresses:
   - BC:34:00:00:00:00/28
   manufacturer: Redvision CCTV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Redvisio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5ee7814-ffcb-4317-8cba-32f634e559ec
-  mac-addresses:
+  id: 53a171fc-854b-488e-8946-89755f78383d
+  macAddresses:
   - 9C:EF:D5:00:00:00/24
   manufacturer: Panda Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PandaWir
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81f760d3-6517-438b-bb06-27b18bd644ba
-  mac-addresses:
+  id: 89d52bcb-3f58-4c4c-81d2-d12b43c8637b
+  macAddresses:
   - 70:B3:D5:C4:C0:00/36
   manufacturer: VTC Digicom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VTCDigic
 type: d3-device-type-assertion

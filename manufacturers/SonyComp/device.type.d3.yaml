@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab1bf70c-18ae-4d14-bd9a-b7dff565f475
-  mac-addresses:
+  id: 8f4fd7bd-3a01-4886-918b-68f87758aa70
+  macAddresses:
   - 00:22:A6:00:00:00/24
   manufacturer: Sony Computer Entertainment America
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonyComp
 type: d3-device-type-assertion

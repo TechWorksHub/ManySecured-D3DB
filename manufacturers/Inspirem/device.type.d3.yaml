@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 499c5adb-c128-4b18-93f7-a124766703d6
-  mac-addresses:
+  id: 6d9042a2-0a4d-4e76-b044-f507fe3dc6e7
+  macAddresses:
   - C8:9C:13:00:00:00/24
   manufacturer: Inspiremobile
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inspirem
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0317d09-7645-44b5-8858-110915b0ed1a
-  mac-addresses:
+  id: 8430abba-70a1-404c-a6d8-2dba7725404b
+  macAddresses:
   - 60:15:92:40:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zaptec
 type: d3-device-type-assertion

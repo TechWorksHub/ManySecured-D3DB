@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3ea923f-09e2-4e65-aa54-6df72a97b58b
-  mac-addresses:
+  id: a507868e-d2c7-43ce-b8e3-f4a9f7abcdb2
+  macAddresses:
   - 00:50:C2:B4:40:00/36
   manufacturer: Ampcontrol Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ampcontr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55dfbeee-e9c2-40e0-a8c1-8f57db858f67
-  mac-addresses:
+  id: f56bf2ab-09ff-4917-aa5b-9fcb825e92d5
+  macAddresses:
   - 60:FE:1E:00:00:00/24
   manufacturer: China Palms Telecom.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaPal
 type: d3-device-type-assertion

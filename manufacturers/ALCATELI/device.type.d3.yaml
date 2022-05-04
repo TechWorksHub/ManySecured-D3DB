@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b12dc1bc-b302-4e1e-bc0b-08a0d0304423
-  mac-addresses:
+  id: d43d325f-ab84-4cc5-ac0d-5ccd68873ea2
+  macAddresses:
   - 00:20:60:00:00:00/24
   manufacturer: ALCATEL ITALIA S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALCATELI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da085c53-6217-4966-a547-6c82a83fd31e
-  mac-addresses:
+  id: f50101b5-4a7b-466f-aa9c-eeafc9cfab19
+  macAddresses:
   - 00:50:C2:A9:F0:00/36
   manufacturer: YellowSoft Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YellowSo
 type: d3-device-type-assertion

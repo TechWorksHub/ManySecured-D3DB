@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73c0fd53-fda4-44ce-ac17-31f825a7e5fc
-  mac-addresses:
+  id: ed51f6e1-c6cf-468e-b8ff-21272f5cee9f
+  macAddresses:
   - 00:50:C2:B5:D0:00/36
   manufacturer: Plitron Manufacturing Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlitronM
 type: d3-device-type-assertion

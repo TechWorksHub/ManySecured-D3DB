@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ea783f1-02d6-422c-b3b0-57d5de1e436c
-  mac-addresses:
+  id: ee6aeaf5-fadd-4b61-b3e9-674ba8b3f5f3
+  macAddresses:
   - 54:9A:11:20:00:00/28
   manufacturer: Torrap Design Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TorrapDe
 type: d3-device-type-assertion

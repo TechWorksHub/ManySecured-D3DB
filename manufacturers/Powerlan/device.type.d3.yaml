@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc121073-8bff-4e28-aeb2-bb62231b2b20
-  mac-addresses:
+  id: ad2261e6-097e-4e17-8629-2ea08057c2e8
+  macAddresses:
   - 7C:47:7C:20:00:00/28
   manufacturer: Powerland Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powerlan
 type: d3-device-type-assertion

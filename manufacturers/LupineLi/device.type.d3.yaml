@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7180690c-438f-457e-9ea8-9c7ec2dd7867
-  mac-addresses:
+  id: e34ed55d-1a5d-4e10-a0a6-c965fa4e12be
+  macAddresses:
   - 68:12:95:00:00:00/24
   manufacturer: Lupine Lighting Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LupineLi
 type: d3-device-type-assertion

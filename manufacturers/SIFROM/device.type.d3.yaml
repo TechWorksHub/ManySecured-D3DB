@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb70544e-b311-42c8-b897-aaa02938652d
-  mac-addresses:
+  id: 3efbcb70-f93e-465a-9a78-cf947db7f184
+  macAddresses:
   - 44:C3:06:00:00:00/24
   manufacturer: SIFROM Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIFROM
 type: d3-device-type-assertion

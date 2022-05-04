@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9267774-7e72-47dc-9000-e56e907b3662
-  mac-addresses:
+  id: 65df3d63-15cf-4ad6-b250-acc527959e6c
+  macAddresses:
   - A8:E8:24:00:00:00/24
   manufacturer: Inim Electronics S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InimElec
 type: d3-device-type-assertion

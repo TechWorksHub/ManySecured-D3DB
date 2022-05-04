@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a189b253-3044-462f-8431-abb71e5f6a4f
-  mac-addresses:
+  id: 8f60f887-c6aa-4ff8-b3fa-c7beb9dfc8da
+  macAddresses:
   - 40:D8:55:1C:A0:00/36
   manufacturer: Rigel Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RigelEng
 type: d3-device-type-assertion

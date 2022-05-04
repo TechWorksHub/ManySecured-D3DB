@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e97f3a00-7e0e-469c-becf-232c4092e794
-  mac-addresses:
+  id: 2e8cb6bd-7b0d-4780-9de5-019780549ff0
+  macAddresses:
   - 70:B3:D5:98:20:00/36
   manufacturer: 3S - Sensors, Signal Processing, Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3S-Senso
 type: d3-device-type-assertion

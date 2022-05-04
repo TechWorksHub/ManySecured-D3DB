@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26231b4e-e813-4c2f-969b-66eaaa5dc6cc
-  mac-addresses:
+  id: 16164d39-2c30-4e8f-9ec9-e7e8a4ba9f25
+  macAddresses:
   - 00:50:C2:AD:B0:00/36
   manufacturer: GO engineering GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GOengine
 type: d3-device-type-assertion

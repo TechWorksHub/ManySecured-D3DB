@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 812ac902-786b-4b76-b88e-dacc984a84b5
-  mac-addresses:
+  id: e9fcee02-beb0-4064-90ba-2187d0eb0365
+  macAddresses:
   - 00:1D:5E:00:00:00/24
   manufacturer: Coming Media Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComingMe
 type: d3-device-type-assertion

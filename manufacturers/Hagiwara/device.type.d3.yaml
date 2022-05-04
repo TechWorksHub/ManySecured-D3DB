@@ -1,11 +1,11 @@
 credentialSubject:
-  id: c80242d4-a73d-46fe-82cc-c10f34a5c2bc
-  mac-addresses:
+  id: 0cca70be-3fdd-4ead-9ada-ecd96569745e
+  macAddresses:
   - 00:60:3C:00:00:00/24
   - 00:E0:31:00:00:00/24
   - 50:62:55:10:00:00/28
   - 70:B3:D5:3C:40:00/36
   manufacturer: Hagiwara Sys-Com Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hagiwara
 type: d3-device-type-assertion

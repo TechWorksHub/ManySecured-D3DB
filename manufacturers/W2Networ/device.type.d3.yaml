@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a312e0d-e162-48e9-b6e2-c04a5085ddf5
-  mac-addresses:
+  id: 2b4d01cb-4ed6-4e0a-b16e-de413083fc10
+  macAddresses:
   - 00:0A:93:00:00:00/24
   manufacturer: W2 Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: W2Networ
 type: d3-device-type-assertion

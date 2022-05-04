@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 589a8a38-516b-4ced-930d-16eafa414b7b
-  mac-addresses:
+  id: 6d9b1e50-4b26-4023-8ca5-38a84058b761
+  macAddresses:
   - 08:00:37:00:00:00/24
   - 1C:7D:22:00:00:00/24
   - 84:11:C2:30:00:00/28
   manufacturer: FUJIFILM Business Innovation Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FUJIFILM
 type: d3-device-type-assertion

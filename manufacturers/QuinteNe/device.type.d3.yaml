@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12e54058-f2bb-442c-80f7-a22ae6fa7a57
-  mac-addresses:
+  id: a6738174-a469-4757-9cce-7fa1c3d163ad
+  macAddresses:
   - 00:C0:D9:00:00:00/24
   manufacturer: Quinte Network Confidentiality Equipment Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuinteNe
 type: d3-device-type-assertion

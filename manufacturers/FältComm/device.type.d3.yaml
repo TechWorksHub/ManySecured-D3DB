@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7968c778-9558-4dd5-a48e-fcaffb1bac43
-  mac-addresses:
+  id: 13a67748-2eb4-4d1c-89f4-1a83cb0e554a
+  macAddresses:
   - 00:09:D8:00:00:00/24
   manufacturer: "F\xE4lt Communications AB"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "F\xE4ltComm"
 type: d3-device-type-assertion

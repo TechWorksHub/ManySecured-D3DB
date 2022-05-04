@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6670fd95-7b52-4228-bc3b-c9e21e032e6c
-  mac-addresses:
+  id: d4e8fc5c-11f9-4ad0-bf1b-783e25ca1b77
+  macAddresses:
   - 3C:6A:2C:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metro
 type: d3-device-type-assertion

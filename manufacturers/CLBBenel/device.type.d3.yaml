@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2553908f-e954-4e44-8db9-fecefe5abe44
-  mac-addresses:
+  id: 097450a5-6df0-4156-b6ce-d339273b02fa
+  macAddresses:
   - 00:1C:20:00:00:00/24
   manufacturer: CLB Benelux
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CLBBenel
 type: d3-device-type-assertion

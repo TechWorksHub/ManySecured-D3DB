@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b83afe3-bd26-4fc2-a9d2-55c11a1d8d08
-  mac-addresses:
+  id: f4f17a9e-4fc0-42c3-90e3-9c08adb109a6
+  macAddresses:
   - 30:1F:9A:C0:00:00/28
   manufacturer: Origami Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrigamiG
 type: d3-device-type-assertion

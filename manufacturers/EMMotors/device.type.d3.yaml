@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a394e93-d775-453b-9407-46a637d5ce56
-  mac-addresses:
+  id: d83c6b38-3411-4674-9e32-c7978e3fa73e
+  macAddresses:
   - 00:50:C2:59:00:00/36
   manufacturer: EM Motorsport Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMMotors
 type: d3-device-type-assertion

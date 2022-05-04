@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35b6f7a5-b675-4bc2-917a-614937cab67d
-  mac-addresses:
+  id: a6b52fa2-d2e1-415a-b7f4-7897c345e019
+  macAddresses:
   - 8C:76:C1:00:00:00/24
   manufacturer: Goden Tech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GodenTec
 type: d3-device-type-assertion

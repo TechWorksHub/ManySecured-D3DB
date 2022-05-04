@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f34526da-c253-4da4-a6d4-222cb4b295e9
-  mac-addresses:
+  id: 154e9d3b-c640-4d53-865c-8f5bb5401786
+  macAddresses:
   - 00:21:77:00:00:00/24
   manufacturer: W. L. Gore & Associates
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WLGoreAs
 type: d3-device-type-assertion

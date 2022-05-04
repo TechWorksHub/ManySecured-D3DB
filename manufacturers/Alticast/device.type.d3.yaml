@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea32a4f5-5231-4a9a-997b-a28ff65f7f4b
-  mac-addresses:
+  id: ed27676e-f53a-4ce9-a387-da45f3dea064
+  macAddresses:
   - 00:14:E5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alticast
 type: d3-device-type-assertion

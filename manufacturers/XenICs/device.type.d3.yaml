@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7569371-81f2-4a4e-854e-72297e6a2714
-  mac-addresses:
+  id: 4e536eb8-c11c-4308-b135-e98a1d7c13f2
+  macAddresses:
   - 00:1B:AA:00:00:00/24
   manufacturer: XenICs nv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XenICs
 type: d3-device-type-assertion

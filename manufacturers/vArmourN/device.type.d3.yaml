@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f122c7c-0600-4d8c-a2cb-2f5e8816f336
-  mac-addresses:
+  id: a18133b1-fe14-4c56-8c4f-9c24b06e82a1
+  macAddresses:
   - 84:49:15:00:00:00/24
   manufacturer: vArmour Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vArmourN
 type: d3-device-type-assertion

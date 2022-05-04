@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b0b4fcb-ab29-4ddf-9541-916003f2d3ee
-  mac-addresses:
+  id: 9e3e3ad4-ca3a-4c26-9559-aaec165fea9a
+  macAddresses:
   - A4:53:EE:10:00:00/28
   manufacturer: Stellamore
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stellamo
 type: d3-device-type-assertion

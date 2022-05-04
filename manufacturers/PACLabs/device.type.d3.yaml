@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2ba0b94-1d19-4590-afac-56aa5b3b67cd
-  mac-addresses:
+  id: 4d676e79-1e6a-4738-9b90-cf0cfb96f74d
+  macAddresses:
   - 00:01:26:00:00:00/24
   manufacturer: PAC Labs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PACLabs
 type: d3-device-type-assertion

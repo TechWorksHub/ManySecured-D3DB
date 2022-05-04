@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9d250e2-7479-4d6b-909e-984bdb27db99
-  mac-addresses:
+  id: 076dee98-9b07-4962-9815-d66452e27ddc
+  macAddresses:
   - 00:19:C8:00:00:00/24
   manufacturer: AnyDATA Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnyDATA
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 88e66d6f-c583-4fcb-a337-dda812c1759e
-  mac-addresses:
+  id: e52a86f1-a78a-4e12-afbb-231505bf87c1
+  macAddresses:
   - 00:04:0E:00:00:00/24
   - 00:15:0C:00:00:00/24
   - 00:1A:4F:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - BC:05:43:00:00:00/24
   - C0:25:06:00:00:00/24
   manufacturer: AVM GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dc1110c-001a-431b-9681-7dfeb1e0bee6
-  mac-addresses:
+  id: 108124e6-416c-4488-8839-2c1ca23576d0
+  macAddresses:
   - 3C:6A:2C:60:00:00/28
   manufacturer: "La Barri\xE8re Automatique"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "LaBarri\xE8"
 type: d3-device-type-assertion

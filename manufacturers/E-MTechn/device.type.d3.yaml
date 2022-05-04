@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3755403f-3b9a-402d-ad09-2026144be11d
-  mac-addresses:
+  id: cba15c3d-b6b5-4bff-9d0a-943815f4eadf
+  macAddresses:
   - 00:40:E4:00:00:00/24
   manufacturer: E-M Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-MTechn
 type: d3-device-type-assertion

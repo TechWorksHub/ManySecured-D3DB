@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0863cec-0363-437c-8e6b-ae5246663a06
-  mac-addresses:
+  id: 98d75072-4849-4f7e-a47e-795c21e5a464
+  macAddresses:
   - E0:D1:E6:00:00:00/24
   manufacturer: Aliph dba Jawbone
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aliphdba
 type: d3-device-type-assertion

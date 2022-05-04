@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c9c3ef8-8b7d-4a2c-8916-98ab933eb70d
-  mac-addresses:
+  id: 780bc087-c7ce-45c5-91f2-0954c1aed54e
+  macAddresses:
   - 44:61:9C:00:00:00/24
   manufacturer: FONsystem co. ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FONsyste
 type: d3-device-type-assertion

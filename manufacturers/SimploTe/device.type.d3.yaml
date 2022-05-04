@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e795f2d5-be14-4884-abf2-f53431f71363
-  mac-addresses:
+  id: 1890f49d-01dc-423d-b4a4-016d3c556fc9
+  macAddresses:
   - 98:02:D8:80:00:00/28
   manufacturer: Simplo Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimploTe
 type: d3-device-type-assertion

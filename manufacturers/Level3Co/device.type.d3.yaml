@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53017ac8-a4b8-4213-b220-8291da8b1bb2
-  mac-addresses:
+  id: 5f8ab172-8be7-4c1f-afe2-0b27330874af
+  macAddresses:
   - 00:50:C2:CC:10:00/36
   manufacturer: Level 3 Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Level3Co
 type: d3-device-type-assertion

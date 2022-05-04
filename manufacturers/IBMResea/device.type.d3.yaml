@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 939f08c9-c85e-4732-a138-669347133b84
-  mac-addresses:
+  id: 50191635-8abf-4520-b31b-cd50a71ae90c
+  macAddresses:
   - 70:B3:D5:70:80:00/36
   manufacturer: IBM Research GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IBMResea
 type: d3-device-type-assertion

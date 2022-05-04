@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4eba79ac-0d8d-47ac-8c01-4d58ffb434a4
-  mac-addresses:
+  id: 900ebabf-3f3c-4fc1-bb99-b5f8f2b19cfb
+  macAddresses:
   - C8:F5:D6:C0:00:00/28
   manufacturer: Eltako GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eltako
 type: d3-device-type-assertion

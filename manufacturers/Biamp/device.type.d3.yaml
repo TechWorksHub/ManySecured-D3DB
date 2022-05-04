@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2f18acba-8b62-40b5-95d1-678cabb23689
-  mac-addresses:
+  id: 9e62fa76-5c9b-40e8-a855-0cde1c683d74
+  macAddresses:
   - 34:E1:D1:90:00:00/28
   - 78:45:01:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Biamp
 type: d3-device-type-assertion

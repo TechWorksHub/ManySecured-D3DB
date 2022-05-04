@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74bea90a-2de3-4b3e-8260-daade6a334b3
-  mac-addresses:
+  id: e05672ac-7bec-4dbe-a890-2a8ff246bd41
+  macAddresses:
   - 60:C0:BF:00:00:00/24
   manufacturer: ON Semiconductor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ONSemico
 type: d3-device-type-assertion

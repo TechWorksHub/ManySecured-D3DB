@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dd7382f-f305-468a-8f41-9e43c9840efe
-  mac-addresses:
+  id: 1cf6947f-f449-4520-ba33-b4ca57a26b5b
+  macAddresses:
   - 00:05:91:00:00:00/24
   manufacturer: Active Silicon Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActiveSi
 type: d3-device-type-assertion

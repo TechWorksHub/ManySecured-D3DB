@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4196ef98-6beb-4a41-825e-7c12d98ed641
-  mac-addresses:
+  id: 4743a5a4-fc25-4d0f-8e66-9cf1a3e646e1
+  macAddresses:
   - 90:EA:60:00:00:00/24
   manufacturer: SPI Lasers Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPILaser
 type: d3-device-type-assertion

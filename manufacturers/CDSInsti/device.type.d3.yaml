@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3f1e632-cd0d-43e7-81ea-6afef5256dba
-  mac-addresses:
+  id: 0a53434a-95bb-4c08-b4ed-b1b1abddb241
+  macAddresses:
   - 70:B3:D5:3A:30:00/36
   manufacturer: CDS Institute of Management Strategy, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CDSInsti
 type: d3-device-type-assertion

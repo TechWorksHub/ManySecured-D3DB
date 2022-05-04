@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efd1211f-8107-47e4-93c0-f607a85cf70b
-  mac-addresses:
+  id: 7d10e1c9-b1a7-410c-954a-17516d7d73f0
+  macAddresses:
   - 78:72:64:50:00:00/28
   manufacturer: Caltta Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CalttaTe
 type: d3-device-type-assertion

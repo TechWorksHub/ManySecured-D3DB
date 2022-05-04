@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b18d2b85-28c2-4486-a765-8ad7a2362298
-  mac-addresses:
+  id: 8efbb604-5ecb-4ac2-869c-cf492b62335b
+  macAddresses:
   - 00:04:83:00:00:00/24
   manufacturer: Deltron Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeltronT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50f0fc5b-1891-422d-b833-bb510e450ec2
-  mac-addresses:
+  id: 6307e7b8-43f8-432c-8dbe-01ff4cd027a4
+  macAddresses:
   - 00:50:C2:3F:60:00/36
   manufacturer: dAFTdATA Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dAFTdATA
 type: d3-device-type-assertion

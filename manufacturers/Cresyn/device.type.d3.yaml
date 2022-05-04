@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 98584c20-289c-4cf5-9813-8882bb901669
-  mac-addresses:
+  id: 6e372caa-6528-4072-a7c8-ce273fe648c6
+  macAddresses:
   - 00:18:09:00:00:00/24
   - 30:53:C1:00:00:00/24
   - 74:45:CE:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cresyn
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6a3cf306-e673-460d-874f-68ffe59339c3
-  mac-addresses:
+  id: 9c72d854-04ee-437a-92d9-01ab1a00da7e
+  macAddresses:
   - 70:B3:D5:00:C0:00/36
   - 78:76:D9:00:00:00/24
   manufacturer: EXARA Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EXARAGro
 type: d3-device-type-assertion

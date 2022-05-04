@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5143141a-f9d6-41e4-bd99-57cf4dc961a5
-  mac-addresses:
+  id: 5e059078-72be-4f7e-8819-c6b7b2b95cc8
+  macAddresses:
   - 00:1D:95:00:00:00/24
   manufacturer: Flash, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flash
 type: d3-device-type-assertion

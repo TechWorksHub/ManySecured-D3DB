@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 1df90e59-e49e-4e96-8902-4c7f1e8e2ccd
-  mac-addresses:
+  id: 4ddf6636-2fce-41df-b12d-88916637f25d
+  macAddresses:
   - 00:0F:1E:00:00:00/24
   - 38:3A:21:70:00:00/28
   - 48:F8:FF:00:00:00/24
   - E8:9F:EC:00:00:00/24
   manufacturer: Chengdu KT Electric Co.of High & New Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengduK
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11cc9ea6-9a5e-4bae-8f15-c87a4305b751
-  mac-addresses:
+  id: 531fe693-1b33-4476-9627-e864d871abb5
+  macAddresses:
   - 70:B3:D5:17:A0:00/36
   manufacturer: Gencoa Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gencoa
 type: d3-device-type-assertion

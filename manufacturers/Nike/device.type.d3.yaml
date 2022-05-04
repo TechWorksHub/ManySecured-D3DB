@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 066b88e8-1527-475a-aab1-77e4b34a7e67
-  mac-addresses:
+  id: 03ee60b5-20bd-44fe-a3d6-7340b899d9e7
+  macAddresses:
   - 9C:A1:34:00:00:00/24
   manufacturer: Nike, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nike
 type: d3-device-type-assertion

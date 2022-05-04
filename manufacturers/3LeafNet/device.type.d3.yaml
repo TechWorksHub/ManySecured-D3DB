@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8def4113-e0e1-45c3-b3c5-ba15faeb0f41
-  mac-addresses:
+  id: 161bb6aa-780f-4770-b463-17fb817d253d
+  macAddresses:
   - 00:16:A1:00:00:00/24
   manufacturer: 3Leaf Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3LeafNet
 type: d3-device-type-assertion

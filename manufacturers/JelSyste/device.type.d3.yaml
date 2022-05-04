@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1d46746-a2a6-435a-be52-ff40ba00baca
-  mac-addresses:
+  id: 24acd605-3e4e-492f-af7c-d7d32eb73cf8
+  macAddresses:
   - 40:D8:55:08:80:00/36
   manufacturer: Jel System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JelSyste
 type: d3-device-type-assertion

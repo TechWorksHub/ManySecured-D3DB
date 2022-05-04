@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8186fbf-917a-4486-854f-a4241c14147d
-  mac-addresses:
+  id: 4729e295-2699-4d28-8767-a1c45d09ea1e
+  macAddresses:
   - 70:B3:D5:2F:40:00/36
   manufacturer: Radixon s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radixons
 type: d3-device-type-assertion

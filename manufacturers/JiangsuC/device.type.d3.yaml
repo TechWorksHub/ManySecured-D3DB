@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77221057-1c28-45b7-9309-c05013879cf9
-  mac-addresses:
+  id: 4c3b1b33-501b-48a1-9fb8-751d2c1f67a5
+  macAddresses:
   - B0:C8:3F:00:00:00/24
   manufacturer: Jiangsu Cynray IOT Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuC
 type: d3-device-type-assertion

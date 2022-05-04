@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2fba612-a719-45e2-b54a-00670b81a42d
-  mac-addresses:
+  id: ae046439-ec8b-46ca-acea-94c01dde48a3
+  macAddresses:
   - C0:9B:F4:B0:00:00/28
   manufacturer: Nuctech Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuctech
 type: d3-device-type-assertion

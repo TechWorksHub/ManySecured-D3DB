@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8529d5e0-e9c1-48d0-a43a-3cea077eaaec
-  mac-addresses:
+  id: b2185e90-5cca-4650-a092-fe8c130c7519
+  macAddresses:
   - 00:30:EC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Borgardt
 type: d3-device-type-assertion

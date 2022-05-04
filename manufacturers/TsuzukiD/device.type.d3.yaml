@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7924e75-7084-400b-934f-a6588418eb32
-  mac-addresses:
+  id: 37a28166-baf7-455c-8823-24f6236eb189
+  macAddresses:
   - F8:C3:72:00:00:00/24
   manufacturer: Tsuzuki Denki
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TsuzukiD
 type: d3-device-type-assertion

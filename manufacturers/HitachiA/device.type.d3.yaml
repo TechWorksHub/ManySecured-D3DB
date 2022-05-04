@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b14d09f-a7da-4949-bcbb-bce4f4718f89
-  mac-addresses:
+  id: 679be5e1-6f94-4e28-97e1-2fff545ae4a8
+  macAddresses:
   - 00:01:85:00:00:00/24
   manufacturer: Hitachi Aloka Medical, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HitachiA
 type: d3-device-type-assertion

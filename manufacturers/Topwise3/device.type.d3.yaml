@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41725891-fb8a-4537-b1cf-e82b6ae167b0
-  mac-addresses:
+  id: 183e5262-40f9-4bdc-966e-bae1b18ddf24
+  macAddresses:
   - CC:5F:BF:00:00:00/24
   manufacturer: Topwise 3G Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Topwise3
 type: d3-device-type-assertion

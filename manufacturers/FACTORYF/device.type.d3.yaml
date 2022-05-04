@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39dfb7c4-633e-4088-a380-04a6a1a3f98d
-  mac-addresses:
+  id: 27807a85-6335-46a1-8745-7befef8c30cf
+  macAddresses:
   - BC:26:A1:00:00:00/24
   manufacturer: FACTORY FIVE Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FACTORYF
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9d4f191-7461-4c0a-93d5-dbce8325ed26
-  mac-addresses:
+  id: 96716b73-d00b-4c4c-bb7a-4ce91eebb92f
+  macAddresses:
   - 00:1D:50:00:00:00/24
   manufacturer: Spinetix Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spinetix
 type: d3-device-type-assertion

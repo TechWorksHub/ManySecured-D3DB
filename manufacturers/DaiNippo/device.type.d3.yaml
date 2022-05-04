@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d72336d5-e0df-40e3-9473-2fe5fa811465
-  mac-addresses:
+  id: 8850efa1-5f5a-4a08-848f-9b0ec389defc
+  macAddresses:
   - 00:12:B1:00:00:00/24
   manufacturer: Dai Nippon Printing Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaiNippo
 type: d3-device-type-assertion

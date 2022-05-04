@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86707cd0-d054-4e28-807f-3b5a46aa4c98
-  mac-addresses:
+  id: ad0a355f-c2d7-4049-996d-3f4247a0cf75
+  macAddresses:
   - 00:26:17:00:00:00/24
   manufacturer: OEM Worldwide
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OEMWorld
 type: d3-device-type-assertion

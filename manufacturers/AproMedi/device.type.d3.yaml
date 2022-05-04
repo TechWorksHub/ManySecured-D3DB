@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67028ddb-faf6-445c-b329-cc8954118540
-  mac-addresses:
+  id: 3d9fdb46-ac51-4cc1-92e5-36e23ee72101
+  macAddresses:
   - 00:21:B4:00:00:00/24
   manufacturer: Apro Media Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AproMedi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 489cbc90-316f-4850-b305-ae37c79c650e
-  mac-addresses:
+  id: 34c72fd0-9dba-4beb-a661-049b6e6285dc
+  macAddresses:
   - 00:60:FD:00:00:00/24
   manufacturer: NetICs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetICs
 type: d3-device-type-assertion

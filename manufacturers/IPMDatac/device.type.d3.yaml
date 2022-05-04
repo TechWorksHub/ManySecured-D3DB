@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 286199e9-cea5-49b6-afaa-c208287be9c2
-  mac-addresses:
+  id: 348ac941-91a3-49fe-afad-77d0137ed5db
+  macAddresses:
   - 00:02:4F:00:00:00/24
   manufacturer: IPM Datacom S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPMDatac
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 752edd1d-be9a-46de-9afd-3edf5139df78
-  mac-addresses:
+  id: 60db2c31-7fd5-45b9-825b-6b904160155f
+  macAddresses:
   - 00:60:AD:00:00:00/24
   manufacturer: MegaChips Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MegaChip
 type: d3-device-type-assertion

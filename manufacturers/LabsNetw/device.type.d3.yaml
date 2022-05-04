@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3bf58c1f-ba75-4e07-abcb-3e99f90da518
-  mac-addresses:
+  id: dff887c0-7e88-4414-80e0-ec0a27011c2c
+  macAddresses:
   - EA:2A:DB:00:00:00/24
   manufacturer: Labs Network Industrie 4. 0 e.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LabsNetw
 type: d3-device-type-assertion

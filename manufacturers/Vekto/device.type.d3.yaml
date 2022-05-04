@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cfc2aad-3c15-4583-858f-982e720cc23d
-  mac-addresses:
+  id: c9815b43-72fc-49a8-b6d6-d41e4e060c66
+  macAddresses:
   - 8C:1F:64:4A:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vekto
 type: d3-device-type-assertion

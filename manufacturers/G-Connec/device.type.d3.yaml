@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4630e65e-5bd5-454e-98df-9ee3ee93f88d
-  mac-addresses:
+  id: f84a3cf6-9a47-4b5f-97da-81b177c22a91
+  macAddresses:
   - 00:50:6F:00:00:00/24
   manufacturer: G-Connect
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-Connec
 type: d3-device-type-assertion

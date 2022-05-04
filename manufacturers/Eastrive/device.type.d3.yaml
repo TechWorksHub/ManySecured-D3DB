@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae92f7ac-f491-4dab-ae00-64721c03bb14
-  mac-addresses:
+  id: c0889ff3-2371-43c5-a561-334b29cfd293
+  macAddresses:
   - 0C:CD:D3:00:00:00/24
   manufacturer: Eastriver Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eastrive
 type: d3-device-type-assertion

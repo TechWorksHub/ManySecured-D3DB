@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04e71907-6f35-4c5c-84f4-c4cb83025e88
-  mac-addresses:
+  id: 0fab8e4c-3a2b-4557-a933-ceb4010e5f9d
+  macAddresses:
   - 48:5A:67:00:00:00/24
   manufacturer: Shaanxi Ruixun Electronic Information Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShaanxiR
 type: d3-device-type-assertion

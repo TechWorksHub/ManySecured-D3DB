@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d04ddb7a-5b84-48ad-bcd3-f22e6a1325e9
-  mac-addresses:
+  id: 063a1956-95fc-4d39-835a-5dfb96ec622e
+  macAddresses:
   - A4:E3:91:00:00:00/24
   manufacturer: Deny Fontaine
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DenyFont
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34355b54-3efe-4c5c-b943-7fcbb71d83e5
-  mac-addresses:
+  id: d9fbcd80-076c-4d62-b65d-5c7ee85e969b
+  macAddresses:
   - 00:50:C2:D2:30:00/36
   manufacturer: Bluestone Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blueston
 type: d3-device-type-assertion

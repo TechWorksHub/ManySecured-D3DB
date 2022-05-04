@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a8f6311-fb23-4671-bf4d-5ed5a4b756b8
-  mac-addresses:
+  id: bc84e4b0-1d9b-45f3-906d-4833f68f070c
+  macAddresses:
   - 00:04:65:00:00:00/24
   manufacturer: i.s.t isdn-support technik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: istisdn-
 type: d3-device-type-assertion

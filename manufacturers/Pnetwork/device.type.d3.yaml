@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bdb117e-95ab-494c-85e1-4abbfbb9c1c8
-  mac-addresses:
+  id: 7dbf4244-892e-406f-a2c0-27b9b6e4b5ee
+  macAddresses:
   - 70:B3:D5:EF:00:00/36
   manufacturer: Pnetworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pnetwork
 type: d3-device-type-assertion

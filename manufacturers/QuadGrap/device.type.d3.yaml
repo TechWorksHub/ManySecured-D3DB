@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d62a226-3754-4fe8-b88a-35a155f8a7cf
-  mac-addresses:
+  id: 088fd665-5408-4c85-8748-d0202dabc191
+  macAddresses:
   - 00:C0:C1:00:00:00/24
   manufacturer: Quad/Graphics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuadGrap
 type: d3-device-type-assertion

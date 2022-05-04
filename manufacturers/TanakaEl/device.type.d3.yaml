@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b23edb1-45df-47d2-ab58-7fa86ddb6eaa
-  mac-addresses:
+  id: a8ed71d3-713d-455c-9736-34ab652f7f88
+  macAddresses:
   - 70:B3:D5:52:D0:00/36
   manufacturer: Tanaka Electric Industry Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TanakaEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f885f11c-53fd-4711-970e-caa6000c4d6e
-  mac-addresses:
+  id: cb99346c-7f44-4c51-b923-6c8eccec569d
+  macAddresses:
   - AC:EE:70:00:00:00/24
   manufacturer: Fontem Ventures BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FontemVe
 type: d3-device-type-assertion

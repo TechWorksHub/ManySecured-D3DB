@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fca6b5ca-8c6d-4f6c-af9f-038cabb580ce
-  mac-addresses:
+  id: 73055c09-c20f-4c8c-8d34-56d74f9e492a
+  macAddresses:
   - 08:8F:2C:00:00:00/24
   manufacturer: Amber Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmberTec
 type: d3-device-type-assertion

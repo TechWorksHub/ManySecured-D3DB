@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 925fc4dd-7973-4e8e-970f-f7ddb32dd8dc
-  mac-addresses:
+  id: 08d04a1c-0425-4d5a-aadd-4ac8f596a8f3
+  macAddresses:
   - 70:B3:D5:5E:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arevita
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fa47c59-a316-44d9-94ab-72321e8c4045
-  mac-addresses:
+  id: 4b422764-ec21-49a5-9d91-d1e1ac3a8ba4
+  macAddresses:
   - 00:09:B4:00:00:00/24
   manufacturer: Kisan Telecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KisanTel
 type: d3-device-type-assertion

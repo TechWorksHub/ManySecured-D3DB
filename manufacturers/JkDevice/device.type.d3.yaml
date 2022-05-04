@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a312b4f-d29d-4edd-9ab4-be801a99bc65
-  mac-addresses:
+  id: 31fb7481-a622-4b54-9a48-abaa6fd33603
+  macAddresses:
   - 70:B3:D5:4D:C0:00/36
   manufacturer: Jk Device Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JkDevice
 type: d3-device-type-assertion

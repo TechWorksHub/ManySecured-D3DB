@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 235c9efa-08dc-4166-ad9b-68c8d9fd5779
-  mac-addresses:
+  id: 8bb896a0-8a74-4b05-bb8e-3d6807614158
+  macAddresses:
   - 98:E7:9A:00:00:00/24
   manufacturer: Foxconn(NanJing) Communication Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FoxconnN
 type: d3-device-type-assertion

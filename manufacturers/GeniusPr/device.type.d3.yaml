@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbd50e41-fee0-48f7-a5ca-567e8d87dcb6
-  mac-addresses:
+  id: df64253c-03ff-448f-8d0a-3f6b8ce90eec
+  macAddresses:
   - 34:E1:D1:70:00:00/28
   manufacturer: Genius Pros
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeniusPr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2173c124-7fb9-4b14-affb-9f8e386fcadd
-  mac-addresses:
+  id: 30a0e955-662e-4ba4-9e96-67e3ddfc9d46
+  macAddresses:
   - 00:14:A2:00:00:00/24
   manufacturer: Core Micro Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoreMicr
 type: d3-device-type-assertion

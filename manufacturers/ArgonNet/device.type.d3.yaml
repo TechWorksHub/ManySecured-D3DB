@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7147acaa-068c-457f-b33e-7c1fa9d46421
-  mac-addresses:
+  id: 6e5f46eb-aed5-470b-a017-3aadb26d5316
+  macAddresses:
   - 00:90:74:00:00:00/24
   manufacturer: Argon Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArgonNet
 type: d3-device-type-assertion

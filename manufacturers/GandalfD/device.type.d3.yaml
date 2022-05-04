@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9918475c-0412-4b84-910a-f6da1566ca64
-  mac-addresses:
+  id: beed90b5-a15b-46b2-a724-f69d345e97f8
+  macAddresses:
   - 00:00:F3:00:00:00/24
   manufacturer: Gandalf Data Ltd. - Canada
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GandalfD
 type: d3-device-type-assertion

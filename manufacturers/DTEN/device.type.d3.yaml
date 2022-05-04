@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52ef2aba-ed98-48bf-81aa-b9cc973d7afd
-  mac-addresses:
+  id: 1330ff3a-e557-4d38-a22f-6438509214b6
+  macAddresses:
   - 50:DE:19:E0:00:00/28
   manufacturer: DTEN Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DTEN
 type: d3-device-type-assertion

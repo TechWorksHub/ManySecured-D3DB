@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 58539ae3-443f-48dd-8ae9-e08fa38de126
-  mac-addresses:
+  id: f1113516-e16e-4bca-b52f-d5ba60188fd1
+  macAddresses:
   - 00:50:C2:21:B0:00/36
   - 00:50:C2:33:D0:00/36
   - 00:50:C2:4D:E0:00/36
@@ -24,6 +24,6 @@ credentialSubject:
   - 70:B3:D5:DA:D0:00/36
   - A0:B4:37:00:00:00/24
   manufacturer: GD Mission Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GDMissio
 type: d3-device-type-assertion

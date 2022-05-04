@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f47695b-bf4d-45f7-a75d-b302dd336872
-  mac-addresses:
+  id: 8edc18fc-fc0e-4dd4-ad9b-d78a5de7b710
+  macAddresses:
   - 70:B3:D5:1E:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meggitt
 type: d3-device-type-assertion

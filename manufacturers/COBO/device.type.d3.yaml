@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8664d1b7-08f7-4180-a74d-e243ae28d2ee
-  mac-addresses:
+  id: 04ebdf59-9258-4222-8d44-dcb0d2dfb204
+  macAddresses:
   - 90:EC:50:00:00:00/24
   manufacturer: C.O.B.O. Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COBO
 type: d3-device-type-assertion

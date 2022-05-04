@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12bcc851-2cad-4c39-850b-9185a16791ea
-  mac-addresses:
+  id: 31f7e203-9084-4349-90fe-cc936de76e00
+  macAddresses:
   - 5C:58:19:00:00:00/24
   manufacturer: Jingsheng Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jingshen
 type: d3-device-type-assertion

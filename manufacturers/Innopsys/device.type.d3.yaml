@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92845675-7752-4b48-8bf6-b5bcbea6357f
-  mac-addresses:
+  id: 95f99bf4-b502-497c-8109-4c762c8562fd
+  macAddresses:
   - 00:50:C2:54:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innopsys
 type: d3-device-type-assertion

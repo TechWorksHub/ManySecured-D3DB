@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 399c15ea-d21e-4cd8-b9e9-b996a84fca0c
-  mac-addresses:
+  id: dd61a538-1cd9-4ef0-971e-2ecb29aab5c0
+  macAddresses:
   - 00:1E:86:00:00:00/24
   manufacturer: MEL Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MEL
 type: d3-device-type-assertion

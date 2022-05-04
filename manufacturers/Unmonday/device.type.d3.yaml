@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9cfee58e-472f-4cba-b288-675151b98592
-  mac-addresses:
+  id: 6b1f9517-a734-4183-9ada-9419746e413d
+  macAddresses:
   - 8C:4D:B9:00:00:00/24
   manufacturer: Unmonday Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unmonday
 type: d3-device-type-assertion

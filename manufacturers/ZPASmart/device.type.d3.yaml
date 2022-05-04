@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38ab2997-37c8-4047-837e-7e29de81d01f
-  mac-addresses:
+  id: 32e86e15-0ce2-4bc8-86fb-676e01d9ba20
+  macAddresses:
   - C0:BD:42:00:00:00/24
   manufacturer: ZPA Smart Energy a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZPASmart
 type: d3-device-type-assertion

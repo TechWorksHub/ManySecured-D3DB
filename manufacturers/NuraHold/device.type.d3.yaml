@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a27efab1-5ab6-4d68-bb76-149970de2ad8
-  mac-addresses:
+  id: a6d2feb2-4a2e-43d5-bc4e-e4d607fc4753
+  macAddresses:
   - 74:1A:E0:20:00:00/28
   manufacturer: Nura Holdings Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NuraHold
 type: d3-device-type-assertion

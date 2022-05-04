@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c83e0a8-8471-40bb-97be-2144e291a293
-  mac-addresses:
+  id: 0910736b-9ba5-4dc5-89df-56306e2b1709
+  macAddresses:
   - 24:15:10:90:00:00/28
   manufacturer: Topgolf Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TopgolfS
 type: d3-device-type-assertion

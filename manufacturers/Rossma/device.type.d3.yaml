@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b81c53c3-1763-4173-a3c5-d15b29f2d2e2
-  mac-addresses:
+  id: 3fe7396b-c05c-4b20-8122-f0c702ec9ac5
+  macAddresses:
   - A8:3C:CB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rossma
 type: d3-device-type-assertion

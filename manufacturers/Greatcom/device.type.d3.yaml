@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f398266c-30a1-4d97-9f04-3551193b5976
-  mac-addresses:
+  id: 03b5d92f-25e4-456a-95f1-467d68eb133b
+  macAddresses:
   - 00:1B:C5:07:D0:00/36
   manufacturer: Greatcom AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greatcom
 type: d3-device-type-assertion

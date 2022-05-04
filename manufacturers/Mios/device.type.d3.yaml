@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e2ab36e-f888-4445-8612-17344a9f94b2
-  mac-addresses:
+  id: f624ca5e-830f-4c51-ae15-ff0edcbf7bd2
+  macAddresses:
   - D0:D3:FC:00:00:00/24
   manufacturer: Mios, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mios
 type: d3-device-type-assertion

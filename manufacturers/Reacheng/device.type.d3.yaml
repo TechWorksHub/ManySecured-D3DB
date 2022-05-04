@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f40cfc0-19c5-44c6-b000-339341022e37
-  mac-addresses:
+  id: c011f5c8-3b2f-4f94-860d-2bd5658a1120
+  macAddresses:
   - 10:FA:CE:00:00:00/24
   manufacturer: Reacheng Communication Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reacheng
 type: d3-device-type-assertion

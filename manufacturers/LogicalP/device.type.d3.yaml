@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 87d05973-c78d-44c8-97f0-e4da71b4d513
-  mac-addresses:
+  id: 5d62a2a8-b9be-496c-9daa-53ecd17c7829
+  macAddresses:
   - 40:D8:55:0C:D0:00/36
   - 8C:1F:64:62:20:00/36
   manufacturer: Logical Product
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicalP
 type: d3-device-type-assertion

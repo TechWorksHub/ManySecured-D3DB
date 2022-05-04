@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fbb3ba6-9cce-4161-8ff9-ee934a9037e2
-  mac-addresses:
+  id: fc9f1cd2-90b2-40c6-a82a-511ffd8a17c8
+  macAddresses:
   - 00:17:02:00:00:00/24
   manufacturer: Osung Midicom Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsungMid
 type: d3-device-type-assertion

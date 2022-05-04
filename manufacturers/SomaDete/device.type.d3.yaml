@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6d0ae9b-4bb1-40ca-b603-684060ecab94
-  mac-addresses:
+  id: 0602b0ad-2862-4fd3-be89-77bc3deaa54b
+  macAddresses:
   - A0:02:4A:30:00:00/28
   manufacturer: SomaDetect Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SomaDete
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a00cba4d-6996-4ecd-80b3-189be222db55
-  mac-addresses:
+  id: c2f7cecf-f120-4401-bc0c-9a955a3b69f4
+  macAddresses:
   - 00:30:41:00:00:00/24
   manufacturer: Saejin T & M Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaejinTM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2eb284eb-4609-4ddc-b329-cebad88e11fd
-  mac-addresses:
+  id: fa69a190-c11c-4480-a347-03bb498d0d5b
+  macAddresses:
   - 00:0A:86:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lenze
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a760c73-8925-4722-bed3-7f63650c056e
-  mac-addresses:
+  id: 2fc8197b-7c61-43a2-9cf7-12c70ac197dd
+  macAddresses:
   - 70:B3:D5:DC:20:00/36
   manufacturer: SwineTech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwineTec
 type: d3-device-type-assertion

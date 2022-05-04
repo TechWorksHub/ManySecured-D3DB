@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64c4453c-fd3a-4b2a-b44a-1d893c320076
-  mac-addresses:
+  id: 6dc6c5f2-0a46-4699-ac93-98a3427769d1
+  macAddresses:
   - 44:D5:F2:10:00:00/28
   manufacturer: Simplered Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simplere
 type: d3-device-type-assertion

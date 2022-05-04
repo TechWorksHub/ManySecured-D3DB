@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c749947-b24f-4652-a530-5d5152a9907c
-  mac-addresses:
+  id: bd8a0256-8009-4c59-93e4-6abe6eb33eb6
+  macAddresses:
   - 5C:6A:7D:00:00:00/24
   manufacturer: Kentkart Ege Elektronik San. Ve Tic. Ltd. Sti.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kentkart
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3648622f-3211-495b-a2aa-149a4ec60318
-  mac-addresses:
+  id: b77a9b0f-dc6e-44dd-be6b-4091c131daec
+  macAddresses:
   - 70:B3:D5:C6:30:00/36
   manufacturer: Xentech Solutions Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XentechS
 type: d3-device-type-assertion

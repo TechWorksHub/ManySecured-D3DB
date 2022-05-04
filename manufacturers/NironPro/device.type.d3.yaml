@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18cb32a0-939c-41cf-ae85-b28c1e3eb026
-  mac-addresses:
+  id: 3b421f1b-9d40-45b1-81b3-547d5f5b2872
+  macAddresses:
   - 70:B3:D5:FE:D0:00/36
   manufacturer: Niron systems & Projects
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NironPro
 type: d3-device-type-assertion

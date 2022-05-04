@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 488799b9-8cd6-4f18-9f70-3e3169124f0d
-  mac-addresses:
+  id: 79b0d52b-7820-4096-a758-875392bcfe38
+  macAddresses:
   - 88:E7:12:00:00:00/24
   manufacturer: Whirlpool Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Whirlpoo
 type: d3-device-type-assertion

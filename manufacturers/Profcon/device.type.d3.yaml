@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1ac27408-b5f3-4646-b84b-2c56f6d9b21f
-  mac-addresses:
+  id: 7e9d9dd4-82e3-488e-b0d2-450f44088bba
+  macAddresses:
   - 70:B3:D5:49:60:00/36
   - 70:B3:D5:86:E0:00/36
   manufacturer: Profcon AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Profcon
 type: d3-device-type-assertion

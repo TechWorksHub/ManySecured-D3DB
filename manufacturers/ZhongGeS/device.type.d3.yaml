@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce9ea8ad-0c24-42b9-a47d-fc494c9e5cc4
-  mac-addresses:
+  id: 04c20773-2ac5-4d21-bad4-d53195db2064
+  macAddresses:
   - C4:6E:33:00:00:00/24
   manufacturer: Zhong Ge Smart Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhongGeS
 type: d3-device-type-assertion

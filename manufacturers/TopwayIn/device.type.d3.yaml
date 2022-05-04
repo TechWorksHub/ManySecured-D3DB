@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c6f8dda-a16a-4692-a6be-1323220be592
-  mac-addresses:
+  id: c36eb9c1-40f2-45c4-b7cf-ceb11fd3ff75
+  macAddresses:
   - 00:50:C2:43:20:00/36
   manufacturer: Topway Industries Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TopwayIn
 type: d3-device-type-assertion

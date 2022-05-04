@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a243fab-500b-4540-8c83-e794130fc2d6
-  mac-addresses:
+  id: a1b9ecc8-fde5-45ac-8aa7-003a22d7f32c
+  macAddresses:
   - C0:6C:6D:00:00:00/24
   manufacturer: MagneMotion, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagneMot
 type: d3-device-type-assertion

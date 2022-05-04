@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96a364c7-1202-46a8-ae3e-390988643612
-  mac-addresses:
+  id: 2656225d-556a-466d-84de-414b2c01a5c0
+  macAddresses:
   - 00:17:E1:00:00:00/24
   manufacturer: DACOS Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DACOSTec
 type: d3-device-type-assertion

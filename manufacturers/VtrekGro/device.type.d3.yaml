@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f69aabe2-da20-402f-b107-148e6136064c
-  mac-addresses:
+  id: e25217f7-91cb-47ce-8335-560ce0211d00
+  macAddresses:
   - 34:D0:B8:80:00:00/28
   manufacturer: Vtrek Group International Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VtrekGro
 type: d3-device-type-assertion

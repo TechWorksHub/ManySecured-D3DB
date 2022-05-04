@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4be8e276-8738-4639-a463-d3108e768ab8
-  mac-addresses:
+  id: c82dcd83-6e17-40e7-981a-a899c812b4dc
+  macAddresses:
   - 00:00:75:00:00:00/24
   manufacturer: Bell Northern Research (BNR)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BellNort
 type: d3-device-type-assertion

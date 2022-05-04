@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9617b107-4472-4c9a-bcaa-75430f1142ad
-  mac-addresses:
+  id: 8d9c59a3-844c-427c-8628-2d4cb37d149d
+  macAddresses:
   - 38:D9:A5:00:00:00/24
   manufacturer: Mikotek Information Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MikotekI
 type: d3-device-type-assertion

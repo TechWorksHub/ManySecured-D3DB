@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37df86ee-12bb-4e22-996f-298b9a00a6ab
-  mac-addresses:
+  id: e3d8952d-b2ff-418c-9bf7-9e61089cf8d7
+  macAddresses:
   - 70:B3:D5:2C:60:00/36
   manufacturer: AM General Contractor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMGenera
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41bf31f3-ba1d-49f9-9d8b-185e2a44740e
-  mac-addresses:
+  id: 58272397-47e0-4c03-b772-d16a5c1f81cb
+  macAddresses:
   - 00:1A:DD:00:00:00/24
   manufacturer: PePWave Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PePWave
 type: d3-device-type-assertion

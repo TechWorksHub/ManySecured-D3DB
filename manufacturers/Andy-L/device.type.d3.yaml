@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb908886-e77a-47c6-81d7-6ecf364e93df
-  mac-addresses:
+  id: a927fb05-ab72-46a5-8769-08c654e352db
+  macAddresses:
   - 40:D8:55:1C:90:00/36
   manufacturer: Andy-L Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Andy-L
 type: d3-device-type-assertion

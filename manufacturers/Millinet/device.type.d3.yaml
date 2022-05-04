@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbb0836e-580e-42a7-a795-c503f1997a43
-  mac-addresses:
+  id: 8b8b8a80-b149-4eb4-9969-652a89d799c8
+  macAddresses:
   - 00:21:51:00:00:00/24
   manufacturer: Millinet Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Millinet
 type: d3-device-type-assertion

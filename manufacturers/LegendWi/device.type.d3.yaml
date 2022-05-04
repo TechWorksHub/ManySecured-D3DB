@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c333481f-49fe-4be8-aadb-0674c5fbfaff
-  mac-addresses:
+  id: cd49b7f0-3237-4620-9b7a-a256075edcd6
+  macAddresses:
   - 50:FF:99:60:00:00/28
   manufacturer: Legend Winner Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LegendWi
 type: d3-device-type-assertion

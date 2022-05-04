@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e490e22e-fd38-4d2b-afdb-82642ec3baad
-  mac-addresses:
+  id: 083ba4c1-1e77-4709-9af9-d3224dcbdd4d
+  macAddresses:
   - 00:21:8F:00:00:00/24
   manufacturer: Avantgarde Acoustic Lautsprechersysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avantgar
 type: d3-device-type-assertion

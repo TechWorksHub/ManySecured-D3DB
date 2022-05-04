@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 681d8607-b169-404b-b644-d311c30199cb
-  mac-addresses:
+  id: 2fa80f89-7baa-4ea6-a613-810fe0bccfec
+  macAddresses:
   - 70:B3:D5:C8:40:00/36
   manufacturer: Linc Technology Corporation dba Data-Linc Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LincTech
 type: d3-device-type-assertion

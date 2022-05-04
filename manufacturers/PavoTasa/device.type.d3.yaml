@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d8f3970a-8858-4d3f-b405-73b606e82b32
-  mac-addresses:
+  id: a72a7ad5-c972-4e3d-ad2c-efa2ccb7c904
+  macAddresses:
   - 70:B3:D5:34:A0:00/36
   - F0:AC:D7:50:00:00/28
   manufacturer: "Pavo Tasarim \xDCreti\u0307m Ti\u0307c A.\u015E."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PavoTasa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ef92327-ed5a-4a45-ade5-9bb71d3230cc
-  mac-addresses:
+  id: bd3a4496-bfe3-4d3e-94a2-2a82a1640e3e
+  macAddresses:
   - 1C:CA:E3:E0:00:00/28
   manufacturer: "Dabi Atlante S/A Industrias Medico Odontol\xF3gicas"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DabiAtla
 type: d3-device-type-assertion

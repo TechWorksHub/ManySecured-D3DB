@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfd6abda-a7ba-4896-8d71-454cef0e08c7
-  mac-addresses:
+  id: cec19c92-9263-4b6e-84dd-a6c93a41e123
+  macAddresses:
   - 00:50:C2:9B:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Actech
 type: d3-device-type-assertion

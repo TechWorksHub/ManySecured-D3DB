@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8cccab4-4485-4f42-974e-3b910320aa31
-  mac-addresses:
+  id: 151e6c7e-facf-477f-b075-e3c6f0e52b8c
+  macAddresses:
   - 00:24:8F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Do-Monix
 type: d3-device-type-assertion

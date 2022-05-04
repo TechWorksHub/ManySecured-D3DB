@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdedde08-f745-4497-ba60-7fa34ea23574
-  mac-addresses:
+  id: c56c558f-4ab3-4016-9659-4e33ce6347f6
+  macAddresses:
   - E8:6C:C7:B0:00:00/28
   manufacturer: MORNSUN Guangzhou Science & Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MORNSUNG
 type: d3-device-type-assertion

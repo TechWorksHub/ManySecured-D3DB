@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 941a480c-5388-43cb-9fb9-353d5d0008b7
-  mac-addresses:
+  id: dd8a7743-6f76-4ea2-8a9e-64689908160d
+  macAddresses:
   - 00:05:B5:00:00:00/24
   - 00:0A:F7:00:00:00/24
   - 00:0D:B6:00:00:00/24
@@ -20,6 +20,6 @@ credentialSubject:
   - E4:3D:1A:00:00:00/24
   - FC:A4:7A:00:00:00/28
   manufacturer: Broadcom Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadcom
 type: d3-device-type-assertion

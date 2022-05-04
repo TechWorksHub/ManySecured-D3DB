@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 719ae36d-5c4b-4b8f-83ed-d310d8ea61ab
-  mac-addresses:
+  id: 28cc24fd-1574-46ad-9da9-7e080011cc77
+  macAddresses:
   - D4:C9:B2:00:00:00/24
   manufacturer: Quanergy Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quanergy
 type: d3-device-type-assertion

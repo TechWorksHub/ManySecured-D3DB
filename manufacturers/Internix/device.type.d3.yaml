@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5579effd-34ad-43b3-a795-26cb5de3e21c
-  mac-addresses:
+  id: d3d02b17-c89c-4c31-9ee3-8b6074ffd091
+  macAddresses:
   - 00:60:50:00:00:00/24
   manufacturer: Internix Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Internix
 type: d3-device-type-assertion

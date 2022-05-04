@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ce9dff6-33db-4990-8e53-1d7271eef5f0
-  mac-addresses:
+  id: 51bd8b96-d318-4135-9ca1-ea6f307642cc
+  macAddresses:
   - 14:07:E0:00:00:00/24
   manufacturer: Abrantix AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abrantix
 type: d3-device-type-assertion

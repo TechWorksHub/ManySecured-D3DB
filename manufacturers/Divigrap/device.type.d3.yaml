@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb9ce179-aacd-41f4-85a3-e1ce17f76a6e
-  mac-addresses:
+  id: 0b460ceb-80f1-464d-ace4-5a8cd4713e89
+  macAddresses:
   - 70:B3:D5:A8:60:00/36
   manufacturer: Divigraph (Pty) LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Divigrap
 type: d3-device-type-assertion

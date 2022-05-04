@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f78e74b-5862-4496-beb6-8178ca077e9e
-  mac-addresses:
+  id: d4bfe2a2-ceea-42a8-9e0e-1d1f12455db5
+  macAddresses:
   - B0:C5:CA:E0:00:00/28
   manufacturer: "Audio Elektronik \u0130thalat \u0130hracat San ve Tic A.\u015E."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioEle
 type: d3-device-type-assertion

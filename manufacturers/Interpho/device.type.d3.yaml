@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfe774f9-5e10-41e0-8d3a-e7f000b101ad
-  mac-addresses:
+  id: 34be47af-d778-4a41-a35e-8b271ad14afb
+  macAddresses:
   - FC:58:DF:00:00:00/24
   manufacturer: Interphone Service
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interpho
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 956a6d4d-bfb7-41c6-9851-bcce631d92bd
-  mac-addresses:
+  id: b0759a5a-aa10-49bc-b84b-ed69d2c7dce7
+  macAddresses:
   - 00:C0:59:00:00:00/24
   manufacturer: Denso Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Denso
 type: d3-device-type-assertion

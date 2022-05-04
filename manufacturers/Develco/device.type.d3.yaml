@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9496a785-306e-4042-9a6d-c86048ac7190
-  mac-addresses:
+  id: d890f716-5b72-42b0-ad39-d3ffe655af51
+  macAddresses:
   - 00:15:BC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Develco
 type: d3-device-type-assertion

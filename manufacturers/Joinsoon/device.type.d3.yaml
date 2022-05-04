@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a32aa8d-ef0d-474c-8ea0-b94bddc6b0fb
-  mac-addresses:
+  id: 38178002-acab-459c-9b3f-35adf217fa79
+  macAddresses:
   - 00:50:C2:98:70:00/36
   manufacturer: Joinsoon Electronics MFG. Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Joinsoon
 type: d3-device-type-assertion

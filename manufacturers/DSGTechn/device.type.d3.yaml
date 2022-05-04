@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7172c04-8a4c-484d-a6e2-2d738225abc0
-  mac-addresses:
+  id: 4d99e324-efb7-4c4e-92fd-04997fbb42ca
+  macAddresses:
   - 00:30:EE:00:00:00/24
   manufacturer: DSG Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSGTechn
 type: d3-device-type-assertion

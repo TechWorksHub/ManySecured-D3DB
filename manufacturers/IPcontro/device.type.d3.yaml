@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4048591-ebbc-4c8d-8cf1-e073f6d7ef6b
-  mac-addresses:
+  id: 8efdfb61-fbb4-4d7f-a859-3bd5a95362b8
+  macAddresses:
   - 00:50:C2:A3:B0:00/36
   manufacturer: IPcontrols GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPcontro
 type: d3-device-type-assertion

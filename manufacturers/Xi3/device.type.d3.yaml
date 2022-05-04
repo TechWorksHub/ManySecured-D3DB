@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a29f6a7a-9477-4b26-b5c4-ad2b78b468fb
-  mac-addresses:
+  id: 4a060a48-ad13-4f7b-9734-0947fa5a8517
+  macAddresses:
   - F0:AE:51:00:00:00/24
   manufacturer: Xi3 Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xi3
 type: d3-device-type-assertion

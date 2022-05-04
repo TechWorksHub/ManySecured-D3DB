@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b58c7555-7ebb-4798-879a-608f8f0c3a08
-  mac-addresses:
+  id: 83f46471-37f1-4ed4-a584-54fe804ca111
+  macAddresses:
   - 00:50:C2:3E:F0:00/36
   manufacturer: PAT Industries, DBA Pacific Advanced Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PATIndus
 type: d3-device-type-assertion

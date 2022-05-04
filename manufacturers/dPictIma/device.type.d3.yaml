@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fae8fc1-be10-4e96-9639-737c750da369
-  mac-addresses:
+  id: 26f4f9bc-d2a8-47b3-8946-ca6d3ccefd8f
+  macAddresses:
   - 00:50:C2:63:C0:00/36
   manufacturer: dPict Imaging, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dPictIma
 type: d3-device-type-assertion

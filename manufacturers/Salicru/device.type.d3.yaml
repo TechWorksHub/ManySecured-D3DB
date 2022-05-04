@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dd112e8-ebb0-456d-9dd9-ffd87a04ccfb
-  mac-addresses:
+  id: a8d7ddd9-5917-4db1-a0a3-dc8b2470340a
+  macAddresses:
   - 00:19:CF:00:00:00/24
   manufacturer: Salicru, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Salicru
 type: d3-device-type-assertion

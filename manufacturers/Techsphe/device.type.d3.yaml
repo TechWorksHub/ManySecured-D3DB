@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13a24c71-85c1-47c2-8a81-d041cb36da5b
-  mac-addresses:
+  id: e88b28c0-60aa-4a49-891d-9b0fb180b2e4
+  macAddresses:
   - 00:15:10:00:00:00/24
   manufacturer: Techsphere Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techsphe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed392151-0b51-4311-9cd7-eae6d37279de
-  mac-addresses:
+  id: 7597d167-b293-485c-9178-91ce9c5ae2f3
+  macAddresses:
   - 00:04:46:00:00:00/24
   manufacturer: CYZENTECH Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CYZENTEC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 396534d1-203b-40eb-a32e-a7507b69f178
-  mac-addresses:
+  id: e654c477-700f-4424-a6da-546dae23194a
+  macAddresses:
   - 00:50:C2:04:F0:00/36
   manufacturer: Luma Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Luma
 type: d3-device-type-assertion

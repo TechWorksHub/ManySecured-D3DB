@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ceebe90-0f27-497b-bc2e-638829ec3ec8
-  mac-addresses:
+  id: 09337122-1007-4cff-912f-cf896405262e
+  macAddresses:
   - 70:B3:D5:5C:90:00/36
   manufacturer: ICTK Holdings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICTKHold
 type: d3-device-type-assertion

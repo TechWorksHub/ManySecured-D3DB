@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69a1008c-8565-4021-aa61-9bb403e70da2
-  mac-addresses:
+  id: a2433c98-10fb-478b-9570-c0ebe0e7714f
+  macAddresses:
   - 00:23:DD:00:00:00/24
   manufacturer: Elgin S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elgin
 type: d3-device-type-assertion

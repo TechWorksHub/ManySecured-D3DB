@@ -1,6 +1,6 @@
 credentialSubject:
-  id: af50f57a-9d74-44dc-a4f9-7cd4219f609f
-  mac-addresses:
+  id: c8fd0839-5b77-4dcb-b40d-f2941d083ed1
+  macAddresses:
   - 00:50:C2:13:A0:00/36
   - 00:50:C2:EA:10:00/36
   - 70:B3:D5:10:80:00/36
@@ -12,6 +12,6 @@ credentialSubject:
   - 70:B3:D5:F9:90:00/36
   - 8C:1F:64:2C:20:00/36
   manufacturer: Tex Computer SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TexCompu
 type: d3-device-type-assertion

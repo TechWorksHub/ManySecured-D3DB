@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86a7f01a-a7ac-4e5d-8361-1ce0c4c44d64
-  mac-addresses:
+  id: c284c197-49fb-4db4-8bfa-f04d37b61854
+  macAddresses:
   - 00:50:C2:74:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tronico
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea3f29ed-eabc-42c3-8614-c29a03712275
-  mac-addresses:
+  id: 2c2f74e4-540b-4ae5-829f-b3091ca25dd4
+  macAddresses:
   - 00:24:31:00:00:00/24
   manufacturer: Uni-v co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uni-v
 type: d3-device-type-assertion

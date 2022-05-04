@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6356dbe7-5040-489e-9e11-b7b025d4a802
-  mac-addresses:
+  id: d6d03ef1-3c32-4a33-bc23-d31d097edf55
+  macAddresses:
   - 00:0D:5B:00:00:00/24
   manufacturer: Smart Empire Investments Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartEmp
 type: d3-device-type-assertion

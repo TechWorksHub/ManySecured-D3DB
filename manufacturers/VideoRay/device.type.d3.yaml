@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2ca5d01-e49b-4fcf-b8d2-d5005814769b
-  mac-addresses:
+  id: fe67b741-05f4-42a0-a8e8-4e81ab59875f
+  macAddresses:
   - 70:B3:D5:CD:60:00/36
   manufacturer: VideoRay LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VideoRay
 type: d3-device-type-assertion

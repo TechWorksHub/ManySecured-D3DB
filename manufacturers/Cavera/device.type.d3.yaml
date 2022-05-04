@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 632848f7-8273-4289-9f0a-38e335a9462c
-  mac-addresses:
+  id: 575e15b9-df91-44f0-a821-7901478df689
+  macAddresses:
   - 00:13:F9:00:00:00/24
   manufacturer: Cavera Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cavera
 type: d3-device-type-assertion

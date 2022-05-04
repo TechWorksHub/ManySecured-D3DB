@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef810f21-da68-452d-8740-458cb17cf18c
-  mac-addresses:
+  id: 7df701d0-5ed8-41f1-82df-3712762b7649
+  macAddresses:
   - 00:0D:4D:00:00:00/24
   manufacturer: Ninelanes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ninelane
 type: d3-device-type-assertion

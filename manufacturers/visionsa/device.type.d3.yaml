@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16eba44c-ef92-4493-b51e-e5e5318bb6cf
-  mac-addresses:
+  id: 21cc10fd-66dc-4780-ba97-a00ce9004927
+  macAddresses:
   - 70:B3:D5:98:A0:00/36
   manufacturer: vision systems safety tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: visionsa
 type: d3-device-type-assertion

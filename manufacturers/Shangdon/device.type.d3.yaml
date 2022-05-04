@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25d77aee-10a2-4633-a805-5ec80e408789
-  mac-addresses:
+  id: 68c0011c-8d6b-4e6b-9072-d69bbdb9c17e
+  macAddresses:
   - 70:B3:D5:A8:80:00/36
   manufacturer: Shangdong Bosure Automation Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shangdon
 type: d3-device-type-assertion

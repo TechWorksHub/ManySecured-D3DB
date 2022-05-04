@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9a2709d-b521-4543-820e-7ecc52c2e9b1
-  mac-addresses:
+  id: 08b85775-3d47-45a6-bba2-ccd3a8d0474c
+  macAddresses:
   - 00:15:23:00:00:00/24
   manufacturer: Meteor Communications Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeteorCo
 type: d3-device-type-assertion

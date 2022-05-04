@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17aab1ee-abbb-4d94-a265-521bddcbf9d7
-  mac-addresses:
+  id: 4d4434c6-8012-47e1-8fe3-57f2329a13e9
+  macAddresses:
   - 00:1C:D2:00:00:00/24
   manufacturer: King Champion (Hong Kong) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KingCham
 type: d3-device-type-assertion

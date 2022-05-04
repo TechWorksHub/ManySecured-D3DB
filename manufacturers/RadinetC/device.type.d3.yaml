@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ac0d64c-da18-411e-b19d-5a1ddd3bc60b
-  mac-addresses:
+  id: b58020e9-c74f-4f2d-a6b3-d79a723d624a
+  macAddresses:
   - 8C:C7:AA:00:00:00/24
   manufacturer: Radinet Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadinetC
 type: d3-device-type-assertion

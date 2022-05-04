@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9e76e16-239a-417d-86dd-b472a1011e77
-  mac-addresses:
+  id: 7cff1477-8f76-4782-9ab8-3e644389c5d0
+  macAddresses:
   - 00:20:74:00:00:00/24
   manufacturer: Sungwoon Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sungwoon
 type: d3-device-type-assertion

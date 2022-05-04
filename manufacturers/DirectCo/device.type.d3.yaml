@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c92b67e-a4d7-4918-ac3d-858e1e4af1d0
-  mac-addresses:
+  id: 7f235573-fc28-4c10-a5f0-ead257fba3d7
+  macAddresses:
   - BC:97:40:90:00:00/28
   manufacturer: Direct Communication Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DirectCo
 type: d3-device-type-assertion

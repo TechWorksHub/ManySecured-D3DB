@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6e0989b-26c5-4892-9c23-8f78abe2ab35
-  mac-addresses:
+  id: 0769c98b-1426-4473-9df6-63a7e0fec26f
+  macAddresses:
   - 00:11:71:00:00:00/24
   manufacturer: DEXTER Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEXTERCo
 type: d3-device-type-assertion

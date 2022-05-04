@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09a004df-03f7-46ac-87ec-540161f81a0c
-  mac-addresses:
+  id: 55a53c50-fa0a-4791-a254-32b699a829aa
+  macAddresses:
   - 70:B3:D5:99:A0:00/36
   manufacturer: KEVIC. inc,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KEVIC
 type: d3-device-type-assertion

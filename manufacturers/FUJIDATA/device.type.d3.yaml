@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cd540723-25c6-43b0-9449-fddd6a5ad608
-  mac-addresses:
+  id: 0e0a1568-e6f1-43a0-8dd0-3b039903d562
+  macAddresses:
   - 00:50:C2:CC:D0:00/36
   - 00:50:C2:E3:70:00/36
   manufacturer: FUJI DATA SYSTEM Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FUJIDATA
 type: d3-device-type-assertion

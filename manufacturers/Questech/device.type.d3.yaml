@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76fd6a8c-36b6-455f-940e-7a3bda9daa2b
-  mac-addresses:
+  id: 1fd735ad-d67e-4597-b734-1c647bec1a44
+  macAddresses:
   - 00:A0:48:00:00:00/24
   manufacturer: Questech, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Questech
 type: d3-device-type-assertion

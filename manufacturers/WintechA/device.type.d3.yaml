@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 042e6ff1-3684-4e9e-9f8a-b1eb383bf18b
-  mac-addresses:
+  id: c5f0990d-7d9d-4e21-bf8c-abf5f80cc87f
+  macAddresses:
   - 00:1E:BC:00:00:00/24
   manufacturer: Wintech Automation Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WintechA
 type: d3-device-type-assertion

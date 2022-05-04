@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a2ddbd1-6b04-4ee9-b058-b95ee11c753c
-  mac-addresses:
+  id: 3a15ee9d-698b-4136-aad0-0ae0bf63930b
+  macAddresses:
   - 00:50:C2:3F:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tumsan
 type: d3-device-type-assertion

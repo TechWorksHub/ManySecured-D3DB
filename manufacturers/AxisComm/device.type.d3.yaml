@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 97faeb26-da97-449b-95db-53562d942985
-  mac-addresses:
+  id: 3c55b4cd-ca42-42a0-9594-31492d64b16c
+  macAddresses:
   - 00:40:8C:00:00:00/24
   - AC:CC:8E:00:00:00/24
   - B8:A4:4F:00:00:00/24
   manufacturer: Axis Communications Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxisComm
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e57b1c92-7d79-41a8-a5e5-8c57a7dc0c2d
-  mac-addresses:
+  id: f9460a53-7b78-4626-b6b0-d1d3ab761d88
+  macAddresses:
   - 44:03:77:C0:00:00/28
   manufacturer: BIG Climatic Manufacture, Co. LTD, Zhongshan Branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BIGClima
 type: d3-device-type-assertion

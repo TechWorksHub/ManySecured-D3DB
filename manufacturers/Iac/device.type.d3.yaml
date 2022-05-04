@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10720720-13b7-4d67-9417-8eb92710d653
-  mac-addresses:
+  id: bf78a11e-9939-40ba-979d-d3bfd5f62b1e
+  macAddresses:
   - 00:50:C2:64:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iac
 type: d3-device-type-assertion

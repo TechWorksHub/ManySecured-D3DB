@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bcef4783-6b65-4801-aab5-aeff5e6fae16
-  mac-addresses:
+  id: b16bfbf9-e6f5-416d-9891-26ae32e72890
+  macAddresses:
   - 18:C2:3C:00:00:00/24
   - 54:EF:44:00:00:00/24
   manufacturer: Lumi United Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LumiUnit
 type: d3-device-type-assertion

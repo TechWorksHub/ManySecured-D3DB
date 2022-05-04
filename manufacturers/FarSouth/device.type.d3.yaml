@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d7e74183-6378-4d40-925a-72c1f867dc49
-  mac-addresses:
+  id: 00590d64-6990-4742-9a7f-dfa33723132b
+  macAddresses:
   - 00:50:C2:97:90:00/36
   - 00:50:C2:FC:80:00/36
   - 78:AE:0C:00:00:00/24
   manufacturer: Far South Networks (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FarSouth
 type: d3-device-type-assertion

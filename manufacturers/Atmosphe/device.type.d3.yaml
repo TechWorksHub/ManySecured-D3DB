@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9593b095-89cb-49e4-bb0d-0bedd9561341
-  mac-addresses:
+  id: bb86f19d-36e8-4324-9a0f-8a4523412b3b
+  macAddresses:
   - 00:10:B4:00:00:00/24
   manufacturer: Atmosphere Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atmosphe
 type: d3-device-type-assertion

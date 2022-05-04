@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1cde491-d541-478a-8157-d450fd0bf3a4
-  mac-addresses:
+  id: 6c506cfe-acf9-4736-928b-2b7a73b29d35
+  macAddresses:
   - 70:B3:D5:CE:00:00/36
   manufacturer: M.S. Control
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSContro
 type: d3-device-type-assertion

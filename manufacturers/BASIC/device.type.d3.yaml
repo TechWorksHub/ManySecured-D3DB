@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42d05d80-9998-4c8b-8aeb-45cffa467908
-  mac-addresses:
+  id: 7c04011f-c7dd-4e99-bbb8-0f9cdfa5fb2d
+  macAddresses:
   - BC:81:99:00:00:00/24
   manufacturer: BASIC Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BASIC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f68617ed-a9b5-4a53-9d40-0492f8357926
-  mac-addresses:
+  id: 85f3b2c5-165d-4f50-b569-4d911fdfb17f
+  macAddresses:
   - 00:06:F3:00:00:00/24
   manufacturer: AcceLight Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcceLigh
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45a4a500-0b82-41e2-b5c5-a622257248e5
-  mac-addresses:
+  id: 6658e1dd-3168-441c-b4a3-1ed93d905883
+  macAddresses:
   - 00:50:C2:F3:F0:00/36
   manufacturer: DENSEI COMMUNICATION Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DENSEICO
 type: d3-device-type-assertion

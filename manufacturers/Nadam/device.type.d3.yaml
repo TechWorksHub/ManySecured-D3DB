@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5d30f22-3b4c-4ca0-ab58-cfdecd79c1c9
-  mac-addresses:
+  id: 42b3c537-c21f-491f-b327-2ef7dd9cc655
+  macAddresses:
   - 00:15:33:00:00:00/24
   manufacturer: Nadam.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nadam
 type: d3-device-type-assertion

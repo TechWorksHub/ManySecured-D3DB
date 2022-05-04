@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b02bc9ee-7058-4f3e-9213-192b4bc5bc74
-  mac-addresses:
+  id: c34b1e8b-8f04-41d6-86fb-8d5589b8a414
+  macAddresses:
   - 28:ED:58:00:00:00/24
   manufacturer: JAG Jakob AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JAGJakob
 type: d3-device-type-assertion

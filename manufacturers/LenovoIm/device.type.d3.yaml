@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d5cdbb0-93a4-44e9-a9b2-c6a2ea6395ab
-  mac-addresses:
+  id: b071448d-44be-4a80-b50c-88fc04c9a8a0
+  macAddresses:
   - 44:03:77:40:00:00/28
   manufacturer: Lenovo Image(Tianjin) Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LenovoIm
 type: d3-device-type-assertion

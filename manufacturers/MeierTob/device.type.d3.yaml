@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12c1819c-346d-46f0-aec5-230561c429b1
-  mac-addresses:
+  id: 0d37ef33-4f26-4be5-8653-28408d12d526
+  macAddresses:
   - DC:36:43:00:00:00/28
   manufacturer: Meier Tobler AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeierTob
 type: d3-device-type-assertion

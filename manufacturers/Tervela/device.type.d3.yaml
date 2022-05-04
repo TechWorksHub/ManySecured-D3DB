@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b7a367c-d9dc-4c1d-a648-db70b31b2920
-  mac-addresses:
+  id: e5b87f65-1876-49cb-8eb8-70fbc8d5b098
+  macAddresses:
   - 00:1C:92:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tervela
 type: d3-device-type-assertion

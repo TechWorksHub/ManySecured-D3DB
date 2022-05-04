@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 072faae8-7df1-45fb-ab3b-1e2522cc843e
-  mac-addresses:
+  id: 4bc4a2c4-03bb-40d4-8f32-5e156e6a39cb
+  macAddresses:
   - 98:42:46:00:00:00/24
   manufacturer: Sol Industry Pte., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolIndus
 type: d3-device-type-assertion

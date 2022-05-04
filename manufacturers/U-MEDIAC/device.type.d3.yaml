@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4da9cb6b-b460-4b16-9341-df6119e18f74
-  mac-addresses:
+  id: 8be6ef7c-3c3d-4264-8c97-9191f379f782
+  macAddresses:
   - 00:11:E0:00:00:00/24
   manufacturer: U-MEDIA Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: U-MEDIAC
 type: d3-device-type-assertion

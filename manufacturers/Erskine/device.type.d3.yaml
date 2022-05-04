@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c0b8874-8eb8-4a09-bf12-d022b8f3b8c0
-  mac-addresses:
+  id: e3c32fdb-9f32-47b5-98ff-c57ca6ed7e39
+  macAddresses:
   - 00:08:BA:00:00:00/24
   manufacturer: Erskine Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Erskine
 type: d3-device-type-assertion

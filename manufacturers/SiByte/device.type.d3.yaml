@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8544341c-32e6-44ca-b883-1b4757cfa36f
-  mac-addresses:
+  id: 851d3d72-ea8f-4fd6-8482-3cb352973fad
+  macAddresses:
   - 00:02:4C:00:00:00/24
   manufacturer: SiByte, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiByte
 type: d3-device-type-assertion

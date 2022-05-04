@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72612ffd-ac8a-4a87-8b06-bdb67a750a61
-  mac-addresses:
+  id: a351c14f-f0f3-44a6-95a7-ae2f321734a7
+  macAddresses:
   - 00:50:C2:74:B0:00/36
   manufacturer: STAR-Dundee Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STAR-Dun
 type: d3-device-type-assertion

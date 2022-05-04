@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee846027-8738-4c99-82a9-023753d0a462
-  mac-addresses:
+  id: 92067336-cd0d-4fc3-8f75-f887f66d7a92
+  macAddresses:
   - 70:B3:D5:21:30:00/36
   manufacturer: ETON Deutschland Electro Acoustic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETONDeut
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c035f0e2-9e88-498f-abc1-10ef88c5e6d5
-  mac-addresses:
+  id: 12339701-75e0-4913-817a-fcaafb469367
+  macAddresses:
   - 00:C0:B6:00:00:00/24
   manufacturer: HVE, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HVE
 type: d3-device-type-assertion

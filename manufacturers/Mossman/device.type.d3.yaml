@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6527ac07-bf37-4d07-9176-0b669ef18951
-  mac-addresses:
+  id: 94386b3f-5f4f-438b-91f9-c2d979b07b67
+  macAddresses:
   - F4:69:D5:00:00:00/28
   manufacturer: Mossman Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mossman
 type: d3-device-type-assertion

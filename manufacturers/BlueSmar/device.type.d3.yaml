@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f336123-efdc-4ad3-baee-be2bc54e5edc
-  mac-addresses:
+  id: 75fa4711-05af-4a65-91e3-499e9ac53341
+  macAddresses:
   - 7C:47:7C:70:00:00/28
   manufacturer: BlueSmart Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueSmar
 type: d3-device-type-assertion

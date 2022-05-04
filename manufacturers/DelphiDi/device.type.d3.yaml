@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 8aebed82-2f5a-4884-9fe5-071ac320935b
-  mac-addresses:
+  id: 64dafd01-b9bd-4f28-a233-61c17970af8b
+  macAddresses:
   - 00:50:C2:30:10:00/36
   - 00:50:C2:57:80:00/36
   - 00:50:C2:80:00:00/36
   manufacturer: Delphi Display Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DelphiDi
 type: d3-device-type-assertion

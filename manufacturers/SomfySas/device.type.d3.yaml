@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cedb667-da9a-49c9-bdd2-6a41d1b90e90
-  mac-addresses:
+  id: 007c3e1b-d656-41c3-b6b8-35027b1462b3
+  macAddresses:
   - 40:D8:55:14:D0:00/36
   manufacturer: Somfy Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SomfySas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 672bb8e3-d684-4eb1-b2f5-d7c456b15011
-  mac-addresses:
+  id: d428f8dc-0825-48a5-aeb6-1e5b8297b561
+  macAddresses:
   - 54:DE:D0:00:00:00/24
   manufacturer: Sevio Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sevio
 type: d3-device-type-assertion

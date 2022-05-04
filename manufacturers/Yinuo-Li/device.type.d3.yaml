@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8414d3b7-eb39-4752-8a4b-b817b7f86008
-  mac-addresses:
+  id: aafcb2c8-f985-454d-985c-325d747f7e3a
+  macAddresses:
   - 0C:FE:5D:B0:00:00/28
   manufacturer: Yinuo-Link Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yinuo-Li
 type: d3-device-type-assertion

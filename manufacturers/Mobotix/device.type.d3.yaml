@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d334e084-76f6-400c-95cb-f0dd8a01fd41
-  mac-addresses:
+  id: 040eb615-9103-4881-b98f-15436e271738
+  macAddresses:
   - 00:03:C5:00:00:00/24
   manufacturer: Mobotix AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobotix
 type: d3-device-type-assertion

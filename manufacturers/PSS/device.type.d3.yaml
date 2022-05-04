@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7a0745a-97d5-4efa-9206-4291c0ee8d41
-  mac-addresses:
+  id: b438998b-ed2a-49dd-abb7-110c4bafd8ea
+  macAddresses:
   - 60:15:92:C0:00:00/28
   manufacturer: PSS Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PSS
 type: d3-device-type-assertion

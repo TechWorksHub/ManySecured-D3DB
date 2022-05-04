@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a073c4d-7df8-45d5-ab1e-28cac5cdfc7f
-  mac-addresses:
+  id: 490b88dd-4a53-42ee-b610-44486453c741
+  macAddresses:
   - 00:02:89:00:00:00/24
   manufacturer: DNE Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DNETechn
 type: d3-device-type-assertion

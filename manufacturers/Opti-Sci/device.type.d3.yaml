@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8015f034-b8d2-454d-b5b4-701b1bd44707
-  mac-addresses:
+  id: 7db14846-d2ff-46d7-a577-75440b1bc812
+  macAddresses:
   - 70:B3:D5:33:80:00/36
   manufacturer: Opti-Sciences, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opti-Sci
 type: d3-device-type-assertion

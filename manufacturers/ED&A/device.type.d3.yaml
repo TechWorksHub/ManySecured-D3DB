@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2698690e-a091-4d37-abc6-775c90f515b4
-  mac-addresses:
+  id: 6297ce98-c692-4653-814c-dbf7ca76c537
+  macAddresses:
   - 00:02:E8:00:00:00/24
   manufacturer: E.D.&A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ED&A
 type: d3-device-type-assertion

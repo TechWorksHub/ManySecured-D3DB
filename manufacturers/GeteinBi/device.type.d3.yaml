@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32aa0c1e-eb55-47c7-b797-e74d2d2dc4b8
-  mac-addresses:
+  id: e9f15be9-6dab-4b19-a737-8d638f122948
+  macAddresses:
   - 70:B3:D5:E9:00:00/36
   manufacturer: Getein Biotechnology Co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeteinBi
 type: d3-device-type-assertion

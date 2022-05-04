@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a249a1d-14dd-4049-82c8-0a995d33c547
-  mac-addresses:
+  id: fa471b55-c67c-436a-9503-00c5b035ed26
+  macAddresses:
   - 70:B3:D5:5D:60:00/36
   manufacturer: BMT Messtechnik Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BMTMesst
 type: d3-device-type-assertion

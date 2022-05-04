@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7be3aaa0-a2b9-497d-8db4-d7aa914afa22
-  mac-addresses:
+  id: 5ce64af8-3124-43c7-b647-9fca3bb0a24b
+  macAddresses:
   - 70:B3:D5:08:90:00/36
   - 84:11:C2:00:00:00/28
   manufacturer: Kazdream Technologies LLP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kazdream
 type: d3-device-type-assertion

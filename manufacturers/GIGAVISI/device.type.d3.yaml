@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1b41588-1b41-4992-8a1f-f98422995256
-  mac-addresses:
+  id: e7aad6b9-4925-430e-90d4-19b0abf52324
+  macAddresses:
   - 00:25:96:00:00:00/24
   manufacturer: GIGAVISION srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GIGAVISI
 type: d3-device-type-assertion

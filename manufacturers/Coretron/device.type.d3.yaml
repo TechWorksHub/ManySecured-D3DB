@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a2f984a-565a-4374-916d-e78673371b3d
-  mac-addresses:
+  id: fcc3a20d-1d72-47a5-8a43-55e327e51cec
+  macAddresses:
   - 00:50:41:00:00:00/24
   manufacturer: Coretronic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coretron
 type: d3-device-type-assertion

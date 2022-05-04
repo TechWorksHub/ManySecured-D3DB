@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3e7b6de-e84e-4a32-aec6-187794f8a2ea
-  mac-addresses:
+  id: 45ae481e-2d8b-4fd4-8d37-d43b84ae8f89
+  macAddresses:
   - E0:97:F2:00:00:00/24
   manufacturer: Atomax Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atomax
 type: d3-device-type-assertion

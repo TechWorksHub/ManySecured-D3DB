@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9fef9d85-b03e-4668-bf14-66ac88174900
-  mac-addresses:
+  id: 07a84f05-1c18-41f0-8045-40bd6a275e5d
+  macAddresses:
   - 00:1D:93:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Modacom
 type: d3-device-type-assertion

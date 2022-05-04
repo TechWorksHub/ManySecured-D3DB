@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1ae5d6e-d2d9-45fa-815e-50b0a39f96bf
-  mac-addresses:
+  id: 6e552af5-aea3-45f5-8978-3e652c1601a0
+  macAddresses:
   - 0A:CD:8F:00:00:00/24
   manufacturer: Cisco Systems Norway
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiscoNor
 type: d3-device-type-assertion

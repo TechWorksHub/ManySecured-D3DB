@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4b4ee2f-5b58-455b-b244-8e9cc4d5c7d9
-  mac-addresses:
+  id: dd8223a1-cccd-4c7f-8ca4-c7d57abb0e7c
+  macAddresses:
   - 70:B3:D5:25:00:00/36
   manufacturer: Datum Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatumEle
 type: d3-device-type-assertion

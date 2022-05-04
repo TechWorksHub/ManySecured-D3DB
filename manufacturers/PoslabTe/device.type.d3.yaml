@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 959f81e3-5337-4985-a4f1-a20a6201475d
-  mac-addresses:
+  id: dadc3e59-63a3-4727-abf5-710bfde1438f
+  macAddresses:
   - F0:B6:EB:00:00:00/24
   manufacturer: Poslab Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PoslabTe
 type: d3-device-type-assertion

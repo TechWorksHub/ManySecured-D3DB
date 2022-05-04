@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c53275e5-bbe2-480a-b3b9-7d77683f3fa2
-  mac-addresses:
+  id: 9c0f874e-ee41-4059-9109-45cf59883bfc
+  macAddresses:
   - 00:08:B0:00:00:00/24
   manufacturer: HUBER+SUHNER BKtel GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HUBER+SU
 type: d3-device-type-assertion

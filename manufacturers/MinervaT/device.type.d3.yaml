@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d252daf-9863-47fe-8d57-a5c40acfe2a9
-  mac-addresses:
+  id: 187193f0-6301-486e-a31b-664c40d14c78
+  macAddresses:
   - 00:50:C2:36:B0:00/36
   manufacturer: Minerva Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MinervaT
 type: d3-device-type-assertion

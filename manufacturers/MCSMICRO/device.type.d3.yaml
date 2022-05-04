@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f234e0d4-7c3a-438d-b00d-aa25fa3a4178
-  mac-addresses:
+  id: df3d9c5f-bd00-4d26-80b7-e0a898643b78
+  macAddresses:
   - 00:50:C2:B4:70:00/36
   - 00:50:C2:E7:90:00/36
   manufacturer: MCS MICRONIC Computer Systeme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCSMICRO
 type: d3-device-type-assertion

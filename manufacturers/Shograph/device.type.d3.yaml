@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e42f8391-ff6e-4493-a784-9f323fbf1e25
-  mac-addresses:
+  id: 09939228-e8d4-46fc-b154-d4c2277d4224
+  macAddresses:
   - 00:40:94:00:00:00/24
   manufacturer: Shographics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shograph
 type: d3-device-type-assertion

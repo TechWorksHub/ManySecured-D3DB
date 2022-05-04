@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cca7801-9835-4841-8459-5c9f3264d52b
-  mac-addresses:
+  id: cd5a68ff-a8f7-4c23-b9b2-7dc62b7758a0
+  macAddresses:
   - BC:44:B0:00:00:00/24
   manufacturer: Elastifile
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elastifi
 type: d3-device-type-assertion

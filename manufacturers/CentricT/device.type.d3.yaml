@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0762391f-091d-4cb1-97e0-e7c019e2c282
-  mac-addresses:
+  id: 52d57ac6-f81d-4609-a524-583f6fc08170
+  macAddresses:
   - 00:50:C2:72:20:00/36
   manufacturer: Centric TSolve BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentricT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b56d97f6-8041-4e99-a9e3-811ba639c22b
-  mac-addresses:
+  id: eaf8b382-20fe-4f43-b996-f743f1b02f99
+  macAddresses:
   - 70:B3:D5:EB:10:00/36
   manufacturer: CP contech electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CPcontec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30d1dba3-645c-411e-a633-664206418d78
-  mac-addresses:
+  id: 81593ea7-95fc-4234-a886-9598846f760a
+  macAddresses:
   - 00:16:63:00:00:00/24
   manufacturer: KBT Mobile
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KBTMobil
 type: d3-device-type-assertion

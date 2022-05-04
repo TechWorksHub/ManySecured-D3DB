@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 546d3e10-1d30-4dde-8c8c-2fb0f4fb56ad
-  mac-addresses:
+  id: a4f3db3a-8441-4408-b605-76f517900e88
+  macAddresses:
   - AC:02:CF:00:00:00/24
   manufacturer: RW Tecnologia Industria e Comercio Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RWTecnol
 type: d3-device-type-assertion

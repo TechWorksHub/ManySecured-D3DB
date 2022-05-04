@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 693fd92b-04c2-4d1b-9b03-cd5a33e8a23b
-  mac-addresses:
+  id: b8cb2117-5917-495b-8a0d-0b899ba69140
+  macAddresses:
   - 00:50:C2:66:A0:00/36
   - 00:50:C2:7A:30:00/36
   - 00:50:C2:9F:90:00/36
@@ -15,6 +15,6 @@ credentialSubject:
   - 00:50:C2:F1:70:00/36
   manufacturer: ABB Transmission and Distribution Automation Equipment (Xiamen) Co.,
     Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABBTrans
 type: d3-device-type-assertion

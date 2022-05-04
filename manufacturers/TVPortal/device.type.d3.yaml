@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04f2c556-6658-469d-8858-0c5b251955fc
-  mac-addresses:
+  id: 4324d164-fb4f-4600-8cde-d43021a6ccd9
+  macAddresses:
   - 00:50:C2:BC:E0:00/36
   manufacturer: TV Portal Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TVPortal
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 603a22c8-d02d-43a2-81fb-52e2e1181431
-  mac-addresses:
+  id: ac06dccc-324d-4a6d-821d-8a8c4e05d339
+  macAddresses:
   - 04:7F:0E:00:00:00/24
   manufacturer: Barrot Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BarrotTe
 type: d3-device-type-assertion

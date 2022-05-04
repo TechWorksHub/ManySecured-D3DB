@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c7de929-f3c3-457d-ba2a-bd21ee00d4f5
-  mac-addresses:
+  id: f82fdce2-d90a-4238-8f12-fce500c3448f
+  macAddresses:
   - F4:DE:0C:00:00:00/24
   manufacturer: ESPOD Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESPOD
 type: d3-device-type-assertion

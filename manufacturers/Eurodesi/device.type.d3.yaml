@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36ce1afb-287f-4ede-93d0-198af66568d0
-  mac-addresses:
+  id: 5e2f5811-ad7b-47ee-9f78-9b2f33366341
+  macAddresses:
   - 00:25:94:00:00:00/24
   manufacturer: Eurodesign BG LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eurodesi
 type: d3-device-type-assertion

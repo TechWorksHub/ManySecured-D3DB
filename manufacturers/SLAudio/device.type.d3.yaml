@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 951e935c-8902-44b1-af8e-073dfef389f6
-  mac-addresses:
+  id: 38ee0ea6-0e49-49b9-aed1-e882215e8bbb
+  macAddresses:
   - 70:B3:D5:E4:30:00/36
   manufacturer: SL Audio A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SLAudio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f435ba3-7a4d-42f2-a11d-2bfa2c70af76
-  mac-addresses:
+  id: 2648b5ea-a4d6-4432-8a56-5d7a001d3375
+  macAddresses:
   - 00:0E:BA:00:00:00/24
   manufacturer: Hanmi Semiconductor Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanmiSem
 type: d3-device-type-assertion

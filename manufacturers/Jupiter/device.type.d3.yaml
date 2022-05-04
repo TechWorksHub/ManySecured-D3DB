@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3160c12e-24f5-419b-968a-732c39d27932
-  mac-addresses:
+  id: 3f6689bf-8bf5-47f9-8fc9-d298c894b062
+  macAddresses:
   - 18:66:F0:00:00:00/24
   manufacturer: Jupiter Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jupiter
 type: d3-device-type-assertion

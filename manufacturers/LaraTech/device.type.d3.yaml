@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c812ea34-38b9-4400-a5b9-3100822121cb
-  mac-addresses:
+  id: e57bdb11-f009-4e26-b856-8f1da6718f59
+  macAddresses:
   - 00:30:C0:00:00:00/24
   manufacturer: Lara Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LaraTech
 type: d3-device-type-assertion

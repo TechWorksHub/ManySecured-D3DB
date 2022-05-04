@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 222c104f-75d1-4784-96a1-579044ed63ae
-  mac-addresses:
+  id: b1279d89-dab1-4c21-b60c-38b1991fe4ba
+  macAddresses:
   - 18:2C:B4:00:00:00/24
   manufacturer: Nectarsoft Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nectarso
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb5cba33-e679-4817-90ad-8472abaf25c9
-  mac-addresses:
+  id: 076845f7-f175-4757-a555-97a07ee94aac
+  macAddresses:
   - 00:24:60:00:00:00/24
   manufacturer: Giaval Science Development Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiavalSc
 type: d3-device-type-assertion

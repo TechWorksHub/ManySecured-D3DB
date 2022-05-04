@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5132ccc3-e9a3-452a-98c7-f38b6517795e
-  mac-addresses:
+  id: c88124dd-30f1-44b0-ab93-660260fd6304
+  macAddresses:
   - 00:1D:E2:00:00:00/24
   - 00:50:C2:1F:30:00/36
   manufacturer: Radionor Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radionor
 type: d3-device-type-assertion

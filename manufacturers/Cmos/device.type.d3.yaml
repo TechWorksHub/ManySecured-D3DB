@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e752a7d6-4491-46e2-a568-f67558846bdd
-  mac-addresses:
+  id: 4171b9fb-eefb-4511-a492-7fbf3f529fa7
+  macAddresses:
   - 00:30:6B:00:00:00/24
   manufacturer: Cmos Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cmos
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f7868e4-49a6-4159-a611-542a4beecab7
-  mac-addresses:
+  id: 0b69ff9e-3a14-4893-9b38-481168956784
+  macAddresses:
   - 4A:CA:3E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zeus
 type: d3-device-type-assertion

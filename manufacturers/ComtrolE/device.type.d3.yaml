@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c438a33-0f47-481b-bcc3-b82da08c46a6
-  mac-addresses:
+  id: 8e4f4ea9-f92d-4f6e-97a7-725dc66e5fe5
+  macAddresses:
   - 00:01:EE:00:00:00/24
   manufacturer: Comtrol Europe, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComtrolE
 type: d3-device-type-assertion

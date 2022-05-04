@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3f8795b-8fec-4600-997c-17997ec63574
-  mac-addresses:
+  id: 0b8c43da-d1a3-434c-93d2-8f09b388c975
+  macAddresses:
   - C8:63:14:50:00:00/28
   manufacturer: Meyer Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeyerEle
 type: d3-device-type-assertion

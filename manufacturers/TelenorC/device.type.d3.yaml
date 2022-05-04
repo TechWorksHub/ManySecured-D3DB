@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7ddf3076-3d38-4091-a10d-10c892430bf2
-  mac-addresses:
+  id: a3dbf9d2-811c-4c44-bd67-e13c5f8d521b
+  macAddresses:
   - 00:09:09:00:00:00/24
   - 70:B3:D5:27:D0:00/36
   manufacturer: Telenor Connect A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelenorC
 type: d3-device-type-assertion

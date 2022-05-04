@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd82cb57-4840-4ba8-9311-f1f4b89e0d53
-  mac-addresses:
+  id: 552e1d7c-79a6-4737-948f-e58f60480e06
+  macAddresses:
   - 8C:1F:64:8C:50:00/36
   manufacturer: NextT Microwave Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextTMic
 type: d3-device-type-assertion

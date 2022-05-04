@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cff448d8-bd7f-43c4-ab61-d0673c686114
-  mac-addresses:
+  id: 3d0a6a9a-c0ad-413d-82fc-fb52b863d449
+  macAddresses:
   - 00:13:5E:00:00:00/24
   manufacturer: Eab/Rwi/K
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EabRwiK
 type: d3-device-type-assertion

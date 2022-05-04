@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68776a29-6f3c-45f1-be4c-97d1350c65e5
-  mac-addresses:
+  id: 881b135e-f7b3-4bb6-a26d-a2b18a46d685
+  macAddresses:
   - 00:50:C2:A4:D0:00/36
   manufacturer: LevelStar LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LevelSta
 type: d3-device-type-assertion

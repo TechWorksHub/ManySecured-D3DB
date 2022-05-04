@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac8ccb94-db23-46a5-b389-e51199ac3819
-  mac-addresses:
+  id: 2f7b92a2-01f2-4b9f-a02d-310cfa56b6b4
+  macAddresses:
   - 7C:A2:37:00:00:00/24
   manufacturer: King Slide Technology CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KingSlid
 type: d3-device-type-assertion

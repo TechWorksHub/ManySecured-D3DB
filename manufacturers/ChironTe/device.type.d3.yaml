@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc3b004b-6644-493a-983c-c2155a4d3bc2
-  mac-addresses:
+  id: 6051acc6-d1a3-459d-b4cf-d457addfb041
+  macAddresses:
   - 00:11:78:00:00:00/24
   manufacturer: Chiron Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChironTe
 type: d3-device-type-assertion

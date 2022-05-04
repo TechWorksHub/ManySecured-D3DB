@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 422bdb8b-d20b-4870-b968-fd71da324134
-  mac-addresses:
+  id: f5cd5584-b0f7-4ec4-82e3-7682016e7664
+  macAddresses:
   - A8:5B:36:D0:00:00/28
   manufacturer: Adam Hall GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdamHall
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b69d4f6e-e979-4476-a102-a6b03afb49fb
-  mac-addresses:
+  id: 8e9b6f05-1d92-4b39-8906-6d95fe9c2b6e
+  macAddresses:
   - 00:1C:E8:00:00:00/24
   manufacturer: Cummins Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cummins
 type: d3-device-type-assertion

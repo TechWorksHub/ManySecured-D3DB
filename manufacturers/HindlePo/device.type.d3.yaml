@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5a56b48-a001-4e74-bd40-8f4f8defe4bc
-  mac-addresses:
+  id: 876515f0-639f-4ca6-ac25-8c3674901053
+  macAddresses:
   - 60:D7:E3:80:00:00/28
   manufacturer: HindlePower, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HindlePo
 type: d3-device-type-assertion

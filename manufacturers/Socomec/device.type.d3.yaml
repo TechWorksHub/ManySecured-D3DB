@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e683a1d2-bd4d-44e0-ab47-cc3160616437
-  mac-addresses:
+  id: 5c3a9eff-bfd8-4c33-be13-a1067d280559
+  macAddresses:
   - 00:17:4A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Socomec
 type: d3-device-type-assertion

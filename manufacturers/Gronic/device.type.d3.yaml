@@ -1,9 +1,9 @@
 credentialSubject:
-  id: eff891a8-27bb-4599-bd0f-8b9b1a07dc5c
-  mac-addresses:
+  id: da3408db-5304-4952-b7c2-7d615db2a7fd
+  macAddresses:
   - 00:50:C2:C8:30:00/36
   - 4C:BC:98:50:00:00/28
   manufacturer: Gronic Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gronic
 type: d3-device-type-assertion

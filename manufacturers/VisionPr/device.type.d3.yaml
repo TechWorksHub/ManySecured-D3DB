@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cbbf459-5fbb-441c-863e-d732ab7cf657
-  mac-addresses:
+  id: cfaed7b8-778a-468e-bf75-43bfd3924a73
+  macAddresses:
   - 00:D0:3B:00:00:00/24
   manufacturer: Vision Products Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisionPr
 type: d3-device-type-assertion

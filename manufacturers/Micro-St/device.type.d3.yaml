@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 05ebe80b-ac47-4f5c-bdac-3a7f3f21b484
-  mac-addresses:
+  id: f9ba671b-a012-4f8b-ba19-d28b79d14b94
+  macAddresses:
   - 00:0C:76:00:00:00/24
   - 00:10:DC:00:00:00/24
   - 00:11:09:00:00:00/24
@@ -22,6 +22,6 @@ credentialSubject:
   - D8:BB:C1:00:00:00/24
   - D8:CB:8A:00:00:00/24
   manufacturer: Micro-Star International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micro-St
 type: d3-device-type-assertion

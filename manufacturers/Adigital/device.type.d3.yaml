@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60039fd2-789e-4f61-8d1b-be4eba8b4def
-  mac-addresses:
+  id: 06d0cb61-0539-4be7-a1c3-aaea42438b43
+  macAddresses:
   - 70:B3:D5:B3:A0:00/36
   manufacturer: Adigitalmedia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adigital
 type: d3-device-type-assertion

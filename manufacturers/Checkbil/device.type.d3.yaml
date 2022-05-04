@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5719583-3216-49c1-a3a8-5d7b1548ac0a
-  mac-addresses:
+  id: 65fd177d-f18b-4666-b155-c26996eddf35
+  macAddresses:
   - 70:B3:D5:94:70:00/36
   manufacturer: Checkbill Co,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Checkbil
 type: d3-device-type-assertion

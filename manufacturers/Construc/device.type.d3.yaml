@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dfc54b6-bae9-4d14-ae80-b8eba32da578
-  mac-addresses:
+  id: 4b4c58d2-a788-4599-9d01-20986176931e
+  macAddresses:
   - 00:1F:39:00:00:00/24
   manufacturer: Construcciones y Auxiliar de Ferrocarriles, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Construc
 type: d3-device-type-assertion

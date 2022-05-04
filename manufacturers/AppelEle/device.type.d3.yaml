@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d35cabdb-d88d-4157-bb6c-fe70ddcac8d9
-  mac-addresses:
+  id: a4c12fb5-5033-494d-bb94-af21c5832ff6
+  macAddresses:
   - 48:82:F2:00:00:00/24
   manufacturer: Appel Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppelEle
 type: d3-device-type-assertion

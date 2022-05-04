@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2641f23-8396-4690-b6a8-b42e275d2ae4
-  mac-addresses:
+  id: 3bf89b15-fea1-4cc9-abff-a260855bf3ba
+  macAddresses:
   - 00:1B:C5:09:E0:00/36
   manufacturer: K+K Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: K+KMesst
 type: d3-device-type-assertion

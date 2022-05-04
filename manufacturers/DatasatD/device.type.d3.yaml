@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d59b2dc1-c198-4586-803e-cc6b303122dc
-  mac-addresses:
+  id: c22425e9-c5f3-4466-9f26-0fe22a4e2a94
+  macAddresses:
   - 00:1B:C5:06:90:00/36
   - 00:50:C2:B2:D0:00/36
   - 70:B3:D5:B2:40:00/36
   manufacturer: Datasat Digital Entertainment
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatasatD
 type: d3-device-type-assertion

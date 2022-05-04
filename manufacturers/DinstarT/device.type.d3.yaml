@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9ec8ada-919c-4a1d-a377-5253a2752417
-  mac-addresses:
+  id: 29d117f8-7272-4f12-9f1f-a5f171701cf1
+  macAddresses:
   - F8:A0:3D:00:00:00/24
   manufacturer: Dinstar Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DinstarT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84ffbbee-4850-4466-a184-b2f560a9b817
-  mac-addresses:
+  id: 22f33b36-ce7f-48c1-a540-610d817128f3
+  macAddresses:
   - 00:25:80:00:00:00/24
   manufacturer: Equipson S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Equipson
 type: d3-device-type-assertion

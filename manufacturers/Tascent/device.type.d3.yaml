@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1269c690-ac17-4e27-abc9-5d3781b65dfb
-  mac-addresses:
+  id: fd13cd18-6416-40b6-9695-7673c44854a6
+  macAddresses:
   - 34:D0:B8:30:00:00/28
   manufacturer: Tascent, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tascent
 type: d3-device-type-assertion

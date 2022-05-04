@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ecb0d2c2-13a2-445b-a547-1d67a151969b
-  mac-addresses:
+  id: 1dd9eed4-73ea-4061-88ed-4d5f83a6a53f
+  macAddresses:
   - 00:50:C2:28:10:00/36
   - 18:FD:CB:20:00:00/28
   manufacturer: Cabtronix AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cabtroni
 type: d3-device-type-assertion

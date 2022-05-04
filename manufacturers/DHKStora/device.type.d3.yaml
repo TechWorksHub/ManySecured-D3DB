@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3055689a-2012-4296-a4d1-b5ddc8012cf0
-  mac-addresses:
+  id: ae9c9c66-d305-401d-8d5a-92e3f3c6e935
+  macAddresses:
   - 70:B3:D5:91:50:00/36
   manufacturer: DHK Storage, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DHKStora
 type: d3-device-type-assertion

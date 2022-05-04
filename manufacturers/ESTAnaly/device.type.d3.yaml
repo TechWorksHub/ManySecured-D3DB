@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8eee3bb-0913-46fa-b872-c754183d0ea0
-  mac-addresses:
+  id: 30a42864-e0ac-4e20-8b7a-5a22c3531dcf
+  macAddresses:
   - 40:D8:55:0C:E0:00/36
   manufacturer: EST Analytical
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESTAnaly
 type: d3-device-type-assertion

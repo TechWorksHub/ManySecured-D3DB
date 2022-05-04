@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58828c9f-5996-4d8e-b6ac-bfbce343580d
-  mac-addresses:
+  id: 1e36421a-0cab-456d-b122-5552f043f10a
+  macAddresses:
   - 50:CD:32:00:00:00/24
   manufacturer: NanJing Chaoran Science & Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanJingC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee3068d2-718b-4ea4-876c-6427d14c48f2
-  mac-addresses:
+  id: ec1adb6a-3b7f-45d6-8dbf-c3bde1eebce5
+  macAddresses:
   - 70:B3:D5:4D:10:00/36
   manufacturer: Contraves Advanced Devices Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Contrave
 type: d3-device-type-assertion

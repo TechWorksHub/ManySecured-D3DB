@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53a01410-cc22-4a8b-8d9e-b079d87c3984
-  mac-addresses:
+  id: 34c32038-f2dc-4efe-ac74-c1a7cbfee21a
+  macAddresses:
   - 00:17:D2:00:00:00/24
   manufacturer: Thinlinx Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thinlinx
 type: d3-device-type-assertion

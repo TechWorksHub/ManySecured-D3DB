@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10ef36e4-494b-4e9c-a2e6-3b1968f9a63f
-  mac-addresses:
+  id: ec3cd10e-b2db-4516-bfca-24ebbfa614a4
+  macAddresses:
   - 00:40:E9:00:00:00/24
   manufacturer: Accord Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accord
 type: d3-device-type-assertion

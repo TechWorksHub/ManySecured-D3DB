@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d4be280-a383-4b17-a418-082d1c16e003
-  mac-addresses:
+  id: 23a0a8c9-7e6d-448b-aa25-cfbe579d271a
+  macAddresses:
   - 0C:CE:F6:00:00:00/24
   manufacturer: Guizhou Fortuneship Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GuizhouF
 type: d3-device-type-assertion

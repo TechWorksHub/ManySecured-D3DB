@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0008c573-a961-49c6-88d9-6ae9737c36f7
-  mac-addresses:
+  id: bdfb21e5-cd5a-4c87-b112-ff24d78b29c4
+  macAddresses:
   - 00:60:2B:00:00:00/24
   manufacturer: Peak Audio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PeakAudi
 type: d3-device-type-assertion

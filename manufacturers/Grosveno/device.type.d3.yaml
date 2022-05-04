@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19d80cbc-04ca-467a-ba77-6a4befa31e82
-  mac-addresses:
+  id: 5e0fe513-0f76-4142-8056-3b3d50689555
+  macAddresses:
   - 00:50:C2:59:10:00/36
   manufacturer: Grosvenor Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grosveno
 type: d3-device-type-assertion

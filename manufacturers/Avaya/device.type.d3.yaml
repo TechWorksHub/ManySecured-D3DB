@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8a6aecee-eb88-43be-8aaa-65f8847cea9a
-  mac-addresses:
+  id: 8d07c032-64e0-4f20-b199-e5df3b618098
+  macAddresses:
   - 00:04:0D:00:00:00/24
   - 00:1B:4F:00:00:00/24
   - 00:54:9F:00:00:00/24
@@ -54,6 +54,6 @@ credentialSubject:
   - FC:83:99:00:00:00/24
   - FC:A8:41:00:00:00/24
   manufacturer: Avaya Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avaya
 type: d3-device-type-assertion

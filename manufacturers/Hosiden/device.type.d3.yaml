@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4930d689-b21b-4140-ba94-fd4ffbf8e06d
-  mac-addresses:
+  id: 9a11b0d5-7617-4232-8498-4c7242caa259
+  macAddresses:
   - 00:0B:E4:00:00:00/24
   - 30:31:7D:00:00:00/24
   manufacturer: Hosiden Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hosiden
 type: d3-device-type-assertion

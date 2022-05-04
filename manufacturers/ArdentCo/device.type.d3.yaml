@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21692884-02ed-43f9-86cf-6c791697a0a6
-  mac-addresses:
+  id: fddfbdf5-849f-4e46-a2d8-ff55dda0574e
+  macAddresses:
   - 00:E0:B5:00:00:00/24
   manufacturer: Ardent Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArdentCo
 type: d3-device-type-assertion

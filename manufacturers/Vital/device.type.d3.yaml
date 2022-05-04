@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fad50aa-3217-48f4-80b8-4e0acd3e6787
-  mac-addresses:
+  id: f28237a0-5ab4-467c-a226-be93d8a1c300
+  macAddresses:
   - 00:50:C2:79:C0:00/36
   manufacturer: Vital Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vital
 type: d3-device-type-assertion

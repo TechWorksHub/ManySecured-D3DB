@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1f46d0d-5b91-4607-97b1-4dc326043949
-  mac-addresses:
+  id: f0c89002-410c-43f4-93c7-b0414a6bdb69
+  macAddresses:
   - 70:B3:D5:99:90:00/36
   manufacturer: Logicube Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logicube
 type: d3-device-type-assertion

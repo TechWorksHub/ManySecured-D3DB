@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 058f9ea4-de9d-4847-af53-b0801ea1227a
-  mac-addresses:
+  id: 95763db7-e2eb-4d5c-b61a-16ffaa84bf96
+  macAddresses:
   - 00:11:1E:00:00:00/24
   - 00:15:1E:00:00:00/24
   manufacturer: ETHERNET Powerlink Standarization Group (EPSG)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETHERNET
 type: d3-device-type-assertion

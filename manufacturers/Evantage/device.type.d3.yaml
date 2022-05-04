@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2808f474-cd60-4d81-91cc-24c19e09fa08
-  mac-addresses:
+  id: 75e3be66-2c5b-478f-8921-2fadd9f2bf88
+  macAddresses:
   - 94:85:7A:00:00:00/24
   manufacturer: Evantage Industries Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Evantage
 type: d3-device-type-assertion

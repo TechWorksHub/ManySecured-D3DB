@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 437c8c33-4c04-43f7-a5ef-a2fa15fd23d7
-  mac-addresses:
+  id: 19675137-c22b-410c-967d-9a2bb002361c
+  macAddresses:
   - 2C:7B:5A:00:00:00/24
   manufacturer: Milper Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Milper
 type: d3-device-type-assertion

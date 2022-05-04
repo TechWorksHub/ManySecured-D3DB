@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 798801c0-aa55-49ce-bccc-d404114510c4
-  mac-addresses:
+  id: 9699fdde-93c5-4980-838d-9b9ee33a89fd
+  macAddresses:
   - 00:10:A2:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tns
 type: d3-device-type-assertion

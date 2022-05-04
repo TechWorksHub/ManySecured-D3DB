@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54d4b2eb-4692-4a19-b1f1-322a9e8dd874
-  mac-addresses:
+  id: 0560dbf8-3e41-4245-b2a5-35922e3507f8
+  macAddresses:
   - 70:B3:D5:AD:F0:00/36
   manufacturer: Seraphim Optronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seraphim
 type: d3-device-type-assertion

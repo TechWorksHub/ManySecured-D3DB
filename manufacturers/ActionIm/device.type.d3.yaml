@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86b52a5c-c187-4e3c-aebd-0ee6d239996c
-  mac-addresses:
+  id: 28735331-0e93-40c6-8df0-36f973f715e4
+  macAddresses:
   - 00:09:B9:00:00:00/24
   manufacturer: Action Imaging Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActionIm
 type: d3-device-type-assertion

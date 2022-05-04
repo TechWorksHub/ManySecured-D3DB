@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ca46496b-d148-4b82-826b-1abe911991dc
-  mac-addresses:
+  id: dffe009f-5a9c-4d47-b0be-f02d8491a2f3
+  macAddresses:
   - 00:09:48:00:00:00/24
   - 00:40:C0:00:00:00/24
   manufacturer: Vista Control Systems, Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VistaCon
 type: d3-device-type-assertion

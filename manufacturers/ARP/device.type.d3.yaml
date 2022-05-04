@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a98c1d63-5c4e-4f4c-8705-07ea1650fbda
-  mac-addresses:
+  id: 564772a2-2e1f-4aa6-a5c4-5fb507175547
+  macAddresses:
   - 70:B3:D5:B8:80:00/36
   manufacturer: ARP Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARP
 type: d3-device-type-assertion

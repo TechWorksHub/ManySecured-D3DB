@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b72def3-ab43-456a-b72d-024d526a64cb
-  mac-addresses:
+  id: d882922c-781a-48ad-b1a7-a91e30b40ee2
+  macAddresses:
   - 4C:D7:B6:00:00:00/24
   manufacturer: Helmer Scientific
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HelmerSc
 type: d3-device-type-assertion

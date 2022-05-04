@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 64e569f7-b209-4409-a171-f376769226e9
-  mac-addresses:
+  id: e56af4f7-025c-4b47-bafb-c4e779dc456d
+  macAddresses:
   - 00:21:11:00:00:00/24
   - 00:24:F2:00:00:00/24
   manufacturer: Uniphone Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uniphone
 type: d3-device-type-assertion

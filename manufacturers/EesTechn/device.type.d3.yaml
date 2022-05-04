@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abaf632b-286b-4662-8a77-2dead471c0bd
-  mac-addresses:
+  id: 3af86565-cb6d-430a-b687-2733175e1fe6
+  macAddresses:
   - 00:E0:AD:00:00:00/24
   manufacturer: Ees Technology, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EesTechn
 type: d3-device-type-assertion

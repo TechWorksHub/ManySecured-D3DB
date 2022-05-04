@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4454094a-1f21-40d1-a1f3-cd4dc6b7d119
-  mac-addresses:
+  id: 56a3f13e-8411-4747-b7d8-e5fdb94a4bfb
+  macAddresses:
   - 98:77:70:00:00:00/24
   manufacturer: Pep Digital Technology (Guangzhou) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PepDigit
 type: d3-device-type-assertion

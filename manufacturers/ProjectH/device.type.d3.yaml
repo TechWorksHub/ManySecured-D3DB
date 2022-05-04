@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b336e7e-c182-4312-9c11-a5e65134ceef
-  mac-addresses:
+  id: f1b17cad-c578-4c0a-b796-68fe64736eb9
+  macAddresses:
   - 70:B3:D5:11:40:00/36
   manufacturer: Project H Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProjectH
 type: d3-device-type-assertion

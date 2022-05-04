@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30509f3e-5996-4054-88fd-8413b252e72b
-  mac-addresses:
+  id: 09f81e70-4c1a-4d7a-8636-c99aa512fee2
+  macAddresses:
   - 50:A4:D0:90:00:00/28
   manufacturer: Oem Production Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OemProdu
 type: d3-device-type-assertion

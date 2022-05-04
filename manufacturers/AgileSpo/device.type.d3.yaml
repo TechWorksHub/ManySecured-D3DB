@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05e37987-4e7f-40a1-92ee-2f0b122bdd7a
-  mac-addresses:
+  id: 46150b25-6be8-4246-88cf-e633705d9ed6
+  macAddresses:
   - F0:2A:2B:50:00:00/28
   manufacturer: Agile Sports Technologies, dba Hudl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AgileSpo
 type: d3-device-type-assertion

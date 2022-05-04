@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78a867cd-1282-4bb0-b741-1380ce13f4b7
-  mac-addresses:
+  id: 34a47141-af50-40e5-9379-1f27c30fb84b
+  macAddresses:
   - 00:50:C2:28:50:00/36
   manufacturer: Littwin GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Littwin
 type: d3-device-type-assertion

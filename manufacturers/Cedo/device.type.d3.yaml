@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0da25f39-83f6-400f-9842-4c6a1d406a1b
-  mac-addresses:
+  id: a52cd55e-a070-4edc-b368-fe701ed5c52c
+  macAddresses:
   - 00:25:D7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cedo
 type: d3-device-type-assertion

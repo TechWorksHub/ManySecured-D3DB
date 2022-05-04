@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86c2aa52-7728-48a8-a86b-b70053dc776a
-  mac-addresses:
+  id: b62402f8-2830-4466-87dc-b2681b3d374b
+  macAddresses:
   - 38:EC:11:00:00:00/24
   manufacturer: Novatek Microelectronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovatekM
 type: d3-device-type-assertion

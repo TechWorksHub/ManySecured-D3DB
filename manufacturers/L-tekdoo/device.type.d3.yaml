@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a68ae30b-502f-4793-a8cf-ecf758747f9a
-  mac-addresses:
+  id: 8bdac2fe-b6fc-4a6b-85db-79a1dba7e45d
+  macAddresses:
   - 50:FA:AB:00:00:00/24
   manufacturer: L-tek d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: L-tekdoo
 type: d3-device-type-assertion

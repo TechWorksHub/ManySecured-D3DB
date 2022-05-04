@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 108beea3-191f-436d-920e-8c038a56527e
-  mac-addresses:
+  id: f8447dfb-5f13-4301-b1dd-04bc5041d2dd
+  macAddresses:
   - 58:FC:DB:20:00:00/28
   manufacturer: Beseye Cloud Security Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeseyeCl
 type: d3-device-type-assertion

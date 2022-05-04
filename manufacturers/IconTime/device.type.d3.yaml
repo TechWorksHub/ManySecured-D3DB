@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 24c06548-6d04-465c-987b-f7cf3069bc35
-  mac-addresses:
+  id: 842bd7a5-e959-489d-89be-f838294f973b
+  macAddresses:
   - 00:50:C2:78:50:00/36
   - 00:50:C2:A1:90:00/36
   - 00:50:C2:C5:F0:00/36
   - 58:EE:CE:00:00:00/24
   manufacturer: Icon Time Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IconTime
 type: d3-device-type-assertion

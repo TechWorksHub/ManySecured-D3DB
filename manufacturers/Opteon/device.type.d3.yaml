@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c63aa570-3416-4b01-ae41-573e06f219ef
-  mac-addresses:
+  id: f7d00300-0823-4197-8baa-3e130c27eba8
+  macAddresses:
   - 00:07:A2:00:00:00/24
   manufacturer: Opteon Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opteon
 type: d3-device-type-assertion

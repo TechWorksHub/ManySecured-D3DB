@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80ee226d-99e3-4774-abe3-4973e012f52f
-  mac-addresses:
+  id: 7ed11d04-4be2-4c15-be96-28f8662eef11
+  macAddresses:
   - 70:B3:D5:3C:10:00/36
   manufacturer: thingdust AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: thingdus
 type: d3-device-type-assertion

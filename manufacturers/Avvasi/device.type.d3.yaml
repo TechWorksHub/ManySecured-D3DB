@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 316a3bb3-439d-4f1e-ac1b-f05e09d8602e
-  mac-addresses:
+  id: 83a5ff9c-9d20-43b8-9ab6-64aac92566c2
+  macAddresses:
   - 64:F9:87:00:00:00/24
   manufacturer: Avvasi Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avvasi
 type: d3-device-type-assertion

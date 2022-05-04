@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c53b528-df53-4d4f-8ae6-b2097189f24a
-  mac-addresses:
+  id: e6b8612f-ea4e-4258-8e81-dadbb3e7043d
+  macAddresses:
   - 70:B3:D5:15:50:00/36
   manufacturer: Sanwa New Tec Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanwaNew
 type: d3-device-type-assertion

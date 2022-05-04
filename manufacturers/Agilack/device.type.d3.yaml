@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7741209f-d6d7-4401-a647-04d8cddc9295
-  mac-addresses:
+  id: 15fd2a5f-3ce5-4d2f-a377-8699984142c5
+  macAddresses:
   - 70:B3:D5:4C:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Agilack
 type: d3-device-type-assertion

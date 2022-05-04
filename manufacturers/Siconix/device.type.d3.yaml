@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afb0b547-da90-461c-adf7-116ef0360bbc
-  mac-addresses:
+  id: 49f077b5-8788-4c27-95ae-81b84c505d07
+  macAddresses:
   - C4:3A:9F:00:00:00/24
   manufacturer: Siconix Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siconix
 type: d3-device-type-assertion

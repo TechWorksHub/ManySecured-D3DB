@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fe5c53d-5386-4224-b553-af1be2fd4c97
-  mac-addresses:
+  id: 09c733f0-5c67-4761-95d8-0717b3fab228
+  macAddresses:
   - 40:B3:FC:00:00:00/24
   manufacturer: Logital Co. Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logital
 type: d3-device-type-assertion

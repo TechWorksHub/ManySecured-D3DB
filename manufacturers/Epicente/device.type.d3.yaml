@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ecfa41b-e01c-4b43-8b80-f5f3e184a388
-  mac-addresses:
+  id: d91388c8-c4a4-4b02-b265-7b84acf59cf3
+  macAddresses:
   - 00:0E:D3:00:00:00/24
   manufacturer: Epicenter, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Epicente
 type: d3-device-type-assertion

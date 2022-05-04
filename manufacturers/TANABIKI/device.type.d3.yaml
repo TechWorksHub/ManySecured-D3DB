@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 094df15e-6bd1-49ab-be2b-d941396dbc25
-  mac-addresses:
+  id: 8c702853-bbed-4601-9737-42f7d5363c48
+  macAddresses:
   - 00:50:C2:B8:20:00/36
   manufacturer: TANABIKI Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TANABIKI
 type: d3-device-type-assertion

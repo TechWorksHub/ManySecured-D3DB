@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e3d836c-b8b2-4863-8538-afee5153ae33
-  mac-addresses:
+  id: dd3cb4ff-0342-488a-929f-556b70273de0
+  macAddresses:
   - FC:61:79:40:00:00/28
   manufacturer: Choeuneng
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Choeunen
 type: d3-device-type-assertion

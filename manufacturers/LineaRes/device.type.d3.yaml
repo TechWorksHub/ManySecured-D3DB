@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa114082-2cdf-40a6-9f82-5f8d7c10559a
-  mac-addresses:
+  id: e5466aeb-3999-45d7-9ce7-5b1cde3e186e
+  macAddresses:
   - 20:01:4F:00:00:00/24
   manufacturer: Linea Research Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LineaRes
 type: d3-device-type-assertion

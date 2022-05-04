@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7424e069-8830-418a-98b8-58fadfc7b753
-  mac-addresses:
+  id: f92e1298-cc68-43db-84c0-8811f31e8aee
+  macAddresses:
   - 00:1B:5C:00:00:00/24
   manufacturer: Azuretec Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Azuretec
 type: d3-device-type-assertion

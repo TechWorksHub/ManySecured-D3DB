@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d23fe27e-228c-4da3-b144-ac4dc5ce0000
-  mac-addresses:
+  id: 36c096e3-78d6-4354-89f5-68a1d25720fb
+  macAddresses:
   - 8C:1F:64:7E:C0:00/36
   manufacturer: Methods2Business B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Methods2
 type: d3-device-type-assertion

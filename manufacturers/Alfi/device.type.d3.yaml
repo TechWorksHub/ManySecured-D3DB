@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b586b24-42f9-4f06-91e6-80ac7afd003a
-  mac-addresses:
+  id: 69e2752b-2a37-47b3-a6f4-96b44a9b961d
+  macAddresses:
   - 70:B3:D5:B0:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alfi
 type: d3-device-type-assertion

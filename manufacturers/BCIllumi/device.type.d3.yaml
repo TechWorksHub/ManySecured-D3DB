@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77d434e9-9574-49cc-8641-85288f642500
-  mac-addresses:
+  id: 0faf042c-2f43-48d7-8441-4d326168c553
+  macAddresses:
   - 00:50:C2:D6:E0:00/36
   manufacturer: BC Illumination, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BCIllumi
 type: d3-device-type-assertion

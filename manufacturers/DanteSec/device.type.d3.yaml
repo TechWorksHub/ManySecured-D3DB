@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e63fac03-177a-4cb1-bf60-32d09ff42f5a
-  mac-addresses:
+  id: 1bd24f31-1958-41b0-bfb4-c7a4c465fd3b
+  macAddresses:
   - D0:C8:57:C0:00:00/28
   manufacturer: Dante Security Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DanteSec
 type: d3-device-type-assertion

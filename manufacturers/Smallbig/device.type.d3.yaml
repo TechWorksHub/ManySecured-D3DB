@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f28dd1d3-11db-4631-938c-10ab61dd1ce5
-  mac-addresses:
+  id: a98c0315-41f0-4774-a3fa-5425c7b211a4
+  macAddresses:
   - 00:0B:B2:00:00:00/24
   manufacturer: Smallbig Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smallbig
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e35aad0-4083-489d-9182-f55be7566cb0
-  mac-addresses:
+  id: 0086531c-728c-493f-bb88-421a00c03d94
+  macAddresses:
   - 00:25:1E:00:00:00/24
   manufacturer: Rotel Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RotelTec
 type: d3-device-type-assertion

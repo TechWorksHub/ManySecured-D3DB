@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b545c9b2-8cf8-4d38-a76a-63044d5324af
-  mac-addresses:
+  id: 2596ed41-62aa-45d4-bd29-c98fe40ecb11
+  macAddresses:
   - 2A:FD:6A:00:00:00/24
   manufacturer: Charter Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CharterC
 type: d3-device-type-assertion

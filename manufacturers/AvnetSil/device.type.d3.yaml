@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3110fcc1-c8bf-400b-8367-315868e8d3c1
-  mac-addresses:
+  id: 8347b004-366d-4a2a-b45c-4948aafef3c5
+  macAddresses:
   - D8:22:F4:00:00:00/24
   manufacturer: Avnet Silica
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvnetSil
 type: d3-device-type-assertion

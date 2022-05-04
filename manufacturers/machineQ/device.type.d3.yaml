@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9c1daad7-5c23-42cf-8cbc-f0f519cd983d
-  mac-addresses:
+  id: 1a609d2e-956f-461f-83f2-adbc54074504
+  macAddresses:
   - 2C:C4:07:00:00:00/24
   - 70:B3:D5:3E:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: machineQ
 type: d3-device-type-assertion

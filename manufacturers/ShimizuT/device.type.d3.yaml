@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb1da907-0ab6-44f8-b1ce-5a4794ed9d14
-  mac-addresses:
+  id: 7fd66f40-5ef3-45be-9f75-1920944a583e
+  macAddresses:
   - 00:09:F0:00:00:00/24
   manufacturer: Shimizu Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShimizuT
 type: d3-device-type-assertion

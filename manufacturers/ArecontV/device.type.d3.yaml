@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 67f0dba5-6c62-4e80-9373-4389e4b13f7f
-  mac-addresses:
+  id: 5aaa46de-2f27-4717-9fb6-3372c99baef9
+  macAddresses:
   - 00:1A:07:00:00:00/24
   - 00:50:C2:3B:60:00/36
   manufacturer: Arecont Vision
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArecontV
 type: d3-device-type-assertion

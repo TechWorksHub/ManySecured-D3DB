@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3ecb5b3-1156-422f-8faa-70d4e4c6638f
-  mac-addresses:
+  id: d3782fc8-3a52-4f95-b726-2ebcb88367b6
+  macAddresses:
   - A4:ED:43:00:00:00/28
   manufacturer: Sweam AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sweam
 type: d3-device-type-assertion

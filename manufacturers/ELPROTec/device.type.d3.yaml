@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8da385bd-be4a-4600-983f-2c9079cf51d2
-  mac-addresses:
+  id: 56df77f9-646d-4a62-b45e-a6d9168eda1b
+  macAddresses:
   - 00:12:AF:00:00:00/24
   manufacturer: ELPRO Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ELPROTec
 type: d3-device-type-assertion

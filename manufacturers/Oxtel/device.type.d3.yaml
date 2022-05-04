@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e846626f-e735-4de6-b60f-c7f35cdf2c91
-  mac-addresses:
+  id: 6eb1a6ac-140d-4b86-a16d-6b1940c08537
+  macAddresses:
   - 00:50:FA:00:00:00/24
   manufacturer: Oxtel, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oxtel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8d19ace-1128-487c-ac72-f2660e646143
-  mac-addresses:
+  id: 78c6ac27-c37f-4bd3-98d3-5bbff37e3c8a
+  macAddresses:
   - F4:15:35:00:00:00/24
   manufacturer: SPON Communication Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPONComm
 type: d3-device-type-assertion

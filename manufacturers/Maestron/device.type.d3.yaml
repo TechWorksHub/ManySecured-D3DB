@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e3bf28c-1f8c-4b89-bc31-116894387ed8
-  mac-addresses:
+  id: ac989af9-52e7-4f52-b8d9-70315bdea63a
+  macAddresses:
   - 48:F9:25:00:00:00/24
   manufacturer: Maestronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maestron
 type: d3-device-type-assertion

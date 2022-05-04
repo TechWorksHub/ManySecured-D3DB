@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ed4ae4f-04ba-40e8-b5d5-eb519138930f
-  mac-addresses:
+  id: 6a4c0604-909e-409c-b42f-461251033cf5
+  macAddresses:
   - 7C:47:7C:E0:00:00/28
   manufacturer: I-Convergence.com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: I-Conver
 type: d3-device-type-assertion

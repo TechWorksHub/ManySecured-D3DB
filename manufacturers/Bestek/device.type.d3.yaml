@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a565ff72-de95-4458-96e1-4d65a59e089f
-  mac-addresses:
+  id: c119f33c-a9d1-40c3-8aed-1933e1cb9691
+  macAddresses:
   - 74:8E:08:00:00:00/24
   manufacturer: Bestek Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bestek
 type: d3-device-type-assertion

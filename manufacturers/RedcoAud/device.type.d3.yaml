@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2d811cb-bf8a-4788-a25b-3c9ac72c4b28
-  mac-addresses:
+  id: 27c19f35-00d7-4fb6-9a97-01e61b62e0c1
+  macAddresses:
   - 70:B3:D5:42:90:00/36
   manufacturer: Redco Audio Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedcoAud
 type: d3-device-type-assertion

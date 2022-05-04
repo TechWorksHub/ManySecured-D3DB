@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5935c55c-7728-4350-a75a-dd779cd3d699
-  mac-addresses:
+  id: a9e8083b-da62-44a4-97ac-36207347828a
+  macAddresses:
   - 00:50:C2:90:F0:00/36
   manufacturer: INTEGRA Biosciences AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INTEGRAB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2114ca8f-7235-47e3-b522-f66e53ebc266
-  mac-addresses:
+  id: 1529f3e9-fd32-4ce7-89c3-a86bb41d2fb8
+  macAddresses:
   - 70:B3:D5:BF:A0:00/36
   manufacturer: Nesa Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nesa
 type: d3-device-type-assertion

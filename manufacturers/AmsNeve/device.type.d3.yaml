@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95e3770a-28d2-48a1-9256-8a347a7b23f4
-  mac-addresses:
+  id: 65b3292a-a231-4994-8224-0b2895710cdd
+  macAddresses:
   - 7C:6C:8F:00:00:00/24
   manufacturer: Ams Neve Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmsNeve
 type: d3-device-type-assertion

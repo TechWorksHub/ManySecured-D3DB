@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4bcfb655-8329-4379-82e7-2887b4f8b075
-  mac-addresses:
+  id: 3b9a7a3a-0a8a-4b04-932d-c8354b8a51ac
+  macAddresses:
   - 00:07:52:00:00:00/24
   manufacturer: Rhythm Watch Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RhythmWa
 type: d3-device-type-assertion

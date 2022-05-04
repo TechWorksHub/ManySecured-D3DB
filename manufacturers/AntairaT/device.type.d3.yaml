@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a099859e-3398-498b-9701-1c804e025992
-  mac-addresses:
+  id: d28806da-b52d-4542-a110-194df6148941
+  macAddresses:
   - 7C:CB:0D:00:00:00/24
   manufacturer: Antaira Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AntairaT
 type: d3-device-type-assertion

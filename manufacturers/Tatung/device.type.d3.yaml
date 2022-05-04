@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4955821c-bbc2-4601-8bd5-9f7176eaa057
-  mac-addresses:
+  id: 1cd43ae1-d54b-47c2-8c16-365b428ae666
+  macAddresses:
   - 00:80:3F:00:00:00/24
   manufacturer: Tatung Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tatung
 type: d3-device-type-assertion

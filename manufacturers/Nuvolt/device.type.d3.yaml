@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb65c73c-7e03-4654-ac5e-a4472ac2f4c1
-  mac-addresses:
+  id: 999f6c15-ad7b-4cce-9315-1a3872275bdd
+  macAddresses:
   - 44:3D:21:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuvolt
 type: d3-device-type-assertion

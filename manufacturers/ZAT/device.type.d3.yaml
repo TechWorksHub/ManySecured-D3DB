@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f320078-f79f-4439-a63a-100133b1729d
-  mac-addresses:
+  id: 61639458-bcab-48c9-8c52-f946270d736d
+  macAddresses:
   - 00:16:D1:00:00:00/24
   manufacturer: ZAT a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZAT
 type: d3-device-type-assertion

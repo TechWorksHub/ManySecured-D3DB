@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67127f79-10f0-4281-90e3-a4a2fe959f5e
-  mac-addresses:
+  id: 0c441e7b-55aa-487a-a52a-c952fd663681
+  macAddresses:
   - 9C:69:B4:70:00:00/28
   manufacturer: PCI Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCI
 type: d3-device-type-assertion

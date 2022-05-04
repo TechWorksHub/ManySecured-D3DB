@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 453ce3a9-a8c7-4589-8cd8-a561b34df650
-  mac-addresses:
+  id: e3709384-ac69-4a98-8d14-ea26efd27e31
+  macAddresses:
   - 30:1F:9A:B0:00:00/28
   manufacturer: Smart Component Technologies LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d4483b4-9e25-4689-8b3f-39591903f28c
-  mac-addresses:
+  id: 8f4b99d7-d6f6-4a71-8b5a-4c3676a0096f
+  macAddresses:
   - 00:1F:5F:00:00:00/24
   manufacturer: Blatand GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blatand
 type: d3-device-type-assertion

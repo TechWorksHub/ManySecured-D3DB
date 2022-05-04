@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 88c48a75-46e1-4b95-ab4e-575843d1e5ae
-  mac-addresses:
+  id: 0077a798-cdec-4f41-87b7-a49130c7fc22
+  macAddresses:
   - 00:0A:25:00:00:00/24
   - 3C:4C:D0:00:00:00/24
   - F4:B5:BB:00:00:00/24
   manufacturer: Ceragon Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeragonN
 type: d3-device-type-assertion

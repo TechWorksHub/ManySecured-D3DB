@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a1e235a-3d56-4009-a422-d5511af48268
-  mac-addresses:
+  id: 40a031c3-5751-4cb6-b491-278cd99d9d29
+  macAddresses:
   - E8:B4:70:C0:00:00/28
   manufacturer: Anduril Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndurilI
 type: d3-device-type-assertion

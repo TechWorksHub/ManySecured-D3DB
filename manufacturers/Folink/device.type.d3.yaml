@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69fb4127-b4f1-41cf-afd3-6fda84bc21d1
-  mac-addresses:
+  id: 8d8aa675-451b-4d26-9612-be26a9a2738e
+  macAddresses:
   - 00:50:C2:B7:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Folink
 type: d3-device-type-assertion

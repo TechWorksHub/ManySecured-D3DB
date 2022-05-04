@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c22c7582-d6d2-4cee-984b-f31c393e1872
-  mac-addresses:
+  id: 3eb05809-9f36-4e4a-9b50-0ebedc74ec83
+  macAddresses:
   - 00:0B:41:00:00:00/24
   manufacturer: "Ing. B\xFCro Dr. Beutlhauser"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "IngB\xFCroD"
 type: d3-device-type-assertion

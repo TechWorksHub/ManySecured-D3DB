@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f184bae4-c186-4246-8f58-6c15a55bc79a
-  mac-addresses:
+  id: 989f3c89-8ab2-4a6d-94ba-f503dc9ddb50
+  macAddresses:
   - 00:50:C2:7F:10:00/36
   manufacturer: STUHL Regelsysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STUHLReg
 type: d3-device-type-assertion

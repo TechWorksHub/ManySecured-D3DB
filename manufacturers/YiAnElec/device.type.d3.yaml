@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 365daf10-0e62-4595-9472-539a9de34e0f
-  mac-addresses:
+  id: 26ce70a3-5be5-4c97-bced-28190d963ba1
+  macAddresses:
   - 70:B3:D5:F2:80:00/36
   manufacturer: Yi An Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YiAnElec
 type: d3-device-type-assertion

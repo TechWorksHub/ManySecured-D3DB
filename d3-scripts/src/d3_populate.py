@@ -44,12 +44,12 @@ def generate_d3_type(mac: str, short_name: str, long_name: str):
 
 def dump_yaml_files(populate_folder: str, d3_dict):
     for key in d3_dict:
-        company_folder_path = "{}/{}".format(populate_folder, key)
+        company_folder_path = os.path.join(populate_folder, key)
 
         # Create the folder with the given short company name
         os.makedirs(company_folder_path, exist_ok=True)
 
-        yaml_file_path = "{}/{}".format(company_folder_path, DEVICE_TYPE_FILENAME)
+        yaml_file_path = os.path.join(company_folder_path, DEVICE_TYPE_FILENAME)
 
         d3_type = d3_dict[key]
         with open(yaml_file_path, mode="wt", encoding="utf-8") as file:
@@ -90,7 +90,7 @@ def d3_populate(csv_data, populate_folder: str):
                     d3_type = generate_d3_type(mac, short_name, long_name)
 
                 # Add the mac address to the corresponding company
-                d3_type["credentialSubject"]["mac-addresses"].append(mac)
+                d3_type["credentialSubject"]["macAddresses"].append(mac)
                 d3_dict[short_name] = d3_type
 
     # Save the yaml/json object to files

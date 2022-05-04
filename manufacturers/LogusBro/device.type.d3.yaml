@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b7e5764-c01e-4aee-be70-e87a9dc4e7cc
-  mac-addresses:
+  id: 29f88edd-72df-45f6-9986-6ead986c138a
+  macAddresses:
   - 00:50:C2:71:A0:00/36
   manufacturer: Logus Broadband Wireless Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogusBro
 type: d3-device-type-assertion

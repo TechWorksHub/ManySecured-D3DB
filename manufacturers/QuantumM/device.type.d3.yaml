@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f56823d-3a41-43cc-99b0-4fd9948ffcb5
-  mac-addresses:
+  id: 7e15d1ec-c18e-4cb8-b4af-85927192f222
+  macAddresses:
   - 00:50:C2:7A:50:00/36
   manufacturer: Quantum Medical Imaging
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuantumM
 type: d3-device-type-assertion

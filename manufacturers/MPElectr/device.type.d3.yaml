@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97412b17-e111-41db-857b-e28403161258
-  mac-addresses:
+  id: b42bde9b-f13f-4961-a42b-a10551821ba3
+  macAddresses:
   - 00:50:C2:DB:A0:00/36
   manufacturer: M.P. Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MPElectr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12c867cc-8106-4b92-8329-2b28995715f0
-  mac-addresses:
+  id: 5325a719-d5f3-4d23-96eb-ac5200da2920
+  macAddresses:
   - 70:B3:D5:93:D0:00/36
   manufacturer: Elmeasure India Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elmeasur
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b78e49d-c00c-4105-9485-35519c9ce639
-  mac-addresses:
+  id: 8077a81c-d147-4ed2-83e1-4b64cdb3b900
+  macAddresses:
   - F0:EE:58:00:00:00/24
   manufacturer: PACE Telematics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PACETele
 type: d3-device-type-assertion

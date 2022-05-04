@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 357e1a42-06a5-4399-bedd-d2b2f06bb356
-  mac-addresses:
+  id: 45816ec7-91c2-42ea-8ca6-c8f83f42f0c0
+  macAddresses:
   - 00:A0:52:00:00:00/24
   manufacturer: Stanilite Electronics Pty. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stanilit
 type: d3-device-type-assertion

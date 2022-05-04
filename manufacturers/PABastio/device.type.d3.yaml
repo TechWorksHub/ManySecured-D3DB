@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe6eb428-4d8e-483a-bd9a-dbfbef10423b
-  mac-addresses:
+  id: 965fa50d-03b6-468e-a26a-66bcf8184ac2
+  macAddresses:
   - 00:24:58:00:00:00/24
   manufacturer: PA Bastion CC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PABastio
 type: d3-device-type-assertion

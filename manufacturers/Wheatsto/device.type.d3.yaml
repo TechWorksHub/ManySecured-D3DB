@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8d0fd1d7-9dd5-482c-92ff-070890f300d6
-  mac-addresses:
+  id: 34259e2b-ca4a-4728-8716-686c672dc6df
+  macAddresses:
   - 00:50:C2:23:C0:00/36
   - 00:50:C2:BC:40:00/36
   - 00:50:C2:F0:90:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 40:D8:55:1D:70:00/36
   - 80:E4:DA:00:00:00/28
   manufacturer: Wheatstone Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wheatsto
 type: d3-device-type-assertion

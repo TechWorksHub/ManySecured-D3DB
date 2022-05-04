@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8db8065a-3248-4df9-98a3-6e5114bc60f1
-  mac-addresses:
+  id: aa0acd2c-4713-4708-8b6f-3d4bc9a52a0d
+  macAddresses:
   - 00:50:C2:B6:90:00/36
   manufacturer: Thetis S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thetis
 type: d3-device-type-assertion

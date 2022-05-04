@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fdaba00-8854-4f36-9246-fc136b9798b9
-  mac-addresses:
+  id: 457043d1-6602-4e2e-8ae5-c471472f96b8
+  macAddresses:
   - 34:E9:FE:00:00:00/24
   manufacturer: Metis Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metis
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d61dc26-a394-45c5-b743-badbb3e77c87
-  mac-addresses:
+  id: 8df78629-33d5-460c-9dc1-354447318efc
+  macAddresses:
   - 00:50:C2:6D:80:00/36
   manufacturer: BL Healthcare, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BLHealth
 type: d3-device-type-assertion

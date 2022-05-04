@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2eea50d1-5a9b-47c0-b9b6-ebb6895aacb2
-  mac-addresses:
+  id: 7d3d7dd9-e58c-4c68-ad0f-ef1e7f2b9718
+  macAddresses:
   - 00:07:DD:00:00:00/24
   manufacturer: Cradle Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CradleTe
 type: d3-device-type-assertion

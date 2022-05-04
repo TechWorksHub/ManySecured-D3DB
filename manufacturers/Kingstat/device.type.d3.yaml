@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 279691be-63a3-47ca-bd87-06dbc7d11463
-  mac-addresses:
+  id: d6f9239d-7bd3-4fac-bc80-19da6c0b35b2
+  macAddresses:
   - 00:18:98:00:00:00/24
   manufacturer: Kingstate Electronics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kingstat
 type: d3-device-type-assertion

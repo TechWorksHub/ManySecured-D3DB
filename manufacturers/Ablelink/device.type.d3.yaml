@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86635775-6898-48b1-b1f0-5a768d43196e
-  mac-addresses:
+  id: 2937f775-d3d4-4bec-bffc-e85589bd2a97
+  macAddresses:
   - 84:4F:03:00:00:00/24
   manufacturer: Ablelink Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ablelink
 type: d3-device-type-assertion

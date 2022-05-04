@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d5b9838-1f27-4e40-a6cd-8486581509ab
-  mac-addresses:
+  id: b68ae9d7-c8a2-483f-8ed2-84b0430da1ed
+  macAddresses:
   - 70:B3:D5:B7:F0:00/36
   manufacturer: JSK System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JSKSyste
 type: d3-device-type-assertion

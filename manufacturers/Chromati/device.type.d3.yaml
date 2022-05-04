@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f0ffe7e1-493f-41ac-a883-95fbf30a4ff8
-  mac-addresses:
+  id: 9b6bc0d0-8a24-4e4e-9407-837cf112ec5e
+  macAddresses:
   - 00:00:2D:00:00:00/24
   - 00:50:0E:00:00:00/24
   manufacturer: Chromatics Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chromati
 type: d3-device-type-assertion

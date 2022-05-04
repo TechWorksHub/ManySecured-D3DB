@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 92f96966-5426-4203-91ff-a72d1dd4de30
-  mac-addresses:
+  id: 23aa7da8-d254-4160-a6d1-2d045d5f8ca1
+  macAddresses:
   - 00:50:C2:B0:C0:00/36
   - 00:50:C2:F5:D0:00/36
   manufacturer: Smartb Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartbTe
 type: d3-device-type-assertion

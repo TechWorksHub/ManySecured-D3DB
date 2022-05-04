@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 125e2609-2e93-42f3-b66d-247fade8a8de
-  mac-addresses:
+  id: be388e61-4109-424b-aae0-6f4aff64d3db
+  macAddresses:
   - 70:B3:D5:ED:B0:00/36
   manufacturer: Netfort Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetfortS
 type: d3-device-type-assertion

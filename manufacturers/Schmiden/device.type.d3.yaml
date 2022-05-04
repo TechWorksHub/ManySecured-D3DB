@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 857888e1-1e45-43ff-a521-a5886b9b7976
-  mac-addresses:
+  id: b5c75ac7-843e-4980-b326-783cdb75a4fe
+  macAddresses:
   - 98:8F:E0:40:00:00/28
   manufacturer: Schmid AG, energy solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Schmiden
 type: d3-device-type-assertion

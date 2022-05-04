@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f50b7353-d434-4fbb-b973-5c563622bb56
-  mac-addresses:
+  id: b285ca31-1151-483d-9663-1102a82c255a
+  macAddresses:
   - 64:33:B5:40:00:00/28
   manufacturer: Eagle Eye Networks, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EagleEye
 type: d3-device-type-assertion

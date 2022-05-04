@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea0446b1-66b1-4b6c-884e-26c8789d70bf
-  mac-addresses:
+  id: dcf0a93d-1860-4b1a-a850-daf95a1423f4
+  macAddresses:
   - 34:6F:92:00:00:00/24
   manufacturer: White Rodgers Division
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhiteRod
 type: d3-device-type-assertion

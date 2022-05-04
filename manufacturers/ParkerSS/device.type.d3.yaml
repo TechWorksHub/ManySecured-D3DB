@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d8853fe-4e02-434d-9b79-6d3fe42ba272
-  mac-addresses:
+  id: a77dcd45-a39d-42ec-8454-e63a6c813af7
+  macAddresses:
   - 00:0D:46:00:00:00/24
   manufacturer: Parker SSD Drives
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParkerSS
 type: d3-device-type-assertion

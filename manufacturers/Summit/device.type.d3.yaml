@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed59f9ab-a897-42cb-a672-cbaf5f6eede7
-  mac-addresses:
+  id: fa15d6fe-c055-4e91-a244-fa5c56aebbea
+  macAddresses:
   - 00:80:8A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Summit
 type: d3-device-type-assertion

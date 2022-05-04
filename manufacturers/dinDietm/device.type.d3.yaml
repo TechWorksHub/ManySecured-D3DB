@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0621ff4a-2d23-4a4a-9aeb-8427f0915dac
-  mac-addresses:
+  id: 452c816b-56e2-4842-a8c9-0ad4a829955a
+  macAddresses:
   - 00:25:3B:00:00:00/24
   manufacturer: din Dietmar Nocker Facilitymanagement GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dinDietm
 type: d3-device-type-assertion

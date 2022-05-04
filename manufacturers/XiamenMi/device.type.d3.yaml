@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e075f9cb-9be6-4885-a104-d6421b538e7e
-  mac-addresses:
+  id: 1605430b-fc04-4c3a-a7cc-1f4e976b1286
+  macAddresses:
   - 24:E1:24:00:00:00/24
   manufacturer: Xiamen Milesight IoT Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenMi
 type: d3-device-type-assertion

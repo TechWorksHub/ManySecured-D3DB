@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3573b09-5db2-468b-b102-552525ee0dd0
-  mac-addresses:
+  id: 9103e655-204f-4222-8100-c2474a6aaf50
+  macAddresses:
   - F8:4A:73:00:00:00/24
   manufacturer: Eumtech Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eumtech
 type: d3-device-type-assertion

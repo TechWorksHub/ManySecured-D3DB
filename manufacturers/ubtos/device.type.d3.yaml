@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18edbb19-7236-4d9a-b305-a5d50fc8fe4d
-  mac-addresses:
+  id: 53cff7c7-5953-4d55-bd01-6c1b8a0a6807
+  macAddresses:
   - 00:1A:78:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ubtos
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 655107e4-122d-4143-a1e5-fe2ea53b64b3
-  mac-addresses:
+  id: 44d5ec38-c963-4bbf-83e0-979a02af0210
+  macAddresses:
   - 80:B9:5C:00:00:00/24
   manufacturer: ELFTECH Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ELFTECH
 type: d3-device-type-assertion

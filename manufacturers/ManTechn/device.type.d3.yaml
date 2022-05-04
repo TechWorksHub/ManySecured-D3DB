@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 390c8209-f914-4b44-9027-cb949bd758e0
-  mac-addresses:
+  id: 035b46a9-e017-4e7d-8a04-18dbb303746c
+  macAddresses:
   - 48:88:03:00:00:00/24
   manufacturer: ManTechnology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ManTechn
 type: d3-device-type-assertion

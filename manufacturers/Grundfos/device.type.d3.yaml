@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b422ed6-a7be-4399-a9a6-572bc6a0fd6b
-  mac-addresses:
+  id: ca35424e-4c1c-470e-864d-0b80edd6dbbe
+  macAddresses:
   - 00:14:44:00:00:00/24
   manufacturer: Grundfos Holding
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grundfos
 type: d3-device-type-assertion

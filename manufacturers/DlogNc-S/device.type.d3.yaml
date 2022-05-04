@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b81a97b-7778-4b44-b3ce-bc549feea7f6
-  mac-addresses:
+  id: 23eeb473-1c47-44fd-9357-072d8cf73914
+  macAddresses:
   - 00:80:07:00:00:00/24
   manufacturer: Dlog Nc-Systeme
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DlogNc-S
 type: d3-device-type-assertion

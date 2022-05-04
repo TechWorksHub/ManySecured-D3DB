@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d903fc3c-d490-463e-af58-1592417269fe
-  mac-addresses:
+  id: 86542b76-ff74-4d3e-910b-931fbdfc91d4
+  macAddresses:
   - E8:18:63:60:00:00/28
   manufacturer: Artech Solution Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtechSo
 type: d3-device-type-assertion

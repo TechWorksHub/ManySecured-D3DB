@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18935b4e-3e10-4c70-b179-73a98345a818
-  mac-addresses:
+  id: 4e487353-078b-428d-844a-050d67bde33e
+  macAddresses:
   - 00:40:38:00:00:00/24
   manufacturer: Talent Electric Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TalentEl
 type: d3-device-type-assertion

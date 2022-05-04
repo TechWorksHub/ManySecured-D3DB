@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 373cbb1d-af74-48de-a4f7-a540e42ed7c1
-  mac-addresses:
+  id: 6d114389-16d2-40d9-a103-55aa9b524c34
+  macAddresses:
   - 74:53:27:00:00:00/24
   manufacturer: Commsen Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Commsen
 type: d3-device-type-assertion

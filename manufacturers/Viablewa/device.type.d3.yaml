@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 207690b4-b1ce-4555-9c70-4168ac16abaf
-  mac-addresses:
+  id: 2ab06595-1ef5-4b18-8a93-611ef2cacdf4
+  macAddresses:
   - B4:3E:3B:00:00:00/24
   manufacturer: Viableware, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viablewa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24ad0dbf-860a-4dac-94b9-360297368963
-  mac-addresses:
+  id: 1b8bed24-7076-4085-9c05-ee3a4ae0980b
+  macAddresses:
   - 4C:93:A6:20:00:00/28
   manufacturer: Diehl Controls Nanjing Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiehlCon
 type: d3-device-type-assertion

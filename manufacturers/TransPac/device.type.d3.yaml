@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd23463f-f42a-4555-9482-1c0c915067af
-  mac-addresses:
+  id: c3360924-cb37-4230-99ca-1156e02aafc3
+  macAddresses:
   - 6C:A9:6F:00:00:00/24
   manufacturer: TransPacket AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TransPac
 type: d3-device-type-assertion

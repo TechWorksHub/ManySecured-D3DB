@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acf7eadc-d51b-4c10-bba9-ef4cca9e023f
-  mac-addresses:
+  id: ea8fb946-887f-4d90-a3d4-c0937537b8c3
+  macAddresses:
   - 1C:87:76:10:00:00/28
   manufacturer: EBS Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EBSSp
 type: d3-device-type-assertion

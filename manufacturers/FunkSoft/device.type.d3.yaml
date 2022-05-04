@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 725bfb33-f4eb-4dcc-8fe8-fb85ba951a50
-  mac-addresses:
+  id: 0367d9f3-5e96-45d3-a9dc-ee7785b07513
+  macAddresses:
   - 00:C0:B9:00:00:00/24
   manufacturer: Funk Software, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FunkSoft
 type: d3-device-type-assertion

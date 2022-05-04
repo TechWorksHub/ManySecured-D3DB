@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55c7f6bd-c8d3-42af-9a95-54b4bed02716
-  mac-addresses:
+  id: 9fd25772-511e-4fea-9855-a56a19c62a4a
+  macAddresses:
   - 54:47:41:00:00:00/24
   manufacturer: Xcheng Holding
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xcheng
 type: d3-device-type-assertion

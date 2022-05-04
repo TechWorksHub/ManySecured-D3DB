@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77b3ad2e-3f9b-4b80-8ddc-ac9212f0ed40
-  mac-addresses:
+  id: 8b9bea5a-7498-4c1f-a4b7-ab53c45e5a2f
+  macAddresses:
   - 00:14:97:00:00:00/24
   manufacturer: ZHIYUAN Eletronics co.,ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZHIYUANE
 type: d3-device-type-assertion

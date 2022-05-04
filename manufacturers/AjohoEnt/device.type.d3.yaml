@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c10b649-38a9-40f8-a878-be5b1ba4d96d
-  mac-addresses:
+  id: 41809846-de8e-4507-ab9d-4f3e3389ea4b
+  macAddresses:
   - 00:26:83:00:00:00/24
   manufacturer: Ajoho Enterprise Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AjohoEnt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e126df63-0930-4928-b6b9-ba2c3611dbb9
-  mac-addresses:
+  id: b82172dd-bb88-4682-b3db-dd27d9d7e001
+  macAddresses:
   - EC:FA:F4:00:00:00/24
   manufacturer: SenRa Tech Pvt. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenRaTec
 type: d3-device-type-assertion

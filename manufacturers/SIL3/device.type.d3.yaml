@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00fa3e68-a2ca-48db-8712-a8e1f81e2472
-  mac-addresses:
+  id: dd23610f-bf73-4645-a5b6-9608274accda
+  macAddresses:
   - 00:26:80:00:00:00/24
   manufacturer: SIL3 Pty.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIL3
 type: d3-device-type-assertion

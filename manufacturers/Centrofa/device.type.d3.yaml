@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8a669a5-576d-4b10-ac44-4b095aacf0cf
-  mac-addresses:
+  id: 64ad79fe-c26e-49e9-a881-17e25493742a
+  macAddresses:
   - 00:25:0B:00:00:00/24
   manufacturer: Centrofactor Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Centrofa
 type: d3-device-type-assertion

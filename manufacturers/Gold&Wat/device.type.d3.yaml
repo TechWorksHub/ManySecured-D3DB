@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba5498ca-22ab-4144-ab9d-5a11ec29aaf6
-  mac-addresses:
+  id: 167ca2ef-7990-46f2-a3ac-03930ce42e85
+  macAddresses:
   - 70:70:FC:00:00:00/24
   manufacturer: Gold&Water Industrial Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gold&Wat
 type: d3-device-type-assertion

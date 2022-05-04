@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c65eba66-f260-4d45-a4b0-24a7bf8b8440
-  mac-addresses:
+  id: aaafe22e-1370-41cc-872d-1c95ae940538
+  macAddresses:
   - FC:D2:B6:80:00:00/28
   manufacturer: Oviss Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OvissLab
 type: d3-device-type-assertion

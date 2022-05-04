@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d0a99566-4873-467d-9bb0-33dab35fcfd0
-  mac-addresses:
+  id: 307eb9e1-bd85-469b-bc61-b46a04a88363
+  macAddresses:
   - 00:50:C2:C7:90:00/36
   - 70:B3:D5:FC:00:00/36
   manufacturer: CODESYSTEM Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CODESYST
 type: d3-device-type-assertion

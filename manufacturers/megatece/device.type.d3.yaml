@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 67669916-3edf-4480-a03f-4ddd6c517907
-  mac-addresses:
+  id: a2c4090c-1492-4a38-86e0-329fbd7423f9
+  macAddresses:
   - 00:50:C2:3F:00:00/36
   - 00:50:C2:DA:50:00/36
   - 70:B3:D5:8A:80:00/36
   manufacturer: megatec electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: megatece
 type: d3-device-type-assertion

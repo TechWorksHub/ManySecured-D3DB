@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f629b4a6-1648-4923-96f0-577b4a0f38a7
-  mac-addresses:
+  id: d13fd501-53ff-4bc8-a9e8-fc53de126b3f
+  macAddresses:
   - 00:13:9B:00:00:00/24
   manufacturer: ioIMAGE Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ioIMAGE
 type: d3-device-type-assertion

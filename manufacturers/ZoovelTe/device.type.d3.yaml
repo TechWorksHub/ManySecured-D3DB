@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad85d1fd-4e9e-40ec-bbfc-920996bc5558
-  mac-addresses:
+  id: b584f61b-e54d-4233-a69f-81b956014113
+  macAddresses:
   - 1C:9C:26:00:00:00/24
   manufacturer: Zoovel Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZoovelTe
 type: d3-device-type-assertion

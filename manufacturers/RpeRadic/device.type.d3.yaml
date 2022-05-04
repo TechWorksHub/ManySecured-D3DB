@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0467ab7-0bc2-4fd3-84f5-6a6bcd22e854
-  mac-addresses:
+  id: 9192be72-c08d-4059-9c77-5a381dc1502a
+  macAddresses:
   - 98:AA:FC:40:00:00/28
   manufacturer: Rpe "Radico"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RpeRadic
 type: d3-device-type-assertion

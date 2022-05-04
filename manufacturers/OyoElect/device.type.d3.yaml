@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73713510-2d58-471a-9c57-bc69c7727a32
-  mac-addresses:
+  id: ed86fe17-d0d5-437b-95af-544094c82ee3
+  macAddresses:
   - 00:0C:67:00:00:00/24
   manufacturer: Oyo Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OyoElect
 type: d3-device-type-assertion

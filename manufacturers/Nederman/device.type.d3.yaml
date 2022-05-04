@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8faf7ad-5fe8-4ea4-b329-9401f32c0c45
-  mac-addresses:
+  id: 739fdee1-e417-4cd2-bdd7-0beb03884c24
+  macAddresses:
   - 54:A4:93:E0:00:00/28
   manufacturer: Nederman Holding AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nederman
 type: d3-device-type-assertion

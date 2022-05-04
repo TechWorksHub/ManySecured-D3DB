@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 848446fa-0f9b-4188-9712-c530ed304ef2
-  mac-addresses:
+  id: ff129a15-f520-4f53-8b6b-92eef2b74876
+  macAddresses:
   - 00:80:25:00:00:00/24
   manufacturer: Telit Wireless Solutions GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelitWir
 type: d3-device-type-assertion

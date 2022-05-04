@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 290913c5-f4ab-40c2-a8ab-f91fc7202424
-  mac-addresses:
+  id: 40fee18a-4757-412f-9110-514a98ce2cf0
+  macAddresses:
   - 00:60:B7:00:00:00/24
   manufacturer: Channelmatic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Channelm
 type: d3-device-type-assertion

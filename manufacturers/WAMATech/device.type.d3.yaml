@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24ffbe77-6c2e-4394-89f2-bcd971edecd0
-  mac-addresses:
+  id: e2201cd0-96db-4849-b936-de59881bcb9e
+  macAddresses:
   - AC:61:B9:00:00:00/24
   manufacturer: WAMA Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WAMATech
 type: d3-device-type-assertion

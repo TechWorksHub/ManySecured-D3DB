@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9a442db-cc6d-413c-86c3-599a48507008
-  mac-addresses:
+  id: 502c1d23-051b-4718-b87d-df263a178062
+  macAddresses:
   - 00:50:C2:BC:A0:00/36
   manufacturer: Aitecsystem Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aitecsys
 type: d3-device-type-assertion

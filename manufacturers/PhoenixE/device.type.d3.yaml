@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfcedff1-112a-4943-a242-c05e4fb39c69
-  mac-addresses:
+  id: e97c4722-af01-44c5-bb12-f6dddaa72891
+  macAddresses:
   - C8:8E:D1:D0:00:00/28
   manufacturer: Phoenix Engineering Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhoenixE
 type: d3-device-type-assertion

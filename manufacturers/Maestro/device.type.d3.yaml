@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d758f0cc-0ee9-4f60-a5d0-c8e174940e17
-  mac-addresses:
+  id: 88710888-9ac8-453a-b755-5afee2cd7c90
+  macAddresses:
   - 00:50:C2:27:A0:00/36
   manufacturer: Maestro Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maestro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ac34ae2-5bfb-42fd-aa71-e9c5d84db5d3
-  mac-addresses:
+  id: b9c29e6b-6302-449a-8757-dc8b663905ef
+  macAddresses:
   - FC:01:9E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vievu
 type: d3-device-type-assertion

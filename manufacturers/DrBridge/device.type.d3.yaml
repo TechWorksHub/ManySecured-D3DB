@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e4109ba-8fe7-4c5f-badf-5bb5024064d1
-  mac-addresses:
+  id: 58c9ed25-1bf1-4073-b0b5-9bb24b055b36
+  macAddresses:
   - 70:B3:D5:77:90:00/36
   manufacturer: Dr.Bridge Aquatech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DrBridge
 type: d3-device-type-assertion

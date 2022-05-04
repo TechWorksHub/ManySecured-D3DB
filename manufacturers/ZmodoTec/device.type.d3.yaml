@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c810e90-b6dd-4289-b518-60978712c988
-  mac-addresses:
+  id: 9c2a0d92-a360-4ebd-aba9-5c7b096235c0
+  macAddresses:
   - 04:5C:06:00:00:00/24
   manufacturer: Zmodo Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZmodoTec
 type: d3-device-type-assertion

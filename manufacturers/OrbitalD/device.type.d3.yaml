@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 882c9a72-7395-4d16-8027-ff4330ee883a
-  mac-addresses:
+  id: 42ae1324-d6c0-4909-a819-f04304de7433
+  macAddresses:
   - 00:11:08:00:00:00/24
   manufacturer: Orbital Data Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrbitalD
 type: d3-device-type-assertion

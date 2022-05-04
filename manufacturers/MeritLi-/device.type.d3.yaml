@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e78283a3-166e-4835-95a1-3c888028909c
-  mac-addresses:
+  id: 5ce0fa5a-039a-4bca-9960-707eb460a56c
+  macAddresses:
   - 00:0F:FC:00:00:00/24
   manufacturer: Merit Li-Lin Ent.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeritLi-
 type: d3-device-type-assertion

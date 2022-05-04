@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fad6f4a-ded9-4755-ac9c-fd931fad9e37
-  mac-addresses:
+  id: 620a7c17-bc6c-4644-af0d-e0472736d3c1
+  macAddresses:
   - A0:C5:F2:40:00:00/28
   manufacturer: AiCare Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AiCare
 type: d3-device-type-assertion

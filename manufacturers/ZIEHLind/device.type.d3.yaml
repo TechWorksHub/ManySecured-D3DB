@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8d8c3b64-99b7-4883-9e2b-e22d10b31f60
-  mac-addresses:
+  id: 3d5d99f8-c56a-4c0a-a88d-144c670996e3
+  macAddresses:
   - 00:12:DB:00:00:00/24
   - 00:12:E4:00:00:00/24
   manufacturer: ZIEHL industrie-elektronik GmbH + Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZIEHLind
 type: d3-device-type-assertion

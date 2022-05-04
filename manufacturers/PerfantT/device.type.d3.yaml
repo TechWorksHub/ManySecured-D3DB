@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 775a53bd-8c33-4ad2-a5d1-5cf9d7c72429
-  mac-addresses:
+  id: b8268647-75dd-467d-8f08-f551a5663675
+  macAddresses:
   - D0:D9:4F:00:00:00/28
   manufacturer: Perfant Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PerfantT
 type: d3-device-type-assertion

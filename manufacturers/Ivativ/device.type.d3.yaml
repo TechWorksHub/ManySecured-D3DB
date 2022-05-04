@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d6720a0-aa32-437d-bc00-3abe9123a096
-  mac-addresses:
+  id: 98f22c04-e518-442a-a172-22bf5047a51b
+  macAddresses:
   - 50:DE:19:80:00:00/28
   manufacturer: Ivativ, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ivativ
 type: d3-device-type-assertion

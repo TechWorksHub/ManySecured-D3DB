@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2d17815-3010-416c-bcfb-7237752415f4
-  mac-addresses:
+  id: 3c554dbd-3539-4bd5-ac18-d3d82a08d63a
+  macAddresses:
   - 28:A1:EB:00:00:00/24
   manufacturer: Etek Technology (Shenzhen) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EtekTech
 type: d3-device-type-assertion

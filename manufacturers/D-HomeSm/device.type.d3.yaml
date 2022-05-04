@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce737fd1-ad56-4b57-8d16-1a5327c1fba9
-  mac-addresses:
+  id: 71e1ed59-d68d-406a-9469-dc314ac7f9c9
+  macAddresses:
   - 6C:15:24:90:00:00/28
   manufacturer: D-Home Smaart
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D-HomeSm
 type: d3-device-type-assertion

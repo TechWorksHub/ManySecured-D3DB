@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e680d402-7025-49b3-b0d5-1453f4744c28
-  mac-addresses:
+  id: 67042af7-f233-4788-85e3-c31f0796ffdb
+  macAddresses:
   - 00:09:C1:00:00:00/24
   manufacturer: Proces-Data A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proces-D
 type: d3-device-type-assertion

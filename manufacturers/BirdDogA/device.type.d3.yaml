@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c8a56db8-e564-4615-9942-c2f12abd808a
-  mac-addresses:
+  id: 4bd4e4a7-d1dd-4887-a7ac-f7010a2c9a8b
+  macAddresses:
   - 70:B3:D5:3B:90:00/36
   - 70:B3:D5:C7:E0:00/36
   manufacturer: BirdDog Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BirdDogA
 type: d3-device-type-assertion

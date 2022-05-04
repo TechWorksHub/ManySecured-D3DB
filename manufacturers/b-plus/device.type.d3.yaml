@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 55df0681-9cdb-434b-bb43-46756a539346
-  mac-addresses:
+  id: 889aa1e4-74f1-44cf-b02e-67f740c8e440
+  macAddresses:
   - 00:50:C2:86:F0:00/36
   - 68:B9:83:00:00:00/24
   manufacturer: b-plus GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: b-plus
 type: d3-device-type-assertion

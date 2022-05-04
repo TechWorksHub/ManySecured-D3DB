@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5fe0fa8-aa6a-4067-a09b-628ba81723b3
-  mac-addresses:
+  id: 79966a8f-4029-4402-8132-67c785929205
+  macAddresses:
   - 00:0C:2C:00:00:00/24
   manufacturer: Enwiser Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enwiser
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4de11473-cdd1-4f74-9e48-104f184d268c
-  mac-addresses:
+  id: 3d060305-8c2e-419d-815e-b40de6840b41
+  macAddresses:
   - 00:D0:54:00:00:00/24
   manufacturer: Sas Institute Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SasInsti
 type: d3-device-type-assertion

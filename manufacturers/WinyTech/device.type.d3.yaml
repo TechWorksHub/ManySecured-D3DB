@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20c8a8cb-460c-4881-acad-976fa2e976ec
-  mac-addresses:
+  id: 6a2b5bfa-f831-4492-8f0c-43f9b64b5ba8
+  macAddresses:
   - 00:1E:07:00:00:00/24
   manufacturer: Winy Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinyTech
 type: d3-device-type-assertion

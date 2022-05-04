@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8005c60d-291f-4f83-a77e-3b6a32c510bd
-  mac-addresses:
+  id: 456f7806-6782-4cfe-b568-d7ec91ed086f
+  macAddresses:
   - 00:21:53:00:00:00/24
   - 00:22:99:00:00:00/24
   manufacturer: SeaMicro Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeaMicro
 type: d3-device-type-assertion

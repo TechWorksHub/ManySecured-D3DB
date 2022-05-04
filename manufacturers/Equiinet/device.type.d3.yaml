@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eef8137f-74e5-4b64-9faa-b9f2e8613d88
-  mac-addresses:
+  id: ae4452af-242f-4739-ba29-85370f443a70
+  macAddresses:
   - 00:30:74:00:00:00/24
   manufacturer: Equiinet Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Equiinet
 type: d3-device-type-assertion

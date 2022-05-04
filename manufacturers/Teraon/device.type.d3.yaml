@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b192b623-2fc7-426e-9da7-b3a0fe3ce1ae
-  mac-addresses:
+  id: 95b33348-15cf-43ed-9fe6-c8b24df4d01f
+  macAddresses:
   - 88:98:21:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teraon
 type: d3-device-type-assertion

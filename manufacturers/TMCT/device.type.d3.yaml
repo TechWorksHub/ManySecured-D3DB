@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17bc001a-5d09-4703-8514-8537f832a7af
-  mac-addresses:
+  id: 79417e99-6bd2-48ea-a1d2-48f24fbe3f9d
+  macAddresses:
   - A0:5D:C1:00:00:00/24
   manufacturer: TMCT Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TMCT
 type: d3-device-type-assertion

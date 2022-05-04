@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7b5362c-8f3a-41cd-9335-7a0e032f9fb9
-  mac-addresses:
+  id: 6d9e8518-5df9-4f5d-aa81-1ffbc0248b0a
+  macAddresses:
   - BC:C1:68:00:00:00/24
   manufacturer: DinBox Sverige AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DinBoxSv
 type: d3-device-type-assertion

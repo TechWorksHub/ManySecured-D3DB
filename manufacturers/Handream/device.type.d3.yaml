@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 7b435921-90c0-446b-bed7-e027534ed44c
-  mac-addresses:
+  id: ca9834cd-edc8-434f-946c-18c66c3f36ff
+  macAddresses:
   - 00:1A:F4:00:00:00/24
   - B8:91:C9:00:00:00/24
   - FC:75:E6:00:00:00/24
   manufacturer: Handreamnet
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Handream
 type: d3-device-type-assertion

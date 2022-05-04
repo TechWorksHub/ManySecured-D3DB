@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03c10efc-61e8-40b2-81a2-c1450861ba15
-  mac-addresses:
+  id: 4d7b6f24-1e6c-4828-81a4-5e31186c5285
+  macAddresses:
   - 00:03:29:00:00:00/24
   manufacturer: F3, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: F3
 type: d3-device-type-assertion

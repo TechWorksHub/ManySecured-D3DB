@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d32abc87-4bbf-4351-8a2a-699c1f6b6206
-  mac-addresses:
+  id: 002df250-8fcb-4601-a443-b884cfddcff2
+  macAddresses:
   - 00:10:1D:00:00:00/24
   manufacturer: Winbond Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinbondE
 type: d3-device-type-assertion

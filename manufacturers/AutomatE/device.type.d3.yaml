@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55cf28c2-9de0-4f67-99f5-9970e142c8b9
-  mac-addresses:
+  id: e36cb3d5-170e-4a33-94d0-2a63a10ce8a6
+  macAddresses:
   - 00:07:D0:00:00:00/24
   manufacturer: "Automat Engenharia de Automa\xE7\xE3o Ltda."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutomatE
 type: d3-device-type-assertion

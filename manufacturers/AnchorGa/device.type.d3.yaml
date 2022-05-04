@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a60b51dc-6002-42e9-91b4-1a0f2e5b7573
-  mac-addresses:
+  id: b0998b10-b39e-4769-9c39-7aad2eeab80d
+  macAddresses:
   - 00:50:3F:00:00:00/24
   manufacturer: Anchor Games
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnchorGa
 type: d3-device-type-assertion

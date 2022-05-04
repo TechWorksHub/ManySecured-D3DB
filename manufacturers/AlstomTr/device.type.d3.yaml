@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69b8ea80-e9fd-40ee-8974-5a3293034aea
-  mac-addresses:
+  id: bc34308e-f97f-49ca-980b-db63d7091155
+  macAddresses:
   - 00:16:9B:00:00:00/24
   manufacturer: Alstom Transport
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlstomTr
 type: d3-device-type-assertion

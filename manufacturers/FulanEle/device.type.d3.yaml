@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b4cb6a5-802c-499d-b628-7f77113e1676
-  mac-addresses:
+  id: e00e8a84-458a-4e5b-bcd3-d91e79c455fb
+  macAddresses:
   - B0:90:74:00:00:00/24
   manufacturer: Fulan Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FulanEle
 type: d3-device-type-assertion

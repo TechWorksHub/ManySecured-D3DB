@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 475496d7-c031-435d-b3a9-347d453f9ef0
-  mac-addresses:
+  id: d5948f8f-e214-4e9d-89bb-9a16f3302af6
+  macAddresses:
   - E8:DA:96:00:00:00/24
   manufacturer: Zhuhai Tianrui Electrical Power Tech. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiTi
 type: d3-device-type-assertion

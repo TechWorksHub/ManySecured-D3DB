@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88052eca-db41-416b-a671-b15c5eba48cd
-  mac-addresses:
+  id: 6747e88f-d8d1-4dc0-b672-302ced8099ed
+  macAddresses:
   - 00:22:DE:00:00:00/24
   manufacturer: OPPO Digital, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OPPODigi
 type: d3-device-type-assertion

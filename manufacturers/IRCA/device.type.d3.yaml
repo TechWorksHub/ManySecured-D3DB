@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90ad7389-9233-44b5-9420-bfd78ae7c416
-  mac-addresses:
+  id: dee5dda6-a458-442f-af92-e06a59ae2369
+  macAddresses:
   - 00:26:D4:00:00:00/24
   manufacturer: IRCA SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IRCA
 type: d3-device-type-assertion

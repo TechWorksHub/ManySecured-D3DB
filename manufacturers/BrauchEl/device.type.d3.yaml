@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3be62e23-46c2-4835-8203-1934ef6cbd26
-  mac-addresses:
+  id: 99d76950-138c-4b08-b801-caf8190ccb48
+  macAddresses:
   - 00:50:C2:F6:10:00/36
   manufacturer: Brauch Elektronik GmbH&Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrauchEl
 type: d3-device-type-assertion

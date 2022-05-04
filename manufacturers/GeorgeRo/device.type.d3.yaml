@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1034131-3f75-4ccd-81e7-117dead90017
-  mac-addresses:
+  id: f7740718-5f40-4f75-9cea-3d86ec242b07
+  macAddresses:
   - 48:4A:30:00:00:00/24
   manufacturer: George Robotics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeorgeRo
 type: d3-device-type-assertion

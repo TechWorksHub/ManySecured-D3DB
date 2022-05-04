@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f29ee72-0ece-44bb-8866-f96e9c824d84
-  mac-addresses:
+  id: 2a25c89d-6d1c-42e0-b920-92855f82e56d
+  macAddresses:
   - 00:07:4E:00:00:00/24
   manufacturer: IPFRONT Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPFRONT
 type: d3-device-type-assertion

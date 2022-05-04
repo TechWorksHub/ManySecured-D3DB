@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 471b52bd-0ba5-4252-b388-41a3b66c401c
-  mac-addresses:
+  id: c7259290-a315-40bc-8d60-21663209690a
+  macAddresses:
   - 00:12:8B:00:00:00/24
   manufacturer: Sensory Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensoryN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6a109af-3bb5-4dd4-bc75-031a4a8779ab
-  mac-addresses:
+  id: 62a2d995-57f7-4864-a95d-8b6247db1963
+  macAddresses:
   - C8:DE:51:00:00:00/24
   manufacturer: IntegraOptics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntegraO
 type: d3-device-type-assertion

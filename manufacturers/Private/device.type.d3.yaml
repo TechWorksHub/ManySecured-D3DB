@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c9a01522-5005-4b49-a27a-392dae9d256f
-  mac-addresses:
+  id: 0f7f59c2-5b23-4050-a2c6-cacda915d573
+  macAddresses:
   - 00:00:6C:00:00:00/24
   - 00:01:01:00:00:00/24
   - 00:05:78:00:00:00/24
@@ -231,6 +231,6 @@ credentialSubject:
   - F8:02:78:F0:00:00/28
   - F8:C2:49:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Private
 type: d3-device-type-assertion

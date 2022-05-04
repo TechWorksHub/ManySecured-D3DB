@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 489a7820-c40e-440f-baf6-5d5fde905324
-  mac-addresses:
+  id: 61809933-8c5b-4a6e-8f0e-4c2d3d4d1aa9
+  macAddresses:
   - 00:50:C2:12:B0:00/36
   manufacturer: Dong A Eltek Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DongAElt
 type: d3-device-type-assertion

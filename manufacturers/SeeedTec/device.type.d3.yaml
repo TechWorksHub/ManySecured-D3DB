@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7e29e66-b026-41a3-8105-62a368c9f37c
-  mac-addresses:
+  id: 0d743bae-c091-4efc-8126-c6def4068a0b
+  macAddresses:
   - 2C:F7:F1:00:00:00/24
   manufacturer: Seeed Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeeedTec
 type: d3-device-type-assertion

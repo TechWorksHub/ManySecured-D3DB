@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fe9bc77d-4a24-4cba-89b3-13219faa6027
-  mac-addresses:
+  id: 70fdab61-7f85-40b9-8136-38b3299e8131
+  macAddresses:
   - 1C:87:76:A0:00:00/28
   - 70:B3:D5:DA:00:00/36
   manufacturer: Jiangsu ETERN COMMUNICATION Co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuE
 type: d3-device-type-assertion

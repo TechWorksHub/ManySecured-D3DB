@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8242e1b-a92a-4312-902b-e5752baaf812
-  mac-addresses:
+  id: 78d539b0-0e00-48a1-ae96-4ff42d02c100
+  macAddresses:
   - 00:55:DA:10:00:00/28
   manufacturer: KoolPOS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoolPOS
 type: d3-device-type-assertion

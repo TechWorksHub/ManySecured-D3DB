@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6b2889af-0213-4024-ad4f-92e928ad108b
-  mac-addresses:
+  id: e4606670-8d6e-4009-9d45-e4263a576400
+  macAddresses:
   - 00:50:C2:58:A0:00/36
   - 00:50:C2:AF:40:00/36
   manufacturer: Dixell S.p.a.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dixell
 type: d3-device-type-assertion

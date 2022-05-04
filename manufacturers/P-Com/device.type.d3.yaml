@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1da0e70-629f-4a86-a6d2-b790223f3431
-  mac-addresses:
+  id: 77a7fd28-a36f-4f61-8738-59b7d7e7e853
+  macAddresses:
   - 00:10:7C:00:00:00/24
   manufacturer: P-Com, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: P-Com
 type: d3-device-type-assertion

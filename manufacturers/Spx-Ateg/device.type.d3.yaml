@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5bb7466-f10b-4fee-b4cf-14f65508ceaa
-  mac-addresses:
+  id: 6396035f-9638-4edf-adf3-ee3e574b654c
+  macAddresses:
   - 00:50:6B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spx-Ateg
 type: d3-device-type-assertion

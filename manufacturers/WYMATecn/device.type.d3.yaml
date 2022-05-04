@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaf18358-7d2f-4874-a046-3f5c5dbdf31b
-  mac-addresses:
+  id: 2efae5ad-8473-40cf-8fa0-e3c491de3026
+  macAddresses:
   - 74:D6:75:00:00:00/24
   manufacturer: WYMA Tecnologia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WYMATecn
 type: d3-device-type-assertion

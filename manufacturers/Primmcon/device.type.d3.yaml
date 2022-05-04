@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4072488c-21fa-4d8b-9cb2-ec7ca53f571d
-  mac-addresses:
+  id: 0273ae2b-8b00-460e-9be1-44d1c815ff4b
+  macAddresses:
   - B8:C4:6F:00:00:00/24
   manufacturer: Primmcon Industries Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Primmcon
 type: d3-device-type-assertion

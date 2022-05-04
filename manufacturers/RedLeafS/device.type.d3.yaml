@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6be29116-238f-4dba-ba02-9bbfeba9f69c
-  mac-addresses:
+  id: 346d08c1-f7ec-4fc9-8c63-fea640925663
+  macAddresses:
   - 70:B3:D5:7E:30:00/36
   manufacturer: RedLeaf Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedLeafS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e994304-a5f6-4e34-9150-8bb6c645e0d3
-  mac-addresses:
+  id: e2043940-ca78-4f6a-8aad-1d9504c749ce
+  macAddresses:
   - 70:B3:D5:14:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eleven-x
 type: d3-device-type-assertion

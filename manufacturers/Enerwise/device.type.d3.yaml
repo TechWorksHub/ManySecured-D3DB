@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 04f34149-21c5-4b3d-8d5f-f1fd891c9a54
-  mac-addresses:
+  id: a55439f4-1cae-4bad-81ba-b8b7373f4f0c
+  macAddresses:
   - 00:1B:C5:0A:F0:00/36
   - 70:B3:D5:99:C0:00/36
   manufacturer: Enerwise Solutions Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enerwise
 type: d3-device-type-assertion

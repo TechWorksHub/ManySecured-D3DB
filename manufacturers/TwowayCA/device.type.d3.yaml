@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9570d86a-650b-40a3-ae32-aebce94e7d0b
-  mac-addresses:
+  id: 5d10f737-65ae-47d8-8019-073e78dad78c
+  macAddresses:
   - 00:50:C2:4D:20:00/36
   manufacturer: Twoway CATV SERVICE INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TwowayCA
 type: d3-device-type-assertion

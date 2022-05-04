@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4e2d97a-528d-4ca1-b96c-84c9b757a1a7
-  mac-addresses:
+  id: 3c2ccc99-d5cf-4cc3-ae9f-fb68b4ac54bb
+  macAddresses:
   - A8:A0:89:00:00:00/24
   manufacturer: Tactical Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tactical
 type: d3-device-type-assertion

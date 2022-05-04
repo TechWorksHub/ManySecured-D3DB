@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3797320-d901-4bf3-8551-e4315790fd84
-  mac-addresses:
+  id: 0a5c7d3b-3518-4bce-81e7-f4ea5625fb5d
+  macAddresses:
   - 00:1B:C5:03:60:00/36
   manufacturer: Lomar Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lomar
 type: d3-device-type-assertion

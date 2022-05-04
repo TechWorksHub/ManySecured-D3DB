@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8333ffe-2743-4470-b245-312ab7925fd1
-  mac-addresses:
+  id: 3c48265c-9130-4104-81bb-cc6d6b310d51
+  macAddresses:
   - 18:D7:93:E0:00:00/28
   manufacturer: Teegarden Applied Science Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teegarde
 type: d3-device-type-assertion

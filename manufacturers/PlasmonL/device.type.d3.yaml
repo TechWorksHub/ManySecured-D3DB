@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fad8238-72e3-4c0c-9aaf-4f5813aa8abc
-  mac-addresses:
+  id: 06a7603b-c247-4344-8c68-c08ef21b6845
+  macAddresses:
   - 00:08:6C:00:00:00/24
   manufacturer: Plasmon LMS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlasmonL
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd473ae9-7cf3-4b5a-bf74-176c8601d5ce
-  mac-addresses:
+  id: d91ea3e0-95f3-41d0-a1fc-b131564befa6
+  macAddresses:
   - 70:B3:D5:43:E0:00/36
   manufacturer: Peloton Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PelotonT
 type: d3-device-type-assertion

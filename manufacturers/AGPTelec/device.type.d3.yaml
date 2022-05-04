@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da2c6020-e84c-4a9a-af99-85d2881dad4b
-  mac-addresses:
+  id: 3166ecae-8052-4a21-a2a7-f53c88ad1cf1
+  macAddresses:
   - 00:11:BE:00:00:00/24
   manufacturer: AGP Telecom Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AGPTelec
 type: d3-device-type-assertion

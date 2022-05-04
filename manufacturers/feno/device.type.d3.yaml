@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7839bcf5-f709-4f81-9692-9ec1efce19d9
-  mac-addresses:
+  id: c903882a-4979-463b-968c-3189c097501a
+  macAddresses:
   - 20:40:05:00:00:00/24
   manufacturer: feno GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: feno
 type: d3-device-type-assertion

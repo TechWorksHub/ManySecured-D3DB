@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3ad6fc4-225e-4297-922c-44c93424dca6
-  mac-addresses:
+  id: da90b732-f1e8-4831-b959-44373ff2d1d0
+  macAddresses:
   - 30:D4:6A:00:00:00/24
   manufacturer: Autosales Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autosale
 type: d3-device-type-assertion

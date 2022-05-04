@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3597752c-01f6-4b18-a027-0d29b561338b
-  mac-addresses:
+  id: 580366ec-658c-497f-abd9-86c5c13d87b9
+  macAddresses:
   - 00:04:54:00:00:00/24
   manufacturer: Quadriga UK
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quadriga
 type: d3-device-type-assertion

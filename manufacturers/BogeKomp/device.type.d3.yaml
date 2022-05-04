@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17833f0f-c6a5-4ec8-99fd-92fa8aa0be69
-  mac-addresses:
+  id: fb74dd1e-1dec-4072-a207-e2809295a5cc
+  macAddresses:
   - 94:E2:FD:00:00:00/24
   manufacturer: Boge Kompressoren OTTO Boge GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BogeKomp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7585b045-123c-4094-bc62-289685275c51
-  mac-addresses:
+  id: 4b12a6dd-fe93-4299-9688-46b445428df2
+  macAddresses:
   - 00:17:C3:00:00:00/24
   manufacturer: KTF Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KTFTechn
 type: d3-device-type-assertion

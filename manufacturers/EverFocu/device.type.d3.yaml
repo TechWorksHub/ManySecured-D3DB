@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 398861d0-6577-4546-8c7f-0ce687294e4f
-  mac-addresses:
+  id: 777bbf1b-1430-4fc2-92c1-a107b7b60490
+  macAddresses:
   - 00:11:14:00:00:00/24
   manufacturer: EverFocus Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EverFocu
 type: d3-device-type-assertion

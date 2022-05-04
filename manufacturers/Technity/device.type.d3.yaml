@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11de50d9-3c7f-40ef-b97f-f1b6d131c4a0
-  mac-addresses:
+  id: 060b28c4-5fff-4364-a5c5-74288535f776
+  macAddresses:
   - 08:2C:ED:00:00:00/24
   manufacturer: Technity Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technity
 type: d3-device-type-assertion

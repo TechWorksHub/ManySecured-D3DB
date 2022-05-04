@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d758a4ff-05b2-48a4-bf1c-156c81d84b5b
-  mac-addresses:
+  id: e8491441-56f7-4178-932c-d1911bb1fcf7
+  macAddresses:
   - 70:B3:D5:E4:D0:00/36
   manufacturer: Vulcan Wireless Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VulcanWi
 type: d3-device-type-assertion

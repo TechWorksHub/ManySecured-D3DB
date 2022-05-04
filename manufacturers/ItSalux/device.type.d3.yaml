@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e482758-37f1-4d32-b517-36ca15d94927
-  mac-addresses:
+  id: bd837fa2-4cff-4cc8-a727-4f7806177617
+  macAddresses:
   - 00:50:C2:81:D0:00/36
   manufacturer: It Salux Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ItSalux
 type: d3-device-type-assertion

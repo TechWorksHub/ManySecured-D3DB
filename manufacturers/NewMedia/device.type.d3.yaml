@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5cb470cd-ef4d-45fc-a741-8f192b4167ea
-  mac-addresses:
+  id: dee55dda-64c9-47ec-8355-62727fd236d5
+  macAddresses:
   - 00:19:BD:00:00:00/24
   - 00:C0:15:00:00:00/24
   manufacturer: New Media Life
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewMedia
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cea6b2d7-0d69-44fb-b502-600cb5a3b0b7
-  mac-addresses:
+  id: fc09061f-fc19-4c25-9a59-6c1030e9859a
+  macAddresses:
   - 00:40:76:00:00:00/24
   manufacturer: Sun Conversion Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunConve
 type: d3-device-type-assertion

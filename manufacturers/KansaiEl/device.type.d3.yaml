@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45e7062c-9e3b-44b8-89e2-0deb67aca415
-  mac-addresses:
+  id: 90aa5dae-180c-4cae-b209-0e25e5824a50
+  macAddresses:
   - 00:60:87:00:00:00/24
   manufacturer: Kansai Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KansaiEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e83f5b95-8ca4-4fe6-bf6b-0d0809d37073
-  mac-addresses:
+  id: b086b9d6-3f50-40dc-82a8-86848eb3fe9c
+  macAddresses:
   - 08:00:2F:00:00:00/24
   manufacturer: Prime Computer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrimeCom
 type: d3-device-type-assertion

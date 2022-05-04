@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 481b0792-1d85-4ff7-967f-aa74089347ed
-  mac-addresses:
+  id: 339e15dc-437d-4536-9811-4ec577e14c4c
+  macAddresses:
   - 70:B3:D5:32:50:00/36
   manufacturer: BlueMark Innovations BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueMark
 type: d3-device-type-assertion

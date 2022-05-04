@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5f79227-625c-49a9-996c-99012e8b7566
-  mac-addresses:
+  id: 363e8a63-6b4b-4d10-8bf8-8319636e01e2
+  macAddresses:
   - 00:0A:78:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Olitec
 type: d3-device-type-assertion

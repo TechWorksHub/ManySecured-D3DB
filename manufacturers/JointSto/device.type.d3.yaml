@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b89d2075-d07b-4317-aaa6-3cc92b963e5c
-  mac-addresses:
+  id: 26cd5444-f507-45b0-9a97-87f51b9f2aca
+  macAddresses:
   - 00:50:C2:ED:A0:00/36
   - 38:FF:13:00:00:00/24
   manufacturer: Joint Stock Company "Svyaz Inginiring M"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JointSto
 type: d3-device-type-assertion

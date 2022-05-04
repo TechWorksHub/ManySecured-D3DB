@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0dd8a44-a390-4d5b-9b4e-8349e2a77b03
-  mac-addresses:
+  id: 3500d2a6-638d-4f64-a3c3-3c9b96a29987
+  macAddresses:
   - 00:0D:99:00:00:00/24
   manufacturer: Orbital Sciences Corp.; Launch Systems Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrbitalS
 type: d3-device-type-assertion

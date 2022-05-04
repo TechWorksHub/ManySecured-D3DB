@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b75cf4b8-97fa-4d8d-9513-0b5b4ff632f8
-  mac-addresses:
+  id: cbe454d5-fc7e-446f-a25d-382382d0ab6f
+  macAddresses:
   - 00:11:0C:00:00:00/24
   manufacturer: Atmark Techno, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtmarkTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3897382e-387c-409d-ab44-3ab12d24cc7e
-  mac-addresses:
+  id: 847fc553-621a-42e8-8f5f-4dd867e131aa
+  macAddresses:
   - 00:09:46:00:00:00/24
   manufacturer: Cluster Labs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClusterL
 type: d3-device-type-assertion

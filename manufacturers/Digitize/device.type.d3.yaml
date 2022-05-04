@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3d25e78-0cf0-4cbf-bef0-3cb9f53d5116
-  mac-addresses:
+  id: 04ddce8b-cc02-4953-b3a6-e9107d17a0e9
+  macAddresses:
   - 00:1D:91:00:00:00/24
   manufacturer: Digitize, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digitize
 type: d3-device-type-assertion

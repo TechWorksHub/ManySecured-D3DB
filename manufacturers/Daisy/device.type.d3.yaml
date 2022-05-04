@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5bdb533-cae1-4917-97e2-cc3c9a4bbd15
-  mac-addresses:
+  id: f4712231-6d52-436e-8893-82d46a3ba013
+  macAddresses:
   - 08:00:50:00:00:00/24
   manufacturer: Daisy Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daisy
 type: d3-device-type-assertion

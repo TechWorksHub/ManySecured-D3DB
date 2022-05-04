@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c178e38-58ce-4c09-b2cd-903bcb4867b4
-  mac-addresses:
+  id: 1f867451-9770-4d86-92ec-e1ee0fd7c99e
+  macAddresses:
   - 44:28:A3:00:00:00/24
   manufacturer: Jiangsu fulian Communication Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jiangsuf
 type: d3-device-type-assertion

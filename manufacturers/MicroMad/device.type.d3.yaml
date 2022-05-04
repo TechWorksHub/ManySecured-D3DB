@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d6639a7-be4a-4862-931b-1d585cded7f5
-  mac-addresses:
+  id: d3ce78c8-e22d-4ab9-8dcb-bc361c5a8486
+  macAddresses:
   - A8:8C:EE:00:00:00/24
   manufacturer: MicroMade Galka i Drozdz sp.j.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroMad
 type: d3-device-type-assertion

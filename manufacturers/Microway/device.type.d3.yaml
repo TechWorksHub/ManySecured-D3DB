@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4e1db74-9e19-4ddc-b374-6c03ba1a0268
-  mac-addresses:
+  id: 277b0341-61d2-4c5b-a062-858ce7416269
+  macAddresses:
   - 00:50:C2:6C:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microway
 type: d3-device-type-assertion

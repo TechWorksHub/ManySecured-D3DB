@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e2ddfb1-6b62-4062-b8c0-c2d847bdfde7
-  mac-addresses:
+  id: 1240724a-7865-4d5e-8e75-5a723c3d6a1e
+  macAddresses:
   - 00:14:A3:00:00:00/24
   manufacturer: Vitelec BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vitelec
 type: d3-device-type-assertion

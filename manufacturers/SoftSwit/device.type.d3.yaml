@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b3fe90e-3df2-4ed9-8643-716bff23e9f0
-  mac-addresses:
+  id: 7bedb625-214e-420f-b7c2-c453a26fd809
+  macAddresses:
   - 00:50:C2:80:40:00/36
   manufacturer: SoftSwitching Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SoftSwit
 type: d3-device-type-assertion

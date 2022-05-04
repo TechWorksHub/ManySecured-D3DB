@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac2d5e72-bcf2-48f0-9784-cc898d4b014d
-  mac-addresses:
+  id: 86190f4e-91da-4c50-b93c-cb293fc2bcc8
+  macAddresses:
   - 00:50:C2:70:E0:00/36
   manufacturer: Audico Systems Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audico
 type: d3-device-type-assertion

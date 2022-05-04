@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2841b6b6-e01a-4976-b6c4-78e6cac04d5c
-  mac-addresses:
+  id: 8ece1120-1a1b-4816-9143-167c8724701b
+  macAddresses:
   - 00:07:2B:00:00:00/24
   manufacturer: Jung Myung Telecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JungMyun
 type: d3-device-type-assertion

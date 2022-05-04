@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ff77ef7-e9f8-4fde-88ce-96326d5ffebf
-  mac-addresses:
+  id: 3ee8e465-58c5-4dd1-b173-f3647a90cea5
+  macAddresses:
   - 00:0C:0C:00:00:00/24
   manufacturer: Appro Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApproTec
 type: d3-device-type-assertion

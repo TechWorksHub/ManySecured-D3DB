@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5d7e048-f1fa-4967-a1af-fa017d8f1557
-  mac-addresses:
+  id: ed89ced1-160a-48df-8648-5674a8b99032
+  macAddresses:
   - 70:B3:D5:09:10:00/36
   manufacturer: PROFITT Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PROFITT
 type: d3-device-type-assertion

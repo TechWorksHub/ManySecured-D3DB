@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d3ece94-7538-40da-949b-45a5dc622406
-  mac-addresses:
+  id: ade5c715-76b7-425b-b138-3a38c19fb224
+  macAddresses:
   - 00:50:C2:68:F0:00/36
   manufacturer: Bertronic Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bertroni
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51fd35ef-2f1d-49b8-8f9d-84458f656720
-  mac-addresses:
+  id: ce311051-ad75-4d4f-a97b-945ac7ae0d9d
+  macAddresses:
   - 00:50:C2:62:E0:00/36
   manufacturer: "TDM Ing\xE9nierie"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "TDMIng\xE9n"
 type: d3-device-type-assertion

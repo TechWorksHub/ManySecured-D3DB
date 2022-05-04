@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cbbc2eb-a030-443b-aedf-9cbca8eac120
-  mac-addresses:
+  id: ba678586-7de4-43b7-8095-5d2020f61a04
+  macAddresses:
   - FC:01:CD:00:00:00/24
   manufacturer: Fundacion Tekniker
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fundacio
 type: d3-device-type-assertion

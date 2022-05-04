@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 355e451e-56cf-4415-92fd-8ce191440f3f
-  mac-addresses:
+  id: fca00f1e-6640-4314-b082-b7991d3839c7
+  macAddresses:
   - 50:A0:54:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Actineon
 type: d3-device-type-assertion

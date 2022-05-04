@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e2a1b6c-901e-4248-b238-5c3d005bbac0
-  mac-addresses:
+  id: 6e5a53f4-8d3f-433a-8bcd-0eb84b8f1000
+  macAddresses:
   - 00:07:12:00:00:00/24
   manufacturer: JAL Information Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JALInfor
 type: d3-device-type-assertion

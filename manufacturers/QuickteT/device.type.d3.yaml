@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 072dc78a-827d-4e0c-bfa7-7f0ca966db01
-  mac-addresses:
+  id: b263c61b-7888-4464-8a90-ff354eb7375a
+  macAddresses:
   - 80:7B:85:60:00:00/28
   manufacturer: Quickte Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuickteT
 type: d3-device-type-assertion

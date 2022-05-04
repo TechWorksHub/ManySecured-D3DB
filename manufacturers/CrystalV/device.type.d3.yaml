@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1b12fab5-9b2f-47cf-9296-724102bd32f7
-  mac-addresses:
+  id: 726a0c5a-fdbf-4e6d-ab87-a1f88eaad225
+  macAddresses:
   - 00:50:C2:26:C0:00/36
   - 84:DE:3D:00:00:00/24
   manufacturer: Crystal Vision Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrystalV
 type: d3-device-type-assertion

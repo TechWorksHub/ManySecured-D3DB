@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad1edd40-a322-43ab-91c0-97d797620e08
-  mac-addresses:
+  id: a4fac67f-1ecf-478d-a439-2f4eee266fa6
+  macAddresses:
   - 00:11:C0:00:00:00/24
   manufacturer: Aday Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdayTech
 type: d3-device-type-assertion

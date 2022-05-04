@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d47aa6e5-581e-4f05-9eb2-c0d9016fb7bf
-  mac-addresses:
+  id: bced6540-7ea9-437f-95e2-22d13bb27a64
+  macAddresses:
   - 98:6E:E8:A0:00:00/28
   manufacturer: Logos Payment Solutions A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogosPay
 type: d3-device-type-assertion

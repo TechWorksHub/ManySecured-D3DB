@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d450810-d08e-422b-9b4b-d62f25b6b39e
-  mac-addresses:
+  id: 53976b37-5155-4ba8-b170-3f8725d5d3bc
+  macAddresses:
   - 70:B3:D5:B9:90:00/36
   manufacturer: DomoSafety S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DomoSafe
 type: d3-device-type-assertion

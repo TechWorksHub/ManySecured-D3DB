@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6859046b-29fe-413a-aaed-317219522c5e
-  mac-addresses:
+  id: 2a00a9fc-09c1-47ba-9d2a-9dfc48da3008
+  macAddresses:
   - 00:50:C2:82:10:00/36
   manufacturer: MISCO Refractometer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MISCORef
 type: d3-device-type-assertion

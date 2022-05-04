@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9a00a72-4d05-4e25-9ca6-bfb60b6ab63c
-  mac-addresses:
+  id: a6bd0c8a-918e-44db-bd81-35956cdf3c06
+  macAddresses:
   - 70:B3:D5:93:F0:00/36
   manufacturer: Vision Sensing Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisionSe
 type: d3-device-type-assertion

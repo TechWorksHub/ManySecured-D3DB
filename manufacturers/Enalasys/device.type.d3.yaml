@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b950647c-b15c-422b-87c0-381197e6f9a8
-  mac-addresses:
+  id: 153b450a-9413-4672-abc0-769c2974930f
+  macAddresses:
   - 00:25:A1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enalasys
 type: d3-device-type-assertion

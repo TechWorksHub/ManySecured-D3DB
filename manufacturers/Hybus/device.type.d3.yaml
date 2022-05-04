@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82662f0f-8f63-495e-b3e6-f4bdb749a323
-  mac-addresses:
+  id: 95e6f364-9058-46fb-a082-ca6fbfed9529
+  macAddresses:
   - 00:24:8B:00:00:00/24
   manufacturer: Hybus Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hybus
 type: d3-device-type-assertion

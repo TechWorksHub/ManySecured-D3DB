@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a96c1796-9e17-4740-bb3c-53c6e9cdfc7e
-  mac-addresses:
+  id: d6b45e74-010c-48d7-aa50-03c8b67997ec
+  macAddresses:
   - 00:09:3F:00:00:00/24
   manufacturer: Double-Win Enterpirse CO., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Double-W
 type: d3-device-type-assertion

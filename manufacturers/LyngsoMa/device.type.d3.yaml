@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aab15198-d967-46e7-8b52-972aca9e4272
-  mac-addresses:
+  id: 2752ac11-8ed4-434c-92ed-a97dd47cfaf9
+  macAddresses:
   - AC:AB:8D:00:00:00/24
   manufacturer: Lyngso Marine A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LyngsoMa
 type: d3-device-type-assertion

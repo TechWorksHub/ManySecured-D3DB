@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a56e1c5-c28e-4d36-a0b2-dd69937acb1b
-  mac-addresses:
+  id: a140205a-cde8-4091-b0da-9813073cf61b
+  macAddresses:
   - 00:24:CD:00:00:00/24
   manufacturer: Willow Garage, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WillowGa
 type: d3-device-type-assertion

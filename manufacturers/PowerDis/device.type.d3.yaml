@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20d04eb7-5ea7-48c6-99cd-b971cc9b2e41
-  mac-addresses:
+  id: 08126ed4-2bad-4494-be38-254e32453f4b
+  macAddresses:
   - 00:16:45:00:00:00/24
   manufacturer: Power Distribution, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerDis
 type: d3-device-type-assertion

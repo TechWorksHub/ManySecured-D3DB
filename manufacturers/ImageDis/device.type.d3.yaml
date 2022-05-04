@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 826f7c15-66fd-4947-ba13-ef59ca57346a
-  mac-addresses:
+  id: 4b7aeb21-94b6-43ae-b648-e7821e5db2e2
+  macAddresses:
   - 00:01:F7:00:00:00/24
   manufacturer: Image Display Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImageDis
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0485e087-ae5e-46b2-a54d-852107fe0fb7
-  mac-addresses:
+  id: 089aeb61-e215-42a8-b0ca-a623615bf05b
+  macAddresses:
   - 00:03:F7:00:00:00/24
   manufacturer: Plast-Control GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plast-Co
 type: d3-device-type-assertion

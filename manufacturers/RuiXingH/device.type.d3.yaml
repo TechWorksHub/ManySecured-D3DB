@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9cd7a41d-c36b-4074-a7f8-81d777c203ed
-  mac-addresses:
+  id: 5cc28f5a-4737-4331-991e-c8fcd50f51da
+  macAddresses:
   - 8C:F9:57:00:00:00/24
   manufacturer: RuiXingHengFang Network (Shenzhen) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuiXingH
 type: d3-device-type-assertion

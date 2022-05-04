@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b89880bc-2587-421c-af94-a7fdcbea839e
-  mac-addresses:
+  id: f7105bc0-ee2e-4e9c-8605-1b8150326bf6
+  macAddresses:
   - 00:0A:AC:00:00:00/24
   manufacturer: TerraTec Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TerraTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 232ef222-1846-4d85-b4af-bfd7ceb67125
-  mac-addresses:
+  id: 3fea549f-b4fc-4ab5-9f73-f57884ecc849
+  macAddresses:
   - 00:22:EC:00:00:00/24
   manufacturer: Idealbt Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IdealbtT
 type: d3-device-type-assertion

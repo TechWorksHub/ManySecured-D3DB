@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8f2a3a7-9fb0-42d0-b8da-df56252234ce
-  mac-addresses:
+  id: fb0b232b-0bb5-4ac6-b2b1-a94816f39c28
+  macAddresses:
   - 68:DC:E8:00:00:00/24
   manufacturer: PacketStorm Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacketSt
 type: d3-device-type-assertion

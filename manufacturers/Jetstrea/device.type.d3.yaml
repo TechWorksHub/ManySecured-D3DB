@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8da4bbc2-349b-4a41-af1c-cbe124265b47
-  mac-addresses:
+  id: fc1e7100-7760-4d4c-bfd0-a3da6f2646b1
+  macAddresses:
   - 00:04:AA:00:00:00/24
   - 00:50:C2:E1:60:00/36
   manufacturer: Jetstream Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jetstrea
 type: d3-device-type-assertion

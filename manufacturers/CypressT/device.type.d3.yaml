@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67e91333-6b79-45d3-9fa6-589dd4d990f0
-  mac-addresses:
+  id: 46f660c1-1648-4231-bead-92d16dcaf1f5
+  macAddresses:
   - F8:22:85:00:00:00/24
   manufacturer: Cypress Technology CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CypressT
 type: d3-device-type-assertion

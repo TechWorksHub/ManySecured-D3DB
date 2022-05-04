@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c02e85d4-cbe2-476a-91e3-b297dbb3f955
-  mac-addresses:
+  id: fcb04748-2e05-4231-910f-6e3b44a70817
+  macAddresses:
   - 00:07:F3:00:00:00/24
   manufacturer: Thinkengine Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thinkeng
 type: d3-device-type-assertion

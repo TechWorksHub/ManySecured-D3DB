@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba60d7ce-088d-43b1-8980-8eeb5a31e6a9
-  mac-addresses:
+  id: 3b33b7c4-149c-4c0e-9423-64615405e4bf
+  macAddresses:
   - 00:01:A8:00:00:00/24
   manufacturer: Welltech Computer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Welltech
 type: d3-device-type-assertion

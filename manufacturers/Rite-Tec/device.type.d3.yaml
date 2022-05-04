@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73a7ce38-bd7f-4fd4-893c-108a89b86250
-  mac-addresses:
+  id: adbcbc1c-abf1-412e-a230-7977af2493ba
+  macAddresses:
   - 40:D8:55:10:D0:00/36
   manufacturer: Rite-Tech Industrial Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rite-Tec
 type: d3-device-type-assertion

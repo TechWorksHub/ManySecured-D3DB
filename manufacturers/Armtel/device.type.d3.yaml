@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39b3e2fe-4e00-48ad-b095-3f424d456d03
-  mac-addresses:
+  id: 73fc8dcd-51db-454b-bb0e-a85abeec78ce
+  macAddresses:
   - 14:2B:D2:00:00:00/24
   manufacturer: Armtel Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Armtel
 type: d3-device-type-assertion

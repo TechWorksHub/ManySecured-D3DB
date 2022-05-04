@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c5256c8-b1ed-4d92-a3e3-61748ca08d4d
-  mac-addresses:
+  id: aafbf2ab-052a-465d-9fd1-dbffcc7b0b2d
+  macAddresses:
   - 00:1A:97:00:00:00/24
   manufacturer: fitivision technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: fitivisi
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 509f2b21-7269-4280-b5f8-892c4576d65d
-  mac-addresses:
+  id: d48de75c-46d2-4e31-8ed9-f566529b676c
+  macAddresses:
   - 00:14:80:00:00:00/24
   - EC:2E:4E:00:00:00/24
   manufacturer: Hitachi-LG Data Storage Korea, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hitachi-
 type: d3-device-type-assertion

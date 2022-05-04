@@ -1,10 +1,10 @@
 credentialSubject:
-  id: e1082a68-8f87-4e2a-a308-77f58a807bc2
-  mac-addresses:
+  id: cfcff0ac-93ed-4df4-a703-1256066c6385
+  macAddresses:
   - 00:03:74:00:00:00/24
   - 00:05:21:00:00:00/24
   - 00:09:DA:00:00:00/24
   manufacturer: Control Microsystems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ControlM
 type: d3-device-type-assertion

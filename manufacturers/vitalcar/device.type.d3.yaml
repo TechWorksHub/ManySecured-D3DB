@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcf30cc7-7328-49b9-a802-60e183fcc8f5
-  mac-addresses:
+  id: c7b911b5-3d6a-4886-9c26-87212495010c
+  macAddresses:
   - 70:B3:D5:0F:C0:00/36
   manufacturer: vitalcare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vitalcar
 type: d3-device-type-assertion

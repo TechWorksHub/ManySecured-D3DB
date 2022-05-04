@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9caff45d-0c67-4a20-9ecb-c331b9b592ee
-  mac-addresses:
+  id: 1f3230f5-cee6-4b2a-8d85-b6bd7e4c0664
+  macAddresses:
   - 00:C0:CF:00:00:00/24
   manufacturer: Imatran Voima Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImatranV
 type: d3-device-type-assertion

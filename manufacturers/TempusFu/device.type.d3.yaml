@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19f6eafe-218a-4967-8288-1818c2caa167
-  mac-addresses:
+  id: 57bd9439-ea7b-48d3-9e04-073b6974216a
+  macAddresses:
   - 70:B3:D5:08:70:00/36
   manufacturer: Tempus Fugit Consoles bvba
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TempusFu
 type: d3-device-type-assertion

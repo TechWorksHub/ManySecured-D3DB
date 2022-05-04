@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c39d5d42-ac2d-4bf8-85d8-6c6ddf66ef9e
-  mac-addresses:
+  id: 74fb275a-8fa6-41d4-8eb5-33be9ebb0e2e
+  macAddresses:
   - 00:50:C2:E8:F0:00/36
   - 18:E2:88:00:00:00/24
   manufacturer: STT Condigi A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STTCondi
 type: d3-device-type-assertion

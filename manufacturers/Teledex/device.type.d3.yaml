@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cb1a527-3420-4043-a1a6-ddaef053a95b
-  mac-addresses:
+  id: 540e2638-a525-4ac6-ab6d-7159449be7bb
+  macAddresses:
   - 00:0A:06:00:00:00/24
   manufacturer: Teledex LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teledex
 type: d3-device-type-assertion

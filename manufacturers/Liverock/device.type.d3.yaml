@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a18da32d-3c5e-4020-825f-3550b8fd8e86
-  mac-addresses:
+  id: 32718251-8097-47b2-8bf3-f5300bf15c11
+  macAddresses:
   - 10:CC:1B:00:00:00/24
   manufacturer: Liverock technologies,INC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liverock
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 121e95f9-22f1-44ca-946c-0396d7fbc580
-  mac-addresses:
+  id: 368d902a-89ab-408c-96c5-04c2a609f65f
+  macAddresses:
   - 00:08:EE:00:00:00/24
   manufacturer: Logic Product Development
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicPro
 type: d3-device-type-assertion

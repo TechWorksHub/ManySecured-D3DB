@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecc17fe1-81e8-4252-ac64-a89952ece22f
-  mac-addresses:
+  id: 0f3a98c9-0cf1-4295-8e87-6bf0ba6c1e40
+  macAddresses:
   - 00:00:72:00:00:00/24
   manufacturer: Miniware Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Miniware
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7af301d4-8061-47af-8a63-94d832031e4f
-  mac-addresses:
+  id: 49af929c-edad-426a-b056-1a4ebbce9af1
+  macAddresses:
   - 70:B3:D5:D1:F0:00/36
   manufacturer: Embsec AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embsec
 type: d3-device-type-assertion

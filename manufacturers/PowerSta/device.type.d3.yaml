@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f859dbd9-4151-4492-af7a-f72836b11f01
-  mac-addresses:
+  id: af0a7c22-1689-4b9a-9b19-671dc91d5c63
+  macAddresses:
   - 00:1D:0B:00:00:00/24
   manufacturer: Power Standards Lab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerSta
 type: d3-device-type-assertion

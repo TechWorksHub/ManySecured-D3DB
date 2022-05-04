@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bedfd2be-b054-4706-a70e-e88ab10e01e0
-  mac-addresses:
+  id: 36188918-15ea-4f77-8dda-fe6d957fd204
+  macAddresses:
   - 00:13:09:00:00:00/24
   manufacturer: Ocean Broadband Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OceanBro
 type: d3-device-type-assertion

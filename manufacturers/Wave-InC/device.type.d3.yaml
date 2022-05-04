@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b314fe78-a638-4221-bf55-8300efbe432e
-  mac-addresses:
+  id: 9a03caad-04aa-4fe3-a55f-1993e49466e7
+  macAddresses:
   - 20:85:93:50:00:00/28
   manufacturer: Wave-In Communication
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wave-InC
 type: d3-device-type-assertion

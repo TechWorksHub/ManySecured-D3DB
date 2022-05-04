@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a729cb3-1a26-426f-8e78-f6a802956c8d
-  mac-addresses:
+  id: e6c965e5-cff2-4cba-82d9-f198999b0517
+  macAddresses:
   - 1C:21:D1:50:00:00/28
   manufacturer: B-Scada Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: B-Scada
 type: d3-device-type-assertion

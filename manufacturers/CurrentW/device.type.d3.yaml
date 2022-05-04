@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a3c13b8-82c6-45e3-bd3c-0bfd90e70f68
-  mac-addresses:
+  id: f3210024-b37d-4e62-9931-d86f5bd1a82c
+  macAddresses:
   - B4:A2:EB:90:00:00/28
   manufacturer: Current Ways, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CurrentW
 type: d3-device-type-assertion

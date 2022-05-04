@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8c960eae-8ffc-476d-9715-e8ebc7ec0053
-  mac-addresses:
+  id: 9a9b6cbe-eb02-414a-a6bb-b65bcf9eae00
+  macAddresses:
   - 70:B3:D5:D7:A0:00/36
   - 7C:47:7C:D0:00:00/28
   manufacturer: Speedifi Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Speedifi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e163559-be16-44a5-a3c0-d96c7360d621
-  mac-addresses:
+  id: 6597ab15-0179-40bd-ad3c-58ae231a5eaa
+  macAddresses:
   - EC:BB:AE:00:00:00/24
   manufacturer: Digivoice Tecnologia em Eletronica Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digivoic
 type: d3-device-type-assertion

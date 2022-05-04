@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa8f8186-b9e4-49f3-b496-bb900cc3ebfd
-  mac-addresses:
+  id: ac3ff082-4640-42ce-a3af-31a822f1e49d
+  macAddresses:
   - 00:06:A6:00:00:00/24
   manufacturer: Artistic Licence Engineering Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Artistic
 type: d3-device-type-assertion

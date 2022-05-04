@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 302cb1a2-3038-4176-8d1d-0d8b531f58fc
-  mac-addresses:
+  id: ee3a436f-fe6d-49a7-9152-41ce81c5a0ba
+  macAddresses:
   - 7C:C8:AB:00:00:00/24
   manufacturer: Acro Associates, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcroAsso
 type: d3-device-type-assertion

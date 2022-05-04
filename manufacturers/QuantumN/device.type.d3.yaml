@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4e2b856-620c-4244-8de4-da52272c5eb1
-  mac-addresses:
+  id: a28badbb-3c3b-42be-8b1e-267f44420ccb
+  macAddresses:
   - 58:61:63:00:00:00/24
   manufacturer: Quantum Networks (SG) Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuantumN
 type: d3-device-type-assertion

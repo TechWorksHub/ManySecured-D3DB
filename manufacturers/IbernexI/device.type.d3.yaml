@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03ebc2b0-046c-4e28-9617-35b95780055e
-  mac-addresses:
+  id: 35d25da1-f2a6-4632-b103-4ffa6aae5d20
+  macAddresses:
   - 00:50:C2:EC:80:00/36
   manufacturer: Ibernex Ingenieria, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IbernexI
 type: d3-device-type-assertion

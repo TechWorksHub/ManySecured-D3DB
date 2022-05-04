@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57a2992c-38f4-4d47-8268-3aed32f9eaaf
-  mac-addresses:
+  id: 2dc228c1-9bf8-493c-800b-09ad2004c27f
+  macAddresses:
   - 00:50:C2:CC:E0:00/36
   manufacturer: Mac-Gray Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mac-Gray
 type: d3-device-type-assertion

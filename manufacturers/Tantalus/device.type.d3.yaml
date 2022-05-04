@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6538594c-523e-4dd2-987d-c1e05803b5be
-  mac-addresses:
+  id: ae549fbe-e44c-4a49-9be5-55eac33db307
+  macAddresses:
   - 00:25:5A:00:00:00/24
   manufacturer: Tantalus Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tantalus
 type: d3-device-type-assertion

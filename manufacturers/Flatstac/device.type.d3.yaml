@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4a762cd-2668-46ca-b173-6cc803b11d78
-  mac-addresses:
+  id: 465cb443-cfb8-4840-8901-2d890c0ed44d
+  macAddresses:
   - 00:02:A0:00:00:00/24
   manufacturer: Flatstack Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flatstac
 type: d3-device-type-assertion

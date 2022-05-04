@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd23c3b2-b2a8-4b49-9ae2-e667d4f1f3ed
-  mac-addresses:
+  id: 3e9c20e0-ccd1-499e-bfcc-86fe7ff9bfcc
+  macAddresses:
   - F0:C2:7C:00:00:00/24
   manufacturer: Mianyang Netop Telecom Equipment Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mianyang
 type: d3-device-type-assertion

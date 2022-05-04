@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac58541c-c926-41b5-a995-1b162ae48b42
-  mac-addresses:
+  id: 768009a0-82a1-4a11-966f-1871cccf1b54
+  macAddresses:
   - 00:60:39:00:00:00/24
   manufacturer: SanCom Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanComTe
 type: d3-device-type-assertion

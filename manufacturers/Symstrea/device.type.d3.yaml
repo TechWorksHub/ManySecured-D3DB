@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11fd5b8c-f1b8-48ff-b27c-6bb49bc27c34
-  mac-addresses:
+  id: 58e54afd-e7f4-46ad-85ef-0d4af6c68099
+  macAddresses:
   - 00:14:C0:00:00:00/24
   manufacturer: Symstream Technology Group Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symstrea
 type: d3-device-type-assertion

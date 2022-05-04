@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8174d142-5da6-4048-919e-d3eeae956f8e
-  mac-addresses:
+  id: f5cc17ac-141c-40b8-a43b-0f12c7abaa67
+  macAddresses:
   - 70:B3:D5:FD:40:00/36
   manufacturer: Getraline
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Getralin
 type: d3-device-type-assertion

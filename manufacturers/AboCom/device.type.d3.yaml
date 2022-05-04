@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d0537d4d-35c9-4f0f-9394-d6ed87cb1570
-  mac-addresses:
+  id: bae56bcc-1126-41c8-8493-520020a8db44
+  macAddresses:
   - 00:12:0E:00:00:00/24
   - 00:E0:98:00:00:00/24
   - EC:F0:0E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AboCom
 type: d3-device-type-assertion

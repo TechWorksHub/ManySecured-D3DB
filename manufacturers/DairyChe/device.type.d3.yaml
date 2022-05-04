@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ae39e63-b436-4206-b13c-1d274affe049
-  mac-addresses:
+  id: 96a8878f-0630-402b-a553-aec678725b55
+  macAddresses:
   - 58:D6:D3:00:00:00/24
   manufacturer: Dairy Cheq Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DairyChe
 type: d3-device-type-assertion

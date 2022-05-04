@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e56e22c7-8b2f-4c47-bb2b-0aee54b78222
-  mac-addresses:
+  id: 736a1501-29bb-45eb-bd75-a9e5491ee748
+  macAddresses:
   - 00:04:39:00:00:00/24
   manufacturer: Rosco Entertainment Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoscoEnt
 type: d3-device-type-assertion

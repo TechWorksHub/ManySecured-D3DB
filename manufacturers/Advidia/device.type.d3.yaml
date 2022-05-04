@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11c89efb-07db-4703-b738-01ff1f6f5306
-  mac-addresses:
+  id: e912572e-4cb2-4988-9240-43cc4962be09
+  macAddresses:
   - 78:A1:83:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advidia
 type: d3-device-type-assertion

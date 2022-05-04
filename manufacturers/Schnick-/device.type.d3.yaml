@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8c59561e-a25c-4afe-a2f5-bf7a98ede7f9
-  mac-addresses:
+  id: 9c1c90b4-b449-4353-8aa2-117c05195248
+  macAddresses:
   - 00:50:C2:6D:10:00/36
   - 34:29:8F:B0:00:00/28
   manufacturer: Schnick-Schnack-Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Schnick-
 type: d3-device-type-assertion

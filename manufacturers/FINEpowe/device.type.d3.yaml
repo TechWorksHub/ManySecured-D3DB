@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e82f3af0-fb9a-485b-8270-c650d7404c1e
-  mac-addresses:
+  id: e5dee7f1-414d-4b87-a415-c49c09c7358b
+  macAddresses:
   - AC:1D:DF:B0:00:00/28
   manufacturer: FINEpowerX INC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FINEpowe
 type: d3-device-type-assertion

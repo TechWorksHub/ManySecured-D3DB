@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47c014aa-dee3-4fe4-9227-0f55c90135f2
-  mac-addresses:
+  id: 6c1259ab-7b68-47b9-8ff9-6c00cf493e95
+  macAddresses:
   - 00:1B:89:00:00:00/24
   manufacturer: EMZA Visual Sense Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMZAVisu
 type: d3-device-type-assertion

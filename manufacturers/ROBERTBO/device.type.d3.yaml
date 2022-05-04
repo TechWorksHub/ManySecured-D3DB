@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5b8bd9e-5621-411f-bc31-18de23dd14a7
-  mac-addresses:
+  id: aaea258c-2624-4dcc-8ca5-cbfecd19b871
+  macAddresses:
   - 00:60:34:00:00:00/24
   manufacturer: ROBERT BOSCH GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ROBERTBO
 type: d3-device-type-assertion

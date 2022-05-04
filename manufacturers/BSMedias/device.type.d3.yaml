@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57118e76-7e6a-4526-986e-1cbd59e031f9
-  mac-addresses:
+  id: 70a59902-35d5-46f4-8ca2-b0cdac63448e
+  macAddresses:
   - 14:EB:33:00:00:00/24
   manufacturer: BSMediasoft Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BSMedias
 type: d3-device-type-assertion

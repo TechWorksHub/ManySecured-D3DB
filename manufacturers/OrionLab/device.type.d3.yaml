@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5b52867-2136-40ba-aad0-7301d8e8291e
-  mac-addresses:
+  id: c13d1f09-6126-49c8-93f6-2276fd5c7b3b
+  macAddresses:
   - 1C:88:79:E0:00:00/28
   manufacturer: Orion Labs inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrionLab
 type: d3-device-type-assertion

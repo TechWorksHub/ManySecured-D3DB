@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ceb3adb-31c8-43ec-a2df-133313747570
-  mac-addresses:
+  id: 6217d5d5-b16e-4a6b-9686-40aa86513298
+  macAddresses:
   - 4C:52:EC:00:00:00/24
   manufacturer: SOLARWATT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SOLARWAT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7dec491-032b-45c5-9ec1-fdb7b4c6de28
-  mac-addresses:
+  id: de9f8259-c099-4fda-95d6-6557a3958a8f
+  macAddresses:
   - CC:CE:40:00:00:00/24
   manufacturer: Janteq Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Janteq
 type: d3-device-type-assertion

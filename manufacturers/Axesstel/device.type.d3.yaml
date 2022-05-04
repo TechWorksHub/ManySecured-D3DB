@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6b6e25e-2096-4054-bf02-6f919af42187
-  mac-addresses:
+  id: 8841a92a-15bc-41a8-a4ad-d714048708dd
+  macAddresses:
   - 00:19:ED:00:00:00/24
   manufacturer: Axesstel Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axesstel
 type: d3-device-type-assertion

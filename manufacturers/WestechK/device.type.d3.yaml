@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fed02a9-1aa1-430d-8869-f33e99a61189
-  mac-addresses:
+  id: 633b56fd-a4a3-4300-bf4f-b347ed86b458
+  macAddresses:
   - 00:13:28:00:00:00/24
   manufacturer: Westech Korea Inc.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WestechK
 type: d3-device-type-assertion

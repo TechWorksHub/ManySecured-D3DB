@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d060ac8c-6490-4e29-acf6-be599e716207
-  mac-addresses:
+  id: 80598c85-5507-4d07-9c0f-31485c4e789a
+  macAddresses:
   - 00:0F:B8:00:00:00/24
   manufacturer: CallURL Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CallURL
 type: d3-device-type-assertion

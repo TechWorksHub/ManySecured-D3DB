@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7afd7f4e-59c9-4b25-9274-e7e72ced93e1
-  mac-addresses:
+  id: 5c49c98d-445b-4eb0-96f0-d29492cba0d4
+  macAddresses:
   - 6C:DF:FB:70:00:00/28
   manufacturer: Hashtrend AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hashtren
 type: d3-device-type-assertion

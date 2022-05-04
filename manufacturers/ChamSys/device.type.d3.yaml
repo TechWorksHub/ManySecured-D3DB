@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6dbb8edd-7935-4f42-94f4-b93d48cfb44d
-  mac-addresses:
+  id: eed3f1c1-a1a3-4235-bd3e-d7327e863e7a
+  macAddresses:
   - 00:1B:C5:04:20:00/36
   - 70:B3:D5:0B:E0:00/36
   manufacturer: ChamSys Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChamSys
 type: d3-device-type-assertion

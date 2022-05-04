@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08f8b59f-9c53-4f03-9283-c02307bb225a
-  mac-addresses:
+  id: f079f74c-fb20-4d6e-af96-995015be011a
+  macAddresses:
   - 70:B3:D5:50:60:00/36
   manufacturer: Tonbo Imaging Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TonboIma
 type: d3-device-type-assertion

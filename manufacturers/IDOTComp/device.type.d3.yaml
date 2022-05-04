@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc29ac7b-0a2b-46be-97d3-8216cdb616de
-  mac-addresses:
+  id: 85356744-4a74-4be0-b0da-cb811d998c0f
+  macAddresses:
   - 00:03:A8:00:00:00/24
   manufacturer: IDOT Computers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDOTComp
 type: d3-device-type-assertion

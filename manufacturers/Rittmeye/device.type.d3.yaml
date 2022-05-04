@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b201e199-ad0a-4f4e-b60e-c0930d1eda26
-  mac-addresses:
+  id: b9dff175-4aa2-47b0-a7a0-1df5c05b7959
+  macAddresses:
   - 00:17:96:00:00:00/24
   manufacturer: Rittmeyer AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rittmeye
 type: d3-device-type-assertion

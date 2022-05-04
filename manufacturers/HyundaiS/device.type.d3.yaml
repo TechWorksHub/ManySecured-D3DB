@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27ded085-10ac-4e60-85fb-769a42b37670
-  mac-addresses:
+  id: f6013b84-4f17-409c-a39e-1f197d3d23b8
+  macAddresses:
   - 00:09:AD:00:00:00/24
   manufacturer: Hyundai Syscomm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HyundaiS
 type: d3-device-type-assertion

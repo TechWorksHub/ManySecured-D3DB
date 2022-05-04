@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd618f0b-9cee-425d-bb87-91208fce59a1
-  mac-addresses:
+  id: e1117b78-d95f-4633-a8ac-414c115bcd59
+  macAddresses:
   - 30:78:D3:00:00:00/24
   manufacturer: Virgilant Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Virgilan
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9b894b0c-474a-46fa-9d19-c015a0aa9e12
-  mac-addresses:
+  id: b994476f-e752-4264-a1a8-3a9bf694fefd
+  macAddresses:
   - 00:24:65:00:00:00/24
   - 64:99:68:00:00:00/24
   - D8:8D:5C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elentec
 type: d3-device-type-assertion

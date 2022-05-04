@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec8bf8f5-4086-4412-a4e6-48b3b4ffa446
-  mac-addresses:
+  id: 436dc94d-b6c0-4900-b8d1-1b29e5bd3c8e
+  macAddresses:
   - C4:67:B5:00:00:00/24
   manufacturer: Libratone A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Libraton
 type: d3-device-type-assertion

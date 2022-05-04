@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94ef52e4-3f5a-4a93-b4c5-bb2ad97a3cc5
-  mac-addresses:
+  id: b3a2d0c2-9c23-41f0-b00b-2fccd67c9b46
+  macAddresses:
   - 00:15:6B:00:00:00/24
   manufacturer: Perfisans Networks Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Perfisan
 type: d3-device-type-assertion

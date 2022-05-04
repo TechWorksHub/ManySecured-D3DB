@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce27fac0-8cee-4761-bb8c-186181bf5701
-  mac-addresses:
+  id: f4dd0a6d-e45f-4045-899d-1d4c567810b3
+  macAddresses:
   - 00:0D:8E:00:00:00/24
   manufacturer: Koden Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KodenEle
 type: d3-device-type-assertion

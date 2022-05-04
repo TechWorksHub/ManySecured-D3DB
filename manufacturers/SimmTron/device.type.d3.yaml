@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6122e30-f022-4d13-b363-d07c4b7ef6df
-  mac-addresses:
+  id: 593249f5-6613-4b52-8851-e50cdefbd143
+  macAddresses:
   - F8:D7:56:00:00:00/24
   manufacturer: Simm Tronic Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimmTron
 type: d3-device-type-assertion

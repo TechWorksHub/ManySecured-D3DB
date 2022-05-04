@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0568f42-3b61-41c0-af65-2ef39bf30fca
-  mac-addresses:
+  id: f27a2bea-6a3e-4854-b741-9e5423075cf3
+  macAddresses:
   - 00:50:C2:1B:90:00/36
   manufacturer: EmCom Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmComTec
 type: d3-device-type-assertion

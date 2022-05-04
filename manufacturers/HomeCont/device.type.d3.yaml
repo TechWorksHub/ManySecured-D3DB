@@ -1,12 +1,12 @@
 credentialSubject:
-  id: b6a14191-0fd9-4c7b-9d41-22eb3a6a70c5
-  mac-addresses:
+  id: 74fcf5d5-2396-419f-8232-15b220a10103
+  macAddresses:
   - 18:46:44:00:00:00/24
   - 3C:FA:D3:00:00:00/28
   - 54:A9:C8:00:00:00/24
   - 98:06:3A:00:00:00/24
   - D4:B8:FF:00:00:00/24
   manufacturer: Home Control Singapore Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HomeCont
 type: d3-device-type-assertion

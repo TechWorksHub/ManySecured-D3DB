@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffd8c332-47e3-4db4-b7b5-d57e67650984
-  mac-addresses:
+  id: ea3c1e86-2e1a-45a0-807d-247a0e813642
+  macAddresses:
   - 00:24:34:00:00:00/24
   manufacturer: Lectrosonics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lectroso
 type: d3-device-type-assertion

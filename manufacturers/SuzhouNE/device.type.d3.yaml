@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b94a833-0a12-459c-aaa1-7f8a81a7acb9
-  mac-addresses:
+  id: 7cdc601b-279d-43d7-b16a-517a7518a10b
+  macAddresses:
   - 00:27:18:00:00:00/24
   manufacturer: Suzhou NEW SEAUNION Video Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouNE
 type: d3-device-type-assertion

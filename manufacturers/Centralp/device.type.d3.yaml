@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 802e552a-f336-470a-9c06-1bf8650a7f05
-  mac-addresses:
+  id: 3df2f2e7-8d1b-437e-a31a-5c1ceb32dfb0
+  macAddresses:
   - 00:80:97:00:00:00/24
   manufacturer: Centralp Automatismes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Centralp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59efd1cf-2353-4fe2-ae6a-cf702c2788fb
-  mac-addresses:
+  id: d6dcb0d7-99a6-4c8d-a7ef-433fe8fa3b7c
+  macAddresses:
   - 00:26:F0:00:00:00/24
   manufacturer: cTrixs International GmbH.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: cTrixsIn
 type: d3-device-type-assertion

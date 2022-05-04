@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6b36c45-0583-4da2-861d-cc926706cb81
-  mac-addresses:
+  id: b228b88a-bca9-4478-bd83-609e57b9df51
+  macAddresses:
   - 00:1D:F0:00:00:00/24
   manufacturer: Vidient Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vidient
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c167382b-ce4f-4c3b-bd7e-aeb29446b885
-  mac-addresses:
+  id: 430a25d9-d40b-40d6-a211-e0beb334e75d
+  macAddresses:
   - 08:00:8A:00:00:00/24
   manufacturer: PerfTech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PerfTech
 type: d3-device-type-assertion

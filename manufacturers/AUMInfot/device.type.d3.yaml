@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37879e98-41cf-4ce7-a108-061786f1580e
-  mac-addresses:
+  id: 5b050098-0f36-4881-9bc9-f707d766f875
+  macAddresses:
   - 00:50:C2:2A:B0:00/36
   manufacturer: AUM Infotech Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AUMInfot
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59bfe58f-7683-4285-b4b7-95cea813fae0
-  mac-addresses:
+  id: 7f07d52f-160c-4a37-877a-b65223fa7bca
+  macAddresses:
   - 00:50:6D:00:00:00/24
   manufacturer: Videojet Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videojet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d74d40d-c72c-45d1-a045-2553fb4fd76a
-  mac-addresses:
+  id: fa52c5ec-c607-4990-b125-e20c5b20c5f8
+  macAddresses:
   - 00:A0:31:00:00:00/24
   manufacturer: Hazeltine Corporation, Ms 1-17
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hazeltin
 type: d3-device-type-assertion

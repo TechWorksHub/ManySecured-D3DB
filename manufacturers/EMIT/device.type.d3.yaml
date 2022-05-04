@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a10589f2-42ab-4114-b7f9-77543644fc14
-  mac-addresses:
+  id: 6c125f22-1b00-40fe-8558-80c6a4991663
+  macAddresses:
   - 8C:1F:64:3D:10:00/36
   manufacturer: EMIT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMIT
 type: d3-device-type-assertion

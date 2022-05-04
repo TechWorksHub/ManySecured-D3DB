@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5ca79e1-f6f7-4681-b507-65bb82763212
-  mac-addresses:
+  id: e0f1cf32-e420-4cd5-b3e6-21d51651373a
+  macAddresses:
   - 6C:04:60:00:00:00/24
   manufacturer: RBH Access Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RBHAcces
 type: d3-device-type-assertion

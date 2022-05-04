@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee83e87c-bd11-449e-b0b0-6adb8ac6bc57
-  mac-addresses:
+  id: 587af239-fe31-4b28-8b64-660d9d6943d1
+  macAddresses:
   - 50:DE:19:20:00:00/28
   manufacturer: Spii Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spii
 type: d3-device-type-assertion

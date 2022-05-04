@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ba7f9c7-d7cb-4be5-9871-8ada4672126e
-  mac-addresses:
+  id: 4a42383b-66ca-46f6-b4be-8281d12975e2
+  macAddresses:
   - A4:11:63:40:00:00/28
   manufacturer: AlterG, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlterG
 type: d3-device-type-assertion

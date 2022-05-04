@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddcf2b7b-b838-4951-8382-fdf2cfcfa4f4
-  mac-addresses:
+  id: bed5bd3b-20cf-4995-a8fb-37228074d090
+  macAddresses:
   - 94:F7:20:00:00:00/24
   manufacturer: Tianjin Deviser Electronics Instrument Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TianjinD
 type: d3-device-type-assertion

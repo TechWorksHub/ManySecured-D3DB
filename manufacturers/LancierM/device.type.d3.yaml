@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2799016d-da61-457b-9865-879b973e002f
-  mac-addresses:
+  id: 853c6682-7555-4576-bc6f-339bcf5e985b
+  macAddresses:
   - 00:50:C2:C4:C0:00/36
   manufacturer: Lancier Monitoring GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LancierM
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 30789546-14ac-4e8e-a992-c3052ec625fa
-  mac-addresses:
+  id: 1aed3d1c-63c5-451d-974e-412623434c79
+  macAddresses:
   - 4C:BB:58:00:00:00/24
   - 64:5A:04:00:00:00/24
   - 90:7F:61:00:00:00/24
   - B0:C0:90:00:00:00/24
   manufacturer: Chicony Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChiconyE
 type: d3-device-type-assertion

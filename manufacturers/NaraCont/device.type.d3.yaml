@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8abef579-f767-48ff-b92e-c9ede61d6320
-  mac-addresses:
+  id: 98b751fe-ea25-4737-b6e5-01a76ba961b8
+  macAddresses:
   - 70:B3:D5:3F:D0:00/36
   - 70:B3:D5:FD:F0:00/36
   manufacturer: NaraControls Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaraCont
 type: d3-device-type-assertion

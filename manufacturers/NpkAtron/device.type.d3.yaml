@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaa5bdde-5e0f-4154-a8b8-cc3ad465a88c
-  mac-addresses:
+  id: 849a325c-e9d3-4c41-9eb9-4747c5e74a61
+  macAddresses:
   - C0:9B:F4:40:00:00/28
   manufacturer: Jsc Npk Atronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NpkAtron
 type: d3-device-type-assertion

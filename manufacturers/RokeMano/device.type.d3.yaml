@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5004c669-7c98-4a4a-8acc-03c99c2267dd
-  mac-addresses:
+  id: bddce7eb-44d9-4e5e-bc2f-cfe5d03ae681
+  macAddresses:
   - 00:50:C2:5C:E0:00/36
   manufacturer: Roke Manor Research Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RokeMano
 type: d3-device-type-assertion

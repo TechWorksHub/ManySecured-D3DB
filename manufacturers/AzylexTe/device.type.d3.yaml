@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64d7a5f3-da87-4a6d-b3ab-99e3198cf1d6
-  mac-addresses:
+  id: 1c4f8727-4bf8-4ca1-8b80-ce62b1b0bd53
+  macAddresses:
   - 00:0A:12:00:00:00/24
   manufacturer: Azylex Technology, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AzylexTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da761c8c-d239-4fa9-b5dc-4b6a0ecf969f
-  mac-addresses:
+  id: d88a8f82-eda6-4a57-9672-a380f514af67
+  macAddresses:
   - 54:11:5F:00:00:00/24
   manufacturer: Atamo Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atamo
 type: d3-device-type-assertion

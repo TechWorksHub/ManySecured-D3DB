@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a10da834-fae2-4cc8-96ce-efa90d57d924
-  mac-addresses:
+  id: 69418e72-0139-4946-b278-99fa9bfd92be
+  macAddresses:
   - 00:1C:DD:00:00:00/24
   manufacturer: Cowbell Engineering Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CowbellE
 type: d3-device-type-assertion

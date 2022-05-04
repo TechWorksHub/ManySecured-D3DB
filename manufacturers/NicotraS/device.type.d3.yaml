@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af5955c1-0478-4209-8d9d-59f5a179eba0
-  mac-addresses:
+  id: cf31d886-2aea-43c8-94f8-b0400749053d
+  macAddresses:
   - 00:30:8A:00:00:00/24
   manufacturer: Nicotra Sistemi S.P.A
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NicotraS
 type: d3-device-type-assertion

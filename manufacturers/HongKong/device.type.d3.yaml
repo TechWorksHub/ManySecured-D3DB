@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e8020b85-7850-4b9c-b4d2-c905b5793cdb
-  mac-addresses:
+  id: 362dbd33-1ca3-4382-b090-8ffc69160780
+  macAddresses:
   - 00:24:A2:00:00:00/24
   - 08:38:69:00:00:00/24
   - 08:81:BC:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - BC:26:1D:00:00:00/24
   - CC:73:14:00:00:00/24
   manufacturer: Hong Kong Middleware Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HongKong
 type: d3-device-type-assertion

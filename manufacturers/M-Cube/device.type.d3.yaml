@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c16e26e5-26fd-44c6-82e1-4b7809e79dc4
-  mac-addresses:
+  id: 6afa4f65-72e3-49a7-bd96-128160aca873
+  macAddresses:
   - F8:5B:C9:00:00:00/24
   manufacturer: M-Cube Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: M-Cube
 type: d3-device-type-assertion

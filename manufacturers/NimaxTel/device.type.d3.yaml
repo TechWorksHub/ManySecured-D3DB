@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e73ae15d-1181-494f-9de1-2f85cae117df
-  mac-addresses:
+  id: 1b49cb6d-a344-4a15-bce5-b7844c01546f
+  macAddresses:
   - A0:1C:05:00:00:00/24
   manufacturer: Nimax Telecom Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NimaxTel
 type: d3-device-type-assertion

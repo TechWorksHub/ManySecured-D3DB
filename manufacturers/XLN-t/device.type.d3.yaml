@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8d7d83b7-2002-496c-8212-652d0cebaa9a
-  mac-addresses:
+  id: d36f29a1-8afe-43b5-9f31-07c82545b491
+  macAddresses:
   - 00:1E:A0:00:00:00/24
   - 00:50:C2:00:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XLN-t
 type: d3-device-type-assertion

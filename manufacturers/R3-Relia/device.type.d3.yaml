@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c8fd29b-76f5-44f3-9e80-848405c28069
-  mac-addresses:
+  id: 20c3b2ac-1c30-425d-a959-ded2b62ff13f
+  macAddresses:
   - 08:CB:E5:00:00:00/24
   manufacturer: R3 - Reliable Realtime Radio Communications GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: R3-Relia
 type: d3-device-type-assertion

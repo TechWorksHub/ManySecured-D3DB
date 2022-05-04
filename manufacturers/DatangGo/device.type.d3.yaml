@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e4aae5c-eb20-4aa9-84fc-a27d0c904024
-  mac-addresses:
+  id: dd836f48-1c84-45e3-b5c8-dc5f630db32c
+  macAddresses:
   - 1C:27:DD:00:00:00/24
   manufacturer: Datang Gohighsec(zhejiang)Information Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatangGo
 type: d3-device-type-assertion

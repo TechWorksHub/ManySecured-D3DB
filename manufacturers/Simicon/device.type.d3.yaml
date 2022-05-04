@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3419d827-d91c-4556-b2db-990ceac18e4e
-  mac-addresses:
+  id: 1bb77a72-a00f-40d5-b5be-f1ca6c212722
+  macAddresses:
   - 00:50:C2:73:C0:00/36
   - 50:FF:99:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simicon
 type: d3-device-type-assertion

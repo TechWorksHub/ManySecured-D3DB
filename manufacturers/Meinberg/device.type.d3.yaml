@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3690d88-14bd-45ba-9428-47238c09cac8
-  mac-addresses:
+  id: 4866d4b8-334c-4a30-ba11-2871bd7a45c7
+  macAddresses:
   - EC:46:70:00:00:00/24
   manufacturer: Meinberg Funkuhren GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meinberg
 type: d3-device-type-assertion

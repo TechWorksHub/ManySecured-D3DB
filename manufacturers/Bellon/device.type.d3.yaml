@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36356a1d-56e2-4a23-a8a2-46f88ddbadac
-  mac-addresses:
+  id: ad3ec2a0-1471-4a3e-a18b-9ef4ea77462b
+  macAddresses:
   - 00:1C:AA:00:00:00/24
   manufacturer: Bellon Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bellon
 type: d3-device-type-assertion

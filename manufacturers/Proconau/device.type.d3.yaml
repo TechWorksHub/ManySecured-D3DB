@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fcbaf85-6e06-402d-9f24-a990e40dccd7
-  mac-addresses:
+  id: c87881bf-cad6-4998-b154-4daf94bc9598
+  macAddresses:
   - 70:B3:D5:54:90:00/36
   manufacturer: Procon automatic systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proconau
 type: d3-device-type-assertion

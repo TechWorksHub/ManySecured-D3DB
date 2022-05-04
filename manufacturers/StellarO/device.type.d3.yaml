@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e1e0ed1-a0eb-4edf-85a3-10458d0452f8
-  mac-addresses:
+  id: e0497c55-55bf-4d2e-a983-b1d924aa634d
+  macAddresses:
   - 00:60:18:00:00:00/24
   manufacturer: Stellar One Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StellarO
 type: d3-device-type-assertion

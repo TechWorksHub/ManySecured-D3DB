@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7255dd0c-fec4-4c98-b01d-04692f03c1d0
-  mac-addresses:
+  id: 099ffc43-8661-40ef-bc32-0a473a4b005a
+  macAddresses:
   - A4:3B:FA:60:00:00/28
   manufacturer: Recognition Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Recognit
 type: d3-device-type-assertion

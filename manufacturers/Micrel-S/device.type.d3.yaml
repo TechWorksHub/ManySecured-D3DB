@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67837064-e85c-44d1-99e4-f15b5994389f
-  mac-addresses:
+  id: de791cf9-befc-49db-8f3f-4d3684d6d475
+  macAddresses:
   - 00:02:8C:00:00:00/24
   manufacturer: Micrel-Synergy Semiconductor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micrel-S
 type: d3-device-type-assertion

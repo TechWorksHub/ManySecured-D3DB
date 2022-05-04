@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 095f2915-d026-46a9-b412-3b789749da07
-  mac-addresses:
+  id: 37617997-176b-4bbb-8301-c1a35c1d2797
+  macAddresses:
   - 00:0D:A3:00:00:00/24
   - 74:E1:4A:60:00:00/28
   manufacturer: Emerging Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Emerging
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79db0780-e83f-43cf-a2ea-0c55d6ffa9eb
-  mac-addresses:
+  id: 13a3657e-2efa-442f-81d6-84da036b3722
+  macAddresses:
   - 70:B3:D5:C9:80:00/36
   manufacturer: Trust Automation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrustAut
 type: d3-device-type-assertion

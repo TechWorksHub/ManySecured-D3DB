@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ca09d3d-e2c3-40f3-9c28-afd455340d50
-  mac-addresses:
+  id: 38f0fa93-1791-4f98-90fc-dfca5679dbd1
+  macAddresses:
   - 34:BA:9A:00:00:00/24
   manufacturer: Asiatelco Technologies Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asiatelc
 type: d3-device-type-assertion

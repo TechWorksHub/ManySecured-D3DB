@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58930839-d661-4e34-8292-a64b86a023bf
-  mac-addresses:
+  id: 19bb6e91-05df-4c29-b498-ef5db136d709
+  macAddresses:
   - 00:75:E1:00:00:00/24
   manufacturer: Ampt, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ampt
 type: d3-device-type-assertion

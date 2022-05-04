@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80060272-f89a-4e57-b499-fcf02743c9f8
-  mac-addresses:
+  id: 0125be28-7aff-4a6d-8685-fade8f94e689
+  macAddresses:
   - 00:60:BC:00:00:00/24
   manufacturer: KeunYoung Electronics & Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KeunYoun
 type: d3-device-type-assertion

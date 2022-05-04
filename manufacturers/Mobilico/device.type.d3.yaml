@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5929fa1d-7af0-4933-95a5-1541b5518285
-  mac-addresses:
+  id: fd7f8c9d-973a-4ebf-b11e-396aa0d90a25
+  macAddresses:
   - 7C:BF:88:00:00:00/24
   manufacturer: Mobilicom LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobilico
 type: d3-device-type-assertion

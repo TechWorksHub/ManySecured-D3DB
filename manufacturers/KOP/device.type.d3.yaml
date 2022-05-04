@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9251eb0-d28c-4ff9-a7ea-6dc1bbf4fc47
-  mac-addresses:
+  id: 3f066715-d76a-4bb6-b42a-f3cfe5f07b87
+  macAddresses:
   - 00:50:C2:47:20:00/36
   manufacturer: KOP Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KOP
 type: d3-device-type-assertion

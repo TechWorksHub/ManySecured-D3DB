@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ac8313b-c7af-4d8b-adc3-dc4ec3399a76
-  mac-addresses:
+  id: 89f275e4-60a9-4a35-b4f9-c5745399ee06
+  macAddresses:
   - 00:A0:D9:00:00:00/24
   manufacturer: Convex Computer Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConvexCo
 type: d3-device-type-assertion

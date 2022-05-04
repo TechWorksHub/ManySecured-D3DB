@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8daaf30-016a-468a-a99a-8cf45d1fcfa9
-  mac-addresses:
+  id: 96668a33-1e7e-44c4-9ced-f982b69e9a04
+  macAddresses:
   - 3C:53:D7:00:00:00/24
   manufacturer: Cedes Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cedes
 type: d3-device-type-assertion

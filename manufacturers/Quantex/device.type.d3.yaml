@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9f11553-fbea-414b-b3e3-2af8c139e381
-  mac-addresses:
+  id: d95c7454-3530-4c83-976d-fabab7dc478f
+  macAddresses:
   - 68:91:D0:90:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quantex
 type: d3-device-type-assertion

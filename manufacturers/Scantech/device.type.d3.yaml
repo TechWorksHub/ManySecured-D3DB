@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55b5cc2c-dcf1-46ab-88ff-54e415d3e023
-  mac-addresses:
+  id: 7eeeef75-da2d-47d7-bb2d-cdd7f9562756
+  macAddresses:
   - 00:13:B7:00:00:00/24
   manufacturer: Scantech ID
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scantech
 type: d3-device-type-assertion

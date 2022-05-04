@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83c6d5ea-c730-4779-9548-af69b37d59df
-  mac-addresses:
+  id: 7b706c45-0d0f-4e96-a366-75cddcda1823
+  macAddresses:
   - 00:01:1A:00:00:00/24
   manufacturer: Hoffmann und Burmeister GbR
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hoffmann
 type: d3-device-type-assertion

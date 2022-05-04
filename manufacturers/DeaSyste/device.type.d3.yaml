@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5296542-24c6-42b6-a5cd-7cd6286f8aa2
-  mac-addresses:
+  id: 9680d8ff-06b3-4674-838c-9d61b33d43e6
+  macAddresses:
   - 70:B3:D5:8F:A0:00/36
   manufacturer: Dea System Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeaSyste
 type: d3-device-type-assertion

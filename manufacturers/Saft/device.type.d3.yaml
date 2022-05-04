@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cbdece3-6173-4f4a-aa8b-f3f5632058d7
-  mac-addresses:
+  id: cef7903d-b864-4a74-84bc-1c5e6f5c2f26
+  macAddresses:
   - 2C:16:BD:30:00:00/28
   manufacturer: Saft AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Saft
 type: d3-device-type-assertion

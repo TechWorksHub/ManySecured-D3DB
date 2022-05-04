@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 170752f7-1c5c-407c-b140-c907c6a796fa
-  mac-addresses:
+  id: 659874fc-1cc2-406a-a5a2-0dae57fce944
+  macAddresses:
   - 00:50:01:00:00:00/24
   manufacturer: Yamashita Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yamashit
 type: d3-device-type-assertion

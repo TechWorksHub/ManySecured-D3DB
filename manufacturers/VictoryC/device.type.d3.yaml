@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b2e99c48-7959-40c5-bbf0-74d5d847d24a
-  mac-addresses:
+  id: b57d6584-c8e3-4027-9853-3140009de6e6
+  macAddresses:
   - 00:50:C2:6A:60:00/36
   - D8:BF:4C:00:00:00/24
   manufacturer: Victory Concept Industries Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VictoryC
 type: d3-device-type-assertion

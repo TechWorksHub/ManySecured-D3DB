@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8b89ee4-079a-451e-be2b-7d89e7f11bbd
-  mac-addresses:
+  id: a796b70c-13bb-4724-aec6-0180f35f1362
+  macAddresses:
   - 00:06:23:00:00:00/24
   manufacturer: MGE UPS Systems France
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MGEUPSFr
 type: d3-device-type-assertion

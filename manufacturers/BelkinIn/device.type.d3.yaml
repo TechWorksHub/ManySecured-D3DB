@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8d20d84f-4b8d-47a9-b062-09e0dd9eb527
-  mac-addresses:
+  id: c4bdc282-8570-43c4-ba28-cd1c41eaa509
+  macAddresses:
   - 00:17:3F:00:00:00/24
   - 00:1C:DF:00:00:00/24
   - 00:22:75:00:00:00/24
@@ -20,6 +20,6 @@ credentialSubject:
   - E8:9F:80:00:00:00/24
   - EC:1A:59:00:00:00/24
   manufacturer: Belkin International Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BelkinIn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16512e1d-513c-48ea-ae26-438e550baa7f
-  mac-addresses:
+  id: ffd662ce-39d9-408e-a1af-65975be1389e
+  macAddresses:
   - 00:1B:8A:00:00:00/24
   manufacturer: 2M Electronic A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2MElectr
 type: d3-device-type-assertion

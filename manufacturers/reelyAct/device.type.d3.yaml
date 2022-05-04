@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3be5c3eb-698c-4150-b5f1-36cc7841908f
-  mac-addresses:
+  id: ae6dbe35-bb99-445b-822d-ab72df5a54a9
+  macAddresses:
   - 00:1B:C5:09:40:00/36
   manufacturer: reelyActive
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: reelyAct
 type: d3-device-type-assertion

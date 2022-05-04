@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50178384-8473-4205-a946-92dd585da754
-  mac-addresses:
+  id: a750d0a7-f4ec-427b-b62b-bbc8c9c3f540
+  macAddresses:
   - 00:24:F6:00:00:00/24
   manufacturer: Miyoshi Electronics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiyoshiE
 type: d3-device-type-assertion

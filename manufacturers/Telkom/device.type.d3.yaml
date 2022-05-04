@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3bb1de4-160f-4b0d-aa7f-076f7368befd
-  mac-addresses:
+  id: 50e9aaf2-6f56-4180-bb36-3b3cf7b2032c
+  macAddresses:
   - 00:50:86:00:00:00/24
   manufacturer: Telkom Sa, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telkom
 type: d3-device-type-assertion

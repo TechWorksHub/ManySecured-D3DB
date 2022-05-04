@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4c78af8-abb0-45c6-9731-394ca9a62f39
-  mac-addresses:
+  id: ada5e30c-bef5-4fd6-b64e-c3777de7f376
+  macAddresses:
   - 00:50:1C:00:00:00/24
   manufacturer: Jatom Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jatom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca5e83f9-8502-40b1-8b92-4e0d27a9b902
-  mac-addresses:
+  id: 15cf60d0-a30d-4dff-aefb-b60d9457399d
+  macAddresses:
   - 00:22:F2:00:00:00/24
   manufacturer: SunPower Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunPower
 type: d3-device-type-assertion

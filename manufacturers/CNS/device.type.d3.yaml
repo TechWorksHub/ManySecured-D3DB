@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a9e8d54-4d52-4ed2-ba63-e16f83cdc6b3
-  mac-addresses:
+  id: 1fa512a8-480c-415e-ba17-a9c193297aa8
+  macAddresses:
   - 00:50:C2:9D:90:00/36
   manufacturer: CNS Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CNS
 type: d3-device-type-assertion

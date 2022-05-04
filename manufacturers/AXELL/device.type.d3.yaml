@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f46114ef-e9b8-49b9-b43c-537597cd7ebb
-  mac-addresses:
+  id: 14b19dc5-98d1-4391-b4dd-773e7fbeb891
+  macAddresses:
   - 00:0D:12:00:00:00/24
   manufacturer: AXELL Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AXELL
 type: d3-device-type-assertion

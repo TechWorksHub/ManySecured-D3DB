@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaa0b518-4d93-4880-aba2-cfa85cbadd30
-  mac-addresses:
+  id: bfec26f3-731a-4531-8cc7-c6b483891159
+  macAddresses:
   - 00:00:13:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Camex
 type: d3-device-type-assertion

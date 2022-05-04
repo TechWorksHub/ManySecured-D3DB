@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f881bd4b-c5a0-4d9f-93a1-f21dfa2d2436
-  mac-addresses:
+  id: 57b69008-462d-4085-9ef9-cbae84f689ca
+  macAddresses:
   - 00:26:D1:00:00:00/24
   manufacturer: S Squared Innovations Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SSquared
 type: d3-device-type-assertion

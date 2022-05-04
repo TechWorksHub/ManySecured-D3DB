@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2033b6b-b068-423a-9a2b-309756b31d8e
-  mac-addresses:
+  id: 2b31f528-8037-4718-b358-2870b195e829
+  macAddresses:
   - 00:08:96:00:00:00/24
   manufacturer: Printronix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Printron
 type: d3-device-type-assertion

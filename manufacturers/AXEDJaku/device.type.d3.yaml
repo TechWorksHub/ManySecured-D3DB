@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 817b4376-5a24-4452-ba20-93f83aeab009
-  mac-addresses:
+  id: 3f38156c-2142-41cf-87b3-ca967e9080a1
+  macAddresses:
   - 00:50:C2:B7:40:00/36
   manufacturer: AXED Jakubowski Wojciechowski sp.j.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AXEDJaku
 type: d3-device-type-assertion

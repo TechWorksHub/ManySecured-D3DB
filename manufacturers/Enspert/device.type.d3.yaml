@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4253155c-62cd-4104-952c-fbddbb06a8f9
-  mac-addresses:
+  id: b772aea9-dd4a-4a77-9c0f-63b2fbd9cf01
+  macAddresses:
   - AC:6F:4F:00:00:00/24
   manufacturer: Enspert Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enspert
 type: d3-device-type-assertion

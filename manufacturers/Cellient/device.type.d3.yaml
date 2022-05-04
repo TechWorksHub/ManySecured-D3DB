@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 615f24b0-bfff-4a83-a9eb-3ec8bf98ee4c
-  mac-addresses:
+  id: f9ae5ab5-3c8a-4dfc-8540-c780a0563498
+  macAddresses:
   - 64:62:23:00:00:00/24
   manufacturer: Cellient Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cellient
 type: d3-device-type-assertion

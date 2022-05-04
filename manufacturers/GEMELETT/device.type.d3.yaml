@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cd12e16-9607-4d09-9ecf-29f91e065a61
-  mac-addresses:
+  id: 44993d6d-625d-46af-9c5a-efab478856e0
+  macAddresses:
   - 00:50:C2:4F:E0:00/36
   manufacturer: GEM ELETTRONICA Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GEMELETT
 type: d3-device-type-assertion

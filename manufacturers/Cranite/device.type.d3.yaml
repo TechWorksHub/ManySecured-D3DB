@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64cd4b3d-7ca9-4902-95e3-0155bbd2415f
-  mac-addresses:
+  id: 6879008c-3170-41bf-a4de-98bc4ba36831
+  macAddresses:
   - 00:1C:86:00:00:00/24
   manufacturer: Cranite Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cranite
 type: d3-device-type-assertion

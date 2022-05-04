@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d11dcb9f-7afb-4556-bb03-87889ceefe13
-  mac-addresses:
+  id: 4c587d7d-6122-486b-ae07-1d3b82f89208
+  macAddresses:
   - F4:20:12:00:00:00/24
   manufacturer: Cuciniale GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cucinial
 type: d3-device-type-assertion

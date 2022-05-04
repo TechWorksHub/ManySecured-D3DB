@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9041253c-f9e6-4473-8ff3-d8301da4cdb3
-  mac-addresses:
+  id: c9cb94b1-d0af-48eb-b938-57437da91106
+  macAddresses:
   - 70:B3:D5:B0:30:00/36
   manufacturer: Sprintshield d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sprintsh
 type: d3-device-type-assertion

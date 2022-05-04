@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91dd325c-180c-4f78-a2ea-46c92424d898
-  mac-addresses:
+  id: e0815823-a9ce-4472-861f-f97f74e22b0b
+  macAddresses:
   - FC:D2:B6:10:00:00/28
   manufacturer: Link (Far-East) Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkFar-
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6d9acbd4-b60d-480a-a626-e78bf6438867
-  mac-addresses:
+  id: 3d149673-4081-40bb-9899-1b00c7bba407
+  macAddresses:
   - 00:06:67:00:00:00/24
   - 00:15:9D:00:00:00/24
   manufacturer: Tripp Lite
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrippLit
 type: d3-device-type-assertion

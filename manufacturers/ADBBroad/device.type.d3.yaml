@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 330c1b38-23fe-49c8-affe-57330e8ad2f2
-  mac-addresses:
+  id: 3fccc91a-6d7c-4784-bdcb-1871310e466f
+  macAddresses:
   - 00:08:27:00:00:00/24
   - 00:13:C8:00:00:00/24
   - 00:17:C2:00:00:00/24
@@ -26,6 +26,6 @@ credentialSubject:
   - E8:74:E6:00:00:00/24
   - F0:84:2F:00:00:00/24
   manufacturer: ADB Broadband Italia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADBBroad
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b4a4fc9-eee8-412b-ae3d-c974c904f5df
-  mac-addresses:
+  id: 34be2ee8-b7ff-4af4-b6f4-c6c6237cd2e3
+  macAddresses:
   - 78:62:99:00:00:00/24
   manufacturer: BITSTREAM sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BITSTREA
 type: d3-device-type-assertion

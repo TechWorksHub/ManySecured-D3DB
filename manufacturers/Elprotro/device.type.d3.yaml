@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10751ec1-4e57-40c5-94e0-05fde1b20063
-  mac-addresses:
+  id: 4541e640-eff2-4bbe-a2e8-7ed28cf55d28
+  macAddresses:
   - BC:26:43:00:00:00/24
   manufacturer: Elprotronic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elprotro
 type: d3-device-type-assertion

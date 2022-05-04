@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea4ef1ca-09c6-4689-8389-1033fa33db1c
-  mac-addresses:
+  id: 8a40c3a6-9476-45d5-b2fb-2d96ca1d8988
+  macAddresses:
   - 70:B3:D5:FD:E0:00/36
   manufacturer: Aeronautical & General Instruments Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aeronaut
 type: d3-device-type-assertion

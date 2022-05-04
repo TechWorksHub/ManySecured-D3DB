@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73a51389-3d7a-4845-b7bc-d5d3ced4825c
-  mac-addresses:
+  id: c7ad17cb-fb20-46d0-a15f-cfc62e1ae28f
+  macAddresses:
   - 70:B3:D5:FD:70:00/36
   manufacturer: Centum Adetel Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentumAd
 type: d3-device-type-assertion

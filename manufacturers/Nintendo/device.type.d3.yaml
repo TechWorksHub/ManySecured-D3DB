@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7319123e-55bc-4ccb-b1d4-9f1a8ade3ed4
-  mac-addresses:
+  id: 3cbca56d-8f6b-4d84-9c64-c3636b883602
+  macAddresses:
   - 00:09:BF:00:00:00/24
   - 00:16:56:00:00:00/24
   - 00:17:AB:00:00:00/24
@@ -83,6 +83,6 @@ credentialSubject:
   - E8:DA:20:00:00:00/24
   - EC:C4:0D:00:00:00/24
   manufacturer: Nintendo Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nintendo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e2e7584-23f7-4e8e-bf9d-cc64607e71c6
-  mac-addresses:
+  id: 54af7edd-1c6b-4270-be2e-d2995c02e09e
+  macAddresses:
   - 58:76:C5:00:00:00/24
   manufacturer: Digi I'S Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigiIS
 type: d3-device-type-assertion

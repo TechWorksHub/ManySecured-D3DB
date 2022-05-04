@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e9c25d3-f383-464d-8021-9954bf8ea1bc
-  mac-addresses:
+  id: 965fc11a-6fc2-4946-a44b-030ccd67d1ba
+  macAddresses:
   - C8:45:29:00:00:00/24
   manufacturer: IMK Networks Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMKNetwo
 type: d3-device-type-assertion

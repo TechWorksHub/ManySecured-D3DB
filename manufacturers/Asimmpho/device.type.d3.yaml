@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c709aad7-fd1f-42f9-8666-9c76f35f218e
-  mac-addresses:
+  id: 156b5168-3795-4100-9f11-6c95c42ea0e1
+  macAddresses:
   - 00:A0:83:00:00:00/24
   manufacturer: Asimmphony Turkey
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asimmpho
 type: d3-device-type-assertion

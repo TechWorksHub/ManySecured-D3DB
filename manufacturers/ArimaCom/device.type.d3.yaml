@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dbfaf94-e4ca-4f62-b91c-9ca9ca942ac3
-  mac-addresses:
+  id: 811b2faa-b46f-4c39-bbff-c2204d1e55b0
+  macAddresses:
   - 00:03:25:00:00:00/24
   manufacturer: Arima Computer Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArimaCom
 type: d3-device-type-assertion

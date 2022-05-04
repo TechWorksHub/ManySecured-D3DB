@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aad144c3-41b8-4bdc-bdaa-72f13d644310
-  mac-addresses:
+  id: 668810ee-4cb5-4abd-9223-8f50f5a0b952
+  macAddresses:
   - 3C:FB:96:00:00:00/24
   manufacturer: Emcraft Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Emcraft
 type: d3-device-type-assertion

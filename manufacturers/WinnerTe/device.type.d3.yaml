@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b9159b8-f56e-4887-995c-e0a6a8e77e96
-  mac-addresses:
+  id: 2f5bbc47-530a-4c59-8f3f-f374df5a703d
+  macAddresses:
   - 00:50:C2:82:20:00/36
   manufacturer: Winner Technology Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinnerTe
 type: d3-device-type-assertion

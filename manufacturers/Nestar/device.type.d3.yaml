@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c266ff1b-0297-4c65-9bd1-784189ea6f11
-  mac-addresses:
+  id: c828d905-f0ac-4334-a9b7-62e21c34d244
+  macAddresses:
   - 08:00:0A:00:00:00/24
   manufacturer: Nestar Systems Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nestar
 type: d3-device-type-assertion

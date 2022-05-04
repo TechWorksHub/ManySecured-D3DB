@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dac8dda-50b2-40d0-91ed-98141fd0b772
-  mac-addresses:
+  id: 97307c5f-bb51-415b-bb53-8d6f307b768a
+  macAddresses:
   - 00:1B:C5:0A:50:00/36
   manufacturer: Tesla Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeslaCon
 type: d3-device-type-assertion

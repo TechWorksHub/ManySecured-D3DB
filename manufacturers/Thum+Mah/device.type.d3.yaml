@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79297f20-767e-4578-be0b-2d9f962f3d6c
-  mac-addresses:
+  id: 37044b7f-e888-401d-9515-2691d98c7714
+  macAddresses:
   - 9C:DB:07:00:00:00/24
   manufacturer: Thum+Mahr GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thum+Mah
 type: d3-device-type-assertion

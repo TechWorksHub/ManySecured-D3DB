@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9e1460a-a806-48c2-b0af-19e5e8bd98e7
-  mac-addresses:
+  id: ad802376-1bd5-49a4-acec-681e4f4f424e
+  macAddresses:
   - 70:B3:D5:51:20:00/36
   manufacturer: Techno Broad,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechnoBr
 type: d3-device-type-assertion

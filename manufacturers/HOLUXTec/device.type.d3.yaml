@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b2f35b4-615e-4e78-9d9e-066b4d3fc504
-  mac-addresses:
+  id: 7c88cf4e-daa9-4fa0-8ebe-4e66ad71b2a3
+  macAddresses:
   - 00:1B:C1:00:00:00/24
   manufacturer: HOLUX Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HOLUXTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a9de890-bb8a-4f85-b615-7942e5c94b97
-  mac-addresses:
+  id: 5930e024-774c-47cf-ba48-67caddfafc91
+  macAddresses:
   - 00:0C:57:00:00:00/24
   manufacturer: MACKIE Engineering Services Belgium BVBA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MACKIEEn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0acfad4f-049e-4daa-9218-3f8b54b68d98
-  mac-addresses:
+  id: 2063d6c7-6efb-454a-80af-38ca142b8125
+  macAddresses:
   - 00:50:C2:5C:40:00/36
   manufacturer: ProMik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProMik
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d093b52-7b2f-40ad-be0a-f2cfb8ca868e
-  mac-addresses:
+  id: fc81e795-1698-4777-bfa9-1b732e38ef31
+  macAddresses:
   - 28:D5:76:00:00:00/24
   manufacturer: Premier Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PremierW
 type: d3-device-type-assertion

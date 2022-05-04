@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51b2690b-0434-443f-b21a-2b24367264c0
-  mac-addresses:
+  id: 99ce4a76-3052-4e27-869d-086d3449a9f0
+  macAddresses:
   - 70:B3:D5:9A:40:00/36
   manufacturer: Nordmann International GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nordmann
 type: d3-device-type-assertion

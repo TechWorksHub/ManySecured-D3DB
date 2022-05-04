@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 761cd7b4-d55a-40e6-9dbe-7cf089966b3a
-  mac-addresses:
+  id: a8fdbb2b-86a8-4fe7-8080-3b2e48a67e29
+  macAddresses:
   - 00:25:30:00:00:00/24
   manufacturer: Aetas Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aetas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 256f61db-abcc-4c62-97bb-c9a6d897d511
-  mac-addresses:
+  id: f5867298-8aa7-4a21-9ba2-30a16f2b9ddf
+  macAddresses:
   - 1C:87:74:20:00:00/28
   manufacturer: Nichigaku
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nichigak
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0576e1fc-87e3-428d-954a-3c2e8c558acf
-  mac-addresses:
+  id: f3b1fa3e-b403-4de2-8235-46e7bec79214
+  macAddresses:
   - 00:50:C2:11:70:00/36
   manufacturer: Wintegra Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wintegra
 type: d3-device-type-assertion

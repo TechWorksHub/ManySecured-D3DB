@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20462205-470e-4ec2-9c33-3b5d72795215
-  mac-addresses:
+  id: 7a90ad4f-4470-4ccd-b200-30bd92d88597
+  macAddresses:
   - F8:50:63:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Verathon
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7a273971-61a9-4763-8939-5832dddca2fb
-  mac-addresses:
+  id: d0def681-4cbe-4000-9bd0-1f3c8f7f9305
+  macAddresses:
   - 04:D1:6E:80:00:00/28
   - B8:89:81:00:00:00/24
   manufacturer: Chengdu Interlink Science And Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengduI
 type: d3-device-type-assertion

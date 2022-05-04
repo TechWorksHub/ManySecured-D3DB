@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f7ed7643-e661-438f-8b2d-2b78e9f3b8b0
-  mac-addresses:
+  id: a737ff05-098e-4743-b87e-a941dd7ed0de
+  macAddresses:
   - 00:A0:53:00:00:00/24
   - 00:A0:A0:00:00:00/24
   manufacturer: Compact Devices, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompactD
 type: d3-device-type-assertion

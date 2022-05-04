@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29e8e7a5-69ed-43cc-9b71-1d99c96bc64c
-  mac-addresses:
+  id: 9657e0aa-cab0-4794-9adb-ad74075f24ae
+  macAddresses:
   - 00:15:B6:00:00:00/24
   manufacturer: ShinMaywa Industries, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShinMayw
 type: d3-device-type-assertion

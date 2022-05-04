@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b908036b-fe17-460f-84ad-df2b377ff9b7
-  mac-addresses:
+  id: 93b383e4-9f55-4f70-8dcf-46bcd63342cd
+  macAddresses:
   - 00:15:C9:00:00:00/24
   manufacturer: Gumstix, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gumstix
 type: d3-device-type-assertion

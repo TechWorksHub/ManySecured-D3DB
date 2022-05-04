@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c1d83ea-4018-40b9-9534-3c8cfd1be66a
-  mac-addresses:
+  id: affd1eb7-167f-4aad-bc8d-714fa55912e0
+  macAddresses:
   - 30:73:50:00:00:00/24
   manufacturer: Inpeco SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inpeco
 type: d3-device-type-assertion

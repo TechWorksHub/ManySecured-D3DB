@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 273a8b39-08b6-4753-b54b-a79bcb02ceea
-  mac-addresses:
+  id: e69d5cd4-28dd-44b7-a8b2-ed05e3dfc6b6
+  macAddresses:
   - 00:07:BD:00:00:00/24
   manufacturer: Radionet Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radionet
 type: d3-device-type-assertion

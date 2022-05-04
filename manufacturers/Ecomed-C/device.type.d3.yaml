@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f45e153-a7b9-4b6d-8fe8-eed431497c43
-  mac-addresses:
+  id: caa58aa9-eaaa-4936-85e5-11adedd56006
+  macAddresses:
   - 00:1B:C5:05:E0:00/36
   manufacturer: Ecomed-Complex
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ecomed-C
 type: d3-device-type-assertion

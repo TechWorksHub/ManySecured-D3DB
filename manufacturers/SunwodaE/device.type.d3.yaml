@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 099cf7db-6f44-468d-bc79-9d2f5ab0c185
-  mac-addresses:
+  id: 5ac738e5-5091-4aa8-a30b-8c0a1bb59ad4
+  macAddresses:
   - 70:61:EE:00:00:00/24
   manufacturer: Sunwoda Electronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunwodaE
 type: d3-device-type-assertion

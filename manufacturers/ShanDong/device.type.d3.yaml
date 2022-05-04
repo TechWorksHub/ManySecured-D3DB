@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 46c2589c-3dd1-4a1a-8f87-0f3aef82ecc0
-  mac-addresses:
+  id: 80382dd9-1a30-408a-95d2-d1db45c3caf1
+  macAddresses:
   - 80:79:AE:00:00:00/24
   - C0:D9:F7:00:00:00/24
   manufacturer: ShanDong Tecsunrise Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShanDong
 type: d3-device-type-assertion

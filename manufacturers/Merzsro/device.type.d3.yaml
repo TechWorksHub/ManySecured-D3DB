@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce54cfef-160c-4141-bfcf-118f020c10df
-  mac-addresses:
+  id: 7b6383bd-05b3-4d09-8ae9-4184e6a89c05
+  macAddresses:
   - 70:B3:D5:E2:E0:00/36
   manufacturer: Merz s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Merzsro
 type: d3-device-type-assertion

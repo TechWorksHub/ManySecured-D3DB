@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 41640a50-70aa-4f74-b4e7-9abe9deeb9b7
-  mac-addresses:
+  id: abf42a7b-db0f-4ead-85a1-ac0f32288043
+  macAddresses:
   - 58:9B:4A:00:00:00/24
   - 70:F8:2B:00:00:00/24
   - 78:B2:13:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - E4:26:86:00:00:00/24
   - F8:AA:3F:00:00:00/24
   manufacturer: DWnet Technologies(Suzhou) Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DWnetTec
 type: d3-device-type-assertion

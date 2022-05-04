@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92c98d66-32fd-44d3-b0e9-905b4c327f47
-  mac-addresses:
+  id: 491286dd-7734-47fd-b466-1a0f96cf1e87
+  macAddresses:
   - C0:83:59:70:00:00/28
   manufacturer: Fuzhou Fdlinker Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuzhouFd
 type: d3-device-type-assertion

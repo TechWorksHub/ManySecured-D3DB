@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 986c9133-5643-4855-be11-bb6a50273872
-  mac-addresses:
+  id: 8079232f-2495-4383-afb0-bffc6ca18edf
+  macAddresses:
   - 00:03:DA:00:00:00/24
   manufacturer: Takamisawa Cybernetics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Takamisa
 type: d3-device-type-assertion

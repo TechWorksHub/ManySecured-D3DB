@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 693e0686-2387-4ff5-9c00-39376f9d27b2
-  mac-addresses:
+  id: 21fa80b7-39e7-455e-b8e3-5d3234863382
+  macAddresses:
   - 00:50:C2:95:50:00/36
   manufacturer: Roessmann Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Roessman
 type: d3-device-type-assertion

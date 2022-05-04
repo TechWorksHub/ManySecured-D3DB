@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea5187e4-34b7-4545-9df3-52a94b4562db
-  mac-addresses:
+  id: 912b9503-05e0-42ba-beb2-6915dd0f714f
+  macAddresses:
   - 00:50:C2:E5:A0:00/36
   manufacturer: Futec Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Futec
 type: d3-device-type-assertion

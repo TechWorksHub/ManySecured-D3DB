@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35cf3c72-0d22-4b4a-8c21-b3d2fe25e16e
-  mac-addresses:
+  id: d7f5542d-d68a-4c65-bff4-95c42551dafa
+  macAddresses:
   - 00:13:4C:00:00:00/24
   manufacturer: YDT Technology International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YDTTechn
 type: d3-device-type-assertion

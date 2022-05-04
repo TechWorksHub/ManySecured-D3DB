@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 558d8642-27c0-4c5f-997d-edb47a6bb59e
-  mac-addresses:
+  id: a017f30a-5b56-4c11-888c-d31f5822214a
+  macAddresses:
   - 00:1F:C1:00:00:00/24
   manufacturer: Hanlong Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanlongT
 type: d3-device-type-assertion

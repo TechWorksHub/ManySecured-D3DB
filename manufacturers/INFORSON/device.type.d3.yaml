@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3d38586-d815-427a-a36a-f2e888f4e660
-  mac-addresses:
+  id: b50be4fb-8a26-4336-a38e-a9711e27d2be
+  macAddresses:
   - 00:22:C5:00:00:00/24
   manufacturer: INFORSON Co,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INFORSON
 type: d3-device-type-assertion

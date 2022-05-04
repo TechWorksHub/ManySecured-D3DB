@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccfdec9e-0736-48f1-b934-9bfbdaf72c6f
-  mac-addresses:
+  id: f38dedf2-3bb1-461e-b619-44cd21015576
+  macAddresses:
   - 00:25:2D:00:00:00/24
   manufacturer: Kiryung Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KiryungE
 type: d3-device-type-assertion

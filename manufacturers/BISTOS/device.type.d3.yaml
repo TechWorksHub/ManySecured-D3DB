@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a1a7d8c-d4f2-4dcd-aa9f-2fd44e485594
-  mac-addresses:
+  id: 806f8379-8d32-432e-abb7-9972964f0881
+  macAddresses:
   - 70:B3:D5:97:F0:00/36
   manufacturer: BISTOS.,Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BISTOS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 251fd52c-abff-4db3-a599-7e9fb2cf61de
-  mac-addresses:
+  id: d0634e31-9dbd-4a29-a941-404de0d7f967
+  macAddresses:
   - 64:DF:10:00:00:00/24
   manufacturer: JingLue Semiconductor(SH) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JingLueS
 type: d3-device-type-assertion

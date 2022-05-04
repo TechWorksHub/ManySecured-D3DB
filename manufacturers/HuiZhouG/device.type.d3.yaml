@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2bd9c5d5-835f-4f54-bdee-e6590a21e781
-  mac-addresses:
+  id: 4176a439-805c-412d-a84d-3b698a3c62f4
+  macAddresses:
   - 00:BF:AF:00:00:00/24
   - 0C:62:A6:00:00:00/24
   - 0C:91:60:00:00:00/24
@@ -29,6 +29,6 @@ credentialSubject:
   - F0:A3:B2:00:00:00/24
   - F8:4F:AD:00:00:00/24
   manufacturer: Hui Zhou Gaoshengda Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuiZhouG
 type: d3-device-type-assertion

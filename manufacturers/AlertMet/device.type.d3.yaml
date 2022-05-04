@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0583b2c2-7c22-496f-88d0-fde24c49d672
-  mac-addresses:
+  id: ff6557d7-56bb-4871-824e-aac978e0b82f
+  macAddresses:
   - 2C:E8:71:00:00:00/24
   manufacturer: Alert Metalguard ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlertMet
 type: d3-device-type-assertion

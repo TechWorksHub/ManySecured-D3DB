@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 745df138-b68d-4079-b68d-a3a2bc9a0df1
-  mac-addresses:
+  id: 10017e69-7bc5-49ee-9210-a97f6afd1cc5
+  macAddresses:
   - 70:B3:D5:C9:90:00/36
   manufacturer: Remote Diagnostic Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RemoteDi
 type: d3-device-type-assertion

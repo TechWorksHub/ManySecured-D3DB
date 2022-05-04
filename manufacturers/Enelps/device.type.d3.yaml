@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10a5933a-f984-4a54-8d2f-f47c8fcb1d99
-  mac-addresses:
+  id: e7da35de-0e19-4852-8a0e-67e1d2315019
+  macAddresses:
   - 94:D9:3C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enelps
 type: d3-device-type-assertion

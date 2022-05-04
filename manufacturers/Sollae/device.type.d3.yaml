@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5a65652-9763-415e-9525-8dd78f6a19d8
-  mac-addresses:
+  id: 2dde60d2-52a5-44dd-a89a-971c337c49c0
+  macAddresses:
   - 00:30:F9:00:00:00/24
   manufacturer: Sollae Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sollae
 type: d3-device-type-assertion

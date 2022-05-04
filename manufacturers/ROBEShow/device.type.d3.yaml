@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4b63e2d-13e5-4283-8441-7b2baded1eb5
-  mac-addresses:
+  id: 6dd2dd90-fdd8-4722-aad2-445f96b169cb
+  macAddresses:
   - 00:0D:19:00:00:00/24
   manufacturer: ROBE Show lighting
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ROBEShow
 type: d3-device-type-assertion

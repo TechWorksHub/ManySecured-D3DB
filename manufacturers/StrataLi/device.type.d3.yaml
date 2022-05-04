@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8030dee-c4e5-4e50-ae94-096ff44c4aa1
-  mac-addresses:
+  id: 3a435d35-b9f9-4840-a6e0-f0aed849828a
+  macAddresses:
   - 00:15:41:00:00:00/24
   manufacturer: StrataLight Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StrataLi
 type: d3-device-type-assertion

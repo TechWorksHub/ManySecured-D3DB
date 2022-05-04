@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 766f10b6-0297-407c-9219-e45636225227
-  mac-addresses:
+  id: 192f9a4c-1332-4353-9ecd-e8431f29529b
+  macAddresses:
   - 00:0C:A8:00:00:00/24
   manufacturer: Garuda Networks Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GarudaNe
 type: d3-device-type-assertion

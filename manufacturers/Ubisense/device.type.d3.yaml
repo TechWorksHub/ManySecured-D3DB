@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae775faf-c5c3-44ab-aecb-ec81cde94ea8
-  mac-addresses:
+  id: f4b86fc4-31f9-47c5-83f8-b752adf990c3
+  macAddresses:
   - 00:11:CE:00:00:00/24
   manufacturer: Ubisense Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubisense
 type: d3-device-type-assertion

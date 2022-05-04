@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83ac612b-11b2-40cc-9251-413656169dd7
-  mac-addresses:
+  id: a46770d8-11c0-4122-beca-33d713075746
+  macAddresses:
   - 70:B3:D5:DC:60:00/36
   manufacturer: Idem Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Idem
 type: d3-device-type-assertion

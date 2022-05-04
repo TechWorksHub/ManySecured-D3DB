@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45754b5a-a007-4a33-8801-580d79a35fed
-  mac-addresses:
+  id: 467a0880-4418-4d6a-b93b-1adc78cb1294
+  macAddresses:
   - 00:40:27:00:00:00/24
   manufacturer: SMC Massachusetts
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmcMassa
 type: d3-device-type-assertion

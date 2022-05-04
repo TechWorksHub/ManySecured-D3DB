@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffc8fff0-7919-4db8-a77c-9f3539592136
-  mac-addresses:
+  id: 151f4dab-0573-42ab-a96d-920745d8257a
+  macAddresses:
   - A8:24:EB:00:00:00/24
   manufacturer: ZAO NPO Introtest
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPOIntro
 type: d3-device-type-assertion

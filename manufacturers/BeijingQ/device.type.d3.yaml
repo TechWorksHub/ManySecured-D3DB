@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9693ee68-1910-421f-b8e5-373df80781fd
-  mac-addresses:
+  id: ec09a14c-1a26-4493-ac44-6de8a9776268
+  macAddresses:
   - 00:07:53:00:00:00/24
   - 0C:86:29:10:00:00/28
   - 18:A5:9C:30:00:00/28
   manufacturer: Beijing Qxcomm Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingQ
 type: d3-device-type-assertion

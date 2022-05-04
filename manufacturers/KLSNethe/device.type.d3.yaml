@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de3e4cb3-b408-470a-8366-bce86068176f
-  mac-addresses:
+  id: 5aca08d8-97f5-4f0a-a0e6-b633660aa23f
+  macAddresses:
   - 70:B3:D5:DC:F0:00/36
   manufacturer: KLS Netherlands B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KLSNethe
 type: d3-device-type-assertion

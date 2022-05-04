@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76afe2fe-4fb5-4dca-9bf1-9cbc8ea06c54
-  mac-addresses:
+  id: b0f248a6-f31b-44e7-afe3-cf3dc7d010ad
+  macAddresses:
   - 34:9E:34:00:00:00/24
   manufacturer: Evervictory Electronic Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Evervict
 type: d3-device-type-assertion

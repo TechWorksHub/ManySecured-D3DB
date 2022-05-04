@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9112e9fb-01b9-49f2-8d82-ee12202282e3
-  mac-addresses:
+  id: 5bda2685-1e80-4a42-8b0b-97b218dfcc87
+  macAddresses:
   - 00:50:C2:82:60:00/36
   manufacturer: HEWI Heinrich Wilke GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HEWIHein
 type: d3-device-type-assertion

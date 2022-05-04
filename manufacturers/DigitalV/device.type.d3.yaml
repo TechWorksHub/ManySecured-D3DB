@@ -1,6 +1,6 @@
 credentialSubject:
-  id: bd8e5df9-4155-4e33-acb3-d942f691d834
-  mac-addresses:
+  id: 75d72707-d512-4fc1-b46f-47acdd427ea1
+  macAddresses:
   - 00:01:5A:00:00:00/24
   - 00:01:FD:00:00:00/24
   - 00:03:90:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - 00:50:C2:11:B0:00/36
   - 00:60:84:00:00:00/24
   manufacturer: Digital Video Broadcasting
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitalV
 type: d3-device-type-assertion

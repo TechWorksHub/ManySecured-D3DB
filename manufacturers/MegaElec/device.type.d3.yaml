@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37d1c0dd-c63a-45a8-8018-5a27a0338649
-  mac-addresses:
+  id: 89c5a8f1-05c9-4f83-917f-b88ac588dfe3
+  macAddresses:
   - 40:D8:55:1E:30:00/36
   manufacturer: Mega Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MegaElec
 type: d3-device-type-assertion

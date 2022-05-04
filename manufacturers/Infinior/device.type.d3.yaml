@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9881f25-b27a-4e2e-ab60-ba24a3665969
-  mac-addresses:
+  id: 66eef5a7-b1d2-4e53-9ca0-2a39411a0e22
+  macAddresses:
   - 00:04:E1:00:00:00/24
   manufacturer: Infinior Microsystems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infinior
 type: d3-device-type-assertion

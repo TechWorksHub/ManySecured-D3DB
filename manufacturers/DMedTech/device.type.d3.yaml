@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90b47e27-aee1-4379-9f8e-1bd3874647bd
-  mac-addresses:
+  id: 8cc037c2-e433-46ff-88ae-98372c16fe97
+  macAddresses:
   - 98:80:BB:E0:00:00/28
   manufacturer: D.Med Technical Products GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DMedTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b070d76b-af57-495d-bcfa-e92daeea0831
-  mac-addresses:
+  id: 496fe2a9-121e-4e85-8eac-0c23028a59c4
+  macAddresses:
   - B0:40:89:00:00:00/24
   manufacturer: Senient Systems LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senient
 type: d3-device-type-assertion

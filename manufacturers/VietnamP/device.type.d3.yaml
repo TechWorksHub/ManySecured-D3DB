@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 279239e8-ec63-4723-8c95-9ed998c5b84a
-  mac-addresses:
+  id: 606caf4a-678b-41ab-9289-753d021815ab
+  macAddresses:
   - CC:71:90:00:00:00/24
   manufacturer: Vietnam Post And Telecommunication Industry Technology Joint Stock
     Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VietnamP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24347aec-56a2-4e06-a408-9f4204b8a55a
-  mac-addresses:
+  id: cb909728-a817-4ba8-9a05-c15820f59f3b
+  macAddresses:
   - CC:C6:2B:00:00:00/24
   manufacturer: Tri-Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tri
 type: d3-device-type-assertion

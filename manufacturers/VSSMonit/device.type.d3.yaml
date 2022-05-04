@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ba57d4a-9945-4e15-9ef9-b0d194155d4f
-  mac-addresses:
+  id: 62407a72-4d86-48c4-b71e-d24390987fe4
+  macAddresses:
   - C4:EE:AE:00:00:00/24
   manufacturer: VSS Monitoring
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VSSMonit
 type: d3-device-type-assertion

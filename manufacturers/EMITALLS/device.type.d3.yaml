@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38a2f8e4-a35c-4b98-8201-e20d0c92db8c
-  mac-addresses:
+  id: 81b8eb69-4282-41d6-b9d5-dcf5fc8b3645
+  macAddresses:
   - 00:50:C2:6C:E0:00/36
   manufacturer: EMITALL Surveillance S.A,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMITALLS
 type: d3-device-type-assertion

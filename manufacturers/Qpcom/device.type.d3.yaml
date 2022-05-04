@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba60e74a-5c3f-4ba6-9e56-58c959dc14a1
-  mac-addresses:
+  id: dc9f5f88-cbf5-4ac0-b7c1-b1972c4d0074
+  macAddresses:
   - 88:A5:BD:00:00:00/24
   manufacturer: Qpcom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qpcom
 type: d3-device-type-assertion

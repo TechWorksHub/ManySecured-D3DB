@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11b78e32-19a1-43ca-a46a-8ed17ec06fd4
-  mac-addresses:
+  id: bc362e29-83a4-414d-a400-01f22ce774cf
+  macAddresses:
   - 00:90:B6:00:00:00/24
   manufacturer: Fibex Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fibex
 type: d3-device-type-assertion

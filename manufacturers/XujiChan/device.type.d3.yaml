@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 052a455e-2821-47fd-b22c-0b02b4200237
-  mac-addresses:
+  id: b3e94f68-4e3a-44f2-a4c8-f32ce854ece3
+  macAddresses:
   - 7C:BC:84:70:00:00/28
   manufacturer: Xuji Changnan Communication Equipment Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XujiChan
 type: d3-device-type-assertion

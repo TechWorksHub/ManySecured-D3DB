@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c120406b-469c-4f09-9036-f910351c8448
-  mac-addresses:
+  id: 95a80f58-bab9-49cf-92d5-a934daf5daca
+  macAddresses:
   - 00:20:05:00:00:00/24
   manufacturer: Simple Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimpleTe
 type: d3-device-type-assertion

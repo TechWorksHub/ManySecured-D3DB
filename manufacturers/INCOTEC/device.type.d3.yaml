@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 72f6c0b5-3811-419e-a42d-7365f73f2535
-  mac-addresses:
+  id: 5fe0ffed-dd78-4a9d-abc8-00c66aa0de9f
+  macAddresses:
   - 00:1A:ED:00:00:00/24
   - 00:50:C2:5B:00:00/36
   manufacturer: INCOTEC GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INCOTEC
 type: d3-device-type-assertion

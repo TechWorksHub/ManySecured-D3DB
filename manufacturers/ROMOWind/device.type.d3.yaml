@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4de43944-2e44-4a18-a99c-835b6a8c3288
-  mac-addresses:
+  id: 5647c590-3890-40f6-9381-6fbdd1bb37fb
+  macAddresses:
   - 70:B3:D5:14:70:00/36
   - E4:1E:0A:D0:00:00/28
   manufacturer: ROMO Wind A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ROMOWind
 type: d3-device-type-assertion

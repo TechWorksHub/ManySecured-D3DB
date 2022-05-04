@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a3f3113-2366-42b3-af77-460b7e8405b9
-  mac-addresses:
+  id: b07c6fec-1f8d-4ec6-9190-c84e1c0e0f1e
+  macAddresses:
   - 00:1D:35:00:00:00/24
   manufacturer: Viconics Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viconics
 type: d3-device-type-assertion

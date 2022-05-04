@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c72a5080-cdf0-461a-8f50-4c5727433133
-  mac-addresses:
+  id: acb8710a-c1fb-4612-98cc-541f58aa9017
+  macAddresses:
   - 00:17:18:00:00:00/24
   - 00:50:C2:26:30:00/36
   manufacturer: Vansco Electronics Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VanscoEl
 type: d3-device-type-assertion

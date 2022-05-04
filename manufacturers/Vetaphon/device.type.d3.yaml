@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14eed1b2-9646-484e-9b8b-6fce56c8dcea
-  mac-addresses:
+  id: 18a59b75-2ed7-4239-b110-42e86b2e80da
+  macAddresses:
   - 70:B3:D5:A0:E0:00/36
   manufacturer: Vetaphone A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vetaphon
 type: d3-device-type-assertion

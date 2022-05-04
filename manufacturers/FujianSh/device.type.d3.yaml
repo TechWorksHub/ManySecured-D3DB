@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7ba9286-ba07-440a-8b1d-4a5c3dd52056
-  mac-addresses:
+  id: 9b3308e6-792d-471b-aeb2-9d68a7da79cb
+  macAddresses:
   - 54:CD:A7:00:00:00/24
   manufacturer: Fujian Shenzhou Electronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujianSh
 type: d3-device-type-assertion

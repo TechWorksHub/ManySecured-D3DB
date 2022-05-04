@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15a72fbe-114d-47bf-b360-2a0b332b4476
-  mac-addresses:
+  id: 8094b07d-a2d0-4a18-821b-5f379b86710f
+  macAddresses:
   - 20:A2:E7:00:00:00/24
   manufacturer: Lee-Dickens Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lee-Dick
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62b42a15-320c-42b8-a27a-4741a688386e
-  mac-addresses:
+  id: c2e640ad-4818-4a73-8f20-bf0a40dc1115
+  macAddresses:
   - 00:0C:CA:00:00:00/24
   manufacturer: HGST a Western Digital Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HGSTaWes
 type: d3-device-type-assertion

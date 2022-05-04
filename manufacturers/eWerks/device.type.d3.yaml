@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e793e8dd-a2cc-4144-b843-b90b0f427834
-  mac-addresses:
+  id: 619ca782-eaf2-4e12-a650-60eb7d804302
+  macAddresses:
   - 00:11:D7:00:00:00/24
   manufacturer: eWerks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eWerks
 type: d3-device-type-assertion

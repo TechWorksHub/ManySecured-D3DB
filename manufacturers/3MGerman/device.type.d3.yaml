@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d2a28e3-891b-4a63-b2ae-590f17d25f85
-  mac-addresses:
+  id: 155c0bb8-f2fc-45f0-bbad-3044855e413f
+  macAddresses:
   - 00:15:C2:00:00:00/24
   manufacturer: 3M Germany
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3MGerman
 type: d3-device-type-assertion

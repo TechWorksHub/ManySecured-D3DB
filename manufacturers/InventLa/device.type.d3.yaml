@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7f276f51-e1f2-4c0d-a19a-077128f0d689
-  mac-addresses:
+  id: 0407ffcc-3471-4ea4-a830-dfea6f10e840
+  macAddresses:
   - 40:D8:55:02:C0:00/36
   - 40:D8:55:1D:20:00/36
   manufacturer: InventLab s.c.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InventLa
 type: d3-device-type-assertion

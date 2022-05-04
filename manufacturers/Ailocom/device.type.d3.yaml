@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6904f40d-e95b-4255-8183-d858b2793c7f
-  mac-addresses:
+  id: 03281ccb-ed8b-483a-878d-6c2c819957f8
+  macAddresses:
   - 00:0C:AE:00:00:00/24
   manufacturer: Ailocom Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ailocom
 type: d3-device-type-assertion

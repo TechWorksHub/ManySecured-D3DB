@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32d59fd8-900b-4428-acdd-eb3398bdd95a
-  mac-addresses:
+  id: e0a09e5e-1a9f-4e85-a70a-dc08e211c58b
+  macAddresses:
   - 00:50:C2:0C:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Studiel
 type: d3-device-type-assertion

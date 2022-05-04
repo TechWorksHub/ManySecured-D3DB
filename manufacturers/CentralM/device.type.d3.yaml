@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 558ca8a9-f0ae-426c-b797-d3fa82da4d10
-  mac-addresses:
+  id: d0211f55-8ded-4891-8cd5-076a38df5e65
+  macAddresses:
   - 00:17:78:00:00:00/24
   manufacturer: Central Music Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentralM
 type: d3-device-type-assertion

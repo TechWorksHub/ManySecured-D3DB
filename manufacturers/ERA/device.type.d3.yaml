@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7af1a236-7a89-453c-88d5-087a9ea288dd
-  mac-addresses:
+  id: 634e19bf-7910-4b8d-9cbe-236b73a1dc4c
+  macAddresses:
   - 70:B3:D5:A9:00:00/36
   manufacturer: ERA a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ERA
 type: d3-device-type-assertion

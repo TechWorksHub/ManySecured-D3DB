@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f0253f9-2c44-4a8e-952d-7d3958e68a18
-  mac-addresses:
+  id: 9b916786-621d-4ec6-8a44-b0fdf7ff6dd2
+  macAddresses:
   - 00:0D:21:00:00:00/24
   manufacturer: WISCORE Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WISCORE
 type: d3-device-type-assertion

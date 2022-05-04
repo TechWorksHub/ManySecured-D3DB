@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3afc44b4-a320-49e1-9987-52cf2c80be05
-  mac-addresses:
+  id: 8dedb81b-8d09-4c6d-a47a-63832f7c4bd6
+  macAddresses:
   - DC:A3:A2:00:00:00/24
   manufacturer: Feng mi(Beijing)technology co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FengmiBe
 type: d3-device-type-assertion

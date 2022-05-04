@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 790e5c37-9cf4-4d0c-92b7-f58a82cec9b9
-  mac-addresses:
+  id: 9d04a434-c540-4582-bd29-b5ae1b225430
+  macAddresses:
   - F0:D7:AF:60:00:00/28
   manufacturer: Anord Mardix (USA) Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnordMar
 type: d3-device-type-assertion

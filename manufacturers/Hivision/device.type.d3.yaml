@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 420dd8bd-56b3-43ce-a016-b15f2e6d97e3
-  mac-addresses:
+  id: 86c97bfa-192d-4994-adcb-435345508e63
+  macAddresses:
   - 00:24:5E:00:00:00/24
   manufacturer: Hivision Co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hivision
 type: d3-device-type-assertion

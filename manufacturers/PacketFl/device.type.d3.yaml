@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dc56e9b-504f-45f1-b6bf-966d0367e9a2
-  mac-addresses:
+  id: ca8aefa2-0b80-4101-8362-adb9026d644c
+  macAddresses:
   - 00:1F:6A:00:00:00/24
   manufacturer: PacketFlux Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacketFl
 type: d3-device-type-assertion

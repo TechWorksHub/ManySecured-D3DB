@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6862b4d5-a0b8-4095-a0c2-216f81c13307
-  mac-addresses:
+  id: 1c3e2b62-c1c5-427e-b8d7-f9969c007256
+  macAddresses:
   - 00:50:C2:3B:F0:00/36
   manufacturer: Audio Processing Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioPro
 type: d3-device-type-assertion

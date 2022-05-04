@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95f116c6-c5b0-48fd-856f-b5fd7a6d09df
-  mac-addresses:
+  id: 9a750942-be4c-4100-be19-a9073f09bd6f
+  macAddresses:
   - 00:50:C2:50:20:00/36
   manufacturer: Criterion Systems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Criterio
 type: d3-device-type-assertion

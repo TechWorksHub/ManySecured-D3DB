@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ec5c2c8-e7c9-4018-8abe-3478fd0c2a2d
-  mac-addresses:
+  id: 5254ccd1-78c7-455c-8083-016c33be7249
+  macAddresses:
   - 30:43:D7:00:00:00/28
   manufacturer: Symes Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symes
 type: d3-device-type-assertion

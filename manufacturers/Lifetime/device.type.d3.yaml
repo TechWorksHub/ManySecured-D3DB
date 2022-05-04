@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95714173-602b-4f2b-b3dd-2fadb7d0ba43
-  mac-addresses:
+  id: 18f7ad28-9c7d-4ef9-afd4-e46357d5d393
+  macAddresses:
   - 00:50:C2:1C:F0:00/36
   manufacturer: Lifetime Memory Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lifetime
 type: d3-device-type-assertion

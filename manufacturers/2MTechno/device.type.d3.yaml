@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e2d1cd62-57a6-4b24-8eac-11908b1638f7
-  mac-addresses:
+  id: c8f75d46-3570-47d0-8292-7000622d2017
+  macAddresses:
   - 70:B3:D5:71:90:00/36
   - 70:B3:D5:F7:D0:00/36
   manufacturer: 2M Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2MTechno
 type: d3-device-type-assertion

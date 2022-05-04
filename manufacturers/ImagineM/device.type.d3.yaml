@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e020de6-9b1a-4df9-b898-c272607c872d
-  mac-addresses:
+  id: f20e8d7f-87a2-4bfa-b0cf-1eef73e148bf
+  macAddresses:
   - 8C:FD:15:00:00:00/24
   manufacturer: Imagine Marketing Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImagineM
 type: d3-device-type-assertion

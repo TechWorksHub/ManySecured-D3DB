@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b152da6-34f8-42a5-896d-142eef5e8f2e
-  mac-addresses:
+  id: 86b06c0b-ef5e-41aa-8c07-e9b7526e030e
+  macAddresses:
   - 50:4B:5B:00:00:00/24
   manufacturer: CONTROLtronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CONTROLt
 type: d3-device-type-assertion

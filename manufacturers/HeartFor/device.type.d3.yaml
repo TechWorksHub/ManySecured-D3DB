@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ceb4d23-544b-4496-8793-ba66a41fbbd0
-  mac-addresses:
+  id: 88242bee-ee1f-48e6-9277-93744a05f2bb
+  macAddresses:
   - 40:D8:55:09:50:00/36
   manufacturer: Heart Force Medical
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeartFor
 type: d3-device-type-assertion

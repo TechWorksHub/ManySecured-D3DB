@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea9396c7-5026-4e0a-8eea-248c7d003fcc
-  mac-addresses:
+  id: 5d51202f-9f63-4567-9b42-d7d8e64d5821
+  macAddresses:
   - 00:0C:89:00:00:00/24
   manufacturer: AC Electric Vehicles, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACElectr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b0439ed-cbfb-4dad-804d-0e8630991667
-  mac-addresses:
+  id: 95aa2a6f-ff9a-4aa4-95c3-048c5a7d5e18
+  macAddresses:
   - 00:0A:AB:00:00:00/24
   manufacturer: Toyota Technical Development Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToyotaTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ace15e12-114f-4c0f-afa8-7d5c6afe6f8b
-  mac-addresses:
+  id: e23e4ee7-d048-4a3f-86a7-02d7de5f34b1
+  macAddresses:
   - 00:D0:99:00:00:00/24
   manufacturer: Elcard Wireless Systems Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElcardWi
 type: d3-device-type-assertion

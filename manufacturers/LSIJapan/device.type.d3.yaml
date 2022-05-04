@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 776489bc-71b8-4629-b286-3e5e6740412b
-  mac-addresses:
+  id: be7ae3f3-6f7a-4c33-b77d-59a02ff8e9d7
+  macAddresses:
   - 00:04:A2:00:00:00/24
   manufacturer: L.S.I. Japan Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSIJapan
 type: d3-device-type-assertion

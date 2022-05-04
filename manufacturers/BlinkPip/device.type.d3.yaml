@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 802c7728-f054-4a7c-9a19-c64561700325
-  mac-addresses:
+  id: 86cb3578-78b0-4c5e-b53d-5233d90bbbb9
+  macAddresses:
   - 40:D8:55:15:30:00/36
   manufacturer: BlinkPipe Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlinkPip
 type: d3-device-type-assertion

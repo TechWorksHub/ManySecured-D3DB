@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1f5b5bbd-cb5f-45c7-9e80-e94438bdd888
-  mac-addresses:
+  id: 5ce1fe50-88ba-4963-9e3f-1da94cba4a98
+  macAddresses:
   - 30:09:F9:70:00:00/28
   - 70:B3:D5:90:E0:00/36
   - AC:74:C4:00:00:00/24
   manufacturer: Maytronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maytroni
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 206c66a9-b745-45b3-a0e6-c94ddbb56b4e
-  mac-addresses:
+  id: 293dcb16-8a67-4bf3-8f6a-2c22345ed3ce
+  macAddresses:
   - 00:0C:77:00:00:00/24
   manufacturer: Life Racing Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifeRaci
 type: d3-device-type-assertion

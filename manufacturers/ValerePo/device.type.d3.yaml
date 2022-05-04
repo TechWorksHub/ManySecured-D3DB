@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb1d8eca-6be9-4d49-8969-58e85ffcf52f
-  mac-addresses:
+  id: 4c767917-7495-46d6-a082-f8db78eb95b7
+  macAddresses:
   - 00:0A:19:00:00:00/24
   manufacturer: Valere Power, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValerePo
 type: d3-device-type-assertion

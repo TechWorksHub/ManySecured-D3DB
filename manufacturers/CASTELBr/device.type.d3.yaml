@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e127c248-c1d9-48bf-90a3-d08690e49804
-  mac-addresses:
+  id: d3685935-757d-44dd-890a-4dcdd2423bb2
+  macAddresses:
   - 00:0B:FE:00:00:00/24
   manufacturer: CASTEL Broadband Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CASTELBr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9b4b70c-6942-4983-907e-a1aecb6ff729
-  mac-addresses:
+  id: 2b57f8c7-b9cd-4936-a556-d399dd00c3f5
+  macAddresses:
   - 00:14:7B:00:00:00/24
   manufacturer: Iteris, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iteris
 type: d3-device-type-assertion

@@ -1,12 +1,12 @@
 credentialSubject:
-  id: cd97ff82-eee3-46d5-a573-60b38d0bbbcc
-  mac-addresses:
+  id: 1578b066-3f24-4758-b8c5-accc502754eb
+  macAddresses:
   - 10:A4:B9:00:00:00/24
   - 48:F3:F3:00:00:00/24
   - 88:2D:53:00:00:00/24
   - CC:E0:DA:00:00:00/24
   - D4:60:75:00:00:00/24
   manufacturer: Baidu Online Network Technology (Beijing) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaiduOnl
 type: d3-device-type-assertion

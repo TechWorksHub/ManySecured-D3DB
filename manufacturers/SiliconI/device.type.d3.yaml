@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1ed2669-6fbe-4131-85f3-dbd3a20eca87
-  mac-addresses:
+  id: fb83aca7-913a-4a22-bd05-1fbff22ca3c0
+  macAddresses:
   - 00:E0:06:00:00:00/24
   manufacturer: Silicon Integrated Sys. Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiliconI
 type: d3-device-type-assertion

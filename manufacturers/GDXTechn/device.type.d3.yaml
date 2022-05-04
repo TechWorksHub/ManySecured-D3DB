@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0a6f11e-4626-4ecc-88fe-5473cc76f47a
-  mac-addresses:
+  id: ecee7b31-0536-4e7f-a795-0336722fcee5
+  macAddresses:
   - 00:18:1E:00:00:00/24
   manufacturer: GDX Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GDXTechn
 type: d3-device-type-assertion

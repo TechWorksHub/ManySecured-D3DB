@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 189d73e4-d780-4d3d-bdf0-3b4e7f8c7b46
-  mac-addresses:
+  id: 2d0214c9-b034-4765-824b-cf52b52cf581
+  macAddresses:
   - 00:50:C2:03:E0:00/36
   manufacturer: MSU UK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSUUK
 type: d3-device-type-assertion

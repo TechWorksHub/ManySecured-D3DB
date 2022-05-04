@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b38dd5c8-e477-4dda-b05a-6ea60b70df93
-  mac-addresses:
+  id: 51924580-030c-4088-b45c-2788c3a6b2f3
+  macAddresses:
   - 00:1C:EE:00:00:00/24
   - 00:22:F3:00:00:00/24
   - 14:50:51:00:00:00/24
@@ -18,6 +18,6 @@ credentialSubject:
   - AC:A8:8E:00:00:00/24
   - F0:9F:FC:00:00:00/24
   manufacturer: SHARP Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHARP
 type: d3-device-type-assertion

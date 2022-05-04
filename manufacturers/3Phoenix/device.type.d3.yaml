@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25a1ec4f-0aa0-494a-bb87-e5affb670688
-  mac-addresses:
+  id: ab6b9d06-59ed-42a9-9436-f35cb819bc4b
+  macAddresses:
   - 00:18:40:00:00:00/24
   manufacturer: 3 Phoenix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3Phoenix
 type: d3-device-type-assertion

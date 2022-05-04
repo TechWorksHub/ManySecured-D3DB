@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17da8923-51d4-44bb-8766-0148ef301875
-  mac-addresses:
+  id: fe8ed551-df9f-41a6-b477-ff04f58e7b0c
+  macAddresses:
   - F0:15:A0:00:00:00/24
   manufacturer: KyungDong One Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyungDon
 type: d3-device-type-assertion

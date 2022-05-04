@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55f17504-f942-4a7c-a56c-3b6d72544806
-  mac-addresses:
+  id: 5d5e3f63-1ea6-47ac-ad33-884e21e12e5a
+  macAddresses:
   - 00:08:77:00:00:00/24
   manufacturer: Liebert-Hiross Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liebert-
 type: d3-device-type-assertion

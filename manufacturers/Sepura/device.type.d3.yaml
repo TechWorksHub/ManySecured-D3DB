@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c09d8bb-d9fb-4a4c-ae67-9ab4898ee7c2
-  mac-addresses:
+  id: bf447150-5cca-4463-bb59-d933d6c19c35
+  macAddresses:
   - 00:1E:96:00:00:00/24
   manufacturer: Sepura Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sepura
 type: d3-device-type-assertion

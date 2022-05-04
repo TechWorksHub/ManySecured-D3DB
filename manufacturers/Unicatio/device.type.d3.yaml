@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f34eef9d-163b-479f-b130-eee0c4153d5b
-  mac-addresses:
+  id: 28ec4bac-8b64-4513-a9dc-a38537df4b76
+  macAddresses:
   - 00:0A:C7:00:00:00/24
   manufacturer: Unication Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unicatio
 type: d3-device-type-assertion

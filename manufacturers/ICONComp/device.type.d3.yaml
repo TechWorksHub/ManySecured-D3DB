@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6ce1800-c81e-4c85-8795-c41d423c2fdc
-  mac-addresses:
+  id: a8caa9fc-d26c-4a66-8955-6351cf27f737
+  macAddresses:
   - 00:0B:1F:00:00:00/24
   manufacturer: I CON Computer Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICONComp
 type: d3-device-type-assertion

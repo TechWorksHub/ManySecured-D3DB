@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a81ee6fc-1e26-4ea8-9713-054b8cded1d6
-  mac-addresses:
+  id: 8624476d-6a4c-4aad-919e-1da693bacbaf
+  macAddresses:
   - 00:03:10:00:00:00/24
   manufacturer: E-Globaledge Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-Global
 type: d3-device-type-assertion

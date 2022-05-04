@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cd1e913-6b35-4d55-8a16-f44aef86ed6c
-  mac-addresses:
+  id: f4d5b702-4c1f-498d-882a-769621de2b6e
+  macAddresses:
   - 00:50:C2:30:50:00/36
   manufacturer: Symbium Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symbium
 type: d3-device-type-assertion

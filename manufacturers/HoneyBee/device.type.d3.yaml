@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a68e547-d85c-4276-b4d8-3a110828eb73
-  mac-addresses:
+  id: e6cc0e33-2eb8-4d1e-a6a4-c0bb96479d7d
+  macAddresses:
   - A8:BD:1A:00:00:00/24
   manufacturer: Honey Bee (Hong Kong) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HoneyBee
 type: d3-device-type-assertion

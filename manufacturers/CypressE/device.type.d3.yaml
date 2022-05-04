@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00b3f09f-af1a-41c1-8af1-ccabfba5e22d
-  mac-addresses:
+  id: 867ef024-c4ac-4d97-b0e7-64da7f3ceaec
+  macAddresses:
   - 14:6A:0B:00:00:00/24
   manufacturer: Cypress Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CypressE
 type: d3-device-type-assertion

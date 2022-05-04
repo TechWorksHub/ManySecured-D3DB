@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7168c196-cc6b-42ee-bcfc-dc24735bbf7a
-  mac-addresses:
+  id: 01998a79-71ce-4c35-abad-aba589bbeec0
+  macAddresses:
   - 00:0B:1B:00:00:00/24
   manufacturer: Systronix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Systroni
 type: d3-device-type-assertion

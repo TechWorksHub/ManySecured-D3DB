@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28ea641b-cd3b-47df-b0fa-72f367bb324b
-  mac-addresses:
+  id: 4dbd79a4-49b2-4c44-bd3a-a829d8be1a14
+  macAddresses:
   - D0:1A:A7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UniPrint
 type: d3-device-type-assertion

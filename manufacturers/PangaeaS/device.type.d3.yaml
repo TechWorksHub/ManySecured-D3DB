@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cbe9c48-bdb4-4ce3-bf55-53baa9c70d84
-  mac-addresses:
+  id: dcb171be-8878-4cc4-9027-9d5de15598bb
+  macAddresses:
   - 00:69:67:70:00:00/28
   manufacturer: Pangaea Solution Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PangaeaS
 type: d3-device-type-assertion

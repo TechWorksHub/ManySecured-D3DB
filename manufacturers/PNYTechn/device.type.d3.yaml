@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14970dd5-bd6b-4d92-83eb-07c523f2b14a
-  mac-addresses:
+  id: 7c4f23fc-00e0-433b-ba1c-148bb88d4e31
+  macAddresses:
   - F8:DB:4C:00:00:00/24
   manufacturer: PNY Technologies, INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PNYTechn
 type: d3-device-type-assertion

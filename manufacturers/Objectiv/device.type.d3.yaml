@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f1fd37a3-5111-4e9f-b500-e9d93707dfdb
-  mac-addresses:
+  id: 14add7b6-4449-42b2-b3a6-823fd3a953a9
+  macAddresses:
   - 00:10:31:00:00:00/24
   - 00:23:44:00:00:00/24
   manufacturer: Objective Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Objectiv
 type: d3-device-type-assertion

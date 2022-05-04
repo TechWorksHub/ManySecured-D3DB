@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c3c0d41b-324f-4265-b078-6a5326c2d8b7
-  mac-addresses:
+  id: 52220f5e-6633-40b7-b351-d35d09f1bfef
+  macAddresses:
   - 00:50:C2:16:A0:00/36
   - A0:9A:5A:00:00:00/24
   manufacturer: Time Domain
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TimeDoma
 type: d3-device-type-assertion

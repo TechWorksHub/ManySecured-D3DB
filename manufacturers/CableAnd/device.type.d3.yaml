@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1cab93c-95c8-4bd6-9814-de5cc727dfa1
-  mac-addresses:
+  id: 14543bf2-c953-472d-a1db-a1680e4f5ce0
+  macAddresses:
   - 00:40:74:00:00:00/24
   manufacturer: Cable And Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CableAnd
 type: d3-device-type-assertion

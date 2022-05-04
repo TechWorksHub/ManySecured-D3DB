@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0529a54-ada5-4a78-a3c6-c818ec685e70
-  mac-addresses:
+  id: f8c1f907-ca36-42c0-aaa4-6ed37c74df7f
+  macAddresses:
   - 00:12:4C:00:00:00/24
   manufacturer: BBWM Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BBWM
 type: d3-device-type-assertion

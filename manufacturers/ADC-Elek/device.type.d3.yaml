@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 076f94b9-cc0f-4dfa-9b16-aa823acb0a32
-  mac-addresses:
+  id: c1e20c63-c484-4f47-8340-c0a41dca6e7d
+  macAddresses:
   - 00:24:9E:00:00:00/24
   manufacturer: ADC-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADC-Elek
 type: d3-device-type-assertion

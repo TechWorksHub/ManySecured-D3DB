@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ffc81c23-ff24-4cd3-8124-cf3d5bcd057d
-  mac-addresses:
+  id: a07cf95e-bbbb-4aff-af53-5ae5d45c7d92
+  macAddresses:
   - 70:B3:D5:AD:80:00/36
   - 70:B3:D5:D3:20:00/36
   manufacturer: Euklis by GSG International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Euklisby
 type: d3-device-type-assertion

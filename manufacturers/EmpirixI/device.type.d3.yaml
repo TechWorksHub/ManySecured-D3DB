@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 783a5202-63ee-42de-be7c-56faffbfeb3b
-  mac-addresses:
+  id: de13555e-1964-420a-9a11-42b34ca786ec
+  macAddresses:
   - 00:50:C2:7E:60:00/36
   manufacturer: Empirix Italy S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmpirixI
 type: d3-device-type-assertion

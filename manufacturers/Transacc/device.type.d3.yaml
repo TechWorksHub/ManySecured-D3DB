@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9866909e-7ceb-4a15-b5b0-88d3c96921f1
-  mac-addresses:
+  id: 2b2b09eb-7beb-4fa0-8716-86f0c5a9ac56
+  macAddresses:
   - 00:07:B2:00:00:00/24
   manufacturer: Transaccess S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transacc
 type: d3-device-type-assertion

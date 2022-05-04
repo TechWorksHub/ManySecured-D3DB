@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc3f6c65-3a78-4e79-867c-7f7a03717f14
-  mac-addresses:
+  id: 87304730-524d-4468-83a0-8a5546194c0d
+  macAddresses:
   - 88:5F:E8:90:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sowee
 type: d3-device-type-assertion

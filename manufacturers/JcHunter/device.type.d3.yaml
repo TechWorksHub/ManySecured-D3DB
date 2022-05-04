@@ -1,8 +1,8 @@
 credentialSubject:
-  id: def43140-36c3-40e2-979c-1df418f0df77
-  mac-addresses:
+  id: 3f22baff-69a2-4f56-918e-c8b0fff4a08b
+  macAddresses:
   - 70:B3:D5:C6:10:00/36
   manufacturer: Jc Hunter Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JcHunter
 type: d3-device-type-assertion

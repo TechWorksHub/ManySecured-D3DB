@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6196a7f4-7642-41ed-a567-d7a2761f0967
-  mac-addresses:
+  id: 38ae094c-abfd-4bb7-9371-86bb274d7034
+  macAddresses:
   - 00:0E:AB:00:00:00/24
   manufacturer: Cray Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cray
 type: d3-device-type-assertion

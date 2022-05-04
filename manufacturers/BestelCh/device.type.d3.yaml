@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd04d2c6-9c4e-461d-bbb0-c6983d123eb6
-  mac-addresses:
+  id: 780b3284-c5a6-4234-8b86-b12a87b6eb3a
+  macAddresses:
   - 40:D8:55:08:70:00/36
   manufacturer: Bestel China
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BestelCh
 type: d3-device-type-assertion

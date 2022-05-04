@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af2bc88d-9ec0-4fb5-ae3c-d30b9bf0b8dc
-  mac-addresses:
+  id: aac81e22-a01f-4adc-b577-0f60ef73e97e
+  macAddresses:
   - 00:0B:A8:00:00:00/24
   manufacturer: Hanback Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanbackE
 type: d3-device-type-assertion

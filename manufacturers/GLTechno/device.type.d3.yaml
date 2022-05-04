@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5ed0446-dedb-4a10-bebe-247c327600b2
-  mac-addresses:
+  id: 9ad983ca-4505-4d26-8dd3-eccdb60cd4db
+  macAddresses:
   - 94:83:C4:00:00:00/24
   manufacturer: GL Technologies (Hong Kong) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLTechno
 type: d3-device-type-assertion

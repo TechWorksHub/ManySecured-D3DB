@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e65ee60f-bd53-4b07-88e8-114a1876eaf8
-  mac-addresses:
+  id: 262b1835-f347-4c0a-9159-a13872a1f0a3
+  macAddresses:
   - F8:AE:27:00:00:00/24
   manufacturer: John Deere Electronic Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JohnDeer
 type: d3-device-type-assertion

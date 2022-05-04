@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5215c70-bce8-4e6f-aace-c989e69749f6
-  mac-addresses:
+  id: 6f28c82d-a268-404b-b5a7-c1e4592b715e
+  macAddresses:
   - 00:80:B4:00:00:00/24
   manufacturer: Sophia Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sophia
 type: d3-device-type-assertion

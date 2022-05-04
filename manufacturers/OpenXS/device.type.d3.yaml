@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 52c2ff5d-7c9a-4bfc-b740-9057330090ee
-  mac-addresses:
+  id: 18541b0d-4754-4acb-aeae-130f0c5fff1c
+  macAddresses:
   - 00:50:C2:AC:20:00/36
   - 08:FC:52:00:00:00/24
   manufacturer: OpenXS B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenXS
 type: d3-device-type-assertion

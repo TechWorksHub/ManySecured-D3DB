@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c03366b3-dc12-4045-9c00-7e6bdc7d1fbc
-  mac-addresses:
+  id: 09e027cb-7ae2-44e4-bc6c-38880a5f63a7
+  macAddresses:
   - 48:65:EE:20:00:00/28
   - F8:82:00:00:00:00/24
   manufacturer: CaptionCall
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CaptionC
 type: d3-device-type-assertion

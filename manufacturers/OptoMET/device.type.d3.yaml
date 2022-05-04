@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c64a250d-f784-47c2-81b3-cfed7e3f10b9
-  mac-addresses:
+  id: bc0cb3c7-0de8-4003-9a1d-5ec0402fb4c4
+  macAddresses:
   - E4:2F:56:00:00:00/24
   manufacturer: OptoMET GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptoMET
 type: d3-device-type-assertion

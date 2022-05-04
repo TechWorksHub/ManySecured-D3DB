@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fa63e76-ef7d-4cba-a504-6b1edf2ae831
-  mac-addresses:
+  id: 8b1ed968-fa74-49d5-8147-484213e086d7
+  macAddresses:
   - 00:18:C9:00:00:00/24
   manufacturer: EOps Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EOpsTech
 type: d3-device-type-assertion

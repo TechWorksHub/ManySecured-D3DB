@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68889dcc-9c07-4b69-834c-7085b60f544f
-  mac-addresses:
+  id: 2484e9fe-4b64-4fad-b673-98313d0eea1b
+  macAddresses:
   - 70:B3:D5:CB:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b7b8172-4a5a-41e6-8cfe-478e730b801d
-  mac-addresses:
+  id: 1bc2e964-1723-4c0d-8e2a-6bb3a41ba5dd
+  macAddresses:
   - F4:94:61:00:00:00/24
   manufacturer: NexGen Storage
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NexGenSt
 type: d3-device-type-assertion

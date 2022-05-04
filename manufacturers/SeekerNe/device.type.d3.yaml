@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ea64116-848a-42cb-9671-21433ab32dc6
-  mac-addresses:
+  id: 7b245857-3c53-4b6f-a6b3-52e40bf76b72
+  macAddresses:
   - 00:14:5B:00:00:00/24
   manufacturer: SeekerNet Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeekerNe
 type: d3-device-type-assertion

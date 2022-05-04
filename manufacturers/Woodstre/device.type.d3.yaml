@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bdc4cf2-c2d7-42e0-8f6b-26b8958cafb2
-  mac-addresses:
+  id: b33f411f-9399-4e97-a8a9-62dfb304c80a
+  macAddresses:
   - 48:FC:B8:00:00:00/24
   manufacturer: Woodstream Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Woodstre
 type: d3-device-type-assertion

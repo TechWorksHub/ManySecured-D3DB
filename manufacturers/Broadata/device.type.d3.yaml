@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e2fad8d-a1e2-457c-a862-41334eccbfc4
-  mac-addresses:
+  id: d14bf521-27e4-4b24-80b5-63cbf8c87806
+  macAddresses:
   - 00:19:CA:00:00:00/24
   manufacturer: Broadata Communications, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadata
 type: d3-device-type-assertion

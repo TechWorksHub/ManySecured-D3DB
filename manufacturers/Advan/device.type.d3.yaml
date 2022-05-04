@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49f68524-d288-416f-a4b0-d3d986055ace
-  mac-addresses:
+  id: 2197b4de-45fc-475e-9d1d-6bd8326cd754
+  macAddresses:
   - 5C:15:15:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advan
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52b1bae9-116c-4c3e-ab13-272663866c46
-  mac-addresses:
+  id: 78e2dfad-67da-4616-ab48-447bbc87709a
+  macAddresses:
   - 70:B3:D5:1D:50:00/36
   manufacturer: MIVO Technology AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MIVOTech
 type: d3-device-type-assertion

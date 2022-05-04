@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9261218-c779-4705-b49a-d4ef7c16276a
-  mac-addresses:
+  id: 1fa47495-1d9d-4992-957e-eca7fe78d1e4
+  macAddresses:
   - E4:92:2A:00:00:00/24
   manufacturer: Dbg Holdings Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DbgHoldi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7aff4cc6-aa3b-40a8-a78d-638ffb5e6cf8
-  mac-addresses:
+  id: fb47795e-149d-49a1-add3-7daad2b8e3ca
+  macAddresses:
   - 00:50:C2:04:00:00/36
   manufacturer: MiSPO Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiSPO
 type: d3-device-type-assertion

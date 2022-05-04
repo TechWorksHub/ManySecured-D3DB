@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33ebe5ed-63a8-4d6c-af0b-97d5b37fcba9
-  mac-addresses:
+  id: 30df2c6c-8844-4678-b156-7274d305023e
+  macAddresses:
   - 00:24:5D:00:00:00/24
   manufacturer: Terberg besturingstechniek B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Terbergb
 type: d3-device-type-assertion

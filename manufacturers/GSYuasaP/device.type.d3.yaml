@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72dc6821-ff6b-41db-a207-18380de73e04
-  mac-addresses:
+  id: cbb070de-d271-4a2b-a79a-e60acff89af2
+  macAddresses:
   - 00:21:4E:00:00:00/24
   manufacturer: GS Yuasa Power Supply Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSYuasaP
 type: d3-device-type-assertion

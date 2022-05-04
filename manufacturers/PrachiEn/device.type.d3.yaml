@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50222f5b-a2cb-4273-81a8-121a502e45ac
-  mac-addresses:
+  id: 44066ba3-b95e-4997-b99c-aad7ac1887a0
+  macAddresses:
   - 38:0A:4F:00:00:00/24
   manufacturer: Prachi Enterprises
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrachiEn
 type: d3-device-type-assertion

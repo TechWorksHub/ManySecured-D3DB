@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c0895fb-7a20-41cb-b7de-4e45c20ea766
-  mac-addresses:
+  id: a9b4e4bd-da23-41a4-86d2-5367dc96197d
+  macAddresses:
   - 54:7F:A8:00:00:00/24
   manufacturer: TELCO systems, s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TELCOsro
 type: d3-device-type-assertion

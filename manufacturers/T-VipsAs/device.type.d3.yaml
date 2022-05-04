@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c525180-b1bd-4c5e-a2a6-3951e79774cc
-  mac-addresses:
+  id: cafd33e0-2f84-4899-a100-c5ed628080fc
+  macAddresses:
   - 00:14:57:00:00:00/24
   manufacturer: T-Vips As
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T-VipsAs
 type: d3-device-type-assertion

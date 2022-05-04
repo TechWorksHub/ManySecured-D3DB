@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc961f6e-22d8-4d5d-8bf4-6e47c0e27a89
-  mac-addresses:
+  id: b7ff7ba6-836d-4b4b-a3f3-f035bab851c2
+  macAddresses:
   - 00:22:C1:00:00:00/24
   manufacturer: Active Storage Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActiveSt
 type: d3-device-type-assertion

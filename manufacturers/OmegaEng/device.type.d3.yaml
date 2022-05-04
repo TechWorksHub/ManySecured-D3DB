@@ -1,8 +1,8 @@
 credentialSubject:
-  id: deb9acd7-2580-49af-baf7-c23390e2aff4
-  mac-addresses:
+  id: b0c2610e-8b9b-4fa1-a95c-faf12fbce5bd
+  macAddresses:
   - 00:03:34:00:00:00/24
   manufacturer: Omega Engineering Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmegaEng
 type: d3-device-type-assertion

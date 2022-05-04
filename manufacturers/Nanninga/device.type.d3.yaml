@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3841c84-0f50-4b6a-9e14-a1c4ac1bdfe3
-  mac-addresses:
+  id: fffeb565-d059-4cc5-8b88-4c75d19cae3e
+  macAddresses:
   - 7C:BC:84:50:00:00/28
   manufacturer: Nanning auto digital technology co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nanninga
 type: d3-device-type-assertion

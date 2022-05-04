@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4776e9a-7d0c-48a4-b6ad-2f8d5d6cdfc0
-  mac-addresses:
+  id: 0b88abbd-790c-47cc-9ee3-5b5a3198f3f1
+  macAddresses:
   - 00:1D:75:00:00:00/24
   manufacturer: Radioscape PLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radiosca
 type: d3-device-type-assertion

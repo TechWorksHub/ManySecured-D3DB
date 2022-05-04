@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d65bfe1e-28f5-40c8-96a5-bacda41d319a
-  mac-addresses:
+  id: 51186fcd-26a2-44c9-aaa9-a7516143671b
+  macAddresses:
   - 00:50:2E:00:00:00/24
   manufacturer: Cambex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cambex
 type: d3-device-type-assertion

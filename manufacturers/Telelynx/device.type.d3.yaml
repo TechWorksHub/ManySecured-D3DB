@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee1472f7-8820-43e2-95eb-450f2126488e
-  mac-addresses:
+  id: 04d126c4-130d-40e9-881c-05c59cc4a402
+  macAddresses:
   - 00:04:72:00:00:00/24
   manufacturer: Telelynx, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telelynx
 type: d3-device-type-assertion

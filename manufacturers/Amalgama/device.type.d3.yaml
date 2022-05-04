@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37da820f-1887-4ea5-999d-0b1da2254f06
-  mac-addresses:
+  id: 2cfdf72d-d332-4154-999f-aa0759b4e4a0
+  macAddresses:
   - 08:00:7E:00:00:00/24
   manufacturer: Amalgamated Wireless(Aus) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amalgama
 type: d3-device-type-assertion

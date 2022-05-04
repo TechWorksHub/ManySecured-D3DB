@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c1ea6d95-fac3-4e4f-85e4-dda4f1ac5206
-  mac-addresses:
+  id: 45bb78a7-58fe-4cf8-abb3-a1b20b8b14ae
+  macAddresses:
   - 00:03:93:00:00:00/24
   - 00:0A:27:00:00:00/24
   - 00:0A:95:00:00:00/24
@@ -1013,6 +1013,6 @@ credentialSubject:
   - FC:E9:98:00:00:00/24
   - FC:FC:48:00:00:00/24
   manufacturer: Apple, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Apple
 type: d3-device-type-assertion

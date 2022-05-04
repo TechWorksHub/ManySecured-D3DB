@@ -1,9 +1,9 @@
 credentialSubject:
-  id: be09da72-27be-4ed6-8170-e0b213954058
-  mac-addresses:
+  id: e84d964c-c2d7-4bb3-83ca-6f7e8b4996c8
+  macAddresses:
   - 00:26:8F:00:00:00/24
   - 14:AE:85:A0:00:00/28
   manufacturer: MTA SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MTA
 type: d3-device-type-assertion

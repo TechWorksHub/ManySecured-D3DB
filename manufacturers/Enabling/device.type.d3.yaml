@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be0b7bba-0aff-4891-996f-d03cd444f7d9
-  mac-addresses:
+  id: 29075f90-375a-45c1-b459-747210cc7fe5
+  macAddresses:
   - 00:26:07:00:00:00/24
   manufacturer: Enabling Technology Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enabling
 type: d3-device-type-assertion

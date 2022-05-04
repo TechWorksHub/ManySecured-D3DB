@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 98b669ae-f078-4b5f-85ec-958c3b2f80c9
-  mac-addresses:
+  id: 53d2d30c-c1a3-49d0-bbe6-6f225bfde4a4
+  macAddresses:
   - 18:F1:45:00:00:00/24
   - F8:CA:59:00:00:00/24
   manufacturer: NetComm Wireless Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetCommW
 type: d3-device-type-assertion

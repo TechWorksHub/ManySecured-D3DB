@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d95f0e41-c0ec-43fd-b631-b876843381b0
-  mac-addresses:
+  id: be3eb58c-9035-495c-bb2a-c00ef2cc6137
+  macAddresses:
   - 6C:15:24:70:00:00/28
   manufacturer: Motium Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Motium
 type: d3-device-type-assertion

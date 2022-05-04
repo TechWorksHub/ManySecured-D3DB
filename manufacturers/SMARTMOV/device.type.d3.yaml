@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed247c4e-f39f-4679-ab2b-4eaacf2e815c
-  mac-addresses:
+  id: 29022dc9-90b4-48a2-8c03-20e74d89918e
+  macAddresses:
   - 1C:87:79:20:00:00/28
   manufacturer: "SMARTMOVT TECHNOLOGY Co.\uFF0C LTD"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMARTMOV
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42c69f29-12e9-4187-84f8-35389dea1cba
-  mac-addresses:
+  id: 4067081c-6fc8-48a5-8ff4-9ee6ab160bb0
+  macAddresses:
   - 70:B3:D5:18:00:00/36
   manufacturer: LHA Systems (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LHA
 type: d3-device-type-assertion

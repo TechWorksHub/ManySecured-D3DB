@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3f5cc92-1537-4fe1-8f45-7b6d8760ea4a
-  mac-addresses:
+  id: c657754a-de1e-48e0-8b76-048194b2b36d
+  macAddresses:
   - 70:B3:D5:CA:50:00/36
   manufacturer: PTS Technologies Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTSTechn
 type: d3-device-type-assertion

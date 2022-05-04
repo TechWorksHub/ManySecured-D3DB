@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9cbb29e-a287-47a7-bbb8-30ccede30b28
-  mac-addresses:
+  id: a6ad3c80-8a7b-4c72-be05-64a0efe63085
+  macAddresses:
   - 00:06:9B:00:00:00/24
   manufacturer: AVT Audio Video Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVTAudio
 type: d3-device-type-assertion

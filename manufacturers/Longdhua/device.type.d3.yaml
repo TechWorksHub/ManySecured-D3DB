@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 806e0338-62e4-4fe1-a8f9-d5c86c5d2121
-  mac-addresses:
+  id: b0e93098-6ec0-4b02-8da0-7d5f9d94d6c1
+  macAddresses:
   - F8:1D:93:00:00:00/24
   manufacturer: Longdhua(Beijing) Controls Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Longdhua
 type: d3-device-type-assertion

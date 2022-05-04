@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7cfa411b-c56e-4806-807d-ad3bfcb0c04c
-  mac-addresses:
+  id: a1ef5fb2-f6c0-4cbb-967d-c224c004c1f0
+  macAddresses:
   - 00:06:D4:00:00:00/24
   - 00:13:2F:00:00:00/24
   - 00:19:18:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - 00:50:C2:6E:E0:00/36
   - 00:C0:11:00:00:00/24
   manufacturer: Interactive Objects, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interact
 type: d3-device-type-assertion

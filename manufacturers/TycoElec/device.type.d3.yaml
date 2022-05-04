@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13f5aa04-52f3-4b35-915c-874aba01dc6f
-  mac-addresses:
+  id: 3d8b07c4-50ab-4726-bccb-f32cf570c774
+  macAddresses:
   - 00:22:A7:00:00:00/24
   manufacturer: Tyco Electronics AMP GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TycoElec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36fecce4-a950-44a6-baba-e593abc27dd1
-  mac-addresses:
+  id: a840e251-0c31-49c2-8379-f43c91393774
+  macAddresses:
   - 00:16:88:00:00:00/24
   manufacturer: ServerEngines LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ServerEn
 type: d3-device-type-assertion

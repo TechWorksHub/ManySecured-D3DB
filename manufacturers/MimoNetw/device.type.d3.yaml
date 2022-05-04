@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b498ca42-1954-48d9-95d3-820173237687
-  mac-addresses:
+  id: 730537b0-0872-477f-aab5-13508708ffc9
+  macAddresses:
   - 70:B3:D5:25:D0:00/36
   manufacturer: Mimo Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MimoNetw
 type: d3-device-type-assertion

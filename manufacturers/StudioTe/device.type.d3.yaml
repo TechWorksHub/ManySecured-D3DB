@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5e0b1d2-8c8e-4308-b9b1-bc9b0a2eaf7b
-  mac-addresses:
+  id: 3ac44f7f-677d-484b-80c1-1510f3a758ce
+  macAddresses:
   - 00:04:22:00:00:00/24
   manufacturer: Studio Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StudioTe
 type: d3-device-type-assertion

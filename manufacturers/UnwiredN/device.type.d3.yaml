@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 399b99d3-62dd-4aff-add4-ca89e04b0e09
-  mac-addresses:
+  id: a11c739f-873d-4ca4-82bd-0fe010623470
+  macAddresses:
   - 8C:14:7D:50:00:00/28
   manufacturer: Unwired Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnwiredN
 type: d3-device-type-assertion

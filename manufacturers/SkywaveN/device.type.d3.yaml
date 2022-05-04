@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c835b7e-cccd-445b-8123-fd0e7c593651
-  mac-addresses:
+  id: 2a877d0c-eda7-4f9d-8d7c-28e9327689ef
+  macAddresses:
   - 70:B3:D5:2D:A0:00/36
   manufacturer: Skywave Networks Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkywaveN
 type: d3-device-type-assertion

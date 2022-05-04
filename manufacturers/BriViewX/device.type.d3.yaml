@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f198a4ca-07c4-48f3-b2cf-891195daf533
-  mac-addresses:
+  id: b7cb7039-fdee-4435-8dca-d7809d361473
+  macAddresses:
   - 04:55:CA:00:00:00/24
   manufacturer: BriView (Xiamen) Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BriViewX
 type: d3-device-type-assertion

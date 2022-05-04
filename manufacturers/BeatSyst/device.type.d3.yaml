@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9531e39c-1689-49de-8fd2-709c2ae1fdb7
-  mac-addresses:
+  id: 042bb00a-88a9-48c1-a83b-47506fca824d
+  macAddresses:
   - 84:AF:1F:00:00:00/24
   manufacturer: Beat System Service Co,. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeatSyst
 type: d3-device-type-assertion

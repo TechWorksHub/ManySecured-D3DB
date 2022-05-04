@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 631bf439-2f68-4266-9cae-d206d82f44ed
-  mac-addresses:
+  id: 10d3e644-95de-4320-af15-ebc9b0638af6
+  macAddresses:
   - D4:55:56:00:00:00/24
   manufacturer: Fiber Mountain Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FiberMou
 type: d3-device-type-assertion

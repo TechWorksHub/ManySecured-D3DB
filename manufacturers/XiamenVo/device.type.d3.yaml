@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f11417bf-f8c1-4011-bc52-8e05c3b72b00
-  mac-addresses:
+  id: 25d65d5b-71ee-47aa-bdfa-858e475e7348
+  macAddresses:
   - 2C:26:5F:00:00:00/28
   manufacturer: Xiamen Vorlink Iot Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenVo
 type: d3-device-type-assertion

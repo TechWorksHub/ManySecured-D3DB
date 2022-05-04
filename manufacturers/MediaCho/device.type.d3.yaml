@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dd09d43-5b24-44e7-aeca-821af3d02901
-  mac-addresses:
+  id: 385b6b5f-7090-4387-8eaf-8c3798d4f11c
+  macAddresses:
   - 00:0C:3C:00:00:00/24
   manufacturer: MediaChorus, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MediaCho
 type: d3-device-type-assertion

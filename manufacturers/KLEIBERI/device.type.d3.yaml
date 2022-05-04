@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e063410-8cb5-4b0e-8e2c-84f948d2d215
-  mac-addresses:
+  id: b4bae590-702b-48e3-a2d2-5d29f668e3dc
+  macAddresses:
   - 70:B3:D5:67:20:00/36
   manufacturer: KLEIBER Infrared GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KLEIBERI
 type: d3-device-type-assertion

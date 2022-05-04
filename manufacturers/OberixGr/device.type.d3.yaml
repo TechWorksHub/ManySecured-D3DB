@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e30b0f7b-9a88-4246-bb63-177cb9b7a2d0
-  mac-addresses:
+  id: 5bc81395-5c6e-414d-9749-e712d6b86e91
+  macAddresses:
   - FC:A4:7A:90:00:00/28
   manufacturer: Oberix Group Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OberixGr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba1f23a7-2471-401d-b5eb-f8214fbf2b45
-  mac-addresses:
+  id: 02f917ac-c49b-43eb-a8e9-b612274ac787
+  macAddresses:
   - 00:50:C2:5E:D0:00/36
   manufacturer: Aquarotter A Franke Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aquarott
 type: d3-device-type-assertion

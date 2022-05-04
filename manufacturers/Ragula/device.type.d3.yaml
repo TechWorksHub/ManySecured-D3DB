@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccfed2aa-0ab0-4f98-8598-765de19bafa5
-  mac-addresses:
+  id: 41565fa8-ace1-4329-8a6a-e4dcafe91dd4
+  macAddresses:
   - 00:20:52:00:00:00/24
   manufacturer: Ragula Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ragula
 type: d3-device-type-assertion

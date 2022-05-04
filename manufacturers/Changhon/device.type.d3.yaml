@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54748109-75be-4b18-aeaa-1257cd59529a
-  mac-addresses:
+  id: 009eec69-5928-4021-86c0-12e17cd77a74
+  macAddresses:
   - AC:AC:E2:00:00:00/24
   manufacturer: Changhong (Hongkong) Trading Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Changhon
 type: d3-device-type-assertion

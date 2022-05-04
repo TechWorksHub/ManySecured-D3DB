@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42ac8f65-4b1d-45a5-b1e8-54402f07050e
-  mac-addresses:
+  id: e48d528c-50ba-408e-8af3-8311b1712c85
+  macAddresses:
   - 34:DF:2A:00:00:00/24
   manufacturer: Fujikon Industrial Co.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujikonI
 type: d3-device-type-assertion

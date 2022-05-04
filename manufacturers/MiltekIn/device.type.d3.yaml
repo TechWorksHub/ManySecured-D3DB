@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 813c4e59-f6a0-44b2-b0c4-530c45e891a3
-  mac-addresses:
+  id: 88ded579-226d-442f-be97-413d46d73a33
+  macAddresses:
   - E8:B4:70:90:00:00/28
   manufacturer: Miltek Industries Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiltekIn
 type: d3-device-type-assertion

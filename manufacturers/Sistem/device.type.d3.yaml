@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e0f5081-af30-4955-9ccb-d8f0d70cd73c
-  mac-addresses:
+  id: c31fb9a0-6e63-4fff-b062-4ea3a2970ed1
+  macAddresses:
   - 70:B3:D5:DB:80:00/36
   manufacturer: Sistem Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sistem
 type: d3-device-type-assertion

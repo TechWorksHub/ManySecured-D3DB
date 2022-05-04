@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca3f628f-01a9-4608-9eb7-ed7d9e182d89
-  mac-addresses:
+  id: a9094a83-3345-4f84-93b5-6527d889180e
+  macAddresses:
   - 70:B3:D5:09:60:00/36
   manufacturer: "Havelsan A.\u015E."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Havelsan
 type: d3-device-type-assertion

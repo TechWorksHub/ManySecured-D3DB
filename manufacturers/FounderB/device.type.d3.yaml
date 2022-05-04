@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c29384c3-9869-4114-b292-daf0b12aea25
-  mac-addresses:
+  id: 58d9b102-48fd-4cfd-a5fc-35a623614caa
+  macAddresses:
   - 40:D8:55:1D:10:00/36
   - 40:EA:CE:00:00:00/24
   manufacturer: Founder Broadband Network Service Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FounderB
 type: d3-device-type-assertion

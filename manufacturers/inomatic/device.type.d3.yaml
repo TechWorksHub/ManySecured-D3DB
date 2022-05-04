@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cbe7b4f1-1161-4549-a58a-54479b5d5e33
-  mac-addresses:
+  id: b01cfd1f-fd7b-4ba3-b37c-bd78042155ad
+  macAddresses:
   - 00:1B:C5:0C:30:00/36
   - 70:B3:D5:1C:A0:00/36
   manufacturer: inomatic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: inomatic
 type: d3-device-type-assertion

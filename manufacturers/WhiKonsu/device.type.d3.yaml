@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75324564-f6de-4e00-8512-4ea97c8f56b6
-  mac-addresses:
+  id: a47c5a31-25b5-4496-bc54-4939bab12231
+  macAddresses:
   - 00:02:B8:00:00:00/24
   manufacturer: Whi Konsult Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhiKonsu
 type: d3-device-type-assertion

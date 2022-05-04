@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18f19d07-3b58-49c8-a8e9-8b309fec7f7e
-  mac-addresses:
+  id: dbd99956-bc43-4012-bd81-d5a67f1e5e24
+  macAddresses:
   - 20:D5:AB:00:00:00/24
   manufacturer: Korea Infocom Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoreaInf
 type: d3-device-type-assertion

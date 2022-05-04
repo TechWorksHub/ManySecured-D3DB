@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f70c9a2-b868-4bf7-aa91-b7d66eaa9ff6
-  mac-addresses:
+  id: a915e66d-a144-48d9-810c-0ed00610d95f
+  macAddresses:
   - 70:B3:D5:4F:90:00/36
   manufacturer: OptoPrecision GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptoPrec
 type: d3-device-type-assertion

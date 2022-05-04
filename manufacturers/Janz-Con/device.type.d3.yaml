@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24745f7f-6f16-4b01-a833-02a38d5b5d41
-  mac-addresses:
+  id: 7d806672-51ed-4a3e-b9b0-17e810d9c085
+  macAddresses:
   - F0:00:7F:00:00:00/24
   manufacturer: Janz - Contadores de Energia, SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Janz-Con
 type: d3-device-type-assertion

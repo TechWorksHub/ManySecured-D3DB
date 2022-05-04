@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6da0b54d-acf5-4543-aeac-02cfabae6a9e
-  mac-addresses:
+  id: 16cfe808-5755-4d86-b6e0-d5251de11be1
+  macAddresses:
   - 00:08:F7:00:00:00/24
   - 00:10:2D:00:00:00/24
   manufacturer: Hitachi Ltd, Semiconductor & Integrated Circuits Gr
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HitachiS
 type: d3-device-type-assertion

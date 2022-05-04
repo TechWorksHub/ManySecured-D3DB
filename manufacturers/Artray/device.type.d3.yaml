@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 076f6e1c-2018-4bf9-86e5-e908219a1877
-  mac-addresses:
+  id: d96289ad-ff6d-4ac3-951c-dfa21ed7cce2
+  macAddresses:
   - 00:26:C1:00:00:00/24
   manufacturer: Artray Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Artray
 type: d3-device-type-assertion

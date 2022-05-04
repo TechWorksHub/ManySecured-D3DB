@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e86bdf9-81b2-42df-940d-43c14f11b0e7
-  mac-addresses:
+  id: b45689e2-9e61-4916-aeb7-f4516965e3f3
+  macAddresses:
   - AC:D1:80:00:00:00/24
   manufacturer: Crexendo Business Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crexendo
 type: d3-device-type-assertion

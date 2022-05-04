@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a27f00b7-21a1-4f09-9331-50d0a633fff8
-  mac-addresses:
+  id: e70adeff-cb3b-4ddd-b2a7-4172c6ea6633
+  macAddresses:
   - 00:11:10:00:00:00/24
   manufacturer: Maxanna Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxannaT
 type: d3-device-type-assertion

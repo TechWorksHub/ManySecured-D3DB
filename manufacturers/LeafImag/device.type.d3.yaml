@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b44ede1-85cb-4d33-bc72-714a4e9a037a
-  mac-addresses:
+  id: c78ec64e-9778-4fb3-bc1d-5907e2cdcdaa
+  macAddresses:
   - 00:06:CD:00:00:00/24
   manufacturer: Leaf Imaging Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeafImag
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: abad5fe8-c597-4388-884f-41fc1337d0e5
-  mac-addresses:
+  id: 3708e124-d7f5-4181-bf93-6800d4c647fc
+  macAddresses:
   - 00:25:95:00:00:00/24
   - 00:36:BE:00:00:00/24
   - 00:80:E4:00:00:00/24
   manufacturer: Northwest Signal Supply, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Northwes
 type: d3-device-type-assertion

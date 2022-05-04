@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ef5ca97-eb87-4085-8caf-90224de5c1b9
-  mac-addresses:
+  id: cefba83a-eede-4dac-96be-45530ef890f0
+  macAddresses:
   - 00:15:76:00:00:00/24
   manufacturer: LABiTec - Labor Biomedical Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LABiTec-
 type: d3-device-type-assertion

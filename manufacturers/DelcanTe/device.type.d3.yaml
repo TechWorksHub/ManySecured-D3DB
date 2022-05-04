@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa67943e-147b-4182-a361-c5b59445a0f9
-  mac-addresses:
+  id: c1a001cc-739f-4e41-8c1b-6f63cf0ea3a8
+  macAddresses:
   - 00:50:C2:6A:80:00/36
   manufacturer: Delcan Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DelcanTe
 type: d3-device-type-assertion

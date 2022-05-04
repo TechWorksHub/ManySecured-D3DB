@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6e001dc-7965-46fe-9f1c-d9d10cfe0eec
-  mac-addresses:
+  id: f39bab26-6365-48a9-9da8-5c8303e60f23
+  macAddresses:
   - 00:15:97:00:00:00/24
   manufacturer: Aeta Audio Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AetaAudi
 type: d3-device-type-assertion

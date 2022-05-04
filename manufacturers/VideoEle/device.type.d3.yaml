@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8df8cf90-60b2-4501-abe5-9fc41cc15f04
-  mac-addresses:
+  id: b6200201-08da-43fa-8058-48bec4f2e66c
+  macAddresses:
   - 3A:02:92:00:00:00/24
   manufacturer: Video Electronics Standards Association
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VideoEle
 type: d3-device-type-assertion

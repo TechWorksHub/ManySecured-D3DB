@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a5bce60-35f0-4563-9b4c-3a05ba7299b1
-  mac-addresses:
+  id: c09e8504-2310-4bf1-a28b-3977c3f7776e
+  macAddresses:
   - 00:0F:A0:00:00:00/24
   manufacturer: Canon Korea Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanonKor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 869add4b-b4f4-4ecf-bbf4-d7074b494659
-  mac-addresses:
+  id: 979bbb38-c2bd-42a8-9144-b5add08b18f7
+  macAddresses:
   - 00:0A:64:00:00:00/24
   manufacturer: Eracom Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EracomTe
 type: d3-device-type-assertion

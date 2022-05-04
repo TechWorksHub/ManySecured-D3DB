@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e29d9056-b0d6-4603-8b26-0b52a1082cd5
-  mac-addresses:
+  id: 22266e3a-c247-4b87-849a-abf2344266a5
+  macAddresses:
   - 00:25:42:00:00:00/24
   manufacturer: Pittasoft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pittasof
 type: d3-device-type-assertion

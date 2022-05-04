@@ -1,11 +1,11 @@
 credentialSubject:
-  id: ee8f7e56-6849-4f71-aea8-9affbb8f9c61
-  mac-addresses:
+  id: d46b7035-5ff3-4f27-ae68-4844a28ce998
+  macAddresses:
   - 40:D8:55:06:40:00/36
   - 40:D8:55:1A:20:00/36
   - 70:B3:D5:32:80:00/36
   - 70:B3:D5:E5:60:00/36
   manufacturer: Hipodromo De Agua Caliente, S.A. De C.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hipodrom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6395f3bb-407d-4143-8641-9a55986da344
-  mac-addresses:
+  id: 91a038d8-db85-4a75-b6ae-316e3af5f215
+  macAddresses:
   - 60:19:29:00:00:00/24
   manufacturer: Voltronic Power Technology(Shenzhen) Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Voltroni
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83b4f485-b405-4328-bfb5-2334c72c43c1
-  mac-addresses:
+  id: bfaefb68-0ab2-4d2b-a003-4ce93fb05a05
+  macAddresses:
   - 90:88:A2:00:00:00/24
   manufacturer: Ionics Technology Me Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IonicsTe
 type: d3-device-type-assertion

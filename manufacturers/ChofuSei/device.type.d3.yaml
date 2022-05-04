@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9531c8f-405a-454b-8744-ee7ce0e73ad8
-  mac-addresses:
+  id: 9dca6803-ce7b-4848-ae16-28f2def1f9a9
+  macAddresses:
   - A4:F5:22:00:00:00/24
   manufacturer: Chofu Seisakusho Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChofuSei
 type: d3-device-type-assertion

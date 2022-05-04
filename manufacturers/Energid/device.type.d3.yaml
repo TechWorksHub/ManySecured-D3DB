@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22aabcc0-3f6c-4800-9411-7ac8c36fbc74
-  mac-addresses:
+  id: e22a493b-cc0c-40ff-9bcf-98093627cd0b
+  macAddresses:
   - 00:50:C2:AF:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Energid
 type: d3-device-type-assertion

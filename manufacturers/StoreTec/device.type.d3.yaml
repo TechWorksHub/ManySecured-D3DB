@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1920b0c-7386-43f3-b4a7-d5f950c5921c
-  mac-addresses:
+  id: 8f8e72c4-ea19-40bf-a418-1a3aca83588e
+  macAddresses:
   - 00:50:C2:69:A0:00/36
   manufacturer: StoreTech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StoreTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ead4f018-49b1-48ba-8a6f-8e996c8ad65b
-  mac-addresses:
+  id: 96ed155f-7d33-45d7-81f8-8a7500f8c967
+  macAddresses:
   - 00:0E:DF:00:00:00/24
   manufacturer: PLX Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PLXTechn
 type: d3-device-type-assertion

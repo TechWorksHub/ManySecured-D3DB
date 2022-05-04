@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16b07a05-0c72-4078-a947-40546c9a15f3
-  mac-addresses:
+  id: 7b5b0aeb-fcb6-4206-9b9d-9efd35226dc9
+  macAddresses:
   - 00:0D:F7:00:00:00/24
   manufacturer: Space Dynamics Lab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpaceDyn
 type: d3-device-type-assertion

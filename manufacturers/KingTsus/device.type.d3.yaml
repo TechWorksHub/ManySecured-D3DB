@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7767836f-73d6-4882-8ad0-049c5db2cf0d
-  mac-addresses:
+  id: d60e19de-525d-4b29-bbef-713dbfbbb6c1
+  macAddresses:
   - 00:0D:8F:00:00:00/24
   manufacturer: King Tsushin Kogyo Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KingTsus
 type: d3-device-type-assertion

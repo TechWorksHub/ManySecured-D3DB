@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37953e1f-01f8-4927-9aa6-4859a06f2641
-  mac-addresses:
+  id: 437afb2a-7c7a-48f0-bc99-691656eb5817
+  macAddresses:
   - 00:13:95:00:00:00/24
   manufacturer: congatec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: congatec
 type: d3-device-type-assertion

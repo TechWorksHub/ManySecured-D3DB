@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea0a950e-91e0-421f-8215-201919cdda8b
-  mac-addresses:
+  id: d0941ffc-937a-474c-89ce-68f5b58499a8
+  macAddresses:
   - 00:50:C2:AA:A0:00/36
   manufacturer: Flexible Picture Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flexible
 type: d3-device-type-assertion

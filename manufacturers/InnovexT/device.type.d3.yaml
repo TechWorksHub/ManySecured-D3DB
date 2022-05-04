@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8db0e764-03df-4ddf-86c3-fda6b25118c3
-  mac-addresses:
+  id: 52b565e4-0a23-4f0c-9ad2-8a277fe1eadc
+  macAddresses:
   - 00:10:A0:00:00:00/24
   manufacturer: Innovex Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnovexT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85a53c24-40cc-4bb8-854f-7c9a42243570
-  mac-addresses:
+  id: 26d5bbb8-3bcf-431a-85cc-ad2c527483b5
+  macAddresses:
   - 00:03:D0:00:00:00/24
   manufacturer: KOANKEISO Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KOANKEIS
 type: d3-device-type-assertion

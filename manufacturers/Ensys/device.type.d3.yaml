@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba5ee6fe-5d03-44c5-aba7-d782a9904785
-  mac-addresses:
+  id: a7ad9d13-1c5b-45ec-93e6-e060e3d4bdb6
+  macAddresses:
   - 70:B3:D5:BB:F0:00/36
   manufacturer: Ensys srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ensys
 type: d3-device-type-assertion

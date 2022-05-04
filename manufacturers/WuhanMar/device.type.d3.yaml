@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02b29bdf-6788-4849-b595-26c3bbd633ea
-  mac-addresses:
+  id: 9bce1187-fa9a-403b-8a80-18b40122245d
+  macAddresses:
   - B4:C4:76:00:00:00/24
   manufacturer: Wuhan Maritime Communication Research Institute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanMar
 type: d3-device-type-assertion

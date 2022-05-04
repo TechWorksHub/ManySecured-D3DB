@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ad1c7cd-d657-425a-aa72-947d60f6bebd
-  mac-addresses:
+  id: 8b8ea34d-d1ae-43c7-93e7-cc856068055b
+  macAddresses:
   - 00:C0:58:00:00:00/24
   manufacturer: Dataexpert Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dataexpe
 type: d3-device-type-assertion

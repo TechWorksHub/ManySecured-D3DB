@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 22666f60-d915-435e-a040-b540e618805f
-  mac-addresses:
+  id: 68df80a8-f60e-4229-8c8f-09b94419ea24
+  macAddresses:
   - 14:00:20:00:00:00/24
   - 60:D7:E3:90:00:00/28
   - C0:FB:F9:70:00:00/28
   - DC:4A:9E:A0:00:00/28
   manufacturer: LongSung Technology (Shanghai) Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LongSung
 type: d3-device-type-assertion

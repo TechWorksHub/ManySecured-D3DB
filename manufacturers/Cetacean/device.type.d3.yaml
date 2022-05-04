@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6081a0a7-176b-4c42-bc51-0df87a1bca4a
-  mac-addresses:
+  id: 330b73e2-3f98-4a48-aca6-bf96bc050962
+  macAddresses:
   - 00:09:8F:00:00:00/24
   manufacturer: Cetacean Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cetacean
 type: d3-device-type-assertion

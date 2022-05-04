@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c240ca3-3946-473c-a1b8-64504c6c6ff6
-  mac-addresses:
+  id: 78a5b51e-1a53-4033-8713-323d70061c6b
+  macAddresses:
   - 00:60:54:00:00:00/24
   manufacturer: Controlware Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Controlw
 type: d3-device-type-assertion

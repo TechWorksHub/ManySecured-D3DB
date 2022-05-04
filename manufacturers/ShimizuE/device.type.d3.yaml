@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37d7e947-a87e-4376-9e43-029dc4eb76f4
-  mac-addresses:
+  id: 700aaa71-4303-44e5-bfbe-fa7d3423eb25
+  macAddresses:
   - 40:D8:55:0D:50:00/36
   manufacturer: Shimizu Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShimizuE
 type: d3-device-type-assertion

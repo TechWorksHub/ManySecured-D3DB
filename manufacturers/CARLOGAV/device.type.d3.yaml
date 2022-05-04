@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59debefc-70c9-4248-bf54-50bc03eab3ff
-  mac-addresses:
+  id: a030e744-e47d-4d72-af6c-ae9ba26fc1b7
+  macAddresses:
   - 00:19:EE:00:00:00/24
   manufacturer: CARLO GAVAZZI CONTROLS SPA-Controls Division
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CARLOGAV
 type: d3-device-type-assertion

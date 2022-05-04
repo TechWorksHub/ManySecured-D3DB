@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1ec7ee1-9420-44fc-8368-1863c2a79023
-  mac-addresses:
+  id: 31932063-edea-470b-9cca-d2aa05b8b490
+  macAddresses:
   - 9C:69:B4:80:00:00/28
   manufacturer: Skydock do Brasil Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skydockd
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d152dbd5-a0fb-430a-9aa4-c4effa561aa2
-  mac-addresses:
+  id: 599b708f-3df9-4a77-a98d-7ef3c67f8360
+  macAddresses:
   - 80:E4:DA:B0:00:00/28
   - D4:25:CC:60:00:00/28
   manufacturer: Nanjing LILO Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingL
 type: d3-device-type-assertion

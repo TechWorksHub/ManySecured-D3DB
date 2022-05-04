@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a57d0655-ecaa-4b04-b1d1-1f7caba2904a
-  mac-addresses:
+  id: 44c80228-3475-45e8-a4f2-ec99f12b3b2c
+  macAddresses:
   - 00:30:DB:00:00:00/24
   manufacturer: Mindready Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mindread
 type: d3-device-type-assertion

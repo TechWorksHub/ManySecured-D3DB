@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2741555-0c56-4b10-a5c8-13c5a7d5a51b
-  mac-addresses:
+  id: a02cdce1-bd4b-49af-bd8f-62019e1990d3
+  macAddresses:
   - 00:16:25:00:00:00/24
   manufacturer: Impinj, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Impinj
 type: d3-device-type-assertion

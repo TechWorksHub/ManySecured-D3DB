@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 00240251-9c8e-4527-bd43-57a16862a859
-  mac-addresses:
+  id: 64071ada-2ba5-4da5-9015-31f8ee3fa980
+  macAddresses:
   - 00:50:C2:88:10:00/36
   - 40:D8:55:14:00:00/36
   manufacturer: InnoTrans Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnoTran
 type: d3-device-type-assertion

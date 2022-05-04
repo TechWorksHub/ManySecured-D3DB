@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f5d6b554-9505-4413-ba53-bd2f9951c65a
-  mac-addresses:
+  id: e9a75a39-2186-4fa6-95c0-38a0167e56cb
+  macAddresses:
   - 00:01:4A:00:00:00/24
   - 00:0A:D9:00:00:00/24
   - 00:0E:07:00:00:00/24
@@ -83,6 +83,6 @@ credentialSubject:
   - F8:4E:17:00:00:00/24
   - FC:F1:52:00:00:00/24
   manufacturer: Sony Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sony
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b192b60d-562e-44ef-bb4a-7cee43700e72
-  mac-addresses:
+  id: 5951b249-595d-4094-9246-cf8845f6f3c6
+  macAddresses:
   - 00:04:8C:00:00:00/24
   manufacturer: Nayna Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaynaNet
 type: d3-device-type-assertion

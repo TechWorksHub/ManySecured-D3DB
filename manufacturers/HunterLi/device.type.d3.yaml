@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1ff3ff4-3592-48d3-a45b-9f5d65c597b5
-  mac-addresses:
+  id: 5c2edd1c-b9f9-46b5-8535-8ba087c26c97
+  macAddresses:
   - 70:B3:D5:FC:20:00/36
   manufacturer: Hunter Liberty Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HunterLi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 477f4204-2844-4f9d-bd84-eb02c9b48999
-  mac-addresses:
+  id: 28350f78-9ecc-46cc-9a6d-3456f4e4b7dd
+  macAddresses:
   - 38:B1:9E:B0:00:00/28
   manufacturer: System Q Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SystemQ
 type: d3-device-type-assertion

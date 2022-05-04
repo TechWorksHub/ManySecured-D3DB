@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a695a197-5e76-4fb6-862e-6b4c46ca3255
-  mac-addresses:
+  id: c27df8d0-2681-4e87-a1f2-83998cad0010
+  macAddresses:
   - 00:11:EA:00:00:00/24
   manufacturer: IWICS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IWICS
 type: d3-device-type-assertion

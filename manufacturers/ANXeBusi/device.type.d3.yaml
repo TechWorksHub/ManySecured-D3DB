@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed67bbfa-28d9-4cda-ab91-610f69ea712b
-  mac-addresses:
+  id: cf6947e0-fe32-4896-9592-2f5dca7dcd4b
+  macAddresses:
   - 00:50:C2:C3:F0:00/36
   manufacturer: ANXeBusiness Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ANXeBusi
 type: d3-device-type-assertion

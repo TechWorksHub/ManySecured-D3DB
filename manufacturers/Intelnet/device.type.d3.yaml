@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74808ce9-395e-4716-9d3a-d3f226c470af
-  mac-addresses:
+  id: 186248c8-f3ac-4cc0-9e04-4d55f00ca22b
+  macAddresses:
   - 00:09:58:00:00:00/24
   manufacturer: Intelnet S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intelnet
 type: d3-device-type-assertion

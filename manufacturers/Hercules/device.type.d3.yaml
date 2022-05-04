@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 679cd2b3-1255-43e2-a853-c60c821b66db
-  mac-addresses:
+  id: af373131-c01a-4e9d-a062-0025bfc0b715
+  macAddresses:
   - 00:08:D3:00:00:00/24
   manufacturer: Hercules Technologies S.A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hercules
 type: d3-device-type-assertion

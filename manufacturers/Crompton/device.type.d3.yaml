@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3c7a051-4f03-4183-bd8b-37babdd3fbcc
-  mac-addresses:
+  id: adc99a89-2b59-48ce-8c55-61f28dbe9db6
+  macAddresses:
   - 60:10:A2:00:00:00/24
   manufacturer: Crompton Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crompton
 type: d3-device-type-assertion

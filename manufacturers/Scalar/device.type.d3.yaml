@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ddaabf5-0bba-4a6f-863f-17a29db098c9
-  mac-addresses:
+  id: 6c4155f1-efe9-411e-8cfb-bdcd240c8a5f
+  macAddresses:
   - 70:D5:7E:00:00:00/24
   manufacturer: Scalar Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scalar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6cece7b-a963-4d97-b2bc-c93bb9fe3952
-  mac-addresses:
+  id: 495ead14-b5f4-436b-933a-86fd485502b1
+  macAddresses:
   - 70:B3:D5:D0:40:00/36
   manufacturer: Plenty Unlimited Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlentyUn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4eecf8ed-22a9-4792-ac74-cb07a395cb78
-  mac-addresses:
+  id: 3a146567-c0bf-455e-85a1-473512baa75b
+  macAddresses:
   - 70:B3:D5:B3:D0:00/36
   manufacturer: Inras GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inras
 type: d3-device-type-assertion

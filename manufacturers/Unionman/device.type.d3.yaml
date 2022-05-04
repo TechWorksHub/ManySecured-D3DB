@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 91adfc46-1011-4981-8798-622ff3ba91ec
-  mac-addresses:
+  id: 305ed5c7-8203-4a07-9d65-55e369f514b8
+  macAddresses:
   - 00:19:F0:00:00:00/24
   - 3C:0C:DB:00:00:00/24
   - 40:F4:FD:00:00:00/24
@@ -13,6 +13,6 @@ credentialSubject:
   - F4:D9:C6:00:00:00/24
   - F8:14:FE:00:00:00/24
   manufacturer: Unionman Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unionman
 type: d3-device-type-assertion

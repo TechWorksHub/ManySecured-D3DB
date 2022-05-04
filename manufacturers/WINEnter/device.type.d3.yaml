@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03d6496a-6e39-4bf2-8625-8b141c6d9b02
-  mac-addresses:
+  id: 7857d4e0-7152-4b8d-96ba-e3be42c61bb2
+  macAddresses:
   - 00:01:4E:00:00:00/24
   manufacturer: WIN Enterprises, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WINEnter
 type: d3-device-type-assertion

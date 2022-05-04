@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdb8f414-6c6f-426e-b186-834b0a9321ca
-  mac-addresses:
+  id: 527476c9-1dff-4e7f-96ed-9748c58da4c7
+  macAddresses:
   - 70:1A:D5:00:00:00/24
   manufacturer: Openpath Security, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Openpath
 type: d3-device-type-assertion

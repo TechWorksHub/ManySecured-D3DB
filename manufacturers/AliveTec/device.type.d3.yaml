@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d84b9287-e136-4eeb-ab40-313f097adc78
-  mac-addresses:
+  id: 1b779b0e-0a16-4574-a73c-738fc2b4f08d
+  macAddresses:
   - 00:14:C5:00:00:00/24
   manufacturer: Alive Technologies Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AliveTec
 type: d3-device-type-assertion

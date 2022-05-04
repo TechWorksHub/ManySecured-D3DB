@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1e7e2bc5-6063-4d62-b06f-2ca0fe6e0c67
-  mac-addresses:
+  id: 002cfef0-430e-4522-952e-cbd61443f2d6
+  macAddresses:
   - 58:D0:8F:00:00:00/24
   - 90:82:60:00:00:00/24
   - C4:E0:32:00:00:00/24
   manufacturer: IEEE 1904.1 Working Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IEEE1904
 type: d3-device-type-assertion

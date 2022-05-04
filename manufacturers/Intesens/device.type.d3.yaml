@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7c53ab0-cbdf-428b-82a5-bc1c74d16fc9
-  mac-addresses:
+  id: 659dbc55-85b9-4b84-abae-8b47bb89b517
+  macAddresses:
   - 70:B3:D5:B1:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intesens
 type: d3-device-type-assertion

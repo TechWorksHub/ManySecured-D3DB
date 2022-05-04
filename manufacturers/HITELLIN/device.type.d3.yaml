@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43c8d94e-2033-4b9e-952e-4225fdb386a0
-  mac-addresses:
+  id: 42cdfc00-5466-49f4-a01c-00b7094e15de
+  macAddresses:
   - 00:0C:99:00:00:00/24
   manufacturer: HITEL LINK Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HITELLIN
 type: d3-device-type-assertion

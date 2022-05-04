@@ -1,8 +1,8 @@
 credentialSubject:
-  id: baab7da7-2d45-4381-ae66-4f073051b78b
-  mac-addresses:
+  id: aa61f8fa-09f0-401e-8739-07c907292e71
+  macAddresses:
   - A0:91:A2:00:00:00/24
   manufacturer: OnePlus Electronics (Shenzhen) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnePlusE
 type: d3-device-type-assertion

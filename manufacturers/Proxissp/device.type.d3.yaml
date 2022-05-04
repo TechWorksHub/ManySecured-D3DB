@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0469738a-a2b6-4fd8-b9a7-8599fb0031f0
-  mac-addresses:
+  id: 428d5914-5608-45a9-9c58-e6042c918563
+  macAddresses:
   - D8:4F:37:00:00:00/24
   manufacturer: Proxis, spol. s r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proxissp
 type: d3-device-type-assertion

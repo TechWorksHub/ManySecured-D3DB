@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4dceae7-f310-4ce3-8dc9-eeaf024f0e94
-  mac-addresses:
+  id: 7ee80fcc-de4a-40df-9d5b-681070f04274
+  macAddresses:
   - 70:B3:D5:E5:B0:00/36
   manufacturer: Argosy Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArgosyLa
 type: d3-device-type-assertion

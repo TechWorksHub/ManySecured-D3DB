@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 12e62c5b-1a0f-4cfa-9871-77d377431ab9
-  mac-addresses:
+  id: 6e04e93b-e1e2-43e1-8b35-fff3c2cf7099
+  macAddresses:
   - 58:48:49:30:00:00/28
   - A4:53:EE:B0:00:00/28
   - C0:83:59:50:00:00/28
   - CC:C2:61:50:00:00/28
   manufacturer: Viper Design LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViperDes
 type: d3-device-type-assertion

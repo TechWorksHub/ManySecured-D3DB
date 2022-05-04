@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c11fe37-a223-4bde-972f-d983d01a99b7
-  mac-addresses:
+  id: 77645773-5468-49e1-8231-17ff8ef3d9a7
+  macAddresses:
   - 00:80:5E:00:00:00/24
   manufacturer: Lsi Logic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LsiLogic
 type: d3-device-type-assertion

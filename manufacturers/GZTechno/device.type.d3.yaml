@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7832056-349a-477f-968b-5782310e9e05
-  mac-addresses:
+  id: a59b2916-00f4-47f4-813c-a6c62fb5be47
+  macAddresses:
   - 00:18:15:00:00:00/24
   manufacturer: GZ Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GZTechno
 type: d3-device-type-assertion

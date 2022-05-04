@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20fdd8e4-75af-45e2-a245-a27cc3ff0622
-  mac-addresses:
+  id: 30076123-5632-4306-9092-e454ddacc23e
+  macAddresses:
   - 00:50:C2:06:30:00/36
   manufacturer: Ticketmaster Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ticketma
 type: d3-device-type-assertion

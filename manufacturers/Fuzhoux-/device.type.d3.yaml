@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efb87d41-06fb-49d1-8238-afc68c41ec93
-  mac-addresses:
+  id: c58973e9-7fbf-47da-afec-fb7341b5fed1
+  macAddresses:
   - 68:91:D0:D0:00:00/28
   manufacturer: Fuzhou x-speed information technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fuzhoux-
 type: d3-device-type-assertion

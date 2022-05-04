@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef2cc5b9-e80b-423c-84f0-d85519a54080
-  mac-addresses:
+  id: 6aaa4fd1-9494-4d81-becc-a2ac4b834126
+  macAddresses:
   - 00:01:EA:00:00:00/24
   manufacturer: Cirilium Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cirilium
 type: d3-device-type-assertion

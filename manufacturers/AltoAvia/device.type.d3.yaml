@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ea187df-6dd8-48e2-9cc4-5a06b7cc7d5c
-  mac-addresses:
+  id: 092ebe51-32f5-43cb-8643-b31cd91164fd
+  macAddresses:
   - 70:B3:D5:D0:F0:00/36
   manufacturer: Alto Aviation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltoAvia
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e280ecd-7864-4297-bd55-868f0ddd08da
-  mac-addresses:
+  id: 41fd5b84-ea37-4cc8-8fbe-ad8839392889
+  macAddresses:
   - 24:F2:DD:00:00:00/24
   manufacturer: Radiant Zemax LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadiantZ
 type: d3-device-type-assertion

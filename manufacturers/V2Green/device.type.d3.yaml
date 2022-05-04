@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19957533-e5e1-4616-bfab-3fc0bff22400
-  mac-addresses:
+  id: c947b9a4-0e33-43f4-937d-07b6f049e6bd
+  macAddresses:
   - 00:50:C2:7E:70:00/36
   manufacturer: V2Green, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: V2Green
 type: d3-device-type-assertion

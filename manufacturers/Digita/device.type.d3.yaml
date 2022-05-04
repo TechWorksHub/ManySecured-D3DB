@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10743ba4-a47a-48d0-8c5a-e0b84c8ac597
-  mac-addresses:
+  id: 3faf2ec9-9541-41e1-bc02-921b7188a7c4
+  macAddresses:
   - 28:23:73:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digita
 type: d3-device-type-assertion

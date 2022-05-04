@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04846b3d-1149-4934-befd-988af07f1167
-  mac-addresses:
+  id: 0a310d97-c19e-4e44-9d24-93af01b2761f
+  macAddresses:
   - E8:00:36:00:00:00/24
   manufacturer: Befs co,. ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Befs
 type: d3-device-type-assertion

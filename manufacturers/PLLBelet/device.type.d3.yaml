@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dc57051-6c00-44c5-b15c-057b90ebd814
-  mac-addresses:
+  id: 7cc8a453-596a-4b07-a3c3-5f5ad1536b4b
+  macAddresses:
   - 00:50:C2:07:C0:00/36
   manufacturer: PLLB elettronica spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PLLBelet
 type: d3-device-type-assertion

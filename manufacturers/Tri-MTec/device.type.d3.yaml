@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5edfe38e-e9cc-4133-bceb-62dee67e3737
-  mac-addresses:
+  id: 5c137971-993b-490c-a61f-ed6d7f3ae852
+  macAddresses:
   - 00:07:90:00:00:00/24
   manufacturer: Tri-M Technologies (s) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tri-MTec
 type: d3-device-type-assertion

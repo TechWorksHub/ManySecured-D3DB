@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07093b6e-4ca4-4cae-8aa8-2ccb17cce18c
-  mac-addresses:
+  id: 6c33bd04-0a72-487b-9750-e5900d1267a3
+  macAddresses:
   - 64:62:66:00:00:00/28
   manufacturer: MiiVii Dynamics Technology CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiiViiDy
 type: d3-device-type-assertion

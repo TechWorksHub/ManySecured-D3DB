@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b14044c-1865-4e3e-b977-aa478fb8149a
-  mac-addresses:
+  id: f2d455d7-ac98-464f-9b73-6370c6a23760
+  macAddresses:
   - 00:10:03:00:00:00/24
   manufacturer: Imatron, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Imatron
 type: d3-device-type-assertion

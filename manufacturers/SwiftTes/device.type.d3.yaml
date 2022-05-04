@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c46bb2f-5c24-4f1a-b168-d5b4ca28d0f9
-  mac-addresses:
+  id: c2d02b35-c42c-4ead-ade9-ef67b26c7014
+  macAddresses:
   - 9C:44:A6:00:00:00/24
   manufacturer: SwiftTest, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwiftTes
 type: d3-device-type-assertion

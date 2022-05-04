@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30dfb6d0-34cf-4b32-a1f0-667c2bbb5983
-  mac-addresses:
+  id: 4cf8e051-c20c-4f57-b4dd-0920833087eb
+  macAddresses:
   - 70:B3:D5:D2:70:00/36
   manufacturer: Light field Lab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightfie
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0250f5ea-c483-439d-81b7-d478bd417e7a
-  mac-addresses:
+  id: 3598390e-7b24-4038-8a31-64bd488b73c2
+  macAddresses:
   - 00:E0:79:00:00:00/24
   manufacturer: A.T.N.R.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATNR
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17c2b32d-ddf7-43ab-9d2a-49bc9c11fcd1
-  mac-addresses:
+  id: 89da4d08-eabe-44bf-b88a-d6900e7246b5
+  macAddresses:
   - 00:25:E3:00:00:00/24
   manufacturer: Hanshinit Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hanshini
 type: d3-device-type-assertion

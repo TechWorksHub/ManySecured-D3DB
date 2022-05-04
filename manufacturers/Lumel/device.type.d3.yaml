@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0855dfd4-178c-4570-9848-0f2e50df0ed0
-  mac-addresses:
+  id: b6c4acf5-6510-4f99-9dd9-7ca03cb9a04b
+  macAddresses:
   - 00:50:C2:5A:30:00/36
   - 0C:EF:AF:20:00:00/28
   manufacturer: Lumel S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumel
 type: d3-device-type-assertion

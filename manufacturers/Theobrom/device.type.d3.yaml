@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc4fd6a2-c150-4b74-a1ce-4bde7b1516c8
-  mac-addresses:
+  id: 2bdb6c1c-0c9a-4070-976e-4c0dc26e79f6
+  macAddresses:
   - 98:02:84:00:00:00/24
   manufacturer: Theobroma Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Theobrom
 type: d3-device-type-assertion

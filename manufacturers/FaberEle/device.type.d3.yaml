@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa234fa0-5ad6-4463-9421-68b3ff2dccf4
-  mac-addresses:
+  id: dae542bd-0d55-4ccd-9664-6b2484153e37
+  macAddresses:
   - 00:50:C2:4A:90:00/36
   manufacturer: Faber Electronics BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FaberEle
 type: d3-device-type-assertion

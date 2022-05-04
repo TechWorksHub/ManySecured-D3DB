@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 38d40722-ff21-40ba-940b-be2561f1efe3
-  mac-addresses:
+  id: 4439fade-e4d5-42e5-95f8-8f0202be4ce8
+  macAddresses:
   - 2C:42:05:00:00:00/24
   - 50:DF:95:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lytx
 type: d3-device-type-assertion

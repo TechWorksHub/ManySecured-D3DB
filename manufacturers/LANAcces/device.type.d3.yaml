@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73318798-9452-45ea-9804-343a65008a64
-  mac-addresses:
+  id: 3060e70f-e6d0-4d83-ae54-14621cf761f9
+  macAddresses:
   - A4:F7:D0:00:00:00/24
   manufacturer: LAN Accessories Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LANAcces
 type: d3-device-type-assertion

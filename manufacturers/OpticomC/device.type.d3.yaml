@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 57a83033-0eab-43d3-a6c8-8db8a65a3714
-  mac-addresses:
+  id: a8b700ac-f25d-4d57-9ce7-8e4a2fc167ff
+  macAddresses:
   - 00:17:D0:00:00:00/24
   - 44:C4:A9:00:00:00/24
   manufacturer: Opticom Communications, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpticomC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba6ae7bd-7cee-4359-bf9f-9df902c56475
-  mac-addresses:
+  id: 784d7903-c152-4851-82df-54d13cb0efc1
+  macAddresses:
   - 00:01:C3:00:00:00/24
   manufacturer: Acromag, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acromag
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a86bcdcb-6f5d-4435-978f-e5dc23f7c4fa
-  mac-addresses:
+  id: 816698ed-9445-451b-b913-c04b3f47331b
+  macAddresses:
   - 00:50:C2:76:90:00/36
   manufacturer: BES GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BES
 type: d3-device-type-assertion

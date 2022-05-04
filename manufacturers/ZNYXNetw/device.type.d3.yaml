@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ce1db42f-abd4-44df-9aec-35888fe18df0
-  mac-addresses:
+  id: 1bd120cd-f61d-48c6-989c-12572c8f4ebb
+  macAddresses:
   - 00:11:65:00:00:00/24
   - E8:8D:F5:00:00:00/24
   manufacturer: ZNYX Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZNYXNetw
 type: d3-device-type-assertion

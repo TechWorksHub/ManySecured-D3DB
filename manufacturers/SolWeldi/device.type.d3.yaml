@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33c25ae4-9d09-47d8-ba80-f153112417d6
-  mac-addresses:
+  id: a96a1b47-e2d4-4192-a38e-02d954613f7e
+  macAddresses:
   - 70:B3:D5:E3:E0:00/36
   manufacturer: Sol Welding srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolWeldi
 type: d3-device-type-assertion

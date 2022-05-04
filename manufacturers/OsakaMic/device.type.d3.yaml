@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b8f104e-abd6-48b4-937c-0a22e997c8f3
-  mac-addresses:
+  id: b00892e5-fe32-4644-81cc-10c9f8fcd8e6
+  macAddresses:
   - 00:0E:D1:00:00:00/24
   manufacturer: Osaka Micro Computer.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsakaMic
 type: d3-device-type-assertion

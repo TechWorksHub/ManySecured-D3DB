@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3880d370-ab2e-446a-82ac-49cdf67c8215
-  mac-addresses:
+  id: e3dbf8d0-1db0-4431-9634-d6a140244716
+  macAddresses:
   - FC:D2:B6:90:00:00/28
   manufacturer: Winglet Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Winglet
 type: d3-device-type-assertion

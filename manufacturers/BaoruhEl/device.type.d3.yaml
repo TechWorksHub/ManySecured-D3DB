@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1621d9f-3684-4ffd-b6a7-c07078db2b29
-  mac-addresses:
+  id: c64774c1-971f-4efa-b861-2e5b527b624a
+  macAddresses:
   - 58:E8:76:E0:00:00/28
   manufacturer: Baoruh Electronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaoruhEl
 type: d3-device-type-assertion

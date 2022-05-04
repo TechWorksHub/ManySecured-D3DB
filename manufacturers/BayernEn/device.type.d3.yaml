@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91f9100f-bffc-4e49-9a57-cf0e85e01a07
-  mac-addresses:
+  id: 80228e0d-8e7a-4519-9e4d-906016b2a45a
+  macAddresses:
   - 70:B3:D5:57:00:00/36
   manufacturer: Bayern Engineering GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BayernEn
 type: d3-device-type-assertion

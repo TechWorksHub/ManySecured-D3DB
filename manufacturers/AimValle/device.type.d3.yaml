@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e78f74e0-fd22-4dd9-acea-bb24284fe6fa
-  mac-addresses:
+  id: 1f882bdc-8e00-4643-9321-042f6ce905c6
+  macAddresses:
   - 00:0F:25:00:00:00/24
   manufacturer: AimValley B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AimValle
 type: d3-device-type-assertion

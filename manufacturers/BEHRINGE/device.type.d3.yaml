@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf392e0f-5e88-4b19-8f6f-97315cd6ac2a
-  mac-addresses:
+  id: 286a2a0a-8490-4c57-8f46-08ff2dfd158e
+  macAddresses:
   - 00:15:64:00:00:00/24
   manufacturer: BEHRINGER Spezielle Studiotechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BEHRINGE
 type: d3-device-type-assertion

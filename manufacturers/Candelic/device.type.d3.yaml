@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc3f0da6-3b1d-4aa8-9cab-cac6f466b7ae
-  mac-addresses:
+  id: 2982d935-45b5-4928-a559-ea0653bf85ff
+  macAddresses:
   - F0:41:C8:40:00:00/28
   manufacturer: Candelic Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Candelic
 type: d3-device-type-assertion

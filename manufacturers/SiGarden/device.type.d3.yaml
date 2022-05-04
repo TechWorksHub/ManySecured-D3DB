@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea9bf00c-9bf0-4666-8ebd-3ab8004dff5d
-  mac-addresses:
+  id: dd7e49b6-6969-4b11-911b-6a5e040daeca
+  macAddresses:
   - 00:50:C2:C6:B0:00/36
   manufacturer: SiGarden Sp z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiGarden
 type: d3-device-type-assertion

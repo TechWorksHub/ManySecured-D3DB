@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 131188dd-5413-47c0-83c4-94ac24bfbc20
-  mac-addresses:
+  id: b3c1671e-d073-4d9c-862e-3f3526661f4d
+  macAddresses:
   - 9C:43:1E:80:00:00/28
   manufacturer: Wunda Group plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WundaGro
 type: d3-device-type-assertion

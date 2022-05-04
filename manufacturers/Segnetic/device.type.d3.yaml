@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3c12351-734d-4fe0-8253-f17a18cc358a
-  mac-addresses:
+  id: 5b003744-c6b8-4f2a-b48b-7e737f0ea58f
+  macAddresses:
   - 00:1F:4D:00:00:00/24
   manufacturer: Segnetics LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Segnetic
 type: d3-device-type-assertion

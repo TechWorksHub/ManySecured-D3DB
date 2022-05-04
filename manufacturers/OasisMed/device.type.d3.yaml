@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc32f072-328d-4767-8e45-5349d895efb9
-  mac-addresses:
+  id: 1807a4bd-525c-4f16-85ab-8753caa0ee76
+  macAddresses:
   - C8:A2:CE:00:00:00/24
   manufacturer: Oasis Media Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OasisMed
 type: d3-device-type-assertion

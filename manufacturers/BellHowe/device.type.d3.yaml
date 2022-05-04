@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f86fced-f7a1-4ada-8f27-a0c9a95994eb
-  mac-addresses:
+  id: 11541d01-8f06-40ee-b89f-b261c42b8336
+  macAddresses:
   - 00:00:DF:00:00:00/24
   manufacturer: Bell & Howell Pub Sys Div
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BellHowe
 type: d3-device-type-assertion

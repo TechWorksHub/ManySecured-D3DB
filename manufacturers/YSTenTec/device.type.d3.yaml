@@ -1,11 +1,11 @@
 credentialSubject:
-  id: fc6909bf-95ed-4fb2-aed0-86dadc7e2335
-  mac-addresses:
+  id: af73c892-3801-4d0a-ae84-fd25908acdba
+  macAddresses:
   - 58:B4:2D:00:00:00/24
   - 78:68:F7:00:00:00/24
   - 90:49:92:00:00:00/24
   - AC:BB:61:00:00:00/24
   manufacturer: YSTen Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YSTenTec
 type: d3-device-type-assertion

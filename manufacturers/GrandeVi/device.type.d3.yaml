@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9cd2512-1606-454a-a9e1-19af4278d18b
-  mac-addresses:
+  id: b32c55d7-d91d-4895-8e7a-8814784ea9a8
+  macAddresses:
   - 40:D8:55:01:30:00/36
   manufacturer: Grande Vitesse Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GrandeVi
 type: d3-device-type-assertion

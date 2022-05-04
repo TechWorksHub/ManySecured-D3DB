@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14945158-a6b4-4c6e-982f-a5e92bbf3c60
-  mac-addresses:
+  id: bc96edf0-29da-4805-be4b-431cf8614d3f
+  macAddresses:
   - 00:0B:BD:00:00:00/24
   manufacturer: Connexionz Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Connexio
 type: d3-device-type-assertion

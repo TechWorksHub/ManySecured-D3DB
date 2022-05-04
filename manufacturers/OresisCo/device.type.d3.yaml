@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9724094-a8fd-4b19-9d59-f2da1ae45a60
-  mac-addresses:
+  id: cac5b7cf-0e31-40f4-8aa2-d66cf62602dd
+  macAddresses:
   - 00:D0:AE:00:00:00/24
   manufacturer: Oresis Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OresisCo
 type: d3-device-type-assertion

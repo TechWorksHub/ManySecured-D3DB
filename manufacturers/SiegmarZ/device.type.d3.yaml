@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9118a42d-cd5c-4c79-aed4-000f701f0bd4
-  mac-addresses:
+  id: 851ed7d1-e330-41f7-822f-d809d395d6b2
+  macAddresses:
   - 40:D8:55:0E:E0:00/36
   manufacturer: Siegmar Zander HuSWare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiegmarZ
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18962820-f560-4730-9744-4bf5766c640c
-  mac-addresses:
+  id: 46f8f63e-fe15-4a0d-90d9-b4754d80beab
+  macAddresses:
   - 78:A6:83:00:00:00/24
   manufacturer: Precidata
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Precidat
 type: d3-device-type-assertion

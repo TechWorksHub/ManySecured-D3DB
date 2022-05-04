@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d29e804-de5d-4990-95fc-63e49227bb27
-  mac-addresses:
+  id: 06c36089-7777-4e5a-b624-cecf092269d7
+  macAddresses:
   - 28:99:C7:00:00:00/24
   manufacturer: Lindsay Broadband Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LindsayB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8443d509-9a42-422f-94cc-145f5c3003f6
-  mac-addresses:
+  id: b9d6fda8-5b4f-43e6-a6b9-0158f1030990
+  macAddresses:
   - 00:20:BC:00:00:00/24
   manufacturer: Long Reach Networks Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LongReac
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cfeffec-2eb1-4f87-9d6b-cb18f62e71db
-  mac-addresses:
+  id: d6e980d1-a8e3-4deb-b71a-d4dc0b8e3379
+  macAddresses:
   - 70:FF:5C:00:00:00/24
   manufacturer: Cheerzing Communication(Xiamen)Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cheerzin
 type: d3-device-type-assertion

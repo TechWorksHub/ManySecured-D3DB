@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8811809e-8667-4c16-b9f4-4a051048ca19
-  mac-addresses:
+  id: 3a3e0a9e-8f6c-404e-8c52-a1d006901ba1
+  macAddresses:
   - B0:43:5D:00:00:00/24
   manufacturer: NuLEDs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NuLEDs
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e352e89-1c52-47c2-86f6-690e448597ce
-  mac-addresses:
+  id: cbce7d9e-6c62-44ef-806b-21361384fdad
+  macAddresses:
   - 00:19:DD:00:00:00/24
   manufacturer: FEI-Zyfer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FEI-Zyfe
 type: d3-device-type-assertion

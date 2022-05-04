@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0fd0e6b-38ad-4b7f-9fb5-aa77b0933ea8
-  mac-addresses:
+  id: b1677786-9693-41c0-b0fa-e82b64dafc4a
+  macAddresses:
   - 00:25:EE:00:00:00/24
   manufacturer: Avtex Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avtex
 type: d3-device-type-assertion

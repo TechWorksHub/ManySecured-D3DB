@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9503642b-ae12-4189-8cb0-30ec37edfe58
-  mac-addresses:
+  id: 825c000f-19f3-4920-b918-892e131c0499
+  macAddresses:
   - 70:B3:D5:BB:70:00/36
   manufacturer: Innoflight, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innoflig
 type: d3-device-type-assertion

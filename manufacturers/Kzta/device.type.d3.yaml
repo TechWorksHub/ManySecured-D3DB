@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5d69af7-04ff-4df4-a597-e1244f7ee575
-  mac-addresses:
+  id: cea6ad40-86fa-4702-9a64-eba8f687fed1
+  macAddresses:
   - 70:B3:D5:64:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kzta
 type: d3-device-type-assertion

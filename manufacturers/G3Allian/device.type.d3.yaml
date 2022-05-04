@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54961ad7-7a1c-4eb7-87ae-7250ceec8766
-  mac-addresses:
+  id: 4fde90e9-b9de-4f0d-b845-d9c8a0ffef23
+  macAddresses:
   - EA:BC:04:00:00:00/24
   manufacturer: G3-PLC Alliance
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G3Allian
 type: d3-device-type-assertion

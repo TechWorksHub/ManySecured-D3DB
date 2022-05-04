@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f042d008-e42a-4e9f-9a85-8c9215061672
-  mac-addresses:
+  id: c9abfeb2-015d-45a3-9917-7e2aec500f17
+  macAddresses:
   - 00:50:C2:B9:50:00/36
   manufacturer: Rx Monitoring Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RxMonito
 type: d3-device-type-assertion

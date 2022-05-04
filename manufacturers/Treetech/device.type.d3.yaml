@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6fe1742-be58-4811-a5f3-241f51766c0a
-  mac-addresses:
+  id: 8f292120-6a4a-496d-ab4c-85b7add2f8f5
+  macAddresses:
   - 14:1A:51:00:00:00/24
   manufacturer: Treetech Sistemas Digitais
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Treetech
 type: d3-device-type-assertion

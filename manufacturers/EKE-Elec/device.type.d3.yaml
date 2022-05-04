@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ad7de843-6ae2-479f-9c41-e2899f26fe28
-  mac-addresses:
+  id: b6226c86-fba8-4cef-b38d-1dfa8332c57d
+  macAddresses:
   - 00:21:A2:00:00:00/24
   - 00:50:C2:38:00:00/36
   manufacturer: EKE-Electronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EKE-Elec
 type: d3-device-type-assertion

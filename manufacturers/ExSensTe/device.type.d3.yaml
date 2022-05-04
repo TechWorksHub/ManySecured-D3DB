@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59ec53c7-fec0-409f-bfb2-f7a12d3660f0
-  mac-addresses:
+  id: 8a2d0549-d093-47a2-a7c2-bfff83a04afe
+  macAddresses:
   - 70:B3:D5:14:A0:00/36
   manufacturer: ExSens Technology (Pty) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExSensTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d79f8e11-2125-4a6c-98e9-0eaca53dc791
-  mac-addresses:
+  id: 018bb5d3-68fd-4de2-86bf-3749f7712be4
+  macAddresses:
   - 00:50:C2:3D:50:00/36
   manufacturer: Fluke Biomedical, Radiation Management Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlukeBio
 type: d3-device-type-assertion

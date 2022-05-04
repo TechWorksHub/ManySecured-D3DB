@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1df648fb-8137-4100-b09c-ffcd8a5b6ea4
-  mac-addresses:
+  id: 2138b405-6262-4d2b-b7ad-3fe7ca3b398b
+  macAddresses:
   - 4C:6C:13:00:00:00/24
   manufacturer: IoT Company Solucoes Tecnologicas Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTSoluc
 type: d3-device-type-assertion

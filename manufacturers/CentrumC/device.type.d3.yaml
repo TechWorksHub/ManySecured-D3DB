@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f48f0436-700c-4cdf-938b-832e08e88c60
-  mac-addresses:
+  id: 24167c26-e2fc-4443-8dda-20e778019742
+  macAddresses:
   - 00:C0:2C:00:00:00/24
   manufacturer: Centrum Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentrumC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9487396-921c-4699-a099-d31cdd7b70e9
-  mac-addresses:
+  id: ee2d49d8-7a3a-47a3-8b7c-7f2e3a48bf1f
+  macAddresses:
   - 00:04:B6:00:00:00/24
   manufacturer: Stratex Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StratexN
 type: d3-device-type-assertion

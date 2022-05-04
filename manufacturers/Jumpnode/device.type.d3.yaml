@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7d97a03-e12b-461b-948b-d9ddf4ea1c71
-  mac-addresses:
+  id: 16de73c3-e0e1-465b-bf82-f15845ffc957
+  macAddresses:
   - 00:14:14:00:00:00/24
   manufacturer: Jumpnode Systems LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jumpnode
 type: d3-device-type-assertion

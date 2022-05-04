@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbcba5a2-74d2-4fbd-8587-61841c1a8b79
-  mac-addresses:
+  id: 1110cc8d-f1aa-406c-b492-df53864fcf62
+  macAddresses:
   - 00:1E:FF:00:00:00/24
   manufacturer: Mueller-Elektronik GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mueller-
 type: d3-device-type-assertion

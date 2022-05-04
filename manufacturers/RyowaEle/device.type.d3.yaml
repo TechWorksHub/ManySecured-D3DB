@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 797ae43c-abde-42f8-9429-a9aa9841f5de
-  mac-addresses:
+  id: 55cd99ff-159c-41d1-ab0c-cbae471c4c5d
+  macAddresses:
   - 08:8D:C8:00:00:00/24
   manufacturer: Ryowa Electronics Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RyowaEle
 type: d3-device-type-assertion

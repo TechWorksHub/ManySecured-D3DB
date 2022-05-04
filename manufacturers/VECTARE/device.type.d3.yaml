@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f3994da-200e-4d57-a961-afb4dce0931d
-  mac-addresses:
+  id: 0de11257-7e95-418a-bebd-9b4403b886ef
+  macAddresses:
   - 70:B3:D5:6D:90:00/36
   manufacturer: VECTARE Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VECTARE
 type: d3-device-type-assertion

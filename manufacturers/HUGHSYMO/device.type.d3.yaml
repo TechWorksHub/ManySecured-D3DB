@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76543978-7e9b-467b-953a-f091101f2501
-  mac-addresses:
+  id: 5de73fb0-845a-40cf-a87e-8c8ffb965335
+  macAddresses:
   - 00:10:8E:00:00:00/24
   manufacturer: HUGH SYMONS CONCEPT Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HUGHSYMO
 type: d3-device-type-assertion

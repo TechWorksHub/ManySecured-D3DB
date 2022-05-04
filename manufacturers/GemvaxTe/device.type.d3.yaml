@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d58458d2-4da7-4cb0-9bfd-1945748ff4d1
-  mac-addresses:
+  id: 99cf65ed-1acc-46a3-b916-29444d1753e3
+  macAddresses:
   - C0:83:59:10:00:00/28
   manufacturer: Gemvax Technology ,. Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GemvaxTe
 type: d3-device-type-assertion

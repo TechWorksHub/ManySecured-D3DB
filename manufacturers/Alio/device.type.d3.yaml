@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d00f5d63-2334-4862-861b-153f02ab9d40
-  mac-addresses:
+  id: 5afd27fc-ee8b-4150-8378-7f20798946a7
+  macAddresses:
   - C4:A1:0E:E0:00:00/28
   manufacturer: Alio, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alio
 type: d3-device-type-assertion

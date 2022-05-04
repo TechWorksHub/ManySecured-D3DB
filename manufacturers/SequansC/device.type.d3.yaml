@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75d32b7c-168e-4df3-86fe-1d12478ed3f6
-  mac-addresses:
+  id: 99254f70-62a6-4c80-93df-8fc1973ee305
+  macAddresses:
   - 00:16:08:00:00:00/24
   manufacturer: Sequans Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SequansC
 type: d3-device-type-assertion

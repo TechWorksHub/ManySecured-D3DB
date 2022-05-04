@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9bc9a78-6248-4936-9ca7-a2886aa7d678
-  mac-addresses:
+  id: f0833455-c64a-447c-b303-1fef8e30e82f
+  macAddresses:
   - 00:12:A3:00:00:00/24
   manufacturer: Trust International B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrustInt
 type: d3-device-type-assertion

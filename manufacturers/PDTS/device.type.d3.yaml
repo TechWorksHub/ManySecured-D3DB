@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2746341-0c42-438e-91b4-26d24f90fd53
-  mac-addresses:
+  id: 175ce2aa-36e5-4f87-b4e4-9346f8d5799c
+  macAddresses:
   - 00:50:C2:46:50:00/36
   manufacturer: PDTS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PDTS
 type: d3-device-type-assertion

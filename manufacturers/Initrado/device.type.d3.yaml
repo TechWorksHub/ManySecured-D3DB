@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6aaff16-b914-4f20-adad-866bb0e82999
-  mac-addresses:
+  id: d1cae030-2633-4f59-9324-4993c482f702
+  macAddresses:
   - 00:24:53:00:00:00/24
   manufacturer: Initra d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Initrado
 type: d3-device-type-assertion

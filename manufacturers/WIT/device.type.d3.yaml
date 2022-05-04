@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66f5d5cf-5255-4c0a-bb03-c79e47662b40
-  mac-addresses:
+  id: 1dd1af1a-6c39-4a2e-a5df-51c8798d1039
+  macAddresses:
   - 00:50:C2:47:D0:00/36
   manufacturer: WIT Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WIT
 type: d3-device-type-assertion

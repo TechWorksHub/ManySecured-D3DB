@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab9202cd-2add-4eea-ac2e-ca5786e8fecd
-  mac-addresses:
+  id: b172a797-8448-4685-8e8c-049096d39eee
+  macAddresses:
   - 70:B3:D5:49:80:00/36
   manufacturer: Xgem Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XgemSas
 type: d3-device-type-assertion

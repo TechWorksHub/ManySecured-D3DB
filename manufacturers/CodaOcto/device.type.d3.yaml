@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffabe9f1-3392-4389-abfa-76dd212616d5
-  mac-addresses:
+  id: 859ce121-ae14-4669-9a56-b56f54cc0bc5
+  macAddresses:
   - 70:B3:D5:4D:90:00/36
   manufacturer: Coda Octopus Products Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CodaOcto
 type: d3-device-type-assertion

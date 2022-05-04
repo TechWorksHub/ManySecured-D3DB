@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fecf8a9-af73-4ffb-bf50-d8fe759d7034
-  mac-addresses:
+  id: b7587dd9-ae6a-44f3-b284-c0a152ad0adc
+  macAddresses:
   - 00:04:64:00:00:00/24
   manufacturer: Pulse-Link Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pulse-Li
 type: d3-device-type-assertion

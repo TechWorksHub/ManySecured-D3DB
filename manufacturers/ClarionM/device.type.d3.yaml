@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e48c3e4d-a5b1-44ef-9f42-e9de828f3dbe
-  mac-addresses:
+  id: ce78454d-ea7f-4cb1-8522-3a5213b35d49
+  macAddresses:
   - 00:0B:4C:00:00:00/24
   manufacturer: Clarion (M) Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClarionM
 type: d3-device-type-assertion

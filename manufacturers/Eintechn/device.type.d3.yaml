@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25430029-eeed-44ef-9ca7-cd3f9d20d84c
-  mac-addresses:
+  id: 28e45577-dae3-46ad-9d41-24c7f9eafb24
+  macAddresses:
   - 2C:91:27:00:00:00/24
   manufacturer: Eintechno Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eintechn
 type: d3-device-type-assertion

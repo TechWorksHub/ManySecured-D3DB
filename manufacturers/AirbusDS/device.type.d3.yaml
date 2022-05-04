@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56be8f99-9453-499d-9284-33d58bc824d4
-  mac-addresses:
+  id: 32963f64-c68e-4aab-9ff2-ff8d1f36c24e
+  macAddresses:
   - C4:7C:8D:90:00:00/28
   manufacturer: Airbus DS - SLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirbusDS
 type: d3-device-type-assertion

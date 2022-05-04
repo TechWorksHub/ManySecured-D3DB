@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6fd828bb-9daf-4442-a61e-7b9586779de2
-  mac-addresses:
+  id: 4f5c9985-a442-407e-aa7c-1085b7f336ef
+  macAddresses:
   - 40:A3:6B:00:00:00/28
   - 70:B3:D5:0C:80:00/36
   manufacturer: Fin Robotics Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FinRobot
 type: d3-device-type-assertion

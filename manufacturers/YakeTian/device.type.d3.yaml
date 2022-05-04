@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 467418c8-9a4d-4fc9-ae15-cb0628b2ff30
-  mac-addresses:
+  id: 59c0f682-cda6-4bc4-83ff-0e0022e333cb
+  macAddresses:
   - 78:5E:E8:A0:00:00/28
   manufacturer: Yake (Tianjin) Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YakeTian
 type: d3-device-type-assertion

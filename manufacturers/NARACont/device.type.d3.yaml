@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b52ea21-28f9-4a41-a49b-71454244803c
-  mac-addresses:
+  id: a8b5b8f2-0ee1-4bf3-a5af-2786df8ef81d
+  macAddresses:
   - 00:50:C2:B0:F0:00/36
   manufacturer: NARA Controls Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NARACont
 type: d3-device-type-assertion

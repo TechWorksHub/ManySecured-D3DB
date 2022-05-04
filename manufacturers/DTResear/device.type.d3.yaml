@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9552128d-74cd-47fd-b901-a30cec648ada
-  mac-addresses:
+  id: 32d50af9-9d09-4d47-b3c7-b6b71ece43ce
+  macAddresses:
   - 44:8E:12:00:00:00/24
   manufacturer: DT Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DTResear
 type: d3-device-type-assertion

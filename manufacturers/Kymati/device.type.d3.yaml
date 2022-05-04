@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7e7888a-978a-4c1f-968f-84f6beb33cfc
-  mac-addresses:
+  id: e4188079-9a24-417e-ad70-55f34f4a8cdb
+  macAddresses:
   - CC:4F:5C:50:00:00/28
   manufacturer: Kymati GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kymati
 type: d3-device-type-assertion

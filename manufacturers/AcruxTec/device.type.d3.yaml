@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 315edc31-7463-46ba-8abd-0075f0f2a487
-  mac-addresses:
+  id: 7d0fc872-e0e4-4f41-a654-4a4b4428009f
+  macAddresses:
   - 00:50:C2:DC:10:00/36
   manufacturer: Acrux Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcruxTec
 type: d3-device-type-assertion

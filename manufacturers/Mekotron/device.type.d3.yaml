@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55f82858-0d85-47f4-89b6-4fdc27fa57ca
-  mac-addresses:
+  id: 83b394a1-ad32-485a-ba64-e3e9961aae72
+  macAddresses:
   - 98:AA:FC:60:00:00/28
   manufacturer: Mekotronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mekotron
 type: d3-device-type-assertion

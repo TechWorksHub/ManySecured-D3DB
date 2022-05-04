@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec770c52-8577-4b3b-ba9f-bcb8561c4a20
-  mac-addresses:
+  id: 0f7ab2ac-2a9e-4ad6-839c-f54c107fb128
+  macAddresses:
   - 70:B3:D5:81:20:00/36
   manufacturer: TESCAN Brno, s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TESCANBr
 type: d3-device-type-assertion

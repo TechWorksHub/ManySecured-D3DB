@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07601949-cba6-471d-bc77-184e5449b3e5
-  mac-addresses:
+  id: 895dcd20-a52d-42c7-bec6-99f3a807755d
+  macAddresses:
   - 00:50:C2:62:30:00/36
   manufacturer: Safeline Sl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Safeline
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f3240fd-bb2e-43d7-a7bc-45e27de27311
-  mac-addresses:
+  id: 64fa6d41-fe10-4e5a-a1ab-1d12cc5511ab
+  macAddresses:
   - 9C:FB:F1:00:00:00/24
   manufacturer: MESOMATIC GmbH & Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MESOMATI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b89e19a-6462-4654-8f57-d10583f3b3f7
-  mac-addresses:
+  id: 0cbc7edd-552e-4311-9077-cb84541144dd
+  macAddresses:
   - 30:1B:97:00:00:00/24
   manufacturer: Lierda Science & Technology Group Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LierdaSc
 type: d3-device-type-assertion

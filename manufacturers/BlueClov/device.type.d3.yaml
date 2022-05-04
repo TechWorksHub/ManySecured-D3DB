@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dba38e9b-7ec3-4814-8cd8-b8b9b3b789ad
-  mac-addresses:
+  id: adf3b71e-e331-4b76-ba66-75290e60860e
+  macAddresses:
   - 4C:F4:5B:00:00:00/24
   manufacturer: Blue Clover Devices
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueClov
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 41a480cc-57ca-47b3-b71d-e28de2c93c6d
-  mac-addresses:
+  id: e982e479-db9e-4d93-b0af-313d568013c6
+  macAddresses:
   - 00:50:C2:DB:40:00/36
   - 40:D8:55:12:30:00/36
   manufacturer: ZAO NPC "Kompjuternie Technologii"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPCKompj
 type: d3-device-type-assertion

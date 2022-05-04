@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fecbd50-a32e-44cd-896b-d0a269aa8479
-  mac-addresses:
+  id: 0c9b0593-c5f6-4fe2-84b4-5b20de546460
+  macAddresses:
   - 9C:5B:96:00:00:00/24
   manufacturer: NMR Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NMR
 type: d3-device-type-assertion

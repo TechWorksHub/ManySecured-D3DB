@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e731140b-3cff-4134-ba67-da9947cbd786
-  mac-addresses:
+  id: bdac087c-109a-4bcc-88e7-8a52acca909b
+  macAddresses:
   - 1C:59:74:E0:00:00/28
   manufacturer: Globe Tracker ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobeTra
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce85e665-0619-4d86-bb7a-dd2b310c6f34
-  mac-addresses:
+  id: d91c090e-1bf8-408f-8369-5990763e7bdd
+  macAddresses:
   - C0:22:50:00:00:00/24
   manufacturer: Koss Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Koss
 type: d3-device-type-assertion

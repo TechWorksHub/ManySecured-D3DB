@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1f0e16c-c7fd-4e74-8529-7239fb57ddad
-  mac-addresses:
+  id: 136e034b-fc93-413c-b180-0b292dc73341
+  macAddresses:
   - 00:07:31:00:00:00/24
   manufacturer: Ophir-Spiricon LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ophir-Sp
 type: d3-device-type-assertion

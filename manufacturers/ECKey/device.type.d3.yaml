@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0937ba9c-1b17-404d-aee3-e1008c8be584
-  mac-addresses:
+  id: a9469de4-2fa2-46a8-a904-8b0122a1a076
+  macAddresses:
   - 00:1C:3E:00:00:00/24
   manufacturer: ECKey Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ECKey
 type: d3-device-type-assertion

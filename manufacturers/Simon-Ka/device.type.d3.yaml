@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14f56062-9ded-4fa9-92df-d8844de439ff
-  mac-addresses:
+  id: e697ac54-bb69-45b6-a40d-5434f5c4aec9
+  macAddresses:
   - F4:1E:26:00:00:00/24
   manufacturer: Simon-Kaloi Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simon-Ka
 type: d3-device-type-assertion

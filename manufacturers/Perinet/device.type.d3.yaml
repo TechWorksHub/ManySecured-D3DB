@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1f50c5c-0ab9-487d-a2a2-43869bc1623a
-  mac-addresses:
+  id: 17370efd-a135-4bed-946a-8cb2ea510e35
+  macAddresses:
   - 74:2E:DB:00:00:00/24
   manufacturer: Perinet GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Perinet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8540d285-84dd-44b0-b375-7b436cedba80
-  mac-addresses:
+  id: f612e2c5-8851-4d51-9fa3-e1336e557eab
+  macAddresses:
   - 00:0A:FB:00:00:00/24
   manufacturer: Ambri Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ambri
 type: d3-device-type-assertion

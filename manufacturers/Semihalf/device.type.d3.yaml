@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c56fa448-71e1-485b-bb4e-11bed4b8cc34
-  mac-addresses:
+  id: 211b1d58-57f6-49a2-b6f6-a5f061816669
+  macAddresses:
   - 00:26:D0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Semihalf
 type: d3-device-type-assertion

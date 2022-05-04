@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7e7c2fd-55ab-4a93-ac37-c2f63f6a2cd5
-  mac-addresses:
+  id: 59ec726b-18aa-4b3e-9c9a-8c1acd214e7f
+  macAddresses:
   - 00:20:F4:00:00:00/24
   manufacturer: Spectrix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spectrix
 type: d3-device-type-assertion

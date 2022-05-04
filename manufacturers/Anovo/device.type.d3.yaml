@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8318010-d5c2-48a4-bd7f-e5f3cb6705d5
-  mac-addresses:
+  id: 1015a940-d023-436a-aca5-6590ef19e12f
+  macAddresses:
   - 40:5A:9B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Anovo
 type: d3-device-type-assertion

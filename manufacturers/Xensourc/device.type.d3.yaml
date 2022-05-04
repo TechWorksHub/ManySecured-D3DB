@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d1dde8d-5b48-4bff-a79e-cd7f74a61697
-  mac-addresses:
+  id: b12f2521-15db-4f63-a577-eb1b595a317d
+  macAddresses:
   - 00:16:3E:00:00:00/24
   manufacturer: Xensource, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xensourc
 type: d3-device-type-assertion

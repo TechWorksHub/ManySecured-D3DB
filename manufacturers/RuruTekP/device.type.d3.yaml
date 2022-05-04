@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 049f741b-6dc5-4dda-8da8-231ee40afa76
-  mac-addresses:
+  id: 3708715d-2339-4591-9a73-5bfa6043f1e9
+  macAddresses:
   - DC:90:20:00:00:00/24
   manufacturer: Ruru Tek Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuruTekP
 type: d3-device-type-assertion

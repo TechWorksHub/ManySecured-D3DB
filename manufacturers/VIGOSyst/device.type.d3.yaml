@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f78a5dc-ba89-4def-ab43-83bfa4f366e6
-  mac-addresses:
+  id: ffbcb442-a4b5-4fe9-855e-51eb931064a7
+  macAddresses:
   - D4:53:AF:00:00:00/24
   manufacturer: VIGO System S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VIGOSyst
 type: d3-device-type-assertion

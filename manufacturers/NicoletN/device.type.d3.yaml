@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a8507cd-6c68-4d52-95b9-71c60ae1cda8
-  mac-addresses:
+  id: 2aaad013-151a-417b-b3c3-968e16a93706
+  macAddresses:
   - 64:5F:FF:00:00:00/24
   manufacturer: Nicolet Neuro
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NicoletN
 type: d3-device-type-assertion

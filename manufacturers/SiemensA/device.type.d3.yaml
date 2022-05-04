@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 3e24ba69-caea-48cb-bf52-3fa2098679f4
-  mac-addresses:
+  id: eba6e12e-99c0-4d47-b327-107d37826fd1
+  macAddresses:
   - 00:11:33:00:00:00/24
   - 30:13:89:00:00:00/24
   - 70:B3:D5:CC:A0:00/36
   - CC:22:37:60:00:00/28
   manufacturer: Siemens AG Austria
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiemensA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa568ad8-d261-47bb-be3b-7a398a819cfe
-  mac-addresses:
+  id: c2a9f8fd-199e-40ea-ae57-6f3099f37f35
+  macAddresses:
   - D8:A6:FD:00:00:00/24
   manufacturer: Ghost Locomotion
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GhostLoc
 type: d3-device-type-assertion

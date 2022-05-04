@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb44e850-ef2f-4910-ac49-8e14f0aa25b5
-  mac-addresses:
+  id: 43f83f43-8334-4f7d-9a07-10104394ea2a
+  macAddresses:
   - 00:50:C2:46:70:00/36
   manufacturer: United Western Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnitedWe
 type: d3-device-type-assertion

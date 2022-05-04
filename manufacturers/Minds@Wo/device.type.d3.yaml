@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d599906-b9c3-4220-b235-ca0c5500eef4
-  mac-addresses:
+  id: 19e8f4a5-b448-4b58-a1b3-b418a46105a6
+  macAddresses:
   - 00:08:8A:00:00:00/24
   manufacturer: Minds@Work
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Minds@Wo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2fa49e8-d220-48c3-a1e7-2183c48e8dbf
-  mac-addresses:
+  id: fbf7c2fa-3a01-43e2-9244-2acff817b86b
+  macAddresses:
   - 18:89:DF:00:00:00/24
   manufacturer: CerebrEX Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CerebrEX
 type: d3-device-type-assertion

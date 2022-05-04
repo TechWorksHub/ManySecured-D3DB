@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad8fa40f-fbd6-4660-bd9f-d033a2a325df
-  mac-addresses:
+  id: 8f621bb2-f0cc-498f-9ce6-0e9f3e7c0df4
+  macAddresses:
   - 00:50:C2:00:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TTTech
 type: d3-device-type-assertion

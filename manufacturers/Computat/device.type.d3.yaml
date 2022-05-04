@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 022b69de-83bf-4641-bd8f-5572398aedbd
-  mac-addresses:
+  id: b98893ce-87d3-4a3a-a02d-a7403e096a64
+  macAddresses:
   - 00:D0:C5:00:00:00/24
   manufacturer: Computational Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Computat
 type: d3-device-type-assertion

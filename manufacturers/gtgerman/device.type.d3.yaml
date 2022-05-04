@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcf875b7-4c78-47ad-8793-8d29b27a61b6
-  mac-addresses:
+  id: 5e01bf1e-e86d-4e54-9a45-aa554e0d56cc
+  macAddresses:
   - 00:25:0E:00:00:00/24
   manufacturer: gt german telematics gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: gtgerman
 type: d3-device-type-assertion

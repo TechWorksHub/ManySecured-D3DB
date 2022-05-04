@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1426f23-9e7a-45a7-828f-ff55e4428bfa
-  mac-addresses:
+  id: 47787f7b-2061-405b-9e27-e220a74f0acc
+  macAddresses:
   - 08:ED:02:B0:00:00/28
   manufacturer: Szok Energy and Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SzokEner
 type: d3-device-type-assertion

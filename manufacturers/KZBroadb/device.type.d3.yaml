@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd17f042-2882-473b-8d43-5ddbd74171ff
-  mac-addresses:
+  id: 2c57ece3-0204-4362-909e-51df7b33cf53
+  macAddresses:
   - 6C:AD:EF:00:00:00/24
   manufacturer: KZ Broadband Technologies, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KZBroadb
 type: d3-device-type-assertion

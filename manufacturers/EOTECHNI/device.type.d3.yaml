@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b8ca986-7b72-47b7-a7c5-7c0aae8757b6
-  mac-addresses:
+  id: 0cbda697-e163-4877-bcbc-95f94c4b6b57
+  macAddresses:
   - 00:18:F4:00:00:00/24
   manufacturer: EO TECHNICS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EOTECHNI
 type: d3-device-type-assertion

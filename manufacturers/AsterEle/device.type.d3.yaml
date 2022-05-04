@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c44b7952-4832-4c1c-bd37-75dc8d18110d
-  mac-addresses:
+  id: ea049303-0d0b-474d-a28f-280aadb1646f
+  macAddresses:
   - 00:50:C2:FD:30:00/36
   manufacturer: Aster Electric Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsterEle
 type: d3-device-type-assertion

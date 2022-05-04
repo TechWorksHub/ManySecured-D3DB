@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3d1a67d-81e1-4b2d-a006-738b1a394d4e
-  mac-addresses:
+  id: 14f0261d-8f5e-4639-9762-e2acbd649964
+  macAddresses:
   - 00:E0:04:00:00:00/24
   manufacturer: Pmc-Sierra, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pmc-Sier
 type: d3-device-type-assertion

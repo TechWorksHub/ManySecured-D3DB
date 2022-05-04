@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60718682-20b1-4d6b-a3ab-983c2e826692
-  mac-addresses:
+  id: 64b3163c-df6a-4685-9d74-d10270f5cc87
+  macAddresses:
   - D4:8D:D9:00:00:00/24
   manufacturer: Meld Technology, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeldTech
 type: d3-device-type-assertion

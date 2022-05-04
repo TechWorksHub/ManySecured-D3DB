@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70ee0fa3-3c2e-4073-b5c5-672a9a0c7ed5
-  mac-addresses:
+  id: a32e4782-4508-4708-8745-bd87c3cb5ea1
+  macAddresses:
   - 00:1E:87:00:00:00/24
   manufacturer: Realease Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Realease
 type: d3-device-type-assertion

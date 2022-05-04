@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a74cbfe7-35f9-4552-9b54-bc5735853bd6
-  mac-addresses:
+  id: 59c3486a-6f7b-4d32-b1b3-917d7a163518
+  macAddresses:
   - 00:10:3F:00:00:00/24
   manufacturer: Tollgrade Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tollgrad
 type: d3-device-type-assertion

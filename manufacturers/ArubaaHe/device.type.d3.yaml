@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7f2f9a30-a729-4013-bebd-1f0037c58136
-  mac-addresses:
+  id: 623673df-e69b-46cd-b94a-ae83fc96e214
+  macAddresses:
   - 00:0B:86:00:00:00/24
   - 00:1A:1E:00:00:00/24
   - 00:24:6C:00:00:00/24
@@ -62,6 +62,6 @@ credentialSubject:
   - F8:60:F0:00:00:00/24
   - FC:7F:F1:00:00:00/24
   manufacturer: Aruba, a Hewlett Packard Enterprise Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArubaaHe
 type: d3-device-type-assertion

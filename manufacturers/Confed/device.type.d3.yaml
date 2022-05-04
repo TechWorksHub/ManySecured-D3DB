@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa44ca68-42b6-4239-ba16-b2f71917533e
-  mac-addresses:
+  id: 150446b8-884f-41dc-977e-6aefafb6b8b3
+  macAddresses:
   - 70:B3:D5:99:F0:00/36
   manufacturer: Confed Holding B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Confed
 type: d3-device-type-assertion

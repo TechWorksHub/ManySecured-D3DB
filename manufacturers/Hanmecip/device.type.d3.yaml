@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f165ecb-3690-4e9e-8ad9-d31e2ab2064b
-  mac-addresses:
+  id: 6a94762a-68bc-4a64-9f06-1e974e2d9ae7
+  macAddresses:
   - B0:B3:53:90:00:00/28
   manufacturer: Hanmecips Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hanmecip
 type: d3-device-type-assertion

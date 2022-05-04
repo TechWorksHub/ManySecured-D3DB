@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a78f0480-2642-489f-aa6c-bd744cfc12db
-  mac-addresses:
+  id: baf7f0bd-2daf-4beb-9ed4-3da3b5f1b874
+  macAddresses:
   - 5C:5B:35:00:00:00/24
   - A8:53:7D:00:00:00/24
   - A8:F7:D9:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - D4:20:B0:00:00:00/24
   - D4:DC:09:00:00:00/24
   manufacturer: Mist Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mist
 type: d3-device-type-assertion

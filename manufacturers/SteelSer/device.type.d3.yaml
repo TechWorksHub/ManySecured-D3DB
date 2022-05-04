@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 680f74cf-13ac-47e2-b7c6-e18006ba4587
-  mac-addresses:
+  id: 3f013d48-e91b-4dbc-b533-30d28b22924b
+  macAddresses:
   - 20:AF:1B:00:00:00/24
   - 28:9A:4B:00:00:00/24
   manufacturer: SteelSeries ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SteelSer
 type: d3-device-type-assertion

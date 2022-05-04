@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c096bc41-72b5-4cea-a048-e6271ef08216
-  mac-addresses:
+  id: 4409fad1-bbdb-4515-8b7d-b342a9564fc7
+  macAddresses:
   - 00:1C:51:00:00:00/24
   manufacturer: Celeno Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CelenoCo
 type: d3-device-type-assertion

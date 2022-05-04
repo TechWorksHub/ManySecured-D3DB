@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a2dcce7-8438-4a5e-bc9c-bd10c89c829d
-  mac-addresses:
+  id: 69bfd450-1e88-4d7f-9dc2-63735ec3dccf
+  macAddresses:
   - EA:11:5D:00:00:00/24
   manufacturer: Autovision Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autovisi
 type: d3-device-type-assertion

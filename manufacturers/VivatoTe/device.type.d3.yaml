@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a8d4a93-b901-4537-8090-f51215e8b8cb
-  mac-addresses:
+  id: 9f5db856-defb-4362-a575-56e79c0f48b7
+  macAddresses:
   - 00:0B:33:00:00:00/24
   manufacturer: Vivato Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VivatoTe
 type: d3-device-type-assertion

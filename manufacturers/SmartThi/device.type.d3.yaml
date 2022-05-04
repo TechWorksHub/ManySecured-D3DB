@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6021a12e-6ee8-4084-9c34-bdb70529686d
-  mac-addresses:
+  id: a306868c-a6c8-4694-81d3-93a825528175
+  macAddresses:
   - 24:FD:5B:00:00:00/24
   manufacturer: SmartThings, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartThi
 type: d3-device-type-assertion

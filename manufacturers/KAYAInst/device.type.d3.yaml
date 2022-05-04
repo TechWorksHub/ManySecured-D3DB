@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dd605d5-a71f-4419-962b-d49e9aa24757
-  mac-addresses:
+  id: 04ea5a7a-1c94-43a9-b042-b1c9ba76947b
+  macAddresses:
   - 70:B3:D5:F3:D0:00/36
   manufacturer: KAYA Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KAYAInst
 type: d3-device-type-assertion

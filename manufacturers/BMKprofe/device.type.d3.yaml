@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ed209056-6a60-4c4a-8ff6-382894e9fbe2
-  mac-addresses:
+  id: cbe8839e-ef32-44bc-81dc-d4dcb0396132
+  macAddresses:
   - 00:50:C2:34:D0:00/36
   - 1C:A0:EF:B0:00:00/28
   manufacturer: BMK professional electronics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BMKprofe
 type: d3-device-type-assertion

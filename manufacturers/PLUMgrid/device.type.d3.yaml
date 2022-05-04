@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 828b02bf-b1f6-4b0f-9c57-9173d1242757
-  mac-addresses:
+  id: ee7a79ab-1a8e-4752-bbfb-12bb1cfeb394
+  macAddresses:
   - 3C:B7:2B:00:00:00/24
   manufacturer: PLUMgrid Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PLUMgrid
 type: d3-device-type-assertion

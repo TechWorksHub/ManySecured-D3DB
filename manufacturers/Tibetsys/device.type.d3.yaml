@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1722b7d-a890-4dbc-a739-29407c012795
-  mac-addresses:
+  id: 82d0957e-374a-413d-b711-20c0a7a1e8ec
+  macAddresses:
   - 00:17:BD:00:00:00/24
   manufacturer: Tibetsystem
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tibetsys
 type: d3-device-type-assertion

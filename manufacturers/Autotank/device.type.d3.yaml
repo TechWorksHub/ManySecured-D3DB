@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3104bae7-d129-4fad-a926-234e567af844
-  mac-addresses:
+  id: fe7c76f3-29b4-45b7-97fb-12c220a84ce3
+  macAddresses:
   - 00:50:C2:91:00:00/36
   manufacturer: Autotank AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autotank
 type: d3-device-type-assertion

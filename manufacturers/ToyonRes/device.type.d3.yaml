@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa47b4c2-e59c-4f99-83f6-34798786b189
-  mac-addresses:
+  id: 5336c422-e1ff-49bc-b974-cf3658e296e9
+  macAddresses:
   - 00:50:C2:CE:B0:00/36
   manufacturer: Toyon Research Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToyonRes
 type: d3-device-type-assertion

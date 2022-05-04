@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d1d008a-b335-4808-a470-900189431bbe
-  mac-addresses:
+  id: b144aee2-63e3-4e26-a73c-e3ac5fa28637
+  macAddresses:
   - 70:B3:D5:BD:50:00/36
   manufacturer: Synics AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synics
 type: d3-device-type-assertion

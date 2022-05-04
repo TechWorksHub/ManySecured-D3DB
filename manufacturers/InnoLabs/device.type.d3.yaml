@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5afe2461-7a7e-4bc5-9b38-6ee7d3d1a931
-  mac-addresses:
+  id: ca0b350b-6158-4889-b535-f7dd50f86611
+  macAddresses:
   - 00:10:44:00:00:00/24
   manufacturer: InnoLabs Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnoLabs
 type: d3-device-type-assertion

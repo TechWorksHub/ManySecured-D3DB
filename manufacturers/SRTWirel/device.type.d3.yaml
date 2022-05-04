@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c252b486-7e4e-427b-ab8e-158ceb3f917a
-  mac-addresses:
+  id: 86aa01c2-a916-4e8c-a889-d12e3bcc3c2a
+  macAddresses:
   - 74:14:89:00:00:00/24
   manufacturer: SRT Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SRTWirel
 type: d3-device-type-assertion

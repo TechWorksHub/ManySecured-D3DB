@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8bf5efc-b753-4986-9a21-333f0d63400d
-  mac-addresses:
+  id: 96169862-4700-4bfc-b1af-0e0dc07f2bad
+  macAddresses:
   - 70:B3:D5:1D:D0:00/36
   manufacturer: Rf Creations Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RfCreati
 type: d3-device-type-assertion

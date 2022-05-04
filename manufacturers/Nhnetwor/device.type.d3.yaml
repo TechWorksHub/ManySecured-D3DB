@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59614958-f5b4-44c8-9f02-d99d0ecc69b4
-  mac-addresses:
+  id: b8470b50-840c-4335-b67f-020fa72ff12c
+  macAddresses:
   - 1C:6E:E6:00:00:00/24
   manufacturer: Nhnetworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nhnetwor
 type: d3-device-type-assertion

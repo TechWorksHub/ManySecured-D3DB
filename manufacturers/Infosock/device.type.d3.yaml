@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae1cae55-3e77-4159-995d-fc86baaf70d2
-  mac-addresses:
+  id: e1089032-0d01-4760-aae8-6cf5aa716fd7
+  macAddresses:
   - 70:B3:D5:C0:A0:00/36
   manufacturer: Infosocket Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infosock
 type: d3-device-type-assertion

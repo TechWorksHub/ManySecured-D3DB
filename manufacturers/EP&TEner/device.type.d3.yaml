@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 839865ff-3dbc-43cd-b3a0-de8588a1e844
-  mac-addresses:
+  id: 7fe490a8-9e6d-40b4-a599-5837071137c0
+  macAddresses:
   - 00:11:9C:00:00:00/24
   manufacturer: EP&T Energy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EP&TEner
 type: d3-device-type-assertion

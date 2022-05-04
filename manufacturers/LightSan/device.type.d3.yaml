@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2ec0515-a4e7-45a3-8a45-a6615cd47e5c
-  mac-addresses:
+  id: 6887120f-71f9-419f-a621-e423240a7c95
+  macAddresses:
   - 00:05:E3:00:00:00/24
   manufacturer: LightSand Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LightSan
 type: d3-device-type-assertion

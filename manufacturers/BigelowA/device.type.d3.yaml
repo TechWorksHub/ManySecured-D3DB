@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7f9432d-1397-4da3-8e86-095dfb2e21c6
-  mac-addresses:
+  id: c1e1132a-f5ef-4d8e-8ad3-7989ab7f8b58
+  macAddresses:
   - 00:22:54:00:00:00/24
   manufacturer: Bigelow Aerospace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BigelowA
 type: d3-device-type-assertion

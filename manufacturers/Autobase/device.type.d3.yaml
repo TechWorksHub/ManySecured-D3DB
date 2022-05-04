@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87f1b05a-a73e-4f53-bac5-6766321a3872
-  mac-addresses:
+  id: ce091730-6ea2-4351-a20f-4fb6eac78e6c
+  macAddresses:
   - FC:1D:84:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autobase
 type: d3-device-type-assertion

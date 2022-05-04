@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63e2bc72-e249-47f1-aed4-aff07a4171ac
-  mac-addresses:
+  id: ba29f584-6b7e-423d-a362-099fc5610e3f
+  macAddresses:
   - 00:04:0C:00:00:00/24
   manufacturer: Kanno Works, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KannoWor
 type: d3-device-type-assertion

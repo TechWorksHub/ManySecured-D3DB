@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a4dfdc3-46ae-4aae-add9-f5aa5989d2c2
-  mac-addresses:
+  id: a118f313-c95c-4c4b-8ba0-fc3fe0d11a37
+  macAddresses:
   - 00:50:C2:E0:F0:00/36
   manufacturer: Trentino Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trentino
 type: d3-device-type-assertion

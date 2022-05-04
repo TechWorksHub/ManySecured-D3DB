@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42f2a956-4bba-44ad-8787-d6b67d921686
-  mac-addresses:
+  id: babf0ac1-c9ff-4355-a2df-b1b64efd8390
+  macAddresses:
   - DC:1E:A3:00:00:00/24
   manufacturer: Accensus LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accensus
 type: d3-device-type-assertion

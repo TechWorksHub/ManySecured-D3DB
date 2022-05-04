@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea111943-ecdf-43bb-8a35-80e0a3f1856f
-  mac-addresses:
+  id: d0e9395d-3406-44cd-a008-2a58e0c854d2
+  macAddresses:
   - 00:90:D4:00:00:00/24
   manufacturer: BindView Development Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BindView
 type: d3-device-type-assertion

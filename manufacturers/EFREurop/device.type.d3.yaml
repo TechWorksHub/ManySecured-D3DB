@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a48b6bf9-ca5d-4870-a331-89dd771d6b81
-  mac-addresses:
+  id: 0bdb3afd-5893-4ab3-907f-d39c4885b7ba
+  macAddresses:
   - B8:2A:DC:00:00:00/24
   manufacturer: "EFR Europ\xE4ische Funk-Rundsteuerung GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EFREurop
 type: d3-device-type-assertion

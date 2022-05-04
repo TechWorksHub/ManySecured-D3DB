@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c338db9-f2e8-48ee-81ff-3c04dae91f67
-  mac-addresses:
+  id: bbbafed1-ecb1-49d6-9936-4260bc2bbe7a
+  macAddresses:
   - 50:3F:98:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cmitech
 type: d3-device-type-assertion

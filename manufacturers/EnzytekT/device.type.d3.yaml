@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32c5bd84-17b1-4a57-979a-83d00784408d
-  mac-addresses:
+  id: bd7ded5e-9fe5-484c-8b95-e4a1f12b359c
+  macAddresses:
   - 00:1C:97:00:00:00/24
   manufacturer: Enzytek Technology Inc.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnzytekT
 type: d3-device-type-assertion

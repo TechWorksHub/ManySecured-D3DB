@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19655ed7-8dba-42eb-901e-6295b5e9dab4
-  mac-addresses:
+  id: 268c638a-3b00-4cec-9988-700decb07377
+  macAddresses:
   - 00:11:96:00:00:00/24
   manufacturer: Actuality Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Actualit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60af5d15-0f31-4ec2-85fb-c57208021ef6
-  mac-addresses:
+  id: 1f58c0f7-3ceb-4cfd-a638-a5de55b76ba2
+  macAddresses:
   - 00:40:F3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netcor
 type: d3-device-type-assertion

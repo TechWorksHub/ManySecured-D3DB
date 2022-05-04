@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03f5967e-21bf-42fe-84e4-971f781c6c19
-  mac-addresses:
+  id: fab90cb1-525f-4db0-82b9-794d2386eef5
+  macAddresses:
   - 00:17:FD:00:00:00/24
   manufacturer: Amulet Hotkey
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmuletHo
 type: d3-device-type-assertion

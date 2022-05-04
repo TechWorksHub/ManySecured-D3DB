@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7eb20c0a-ee15-476e-b3e7-b0935efb2ea9
-  mac-addresses:
+  id: 020b5677-1195-4b3f-afae-7c35e7b3e906
+  macAddresses:
   - 00:1D:39:00:00:00/24
   manufacturer: Moohadigital Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Moohadig
 type: d3-device-type-assertion

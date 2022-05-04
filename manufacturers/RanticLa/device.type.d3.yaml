@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9039a0d3-d1aa-4381-86b6-80d7c7bac465
-  mac-addresses:
+  id: e6712a28-2333-4750-b505-573e546f82a1
+  macAddresses:
   - 00:B0:1E:00:00:00/24
   manufacturer: Rantic Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RanticLa
 type: d3-device-type-assertion

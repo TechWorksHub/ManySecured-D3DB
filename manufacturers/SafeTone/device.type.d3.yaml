@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50c9db19-aef2-4309-9d7c-ff8904a3ba98
-  mac-addresses:
+  id: 16c29341-aee6-4b3f-840e-2f3ac11c3009
+  macAddresses:
   - 7C:6A:DB:00:00:00/24
   manufacturer: SafeTone Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SafeTone
 type: d3-device-type-assertion

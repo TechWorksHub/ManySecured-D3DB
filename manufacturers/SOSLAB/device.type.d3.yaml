@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0cd258f-8be9-497e-92aa-bdf04fba1fa5
-  mac-addresses:
+  id: 0bc10fe9-a78a-4661-9ba8-8cd5da31591e
+  macAddresses:
   - A4:53:EE:C0:00:00/28
   manufacturer: SOS LAB Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SOSLAB
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7ecc3a35-4df3-4e64-a854-211ef831622d
-  mac-addresses:
+  id: e508458b-8a5e-4b02-9a27-aee27e5892b1
+  macAddresses:
   - 00:18:48:00:00:00/24
   - 2C:55:3C:00:00:00/24
   manufacturer: Vecima Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VecimaNe
 type: d3-device-type-assertion

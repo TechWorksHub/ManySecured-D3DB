@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 08d8a793-9ab9-4e7e-9ba8-6e0b8331a084
-  mac-addresses:
+  id: 0b37b7d4-9097-4ddd-83e7-2c29a4870870
+  macAddresses:
   - 0C:71:8C:00:00:00/24
   - 0C:BD:51:00:00:00/24
   - 18:E3:BC:00:00:00/24
@@ -45,6 +45,6 @@ credentialSubject:
   - F0:51:36:00:00:00/24
   - F0:D0:8C:00:00:00/24
   manufacturer: TCT mobile ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TCTmobil
 type: d3-device-type-assertion

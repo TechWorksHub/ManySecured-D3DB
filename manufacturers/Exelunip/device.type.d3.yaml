@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a82112f5-9965-434a-a3fe-19d7ca7ae277
-  mac-addresses:
+  id: 2307d31d-de48-4fe8-b267-6dc3d8433363
+  macAddresses:
   - A8:3F:A1:B0:00:00/28
   manufacturer: Exel s.r.l. unipersonale
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exelunip
 type: d3-device-type-assertion

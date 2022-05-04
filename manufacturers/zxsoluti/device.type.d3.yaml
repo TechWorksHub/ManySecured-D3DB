@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1110133f-5be1-43f2-bcf3-e1b415d25228
-  mac-addresses:
+  id: 3a9eaf99-7841-4498-82cc-68c2bf4c72c4
+  macAddresses:
   - C0:FB:F9:90:00:00/28
   manufacturer: zxsolution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: zxsoluti
 type: d3-device-type-assertion

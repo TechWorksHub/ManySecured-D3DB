@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a36c2605-af47-4cfe-b325-1e1ec231b63c
-  mac-addresses:
+  id: f5633cb2-e38d-4c26-97de-e00a8c55adc1
+  macAddresses:
   - 00:80:EE:00:00:00/24
   manufacturer: Thomson Csf
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThomsonC
 type: d3-device-type-assertion

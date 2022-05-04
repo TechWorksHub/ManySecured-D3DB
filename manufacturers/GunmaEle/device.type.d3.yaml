@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c0c36875-c7b3-4ff3-8f97-df4976ff8ae8
-  mac-addresses:
+  id: 51222852-42d9-439e-8ec8-94e87cf70561
+  macAddresses:
   - 00:50:C2:D1:30:00/36
   - 70:B3:D5:64:F0:00/36
   manufacturer: Gunma Electronics Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GunmaEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60927147-192a-4e17-ab79-321abde7c6df
-  mac-addresses:
+  id: a87b89d5-cc17-4d00-bac3-80468a7a7b2a
+  macAddresses:
   - 00:18:9E:00:00:00/24
   manufacturer: OMNIKEY GmbH.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OMNIKEY
 type: d3-device-type-assertion

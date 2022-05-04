@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e45712f-200e-4e7c-9ed5-e1be0abecd3b
-  mac-addresses:
+  id: 29fdd4ce-b6e1-4919-b15c-d48def158d2e
+  macAddresses:
   - 00:10:D8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Calista
 type: d3-device-type-assertion

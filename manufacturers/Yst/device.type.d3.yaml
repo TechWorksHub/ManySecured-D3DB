@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c583574b-ba64-4a5a-83a7-92cf7eff4924
-  mac-addresses:
+  id: 3500db48-9fea-4b93-ac6e-00ae3d2103ff
+  macAddresses:
   - 94:54:DF:00:00:00/24
   manufacturer: Yst Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yst
 type: d3-device-type-assertion

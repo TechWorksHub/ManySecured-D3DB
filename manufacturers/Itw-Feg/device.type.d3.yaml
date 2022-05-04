@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cb1d446-a9e1-4e69-a285-031e2f980929
-  mac-addresses:
+  id: d546597a-c792-4745-ae48-d2ca26298f5f
+  macAddresses:
   - 1C:88:79:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Itw-Feg
 type: d3-device-type-assertion

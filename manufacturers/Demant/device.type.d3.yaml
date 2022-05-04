@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f2012ca2-ce61-44ba-8c0e-572ed3f925b4
-  mac-addresses:
+  id: 716a78af-6a71-4b10-8539-aa9d6e4e8e65
+  macAddresses:
   - 00:19:8E:00:00:00/24
   - 00:F8:71:00:00:00/24
   manufacturer: Demant A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Demant
 type: d3-device-type-assertion

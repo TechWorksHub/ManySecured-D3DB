@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e635649-0a4e-4ddb-8ac1-487a2f69b585
-  mac-addresses:
+  id: 0b5cd577-63e3-4df7-8f3e-80bda15c56f4
+  macAddresses:
   - 00:50:C0:00:00:00/24
   manufacturer: Gatan, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gatan
 type: d3-device-type-assertion

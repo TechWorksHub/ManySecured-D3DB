@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 404d37c4-a5cf-4964-849c-4973c9601e06
-  mac-addresses:
+  id: eb8c941b-a806-4c6d-b6cb-5741b3461e57
+  macAddresses:
   - 00:26:DD:00:00:00/24
   manufacturer: Fival Science & Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FivalSci
 type: d3-device-type-assertion

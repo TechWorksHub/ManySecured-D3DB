@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c7f0f5b-76fd-4503-b80c-5c024e8ff9fd
-  mac-addresses:
+  id: 90ac95cf-ddaa-4dc6-a65b-2d6ae85a9fe1
+  macAddresses:
   - A4:DE:C9:00:00:00/24
   manufacturer: QLove Mobile Intelligence Information Technology (W.H.) Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QLoveMob
 type: d3-device-type-assertion

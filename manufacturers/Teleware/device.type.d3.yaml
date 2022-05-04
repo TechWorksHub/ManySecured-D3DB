@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3997e5fd-b6a2-4435-a9b3-5b482815ed2a
-  mac-addresses:
+  id: fbff3ead-8d81-4689-95a3-e8bc75568698
+  macAddresses:
   - 00:03:14:00:00:00/24
   manufacturer: Teleware Network Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teleware
 type: d3-device-type-assertion

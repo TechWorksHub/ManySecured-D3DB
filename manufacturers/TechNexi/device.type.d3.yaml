@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0a85762-e539-4ad0-bcfd-c4d4c9361b13
-  mac-addresses:
+  id: af417c11-0466-4113-96b5-d7dbdf1aab4b
+  macAddresses:
   - 00:1F:7B:00:00:00/24
   manufacturer: TechNexion Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechNexi
 type: d3-device-type-assertion

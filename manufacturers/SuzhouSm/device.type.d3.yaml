@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf58bca6-b2dd-4cf5-914f-906b845f8eeb
-  mac-addresses:
+  id: 4f8448c7-896a-48ae-9b24-209154c2fa23
+  macAddresses:
   - C8:2E:47:00:00:00/24
   manufacturer: Suzhou SmartChip Semiconductor Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouSm
 type: d3-device-type-assertion

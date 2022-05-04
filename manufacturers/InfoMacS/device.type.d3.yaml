@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48d9179b-02c4-462d-b4ca-8bd21ec80a88
-  mac-addresses:
+  id: 64751dca-274b-40fd-aa61-d8f1765148e8
+  macAddresses:
   - 40:D8:55:0F:B0:00/36
   manufacturer: InfoMac Sp. z o. o. Sp. k.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InfoMacS
 type: d3-device-type-assertion

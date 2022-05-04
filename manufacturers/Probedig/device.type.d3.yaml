@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87e1aac3-231e-403a-98bf-af2af925f08b
-  mac-addresses:
+  id: a96a864e-b551-426f-814b-59ad4eab460e
+  macAddresses:
   - 54:54:CF:00:00:00/24
   manufacturer: Probedigital Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Probedig
 type: d3-device-type-assertion

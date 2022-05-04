@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd965f77-0ef6-4180-abfd-75b2b262ee82
-  mac-addresses:
+  id: b74aca6a-c674-4949-b877-7e307b647e01
+  macAddresses:
   - 00:19:DA:00:00:00/24
   manufacturer: Welltrans O&E Technology Co. , Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Welltran
 type: d3-device-type-assertion

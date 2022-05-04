@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c27e4599-aad7-4ba8-b003-d6079b3e1329
-  mac-addresses:
+  id: 6d81595b-9e46-4a38-bdfb-ce52b67210ee
+  macAddresses:
   - 70:B3:D5:02:00:00/36
   manufacturer: Micro Debug, Y.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroDeb
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb866c0a-1d57-4f4e-afa2-582e48e65354
-  mac-addresses:
+  id: 292a8b98-47be-4f04-8c49-fc52fff97112
+  macAddresses:
   - 6C:9A:C9:00:00:00/24
   manufacturer: Valentine Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Valentin
 type: d3-device-type-assertion

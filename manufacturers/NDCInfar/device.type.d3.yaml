@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e822553-262f-456e-8e58-b6744868b094
-  mac-addresses:
+  id: dedb33ac-eb4b-46df-9186-a8fbcffc831a
+  macAddresses:
   - 00:02:E2:00:00:00/24
   manufacturer: NDC Infared Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NDCInfar
 type: d3-device-type-assertion

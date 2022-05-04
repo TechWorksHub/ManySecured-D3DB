@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7e6d44e-e217-488e-a6d9-cf3da4843383
-  mac-addresses:
+  id: 6573d180-58f9-4e90-8ad0-51c5304d74ee
+  macAddresses:
   - 74:1A:E0:00:00:00/28
   manufacturer: Huano International Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuanoInt
 type: d3-device-type-assertion

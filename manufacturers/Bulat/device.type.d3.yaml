@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07d8b58f-7963-4f51-86df-4494c042b022
-  mac-addresses:
+  id: e3177e24-8a12-4a84-923c-ee4f42347838
+  macAddresses:
   - D8:E0:B8:00:00:00/24
   manufacturer: Bulat Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bulat
 type: d3-device-type-assertion

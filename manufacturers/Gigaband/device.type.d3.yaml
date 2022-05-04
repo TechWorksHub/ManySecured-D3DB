@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b468749f-db36-4534-a8fa-590ff2b0b073
-  mac-addresses:
+  id: fba5b08d-6eff-4cd5-b5d2-f08354bcc51b
+  macAddresses:
   - 70:B3:D5:E9:F0:00/36
   manufacturer: Gigaband IP LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gigaband
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58e301e0-1f48-407b-aab1-54b3edec6e2b
-  mac-addresses:
+  id: b3ec7cca-c303-4b83-9c29-d5ad7279bdb7
+  macAddresses:
   - 00:E0:68:00:00:00/24
   manufacturer: Merrimac Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Merrimac
 type: d3-device-type-assertion

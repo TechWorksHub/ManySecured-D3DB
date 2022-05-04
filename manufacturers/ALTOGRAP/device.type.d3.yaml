@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3b44355-d315-4775-9643-b652b29496b6
-  mac-addresses:
+  id: 802000e4-761a-4e4b-9325-119d96792f60
+  macAddresses:
   - E4:96:AE:00:00:00/24
   manufacturer: ALTOGRAPHICS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALTOGRAP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a11db1d-c89a-483e-b318-cecc96238f15
-  mac-addresses:
+  id: c8057581-45a6-4ebd-be82-7ce59a98ddd9
+  macAddresses:
   - FC:58:4A:00:00:00/24
   manufacturer: xiamenshi c-chip technology co., ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: xiamensh
 type: d3-device-type-assertion

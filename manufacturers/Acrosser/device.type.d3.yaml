@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e06c3098-2d12-42ac-91c1-7a7ac397739e
-  mac-addresses:
+  id: 50549331-36c0-46d2-a923-20bf55b47bbe
+  macAddresses:
   - 00:02:B6:00:00:00/24
   manufacturer: Acrosser Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acrosser
 type: d3-device-type-assertion

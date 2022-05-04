@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f789645f-abfd-4e7c-813f-292ca4dc0414
-  mac-addresses:
+  id: afa1da17-e907-4dcd-b438-bb9c01f3bda8
+  macAddresses:
   - 94:51:BF:00:00:00/24
   manufacturer: Hyundai ESG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HyundaiE
 type: d3-device-type-assertion

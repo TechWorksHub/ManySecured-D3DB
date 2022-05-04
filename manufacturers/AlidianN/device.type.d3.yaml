@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c18642b7-fdce-49f6-af0f-5891aac026b5
-  mac-addresses:
+  id: 9f5f17aa-7af4-4558-a342-23a89f90ae74
+  macAddresses:
   - 00:D0:44:00:00:00/24
   manufacturer: Alidian Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlidianN
 type: d3-device-type-assertion

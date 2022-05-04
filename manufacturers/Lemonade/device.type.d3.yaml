@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34b2264e-d7d9-4647-8142-3518be27ffe7
-  mac-addresses:
+  id: 6c645fa6-ce71-4946-a0f5-a6ad2d51bff6
+  macAddresses:
   - 70:B3:D5:AD:60:00/36
   manufacturer: Lemonade Lab Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lemonade
 type: d3-device-type-assertion

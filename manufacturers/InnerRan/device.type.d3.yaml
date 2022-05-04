@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3176cd87-09c1-4a06-8feb-3240a771106c
-  mac-addresses:
+  id: 56a38e25-de99-46c2-9327-759d0c831a7c
+  macAddresses:
   - 00:11:B9:00:00:00/24
   manufacturer: Inner Range Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnerRan
 type: d3-device-type-assertion

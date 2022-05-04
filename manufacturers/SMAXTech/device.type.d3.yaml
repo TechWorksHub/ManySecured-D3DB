@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 630a2701-d974-4772-bccd-295a4c83cd8c
-  mac-addresses:
+  id: 8207d5e1-7ab3-46e1-a66d-8166247c4589
+  macAddresses:
   - D4:A4:25:00:00:00/24
   manufacturer: SMAX Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMAXTech
 type: d3-device-type-assertion

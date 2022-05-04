@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61c446a6-dd00-4bd7-bf77-2f449c84b91f
-  mac-addresses:
+  id: b5256f6a-1418-4152-a6eb-0e691d26a446
+  macAddresses:
   - 00:1C:C7:00:00:00/24
   manufacturer: Rembrandt Technologies, LLC d/b/a REMSTREAM
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rembrand
 type: d3-device-type-assertion

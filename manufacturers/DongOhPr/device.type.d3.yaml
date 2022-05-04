@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99943c80-6f16-4e93-8fe7-192a179cb70a
-  mac-addresses:
+  id: a614e9ab-3d36-4292-b394-b467566243f0
+  macAddresses:
   - D0:73:8E:00:00:00/24
   manufacturer: Dong Oh Precision Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DongOhPr
 type: d3-device-type-assertion

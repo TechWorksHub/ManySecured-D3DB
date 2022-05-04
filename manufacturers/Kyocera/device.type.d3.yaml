@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c726b27e-4f44-4baf-8d02-f78a25b3770c
-  mac-addresses:
+  id: 53e6d482-0a69-4b91-8679-9cf0eac9f5a3
+  macAddresses:
   - 00:22:94:00:00:00/24
   - 00:C0:EE:00:00:00/24
   - 24:5F:DF:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - C4:21:C8:00:00:00/24
   - CC:82:EB:00:00:00/24
   manufacturer: Kyocera Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kyocera
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3e78cd6-6202-45cb-83ee-d5f8e372390f
-  mac-addresses:
+  id: d1e27828-5867-482d-b8cb-e5ba351888fa
+  macAddresses:
   - 00:16:90:00:00:00/24
   manufacturer: J-Tek Incorporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: J-TekInc
 type: d3-device-type-assertion

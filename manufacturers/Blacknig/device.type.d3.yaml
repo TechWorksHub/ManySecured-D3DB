@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 288c5387-6626-449a-8538-03b76bc2934e
-  mac-addresses:
+  id: 20cd7cff-0786-4175-9e95-41134aa0533b
+  macAddresses:
   - F0:D7:AF:20:00:00/28
   manufacturer: Blacknight Internet Solutions Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blacknig
 type: d3-device-type-assertion

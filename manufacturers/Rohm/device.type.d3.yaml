@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee49ba74-dfbf-4b63-99e1-e4d70203cb0b
-  mac-addresses:
+  id: 3d70911c-0a98-405f-99bc-44746a3ff844
+  macAddresses:
   - 00:1D:12:00:00:00/24
   manufacturer: Rohm Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rohm
 type: d3-device-type-assertion

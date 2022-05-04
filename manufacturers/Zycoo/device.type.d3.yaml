@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e5fc11b-f386-4405-9866-624a487e5e37
-  mac-addresses:
+  id: fb8f8eb7-b464-41c8-a8b1-6c1185125578
+  macAddresses:
   - 68:69:2E:00:00:00/24
   manufacturer: Zycoo Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zycoo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57c8892f-6753-4d99-a7e6-424794ec4e53
-  mac-addresses:
+  id: 5c4dda10-c45e-45d2-b2ed-3a669d55d0df
+  macAddresses:
   - 00:1B:C5:05:80:00/36
   manufacturer: optiMEAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: optiMEAS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4bba0ced-6647-4bce-98fd-e1cb5a501558
-  mac-addresses:
+  id: d48307a9-e0e4-4206-b2a7-ed666cf26943
+  macAddresses:
   - 3C:C1:2C:00:00:00/24
   manufacturer: AES Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AES
 type: d3-device-type-assertion

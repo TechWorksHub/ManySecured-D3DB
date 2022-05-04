@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3d6dc19-6c3f-4d4c-b9b8-1a06d78adcb6
-  mac-addresses:
+  id: 13acf38d-4ce5-4098-b592-0e88e092ee27
+  macAddresses:
   - CC:1F:C4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InVue
 type: d3-device-type-assertion

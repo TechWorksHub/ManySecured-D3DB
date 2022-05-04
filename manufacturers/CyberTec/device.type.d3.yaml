@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e112ba9-fc46-4c45-9030-9ac8edee7827
-  mac-addresses:
+  id: f840fc8f-48cb-4fa9-98dd-f39829b96ab6
+  macAddresses:
   - 00:04:6C:00:00:00/24
   manufacturer: Cyber Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CyberTec
 type: d3-device-type-assertion

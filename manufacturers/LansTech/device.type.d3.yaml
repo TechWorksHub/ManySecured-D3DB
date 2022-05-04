@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bc1b264-0b41-4b29-ad48-c789cfd3dba6
-  mac-addresses:
+  id: 0083bcc8-dcb9-4714-9c24-aea8e597dfeb
+  macAddresses:
   - 00:C0:26:00:00:00/24
   manufacturer: Lans Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LansTech
 type: d3-device-type-assertion

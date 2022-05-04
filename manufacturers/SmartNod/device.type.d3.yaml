@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8d17583-854f-45c5-a574-86a55496417d
-  mac-addresses:
+  id: 46885505-047e-4077-81e0-8f77ce0e4ed7
+  macAddresses:
   - 70:B3:D5:20:90:00/36
   manufacturer: SmartNodes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartNod
 type: d3-device-type-assertion

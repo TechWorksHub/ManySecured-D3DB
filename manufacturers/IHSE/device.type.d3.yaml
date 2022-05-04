@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7e684a4-ef5d-4ad7-b1c4-3f8939b978a4
-  mac-addresses:
+  id: 9843f887-a1c7-4df7-bfca-b4502ba93c3b
+  macAddresses:
   - 00:21:5F:00:00:00/24
   manufacturer: IHSE GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IHSE
 type: d3-device-type-assertion

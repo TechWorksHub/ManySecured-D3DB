@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50fcdc38-a308-4c40-86c6-1a6f4c3aefd2
-  mac-addresses:
+  id: 8768299e-e67c-4bfe-a0b4-7f4edbdf84f6
+  macAddresses:
   - 34:D7:B4:00:00:00/24
   manufacturer: Tributary Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tributar
 type: d3-device-type-assertion

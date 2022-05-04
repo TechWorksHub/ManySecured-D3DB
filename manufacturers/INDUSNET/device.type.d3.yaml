@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4103fce-024d-4f47-8812-3caa7dc88e57
-  mac-addresses:
+  id: 9c738e43-b3db-46dd-9ca4-a313f580039a
+  macAddresses:
   - F4:0A:4A:00:00:00/24
   manufacturer: INDUSNET Communication Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INDUSNET
 type: d3-device-type-assertion

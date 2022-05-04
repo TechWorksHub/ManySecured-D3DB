@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db89acdc-0d9f-4754-b04a-715fd58d9b7e
-  mac-addresses:
+  id: 80a70a84-2e4e-41a7-a641-562ab7651113
+  macAddresses:
   - BC:66:41:20:00:00/28
   manufacturer: Process-Electronic Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Process-
 type: d3-device-type-assertion

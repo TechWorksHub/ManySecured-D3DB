@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 255b2056-cf19-4692-b4b3-bd676f3ad640
-  mac-addresses:
+  id: 735855d1-036d-4c41-8f05-7c5b49ef83f7
+  macAddresses:
   - 00:50:C2:D5:30:00/36
   manufacturer: Telemerkki Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telemerk
 type: d3-device-type-assertion

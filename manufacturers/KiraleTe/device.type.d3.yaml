@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7a29e0f-78ac-4180-90c9-e9c601d048db
-  mac-addresses:
+  id: fe39c719-37d4-451a-842f-c71e108e3c51
+  macAddresses:
   - 84:04:D2:00:00:00/24
   manufacturer: Kirale Technologies SL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KiraleTe
 type: d3-device-type-assertion

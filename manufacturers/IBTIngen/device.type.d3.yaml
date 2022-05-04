@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e10895f6-fdb1-4931-ae1c-c3df3fcb3680
-  mac-addresses:
+  id: f1405988-9f84-4b96-919b-1949e7fb4eb8
+  macAddresses:
   - D4:52:51:00:00:00/24
   manufacturer: IBT Ingenieurbureau Broennimann Thun
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IBTIngen
 type: d3-device-type-assertion

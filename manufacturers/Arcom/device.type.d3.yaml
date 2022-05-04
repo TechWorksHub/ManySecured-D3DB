@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a081e512-7e8b-4db0-845b-d108246497f2
-  mac-addresses:
+  id: 40a796f9-2925-4536-a4a2-a643bb46dd17
+  macAddresses:
   - 8C:81:26:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arcom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bbe8908-c42e-4c86-8d54-574c8d919c2b
-  mac-addresses:
+  id: f3dd53d4-6fbe-4a3e-beb9-9ad5db576e13
+  macAddresses:
   - 00:50:C2:53:80:00/36
   manufacturer: EtherTek Circuits
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EtherTek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ff1f368-7380-49ab-8a7a-89f5ecb7cdc9
-  mac-addresses:
+  id: 40bc5e65-298a-486f-8664-db7163fb6c81
+  macAddresses:
   - 00:50:C2:5E:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Musatel
 type: d3-device-type-assertion

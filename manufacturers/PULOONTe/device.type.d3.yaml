@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5fe0039-db9d-4c27-b53c-a1ecd65a8f4e
-  mac-addresses:
+  id: 3dd665a7-889a-49b8-b734-13bd029a23ee
+  macAddresses:
   - 70:B3:D5:DB:90:00/36
   manufacturer: PULOON Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PULOONTe
 type: d3-device-type-assertion

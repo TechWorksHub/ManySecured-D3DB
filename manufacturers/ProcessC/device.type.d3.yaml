@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d048854e-03e5-4e14-afb1-6a919be4d295
-  mac-addresses:
+  id: bbce3d77-213c-45ec-8fe7-d64a26df4314
+  macAddresses:
   - 00:60:B2:00:00:00/24
   manufacturer: Process Control Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProcessC
 type: d3-device-type-assertion

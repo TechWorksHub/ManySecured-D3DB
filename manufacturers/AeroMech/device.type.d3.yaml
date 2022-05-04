@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47d6b9be-9675-4d73-9bbc-cc141607a1a1
-  mac-addresses:
+  id: ab7a0939-d868-484a-9e30-e16e22ff8aac
+  macAddresses:
   - 00:50:C2:CE:D0:00/36
   manufacturer: AeroMechanical Services Ltd, FLYHT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AeroMech
 type: d3-device-type-assertion

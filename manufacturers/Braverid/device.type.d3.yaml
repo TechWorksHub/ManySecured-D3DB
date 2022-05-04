@@ -1,8 +1,8 @@
 credentialSubject:
-  id: baccb5ef-8406-4b26-a50f-38bcb848e9ae
-  mac-addresses:
+  id: 849a7070-1022-4a6b-87ea-55c0003c8dfc
+  macAddresses:
   - 24:68:80:00:00:00/24
   manufacturer: Braveridge.co.,ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Braverid
 type: d3-device-type-assertion

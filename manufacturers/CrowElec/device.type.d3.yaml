@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b021e9fd-edb5-4147-b436-84101a24fb2d
-  mac-addresses:
+  id: e7d4d505-41ef-4e2a-b624-e4077d142ce8
+  macAddresses:
   - 00:13:A1:00:00:00/24
   manufacturer: Crow Electronic Engeneering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrowElec
 type: d3-device-type-assertion

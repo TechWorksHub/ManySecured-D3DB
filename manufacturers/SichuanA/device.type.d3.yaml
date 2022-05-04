@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2986ddfe-8ab0-40fc-92e1-69d6d7a01e21
-  mac-addresses:
+  id: 71d4129c-d3fc-4bdb-9a81-c4a3bec16b24
+  macAddresses:
   - 10:2D:41:00:00:00/24
   - 10:38:1F:00:00:00/24
   - 18:EF:3A:00:00:00/24
@@ -25,6 +25,6 @@ credentialSubject:
   - DC:97:58:00:00:00/24
   - EC:9C:32:00:00:00/24
   manufacturer: Sichuan AI-Link Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanA
 type: d3-device-type-assertion

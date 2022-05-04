@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7babaa00-0829-4d6a-8bfd-8b02df01ab57
-  mac-addresses:
+  id: eb35e52f-298a-4299-abb7-4675f5893e05
+  macAddresses:
   - 60:89:B7:00:00:00/24
   manufacturer: "Kael M\xFChendi\u0307sli\u0307k Elektroni\u0307k Ti\u0307caret Sanayi\u0307\
     \ Li\u0307mi\u0307ted \u015Ei\u0307rketi\u0307"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "KaelM\xFChe"
 type: d3-device-type-assertion

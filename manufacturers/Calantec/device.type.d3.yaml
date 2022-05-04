@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95c7522b-0319-4831-911b-01ce6b5c0cdf
-  mac-addresses:
+  id: 5e6a204c-a320-45c0-9114-90f2598df4ca
+  macAddresses:
   - 70:61:73:00:00:00/24
   manufacturer: Calantec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Calantec
 type: d3-device-type-assertion

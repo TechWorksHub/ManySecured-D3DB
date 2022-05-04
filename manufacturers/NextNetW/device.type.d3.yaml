@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fdaaada-eb41-4db4-8646-9fa67fbed5df
-  mac-addresses:
+  id: c090c8b9-9cd9-4f66-881f-7fc4ea1cc273
+  macAddresses:
   - 00:03:D7:00:00:00/24
   manufacturer: NextNet Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextNetW
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4852a278-8e13-4220-ac64-d87a1b12b0a3
-  mac-addresses:
+  id: a5c8eded-574e-4061-9adf-67f429df41de
+  macAddresses:
   - 00:20:A4:00:00:00/24
   manufacturer: Multipoint Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Multipoi
 type: d3-device-type-assertion

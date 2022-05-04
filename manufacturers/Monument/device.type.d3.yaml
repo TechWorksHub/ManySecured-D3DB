@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbd4229e-0607-4bae-8d0a-33384737436c
-  mac-addresses:
+  id: b14a7467-9a86-4b7f-99d6-e036af5dffba
+  macAddresses:
   - 1C:C0:E1:60:00:00/28
   manufacturer: Monument Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Monument
 type: d3-device-type-assertion

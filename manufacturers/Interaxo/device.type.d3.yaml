@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de7691b2-1b95-45c5-8747-629e6862f216
-  mac-addresses:
+  id: f0690b0c-d674-42b3-9d58-787b2e010f72
+  macAddresses:
   - 00:55:DA:B0:00:00/28
   manufacturer: Interaxon Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interaxo
 type: d3-device-type-assertion

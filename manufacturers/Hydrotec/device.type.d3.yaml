@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 178c6242-d071-4bb4-8ee6-d04a11644986
-  mac-addresses:
+  id: 7ace249d-eaba-4074-b227-ce9bbc991d0a
+  macAddresses:
   - 18:D7:93:20:00:00/28
   manufacturer: Hydrotechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hydrotec
 type: d3-device-type-assertion

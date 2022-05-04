@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2f8c82f-1681-49c1-b40b-48a2a66c9072
-  mac-addresses:
+  id: af2abdb2-0fe7-4de2-85dc-b60ac578b932
+  macAddresses:
   - 00:1F:63:00:00:00/24
   manufacturer: JSC Goodwin-Europa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Goodwin-
 type: d3-device-type-assertion

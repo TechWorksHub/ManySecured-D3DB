@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 201cc531-55af-41d2-be1f-4941afe72071
-  mac-addresses:
+  id: 8c24243d-a3d6-4ce8-8e05-4580650d7c51
+  macAddresses:
   - 00:50:C2:01:B0:00/36
   manufacturer: Cross Products Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrossPro
 type: d3-device-type-assertion

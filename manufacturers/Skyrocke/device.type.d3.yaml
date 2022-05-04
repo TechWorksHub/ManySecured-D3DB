@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90070d80-3d15-4299-b259-b31787ecb835
-  mac-addresses:
+  id: c880d6ce-3c14-4163-9ce0-429638fd3d83
+  macAddresses:
   - 28:F5:37:D0:00:00/28
   manufacturer: Skyrockettoys LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skyrocke
 type: d3-device-type-assertion

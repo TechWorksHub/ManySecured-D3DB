@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06a401e4-f1a5-4f4a-bb27-05e72ee668e7
-  mac-addresses:
+  id: f9740b14-1589-4551-9f9b-422766a46e21
+  macAddresses:
   - 70:B3:D5:92:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiFive
 type: d3-device-type-assertion

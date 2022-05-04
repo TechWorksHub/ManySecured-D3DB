@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fa28355-d082-40b1-a684-bf2b85402140
-  mac-addresses:
+  id: bc93169a-aeb2-490e-9872-62b29cec0e03
+  macAddresses:
   - 00:C0:7D:00:00:00/24
   manufacturer: Risc Developments Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RiscDeve
 type: d3-device-type-assertion

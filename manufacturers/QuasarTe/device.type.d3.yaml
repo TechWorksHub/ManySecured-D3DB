@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ad09e01-3804-4cd4-8246-d06fdef4c9f9
-  mac-addresses:
+  id: f08fa0c3-e2ab-4ce8-8696-a0964ace090f
+  macAddresses:
   - 00:25:40:00:00:00/24
   manufacturer: Quasar Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuasarTe
 type: d3-device-type-assertion

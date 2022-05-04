@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3df1b53b-7798-4c51-bd13-f0e8b3992682
-  mac-addresses:
+  id: 690c9257-b2a9-4e8f-be7d-cc6430f75881
+  macAddresses:
   - 00:23:66:00:00:00/24
   - 00:25:AA:00:00:00/24
   - 08:26:AE:10:00:00/28
@@ -34,6 +34,6 @@ credentialSubject:
   - E8:81:AB:00:00:00/24
   - F0:D7:AF:10:00:00/28
   manufacturer: Beijing Siasun Electronic System Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingS
 type: d3-device-type-assertion

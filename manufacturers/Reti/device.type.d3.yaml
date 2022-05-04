@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ef15ca2-1d93-471d-b206-5d0e249a4b31
-  mac-addresses:
+  id: 6874abb7-bc10-4521-8dbe-f2460558a77e
+  macAddresses:
   - 00:15:D7:00:00:00/24
   manufacturer: Reti Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reti
 type: d3-device-type-assertion

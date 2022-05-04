@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06c5f286-a68c-4495-aefb-8c9ff4c246e6
-  mac-addresses:
+  id: cf306f4a-5352-4f69-a894-99f3fb89d308
+  macAddresses:
   - B4:CC:E9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prosyst
 type: d3-device-type-assertion

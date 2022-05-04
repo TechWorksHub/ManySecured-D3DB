@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a84a7b06-182a-437b-809c-6ae877370ee1
-  mac-addresses:
+  id: 88c701fa-3c4e-4f9d-ad18-24b5c3a8fd8b
+  macAddresses:
   - 00:23:CA:00:00:00/24
   manufacturer: Behind The Set, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BehindSe
 type: d3-device-type-assertion

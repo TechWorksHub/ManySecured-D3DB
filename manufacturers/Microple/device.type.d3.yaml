@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad12cf0f-2781-41dd-8faa-a19d7857cfa3
-  mac-addresses:
+  id: 80f01ed9-8473-4358-8321-31b5de044f4d
+  macAddresses:
   - 00:80:72:00:00:00/24
   manufacturer: Microplex Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microple
 type: d3-device-type-assertion

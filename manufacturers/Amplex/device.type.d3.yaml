@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 027b32f6-e04f-42ba-9d6a-d2d891cffccb
-  mac-addresses:
+  id: 87248d94-bcd1-4036-ac66-b2f7f4b95cac
+  macAddresses:
   - 00:18:77:00:00:00/24
   manufacturer: Amplex A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amplex
 type: d3-device-type-assertion

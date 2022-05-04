@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a777aee1-f39c-4d73-a640-2e2f83f0cda8
-  mac-addresses:
+  id: cd68fb2d-212c-47f8-8106-391b13a31898
+  macAddresses:
   - 00:08:60:00:00:00/24
   manufacturer: LodgeNet Entertainment Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LodgeNet
 type: d3-device-type-assertion

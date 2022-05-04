@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8b8dc32-3b7d-4ce7-9976-f4c6078b1983
-  mac-addresses:
+  id: 2873d61c-2345-44ef-bdcc-7582aec72ec5
+  macAddresses:
   - B4:4B:D6:D0:00:00/28
   manufacturer: Elleta Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElletaSo
 type: d3-device-type-assertion

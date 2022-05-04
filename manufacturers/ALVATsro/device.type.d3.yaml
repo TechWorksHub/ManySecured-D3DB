@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3038b871-8000-43e1-86c9-053cf2b85928
-  mac-addresses:
+  id: 808b4f88-dabb-4222-b167-040971f87b9e
+  macAddresses:
   - 70:B3:D5:36:90:00/36
   manufacturer: ALVAT s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALVATsro
 type: d3-device-type-assertion

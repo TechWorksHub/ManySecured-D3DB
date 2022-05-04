@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f343c32-71a7-459f-aaf8-a680732bf64b
-  mac-addresses:
+  id: 1646189e-1590-4c16-b6a6-aed4f09e8f26
+  macAddresses:
   - 70:B3:D5:02:C0:00/36
   manufacturer: Iylus Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iylus
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: f956f5ed-1195-448b-bb1e-1264f11ed384
-  mac-addresses:
+  id: 5fe4451f-7930-45bc-8cd8-262434058569
+  macAddresses:
   - 00:0E:2F:00:00:00/24
   - 00:40:49:00:00:00/24
   - 00:60:19:00:00:00/24
   - B8:78:79:00:00:00/24
   manufacturer: Roche Diagnostics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RocheDia
 type: d3-device-type-assertion

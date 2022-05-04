@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 762d25c3-8ae0-4049-812f-47460a5dabdc
-  mac-addresses:
+  id: 031d52d8-9b46-47cd-afba-80b17e913f62
+  macAddresses:
   - 00:50:C2:8A:C0:00/36
   manufacturer: Telsa s.r.l
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telsa
 type: d3-device-type-assertion

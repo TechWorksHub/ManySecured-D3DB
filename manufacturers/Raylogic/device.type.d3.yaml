@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbc3e055-981d-47bc-852a-706b5d095cd8
-  mac-addresses:
+  id: 887532c6-7014-4615-ae39-0706d18cc01e
+  macAddresses:
   - 10:54:D2:40:00:00/28
   manufacturer: Raylogic Control Systems Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Raylogic
 type: d3-device-type-assertion

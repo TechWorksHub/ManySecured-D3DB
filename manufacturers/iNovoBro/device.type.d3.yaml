@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f54024e8-8d93-4fd1-aec6-10b9c35cfb90
-  mac-addresses:
+  id: 8ce44c17-4c2e-4313-9c6f-d481f757a8c6
+  macAddresses:
   - 74:AE:76:00:00:00/24
   manufacturer: iNovo Broadband, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iNovoBro
 type: d3-device-type-assertion

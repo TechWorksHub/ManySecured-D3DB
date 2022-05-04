@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54dfe91e-3420-4d1e-8f88-f71287de6071
-  mac-addresses:
+  id: ce0c3af7-cf80-485c-b5c9-270da5fcbe54
+  macAddresses:
   - D8:DC:E9:00:00:00/24
   manufacturer: Kunshan Erlab ductless filtration system Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KunshanE
 type: d3-device-type-assertion

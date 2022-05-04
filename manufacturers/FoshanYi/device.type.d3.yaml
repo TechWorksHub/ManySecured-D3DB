@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3c290bc-9694-433b-859b-6808ba5d7617
-  mac-addresses:
+  id: 4059feb9-23cf-42fb-9576-04763b26c98e
+  macAddresses:
   - A4:53:EE:50:00:00/28
   manufacturer: Foshan Yisihang Electrical Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FoshanYi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dea2ead-21ee-4785-a5b8-1fd32ceb96da
-  mac-addresses:
+  id: a1f4464c-63f1-414e-8d7b-1625ff0e4c48
+  macAddresses:
   - 98:02:D8:A0:00:00/28
   manufacturer: HySecurity
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HySecuri
 type: d3-device-type-assertion

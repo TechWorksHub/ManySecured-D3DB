@@ -1,8 +1,8 @@
 credentialSubject:
-  id: decb9204-fb85-4c55-8c62-0c8dc4b60ab3
-  mac-addresses:
+  id: 98656b3b-e23f-4933-94a0-243e3a8880b0
+  macAddresses:
   - 8C:59:3C:10:00:00/28
   manufacturer: Future Robot Technology Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FutureRo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eafefe74-bef4-4846-8bd3-dacfa1f11e91
-  mac-addresses:
+  id: ee528ec6-81f4-4653-9043-8c713b6abb44
+  macAddresses:
   - 00:90:50:00:00:00/24
   manufacturer: Teleste Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teleste
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aee5eba-7dcb-4520-b294-9ebfaab2a4e6
-  mac-addresses:
+  id: 04c8d8c4-73e4-4225-862d-eaf8a0ae5b14
+  macAddresses:
   - 94:DC:4E:00:00:00/24
   manufacturer: AEV, spol. s r. o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEVspols
 type: d3-device-type-assertion

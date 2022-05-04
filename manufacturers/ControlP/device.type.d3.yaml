@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61426683-dd3b-4a82-8d52-f340b3fe3f67
-  mac-addresses:
+  id: 45590770-3b55-4a16-8e3d-01a5eeb017bb
+  macAddresses:
   - 00:0D:E1:00:00:00/24
   manufacturer: Control Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ControlP
 type: d3-device-type-assertion

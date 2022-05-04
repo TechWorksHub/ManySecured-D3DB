@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f36e7ce-9b85-478a-99bd-02895d4a3994
-  mac-addresses:
+  id: 99795809-380b-44c2-b9d1-a80b05be7e31
+  macAddresses:
   - 00:23:7B:00:00:00/24
   manufacturer: Whdi Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Whdi
 type: d3-device-type-assertion

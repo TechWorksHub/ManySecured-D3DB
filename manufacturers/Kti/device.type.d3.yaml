@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a798d428-ce40-46bf-8e25-aabcd0b86e32
-  mac-addresses:
+  id: 5cbec64d-824f-455f-b4cd-e4e16132a524
+  macAddresses:
   - 00:00:EF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kti
 type: d3-device-type-assertion

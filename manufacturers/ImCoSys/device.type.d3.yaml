@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 202cd7c8-6239-413e-84e9-e319db28f834
-  mac-addresses:
+  id: 1f2be609-75b9-4448-9ca2-d6dc8fd5feed
+  macAddresses:
   - 00:19:27:00:00:00/24
   manufacturer: ImCoSys Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImCoSys
 type: d3-device-type-assertion

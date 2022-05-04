@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d914e89-5ab6-40ea-9cab-b927119292a2
-  mac-addresses:
+  id: 3289e757-0418-40ff-a4eb-825a467575f3
+  macAddresses:
   - 00:50:C2:18:70:00/36
   manufacturer: Cyan Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CyanTech
 type: d3-device-type-assertion

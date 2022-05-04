@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41f744ce-b18d-4461-a2fa-fd487d741616
-  mac-addresses:
+  id: c2b2f84b-2d3f-407b-bf47-d430d0df2ed3
+  macAddresses:
   - 00:50:C2:A0:30:00/36
   manufacturer: EEG Enterprises Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EEGEnter
 type: d3-device-type-assertion

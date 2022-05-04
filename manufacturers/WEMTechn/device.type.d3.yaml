@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8978a36-0b1c-49a6-b778-70d55baacea9
-  mac-addresses:
+  id: b20a489b-b99a-47a0-af79-f31de9e89007
+  macAddresses:
   - 00:09:17:00:00:00/24
   manufacturer: WEM Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEMTechn
 type: d3-device-type-assertion

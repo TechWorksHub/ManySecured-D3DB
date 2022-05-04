@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 55f525d6-d59d-4d7c-a8a3-2a08925b5993
-  mac-addresses:
+  id: 5abff507-6005-47e4-ae8e-6f39ea326d00
+  macAddresses:
   - 00:0F:AC:00:00:00/24
   - 00:80:C2:00:00:00/24
   - BA:55:EC:00:00:00/24
   manufacturer: Ieee 802.11
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ieee8021
 type: d3-device-type-assertion

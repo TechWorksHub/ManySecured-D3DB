@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6761d60-ee28-44e8-be7b-c0e3ebcb8b8c
-  mac-addresses:
+  id: 6537ce44-9308-4f56-bcff-8007844773f5
+  macAddresses:
   - 00:50:C2:EB:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dspnor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b8354c3-9120-4656-8e62-2a9c4b5e1dcf
-  mac-addresses:
+  id: 6db2bb0b-0126-48e0-98f5-ade39c113d41
+  macAddresses:
   - 0C:FE:5D:C0:00:00/28
   manufacturer: Bepal Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BepalTec
 type: d3-device-type-assertion

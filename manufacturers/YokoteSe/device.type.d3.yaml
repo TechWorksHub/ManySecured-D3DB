@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efabf495-61db-445c-98b5-aeb8ac07d91e
-  mac-addresses:
+  id: bafdf27d-710d-4182-a57d-f9dfc2c8cb93
+  macAddresses:
   - 8C:D2:E9:00:00:00/24
   manufacturer: Yokote Seiko Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YokoteSe
 type: d3-device-type-assertion

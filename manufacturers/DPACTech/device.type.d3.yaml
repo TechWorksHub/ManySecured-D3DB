@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7019ee6-4c68-4636-9808-46dfe87edb88
-  mac-addresses:
+  id: 79273a84-fb76-4847-84b2-02143cf8d3ba
+  macAddresses:
   - 00:90:C9:00:00:00/24
   manufacturer: DPAC Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DPACTech
 type: d3-device-type-assertion

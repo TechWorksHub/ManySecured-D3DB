@@ -1,10 +1,10 @@
 credentialSubject:
-  id: c46cf1f9-e71e-46de-9e1d-ac1f0c2ad1cd
-  mac-addresses:
+  id: 64c5d3c2-9c2b-4221-a0de-c92a19e31a37
+  macAddresses:
   - 70:B3:D5:0D:80:00/36
   - 70:B3:D5:3E:E0:00/36
   - 70:B3:D5:FD:D0:00/36
   manufacturer: Laser Imagineering GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LaserIma
 type: d3-device-type-assertion

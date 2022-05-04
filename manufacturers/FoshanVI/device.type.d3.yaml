@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11704389-27dc-41ff-9b42-44d1872795c1
-  mac-addresses:
+  id: 0234cc76-7c77-4f59-a17d-99a8281b8ad5
+  macAddresses:
   - 5C:6B:D7:00:00:00/24
   manufacturer: Foshan VIOMI Electric Appliance Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FoshanVI
 type: d3-device-type-assertion

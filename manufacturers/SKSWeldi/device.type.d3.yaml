@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 094ab1d8-3df2-4d37-85bf-99de277b7372
-  mac-addresses:
+  id: 4c05da5e-4a82-484d-95af-1447da8044cd
+  macAddresses:
   - BC:BC:46:00:00:00/24
   manufacturer: SKS Welding Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKSWeldi
 type: d3-device-type-assertion

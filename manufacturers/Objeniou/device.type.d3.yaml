@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30f01542-e5de-41fa-a377-43440aff8cc7
-  mac-addresses:
+  id: 6b08c5c1-e213-4da6-8b1d-10f9d6dbf3b0
+  macAddresses:
   - 7C:A9:7D:00:00:00/24
   manufacturer: Objenious
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Objeniou
 type: d3-device-type-assertion

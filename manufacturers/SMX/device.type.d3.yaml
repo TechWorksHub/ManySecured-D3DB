@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf4a5dc3-39e3-4bca-9ced-51bfed13d3d4
-  mac-addresses:
+  id: 6cf0c3f0-0b51-4901-93c9-fbe2cacbda4c
+  macAddresses:
   - 00:50:C2:0B:30:00/36
   manufacturer: SMX Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMX
 type: d3-device-type-assertion

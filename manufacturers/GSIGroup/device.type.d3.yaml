@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8dbe7fc7-d349-4474-8b77-d75cc8ce31f4
-  mac-addresses:
+  id: 54f52f2a-1ad6-4326-9a33-a10b68fda167
+  macAddresses:
   - 00:17:50:00:00:00/24
   manufacturer: GSI Group, MicroE Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSIGroup
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e05a8699-8d6d-405c-bf33-b568d35d6c17
-  mac-addresses:
+  id: 8a4aa6bc-f285-453c-8011-deb6f098650e
+  macAddresses:
   - 00:0D:6D:00:00:00/24
   manufacturer: K-Tech Devices Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: K-TechDe
 type: d3-device-type-assertion

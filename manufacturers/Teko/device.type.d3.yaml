@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d7ac043-8113-4b4b-bb02-57fb1f0d4fe7
-  mac-addresses:
+  id: f7e398cc-ce0f-4b90-b020-c672b54331fe
+  macAddresses:
   - BC:F9:F2:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teko
 type: d3-device-type-assertion

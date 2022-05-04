@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 583cd872-19a9-4850-97a0-75dad8693ca9
-  mac-addresses:
+  id: db485945-70be-409d-9c31-ee7f62f13ef1
+  macAddresses:
   - E8:36:1D:00:00:00/24
   manufacturer: Sense Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenseLab
 type: d3-device-type-assertion

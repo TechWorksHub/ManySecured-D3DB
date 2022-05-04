@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a015d4db-e35b-499a-9544-c80a70ce7a50
-  mac-addresses:
+  id: c1cfd309-a191-4a68-906d-baec96a794b1
+  macAddresses:
   - 00:1A:05:00:00:00/24
   - 00:50:C2:14:C0:00/36
   manufacturer: Optibase Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Optibase
 type: d3-device-type-assertion

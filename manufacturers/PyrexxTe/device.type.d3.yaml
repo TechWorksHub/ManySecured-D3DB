@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5474487-15d1-405d-8724-3c45f9db8f54
-  mac-addresses:
+  id: feceda78-25a8-464d-8738-621934e14c0b
+  macAddresses:
   - DC:44:27:C0:00:00/28
   manufacturer: Pyrexx Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PyrexxTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12a47e4a-124d-4cfe-adb7-79b4f03492de
-  mac-addresses:
+  id: c8dd9ceb-2601-4bab-ad99-3ab2fd36f4ea
+  macAddresses:
   - AC:8D:14:00:00:00/24
   manufacturer: Smartrove Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartrov
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e98e20c-af7e-4ed6-a0c5-37c124a50fe7
-  mac-addresses:
+  id: 368d76c0-6034-4b57-8415-c54999e483d3
+  macAddresses:
   - 08:00:5B:00:00:00/24
   manufacturer: Vta Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VtaTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b75c9ca8-8034-4c54-b91c-c4e310a6e74a
-  mac-addresses:
+  id: 7fef2a09-c385-4cdc-86b9-b59872eec7f7
+  macAddresses:
   - 3C:05:AB:00:00:00/24
   manufacturer: Product Creation Studio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProductC
 type: d3-device-type-assertion

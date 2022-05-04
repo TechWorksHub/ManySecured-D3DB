@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f92bcb21-5fad-4edf-b87f-346602dcae0a
-  mac-addresses:
+  id: 6ab53f66-3db7-4d31-957c-ea1cc52d2368
+  macAddresses:
   - 70:B3:D5:D4:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FLSmidth
 type: d3-device-type-assertion

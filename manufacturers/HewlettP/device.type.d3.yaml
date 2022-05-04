@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d566b0e3-17f9-438d-913d-8f86690e9509
-  mac-addresses:
+  id: c7a5137f-d99c-4f89-8980-e2e34f14b7bb
+  macAddresses:
   - 00:01:E6:00:00:00/24
   - 00:01:E7:00:00:00/24
   - 00:02:A5:00:00:00/24
@@ -201,6 +201,6 @@ credentialSubject:
   - FC:15:B4:00:00:00/24
   - FC:3F:DB:00:00:00/24
   manufacturer: Hewlett Packard
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HewlettP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83646c25-aaa1-4894-9bd2-da40fc8ec912
-  mac-addresses:
+  id: 3dbbe30a-4fad-42c8-9cd1-5b58eb77aa03
+  macAddresses:
   - 00:50:C2:39:50:00/36
   manufacturer: vidisys gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vidisys
 type: d3-device-type-assertion

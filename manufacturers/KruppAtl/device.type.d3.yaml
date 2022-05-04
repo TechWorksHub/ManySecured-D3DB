@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cdc72f1-6824-4e09-a15e-a120b80262ba
-  mac-addresses:
+  id: dd14a5ce-e2d5-441b-8bd3-7edf528e4730
+  macAddresses:
   - 00:80:1F:00:00:00/24
   manufacturer: Krupp Atlas Electronik Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KruppAtl
 type: d3-device-type-assertion

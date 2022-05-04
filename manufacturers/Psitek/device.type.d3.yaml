@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 848d3555-57e9-41af-83fe-b230cdf75891
-  mac-addresses:
+  id: 0680136c-0cf1-428a-9bc5-d43b6197b817
+  macAddresses:
   - 00:13:F4:00:00:00/24
   manufacturer: Psitek (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Psitek
 type: d3-device-type-assertion

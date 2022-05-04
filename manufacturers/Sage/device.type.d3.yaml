@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0da0f038-baa3-44c4-981b-a7a2c513dafa
-  mac-addresses:
+  id: 27cfcbb4-3668-4aca-b73a-55fd27b72f16
+  macAddresses:
   - 00:04:0A:00:00:00/24
   - 18:20:A6:00:00:00/24
   manufacturer: Sage Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sage
 type: d3-device-type-assertion

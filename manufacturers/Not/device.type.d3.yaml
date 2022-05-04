@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24cc80ec-1668-41dd-b452-5cf3923ab7af
-  mac-addresses:
+  id: 2e00e6e4-aedc-4b42-8c7e-99d3d34c984c
+  macAddresses:
   - 00:90:80:00:00:00/24
   manufacturer: Not Limited, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Not
 type: d3-device-type-assertion

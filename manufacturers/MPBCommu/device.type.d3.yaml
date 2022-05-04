@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94b409a9-b045-4512-90d8-cb4dbf17c728
-  mac-addresses:
+  id: 9fe89475-2f42-4c14-a069-f9e271d94cd5
+  macAddresses:
   - 6C:FF:BE:00:00:00/24
   manufacturer: MPB Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MPBCommu
 type: d3-device-type-assertion

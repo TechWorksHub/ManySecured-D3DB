@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6532b07b-8508-48f6-aefb-64f5bfd060d9
-  mac-addresses:
+  id: 2378e929-227c-46bc-be84-2443c6d67488
+  macAddresses:
   - 00:11:CA:00:00:00/24
   manufacturer: Long Range Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LongRang
 type: d3-device-type-assertion

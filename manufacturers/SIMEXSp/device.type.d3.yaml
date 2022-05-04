@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d438e2c3-40f8-4006-8904-db3530b5dde5
-  mac-addresses:
+  id: 9b7f49ba-5f67-40dd-968b-68887e87a980
+  macAddresses:
   - FC:50:90:00:00:00/24
   manufacturer: SIMEX Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIMEXSp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e1a0349-5a3e-4f49-a4df-2ee7ca53272a
-  mac-addresses:
+  id: e1b7526a-8a09-4b6c-9d3f-305eb4180116
+  macAddresses:
   - 14:4F:D7:50:00:00/28
   manufacturer: Fls Finland Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlsFinla
 type: d3-device-type-assertion

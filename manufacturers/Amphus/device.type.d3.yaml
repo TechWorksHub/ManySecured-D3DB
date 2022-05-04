@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f595012b-34fe-4422-b13d-732ee6105540
-  mac-addresses:
+  id: f5a6b739-2fbe-4e2a-8596-3558172bf425
+  macAddresses:
   - 00:04:F6:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amphus
 type: d3-device-type-assertion

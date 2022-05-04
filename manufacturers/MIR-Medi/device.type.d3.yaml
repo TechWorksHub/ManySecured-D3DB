@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbabd878-65a7-43e7-82fa-e2e4b127833a
-  mac-addresses:
+  id: 6508b9d0-bbe7-41a5-b9f9-704d6715f116
+  macAddresses:
   - 00:26:33:00:00:00/24
   manufacturer: MIR - Medical International Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MIR-Medi
 type: d3-device-type-assertion

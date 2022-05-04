@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92e53e14-31f2-49cf-b56f-33415c2bf99e
-  mac-addresses:
+  id: f7e12fd2-707b-4882-9afc-5dd3ff0e0555
+  macAddresses:
   - 00:02:04:00:00:00/24
   manufacturer: Bodmann Industries Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BodmannI
 type: d3-device-type-assertion

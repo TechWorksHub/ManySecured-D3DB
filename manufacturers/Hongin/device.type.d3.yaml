@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb05df83-1b71-4338-be2d-049e3e23ba59
-  mac-addresses:
+  id: a24829cf-45f3-4c2d-a6e4-a06e1d34c0cc
+  macAddresses:
   - 70:B3:D5:35:50:00/36
   manufacturer: Hongin., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hongin
 type: d3-device-type-assertion

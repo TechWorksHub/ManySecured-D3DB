@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39c64e25-cea0-455c-8fb0-55ff30a7f5de
-  mac-addresses:
+  id: 3bce743f-c5f4-449d-b5dc-3aa508afe1cd
+  macAddresses:
   - 00:23:1A:00:00:00/24
   manufacturer: ITF Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITF
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd49f54b-b1af-4875-a91f-e1abc1bb4d5b
-  mac-addresses:
+  id: 0a17201a-5a42-4a9f-8b8d-02c0950ed2ca
+  macAddresses:
   - D4:7C:44:00:00:00/28
   manufacturer: Exafore Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exafore
 type: d3-device-type-assertion

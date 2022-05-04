@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45629774-66d2-4e3f-b1fd-80a0815acfbb
-  mac-addresses:
+  id: 44db651f-d151-463a-87bb-78017532a761
+  macAddresses:
   - 70:B3:D5:4A:50:00/36
   manufacturer: Intermind Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intermin
 type: d3-device-type-assertion

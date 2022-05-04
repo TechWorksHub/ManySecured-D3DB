@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f50d285-7005-45f1-9166-b1824eeed100
-  mac-addresses:
+  id: 77f81dae-3d6e-4c19-9042-edc4b062c974
+  macAddresses:
   - 00:30:2D:00:00:00/24
   manufacturer: Quantum Bridge Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuantumB
 type: d3-device-type-assertion

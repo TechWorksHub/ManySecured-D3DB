@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f27d14b0-62ff-4cb7-bd07-f5b22d66b197
-  mac-addresses:
+  id: a3860b8a-adc2-4bbd-b6c2-16fb9940fe00
+  macAddresses:
   - C0:2F:F1:00:00:00/24
   manufacturer: Volta Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VoltaNet
 type: d3-device-type-assertion

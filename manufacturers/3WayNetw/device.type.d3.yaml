@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f45ddf2-1f60-40e6-a181-9dc1eb6cb8f7
-  mac-addresses:
+  id: 3ce1c8b4-ce5d-48cc-a95b-56ad7dec1736
+  macAddresses:
   - 00:1A:8E:00:00:00/24
   manufacturer: 3Way Networks Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3WayNetw
 type: d3-device-type-assertion

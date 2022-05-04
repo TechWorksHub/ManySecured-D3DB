@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3fab9d9-ff37-48d8-98de-26af3a37a7b4
-  mac-addresses:
+  id: 5d18ca1e-08fd-4de2-b5b1-70d77f74b97f
+  macAddresses:
   - 00:00:4B:00:00:00/24
   manufacturer: Icl Data Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IclData
 type: d3-device-type-assertion

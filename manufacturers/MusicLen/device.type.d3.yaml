@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 727b1025-dcaa-4d43-ba61-ea6d81824b75
-  mac-addresses:
+  id: 8e054a3b-365f-4617-9274-f671cbd7ab4a
+  macAddresses:
   - D4:25:CC:20:00:00/28
   manufacturer: MusicLens Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MusicLen
 type: d3-device-type-assertion

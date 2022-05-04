@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49b7c1b5-3c8c-4356-9272-46cc32ab3cfa
-  mac-addresses:
+  id: cf03da78-64ee-4e02-a20e-293fd20a8264
+  macAddresses:
   - 78:13:05:40:00:00/28
   manufacturer: Jiangxi Winsky Intelligence Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangxiW
 type: d3-device-type-assertion

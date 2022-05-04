@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48c674c8-5796-4ed5-8b8b-b5f99b117ea8
-  mac-addresses:
+  id: eac81207-bd47-474f-9b9d-2bbce253629e
+  macAddresses:
   - 00:04:7E:00:00:00/24
   manufacturer: Siqura B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siqura
 type: d3-device-type-assertion

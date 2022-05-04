@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a529d66c-cece-4628-9c08-f1c6812ec6eb
-  mac-addresses:
+  id: e0579f21-aa6b-49a9-aaf6-ca039c5e4023
+  macAddresses:
   - 00:05:D8:00:00:00/24
   - 00:60:6C:00:00:00/24
   manufacturer: Arescom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arescom
 type: d3-device-type-assertion

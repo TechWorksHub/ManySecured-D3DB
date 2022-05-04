@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2bedbc5-d7f7-41fe-a1c0-0eb74063eb7e
-  mac-addresses:
+  id: 1333b1e0-1cbe-49a8-9c27-8819534a58d7
+  macAddresses:
   - 00:C0:6E:00:00:00/24
   manufacturer: Haft Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HaftTech
 type: d3-device-type-assertion

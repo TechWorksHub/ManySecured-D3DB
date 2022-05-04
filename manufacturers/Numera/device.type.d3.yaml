@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4050ce53-608c-4038-8c5d-f9ae04d3b90c
-  mac-addresses:
+  id: 429636e1-0d4b-423e-8cb8-56f217fbd9f6
+  macAddresses:
   - B8:58:10:00:00:00/24
   manufacturer: Numera, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Numera
 type: d3-device-type-assertion

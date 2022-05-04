@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8e29934-d0f0-4ac0-92c9-1804aefc266d
-  mac-addresses:
+  id: 0eb8a3c2-70c8-4fd1-9b82-8a7c729e0bff
+  macAddresses:
   - 00:50:C2:26:40:00/36
   manufacturer: Confidence Direct Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Confiden
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c3b5311-466a-45e9-868a-eb0e093253ee
-  mac-addresses:
+  id: 92ea79c0-d056-4f33-bb21-11cf037d11ce
+  macAddresses:
   - 90:7A:0A:00:00:00/24
   manufacturer: Gebr. Bode GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GebrBode
 type: d3-device-type-assertion

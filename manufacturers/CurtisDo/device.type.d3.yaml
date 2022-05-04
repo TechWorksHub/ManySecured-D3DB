@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19dff272-444d-40f9-87dd-e381d9e14335
-  mac-addresses:
+  id: f6a7a869-95ff-4dd0-9f22-37b9b35b6470
+  macAddresses:
   - 00:50:C2:8F:30:00/36
   manufacturer: Curtis Door Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CurtisDo
 type: d3-device-type-assertion

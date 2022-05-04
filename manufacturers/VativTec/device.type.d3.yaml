@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76cf6f6e-ebeb-40a4-bcb6-b1153e36265c
-  mac-addresses:
+  id: 203fb8f0-dcbf-44e0-9c80-bd2173badb59
+  macAddresses:
   - 00:16:30:00:00:00/24
   manufacturer: Vativ Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VativTec
 type: d3-device-type-assertion

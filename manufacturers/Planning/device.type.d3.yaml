@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3545b59b-ea50-4ee8-8899-27f900fa0483
-  mac-addresses:
+  id: 56b8fc91-4dd2-41a9-840c-00896a4cc3d8
+  macAddresses:
   - 08:00:4B:00:00:00/24
   manufacturer: Planning Research Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Planning
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7a527eb-73f8-4fe5-a6b4-22a524087ef3
-  mac-addresses:
+  id: d539005a-1070-4a82-97fe-ea043e2cb4f9
+  macAddresses:
   - 00:E0:C3:00:00:00/24
   manufacturer: Sakai System Development Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SakaiSys
 type: d3-device-type-assertion

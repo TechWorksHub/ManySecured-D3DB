@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77f9ed5d-d9fa-4f26-bc06-0e7e5b4a7803
-  mac-addresses:
+  id: 6b30df04-e4a0-4d6c-be51-d6cff6745045
+  macAddresses:
   - 40:D8:55:13:60:00/36
   manufacturer: Devriecom B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Devrieco
 type: d3-device-type-assertion

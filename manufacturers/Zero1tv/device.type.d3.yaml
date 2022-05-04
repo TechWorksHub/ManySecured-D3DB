@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bece8661-39f3-405e-b9bd-98fdd52f6a9d
-  mac-addresses:
+  id: a86b91c6-8b88-4cc9-905b-aaa64d059468
+  macAddresses:
   - C8:C7:91:00:00:00/24
   manufacturer: Zero1.tv GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zero1tv
 type: d3-device-type-assertion

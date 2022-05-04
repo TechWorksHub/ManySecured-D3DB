@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2513ee4-b39e-4dbf-a0f0-2ebf8f877c3e
-  mac-addresses:
+  id: 57184626-fd6a-469b-ab23-5bb3b0e4aaf8
+  macAddresses:
   - 78:B8:1A:00:00:00/24
   manufacturer: Inter Sales A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InterSal
 type: d3-device-type-assertion

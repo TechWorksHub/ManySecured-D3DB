@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 23c14730-2e1e-40a2-b831-6a3e422d3b3b
-  mac-addresses:
+  id: 3704d9e1-3953-460b-bd03-45f6cc31727c
+  macAddresses:
   - 60:19:70:00:00:00/24
   - DC:BF:90:00:00:00/24
   manufacturer: Huizhou Qiaoxing Electronics Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuizhouQ
 type: d3-device-type-assertion

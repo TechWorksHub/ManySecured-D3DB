@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27a82d4a-7f5e-472a-824d-3bd29e846651
-  mac-addresses:
+  id: 0f45b6f8-7e7b-4bd2-9054-c92ed2635359
+  macAddresses:
   - 00:1D:F9:00:00:00/24
   manufacturer: Cybiotronics (Far East) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cybiotro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4783c7ea-8ecc-4f17-82db-97266d806490
-  mac-addresses:
+  id: e163e6f9-d602-4b44-96c6-0a0b08eda76b
+  macAddresses:
   - 90:84:8B:00:00:00/24
   manufacturer: HDR10+ Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HDR10+Te
 type: d3-device-type-assertion

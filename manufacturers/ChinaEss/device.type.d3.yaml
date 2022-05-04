@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41f5de54-f78f-4a2d-8866-db004eb52573
-  mac-addresses:
+  id: 77d5ec4c-6d4a-4e49-886d-290809a60d44
+  macAddresses:
   - D0:62:A0:00:00:00/24
   manufacturer: China Essence Technology (Zhumadian) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaEss
 type: d3-device-type-assertion

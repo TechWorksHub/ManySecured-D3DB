@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 4c2af410-67bc-4699-8557-964ec52e8120
-  mac-addresses:
+  id: 75d185e5-5949-4d1a-ac4f-014c9172875c
+  macAddresses:
   - 34:2C:C4:00:00:00/24
   - 38:43:7D:00:00:00/24
   - 54:67:51:00:00:00/24
@@ -11,6 +11,6 @@ credentialSubject:
   - B4:F2:67:00:00:00/24
   - DC:53:7C:00:00:00/24
   manufacturer: Compal Broadband Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompalBr
 type: d3-device-type-assertion

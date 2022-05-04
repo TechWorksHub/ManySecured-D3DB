@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75de66e6-d2a2-4719-884b-af6d72e32ba8
-  mac-addresses:
+  id: a63f984e-df09-40db-bddd-423575f15783
+  macAddresses:
   - 00:E0:ED:00:00:00/24
   manufacturer: Silicom, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silicom
 type: d3-device-type-assertion

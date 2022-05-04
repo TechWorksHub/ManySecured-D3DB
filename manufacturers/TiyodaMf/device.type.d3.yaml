@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2812801b-1aae-476a-b47e-db9b943badda
-  mac-addresses:
+  id: 466bf43d-ea41-4f69-aa24-dce77cff114d
+  macAddresses:
   - 00:50:C2:39:C0:00/36
   manufacturer: Tiyoda Mfg Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiyodaMf
 type: d3-device-type-assertion

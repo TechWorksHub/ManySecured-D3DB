@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8a6cd23-5b18-4fbe-afd2-a3ec47c78e12
-  mac-addresses:
+  id: 1dfb8269-8ae9-4ec5-9951-6a22c6da995f
+  macAddresses:
   - 00:1F:86:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: digEcor
 type: d3-device-type-assertion

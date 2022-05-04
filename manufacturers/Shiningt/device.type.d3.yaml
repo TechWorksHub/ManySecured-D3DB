@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69ea467a-be0e-41b9-b09e-a6af117dac87
-  mac-addresses:
+  id: 4ff2c792-78a0-42fa-9f19-64cf4c5e7a4f
+  macAddresses:
   - CC:39:8C:00:00:00/24
   manufacturer: Shiningtek
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shiningt
 type: d3-device-type-assertion

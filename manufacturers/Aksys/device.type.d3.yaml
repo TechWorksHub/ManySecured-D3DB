@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0088c0b6-5218-4284-aceb-1650e92edde3
-  mac-addresses:
+  id: ed16b051-f5b0-40d2-99e6-dfb112748b06
+  macAddresses:
   - 00:0E:D9:00:00:00/24
   manufacturer: Aksys, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aksys
 type: d3-device-type-assertion

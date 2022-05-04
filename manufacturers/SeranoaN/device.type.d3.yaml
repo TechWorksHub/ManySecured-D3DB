@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c5318b12-b115-45c7-bcc4-3ef1b9a16b10
-  mac-addresses:
+  id: 2d4001a3-2bf0-4db6-89de-5a61e96029eb
+  macAddresses:
   - 00:09:D1:00:00:00/24
   - 00:50:C2:12:30:00/36
   manufacturer: Seranoa Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeranoaN
 type: d3-device-type-assertion

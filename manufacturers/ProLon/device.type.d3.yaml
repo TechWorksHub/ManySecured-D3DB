@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 888bab66-fd9b-4712-ada0-e4c7114fd4c2
-  mac-addresses:
+  id: f113da02-e2a0-4f59-94d4-8c6f622e1e48
+  macAddresses:
   - 30:16:8D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProLon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 869f8fc3-9e40-4996-8b02-60e926325a2a
-  mac-addresses:
+  id: 415232e9-cee7-4da3-8854-7b1e223429e9
+  macAddresses:
   - 00:40:15:00:00:00/24
   manufacturer: Ascom Infrasys Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AscomInf
 type: d3-device-type-assertion

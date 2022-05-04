@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47a5e6a4-8e66-472b-bf94-dc6f39b40782
-  mac-addresses:
+  id: 83183b47-c595-4b0b-876e-5edfc73cb18c
+  macAddresses:
   - 00:10:33:00:00:00/24
   manufacturer: Accesslan Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accessla
 type: d3-device-type-assertion

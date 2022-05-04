@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c50406a-dc52-4892-b41b-d0dffa609e0c
-  mac-addresses:
+  id: 62c29816-fcb4-47c2-98c6-913de82af844
+  macAddresses:
   - 70:B3:D5:84:A0:00/36
   manufacturer: MOG Laboratories Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MOGLabor
 type: d3-device-type-assertion

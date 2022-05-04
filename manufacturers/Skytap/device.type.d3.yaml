@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7002e5df-5aab-45b8-81f9-1fa6981a23dc
-  mac-addresses:
+  id: fba00b38-b99b-4d90-a2d2-81da6ca5d1a5
+  macAddresses:
   - A0:B9:ED:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skytap
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac9172ce-70cf-4fb6-8093-c3630571eb8c
-  mac-addresses:
+  id: 17fc344d-cd6a-4c14-a17f-c42416cc6e6d
+  macAddresses:
   - 70:B3:D5:61:C0:00/36
   manufacturer: Earth Works
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EarthWor
 type: d3-device-type-assertion

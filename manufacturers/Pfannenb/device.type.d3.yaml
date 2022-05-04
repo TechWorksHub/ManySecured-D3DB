@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14ae7629-1511-4957-abe0-cf0fba1121ec
-  mac-addresses:
+  id: 21ba7e6a-5b00-4b55-98fd-0ef174a09411
+  macAddresses:
   - 18:45:B3:10:00:00/28
   manufacturer: Pfannenberg GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pfannenb
 type: d3-device-type-assertion

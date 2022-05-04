@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c89379ff-76dd-4566-935f-851f067bc7a1
-  mac-addresses:
+  id: 84e817ce-20e4-42b9-a803-ee4503a95bfc
+  macAddresses:
   - 2C:16:BD:B0:00:00/28
   manufacturer: Lingdong Technology (Beijing) Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lingdong
 type: d3-device-type-assertion

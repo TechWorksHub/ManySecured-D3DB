@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b00d6370-73c3-4cc2-b039-085a25866fb3
-  mac-addresses:
+  id: a4723a97-c135-4ca8-82b5-6810d4549e25
+  macAddresses:
   - C8:77:8B:00:00:00/24
   manufacturer: "Mercury Systems \u2013 Trusted Mission Solutions, Inc."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Mercury\u2013"
 type: d3-device-type-assertion

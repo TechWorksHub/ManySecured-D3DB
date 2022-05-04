@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f24c06a-476f-43cf-8e11-62ab3c18792c
-  mac-addresses:
+  id: 9b4c8631-dc2f-4e03-81aa-f4f5a9edee57
+  macAddresses:
   - 00:50:C2:98:50:00/36
   manufacturer: Earnestcom Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Earnestc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38e0fdce-dde5-43bc-9118-a4de07fdb486
-  mac-addresses:
+  id: d05b1f51-da90-402f-a537-cec241a3b12c
+  macAddresses:
   - 00:06:7E:00:00:00/24
   manufacturer: WinCom Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinCom
 type: d3-device-type-assertion

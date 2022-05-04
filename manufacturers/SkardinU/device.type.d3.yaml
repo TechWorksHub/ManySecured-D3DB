@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d9b8ae8-479a-4219-ace9-a79d9f87ac69
-  mac-addresses:
+  id: 22b89582-3f74-4444-8d11-449d4a59d86d
+  macAddresses:
   - 00:12:22:00:00:00/24
   manufacturer: Skardin (UK) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkardinU
 type: d3-device-type-assertion

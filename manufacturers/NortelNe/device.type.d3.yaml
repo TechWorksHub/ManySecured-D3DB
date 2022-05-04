@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 68dc0bd1-290e-439f-b82c-32ffccbb694d
-  mac-addresses:
+  id: 576fb3dc-5d50-47b4-a58d-563c6ec2a47d
+  macAddresses:
   - 00:01:81:00:00:00/24
   - 00:02:5F:00:00:00/24
   - 00:03:42:00:00:00/24
@@ -71,6 +71,6 @@ credentialSubject:
   - E0:26:36:00:00:00/24
   - E8:05:6D:00:00:00/24
   manufacturer: Nortel Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NortelNe
 type: d3-device-type-assertion

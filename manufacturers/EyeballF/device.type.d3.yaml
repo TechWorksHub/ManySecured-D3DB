@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea7a3fd9-8d6f-4367-89ff-c4e0e1384ed1
-  mac-addresses:
+  id: 8e100323-093c-4168-ab37-32c9aba52d6d
+  macAddresses:
   - 10:DC:B6:B0:00:00/28
   manufacturer: Eyeball Fintech Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EyeballF
 type: d3-device-type-assertion

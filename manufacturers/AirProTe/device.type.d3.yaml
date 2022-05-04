@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2879f31-59bf-4e39-a93c-00ea548848bb
-  mac-addresses:
+  id: 29037dcf-b446-4c09-85ec-d1453c92bedb
+  macAddresses:
   - 58:7B:E9:00:00:00/24
   manufacturer: AirPro Technology India Pvt. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirProTe
 type: d3-device-type-assertion

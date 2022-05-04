@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d84e3d98-96f0-4b0c-9c89-8b27282d7277
-  mac-addresses:
+  id: 2c39a12c-5bf0-4d31-a900-6895c04dbf06
+  macAddresses:
   - 00:11:35:00:00:00/24
   manufacturer: Grandeye Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grandeye
 type: d3-device-type-assertion

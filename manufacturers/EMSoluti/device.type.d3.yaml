@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a308414b-34d7-462b-a3a0-db357cb10c47
-  mac-addresses:
+  id: 90e11675-ef2f-4945-a9bc-e8ce6dfc6517
+  macAddresses:
   - 00:08:92:00:00:00/24
   manufacturer: EM Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMSoluti
 type: d3-device-type-assertion

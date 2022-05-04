@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cca881b-34f0-42dc-bdd0-a6c5c49f61fd
-  mac-addresses:
+  id: 062e38b7-9572-49d4-9608-c80b3f38b41a
+  macAddresses:
   - 34:97:6F:00:00:00/24
   manufacturer: Rootech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rootech
 type: d3-device-type-assertion

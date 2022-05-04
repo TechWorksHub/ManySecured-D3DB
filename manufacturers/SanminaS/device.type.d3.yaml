@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e01da861-4622-4c88-9520-6c6170be63d7
-  mac-addresses:
+  id: 18e07f9a-34cb-44fc-a3dc-4325e89bff59
+  macAddresses:
   - 00:50:C2:CC:A0:00/36
   manufacturer: Sanmina Shenzhen
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanminaS
 type: d3-device-type-assertion

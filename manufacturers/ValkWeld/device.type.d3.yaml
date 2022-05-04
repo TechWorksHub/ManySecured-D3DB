@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d940f0d6-7041-4bc9-b07d-3f20b85e9111
-  mac-addresses:
+  id: e314bbff-065a-4863-978f-9b183eaadd5f
+  macAddresses:
   - 70:B3:D5:5D:A0:00/36
   manufacturer: Valk Welding B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValkWeld
 type: d3-device-type-assertion

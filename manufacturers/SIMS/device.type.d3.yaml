@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17b1d6fd-b085-407a-8b7b-514ed3f5df5d
-  mac-addresses:
+  id: a1f64c09-51bb-48fd-8dde-c050e35afbde
+  macAddresses:
   - 00:1B:3A:00:00:00/24
   manufacturer: SIMS Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIMS
 type: d3-device-type-assertion

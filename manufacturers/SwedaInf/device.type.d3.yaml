@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 384d4cd8-55bb-4bef-90a6-116ecfd4099d
-  mac-addresses:
+  id: 041e509d-3f3a-4fe5-81c9-fb094af6cba3
+  macAddresses:
   - B8:24:1A:00:00:00/24
   manufacturer: Sweda Informatica Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwedaInf
 type: d3-device-type-assertion

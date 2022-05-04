@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7a3bbc3-e2c6-4dd6-bd8b-b7013b0baa0c
-  mac-addresses:
+  id: bc6471f2-cd91-4cf6-a3f3-139d7bf4c487
+  macAddresses:
   - 00:40:D7:00:00:00/24
   manufacturer: Studio Gen Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StudioGe
 type: d3-device-type-assertion

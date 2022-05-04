@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e876cad-6259-4874-83a6-65e3c9ecd3d4
-  mac-addresses:
+  id: 0f329aa3-3fe4-4ace-8483-1499bac4fe84
+  macAddresses:
   - D0:22:12:40:00:00/28
   manufacturer: Viatron GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viatron
 type: d3-device-type-assertion

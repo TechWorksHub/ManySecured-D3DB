@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 525560e2-1bf0-458b-96cb-90d35041e0b0
-  mac-addresses:
+  id: 94c18615-a205-46bc-a932-42842cadff75
+  macAddresses:
   - 70:B3:D5:8E:60:00/36
   manufacturer: Mothonic AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mothonic
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: b3002269-1e67-4823-bbb0-b1e4b3a1a278
-  mac-addresses:
+  id: 60d9e45d-d4c4-43f6-82a1-a79ac3288a4f
+  macAddresses:
   - 00:07:BA:00:00:00/24
   - 00:1B:DA:00:00:00/24
   - 48:EE:86:00:00:00/24
   manufacturer: UTStarcom Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UTStarco
 type: d3-device-type-assertion

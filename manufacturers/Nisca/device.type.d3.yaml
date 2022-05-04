@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8678b4d-bbc4-4040-add1-ae2295506d77
-  mac-addresses:
+  id: 7b44bd2c-7137-49e5-8fb0-dbb81b8fdc3f
+  macAddresses:
   - 00:0F:13:00:00:00/24
   manufacturer: Nisca corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nisca
 type: d3-device-type-assertion

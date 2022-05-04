@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa1e2f92-eab5-4180-9745-d7836955dce9
-  mac-addresses:
+  id: 07d7ea01-4460-4113-8918-de56ffb560ad
+  macAddresses:
   - 4C:02:2E:00:00:00/24
   manufacturer: Cmr Korea Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CmrKorea
 type: d3-device-type-assertion

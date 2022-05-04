@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e3563e9b-d75c-49a8-97fc-31ba1152c1b4
-  mac-addresses:
+  id: 86c6628c-60cb-4425-87bf-211f76a1f9fa
+  macAddresses:
   - 40:48:FD:B0:00:00/28
   - 70:B3:D5:37:60:00/36
   manufacturer: Magenta Labs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagentaL
 type: d3-device-type-assertion

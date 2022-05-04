@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b40c43b-77d6-451b-abac-b4843fde53dd
-  mac-addresses:
+  id: 027ecd69-046d-4e38-8bb6-8cd06b59b0da
+  macAddresses:
   - 00:23:27:00:00:00/24
   manufacturer: Shouyo Electronics CO., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShouyoEl
 type: d3-device-type-assertion

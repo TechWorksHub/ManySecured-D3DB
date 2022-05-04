@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6f240c1-85f2-4808-92f0-3b453c472c2c
-  mac-addresses:
+  id: 370b3c5b-a9fe-4010-a0d5-bef17c229ac0
+  macAddresses:
   - C0:D3:91:30:00:00/28
   manufacturer: Ixon B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ixon
 type: d3-device-type-assertion

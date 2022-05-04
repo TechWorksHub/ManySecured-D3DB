@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c2aee1d-a1bd-4e46-9065-d545dcce1904
-  mac-addresses:
+  id: 03d13679-87cc-4d79-8f8e-15a4d4ce4051
+  macAddresses:
   - 00:19:AC:00:00:00/24
   manufacturer: GSP SYSTEMS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSP
 type: d3-device-type-assertion

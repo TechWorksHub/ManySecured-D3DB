@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5901c4ed-a4e7-444f-844c-b1705dc41297
-  mac-addresses:
+  id: e0c155d9-73e1-45b8-ac82-8e0bfcd4d277
+  macAddresses:
   - 00:25:B2:00:00:00/24
   manufacturer: MBDA Deutschland GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MBDADeut
 type: d3-device-type-assertion

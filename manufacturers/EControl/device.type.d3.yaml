@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67a9e57c-2f0b-4bef-be94-a4864234148f
-  mac-addresses:
+  id: 315a6a20-d69b-44b3-a092-29d96e3871a3
+  macAddresses:
   - 2C:00:33:00:00:00/24
   manufacturer: EControls, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EControl
 type: d3-device-type-assertion

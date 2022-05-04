@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c957956-2dd4-4cb6-9342-f747c54c88b2
-  mac-addresses:
+  id: 5acbdaa3-1b4d-42e9-926a-07d5be3886fb
+  macAddresses:
   - 58:E8:76:20:00:00/28
   manufacturer: Coala Life AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoalaLif
 type: d3-device-type-assertion

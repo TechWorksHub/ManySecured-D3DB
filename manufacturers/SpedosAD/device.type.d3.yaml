@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eeb4a2a9-6b88-4ff8-a14f-7f8ae7479e26
-  mac-addresses:
+  id: f4824a51-2b86-4bbb-8ea8-a32647b9b789
+  macAddresses:
   - FC:CD:2F:C0:00:00/28
   manufacturer: Spedos ADS a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpedosAD
 type: d3-device-type-assertion

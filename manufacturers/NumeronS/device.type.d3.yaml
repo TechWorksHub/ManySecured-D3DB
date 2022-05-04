@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e17bffba-4e23-4f6a-9b23-c2e15f197020
-  mac-addresses:
+  id: b6cf0d31-0e99-456e-b30e-d85bc1295aa8
+  macAddresses:
   - 00:50:C2:40:20:00/36
   manufacturer: Numeron Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NumeronS
 type: d3-device-type-assertion

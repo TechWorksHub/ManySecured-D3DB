@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5772261-a90e-427e-a079-aa4710466307
-  mac-addresses:
+  id: 049df5bc-f87c-413a-bc34-3fa6a431214e
+  macAddresses:
   - F4:63:49:00:00:00/24
   manufacturer: Diffon Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Diffon
 type: d3-device-type-assertion

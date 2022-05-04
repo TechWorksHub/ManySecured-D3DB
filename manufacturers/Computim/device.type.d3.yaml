@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f94a444-9e15-440c-9bb6-3ddaa7cc2545
-  mac-addresses:
+  id: 76dc1ccd-7d2c-4d53-8f1f-952bc4f75833
+  macAddresses:
   - 00:50:C2:44:C0:00/36
   manufacturer: Computime Systems UK Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Computim
 type: d3-device-type-assertion

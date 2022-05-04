@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b083835d-e6e3-4268-9d76-35cdc12d133f
-  mac-addresses:
+  id: c1dbbd4c-71b6-44a3-b9c3-3bbef18f62da
+  macAddresses:
   - 70:B3:D5:C9:20:00/36
   manufacturer: Unitro Fleischmann
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnitroFl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e0fdb29-2b12-47f0-83d9-47c19452e74b
-  mac-addresses:
+  id: 01fdadc1-5d44-480f-9141-23a7bb357f1c
+  macAddresses:
   - 74:5F:00:00:00:00/24
   manufacturer: Samsung Semiconductor Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamsungS
 type: d3-device-type-assertion

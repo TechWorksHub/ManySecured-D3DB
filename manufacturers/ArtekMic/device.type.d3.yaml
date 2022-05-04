@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89a66ae4-9178-470d-95b9-0adcab63fde1
-  mac-addresses:
+  id: 40fb18a1-aa45-499d-aa76-57f7b3896a2d
+  macAddresses:
   - 50:C0:F0:00:00:00/24
   manufacturer: Artek Microelectronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtekMic
 type: d3-device-type-assertion

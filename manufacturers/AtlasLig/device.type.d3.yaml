@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23c1fb63-daac-4697-962e-a5e419d9a1a5
-  mac-addresses:
+  id: d55c06ab-4595-4c92-a7bb-16bd522dfbf0
+  macAddresses:
   - 70:B3:D5:CB:50:00/36
   manufacturer: Atlas Lighting Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtlasLig
 type: d3-device-type-assertion

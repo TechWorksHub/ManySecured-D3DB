@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29ca2829-9eac-415a-94ca-1854bad33043
-  mac-addresses:
+  id: bdbfc463-c21b-4afb-87ae-cfe384b1bc80
+  macAddresses:
   - 00:1E:28:00:00:00/24
   manufacturer: Lumexis Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumexis
 type: d3-device-type-assertion

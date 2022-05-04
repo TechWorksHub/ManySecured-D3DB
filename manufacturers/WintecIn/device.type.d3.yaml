@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25389233-3eae-4a02-b420-31a0a073d46d
-  mac-addresses:
+  id: 0fb5372a-065e-4a57-a449-bfb069b5faed
+  macAddresses:
   - 00:0F:70:00:00:00/24
   manufacturer: Wintec Industries, inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WintecIn
 type: d3-device-type-assertion

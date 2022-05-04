@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd9fddc4-ccef-4ca4-a030-1abe28c4eea2
-  mac-addresses:
+  id: 4df6668c-8789-4314-9f0f-37d94ed5d70a
+  macAddresses:
   - 70:8B:78:00:00:00/24
   manufacturer: citygrow technology co., ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: citygrow
 type: d3-device-type-assertion

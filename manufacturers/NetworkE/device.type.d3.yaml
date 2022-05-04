@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8e62bf3f-ed4e-464c-9734-556a8deafc0a
-  mac-addresses:
+  id: 29bada28-f87b-4baa-bfe2-f3ea0ade654e
+  macAddresses:
   - 00:02:1C:00:00:00/24
   - 00:0D:39:00:00:00/24
   - 00:10:23:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - 00:40:9A:00:00:00/24
   - 00:D0:A8:00:00:00/24
   manufacturer: Network Elements, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetworkE
 type: d3-device-type-assertion

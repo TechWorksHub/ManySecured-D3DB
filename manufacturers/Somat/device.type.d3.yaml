@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12a2a31c-c759-49d1-b2be-66f6eb6e9e11
-  mac-addresses:
+  id: d8410885-d6e1-41a5-801f-cd2d0fb8f41f
+  macAddresses:
   - 00:D0:56:00:00:00/24
   manufacturer: Somat Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Somat
 type: d3-device-type-assertion

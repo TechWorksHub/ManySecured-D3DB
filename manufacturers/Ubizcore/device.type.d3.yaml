@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7529b0b1-e8f9-4fbe-b2af-1d3081662fe4
-  mac-addresses:
+  id: 62cd3cfc-d98d-4728-97eb-10f6491a600f
+  macAddresses:
   - 48:F2:30:00:00:00/24
   manufacturer: Ubizcore Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubizcore
 type: d3-device-type-assertion

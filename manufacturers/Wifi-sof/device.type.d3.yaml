@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1f63604-8fb6-4d2e-aaaa-ac5301799708
-  mac-addresses:
+  id: 78953d55-31d9-40fd-80c2-b745f83f0abd
+  macAddresses:
   - 70:6D:EC:00:00:00/24
   manufacturer: Wifi-soft LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wifi-sof
 type: d3-device-type-assertion

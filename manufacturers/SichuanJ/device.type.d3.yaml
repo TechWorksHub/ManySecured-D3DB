@@ -1,12 +1,12 @@
 credentialSubject:
-  id: c45f3cc4-0cd3-4e17-8482-83648c6f312f
-  mac-addresses:
+  id: d07995ec-4aaf-4806-b8a7-6a6c0b31692e
+  macAddresses:
   - 00:23:B8:00:00:00/24
   - 0C:49:33:00:00:00/24
   - 28:5B:0C:00:00:00/24
   - 7C:52:59:00:00:00/24
   - FC:E1:92:00:00:00/24
   manufacturer: Sichuan Jiuzhou Electronic Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanJ
 type: d3-device-type-assertion

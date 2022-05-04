@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dae9293c-7e95-4e55-ab34-b97ebfd64a62
-  mac-addresses:
+  id: e13a9dc7-99ef-4497-8533-9717d08e6668
+  macAddresses:
   - 00:18:5A:00:00:00/24
   manufacturer: uControl, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: uControl
 type: d3-device-type-assertion

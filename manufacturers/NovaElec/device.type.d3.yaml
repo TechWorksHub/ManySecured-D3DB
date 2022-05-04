@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbd27d03-c5b7-4647-a1f3-0e73aede4e02
-  mac-addresses:
+  id: 84d0c09e-1596-483e-88ed-3bf090f8a9b7
+  macAddresses:
   - C8:02:8F:00:00:00/24
   manufacturer: Nova Electronics (Shanghai) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovaElec
 type: d3-device-type-assertion

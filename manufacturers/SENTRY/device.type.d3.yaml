@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b6bd77-7b4a-4153-b7f3-e1bc98543cd8
-  mac-addresses:
+  id: 38bd9e66-ac28-4ddb-844f-b0a982b7bbdd
+  macAddresses:
   - 00:7B:18:00:00:00/24
   manufacturer: SENTRY Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SENTRY
 type: d3-device-type-assertion

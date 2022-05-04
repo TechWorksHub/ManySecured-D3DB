@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f24042a-c7b7-4abb-ace0-5b15e2d96eb0
-  mac-addresses:
+  id: bcfc1e32-dd01-455e-9913-80f26a678b39
+  macAddresses:
   - 00:0C:12:00:00:00/24
   manufacturer: Micro-Optronic-Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micro-Op
 type: d3-device-type-assertion

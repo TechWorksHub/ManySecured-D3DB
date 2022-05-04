@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f99587b0-0c5c-416d-9dc9-c26d68047948
-  mac-addresses:
+  id: 3c6ccb79-8358-4cd4-b77b-7753c823d90e
+  macAddresses:
   - 00:09:7E:00:00:00/24
   manufacturer: Imi Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImiTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cd4f74c-bd2c-4fd6-9d80-ad11be399caf
-  mac-addresses:
+  id: b1de92ef-bafa-498d-a700-6be73254b415
+  macAddresses:
   - 98:6E:E8:30:00:00/28
   manufacturer: ReeR SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReeR
 type: d3-device-type-assertion

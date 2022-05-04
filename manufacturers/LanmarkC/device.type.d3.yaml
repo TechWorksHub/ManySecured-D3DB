@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f9d4a08b-cc0b-4120-9f64-7541598dac64
-  mac-addresses:
+  id: a5e94964-014b-48f2-89c8-1338983b7db3
+  macAddresses:
   - 00:50:C2:C8:C0:00/36
   - 70:B3:D5:39:E0:00/36
   manufacturer: Lanmark Controls Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LanmarkC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b50e63b6-e8bc-4312-b08f-b5f68a60bb7c
-  mac-addresses:
+  id: ca23dc0c-4678-4b79-8a3d-e4d2fa9772df
+  macAddresses:
   - 00:50:C2:AB:40:00/36
   manufacturer: n3k Informatik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: n3kInfor
 type: d3-device-type-assertion

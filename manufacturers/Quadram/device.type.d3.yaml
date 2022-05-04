@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed487ba1-0d2c-44d2-8d2c-a3c0527736f9
-  mac-addresses:
+  id: 909acc67-15aa-41eb-afc9-04f11ea452cd
+  macAddresses:
   - 00:00:E0:00:00:00/24
   manufacturer: Quadram Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quadram
 type: d3-device-type-assertion

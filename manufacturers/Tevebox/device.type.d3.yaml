@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 218cecff-e93b-4840-97fb-b37b03267aee
-  mac-addresses:
+  id: 24f9160e-68c4-47a3-a2a4-67bee736461c
+  macAddresses:
   - 00:0F:BA:00:00:00/24
   manufacturer: Tevebox AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tevebox
 type: d3-device-type-assertion

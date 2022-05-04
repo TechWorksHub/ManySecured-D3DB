@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 212841fe-11aa-4053-a138-5e13d0b26fca
-  mac-addresses:
+  id: 3bb5d381-b305-44dd-84ea-64ad835c7e73
+  macAddresses:
   - 00:50:C2:82:E0:00/36
   manufacturer: LogiCom GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogiCom
 type: d3-device-type-assertion

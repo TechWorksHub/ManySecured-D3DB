@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a182790f-35d5-4e97-a1f6-24c65fab9427
-  mac-addresses:
+  id: 45607fc8-2d62-42fd-b637-5717558cf9cd
+  macAddresses:
   - 00:50:C2:DE:70:00/36
   - 00:50:C2:F2:70:00/36
   - 00:50:C2:FD:A0:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 40:D8:55:1A:C0:00/36
   - E4:95:6E:50:00:00/28
   manufacturer: Elan Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elan
 type: d3-device-type-assertion

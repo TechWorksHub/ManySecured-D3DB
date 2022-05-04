@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ea3bb8e-04f3-4012-8d7e-c567e962d21f
-  mac-addresses:
+  id: 17421ebb-c8c9-487d-8ab6-73e6bc2f7c17
+  macAddresses:
   - 00:08:99:00:00:00/24
   manufacturer: Netbind, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netbind
 type: d3-device-type-assertion

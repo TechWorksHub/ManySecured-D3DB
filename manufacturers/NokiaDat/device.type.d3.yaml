@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1e3f74d-9c1b-4758-8bb9-bf3ccdc63d5c
-  mac-addresses:
+  id: 4232edc8-9b6d-4dc8-841c-5a5de4e541a2
+  macAddresses:
   - 00:40:43:00:00:00/24
   manufacturer: Nokia Data Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NokiaDat
 type: d3-device-type-assertion

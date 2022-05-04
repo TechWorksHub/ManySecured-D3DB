@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6915145-94fe-49f6-a4a0-c5a2653ee370
-  mac-addresses:
+  id: 2288b670-37d0-41af-9190-c05bad4cfffc
+  macAddresses:
   - 70:B3:D5:B8:10:00/36
   manufacturer: Instro Precision Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InstroPr
 type: d3-device-type-assertion

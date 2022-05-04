@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3941aa4e-a6a4-494c-b1aa-77cdd6b920cc
-  mac-addresses:
+  id: 650b995e-6cef-4344-8951-55456d48eda1
+  macAddresses:
   - A8:6A:C1:00:00:00/24
   manufacturer: HanbitEDS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanbitED
 type: d3-device-type-assertion

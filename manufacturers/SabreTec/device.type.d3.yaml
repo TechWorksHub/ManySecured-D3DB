@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3ad9f93-9169-4f19-862d-b058385c13c3
-  mac-addresses:
+  id: 90a82ae5-94bf-42ef-887f-d419c20b6299
+  macAddresses:
   - E4:35:FB:00:00:00/24
   manufacturer: Sabre Technology (Hull) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SabreTec
 type: d3-device-type-assertion

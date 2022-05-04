@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 456793dc-3e82-4526-b3e1-16cd6fd46af6
-  mac-addresses:
+  id: da470f53-ee23-4bc7-804c-5a6c95b2e0bb
+  macAddresses:
   - 9C:43:1E:50:00:00/28
   manufacturer: ProMOS Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProMOSTe
 type: d3-device-type-assertion

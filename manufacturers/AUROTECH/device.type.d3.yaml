@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52da97d4-1cb5-43ef-8c3b-72f3985629f4
-  mac-addresses:
+  id: 6a541e94-7927-4406-9ba4-a4be988da8d7
+  macAddresses:
   - 00:24:70:00:00:00/24
   manufacturer: AUROTECH ultrasound AS.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AUROTECH
 type: d3-device-type-assertion

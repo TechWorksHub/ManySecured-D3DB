@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b62f32d4-a492-499b-9893-d1b2b78c3a6e
-  mac-addresses:
+  id: 8591d561-8551-4176-b52c-4d340a614880
+  macAddresses:
   - 70:B3:D5:F8:F0:00/36
   manufacturer: Dimastec Gestao De Ponto E Acesso Eireli-Me
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dimastec
 type: d3-device-type-assertion

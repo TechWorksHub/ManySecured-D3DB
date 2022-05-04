@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 5d686f2e-b962-460a-8c65-8ebdd9933709
-  mac-addresses:
+  id: ad94fc31-2593-4244-91c6-8959a406e6d1
+  macAddresses:
   - 00:BE:D5:00:00:00/24
   - 00:DD:B6:00:00:00/24
   - 04:40:A9:00:00:00/24
@@ -78,6 +78,6 @@ credentialSubject:
   - F4:74:88:00:00:00/24
   - FC:60:9B:00:00:00/24
   manufacturer: New H3C Technologies Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewH3CTe
 type: d3-device-type-assertion

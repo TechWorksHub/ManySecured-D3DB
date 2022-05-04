@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59093d72-aa78-4b61-9e7b-d1bdcfcac0e1
-  mac-addresses:
+  id: 0cae1f22-f886-47a4-b84c-fe0ac4107b8e
+  macAddresses:
   - 20:F0:02:00:00:00/24
   manufacturer: MTData Developments Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MTDataDe
 type: d3-device-type-assertion

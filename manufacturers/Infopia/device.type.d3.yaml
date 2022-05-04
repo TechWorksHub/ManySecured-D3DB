@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67e9e798-434b-4ef2-a250-f2a1c06cba67
-  mac-addresses:
+  id: c09619c7-467f-4821-8631-00511b6018f2
+  macAddresses:
   - D4:27:51:00:00:00/24
   manufacturer: Infopia Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infopia
 type: d3-device-type-assertion

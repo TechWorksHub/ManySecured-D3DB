@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d79a12d9-3a1e-456e-af20-3ead78134308
-  mac-addresses:
+  id: 511c0c3d-5f06-4ab6-b33e-71b6569c3e7e
+  macAddresses:
   - F4:90:CB:B0:00:00/28
   manufacturer: A-dec Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A-dec
 type: d3-device-type-assertion

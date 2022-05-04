@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37e7eafe-8b3c-4b10-a829-017b106f4489
-  mac-addresses:
+  id: 9bf22c1c-8adf-495f-abb1-9c87383a4696
+  macAddresses:
   - 00:04:33:00:00:00/24
   manufacturer: Cyberboard A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cyberboa
 type: d3-device-type-assertion

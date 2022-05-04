@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 548ee06b-9448-49ae-951e-334d14e5d344
-  mac-addresses:
+  id: f637d8f6-c186-4e03-85c1-2563bf62b8a7
+  macAddresses:
   - 00:02:7A:00:00:00/24
   manufacturer: IOI Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IOITechn
 type: d3-device-type-assertion

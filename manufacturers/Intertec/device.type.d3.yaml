@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bec5c5e0-4cb4-49e0-8f51-75d72960ed7f
-  mac-addresses:
+  id: 2d24847a-ea2f-45d9-8e70-533b39ee9dc6
+  macAddresses:
   - 1C:A0:D3:60:00:00/28
   - 98:43:DA:00:00:00/24
   manufacturer: Intertecno SRL "NISUTA"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intertec
 type: d3-device-type-assertion

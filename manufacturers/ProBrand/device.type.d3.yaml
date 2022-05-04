@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 663a255b-062b-4ffc-a041-2411292dacb9
-  mac-addresses:
+  id: ab43a6eb-adde-41a7-9fa5-05f04a5881c1
+  macAddresses:
   - 7C:83:34:50:00:00/28
   manufacturer: Pro Brand Technology (Tw)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProBrand
 type: d3-device-type-assertion

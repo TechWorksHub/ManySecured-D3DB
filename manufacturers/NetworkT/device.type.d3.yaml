@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 51274cac-646a-4d08-b26e-d3c9c6c5b8f1
-  mac-addresses:
+  id: 966e2213-d7c8-45ef-bff6-0fe7b8d61cae
+  macAddresses:
   - 00:0C:82:00:00:00/24
   - 00:10:2E:00:00:00/24
   - 00:60:56:00:00:00/24
   manufacturer: Network Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetworkT
 type: d3-device-type-assertion

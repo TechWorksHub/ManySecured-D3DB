@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 900bd4a8-2e9b-40de-924a-8564bc8cc2f6
-  mac-addresses:
+  id: dd50509b-62e1-468c-bb86-e05aff21aad2
+  macAddresses:
   - 00:D0:11:00:00:00/24
   manufacturer: Prism Video, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrismVid
 type: d3-device-type-assertion

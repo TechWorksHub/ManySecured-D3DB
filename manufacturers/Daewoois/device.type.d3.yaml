@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8accf7e9-b401-4f7c-8128-6d9a953c214c
-  mac-addresses:
+  id: 99c18842-1356-40ac-abe7-0f906b887e09
+  macAddresses:
   - 18:17:14:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daewoois
 type: d3-device-type-assertion

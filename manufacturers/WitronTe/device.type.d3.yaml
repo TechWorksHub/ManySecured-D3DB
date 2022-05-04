@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afa6eabd-cd02-4bcf-b987-2ce0a33af251
-  mac-addresses:
+  id: a84cd7e6-571b-4d6b-9f73-3ad5a7352902
+  macAddresses:
   - 00:23:01:00:00:00/24
   manufacturer: Witron Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WitronTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 077d2550-2e94-4d1c-b378-bafe23aeaca7
-  mac-addresses:
+  id: 0250856c-dbad-4891-9f8b-5bbee9abe4d4
+  macAddresses:
   - E0:5A:9F:30:00:00/28
   manufacturer: Link of Things Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkThin
 type: d3-device-type-assertion

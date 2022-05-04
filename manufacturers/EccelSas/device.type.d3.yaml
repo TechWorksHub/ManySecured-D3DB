@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f81a8ca1-5ad3-4816-83df-f7ee882a3f48
-  mac-addresses:
+  id: 533dfaf5-86dc-4c0c-86ab-5d94a1b5063a
+  macAddresses:
   - EC:7F:C6:00:00:00/24
   manufacturer: Eccel Corporation Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EccelSas
 type: d3-device-type-assertion

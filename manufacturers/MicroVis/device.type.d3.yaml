@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17e7ae3b-6b4c-4f27-bdea-33b4c252715d
-  mac-addresses:
+  id: fa3745e8-ec01-4db8-bc65-a763cd2cdd47
+  macAddresses:
   - 00:1A:49:00:00:00/24
   manufacturer: Micro Vision Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroVis
 type: d3-device-type-assertion

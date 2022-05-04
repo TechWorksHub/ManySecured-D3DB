@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c8e1393e-e7fd-4abd-bc3d-8b36b5f8b616
-  mac-addresses:
+  id: 2fec11ca-4014-45d8-9c90-3bbeeb341849
+  macAddresses:
   - 00:50:C2:DB:70:00/36
   - 70:B3:D5:A8:40:00/36
   manufacturer: SOREL GmbH Mikroelektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SORELMik
 type: d3-device-type-assertion

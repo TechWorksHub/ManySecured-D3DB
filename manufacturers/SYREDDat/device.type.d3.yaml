@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5112aad6-ce78-434a-a226-3cad61903ca5
-  mac-addresses:
+  id: 0d0d53f2-eb60-43dc-8f66-026be3b17989
+  macAddresses:
   - 00:01:91:00:00:00/24
   manufacturer: SYRED Data Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SYREDDat
 type: d3-device-type-assertion

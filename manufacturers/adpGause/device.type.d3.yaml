@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4dee55d-7966-4b92-98a5-b374e8c5f5cf
-  mac-addresses:
+  id: b5153b92-fda1-4b3d-bff6-9d416ef907a6
+  macAddresses:
   - 00:0E:87:00:00:00/24
   manufacturer: adp Gauselmann GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: adpGause
 type: d3-device-type-assertion

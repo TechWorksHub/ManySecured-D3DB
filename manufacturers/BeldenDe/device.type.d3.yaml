@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a31915a7-1b63-4f2b-882c-44a5a4e0b5fd
-  mac-addresses:
+  id: 49ca220e-47b1-441e-ace6-e6b27188bbd9
+  macAddresses:
   - 3C:B9:A6:00:00:00/24
   manufacturer: Belden Deutschland GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeldenDe
 type: d3-device-type-assertion

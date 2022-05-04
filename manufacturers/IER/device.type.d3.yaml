@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 968a8cff-f325-47c5-bdd1-4fda4f2a887c
-  mac-addresses:
+  id: b7de665a-7176-48f2-8715-7868918a8d58
+  macAddresses:
   - 00:04:E8:00:00:00/24
   manufacturer: IER, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IER
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 442e6716-0ee9-4b06-a965-4e217a978414
-  mac-addresses:
+  id: 17688244-9d59-4180-8e0e-0bc3ae335440
+  macAddresses:
   - 00:40:46:00:00:00/24
   manufacturer: Udc Research Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UdcResea
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44ca4e54-470e-44c3-8081-151dd646061b
-  mac-addresses:
+  id: a24dfe88-347d-41db-8392-2f60e7b31626
+  macAddresses:
   - 00:E0:E8:00:00:00/24
   manufacturer: GRETACODER Data Systems AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GRETACOD
 type: d3-device-type-assertion

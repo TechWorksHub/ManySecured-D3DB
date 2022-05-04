@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e991553-9b3d-495f-9bd4-6641a573dc0e
-  mac-addresses:
+  id: 991f0ac8-0eb5-416f-8110-adbf2005f17e
+  macAddresses:
   - 00:50:C2:79:40:00/36
   manufacturer: Comsonics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comsonic
 type: d3-device-type-assertion

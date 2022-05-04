@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f92bd056-90de-47c3-bf86-7f2103e94e22
-  mac-addresses:
+  id: d642a2d8-836f-4856-b63d-101ba3a4c0fc
+  macAddresses:
   - 90:C6:82:40:00:00/28
   manufacturer: Neone, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neone
 type: d3-device-type-assertion

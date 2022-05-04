@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e59b93e-d4a8-4cdb-b957-e079cb0c4770
-  mac-addresses:
+  id: cd787559-62eb-4194-b80c-9271ca6c92a8
+  macAddresses:
   - 00:19:A8:00:00:00/24
   manufacturer: WiQuest Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiQuestC
 type: d3-device-type-assertion

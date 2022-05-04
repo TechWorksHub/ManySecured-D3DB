@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80ea2b26-a2a5-4707-96b6-e0b05ff22201
-  mac-addresses:
+  id: ed75af68-1ad7-4f39-9061-d0366476ace7
+  macAddresses:
   - 3C:39:E7:B0:00:00/28
   manufacturer: chipsguide technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: chipsgui
 type: d3-device-type-assertion

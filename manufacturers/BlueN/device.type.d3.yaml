@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a87291d9-bd6f-454f-a314-5fe6d6269a83
-  mac-addresses:
+  id: b3018bdc-8a25-4fa2-91b5-93b49496ce51
+  macAddresses:
   - C4:4E:1F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15eed59a-1dfc-4e45-8b9a-33f40256c778
-  mac-addresses:
+  id: 5ad82590-297b-4086-bc32-3958ea4a1529
+  macAddresses:
   - 70:B3:D5:86:90:00/36
   manufacturer: chargeBIG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: chargeBI
 type: d3-device-type-assertion

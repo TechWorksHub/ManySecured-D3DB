@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9523499b-783c-4eeb-9bfa-024bc5680f92
-  mac-addresses:
+  id: 5d489022-5713-4136-9097-8284e63dff40
+  macAddresses:
   - 34:29:8F:50:00:00/28
   manufacturer: Highlite International B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Highlite
 type: d3-device-type-assertion

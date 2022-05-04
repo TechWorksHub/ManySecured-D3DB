@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34bc44cd-227f-4996-a9c8-b804f2e72392
-  mac-addresses:
+  id: 0e88d8e4-3f1d-46f5-b278-71ecb6140fc6
+  macAddresses:
   - 00:50:C2:5B:80:00/36
   manufacturer: WestfaliaSurge GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Westfali
 type: d3-device-type-assertion

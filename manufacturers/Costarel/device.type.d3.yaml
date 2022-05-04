@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c1b7c60-6972-46e3-b4a3-cfb1a525609e
-  mac-addresses:
+  id: 24c2e954-8b0e-4a7a-92b1-6337348d8784
+  macAddresses:
   - 00:25:B7:00:00:00/24
   manufacturer: Costar electronics, inc.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Costarel
 type: d3-device-type-assertion

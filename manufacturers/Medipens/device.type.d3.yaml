@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bddbe38e-5510-406e-9105-dea538f1bde5
-  mac-addresses:
+  id: 1d5ba960-1ca7-4f85-87ac-50ea4b4b0c29
+  macAddresses:
   - 70:B3:D5:72:B0:00/36
   manufacturer: Medipense Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Medipens
 type: d3-device-type-assertion

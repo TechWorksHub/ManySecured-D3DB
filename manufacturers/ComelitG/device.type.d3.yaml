@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e3037e4-5f4f-40d5-93ae-ce46a7c8c6b2
-  mac-addresses:
+  id: 14eee395-89e9-4c6f-a531-fffa019f1631
+  macAddresses:
   - 00:25:29:00:00:00/24
   manufacturer: Comelit Group S.P.A
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComelitG
 type: d3-device-type-assertion

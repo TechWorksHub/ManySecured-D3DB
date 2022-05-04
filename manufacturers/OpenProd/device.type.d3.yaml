@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b414ce52-9a15-490b-a993-b981efb7fbd2
-  mac-addresses:
+  id: ef2dc887-556e-496d-af05-58fd2f3a99fa
+  macAddresses:
   - 1C:63:B7:00:00:00/24
   manufacturer: OpenProducts 237 AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenProd
 type: d3-device-type-assertion

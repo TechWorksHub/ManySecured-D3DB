@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b9b6418-1e23-4db1-b2fc-0e7259001209
-  mac-addresses:
+  id: c5d7e759-3432-472a-b87a-6e37dbf416f5
+  macAddresses:
   - 00:50:C2:91:A0:00/36
   manufacturer: Xtone Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XtoneNet
 type: d3-device-type-assertion

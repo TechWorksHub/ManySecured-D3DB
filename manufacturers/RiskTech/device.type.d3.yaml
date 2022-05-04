@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9d845d0-ba55-4a71-9184-c5ad6fcbf8c6
-  mac-addresses:
+  id: 844f69be-ea7e-4757-aa62-b474d06a105e
+  macAddresses:
   - 20:53:CA:00:00:00/24
   manufacturer: Risk Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RiskTech
 type: d3-device-type-assertion

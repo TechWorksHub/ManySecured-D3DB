@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f71dd9d5-8b94-4000-8deb-055e7afe2f6c
-  mac-addresses:
+  id: e892cfcb-8280-4a17-8f93-09e67b565fb1
+  macAddresses:
   - 70:B3:D5:2F:F0:00/36
   manufacturer: Sunstone Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sunstone
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d01111cc-268e-45c3-9a69-2a8cf3a4190a
-  mac-addresses:
+  id: 4c7007f2-11e2-4ba7-b79d-9c50e87c0344
+  macAddresses:
   - C0:02:8D:00:00:00/24
   manufacturer: WINSTAR Display CO.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WINSTARD
 type: d3-device-type-assertion

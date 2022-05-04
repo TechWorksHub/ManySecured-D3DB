@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fa61b64-0c26-479b-8557-00cfee22968a
-  mac-addresses:
+  id: a050e653-a86b-4272-a050-c7fd677e4e69
+  macAddresses:
   - 00:90:BB:00:00:00/24
   manufacturer: TAINET COMMUNICATION SYSTEM Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TAINETCO
 type: d3-device-type-assertion

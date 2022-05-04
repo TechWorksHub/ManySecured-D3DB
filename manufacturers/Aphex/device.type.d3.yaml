@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c95bddd4-c1fd-45a1-a628-b26b8a620dd9
-  mac-addresses:
+  id: f3de56fd-8a47-4acc-b790-bdcd798944a2
+  macAddresses:
   - 00:50:C2:50:40:00/36
   manufacturer: Aphex Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aphex
 type: d3-device-type-assertion

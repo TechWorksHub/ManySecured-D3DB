@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e50e3e24-b3e3-48d3-aef5-0fc27e197a6e
-  mac-addresses:
+  id: d2333563-42bb-475b-91a5-3a5fc8f74fe2
+  macAddresses:
   - 70:B3:D5:47:A0:00/36
   manufacturer: GlooVir Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlooVir
 type: d3-device-type-assertion

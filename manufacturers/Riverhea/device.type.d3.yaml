@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2518853-167e-427f-8290-e987f9676208
-  mac-addresses:
+  id: c5df9a00-8577-4079-a5ae-89ecdf78a087
+  macAddresses:
   - 00:0C:91:00:00:00/24
   manufacturer: Riverhead Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Riverhea
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 76d126e7-76ff-4947-bda3-2be3a2bb77c9
-  mac-addresses:
+  id: 1a157e84-a678-422f-9432-2c81c11a5c83
+  macAddresses:
   - 00:18:7E:00:00:00/24
   - 00:50:C2:24:30:00/36
   manufacturer: RGB Spectrum
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RGBSpect
 type: d3-device-type-assertion

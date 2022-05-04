@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 333c607e-61e7-4d09-86de-1684a99aed3a
-  mac-addresses:
+  id: 208f6033-9636-4741-86fb-9f2dd5a86da6
+  macAddresses:
   - 00:0C:8A:00:00:00/24
   - 04:52:C7:00:00:00/24
   - 08:DF:1F:00:00:00/24
@@ -12,6 +12,6 @@ credentialSubject:
   - AC:BF:71:00:00:00/24
   - C8:7B:23:00:00:00/24
   manufacturer: Bose Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bose
 type: d3-device-type-assertion

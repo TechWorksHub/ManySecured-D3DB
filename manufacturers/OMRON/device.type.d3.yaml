@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a16edf9a-a73f-4f6d-b1a0-5894061148f3
-  mac-addresses:
+  id: b0315d43-3222-44df-8a8a-7c945c3ee1dc
+  macAddresses:
   - 3C:F7:D1:00:00:00/24
   manufacturer: OMRON Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OMRON
 type: d3-device-type-assertion

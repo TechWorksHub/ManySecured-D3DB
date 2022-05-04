@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6885e068-be44-4618-ad03-ca2536974c31
-  mac-addresses:
+  id: f0752d28-6bcb-49a1-a7fd-52d2dd78bb20
+  macAddresses:
   - 00:18:55:00:00:00/24
   manufacturer: Aeromaritime Systembau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aeromari
 type: d3-device-type-assertion

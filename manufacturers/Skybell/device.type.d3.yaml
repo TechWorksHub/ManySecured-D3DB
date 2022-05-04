@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ab4a900-4f70-4f07-a07c-41fad31f0145
-  mac-addresses:
+  id: 3bf00583-4e82-432b-885c-0ddcf8cc7364
+  macAddresses:
   - D0:C1:93:00:00:00/24
   manufacturer: Skybell, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skybell
 type: d3-device-type-assertion

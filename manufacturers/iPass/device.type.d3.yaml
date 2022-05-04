@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 671099db-9c93-4f89-9a81-b5ae662013b1
-  mac-addresses:
+  id: 8e29063b-347f-4d4a-855d-1d78092a3c3c
+  macAddresses:
   - 6A:1F:6C:00:00:00/24
   manufacturer: iPass, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iPass
 type: d3-device-type-assertion

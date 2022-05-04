@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f12153f-723a-4b82-a355-06c53431d679
-  mac-addresses:
+  id: 1f49e969-4f57-4b31-8400-1e290c78b69c
+  macAddresses:
   - 70:B3:D5:28:80:00/36
   manufacturer: Bresslergroup
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bressler
 type: d3-device-type-assertion

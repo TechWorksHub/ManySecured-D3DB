@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7825835f-323a-408f-b198-22fca15f0296
-  mac-addresses:
+  id: 7b165ed7-4b66-446e-8095-66630d2c502d
+  macAddresses:
   - 90:3D:6B:00:00:00/24
   manufacturer: Zicon Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZiconTec
 type: d3-device-type-assertion

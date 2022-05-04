@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ed5612c-8067-439e-b71a-708dbdd312f1
-  mac-addresses:
+  id: c71648f3-502b-4347-a209-e94721b181dd
+  macAddresses:
   - 00:16:D4:00:00:00/24
   manufacturer: Compal Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompalCo
 type: d3-device-type-assertion

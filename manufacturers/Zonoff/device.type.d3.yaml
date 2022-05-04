@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c59656bc-2897-434d-8258-132ecd081ee2
-  mac-addresses:
+  id: e2c83dfa-fe94-4e01-b2a8-866633b13818
+  macAddresses:
   - A8:77:6F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zonoff
 type: d3-device-type-assertion

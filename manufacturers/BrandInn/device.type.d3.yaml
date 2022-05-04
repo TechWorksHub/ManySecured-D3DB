@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 109c9076-7086-4b3b-95a5-077396076d40
-  mac-addresses:
+  id: 5f75fea3-04ab-4f5e-bcbb-7395cc9d3c92
+  macAddresses:
   - 00:50:5F:00:00:00/24
   manufacturer: Brand Innovators
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrandInn
 type: d3-device-type-assertion

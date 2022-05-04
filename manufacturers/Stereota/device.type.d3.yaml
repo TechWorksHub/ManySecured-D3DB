@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecd679e8-bc06-498b-8053-adeeb31b8dc2
-  mac-addresses:
+  id: 5846e725-8746-4eb7-93ae-1667ad849d48
+  macAddresses:
   - 6C:6F:18:00:00:00/24
   manufacturer: Stereotaxis, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stereota
 type: d3-device-type-assertion

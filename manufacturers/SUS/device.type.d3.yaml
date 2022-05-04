@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ef82c076-729b-4789-9a6e-eab1a24d3f8b
-  mac-addresses:
+  id: 4035d5cd-4060-4009-93ef-aefe037bae98
+  macAddresses:
   - 70:B3:D5:1E:D0:00/36
   - 70:B3:D5:42:20:00/36
   manufacturer: SUS Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SUS
 type: d3-device-type-assertion

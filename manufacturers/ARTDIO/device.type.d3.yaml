@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16c6f6e0-30d6-4e23-89bb-f306c41919fc
-  mac-addresses:
+  id: b006d137-83e1-44f8-af77-c6704aaba645
+  macAddresses:
   - 00:11:60:00:00:00/24
   manufacturer: ARTDIO Company Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARTDIO
 type: d3-device-type-assertion

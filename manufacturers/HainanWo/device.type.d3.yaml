@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6aee50d6-675e-4592-83f4-b46e1d7c1cbd
-  mac-addresses:
+  id: 4656ecf4-3724-4c25-a203-eeb99e693cd3
+  macAddresses:
   - C4:A1:0E:60:00:00/28
   manufacturer: Hainan World Electronic Science and Techology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HainanWo
 type: d3-device-type-assertion

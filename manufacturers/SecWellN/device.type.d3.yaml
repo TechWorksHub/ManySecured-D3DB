@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07683592-1742-4c36-a8e8-551eea930460
-  mac-addresses:
+  id: 7eed9823-e56a-4bde-90b2-903339814cfb
+  macAddresses:
   - 00:09:7D:00:00:00/24
   manufacturer: SecWell Networks Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SecWellN
 type: d3-device-type-assertion

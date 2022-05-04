@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d4d1c55-e514-4ae6-8293-2050ea60d88e
-  mac-addresses:
+  id: 0a8fcc33-bdc5-4c1f-9a57-3e52302a85d9
+  macAddresses:
   - 00:00:C4:00:00:00/24
   manufacturer: Waters Div. Of Millipore
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WatersDi
 type: d3-device-type-assertion

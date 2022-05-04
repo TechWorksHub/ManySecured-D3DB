@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37fb8a84-6dfa-48b5-b10e-7ddfdfcc9435
-  mac-addresses:
+  id: b907919c-d427-4db4-8654-6fb0e4c53c0b
+  macAddresses:
   - 00:1A:26:00:00:00/24
   manufacturer: Deltanode Solutions AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Deltanod
 type: d3-device-type-assertion

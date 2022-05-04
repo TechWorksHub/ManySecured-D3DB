@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 067ed4fe-67e1-4dcb-b19c-59ec70d45c2d
-  mac-addresses:
+  id: c1739c2a-18c7-4000-ac4b-d587347702d5
+  macAddresses:
   - 00:1A:B4:00:00:00/24
   manufacturer: FFEI Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FFEI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffad3c5d-3b00-484e-bec9-636329582a1d
-  mac-addresses:
+  id: 26158782-9a56-428d-a28d-79e8fbdb04b0
+  macAddresses:
   - 40:F3:85:C0:00:00/28
   manufacturer: Clixxo Broadband Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClixxoBr
 type: d3-device-type-assertion

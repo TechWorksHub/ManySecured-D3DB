@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7c34b06-0a8f-4efb-88b6-f5b0681a3bce
-  mac-addresses:
+  id: f28351b5-73cc-4a04-acbf-55df034ed7fb
+  macAddresses:
   - A8:3A:48:00:00:00/24
   manufacturer: Ubiqcom India Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UbiqcomI
 type: d3-device-type-assertion

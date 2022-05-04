@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3838cf63-4ad1-4784-8288-c947fe1990f2
-  mac-addresses:
+  id: b2a4d442-866a-4e30-ad71-785b07b22bbc
+  macAddresses:
   - 00:02:00:00:00:00/24
   manufacturer: Net & Sys Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetSys
 type: d3-device-type-assertion

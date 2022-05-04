@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 377ab71d-ffdc-407d-b60e-1f952df762fe
-  mac-addresses:
+  id: d248913b-c813-47a9-9df2-3b2058a9110c
+  macAddresses:
   - DC:58:BC:00:00:00/24
   manufacturer: Thomas-Krenn.AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thomas-K
 type: d3-device-type-assertion

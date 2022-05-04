@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c601447-d7c7-4235-ad11-d090755c7635
-  mac-addresses:
+  id: 20054eb0-4e72-4f97-b1b6-9889b637d322
+  macAddresses:
   - 00:18:06:00:00:00/24
   manufacturer: Hokkei Industries Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HokkeiIn
 type: d3-device-type-assertion

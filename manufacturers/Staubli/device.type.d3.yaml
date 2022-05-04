@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 974eac30-4a6d-40a1-b3c4-050222e977a5
-  mac-addresses:
+  id: fd2a6de1-5bde-4506-abf8-e7d38ccc60ae
+  macAddresses:
   - 00:A0:F3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Staubli
 type: d3-device-type-assertion

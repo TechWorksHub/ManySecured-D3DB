@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bac22fb-33c0-4035-849e-5eedaa8fbea3
-  mac-addresses:
+  id: edc5b6d3-cad4-4348-8209-7e1a3a55692d
+  macAddresses:
   - 00:50:C2:B5:20:00/36
   manufacturer: SMH Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMHTechn
 type: d3-device-type-assertion

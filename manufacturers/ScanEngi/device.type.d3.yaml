@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57a8f365-1317-45d1-a5b3-148ccc069e04
-  mac-addresses:
+  id: d6b32aaa-c7c7-433a-bb20-e9ce421134e5
+  macAddresses:
   - 00:1B:84:00:00:00/24
   manufacturer: Scan Engineering Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScanEngi
 type: d3-device-type-assertion

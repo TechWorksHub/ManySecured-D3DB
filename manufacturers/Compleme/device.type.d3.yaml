@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23090519-54ac-4e54-8e7d-6bb5ff717015
-  mac-addresses:
+  id: 8c09efc9-a08c-4dfc-acfb-d2f743b74104
+  macAddresses:
   - 00:05:11:00:00:00/24
   manufacturer: Complementary Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compleme
 type: d3-device-type-assertion

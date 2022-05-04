@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 247cb371-bf4d-4130-b22d-1433e1e30cbd
-  mac-addresses:
+  id: ad1405e5-46ac-4769-8b9c-745563f4a769
+  macAddresses:
   - 8C:1F:64:38:50:00/36
   manufacturer: Multilane Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Multilan
 type: d3-device-type-assertion

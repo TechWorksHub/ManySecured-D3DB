@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d735634b-1b05-40d5-bc4a-1f68f9b7cf4d
-  mac-addresses:
+  id: a6e11cc1-092b-4639-b650-ec38df34179d
+  macAddresses:
   - 00:50:C2:1E:10:00/36
   manufacturer: Automaatiotekniikka Seppo Saari Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Automaat
 type: d3-device-type-assertion

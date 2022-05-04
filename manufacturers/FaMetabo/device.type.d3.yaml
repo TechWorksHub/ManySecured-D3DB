@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a2cbdd4-ef1e-4c01-baeb-1984b0898255
-  mac-addresses:
+  id: 7e17f574-b0a7-4638-8b9d-26738b259e44
+  macAddresses:
   - 00:04:06:00:00:00/24
   manufacturer: Fa. Metabox AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FaMetabo
 type: d3-device-type-assertion

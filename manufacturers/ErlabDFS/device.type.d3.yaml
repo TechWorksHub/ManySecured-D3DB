@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dafc0c45-4382-437e-af4e-5c252faf7922
-  mac-addresses:
+  id: 47c3b5ed-ebbe-495a-bb1b-ff8dc49d3e97
+  macAddresses:
   - 4C:91:7A:A0:00:00/28
   manufacturer: Erlab DFS SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ErlabDFS
 type: d3-device-type-assertion

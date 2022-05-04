@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fbc8460a-c066-40d1-b8e6-9dda3bd460f5
-  mac-addresses:
+  id: d7e445e0-e905-4228-8863-c475505cd20c
+  macAddresses:
   - 70:69:79:00:00:00/28
   - DC:BB:96:00:00:00/24
   manufacturer: Full Solution Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FullSolu
 type: d3-device-type-assertion

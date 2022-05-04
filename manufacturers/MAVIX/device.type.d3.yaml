@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35666813-d38d-46a1-ba0d-be21de82b06f
-  mac-addresses:
+  id: 072014f5-621f-4acc-bcf6-d6ccc28bda0c
+  macAddresses:
   - 00:03:A3:00:00:00/24
   manufacturer: MAVIX, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MAVIX
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ac7afd4-90c6-46fd-ae0e-e5265021ce55
-  mac-addresses:
+  id: 6735b2ea-0f46-4cdd-b8ec-ea5ecece828b
+  macAddresses:
   - 00:21:8E:00:00:00/24
   manufacturer: Mekics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mekics
 type: d3-device-type-assertion

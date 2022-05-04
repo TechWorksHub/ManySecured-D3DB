@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8a2f95f-cc64-4db8-91f7-43e129ccac3c
-  mac-addresses:
+  id: ad349f21-84a1-4831-be8e-982ecd8ba088
+  macAddresses:
   - 00:24:75:00:00:00/24
   manufacturer: Compass System(Embedded Dept.)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompassS
 type: d3-device-type-assertion

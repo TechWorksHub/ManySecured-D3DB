@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5e7909e-74da-4dff-b621-888d47e2282e
-  mac-addresses:
+  id: 6bca03ed-edb7-411a-a129-fcb630f023d9
+  macAddresses:
   - 40:F3:85:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SubPac
 type: d3-device-type-assertion

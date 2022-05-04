@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc7d8e7b-eb85-4841-a299-6a08f5c5b352
-  mac-addresses:
+  id: 15f62174-386c-4ac1-a4c5-adf960b7383b
+  macAddresses:
   - 00:12:06:00:00:00/24
   manufacturer: iQuest (NZ) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iQuestNZ
 type: d3-device-type-assertion

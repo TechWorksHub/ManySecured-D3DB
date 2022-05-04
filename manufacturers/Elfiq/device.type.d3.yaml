@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16b2394b-06af-4410-865f-2d2a591a70b7
-  mac-addresses:
+  id: 4e7aed89-5df1-46f9-a091-3298157a03c6
+  macAddresses:
   - 00:50:C2:55:20:00/36
   manufacturer: Elfiq Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elfiq
 type: d3-device-type-assertion

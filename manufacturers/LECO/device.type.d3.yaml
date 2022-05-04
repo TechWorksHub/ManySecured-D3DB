@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 778e867c-46b9-4101-981f-8424eef46d13
-  mac-addresses:
+  id: d7bc815b-7fc7-41ba-8d84-5932b20a9652
+  macAddresses:
   - 00:50:C2:2F:00:00/36
   - 00:50:C2:C8:70:00/36
   - 40:D8:55:0D:30:00/36
   - 70:B3:D5:59:90:00/36
   - 70:B3:D5:68:40:00/36
   manufacturer: LECO Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LECO
 type: d3-device-type-assertion

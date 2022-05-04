@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 1765e5f7-3de9-439a-9319-70616259b45d
-  mac-addresses:
+  id: 6cd67410-95f1-4842-aa91-6ce07734c3cd
+  macAddresses:
   - 18:FC:26:00:00:00/24
   - 30:E8:E4:00:00:00/24
   - 44:A5:4E:00:00:00/24
   - 9C:69:37:00:00:00/24
   - C4:98:86:00:00:00/24
   manufacturer: Qorvo International Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QorvoInt
 type: d3-device-type-assertion

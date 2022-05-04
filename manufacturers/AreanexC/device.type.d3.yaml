@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d17a6224-13e3-4842-bf0e-b4d4c2dfa5d0
-  mac-addresses:
+  id: e9514ba9-5faf-4dc5-859b-dfa50dd3fe0e
+  macAddresses:
   - 00:C0:71:00:00:00/24
   manufacturer: Areanex Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AreanexC
 type: d3-device-type-assertion

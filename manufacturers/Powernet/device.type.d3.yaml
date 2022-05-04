@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e387c772-00ac-42c0-b92c-de23f8296883
-  mac-addresses:
+  id: ee6b8528-541f-4a86-8cc3-92c5d4dc4def
+  macAddresses:
   - 00:09:6D:00:00:00/24
   manufacturer: Powernet Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powernet
 type: d3-device-type-assertion

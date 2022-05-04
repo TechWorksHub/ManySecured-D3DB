@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3be4404b-79dc-44ea-9de9-34d2ad69c785
-  mac-addresses:
+  id: 11a6a51e-2510-4c82-b08b-47af0413842e
+  macAddresses:
   - 00:14:30:00:00:00/24
   manufacturer: ViPowER, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViPowER
 type: d3-device-type-assertion

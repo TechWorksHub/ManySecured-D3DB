@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4f46701-d77e-43a6-8515-34bd7b303bcc
-  mac-addresses:
+  id: 892d1082-07c3-4bed-8d07-08e38de6e68c
+  macAddresses:
   - 00:0E:C3:00:00:00/24
   manufacturer: Logic Controls, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicCon
 type: d3-device-type-assertion

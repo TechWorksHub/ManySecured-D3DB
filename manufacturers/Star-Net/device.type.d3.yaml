@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a372922-a52f-43ff-9cf9-e6849a376db7
-  mac-addresses:
+  id: a0dfb231-b3af-406a-83ac-bfd3f0b2bd70
+  macAddresses:
   - 44:83:12:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Star-Net
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa9c8585-f2d0-4958-a49e-80da1dbe36f3
-  mac-addresses:
+  id: bbf1c32b-ec90-4201-90f2-f351b07dc347
+  macAddresses:
   - 00:E0:F5:00:00:00/24
   manufacturer: Teles Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teles
 type: d3-device-type-assertion

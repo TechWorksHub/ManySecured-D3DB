@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b9704dc5-acec-4503-aef9-d4c348956b31
-  mac-addresses:
+  id: 88bc9483-4425-4dd6-97e7-476aca740ddc
+  macAddresses:
   - 00:07:80:00:00:00/24
   - 88:6B:0F:00:00:00/24
   manufacturer: Bluegiga Technologies OY
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bluegiga
 type: d3-device-type-assertion

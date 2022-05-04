@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b3aafe2-ec11-4625-b7d4-d84a90c0f895
-  mac-addresses:
+  id: 791a66f1-e7ac-40e4-b3ba-c27fd19ee64a
+  macAddresses:
   - 80:A8:5D:00:00:00/24
   manufacturer: Osterhout Design Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Osterhou
 type: d3-device-type-assertion

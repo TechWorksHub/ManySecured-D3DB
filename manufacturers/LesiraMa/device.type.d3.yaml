@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e457ab9-0e8e-4801-addd-dccb43a37ff3
-  mac-addresses:
+  id: 6034f182-37ff-4b05-b5db-e0d21a25d823
+  macAddresses:
   - 9C:D9:CB:00:00:00/24
   manufacturer: Lesira Manufacturing Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LesiraMa
 type: d3-device-type-assertion

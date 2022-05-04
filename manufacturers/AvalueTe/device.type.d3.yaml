@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a6702a0-cbd7-481c-8cb3-65d15f130a8f
-  mac-addresses:
+  id: 13deb340-7bf0-4948-8027-ef37a7270b11
+  macAddresses:
   - 00:04:5F:00:00:00/24
   manufacturer: Avalue Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvalueTe
 type: d3-device-type-assertion

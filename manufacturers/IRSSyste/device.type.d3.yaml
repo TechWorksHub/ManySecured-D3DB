@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6353271f-12ca-4aec-bd5e-7cdc7cc32aa8
-  mac-addresses:
+  id: 4489879f-0cf0-445c-8fff-bd19da79e78c
+  macAddresses:
   - 74:5B:C5:00:00:00/28
   manufacturer: IRS Systementwicklung GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IRSSyste
 type: d3-device-type-assertion

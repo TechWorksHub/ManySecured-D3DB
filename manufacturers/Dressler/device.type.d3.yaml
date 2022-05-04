@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ffbbf3a-0ea4-4521-95f3-388595da72c8
-  mac-addresses:
+  id: 8d61146f-4d57-4b60-b554-de02905bd9d2
+  macAddresses:
   - 00:40:98:00:00:00/24
   manufacturer: Dressler Gmbh & Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dressler
 type: d3-device-type-assertion

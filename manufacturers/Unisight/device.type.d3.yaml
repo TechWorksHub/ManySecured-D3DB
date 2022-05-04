@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 717c3aee-b8be-47ba-bf18-1db3f1cbd30e
-  mac-addresses:
+  id: d191a92d-a4ac-470d-8e78-511587fc87ac
+  macAddresses:
   - 70:B3:D5:2D:80:00/36
   manufacturer: Unisight Digital Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unisight
 type: d3-device-type-assertion

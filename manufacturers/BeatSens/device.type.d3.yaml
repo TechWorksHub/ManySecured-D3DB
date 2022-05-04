@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 305846ff-ef59-437a-9fdb-c15edf8fbe3e
-  mac-addresses:
+  id: edefda19-d31b-4d18-ad58-26c04b8ccc86
+  macAddresses:
   - 40:D8:55:18:F0:00/36
   manufacturer: Beat Sensing co. , ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeatSens
 type: d3-device-type-assertion

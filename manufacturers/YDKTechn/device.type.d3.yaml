@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d6f6824-6e6b-439c-9190-2751b3165810
-  mac-addresses:
+  id: b0872c1a-2fa0-48d8-b51c-2a89425122d4
+  macAddresses:
   - 70:B3:D5:7F:00:00/36
   manufacturer: YDK Technologies Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YDKTechn
 type: d3-device-type-assertion

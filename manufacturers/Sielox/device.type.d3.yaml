@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5664913-a1a5-4594-8bcc-e4cc9279057a
-  mac-addresses:
+  id: 1b61457a-3e50-4a73-b603-402328e47ebb
+  macAddresses:
   - 00:23:19:00:00:00/24
   manufacturer: Sielox LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sielox
 type: d3-device-type-assertion

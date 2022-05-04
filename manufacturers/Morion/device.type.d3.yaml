@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 750e8d3e-43c0-4640-b962-0d99b35fa874
-  mac-addresses:
+  id: 5c47f9d3-e85c-4774-b472-488da2e66535
+  macAddresses:
   - 10:28:31:00:00:00/24
   manufacturer: Morion Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Morion
 type: d3-device-type-assertion

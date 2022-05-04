@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15a11186-2a16-46a5-a4a2-3cdd3ae5ada7
-  mac-addresses:
+  id: 1f474070-7e59-4c7b-b9da-d3a5113b6357
+  macAddresses:
   - 70:B3:D5:17:C0:00/36
   manufacturer: Farmpro Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Farmpro
 type: d3-device-type-assertion

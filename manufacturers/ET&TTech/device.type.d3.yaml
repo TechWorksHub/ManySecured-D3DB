@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 855f77a4-50e0-416c-a32f-c30a1ea77f2a
-  mac-addresses:
+  id: a709046c-13ed-4f87-8f8a-9232df599ce5
+  macAddresses:
   - 00:0B:76:00:00:00/24
   manufacturer: ET&T Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ET&TTech
 type: d3-device-type-assertion

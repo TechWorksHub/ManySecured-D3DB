@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49fa5867-661c-4759-abc2-4665967f8a2a
-  mac-addresses:
+  id: 05b09ce8-0c40-422d-8ebc-7a8f4612d225
+  macAddresses:
   - 20:0A:0D:80:00:00/28
   manufacturer: bcheck NV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bcheck
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4866d691-8d8c-485f-ad44-a02e9922dc83
-  mac-addresses:
+  id: d415a0dc-b6b1-47c1-8d17-b7a47450cf78
+  macAddresses:
   - 00:00:8C:00:00:00/24
   manufacturer: Alloy Computer Products (Australia) Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlloyCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28908f64-b5d1-43fe-a98e-bd24ed1ddef5
-  mac-addresses:
+  id: 9d0a2564-a298-4e2c-b0fc-54f4f172c409
+  macAddresses:
   - 00:50:9C:00:00:00/24
   manufacturer: Beta Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BetaRese
 type: d3-device-type-assertion

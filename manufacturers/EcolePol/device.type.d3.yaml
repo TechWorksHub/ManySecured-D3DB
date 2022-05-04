@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30c1fa00-1cc7-4666-85cf-0413fcc62b88
-  mac-addresses:
+  id: 73f81a8e-436a-4088-a10d-a99916036baf
+  macAddresses:
   - 00:60:D7:00:00:00/24
   manufacturer: Ecole Polytechnique Federale De Lausanne (Epfl)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcolePol
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fa75476-ab8f-482d-a36c-64a771130f08
-  mac-addresses:
+  id: 3da08f8d-9f95-427a-acd3-3cb3eb3e3211
+  macAddresses:
   - 00:50:C2:A0:20:00/36
   manufacturer: Reference, LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Referenc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17921e83-e30a-41a2-a364-aea02f5d8863
-  mac-addresses:
+  id: eb4d0cfa-c83f-4886-a019-44d4329d40be
+  macAddresses:
   - 00:24:C2:00:00:00/24
   manufacturer: Asumo Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asumo
 type: d3-device-type-assertion

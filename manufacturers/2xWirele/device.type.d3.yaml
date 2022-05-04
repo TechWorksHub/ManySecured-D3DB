@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 690e4a54-0c1d-4e2e-b684-017cd044e411
-  mac-addresses:
+  id: f22a2131-8e9e-489f-9a1b-220cd5996430
+  macAddresses:
   - 00:0F:A2:00:00:00/24
   manufacturer: 2xWireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2xWirele
 type: d3-device-type-assertion

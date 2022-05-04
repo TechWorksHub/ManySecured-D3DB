@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e73b17a0-4009-4604-81fe-6bc6870f1537
-  mac-addresses:
+  id: 794bc702-3bf8-4ea4-ac46-5a463f810042
+  macAddresses:
   - FC:55:DC:00:00:00/24
   manufacturer: Baltic Latvian Universal Electronics LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BalticLa
 type: d3-device-type-assertion

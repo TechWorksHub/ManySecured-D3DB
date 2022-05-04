@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09ac3ece-dc93-4c8f-bfb9-c0a2b94d7d4c
-  mac-addresses:
+  id: b7c51d61-1793-4092-84f9-5838690e72c1
+  macAddresses:
   - 00:00:C8:00:00:00/24
   manufacturer: Altos Computer Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltosCom
 type: d3-device-type-assertion

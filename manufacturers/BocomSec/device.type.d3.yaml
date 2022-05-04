@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb7af9e6-1cc0-4f34-8780-ad9ee7d970c0
-  mac-addresses:
+  id: 6fe9cbc9-97a2-4983-99e6-87793059a79b
+  macAddresses:
   - 00:21:D3:00:00:00/24
   manufacturer: Bocom Security(Asia Pacific) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BocomSec
 type: d3-device-type-assertion

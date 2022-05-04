@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dac87e29-2043-4e87-850f-39c0064ca689
-  mac-addresses:
+  id: 2552abee-c055-4072-bdfd-2f00495892fc
+  macAddresses:
   - 5C:F2:07:00:00:00/24
   manufacturer: Speco Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpecoTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fca54fd9-5749-41cb-b821-a6b17ae0dd2d
-  mac-addresses:
+  id: d6485948-a57e-445d-988d-53ab90bf489f
+  macAddresses:
   - E4:1E:0A:50:00:00/28
   manufacturer: Aeroel srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aeroel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02859dea-63d8-478a-887e-b0c43eecd6c6
-  mac-addresses:
+  id: adf6f99f-3d33-4ded-9dc3-65b77b7838e3
+  macAddresses:
   - 1C:A0:EF:60:00:00/28
   manufacturer: Hanjen.Chin Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanjenCh
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8efef92c-f67b-44f3-b2bc-0e6b999378c6
-  mac-addresses:
+  id: 982b3efd-22de-47bb-854a-f0bddb777610
+  macAddresses:
   - 04:C3:E6:50:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Invasys
 type: d3-device-type-assertion

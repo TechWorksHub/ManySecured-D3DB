@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51b308bc-7a2d-4c05-ada2-5c69342ced79
-  mac-addresses:
+  id: 2ceae7ef-74c4-4b19-adfb-074661e60acc
+  macAddresses:
   - 00:14:0C:00:00:00/24
   manufacturer: Gkb Cctv Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GkbCctv
 type: d3-device-type-assertion

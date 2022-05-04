@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1612c579-c428-4c5f-b477-2565da85da8a
-  mac-addresses:
+  id: 56f0d10f-a03a-453e-afcd-a02605e04357
+  macAddresses:
   - 00:0A:40:00:00:00/24
   manufacturer: Crown Audio -- Harmanm International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrownAud
 type: d3-device-type-assertion

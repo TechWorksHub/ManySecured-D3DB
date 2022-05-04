@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbd1ed64-a97f-4885-806f-8a1a3dfbea61
-  mac-addresses:
+  id: 00c72b90-52bd-4eed-99a7-6406ac6ea476
+  macAddresses:
   - 00:50:C2:4C:50:00/36
   manufacturer: eXray Broadband Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eXrayBro
 type: d3-device-type-assertion

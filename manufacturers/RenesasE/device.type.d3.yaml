@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 84035ac1-fb8e-4327-9b7f-1b3983ff1ff5
-  mac-addresses:
+  id: a461f4a8-85d1-4a6c-ae2d-0b5bd5f557cb
+  macAddresses:
   - 00:91:EB:00:00:00/24
   - 0C:B8:E8:00:00:00/24
   - 24:5B:83:00:00:00/24
@@ -25,6 +25,6 @@ credentialSubject:
   - FC:92:57:00:00:00/24
   - FC:A9:DC:00:00:00/24
   manufacturer: Renesas Electronics (Penang) Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RenesasE
 type: d3-device-type-assertion

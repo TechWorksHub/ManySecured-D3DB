@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22e61120-4fcf-47e9-854a-77cd36cdbbd7
-  mac-addresses:
+  id: 7bda4db6-c050-4938-908a-2256560f3dc9
+  macAddresses:
   - 00:15:95:00:00:00/24
   manufacturer: Quester Tangent Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuesterT
 type: d3-device-type-assertion

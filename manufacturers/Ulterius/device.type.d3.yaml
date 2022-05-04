@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e0f36dd-5ae6-437b-bbdc-740f1c9fc301
-  mac-addresses:
+  id: d3f3725d-6a23-43a0-aed2-7c6da76ab4fb
+  macAddresses:
   - 54:DF:00:00:00:00/24
   manufacturer: Ulterius Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ulterius
 type: d3-device-type-assertion

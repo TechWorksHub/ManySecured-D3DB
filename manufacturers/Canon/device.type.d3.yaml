@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c9550d62-21d2-4efb-bde5-1dff84322b86
-  mac-addresses:
+  id: cbf75b98-c4d8-4c57-ac82-c848ff926ad9
+  macAddresses:
   - 00:00:85:00:00:00/24
   - 00:1E:8F:00:00:00/24
   - 00:BB:C1:00:00:00/24
@@ -23,6 +23,6 @@ credentialSubject:
   - F8:0D:60:00:00:00/24
   - F8:A2:6D:00:00:00/24
   manufacturer: Canon Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Canon
 type: d3-device-type-assertion

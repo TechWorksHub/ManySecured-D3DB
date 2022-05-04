@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2c89a22c-2056-42cb-8cdf-2cdee4e38dc1
-  mac-addresses:
+  id: ab13d7f8-0907-49f6-9c71-3045542f18a2
+  macAddresses:
   - 00:1A:10:00:00:00/24
   - BC:66:41:E0:00:00/28
   manufacturer: Lucent Trans Electronics Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LucentTr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9a85683-e54d-45c8-97d2-b22ad7a2ff73
-  mac-addresses:
+  id: 6ce12628-1bc0-4c2e-8ccf-003af6ec1ee5
+  macAddresses:
   - 00:24:15:00:00:00/24
   manufacturer: Magnetic Autocontrol GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magnetic
 type: d3-device-type-assertion

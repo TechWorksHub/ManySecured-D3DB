@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db5a1647-8484-436e-a26b-e47146e9c8cd
-  mac-addresses:
+  id: 615344fd-1bc7-4301-a84e-cb3886e45485
+  macAddresses:
   - 00:05:A0:00:00:00/24
   manufacturer: MOBILINE Kft.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MOBILINE
 type: d3-device-type-assertion

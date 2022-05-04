@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 384126d8-3b02-4d87-a829-22c36f20c02c
-  mac-addresses:
+  id: 08cbc73d-848c-4c55-a79c-296b62dcd23c
+  macAddresses:
   - 08:87:C6:00:00:00/24
   - 44:A6:1E:00:00:00/24
   - 50:39:2F:00:00:00/24
   - 68:3F:7D:00:00:00/24
   - 7C:C1:77:00:00:00/24
   manufacturer: Ingram Micro Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IngramMi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afcd1f08-ef2c-47aa-8605-184cda6b3978
-  mac-addresses:
+  id: 1105906d-6361-4764-bb4a-0a052b429360
+  macAddresses:
   - 1C:95:9F:00:00:00/24
   manufacturer: Veethree Electronics And Marine LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Veethree
 type: d3-device-type-assertion

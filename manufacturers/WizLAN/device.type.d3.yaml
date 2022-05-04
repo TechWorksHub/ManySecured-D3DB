@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c08b3b8-79e1-48e3-a0ad-64a52f59dce4
-  mac-addresses:
+  id: b2823969-7909-4f7d-ad9b-7fe8f01722cd
+  macAddresses:
   - 34:F3:9B:00:00:00/24
   manufacturer: WizLAN Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WizLAN
 type: d3-device-type-assertion

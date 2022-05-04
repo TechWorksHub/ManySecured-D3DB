@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a7bc374-7475-4fb0-bca3-7d7f8fb2b9a7
-  mac-addresses:
+  id: ecd8c7d5-b344-4da1-9e44-1f6da01874fa
+  macAddresses:
   - BC:0F:A7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ouster
 type: d3-device-type-assertion

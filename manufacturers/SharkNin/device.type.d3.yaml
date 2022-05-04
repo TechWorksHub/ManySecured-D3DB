@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15b0c9e5-2616-4e5e-bfd5-ce089b8ea194
-  mac-addresses:
+  id: 9c864c04-29ba-4935-94f2-6d91d37c667d
+  macAddresses:
   - 0C:E5:A3:00:00:00/24
   manufacturer: SharkNinja
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SharkNin
 type: d3-device-type-assertion

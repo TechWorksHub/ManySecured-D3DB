@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15b82e18-acf7-45b9-9fb9-dc51e505b9d4
-  mac-addresses:
+  id: 585ee49c-92c3-4a9c-8dee-34c3e5d15a5d
+  macAddresses:
   - BC:AB:7C:00:00:00/24
   manufacturer: TRnP KOREA Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TRnPKORE
 type: d3-device-type-assertion

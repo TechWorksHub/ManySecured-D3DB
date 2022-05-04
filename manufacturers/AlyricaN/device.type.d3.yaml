@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 558ebf88-4f1a-424f-b2bd-97cd751f94a5
-  mac-addresses:
+  id: cdfb16ee-1043-4d28-ba75-2492ab4b2d6e
+  macAddresses:
   - 00:50:C2:EA:E0:00/36
   manufacturer: Alyrica Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlyricaN
 type: d3-device-type-assertion

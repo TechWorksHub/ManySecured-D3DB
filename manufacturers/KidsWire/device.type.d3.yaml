@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20aea251-c833-46ea-bfe2-930c6e30f0a2
-  mac-addresses:
+  id: 37c81a89-1d45-4e1a-86c8-9f29978463c4
+  macAddresses:
   - 1C:C0:E1:50:00:00/28
   manufacturer: Kids Wireless Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KidsWire
 type: d3-device-type-assertion

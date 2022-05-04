@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5846fb6-113d-4590-bbdf-10a51a731900
-  mac-addresses:
+  id: 7c647250-f5e6-4ca0-893b-f8185a87ba38
+  macAddresses:
   - 70:B3:D5:74:40:00/36
   manufacturer: PHYZHON Health Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PHYZHONH
 type: d3-device-type-assertion

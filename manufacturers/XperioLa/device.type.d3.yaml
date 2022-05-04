@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6036b5f9-9e5b-489e-a27b-ace2e64fa473
-  mac-addresses:
+  id: cd395ce9-3cc4-4753-a0c4-c99f4732929e
+  macAddresses:
   - D0:22:12:C0:00:00/28
   - F8:1D:78:20:00:00/28
   manufacturer: Xperio Labs Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XperioLa
 type: d3-device-type-assertion

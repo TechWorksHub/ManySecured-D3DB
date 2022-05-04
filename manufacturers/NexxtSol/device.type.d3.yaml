@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7d0a455-77a7-4673-9a94-4275180881c5
-  mac-addresses:
+  id: 7ca88de5-4db2-40a3-a86a-aed5fc547505
+  macAddresses:
   - C0:25:67:00:00:00/24
   manufacturer: Nexxt Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NexxtSol
 type: d3-device-type-assertion

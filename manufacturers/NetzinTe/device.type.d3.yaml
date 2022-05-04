@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c0d42b4-ca12-42bf-a858-639c0a648b6c
-  mac-addresses:
+  id: bfdf2dca-58db-413d-b024-11343ea719ae
+  macAddresses:
   - 00:E6:E8:00:00:00/24
   manufacturer: Netzin Technology Corporation,.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetzinTe
 type: d3-device-type-assertion

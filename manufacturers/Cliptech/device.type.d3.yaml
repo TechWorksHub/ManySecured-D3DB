@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4efa43ba-3f6a-45b5-b18f-6634b3d8c6c3
-  mac-addresses:
+  id: b649e6a2-5944-47db-8ccd-02ec4253128e
+  macAddresses:
   - D0:22:12:70:00:00/28
   - FC:A4:7A:30:00:00/28
   manufacturer: Cliptech Industria e Comercio Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cliptech
 type: d3-device-type-assertion

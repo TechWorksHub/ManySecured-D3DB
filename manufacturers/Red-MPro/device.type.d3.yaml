@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da34a160-056e-4194-9eb9-35b35aa3ae20
-  mac-addresses:
+  id: 0c0a8808-2b89-4017-8dfb-0a8d097c5917
+  macAddresses:
   - 00:0A:1E:00:00:00/24
   manufacturer: Red-M Products Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Red-MPro
 type: d3-device-type-assertion

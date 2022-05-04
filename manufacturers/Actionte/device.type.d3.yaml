@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a6c4515b-e201-42a0-9e92-53c1c26c270a
-  mac-addresses:
+  id: 06d15946-36d2-44bf-ab79-76e39d915fd9
+  macAddresses:
   - 00:0F:B3:00:00:00/24
   - 00:15:05:00:00:00/24
   - 00:18:01:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - F8:E4:FB:00:00:00/24
   - FC:2B:B2:00:00:00/24
   manufacturer: Actiontec Electronics, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Actionte
 type: d3-device-type-assertion

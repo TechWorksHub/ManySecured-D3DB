@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03f2730f-10e6-46d7-ad34-31eda07ee2bd
-  mac-addresses:
+  id: e7709229-8796-4a07-81e0-86973eda34c5
+  macAddresses:
   - AC:C5:1B:00:00:00/24
   manufacturer: Zhuhai Pantum Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiPa
 type: d3-device-type-assertion

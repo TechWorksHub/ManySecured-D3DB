@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ca1c35f-1b86-4a33-9241-3ad67ad7ec55
-  mac-addresses:
+  id: 812a8268-f1a3-44d6-ab10-79845f9220d7
+  macAddresses:
   - 00:00:CC:00:00:00/24
   manufacturer: Densan Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Densan
 type: d3-device-type-assertion

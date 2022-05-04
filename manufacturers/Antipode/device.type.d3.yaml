@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f609a65c-2de1-447c-a396-763c1ddca7cd
-  mac-addresses:
+  id: d52c757a-f030-4879-b048-5fff014a0f36
+  macAddresses:
   - 00:23:85:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Antipode
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f90cacd-06ba-4317-9f8e-d0dfc08c5c11
-  mac-addresses:
+  id: b5f12fa9-7fb2-4a65-9797-648915e9c100
+  macAddresses:
   - 00:50:C2:9C:A0:00/36
   manufacturer: ESAB-ATAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESAB-ATA
 type: d3-device-type-assertion

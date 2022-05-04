@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3bbc855d-5a66-4568-b9be-43b040557419
-  mac-addresses:
+  id: c5c742cc-c810-4574-84b3-29064960970e
+  macAddresses:
   - 8C:1F:64:73:D0:00/36
   manufacturer: NewAgeMicro
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewAgeMi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9462ba9-1deb-4b20-a357-c3b25da86c9b
-  mac-addresses:
+  id: 95efecaf-7da6-4bf2-9d7c-35c2010118f9
+  macAddresses:
   - 00:05:2F:00:00:00/24
   manufacturer: Leviton Network Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LevitonN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bde483ce-2901-4f30-8499-0fd92d22da17
-  mac-addresses:
+  id: 899bff21-bdf0-43fb-8c8e-2c6f1b667659
+  macAddresses:
   - 70:B3:D5:0C:B0:00/36
   manufacturer: Nireco Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nireco
 type: d3-device-type-assertion

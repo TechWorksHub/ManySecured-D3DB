@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f22f0ad-134c-442f-b25b-5d3b0e6cebbb
-  mac-addresses:
+  id: a48ad8f4-7d24-48c9-a501-b821edb6ab62
+  macAddresses:
   - F4:73:CA:00:00:00/24
   manufacturer: Conversion Sound Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Conversi
 type: d3-device-type-assertion

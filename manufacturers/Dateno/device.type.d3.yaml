@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7510d01-a7cc-4c23-b1e8-2d128c8d0ced
-  mac-addresses:
+  id: b1ed085b-41c6-4e36-afab-04928528388b
+  macAddresses:
   - 00:06:CE:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dateno
 type: d3-device-type-assertion

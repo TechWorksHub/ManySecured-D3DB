@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6a93e69-43df-4ce5-8a0b-b188a1a9612b
-  mac-addresses:
+  id: 9cc631e8-a7c8-4889-8436-a0161795ffa9
+  macAddresses:
   - 00:30:9B:00:00:00/24
   manufacturer: Smartware
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartwar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26418643-3584-4af3-9a36-4cad7b35b47b
-  mac-addresses:
+  id: 47aadb3a-fa3e-4390-b8d3-572074b1d9b5
+  macAddresses:
   - 48:71:19:00:00:00/24
   manufacturer: Sgb Group Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SgbGroup
 type: d3-device-type-assertion

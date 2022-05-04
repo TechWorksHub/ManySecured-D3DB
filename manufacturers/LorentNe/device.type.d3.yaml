@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e21f84b-f5d4-4281-a77c-8c8d1e7d0270
-  mac-addresses:
+  id: 7fcbc65d-cfd2-44a2-91f1-594fb14b22a9
+  macAddresses:
   - DC:F8:58:00:00:00/24
   manufacturer: Lorent Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LorentNe
 type: d3-device-type-assertion

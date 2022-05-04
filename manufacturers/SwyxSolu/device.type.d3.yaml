@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c00c0a5-f6df-4560-bc91-052a4f1e65d9
-  mac-addresses:
+  id: ba55f5ad-d20f-46f6-849e-760ac34eedbe
+  macAddresses:
   - 00:1B:6B:00:00:00/24
   manufacturer: Swyx Solutions AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwyxSolu
 type: d3-device-type-assertion

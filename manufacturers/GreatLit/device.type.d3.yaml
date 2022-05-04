@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e497d2b-b8d9-444e-aca6-00727ea50213
-  mac-addresses:
+  id: 79bf9b54-88cc-41a6-b129-c72f5d091c8d
+  macAddresses:
   - 20:85:93:70:00:00/28
   manufacturer: Great Lite International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreatLit
 type: d3-device-type-assertion

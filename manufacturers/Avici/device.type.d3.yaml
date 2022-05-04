@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da4f3f74-2821-41b5-9d6a-326be5dd385b
-  mac-addresses:
+  id: 12978d86-83e5-4f11-8389-21886486ecc0
+  macAddresses:
   - 00:90:B2:00:00:00/24
   manufacturer: Avici Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avici
 type: d3-device-type-assertion

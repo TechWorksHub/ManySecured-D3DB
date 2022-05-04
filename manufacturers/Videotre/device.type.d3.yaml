@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acba3dfc-3c3a-40ac-be1b-c8c74036392e
-  mac-addresses:
+  id: bde513de-e6df-4f10-9f7d-3f87ee4cbb32
+  macAddresses:
   - 70:B3:D5:39:A0:00/36
   manufacturer: Videotrend srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videotre
 type: d3-device-type-assertion

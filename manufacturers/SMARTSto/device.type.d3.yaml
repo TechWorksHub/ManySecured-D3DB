@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a5642c4-c1f9-43fe-9519-d4931cedad33
-  mac-addresses:
+  id: ac97a0f1-823b-4f56-bbf6-603a4c8a7865
+  macAddresses:
   - 00:11:73:00:00:00/24
   manufacturer: SMART Storage Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMARTSto
 type: d3-device-type-assertion

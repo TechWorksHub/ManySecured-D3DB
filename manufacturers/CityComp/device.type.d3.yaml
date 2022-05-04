@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ddf99ba-de92-45db-942b-d287931744bc
-  mac-addresses:
+  id: dbcf8400-ad24-4bf0-9148-32ae98b06a61
+  macAddresses:
   - 00:50:C2:FD:60:00/36
   manufacturer: City Computing Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CityComp
 type: d3-device-type-assertion

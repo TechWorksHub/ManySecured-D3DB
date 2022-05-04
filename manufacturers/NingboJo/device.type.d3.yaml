@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3bc9365-e7a0-4c63-98fe-52f1c3c55e53
-  mac-addresses:
+  id: 59f630a7-cc40-4698-bbd2-3ceb6fc730f4
+  macAddresses:
   - BC:93:25:00:00:00/24
   manufacturer: Ningbo Joyson Preh Car Connect Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NingboJo
 type: d3-device-type-assertion

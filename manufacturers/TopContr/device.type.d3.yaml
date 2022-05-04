@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b11577fe-f343-490a-ad69-2cf3e12fe1d7
-  mac-addresses:
+  id: fc7d7995-94eb-4d34-adef-643116c851dc
+  macAddresses:
   - 00:21:8C:00:00:00/24
   manufacturer: TopControl GMBH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TopContr
 type: d3-device-type-assertion

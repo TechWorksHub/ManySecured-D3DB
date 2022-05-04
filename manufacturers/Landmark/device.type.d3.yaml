@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6fe9ad7-df7e-4b24-896a-1f102215e695
-  mac-addresses:
+  id: 332b6b9a-c496-40f6-8622-48e70b17414c
+  macAddresses:
   - 70:B3:D5:75:50:00/36
   manufacturer: LandmarkTech Systems Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Landmark
 type: d3-device-type-assertion

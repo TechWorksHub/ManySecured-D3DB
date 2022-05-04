@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 74786a7e-bd81-44a6-844f-cda4bd0cde95
-  mac-addresses:
+  id: b2db4d5f-e71c-42e0-97e3-ebfd8e010b90
+  macAddresses:
   - 00:50:C2:69:00:00/36
   - 00:50:C2:BB:B0:00/36
   - 40:D8:55:04:00:00/36
   - 70:B3:D5:AD:D0:00/36
   manufacturer: GHL Systems Berhad
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GHLBerha
 type: d3-device-type-assertion

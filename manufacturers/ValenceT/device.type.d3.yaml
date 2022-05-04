@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8489140-b31a-4213-ba9a-468e9146f0e9
-  mac-addresses:
+  id: ab64d60d-e93d-49f0-97da-d9035043e210
+  macAddresses:
   - F4:04:4C:00:00:00/24
   manufacturer: ValenceTech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValenceT
 type: d3-device-type-assertion

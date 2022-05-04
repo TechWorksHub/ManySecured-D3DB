@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5be9de4-b0e2-4247-9045-fd8c41136369
-  mac-addresses:
+  id: b6b0e362-9509-4c30-b4eb-cb03fd7c7721
+  macAddresses:
   - 00:D0:F4:00:00:00/24
   manufacturer: Carinthian Tech Institute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carinthi
 type: d3-device-type-assertion

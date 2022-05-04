@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f119e36-9982-4ede-97dc-8da446962cb1
-  mac-addresses:
+  id: a423c7c9-84e1-488f-af50-2dd33440955a
+  macAddresses:
   - 00:27:15:00:00:00/24
   manufacturer: Rebound Telecom. Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReboundT
 type: d3-device-type-assertion

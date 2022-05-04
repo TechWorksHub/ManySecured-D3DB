@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b18a636b-cbc5-4727-9597-5fe4d75bef6c
-  mac-addresses:
+  id: f39bca98-8101-4e2b-95f9-9150209ad7b2
+  macAddresses:
   - 94:BB:AE:00:00:00/24
   manufacturer: Husqvarna AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Husqvarn
 type: d3-device-type-assertion

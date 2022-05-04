@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f3b88b0-5748-4a69-8716-acdee371805e
-  mac-addresses:
+  id: 66d0a2cc-189e-4f30-bca5-bed7190596fa
+  macAddresses:
   - 00:D0:E6:00:00:00/24
   manufacturer: Ibond Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ibond
 type: d3-device-type-assertion

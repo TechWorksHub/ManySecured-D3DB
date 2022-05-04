@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c86bcab6-1a61-4405-ae85-b6c85c0c260f
-  mac-addresses:
+  id: 84e5fbbc-3311-409b-bea6-26da015219c1
+  macAddresses:
   - 00:11:B6:00:00:00/24
   - 00:14:BB:00:00:00/24
   manufacturer: Open Systems International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenInte
 type: d3-device-type-assertion

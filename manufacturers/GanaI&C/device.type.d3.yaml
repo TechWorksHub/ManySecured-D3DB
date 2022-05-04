@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a75738b-e54e-4068-aeb6-965435d3a938
-  mac-addresses:
+  id: 8d292fcd-1c59-4e48-9c9c-b9d6aea8e153
+  macAddresses:
   - 10:BA:A5:00:00:00/24
   manufacturer: Gana I&C Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GanaI&C
 type: d3-device-type-assertion

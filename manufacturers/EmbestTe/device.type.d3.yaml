@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ffb3528-5783-4873-b525-0e118feddbdc
-  mac-addresses:
+  id: f1cdbbf4-c000-4b4a-8c3d-f3b344b3cc6a
+  macAddresses:
   - 70:B3:D5:A5:50:00/36
   manufacturer: Embest Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmbestTe
 type: d3-device-type-assertion

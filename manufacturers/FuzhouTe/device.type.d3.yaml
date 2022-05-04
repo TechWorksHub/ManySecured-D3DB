@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b85155cb-1e46-4175-88c8-c86147c5a669
-  mac-addresses:
+  id: c624899f-fa6f-4b97-9de4-97fffaea708f
+  macAddresses:
   - 7C:EC:9B:00:00:00/24
   manufacturer: Fuzhou Teraway Information Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuzhouTe
 type: d3-device-type-assertion

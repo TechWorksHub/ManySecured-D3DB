@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 930d3b0b-2495-4b32-9185-e28f7926138a
-  mac-addresses:
+  id: 370ff76a-6182-4f1d-916d-b93dfad9e2c7
+  macAddresses:
   - D4:EE:07:00:00:00/24
   manufacturer: HIWIFI Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HIWIFI
 type: d3-device-type-assertion

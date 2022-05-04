@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5353d3e-978e-4ca5-97c6-2ebec6c0f221
-  mac-addresses:
+  id: e7810c42-c6d1-4412-a24a-b72a9c1b4fc4
+  macAddresses:
   - 00:18:FB:00:00:00/24
   manufacturer: Compro Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComproTe
 type: d3-device-type-assertion

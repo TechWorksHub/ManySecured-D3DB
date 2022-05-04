@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1fd5eaf2-cd2d-4025-a92f-567253f1f5e0
-  mac-addresses:
+  id: ab5e32ec-fc9d-445f-8632-86b1db899438
+  macAddresses:
   - 00:26:27:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Truesell
 type: d3-device-type-assertion

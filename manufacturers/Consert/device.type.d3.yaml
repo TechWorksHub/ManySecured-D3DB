@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2fadf24-b159-4531-a286-060db51133bf
-  mac-addresses:
+  id: f1ea9f37-dcbf-4289-bf72-924d86f09e0a
+  macAddresses:
   - B4:37:41:00:00:00/24
   manufacturer: Consert, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Consert
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0d291ee-abfb-499d-b8dc-41cd3220119e
-  mac-addresses:
+  id: 5f95a533-10fc-4149-8e57-d82e42f6dc54
+  macAddresses:
   - 00:1C:5B:00:00:00/24
   manufacturer: Chubb Electronic Security Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChubbEle
 type: d3-device-type-assertion

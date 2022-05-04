@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63ff6c5a-3b16-43f0-9d77-fec9b529825d
-  mac-addresses:
+  id: e2e8b87e-b85c-4591-a01c-357795f36733
+  macAddresses:
   - 40:D8:55:16:80:00/36
   manufacturer: OPASCA Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OPASCA
 type: d3-device-type-assertion

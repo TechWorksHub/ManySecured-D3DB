@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d5628f4-80c3-4c67-b9b1-94b96c67a6ba
-  mac-addresses:
+  id: 58a630ce-5a58-4d2a-90fd-ea3668713525
+  macAddresses:
   - 00:50:C2:5A:A0:00/36
   manufacturer: Transenna AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transenn
 type: d3-device-type-assertion

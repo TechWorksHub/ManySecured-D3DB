@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08054dde-8007-464a-8b15-b3191838efd2
-  mac-addresses:
+  id: 9e7b29f6-5b3a-4537-bf80-0e6f788ac29a
+  macAddresses:
   - 10:F4:9A:00:00:00/24
   manufacturer: T3 Innovation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T3Innova
 type: d3-device-type-assertion

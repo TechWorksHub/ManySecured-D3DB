@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 970a650e-e54e-422b-8344-e0f4d3e2a23c
-  mac-addresses:
+  id: 4edfd2b9-53f2-43f6-8d0c-99ed4c966894
+  macAddresses:
   - 00:60:F7:00:00:00/24
   manufacturer: Datafusion Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datafusi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 070b0031-e080-4811-b273-8737140c4c75
-  mac-addresses:
+  id: 356454b5-a5b7-4d8b-98e5-15f37762a68f
+  macAddresses:
   - 00:15:1B:00:00:00/24
   manufacturer: Isilon Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Isilon
 type: d3-device-type-assertion

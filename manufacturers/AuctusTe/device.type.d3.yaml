@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdf6063d-9921-4158-904f-dac62097f5a5
-  mac-addresses:
+  id: 1ff8398d-6370-485f-a015-c9a0d1137085
+  macAddresses:
   - 44:D5:F2:90:00:00/28
   manufacturer: Auctus Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AuctusTe
 type: d3-device-type-assertion

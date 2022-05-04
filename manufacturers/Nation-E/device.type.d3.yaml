@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93efdcf6-40d3-40db-91aa-8389866e8675
-  mac-addresses:
+  id: 038f4104-9f80-49a2-b187-1684773770e8
+  macAddresses:
   - 70:B3:D5:DE:80:00/36
   manufacturer: Nation-E Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nation-E
 type: d3-device-type-assertion

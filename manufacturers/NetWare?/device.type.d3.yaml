@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe99f262-529d-49b0-a341-9c5f8dd29567
-  mac-addresses:
+  id: fb7f8618-172d-43e5-a724-1f2bd8305916
+  macAddresses:
   - 40:00:03:00:00:00/24
   manufacturer: Net Ware (?)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetWare?
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62b882cf-227a-4b4f-9b54-b5f6aa92f3c8
-  mac-addresses:
+  id: 8905219c-4f52-40ce-ac94-6d1f669b25d3
+  macAddresses:
   - 00:50:C2:7C:30:00/36
   manufacturer: Ast Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ast
 type: d3-device-type-assertion

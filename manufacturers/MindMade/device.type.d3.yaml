@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e89c0bb1-9de4-4876-8fbc-891d61314356
-  mac-addresses:
+  id: b7a16f89-ce2a-41a8-8dbe-69abbbc570e8
+  macAddresses:
   - 00:1B:C5:03:A0:00/36
   - 38:59:F8:00:00:00/24
   manufacturer: MindMade Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MindMade
 type: d3-device-type-assertion

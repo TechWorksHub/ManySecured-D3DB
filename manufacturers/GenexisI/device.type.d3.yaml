@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6f7b9c4-403d-41f6-87b1-142c8ffc9065
-  mac-addresses:
+  id: d97b7521-41f4-4159-9c8f-729f5962993c
+  macAddresses:
   - BC:62:D2:00:00:00/24
   manufacturer: Genexis International B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GenexisI
 type: d3-device-type-assertion

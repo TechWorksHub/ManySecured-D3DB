@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c2b059f-09fa-4542-b1dc-175d3fc0e41a
-  mac-addresses:
+  id: 368c44cb-d25a-414c-9caf-88e7ac000ae8
+  macAddresses:
   - 00:50:C2:42:E0:00/36
   manufacturer: Oelmann Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OelmannE
 type: d3-device-type-assertion

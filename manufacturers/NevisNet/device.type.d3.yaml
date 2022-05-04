@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 620ea4c8-2e6e-4e22-8225-8d54d57ec88b
-  mac-addresses:
+  id: d421572d-d546-49c5-9bc9-9d9c16719bf8
+  macAddresses:
   - 00:15:75:00:00:00/24
   manufacturer: Nevis Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NevisNet
 type: d3-device-type-assertion

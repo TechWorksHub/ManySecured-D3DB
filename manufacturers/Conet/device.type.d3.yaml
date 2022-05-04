@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c892e09a-7a81-4040-b3c0-6166fb137c77
-  mac-addresses:
+  id: c6b578d1-cdea-4e17-9644-84086034f1d4
+  macAddresses:
   - 4C:B9:C8:00:00:00/24
   manufacturer: Conet Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Conet
 type: d3-device-type-assertion

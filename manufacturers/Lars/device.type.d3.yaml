@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c54db704-eaf5-47d1-aac5-32f06b65b3b1
-  mac-addresses:
+  id: e6098a4f-d73d-40e9-b563-5917dd898b0e
+  macAddresses:
   - 90:7E:30:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lars
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe200466-de6e-4d91-9f6c-6f22efad5796
-  mac-addresses:
+  id: b7f0730d-fa95-4d9e-8d2f-701507bf3042
+  macAddresses:
   - 00:50:C2:8D:B0:00/36
   manufacturer: DCOM Network Technology (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DCOMNetw
 type: d3-device-type-assertion

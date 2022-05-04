@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 649180c1-983b-41d8-a12d-85c2ba04166c
-  mac-addresses:
+  id: 56f448b5-02a0-4485-9390-649613f76ad0
+  macAddresses:
   - 00:50:C2:3C:80:00/36
   manufacturer: Wheels of Zeus Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WheelsZe
 type: d3-device-type-assertion

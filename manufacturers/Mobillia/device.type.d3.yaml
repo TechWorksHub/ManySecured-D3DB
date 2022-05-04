@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53c605cf-4a75-4a73-b9e0-6484634f0d74
-  mac-addresses:
+  id: 6df50298-5920-4b5f-82b6-f19f8e4b310a
+  macAddresses:
   - 00:06:94:00:00:00/24
   manufacturer: Mobillian Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobillia
 type: d3-device-type-assertion

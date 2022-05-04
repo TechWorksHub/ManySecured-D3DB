@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfd46b9d-dd6d-4b04-8604-b91464dfe559
-  mac-addresses:
+  id: 334c4d62-9406-441f-babb-9488d15de98a
+  macAddresses:
   - 00:80:3E:00:00:00/24
   manufacturer: Synernetics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synernet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a717fc4-2983-4e90-bf98-bf93da9459be
-  mac-addresses:
+  id: 17fa8d51-3e9a-4501-8b99-c3bc1aeb016f
+  macAddresses:
   - 00:07:29:00:00:00/24
   manufacturer: Kistler Instrumente AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KistlerI
 type: d3-device-type-assertion

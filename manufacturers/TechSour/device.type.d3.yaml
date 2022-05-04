@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 928f6959-8e0b-41a1-bbbd-82c20c8ff11d
-  mac-addresses:
+  id: c60ca17b-173d-48f7-9326-6bb8b453dfb0
+  macAddresses:
   - 40:D8:55:06:20:00/36
   manufacturer: Tech Source Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechSour
 type: d3-device-type-assertion

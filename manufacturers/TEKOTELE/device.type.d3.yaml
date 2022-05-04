@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50249634-665e-4e2f-9386-3b521beb8a9c
-  mac-addresses:
+  id: 6e428f4d-dfc4-4d26-886b-a991b550069f
+  macAddresses:
   - 00:50:C2:9A:A0:00/36
   manufacturer: TEKO TELECOM SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TEKOTELE
 type: d3-device-type-assertion

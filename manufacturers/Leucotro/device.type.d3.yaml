@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9018f153-708a-49b0-bbb6-ef3e55cb72a9
-  mac-addresses:
+  id: d8803893-f6c5-4003-acc7-a0bbd78d05d6
+  macAddresses:
   - 00:17:3E:00:00:00/24
   manufacturer: LeucotronEquipamentos Ltda.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leucotro
 type: d3-device-type-assertion

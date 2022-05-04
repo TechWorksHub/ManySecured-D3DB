@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f581a308-6453-4393-9c3e-0ddec50556e4
-  mac-addresses:
+  id: 969d0acf-1c78-4ff2-b189-d8325fa5acfa
+  macAddresses:
   - 70:1E:68:00:00:00/24
   manufacturer: Hanna Instruments, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HannaIns
 type: d3-device-type-assertion

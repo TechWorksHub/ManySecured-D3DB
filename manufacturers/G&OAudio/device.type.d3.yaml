@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d72bfec-5073-4e0b-b6f1-746dd3c0e65b
-  mac-addresses:
+  id: 01220204-8a84-41ec-825d-9c70dbe7c173
+  macAddresses:
   - 18:74:E2:E0:00:00/28
   manufacturer: G&O Audio Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G&OAudio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 211e87aa-a17e-4a20-85bb-dd80a4cc1b6b
-  mac-addresses:
+  id: e2168029-3d11-46b4-a573-2a61bdde81ec
+  macAddresses:
   - 5C:F2:86:D0:00:00/28
   manufacturer: BrightSky, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrightSk
 type: d3-device-type-assertion

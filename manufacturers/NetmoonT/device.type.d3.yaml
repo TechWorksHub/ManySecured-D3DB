@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 145c7dd2-6dbd-4a2b-9df8-97b0f18f2b88
-  mac-addresses:
+  id: 02af391d-9c82-4e92-b9fa-0e4e9cdf4e77
+  macAddresses:
   - 88:29:50:00:00:00/24
   manufacturer: Netmoon Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetmoonT
 type: d3-device-type-assertion

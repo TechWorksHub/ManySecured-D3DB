@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd85b5a6-7c09-452f-9955-fb3af174c1c5
-  mac-addresses:
+  id: cabed0f1-beb1-4e73-8ea8-7537dacff63f
+  macAddresses:
   - 00:0D:2F:00:00:00/24
   manufacturer: AIN Comm.Tech.Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AINCommT
 type: d3-device-type-assertion

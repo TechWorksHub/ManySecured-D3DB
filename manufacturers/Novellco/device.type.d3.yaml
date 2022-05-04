@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2d9c1a6-32c1-4b02-813c-5c0f8df91563
-  mac-addresses:
+  id: 319dbaf3-47ba-4cce-bbe3-e4b032cbb407
+  macAddresses:
   - 00:80:C5:00:00:00/24
   manufacturer: Novellco De Mexico
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novellco
 type: d3-device-type-assertion

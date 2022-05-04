@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2af2ea9-42ee-4e55-a2d8-5942b4437b86
-  mac-addresses:
+  id: 39473d83-3034-4840-acf3-041b5fd196f2
+  macAddresses:
   - F0:8A:28:00:00:00/24
   manufacturer: JIANGSU HENGSION ELECTRONIC S and T CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JIANGSUH
 type: d3-device-type-assertion

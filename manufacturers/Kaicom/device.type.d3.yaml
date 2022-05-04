@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 215bb9e7-0eb1-4416-9b36-aeb4da0b65a1
-  mac-addresses:
+  id: 0f61b447-9b7f-497c-9bd1-ebd48f0b3087
+  macAddresses:
   - 00:13:7C:00:00:00/24
   manufacturer: Kaicom co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kaicom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7eff79ec-d342-44ef-aa05-f6e1569c6b10
-  mac-addresses:
+  id: ccf65596-f06f-478d-b631-ac1f082b67df
+  macAddresses:
   - 5C:33:27:00:00:00/24
   manufacturer: Spazio Italia srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpazioIt
 type: d3-device-type-assertion

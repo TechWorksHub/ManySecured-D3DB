@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df5ee88d-b1b1-4612-a393-3c8c92df6810
-  mac-addresses:
+  id: 19f87dc1-a3de-44a0-9429-ac7877ac1f0e
+  macAddresses:
   - 00:09:A9:00:00:00/24
   manufacturer: Ikanos Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IkanosCo
 type: d3-device-type-assertion

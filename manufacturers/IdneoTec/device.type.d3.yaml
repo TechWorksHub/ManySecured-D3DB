@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02f0b2f6-7c7a-4c59-bb77-c7863fccfb87
-  mac-addresses:
+  id: 74c03182-d446-482e-bc63-28563bcfb02e
+  macAddresses:
   - 70:B3:D5:CF:80:00/36
   manufacturer: Idneo Technologies S.A.U.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IdneoTec
 type: d3-device-type-assertion

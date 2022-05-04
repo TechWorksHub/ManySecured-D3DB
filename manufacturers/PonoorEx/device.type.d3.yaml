@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14dc969f-0434-4992-b75e-38c69bcef86d
-  mac-addresses:
+  id: 5d51cb34-51c5-4aaa-a906-783bfe080902
+  macAddresses:
   - 60:95:CE:10:00:00/28
   manufacturer: Ponoor Experiments Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PonoorEx
 type: d3-device-type-assertion

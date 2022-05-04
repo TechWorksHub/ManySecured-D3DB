@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 177e444e-9753-49f5-8693-5b2ada42085f
-  mac-addresses:
+  id: b263412e-b81c-4c2a-8af8-f46777ffe5d8
+  macAddresses:
   - 60:1D:0F:00:00:00/24
   manufacturer: Midnite Solar
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MidniteS
 type: d3-device-type-assertion

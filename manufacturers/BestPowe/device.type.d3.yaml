@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89df7074-6039-4fbd-88a5-f3cc61f35b01
-  mac-addresses:
+  id: ef1b019a-9f1c-4bcb-a492-6a3424d6fa6e
+  macAddresses:
   - 00:20:1F:00:00:00/24
   manufacturer: Best Power Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BestPowe
 type: d3-device-type-assertion

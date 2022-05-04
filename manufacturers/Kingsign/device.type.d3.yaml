@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51b55646-5171-4fe0-8ed8-3861d13b8b7c
-  mac-addresses:
+  id: 07d3c7c7-99e1-4e95-9f65-55a772d6d57f
+  macAddresses:
   - 74:46:87:00:00:00/24
   manufacturer: Kingsignal Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kingsign
 type: d3-device-type-assertion

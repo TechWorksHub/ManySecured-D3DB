@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c53da228-06c1-4dc6-9f22-5da3ea804221
-  mac-addresses:
+  id: f97dda2f-7f81-4db9-a96d-18ce453a62b7
+  macAddresses:
   - 00:50:C2:0E:20:00/36
   manufacturer: Visual Circuits Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisualCi
 type: d3-device-type-assertion

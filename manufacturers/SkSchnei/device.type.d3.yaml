@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 695c12c5-c802-416c-ab59-ddeb27bf84f9
-  mac-addresses:
+  id: 2afb1259-f7ad-4b88-9ef2-de7384e95e2c
+  macAddresses:
   - 00:00:5A:00:00:00/24
   manufacturer: SK
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkSchnei
 type: d3-device-type-assertion

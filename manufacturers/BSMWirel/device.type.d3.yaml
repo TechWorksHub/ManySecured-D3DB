@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef20e44a-688d-4717-95e5-0c6a7851263e
-  mac-addresses:
+  id: a4fb8100-d7c1-43f7-9fcc-670c072e1e35
+  macAddresses:
   - E8:18:63:90:00:00/28
   manufacturer: BSM Wireless Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BSMWirel
 type: d3-device-type-assertion

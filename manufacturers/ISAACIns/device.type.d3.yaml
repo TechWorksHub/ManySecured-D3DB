@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bf5b857-50b2-4b0a-9b91-8deee2d6fbb2
-  mac-addresses:
+  id: 53535f43-277b-421a-9f5e-fcc4ef2897ab
+  macAddresses:
   - AC:E0:69:00:00:00/24
   manufacturer: ISAAC Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISAACIns
 type: d3-device-type-assertion

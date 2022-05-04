@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d2e8209-2d83-4846-b930-b061f029f76e
-  mac-addresses:
+  id: 198a68a4-a3fa-4f12-8380-100864b00820
+  macAddresses:
   - 00:03:CD:00:00:00/24
   manufacturer: Clovertech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cloverte
 type: d3-device-type-assertion

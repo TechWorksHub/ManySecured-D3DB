@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4779472-9563-4624-ac4d-4b3cf7397361
-  mac-addresses:
+  id: aaa90e72-e549-4850-82dd-6a33200c6d85
+  macAddresses:
   - 0C:93:FB:00:00:00/24
   manufacturer: BNS Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BNSSolut
 type: d3-device-type-assertion

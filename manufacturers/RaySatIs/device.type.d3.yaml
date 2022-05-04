@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d6d4a09-dcba-4672-9c36-84dc15c556f5
-  mac-addresses:
+  id: 29f3ca33-8587-4971-8ea0-dfc97a3d48d9
+  macAddresses:
   - 00:50:C2:7A:20:00/36
   manufacturer: RaySat Israel LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaySatIs
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1573715d-cd91-4a0c-8df2-2f0cb356a3ea
-  mac-addresses:
+  id: cefa1125-45a9-43b0-bf8a-d7d529ebb5f0
+  macAddresses:
   - 00:1F:1B:00:00:00/24
   manufacturer: RoyalTek Company Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoyalTek
 type: d3-device-type-assertion

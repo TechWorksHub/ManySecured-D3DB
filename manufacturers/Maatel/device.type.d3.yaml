@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 516f48c2-c5b6-4f46-b3d9-f5905814b6c0
-  mac-addresses:
+  id: d5a91963-07f4-48a1-bc56-32663c7852a4
+  macAddresses:
   - 00:30:3A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maatel
 type: d3-device-type-assertion

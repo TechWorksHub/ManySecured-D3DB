@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 588a6cb5-e158-4f06-adf7-766f81881a4e
-  mac-addresses:
+  id: c9cb85cf-ca80-40f2-b390-f6245506e6ae
+  macAddresses:
   - 4C:65:A8:70:00:00/28
   manufacturer: Wuhan MoreQuick Network Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanMor
 type: d3-device-type-assertion

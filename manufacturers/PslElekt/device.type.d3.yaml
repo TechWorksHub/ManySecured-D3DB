@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7e74864-91d2-414d-84e4-36382fa9990e
-  mac-addresses:
+  id: 0ae697cc-8242-4bb7-ae3c-f67bafdf6c21
+  macAddresses:
   - 70:B3:D5:51:00:00/36
   manufacturer: "Psl Elektroni\u0307k Sanayi\u0307 Ve Ti\u0307caret A.S."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PslElekt
 type: d3-device-type-assertion

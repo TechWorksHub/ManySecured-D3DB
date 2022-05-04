@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0692cf12-8e0a-4ea3-a12f-5d417ff1186c
-  mac-addresses:
+  id: 84379ee5-45d7-46d8-be38-b20bf280cad2
+  macAddresses:
   - 70:B3:D5:47:70:00/36
   manufacturer: digitrol limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: digitrol
 type: d3-device-type-assertion

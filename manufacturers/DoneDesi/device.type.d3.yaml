@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94889ad0-d428-40e0-87bf-fee90e34b5c8
-  mac-addresses:
+  id: d4002134-ab9d-42df-812c-6db400fec787
+  macAddresses:
   - 70:B3:D5:92:80:00/36
   manufacturer: Done Design Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DoneDesi
 type: d3-device-type-assertion

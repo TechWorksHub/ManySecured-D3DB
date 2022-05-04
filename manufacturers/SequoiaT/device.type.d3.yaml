@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28d1b0ce-2d8c-439d-8989-5559e679cc78
-  mac-addresses:
+  id: 42504378-304a-48b4-9ab9-ec92b1aba1f2
+  macAddresses:
   - 00:50:C2:C7:10:00/36
   manufacturer: Sequoia Technology Group Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SequoiaT
 type: d3-device-type-assertion

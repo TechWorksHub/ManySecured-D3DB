@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a7f93f4-5375-4cfe-9be4-978ee26775ae
-  mac-addresses:
+  id: c0d7553b-e95e-415b-9dc8-c5f11d2ea7f9
+  macAddresses:
   - 00:50:C2:B9:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ikerlan
 type: d3-device-type-assertion

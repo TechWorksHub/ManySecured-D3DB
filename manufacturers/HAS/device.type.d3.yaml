@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96548e0f-b4e6-4366-87af-2b520442e159
-  mac-addresses:
+  id: f2cf2ad2-d564-4bc7-bb32-1453aaf25739
+  macAddresses:
   - 70:B3:D5:2B:30:00/36
   manufacturer: HAS co.,ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HAS
 type: d3-device-type-assertion

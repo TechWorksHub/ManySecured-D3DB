@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50f84838-e748-4f35-91ec-822c7d9ca16e
-  mac-addresses:
+  id: a9e5935b-ff79-4f35-8661-21a7a8f62ddb
+  macAddresses:
   - 00:A0:29:00:00:00/24
   manufacturer: Coulter Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coulter
 type: d3-device-type-assertion

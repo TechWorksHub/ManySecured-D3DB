@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 345102df-ffa3-43c0-ac98-3c0e994e50f6
-  mac-addresses:
+  id: 80e24525-febe-4708-859d-4361191df213
+  macAddresses:
   - 00:60:05:00:00:00/24
   manufacturer: Feedback Data Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Feedback
 type: d3-device-type-assertion

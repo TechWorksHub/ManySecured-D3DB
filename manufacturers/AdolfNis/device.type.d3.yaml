@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c119ed1-c88c-4bb9-b426-de4e856ba716
-  mac-addresses:
+  id: 245ce129-1cbe-4ee5-921e-0fa9ae667f2f
+  macAddresses:
   - 70:B3:D5:10:10:00/36
   manufacturer: Adolf Nissen Elektrobau GmbH + Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdolfNis
 type: d3-device-type-assertion

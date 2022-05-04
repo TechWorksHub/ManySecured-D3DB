@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7387db70-4237-4a1c-9083-bb81b0e92bbe
-  mac-addresses:
+  id: 6df2a81a-8e54-4a20-8920-e07d61ed068b
+  macAddresses:
   - 00:50:C2:25:70:00/36
   manufacturer: Digicast Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digicast
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16f51b0b-ba7c-4db8-a0c5-642001fde8d7
-  mac-addresses:
+  id: c0e2271d-7c3c-4fce-8da7-eb130154cccb
+  macAddresses:
   - F8:8D:EF:00:00:00/24
   manufacturer: Tenebraex
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tenebrae
 type: d3-device-type-assertion

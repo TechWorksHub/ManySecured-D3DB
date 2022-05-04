@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38cca356-2c28-4e6c-a02e-7403be921d4c
-  mac-addresses:
+  id: 1d866b68-851f-400b-a2f8-ce18e8e9ef55
+  macAddresses:
   - 4C:E1:73:10:00:00/28
   manufacturer: Nexoforge Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nexoforg
 type: d3-device-type-assertion

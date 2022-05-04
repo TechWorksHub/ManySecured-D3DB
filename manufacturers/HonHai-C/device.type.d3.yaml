@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f417da83-bf20-478e-9b8b-5023dffb761e
-  mac-addresses:
+  id: 995126e7-469a-4546-b970-d01fb1403bfc
+  macAddresses:
   - 98:57:D3:00:00:00/24
   manufacturer: Hon Hai-Ccpbg Precision Ind.Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HonHai-C
 type: d3-device-type-assertion

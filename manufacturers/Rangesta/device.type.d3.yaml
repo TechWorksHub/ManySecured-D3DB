@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbfd0381-e69c-4e3e-80ee-5f9b698d66e7
-  mac-addresses:
+  id: b71af5a1-8b86-4fc8-b4d0-72696a0f13ee
+  macAddresses:
   - 00:05:54:00:00:00/24
   manufacturer: Rangestar Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rangesta
 type: d3-device-type-assertion

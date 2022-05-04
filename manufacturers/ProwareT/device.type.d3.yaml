@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 156f011b-31d8-41ef-a21e-fa7d54255540
-  mac-addresses:
+  id: 4294f759-2549-4f6d-bd13-38beb4f2b34c
+  macAddresses:
   - 00:17:2A:00:00:00/24
   - 48:39:74:00:00:00/24
   - 6C:FD:B9:00:00:00/24
   manufacturer: Proware Technology Corp.(By Unifosa)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProwareT
 type: d3-device-type-assertion

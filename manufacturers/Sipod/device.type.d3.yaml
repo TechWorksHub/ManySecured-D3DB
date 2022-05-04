@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3beb908-f19b-4200-bd6d-7ff3c6396d2b
-  mac-addresses:
+  id: 1edd22ed-5fc6-4c50-b47a-fa7f1221438e
+  macAddresses:
   - F0:BD:F1:00:00:00/24
   manufacturer: Sipod Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sipod
 type: d3-device-type-assertion

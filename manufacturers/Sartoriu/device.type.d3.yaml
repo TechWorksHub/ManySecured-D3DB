@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 655ee0b8-d246-4fd0-8f51-ab7d79d40e67
-  mac-addresses:
+  id: 90044358-5438-4498-819c-12c4b32658a1
+  macAddresses:
   - 00:40:D5:00:00:00/24
   - 00:90:6C:00:00:00/24
   - 18:74:E2:10:00:00/28
   manufacturer: Sartorius Mechatronics T&H GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sartoriu
 type: d3-device-type-assertion

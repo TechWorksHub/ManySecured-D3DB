@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73ead3f2-95ae-4210-a4e8-e127b1c71f69
-  mac-addresses:
+  id: 552bce9a-8c40-4926-b03d-9a811f3c89c2
+  macAddresses:
   - 00:09:B5:00:00:00/24
   manufacturer: 3J Tech. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3JTech
 type: d3-device-type-assertion

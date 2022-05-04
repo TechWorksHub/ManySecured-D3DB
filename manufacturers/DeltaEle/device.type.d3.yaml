@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 7ce3d6f0-36da-4ab7-8b2a-c016cea0cea2
-  mac-addresses:
+  id: 1907f427-3777-4186-9cb2-0dcce56fb8d2
+  macAddresses:
   - 00:06:6E:00:00:00/24
   - 00:12:49:00:00:00/24
   - 00:18:23:00:00:00/24
   - 20:F8:5E:00:00:00/24
   - F4:E1:42:00:00:00/24
   manufacturer: Delta Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeltaEle
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: dcb50196-8c86-4f27-9564-c04b71e88c2d
-  mac-addresses:
+  id: ace58c5c-1c0a-481b-ad8c-7d8628922010
+  macAddresses:
   - 00:50:C2:17:D0:00/36
   - 00:50:C2:1E:00:00/36
   - 00:D0:24:00:00:00/24
   manufacturer: Cognex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cognex
 type: d3-device-type-assertion

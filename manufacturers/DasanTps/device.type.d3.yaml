@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 213a8f25-9865-440c-807d-573263cb64b9
-  mac-addresses:
+  id: 79244376-c2b8-4e65-ac59-a120b1d3db8e
+  macAddresses:
   - 00:1C:E0:00:00:00/24
   manufacturer: Dasan Tps
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DasanTps
 type: d3-device-type-assertion

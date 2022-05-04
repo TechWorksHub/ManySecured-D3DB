@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c80b9e64-9d44-4cf7-a8b8-14949da72ff9
-  mac-addresses:
+  id: 2f60238c-1ae6-4b7c-aac4-5f12ee819239
+  macAddresses:
   - 70:B3:D5:6F:90:00/36
   manufacturer: ENVItech s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ENVItech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce836ae7-5d7a-4deb-b421-f888ef7d8b48
-  mac-addresses:
+  id: 7b5f76e4-2124-430b-ab28-0e82f58395f5
+  macAddresses:
   - 00:0A:34:00:00:00/24
   manufacturer: Identicard Systems Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Identica
 type: d3-device-type-assertion

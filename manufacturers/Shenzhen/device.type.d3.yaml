@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 272533cc-ffc3-44af-9dd4-19d8783327a0
-  mac-addresses:
+  id: 6e3ca85f-84b5-4868-a7ed-a1729e9a7c97
+  macAddresses:
   - 00:02:09:00:00:00/24
   - 00:07:26:00:00:00/24
   - 00:08:B2:00:00:00/24
@@ -1047,6 +1047,6 @@ credentialSubject:
   - FC:D5:D9:00:00:00/24
   - FC:DD:55:00:00:00/24
   manufacturer: Shenzhen SED Information Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shenzhen
 type: d3-device-type-assertion

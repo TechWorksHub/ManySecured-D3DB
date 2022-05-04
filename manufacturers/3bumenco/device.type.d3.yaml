@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34256ab7-9f14-46f0-9431-e3508a4c839d
-  mac-addresses:
+  id: bbbf4ac7-fd21-456b-96f3-83c402957a9f
+  macAddresses:
   - 1C:7E:51:00:00:00/24
   manufacturer: 3bumen.com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3bumenco
 type: d3-device-type-assertion

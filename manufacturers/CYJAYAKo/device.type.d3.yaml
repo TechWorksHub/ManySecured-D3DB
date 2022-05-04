@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a735b59f-36f9-4216-b3e8-cd101da941f7
-  mac-addresses:
+  id: 5c9aa734-2816-4743-bf16-0edd0909db9a
+  macAddresses:
   - 00:50:C2:4A:80:00/36
   manufacturer: CYJAYA Korea
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CYJAYAKo
 type: d3-device-type-assertion

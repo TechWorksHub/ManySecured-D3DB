@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4452ec7-c9eb-412d-8c17-9ff1c1070284
-  mac-addresses:
+  id: 6b201080-7439-4266-960a-f228e64cd484
+  macAddresses:
   - 00:1B:C5:0B:30:00/36
   manufacturer: FSM Solutions Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FSMSolut
 type: d3-device-type-assertion

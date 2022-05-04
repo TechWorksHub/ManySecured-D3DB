@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 6f1361bb-446e-43f0-bfc7-939109e6f4af
-  mac-addresses:
+  id: 8c55047d-a1a4-4d6e-ae74-e8cc0ff8591f
+  macAddresses:
   - 00:00:39:00:00:00/24
   - 00:08:0D:00:00:00/24
   - 00:0E:7B:00:00:00/24
@@ -19,6 +19,6 @@ credentialSubject:
   - EC:21:E5:00:00:00/24
   - F4:64:5D:00:00:00/24
   manufacturer: Toshiba Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toshiba
 type: d3-device-type-assertion

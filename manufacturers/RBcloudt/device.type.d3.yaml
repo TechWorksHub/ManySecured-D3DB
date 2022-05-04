@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f4da208-1721-4c09-81c8-325f5556c6e5
-  mac-addresses:
+  id: c7116bf2-5ac6-417f-b89c-b8792ca1e619
+  macAddresses:
   - DC:A3:AC:00:00:00/24
   manufacturer: RBcloudtech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RBcloudt
 type: d3-device-type-assertion

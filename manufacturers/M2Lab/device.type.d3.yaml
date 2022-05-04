@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4521f2bb-0f8a-4451-9d3e-41c3a9e59932
-  mac-addresses:
+  id: e9a37fff-d6a9-4f2a-9f0b-6ca5f9edce05
+  macAddresses:
   - 48:0B:B2:D0:00:00/28
   manufacturer: M2Lab Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: M2Lab
 type: d3-device-type-assertion

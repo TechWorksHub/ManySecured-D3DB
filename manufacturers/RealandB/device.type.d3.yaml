@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59e374a0-1b77-4ee7-bb2e-e984017b3dd9
-  mac-addresses:
+  id: 76089068-6edb-43a3-bfbb-afaae2389581
+  macAddresses:
   - 60:D2:B9:00:00:00/24
   manufacturer: Realand Bio Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealandB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60b323f0-0f4c-4694-84b3-e9298989c1a1
-  mac-addresses:
+  id: 7fecd7fa-76de-4120-b09f-08bf240e595b
+  macAddresses:
   - 8C:14:7D:90:00:00/28
   manufacturer: Anyware Solutions ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnywareS
 type: d3-device-type-assertion

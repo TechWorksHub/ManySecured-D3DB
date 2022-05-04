@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8465abec-7fa6-48ea-baf4-3ae0727cc142
-  mac-addresses:
+  id: c5e6435e-7354-424a-b4cb-5fc8fea5422a
+  macAddresses:
   - C0:2B:FC:00:00:00/24
   manufacturer: iNES. applied informatics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iNESappl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 843b3e1d-2d76-4cc3-b371-b8e7aba3104f
-  mac-addresses:
+  id: ce01ddad-62f2-406d-8efb-ae2f87e57e32
+  macAddresses:
   - 70:B3:D5:F5:10:00/36
   manufacturer: IoT Routers Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTRoute
 type: d3-device-type-assertion

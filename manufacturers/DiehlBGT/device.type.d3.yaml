@@ -1,8 +1,8 @@
 credentialSubject:
-  id: adb6864d-7c63-4ab1-95bc-f17515154025
-  mac-addresses:
+  id: 352c4850-b7fe-42b5-970f-2d84de8386f5
+  macAddresses:
   - 90:92:B4:00:00:00/24
   manufacturer: Diehl BGT Defence GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiehlBGT
 type: d3-device-type-assertion

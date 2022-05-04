@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4573eba9-7a69-41ad-97f0-526a37c612b8
-  mac-addresses:
+  id: 6f948471-3104-4b62-a386-accc87d83907
+  macAddresses:
   - 00:10:8F:00:00:00/24
   manufacturer: Raptor Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Raptor
 type: d3-device-type-assertion

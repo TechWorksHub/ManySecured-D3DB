@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b89231d8-d97e-4cf9-b195-71cad329eec7
-  mac-addresses:
+  id: a1828e55-1b28-44b4-92f9-0671189f7656
+  macAddresses:
   - 00:0C:A4:00:00:00/24
   manufacturer: Prompttec Product Management GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Promptte
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 212189f2-1a6b-4f9b-966f-83d0d304ad92
-  mac-addresses:
+  id: 77357f5a-d5fd-4153-a5ef-bd22190c3d0e
+  macAddresses:
   - 00:04:C4:00:00:00/24
   manufacturer: Audiotonix Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audioton
 type: d3-device-type-assertion

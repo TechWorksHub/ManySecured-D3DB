@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cc9c519-1baf-4daa-bbc2-649e1d70a9ec
-  mac-addresses:
+  id: 2a637acc-b14a-41ee-8c41-42981d0b8ec6
+  macAddresses:
   - 88:91:DD:00:00:00/24
   manufacturer: Racktivity
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Racktivi
 type: d3-device-type-assertion

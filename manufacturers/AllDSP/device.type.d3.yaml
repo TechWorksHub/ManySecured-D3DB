@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4be28d14-6a71-499b-9a8a-f3c4d0f1a31b
-  mac-addresses:
+  id: 59e6cbbd-a051-4a83-9e65-00ce4cb903e7
+  macAddresses:
   - B8:96:74:00:00:00/24
   manufacturer: AllDSP GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AllDSP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6621e0d4-44be-4ced-a319-1ed32eec693b
-  mac-addresses:
+  id: 8898ef1d-e07b-48ad-8efb-52c43d06644b
+  macAddresses:
   - 70:B3:D5:8B:80:00/36
   manufacturer: GDI Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GDITechn
 type: d3-device-type-assertion

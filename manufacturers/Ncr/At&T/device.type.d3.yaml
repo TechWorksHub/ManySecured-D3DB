@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96be7381-0674-497d-8c60-e5efdf4ff048
-  mac-addresses:
+  id: d51a2c16-f96d-48fe-8e28-071d1f1b67db
+  macAddresses:
   - 08:00:0E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ncr/At&T
 type: d3-device-type-assertion

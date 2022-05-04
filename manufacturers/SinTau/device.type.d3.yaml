@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6332a005-5c9f-4dde-9fd1-b3ebf7f9d9fd
-  mac-addresses:
+  id: df473074-7c7c-4e8c-9121-6c9a67299616
+  macAddresses:
   - 70:B3:D5:0E:30:00/36
   manufacturer: SinTau SrL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SinTau
 type: d3-device-type-assertion

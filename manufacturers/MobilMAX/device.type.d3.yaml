@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa14fe28-8fc0-4456-90c0-f835ec0f351d
-  mac-addresses:
+  id: 8ccb213f-84cb-4ad8-b000-8a31eab97ba2
+  macAddresses:
   - 34:D0:9B:00:00:00/24
   manufacturer: MobilMAX Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MobilMAX
 type: d3-device-type-assertion

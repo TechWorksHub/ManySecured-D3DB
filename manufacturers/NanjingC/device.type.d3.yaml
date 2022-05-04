@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5c8c2e98-89a9-436b-aa1b-2be3ed4ba29d
-  mac-addresses:
+  id: 2f72f139-4ec9-4648-91c6-fd76b05812f6
+  macAddresses:
   - B0:38:50:00:00:00/24
   - DC:9A:8E:00:00:00/24
   manufacturer: Nanjing CAS-ZDC IOT SYSTEM CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingC
 type: d3-device-type-assertion

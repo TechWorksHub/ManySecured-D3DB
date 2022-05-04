@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 413dea5c-8e08-471c-a8fd-c969d986ac07
-  mac-addresses:
+  id: f73429bc-bc64-4a9f-b0f4-8fd3a13633dc
+  macAddresses:
   - 78:7F:62:00:00:00/24
   manufacturer: GiK mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiKmbH
 type: d3-device-type-assertion

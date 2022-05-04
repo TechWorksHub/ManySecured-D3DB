@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34d6f2c4-3583-4543-883c-1f3e4ce287e3
-  mac-addresses:
+  id: a15dafaa-4c8e-41cd-bd37-aeef94c5a792
+  macAddresses:
   - 00:40:77:00:00:00/24
   manufacturer: Maxton Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxtonTe
 type: d3-device-type-assertion

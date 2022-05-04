@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d0fa3db-7f64-4565-bb74-4eef2771a366
-  mac-addresses:
+  id: 7a8022e7-e5b1-4a80-be3c-8c15744aa362
+  macAddresses:
   - 70:B3:D5:BC:B0:00/36
   manufacturer: Smart Vision Lights
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartVis
 type: d3-device-type-assertion

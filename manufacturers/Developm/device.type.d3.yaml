@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3b7a27e-a3b5-42fc-aaba-783624bf8068
-  mac-addresses:
+  id: 4a9e17a9-140b-415a-9215-c3f7f56bba56
+  macAddresses:
   - 00:E0:76:00:00:00/24
   manufacturer: Development Concepts, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Developm
 type: d3-device-type-assertion

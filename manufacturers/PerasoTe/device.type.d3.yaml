@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bf9a39e-56a6-4580-a9d1-b9e23ef5cdbc
-  mac-addresses:
+  id: f2b2fdfc-d0c4-40a0-81df-46ea57bc2c7e
+  macAddresses:
   - 20:CE:C4:00:00:00/24
   manufacturer: Peraso Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PerasoTe
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 36a7c7f8-7595-4edb-93d9-5abac10b6c34
-  mac-addresses:
+  id: b2c80bb3-df3e-4e99-aa9d-e0571cf3ecf4
+  macAddresses:
   - 00:1E:31:00:00:00/24
   - 58:65:E6:00:00:00/24
   - 88:40:67:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: infomark
 type: d3-device-type-assertion

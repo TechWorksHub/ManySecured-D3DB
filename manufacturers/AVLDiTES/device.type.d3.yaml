@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 40bbf743-6bbf-4682-8d96-87ff3687956f
-  mac-addresses:
+  id: 2c8d5996-a6f5-41f4-ba77-852ab8c3e4d7
+  macAddresses:
   - 70:B3:D5:78:D0:00/36
   - 70:B3:D5:86:B0:00/36
   manufacturer: AVL DiTEST GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVLDiTES
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 389d8060-fe29-4adf-ac0c-d81426b2f26c
-  mac-addresses:
+  id: 057ca4cd-d8a1-4e03-9e0b-b1876ef8f7fc
+  macAddresses:
   - 7C:CB:E2:30:00:00/28
   manufacturer: Astrum Technologies CC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AstrumTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8adf410a-7849-47c4-8ac3-51b08fbbc89a
-  mac-addresses:
+  id: b774444b-8032-405d-a6a3-29ffd3d79b89
+  macAddresses:
   - 28:FD:80:A0:00:00/28
   manufacturer: Apollo Digital (Taiwan) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApolloDi
 type: d3-device-type-assertion

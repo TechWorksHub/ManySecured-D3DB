@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b61676d0-889f-4346-a4c2-9341e9a6f8f2
-  mac-addresses:
+  id: 36a97079-dc0c-4557-84e4-118888d29099
+  macAddresses:
   - 98:49:9F:00:00:00/24
   manufacturer: Domo Tactical Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DomoTact
 type: d3-device-type-assertion

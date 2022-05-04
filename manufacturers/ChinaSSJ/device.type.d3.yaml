@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a0a8dec-4749-4f07-b105-a075c2de6043
-  mac-addresses:
+  id: 862e1b42-1718-408c-9370-8ff081f1fee8
+  macAddresses:
   - 98:3F:9F:00:00:00/24
   manufacturer: China SSJ (Suzhou) Network Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaSSJ
 type: d3-device-type-assertion

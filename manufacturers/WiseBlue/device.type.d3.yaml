@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e89f37e5-7596-4cac-8559-8f1d36bdc31b
-  mac-addresses:
+  id: 86343403-9fa9-4632-bc09-b8e4b9e5dbe9
+  macAddresses:
   - 00:1B:42:00:00:00/24
   manufacturer: Wise & Blue
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiseBlue
 type: d3-device-type-assertion

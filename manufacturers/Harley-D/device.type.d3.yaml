@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 299e9c15-7911-46a9-9b8a-ac1134096d84
-  mac-addresses:
+  id: eab47b5a-5695-47d7-9caa-82a9f218cb43
+  macAddresses:
   - D4:EC:0C:00:00:00/24
   manufacturer: Harley-Davidson Motor Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Harley-D
 type: d3-device-type-assertion

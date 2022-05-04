@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8686948a-ef96-4550-896a-bb6170b7a55b
-  mac-addresses:
+  id: 21636f73-988e-4d85-80ea-18e9988e3bd9
+  macAddresses:
   - 64:25:EC:00:00:00/24
   manufacturer: guangdong kesheng zhixun technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: guangdon
 type: d3-device-type-assertion

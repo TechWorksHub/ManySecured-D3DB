@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f748cf04-b9cb-4421-a263-851d120372c1
-  mac-addresses:
+  id: a344bcda-4817-4730-9a7e-57c5027bf105
+  macAddresses:
   - 00:50:C2:59:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sapec
 type: d3-device-type-assertion

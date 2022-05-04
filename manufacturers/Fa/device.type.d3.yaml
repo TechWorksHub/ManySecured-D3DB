@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1a3b7ba-2359-4013-894b-22c89e5a793a
-  mac-addresses:
+  id: 863f3cf3-62b0-47da-98b1-6b2f25561d73
+  macAddresses:
   - 00:17:FB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fa
 type: d3-device-type-assertion

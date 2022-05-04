@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17f6a6f7-2fc7-4690-89f3-13f574bf5153
-  mac-addresses:
+  id: 2700f43d-94ae-4b66-aa79-a498651c3758
+  macAddresses:
   - 84:ED:33:00:00:00/24
   manufacturer: BBMC Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BBMC
 type: d3-device-type-assertion

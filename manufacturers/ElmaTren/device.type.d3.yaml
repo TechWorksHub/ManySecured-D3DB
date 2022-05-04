@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04c10d27-b53f-410e-9a0c-10f02edcc205
-  mac-addresses:
+  id: 76ead098-31fe-410a-b916-04c5f2ad6a47
+  macAddresses:
   - 00:14:DB:00:00:00/24
   manufacturer: Elma Trenew Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElmaTren
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a63efda4-51ac-4bc9-8505-bbf6470e62f2
-  mac-addresses:
+  id: 546815c4-063b-4338-bcf7-75c887e02000
+  macAddresses:
   - CC:D8:11:00:00:00/24
   manufacturer: Aiconn Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AiconnTe
 type: d3-device-type-assertion

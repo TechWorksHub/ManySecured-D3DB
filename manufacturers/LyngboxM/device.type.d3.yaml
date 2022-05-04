@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0adb88df-db52-4741-a8ff-3731e459156b
-  mac-addresses:
+  id: 81891841-2a20-4b18-a363-2a3193d348c0
+  macAddresses:
   - 00:1E:3C:00:00:00/24
   manufacturer: Lyngbox Media AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LyngboxM
 type: d3-device-type-assertion

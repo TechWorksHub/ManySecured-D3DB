@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 526755ee-fa68-4f24-85e0-c4ff8bb7e63a
-  mac-addresses:
+  id: 7d3b407e-1dde-4e33-95ae-ae80411a8321
+  macAddresses:
   - 70:B3:D5:8E:20:00/36
   manufacturer: Zhiye Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhiyeEle
 type: d3-device-type-assertion

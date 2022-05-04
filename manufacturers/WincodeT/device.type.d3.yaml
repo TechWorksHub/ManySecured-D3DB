@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 910ae503-562a-496c-81ad-7b008d45130f
-  mac-addresses:
+  id: 9a725b1f-8cbd-45b0-8897-215d23b1294f
+  macAddresses:
   - 70:B3:D5:3F:40:00/36
   manufacturer: Wincode Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WincodeT
 type: d3-device-type-assertion

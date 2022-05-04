@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a331b0a1-dce6-4f3a-95d6-bec648cadc67
-  mac-addresses:
+  id: 544a40e6-4d3b-4934-b3dc-f0a353b933e0
+  macAddresses:
   - 00:09:1E:00:00:00/24
   manufacturer: Firstech Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Firstech
 type: d3-device-type-assertion

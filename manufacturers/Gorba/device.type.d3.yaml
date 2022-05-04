@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a9050f1-99c6-4592-877d-9b887108c7eb
-  mac-addresses:
+  id: 2e2f865b-5ef2-4d45-8c15-f7ee3767924c
+  macAddresses:
   - 00:23:0E:00:00:00/24
   manufacturer: Gorba AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gorba
 type: d3-device-type-assertion

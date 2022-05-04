@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4eaea583-4d6d-4568-bbb1-1e279b115632
-  mac-addresses:
+  id: 6da37824-4057-4f44-b6d0-e5f5f33461c9
+  macAddresses:
   - 00:04:AD:00:00:00/24
   manufacturer: Malibu Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MalibuNe
 type: d3-device-type-assertion

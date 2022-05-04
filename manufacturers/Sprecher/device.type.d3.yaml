@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7eb3cfe5-10f4-4cc3-afe6-046f0a19eca9
-  mac-addresses:
+  id: 1dda71ef-0231-47b2-9f97-44889383e716
+  macAddresses:
   - 00:0F:A4:00:00:00/24
   manufacturer: Sprecher Automation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sprecher
 type: d3-device-type-assertion

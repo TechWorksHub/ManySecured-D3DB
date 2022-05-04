@@ -1,12 +1,12 @@
 credentialSubject:
-  id: cb9a6e94-2edb-47f5-9e57-97110e38bf6b
-  mac-addresses:
+  id: d444964b-0dd1-4a41-9c39-6151d8a48c15
+  macAddresses:
   - 00:1C:2E:00:00:00/24
   - 00:1D:B3:00:00:00/24
   - 00:1F:28:00:00:00/24
   - 00:1F:FE:00:00:00/24
   - 00:21:F7:00:00:00/24
   manufacturer: HPN Supply Chain
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HPNSuppl
 type: d3-device-type-assertion

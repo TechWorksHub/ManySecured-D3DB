@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 837ad474-3a9a-4e73-897a-c69c1a3dcde4
-  mac-addresses:
+  id: 783f167f-9aa7-4b60-9ba7-340f5815a31c
+  macAddresses:
   - 00:50:C2:AA:60:00/36
   manufacturer: Bassett Electronic Systems ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BassettE
 type: d3-device-type-assertion

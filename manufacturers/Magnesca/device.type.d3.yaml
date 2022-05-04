@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81ef381f-dad6-4bcc-8b34-a0045697bb11
-  mac-addresses:
+  id: a9c952d2-c481-4851-b3dd-9a5539001ca9
+  macAddresses:
   - 40:D8:55:08:C0:00/36
   manufacturer: Magnescale Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magnesca
 type: d3-device-type-assertion

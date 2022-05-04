@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 9c1f7dae-7905-4429-9ce2-edcb20766f24
-  mac-addresses:
+  id: d1c6b82f-a0dc-453a-a193-2143255b2c5b
+  macAddresses:
   - 00:07:71:00:00:00/24
   - 00:19:F8:00:00:00/24
   - 00:1A:F1:00:00:00/24
@@ -22,6 +22,6 @@ credentialSubject:
   - C4:28:2D:00:00:00/24
   - C8:93:83:00:00:00/24
   manufacturer: Embedded System Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embedded
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d254b1ba-5067-495c-a763-845a9b7669e3
-  mac-addresses:
+  id: faf748a4-003c-4de0-923a-b4b80e1f8145
+  macAddresses:
   - 8C:1F:64:0E:00:00/36
   manufacturer: Autopharma
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autophar
 type: d3-device-type-assertion

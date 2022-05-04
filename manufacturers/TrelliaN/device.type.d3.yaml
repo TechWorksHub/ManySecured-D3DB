@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e2ad81a-3f3e-420a-a586-a65997bae75b
-  mac-addresses:
+  id: 885c76d9-76b6-45e8-99a8-d0fda4ab34ba
+  macAddresses:
   - 00:50:C2:49:90:00/36
   manufacturer: Trellia Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrelliaN
 type: d3-device-type-assertion

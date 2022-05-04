@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 39752b8c-92c1-4de0-b23b-fa190d149bb1
-  mac-addresses:
+  id: d4fba410-c50d-4e66-a240-cacbb734d601
+  macAddresses:
   - 0C:CA:FB:00:00:00/24
   - 18:8E:D5:00:00:00/24
   - 68:07:0A:00:00:00/24
   - 70:AF:24:00:00:00/24
   - 8C:1F:64:53:A0:00/36
   manufacturer: TPVision Europe B.V
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TPVision
 type: d3-device-type-assertion

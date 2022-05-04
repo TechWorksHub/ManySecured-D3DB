@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41ec4c42-cc42-46e1-b446-f2b79cc845d4
-  mac-addresses:
+  id: 654b4379-9e7a-45a3-9d31-3ad8c37e8d5f
+  macAddresses:
   - 18:74:E2:C0:00:00/28
   manufacturer: NextGen RF Design, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextGenR
 type: d3-device-type-assertion

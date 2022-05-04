@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c40b915-94cc-41ba-a3ac-1e4b4d5c6bc6
-  mac-addresses:
+  id: dd41befe-2ad1-4241-ae74-b5a73886fa7a
+  macAddresses:
   - 70:B3:D5:06:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppTek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c1b0abd-38b8-4b65-8dd3-f6a57978baec
-  mac-addresses:
+  id: 61f95cb8-8c8e-429d-9e2f-b0f5021a7208
+  macAddresses:
   - A0:09:4C:00:00:00/24
   manufacturer: CenturyLink
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CenturyL
 type: d3-device-type-assertion

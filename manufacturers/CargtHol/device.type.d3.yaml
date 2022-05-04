@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c22cbd90-f7f3-4471-9d8e-bc732f8ac340
-  mac-addresses:
+  id: 9d326817-ac67-4123-a869-d1963ed1edc2
+  macAddresses:
   - 34:5C:40:00:00:00/24
   manufacturer: Cargt Holdings LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CargtHol
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5623a83b-b4d2-4673-9b2c-2407c8bd7956
-  mac-addresses:
+  id: ab1f037b-b6fe-489e-ba5f-176fe2960b4a
+  macAddresses:
   - 2C:A1:57:00:00:00/24
   manufacturer: acromate, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: acromate
 type: d3-device-type-assertion

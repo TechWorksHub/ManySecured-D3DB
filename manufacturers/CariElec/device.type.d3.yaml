@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5093adb0-a799-4a89-807e-9933ddb8988e
-  mac-addresses:
+  id: 5b75e4f4-6149-40a2-9b18-344dce47d942
+  macAddresses:
   - 70:B3:D5:AE:90:00/36
   manufacturer: Cari Electronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CariElec
 type: d3-device-type-assertion

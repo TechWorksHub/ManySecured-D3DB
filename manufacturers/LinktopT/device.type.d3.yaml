@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eda5853b-a1be-4959-bf2a-b3fc8d4d9566
-  mac-addresses:
+  id: b90a9a15-3ecd-49c5-abb1-8aba0ed6bc20
+  macAddresses:
   - D0:AF:B6:00:00:00/24
   manufacturer: Linktop Technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinktopT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b91e7f68-8b75-4f4a-8c00-ccf4d62d35a2
-  mac-addresses:
+  id: 88bd8eb2-518b-4458-af22-7532edc0248f
+  macAddresses:
   - 40:56:0C:00:00:00/24
   manufacturer: In Home Displays Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InHomeDi
 type: d3-device-type-assertion

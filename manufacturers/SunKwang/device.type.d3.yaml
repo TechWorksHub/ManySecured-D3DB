@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe67a8c2-3799-4d1e-82e1-bb000c7d69a8
-  mac-addresses:
+  id: 8e83ab18-fd4a-4ca5-8910-6d12f895d371
+  macAddresses:
   - 00:14:1F:00:00:00/24
   manufacturer: SunKwang Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunKwang
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16ef9c28-90b8-4d36-9560-068479f75157
-  mac-addresses:
+  id: a0b1a3a5-ee23-487f-826c-dd3e7b78e949
+  macAddresses:
   - 00:80:82:00:00:00/24
   manufacturer: Pep Modular Computers Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PepModul
 type: d3-device-type-assertion

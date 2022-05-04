@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a18a401-a756-47c6-bc65-5a0c55bbde58
-  mac-addresses:
+  id: 7e7b6f33-65ac-42cd-9ea0-f97001b94a04
+  macAddresses:
   - 00:1A:BB:00:00:00/24
   manufacturer: Fontal Technology Incorporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FontalTe
 type: d3-device-type-assertion

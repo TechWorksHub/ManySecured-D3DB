@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5824ddc-777f-4c1b-9ee8-2a4d86fc885e
-  mac-addresses:
+  id: 221d83c6-5e44-42fb-a79e-99c6737a760a
+  macAddresses:
   - 34:4A:C3:00:00:00/24
   manufacturer: HuNan ZiKun Information Technology CO., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuNanZiK
 type: d3-device-type-assertion

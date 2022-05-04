@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3778f2f5-b315-4d76-8b3c-c4f66880e8a9
-  mac-addresses:
+  id: 95539be6-502f-4d4d-863f-4e56ce67f4b1
+  macAddresses:
   - 00:E0:BC:00:00:00/24
   manufacturer: Symon Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SymonCom
 type: d3-device-type-assertion

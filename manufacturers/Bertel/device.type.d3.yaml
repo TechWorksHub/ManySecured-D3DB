@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e45f0732-f66e-4d20-a85a-2f1dd40a323c
-  mac-addresses:
+  id: e4e6acda-9610-4d58-a895-5e43028a9aba
+  macAddresses:
   - A0:19:17:00:00:00/24
   manufacturer: Bertel S.p.a.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bertel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86c9b0cf-979a-44d4-b8ea-4289f7b5b3a1
-  mac-addresses:
+  id: 2028fc68-7df7-4945-a846-10bb7f383ee2
+  macAddresses:
   - 8C:DD:8D:00:00:00/24
   manufacturer: Wifly-City System Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wifly-Ci
 type: d3-device-type-assertion

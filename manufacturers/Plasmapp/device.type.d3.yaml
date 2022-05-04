@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 612366dc-33ca-44ad-82e6-93f06a4ae83b
-  mac-addresses:
+  id: bbb06a4a-4f87-422d-bae9-f5fb26a2ef5c
+  macAddresses:
   - 70:B3:D5:E1:80:00/36
   manufacturer: Plasmapp Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plasmapp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8247718-886d-4359-b8f2-c475ab2b8c2f
-  mac-addresses:
+  id: 0b7f6459-08a4-46b7-8d00-374a2156de5c
+  macAddresses:
   - 00:50:C2:90:C0:00/36
   manufacturer: LSS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b76907e-660d-44ca-bf52-48de94ed8ad2
-  mac-addresses:
+  id: d0a7287e-37ee-458f-b49c-f3875d2a7e8b
+  macAddresses:
   - 00:1B:C4:00:00:00/24
   manufacturer: Ultratec, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ultratec
 type: d3-device-type-assertion

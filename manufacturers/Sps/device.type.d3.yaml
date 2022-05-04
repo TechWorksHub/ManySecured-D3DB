@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cedde2d4-d173-4efb-ba44-b52e1e70cce5
-  mac-addresses:
+  id: c89cd3e5-cef1-4d7d-af5a-76009e2990dc
+  macAddresses:
   - B8:F0:80:00:00:00/24
   manufacturer: Sps, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sps
 type: d3-device-type-assertion

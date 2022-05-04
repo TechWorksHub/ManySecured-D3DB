@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63ff9806-bf52-4011-83b0-d794193bb7ce
-  mac-addresses:
+  id: 81cd990d-0f5c-42fb-857a-55315aba115f
+  macAddresses:
   - 00:0C:A5:00:00:00/24
   manufacturer: Naman NZ LTd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NamanNZ
 type: d3-device-type-assertion

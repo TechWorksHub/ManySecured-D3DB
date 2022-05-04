@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5013ec03-1459-4951-ade1-4606a9cccb0a
-  mac-addresses:
+  id: 2e5ed821-f145-4521-aaf2-63df9830f3a0
+  macAddresses:
   - 00:90:2E:00:00:00/24
   manufacturer: Namco Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Namco
 type: d3-device-type-assertion

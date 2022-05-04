@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a00c30e-d885-4c91-afff-52e478e5432b
-  mac-addresses:
+  id: 35eba4d5-fc21-497b-a1ce-a21e8902a325
+  macAddresses:
   - E0:91:3C:00:00:00/24
   manufacturer: Kyeungin CNS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kyeungin
 type: d3-device-type-assertion

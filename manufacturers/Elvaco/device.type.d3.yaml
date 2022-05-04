@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc95c213-d204-4aaf-91d8-7bf741b7fbf9
-  mac-addresses:
+  id: a07fc49e-f412-4d9a-b25e-5f6c34d90bd5
+  macAddresses:
   - 94:19:3A:00:00:00/24
   manufacturer: Elvaco AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elvaco
 type: d3-device-type-assertion

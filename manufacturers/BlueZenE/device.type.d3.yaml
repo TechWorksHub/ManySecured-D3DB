@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9f3df71-dfae-4b17-9d60-f4a213858e4b
-  mac-addresses:
+  id: 59263c3d-fba5-4638-b7ad-775e0789ee42
+  macAddresses:
   - 00:18:EB:00:00:00/24
   manufacturer: Blue Zen Enterprises Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueZenE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f428ea41-58b1-47a2-85a6-48716384ebb4
-  mac-addresses:
+  id: 92545c36-f372-4650-a4ee-796b22f06312
+  macAddresses:
   - AC:CA:8E:00:00:00/24
   manufacturer: ODA Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ODATechn
 type: d3-device-type-assertion

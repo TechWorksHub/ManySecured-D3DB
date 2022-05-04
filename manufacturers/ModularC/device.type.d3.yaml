@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9556ba9-cd7c-4f5d-92d3-f4e0bae9394c
-  mac-addresses:
+  id: fcef4e75-3e06-4c7e-a615-8ade21f3936c
+  macAddresses:
   - 00:C0:55:00:00:00/24
   manufacturer: Modular Computing Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ModularC
 type: d3-device-type-assertion

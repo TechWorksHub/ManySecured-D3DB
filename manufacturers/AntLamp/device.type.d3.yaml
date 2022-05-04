@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2d39cd3-0df7-4462-afa6-cdbbd8c6dd4b
-  mac-addresses:
+  id: a64d3600-0817-434d-8db4-b6da15b16715
+  macAddresses:
   - 00:50:C2:73:50:00/36
   manufacturer: Ant Lamp, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AntLamp
 type: d3-device-type-assertion

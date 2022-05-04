@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85a3b675-2d0e-45c2-ab08-fe8cb4312b1f
-  mac-addresses:
+  id: 9fd6e863-fcba-482c-ad46-f55b98f8c9aa
+  macAddresses:
   - 5C:D4:AB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zektor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4fe0140-9101-4802-895c-9ca67945c6d9
-  mac-addresses:
+  id: 15ef9a89-e610-4226-bbb3-37f3693234c7
+  macAddresses:
   - 00:13:DC:00:00:00/24
   manufacturer: Ibtek Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ibtek
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a236ffae-8ed0-468b-bed7-afd64b3e95e4
-  mac-addresses:
+  id: cdf43ed5-b44b-43ac-95ae-539fff4d8f16
+  macAddresses:
   - 00:09:14:00:00:00/24
   - 00:50:C2:56:D0:00/36
   manufacturer: Computrols Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Computro
 type: d3-device-type-assertion

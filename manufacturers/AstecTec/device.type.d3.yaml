@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bcba3d3-91e7-4d8b-ac08-5e97528ec378
-  mac-addresses:
+  id: 020d2828-f4ce-4e6a-8dbf-35a290ede683
+  macAddresses:
   - 00:1F:1E:00:00:00/24
   manufacturer: Astec Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AstecTec
 type: d3-device-type-assertion

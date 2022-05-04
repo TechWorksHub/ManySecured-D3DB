@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65a4af06-dc64-4889-9901-8ea06542f36d
-  mac-addresses:
+  id: 25201b42-a7bf-4992-9770-ace1f4d27d6b
+  macAddresses:
   - F0:41:C8:60:00:00/28
   manufacturer: AED Engineering GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEDEngin
 type: d3-device-type-assertion

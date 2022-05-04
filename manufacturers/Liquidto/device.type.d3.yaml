@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3172678-8a9d-4ec8-81e2-a849214ee670
-  mac-addresses:
+  id: c29ffb68-0473-4704-9be9-c8dcf9a365f1
+  macAddresses:
   - 64:50:D6:00:00:00/24
   manufacturer: Liquidtool Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liquidto
 type: d3-device-type-assertion

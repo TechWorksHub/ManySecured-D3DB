@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b13b74c-606a-4a11-8c4f-1e711a50c512
-  mac-addresses:
+  id: aa3e136b-c3bc-47e7-bac1-4d539376c645
+  macAddresses:
   - 70:B3:D5:CF:40:00/36
   manufacturer: Harbin Cheng Tian Technology Development Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HarbinCh
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cfe8cfa-8cea-432f-b62c-c17aa11dd75e
-  mac-addresses:
+  id: 77c9d246-b1d5-4d65-94c9-d3e1b4fbb1b6
+  macAddresses:
   - 84:40:76:00:00:00/24
   manufacturer: Drivenets
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Drivenet
 type: d3-device-type-assertion

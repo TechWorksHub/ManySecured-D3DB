@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb7449ce-4f9e-4518-86b5-3ece83932c81
-  mac-addresses:
+  id: def32f00-385c-4e9d-866e-c0907e52f6d3
+  macAddresses:
   - 70:B3:D5:44:A0:00/36
   manufacturer: Canon Electron Tubes & Devices Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanonEle
 type: d3-device-type-assertion

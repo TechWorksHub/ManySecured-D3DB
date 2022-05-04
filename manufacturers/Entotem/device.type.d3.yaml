@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f910164b-e4a2-4e63-a628-1172c88d6b2e
-  mac-addresses:
+  id: e11c4ed9-d952-49f5-8697-7071069d0084
+  macAddresses:
   - B8:D8:12:90:00:00/28
   manufacturer: Entotem LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Entotem
 type: d3-device-type-assertion

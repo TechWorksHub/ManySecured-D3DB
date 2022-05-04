@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0278f818-5a0f-4f39-9b18-6bf9e8eaca1f
-  mac-addresses:
+  id: 5acf5e3a-4085-40ec-ba17-ddf16bcfd2a3
+  macAddresses:
   - 00:07:FF:00:00:00/24
   manufacturer: Gluon Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GluonNet
 type: d3-device-type-assertion

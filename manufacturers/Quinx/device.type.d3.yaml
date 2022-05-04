@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b0ca3bc-954d-44c3-82e0-f4433ea94ec6
-  mac-addresses:
+  id: b6806533-ae38-4911-a584-d6fb6fd2d794
+  macAddresses:
   - 00:50:C2:10:A0:00/36
   manufacturer: Quinx AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quinx
 type: d3-device-type-assertion

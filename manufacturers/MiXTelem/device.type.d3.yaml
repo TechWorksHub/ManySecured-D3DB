@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9e46c180-b9de-40ae-8cd9-04973871b9fb
-  mac-addresses:
+  id: 5c789552-120c-452e-aa91-b8495fbd9b68
+  macAddresses:
   - 00:23:40:00:00:00/24
   - 40:2E:28:00:00:00/24
   manufacturer: MiXTelematics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiXTelem
 type: d3-device-type-assertion

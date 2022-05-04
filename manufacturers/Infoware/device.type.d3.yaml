@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4c00306e-63f7-412f-a4ad-1788646791d0
-  mac-addresses:
+  id: adff3f10-531c-4fb2-8e98-fdbfa04d50d4
+  macAddresses:
   - 00:07:7A:00:00:00/24
   - 00:24:8E:00:00:00/24
   manufacturer: Infoware System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infoware
 type: d3-device-type-assertion

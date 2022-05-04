@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e65ea12b-4837-4fa1-866d-139b5186ca3b
-  mac-addresses:
+  id: efbeb649-5588-40c7-b03e-3d918a93a1c3
+  macAddresses:
   - DC:2A:A1:00:00:00/24
   manufacturer: MedHab LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MedHab
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 411243ab-aaf7-4f5d-bdf1-79fd5fc7b4af
-  mac-addresses:
+  id: 4ae45823-0b71-4225-9c2b-538779bdfac5
+  macAddresses:
   - 00:80:48:00:00:00/24
   manufacturer: Compex, used by Commodore and DEC at least
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CompexUs
 type: d3-device-type-assertion

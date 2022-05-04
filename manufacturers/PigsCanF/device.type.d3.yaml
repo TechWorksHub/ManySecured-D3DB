@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f619f40-f864-4854-9a35-aaa3f53a3668
-  mac-addresses:
+  id: 8fd7eeb5-9e3d-4809-8a00-e0ae5339f74c
+  macAddresses:
   - 8C:1F:64:DC:00:00/36
   manufacturer: Pigs Can Fly Labs LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PigsCanF
 type: d3-device-type-assertion

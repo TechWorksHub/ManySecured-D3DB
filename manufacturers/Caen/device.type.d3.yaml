@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f697685a-d8f6-4725-8c44-a31376cb8663
-  mac-addresses:
+  id: c862dd1b-5b36-4bc4-95c6-1e840d37373b
+  macAddresses:
   - 00:12:5E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Caen
 type: d3-device-type-assertion

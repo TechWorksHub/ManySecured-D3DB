@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5e0b8f3-3e87-4ca9-9f9e-56d22be9f1cb
-  mac-addresses:
+  id: 49e48e13-2d63-44c8-9746-cec2dc12b91b
+  macAddresses:
   - 34:D0:B8:E0:00:00/28
   manufacturer: "Kongqiguanjia (Beijing)Technology co.\uFF0Cltd"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kongqigu
 type: d3-device-type-assertion

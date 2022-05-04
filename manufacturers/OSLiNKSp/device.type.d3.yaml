@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5b2492f-6a7c-4c9a-ac49-84f84ee1a242
-  mac-addresses:
+  id: 23c32e6d-0208-46dd-97df-8ee4fb6274e2
+  macAddresses:
   - 00:15:D6:00:00:00/24
   manufacturer: OSLiNK Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OSLiNKSp
 type: d3-device-type-assertion

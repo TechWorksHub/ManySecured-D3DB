@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a6bb057-c857-4f13-9d0f-45d1171feecf
-  mac-addresses:
+  id: 09d7b36b-441b-4dbc-bf27-e8f88d9a3f02
+  macAddresses:
   - 08:00:8D:00:00:00/24
   manufacturer: XyVision
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xyvision
 type: d3-device-type-assertion

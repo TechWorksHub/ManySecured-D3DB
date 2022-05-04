@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 207aa093-2ca7-475f-8e53-c7e07cac5f33
-  mac-addresses:
+  id: 17df5a15-e917-480f-872c-b3445aa546f9
+  macAddresses:
   - 00:01:29:00:00:00/24
   manufacturer: DFI Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DFI
 type: d3-device-type-assertion

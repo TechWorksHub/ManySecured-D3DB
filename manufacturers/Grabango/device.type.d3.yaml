@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0134ce30-d5db-4953-a8de-2cbed18e924e
-  mac-addresses:
+  id: 51a3fbec-7f15-4c27-939b-a109b56889e3
+  macAddresses:
   - 38:61:A5:00:00:00/24
   manufacturer: Grabango Co
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grabango
 type: d3-device-type-assertion

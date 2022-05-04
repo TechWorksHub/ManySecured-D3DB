@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 69dc5482-b37f-485e-ba3d-d3bc26716b43
-  mac-addresses:
+  id: bebca512-f107-4dca-8917-91ef3762a15b
+  macAddresses:
   - 00:17:33:00:00:00/24
   - 00:1D:16:00:00:00/24
   - 00:25:15:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - E0:A1:D7:00:00:00/24
   - E4:5D:51:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sfr
 type: d3-device-type-assertion

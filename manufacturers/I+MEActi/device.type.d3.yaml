@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c0e3b1b-5f06-48fd-9239-8bcbc1a55631
-  mac-addresses:
+  id: 0e43ad65-9d1f-499f-bf7e-44cd29fd1b54
+  macAddresses:
   - C4:BA:99:00:00:00/24
   manufacturer: I+ME Actia Informatik und Mikro-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: I+MEActi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8e67da9-55d4-4f93-b84d-b513d71a22bf
-  mac-addresses:
+  id: 2cc23e86-f13b-475b-a73f-58b047901b61
+  macAddresses:
   - 30:57:AC:00:00:00/24
   manufacturer: Irlab Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Irlab
 type: d3-device-type-assertion

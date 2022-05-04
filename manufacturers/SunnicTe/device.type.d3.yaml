@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f8b2212-23eb-4eaf-82ae-02c1c83ae69e
-  mac-addresses:
+  id: e2b955b3-dcc7-4036-bb1a-5032164f95ca
+  macAddresses:
   - 00:1D:54:00:00:00/24
   manufacturer: Sunnic Technology & Merchandise INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunnicTe
 type: d3-device-type-assertion

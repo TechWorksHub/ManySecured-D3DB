@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8c18450e-0498-4ad1-9983-a6e5785efeba
-  mac-addresses:
+  id: 65efa0e0-dbaf-4036-9012-5c57cd6a6625
+  macAddresses:
   - 00:50:C2:05:90:00/36
   - 00:50:C2:78:70:00/36
   - 00:50:C2:9F:80:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:31:60:00/36
   - E8:C3:20:00:00:00/24
   manufacturer: Austco Marketing & Service (USA) ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AustcoMa
 type: d3-device-type-assertion

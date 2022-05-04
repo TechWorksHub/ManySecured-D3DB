@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 708fe08f-b855-45a2-b08c-a0ddd6f44bf9
-  mac-addresses:
+  id: 95a81a23-7552-4c8c-9f65-bff20e720872
+  macAddresses:
   - 00:14:27:00:00:00/24
   manufacturer: JazzMutant
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JazzMuta
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53ad2bf3-6a5e-4658-b0f1-483c342299bf
-  mac-addresses:
+  id: 75dd5eb4-3c5f-4f4b-b9d0-3ebb5590665a
+  macAddresses:
   - 10:E6:8F:00:00:00/24
   manufacturer: Kwangsung Electronics Korea Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kwangsun
 type: d3-device-type-assertion

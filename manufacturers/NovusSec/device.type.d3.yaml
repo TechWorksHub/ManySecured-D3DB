@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2889838e-b441-4eb8-abd0-b6b1dc4a01a7
-  mac-addresses:
+  id: 25c19718-6e72-47bb-8cdc-1ef928db552c
+  macAddresses:
   - 00:1B:9D:00:00:00/24
   manufacturer: Novus Security Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovusSec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2693307b-96a8-464d-859c-b7f0f15e48be
-  mac-addresses:
+  id: 4d0ca8b6-5ca9-40d2-a982-eb7371c76de3
+  macAddresses:
   - 70:69:79:70:00:00/28
   manufacturer: Intelitech SIA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intelite
 type: d3-device-type-assertion

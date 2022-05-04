@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4dbd7941-fc9e-4c36-80c3-e2ba6a1e977c
-  mac-addresses:
+  id: 8863a94c-81a5-43e3-8ec2-4914395210d6
+  macAddresses:
   - 00:09:2B:00:00:00/24
   manufacturer: iQstor Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iQstorNe
 type: d3-device-type-assertion

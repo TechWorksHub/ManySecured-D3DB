@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 483c01e7-5c91-4d2e-9eb5-57921b06fd29
-  mac-addresses:
+  id: a1967bdd-b485-4686-99ba-be0312624162
+  macAddresses:
   - 00:50:C2:FF:50:00/36
   manufacturer: Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji
     San. Tic. A.p.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlexkomI
 type: d3-device-type-assertion

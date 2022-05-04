@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f199c4c-a399-4674-b71c-1b798cd5c22c
-  mac-addresses:
+  id: a6d0aa5c-aff7-43d8-b892-5d658a90fb17
+  macAddresses:
   - 00:0C:90:00:00:00/24
   manufacturer: Octasic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Octasic
 type: d3-device-type-assertion

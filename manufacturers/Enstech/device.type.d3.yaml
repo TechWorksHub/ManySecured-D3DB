@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e4af1cd-aa01-49eb-a900-b3ad09962cd9
-  mac-addresses:
+  id: cb3aa8d1-a6c3-4ef2-9374-8e35aa8bca9e
+  macAddresses:
   - 00:1B:C5:06:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enstech
 type: d3-device-type-assertion

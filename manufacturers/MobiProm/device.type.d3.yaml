@@ -1,10 +1,10 @@
 credentialSubject:
-  id: a7e2ac81-71f1-4073-8591-2aae61167c21
-  mac-addresses:
+  id: 4d7cb006-8ff1-4b68-82d3-e9a6103536b0
+  macAddresses:
   - 70:B3:D5:09:E0:00/36
   - 70:B3:D5:1F:E0:00/36
   - 70:B3:D5:A7:30:00/36
   manufacturer: MobiPromo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MobiProm
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdeea737-d9f0-4aa8-9082-fb0b06846f90
-  mac-addresses:
+  id: 7eb5b465-c7eb-43d5-b8c6-8fbadca11a5b
+  macAddresses:
   - 28:B1:33:00:00:00/24
   manufacturer: SHINEMAN(SHENZHEN) Tech. Cor., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHINEMAN
 type: d3-device-type-assertion

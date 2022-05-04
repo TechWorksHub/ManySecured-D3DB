@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60e30e1b-1334-419b-80b4-c4f68c8514bf
-  mac-addresses:
+  id: e836b012-92de-4a6f-afc9-67c919194ce0
+  macAddresses:
   - 8C:AE:49:10:00:00/28
   manufacturer: H3 Platform
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H3Platfo
 type: d3-device-type-assertion

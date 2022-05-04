@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfe4e0a3-5d2a-43f3-b382-dd8e283a75a9
-  mac-addresses:
+  id: 4c75d9f9-3cee-4d81-8399-0a3a54afc74c
+  macAddresses:
   - 00:03:67:00:00:00/24
   manufacturer: Jasmine Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JasmineN
 type: d3-device-type-assertion

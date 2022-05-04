@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 36715688-a3a1-4e32-bde7-475f422a23f6
-  mac-addresses:
+  id: fa370918-7513-4c29-a445-2626659e8828
+  macAddresses:
   - 00:0F:1B:00:00:00/24
   - 00:15:F0:00:00:00/24
   manufacturer: Ego Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ego
 type: d3-device-type-assertion

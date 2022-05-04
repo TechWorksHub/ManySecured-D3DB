@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c51e78d6-699e-47d0-bfb6-15f4b837b3dc
-  mac-addresses:
+  id: b30db4b8-845b-4890-8395-430834e9c8e8
+  macAddresses:
   - 00:D0:85:00:00:00/24
   manufacturer: Otis Elevator Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OtisElev
 type: d3-device-type-assertion

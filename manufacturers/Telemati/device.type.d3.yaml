@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 12e94390-430f-4ff8-acd2-65a60f09384f
-  mac-addresses:
+  id: cb0368fd-41a1-47b2-a09b-0e2e21b41bbe
+  macAddresses:
   - 00:00:5C:00:00:00/24
   - 00:01:2A:00:00:00/24
   - 00:C0:14:00:00:00/24
   - C8:63:14:D0:00:00/28
   manufacturer: Telematics International Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telemati
 type: d3-device-type-assertion

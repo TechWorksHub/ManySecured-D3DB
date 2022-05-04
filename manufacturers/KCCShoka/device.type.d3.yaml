@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73430b00-0539-4828-93ab-156bc19427e1
-  mac-addresses:
+  id: 98c49f82-1c23-4ed9-a3bc-c32e04ba573f
+  macAddresses:
   - 00:50:C2:CD:D0:00/36
   manufacturer: K.C.C. Shokai Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KCCShoka
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 84b07a21-78a7-4b6e-85a4-34bf2071d5fb
-  mac-addresses:
+  id: 5dbf7369-c32b-465c-8800-ac4883261935
+  macAddresses:
   - 38:1F:26:20:00:00/28
   - 60:95:CE:C0:00:00/28
   manufacturer: Synamedia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synamedi
 type: d3-device-type-assertion

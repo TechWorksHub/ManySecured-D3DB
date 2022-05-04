@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c36f6ab-9926-471b-bed3-b9ac976d7ea4
-  mac-addresses:
+  id: f4e9a230-406e-42e1-a307-90ac31f67624
+  macAddresses:
   - 00:C0:AC:00:00:00/24
   manufacturer: Gambit Computer Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GambitCo
 type: d3-device-type-assertion

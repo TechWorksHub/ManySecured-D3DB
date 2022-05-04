@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eecd50d1-03c9-46de-b769-873020670d09
-  mac-addresses:
+  id: 87f680e9-0b91-45b3-9af7-a8ac461f103b
+  macAddresses:
   - 50:0A:52:00:00:00/24
   manufacturer: Huiwan Technologies Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuiwanTe
 type: d3-device-type-assertion

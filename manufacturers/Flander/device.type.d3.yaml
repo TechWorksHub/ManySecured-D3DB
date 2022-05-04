@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd248459-8b71-442f-be8e-a58adc43c2c1
-  mac-addresses:
+  id: ed55ed85-86b3-4e32-9ba6-ee43256ebd3c
+  macAddresses:
   - 00:50:C2:1C:50:00/36
   manufacturer: Flander Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flander
 type: d3-device-type-assertion

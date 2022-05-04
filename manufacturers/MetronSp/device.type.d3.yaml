@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3c4dbe0-6f7d-446a-8e5b-4589c285420e
-  mac-addresses:
+  id: c7136f6c-4355-42ba-839c-199f308cf744
+  macAddresses:
   - 00:50:C2:48:D0:00/36
   manufacturer: Metron Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MetronSp
 type: d3-device-type-assertion

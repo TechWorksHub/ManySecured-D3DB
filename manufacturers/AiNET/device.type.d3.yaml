@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68870ea8-2baf-4e08-b95c-8c69429aa688
-  mac-addresses:
+  id: 823c0513-905b-43f8-9df9-aa1027e6c105
+  macAddresses:
   - 50:14:08:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AiNET
 type: d3-device-type-assertion

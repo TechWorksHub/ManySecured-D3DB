@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25b5e3d2-699a-48d7-ad8f-e86560b6a34b
-  mac-addresses:
+  id: ecffd3bd-23a5-4b97-902b-ca8f0fbf3ac0
+  macAddresses:
   - 00:21:FF:00:00:00/24
   manufacturer: Cyfrowy Polsat SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CyfrowyP
 type: d3-device-type-assertion

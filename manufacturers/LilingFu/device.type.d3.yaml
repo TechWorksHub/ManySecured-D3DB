@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e2be2de-ad4e-4a9d-9f82-c127c8f41759
-  mac-addresses:
+  id: 77116d98-e655-4c5d-9e20-72852192f707
+  macAddresses:
   - 94:05:B6:00:00:00/24
   manufacturer: Liling FullRiver Electronics & Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LilingFu
 type: d3-device-type-assertion

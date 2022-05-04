@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca047df8-1e7e-4068-93b4-acb759d125da
-  mac-addresses:
+  id: 3ffc2b9f-ec41-4d8a-a444-be7f2ea42dad
+  macAddresses:
   - 44:46:49:00:00:00/24
   manufacturer: DFI (Diamond Flower Industries)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DfiDiamo
 type: d3-device-type-assertion

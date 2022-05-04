@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80299cdb-1003-4b8f-a338-f0a7ff005594
-  mac-addresses:
+  id: 0a3cdfc3-9b06-458b-a17b-7ddc83f6fcbf
+  macAddresses:
   - 4C:74:87:00:00:00/24
   manufacturer: Leader Phone Communication Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeaderPh
 type: d3-device-type-assertion

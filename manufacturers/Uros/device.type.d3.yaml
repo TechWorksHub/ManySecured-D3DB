@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c4344f9-6253-4698-a664-d8095886c9ea
-  mac-addresses:
+  id: 3b316e5d-2959-415e-8ce6-e3de5b20ba54
+  macAddresses:
   - 48:46:F1:00:00:00/24
   manufacturer: Uros Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uros
 type: d3-device-type-assertion

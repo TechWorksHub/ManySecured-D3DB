@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f767e17-428d-4c24-b1e9-4daa87b08725
-  mac-addresses:
+  id: fd8ddaae-5748-43ff-8cfd-1a248700dab9
+  macAddresses:
   - 00:23:B0:00:00:00/24
   manufacturer: COMXION Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMXIONT
 type: d3-device-type-assertion

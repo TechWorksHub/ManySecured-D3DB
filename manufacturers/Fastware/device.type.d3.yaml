@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 090e3344-c684-4f86-afce-624b6b722824
-  mac-addresses:
+  id: 2fa78e69-9d13-4975-8638-05f078db4758
+  macAddresses:
   - 00:50:C2:0A:B0:00/36
   manufacturer: Fastware.Net, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fastware
 type: d3-device-type-assertion

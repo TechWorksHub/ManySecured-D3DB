@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73d751f3-81cc-41d3-989c-21c1b19d3936
-  mac-addresses:
+  id: f5d77c51-6553-4eb8-a0b7-1cee9a45b791
+  macAddresses:
   - 00:50:C2:B8:80:00/36
   manufacturer: "Gigatronik K\xF6ln GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gigatron
 type: d3-device-type-assertion

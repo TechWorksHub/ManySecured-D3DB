@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c871f6a8-0690-432b-a511-3ce457045501
-  mac-addresses:
+  id: ec346941-d888-4696-8bab-2ca77710dd66
+  macAddresses:
   - 00:11:8A:00:00:00/24
   manufacturer: Viewtran Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viewtran
 type: d3-device-type-assertion

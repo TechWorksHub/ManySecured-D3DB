@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fc6d2f4d-9b7b-4611-b9b5-7f62d8a4ef22
-  mac-addresses:
+  id: 5cb801b9-0fa3-496e-82e2-cafff4381145
+  macAddresses:
   - 00:90:EE:00:00:00/24
   - 00:C0:C6:00:00:00/24
   manufacturer: Personal Communications Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Personal
 type: d3-device-type-assertion

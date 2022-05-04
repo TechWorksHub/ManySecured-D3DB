@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 923e9b76-942d-4aee-b640-4648bf59f919
-  mac-addresses:
+  id: 00adbf39-c5a8-4a84-a4ed-dce5d5502e3f
+  macAddresses:
   - 24:5D:FC:C0:00:00/28
   manufacturer: Senix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senix
 type: d3-device-type-assertion

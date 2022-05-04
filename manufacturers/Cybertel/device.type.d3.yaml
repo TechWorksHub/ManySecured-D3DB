@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a2a0461-9cfb-450e-a5c8-e357b9ee92ed
-  mac-addresses:
+  id: efa11d22-dc4c-4397-91f3-b222a454c9bf
+  macAddresses:
   - 5C:87:78:00:00:00/24
   manufacturer: Cybertelbridge co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cybertel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16f5fe04-890a-4d90-a2c5-8be94231001c
-  mac-addresses:
+  id: bd7ed57d-272d-431c-9ace-7f9219d05ee8
+  macAddresses:
   - 70:B3:D5:78:50:00/36
   manufacturer: Density Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Density
 type: d3-device-type-assertion

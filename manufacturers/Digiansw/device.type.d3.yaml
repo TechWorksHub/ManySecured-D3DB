@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3076c556-f49c-47ae-859c-82d72dbfec91
-  mac-addresses:
+  id: 44fa2d82-9c31-45a8-9b40-2cdfe5973cb5
+  macAddresses:
   - 00:50:CD:00:00:00/24
   manufacturer: Digianswer A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digiansw
 type: d3-device-type-assertion

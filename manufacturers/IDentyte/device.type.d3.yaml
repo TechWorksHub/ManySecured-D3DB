@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bebe6e8-c8a9-487c-b7db-53524db2de66
-  mac-addresses:
+  id: 50c5a5ba-453c-4e13-85c5-72f110a43fad
+  macAddresses:
   - 1C:FE:A7:00:00:00/24
   manufacturer: IDentytech Solutins Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDentyte
 type: d3-device-type-assertion

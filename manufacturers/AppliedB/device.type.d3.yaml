@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 457db872-3c65-479b-9ea7-c16c850c227a
-  mac-addresses:
+  id: dea2e154-8c8c-4398-bd68-e1bb87c5e0f3
+  macAddresses:
   - 00:17:80:00:00:00/24
   manufacturer: Applied Biosystems B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppliedB
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 450b6c4b-49f9-4b73-8579-8c014fdb0a3a
-  mac-addresses:
+  id: 9eee1f3c-6180-42b3-9f08-abf33d79c5ff
+  macAddresses:
   - 00:50:C2:64:10:00/36
   - E8:54:84:00:00:00/24
   manufacturer: NEO Information Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NEOInfor
 type: d3-device-type-assertion

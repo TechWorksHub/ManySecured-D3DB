@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c7660d0-7bdc-4c3e-bb60-e90e8bc23c0b
-  mac-addresses:
+  id: 3baafff3-d3bd-484e-b80e-4e98c22b66d8
+  macAddresses:
   - 30:32:D4:00:00:00/24
   manufacturer: Hanilstm Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hanilstm
 type: d3-device-type-assertion

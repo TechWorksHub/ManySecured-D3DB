@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b6bb7a0f-1e61-4ee3-a393-b9dc77c8adda
-  mac-addresses:
+  id: b4819d6f-58cc-440c-8bf9-c52a52e6a5c6
+  macAddresses:
   - 00:12:BF:00:00:00/24
   - 00:1A:2A:00:00:00/24
   - 00:1D:19:00:00:00/24
@@ -54,6 +54,6 @@ credentialSubject:
   - F0:86:20:00:00:00/24
   - FC:3D:A5:00:00:00/24
   manufacturer: Arcadyan Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arcadyan
 type: d3-device-type-assertion

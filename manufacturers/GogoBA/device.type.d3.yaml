@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 82fb06ed-cb75-4d27-b27c-40a89f8589d6
-  mac-addresses:
+  id: fe0c5c16-4623-4659-b2c8-7b9a81135247
+  macAddresses:
   - 00:50:C2:45:50:00/36
   - 00:50:C2:67:C0:00/36
   - 00:50:C2:7C:E0:00/36
@@ -11,6 +11,6 @@ credentialSubject:
   - 70:B3:D5:1E:80:00/36
   - 70:B3:D5:C6:00:00/36
   manufacturer: Gogo BA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GogoBA
 type: d3-device-type-assertion

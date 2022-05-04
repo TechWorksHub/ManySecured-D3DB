@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d65de8a3-c706-474f-a75d-72709854a38e
-  mac-addresses:
+  id: 166e46c7-d212-4586-a5b0-a79c46eb9ea4
+  macAddresses:
   - 40:D8:55:13:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: hanatech
 type: d3-device-type-assertion

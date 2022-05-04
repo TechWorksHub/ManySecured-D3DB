@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f9bb265-afc6-40ec-b146-62a9e83ee388
-  mac-addresses:
+  id: f702119c-9de2-460d-b887-9aeae8c9c41a
+  macAddresses:
   - 00:11:0E:00:00:00/24
   manufacturer: Tsurusaki Sealand Transportation Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tsurusak
 type: d3-device-type-assertion

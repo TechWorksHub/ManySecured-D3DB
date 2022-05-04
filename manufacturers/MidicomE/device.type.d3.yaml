@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb66a79f-7ac7-4cb1-9774-b7cdf4272713
-  mac-addresses:
+  id: 2b73a8fd-9a65-4319-b28d-c4de95bce69e
+  macAddresses:
   - 14:28:82:00:00:00/24
   manufacturer: Midicom Electronics Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MidicomE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14671cc2-6c5a-4203-b75e-8ce1352b2424
-  mac-addresses:
+  id: 14ff34f4-6b60-4e2e-9c51-637a024e1c00
+  macAddresses:
   - 00:50:C2:C6:E0:00/36
   manufacturer: TBS Holding AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TBS
 type: d3-device-type-assertion

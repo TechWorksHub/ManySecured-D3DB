@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ee08479-7e3b-453f-aa1e-561d2a020135
-  mac-addresses:
+  id: f4aa702f-bb18-4ce6-a60c-40d6c09787ac
+  macAddresses:
   - 00:15:44:00:00:00/24
   manufacturer: coM.s.a.t. AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: coMt
 type: d3-device-type-assertion

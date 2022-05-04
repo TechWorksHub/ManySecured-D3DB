@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75c237f4-ab63-4b6a-b5d4-9f8794174e9a
-  mac-addresses:
+  id: 1b459d98-0ca3-4619-b197-70a01aa350f5
+  macAddresses:
   - 00:80:D4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chase
 type: d3-device-type-assertion

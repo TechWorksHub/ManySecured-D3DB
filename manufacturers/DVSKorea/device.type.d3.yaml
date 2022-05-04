@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 997a982c-daf0-405f-8135-c1ef354b0a84
-  mac-addresses:
+  id: 6abf751a-d77d-4e04-8437-f5c920926412
+  macAddresses:
   - 00:25:F5:00:00:00/24
   manufacturer: DVS Korea, Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DVSKorea
 type: d3-device-type-assertion

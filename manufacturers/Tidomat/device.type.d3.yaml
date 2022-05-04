@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4de6092-c62d-434c-97f4-0751abe95798
-  mac-addresses:
+  id: 90420d87-14a5-485b-9a5f-b3017a7c4e14
+  macAddresses:
   - 00:60:A8:00:00:00/24
   manufacturer: Tidomat Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tidomat
 type: d3-device-type-assertion

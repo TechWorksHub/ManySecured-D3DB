@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7f59af2c-85ef-450f-a4ea-5c91bae3f181
-  mac-addresses:
+  id: d3db5ab6-ea67-49e1-a6cd-77b1bca4c128
+  macAddresses:
   - 00:50:C2:C7:70:00/36
   - 08:79:99:00:00:00/24
   manufacturer: AIM Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AIM
 type: d3-device-type-assertion

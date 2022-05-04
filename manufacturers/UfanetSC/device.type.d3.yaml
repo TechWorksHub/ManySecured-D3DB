@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d174f67f-858c-40b9-b8fd-99f5b5ed4fa9
-  mac-addresses:
+  id: be8a28b9-5271-4a04-8778-10124c1500d4
+  macAddresses:
   - 50:62:55:00:00:00/28
   manufacturer: Ufanet SC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UfanetSC
 type: d3-device-type-assertion

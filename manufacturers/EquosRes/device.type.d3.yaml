@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b3880ea-6697-4ea7-b37b-65078b61383c
-  mac-addresses:
+  id: 6eb55afd-7873-43b4-a09d-97ff670f2f44
+  macAddresses:
   - 70:B3:D5:34:D0:00/36
   manufacturer: Equos Research Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EquosRes
 type: d3-device-type-assertion

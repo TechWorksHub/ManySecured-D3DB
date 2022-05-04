@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8f539e15-5da8-41d1-bd56-341876fbe15d
-  mac-addresses:
+  id: 3c5f76ef-0941-4fd9-801c-b739a7c2207a
+  macAddresses:
   - 70:B3:D5:7D:D0:00/36
   - 70:B3:D5:DC:50:00/36
   manufacturer: Excel Medical Electronics LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExcelMed
 type: d3-device-type-assertion

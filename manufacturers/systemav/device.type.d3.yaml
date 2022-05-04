@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02ec02c0-81c8-4c77-8a3c-d1f6035851a4
-  mac-addresses:
+  id: dc43d2ea-a804-41ed-bec5-d26e5d903c8b
+  macAddresses:
   - 88:3F:0C:00:00:00/24
   manufacturer: system a.v. co., ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: systemav
 type: d3-device-type-assertion

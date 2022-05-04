@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 711761f0-f468-47ef-927c-f4055f4974c9
-  mac-addresses:
+  id: ec55f6fa-e2f3-446f-9d74-9a0a15bf09cc
+  macAddresses:
   - 1C:57:3E:00:00:00/24
   - 58:FC:20:00:00:00/24
   manufacturer: Altice Labs S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlticeLa
 type: d3-device-type-assertion

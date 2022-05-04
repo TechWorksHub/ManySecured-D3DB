@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b90c8ed-148f-4899-894c-a8c18606cc24
-  mac-addresses:
+  id: 75e86794-a599-491d-aafc-ab298900d223
+  macAddresses:
   - 00:50:C2:9D:70:00/36
   manufacturer: Melex Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Melex
 type: d3-device-type-assertion

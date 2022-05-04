@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 661b4f96-1b41-4f25-b001-7c75752aadc4
-  mac-addresses:
+  id: 8b358c3a-c293-4cb4-8936-d3415719f581
+  macAddresses:
   - 88:5D:90:30:00:00/28
   manufacturer: CPAC Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CPAC
 type: d3-device-type-assertion

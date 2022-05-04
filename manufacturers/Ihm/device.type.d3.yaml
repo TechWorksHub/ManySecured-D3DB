@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1c0f70ad-8537-4509-8b62-8e41ed05dda6
-  mac-addresses:
+  id: 73c1dd84-398b-4f75-b7b7-209e490286e8
+  macAddresses:
   - 00:50:C2:35:50:00/36
   - 00:50:C2:67:80:00/36
   - 78:CA:83:80:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ihm
 type: d3-device-type-assertion

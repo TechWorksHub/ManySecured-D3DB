@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27ac4ad1-4519-44f1-bc35-545b951c685f
-  mac-addresses:
+  id: a023a9c3-9b06-44cc-8739-384fec139f4e
+  macAddresses:
   - 00:1C:6B:00:00:00/24
   manufacturer: COVAX Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COVAX
 type: d3-device-type-assertion

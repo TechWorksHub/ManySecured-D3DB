@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e11ccb1a-d42c-4817-ba68-791fa9ea9963
-  mac-addresses:
+  id: 098cffee-95fc-4f0d-91a1-e1d3f98045e2
+  macAddresses:
   - 00:1B:C5:03:20:00/36
   manufacturer: Osborne Coinage Co
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsborneC
 type: d3-device-type-assertion

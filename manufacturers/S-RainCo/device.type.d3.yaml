@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5e68e59-a4ac-4099-90f2-4193c7980a3b
-  mac-addresses:
+  id: 892f0d11-0145-4cb1-9237-535fa56cac16
+  macAddresses:
   - 70:B3:D5:B6:80:00/36
   manufacturer: S-Rain Control A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S-RainCo
 type: d3-device-type-assertion

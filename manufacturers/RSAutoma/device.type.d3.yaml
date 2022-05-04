@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea1e45d2-a187-49d2-bf4f-ecb7a0b4873b
-  mac-addresses:
+  id: c9b2ee37-71a1-41b0-8a12-9f5b33b26262
+  macAddresses:
   - 00:0F:73:00:00:00/24
   manufacturer: RS Automation Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RSAutoma
 type: d3-device-type-assertion

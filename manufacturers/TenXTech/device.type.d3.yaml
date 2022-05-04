@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 116452f3-d4d6-414f-8283-a219fbf3639d
-  mac-addresses:
+  id: 11af4367-e3ac-40ea-bac7-69ed14829a90
+  macAddresses:
   - 00:A0:D0:00:00:00/24
   manufacturer: Ten X Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TenXTech
 type: d3-device-type-assertion

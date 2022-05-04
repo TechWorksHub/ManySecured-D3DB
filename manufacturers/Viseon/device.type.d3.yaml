@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de565663-6af6-48d5-9098-ad3797a05183
-  mac-addresses:
+  id: bcb3099b-68a7-4904-8a28-a8bd6e1a2c3e
+  macAddresses:
   - 00:12:C4:00:00:00/24
   manufacturer: Viseon, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viseon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53eed1f4-a8e6-4554-bb51-a8eef39fd2c5
-  mac-addresses:
+  id: 63bf2360-a719-4309-8c9a-c19085a01408
+  macAddresses:
   - 00:13:34:00:00:00/24
   manufacturer: Arkados, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arkados
 type: d3-device-type-assertion

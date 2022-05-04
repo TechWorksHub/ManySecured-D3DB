@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42f6c682-6228-4928-a69a-2092f31ac860
-  mac-addresses:
+  id: 5a577cdc-8dab-4571-b4d0-0eda09582cd2
+  macAddresses:
   - 00:50:C2:D7:00:00/36
   manufacturer: C. Rob. Hammerstein GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRobHamm
 type: d3-device-type-assertion

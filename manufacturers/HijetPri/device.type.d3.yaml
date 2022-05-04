@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6a843de-0404-49cc-91a6-de65673b249e
-  mac-addresses:
+  id: 3a68b94d-a3dd-404e-8315-cdde08d79bbf
+  macAddresses:
   - 00:50:C2:FA:90:00/36
   manufacturer: Hijet Print d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HijetPri
 type: d3-device-type-assertion

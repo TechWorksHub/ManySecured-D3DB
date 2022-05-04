@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c39f64e2-f5c1-40ff-bbf0-2a48e0a78804
-  mac-addresses:
+  id: 8128fe05-6bcc-42aa-85c9-e913634db7d6
+  macAddresses:
   - 1C:88:79:20:00:00/28
   manufacturer: Airsmart System Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airsmart
 type: d3-device-type-assertion

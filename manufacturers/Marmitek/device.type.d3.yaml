@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1963a30e-1b92-4801-a1e3-7ae3eaa23488
-  mac-addresses:
+  id: 0c29c6d9-f232-4ec6-ac10-80ac2eff8890
+  macAddresses:
   - 40:D8:55:0F:A0:00/36
   - 74:19:F8:00:00:00/28
   manufacturer: Marmitek BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marmitek
 type: d3-device-type-assertion

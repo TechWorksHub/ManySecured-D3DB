@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96d6844b-6912-4d95-92b8-d60a4170bcea
-  mac-addresses:
+  id: 07cf293b-1ac3-432d-9515-e30c5cacd8d7
+  macAddresses:
   - 4C:E1:73:60:00:00/28
   manufacturer: Daikoku Denki Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaikokuD
 type: d3-device-type-assertion

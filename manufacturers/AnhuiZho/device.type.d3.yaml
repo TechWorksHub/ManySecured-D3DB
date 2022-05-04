@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4dbc8a91-1ae7-434b-8a9a-01476f9187f4
-  mac-addresses:
+  id: 611d5897-55b7-4973-bfe3-7527e80ace98
+  macAddresses:
   - 44:A9:2C:20:00:00/28
   manufacturer: Anhui Zhongxin Electronic Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnhuiZho
 type: d3-device-type-assertion

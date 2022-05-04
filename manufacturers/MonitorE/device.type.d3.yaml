@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 513237e8-30c7-4c0d-9e46-a2834d728daf
-  mac-addresses:
+  id: d8ab8fb8-7ea4-4092-a7a2-06d0ecafffec
+  macAddresses:
   - 00:50:C2:74:A0:00/36
   manufacturer: Monitor Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MonitorE
 type: d3-device-type-assertion

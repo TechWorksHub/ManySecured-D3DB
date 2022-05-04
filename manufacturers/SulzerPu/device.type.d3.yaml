@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a3a3dfc-3a2a-4f68-ab0e-1c7544265c01
-  mac-addresses:
+  id: 9b661793-a5e1-4bfc-8d17-b686a154d8fa
+  macAddresses:
   - 54:11:2F:00:00:00/24
   manufacturer: Sulzer Pump Solutions Finland Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SulzerPu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1122b9cd-0926-477c-ac52-bb8f7209e9c6
-  mac-addresses:
+  id: 280fee42-2c26-43c3-8d65-46e0616b97d8
+  macAddresses:
   - 00:23:52:00:00:00/24
   manufacturer: DATASENSOR S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DATASENS
 type: d3-device-type-assertion

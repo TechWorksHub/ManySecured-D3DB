@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4a7c85a-fdce-4d21-9802-995d66fc4f9d
-  mac-addresses:
+  id: a3756e05-a1b4-418f-8c68-6609e2ba5e53
+  macAddresses:
   - E4:C6:2B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airware
 type: d3-device-type-assertion

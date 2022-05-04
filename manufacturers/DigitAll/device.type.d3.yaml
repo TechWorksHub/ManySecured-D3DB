@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7fe239cc-f030-4c87-947a-ab3887d98faf
-  mac-addresses:
+  id: aa30ee48-b65e-4a6e-a88d-d09233743fb5
+  macAddresses:
   - 00:0F:1C:00:00:00/24
   - 00:50:C2:09:20:00/36
   manufacturer: DigitAll World Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitAll
 type: d3-device-type-assertion

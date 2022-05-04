@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc24fc67-b547-4437-98a7-2be1276d9956
-  mac-addresses:
+  id: 6c25a02f-a323-42b0-970a-d9b007241324
+  macAddresses:
   - D8:33:7F:00:00:00/24
   manufacturer: Office FA.com Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OfficeFA
 type: d3-device-type-assertion

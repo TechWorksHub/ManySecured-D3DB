@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c745bba0-97c8-450c-8f45-a1062eaf8030
-  mac-addresses:
+  id: b2184318-ef71-4013-a294-2846eb00871e
+  macAddresses:
   - 00:08:9E:00:00:00/24
   - 1C:5F:FF:00:00:00/24
   - 40:88:E0:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - 94:47:B0:00:00:00/24
   - E0:CD:FD:00:00:00/24
   manufacturer: Beijing Enter-Net co.LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingE
 type: d3-device-type-assertion

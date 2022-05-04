@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a6f3079-ff32-4a02-89e3-375c4a15e0ec
-  mac-addresses:
+  id: 54d0f481-e5d7-4860-9312-2b15cc69185f
+  macAddresses:
   - EC:3B:F0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovelSat
 type: d3-device-type-assertion

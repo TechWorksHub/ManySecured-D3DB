@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4839ed4b-9fef-4384-a72d-1cad92451c9b
-  mac-addresses:
+  id: fe92ba38-abd8-405f-a723-ecd6db463920
+  macAddresses:
   - 94:B9:B4:00:00:00/24
   manufacturer: Aptos Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AptosTec
 type: d3-device-type-assertion

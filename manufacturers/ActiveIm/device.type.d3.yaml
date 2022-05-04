@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ded6844-bf35-4eea-964b-ca7105feeacb
-  mac-addresses:
+  id: 8e01fde8-c97e-4977-8034-2b41c222a41d
+  macAddresses:
   - 00:60:25:00:00:00/24
   manufacturer: Active Imaging Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActiveIm
 type: d3-device-type-assertion

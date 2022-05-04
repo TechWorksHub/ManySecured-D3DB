@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d109c444-b527-4e2f-bb90-7875e7f4ee17
-  mac-addresses:
+  id: ca39e784-9059-4aaf-81b3-f17bd2c5b4c4
+  macAddresses:
   - 00:50:C2:6D:40:00/36
   manufacturer: Etani Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EtaniEle
 type: d3-device-type-assertion

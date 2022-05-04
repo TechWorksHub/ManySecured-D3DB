@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74a371da-b2c5-4c54-80ae-2fb6083b4227
-  mac-addresses:
+  id: 717c09d4-ccc5-4f8c-9666-31c9eca0ec12
+  macAddresses:
   - F8:B5:68:B0:00:00/28
   manufacturer: Whizpace Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Whizpace
 type: d3-device-type-assertion

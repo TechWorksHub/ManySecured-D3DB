@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9969da37-d038-4bc2-9f62-0617c91062a7
-  mac-addresses:
+  id: 92f331aa-6c34-476c-855d-c8238d0ffbab
+  macAddresses:
   - 00:50:EB:00:00:00/24
   manufacturer: Alpha-Top Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alpha-To
 type: d3-device-type-assertion

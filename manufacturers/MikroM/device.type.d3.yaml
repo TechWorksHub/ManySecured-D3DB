@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce28036e-77a4-4c23-8cb3-384e8248f1f1
-  mac-addresses:
+  id: 6291cf27-9bfe-4bc7-a922-803ab9784cc9
+  macAddresses:
   - 00:19:6A:00:00:00/24
   manufacturer: MikroM GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MikroM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e221a7e-7831-4fa7-a81d-ed39c16e5058
-  mac-addresses:
+  id: c091b1ca-285b-4ca5-af41-ad79c350ae8d
+  macAddresses:
   - 70:A6:6A:00:00:00/24
   manufacturer: Prox Dynamics AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProxDyna
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 265eb2c9-79e2-48f9-aabb-86dca2cb8c62
-  mac-addresses:
+  id: f07b6ef5-2f5e-4252-9957-ee909b45f7b7
+  macAddresses:
   - 00:50:C2:B4:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobileye
 type: d3-device-type-assertion

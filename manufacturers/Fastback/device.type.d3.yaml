@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5129464-1562-4676-98ad-22dac82b0dde
-  mac-addresses:
+  id: ee5b7bda-e4c6-472c-a3b1-34757cf19b77
+  macAddresses:
   - 18:48:D8:00:00:00/24
   manufacturer: Fastback Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fastback
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46f0f735-1763-41ab-88c1-1a0a15c55a06
-  mac-addresses:
+  id: 1ed905f2-5f96-43c4-b0c8-10d15d442f0e
+  macAddresses:
   - 84:28:5A:00:00:00/24
   manufacturer: Saffron Solutions Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaffronS
 type: d3-device-type-assertion

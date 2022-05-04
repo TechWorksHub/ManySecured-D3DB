@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 720a3e4e-5efd-47d7-8617-b35d9c37ca52
-  mac-addresses:
+  id: f24e0bc9-cda4-42d9-b713-7c4ae6dfa92f
+  macAddresses:
   - 00:D0:76:00:00:00/24
   manufacturer: Bank of America
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BankAmer
 type: d3-device-type-assertion

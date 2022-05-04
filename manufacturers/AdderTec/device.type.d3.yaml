@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b364ac0-a98c-4b5f-b6e3-c64742067a8b
-  mac-addresses:
+  id: 1e1d9c86-dbe4-4c97-a5d6-a9b6d8218f90
+  macAddresses:
   - 00:0F:58:00:00:00/24
   manufacturer: Adder Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdderTec
 type: d3-device-type-assertion

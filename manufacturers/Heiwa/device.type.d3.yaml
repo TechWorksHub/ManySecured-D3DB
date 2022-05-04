@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45d0340e-eeb9-482a-87f9-a465deca6762
-  mac-addresses:
+  id: c04eea66-7cac-4a1b-b4a6-e637dc934b12
+  macAddresses:
   - 00:E0:15:00:00:00/24
   manufacturer: Heiwa Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Heiwa
 type: d3-device-type-assertion

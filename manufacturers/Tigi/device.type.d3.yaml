@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a088f883-bcae-45e7-96f7-2eb0c3a772e7
-  mac-addresses:
+  id: 49bcfa8f-45a3-4f39-94d7-0d730fdae171
+  macAddresses:
   - 00:17:93:00:00:00/24
   manufacturer: Tigi Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tigi
 type: d3-device-type-assertion

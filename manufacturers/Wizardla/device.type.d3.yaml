@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3634b037-7407-46aa-8504-2223e1afc59a
-  mac-addresses:
+  id: 4908dcba-f8f7-4a97-a16c-5e1cb750918b
+  macAddresses:
   - 50:F9:08:00:00:00/24
   manufacturer: Wizardlab Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wizardla
 type: d3-device-type-assertion

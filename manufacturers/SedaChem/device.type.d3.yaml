@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7d1e5e2-1f5b-4808-867d-cc1f4414e0c3
-  mac-addresses:
+  id: 993ad5da-c1ff-46c8-bf45-646163fd8bce
+  macAddresses:
   - 08:F8:0D:60:00:00/28
   manufacturer: Seda Chemical Products Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SedaChem
 type: d3-device-type-assertion

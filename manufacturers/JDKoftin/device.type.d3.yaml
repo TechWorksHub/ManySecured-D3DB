@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58b985a2-8fb8-42c2-8b62-a1c2d8a2f5b7
-  mac-addresses:
+  id: 107b4ab8-7949-4ae0-a380-51b3377ca06c
+  macAddresses:
   - 70:B3:D5:ED:C0:00/36
   manufacturer: J.D. Koftinoff Software, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JDKoftin
 type: d3-device-type-assertion

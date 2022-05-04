@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4cefc6c-af57-4da6-bf3d-631e1bdc3ab5
-  mac-addresses:
+  id: 47403557-1187-44ed-8b29-a912dde7a60e
+  macAddresses:
   - 00:0C:FC:00:00:00/24
   manufacturer: S2io Technologies Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S2ioTech
 type: d3-device-type-assertion

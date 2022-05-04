@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e174688c-0583-4f60-8f7c-7f2aee78bfbf
-  mac-addresses:
+  id: 633d903e-6aeb-4e0c-a2c9-6cab34d1c0e0
+  macAddresses:
   - E8:09:59:00:00:00/24
   manufacturer: Guoguang Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Guoguang
 type: d3-device-type-assertion

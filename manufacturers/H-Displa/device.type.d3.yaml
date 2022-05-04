@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 942e671f-4b52-43d6-acbf-ef0e30bbd9b5
-  mac-addresses:
+  id: 774db988-ea4b-4709-b4a8-d26c3fb8d059
+  macAddresses:
   - E8:C2:29:00:00:00/24
   manufacturer: H-Displays (MSC) Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H-Displa
 type: d3-device-type-assertion

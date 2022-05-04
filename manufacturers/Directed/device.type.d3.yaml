@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4a6063e-88c3-4c35-92ce-4adf5d4c4bb1
-  mac-addresses:
+  id: 4ebed1c6-30a6-4ddf-9dbd-d4a1c33c1f8c
+  macAddresses:
   - FC:68:3E:00:00:00/24
   manufacturer: Directed Perception, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Directed
 type: d3-device-type-assertion

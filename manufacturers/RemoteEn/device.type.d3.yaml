@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f40a9dc-5c02-4bd3-b0e6-e83cfd0718d2
-  mac-addresses:
+  id: 56e165a5-c2d1-4ec3-a86e-49d327df8cfc
+  macAddresses:
   - 18:D7:93:40:00:00/28
   manufacturer: Remote Engineer B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RemoteEn
 type: d3-device-type-assertion

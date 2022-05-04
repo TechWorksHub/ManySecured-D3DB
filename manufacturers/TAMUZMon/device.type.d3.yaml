@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8688af78-36a0-46bc-91ea-3164c87fc78d
-  mac-addresses:
+  id: 277df937-aaf2-48f1-8c4f-ba5bec1a1964
+  macAddresses:
   - 00:22:DF:00:00:00/24
   manufacturer: TAMUZ Monitors
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TAMUZMon
 type: d3-device-type-assertion

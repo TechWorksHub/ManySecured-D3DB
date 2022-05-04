@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba87f2f5-814a-489a-bc8f-1d468c94ca66
-  mac-addresses:
+  id: ebaa7dbc-08cb-4aa1-bca2-4243cc65d076
+  macAddresses:
   - 00:50:C2:9A:40:00/36
   manufacturer: Entwicklung Hard- & Software
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Entwickl
 type: d3-device-type-assertion

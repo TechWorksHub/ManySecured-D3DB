@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8d6d335-4a57-4ab9-a595-fec5475e1823
-  mac-addresses:
+  id: a3e42bdf-305a-4b4f-85ab-da5837fd0fca
+  macAddresses:
   - 00:05:E9:00:00:00/24
   manufacturer: Unicess Network, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnicessN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67aa9372-322d-48ab-b7ec-65580901afc6
-  mac-addresses:
+  id: eb484937-ea39-4254-8152-ad1b11541ada
+  macAddresses:
   - 00:19:31:00:00:00/24
   manufacturer: Balluff GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Balluff
 type: d3-device-type-assertion

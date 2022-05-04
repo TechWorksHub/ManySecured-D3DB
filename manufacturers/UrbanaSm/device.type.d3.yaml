@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76649723-e28c-446d-b4e4-75008403c660
-  mac-addresses:
+  id: 6dc9d5d9-f424-4a83-8873-ef2dd9719e42
+  macAddresses:
   - 70:B3:D5:22:40:00/36
   manufacturer: Urbana Smart Solutions Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UrbanaSm
 type: d3-device-type-assertion

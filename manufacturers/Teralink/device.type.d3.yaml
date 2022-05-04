@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e96593c-317c-4fac-a7ee-3c9b696ac9ad
-  mac-addresses:
+  id: e73ed5d5-7af1-4c05-aa97-75fa1e80977d
+  macAddresses:
   - 00:0B:66:00:00:00/24
   manufacturer: Teralink Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teralink
 type: d3-device-type-assertion

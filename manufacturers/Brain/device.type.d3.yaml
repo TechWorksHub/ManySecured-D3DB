@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69927988-a77b-413c-9ec8-6e0fbb907126
-  mac-addresses:
+  id: 5677723e-47c0-46ad-83b1-dc684ca8ed62
+  macAddresses:
   - 70:71:B3:00:00:00/24
   manufacturer: Brain Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brain
 type: d3-device-type-assertion

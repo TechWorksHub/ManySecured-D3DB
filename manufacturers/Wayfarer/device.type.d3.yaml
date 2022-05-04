@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c2d16ae-e8b1-44aa-a3cb-69bc7411cdb1
-  mac-addresses:
+  id: 44960f1a-0474-4e35-a7ca-c0d429489782
+  macAddresses:
   - 00:1A:09:00:00:00/24
   manufacturer: Wayfarer Transit Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wayfarer
 type: d3-device-type-assertion

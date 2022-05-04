@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41df8e82-eaa9-4a76-9792-ab1044fee9c5
-  mac-addresses:
+  id: 76f5e089-2724-455b-8a4a-05f9c8078507
+  macAddresses:
   - 78:C2:C0:A0:00:00/28
   manufacturer: Ombitron, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ombitron
 type: d3-device-type-assertion

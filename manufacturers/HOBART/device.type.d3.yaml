@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a89541c2-ba15-499f-a5b9-085243cd2bfc
-  mac-addresses:
+  id: dbe3647d-6c06-40b7-bfc5-4215115b4aa0
+  macAddresses:
   - 38:3A:21:10:00:00/28
   manufacturer: HOBART GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HOBART
 type: d3-device-type-assertion

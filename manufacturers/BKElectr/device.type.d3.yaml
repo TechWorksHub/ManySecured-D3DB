@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ceb53709-91bc-41f6-9269-fb8d0ff54963
-  mac-addresses:
+  id: d51b9241-c9e2-4d46-9e4b-a4af75130ee0
+  macAddresses:
   - 40:97:D1:00:00:00/24
   manufacturer: BK Electronics cc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BKElectr
 type: d3-device-type-assertion

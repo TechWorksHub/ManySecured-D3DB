@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae363b74-86a8-46bd-aabe-05c0cb2043d1
-  mac-addresses:
+  id: 6f82f89d-d52c-4753-8d0b-541ebaf731a7
+  macAddresses:
   - 00:0D:75:00:00:00/24
   manufacturer: Kobian Pte Ltd - Taiwan Branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KobianPt
 type: d3-device-type-assertion

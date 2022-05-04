@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3bb4a989-c278-45f5-963e-a4d38050561f
-  mac-addresses:
+  id: c9283897-fad2-411e-8fc9-aee2398ef934
+  macAddresses:
   - 00:50:F7:00:00:00/24
   manufacturer: Venture Manufacturing (Singapore) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VentureM
 type: d3-device-type-assertion

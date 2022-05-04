@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2e65226-396d-4c36-b892-d573b63be1e7
-  mac-addresses:
+  id: 60a411ab-c5d2-471a-b01b-a660efc2d9d3
+  macAddresses:
   - A4:3B:FA:30:00:00/28
   manufacturer: Circus World Displays Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CircusWo
 type: d3-device-type-assertion

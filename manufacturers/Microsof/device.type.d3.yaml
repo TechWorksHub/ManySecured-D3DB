@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 443ae792-1b4d-4345-a9e9-954b7ed78846
-  mac-addresses:
+  id: 8e24d87e-f72a-4610-8814-108740c89c69
+  macAddresses:
   - 00:03:FF:00:00:00/24
   - 00:0D:3A:00:00:00/24
   - 00:12:5A:00:00:00/24
@@ -88,6 +88,6 @@ credentialSubject:
   - F0:6E:0B:00:00:00/24
   - F4:6A:D7:00:00:00/24
   manufacturer: Microsoft Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microsof
 type: d3-device-type-assertion

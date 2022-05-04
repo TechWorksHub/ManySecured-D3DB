@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b7ff15d6-6638-4e69-a586-4c5d0e35fc63
-  mac-addresses:
+  id: 3885f7ef-ffd7-4653-a2ab-f5a112290613
+  macAddresses:
   - 00:0E:F4:00:00:00/24
   - 80:AD:67:00:00:00/24
   manufacturer: Kasda Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KasdaNet
 type: d3-device-type-assertion

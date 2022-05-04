@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddf2784c-295c-4c92-86b7-3a671709e762
-  mac-addresses:
+  id: f6a02e9e-2cf9-4540-ad56-85c5e72c85f5
+  macAddresses:
   - 58:34:3B:00:00:00/24
   manufacturer: Glovast Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlovastT
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a7917c05-47a8-478f-badb-64b54ca6a38e
-  mac-addresses:
+  id: 9f9c01ff-3966-45e5-9147-0c5bc448e3ae
+  macAddresses:
   - 00:0F:D7:00:00:00/24
   - 00:19:50:00:00:00/24
   manufacturer: Harman Music Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HarmanMu
 type: d3-device-type-assertion

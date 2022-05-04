@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8ba822a-3f40-4913-af1b-70efd026b7fe
-  mac-addresses:
+  id: da1a5004-4654-4ce3-91ff-906806b27645
+  macAddresses:
   - C0:84:88:00:00:00/24
   manufacturer: Finis Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Finis
 type: d3-device-type-assertion

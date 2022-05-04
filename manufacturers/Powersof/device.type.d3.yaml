@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63aa9ba2-7c14-4dc0-9e6c-441793ba6464
-  mac-addresses:
+  id: dce4dded-b663-4f66-975d-da2a26376e8f
+  macAddresses:
   - 00:21:84:00:00:00/24
   manufacturer: Powersoft Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powersof
 type: d3-device-type-assertion

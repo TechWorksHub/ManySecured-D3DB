@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be6bfe74-f78f-4657-92e2-9ea6a9d16a29
-  mac-addresses:
+  id: 3eacc2f1-b4fe-4318-abb6-8c98d05ad904
+  macAddresses:
   - 70:B3:D5:1A:A0:00/36
   manufacturer: Echo Ridge, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EchoRidg
 type: d3-device-type-assertion

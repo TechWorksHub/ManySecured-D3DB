@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e15f3d67-9526-470f-a69c-114b8de1d97c
-  mac-addresses:
+  id: d190b7a9-ee96-43f9-b509-d6332245234a
+  macAddresses:
   - 0C:B9:12:00:00:00/24
   manufacturer: JM-DATA GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JM-DATA
 type: d3-device-type-assertion

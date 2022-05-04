@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e0c5a0e-548c-4b67-b7c5-d5251f8b7963
-  mac-addresses:
+  id: dfd1f428-c225-47f1-aec0-9d7f8c2cb2df
+  macAddresses:
   - 74:6B:82:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Movek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3271a080-ab11-4232-9ec3-8e337bbbcdae
-  mac-addresses:
+  id: d98727d3-0a7e-4b43-8ee6-d394aef91337
+  macAddresses:
   - 70:B3:D5:AF:D0:00/36
   manufacturer: dongsheng
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dongshen
 type: d3-device-type-assertion

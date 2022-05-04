@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b00c473a-6c3e-4d92-bfdf-eff313d0071f
-  mac-addresses:
+  id: ef7f4c6d-61e6-4058-9911-9571e30f7b01
+  macAddresses:
   - 70:B3:D5:23:80:00/36
   manufacturer: Arete Associates
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AreteAss
 type: d3-device-type-assertion

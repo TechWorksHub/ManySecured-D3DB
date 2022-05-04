@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 227b3e97-bc79-404a-a05d-9b098879a888
-  mac-addresses:
+  id: cf71070b-d752-40b6-88b4-037a251ce219
+  macAddresses:
   - 00:1A:5B:00:00:00/24
   manufacturer: NetCare Service Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetCareS
 type: d3-device-type-assertion

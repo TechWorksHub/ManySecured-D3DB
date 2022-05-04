@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60cc7ea0-7e35-4aea-9567-817e4631542e
-  mac-addresses:
+  id: 8f3526c8-036f-4692-a243-44f5b6fbcf79
+  macAddresses:
   - 40:A3:6B:D0:00:00/28
   manufacturer: FAOD Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FAOD
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b16ffa56-78d8-4425-89ec-a661dac6a16f
-  mac-addresses:
+  id: 8e6174b1-c169-48e1-9d5a-3ad26a120405
+  macAddresses:
   - 00:22:CD:00:00:00/24
   manufacturer: Ared Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AredTech
 type: d3-device-type-assertion

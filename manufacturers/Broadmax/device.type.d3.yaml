@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdb5697b-3ca4-4a16-964e-b49a1b2825d4
-  mac-addresses:
+  id: fd69e8ce-04a0-4f9d-9bb7-24dd2b9f15bb
+  macAddresses:
   - 00:04:A8:00:00:00/24
   manufacturer: Broadmax Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadmax
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67ade941-b803-4c53-b0fe-3825522cc4fe
-  mac-addresses:
+  id: 8eb260e0-7f12-4a7a-84a3-69579d33125b
+  macAddresses:
   - 00:40:73:00:00:00/24
   manufacturer: Bass Associates
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BassAsso
 type: d3-device-type-assertion

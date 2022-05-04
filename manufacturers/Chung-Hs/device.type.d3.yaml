@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fd1e875-bf2f-4e1a-a2ed-15ab92b5cfc1
-  mac-addresses:
+  id: e5b75003-2329-4fe0-916a-45342b80195d
+  macAddresses:
   - 00:0F:2D:00:00:00/24
   manufacturer: Chung-Hsin Electric & Machinery Mfg.Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chung-Hs
 type: d3-device-type-assertion

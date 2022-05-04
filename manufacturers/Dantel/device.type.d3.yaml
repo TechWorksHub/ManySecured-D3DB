@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7602c0ed-18b7-44a2-be59-63f3650af5eb
-  mac-addresses:
+  id: 5e3c9435-d1c6-4e14-9cdd-6e2026e4bcd7
+  macAddresses:
   - 00:20:E9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dantel
 type: d3-device-type-assertion

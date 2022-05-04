@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a1947c3-ca4b-409d-ad34-231c54f9ab6e
-  mac-addresses:
+  id: 926c1a4f-961c-4638-9a5b-2bda915240f7
+  macAddresses:
   - 00:50:C2:C0:80:00/36
   manufacturer: juiceboss
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: juicebos
 type: d3-device-type-assertion

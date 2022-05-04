@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17868336-717e-48bd-91d6-5d746f042e09
-  mac-addresses:
+  id: 8d1f9cf8-7e1f-47e5-a644-8dc426978577
+  macAddresses:
   - 00:1A:0C:00:00:00/24
   manufacturer: Swe-Dish Satellite Systems AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swe-Dish
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db88a1c9-a5b2-41ba-867d-2199eccae116
-  mac-addresses:
+  id: 72a42ce3-90f6-4b3e-a276-799fa04b1c4d
+  macAddresses:
   - 94:8B:03:00:00:00/24
   manufacturer: EAGET Innovation and Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EAGETInn
 type: d3-device-type-assertion

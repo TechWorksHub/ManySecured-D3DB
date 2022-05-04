@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5131475-9b08-43bf-9ed4-64b21c119297
-  mac-addresses:
+  id: 800d8d6c-f598-4ae2-907b-d5a9b2c607d3
+  macAddresses:
   - 1C:57:D8:00:00:00/24
   manufacturer: Kraftway Corporation PLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kraftway
 type: d3-device-type-assertion

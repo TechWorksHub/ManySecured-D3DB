@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04baa435-c9d3-45e6-a272-41269f0bc58c
-  mac-addresses:
+  id: d4f4246b-1617-45ea-96a4-a36d0f898226
+  macAddresses:
   - 00:02:66:00:00:00/24
   manufacturer: Thermalogic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thermalo
 type: d3-device-type-assertion

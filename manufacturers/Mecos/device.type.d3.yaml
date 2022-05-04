@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4550e87f-150b-4a1d-9eb4-1f8169db1acb
-  mac-addresses:
+  id: 3a543406-924b-47e4-add6-b38346dd15e9
+  macAddresses:
   - 00:50:C2:98:D0:00/36
   manufacturer: Mecos AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mecos
 type: d3-device-type-assertion

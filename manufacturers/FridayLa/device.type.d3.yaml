@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4768308-f1d5-451e-83f9-ab21b0e3b4ba
-  mac-addresses:
+  id: e9c4c3d9-b81b-4a53-b1f4-200d99d6ddb4
+  macAddresses:
   - A0:3E:6B:50:00:00/28
   manufacturer: Friday Lab, UAB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FridayLa
 type: d3-device-type-assertion

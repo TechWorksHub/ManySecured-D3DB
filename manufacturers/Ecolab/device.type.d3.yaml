@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb479a40-3ea9-44c6-9564-a65a5cdff554
-  mac-addresses:
+  id: 0d80c312-85d0-437b-be97-ab2e8ec0bae9
+  macAddresses:
   - 00:1E:12:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ecolab
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 546ff2fc-dc49-4f2c-a5be-fa118f895e91
-  mac-addresses:
+  id: 86e5ccf0-1b0b-40a5-b6c0-f5c9d7f30e9d
+  macAddresses:
   - A4:05:9E:00:00:00/24
   manufacturer: STA Infinity LLP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STAInfin
 type: d3-device-type-assertion

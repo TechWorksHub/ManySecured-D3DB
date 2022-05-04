@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62d40411-d2ff-4e21-9546-a8a821d3ecd4
-  mac-addresses:
+  id: ce4b290a-5be9-4545-a28b-19350762e92b
+  macAddresses:
   - FC:14:99:00:00:00/24
   manufacturer: Aimore Acoustics Incorporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AimoreAc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c460386-d4e2-4504-80a3-3639a0692c53
-  mac-addresses:
+  id: c28936f2-15a9-44f3-8bb1-98d1f4a00ed1
+  macAddresses:
   - 00:0F:41:00:00:00/24
   manufacturer: Zipher Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zipher
 type: d3-device-type-assertion

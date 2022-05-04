@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c25b99e5-89b7-4b3b-9595-abede6579bd0
-  mac-addresses:
+  id: 886e91bf-b0c5-4d73-a9ac-9d0f0583e7b7
+  macAddresses:
   - 00:50:C2:B2:10:00/36
   manufacturer: Phytron-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phytron-
 type: d3-device-type-assertion

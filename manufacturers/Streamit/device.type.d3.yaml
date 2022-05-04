@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91deeac6-63f6-4b5c-b403-8b2f9fca114e
-  mac-addresses:
+  id: 454bc861-9c81-4d14-aa25-ffa28fde75e7
+  macAddresses:
   - 00:11:28:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Streamit
 type: d3-device-type-assertion

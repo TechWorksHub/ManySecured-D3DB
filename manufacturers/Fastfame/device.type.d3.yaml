@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 273af5d3-4501-4640-a128-2c03cf46943d
-  mac-addresses:
+  id: 680cce11-3793-42a4-91d8-9a8da4042d18
+  macAddresses:
   - 00:03:88:00:00:00/24
   manufacturer: Fastfame Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fastfame
 type: d3-device-type-assertion

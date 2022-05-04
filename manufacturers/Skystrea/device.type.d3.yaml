@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd419ad2-cfec-4147-8ed2-df5039c24846
-  mac-addresses:
+  id: 09537766-9bbb-439f-9164-27b814fc41b3
+  macAddresses:
   - 00:30:1D:00:00:00/24
   manufacturer: Skystream, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skystrea
 type: d3-device-type-assertion

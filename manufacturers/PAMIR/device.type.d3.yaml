@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 995e65dc-73c8-4649-80fd-a5e59c5e8a1f
-  mac-addresses:
+  id: fc8b9309-1263-4340-aca5-972fc328d2f2
+  macAddresses:
   - 70:B3:D5:D9:30:00/36
   manufacturer: PAMIR Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PAMIR
 type: d3-device-type-assertion

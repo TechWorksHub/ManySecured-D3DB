@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f68bf3c3-c88e-4773-b460-f05098df0437
-  mac-addresses:
+  id: 96c18ac8-97af-4203-b838-b6bc6ce16d59
+  macAddresses:
   - 70:B3:D5:95:50:00/36
   manufacturer: Dynacard Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dynacard
 type: d3-device-type-assertion

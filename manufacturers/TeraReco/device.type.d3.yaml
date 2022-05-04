@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 948301d1-281c-4685-a807-553269c00b65
-  mac-addresses:
+  id: 843865f3-51e8-4401-b494-c019ce7d7103
+  macAddresses:
   - 00:15:CA:00:00:00/24
   manufacturer: TeraRecon, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeraReco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd3dbc04-22a2-4d4a-99d2-07dd7bee833a
-  mac-addresses:
+  id: 86190e7b-1587-496d-a8e6-31290a5b5d2a
+  macAddresses:
   - 70:B3:D5:02:20:00/36
   manufacturer: Ravelin Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ravelin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94d239b8-e3b3-4aac-ac6c-369388940e65
-  mac-addresses:
+  id: 096870e1-6467-4319-831f-d738f2483c51
+  macAddresses:
   - 00:00:BE:00:00:00/24
   manufacturer: The Nti Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NtiGroup
 type: d3-device-type-assertion

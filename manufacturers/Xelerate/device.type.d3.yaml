@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36c0c2b9-61da-4d1d-a8dd-d3414f86499f
-  mac-addresses:
+  id: b8217201-55b6-4542-8584-805c493baec2
+  macAddresses:
   - 00:50:C2:8A:F0:00/36
   manufacturer: Xelerated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xelerate
 type: d3-device-type-assertion

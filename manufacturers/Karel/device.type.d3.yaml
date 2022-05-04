@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2152273e-75f6-4341-a61d-d6f3793d04f6
-  mac-addresses:
+  id: fd774f72-0f5f-45c3-a87c-968759ab4b0d
+  macAddresses:
   - 00:08:D1:00:00:00/24
   manufacturer: Karel Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Karel
 type: d3-device-type-assertion

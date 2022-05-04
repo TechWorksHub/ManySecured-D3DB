@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2452b665-5975-4e3b-808c-741cf6b16c06
-  mac-addresses:
+  id: c5e3394f-b490-42f1-9676-9412909d9f46
+  macAddresses:
   - 00:1A:F3:00:00:00/24
   manufacturer: Samyoung Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Samyoung
 type: d3-device-type-assertion

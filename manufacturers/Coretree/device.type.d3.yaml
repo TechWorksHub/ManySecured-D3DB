@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f44934f1-6437-4038-a2ae-cccc0eb909ca
-  mac-addresses:
+  id: c71a3796-5091-49a9-b418-f91a14eb59df
+  macAddresses:
   - 00:1F:FA:00:00:00/24
   manufacturer: Coretree, Co, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coretree
 type: d3-device-type-assertion

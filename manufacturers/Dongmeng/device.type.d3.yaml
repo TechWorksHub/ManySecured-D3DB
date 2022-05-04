@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f6b5d59-b5d7-456e-89a9-20f47ae08a7e
-  mac-addresses:
+  id: 2dc58920-b90b-4725-a947-dee483e4ab98
+  macAddresses:
   - C0:FB:F9:80:00:00/28
   manufacturer: Dongmengling
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dongmeng
 type: d3-device-type-assertion

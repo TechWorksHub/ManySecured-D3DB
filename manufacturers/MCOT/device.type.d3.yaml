@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fbda1c7-0c4b-4264-bf9d-2eecee064367
-  mac-addresses:
+  id: 3d51a554-a15a-42c6-a52c-20a1cacd8da3
+  macAddresses:
   - A4:56:1B:00:00:00/24
   manufacturer: MCOT Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCOT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a04554a-0050-4931-8deb-f9bb56820d36
-  mac-addresses:
+  id: 8ef21d7b-55fd-4aa3-b42e-8f3fb8518dc2
+  macAddresses:
   - 00:07:78:00:00:00/24
   manufacturer: GERSTEL GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GERSTEL
 type: d3-device-type-assertion

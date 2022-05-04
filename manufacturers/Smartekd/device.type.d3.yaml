@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8940ad22-fdb3-412d-865a-f8b0d8fb82a0
-  mac-addresses:
+  id: 0b43ec95-68b3-4a6a-8710-f44fb9e06970
+  macAddresses:
   - 00:50:C2:70:80:00/36
   manufacturer: Smartek d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartekd
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62940382-bbab-42ce-aa53-290c38fb0682
-  mac-addresses:
+  id: d4a1a27f-2e4a-46f6-9c64-a5f875f7b240
+  macAddresses:
   - 00:D0:4E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logibag
 type: d3-device-type-assertion

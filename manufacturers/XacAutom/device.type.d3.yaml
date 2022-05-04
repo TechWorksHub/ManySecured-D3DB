@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da601bea-a61d-4008-8e55-7e55529caba0
-  mac-addresses:
+  id: 2932a35c-d1c7-43e9-b36c-c402cbdee9d6
+  macAddresses:
   - 00:12:4E:00:00:00/24
   manufacturer: Xac Automation Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XacAutom
 type: d3-device-type-assertion

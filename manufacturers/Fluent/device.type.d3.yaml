@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d25e576b-1fe3-47e8-bd4d-16bbced8925a
-  mac-addresses:
+  id: a3a9a78b-4336-4b4c-bfce-9527b3fd7afe
+  macAddresses:
   - 00:40:4E:00:00:00/24
   manufacturer: Fluent, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fluent
 type: d3-device-type-assertion

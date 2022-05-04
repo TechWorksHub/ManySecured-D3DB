@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2d2b33de-f6e6-4c65-b10b-1f872948359f
-  mac-addresses:
+  id: e1bb3b75-7c54-4b99-98bc-6777aba684a5
+  macAddresses:
   - 0C:86:29:B0:00:00/28
   - 70:B3:D5:17:50:00/36
   manufacturer: Akribis Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Akribis
 type: d3-device-type-assertion

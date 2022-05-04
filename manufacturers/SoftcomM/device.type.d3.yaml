@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a881d8cf-fa78-458e-bc8a-de67cf5646f9
-  mac-addresses:
+  id: 61da671a-daac-4acb-9d8f-9c5d02ef1e27
+  macAddresses:
   - 00:90:89:00:00:00/24
   manufacturer: Softcom Microsystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SoftcomM
 type: d3-device-type-assertion

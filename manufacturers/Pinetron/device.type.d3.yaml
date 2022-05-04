@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd195b91-ed09-4b8e-806f-0a320ec2358c
-  mac-addresses:
+  id: e4399a9b-82e3-40fe-8bc9-1803c7135b9e
+  macAddresses:
   - 00:02:F1:00:00:00/24
   manufacturer: Pinetron Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pinetron
 type: d3-device-type-assertion

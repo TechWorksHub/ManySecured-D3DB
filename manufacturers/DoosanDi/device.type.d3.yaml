@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a7fdbcf-ad86-4850-ae23-7b4dcd7f1b46
-  mac-addresses:
+  id: 06c0a6c7-8f83-441e-b668-5c6df92f7a58
+  macAddresses:
   - 70:B3:D5:B7:B0:00/36
   manufacturer: Doosan Digital Innovation America
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DoosanDi
 type: d3-device-type-assertion

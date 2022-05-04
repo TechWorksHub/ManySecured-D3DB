@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b5fec21-b451-4888-acaf-c1aaf4cdd113
-  mac-addresses:
+  id: 23836ff6-ba7b-4e93-85ba-18e0e12dee1b
+  macAddresses:
   - 1C:87:74:10:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sigfox
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac348cd6-b309-4764-8800-84025b580105
-  mac-addresses:
+  id: 209c9641-2e32-4709-87dd-6b081a68446b
+  macAddresses:
   - 00:50:C2:44:10:00/36
   manufacturer: Sammi Information Systems Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SammiInf
 type: d3-device-type-assertion

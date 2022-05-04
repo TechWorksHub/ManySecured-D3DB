@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 684c91dd-b227-4232-91e3-1053d3925284
-  mac-addresses:
+  id: 56f21a93-0629-4eab-bd86-ccc8668e29ff
+  macAddresses:
   - 00:00:0D:00:00:00/24
   manufacturer: Fibronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fibronic
 type: d3-device-type-assertion

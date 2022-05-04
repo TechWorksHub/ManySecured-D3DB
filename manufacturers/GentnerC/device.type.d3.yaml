@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33cfbfa5-b2d4-468f-80fc-269ef1ba6649
-  mac-addresses:
+  id: e4d025f1-3fdc-4b17-9a3a-5bab3282566a
+  macAddresses:
   - 00:06:24:00:00:00/24
   manufacturer: Gentner Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GentnerC
 type: d3-device-type-assertion

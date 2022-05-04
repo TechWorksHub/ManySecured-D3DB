@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbc96e37-7c2f-4522-bfba-ed473c850f68
-  mac-addresses:
+  id: ebf4c622-beff-420b-94c0-c81b96346d76
+  macAddresses:
   - CC:C2:61:C0:00:00/28
   manufacturer: Nortek Security & Control
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NortekSe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b707a7b4-d373-429f-b827-1d8f2e20aacb
-  mac-addresses:
+  id: a65c818c-57d2-4488-a7a1-26b8de3bd713
+  macAddresses:
   - DC:F0:90:00:00:00/24
   manufacturer: Nubia Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NubiaTec
 type: d3-device-type-assertion

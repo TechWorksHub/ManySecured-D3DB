@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6788a3f3-cbad-4069-af46-6ad105419c10
-  mac-addresses:
+  id: 8b8e0502-8d74-4f08-9b98-74caab0988e0
+  macAddresses:
   - 18:D7:93:B0:00:00/28
   - 70:B3:D5:1A:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcoG
 type: d3-device-type-assertion

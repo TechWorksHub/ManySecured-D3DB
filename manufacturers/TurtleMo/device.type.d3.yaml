@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61debb75-eec0-4bc1-9455-422a1fe60d8b
-  mac-addresses:
+  id: 08004ea3-b2a4-4625-834a-b99d440fbbbb
+  macAddresses:
   - 00:50:C2:02:E0:00/36
   manufacturer: Turtle Mountain Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TurtleMo
 type: d3-device-type-assertion

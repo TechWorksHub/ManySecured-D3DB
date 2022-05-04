@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8179bc4e-876f-4405-837c-c1aff882a60d
-  mac-addresses:
+  id: 40899201-b8bd-4e84-8500-77de3051e00d
+  macAddresses:
   - 00:0E:10:00:00:00/24
   manufacturer: C-guys, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C-guys
 type: d3-device-type-assertion

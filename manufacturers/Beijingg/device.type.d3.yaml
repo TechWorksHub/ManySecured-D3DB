@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84c9ae8f-276d-43b2-89cf-860f98b3de6c
-  mac-addresses:
+  id: b9bf841c-171a-40b2-b480-79304863cc6c
+  macAddresses:
   - 44:6F:D8:B0:00:00/28
   manufacturer: Beijing gpthink technology co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beijingg
 type: d3-device-type-assertion

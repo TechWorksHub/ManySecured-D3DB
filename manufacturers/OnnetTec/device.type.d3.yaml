@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4a6a86fb-1dff-4fac-bd51-6360aa9c49dc
-  mac-addresses:
+  id: c93bf9bf-5c05-4dd3-895a-2154efecc8ab
+  macAddresses:
   - 00:1B:C5:08:70:00/36
   - B8:60:91:00:00:00/24
   manufacturer: Onnet Technologies and Innovations LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnnetTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf31e553-3fe0-4dcd-b0e7-49e3d7724ccf
-  mac-addresses:
+  id: 177d6230-c0c2-47bd-82b1-dc71c37ae230
+  macAddresses:
   - D0:D9:4F:C0:00:00/28
   manufacturer: Arrowave Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arrowave
 type: d3-device-type-assertion

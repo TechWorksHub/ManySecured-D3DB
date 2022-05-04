@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94dac5b8-6131-458e-af58-052397c22f79
-  mac-addresses:
+  id: feb46124-18b5-4412-ac18-dbad62ccc2d5
+  macAddresses:
   - 70:B3:D5:76:60:00/36
   manufacturer: Tirasoft Nederland
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tirasoft
 type: d3-device-type-assertion

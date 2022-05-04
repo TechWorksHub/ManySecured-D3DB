@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2fe050e-7075-4c3c-afc4-a2eb21a4952b
-  mac-addresses:
+  id: d25f7bc5-96b8-4003-a915-a860a135dfa8
+  macAddresses:
   - E8:18:63:50:00:00/28
   manufacturer: Wetek Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WetekEle
 type: d3-device-type-assertion

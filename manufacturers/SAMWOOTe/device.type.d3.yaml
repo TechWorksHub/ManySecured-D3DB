@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4de3e46-d66a-434e-9326-a5cca1877e6b
-  mac-addresses:
+  id: 7a7ce5df-aec3-433b-a899-e16f63cae05e
+  macAddresses:
   - 00:0D:D3:00:00:00/24
   manufacturer: SAMWOO Telecommunication Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAMWOOTe
 type: d3-device-type-assertion

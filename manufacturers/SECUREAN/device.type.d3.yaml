@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3e07cec-ea1a-4afd-8171-e4d03efa7c41
-  mac-addresses:
+  id: 1ff2f65d-8990-4312-bc07-a01c12f8af5c
+  macAddresses:
   - 70:B3:D5:10:B0:00/36
   manufacturer: SECUREAN CO.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SECUREAN
 type: d3-device-type-assertion

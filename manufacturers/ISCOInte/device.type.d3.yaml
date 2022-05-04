@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1821ea58-276e-4e54-a6d5-21160de8766a
-  mac-addresses:
+  id: 38697994-7e44-4e52-b375-73068cbdd3c9
+  macAddresses:
   - 00:17:12:00:00:00/24
   manufacturer: ISCO International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISCOInte
 type: d3-device-type-assertion

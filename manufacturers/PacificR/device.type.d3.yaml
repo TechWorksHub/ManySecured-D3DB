@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b58308a2-7562-4a5c-b0b1-ac5409d17466
-  mac-addresses:
+  id: cba26353-8db1-4aa8-b9f4-95c2538e6a6d
+  macAddresses:
   - 00:90:61:00:00:00/24
   manufacturer: Pacific Research & Engineering Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacificR
 type: d3-device-type-assertion

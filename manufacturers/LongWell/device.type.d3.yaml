@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87912a53-9c0f-498c-9e12-85239c28b181
-  mac-addresses:
+  id: d1814006-a468-4fd8-841a-2319f0e706f0
+  macAddresses:
   - 00:D0:70:00:00:00/24
   manufacturer: Long Well Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LongWell
 type: d3-device-type-assertion

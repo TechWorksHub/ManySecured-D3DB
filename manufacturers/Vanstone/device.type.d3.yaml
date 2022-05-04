@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce2f005d-9acc-4bc3-bbce-55579976ab16
-  mac-addresses:
+  id: 80c3e72b-66e1-44f4-b6ed-fa0bce3c5158
+  macAddresses:
   - 3C:39:E7:C0:00:00/28
   manufacturer: Vanstone Electronic (Beijing)Co,. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vanstone
 type: d3-device-type-assertion

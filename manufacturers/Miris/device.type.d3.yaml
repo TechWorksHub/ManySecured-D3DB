@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91eb64be-2d5c-428a-9657-cd0e9f817deb
-  mac-addresses:
+  id: 80da32af-3692-48ae-868e-d800d6e5c4a2
+  macAddresses:
   - 00:50:C2:F3:00:00/36
   manufacturer: Miris AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Miris
 type: d3-device-type-assertion

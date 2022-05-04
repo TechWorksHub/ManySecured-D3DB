@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aaab038-ccd7-42cf-ba5a-5aae960a3b43
-  mac-addresses:
+  id: cd6b7834-3de0-416a-b7f4-9068f5e4d164
+  macAddresses:
   - 14:ED:A5:00:00:00/24
   manufacturer: "Wa\u0308chter GmbH Sicherheitssysteme"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Wa\u0308chter"
 type: d3-device-type-assertion

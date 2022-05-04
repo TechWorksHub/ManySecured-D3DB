@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83f9423a-8e6f-4186-8319-02c60b2d72d8
-  mac-addresses:
+  id: 219f4e42-4d95-4a43-8638-cd4dd4f89acb
+  macAddresses:
   - 00:50:C2:A7:90:00/36
   manufacturer: Saintronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Saintron
 type: d3-device-type-assertion

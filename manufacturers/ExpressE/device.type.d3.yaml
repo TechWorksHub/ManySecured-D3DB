@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb28fc4c-87bf-46ab-9dd7-3269d2a157af
-  mac-addresses:
+  id: 2ba73d4b-c762-4f7e-9abb-893526ea8bbb
+  macAddresses:
   - 0C:86:29:40:00:00/28
   manufacturer: Ag Express Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExpressE
 type: d3-device-type-assertion

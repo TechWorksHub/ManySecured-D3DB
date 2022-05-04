@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d97d6655-998d-4c0e-8510-6740b8f56463
-  mac-addresses:
+  id: 8bb45e1b-79cc-4c91-93e8-f4ef9bf398ac
+  macAddresses:
   - 70:B3:D5:66:00:00/36
   manufacturer: Smart Service Technologies CO., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartSer
 type: d3-device-type-assertion

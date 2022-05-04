@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80b74c36-73de-40cd-bfce-0d1af772709d
-  mac-addresses:
+  id: 10d7e239-7511-4432-95d5-ca38191bdb9f
+  macAddresses:
   - 00:14:DE:00:00:00/24
   manufacturer: Sage Instruments Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SageInst
 type: d3-device-type-assertion

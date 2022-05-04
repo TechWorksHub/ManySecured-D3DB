@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6eb90314-77c1-47e1-99b9-b906cd4d4793
-  mac-addresses:
+  id: 409bedad-fd6d-40c6-92d3-9ca10c0ace8c
+  macAddresses:
   - D8:1B:FE:00:00:00/24
   manufacturer: Twinlinx Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Twinlinx
 type: d3-device-type-assertion

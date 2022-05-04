@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4523ef3-e0be-4a60-92fe-6908dde8bb77
-  mac-addresses:
+  id: 75b894a2-2fc2-4be9-9e7c-fe00312a63e8
+  macAddresses:
   - 00:0F:CE:00:00:00/24
   manufacturer: Kikusui Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KikusuiE
 type: d3-device-type-assertion

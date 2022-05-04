@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 888b73c5-279f-40a9-b94d-187671658441
-  mac-addresses:
+  id: 53f90e64-fea3-434d-b932-219c2644ac20
+  macAddresses:
   - 00:40:2B:00:00:00/24
   manufacturer: Trigem Computer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrigemCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 370ec0d4-a771-4680-87b1-c5d6b38dbb47
-  mac-addresses:
+  id: ecd6a5f0-35b8-48fb-b2a0-313cd65ccde7
+  macAddresses:
   - 00:0C:47:00:00:00/24
   manufacturer: SK Teletech(R&D Planning Team)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKTelete
 type: d3-device-type-assertion

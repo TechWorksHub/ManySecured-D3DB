@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d9cd604-e175-4b2c-b84c-ec30eeed8e56
-  mac-addresses:
+  id: 855063aa-6902-45d7-bafe-85e2b551843b
+  macAddresses:
   - 00:0E:B7:00:00:00/24
   manufacturer: Knovative, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Knovativ
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ad57ca6-59bc-417c-834b-c58d878a300e
-  mac-addresses:
+  id: c6e3546e-ddbd-4def-a248-88bf9ff47107
+  macAddresses:
   - 1C:19:DE:00:00:00/24
   manufacturer: eyevis GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eyevis
 type: d3-device-type-assertion

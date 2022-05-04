@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bdbb62e-859b-4311-afb7-2ad70a45344f
-  mac-addresses:
+  id: a460c9e2-d74d-4c3d-bb6e-a20064f42bc6
+  macAddresses:
   - 00:12:ED:00:00:00/24
   manufacturer: AVG Advanced Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AVGAdvan
 type: d3-device-type-assertion

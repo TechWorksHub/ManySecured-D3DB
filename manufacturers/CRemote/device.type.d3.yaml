@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e439d811-1a50-47a4-a1df-c75deb533e36
-  mac-addresses:
+  id: 152ebf7e-0a59-4e03-b514-b3420d6a6fcf
+  macAddresses:
   - B4:58:61:00:00:00/24
   manufacturer: CRemote, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRemote
 type: d3-device-type-assertion

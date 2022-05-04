@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd4a67a2-37ff-4e3e-8729-dd08715b32a4
-  mac-addresses:
+  id: bfeecb51-2e94-417e-97db-27b7d3bca07f
+  macAddresses:
   - 58:35:26:00:00:00/24
   manufacturer: Deeplet Technology Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeepletT
 type: d3-device-type-assertion

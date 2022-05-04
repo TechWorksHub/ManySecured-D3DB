@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58432889-3279-4c89-b7a5-0ddcbb61c71e
-  mac-addresses:
+  id: c93fc188-5568-4f56-b83e-30794701b7c7
+  macAddresses:
   - 00:14:0A:00:00:00/24
   manufacturer: WEPIO Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEPIO
 type: d3-device-type-assertion

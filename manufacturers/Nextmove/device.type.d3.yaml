@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 328c659c-19ee-4ade-8f3c-832971ba9255
-  mac-addresses:
+  id: 74f1b894-612c-437c-bfa7-af47089df8a2
+  macAddresses:
   - 00:50:C2:BC:90:00/36
   manufacturer: Nextmove Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nextmove
 type: d3-device-type-assertion

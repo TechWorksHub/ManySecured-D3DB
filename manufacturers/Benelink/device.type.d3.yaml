@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7c8c24c-abc5-47f9-8453-f9b31dbbeabf
-  mac-addresses:
+  id: 3986ebfb-251f-4207-b703-55e70deac7d1
+  macAddresses:
   - 08:F8:0D:90:00:00/28
   manufacturer: Benelink Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Benelink
 type: d3-device-type-assertion

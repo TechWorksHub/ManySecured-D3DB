@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61b33c5d-c295-40cd-a045-4c9917a7b794
-  mac-addresses:
+  id: e54d98e8-055f-4e6c-ba0b-ff3e125db680
+  macAddresses:
   - 54:61:EA:00:00:00/24
   manufacturer: Zaplox AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zaplox
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36345f44-fe2c-4fdb-893b-c2e6ad02c605
-  mac-addresses:
+  id: c506c339-c633-4b5d-a684-9b204dda225f
+  macAddresses:
   - F0:0E:BF:00:00:00/24
   manufacturer: ZettaHash Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZettaHas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6f8064d-55ca-40d6-92b5-6831ce8054c3
-  mac-addresses:
+  id: e58fcf41-aba0-486b-af8c-6fdc3f1de9a5
+  macAddresses:
   - 00:40:4A:00:00:00/24
   manufacturer: West Australian Department
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WestAust
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5afec794-6ca6-43dd-acba-196f75b9522a
-  mac-addresses:
+  id: 635d9b42-35ef-47b7-916a-1766da6716a8
+  macAddresses:
   - 4C:F7:37:00:00:00/24
   manufacturer: SamJi Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamJiEle
 type: d3-device-type-assertion

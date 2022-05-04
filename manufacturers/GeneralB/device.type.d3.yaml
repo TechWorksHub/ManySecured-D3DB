@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b53a3f2-4583-497f-b9de-388e78fe0ca9
-  mac-addresses:
+  id: ea60e1ed-3ecc-47ec-b413-eb1b35599d1e
+  macAddresses:
   - 00:01:B1:00:00:00/24
   manufacturer: General Bandwidth
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeneralB
 type: d3-device-type-assertion

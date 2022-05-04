@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a273441-a3b8-4ffc-a5b6-39e79d5cf912
-  mac-addresses:
+  id: a67bb3a0-a35e-47b1-ad60-076ada547a85
+  macAddresses:
   - 70:B3:D5:A6:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newshine
 type: d3-device-type-assertion

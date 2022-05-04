@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6699f438-3170-458a-a68e-967d507e1435
-  mac-addresses:
+  id: 0f3125c9-cce2-48e7-90cb-60dd05a20cc1
+  macAddresses:
   - 00:06:A7:00:00:00/24
   manufacturer: Primarion
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Primario
 type: d3-device-type-assertion

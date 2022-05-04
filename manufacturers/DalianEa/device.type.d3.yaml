@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3738e03d-ed73-483d-8c98-c078a3341422
-  mac-addresses:
+  id: 2e480715-f7e7-446e-821b-456ad30760e2
+  macAddresses:
   - 98:AA:FC:00:00:00/28
   manufacturer: Dalian Eastern Display Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DalianEa
 type: d3-device-type-assertion

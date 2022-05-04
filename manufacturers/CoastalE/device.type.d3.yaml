@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2123de99-bb6d-4bf0-9437-1b8f50d3b151
-  mac-addresses:
+  id: cd1e7832-1a1d-4189-a865-eba566955a43
+  macAddresses:
   - 00:1A:1F:00:00:00/24
   manufacturer: Coastal Environmental Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoastalE
 type: d3-device-type-assertion

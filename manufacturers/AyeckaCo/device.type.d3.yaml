@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c577d312-27e6-4ace-8e4b-f5642cac9229
-  mac-addresses:
+  id: 03aadd4e-f02f-4c21-8419-3d207c5be984
+  macAddresses:
   - CC:F6:7A:00:00:00/24
   manufacturer: Ayecka Communication Systems LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AyeckaCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5cf4c51-81b0-44a2-a21e-756730ce7105
-  mac-addresses:
+  id: 2b68b8e5-3c9e-49ef-b0d1-f48f5a3a9357
+  macAddresses:
   - 00:03:1B:00:00:00/24
   manufacturer: Cellvision Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cellvisi
 type: d3-device-type-assertion

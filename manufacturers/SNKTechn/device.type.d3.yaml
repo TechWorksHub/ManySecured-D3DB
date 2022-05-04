@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52c8b943-3e63-40a1-9c45-9af9985b60cb
-  mac-addresses:
+  id: 85ae24b0-5fab-4940-b79c-313fb08cf3ba
+  macAddresses:
   - 14:04:67:00:00:00/24
   manufacturer: SNK Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SNKTechn
 type: d3-device-type-assertion

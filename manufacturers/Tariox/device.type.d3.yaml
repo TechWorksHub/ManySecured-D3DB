@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26557be7-d504-44e1-a34d-00dd5235bbd5
-  mac-addresses:
+  id: 2c17d30f-b11c-4cdd-9f81-a1fb94d0e67e
+  macAddresses:
   - 84:25:A4:00:00:00/24
   manufacturer: Tariox Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tariox
 type: d3-device-type-assertion

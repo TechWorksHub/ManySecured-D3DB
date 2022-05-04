@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23b4427b-739b-491b-859f-9bf258a9bf30
-  mac-addresses:
+  id: b1c57d48-b6f1-4ed3-a32d-15cda8a16eb9
+  macAddresses:
   - 00:50:C2:76:30:00/36
   manufacturer: XtendWave
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XtendWav
 type: d3-device-type-assertion

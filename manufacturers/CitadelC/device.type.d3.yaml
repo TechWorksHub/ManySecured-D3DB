@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9298ceec-7b54-43b3-8c3c-c4b714fbbe8e
-  mac-addresses:
+  id: 8abbe4ac-4442-45f7-afce-d8571b1ee8a7
+  macAddresses:
   - 00:60:8A:00:00:00/24
   manufacturer: Citadel Computer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CitadelC
 type: d3-device-type-assertion

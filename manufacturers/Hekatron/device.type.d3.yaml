@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9cfe6876-d997-4dce-ba8a-7fe074282069
-  mac-addresses:
+  id: 4afd6f14-5c2d-4bd9-8507-a05e0aef225b
+  macAddresses:
   - 1C:87:76:B0:00:00/28
   manufacturer: Hekatron Vertriebs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hekatron
 type: d3-device-type-assertion

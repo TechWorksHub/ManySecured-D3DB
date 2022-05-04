@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 794de4a9-bf60-49e7-84b2-7a8551c02310
-  mac-addresses:
+  id: 730adcae-5202-40f6-9339-a24480ef8941
+  macAddresses:
   - B0:C5:CA:60:00:00/28
   manufacturer: SunTech Medical, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunTechM
 type: d3-device-type-assertion

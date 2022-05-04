@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04905241-15b9-4eb6-b511-a3f453800d90
-  mac-addresses:
+  id: 13d02f5b-1e7a-4b64-be56-fe689bb627e0
+  macAddresses:
   - 00:03:16:00:00:00/24
   manufacturer: Nobell Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NobellCo
 type: d3-device-type-assertion

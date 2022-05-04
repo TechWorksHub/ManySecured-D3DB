@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ef460f5-3aa1-41e8-9eb5-153a27b5a164
-  mac-addresses:
+  id: 1f77cf14-1bdb-4306-ac52-1d841bc42950
+  macAddresses:
   - 70:B3:D5:5F:00:00/36
   manufacturer: managee GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: managee
 type: d3-device-type-assertion

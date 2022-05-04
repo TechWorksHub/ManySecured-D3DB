@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdec6fb7-84d1-4deb-af7f-f02ceb8dcbd1
-  mac-addresses:
+  id: c05851b5-c7a0-40ab-aa32-0a4a7f4f6e89
+  macAddresses:
   - 78:AC:BF:00:00:00/24
   manufacturer: Igneous Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Igneous
 type: d3-device-type-assertion

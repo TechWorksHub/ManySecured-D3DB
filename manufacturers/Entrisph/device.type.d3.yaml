@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5139493-c507-428d-b030-bef4693d58e3
-  mac-addresses:
+  id: 8b8981ba-ff96-4d53-a74b-3d8ac1ce6a02
+  macAddresses:
   - 00:08:63:00:00:00/24
   manufacturer: Entrisphere Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Entrisph
 type: d3-device-type-assertion

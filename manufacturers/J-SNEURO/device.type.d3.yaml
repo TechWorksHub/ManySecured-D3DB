@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52a6548f-e838-42e1-bcc3-92c7e0ee4840
-  mac-addresses:
+  id: 4fd7289d-7e94-499e-a6ec-7d2e3f39b3f1
+  macAddresses:
   - 00:14:23:00:00:00/24
   manufacturer: J-S Co. NEUROCOM
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: J-SNEURO
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6c652f4-4eb1-40f6-9310-bbfe64ff2af0
-  mac-addresses:
+  id: cf847af8-6de4-43f7-ad1f-4a1de1f971cb
+  macAddresses:
   - 00:0B:21:00:00:00/24
   manufacturer: G-Star Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-StarCo
 type: d3-device-type-assertion

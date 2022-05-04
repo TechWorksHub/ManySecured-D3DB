@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ea60809-a6a7-468a-8850-eff38e80e9e3
-  mac-addresses:
+  id: ec3bb114-9fda-45d9-954f-55c3474475b3
+  macAddresses:
   - 00:50:C2:FA:00:00/36
   manufacturer: Amplus Communication Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmplusCo
 type: d3-device-type-assertion

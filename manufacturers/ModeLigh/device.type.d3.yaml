@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8e58bce-be12-4b61-8759-ac8012a456f3
-  mac-addresses:
+  id: 3bb3b4cf-6138-4809-af36-f693adc050fe
+  macAddresses:
   - 00:1C:30:00:00:00/24
   manufacturer: Mode Lighting (UK ) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ModeLigh
 type: d3-device-type-assertion

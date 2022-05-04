@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 699ba5c3-714d-4368-80aa-f5c492721587
-  mac-addresses:
+  id: 4bf7093e-c260-46da-9157-b5ccc97cf3c0
+  macAddresses:
   - 00:0D:52:00:00:00/24
   manufacturer: Comart system
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comartsy
 type: d3-device-type-assertion

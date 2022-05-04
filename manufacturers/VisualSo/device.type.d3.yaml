@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54a7687a-02f2-4faf-aeff-1ae2b4df2691
-  mac-addresses:
+  id: ad461878-11d4-4d93-9095-692bba5a74e4
+  macAddresses:
   - 00:50:C2:84:50:00/36
   manufacturer: VisualSonics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisualSo
 type: d3-device-type-assertion

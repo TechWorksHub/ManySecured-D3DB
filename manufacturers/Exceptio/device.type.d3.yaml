@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24d7ba89-3dd6-4b8b-88ef-125360b899d6
-  mac-addresses:
+  id: 2a9d75f9-7977-47b5-bef5-45b924751489
+  macAddresses:
   - 58:DC:6D:00:00:00/24
   manufacturer: Exceptional Innovation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exceptio
 type: d3-device-type-assertion

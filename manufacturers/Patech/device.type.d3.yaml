@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96770b49-fef9-4f01-b8a2-a9ce3f8fbb53
-  mac-addresses:
+  id: 6bf00d3f-539c-4695-9723-29121040896f
+  macAddresses:
   - 7C:3E:9D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Patech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f82da39-0d34-4489-a377-195ec0b73054
-  mac-addresses:
+  id: f6cfa276-0a32-4e5b-834c-d80b15b83592
+  macAddresses:
   - A0:BB:3E:80:00:00/28
   manufacturer: AutarcTech GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutarcTe
 type: d3-device-type-assertion

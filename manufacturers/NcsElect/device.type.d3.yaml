@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad5fdf1b-ff70-46c6-8812-20918ef4b088
-  mac-addresses:
+  id: 200cab19-a07b-4266-8ab5-f7ba41939c46
+  macAddresses:
   - 48:7A:F6:00:00:00/24
   manufacturer: Ncs Electrical Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NcsElect
 type: d3-device-type-assertion

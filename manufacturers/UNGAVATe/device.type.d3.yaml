@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da5f0848-5561-4e1d-b1ab-110ed5b1a449
-  mac-addresses:
+  id: ce464903-ca07-428d-9d77-52fae1aa7674
+  macAddresses:
   - 00:50:C2:D3:10:00/36
   manufacturer: UNGAVA Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UNGAVATe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34dd441a-ee4d-4df3-84f3-bae86b1aa534
-  mac-addresses:
+  id: 57167c13-348b-4aaa-a019-880e7510e77a
+  macAddresses:
   - 40:D8:55:11:E0:00/36
   manufacturer: CEMSI, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CEMSI
 type: d3-device-type-assertion

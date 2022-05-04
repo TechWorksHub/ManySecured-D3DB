@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 860e05a2-106a-447f-aca1-e2790925f365
-  mac-addresses:
+  id: aef3a29a-521f-4859-b503-bd4bb11281d5
+  macAddresses:
   - 98:02:D8:40:00:00/28
   manufacturer: Zedi, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zedi
 type: d3-device-type-assertion

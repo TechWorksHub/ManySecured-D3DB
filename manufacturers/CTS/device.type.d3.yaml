@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8294d4c2-2c2c-4ce7-a799-9b47a3d68147
-  mac-addresses:
+  id: 589eb093-afac-49f4-b852-b49e6b244e8a
+  macAddresses:
   - 94:CE:31:00:00:00/24
   manufacturer: CTS Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CTS
 type: d3-device-type-assertion

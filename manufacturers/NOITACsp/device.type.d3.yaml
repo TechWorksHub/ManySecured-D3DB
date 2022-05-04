@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afdabc68-152e-48e0-877c-5a678ce8ed03
-  mac-addresses:
+  id: 47d6bcc9-4ace-4d62-8176-31ad2427e449
+  macAddresses:
   - 38:1F:26:60:00:00/28
   manufacturer: NOITAC sp. z o.o. sp.k.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NOITACsp
 type: d3-device-type-assertion

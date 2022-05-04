@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b76f67f1-75b6-4cde-ba01-1ab0aec02bdf
-  mac-addresses:
+  id: c5e878e2-33e3-47c6-9fdd-5cf3bb3c16be
+  macAddresses:
   - 00:22:F4:00:00:00/24
   - 00:2D:B3:00:00:00/24
   - 04:E6:76:00:00:00/24
@@ -38,6 +38,6 @@ credentialSubject:
   - E0:76:D0:00:00:00/24
   - F0:23:AE:00:00:00/24
   manufacturer: AMPAK Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMPAKTec
 type: d3-device-type-assertion

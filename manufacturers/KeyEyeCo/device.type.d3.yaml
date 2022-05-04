@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dc758cf-c161-4e26-9266-e86d588415e7
-  mac-addresses:
+  id: 3c50687b-b6f1-4b4d-9735-188aef0122a3
+  macAddresses:
   - 00:13:A4:00:00:00/24
   manufacturer: KeyEye Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KeyEyeCo
 type: d3-device-type-assertion

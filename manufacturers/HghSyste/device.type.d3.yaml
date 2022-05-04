@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcd287c1-4584-4940-b363-cefce79d1841
-  mac-addresses:
+  id: eb9211cd-4fdf-4909-84d2-ce9c79f687bd
+  macAddresses:
   - 70:B3:D5:85:30:00/36
   manufacturer: Hgh Systemes Infrarouges
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HghSyste
 type: d3-device-type-assertion

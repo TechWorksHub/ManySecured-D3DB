@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c319ac0-22fe-4604-b1e7-bac51cc281f9
-  mac-addresses:
+  id: 9ac16fa7-f8c0-4b22-a815-b4384c8c4a67
+  macAddresses:
   - 70:B3:D5:A9:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Osmozis
 type: d3-device-type-assertion

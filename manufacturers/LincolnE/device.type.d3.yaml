@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df11896f-9586-4377-b011-b2de8a49f71a
-  mac-addresses:
+  id: 97cd6b7d-6a7f-4f58-b575-9d45af3d1032
+  macAddresses:
   - 00:04:EE:00:00:00/24
   manufacturer: Lincoln Electric Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LincolnE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: deec3cc7-5bb2-4cff-9aac-177b8103364a
-  mac-addresses:
+  id: 6b076592-eb80-49ce-8d57-4a685a76da5e
+  macAddresses:
   - F0:8E:DB:00:00:00/24
   manufacturer: VeloCloud Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VeloClou
 type: d3-device-type-assertion

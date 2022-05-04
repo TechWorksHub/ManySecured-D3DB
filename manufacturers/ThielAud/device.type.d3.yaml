@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa9766d6-e6eb-4421-8881-4c27eaac8cdb
-  mac-addresses:
+  id: 1c94cc43-76f7-4ad7-a795-24b4a06451bb
+  macAddresses:
   - 70:B3:D5:EB:90:00/36
   manufacturer: Thiel Audio Products Company, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThielAud
 type: d3-device-type-assertion

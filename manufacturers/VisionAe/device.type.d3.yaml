@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7db59c0-1991-44e0-b3c3-4939eca52c86
-  mac-addresses:
+  id: 62bccc6f-ad75-4330-879b-05cc161df916
+  macAddresses:
   - 00:50:C2:F1:40:00/36
   manufacturer: Vision Systems Aeronautic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisionAe
 type: d3-device-type-assertion

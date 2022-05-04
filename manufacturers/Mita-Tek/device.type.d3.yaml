@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b79dda08-dec1-4579-be19-bbf65fbad519
-  mac-addresses:
+  id: 8f8c7508-6621-4796-9962-b24a962f99a9
+  macAddresses:
   - 00:0D:6B:00:00:00/24
   - F0:32:1A:00:00:00/24
   manufacturer: Mita-Teknik A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mita-Tek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35fe64cb-6477-438f-a87a-9c0de8c3ce72
-  mac-addresses:
+  id: 367b1469-df84-4960-90f7-4492a251c9c2
+  macAddresses:
   - 00:40:3C:00:00:00/24
   manufacturer: Forks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Forks
 type: d3-device-type-assertion

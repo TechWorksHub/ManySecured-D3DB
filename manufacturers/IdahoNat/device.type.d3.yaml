@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72bd29a1-0b52-4323-afe8-8a2905446457
-  mac-addresses:
+  id: cd7ade47-6bcc-4a8a-b2f8-2d43d7a66bca
+  macAddresses:
   - FC:B7:F0:00:00:00/24
   manufacturer: Idaho National Laboratory
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IdahoNat
 type: d3-device-type-assertion

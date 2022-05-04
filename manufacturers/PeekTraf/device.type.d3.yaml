@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 6c93050b-59c2-4b3b-977f-7ce6cf6f0840
-  mac-addresses:
+  id: 26d8732f-d519-40b8-86db-4e0d42e9e55d
+  macAddresses:
   - 00:04:CC:00:00:00/24
   - 00:50:C2:8D:50:00/36
   - 00:50:C2:96:E0:00/36
@@ -26,6 +26,6 @@ credentialSubject:
   - 70:B3:D5:C3:C0:00/36
   - 70:B3:D5:C6:50:00/36
   manufacturer: Peek Traffic B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PeekTraf
 type: d3-device-type-assertion

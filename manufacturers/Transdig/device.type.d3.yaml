@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f48ce312-9fa2-481d-acb4-3772ee56c440
-  mac-addresses:
+  id: ff8d3dc0-fb15-4bcb-9227-27a0604c8022
+  macAddresses:
   - 8C:1F:64:7C:F0:00/36
   manufacturer: Transdigital Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transdig
 type: d3-device-type-assertion

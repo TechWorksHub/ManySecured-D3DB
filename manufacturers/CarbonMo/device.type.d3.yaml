@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d0c6827-8540-45e0-8454-b365f26b7839
-  mac-addresses:
+  id: 8d99a207-ec5d-4cff-b666-e1f57ed79bd6
+  macAddresses:
   - D0:9F:D9:50:00:00/28
   manufacturer: Carbon Mobile GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CarbonMo
 type: d3-device-type-assertion

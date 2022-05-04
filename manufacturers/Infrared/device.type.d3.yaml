@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a932eb7-6c6b-40c0-ae98-82c7a7560877
-  mac-addresses:
+  id: 11aca962-0037-425b-bfa9-f3c325e923af
+  macAddresses:
   - 00:21:AC:00:00:00/24
   manufacturer: Infrared Integrated Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infrared
 type: d3-device-type-assertion

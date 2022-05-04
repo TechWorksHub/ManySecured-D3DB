@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e584fe7c-fe63-4ad0-866a-38a19249cb41
-  mac-addresses:
+  id: 9d3853a2-8597-420c-84d2-8a79a5c4c120
+  macAddresses:
   - D8:ED:1C:00:00:00/24
   manufacturer: Magna Technology SL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagnaTec
 type: d3-device-type-assertion

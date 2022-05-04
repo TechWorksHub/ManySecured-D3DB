@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d276901-cc14-4ae9-88dc-2f0a08a588cf
-  mac-addresses:
+  id: 88361ada-7540-4fc0-b008-8538d69fa6e9
+  macAddresses:
   - E0:4B:45:00:00:00/24
   manufacturer: Hi-P Electronics Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hi-PElec
 type: d3-device-type-assertion

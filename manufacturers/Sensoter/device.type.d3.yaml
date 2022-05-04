@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 143f6361-6fb6-464a-8836-23d6eccf31f2
-  mac-addresses:
+  id: 82d47e91-cb2c-4bd4-a0ba-4d72f4f355fe
+  macAddresses:
   - 70:B3:D5:DC:90:00/36
   manufacturer: Sensoterra BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sensoter
 type: d3-device-type-assertion

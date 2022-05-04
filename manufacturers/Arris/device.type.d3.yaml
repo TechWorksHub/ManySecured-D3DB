@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4872f230-b03c-4e09-ab81-9acbf2795aee
-  mac-addresses:
+  id: cea56a1a-6a96-4545-bfbe-d008cbe48c92
+  macAddresses:
   - 34:2B:70:00:00:00/24
   - 70:B3:D5:98:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arris
 type: d3-device-type-assertion

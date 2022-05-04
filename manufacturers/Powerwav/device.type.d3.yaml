@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d1f8470-b623-43ab-88b1-dbe336af5201
-  mac-addresses:
+  id: 4210aab6-0b44-44fa-a48f-732527ff28f4
+  macAddresses:
   - 00:1B:6A:00:00:00/24
   manufacturer: Powerwave Technologies Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powerwav
 type: d3-device-type-assertion

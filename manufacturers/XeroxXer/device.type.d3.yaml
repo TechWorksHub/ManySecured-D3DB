@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3347f67-b547-42f4-a111-32f04af2cb98
-  mac-addresses:
+  id: 2b136509-88d4-4fc0-9e17-3f57d45362db
+  macAddresses:
   - 00:00:AA:00:00:00/24
   manufacturer: Xerox
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XeroxXer
 type: d3-device-type-assertion

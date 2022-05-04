@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a352d1b-c374-4154-96fb-4eb14d29016c
-  mac-addresses:
+  id: 6080d070-9d5b-44c9-9a7e-bb81683c43a6
+  macAddresses:
   - 38:8E:7A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autoit
 type: d3-device-type-assertion

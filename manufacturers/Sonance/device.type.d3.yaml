@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11a2ce25-bbdb-4c96-a72c-dc331278e726
-  mac-addresses:
+  id: 05113787-694b-4d36-b51b-6644a44c9a02
+  macAddresses:
   - 40:11:DC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sonance
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80cc22ac-c949-4600-866e-6160d3086627
-  mac-addresses:
+  id: 93d667ec-649b-4a8e-bc8b-fc02036504f9
+  macAddresses:
   - 4C:91:7A:10:00:00/28
   manufacturer: "Inster Tecnolog\xEDa y Comunicaciones SAU"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InsterTe
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c99e5375-55f8-4030-9476-42cb619d912f
-  mac-addresses:
+  id: 3c5c4283-f67a-43e9-8f4f-395e1a7dda1b
+  macAddresses:
   - 00:09:B0:00:00:00/24
   - 6C:72:4A:00:00:00/24
   manufacturer: Onkyo Technology K.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnkyoTec
 type: d3-device-type-assertion

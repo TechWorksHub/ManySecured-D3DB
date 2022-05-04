@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d63a466-72cc-42e0-a36f-d4bc0b9643c0
-  mac-addresses:
+  id: 105f9566-1778-487a-837a-9bf7b43f223d
+  macAddresses:
   - 70:B3:D5:25:F0:00/36
   manufacturer: Coppernic Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Copperni
 type: d3-device-type-assertion

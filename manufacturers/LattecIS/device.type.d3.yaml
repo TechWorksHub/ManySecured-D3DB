@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 533aed32-9370-4ffe-85aa-c9d037044bd2
-  mac-addresses:
+  id: e219354d-bea3-43c4-8fd5-e77c6ee653e2
+  macAddresses:
   - BC:97:40:20:00:00/28
   manufacturer: Lattec I/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LattecIS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68574384-f791-46f5-8bdb-de16b4dc442e
-  mac-addresses:
+  id: 2acab130-0276-48e5-b2c7-fc17eed2cd8c
+  macAddresses:
   - 00:1F:A2:00:00:00/24
   manufacturer: Datron World Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatronWo
 type: d3-device-type-assertion

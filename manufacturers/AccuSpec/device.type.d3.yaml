@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be17f3a1-4fbe-406d-adb3-333a482e4e47
-  mac-addresses:
+  id: 46f57e9f-1762-4845-b9d7-1bfe22ff0800
+  macAddresses:
   - 1C:3A:4F:00:00:00/24
   manufacturer: AccuSpec Electronics, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccuSpec
 type: d3-device-type-assertion

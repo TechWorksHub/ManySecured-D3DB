@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31f36cae-87db-4e2b-9586-fbd4de92195d
-  mac-addresses:
+  id: 65671946-4e09-4bad-b841-0db0958d1a5c
+  macAddresses:
   - 00:18:FD:00:00:00/24
   manufacturer: Optimal Technologies International Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptimalT
 type: d3-device-type-assertion

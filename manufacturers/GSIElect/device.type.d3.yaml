@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9031a51-e877-4c86-8658-03fcc11fb01a
-  mac-addresses:
+  id: 7ad56740-3673-43d5-a1e6-fdd86a63e82a
+  macAddresses:
   - 88:89:64:00:00:00/24
   manufacturer: GSI Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSIElect
 type: d3-device-type-assertion

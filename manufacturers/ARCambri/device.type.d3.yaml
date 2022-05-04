@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 284b0f8f-8341-4c1b-a142-aa9e96c6e4b5
-  mac-addresses:
+  id: c7b1c808-f074-4b9c-a10f-fa67c6258be3
+  macAddresses:
   - 00:1B:7C:00:00:00/24
   manufacturer: A & R Cambridge
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARCambri
 type: d3-device-type-assertion

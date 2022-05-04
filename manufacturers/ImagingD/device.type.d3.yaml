@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bed772e-a9bb-4928-b1fc-612749501aa1
-  mac-addresses:
+  id: 6bd9d384-4da7-4d29-8ba7-7889282afd07
+  macAddresses:
   - E8:5B:F0:00:00:00/24
   manufacturer: Imaging Diagnostics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImagingD
 type: d3-device-type-assertion

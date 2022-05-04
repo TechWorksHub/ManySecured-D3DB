@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d796b119-b241-4a7b-ac56-414d02555443
-  mac-addresses:
+  id: c8747b76-7037-49bb-8b4c-0f461942a9dd
+  macAddresses:
   - 3C:10:6F:00:00:00/24
   manufacturer: Albahith Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Albahith
 type: d3-device-type-assertion

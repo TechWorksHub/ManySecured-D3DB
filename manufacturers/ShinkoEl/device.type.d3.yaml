@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f417d4fc-034c-4e24-b059-62f022aef1cc
-  mac-addresses:
+  id: 018374f0-1135-4da8-acd7-f0cdd5ba8758
+  macAddresses:
   - 00:10:AE:00:00:00/24
   - 00:C0:F1:00:00:00/24
   manufacturer: Shinko Electric Industries Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShinkoEl
 type: d3-device-type-assertion

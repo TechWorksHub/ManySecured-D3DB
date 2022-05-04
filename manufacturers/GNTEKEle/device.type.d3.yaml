@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b968c38-86e7-47ea-bd7a-cdd6667ee4a8
-  mac-addresses:
+  id: 20ef403e-3e1f-4715-b9cf-4d10a85cac3b
+  macAddresses:
   - E8:80:D8:00:00:00/24
   manufacturer: GNTEK Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GNTEKEle
 type: d3-device-type-assertion

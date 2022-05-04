@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa3ebc3b-45b6-46db-99bc-0d9f10ae1fbd
-  mac-addresses:
+  id: 3212c1df-19be-461f-afed-4a1f545d9c28
+  macAddresses:
   - 18:B1:85:00:00:00/24
   manufacturer: Qiao Information Technology (Zhengzhou) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QiaoInfo
 type: d3-device-type-assertion

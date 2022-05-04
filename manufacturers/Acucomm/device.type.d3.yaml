@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9fdb3023-5d4e-40c9-810a-85a71b9b8376
-  mac-addresses:
+  id: 6577b619-b422-4024-ab3e-368e9606df09
+  macAddresses:
   - 00:90:37:00:00:00/24
   manufacturer: Acucomm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acucomm
 type: d3-device-type-assertion

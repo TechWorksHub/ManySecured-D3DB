@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 319fef72-b5bb-44b6-88e3-10bbb220d1af
-  mac-addresses:
+  id: 650034eb-e7f0-4dfa-a6c3-9946ca4fd3f9
+  macAddresses:
   - B8:25:B5:00:00:00/24
   manufacturer: Trakm8 Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trakm8
 type: d3-device-type-assertion

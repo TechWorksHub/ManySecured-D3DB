@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e1d186e-3f1c-427f-8c90-6cba4dcac06b
-  mac-addresses:
+  id: ae274543-5091-4d0d-b86e-21b42771e782
+  macAddresses:
   - F0:6E:32:00:00:00/24
   manufacturer: Microtel Innovation S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microtel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2678e130-b785-4336-af97-2ce8edf9584b
-  mac-addresses:
+  id: cc909258-8f41-49ef-94d4-9b32b20371f1
+  macAddresses:
   - 00:1E:6C:00:00:00/24
   manufacturer: Opaque Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opaque
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04c41f06-9fb5-4312-911d-7756bb1e0a39
-  mac-addresses:
+  id: 13cea1b6-2c07-4ef1-9c37-ab5fdfb049ed
+  macAddresses:
   - 70:B3:D5:8C:60:00/36
   manufacturer: Onosokki Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Onosokki
 type: d3-device-type-assertion

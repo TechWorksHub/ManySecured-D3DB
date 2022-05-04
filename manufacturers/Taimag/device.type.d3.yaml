@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 458bafd6-c236-4a00-b86c-09cf290c0309
-  mac-addresses:
+  id: 426e4654-9770-4d04-986b-04af7476cf6f
+  macAddresses:
   - 28:C9:14:00:00:00/24
   manufacturer: Taimag Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Taimag
 type: d3-device-type-assertion

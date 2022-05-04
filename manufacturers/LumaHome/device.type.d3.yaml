@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d082789-70b5-432c-8a96-14046f811069
-  mac-addresses:
+  id: 2e300471-a83e-44c1-b6cd-8c5b2e2ab87e
+  macAddresses:
   - 5C:A9:33:00:00:00/24
   manufacturer: Luma Home
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LumaHome
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29bef15d-25a3-4516-89a5-1b3ea50b2f46
-  mac-addresses:
+  id: 3ca961b7-78ff-4b56-8963-046be94414ff
+  macAddresses:
   - 70:B3:D5:44:D0:00/36
   manufacturer: Vessel Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VesselTe
 type: d3-device-type-assertion

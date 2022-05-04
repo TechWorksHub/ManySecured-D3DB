@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37c00869-dcd9-476f-8d9f-a26e48157a49
-  mac-addresses:
+  id: d9ce3ed3-d3a4-4091-8078-721cdad0f691
+  macAddresses:
   - D4:F6:3F:00:00:00/24
   manufacturer: Iea S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iea
 type: d3-device-type-assertion

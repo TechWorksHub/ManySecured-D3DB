@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46bb7cb4-01d5-4942-8ff1-c19770cccc7b
-  mac-addresses:
+  id: 4e854fb4-743c-48bd-8bd1-bd6d24968ec7
+  macAddresses:
   - F4:0E:11:50:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-Song
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1bdd2ef-21b0-4ef0-8fe9-ef0074e56352
-  mac-addresses:
+  id: 924cd6c7-c6c7-4382-8916-a4ec1ff35e64
+  macAddresses:
   - 70:B3:D5:19:C0:00/36
   manufacturer: Kubu, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kubu
 type: d3-device-type-assertion

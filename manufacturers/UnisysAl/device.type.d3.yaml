@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16db3c3e-69fd-4e90-b965-3f2ecaa523aa
-  mac-addresses:
+  id: 0bcdc4c1-31b8-4e39-b877-06ffd0eb8af1
+  macAddresses:
   - 08:00:0B:00:00:00/24
   manufacturer: Unisys also Ascom-Timeplex (former Unisys subsidiary)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnisysAl
 type: d3-device-type-assertion

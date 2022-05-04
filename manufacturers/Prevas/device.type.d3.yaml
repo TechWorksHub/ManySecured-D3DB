@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba4cb123-0fd7-4d18-a02b-d81d1f1eda41
-  mac-addresses:
+  id: c68fe961-2ec4-48fd-8d34-cd55f8341bb5
+  macAddresses:
   - 00:D0:C8:00:00:00/24
   manufacturer: Prevas A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prevas
 type: d3-device-type-assertion

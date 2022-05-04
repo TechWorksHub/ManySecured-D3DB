@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea774159-de11-4d6f-94d8-91eed3727760
-  mac-addresses:
+  id: d8f83e0e-786b-432f-84be-82ad4b35db7e
+  macAddresses:
   - 3C:FA:D3:80:00:00/28
   manufacturer: Energous Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Energous
 type: d3-device-type-assertion

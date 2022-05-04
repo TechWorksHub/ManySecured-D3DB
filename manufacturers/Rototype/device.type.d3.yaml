@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e1c3911-835b-4be6-ba37-3ad3d4a51590
-  mac-addresses:
+  id: 1f413b25-c1cd-4b26-8abf-7be5401f6d1b
+  macAddresses:
   - 00:50:C2:28:90:00/36
   manufacturer: Rototype S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rototype
 type: d3-device-type-assertion

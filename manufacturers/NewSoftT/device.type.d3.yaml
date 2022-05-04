@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0e1e9a4-e342-4fa4-b2c0-4e60c2986350
-  mac-addresses:
+  id: db727e2a-c1ff-4fe3-8f03-eaf2112dd514
+  macAddresses:
   - 00:15:73:00:00:00/24
   manufacturer: NewSoft Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewSoftT
 type: d3-device-type-assertion

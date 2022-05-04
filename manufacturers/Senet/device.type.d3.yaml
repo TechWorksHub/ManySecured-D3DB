@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75abd310-26eb-4659-b129-e66846b55130
-  mac-addresses:
+  id: 6835851b-f5e2-4e89-933f-b8d10a15a09b
+  macAddresses:
   - 00:25:0C:00:00:00/24
   manufacturer: Senet Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senet
 type: d3-device-type-assertion

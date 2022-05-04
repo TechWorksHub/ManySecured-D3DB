@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c32c78ab-df50-4e9c-981c-ead7590dab82
-  mac-addresses:
+  id: 39b39a9d-0c1f-4818-8712-d474fa5d1c20
+  macAddresses:
   - 00:05:3C:00:00:00/24
   - 00:80:C7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xircom
 type: d3-device-type-assertion

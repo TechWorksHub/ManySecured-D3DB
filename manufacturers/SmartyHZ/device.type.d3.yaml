@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1892dd74-89b0-450b-8ce6-385a3278d19f
-  mac-addresses:
+  id: 11ca87eb-5c24-4922-8be0-e73d74ae07af
+  macAddresses:
   - 00:1A:99:00:00:00/24
   manufacturer: Smarty (HZ) Information Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartyHZ
 type: d3-device-type-assertion

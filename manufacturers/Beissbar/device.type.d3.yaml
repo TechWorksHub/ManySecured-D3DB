@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 433e1ee4-3c09-41b9-95a1-b4cfe01df92d
-  mac-addresses:
+  id: ea93283c-f3e8-43f1-94ae-1706c6ea812b
+  macAddresses:
   - 30:5D:38:00:00:00/24
   manufacturer: Beissbarth
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beissbar
 type: d3-device-type-assertion

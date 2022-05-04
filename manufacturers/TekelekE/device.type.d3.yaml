@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1432115c-24e8-423b-9d2d-5090c2682495
-  mac-addresses:
+  id: 86d12e79-507b-4e09-aadb-fe2964addf41
+  macAddresses:
   - 24:4E:7B:00:00:00/28
   - 40:D8:55:03:D0:00/36
   manufacturer: Tekelek Europe Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TekelekE
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 77a71e31-74b1-4b39-a84b-acecfc1e1333
-  mac-addresses:
+  id: d374f743-6ff7-41af-9a06-7e05eac9aac3
+  macAddresses:
   - 78:05:41:00:00:00/24
   - D0:9F:D9:80:00:00/28
   manufacturer: Queclink Wireless Solutions Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Queclink
 type: d3-device-type-assertion

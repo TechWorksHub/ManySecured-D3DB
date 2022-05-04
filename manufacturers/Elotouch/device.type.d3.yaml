@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8349abed-edc2-42d2-aaeb-147179a2792f
-  mac-addresses:
+  id: 00b03f8a-966b-4de1-a1cb-f1e4f07dc404
+  macAddresses:
   - 1C:EE:C9:00:00:00/24
   - 78:B3:CE:00:00:00/24
   manufacturer: Elo touch solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elotouch
 type: d3-device-type-assertion

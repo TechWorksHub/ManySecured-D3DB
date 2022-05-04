@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d8bc905-d04f-4a65-8c34-84635ca92499
-  mac-addresses:
+  id: fbfa531c-1490-4b5d-8339-6a1608bbba73
+  macAddresses:
   - 00:02:D7:00:00:00/24
   manufacturer: EMPEG Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMPEG
 type: d3-device-type-assertion

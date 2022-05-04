@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40aca0e2-61f0-4fee-b303-4ad809084acc
-  mac-addresses:
+  id: 12146055-9cc1-41fd-a118-eea0fca7fb95
+  macAddresses:
   - 00:90:D1:00:00:00/24
   manufacturer: Leichu Enterprise Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeichuEn
 type: d3-device-type-assertion

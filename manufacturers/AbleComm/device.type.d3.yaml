@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b5ad3b-d055-4eea-9336-6b62d9c71b8e
-  mac-addresses:
+  id: ea214a3c-739a-4794-bfee-68ac9bb99a27
+  macAddresses:
   - 08:00:1D:00:00:00/24
   manufacturer: Able Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AbleComm
 type: d3-device-type-assertion

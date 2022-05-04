@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6941e97-d402-4440-9fd2-27ae7a31bc12
-  mac-addresses:
+  id: efd1da11-ffd3-49ea-a372-aaae6f6812aa
+  macAddresses:
   - 00:12:34:00:00:00/24
   manufacturer: Camille Bauer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CamilleB
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: c84a1e43-ba91-49ae-a7ef-64d359aaa058
-  mac-addresses:
+  id: 328ebf66-0e6f-4238-a272-1bc99046269e
+  macAddresses:
   - 00:50:C2:99:D0:00/36
   - 00:50:C2:C4:F0:00/36
   - 00:50:C2:DE:F0:00/36
   - 00:50:C2:EA:60:00/36
   manufacturer: Powersense A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powersen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d25f21e4-80d2-4454-9e5c-fae1a3714262
-  mac-addresses:
+  id: da266423-e094-4c96-9c4b-3293b735eab0
+  macAddresses:
   - 00:0C:48:00:00:00/24
   manufacturer: QoStek Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QoStek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc55ffa5-2ac4-4cea-b429-5d21752ca072
-  mac-addresses:
+  id: 38f6e811-9561-405b-a1fe-02bb6b45617f
+  macAddresses:
   - 98:4C:D3:00:00:00/24
   manufacturer: Mantis Deposition
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MantisDe
 type: d3-device-type-assertion

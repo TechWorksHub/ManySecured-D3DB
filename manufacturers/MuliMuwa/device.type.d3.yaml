@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69fd0c93-43de-48c5-b4da-e8652b6dd33d
-  mac-addresses:
+  id: 50483348-3010-406c-917e-3f46e34f7098
+  macAddresses:
   - 14:9B:D7:00:00:00/24
   manufacturer: Muli Muwai Furniture Qidong Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MuliMuwa
 type: d3-device-type-assertion

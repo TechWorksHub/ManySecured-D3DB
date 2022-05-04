@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 078799c5-e311-479e-89aa-7c443d2921c4
-  mac-addresses:
+  id: 1134c37a-c4a2-4389-aa08-35b9e7b3abcd
+  macAddresses:
   - 00:50:C2:9C:B0:00/36
   manufacturer: NIS-time GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NIS-time
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 069d314c-219b-49e5-a08a-fd47c0724d01
-  mac-addresses:
+  id: cd76ae14-6ad2-4e16-b762-0c3b4f152752
+  macAddresses:
   - 00:50:C2:5A:C0:00/36
   - 70:B3:D5:CE:90:00/36
   manufacturer: Kinemetrics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kinemetr
 type: d3-device-type-assertion

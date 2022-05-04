@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d8ddbcd-963d-411a-b837-04bd2b021674
-  mac-addresses:
+  id: 847e49c0-1c64-4393-8075-b62b4fe8675b
+  macAddresses:
   - 00:1D:7F:00:00:00/24
   manufacturer: Tekron International Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TekronIn
 type: d3-device-type-assertion

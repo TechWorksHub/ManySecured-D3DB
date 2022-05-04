@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d456f2ad-df0f-4475-9890-7d3aa906bb79
-  mac-addresses:
+  id: 1b1cd874-bc93-43b6-85fa-fc870d0f54d3
+  macAddresses:
   - 00:50:C2:55:F0:00/36
   manufacturer: Moog Broad Reach
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MoogBroa
 type: d3-device-type-assertion

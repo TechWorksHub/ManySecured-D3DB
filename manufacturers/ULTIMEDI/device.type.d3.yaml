@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5ee6a89-fd73-4ae9-b3d6-f54a140e0403
-  mac-addresses:
+  id: 8fb4b354-a826-4631-888a-ad4a22295f13
+  macAddresses:
   - A4:7B:85:00:00:00/24
   manufacturer: ULTIMEDIA Co Ltd,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ULTIMEDI
 type: d3-device-type-assertion

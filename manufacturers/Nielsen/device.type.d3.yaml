@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ef592c1-6be2-4fa7-8670-13a6574bf3dd
-  mac-addresses:
+  id: 3b580ffd-3d5a-4657-a68a-1ebbd0181076
+  macAddresses:
   - 00:07:22:00:00:00/24
   manufacturer: The Nielsen Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nielsen
 type: d3-device-type-assertion

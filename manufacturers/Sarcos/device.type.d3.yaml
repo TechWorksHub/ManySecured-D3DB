@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e66eac4d-2b5d-4e93-9d65-4fcbd9103680
-  mac-addresses:
+  id: 7a6ce1b2-4690-4c42-9db5-3ac22ad6612f
+  macAddresses:
   - EC:9F:0D:C0:00:00/28
   manufacturer: Sarcos Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sarcos
 type: d3-device-type-assertion

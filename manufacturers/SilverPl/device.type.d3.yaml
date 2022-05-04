@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f258a12-06db-445f-b8c9-eb1f43dcfcaa
-  mac-addresses:
+  id: a95def3d-f185-4353-800f-c9ce34599ad6
+  macAddresses:
   - 60:0F:77:00:00:00/24
   manufacturer: SilverPlus, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SilverPl
 type: d3-device-type-assertion

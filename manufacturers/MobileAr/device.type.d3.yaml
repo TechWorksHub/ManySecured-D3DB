@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f6e8f24-a8be-4b52-bb5b-aa85432a3f77
-  mac-addresses:
+  id: ef04ae5d-198b-4ff0-bfd4-3120ed5c6b02
+  macAddresses:
   - 00:12:7D:00:00:00/24
   manufacturer: MobileAria
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MobileAr
 type: d3-device-type-assertion

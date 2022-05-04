@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0193858-35ad-4149-852d-e4a09e77def8
-  mac-addresses:
+  id: 1599ba1f-cbf7-4a22-b56d-b3e6cb74c8b8
+  macAddresses:
   - 50:DC:FC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ecocom
 type: d3-device-type-assertion

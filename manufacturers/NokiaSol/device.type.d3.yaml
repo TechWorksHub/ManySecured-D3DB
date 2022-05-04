@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7bf847ed-a0c0-4e5a-a301-6339fb6201f8
-  mac-addresses:
+  id: 30a9c79e-51f6-41cd-be0f-b945a3af86f9
+  macAddresses:
   - 00:77:E4:00:00:00/24
   - 08:9B:B9:00:00:00/24
   - 0C:7C:28:00:00:00/24
@@ -22,6 +22,6 @@ credentialSubject:
   - DC:8D:8A:00:00:00/24
   - E0:1F:2B:00:00:00/24
   manufacturer: Nokia Solutions and Networks GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NokiaSol
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: dd154f4b-08ae-4edb-a1e9-13e5f83c237b
-  mac-addresses:
+  id: 0e8bb812-ba39-41b6-a84f-88d35833bdc0
+  macAddresses:
   - 70:B3:D5:8C:30:00/36
   - 98:80:BB:D0:00:00/28
   manufacturer: Wyebot, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wyebot
 type: d3-device-type-assertion

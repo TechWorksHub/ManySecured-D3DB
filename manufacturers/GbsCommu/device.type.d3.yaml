@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7bed92b-bf7b-42e2-9420-6ee0e2bbef0f
-  mac-addresses:
+  id: 666de012-9105-4e77-9f61-8a0092ef7793
+  macAddresses:
   - 70:B3:D5:A8:90:00/36
   manufacturer: Gbs Communications, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GbsCommu
 type: d3-device-type-assertion

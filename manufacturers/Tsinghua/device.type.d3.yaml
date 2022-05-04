@@ -1,12 +1,12 @@
 credentialSubject:
-  id: b08a4483-e9e7-4ebd-81a1-1a0b0bbc8987
-  mac-addresses:
+  id: 8314cde4-7bda-4ae4-b261-808f69618c22
+  macAddresses:
   - 00:04:93:00:00:00/24
   - 00:05:64:00:00:00/24
   - 00:16:3D:00:00:00/24
   - 00:50:3C:00:00:00/24
   - 40:ED:98:00:00:00/28
   manufacturer: Tsinghua Unisplendour Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tsinghua
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69d7ac49-7c91-4ab5-9c50-a0b00adf1e44
-  mac-addresses:
+  id: 23cdbd26-b24b-4669-910d-3366e033545a
+  macAddresses:
   - 00:0C:01:00:00:00/24
   manufacturer: Abatron AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abatron
 type: d3-device-type-assertion

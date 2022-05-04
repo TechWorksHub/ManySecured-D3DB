@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e046a04-5d67-4902-aedf-8867c2d31db6
-  mac-addresses:
+  id: f7d3be14-59e4-46c0-b16a-208a7bea6a8a
+  macAddresses:
   - 70:B3:D5:47:60:00/36
   manufacturer: FR-Team International SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FR-TeamI
 type: d3-device-type-assertion

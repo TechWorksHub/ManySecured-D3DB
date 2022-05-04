@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a45d2e6-6556-41f9-be97-72cad7c5438b
-  mac-addresses:
+  id: ae2ae740-b4f0-44d4-a08b-e7d47323a113
+  macAddresses:
   - F8:42:FB:00:00:00/24
   manufacturer: Yasuda Joho Co.,ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YasudaJo
 type: d3-device-type-assertion

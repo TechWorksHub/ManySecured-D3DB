@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8fc2e24-c5ec-4af9-9290-5ee6997ec42b
-  mac-addresses:
+  id: 9cc9f023-89ac-4e42-a952-fdd4f004a4d0
+  macAddresses:
   - 8C:CF:5C:00:00:00/24
   manufacturer: BEFEGA GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BEFEGA
 type: d3-device-type-assertion

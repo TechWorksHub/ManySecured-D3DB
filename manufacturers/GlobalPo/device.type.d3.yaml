@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a90dad3e-5b76-47a6-8e7e-167f52162381
-  mac-addresses:
+  id: 36db60bd-5e1e-4b55-ac9f-87e97cd7bec2
+  macAddresses:
   - 70:B3:D5:3B:10:00/36
   manufacturer: Global Power Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalPo
 type: d3-device-type-assertion

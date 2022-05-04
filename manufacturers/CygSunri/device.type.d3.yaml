@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cba96a04-c3dd-4ff2-8587-be11fa471891
-  mac-addresses:
+  id: 60f97d4b-b4ea-46b9-b297-a05649ae2554
+  macAddresses:
   - 24:64:EF:00:00:00/24
   manufacturer: Cyg Sunri Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CygSunri
 type: d3-device-type-assertion

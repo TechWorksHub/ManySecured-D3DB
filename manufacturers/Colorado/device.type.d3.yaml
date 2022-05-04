@@ -1,11 +1,11 @@
 credentialSubject:
-  id: ddf35dad-21a4-4653-8d2d-b6e8c8b2c93b
-  mac-addresses:
+  id: c4dbb363-c93b-4c3b-aab7-4fe3afcd72f9
+  macAddresses:
   - 00:08:26:00:00:00/24
   - 00:16:21:00:00:00/24
   - 00:50:C2:38:20:00/36
   - 00:50:C2:72:00:00/36
   manufacturer: Colorado Med Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Colorado
 type: d3-device-type-assertion

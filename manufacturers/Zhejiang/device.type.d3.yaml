@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 06f482ea-38df-4942-aa81-9c7f449aac1d
-  mac-addresses:
+  id: a07005bb-c0fa-43fe-b9cd-d9bca897c9c7
+  macAddresses:
   - 00:07:D4:00:00:00/24
   - 00:1D:DE:00:00:00/24
   - 00:1E:24:00:00:00/24
@@ -91,6 +91,6 @@ credentialSubject:
   - FC:B6:9D:00:00:00/24
   - FC:BC:0E:00:00:00/24
   manufacturer: Zhejiang Yutong Network Communication Co Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zhejiang
 type: d3-device-type-assertion

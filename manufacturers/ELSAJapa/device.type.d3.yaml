@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10e8d9f4-fdeb-4032-97ff-41e2f054b286
-  mac-addresses:
+  id: db215199-127c-4506-a987-edea8401d9e0
+  macAddresses:
   - 3C:39:E7:30:00:00/28
   manufacturer: ELSA Japan Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ELSAJapa
 type: d3-device-type-assertion

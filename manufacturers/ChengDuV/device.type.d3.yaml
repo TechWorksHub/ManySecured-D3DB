@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfe6b2ff-3f71-4e5d-8a15-0fb3aabfa737
-  mac-addresses:
+  id: 065ec582-9773-4580-869c-29a290ac61e5
+  macAddresses:
   - 18:9B:A5:10:00:00/28
   manufacturer: ChengDu Vantron Technology, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengDuV
 type: d3-device-type-assertion

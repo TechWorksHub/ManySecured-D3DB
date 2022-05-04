@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea9ba612-32b1-4579-a7a9-9f2e95678d27
-  mac-addresses:
+  id: c594ac54-93f0-425b-8c0f-7e792f4559e0
+  macAddresses:
   - 70:B3:D5:CB:B0:00/36
   manufacturer: Postmark Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Postmark
 type: d3-device-type-assertion

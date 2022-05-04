@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d64e63cc-24fd-4fed-a68d-2f88450fb46b
-  mac-addresses:
+  id: 7313578c-56c5-4e41-ad1c-22319e43a7f8
+  macAddresses:
   - 70:B3:D5:11:E0:00/36
   manufacturer: Kbpr Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kbpr
 type: d3-device-type-assertion

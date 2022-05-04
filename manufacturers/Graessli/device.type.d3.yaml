@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b6da3a2-3b0a-4854-a069-b91db645e038
-  mac-addresses:
+  id: afbcd639-5c64-49e6-807a-f879cc93334d
+  macAddresses:
   - 00:50:C2:C1:B0:00/36
   manufacturer: Graesslin GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Graessli
 type: d3-device-type-assertion

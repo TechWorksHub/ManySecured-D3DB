@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9c4802a-4063-4f2b-aa5d-4ebedef62b3d
-  mac-addresses:
+  id: c71fba37-cb62-4e97-bf8a-ff1ba68a3a0b
+  macAddresses:
   - A4:99:81:00:00:00/24
   manufacturer: FuJian Elite Power Tech CO.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuJianEl
 type: d3-device-type-assertion

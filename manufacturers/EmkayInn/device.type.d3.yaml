@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df2355f3-64c7-4564-b20b-7310510410d0
-  mac-addresses:
+  id: 895a744c-5a3f-4cf6-b7ea-049f877a94d6
+  macAddresses:
   - 00:07:8F:00:00:00/24
   manufacturer: Emkay Innovative Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmkayInn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92a79bce-c8a1-4ac8-a1e2-cdaa0d8fe5f3
-  mac-addresses:
+  id: 4db3e1af-9213-4b81-b3c5-54fee17ae958
+  macAddresses:
   - 00:03:05:00:00:00/24
   manufacturer: MSC Vertriebs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSCVertr
 type: d3-device-type-assertion

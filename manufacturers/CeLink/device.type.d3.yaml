@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9f8bea6b-4599-43e1-9816-a0b478888220
-  mac-addresses:
+  id: 13a8222d-3e2e-47fa-b4a8-e457499a3241
+  macAddresses:
   - 70:B3:D5:54:70:00/36
   - A0:CE:C8:00:00:00/24
   manufacturer: Ce Link Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeLink
 type: d3-device-type-assertion

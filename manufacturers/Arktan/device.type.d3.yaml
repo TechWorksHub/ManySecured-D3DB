@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d732f3e-efc0-45ce-87bd-f3a9facdf360
-  mac-addresses:
+  id: 5915d6d6-a0b5-4813-92be-a8ed87b3d926
+  macAddresses:
   - 00:50:C2:CD:60:00/36
   manufacturer: Arktan Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arktan
 type: d3-device-type-assertion

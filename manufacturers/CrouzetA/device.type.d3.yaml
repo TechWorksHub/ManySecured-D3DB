@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2490291-6474-44cc-b905-56be1e645aa0
-  mac-addresses:
+  id: 4f3dd1af-1509-4031-bf29-6fac2b177e0b
+  macAddresses:
   - 84:AC:FB:00:00:00/24
   manufacturer: Crouzet Automatismes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrouzetA
 type: d3-device-type-assertion

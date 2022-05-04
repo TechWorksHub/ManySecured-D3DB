@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07973914-3b6f-4ab4-98a1-02fd9ded8aaf
-  mac-addresses:
+  id: 0698a045-c837-4788-a3fa-bffb0c386a00
+  macAddresses:
   - 00:05:D7:00:00:00/24
   manufacturer: Vista Imaging, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VistaIma
 type: d3-device-type-assertion

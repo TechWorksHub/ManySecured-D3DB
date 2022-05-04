@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e34c3274-f952-4c37-8857-0940656bc3f0
-  mac-addresses:
+  id: b0e66e30-f7e9-421e-b21e-0c39bf852be2
+  macAddresses:
   - 70:B3:D5:1F:F0:00/36
   manufacturer: Audiodo AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audiodo
 type: d3-device-type-assertion

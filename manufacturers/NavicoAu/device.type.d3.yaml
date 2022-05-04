@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c651b46-02e7-4fd1-b423-56f6abd89697
-  mac-addresses:
+  id: ebaca418-c8e6-44ba-9462-fc0fc47c13a0
+  macAddresses:
   - 00:0E:91:00:00:00/24
   manufacturer: Navico Auckland Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NavicoAu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebe5f8d4-db51-4c41-83de-3a04d7d6fb82
-  mac-addresses:
+  id: ba0518ea-6509-46a7-b7dc-80a2b48aef3d
+  macAddresses:
   - 00:06:4C:00:00:00/24
   manufacturer: Invicta Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InvictaN
 type: d3-device-type-assertion

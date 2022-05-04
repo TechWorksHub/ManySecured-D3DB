@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 163867f4-afbd-4f09-a573-b46d8c3c2c35
-  mac-addresses:
+  id: 128abf32-e9d9-4d34-9aee-e06007b5b411
+  macAddresses:
   - 00:A0:01:00:00:00/24
   manufacturer: DRS Signal Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DRSSigna
 type: d3-device-type-assertion

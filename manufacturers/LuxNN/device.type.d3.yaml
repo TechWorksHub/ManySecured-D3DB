@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30c022d1-2dd0-49d2-8f15-4ca3c2e8c60d
-  mac-addresses:
+  id: e6143ef6-57a7-4ee1-b32f-257c29da5ac6
+  macAddresses:
   - 00:30:C9:00:00:00/24
   manufacturer: LuxN, N
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LuxNN
 type: d3-device-type-assertion

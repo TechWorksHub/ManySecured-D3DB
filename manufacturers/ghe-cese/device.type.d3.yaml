@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 797637b3-5763-41c7-9d2a-abc859e97ca2
-  mac-addresses:
+  id: 89cab056-f9b0-4da8-a23e-963ad6878823
+  macAddresses:
   - 80:3B:9A:00:00:00/24
   manufacturer: ghe-ces electronic ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ghe-cese
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee795348-3b5a-4a56-9eb9-dc75491730e4
-  mac-addresses:
+  id: f9fca51d-b663-4fbb-9409-3a1d79bd660e
+  macAddresses:
   - 90:2C:C7:00:00:00/24
   manufacturer: C-MAX Asia Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C-MAXAsi
 type: d3-device-type-assertion

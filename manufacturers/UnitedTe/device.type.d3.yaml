@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1e9e9b50-848f-4c02-ae51-b7dc88bff462
-  mac-addresses:
+  id: 2d3662c9-abab-410c-b1f8-e5ca145b41a8
+  macAddresses:
   - 00:0E:A8:00:00:00/24
   - 00:50:C2:33:A0:00/36
   - 90:A2:10:00:00:00/24
   manufacturer: United Technologists Europe Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnitedTe
 type: d3-device-type-assertion

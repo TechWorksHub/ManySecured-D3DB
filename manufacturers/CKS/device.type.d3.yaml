@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3991f08-2067-43df-bd9f-0cfa73eaba11
-  mac-addresses:
+  id: 9589c5d7-f514-4ca3-9471-dfa9eb1fedfb
+  macAddresses:
   - 80:D0:65:00:00:00/24
   manufacturer: CKS Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CKS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f27facf-fa05-44db-bc49-32a4d50da890
-  mac-addresses:
+  id: 9daae936-1b7f-4f81-8dac-6495508d2314
+  macAddresses:
   - 00:B0:CE:00:00:00/24
   manufacturer: Viveris Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViverisT
 type: d3-device-type-assertion

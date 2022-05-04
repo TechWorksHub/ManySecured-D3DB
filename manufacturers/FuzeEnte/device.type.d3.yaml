@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f1447e6-2a77-4dbd-8f56-82829fc4af9a
-  mac-addresses:
+  id: 898a4be6-ce06-42b7-8340-2570c49d26ac
+  macAddresses:
   - 4C:FF:12:00:00:00/24
   manufacturer: Fuze Entertainment Co., ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuzeEnte
 type: d3-device-type-assertion

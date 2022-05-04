@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6109aa8f-436e-46fc-adc5-aecd26e048f8
-  mac-addresses:
+  id: d8fb75f4-8f71-4bb3-bc7e-2ba8dab7a322
+  macAddresses:
   - 14:8A:70:00:00:00/24
   manufacturer: ADS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a8f2c22-7c82-4cc1-92e9-8f126558627f
-  mac-addresses:
+  id: 289397f7-6bc1-49d7-b4cf-b9470a68ca6f
+  macAddresses:
   - 48:6E:73:00:00:00/24
   manufacturer: Pica8, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pica8
 type: d3-device-type-assertion

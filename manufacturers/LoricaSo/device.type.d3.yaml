@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c417486-0ddd-4ccc-bcf5-4e394cfe4850
-  mac-addresses:
+  id: b36bb496-e45e-433d-8bea-75b77bb19b77
+  macAddresses:
   - 00:1B:A7:00:00:00/24
   manufacturer: Lorica Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LoricaSo
 type: d3-device-type-assertion

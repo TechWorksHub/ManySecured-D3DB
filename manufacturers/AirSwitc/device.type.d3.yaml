@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97411f2d-e005-4489-b866-820d47ac528a
-  mac-addresses:
+  id: 7c1ed2f7-8085-4daf-9618-0adb53379211
+  macAddresses:
   - 00:01:65:00:00:00/24
   manufacturer: AirSwitch Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirSwitc
 type: d3-device-type-assertion

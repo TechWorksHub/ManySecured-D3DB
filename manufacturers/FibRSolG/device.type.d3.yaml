@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe9d8dc0-2d43-435b-aa1f-a98a699a89d6
-  mac-addresses:
+  id: dc2798f4-3fe7-49c9-b02e-2381afddd3b3
+  macAddresses:
   - 24:94:93:00:00:00/24
   manufacturer: FibRSol Global Network Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FibRSolG
 type: d3-device-type-assertion

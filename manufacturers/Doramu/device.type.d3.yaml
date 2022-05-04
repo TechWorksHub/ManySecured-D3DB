@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd831d5e-147f-4758-9b2e-ddd981f167ee
-  mac-addresses:
+  id: 7b2f5592-28ee-49a3-871b-a9c6b2ab8f44
+  macAddresses:
   - 00:50:C2:4A:C0:00/36
   manufacturer: Doramu Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Doramu
 type: d3-device-type-assertion

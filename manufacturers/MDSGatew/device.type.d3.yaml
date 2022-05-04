@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 71dee7c8-0024-4eb5-997b-87454106fb52
-  mac-addresses:
+  id: 042fd1b6-7be0-4f30-ab21-97107969a619
+  macAddresses:
   - 00:09:19:00:00:00/24
   manufacturer: MDS Gateways
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MDSGatew
 type: d3-device-type-assertion

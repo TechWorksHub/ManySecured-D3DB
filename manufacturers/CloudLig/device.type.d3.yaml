@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e0d748c-87b5-49c2-8383-2c0008952662
-  mac-addresses:
+  id: 3b61abd7-0158-42a6-b6e1-1ac6d96015e5
+  macAddresses:
   - A8:BC:9C:00:00:00/24
   manufacturer: Cloud Light Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CloudLig
 type: d3-device-type-assertion

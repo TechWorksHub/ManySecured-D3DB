@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b9d7dcd-3cad-4cd2-aecf-d9cb48d8b704
-  mac-addresses:
+  id: 04d42897-3a54-4bb7-b988-7629c6dee502
+  macAddresses:
   - A4:8E:0A:00:00:00/24
   manufacturer: DeLaval International AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeLavalI
 type: d3-device-type-assertion

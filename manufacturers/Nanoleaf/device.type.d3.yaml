@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0e489dd7-e534-461d-a601-4e923d06bed2
-  mac-addresses:
+  id: 467c7c8b-d055-4f57-8506-0d176190c4d9
+  macAddresses:
   - 00:55:DA:50:00:00/28
   - 80:8A:F7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nanoleaf
 type: d3-device-type-assertion

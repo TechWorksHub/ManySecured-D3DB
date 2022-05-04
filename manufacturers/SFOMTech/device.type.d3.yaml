@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e22056b-ac20-4d6e-b634-81236b45b1e8
-  mac-addresses:
+  id: f71f74e8-e727-412d-b9e8-f555a9fb630c
+  macAddresses:
   - 00:0C:D1:00:00:00/24
   manufacturer: SFOM Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SFOMTech
 type: d3-device-type-assertion

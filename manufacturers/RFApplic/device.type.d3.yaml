@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a98bb51-c71c-493b-880e-003b9e3bf384
-  mac-addresses:
+  id: edb2447f-0164-4b44-9d87-f8ccc2143bf1
+  macAddresses:
   - 00:50:C2:09:C0:00/36
   manufacturer: RF Applications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFApplic
 type: d3-device-type-assertion

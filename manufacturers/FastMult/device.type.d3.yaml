@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab9d6015-5e14-4bf9-a9b6-4f3dd4dbe500
-  mac-addresses:
+  id: 0609fbe7-4f5b-44b0-ab5e-9b4ba1cf467b
+  macAddresses:
   - 00:50:BE:00:00:00/24
   manufacturer: Fast Multimedia Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FastMult
 type: d3-device-type-assertion

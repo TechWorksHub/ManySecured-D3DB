@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 29f01371-b17f-46d3-b941-047b011a39b1
-  mac-addresses:
+  id: 26ea4f1e-7d3e-42ec-8fac-949caf827f70
+  macAddresses:
   - 00:50:C2:24:90:00/36
   - E0:AE:B2:00:00:00/24
   manufacturer: Bender GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bender
 type: d3-device-type-assertion

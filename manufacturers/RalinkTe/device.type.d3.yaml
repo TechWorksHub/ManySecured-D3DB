@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4592792d-695c-4638-acc3-27ffa199e8fb
-  mac-addresses:
+  id: e5c99210-35c8-4189-a6e4-6f9602ca1700
+  macAddresses:
   - 00:0C:43:00:00:00/24
   - 00:17:A5:00:00:00/24
   manufacturer: Ralink Technology, Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RalinkTe
 type: d3-device-type-assertion

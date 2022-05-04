@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7fb1f6c-3a86-40e2-a5d9-76a963ea273a
-  mac-addresses:
+  id: bc47f7e7-bd06-44e8-87e6-4635cf63bd6b
+  macAddresses:
   - 20:37:BC:00:00:00/24
   manufacturer: Kuipers Electronic Engineering BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KuipersE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74232a4e-1512-40f2-8e20-c8486dd23f2d
-  mac-addresses:
+  id: 15afbeaf-1ea8-4182-abe5-2d90f37b6ea3
+  macAddresses:
   - 50:3E:7C:00:00:00/24
   manufacturer: LeiShen Intelligent System Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeiShenI
 type: d3-device-type-assertion

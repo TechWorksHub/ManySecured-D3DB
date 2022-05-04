@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94e6bf44-9580-447e-9db6-dc4e2a9dd93c
-  mac-addresses:
+  id: c15f8492-d378-418d-81b9-7f2d2d680e04
+  macAddresses:
   - 00:24:D9:00:00:00/24
   manufacturer: BICOM, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BICOM
 type: d3-device-type-assertion

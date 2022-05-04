@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 436101eb-3083-46a8-a08e-6522746c4dcf
-  mac-addresses:
+  id: 9814b5c9-59e4-4ef5-9fff-19ebe109604e
+  macAddresses:
   - 00:04:36:00:00:00/24
   manufacturer: ELANsat Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ELANsatT
 type: d3-device-type-assertion

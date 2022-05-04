@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1313965b-2e2d-457b-bd19-da706cc157c1
-  mac-addresses:
+  id: 833eda8f-672f-4813-864f-cac94111b006
+  macAddresses:
   - 8C:1F:64:28:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arcopie
 type: d3-device-type-assertion

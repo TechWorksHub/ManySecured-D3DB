@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 359c24c9-1640-4c52-8be0-0135362287af
-  mac-addresses:
+  id: 894a121e-af01-47d2-8cd1-1ff453307a4c
+  macAddresses:
   - 00:50:C2:CB:C0:00/36
   manufacturer: Cp Eletronica Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CpEletro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3108de97-a2cf-42e7-aa79-d67031fdef39
-  mac-addresses:
+  id: 167b49e8-b047-4338-baf2-3b3a8f76190b
+  macAddresses:
   - 70:B3:D5:B2:30:00/36
   manufacturer: Supervision Test et Pilotage
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Supervis
 type: d3-device-type-assertion

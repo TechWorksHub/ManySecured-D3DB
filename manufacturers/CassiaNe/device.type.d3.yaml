@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1d38437-687b-4c5a-8f9e-01ceb3135ded
-  mac-addresses:
+  id: 67f48a6c-2826-479f-b719-267aa38d54be
+  macAddresses:
   - CC:1B:E0:E0:00:00/28
   manufacturer: Cassia Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CassiaNe
 type: d3-device-type-assertion

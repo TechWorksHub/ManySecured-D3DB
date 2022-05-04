@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37be270a-5d6b-4d22-95fa-fa95b42c7fa3
-  mac-addresses:
+  id: e195a1a8-410e-4eb2-a6b2-1ece735a31a5
+  macAddresses:
   - 00:50:C2:1B:A0:00/36
   manufacturer: Interzeag Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interzea
 type: d3-device-type-assertion

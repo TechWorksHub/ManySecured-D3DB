@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 160f5e5e-75db-4c32-92b0-9c37fd4508e3
-  mac-addresses:
+  id: e1463062-d27d-48ba-a266-7ba4d6303e9b
+  macAddresses:
   - 9C:43:1E:B0:00:00/28
   manufacturer: JNL Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JNLTechn
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 0c84bac2-aaed-4d72-bde1-6e7fe29caaa8
-  mac-addresses:
+  id: 7b0b1ed6-969a-41a3-bc1b-9b69f90c9e56
+  macAddresses:
   - 00:50:C2:41:B0:00/36
   - 28:F5:37:B0:00:00/28
   - 70:B3:D5:FA:A0:00/36
   manufacturer: LogiM GmbH Software und Entwicklung
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogiMSof
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 959429a2-ee21-4099-a5f5-5d6a9dc55f04
-  mac-addresses:
+  id: 0982a6b2-1d4a-4fd5-b9eb-7aad441ae916
+  macAddresses:
   - 00:50:C2:D4:D0:00/36
   manufacturer: Yardney Technical Products Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YardneyT
 type: d3-device-type-assertion

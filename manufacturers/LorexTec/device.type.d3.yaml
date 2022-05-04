@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 547a95d8-3097-4afe-9a05-2af2530cdc3c
-  mac-addresses:
+  id: 1e5aedb1-65ec-4ba0-9ecc-47fdc289b875
+  macAddresses:
   - 00:1F:54:00:00:00/24
   manufacturer: Lorex Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LorexTec
 type: d3-device-type-assertion

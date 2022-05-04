@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f48d0285-0326-41de-9ee8-a343f5010b5d
-  mac-addresses:
+  id: 99324d77-1caf-4d66-ba63-5dec3ca28fd3
+  macAddresses:
   - 08:00:35:00:00:00/24
   manufacturer: Microfive Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microfiv
 type: d3-device-type-assertion

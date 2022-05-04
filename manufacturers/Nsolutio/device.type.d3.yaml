@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa022214-2bd2-4734-99bd-0a437ea6f7f2
-  mac-addresses:
+  id: b52afebe-fa59-4d3c-b5d9-193d0609afab
+  macAddresses:
   - 98:10:82:00:00:00/24
   manufacturer: Nsolution Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nsolutio
 type: d3-device-type-assertion

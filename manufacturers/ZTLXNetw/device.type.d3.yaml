@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c80372c-a18b-4495-a0b5-7346a26cc757
-  mac-addresses:
+  id: d83b958d-6df8-472b-9ba4-0b3368605275
+  macAddresses:
   - EC:EE:D8:00:00:00/24
   manufacturer: ZTLX Network Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZTLXNetw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 025085dd-773b-4502-a597-cc1ce81f95b4
-  mac-addresses:
+  id: c83d6fc9-5825-4231-b031-ff1d847de742
+  macAddresses:
   - 00:1C:C8:00:00:00/24
   manufacturer: INDUSTRONIC Industrie-Electronic GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INDUSTRO
 type: d3-device-type-assertion

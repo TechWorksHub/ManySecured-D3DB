@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46fe8467-4740-4935-8153-76e2895d2c3f
-  mac-addresses:
+  id: 0257013e-38f7-49bd-8804-0046cd8a5002
+  macAddresses:
   - 70:B3:D5:C3:10:00/36
   manufacturer: German Power GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GermanPo
 type: d3-device-type-assertion

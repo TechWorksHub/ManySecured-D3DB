@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6823383-5c95-421c-855f-4b412b1b62d3
-  mac-addresses:
+  id: 065639df-b7a3-45dc-98cc-20f7165f15ed
+  macAddresses:
   - 00:80:99:00:00:00/24
   manufacturer: Eaton Industries GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EatonInd
 type: d3-device-type-assertion

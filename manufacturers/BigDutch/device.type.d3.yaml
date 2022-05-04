@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed291f56-9b30-4c5c-adc3-cefbb1b19556
-  mac-addresses:
+  id: e44a9b51-d1a6-4243-a412-a6e45bf0e898
+  macAddresses:
   - C0:9B:F4:70:00:00/28
   manufacturer: Big Dutchman International GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BigDutch
 type: d3-device-type-assertion

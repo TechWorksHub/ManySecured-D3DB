@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0fd79c1-5aeb-4635-9eec-518619c409b9
-  mac-addresses:
+  id: b8f90bb2-24ac-437a-a8ec-a53764d13d45
+  macAddresses:
   - 00:50:A3:00:00:00/24
   manufacturer: TransMedia Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TransMed
 type: d3-device-type-assertion

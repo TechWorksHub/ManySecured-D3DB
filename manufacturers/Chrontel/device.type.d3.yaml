@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31513f22-2c09-4830-825e-567503a875b0
-  mac-addresses:
+  id: de52e0e0-9bc0-4f2a-bcef-cbc8bfb60e61
+  macAddresses:
   - F0:02:2B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chrontel
 type: d3-device-type-assertion

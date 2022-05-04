@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b71e8b86-abba-4339-9539-b4c3a32cc6a2
-  mac-addresses:
+  id: c8c74cf4-8138-455a-aa14-7a001928377d
+  macAddresses:
   - 00:0A:9A:00:00:00/24
   manufacturer: Aiptek International Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AiptekIn
 type: d3-device-type-assertion

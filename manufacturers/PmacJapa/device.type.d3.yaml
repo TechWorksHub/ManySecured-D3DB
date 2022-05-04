@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a9b111d-6be7-477d-92e4-77f227a4bd0c
-  mac-addresses:
+  id: 24db4b43-9159-4b0d-9e68-b5c9c4f36c41
+  macAddresses:
   - 00:50:C2:E0:E0:00/36
   manufacturer: Pmac Japan
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PmacJapa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37f16c3c-4091-48c4-a7ba-53a6a66bac73
-  mac-addresses:
+  id: c91970c8-54da-424c-be28-dcf8d2e331fd
+  macAddresses:
   - 00:50:C2:9E:90:00/36
   manufacturer: Ciemme Sistemi Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiemmeSi
 type: d3-device-type-assertion

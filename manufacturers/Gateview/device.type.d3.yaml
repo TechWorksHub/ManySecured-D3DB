@@ -1,9 +1,9 @@
 credentialSubject:
-  id: df757efb-a22c-4dfc-af36-8a5c4f890c12
-  mac-addresses:
+  id: 2a2bcb9a-1060-4139-9d5a-ca7cf0bf0c46
+  macAddresses:
   - 70:B3:D5:A7:00:00/36
   - 8C:1F:64:B7:B0:00/36
   manufacturer: Gateview Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gateview
 type: d3-device-type-assertion

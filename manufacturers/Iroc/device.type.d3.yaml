@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b17d2234-54db-482f-b3eb-23cf7393e6ee
-  mac-addresses:
+  id: 98066a73-f4a9-494b-8d44-aee19f7e8599
+  macAddresses:
   - 70:B3:D5:39:B0:00/36
   manufacturer: Iroc Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iroc
 type: d3-device-type-assertion

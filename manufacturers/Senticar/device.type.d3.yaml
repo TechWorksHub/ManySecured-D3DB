@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 427b6da5-92d9-4113-93cb-9150fe703356
-  mac-addresses:
+  id: 6c774cea-3c2f-4787-a051-622904f3d2eb
+  macAddresses:
   - 00:23:2C:00:00:00/24
   manufacturer: Senticare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senticar
 type: d3-device-type-assertion

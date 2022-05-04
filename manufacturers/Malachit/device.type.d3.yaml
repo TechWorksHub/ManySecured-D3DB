@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a88b90a3-0b40-4c62-aa5c-5e87802545e0
-  mac-addresses:
+  id: 35733609-eced-4498-9208-b7e38a67e976
+  macAddresses:
   - 00:06:5C:00:00:00/24
   manufacturer: Malachite Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Malachit
 type: d3-device-type-assertion

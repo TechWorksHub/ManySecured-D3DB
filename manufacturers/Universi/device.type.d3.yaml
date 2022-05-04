@@ -1,6 +1,6 @@
 credentialSubject:
-  id: be4037f0-270c-47f2-aef1-619c2cd81969
-  mac-addresses:
+  id: 5acc602e-8c2b-4804-8909-2c5a1e0dccb6
+  macAddresses:
   - 00:12:6D:00:00:00/24
   - 00:50:C2:54:60:00/36
   - 28:FD:80:70:00:00/28
@@ -15,6 +15,6 @@ credentialSubject:
   - E4:3C:80:00:00:00/24
   - EC:2C:49:00:00:00/24
   manufacturer: University of California, Berkeley
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Universi
 type: d3-device-type-assertion

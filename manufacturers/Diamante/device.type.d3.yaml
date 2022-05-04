@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a2bf4b1-9174-4726-a841-10903c36404f
-  mac-addresses:
+  id: d924046c-5e2c-45ef-aec5-86f03cc6c175
+  macAddresses:
   - 70:B3:D5:92:50:00/36
   manufacturer: Diamante Lighting Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Diamante
 type: d3-device-type-assertion

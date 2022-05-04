@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e89c5b5a-0841-4ac9-9e35-97bcf37a7204
-  mac-addresses:
+  id: 237f3fe0-0ca2-4982-a3b6-f4a0f852de87
+  macAddresses:
   - 70:B3:D5:AD:50:00/36
   manufacturer: Birdland Audio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Birdland
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ee41310-dd0d-429b-95b8-9a8601d09a75
-  mac-addresses:
+  id: 8e69b68b-f6fe-4491-b450-40820e6d4e8c
+  macAddresses:
   - 00:60:5B:00:00:00/24
   manufacturer: IntraServer Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntraSer
 type: d3-device-type-assertion

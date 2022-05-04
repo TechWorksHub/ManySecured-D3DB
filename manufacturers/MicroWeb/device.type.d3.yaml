@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7f4e27f-d5cd-4590-8f2f-c6fd0dbb3e68
-  mac-addresses:
+  id: addef4ea-fe8e-4dac-8922-78adf9e4b796
+  macAddresses:
   - 00:0C:1C:00:00:00/24
   manufacturer: MicroWeb Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroWeb
 type: d3-device-type-assertion

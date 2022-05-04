@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d5bdb15-29b7-4f16-a0ef-9683bb0d296b
-  mac-addresses:
+  id: 0149f838-5913-4686-a137-75d8aa649489
+  macAddresses:
   - 2C:A0:2F:00:00:00/24
   manufacturer: Veroguard Systems Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Veroguar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b17f83e-fc95-419e-ba02-81dd15a29176
-  mac-addresses:
+  id: 677f4fff-9a1b-4823-bebf-0132b6de76c8
+  macAddresses:
   - 00:1B:D6:00:00:00/24
   manufacturer: Kelvin Hughes Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KelvinHu
 type: d3-device-type-assertion

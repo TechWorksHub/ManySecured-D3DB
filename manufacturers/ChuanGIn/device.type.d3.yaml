@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52791fd8-bcb2-4f2d-8281-75aaae6e98f8
-  mac-addresses:
+  id: d85e7160-869e-475c-843a-b117058bdb38
+  macAddresses:
   - 00:15:7F:00:00:00/24
   manufacturer: ChuanG International Holding CO.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChuanGIn
 type: d3-device-type-assertion

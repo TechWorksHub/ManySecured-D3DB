@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a987e38f-889e-4dc7-9c3e-e37e5e069d9b
-  mac-addresses:
+  id: 398c605d-c2c2-437c-a9d8-37245fa609a9
+  macAddresses:
   - 00:08:AC:00:00:00/24
   manufacturer: BST GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BST
 type: d3-device-type-assertion

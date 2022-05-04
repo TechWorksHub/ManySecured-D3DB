@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e802e5ed-a6ac-4ac7-8bf7-3b996cea2696
-  mac-addresses:
+  id: e3c32ff5-9092-41b6-bdb9-abee9ceeeaf9
+  macAddresses:
   - 00:60:7A:00:00:00/24
   manufacturer: Dvs Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dvs
 type: d3-device-type-assertion

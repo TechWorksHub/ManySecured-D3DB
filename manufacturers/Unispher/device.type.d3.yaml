@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dbc8c96-8bef-4fbc-bfde-87b9bdb1dc93
-  mac-addresses:
+  id: 75f03659-2acb-4722-af8a-6ca3d355468f
+  macAddresses:
   - 00:90:1A:00:00:00/24
   manufacturer: Unisphere Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unispher
 type: d3-device-type-assertion

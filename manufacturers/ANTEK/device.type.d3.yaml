@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2b34a0a5-6c54-42c4-8943-6ffdd7019f2d
-  mac-addresses:
+  id: 542ebe01-b77d-4d59-9a00-fd88c11ed5cb
+  macAddresses:
   - 00:50:C2:83:40:00/36
   - 70:B3:D5:90:C0:00/36
   manufacturer: ANTEK GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ANTEK
 type: d3-device-type-assertion

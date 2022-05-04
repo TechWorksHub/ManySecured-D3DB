@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9100755f-012f-44fd-9578-934bdb83c126
-  mac-addresses:
+  id: ebd3684d-c4b1-4ce5-b2af-04c4dfcabb35
+  macAddresses:
   - 00:10:64:00:00:00/24
   manufacturer: Dnpg, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dnpg
 type: d3-device-type-assertion

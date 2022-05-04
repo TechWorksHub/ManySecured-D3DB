@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3f23114-fb91-4c74-b3ad-d3797edfc15f
-  mac-addresses:
+  id: c29f9424-7af4-464e-ae5c-5486ee232230
+  macAddresses:
   - 00:1B:A1:00:00:00/24
   manufacturer: "\xC5mic AB"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "\xC5mic"
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af06267e-11c8-4f20-bbae-c2b3321474c9
-  mac-addresses:
+  id: c57dbff7-ea7d-4791-8da2-6538577934dd
+  macAddresses:
   - 00:80:76:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mcnc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dd0c3d2-4179-4681-acd0-5661c792c969
-  mac-addresses:
+  id: 59d24f6c-346c-4e8b-8949-60182c01c972
+  macAddresses:
   - 00:13:78:00:00:00/24
   manufacturer: Qsan Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QsanTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35f9c2ed-0df5-438c-8b43-a8ab5a4aa384
-  mac-addresses:
+  id: 7e16eb3f-a4df-4b5b-8063-a3aa09f7912e
+  macAddresses:
   - 28:2C:02:30:00:00/28
   manufacturer: Dexin Digital Technology Corp. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DexinDig
 type: d3-device-type-assertion

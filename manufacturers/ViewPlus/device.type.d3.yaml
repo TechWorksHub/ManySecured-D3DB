@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed1b819c-b9e7-4317-b279-1ee1faee9151
-  mac-addresses:
+  id: e17763a0-9ef2-48e5-bf76-e4776b492b39
+  macAddresses:
   - 00:50:C2:7C:B0:00/36
   manufacturer: ViewPlus Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViewPlus
 type: d3-device-type-assertion

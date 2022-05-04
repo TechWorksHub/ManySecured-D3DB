@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f9920c9-2764-464a-a1d9-bd29f149ef3a
-  mac-addresses:
+  id: 41214b1d-00e3-4bc2-9aad-0d2723df0917
+  macAddresses:
   - 70:B3:D5:DD:D0:00/36
   manufacturer: Bio Rad Laboratories
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BioRadLa
 type: d3-device-type-assertion

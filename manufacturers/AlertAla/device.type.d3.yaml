@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb0e92f3-0742-4b06-ad60-f7717a61734e
-  mac-addresses:
+  id: b2a3dbb3-40d8-4c75-88c1-355c2e16a626
+  macAddresses:
   - E4:4C:C7:00:00:00/28
   manufacturer: Alert Alarm AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlertAla
 type: d3-device-type-assertion

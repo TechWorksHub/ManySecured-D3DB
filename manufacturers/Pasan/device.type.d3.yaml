@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4aa3dd77-539b-4315-9bf4-a82e86dcd6a4
-  mac-addresses:
+  id: 10ce9fba-2f28-4db7-b0bc-75c28b73da6b
+  macAddresses:
   - 00:50:C2:71:20:00/36
   manufacturer: Pasan SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pasan
 type: d3-device-type-assertion

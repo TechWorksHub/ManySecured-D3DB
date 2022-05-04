@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7796b4f-952f-40b7-92db-7103d82c15d1
-  mac-addresses:
+  id: ce786a0c-307a-492b-b38b-07ca5719b7f4
+  macAddresses:
   - 00:50:C2:DC:D0:00/36
   manufacturer: dilitronics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dilitron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cb30bcc-345a-44a7-bab7-c1d6879f1e52
-  mac-addresses:
+  id: 73a99cca-f3f1-42f1-bb47-4e2e8bb9b369
+  macAddresses:
   - 00:50:90:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dctri
 type: d3-device-type-assertion

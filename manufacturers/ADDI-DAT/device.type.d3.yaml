@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16763f59-239b-4a96-afc6-e5df67ab6efd
-  mac-addresses:
+  id: b96e96ad-c48c-4a97-afd3-8906332438de
+  macAddresses:
   - 00:0F:6C:00:00:00/24
   manufacturer: ADDI-DATA GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADDI-DAT
 type: d3-device-type-assertion

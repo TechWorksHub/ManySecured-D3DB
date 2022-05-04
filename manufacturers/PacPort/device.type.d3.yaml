@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45869705-dedb-4d98-a6b0-06b813e3d0b4
-  mac-addresses:
+  id: adc37fa4-292c-4740-b576-b55ba3733938
+  macAddresses:
   - 04:D1:6E:C0:00:00/28
   manufacturer: PacPort Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacPort
 type: d3-device-type-assertion

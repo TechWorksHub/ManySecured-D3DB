@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b3f572c-af0c-4cbb-b9e8-48d5af1013c3
-  mac-addresses:
+  id: dc2b9ccc-3768-46b9-b148-0f65d941c448
+  macAddresses:
   - 00:01:D3:00:00:00/24
   manufacturer: PAXCOMM, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PAXCOMM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 972dffe9-112f-4fee-b7ab-1a74591fa5f3
-  mac-addresses:
+  id: fb75004e-b764-482d-9c16-eeb71bebee23
+  macAddresses:
   - 00:18:ED:00:00:00/24
   manufacturer: Accutech Ultrasystems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accutech
 type: d3-device-type-assertion

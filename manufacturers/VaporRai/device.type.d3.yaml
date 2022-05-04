@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 258ead1d-a809-47c2-9763-48d5bb7de9f9
-  mac-addresses:
+  id: cb6f698b-ef4f-48c7-93e8-41f25e447c9b
+  macAddresses:
   - 00:50:C2:91:10:00/36
   manufacturer: Vapor Rail
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VaporRai
 type: d3-device-type-assertion

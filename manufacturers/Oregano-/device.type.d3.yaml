@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37e4c656-2f31-4551-b26e-7d6728cd30cd
-  mac-addresses:
+  id: b19951c8-5de7-4c56-9d6d-826e2e5fba8d
+  macAddresses:
   - 8C:A5:A1:00:00:00/24
   manufacturer: Oregano Systems - Design & Consulting GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oregano-
 type: d3-device-type-assertion

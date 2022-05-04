@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84cbfdaa-1457-4e1a-848c-f6be55b67f4c
-  mac-addresses:
+  id: b34428d2-a0f5-4ac7-a9d0-06cb5ba262ac
+  macAddresses:
   - 00:13:ED:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Psia
 type: d3-device-type-assertion

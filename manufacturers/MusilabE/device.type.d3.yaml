@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9cf56303-7e0f-4a5b-9908-7b71c0e4698c
-  mac-addresses:
+  id: c5352936-8dae-4c31-bbb5-66e11fc5f791
+  macAddresses:
   - 78:99:66:00:00:00/24
   manufacturer: Musilab Electronics (DongGuan)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MusilabE
 type: d3-device-type-assertion

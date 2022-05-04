@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc808680-51b8-4cc3-94e6-9ac8ae5c7955
-  mac-addresses:
+  id: d61b3e1d-df94-46e1-8d2c-91714913acf5
+  macAddresses:
   - 70:B3:D5:4E:E0:00/36
   manufacturer: NOA Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NOA
 type: d3-device-type-assertion

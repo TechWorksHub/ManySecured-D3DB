@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc150849-f45b-45d6-b579-2944ca70c175
-  mac-addresses:
+  id: 61f8f410-86c7-44d2-872a-78970ea52bf1
+  macAddresses:
   - 00:50:C2:25:A0:00/36
   manufacturer: Zendex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zendex
 type: d3-device-type-assertion

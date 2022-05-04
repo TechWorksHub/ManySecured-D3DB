@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b6b1189f-4915-41cd-983a-abfd6f96e785
-  mac-addresses:
+  id: f3436495-62a2-4ca3-a0cd-13822070f0e5
+  macAddresses:
   - 00:50:C2:86:A0:00/36
   - 8C:1F:64:CD:60:00/36
   manufacturer: USM Systems, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: USM
 type: d3-device-type-assertion

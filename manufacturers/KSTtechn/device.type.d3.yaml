@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d9e40781-a7a3-4c05-85f7-82b25d7aabd9
-  mac-addresses:
+  id: df27f248-de05-4fe6-bbd6-a87c5ff2c974
+  macAddresses:
   - 00:50:C2:FF:80:00/36
   - 40:D8:55:18:60:00/36
   - 4C:AB:33:00:00:00/24
@@ -18,6 +18,6 @@ credentialSubject:
   - 70:B3:D5:CB:30:00/36
   - 70:B3:D5:F7:B0:00/36
   manufacturer: KST technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KSTtechn
 type: d3-device-type-assertion

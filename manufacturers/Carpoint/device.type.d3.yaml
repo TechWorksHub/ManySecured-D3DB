@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c17bba9d-949c-4d0f-9ab5-f118dacadc72
-  mac-addresses:
+  id: b49595f5-87c8-498e-b26f-e1d551e60689
+  macAddresses:
   - 00:1C:DB:00:00:00/24
   manufacturer: Carpoint Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carpoint
 type: d3-device-type-assertion

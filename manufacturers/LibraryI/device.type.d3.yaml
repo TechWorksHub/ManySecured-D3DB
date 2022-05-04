@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6657757a-cbe0-443b-9cf7-eebc5391d30c
-  mac-addresses:
+  id: c672689b-dcd4-429d-9f6d-6e68af140171
+  macAddresses:
   - D8:86:0B:B0:00:00/28
   manufacturer: Library Ideas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LibraryI
 type: d3-device-type-assertion

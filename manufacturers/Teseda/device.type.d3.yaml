@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a3f484f-7357-4564-9a48-9828945c57d1
-  mac-addresses:
+  id: 1d5026d8-b98f-4e9a-b3d6-67d702264383
+  macAddresses:
   - 00:50:C2:16:20:00/36
   manufacturer: Teseda Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teseda
 type: d3-device-type-assertion

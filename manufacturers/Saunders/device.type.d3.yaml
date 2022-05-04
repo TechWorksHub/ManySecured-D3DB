@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39f0ae1b-2ff4-4f69-9136-bbbd5df81b4f
-  mac-addresses:
+  id: 04ced7b2-990b-4915-bd4d-e00ec63e7965
+  macAddresses:
   - 00:15:4C:00:00:00/24
   manufacturer: Saunders Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Saunders
 type: d3-device-type-assertion

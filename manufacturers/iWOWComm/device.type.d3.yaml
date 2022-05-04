@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e4f1139-a324-422d-8463-c3ba71768ddc
-  mac-addresses:
+  id: ee4c7728-91db-46f6-9b20-aa2c8ae64267
+  macAddresses:
   - 00:24:1B:00:00:00/24
   manufacturer: iWOW Communications Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iWOWComm
 type: d3-device-type-assertion

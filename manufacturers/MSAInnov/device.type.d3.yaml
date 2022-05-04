@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0374883c-3764-4199-b570-47cfedb5af07
-  mac-addresses:
+  id: bfa76531-f505-4fe9-b2ed-aeceb04dfebb
+  macAddresses:
   - CC:41:8E:00:00:00/24
   manufacturer: MSA Innovation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSAInnov
 type: d3-device-type-assertion

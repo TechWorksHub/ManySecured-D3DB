@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be4a63a3-9149-4e6c-b0cd-399311349266
-  mac-addresses:
+  id: ca1b0b42-fd78-4e34-92f2-711f6683edd3
+  macAddresses:
   - 7C:BA:CC:C0:00:00/28
   manufacturer: Flying Loft Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlyingLo
 type: d3-device-type-assertion

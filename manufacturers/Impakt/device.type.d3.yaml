@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ace858f3-2fb1-4643-b429-fc7959e96496
-  mac-addresses:
+  id: 5b8f6836-03ca-41be-9df8-dec4be541c6e
+  macAddresses:
   - B4:4B:D6:C0:00:00/28
   manufacturer: Impakt S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Impakt
 type: d3-device-type-assertion

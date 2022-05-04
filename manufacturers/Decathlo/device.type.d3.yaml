@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b259763d-04ca-44e0-b915-adcc3316fa51
-  mac-addresses:
+  id: 49a8c707-0dac-424e-b20c-2edb5dda9d2f
+  macAddresses:
   - D0:5F:64:00:00:00/28
   manufacturer: Decathlon SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Decathlo
 type: d3-device-type-assertion

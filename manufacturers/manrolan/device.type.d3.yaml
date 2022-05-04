@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60b36a8f-e172-4160-9fd4-a63b1ad00dfa
-  mac-addresses:
+  id: 54d88192-2cdc-48db-aceb-9f978b477cee
+  macAddresses:
   - 00:01:D6:00:00:00/24
   manufacturer: manroland AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: manrolan
 type: d3-device-type-assertion

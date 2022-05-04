@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f17d2a4-ad1f-4460-86a9-da0e65d4b6ff
-  mac-addresses:
+  id: fecaa098-73c7-40e1-a988-a8cd6b23e7f6
+  macAddresses:
   - 00:D0:7E:00:00:00/24
   manufacturer: Keycorp Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Keycorp
 type: d3-device-type-assertion

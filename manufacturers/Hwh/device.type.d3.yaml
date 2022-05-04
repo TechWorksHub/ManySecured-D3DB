@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 852fe3a5-a242-4f79-93af-8c47360fb874
-  mac-addresses:
+  id: 238d7c41-f425-49a4-b18c-1bdce4c4d410
+  macAddresses:
   - 24:F5:7E:00:00:00/24
   manufacturer: Hwh Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hwh
 type: d3-device-type-assertion

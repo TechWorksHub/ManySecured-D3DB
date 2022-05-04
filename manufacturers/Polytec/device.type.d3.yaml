@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ff33831-a11e-4272-bb07-0ce42d313cba
-  mac-addresses:
+  id: f04ddf94-15ae-4671-b126-bb07a4667888
+  macAddresses:
   - 64:AE:88:00:00:00/24
   manufacturer: Polytec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polytec
 type: d3-device-type-assertion

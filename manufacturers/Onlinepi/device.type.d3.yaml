@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d77126f0-f862-4501-b984-9e735769e751
-  mac-addresses:
+  id: 7968460a-68d9-4fd4-bcec-121a7f1b5c19
+  macAddresses:
   - 00:50:C2:BB:E0:00/36
   manufacturer: Onlinepizza Norden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Onlinepi
 type: d3-device-type-assertion

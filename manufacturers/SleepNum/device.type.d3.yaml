@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 325166cc-f368-438b-8888-25b7e23f04ad
-  mac-addresses:
+  id: fa94f870-54e0-4435-a20f-f0e4bc795bb5
+  macAddresses:
   - 18:45:B3:E0:00:00/28
   - 80:16:09:00:00:00/24
   - E0:23:D7:00:00:00/24
   manufacturer: Sleep Number
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SleepNum
 type: d3-device-type-assertion

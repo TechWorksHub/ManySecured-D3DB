@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1d10e9d-5397-4c6e-9d1c-6c846677d66a
-  mac-addresses:
+  id: e803cf7e-82c5-4685-9436-b7db0c749796
+  macAddresses:
   - 70:B3:D5:82:F0:00/36
   manufacturer: SIANA Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIANA
 type: d3-device-type-assertion

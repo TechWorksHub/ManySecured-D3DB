@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 378dba51-c69c-442f-adb6-e6cae1e449c7
-  mac-addresses:
+  id: d31ecf11-8282-4cdd-8d02-a2de536b0ee0
+  macAddresses:
   - 00:0D:A0:00:00:00/24
   manufacturer: Nedap N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nedap
 type: d3-device-type-assertion

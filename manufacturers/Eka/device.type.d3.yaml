@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 981c2566-2bad-4454-ba57-eea7c551e3bb
-  mac-addresses:
+  id: e4cf59d4-0bd6-482b-b7a0-e5b353907d5b
+  macAddresses:
   - 00:14:08:00:00:00/24
   manufacturer: Eka Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eka
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 02c4afe3-eabf-4ae4-8b01-4ab1a36af683
-  mac-addresses:
+  id: cca70613-7490-48ba-b1df-08dccb9ef07c
+  macAddresses:
   - 00:50:C2:12:A0:00/36
   - 08:00:05:00:00:00/24
   - D4:CF:37:00:00:00/24
   - FA:55:6F:00:00:00/24
   manufacturer: Symbolic Sound Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symbolic
 type: d3-device-type-assertion

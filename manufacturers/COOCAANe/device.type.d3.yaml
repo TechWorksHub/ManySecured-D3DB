@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fed4d2b-e71a-403d-9c03-449d2d458540
-  mac-addresses:
+  id: afc99491-93f8-4540-b636-e3254a07eb1b
+  macAddresses:
   - E8:01:15:00:00:00/24
   manufacturer: COOCAA Network Technology CO.,TD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COOCAANe
 type: d3-device-type-assertion

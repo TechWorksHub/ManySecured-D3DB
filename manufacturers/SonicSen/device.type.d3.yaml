@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d41bfc3-4bdc-43a5-8634-70d01e3d7568
-  mac-addresses:
+  id: b16115b0-3a67-441c-9378-18d3c3de43a4
+  macAddresses:
   - A0:84:CB:00:00:00/24
   manufacturer: SonicSensory,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonicSen
 type: d3-device-type-assertion

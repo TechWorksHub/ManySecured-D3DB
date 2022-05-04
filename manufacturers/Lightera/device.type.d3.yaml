@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9075a1d-6f9f-4fc3-90d3-9f2f00d71212
-  mac-addresses:
+  id: 0c3a357d-ec51-4f62-b06e-c2ed42c71f16
+  macAddresses:
   - 00:D0:EB:00:00:00/24
   manufacturer: Lightera Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightera
 type: d3-device-type-assertion

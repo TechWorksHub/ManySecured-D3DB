@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f4e8ebb-4638-4a97-b3de-82c786a42c5e
-  mac-addresses:
+  id: c2afb6d8-dc60-4886-b536-84115bfa9661
+  macAddresses:
   - 70:B3:D5:56:10:00/36
   manufacturer: Liberator Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liberato
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b188f94d-b442-4a78-b75e-c42d653de070
-  mac-addresses:
+  id: 7c2d6627-f08e-4036-9f70-dfaec122cdee
+  macAddresses:
   - 00:1F:D7:00:00:00/24
   manufacturer: Telerad Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telerad
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f907e058-159b-453b-8ef5-c7cd24fc31cf
-  mac-addresses:
+  id: f0b39919-2528-42f9-86cc-f8c27073305c
+  macAddresses:
   - 00:50:C2:E6:10:00/36
   manufacturer: Detech Electronics ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DetechEl
 type: d3-device-type-assertion

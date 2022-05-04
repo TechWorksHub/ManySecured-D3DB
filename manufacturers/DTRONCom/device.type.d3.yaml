@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d10f7c1-6f8b-451b-942e-fd27e3a44ccf
-  mac-addresses:
+  id: 09ed5e54-abaf-4a3b-8cf1-938346b01ed7
+  macAddresses:
   - 70:B3:D5:90:F0:00/36
   manufacturer: DTRON Communications (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DTRONCom
 type: d3-device-type-assertion

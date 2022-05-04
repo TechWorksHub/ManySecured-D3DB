@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acbaf804-7279-4409-8992-d5eb2ead1e24
-  mac-addresses:
+  id: 275d2734-e324-4823-b5da-2eb24fa40363
+  macAddresses:
   - 70:B3:D5:BB:90:00/36
   manufacturer: KOSMEK.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KOSMEK
 type: d3-device-type-assertion

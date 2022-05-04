@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bccf6a00-3de8-4574-afdf-87a57920c104
-  mac-addresses:
+  id: 970afe1d-7db3-4ec6-b422-9f3efe14e694
+  macAddresses:
   - 00:90:A4:00:00:00/24
   manufacturer: Altiga Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltigaNe
 type: d3-device-type-assertion

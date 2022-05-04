@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4e0ab3e-1ac9-4ed8-afb7-a9a0620a7e70
-  mac-addresses:
+  id: d641fa34-93bf-4f84-80ba-d456bcb6df97
+  macAddresses:
   - C4:CB:54:00:00:00/24
   manufacturer: Fibocom Auto Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FibocomA
 type: d3-device-type-assertion

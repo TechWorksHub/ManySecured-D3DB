@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdada060-2fc7-4202-b06a-36c5fb6f962e
-  mac-addresses:
+  id: eb43fa7c-f447-4e18-8eaa-96e5c2e19701
+  macAddresses:
   - 70:B3:D5:05:30:00/36
   manufacturer: Yamakatsu Electronics Industry Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yamakats
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3be714bf-2a83-4163-9c14-9f98e9c9e274
-  mac-addresses:
+  id: 19b6049b-422c-4b42-8ef6-6f721fb0e226
+  macAddresses:
   - 00:C0:35:00:00:00/24
   manufacturer: Quintar Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quintar
 type: d3-device-type-assertion

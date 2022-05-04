@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a165a2e-92e1-461a-b586-0c062e9dc901
-  mac-addresses:
+  id: fd0152cb-4395-478d-98ba-d022a0b60750
+  macAddresses:
   - 70:B3:D5:CD:10:00/36
   manufacturer: Cannex Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CannexTe
 type: d3-device-type-assertion

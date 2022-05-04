@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 013645ff-1bf6-4d17-84d5-3927fd350dc3
-  mac-addresses:
+  id: 29d026c4-31a5-4055-acc4-b803e9702298
+  macAddresses:
   - 00:12:F9:00:00:00/24
   manufacturer: Uryu Seisaku, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UryuSeis
 type: d3-device-type-assertion

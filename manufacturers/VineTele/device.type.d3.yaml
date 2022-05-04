@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7daa155-a5e2-4ffa-b638-311570000255
-  mac-addresses:
+  id: 9120aaad-d880-4e35-a1ca-1627e7ab9868
+  macAddresses:
   - 00:24:5F:00:00:00/24
   manufacturer: Vine Telecom CO.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VineTele
 type: d3-device-type-assertion

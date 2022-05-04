@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d8d3964-5bf9-4b4c-a533-c0d1c6f7f1ff
-  mac-addresses:
+  id: 80504590-0428-413c-9156-a18c02b9d5dc
+  macAddresses:
   - 8C:5D:60:00:00:00/24
   manufacturer: UCI Corporation Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UCI
 type: d3-device-type-assertion

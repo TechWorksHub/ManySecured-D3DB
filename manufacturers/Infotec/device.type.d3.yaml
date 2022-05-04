@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec4de000-5818-4d32-b5cc-0e010eb2caae
-  mac-addresses:
+  id: 5ce0c5f4-4b05-46ea-9f10-b4f6b7dfa5bd
+  macAddresses:
   - 00:0D:9A:00:00:00/24
   manufacturer: Infotec Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infotec
 type: d3-device-type-assertion

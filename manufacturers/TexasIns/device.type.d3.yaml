@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 0c4c302b-e353-4266-b869-e24c778e0655
-  mac-addresses:
+  id: c30cffc4-ee7e-427d-a45a-0e1ce1fd4373
+  macAddresses:
   - 00:12:37:00:00:00/24
   - 00:12:4B:00:00:00/24
   - 00:12:D1:00:00:00/24
@@ -271,6 +271,6 @@ credentialSubject:
   - FC:69:47:00:00:00/24
   - FC:A8:9B:00:00:00/24
   manufacturer: Texas Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TexasIns
 type: d3-device-type-assertion

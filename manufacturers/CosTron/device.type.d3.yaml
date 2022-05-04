@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82b7c1fe-807e-4ad5-9f25-4d2dc6321537
-  mac-addresses:
+  id: b2f719b4-0781-487a-a27e-adf20c0b82eb
+  macAddresses:
   - 00:08:03:00:00:00/24
   manufacturer: Cos Tron
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CosTron
 type: d3-device-type-assertion

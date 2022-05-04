@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c95e4a3d-9656-48fd-84bc-3ca862570184
-  mac-addresses:
+  id: 2121f117-a5fe-490b-b270-aaa00b499f09
+  macAddresses:
   - 00:03:2F:00:00:00/24
   manufacturer: Global Sun Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalSu
 type: d3-device-type-assertion

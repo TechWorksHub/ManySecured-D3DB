@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24840672-78ed-4d0b-8022-326c8b8fa810
-  mac-addresses:
+  id: fb114ddf-9c81-4846-96cf-34f87c61949a
+  macAddresses:
   - 70:B3:D5:31:B0:00/36
   manufacturer: SilTerra Malaysia Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SilTerra
 type: d3-device-type-assertion

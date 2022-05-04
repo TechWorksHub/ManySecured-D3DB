@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cff0f967-981d-4f12-a49d-db98f1d74543
-  mac-addresses:
+  id: a0b183fc-8ee0-4b91-b48b-88f666c5de07
+  macAddresses:
   - 70:B3:D5:1E:30:00/36
   manufacturer: Hatel Elektronik LTD. STI.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HatelEle
 type: d3-device-type-assertion

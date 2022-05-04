@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 087c97a7-4287-4ab6-b986-bd43ce58df86
-  mac-addresses:
+  id: 5a8504ab-422e-4bcc-8923-c026a094a086
+  macAddresses:
   - 00:09:32:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omnilux
 type: d3-device-type-assertion

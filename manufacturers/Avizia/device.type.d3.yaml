@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a497c14f-6cad-4a22-92e6-1e3032f16e14
-  mac-addresses:
+  id: 18517c70-76f9-40f5-ae44-872dae55c203
+  macAddresses:
   - B0:09:D3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avizia
 type: d3-device-type-assertion

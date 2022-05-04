@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f53ea5f3-0379-4749-81c3-4537e0ed6838
-  mac-addresses:
+  id: f1d9389c-fd33-4720-85f4-40d5a11af692
+  macAddresses:
   - 38:09:A4:00:00:00/24
   manufacturer: Firefly Integrations
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FireflyI
 type: d3-device-type-assertion

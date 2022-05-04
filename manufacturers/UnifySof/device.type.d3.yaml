@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06a315cb-29c7-48a2-86f4-2e384a893983
-  mac-addresses:
+  id: c6c47f6c-a8fe-4cc0-a6de-15a19fb38853
+  macAddresses:
   - 00:1A:E8:00:00:00/24
   manufacturer: Unify Software and Solutions GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnifySof
 type: d3-device-type-assertion

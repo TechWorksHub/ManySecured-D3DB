@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec3cab68-d6b2-4cd3-89fa-acd815227e2f
-  mac-addresses:
+  id: e5eaadee-8a9c-494a-bce3-dd7eeaa30148
+  macAddresses:
   - C4:93:13:00:00:00/24
   manufacturer: 100fio networks technology llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 100fione
 type: d3-device-type-assertion

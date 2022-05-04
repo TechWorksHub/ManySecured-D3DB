@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76da91de-95c8-458b-8eff-ab0f72272324
-  mac-addresses:
+  id: 768d34c9-d61a-4a20-817a-9e09c56708e8
+  macAddresses:
   - 00:40:C3:00:00:00/24
   manufacturer: Fischer And Porter Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FischerA
 type: d3-device-type-assertion

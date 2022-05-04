@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dfa2e79-ff98-4f4b-8cc9-6f8770092fe3
-  mac-addresses:
+  id: b2927c30-62c4-4e61-99cd-ca00666762e8
+  macAddresses:
   - 98:8F:E0:E0:00:00/28
   manufacturer: CEL Terminus (Shanghai) Information Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CELTermi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1804f271-4af2-42ed-b1ca-6696427a8368
-  mac-addresses:
+  id: adc83715-66f6-43d6-8c68-7a7e5b34bf2a
+  macAddresses:
   - 00:C0:4C:00:00:00/24
   manufacturer: Department Of Foreign Affairs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Departme
 type: d3-device-type-assertion

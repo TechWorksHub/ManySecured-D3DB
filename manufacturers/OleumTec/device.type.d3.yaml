@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ace4d2c1-1551-423e-a744-4e3f6ed506a3
-  mac-addresses:
+  id: a2ee57f3-f0fb-498a-b981-658c389f04bb
+  macAddresses:
   - 70:82:8E:00:00:00/24
   manufacturer: OleumTech Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OleumTec
 type: d3-device-type-assertion

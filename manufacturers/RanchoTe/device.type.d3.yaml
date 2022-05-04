@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61cba521-501b-42a3-bcad-04a96ab4483a
-  mac-addresses:
+  id: ce0ab583-5d2f-4dd6-beaa-6a1bfc4c37bb
+  macAddresses:
   - 00:0C:A3:00:00:00/24
   manufacturer: Rancho Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RanchoTe
 type: d3-device-type-assertion

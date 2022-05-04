@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a3766f97-da7d-4e51-943a-f6bcf20435b5
-  mac-addresses:
+  id: ea946c56-75d5-4396-8eca-b516a120fbc6
+  macAddresses:
   - 00:50:C2:70:20:00/36
   - 98:AA:FC:50:00:00/28
   manufacturer: SPM Instrument AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPMInstr
 type: d3-device-type-assertion

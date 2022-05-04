@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 263ba658-5c4d-45ce-aa87-2c55aa6e35df
-  mac-addresses:
+  id: 72566502-ae87-4ff6-8cbd-f9aa455e09a7
+  macAddresses:
   - 00:1E:CB:00:00:00/24
   manufacturer: RPC Energoautomatika" Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RPCEnerg
 type: d3-device-type-assertion

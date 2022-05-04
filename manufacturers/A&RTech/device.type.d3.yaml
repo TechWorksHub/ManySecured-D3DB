@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8a58239-fa1a-4a50-8608-adbd74ae6ba5
-  mac-addresses:
+  id: 0cebcde5-db4c-40d4-b1ee-271395973c2c
+  macAddresses:
   - C0:35:80:00:00:00/24
   manufacturer: A&R Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A&RTech
 type: d3-device-type-assertion

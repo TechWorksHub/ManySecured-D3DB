@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c0bfa39-be9a-4378-a7a0-8a7157ef4772
-  mac-addresses:
+  id: e376d729-ccb6-4026-a13b-76e01db108f6
+  macAddresses:
   - B4:39:34:00:00:00/24
   manufacturer: Pen Generations, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PenGener
 type: d3-device-type-assertion

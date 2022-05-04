@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0222f66d-5fa3-4e09-93ff-62cc5718a487
-  mac-addresses:
+  id: 28ecb03d-c205-459d-8875-4194ec3fc19d
+  macAddresses:
   - 00:C0:EC:00:00:00/24
   manufacturer: Dauphin Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DauphinT
 type: d3-device-type-assertion

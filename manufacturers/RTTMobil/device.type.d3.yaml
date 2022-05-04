@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ab8a19d-0458-41d3-a426-80ddc69eb6dc
-  mac-addresses:
+  id: 9aafccf6-5d73-47a3-a9ef-95312ae34a2f
+  macAddresses:
   - 00:50:C2:FE:40:00/36
   manufacturer: RTT Mobile Interpretation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RTTMobil
 type: d3-device-type-assertion

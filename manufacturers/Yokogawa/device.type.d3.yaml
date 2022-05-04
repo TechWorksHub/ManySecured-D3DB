@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 2a01ef60-d3da-42b5-9788-1b70d96599f9
-  mac-addresses:
+  id: b8b49971-0ea5-4a36-b633-b8559e2439cf
+  macAddresses:
   - 00:00:64:00:00:00/24
   - 00:60:41:00:00:00/24
   - D0:0A:AB:00:00:00/24
   manufacturer: Yokogawa Digital Computer Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yokogawa
 type: d3-device-type-assertion

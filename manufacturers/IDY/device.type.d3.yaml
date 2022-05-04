@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0930ae3d-d8bf-4b2a-8f8d-cf5464155d17
-  mac-addresses:
+  id: 90ab3291-92a4-4a3c-81f1-b16c985f77a3
+  macAddresses:
   - 1C:06:56:00:00:00/24
   manufacturer: IDY Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDY
 type: d3-device-type-assertion

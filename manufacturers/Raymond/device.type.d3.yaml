@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd0c2a6c-f727-48f9-af18-300bb42d7dba
-  mac-addresses:
+  id: 6311930f-24bc-426a-84b4-b8645d63ba0a
+  macAddresses:
   - 0C:5C:B5:50:00:00/28
   manufacturer: The Raymond Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Raymond
 type: d3-device-type-assertion

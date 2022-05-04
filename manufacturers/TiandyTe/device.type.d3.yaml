@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffb33c7d-eade-4b39-8e7b-662ea93df6ee
-  mac-addresses:
+  id: 23e2cf23-22b3-4eaf-b8a6-d6753c380c17
+  macAddresses:
   - 3C:DA:6D:00:00:00/24
   manufacturer: Tiandy Technologies CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiandyTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 580ea18a-bd30-4bae-93e4-457d0161f5c6
-  mac-addresses:
+  id: c6ea3225-cea2-4b4a-a7f7-9622bcebd14c
+  macAddresses:
   - 00:05:83:00:00:00/24
   manufacturer: ImageCom Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImageCom
 type: d3-device-type-assertion

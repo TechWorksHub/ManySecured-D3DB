@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57e8c3a7-d3d1-4275-9579-4c0c8d5b0bb5
-  mac-addresses:
+  id: 46d9ace7-d9d3-48a5-8e41-40e5aab3be2c
+  macAddresses:
   - 00:20:72:00:00:00/24
   manufacturer: Worklink Innovations
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Worklink
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bd662d4-e9ee-4286-b85a-62ce98f24382
-  mac-addresses:
+  id: a319463e-26b3-4f2b-b571-97fbd0431a8b
+  macAddresses:
   - 00:12:D7:00:00:00/24
   manufacturer: Invento Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InventoN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d74119c-31a5-4cf6-9c12-204f68461792
-  mac-addresses:
+  id: f6e3938b-66ec-4caa-9dc3-728de76b6d9e
+  macAddresses:
   - 00:0C:D8:00:00:00/24
   manufacturer: M. K. Juchheim GmbH & Co
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MKJuchhe
 type: d3-device-type-assertion

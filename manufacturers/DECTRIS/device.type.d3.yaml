@@ -1,8 +1,8 @@
 credentialSubject:
-  id: edbd06b4-bfd4-4ec8-bac6-d5181197b35e
-  mac-addresses:
+  id: 4447a7f1-cb01-4510-b4df-01313de86e59
+  macAddresses:
   - 00:50:C2:95:90:00/36
   manufacturer: DECTRIS Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DECTRIS
 type: d3-device-type-assertion

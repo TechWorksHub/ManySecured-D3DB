@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 308a8028-80a5-4f6d-8dc7-f19ea77640a1
-  mac-addresses:
+  id: bb2807b4-74e7-4398-ab62-cba303c9a8a3
+  macAddresses:
   - 5C:33:5C:00:00:00/24
   manufacturer: Swissphone Telecom AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swisspho
 type: d3-device-type-assertion

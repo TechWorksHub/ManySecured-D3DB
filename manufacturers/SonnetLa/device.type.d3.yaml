@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 307605f1-0eef-448f-94b4-f3bfef194925
-  mac-addresses:
+  id: e0e461ee-306c-4d47-a86d-f3187d4de983
+  macAddresses:
   - 88:5F:E8:30:00:00/28
   manufacturer: Sonnet Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonnetLa
 type: d3-device-type-assertion

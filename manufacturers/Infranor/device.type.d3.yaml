@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95ae3397-1a94-40da-bd35-ba1802466677
-  mac-addresses:
+  id: 294720ae-cc75-4f1e-a23c-8dae65fb5aa8
+  macAddresses:
   - 98:44:B6:00:00:00/24
   manufacturer: Infranor Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infranor
 type: d3-device-type-assertion

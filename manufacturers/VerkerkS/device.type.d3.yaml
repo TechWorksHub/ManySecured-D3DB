@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8e5a4fa-caaa-48ec-9101-c0f6c2e350fd
-  mac-addresses:
+  id: 4920ad03-138c-4f7e-9f1f-57e7adb5a000
+  macAddresses:
   - 00:18:E1:00:00:00/24
   manufacturer: Verkerk Service Systemen
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VerkerkS
 type: d3-device-type-assertion

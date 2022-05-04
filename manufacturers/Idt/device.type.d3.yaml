@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91583af0-38ca-4e85-aa3c-f86f0a02e2c7
-  mac-addresses:
+  id: 8f2048d9-b549-4d03-95e8-e31af2bcbb4e
+  macAddresses:
   - A8:72:85:00:00:00/24
   manufacturer: Idt, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Idt
 type: d3-device-type-assertion

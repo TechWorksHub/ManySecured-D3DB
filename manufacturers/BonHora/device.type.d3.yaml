@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0967f7d7-4de1-4eb6-9a2b-ca668df4e233
-  mac-addresses:
+  id: a59883d3-f92d-4ddc-a463-515d932e7248
+  macAddresses:
   - 00:50:C2:9B:10:00/36
   manufacturer: Bon Hora GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BonHora
 type: d3-device-type-assertion

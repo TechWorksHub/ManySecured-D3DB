@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0f7ed08-065c-4077-ab5e-df37f0f6da97
-  mac-addresses:
+  id: e1ef79a6-17cc-4df6-94d4-cdf8ecd80602
+  macAddresses:
   - 00:05:07:00:00:00/24
   manufacturer: Fine Appliance Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FineAppl
 type: d3-device-type-assertion

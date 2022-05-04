@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 13f8818b-24ac-4d3c-af17-1a56b161a01b
-  mac-addresses:
+  id: 22725d6c-b148-4445-bd0e-22cb73480c0b
+  macAddresses:
   - 50:62:55:D0:00:00/28
   - 70:B3:D5:D2:30:00/36
   manufacturer: COTT Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COTTElec
 type: d3-device-type-assertion

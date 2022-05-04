@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92d363fb-ad10-4b78-b0e8-44b6cb5d2c31
-  mac-addresses:
+  id: 0a0e3c91-962e-499d-9d51-51e26551739e
+  macAddresses:
   - 1C:87:74:E0:00:00/28
   manufacturer: Quest Integrity
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuestInt
 type: d3-device-type-assertion

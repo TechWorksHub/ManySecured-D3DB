@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddf31f6d-329f-498a-a8ec-2251fab81ead
-  mac-addresses:
+  id: 3366f925-267a-4c6b-b8df-4876b34811fb
+  macAddresses:
   - 00:06:84:00:00:00/24
   manufacturer: Biacore AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Biacore
 type: d3-device-type-assertion

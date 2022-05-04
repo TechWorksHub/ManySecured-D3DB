@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9e4d86c0-ab8d-432f-8c04-9008de34c66b
-  mac-addresses:
+  id: d49328bb-ba9b-468a-9dd6-cab810415c53
+  macAddresses:
   - 00:25:52:00:00:00/24
   - 3C:68:16:00:00:00/24
   manufacturer: VXi Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VXi
 type: d3-device-type-assertion

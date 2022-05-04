@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb07f8ee-d426-40db-b044-76d6854ca8a3
-  mac-addresses:
+  id: 0d6ee25a-c83a-48ba-8fea-1dfa69dc9c37
+  macAddresses:
   - 70:B3:D5:0D:B0:00/36
   manufacturer: Cryptotronix LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cryptotr
 type: d3-device-type-assertion

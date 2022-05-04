@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f64a4f84-3c54-47b5-a47f-ad9761b87f28
-  mac-addresses:
+  id: 69f87377-0b68-4ffa-b755-7fa5571c22a5
+  macAddresses:
   - 44:29:38:00:00:00/24
   manufacturer: NietZsche enterprise Co.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NietZsch
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c625bc30-a3ca-410c-946d-b85e658b8b57
-  mac-addresses:
+  id: 9a6b9a18-2897-406f-866b-b1eadbe9fb0c
+  macAddresses:
   - 00:26:DC:00:00:00/24
   manufacturer: Optical Systems Design
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpticalD
 type: d3-device-type-assertion

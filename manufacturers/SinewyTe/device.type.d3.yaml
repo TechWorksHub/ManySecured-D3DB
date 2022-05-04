@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2d9c30e-6ec5-4888-bd89-119ca363b416
-  mac-addresses:
+  id: 88bdc145-5a0f-4c16-84d7-8cfd9a56f2b6
+  macAddresses:
   - 78:CC:2B:00:00:00/24
   manufacturer: Sinewy Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SinewyTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29719d00-a167-4afa-902a-7f5d946f9cdc
-  mac-addresses:
+  id: 0e04d31a-26a9-4d1f-a000-580267e44dd1
+  macAddresses:
   - 70:B3:D5:A5:20:00/36
   manufacturer: APEX Stabilizations GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APEXStab
 type: d3-device-type-assertion

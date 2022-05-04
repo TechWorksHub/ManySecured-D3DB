@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0881137b-21ef-4f06-a6e7-c0f162e91b4f
-  mac-addresses:
+  id: 5f3393bd-a5fe-4115-b02f-d5cea2710757
+  macAddresses:
   - 8C:AE:49:20:00:00/28
   manufacturer: "SEVERIN Elektroger\xE4te GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEVERINE
 type: d3-device-type-assertion

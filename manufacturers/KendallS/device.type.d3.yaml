@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 471eaffc-f48a-4825-bdaa-9cfa14ef9ba5
-  mac-addresses:
+  id: 9cc14610-5fe4-4670-8de3-d42565c41a66
+  macAddresses:
   - 00:80:81:00:00:00/24
   manufacturer: Kendall Square Research Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KendallS
 type: d3-device-type-assertion

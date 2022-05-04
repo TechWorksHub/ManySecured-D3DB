@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb10d891-b6ec-46ce-91b9-0db9748fd6ee
-  mac-addresses:
+  id: 5ad49567-a4d8-4aa6-8b71-6c2476d95936
+  macAddresses:
   - 00:90:16:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zac
 type: d3-device-type-assertion

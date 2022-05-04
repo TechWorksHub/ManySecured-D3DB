@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 902d7e32-8ba7-4d1e-b9f1-b691eccda1e7
-  mac-addresses:
+  id: 4b252b5f-de13-45a1-a58e-4953eb76b04e
+  macAddresses:
   - 98:06:37:20:00:00/28
   manufacturer: Summa nv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Summa
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 41c94794-2b8a-474d-94d7-5a2606df2d63
-  mac-addresses:
+  id: a47ace0f-1251-4bf7-9bb4-484552f5dbee
+  macAddresses:
   - 00:08:D5:00:00:00/24
   - 00:16:E4:00:00:00/24
   - 00:50:C2:36:60:00/36
   - 38:F7:CD:30:00:00/28
   manufacturer: Vanguard Networks Solutions, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vanguard
 type: d3-device-type-assertion

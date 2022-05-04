@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67cf13ed-14cd-4a19-aa07-7c1f07949501
-  mac-addresses:
+  id: 2507017c-18d0-46a9-8d70-2c5a72d8ed0b
+  macAddresses:
   - 00:1C:F3:00:00:00/24
   manufacturer: Evs Broadcast Equipment
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EvsBroad
 type: d3-device-type-assertion

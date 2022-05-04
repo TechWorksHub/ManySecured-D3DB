@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ebb4831-e3cf-4173-b4f4-b6ec1fd475a2
-  mac-addresses:
+  id: a8957395-2b33-446a-9992-5c392cb5a038
+  macAddresses:
   - 00:60:D4:00:00:00/24
   manufacturer: Eldat Communication Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EldatCom
 type: d3-device-type-assertion

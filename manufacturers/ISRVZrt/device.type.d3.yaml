@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f56658f-ef62-40b6-94e2-3eef2c566d04
-  mac-addresses:
+  id: 5feb2dde-0ee2-4004-a036-d5fed3bf5d61
+  macAddresses:
   - 70:B3:D5:AB:10:00/36
   manufacturer: ISRV Zrt.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISRVZrt
 type: d3-device-type-assertion

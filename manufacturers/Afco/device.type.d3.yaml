@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47f52a86-5486-4992-ac12-9e840ad6646d
-  mac-addresses:
+  id: 08f65f05-e612-4cc0-a055-ae60004673d4
+  macAddresses:
   - 00:0D:7D:00:00:00/24
   manufacturer: Afco Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Afco
 type: d3-device-type-assertion

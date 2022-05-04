@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07c3d708-0042-467d-b552-02e9cebb87ad
-  mac-addresses:
+  id: 0d1c2dc6-8ae3-4c8e-b0b4-c5fae488c2f5
+  macAddresses:
   - 00:80:C9:00:00:00/24
   manufacturer: Alberta Microelectronic Centre
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlbertaM
 type: d3-device-type-assertion

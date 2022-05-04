@@ -1,10 +1,10 @@
 credentialSubject:
-  id: b34b322e-d4f1-48d3-b5ab-95e6d9552842
-  mac-addresses:
+  id: 019a87bc-fe82-4c0e-85ca-1da4dd77773a
+  macAddresses:
   - 00:80:29:00:00:00/24
   - 00:80:4B:00:00:00/24
   - 00:A0:B9:00:00:00/24
   manufacturer: Eagle Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EagleTec
 type: d3-device-type-assertion

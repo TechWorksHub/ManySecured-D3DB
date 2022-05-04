@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 077f0c2e-dcb3-48b0-a135-e0a357598039
-  mac-addresses:
+  id: ae17134e-2b1e-4d4f-ada1-7b7932f43246
+  macAddresses:
   - 00:25:5F:00:00:00/24
   manufacturer: SenTec AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenTec
 type: d3-device-type-assertion

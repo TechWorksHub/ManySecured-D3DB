@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65016eaa-058f-4fe8-8669-d7774da2e582
-  mac-addresses:
+  id: b48f6740-1943-45d8-91b2-7152fc83902a
+  macAddresses:
   - 00:50:C2:15:E0:00/36
   manufacturer: Celite Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Celite
 type: d3-device-type-assertion

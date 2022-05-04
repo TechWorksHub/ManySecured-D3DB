@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6733b42d-b7ee-4f3a-a606-99b2d01c39fc
-  mac-addresses:
+  id: 916dd4e8-7818-4dc2-af9b-d2f0b9144f0e
+  macAddresses:
   - 3C:80:AA:00:00:00/24
   manufacturer: Ransnet Singapore Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RansnetS
 type: d3-device-type-assertion

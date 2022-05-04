@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f4d5189-fe61-495a-b1a5-d2d4d1f167a6
-  mac-addresses:
+  id: 2a2d3a84-1abc-4832-963a-014bb692c279
+  macAddresses:
   - B8:87:C6:00:00:00/24
   manufacturer: Prudential Technology co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prudenti
 type: d3-device-type-assertion

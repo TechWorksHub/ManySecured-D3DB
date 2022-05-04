@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65dbf26f-8298-4d60-be90-86e67f213a4b
-  mac-addresses:
+  id: b8482973-77de-4311-a204-4be5a7142b74
+  macAddresses:
   - 1C:A0:EF:70:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: tec5AG
 type: d3-device-type-assertion

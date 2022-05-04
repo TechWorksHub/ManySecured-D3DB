@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b39a53f9-27fb-4628-9a6c-088e731f6f54
-  mac-addresses:
+  id: 3fd50435-d288-489a-a437-70e2700df61b
+  macAddresses:
   - CC:C2:61:20:00:00/28
   manufacturer: Tecnoideal Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecnoide
 type: d3-device-type-assertion

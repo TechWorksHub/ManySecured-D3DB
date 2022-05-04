@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 511bb3b8-b2bd-4274-ab0f-d6914686c27a
-  mac-addresses:
+  id: d0c1e672-2a01-4a6e-8acd-7d2dd6f4b50f
+  macAddresses:
   - 00:50:C2:23:90:00/36
   manufacturer: Stins Coman
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StinsCom
 type: d3-device-type-assertion

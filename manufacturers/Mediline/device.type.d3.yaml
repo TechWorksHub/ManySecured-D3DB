@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a48b33ff-8389-4592-83a2-d8119f0a642d
-  mac-addresses:
+  id: 16d4ea46-da7a-4771-98e6-35c9a5e11b04
+  macAddresses:
   - 78:99:8F:00:00:00/24
   manufacturer: Mediline Italia Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mediline
 type: d3-device-type-assertion

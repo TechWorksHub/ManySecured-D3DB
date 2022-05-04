@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6c7f685-ccbe-47cc-8621-28553452bf9f
-  mac-addresses:
+  id: e5e0013f-e70c-4b98-a8e5-aec33e937bbe
+  macAddresses:
   - 78:5E:E8:90:00:00/28
   manufacturer: TOPDON TECHNOLOGY Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOPDONTE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3038c10b-992a-4a21-b9cd-fa698469f1ce
-  mac-addresses:
+  id: a0e814dd-1e9a-4a94-9a39-dec6da21e865
+  macAddresses:
   - 00:27:01:00:00:00/24
   manufacturer: INCOstartec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INCOstar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76745c0b-fc38-41f9-8fa2-5fd07400509b
-  mac-addresses:
+  id: ceee33bd-4d30-4309-b404-9b0de5f221f8
+  macAddresses:
   - 00:50:C2:F9:90:00/36
   manufacturer: Dr. Neumann elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DrNeuman
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 039d0889-985b-4196-95ee-789b900c9336
-  mac-addresses:
+  id: 821c8983-2b45-4afd-a678-dceeb4267a50
+  macAddresses:
   - 3C:6A:2C:30:00:00/28
   manufacturer: figur8, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: figur8
 type: d3-device-type-assertion

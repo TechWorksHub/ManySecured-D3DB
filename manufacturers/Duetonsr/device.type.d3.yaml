@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e66f577-7da0-4e1f-947e-246835863f33
-  mac-addresses:
+  id: 8b2b88d3-3d02-4f54-83b9-c2cab07f7d09
+  macAddresses:
   - F8:02:78:D0:00:00/28
   manufacturer: Dueton Systems s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duetonsr
 type: d3-device-type-assertion

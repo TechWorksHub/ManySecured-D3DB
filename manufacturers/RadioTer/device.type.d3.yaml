@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a09c8893-acba-49b1-8797-42cc4668770f
-  mac-addresses:
+  id: ff64821d-6e07-479d-a8a2-21c5bf2e628f
+  macAddresses:
   - 00:1A:EA:00:00:00/24
   manufacturer: Radio Terminal Systems Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadioTer
 type: d3-device-type-assertion

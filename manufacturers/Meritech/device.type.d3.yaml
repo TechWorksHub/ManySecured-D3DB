@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 975e50f4-2dbf-4a22-a758-d6fe25edaf39
-  mac-addresses:
+  id: 12d1b734-e210-42d5-93d8-9cab5b3f6671
+  macAddresses:
   - 38:98:D8:00:00:00/24
   manufacturer: Meritech Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meritech
 type: d3-device-type-assertion

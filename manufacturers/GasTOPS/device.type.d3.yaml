@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7aa2188d-f7ff-48fd-b21b-57e58389c075
-  mac-addresses:
+  id: 968cfee1-4f98-49c8-8a96-4ff5a8f35eac
+  macAddresses:
   - 00:50:C2:BD:B0:00/36
   manufacturer: GasTOPS Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GasTOPS
 type: d3-device-type-assertion

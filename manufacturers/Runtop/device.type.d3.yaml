@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8c21b386-3834-49bc-9613-5bbfdd29e81c
-  mac-addresses:
+  id: de2cce16-82cb-47e1-bcd2-721e5b1de784
+  macAddresses:
   - 00:03:6D:00:00:00/24
   - 00:20:78:00:00:00/24
   manufacturer: Runtop, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Runtop
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1409a5f0-15ef-4694-a4e6-87e310ac95a0
-  mac-addresses:
+  id: 9666f579-57d0-41be-a240-264cdffd13d7
+  macAddresses:
   - FC:09:D8:00:00:00/24
   manufacturer: ACTEON Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACTEONGr
 type: d3-device-type-assertion

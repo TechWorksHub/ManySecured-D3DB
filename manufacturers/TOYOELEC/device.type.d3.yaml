@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27a0900c-72c2-4323-bec0-62544608ae04
-  mac-addresses:
+  id: 4c23ef3e-a517-4485-854a-ba8d1b9471a3
+  macAddresses:
   - 00:1E:54:00:00:00/24
   manufacturer: TOYO ELECTRIC Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOYOELEC
 type: d3-device-type-assertion

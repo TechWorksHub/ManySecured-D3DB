@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 894fbec8-7d08-415a-b24c-84b2444c99a4
-  mac-addresses:
+  id: ac4d3632-2d2c-493d-b3a5-22cd04bf69b9
+  macAddresses:
   - 00:16:F2:00:00:00/24
   manufacturer: Dmobile System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DmobileS
 type: d3-device-type-assertion

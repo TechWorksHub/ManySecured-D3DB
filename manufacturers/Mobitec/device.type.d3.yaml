@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0489a9e5-ad0a-48be-8e0f-9770c0c6f75e
-  mac-addresses:
+  id: 4043de22-7534-4d8b-94ac-a7f171b924db
+  macAddresses:
   - F0:F2:60:00:00:00/24
   manufacturer: Mobitec AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobitec
 type: d3-device-type-assertion

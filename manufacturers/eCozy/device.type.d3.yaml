@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00704cf4-3c25-40bc-8281-a9c33385629c
-  mac-addresses:
+  id: cb4ee6f2-fefa-4247-9f58-f538c0a7d5c7
+  macAddresses:
   - 70:B3:D5:DE:00:00/36
   manufacturer: eCozy GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eCozy
 type: d3-device-type-assertion

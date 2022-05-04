@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2e5a3fe-7762-4e34-85f7-0e89a079a249
-  mac-addresses:
+  id: 48af41fc-e0c4-4be4-8ff8-29580518547c
+  macAddresses:
   - CC:D3:9D:10:00:00/28
   manufacturer: Evoko Unlimited AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EvokoUnl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec1aa718-23a7-4421-91cb-52d21deb8251
-  mac-addresses:
+  id: 69850753-15e5-4e4b-a9f8-8505d96eec99
+  macAddresses:
   - 1C:B8:57:00:00:00/24
   manufacturer: Becon Technologies Co,.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeconTec
 type: d3-device-type-assertion

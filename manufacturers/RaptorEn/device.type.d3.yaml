@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06c78516-f79d-45eb-bada-74d407805a2d
-  mac-addresses:
+  id: 4fd97351-874f-4ff1-a6ac-fd5473cf6f44
+  macAddresses:
   - 2C:09:4D:00:00:00/24
   manufacturer: Raptor Engineering, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaptorEn
 type: d3-device-type-assertion

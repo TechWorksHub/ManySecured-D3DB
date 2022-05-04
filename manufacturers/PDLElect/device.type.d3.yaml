@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 988b6c78-a589-4328-851e-66dfeec1801c
-  mac-addresses:
+  id: ddf71726-8960-41c3-b2d5-79c031bd0597
+  macAddresses:
   - 00:14:31:00:00:00/24
   manufacturer: PDL Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PDLElect
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a8fbc719-89f5-4e22-8096-a7db24060256
-  mac-addresses:
+  id: 5f5a7ae4-1481-4b97-8047-d6a08f071cea
+  macAddresses:
   - 00:50:C2:28:60:00/36
   - 00:50:C2:7B:10:00/36
   - 00:50:C2:8E:A0:00/36
@@ -14,6 +14,6 @@ credentialSubject:
   - 70:B3:D5:AA:70:00/36
   - 70:B3:D5:DC:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ateme
 type: d3-device-type-assertion

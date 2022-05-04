@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab741476-0239-4b68-8476-8f48acb690c4
-  mac-addresses:
+  id: 04a0a15e-e615-4405-85f0-8355d35d184f
+  macAddresses:
   - 4A:C0:3F:00:00:00/24
   manufacturer: Wuhan Hikstorage Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanHik
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b6fb3fc-d93d-4af6-9206-e6b1957e13f4
-  mac-addresses:
+  id: ba8a464e-e85a-4c79-8014-ca3570595bb4
+  macAddresses:
   - 00:16:57:00:00:00/24
   manufacturer: Aegate Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aegate
 type: d3-device-type-assertion

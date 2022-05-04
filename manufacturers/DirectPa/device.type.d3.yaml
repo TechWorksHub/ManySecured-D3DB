@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d36c5e0a-2743-4c00-a3f5-bd75f7c67057
-  mac-addresses:
+  id: fbe99da5-f32d-41e3-9c5f-2bcae8c3280f
+  macAddresses:
   - 74:2E:FC:00:00:00/24
   - B4:2C:BE:00:00:00/24
   manufacturer: DirectPacket Research, Inc,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DirectPa
 type: d3-device-type-assertion

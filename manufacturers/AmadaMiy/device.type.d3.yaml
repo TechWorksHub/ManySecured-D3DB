@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c539115c-0b82-41f8-a3e1-5b2159d11d08
-  mac-addresses:
+  id: 95b364b2-db22-47dd-a9f6-d9e985fffc94
+  macAddresses:
   - 70:B3:D5:7B:60:00/36
   manufacturer: Amada Miyachi America Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmadaMiy
 type: d3-device-type-assertion

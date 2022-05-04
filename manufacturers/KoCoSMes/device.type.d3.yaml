@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40772c7a-a754-4672-847d-5c3587158dde
-  mac-addresses:
+  id: 4a9e9578-778d-412f-9a77-b42603c26946
+  macAddresses:
   - A0:3E:6B:B0:00:00/28
   manufacturer: KoCoS Messtechnik AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoCoSMes
 type: d3-device-type-assertion

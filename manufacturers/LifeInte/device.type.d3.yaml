@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdadeb31-67f0-4cf7-9ab6-923d18383208
-  mac-addresses:
+  id: 065b9277-30b6-4ffe-b382-b7b47d0e0972
+  macAddresses:
   - 34:04:9E:60:00:00/28
   manufacturer: Life Interface Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifeInte
 type: d3-device-type-assertion

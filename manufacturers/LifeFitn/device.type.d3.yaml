@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 543614ad-b534-4f77-b1a0-6c29a37d19ac
-  mac-addresses:
+  id: 60bee89d-9a6b-471f-b1d4-3c063f199a46
+  macAddresses:
   - 48:82:44:00:00:00/24
   manufacturer: Life Fitness / Div. of Brunswick
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifeFitn
 type: d3-device-type-assertion

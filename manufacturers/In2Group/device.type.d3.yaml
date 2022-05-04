@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fbaebf5-f1c0-4094-8206-18091e6d59af
-  mac-addresses:
+  id: b03d003b-20ca-41d4-a49c-609659dc5e8b
+  macAddresses:
   - 00:00:E4:00:00:00/24
   manufacturer: In2 Groupe Intertechnique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: In2Group
 type: d3-device-type-assertion

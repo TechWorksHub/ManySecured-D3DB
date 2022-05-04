@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd3e9700-845e-4630-88c0-39d4c21a0d1c
-  mac-addresses:
+  id: b41b77c3-1e7d-4b90-a159-b6a76a0adf78
+  macAddresses:
   - 40:7F:E0:00:00:00/24
   manufacturer: Glory Star Technics (ShenZhen) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlorySta
 type: d3-device-type-assertion

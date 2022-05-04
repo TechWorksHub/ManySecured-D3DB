@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce1e7194-61fa-4b5b-84fc-dcdf58da7b89
-  mac-addresses:
+  id: 57713c23-899c-4022-98d2-d91602402b5b
+  macAddresses:
   - 00:16:83:00:00:00/24
   manufacturer: WEBIO International Co.,.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEBIOInt
 type: d3-device-type-assertion

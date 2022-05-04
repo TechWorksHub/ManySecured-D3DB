@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6d70642-05c0-4f19-ae03-d13c18524eb7
-  mac-addresses:
+  id: f1b47808-5343-4621-aebe-57c88130964e
+  macAddresses:
   - 40:D8:55:01:50:00/36
   manufacturer: BITMILL srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BITMILL
 type: d3-device-type-assertion

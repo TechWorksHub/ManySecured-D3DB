@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d2d2f528-e08f-433e-8c0e-0c652a9e0430
-  mac-addresses:
+  id: 818d0238-0113-46a4-9618-408bd5712ee8
+  macAddresses:
   - 00:23:C9:00:00:00/24
   - 00:E5:E4:00:00:00/24
   - 04:6B:25:00:00:00/24
@@ -60,6 +60,6 @@ credentialSubject:
   - F8:CD:C8:00:00:00/24
   - FC:37:2B:00:00:00/24
   manufacturer: Sichuan Tianyi Information Science & Technology Stock CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab64ac0c-b91c-4b54-a7d8-38a42d0e92b2
-  mac-addresses:
+  id: 82bed338-370c-4a40-be36-c6d4ac6556d2
+  macAddresses:
   - 00:25:26:00:00:00/24
   manufacturer: Genuine Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GenuineT
 type: d3-device-type-assertion

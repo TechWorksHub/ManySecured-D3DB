@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7f291c89-678e-4b86-bdcf-57b2ac2cc4c2
-  mac-addresses:
+  id: f01274b0-574d-4767-baf5-bba4dd9f251e
+  macAddresses:
   - 00:20:87:00:00:00/24
   - 00:40:0E:00:00:00/24
   manufacturer: Memotec, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Memotec
 type: d3-device-type-assertion

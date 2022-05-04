@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c4a0fb1-e7c9-4649-83a8-52e98ab128c2
-  mac-addresses:
+  id: f45b4d30-a06f-4a3b-8395-ac8b3d23b612
+  macAddresses:
   - 64:31:7E:00:00:00/24
   manufacturer: Dexin Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dexin
 type: d3-device-type-assertion

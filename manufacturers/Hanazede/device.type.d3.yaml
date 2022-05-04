@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caef69e9-f2f7-4f6a-b808-3a27adb4e5e8
-  mac-addresses:
+  id: 6bc93f60-043b-41c6-9ef3-d526be5d5c4b
+  macAddresses:
   - 00:17:22:00:00:00/24
   manufacturer: Hanazeder Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hanazede
 type: d3-device-type-assertion

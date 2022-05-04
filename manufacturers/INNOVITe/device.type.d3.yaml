@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6801fe7-ae1c-491c-bc5d-56fc5f60192f
-  mac-addresses:
+  id: 7391d2f8-cc52-4100-ba1d-35993589e96e
+  macAddresses:
   - 00:06:C5:00:00:00/24
   manufacturer: INNOVI Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INNOVITe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bf3c273-9ae6-42da-9888-f94abd7a1663
-  mac-addresses:
+  id: 0a07651c-d254-4e34-b68d-9d2b5890262c
+  macAddresses:
   - 00:1C:8C:00:00:00/24
   manufacturer: Dial Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DialTech
 type: d3-device-type-assertion

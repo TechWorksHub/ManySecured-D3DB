@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd487dd9-b157-4c57-a715-2bcb374c5c94
-  mac-addresses:
+  id: 03e62360-eef6-43d9-9181-a8d9fdaf348c
+  macAddresses:
   - 00:05:68:00:00:00/24
   manufacturer: Piltofish Networks AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Piltofis
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f07d14e-bf7d-4cee-9259-9705102c3677
-  mac-addresses:
+  id: 61f9623c-3ff0-4c37-a09e-0ae411626447
+  macAddresses:
   - 00:04:7A:00:00:00/24
   manufacturer: Axxessit Asa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axxessit
 type: d3-device-type-assertion

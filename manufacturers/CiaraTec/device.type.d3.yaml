@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ba54d2b-e755-49b5-aff8-9ef9b9b1a86f
-  mac-addresses:
+  id: 2353006c-ca1e-481b-8132-5b48ce49461d
+  macAddresses:
   - 00:13:9E:00:00:00/24
   manufacturer: Ciara Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiaraTec
 type: d3-device-type-assertion

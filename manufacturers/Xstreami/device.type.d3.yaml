@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 31e3cebc-95d8-4e80-86e4-2f61d468316f
-  mac-addresses:
+  id: ef60514a-2fe8-41da-8dab-009b3c208c86
+  macAddresses:
   - 00:10:87:00:00:00/24
   - 00:B0:B3:00:00:00/24
   manufacturer: Xstreamis Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xstreami
 type: d3-device-type-assertion

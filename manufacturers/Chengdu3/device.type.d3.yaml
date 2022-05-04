@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21e92133-6244-463d-a206-0154dd27ca43
-  mac-addresses:
+  id: 24e91a08-a09d-456c-9559-367360bf039f
+  macAddresses:
   - 00:22:7E:00:00:00/24
   manufacturer: Chengdu 30Kaitian Communication Industry Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chengdu3
 type: d3-device-type-assertion

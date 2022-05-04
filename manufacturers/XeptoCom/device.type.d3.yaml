@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1fe9513-6bc0-41dc-968b-5ab5e4844c86
-  mac-addresses:
+  id: b7bc00bb-b460-4852-b116-00e940e544fb
+  macAddresses:
   - 40:D8:55:0C:10:00/36
   manufacturer: Xepto Computing Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XeptoCom
 type: d3-device-type-assertion

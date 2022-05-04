@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56c20b64-ae4a-4285-82ea-778f3504219b
-  mac-addresses:
+  id: 7f1f0cfd-74c9-4f54-bfa3-a56efc86c2e4
+  macAddresses:
   - 00:07:7B:00:00:00/24
   manufacturer: Millimetrix Broadband Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Millimet
 type: d3-device-type-assertion

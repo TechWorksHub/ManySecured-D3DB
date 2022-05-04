@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0a2db5ae-710e-4eda-8007-f311e5e27d27
-  mac-addresses:
+  id: 03298352-357f-4f73-b5aa-0eb9601e7302
+  macAddresses:
   - 70:B3:D5:BE:30:00/36
   manufacturer: Saratov Electrounit Production Plant named after Sergo Ordzhonikidze,
     OJSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaratovE
 type: d3-device-type-assertion

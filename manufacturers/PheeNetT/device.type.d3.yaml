@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c802b22e-343e-47f1-9863-6fdbb464c291
-  mac-addresses:
+  id: 2983f6c6-ef67-4b67-8c18-c02c0adae998
+  macAddresses:
   - 00:1A:50:00:00:00/24
   manufacturer: PheeNet Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PheeNetT
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 05168ce5-ef29-4420-8ca6-71a9e9f2a4bd
-  mac-addresses:
+  id: 14dd48d6-a300-4813-99d8-9b4957ca6883
+  macAddresses:
   - 00:21:BF:00:00:00/24
   - C0:9B:F4:20:00:00/28
   - DC:17:5A:00:00:00/24
   - FC:79:0B:00:00:00/24
   manufacturer: Hitachi High-Tech Control Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HitachiH
 type: d3-device-type-assertion

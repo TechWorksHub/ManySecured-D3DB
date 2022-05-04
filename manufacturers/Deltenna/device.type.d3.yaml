@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fec28168-546e-44f1-8191-78c526463b57
-  mac-addresses:
+  id: 7f7790c4-081d-4aaf-847a-962a4d821bb4
+  macAddresses:
   - F8:AC:6D:00:00:00/24
   manufacturer: Deltenna Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Deltenna
 type: d3-device-type-assertion

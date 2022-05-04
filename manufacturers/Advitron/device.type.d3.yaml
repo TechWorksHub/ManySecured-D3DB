@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c92f617-be64-4420-b08b-0fed73e71f0e
-  mac-addresses:
+  id: 1f01be1f-fd19-41ba-8cf1-aba199f6acaf
+  macAddresses:
   - 70:B3:D5:E9:90:00/36
   manufacturer: Advitronics telecom bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advitron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b663ecf-aefa-4591-9fd0-bb933ededdfc
-  mac-addresses:
+  id: fb43504a-31e3-470e-965c-f7b0ae68fa8d
+  macAddresses:
   - 00:21:0E:00:00:00/24
   manufacturer: Orpak Systems L.T.D.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrpakLTD
 type: d3-device-type-assertion

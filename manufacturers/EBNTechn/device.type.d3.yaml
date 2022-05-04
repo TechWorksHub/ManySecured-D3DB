@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45d5bdbc-c655-4c69-85be-7df8fcb1b774
-  mac-addresses:
+  id: 46a0e9d1-852d-4bbb-9f09-f4245a9b9f31
+  macAddresses:
   - 54:03:F5:00:00:00/24
   manufacturer: EBN Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EBNTechn
 type: d3-device-type-assertion

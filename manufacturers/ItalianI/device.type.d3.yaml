@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b34c7e1-4bb5-4800-9104-0dc0b316ba3e
-  mac-addresses:
+  id: f62d0134-af15-4310-8ab0-c0aa29f09297
+  macAddresses:
   - 70:9A:0B:00:00:00/24
   manufacturer: Italian Institute of Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ItalianI
 type: d3-device-type-assertion

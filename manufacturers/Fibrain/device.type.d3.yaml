@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 926055d4-ead2-4d85-b551-f0cd271048aa
-  mac-addresses:
+  id: 47673044-791e-4b0d-8489-83ad8fd31715
+  macAddresses:
   - 00:1B:C5:02:F0:00/36
   - 54:DB:A2:00:00:00/24
   - E0:5A:9F:60:00:00/28
   manufacturer: Fibrain Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fibrain
 type: d3-device-type-assertion

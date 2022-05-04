@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fddddf63-31ed-416d-be45-d5896616ad73
-  mac-addresses:
+  id: 17301270-7437-4d95-9eb4-2e3d290940b7
+  macAddresses:
   - 00:1F:7C:00:00:00/24
   manufacturer: Witelcom AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Witelcom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 994fb49b-eea7-4fd5-ac71-550bb307932b
-  mac-addresses:
+  id: a235cefb-5a4b-4023-823e-89b35aad0f92
+  macAddresses:
   - 40:D8:55:18:80:00/36
   manufacturer: Array Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Array
 type: d3-device-type-assertion

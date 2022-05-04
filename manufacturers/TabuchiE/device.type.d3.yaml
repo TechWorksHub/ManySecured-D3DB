@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d9a0f09-35bc-4fee-b9ba-fad505916245
-  mac-addresses:
+  id: d3da2c3f-24d9-4d60-bf7a-bb561a1c85c4
+  macAddresses:
   - A0:12:DB:00:00:00/24
   manufacturer: Tabuchi Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TabuchiE
 type: d3-device-type-assertion

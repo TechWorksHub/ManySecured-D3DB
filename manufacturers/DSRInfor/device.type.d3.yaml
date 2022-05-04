@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7b6c9ea-e478-452c-bc5a-4260c4270565
-  mac-addresses:
+  id: 1276d9e1-db99-4a04-898d-a61c2b113a49
+  macAddresses:
   - 00:50:C2:7C:20:00/36
   manufacturer: DSR Information Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSRInfor
 type: d3-device-type-assertion

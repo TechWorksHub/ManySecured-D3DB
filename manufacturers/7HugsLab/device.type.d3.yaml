@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 275e8de5-09aa-449f-a434-5cd3f9b4e4d0
-  mac-addresses:
+  id: 50c4594a-9856-4780-a6ca-2112fa508333
+  macAddresses:
   - 38:D7:CA:00:00:00/24
   manufacturer: 7Hugs Labs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 7HugsLab
 type: d3-device-type-assertion

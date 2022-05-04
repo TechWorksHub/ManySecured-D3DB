@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d6fde1f-85ec-4717-a36e-1211c395fadb
-  mac-addresses:
+  id: a96dcf8d-a676-4c19-b620-53901137e119
+  macAddresses:
   - D8:E3:AE:00:00:00/24
   manufacturer: Cirtec Medical Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CirtecMe
 type: d3-device-type-assertion

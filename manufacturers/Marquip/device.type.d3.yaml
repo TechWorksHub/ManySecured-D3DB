@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47885f93-30e2-4489-b86d-959784286cd9
-  mac-addresses:
+  id: 99033536-d523-42b8-bfc1-41b98ba864fb
+  macAddresses:
   - 00:A0:5B:00:00:00/24
   manufacturer: Marquip, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marquip
 type: d3-device-type-assertion

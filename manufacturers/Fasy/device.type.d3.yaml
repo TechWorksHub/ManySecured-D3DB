@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f988a592-a000-4331-828a-8db4751772e3
-  mac-addresses:
+  id: 774c4e8f-aa10-4fec-aa7a-703f9287911e
+  macAddresses:
   - 00:08:64:00:00:00/24
   manufacturer: Fasy S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fasy
 type: d3-device-type-assertion

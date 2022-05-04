@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee782a17-74d1-4719-8bb1-dee9b9ebadb0
-  mac-addresses:
+  id: a199f01b-5862-474b-a546-2c3af97ffdc1
+  macAddresses:
   - 80:59:FD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Noviga
 type: d3-device-type-assertion

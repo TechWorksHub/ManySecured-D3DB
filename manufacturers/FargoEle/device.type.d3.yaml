@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7e90bbb-64b9-4de1-84fb-5e9de6deab9c
-  mac-addresses:
+  id: 99750859-2e4e-47b8-8f54-b0b3d37ed51a
+  macAddresses:
   - 00:13:44:00:00:00/24
   manufacturer: Fargo Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FargoEle
 type: d3-device-type-assertion

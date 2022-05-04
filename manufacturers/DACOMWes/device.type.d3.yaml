@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0031abb7-dd35-439e-929c-3d542d3aeff0
-  mac-addresses:
+  id: b516ecb4-50ba-43bd-bda2-987ed11c82a9
+  macAddresses:
   - 70:B3:D5:1B:60:00/36
   manufacturer: DACOM West GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DACOMWes
 type: d3-device-type-assertion

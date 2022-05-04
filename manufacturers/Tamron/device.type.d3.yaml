@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0be2673-12d4-4882-949a-48bed3a5e32f
-  mac-addresses:
+  id: 3ad0713f-a364-41e3-b573-9a83293dde2a
+  macAddresses:
   - 88:18:AE:00:00:00/24
   manufacturer: Tamron Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tamron
 type: d3-device-type-assertion

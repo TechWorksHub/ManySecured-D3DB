@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 93ef579b-f178-47f7-83d4-ea957d867f97
-  mac-addresses:
+  id: c8a675b0-2ce1-4b7f-8b59-3ceb626dad9b
+  macAddresses:
   - 00:10:AD:00:00:00/24
   - 00:50:C2:A4:60:00/36
   manufacturer: Softronics Usb, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Softroni
 type: d3-device-type-assertion

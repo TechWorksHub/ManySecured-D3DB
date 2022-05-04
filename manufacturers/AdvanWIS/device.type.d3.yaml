@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60e7fa3d-2cdc-40ee-aacc-4268650f6f37
-  mac-addresses:
+  id: e1de5b51-537b-4e5e-aa92-a30e6fbf8738
+  macAddresses:
   - 60:95:CE:50:00:00/28
   manufacturer: AdvanWISE Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdvanWIS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89e4ef22-153f-42ba-bf93-ff17fd6cddca
-  mac-addresses:
+  id: 98b5f229-9ef4-4f07-8ab1-e62b99352ae2
+  macAddresses:
   - 70:B3:D5:39:60:00/36
   manufacturer: CTG sp. z o. o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CTGspzoo
 type: d3-device-type-assertion

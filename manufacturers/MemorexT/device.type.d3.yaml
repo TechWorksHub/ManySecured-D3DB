@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcdc64e1-f16a-41f6-a914-103f7ee41595
-  mac-addresses:
+  id: 8f10bec1-0179-4b00-b5bc-fac103ec1623
+  macAddresses:
   - 00:E0:C1:00:00:00/24
   manufacturer: Memorex Telex Japan, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MemorexT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57d4f12b-5cec-4120-8ca3-998b83523a61
-  mac-addresses:
+  id: d424fb4b-2aa7-4762-a065-e10c575b9866
+  macAddresses:
   - D4:73:50:00:00:00/24
   manufacturer: DBG Commnunications Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DBGCommn
 type: d3-device-type-assertion

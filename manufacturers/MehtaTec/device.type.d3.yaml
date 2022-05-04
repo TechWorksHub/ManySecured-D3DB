@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5f243f0-2b16-4dfa-876b-4e36c1af02a1
-  mac-addresses:
+  id: 47d69e0d-b80c-420e-bc8e-39c2efdb3688
+  macAddresses:
   - 00:50:C2:FC:90:00/36
   manufacturer: Mehta Tech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MehtaTec
 type: d3-device-type-assertion

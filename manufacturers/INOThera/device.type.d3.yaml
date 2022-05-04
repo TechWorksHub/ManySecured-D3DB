@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efe5e68d-4dd9-429c-a87a-a0be8afdba5f
-  mac-addresses:
+  id: 37c69bfd-c623-449e-ba1b-d48162b04c5e
+  macAddresses:
   - 00:23:E0:00:00:00/24
   manufacturer: INO Therapeutics LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INOThera
 type: d3-device-type-assertion

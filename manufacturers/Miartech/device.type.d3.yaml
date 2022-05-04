@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15497b03-52b2-4de8-8f5b-1770868aea3f
-  mac-addresses:
+  id: 9b197e97-e620-4e20-ae79-b54ea7b240f4
+  macAddresses:
   - FC:A9:B0:00:00:00/24
   manufacturer: Miartech (Shanghai),Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Miartech
 type: d3-device-type-assertion

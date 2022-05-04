@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4a0c45f-5045-4bb0-aacd-ecfed8a5eea0
-  mac-addresses:
+  id: adc15588-615a-4e54-b72e-7de7ca182ab2
+  macAddresses:
   - 00:25:49:00:00:00/24
   manufacturer: Jeorich Tech. Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JeorichT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 750fd0df-bddc-4aee-8d41-51a9cea0a0b1
-  mac-addresses:
+  id: 2e972ded-522f-4318-943f-0bff3aa53450
+  macAddresses:
   - 84:F8:83:00:00:00/24
   manufacturer: Luminar Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LuminarT
 type: d3-device-type-assertion

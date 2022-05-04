@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6109515e-3422-4b2e-ae1f-45d7f1fc947b
-  mac-addresses:
+  id: 921a781e-0087-47db-83a1-7c17c288765e
+  macAddresses:
   - 70:B3:D5:EE:80:00/36
   manufacturer: robert juliat
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: robertju
 type: d3-device-type-assertion

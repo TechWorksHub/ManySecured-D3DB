@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c72ca98-6b58-4bb5-839e-918551e345ea
-  mac-addresses:
+  id: cb959a15-4196-4848-97df-cf452962fadc
+  macAddresses:
   - 00:01:CA:00:00:00/24
   manufacturer: Geocast Network Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeocastN
 type: d3-device-type-assertion

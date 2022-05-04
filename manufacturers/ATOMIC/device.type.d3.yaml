@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2b2a924-20f0-4213-a669-f7f4a2681339
-  mac-addresses:
+  id: 682efa54-1a5d-4572-bb77-492173cd67ba
+  macAddresses:
   - 00:14:40:00:00:00/24
   manufacturer: ATOMIC Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATOMIC
 type: d3-device-type-assertion

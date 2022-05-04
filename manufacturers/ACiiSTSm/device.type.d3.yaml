@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18089050-8d18-4e8c-9b6a-62a1729d36f5
-  mac-addresses:
+  id: 14c880bc-458e-4e35-81dd-9b41dd64e2a0
+  macAddresses:
   - 38:A8:CD:00:00:00/28
   manufacturer: ACiiST Smart Networks Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACiiSTSm
 type: d3-device-type-assertion

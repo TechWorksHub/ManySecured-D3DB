@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fdf8f6f-50e7-441a-a3fe-0563cdb1b6b8
-  mac-addresses:
+  id: f6d742a5-ab43-48bc-b8d1-c4f9477ade7a
+  macAddresses:
   - 70:55:F8:00:00:00/24
   manufacturer: Cerebras Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cerebras
 type: d3-device-type-assertion

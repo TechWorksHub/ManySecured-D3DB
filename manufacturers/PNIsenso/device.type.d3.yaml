@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e1de7dc-7781-4fcf-9b3a-e972981b3421
-  mac-addresses:
+  id: 8988d89c-b3ec-4dc3-a209-c38a1554dbdb
+  macAddresses:
   - 14:93:46:00:00:00/24
   manufacturer: PNI sensor corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PNIsenso
 type: d3-device-type-assertion

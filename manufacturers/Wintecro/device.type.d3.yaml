@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9e90886e-f3c7-4c84-8d20-c8b9573794e6
-  mac-addresses:
+  id: 00b2964a-4604-4098-9e6c-ec0c667ad16c
+  macAddresses:
   - 00:15:F7:00:00:00/24
   - 48:36:5F:00:00:00/24
   manufacturer: Wintecronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wintecro
 type: d3-device-type-assertion

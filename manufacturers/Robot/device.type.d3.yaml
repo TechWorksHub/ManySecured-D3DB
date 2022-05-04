@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 954b5ccd-60e1-4911-8acd-1d68bf667b77
-  mac-addresses:
+  id: 6fefb5a2-c578-44d8-a063-0ff53766d899
+  macAddresses:
   - 60:95:CE:30:00:00/28
   manufacturer: Robot S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Robot
 type: d3-device-type-assertion

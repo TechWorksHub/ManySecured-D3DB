@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 921bf59a-1378-41b9-9311-cada9dac2d45
-  mac-addresses:
+  id: f1da9fe0-dcb2-4e32-a950-620ac8f59e24
+  macAddresses:
   - 00:50:C2:3D:20:00/36
   manufacturer: Adilec Enginyeria SL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdilecEn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecaefdfe-338b-4aa3-a703-fb9777545eab
-  mac-addresses:
+  id: 8ccb4d11-eb42-4a4e-a7b5-a79d9f012032
+  macAddresses:
   - A8:9B:10:00:00:00/24
   manufacturer: inMotion Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: inMotion
 type: d3-device-type-assertion

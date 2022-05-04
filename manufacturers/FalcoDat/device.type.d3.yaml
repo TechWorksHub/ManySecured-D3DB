@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc7113ab-759b-4584-8fbb-b9b5640cc120
-  mac-addresses:
+  id: 6a8b993a-a453-4652-8e12-3a216eb525b5
+  macAddresses:
   - 00:80:CB:00:00:00/24
   manufacturer: Falco Data Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FalcoDat
 type: d3-device-type-assertion

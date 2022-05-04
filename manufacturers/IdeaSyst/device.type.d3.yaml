@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a8abb02-6455-4b81-8aab-24e15c310dfe
-  mac-addresses:
+  id: 83da771a-c57f-4962-8bcf-ef621eb5c23b
+  macAddresses:
   - 00:07:87:00:00:00/24
   manufacturer: Idea System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IdeaSyst
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bee82992-d6a3-4373-a8af-ebe7b81eaed1
-  mac-addresses:
+  id: 50ce99ba-5845-4c6d-9a99-44b7f03902ab
+  macAddresses:
   - 00:20:A1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dovatron
 type: d3-device-type-assertion

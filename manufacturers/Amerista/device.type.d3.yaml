@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 188eecd4-265b-4167-8d98-abb1e5a61c8f
-  mac-addresses:
+  id: 42020467-e048-4618-894c-8afe9ea2cde7
+  macAddresses:
   - 00:00:9F:00:00:00/24
   manufacturer: Ameristar Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amerista
 type: d3-device-type-assertion

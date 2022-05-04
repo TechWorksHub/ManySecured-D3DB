@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c272e6c0-436f-4d5f-ab62-60e2c11c2f81
-  mac-addresses:
+  id: 50cbc0c6-1a37-4f8e-babe-feb0a893f4d3
+  macAddresses:
   - 8C:41:F2:00:00:00/24
   manufacturer: RDA Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RDATechn
 type: d3-device-type-assertion

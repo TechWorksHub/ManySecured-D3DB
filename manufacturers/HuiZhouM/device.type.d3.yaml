@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0aa49854-e9a1-4132-8909-87c1962b96db
-  mac-addresses:
+  id: d045b590-68f1-411d-a719-a724172153cb
+  macAddresses:
   - 8C:47:6E:20:00:00/28
   manufacturer: HuiZhou MIKI Communication Equipment Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuiZhouM
 type: d3-device-type-assertion

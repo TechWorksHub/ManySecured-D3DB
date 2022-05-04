@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8eb9d36-aede-49c9-9190-873427164254
-  mac-addresses:
+  id: f95f6e0a-c320-41e8-a5f5-3640548a1d77
+  macAddresses:
   - 6C:38:38:00:00:00/24
   manufacturer: Marking System Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarkingS
 type: d3-device-type-assertion

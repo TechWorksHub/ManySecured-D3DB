@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57e5cb1e-d5ce-41b6-b4ca-5f26f5bd17a1
-  mac-addresses:
+  id: 3708e1ed-e930-4714-9a06-c152ffd506a0
+  macAddresses:
   - 5C:85:7E:00:00:00/28
   manufacturer: 28 Gorilla
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 28Gorill
 type: d3-device-type-assertion

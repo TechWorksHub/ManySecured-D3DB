@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9698ab6b-d168-4798-8307-6b3e3faaaaa1
-  mac-addresses:
+  id: a7692a1f-3d2d-4713-91a5-bcad2fb5e638
+  macAddresses:
   - 8C:1F:64:9F:E0:00/36
   manufacturer: Metroval Controle de Fluidos Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metroval
 type: d3-device-type-assertion

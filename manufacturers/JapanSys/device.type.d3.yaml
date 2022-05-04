@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c3d2f2e-e03b-4457-919d-2673931cb84a
-  mac-addresses:
+  id: be188bd6-ceee-4203-a1d5-0e339ebb9a99
+  macAddresses:
   - 08:68:D0:00:00:00/24
   manufacturer: Japan System Design
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanSys
 type: d3-device-type-assertion

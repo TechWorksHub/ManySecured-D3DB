@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3b455056-6fb4-463b-926e-28b9e9d313ea
-  mac-addresses:
+  id: 10e065ac-4b54-4781-8e09-741e400cbc1f
+  macAddresses:
   - 00:12:F0:00:00:00/24
   - 00:13:02:00:00:00/24
   - 00:13:20:00:00:00/24
@@ -510,6 +510,6 @@ credentialSubject:
   - FC:B3:BC:00:00:00/24
   - FC:F8:AE:00:00:00/24
   manufacturer: Intel Corporate
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntelCor
 type: d3-device-type-assertion

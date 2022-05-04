@@ -1,8 +1,8 @@
 credentialSubject:
-  id: feeb4ded-dd3b-48c9-827b-a13b9e5ac032
-  mac-addresses:
+  id: 68383428-9a7d-4b32-9ee3-c9f17ef64432
+  macAddresses:
   - 30:78:C2:00:00:00/24
   manufacturer: Innowireless / QUCELL Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innowire
 type: d3-device-type-assertion

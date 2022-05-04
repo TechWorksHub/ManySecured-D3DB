@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d90d712e-0af6-4978-a206-a80cd831f6b2
-  mac-addresses:
+  id: 626524b5-f697-4b91-9fac-8beb7554ed74
+  macAddresses:
   - 70:B3:D5:56:20:00/36
   manufacturer: JD Squared, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JDSquare
 type: d3-device-type-assertion

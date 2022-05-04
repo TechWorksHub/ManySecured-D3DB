@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d82610a3-9740-4f01-bea0-50143d96bd29
-  mac-addresses:
+  id: 739f79b1-1898-498a-a758-f289f6a9f8d3
+  macAddresses:
   - 00:11:89:00:00:00/24
   manufacturer: Aerotech Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aerotech
 type: d3-device-type-assertion

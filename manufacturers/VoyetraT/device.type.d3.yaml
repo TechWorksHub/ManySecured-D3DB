@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ec2e42f-e702-4bc2-b11f-e8f60e271ce2
-  mac-addresses:
+  id: f2e3bb17-daa6-41a9-bed9-2f972d5b0b09
+  macAddresses:
   - 00:04:32:00:00:00/24
   manufacturer: Voyetra Turtle Beach, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VoyetraT
 type: d3-device-type-assertion

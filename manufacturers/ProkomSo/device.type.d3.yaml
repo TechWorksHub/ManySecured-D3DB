@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 748578d3-6e7b-4254-a2b7-33dd2bf98486
-  mac-addresses:
+  id: 8589aa29-9e29-4967-a421-7dd3d9b73dc0
+  macAddresses:
   - 00:14:70:00:00:00/24
   manufacturer: Prokom Software SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProkomSo
 type: d3-device-type-assertion

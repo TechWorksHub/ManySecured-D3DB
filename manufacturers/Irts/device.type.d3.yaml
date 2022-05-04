@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b76ebc3-a719-4d43-892b-eed1117c1b16
-  mac-addresses:
+  id: f4227f2a-a56c-411a-8d3c-837dbc31058b
+  macAddresses:
   - 24:3A:82:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Irts
 type: d3-device-type-assertion

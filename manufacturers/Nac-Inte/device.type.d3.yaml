@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33f57fb2-cb5d-4420-9ab4-8c7cbf3cebd0
-  mac-addresses:
+  id: 76ebd2d3-7807-4eb4-b939-02f5c270c297
+  macAddresses:
   - 00:1D:27:00:00:00/24
   manufacturer: Nac-Intercom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nac-Inte
 type: d3-device-type-assertion

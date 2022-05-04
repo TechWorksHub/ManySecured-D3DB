@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52a03883-0253-411e-8e81-3184d3af0ca3
-  mac-addresses:
+  id: 7cc64afd-dd9b-45bc-a5e8-0b92f0543e4d
+  macAddresses:
   - 00:50:C2:0F:30:00/36
   manufacturer: Young Computer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YoungCom
 type: d3-device-type-assertion

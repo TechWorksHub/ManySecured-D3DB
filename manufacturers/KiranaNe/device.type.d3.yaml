@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2df2575e-b800-497a-aca1-fe05d5c97b74
-  mac-addresses:
+  id: baac5a00-7f01-4cbc-916c-f1b809d7b69f
+  macAddresses:
   - 00:07:DB:00:00:00/24
   manufacturer: Kirana Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KiranaNe
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 698e95af-8899-41dd-af4c-3d0f69d5c839
-  mac-addresses:
+  id: ddab9efb-310b-4e5b-83cd-e28fe7d9a485
+  macAddresses:
   - 00:02:91:00:00:00/24
   - 00:0C:EF:00:00:00/24
   - A4:23:05:00:00:00/24
   manufacturer: Open Network Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenNetw
 type: d3-device-type-assertion

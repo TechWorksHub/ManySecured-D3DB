@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfe7a198-7dae-4609-8cff-92a648cc6331
-  mac-addresses:
+  id: 0738f7f1-8949-4730-8420-63b35b7adc17
+  macAddresses:
   - 00:A0:2A:00:00:00/24
   manufacturer: Trancell Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trancell
 type: d3-device-type-assertion

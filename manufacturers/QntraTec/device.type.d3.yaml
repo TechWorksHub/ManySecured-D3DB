@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84f3250b-928a-4c94-9073-914f64002a7d
-  mac-addresses:
+  id: 5a196926-ad5b-4ec9-b323-0526622f7b1f
+  macAddresses:
   - 70:B3:D5:EA:10:00/36
   manufacturer: Qntra Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QntraTec
 type: d3-device-type-assertion

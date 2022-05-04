@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18bdf936-3547-42ef-a3f3-514863148894
-  mac-addresses:
+  id: bc61fd62-f144-4d7b-81e8-df803013738d
+  macAddresses:
   - 78:2F:17:00:00:00/24
   manufacturer: Xlab Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xlab
 type: d3-device-type-assertion

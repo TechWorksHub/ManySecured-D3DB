@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19cc919c-0a81-4461-af4c-dc08e00d4f5d
-  mac-addresses:
+  id: 0ce09f93-b195-452c-9354-4f2eb407e698
+  macAddresses:
   - 00:1C:2C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synapse
 type: d3-device-type-assertion

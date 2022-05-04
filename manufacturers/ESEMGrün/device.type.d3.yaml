@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 691cb859-4749-49c6-95fd-4cbf5f5ae078
-  mac-addresses:
+  id: 382c9c16-71bd-4d5b-883a-1f9b63300dfd
+  macAddresses:
   - 00:50:C2:5F:20:00/36
   manufacturer: "ESEM Gr\xFCnau GmbH & Co. KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "ESEMGr\xFCn"
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5dc30638-1a3b-4eaf-baf8-a4108dfe8c3c
-  mac-addresses:
+  id: 7697f66b-c558-4f10-b43e-03ac93f787b5
+  macAddresses:
   - E8:2E:0C:00:00:00/24
   manufacturer: NETINT Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NETINTTe
 type: d3-device-type-assertion

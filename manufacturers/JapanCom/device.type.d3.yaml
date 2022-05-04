@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c049ba25-7bc3-419f-b644-e17fdafdfa85
-  mac-addresses:
+  id: 780f31df-2c6c-491e-979f-f3ea037f3e17
+  macAddresses:
   - 00:80:0A:00:00:00/24
   - AC:33:0B:00:00:00/24
   manufacturer: Japan Computer Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e0c3a03-9432-410f-839a-7de034d86a09
-  mac-addresses:
+  id: c14f1c1f-17eb-4538-a7a4-3a46b711d5e9
+  macAddresses:
   - 4C:07:C9:00:00:00/24
   manufacturer: COMPUTER OFFICE Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMPUTER
 type: d3-device-type-assertion

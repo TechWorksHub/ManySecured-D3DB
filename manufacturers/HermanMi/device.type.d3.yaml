@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4aa80114-6e2b-4132-87ed-12fa20501206
-  mac-addresses:
+  id: c192cec6-59aa-43fa-85f1-2ceb4649d8e8
+  macAddresses:
   - 24:7C:4C:00:00:00/24
   manufacturer: Herman Miller
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HermanMi
 type: d3-device-type-assertion

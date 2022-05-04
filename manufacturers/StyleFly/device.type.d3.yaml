@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9715657-ac9b-483b-b58a-f4a7d78cbab1
-  mac-addresses:
+  id: 1f6db32a-990b-47e8-8ced-cc255f4122ff
+  macAddresses:
   - 00:21:58:00:00:00/24
   manufacturer: Style Flying Technology Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StyleFly
 type: d3-device-type-assertion

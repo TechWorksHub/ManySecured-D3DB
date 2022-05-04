@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 811c1e40-6599-4680-a2ca-9116ecec8cbd
-  mac-addresses:
+  id: 2c2fac8e-947e-403c-8797-5e6dc6687f8b
+  macAddresses:
   - B0:C3:87:00:00:00/24
   manufacturer: GOEFER, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GOEFER
 type: d3-device-type-assertion

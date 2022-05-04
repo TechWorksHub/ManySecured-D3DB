@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f620a3b3-e39f-4f20-b972-bcba4c37a3ce
-  mac-addresses:
+  id: 5b7d68a2-8699-43a7-8d77-63adf80f5e98
+  macAddresses:
   - 70:B3:D5:16:90:00/36
   manufacturer: Service Plus LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ServiceP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 278bf48a-224b-4a02-94c9-47953a22a1e5
-  mac-addresses:
+  id: 441cb7aa-6257-4613-ae11-cd7d8d4afee5
+  macAddresses:
   - 00:90:EF:00:00:00/24
   manufacturer: Integrix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Integrix
 type: d3-device-type-assertion

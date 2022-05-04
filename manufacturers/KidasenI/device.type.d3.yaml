@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae14ba8f-5385-4117-bdf1-1514c4a5055b
-  mac-addresses:
+  id: 879490ff-791d-4b60-97fb-9708dee8a4b7
+  macAddresses:
   - 3C:E5:B4:00:00:00/24
   manufacturer: Kidasen Industria E Comercio De Antenas Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KidasenI
 type: d3-device-type-assertion

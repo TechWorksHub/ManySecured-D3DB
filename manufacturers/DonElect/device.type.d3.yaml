@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ac8f769-f421-496f-9c3f-e18c88935e18
-  mac-addresses:
+  id: 9a63a8dd-43a9-434c-be98-7a60f6cbc169
+  macAddresses:
   - 70:B3:D5:04:40:00/36
   manufacturer: Don Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DonElect
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73bb2af7-7214-42df-b196-593447aa577d
-  mac-addresses:
+  id: a050d7e9-4070-438b-b6b3-210dc3c871be
+  macAddresses:
   - 00:50:C2:BC:60:00/36
   manufacturer: MireroTack
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MireroTa
 type: d3-device-type-assertion

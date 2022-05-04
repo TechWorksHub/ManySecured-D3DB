@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a92624d-3405-4186-91c7-119ef58aa12d
-  mac-addresses:
+  id: f11caacc-b185-458f-8233-958b21bd4454
+  macAddresses:
   - 4C:91:7A:B0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvertX
 type: d3-device-type-assertion

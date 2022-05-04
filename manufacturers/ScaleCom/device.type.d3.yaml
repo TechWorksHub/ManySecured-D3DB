@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 034dd885-98a6-47ba-9d4b-7f5ff90f4485
-  mac-addresses:
+  id: 9139b44d-f452-4615-ad55-adafcfa62fd7
+  macAddresses:
   - 7C:4C:58:00:00:00/24
   manufacturer: Scale Computing, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScaleCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d487273d-7f4f-4b4f-a932-4d7c46afe1ae
-  mac-addresses:
+  id: 54c255b9-af4d-4e47-a6ed-cd2311f5dc92
+  macAddresses:
   - DC:15:DB:00:00:00/24
   manufacturer: Ge Ruili Intelligent Technology ( Beijing ) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeRuiliI
 type: d3-device-type-assertion

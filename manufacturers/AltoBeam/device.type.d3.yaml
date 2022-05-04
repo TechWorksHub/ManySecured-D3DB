@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d7d22b52-7969-43a6-8afd-396f7692f81d
-  mac-addresses:
+  id: 3937c5b9-88cb-4a83-bc22-fef83a3ea551
+  macAddresses:
   - 38:BE:AB:00:00:00/24
   - 44:29:1E:00:00:00/24
   - 84:7A:B6:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - DC:29:19:00:00:00/24
   - F4:B1:9C:00:00:00/24
   manufacturer: AltoBeam (China) Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltoBeam
 type: d3-device-type-assertion

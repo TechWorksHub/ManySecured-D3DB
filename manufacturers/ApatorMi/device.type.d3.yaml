@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bb1353d-d397-41f8-b066-451aeae1ceb8
-  mac-addresses:
+  id: cee5064c-c1c2-4980-8573-ff722e0d0991
+  macAddresses:
   - 70:B3:D5:77:10:00/36
   manufacturer: Apator Miitors ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApatorMi
 type: d3-device-type-assertion

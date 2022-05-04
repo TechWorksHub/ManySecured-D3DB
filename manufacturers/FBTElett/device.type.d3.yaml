@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c5e487e-2232-408d-9dd0-8a802a5352ed
-  mac-addresses:
+  id: 6f4f68e3-4c24-4c35-8703-cddd6572a10e
+  macAddresses:
   - 00:50:C2:ED:70:00/36
   manufacturer: FBT Elettronica spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FBTElett
 type: d3-device-type-assertion

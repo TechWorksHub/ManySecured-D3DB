@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80a1fec4-ecc3-4de2-9485-f417390c8077
-  mac-addresses:
+  id: a9ed20af-c5bd-4973-98fa-a2f0eba5f6e4
+  macAddresses:
   - FC:CD:2F:90:00:00/28
   manufacturer: Aroma Retail
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AromaRet
 type: d3-device-type-assertion

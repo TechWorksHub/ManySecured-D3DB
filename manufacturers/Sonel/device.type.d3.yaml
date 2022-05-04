@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0ce6bfc9-bc76-4da4-9ace-10b97b60b709
-  mac-addresses:
+  id: 9cc1824f-8e2e-4e51-9497-eee7bbd5a882
+  macAddresses:
   - 70:B3:D5:77:50:00/36
   - 70:B3:D5:F7:10:00/36
   manufacturer: Sonel S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sonel
 type: d3-device-type-assertion

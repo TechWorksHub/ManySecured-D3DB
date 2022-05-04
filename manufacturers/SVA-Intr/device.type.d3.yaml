@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dccb0262-e38a-46ff-864d-b4d7b7be42cd
-  mac-addresses:
+  id: ee340a1e-4756-4e73-972f-9e05fa63abc2
+  macAddresses:
   - 00:07:0C:00:00:00/24
   manufacturer: SVA-Intrusion.com Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SVA-Intr
 type: d3-device-type-assertion

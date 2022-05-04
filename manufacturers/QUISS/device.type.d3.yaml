@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58cd3169-5de4-4b9a-ad0e-616b552d58c9
-  mac-addresses:
+  id: 97744b09-0746-401c-9681-a8f2d07342e7
+  macAddresses:
   - 70:B3:D5:AA:B0:00/36
   manufacturer: QUISS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QUISS
 type: d3-device-type-assertion

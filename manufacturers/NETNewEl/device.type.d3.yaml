@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5481d130-654e-49b2-b803-292771049e45
-  mac-addresses:
+  id: e8db6ef5-6d34-4b68-b403-74fc5c449321
+  macAddresses:
   - 80:6C:BC:00:00:00/24
   manufacturer: NET New Electronic Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NETNewEl
 type: d3-device-type-assertion

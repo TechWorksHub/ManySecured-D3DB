@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28f565e8-16da-4c93-81c7-2c9e1fbf12fe
-  mac-addresses:
+  id: 532c85b9-ae73-435a-9dc4-407974322177
+  macAddresses:
   - 00:05:77:00:00:00/24
   manufacturer: SM Information & Communication
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMInform
 type: d3-device-type-assertion

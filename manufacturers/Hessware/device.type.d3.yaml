@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 898699ec-8ad6-4090-82a3-e9dbef57caaa
-  mac-addresses:
+  id: f55c8e82-865b-4cd7-bd01-bbfcd595ea61
+  macAddresses:
   - 70:B3:D5:7A:F0:00/36
   manufacturer: Hessware GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hessware
 type: d3-device-type-assertion

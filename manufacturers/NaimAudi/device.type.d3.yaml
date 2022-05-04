@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caf30290-4290-4ed1-b434-0c9147f5412f
-  mac-addresses:
+  id: d4c81f67-a6a4-4ccb-adb3-7cd800068e2f
+  macAddresses:
   - 00:50:C2:67:00:00/36
   manufacturer: Naim Audio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaimAudi
 type: d3-device-type-assertion

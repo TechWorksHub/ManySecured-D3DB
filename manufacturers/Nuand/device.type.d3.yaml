@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c424f92b-26e9-4f8a-8d30-a4534a064e57
-  mac-addresses:
+  id: 3d07046b-788c-40d3-8790-e69f6fd64034
+  macAddresses:
   - 70:B3:D5:7D:80:00/36
   manufacturer: Nuand LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuand
 type: d3-device-type-assertion

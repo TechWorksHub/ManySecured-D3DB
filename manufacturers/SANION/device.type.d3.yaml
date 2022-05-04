@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45889ae2-9d06-4cd8-805b-f47a751a44de
-  mac-addresses:
+  id: 5aabd118-55a1-41e4-bd66-2ffe8eb556a8
+  macAddresses:
   - 00:1B:4B:00:00:00/24
   manufacturer: SANION Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SANION
 type: d3-device-type-assertion

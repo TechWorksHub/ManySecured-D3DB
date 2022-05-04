@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1bb5a18b-ce88-47ee-983e-bfb49f15d23a
-  mac-addresses:
+  id: 19228677-8b53-4078-8d71-6571368232f9
+  macAddresses:
   - 10:78:CE:00:00:00/24
   manufacturer: Hanvit SI, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanvitSI
 type: d3-device-type-assertion

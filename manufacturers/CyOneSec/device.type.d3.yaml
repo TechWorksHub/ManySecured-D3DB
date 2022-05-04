@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7b6e591-2757-41f0-a784-09fb4e8a0ded
-  mac-addresses:
+  id: ed82e942-1845-4962-9690-dfa794a84c92
+  macAddresses:
   - 04:11:19:A0:00:00/28
   manufacturer: CyOne Security AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CyOneSec
 type: d3-device-type-assertion

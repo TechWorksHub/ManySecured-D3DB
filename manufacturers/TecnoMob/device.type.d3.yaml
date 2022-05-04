@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3938a132-d3e7-4031-9df0-b91f3c559221
-  mac-addresses:
+  id: 7764fa95-8e8d-4899-a737-a8d3b755605b
+  macAddresses:
   - 04:94:6B:00:00:00/24
   - 08:86:20:00:00:00/24
   - 08:B4:9D:00:00:00/24
@@ -33,6 +33,6 @@ credentialSubject:
   - EC:F2:2B:00:00:00/24
   - F0:3D:03:00:00:00/24
   manufacturer: Tecno Mobile Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TecnoMob
 type: d3-device-type-assertion

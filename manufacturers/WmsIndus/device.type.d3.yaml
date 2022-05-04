@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 963c0dbf-a820-41e8-9c68-ecfe81f0bb1e
-  mac-addresses:
+  id: 41bdc995-e88e-4915-80bc-a998187e81c9
+  macAddresses:
   - 00:A0:AF:00:00:00/24
   manufacturer: Wms Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WmsIndus
 type: d3-device-type-assertion

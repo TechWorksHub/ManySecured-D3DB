@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4de6be36-d77a-4802-9974-d53f5ff9248f
-  mac-addresses:
+  id: 11de903b-48cc-4557-9c25-bbee4d382b87
+  macAddresses:
   - 70:B3:D5:D8:80:00/36
   manufacturer: Nidec asi spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nidecasi
 type: d3-device-type-assertion

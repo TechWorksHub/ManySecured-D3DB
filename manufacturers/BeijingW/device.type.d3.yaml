@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e5d9c812-ee8e-46fd-9f58-b1050a83dfb2
-  mac-addresses:
+  id: 1d3cd04b-e195-4959-8d2d-e36c5d20a612
+  macAddresses:
   - 00:0B:D4:00:00:00/24
   - 0C:FE:5D:30:00:00/28
   - 28:6D:CD:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - C4:BA:A3:00:00:00/24
   - F8:B5:68:90:00:00/28
   manufacturer: Beijing Wise Technology & Science Development Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingW
 type: d3-device-type-assertion

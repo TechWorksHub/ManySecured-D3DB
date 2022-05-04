@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbe1727e-9814-4db0-914f-86e90219e266
-  mac-addresses:
+  id: 152beb82-841d-47a6-9363-fb21919deb9e
+  macAddresses:
   - 00:1B:C5:0B:C0:00/36
   manufacturer: kuwatec, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: kuwatec
 type: d3-device-type-assertion

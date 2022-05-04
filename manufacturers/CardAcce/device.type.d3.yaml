@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 96f52e03-5874-462d-a4b1-c41da91305e7
-  mac-addresses:
+  id: 7f593060-8ff2-40a5-9848-72713b6e8f15
+  macAddresses:
   - 00:06:80:00:00:00/24
   - 00:50:C2:5B:E0:00/36
   manufacturer: Card Access, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CardAcce
 type: d3-device-type-assertion

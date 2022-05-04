@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bab480f4-5a90-46c9-8486-d153e19b98de
-  mac-addresses:
+  id: 2ae245ed-0e91-4c59-b73b-9b185ab7362d
+  macAddresses:
   - 70:B3:D5:AC:20:00/36
   manufacturer: Wisebox.,Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wisebox
 type: d3-device-type-assertion

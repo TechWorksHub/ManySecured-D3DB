@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd943758-8095-44ca-b898-c3d7577dafe7
-  mac-addresses:
+  id: 80ed4cb4-6873-42c3-acc3-089ea7346a52
+  macAddresses:
   - 50:0B:32:00:00:00/24
   manufacturer: Foxda Technology Industrial(ShenZhen)Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FoxdaTec
 type: d3-device-type-assertion

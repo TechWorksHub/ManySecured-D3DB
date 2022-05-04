@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1255287b-abde-4960-aaea-6d681b7495bf
-  mac-addresses:
+  id: 15bd7509-5b1c-4b57-8ea5-5cf35be55d61
+  macAddresses:
   - 4C:30:89:00:00:00/24
   manufacturer: Thales Transportation Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThalesTr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83a09aa9-f785-4035-86fd-4ccc54eb9c9a
-  mac-addresses:
+  id: 052da5af-07a9-4711-97af-bfd510a81d92
+  macAddresses:
   - 3C:F5:2C:00:00:00/24
   manufacturer: DSPECIALISTS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSPECIAL
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d1d4ae8-f53e-4e24-9a91-62abc6aaf56f
-  mac-addresses:
+  id: ee1932b3-bb75-430c-a166-2b633205f8aa
+  macAddresses:
   - 00:50:C2:A3:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Owandy
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f5b31fb2-5f22-4ab1-8d54-73a948dcff91
-  mac-addresses:
+  id: 540925e5-9a22-4deb-a5e2-92a66e52ac39
+  macAddresses:
   - 00:CF:C0:00:00:00/24
   - 00:E2:2C:00:00:00/24
   - 04:4F:7A:00:00:00/24
@@ -93,6 +93,6 @@ credentialSubject:
   - FC:8E:5B:00:00:00/24
   - FC:F2:9F:00:00:00/24
   manufacturer: China Mobile Group Device Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaMob
 type: d3-device-type-assertion

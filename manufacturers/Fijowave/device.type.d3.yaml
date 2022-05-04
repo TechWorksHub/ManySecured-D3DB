@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5aa4a13c-9fe0-4b98-a093-2cf179faaef9
-  mac-addresses:
+  id: d4bb7b55-63bb-45fa-a070-39657820eebe
+  macAddresses:
   - 38:B7:4D:00:00:00/24
   manufacturer: Fijowave Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fijowave
 type: d3-device-type-assertion

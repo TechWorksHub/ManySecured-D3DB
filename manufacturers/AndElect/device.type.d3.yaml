@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08c4a790-bf15-468c-b12d-86f60c44ea7e
-  mac-addresses:
+  id: 59682677-b86b-4db7-bf38-46b828b7096d
+  macAddresses:
   - 68:16:05:00:00:00/24
   manufacturer: Systems And Electronic Development FZCO
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndElect
 type: d3-device-type-assertion

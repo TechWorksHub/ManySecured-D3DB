@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4b990d30-c149-4c4a-bd50-7cd140ac48a3
-  mac-addresses:
+  id: b6500339-209e-419f-b06d-eac22a996c27
+  macAddresses:
   - 00:01:84:00:00:00/24
   - 1C:44:55:00:00:00/24
   manufacturer: Sieb & Meyer Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiebMeye
 type: d3-device-type-assertion

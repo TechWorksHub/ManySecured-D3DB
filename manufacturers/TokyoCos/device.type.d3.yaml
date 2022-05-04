@@ -1,9 +1,9 @@
 credentialSubject:
-  id: df41993b-449f-4659-973b-659edb3b7701
-  mac-addresses:
+  id: 683000ba-0bdd-4c34-9455-ab6cef54e186
+  macAddresses:
   - 00:1B:C5:01:20:00/36
   - 14:15:7C:00:00:00/24
   manufacturer: Tokyo Cosmos Electric, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TokyoCos
 type: d3-device-type-assertion

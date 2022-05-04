@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34f344fb-d15b-450c-b965-b376ac17adfd
-  mac-addresses:
+  id: 5f9cd342-7308-4d74-aed8-8dbd1405c767
+  macAddresses:
   - 38:3A:21:00:00:00/28
   manufacturer: "R3C Information(Shenzhen) Co.\uFF0CLtd."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: R3CInfor
 type: d3-device-type-assertion

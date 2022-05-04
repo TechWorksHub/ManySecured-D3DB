@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27a5057f-9979-4111-bebd-d3d5c86d5b14
-  mac-addresses:
+  id: 8392ea4d-6f7f-4f20-bb5f-1a2bc4bd4a08
+  macAddresses:
   - 00:1E:34:00:00:00/24
   manufacturer: CryptoMetrics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CryptoMe
 type: d3-device-type-assertion

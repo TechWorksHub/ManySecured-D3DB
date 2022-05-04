@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1f08f53-14ce-4c93-9303-15113bcf3709
-  mac-addresses:
+  id: 74bd245d-1f39-455b-a3db-06d8bc757f2b
+  macAddresses:
   - 64:33:B5:00:00:00/28
   manufacturer: Duomondi International Development Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duomondi
 type: d3-device-type-assertion

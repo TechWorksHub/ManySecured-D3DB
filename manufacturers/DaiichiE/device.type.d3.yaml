@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ce0f644-79cd-4308-b785-5e81743af2fe
-  mac-addresses:
+  id: 54ad310c-52a8-424a-ab42-60f78a7ac478
+  macAddresses:
   - 00:0B:01:00:00:00/24
   manufacturer: Daiichi Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaiichiE
 type: d3-device-type-assertion

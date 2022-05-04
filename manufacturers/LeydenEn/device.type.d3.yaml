@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19d686d2-0af0-4026-853a-9ed9eb0577f8
-  mac-addresses:
+  id: f61de6e3-0974-4d6b-882b-16b64ad491fb
+  macAddresses:
   - 00:50:C2:E6:F0:00/36
   manufacturer: Leyden Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeydenEn
 type: d3-device-type-assertion

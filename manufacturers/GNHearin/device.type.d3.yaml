@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 165e70b9-1885-41e0-842b-be41f338477a
-  mac-addresses:
+  id: e99dda16-e20c-4dcc-86ad-0cc081905ff5
+  macAddresses:
   - CC:89:6C:00:00:00/24
   manufacturer: GN Hearing A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GNHearin
 type: d3-device-type-assertion

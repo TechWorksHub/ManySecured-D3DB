@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 74149237-0b0f-414c-a2f3-1800561344e6
-  mac-addresses:
+  id: 32fa0922-d2ed-4b8c-b328-06bc84c1ef41
+  macAddresses:
   - 00:03:D9:00:00:00/24
   - 1C:C0:E1:A0:00:00/28
   manufacturer: Secheron SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Secheron
 type: d3-device-type-assertion

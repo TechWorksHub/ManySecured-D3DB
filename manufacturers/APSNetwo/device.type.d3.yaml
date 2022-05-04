@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3ad0536-2809-4897-a9db-7ae2a74bd090
-  mac-addresses:
+  id: 54e88c66-6be9-4bd0-b1b7-927d2ec64a6d
+  macAddresses:
   - 84:C7:8F:00:00:00/24
   manufacturer: APS Networks GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APSNetwo
 type: d3-device-type-assertion

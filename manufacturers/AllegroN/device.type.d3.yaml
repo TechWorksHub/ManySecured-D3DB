@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcb9be4a-c9db-4fb8-99a0-86833c25af31
-  mac-addresses:
+  id: b0663f91-0185-4d61-a184-bae35fb48e50
+  macAddresses:
   - 00:03:F6:00:00:00/24
   manufacturer: Allegro Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AllegroN
 type: d3-device-type-assertion

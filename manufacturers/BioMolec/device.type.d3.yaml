@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f25f79a9-dea2-4518-b10d-1fd3b816d19c
-  mac-addresses:
+  id: f92b6def-56f6-42c0-b5be-1d21e8ea1a82
+  macAddresses:
   - 00:1B:C5:07:E0:00/36
   manufacturer: Bio Molecular System Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BioMolec
 type: d3-device-type-assertion

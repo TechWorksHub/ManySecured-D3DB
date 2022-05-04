@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03d0cd69-2fde-43f1-9e34-45c10ec65fa9
-  mac-addresses:
+  id: 95127c58-327a-42dc-9832-cf7401cad9ad
+  macAddresses:
   - 40:D8:55:01:F0:00/36
   manufacturer: Sitep Italia Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SitepIta
 type: d3-device-type-assertion

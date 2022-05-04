@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d335f9b1-c8c0-4f15-adbe-49603da8d915
-  mac-addresses:
+  id: d05807be-faf7-4ad8-be79-afa0bf5a3282
+  macAddresses:
   - 70:B3:D5:17:90:00/36
   manufacturer: Altran Uk
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltranUk
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ac6706b-81ec-4b9a-b9e3-8ad0ae3d5dcd
-  mac-addresses:
+  id: 26be8583-d906-4b2e-b48c-e1ebfc1c855b
+  macAddresses:
   - 70:B3:D5:E1:90:00/36
   manufacturer: BAB TECHNOLOGIE GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BABTECHN
 type: d3-device-type-assertion

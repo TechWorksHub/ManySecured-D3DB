@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5fc6e50-97ab-47e2-9fe6-62bc2093df60
-  mac-addresses:
+  id: 98eea3f6-ff97-420d-b4a3-20396ff787a5
+  macAddresses:
   - 6A:0E:20:00:00:00/24
   manufacturer: GeoFrenzy, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeoFrenz
 type: d3-device-type-assertion

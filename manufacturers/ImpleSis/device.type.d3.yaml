@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6367a953-faba-40d9-8e88-9161517300c4
-  mac-addresses:
+  id: 846e6280-7845-40bb-aa15-2e0bda2cbd91
+  macAddresses:
   - 40:D8:55:10:40:00/36
   manufacturer: Imple Sistemas Eletronicos Embarcados Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImpleSis
 type: d3-device-type-assertion

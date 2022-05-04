@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46b40bea-ea97-4db4-b400-9d27368a4d77
-  mac-addresses:
+  id: dcb5064d-a7dc-4cb8-bd90-3fa9eda2288f
+  macAddresses:
   - 70:B3:D5:F8:80:00/36
   manufacturer: Odawarakiki Auto-Machine Mfg.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Odawarak
 type: d3-device-type-assertion

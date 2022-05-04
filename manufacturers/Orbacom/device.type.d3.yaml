@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45e8acdb-cb60-4484-a1a0-8c7bed14de4b
-  mac-addresses:
+  id: 85175a17-29ee-4e10-99e2-182a4f42ba8d
+  macAddresses:
   - 00:30:4B:00:00:00/24
   manufacturer: Orbacom Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Orbacom
 type: d3-device-type-assertion

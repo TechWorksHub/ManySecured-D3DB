@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 291c2ccc-bb88-4b99-8d7d-573ec6c7b779
-  mac-addresses:
+  id: a64ce8b0-7d1b-4032-a54c-071ee8425e8b
+  macAddresses:
   - 00:50:C2:B5:60:00/36
   manufacturer: Sinovia Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sinovia
 type: d3-device-type-assertion

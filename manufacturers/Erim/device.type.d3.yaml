@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 448c0d31-14a5-4ccf-9d2e-4a56cbc2ebdc
-  mac-addresses:
+  id: c7f5e25e-f8a1-4f4c-8823-cb4b23f9c01a
+  macAddresses:
   - 00:01:F5:00:00:00/24
   manufacturer: Erim S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Erim
 type: d3-device-type-assertion

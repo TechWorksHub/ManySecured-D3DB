@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 217f2878-7885-4991-9de1-5de16e947960
-  mac-addresses:
+  id: 53c4b5bf-f7e3-4e60-be75-aa1fc2429ad4
+  macAddresses:
   - 1C:88:79:00:00:00/28
   manufacturer: Newps co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newps
 type: d3-device-type-assertion

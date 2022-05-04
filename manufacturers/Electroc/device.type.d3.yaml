@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cd39e94-576a-44ce-bada-4f6f5da277de
-  mac-addresses:
+  id: 4c53931a-9321-4cf0-b35f-10bdb3d3548d
+  macAddresses:
   - AC:67:6F:00:00:00/24
   manufacturer: Electrocompaniet A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Electroc
 type: d3-device-type-assertion

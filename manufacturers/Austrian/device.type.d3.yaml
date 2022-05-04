@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5bc990e-83ab-47c5-9f0b-e0b06edd1691
-  mac-addresses:
+  id: 24c113f1-3849-4394-85fb-56cb9e62c2a5
+  macAddresses:
   - 70:DA:17:00:00:00/24
   manufacturer: Austrian Audio GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Austrian
 type: d3-device-type-assertion

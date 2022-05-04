@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c2be5ac-28e1-4600-910d-10c2d6981490
-  mac-addresses:
+  id: 69e6e8a1-a7cd-46fb-9007-1daeb34261ad
+  macAddresses:
   - D8:AD:DD:00:00:00/24
   manufacturer: Sonavation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sonavati
 type: d3-device-type-assertion

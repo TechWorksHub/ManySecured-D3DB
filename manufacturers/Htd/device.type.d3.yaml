@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 669f9051-7490-44e4-abba-43d1b17b6558
-  mac-addresses:
+  id: 08871128-fb92-4f0f-b5e8-f591f5d2f0d8
+  macAddresses:
   - A4:4F:29:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Htd
 type: d3-device-type-assertion

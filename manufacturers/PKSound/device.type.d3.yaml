@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0302d11-be61-4d67-98b4-a86ff5815aad
-  mac-addresses:
+  id: d3953b13-2672-467c-98e3-6242b1a9660d
+  macAddresses:
   - 70:B3:D5:9C:90:00/36
   manufacturer: PK Sound
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PKSound
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e30aa08-b9cf-4dbc-8a0d-33b5b8d93592
-  mac-addresses:
+  id: 18ec9f7a-b1ad-499a-9876-4e43add50c6e
+  macAddresses:
   - 70:B3:D5:22:50:00/36
   manufacturer: RCD Radiokomunikace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RCDRadio
 type: d3-device-type-assertion

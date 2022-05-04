@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a58b31bb-b892-463f-bcb8-1dd83445c6f4
-  mac-addresses:
+  id: 29c8a9c0-52a2-4a6c-86ff-a8991c06fde6
+  macAddresses:
   - 70:B3:D5:30:00:00/36
   manufacturer: Novo DR Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovoDR
 type: d3-device-type-assertion

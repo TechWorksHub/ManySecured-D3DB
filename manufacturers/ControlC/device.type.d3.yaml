@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c0d4c59-329d-4b6f-a582-78a4f8ea8dce
-  mac-addresses:
+  id: f4eb8427-cfd1-487a-b97c-12d8fabc9b98
+  macAddresses:
   - 7C:7B:8B:00:00:00/24
   manufacturer: Control Concepts, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ControlC
 type: d3-device-type-assertion

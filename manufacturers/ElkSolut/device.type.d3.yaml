@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b66251b9-2bef-4c26-9ee0-d6154dec384e
-  mac-addresses:
+  id: f64e6d3a-2c7f-4515-b888-630c3c528908
+  macAddresses:
   - 70:B3:D5:1A:70:00/36
   manufacturer: Elk Solutions, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElkSolut
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d5fc17b-907b-4f53-b14d-f320a511a1ca
-  mac-addresses:
+  id: d237bdb8-c279-46a8-b023-b3100d77dcd8
+  macAddresses:
   - 00:11:2E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ceicom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcbb15ab-72d2-45ec-a04b-bd27a54903be
-  mac-addresses:
+  id: eccf24bb-554c-4efb-b406-c9ab2b1a6c2f
+  macAddresses:
   - 00:11:52:00:00:00/24
   manufacturer: Eidsvoll Electronics AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eidsvoll
 type: d3-device-type-assertion

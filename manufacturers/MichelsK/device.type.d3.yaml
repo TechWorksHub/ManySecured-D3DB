@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00d25396-416e-494f-819c-6e4ed7b19c31
-  mac-addresses:
+  id: a4665257-bba3-4f95-934f-604841107f9b
+  macAddresses:
   - 00:40:86:00:00:00/24
   manufacturer: Michels & Kleberhoff Computer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MichelsK
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0d55902-d2dd-4166-93fc-ff281385bbfd
-  mac-addresses:
+  id: b7b6145b-ee87-484f-9ecd-6f6546ee96db
+  macAddresses:
   - 6A:40:65:00:00:00/24
   manufacturer: Open Connectivity Foundation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenConn
 type: d3-device-type-assertion

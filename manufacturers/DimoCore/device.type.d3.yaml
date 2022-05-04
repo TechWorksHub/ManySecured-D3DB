@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69a083a5-5a2e-41d2-b225-74747d0d0fc1
-  mac-addresses:
+  id: e6168ddc-4c3d-4149-95e0-8a7018c17ce1
+  macAddresses:
   - 70:B3:D5:AE:10:00/36
   manufacturer: DimoCore Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DimoCore
 type: d3-device-type-assertion

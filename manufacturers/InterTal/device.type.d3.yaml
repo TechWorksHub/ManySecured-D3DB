@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2f3e73e-9f90-4807-a4fe-232d5bf9cad8
-  mac-addresses:
+  id: 0f9f2f1f-af3e-42d8-8495-b5fda8dd9953
+  macAddresses:
   - 70:B3:D5:5D:00:00/36
   manufacturer: InterTalk Critical Information Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InterTal
 type: d3-device-type-assertion

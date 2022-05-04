@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5add35c-aadd-4d7f-8b7d-f948e74eea8a
-  mac-addresses:
+  id: f75b7644-9bd0-4580-a520-7280571745c1
+  macAddresses:
   - 00:18:E8:00:00:00/24
   manufacturer: Hacetron Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hacetron
 type: d3-device-type-assertion

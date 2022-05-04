@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 937e2a6b-933e-4d1e-9e6a-d2cf102e4957
-  mac-addresses:
+  id: dcdf2df9-b114-4fdc-9aac-2de684a18bd6
+  macAddresses:
   - 00:18:DB:00:00:00/24
   manufacturer: EPL Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EPLTechn
 type: d3-device-type-assertion

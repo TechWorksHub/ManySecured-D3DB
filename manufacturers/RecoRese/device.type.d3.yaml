@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15a9106f-02c5-4c9f-bb93-4b811dfc07dc
-  mac-addresses:
+  id: 982ccd6b-8f0c-441f-b3ed-ea19b9c0fd5d
+  macAddresses:
   - 00:03:21:00:00:00/24
   manufacturer: Reco Research Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RecoRese
 type: d3-device-type-assertion

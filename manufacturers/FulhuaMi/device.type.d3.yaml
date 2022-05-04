@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bba02ada-f698-41c9-9ced-84f1081b161f
-  mac-addresses:
+  id: 719d99c7-fa98-49ad-8c45-d7e32ed70035
+  macAddresses:
   - 00:1F:BF:00:00:00/24
   manufacturer: Fulhua Microelectronics Corp. Taiwan Branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FulhuaMi
 type: d3-device-type-assertion

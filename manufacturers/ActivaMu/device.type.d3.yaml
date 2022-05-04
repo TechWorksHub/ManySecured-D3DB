@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4ed05c1-11ab-48fc-9000-39961be490d4
-  mac-addresses:
+  id: acc7e0d2-1bba-40a6-8ac2-9a05e22230de
+  macAddresses:
   - 00:1A:32:00:00:00/24
   manufacturer: Activa Multimedia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActivaMu
 type: d3-device-type-assertion

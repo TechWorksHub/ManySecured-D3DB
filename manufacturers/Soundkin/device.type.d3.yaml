@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9460bedd-021e-42e3-b2d6-0a1f7100c69e
-  mac-addresses:
+  id: 827c06f6-7fd1-424d-97cf-b6d30ed7f8c8
+  macAddresses:
   - 6C:5C:3D:70:00:00/28
   manufacturer: Soundking Electronics&Sound Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Soundkin
 type: d3-device-type-assertion

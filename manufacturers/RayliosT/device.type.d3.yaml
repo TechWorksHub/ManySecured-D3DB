@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4dbaac3a-01f7-4cda-8e54-06460dbd0efe
-  mac-addresses:
+  id: 79b0652b-c232-438d-80c8-9416168de8db
+  macAddresses:
   - 94:C7:AF:00:00:00/24
   manufacturer: Raylios Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RayliosT
 type: d3-device-type-assertion

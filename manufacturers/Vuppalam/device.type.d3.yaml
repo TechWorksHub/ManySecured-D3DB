@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12444565-1ecb-4259-bd8e-921e9f3c2bea
-  mac-addresses:
+  id: dc0bff91-416a-4d04-aa75-24ffbfc25f68
+  macAddresses:
   - D4:4C:24:00:00:00/24
   manufacturer: Vuppalamritha Magnetic Components LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vuppalam
 type: d3-device-type-assertion

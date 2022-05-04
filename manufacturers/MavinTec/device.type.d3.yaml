@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2360e75-d3a0-44c6-853f-2afeb106fec9
-  mac-addresses:
+  id: 56dc6c7b-917d-4891-b1ab-7268f7934cd5
+  macAddresses:
   - 00:09:DD:00:00:00/24
   manufacturer: Mavin Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MavinTec
 type: d3-device-type-assertion

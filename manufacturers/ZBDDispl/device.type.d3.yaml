@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fbc42716-7652-4d51-92ac-e94ca0078dbe
-  mac-addresses:
+  id: 33e00a6c-7233-4f16-b327-7ae97bc7e11d
+  macAddresses:
   - 34:9A:0D:00:00:00/24
   manufacturer: ZBD Displays Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZBDDispl
 type: d3-device-type-assertion

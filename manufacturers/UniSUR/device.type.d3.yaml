@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c05b145-a098-4da7-9ada-e7d132bd1ac0
-  mac-addresses:
+  id: a87c26c9-6bec-4ddf-a3cc-cbe023a0a123
+  macAddresses:
   - 00:50:C2:14:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UniSUR
 type: d3-device-type-assertion

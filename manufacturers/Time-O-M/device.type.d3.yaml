@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b70af94f-75bb-464d-8c81-c1e3cceca712
-  mac-addresses:
+  id: 57767956-ebb6-4302-ac99-ed40fcdb3c6f
+  macAddresses:
   - E4:F3:65:00:00:00/24
   manufacturer: Time-O-Matic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Time-O-M
 type: d3-device-type-assertion

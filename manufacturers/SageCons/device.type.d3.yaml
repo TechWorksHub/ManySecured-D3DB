@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a38af2c3-84ad-45be-a734-9ad3cacc52f9
-  mac-addresses:
+  id: 3e99f624-5c5e-49aa-a4f6-487719330051
+  macAddresses:
   - 00:50:C2:B3:E0:00/36
   manufacturer: Sage Consultants
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SageCons
 type: d3-device-type-assertion

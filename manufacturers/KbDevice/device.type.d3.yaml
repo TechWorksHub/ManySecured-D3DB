@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 721be6ae-1e64-432a-b17a-772ad10e8316
-  mac-addresses:
+  id: b626f497-5d5c-4c13-9536-4e3c4ea12c22
+  macAddresses:
   - 40:D8:55:1B:C0:00/36
   manufacturer: KbDevice,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KbDevice
 type: d3-device-type-assertion

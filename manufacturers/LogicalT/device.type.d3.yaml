@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de004b11-c5fd-4dd3-9874-9bd20f54d4de
-  mac-addresses:
+  id: e1d442d5-1e2d-419e-9f62-c637f66c88a2
+  macAddresses:
   - 00:50:C2:BA:20:00/36
   manufacturer: Logical Tools s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicalT
 type: d3-device-type-assertion

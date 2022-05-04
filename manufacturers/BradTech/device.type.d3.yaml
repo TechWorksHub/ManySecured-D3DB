@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdeb3d81-df90-476e-b4ef-aa404643ec1d
-  mac-addresses:
+  id: da675e70-bc4a-47e3-9a5e-2acdf7bf2794
+  macAddresses:
   - 8C:1F:64:54:90:00/36
   manufacturer: Brad Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BradTech
 type: d3-device-type-assertion

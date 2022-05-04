@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f3f02c0-a888-4df2-996c-28d3f2a8c177
-  mac-addresses:
+  id: 03ba6b9a-08f9-4ba6-8c3b-dee4087591a6
+  macAddresses:
   - 34:68:4A:00:00:00/24
   manufacturer: Teraworks Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Terawork
 type: d3-device-type-assertion

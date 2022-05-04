@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d4a10b6-83a5-4c7a-a732-bdbb87b43fe9
-  mac-addresses:
+  id: 56ac3084-d460-40e6-a161-e9d15345b3dd
+  macAddresses:
   - 00:40:0D:00:00:00/24
   manufacturer: LANNET Data Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LannetDa
 type: d3-device-type-assertion

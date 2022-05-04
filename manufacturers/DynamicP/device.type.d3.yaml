@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68b580e9-b07c-4bab-8971-dfc1bee3080f
-  mac-addresses:
+  id: 6422f4f7-2c9f-4ad9-93cf-db647a1d1f26
+  macAddresses:
   - 70:B3:D5:2A:80:00/36
   manufacturer: Dynamic Perspective GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynamicP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d430ae13-39bf-46f6-bdcf-5b33173b125a
-  mac-addresses:
+  id: 04ee6889-70b9-4379-b34f-d7d7becf8130
+  macAddresses:
   - 8C:1F:64:F3:C0:00/36
   manufacturer: Microlynx Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microlyn
 type: d3-device-type-assertion

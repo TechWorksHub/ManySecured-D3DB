@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16208edd-c0a4-456c-bb8f-86aeba55f1cf
-  mac-addresses:
+  id: 5463f45f-d9a2-4400-87df-165b5cc12b8f
+  macAddresses:
   - 00:0D:7E:00:00:00/24
   manufacturer: Axiowave Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axiowave
 type: d3-device-type-assertion

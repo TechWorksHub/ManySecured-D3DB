@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf40ba2f-f0c6-41bf-b98f-0b9e8930d7af
-  mac-addresses:
+  id: 9518330e-1903-4db6-b5ec-e0f1f6f4a2ce
+  macAddresses:
   - A8:C8:7F:00:00:00/24
   manufacturer: Roqos, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Roqos
 type: d3-device-type-assertion

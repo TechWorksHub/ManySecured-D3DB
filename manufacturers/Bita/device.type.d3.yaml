@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 314f4b96-60e5-4312-a6b7-d4ad1a9d76d1
-  mac-addresses:
+  id: 9f7b5507-ddb7-4f4e-bc1a-c831e19b94a6
+  macAddresses:
   - 6C:4A:39:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bita
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae70d045-405c-43b3-82a0-3692c7cc8ecd
-  mac-addresses:
+  id: 2c80ea7e-6ca7-41fa-a603-acf2884bfbdb
+  macAddresses:
   - 04:58:6F:00:00:00/24
   manufacturer: Sichuan Whayer information industry Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanW
 type: d3-device-type-assertion

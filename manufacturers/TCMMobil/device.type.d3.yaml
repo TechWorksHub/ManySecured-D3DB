@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d1af0fd-22f9-441d-9634-dcc96df818f8
-  mac-addresses:
+  id: c5208119-4f7a-4b6d-9461-5b6a0ce845ac
+  macAddresses:
   - 00:1D:4E:00:00:00/24
   manufacturer: TCM Mobile LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TCMMobil
 type: d3-device-type-assertion

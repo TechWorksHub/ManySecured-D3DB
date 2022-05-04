@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10fcdd36-a4a0-490d-866d-92ab0a401efb
-  mac-addresses:
+  id: c3f2a875-95f5-445d-8414-85908ea5673d
+  macAddresses:
   - 98:FA:A7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innonet
 type: d3-device-type-assertion

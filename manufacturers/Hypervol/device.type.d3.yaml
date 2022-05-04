@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a206dea-40a4-4012-981c-fe68e60333e5
-  mac-addresses:
+  id: 1619acfa-d2b1-4a3f-bac8-19b3a8a158a3
+  macAddresses:
   - 6C:0F:61:00:00:00/24
   manufacturer: Hypervolt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hypervol
 type: d3-device-type-assertion

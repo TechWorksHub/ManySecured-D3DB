@@ -1,12 +1,12 @@
 credentialSubject:
-  id: a7c79d85-ee6a-47c7-9b40-05bc9c1a59a7
-  mac-addresses:
+  id: 96f7a387-ba03-433e-ad40-525a40d87f48
+  macAddresses:
   - 00:11:3B:00:00:00/24
   - 00:16:1B:00:00:00/24
   - 00:50:C2:28:40:00/36
   - 34:FC:A1:00:00:00/24
   - E8:CC:32:00:00:00/24
   manufacturer: Micronet Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micronet
 type: d3-device-type-assertion

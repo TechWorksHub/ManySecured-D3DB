@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e4faa67-c194-4e13-baef-884d0bea3a14
-  mac-addresses:
+  id: 958efb71-0fd1-4b61-8d8b-a96d946ce2ae
+  macAddresses:
   - 00:0E:E3:00:00:00/24
   manufacturer: Chiyu Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChiyuTec
 type: d3-device-type-assertion

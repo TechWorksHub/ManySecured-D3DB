@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6b86482-059e-4f77-bfbc-3a85bd4ea2e9
-  mac-addresses:
+  id: 484cf5b5-fe69-4a61-9073-842a9c115e56
+  macAddresses:
   - 00:50:C2:77:80:00/36
   manufacturer: SunGard Vivista
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunGardV
 type: d3-device-type-assertion

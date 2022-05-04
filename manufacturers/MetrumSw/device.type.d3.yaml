@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ad51ddab-eb40-4261-ac3c-975ebf49db72
-  mac-addresses:
+  id: f1d4cfaa-7792-410e-9569-1b65ad6309c9
+  macAddresses:
   - 00:50:C2:92:20:00/36
   - 70:B3:D5:F9:80:00/36
   manufacturer: Metrum Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MetrumSw
 type: d3-device-type-assertion

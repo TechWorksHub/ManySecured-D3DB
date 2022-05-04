@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea4e9f7b-e20b-43ed-912e-73d74e84d2dc
-  mac-addresses:
+  id: 5bbbabdf-ef4b-48b3-b40f-a5e5ccc41606
+  macAddresses:
   - 00:14:D6:00:00:00/24
   manufacturer: Jeongmin Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jeongmin
 type: d3-device-type-assertion

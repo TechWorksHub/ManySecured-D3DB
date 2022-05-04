@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e53b515-f78b-4caa-a5f9-ed050bdd40d9
-  mac-addresses:
+  id: c2d80cb5-8b26-4d6a-ba1d-ef616bd401f0
+  macAddresses:
   - 70:B3:D5:DF:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Contiweb
 type: d3-device-type-assertion

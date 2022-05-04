@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b175481c-e4b2-4f20-89e8-c210bfdf39ef
-  mac-addresses:
+  id: 1fe88c90-340e-496b-899b-9d3f0eb26edf
+  macAddresses:
   - A4:11:63:E0:00:00/28
   manufacturer: tinylogics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: tinylogi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24546149-e21b-405f-b13b-092c528de60a
-  mac-addresses:
+  id: 0d325500-dd02-4037-975e-770903d0165b
+  macAddresses:
   - 70:B3:D5:EC:B0:00/36
   manufacturer: Re spa - Controlli Industriali - IT01782300154
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Re-Contr
 type: d3-device-type-assertion

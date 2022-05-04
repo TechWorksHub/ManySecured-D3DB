@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c96760b5-aaa1-454c-bf66-c1b72cd88f14
-  mac-addresses:
+  id: 6825b38e-ef69-4bdb-8f91-67cc4bee09d2
+  macAddresses:
   - 00:E0:13:00:00:00/24
   manufacturer: Eastern Electronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EasternE
 type: d3-device-type-assertion

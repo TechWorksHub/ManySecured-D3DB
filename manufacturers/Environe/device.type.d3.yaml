@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ab998156-2a51-4a7a-9f49-26b492afaf02
-  mac-addresses:
+  id: 06373f20-c1aa-4d90-8bae-db95b60140bc
+  macAddresses:
   - 70:B3:D5:A6:20:00/36
   - BA:4D:EA:00:00:00/24
   manufacturer: Environexus
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Environe
 type: d3-device-type-assertion

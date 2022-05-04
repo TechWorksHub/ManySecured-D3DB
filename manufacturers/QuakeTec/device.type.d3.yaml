@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7974673-58e4-466c-8a66-d3fe7ad9f3fc
-  mac-addresses:
+  id: 5055e977-3181-4be8-b2cc-f003661baf9a
+  macAddresses:
   - 00:08:97:00:00:00/24
   manufacturer: Quake Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuakeTec
 type: d3-device-type-assertion

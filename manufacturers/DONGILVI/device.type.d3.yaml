@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 544ff3ce-0347-4447-8bae-bafd2a7fee80
-  mac-addresses:
+  id: 3c5850c8-7653-4d89-8a18-95240c3f6cb1
+  macAddresses:
   - 70:B3:D5:03:80:00/36
   manufacturer: DONG IL VISION Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DONGILVI
 type: d3-device-type-assertion

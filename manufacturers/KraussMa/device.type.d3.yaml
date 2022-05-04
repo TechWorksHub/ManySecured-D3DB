@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc543cc4-84b4-4245-829a-8fad93538bce
-  mac-addresses:
+  id: 47e94848-ece2-46dc-a499-a101e99023ab
+  macAddresses:
   - 98:34:9D:00:00:00/24
   manufacturer: Krauss Maffei Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KraussMa
 type: d3-device-type-assertion

@@ -1,12 +1,12 @@
 credentialSubject:
-  id: f28f3ec0-0d42-4fd6-a3a8-64dd274db166
-  mac-addresses:
+  id: 4a5c28de-5228-4366-a56a-f3d960b8a9a5
+  macAddresses:
   - 00:1C:7B:00:00:00/24
   - 00:30:54:00:00:00/24
   - 18:48:59:00:00:00/24
   - 98:F2:17:00:00:00/24
   - FC:4A:E9:00:00:00/24
   manufacturer: Castlenet Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Castlene
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48c40fac-fc39-46d0-b19f-bcd4b2b6c14d
-  mac-addresses:
+  id: ad9bac16-f0dd-48bc-a2aa-e3dc7d910da0
+  macAddresses:
   - BC:A4:E1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nabto
 type: d3-device-type-assertion

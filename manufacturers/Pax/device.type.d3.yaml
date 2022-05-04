@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f3fbd26b-83a8-483a-a7d0-1cf8f260d1ff
-  mac-addresses:
+  id: b0864b36-375a-4f13-a1ac-b6d387c865b2
+  macAddresses:
   - 58:2B:DB:00:00:00/24
   - A4:11:63:30:00:00/28
   manufacturer: Pax AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pax
 type: d3-device-type-assertion

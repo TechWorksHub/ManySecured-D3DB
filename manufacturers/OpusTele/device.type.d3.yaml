@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cd8c9b2-a994-4c5e-8223-ee546c0dd213
-  mac-addresses:
+  id: cefce630-4af9-4c1c-978c-63695771660c
+  macAddresses:
   - 00:50:C2:00:D0:00/36
   manufacturer: Opus Telecom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpusTele
 type: d3-device-type-assertion

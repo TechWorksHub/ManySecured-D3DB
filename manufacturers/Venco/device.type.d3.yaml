@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0db4cd15-9154-4ee7-a36c-ac328656b661
-  mac-addresses:
+  id: 335664be-5e3f-4277-9702-31f18a5e3831
+  macAddresses:
   - 40:D8:55:14:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Venco
 type: d3-device-type-assertion

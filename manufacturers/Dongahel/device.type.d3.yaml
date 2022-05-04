@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b6a5af9-f9ec-4785-8f4f-265fa4490ae1
-  mac-addresses:
+  id: f9548a33-6185-4991-a6fe-e29ab91b84b6
+  macAddresses:
   - 00:1A:3A:00:00:00/24
   manufacturer: Dongahelecomm
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dongahel
 type: d3-device-type-assertion

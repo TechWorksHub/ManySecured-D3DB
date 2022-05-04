@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 804957e7-9919-44f4-b4e4-2dd9d698bd4a
-  mac-addresses:
+  id: 6e065d60-1137-4b2c-ba55-e49c98f22df9
+  macAddresses:
   - 00:20:C9:00:00:00/24
   manufacturer: Victron Bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Victron
 type: d3-device-type-assertion

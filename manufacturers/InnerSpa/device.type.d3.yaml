@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33e32ca6-6f9a-40c0-b0aa-aa244df97b10
-  mac-addresses:
+  id: d7f75e63-bea2-44b6-becc-7a7baf576491
+  macAddresses:
   - 00:25:CE:00:00:00/24
   manufacturer: InnerSpace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnerSpa
 type: d3-device-type-assertion

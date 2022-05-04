@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 215a71b5-110e-4eb4-a7c7-0a4a536ea485
-  mac-addresses:
+  id: 7ee0caf9-2df8-4334-aa09-b64277e1dfd8
+  macAddresses:
   - 30:DE:86:00:00:00/24
   manufacturer: Cedac Software S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CedacSof
 type: d3-device-type-assertion

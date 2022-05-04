@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d08ed7fc-6271-4188-878f-f37e6848fe1c
-  mac-addresses:
+  id: ec65d14b-19eb-417e-a8e9-67dfc91c64be
+  macAddresses:
   - 00:50:C2:A9:D0:00/36
   - 70:B3:D5:81:A0:00/36
   manufacturer: Joehl & Koeferli AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JoehlKoe
 type: d3-device-type-assertion

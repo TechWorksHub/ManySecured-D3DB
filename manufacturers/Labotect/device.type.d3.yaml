@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a865c08-8ba8-442c-86f1-b8ae2c8e42ef
-  mac-addresses:
+  id: 49167c2f-323c-412c-a4e1-eb6d89d55a63
+  macAddresses:
   - 70:B3:D5:61:F0:00/36
   manufacturer: "Labotect Labor-Technik-G\xF6ttingen GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Labotect
 type: d3-device-type-assertion

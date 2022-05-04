@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b92a018-68a2-435b-b012-ca7c5fa97910
-  mac-addresses:
+  id: 49a8a1fb-ae01-4dc2-bfc3-57a4d24b014b
+  macAddresses:
   - 94:FB:A7:70:00:00/28
   manufacturer: Anvil Systems Group, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnvilGro
 type: d3-device-type-assertion

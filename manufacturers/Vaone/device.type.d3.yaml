@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8c6e66b-1b3b-4db4-9cde-30fed2b93034
-  mac-addresses:
+  id: dfc8de96-9c69-46da-9342-60ebc3c4852e
+  macAddresses:
   - 00:03:37:00:00:00/24
   manufacturer: Vaone, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vaone
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 775d6501-e944-4ff4-ad0e-f08b8ea5c5e1
-  mac-addresses:
+  id: eb7a531b-d013-48ee-86c1-a73a971bf700
+  macAddresses:
   - B0:67:2F:00:00:00/24
   manufacturer: Bowers & Wilkins
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BowersWi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5478db5b-e22c-44ba-927a-e9626066cb21
-  mac-addresses:
+  id: 1e4e940c-36ba-41f7-9958-eb13c02aed63
+  macAddresses:
   - 00:02:70:00:00:00/24
   manufacturer: Crewave Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crewave
 type: d3-device-type-assertion

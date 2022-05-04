@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfec8cd6-6a61-4eb6-ac2a-3773a8a5f768
-  mac-addresses:
+  id: 29ee96e4-821b-4881-b25c-0eb5d745af09
+  macAddresses:
   - 64:A9:65:00:00:00/24
   manufacturer: Linkflow Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linkflow
 type: d3-device-type-assertion

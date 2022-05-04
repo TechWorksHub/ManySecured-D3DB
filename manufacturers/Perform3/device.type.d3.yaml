@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 093807b4-e902-4491-b05d-be995a19231d
-  mac-addresses:
+  id: 504bbbb5-1fc6-4dab-a8dc-46b895d8d7c0
+  macAddresses:
   - 70:B3:D5:45:10:00/36
   manufacturer: Perform3-D LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Perform3
 type: d3-device-type-assertion

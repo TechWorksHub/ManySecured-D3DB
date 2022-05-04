@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 48b3b8b6-70b6-48a1-affc-54de7e1397a1
-  mac-addresses:
+  id: 0385f215-9a03-44eb-a714-b88a38a748b3
+  macAddresses:
   - 6C:24:08:00:00:00/24
   - 88:A4:C2:00:00:00/24
   manufacturer: LCFC(Hefei) Electronics Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LCFCHefe
 type: d3-device-type-assertion

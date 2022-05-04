@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80589734-7fb7-4b22-b6b1-4f0b01bfeedc
-  mac-addresses:
+  id: e4029d5a-dc98-492c-a83f-c227e3a0b8e3
+  macAddresses:
   - 00:18:DD:00:00:00/24
   manufacturer: Silicondust Engineering Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silicond
 type: d3-device-type-assertion

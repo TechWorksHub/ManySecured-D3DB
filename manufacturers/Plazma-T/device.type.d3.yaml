@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab917889-e76e-447d-bef7-4f3d6c61eb49
-  mac-addresses:
+  id: 20000b4e-27c7-4f5c-8e5b-44eab23077cb
+  macAddresses:
   - 70:B3:D5:4B:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plazma-T
 type: d3-device-type-assertion

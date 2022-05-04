@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8afa8ad-df9d-435e-b510-a49ed681d63b
-  mac-addresses:
+  id: 5ac28586-3bcc-494d-8c79-7acf216a719e
+  macAddresses:
   - 00:24:5B:00:00:00/24
   manufacturer: Raidon Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaidonTe
 type: d3-device-type-assertion

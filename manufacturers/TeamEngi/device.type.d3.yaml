@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0f94a857-ec95-4f73-9692-9845c59841e8
-  mac-addresses:
+  id: d06d14e2-2a7b-49fa-be3d-b53c69991958
+  macAddresses:
   - 00:50:C2:9C:20:00/36
   - 4C:DF:3D:00:00:00/24
   manufacturer: Team Enginers
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeamEngi
 type: d3-device-type-assertion

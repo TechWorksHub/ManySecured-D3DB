@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 366a0407-d8bf-40b5-ad6f-04efa8cc0a78
-  mac-addresses:
+  id: a10be829-cceb-4a14-bb8d-74e6e6ccdd88
+  macAddresses:
   - A0:C4:A5:00:00:00/24
   manufacturer: Sygn House Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SygnHous
 type: d3-device-type-assertion

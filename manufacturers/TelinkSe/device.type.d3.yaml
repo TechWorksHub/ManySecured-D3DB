@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 5761a383-1682-423d-9e8d-dd2baea617ff
-  mac-addresses:
+  id: 527414d3-e226-4727-a130-5e066d51eb52
+  macAddresses:
   - 3C:CF:B4:00:00:00/24
   - 40:62:34:00:00:00/24
   - 70:B3:D5:05:80:00/36
@@ -10,6 +10,6 @@ credentialSubject:
   - D8:0B:CB:00:00:00/24
   - D8:5F:77:00:00:00/24
   manufacturer: Telink Semiconductor (Shanghai) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelinkSe
 type: d3-device-type-assertion

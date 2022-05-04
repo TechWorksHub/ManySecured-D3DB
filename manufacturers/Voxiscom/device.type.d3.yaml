@@ -1,8 +1,8 @@
 credentialSubject:
-  id: feb417c4-1a07-4485-a5de-5f0ec38bd9cb
-  mac-addresses:
+  id: d9e0250d-52f7-41d8-864c-e12ebb0277a7
+  macAddresses:
   - B0:B3:53:80:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Voxiscom
 type: d3-device-type-assertion

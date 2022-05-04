@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a7e3b4e-f363-4296-9493-4e7be441a491
-  mac-addresses:
+  id: b7e5c774-ca75-40a2-a3bd-f92ef3236ce8
+  macAddresses:
   - 0C:5C:B5:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yamasei
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fdaa67f-8354-42ab-ad4c-8b04d0bac3e3
-  mac-addresses:
+  id: 3c9730c0-9877-4405-b53d-cb34544e850e
+  macAddresses:
   - 00:50:C2:79:20:00/36
   manufacturer: SMARTRO Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMARTRO
 type: d3-device-type-assertion

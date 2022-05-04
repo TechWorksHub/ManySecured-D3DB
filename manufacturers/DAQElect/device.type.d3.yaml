@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9bf3d91-2798-4447-a425-f7f9f64dd104
-  mac-addresses:
+  id: 7700baf9-75fa-470a-9ad8-5b21aef6a603
+  macAddresses:
   - 00:13:22:00:00:00/24
   manufacturer: DAQ Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DAQElect
 type: d3-device-type-assertion

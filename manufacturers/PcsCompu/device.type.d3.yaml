@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88099202-e898-415f-9c94-a1c4bc1182f6
-  mac-addresses:
+  id: 134525bc-1de8-4925-bff0-6f34ec4f8741
+  macAddresses:
   - 08:00:27:00:00:00/24
   manufacturer: PCS Computer Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PcsCompu
 type: d3-device-type-assertion

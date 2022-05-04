@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18c176b7-8f30-4fa5-ac83-6c98a35a214d
-  mac-addresses:
+  id: aace30b3-99d8-46bb-8313-c858f7ffb6f1
+  macAddresses:
   - 98:AA:FC:E0:00:00/28
   manufacturer: Comarch S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comarch
 type: d3-device-type-assertion

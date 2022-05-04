@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e27884c1-32ec-4f15-937c-4161027def30
-  mac-addresses:
+  id: 576bbdf2-565b-4f15-aecb-56b16f8dd1fa
+  macAddresses:
   - 00:20:04:00:00:00/24
   manufacturer: Yamatake-Honeywell Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yamatake
 type: d3-device-type-assertion

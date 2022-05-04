@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31b59283-5855-4242-a198-c22868539401
-  mac-addresses:
+  id: 7c0c35db-6d47-4f47-a868-d3a7d6b78993
+  macAddresses:
   - 60:48:26:00:00:00/24
   manufacturer: Newbridge Technologies Int. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newbridg
 type: d3-device-type-assertion

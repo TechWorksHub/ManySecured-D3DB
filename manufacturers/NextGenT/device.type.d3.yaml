@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08bddb7a-a269-44fd-af63-2f41e1f8fc98
-  mac-addresses:
+  id: a001c9e8-4169-44cd-aa2a-3871180b5ac7
+  macAddresses:
   - 00:11:D3:00:00:00/24
   manufacturer: NextGenTel Holding ASA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NextGenT
 type: d3-device-type-assertion

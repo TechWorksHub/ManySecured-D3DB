@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d200f570-573e-4ef8-9972-70bb16d38fac
-  mac-addresses:
+  id: 11ce02a5-5400-47bf-9cb9-c56d4be4f0d5
+  macAddresses:
   - 00:12:8F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Montilio
 type: d3-device-type-assertion

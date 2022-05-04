@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 52d602e4-311e-4cb2-b5a2-7812890884b9
-  mac-addresses:
+  id: 7f65d135-8a68-426f-9b8f-52660b07f92d
+  macAddresses:
   - 00:70:B0:00:00:00/24
   - 02:70:B0:00:00:00/24
   manufacturer: M/A-Com Inc. Companies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MA-ComCo
 type: d3-device-type-assertion

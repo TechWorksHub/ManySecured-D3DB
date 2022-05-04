@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26c21d07-518c-4401-b03e-d519c8f129e7
-  mac-addresses:
+  id: 70ce326f-b9be-468e-8105-b6a4246f7bdd
+  macAddresses:
   - E0:79:C4:00:00:00/24
   manufacturer: iRay Technology Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iRayTech
 type: d3-device-type-assertion

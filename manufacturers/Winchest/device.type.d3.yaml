@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f485b80-1851-4285-8ba1-37a4881bc416
-  mac-addresses:
+  id: c350e078-6697-457b-9424-c400cbab0911
+  macAddresses:
   - 00:21:3A:00:00:00/24
   manufacturer: Winchester Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Winchest
 type: d3-device-type-assertion

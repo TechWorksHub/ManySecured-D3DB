@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76f50b4e-25e0-4ac7-bcc4-e3c4afc85497
-  mac-addresses:
+  id: f9331fe9-5bf0-4f3d-b3c9-2e4b61833c57
+  macAddresses:
   - 7C:AB:25:00:00:00/24
   manufacturer: Mesmo Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MesmoTec
 type: d3-device-type-assertion

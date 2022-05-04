@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0e3220e-d08a-4428-bb43-7c3b695417e4
-  mac-addresses:
+  id: 3bfdf38a-1da6-4c32-b96b-41a7ecaab615
+  macAddresses:
   - D8:8A:3B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unit-Em
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fda1dd16-bef8-4701-a6e5-498a32982eb6
-  mac-addresses:
+  id: ffc3673f-b4b3-4cf5-8d71-7b2e354a351b
+  macAddresses:
   - 70:B3:D5:F7:70:00/36
   manufacturer: Satcube AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satcube
 type: d3-device-type-assertion

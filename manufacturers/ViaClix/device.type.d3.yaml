@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fa42953-ad87-42a3-9748-e8137be5ff2e
-  mac-addresses:
+  id: 60801224-de0b-4c6b-b669-f35152fffc0f
+  macAddresses:
   - 00:02:82:00:00:00/24
   manufacturer: ViaClix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViaClix
 type: d3-device-type-assertion

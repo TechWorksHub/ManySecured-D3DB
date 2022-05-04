@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65ac1ead-1001-4d18-b120-1422e3e90f0f
-  mac-addresses:
+  id: 6240bd5c-391a-47fb-9fa3-10e76ac6affc
+  macAddresses:
   - 00:0B:8E:00:00:00/24
   manufacturer: Ascent Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ascent
 type: d3-device-type-assertion

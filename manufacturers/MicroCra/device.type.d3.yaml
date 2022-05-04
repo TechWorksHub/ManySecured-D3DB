@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d952fd0-5244-4b56-b7fa-055c695f7155
-  mac-addresses:
+  id: 3dc75254-21df-4a4f-8a2f-59787fd3539a
+  macAddresses:
   - 00:C0:0A:00:00:00/24
   manufacturer: Micro Craft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroCra
 type: d3-device-type-assertion

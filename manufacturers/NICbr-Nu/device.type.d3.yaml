@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc7f99ce-2266-4ed6-a799-de5a7d5413b0
-  mac-addresses:
+  id: 8fd4fc20-e60e-4be0-b3f6-d408aaec9f3c
+  macAddresses:
   - 5C:E0:F6:00:00:00/24
   manufacturer: NIC.br- Nucleo de Informacao e Coordenacao do Ponto BR
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NICbr-Nu
 type: d3-device-type-assertion

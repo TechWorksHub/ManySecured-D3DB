@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 676ab3e0-01cb-413c-9273-a948daef2a4b
-  mac-addresses:
+  id: be17660f-1d34-452b-9edc-3b199e7f5570
+  macAddresses:
   - 40:89:A8:00:00:00/24
   manufacturer: WiredIQ, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiredIQ
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de24cba1-2722-492d-a369-bfd8db8f3e3b
-  mac-addresses:
+  id: 16955047-9c74-4672-af34-d20754a597fa
+  macAddresses:
   - EC:49:93:00:00:00/24
   manufacturer: Qihan Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QihanTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3277fe21-874c-415b-84e9-d2e88f33f10d
-  mac-addresses:
+  id: f1b6191d-4540-4609-8bd0-79987321aeeb
+  macAddresses:
   - 00:17:19:00:00:00/24
   manufacturer: Audiocodes USA, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audiocod
 type: d3-device-type-assertion

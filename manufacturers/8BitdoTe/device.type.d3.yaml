@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c01a24b9-3713-417d-b601-c036445d68f5
-  mac-addresses:
+  id: 939744e3-dfc9-4c38-bc0d-696319d1d4e6
+  macAddresses:
   - E4:17:D8:00:00:00/24
   manufacturer: 8Bitdo Technology Hk Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 8BitdoTe
 type: d3-device-type-assertion

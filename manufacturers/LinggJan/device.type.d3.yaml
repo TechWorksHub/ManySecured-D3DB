@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 533e9102-ce3e-43b3-95d7-e0031acdec91
-  mac-addresses:
+  id: 31d5d199-8c0a-4b57-b4ca-5341f8ca63a0
+  macAddresses:
   - 00:50:C2:2E:B0:00/36
   manufacturer: Lingg & Janke OHG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinggJan
 type: d3-device-type-assertion

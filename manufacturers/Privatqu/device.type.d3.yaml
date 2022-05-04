@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39e62c18-c6d7-426b-a76b-2998fcc856b7
-  mac-addresses:
+  id: befb8318-77ad-4cd1-bc6a-b2306d015d83
+  macAddresses:
   - 00:50:C2:87:60:00/36
   manufacturer: Privatquelle Gruber GmbH & CO KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Privatqu
 type: d3-device-type-assertion

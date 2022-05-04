@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9233dfe-992e-4c76-8b06-ae03325df1bd
-  mac-addresses:
+  id: f08dd276-f34c-4304-b02e-426e3bd307d7
+  macAddresses:
   - 00:50:C2:0C:20:00/36
   manufacturer: Alchemy Semiconductor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlchemyS
 type: d3-device-type-assertion

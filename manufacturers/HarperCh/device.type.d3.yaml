@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dcf9614-4a79-4a48-a80d-4222b53ca02e
-  mac-addresses:
+  id: a8b8d320-e851-459c-8e68-b76e6799cfdb
+  macAddresses:
   - 00:50:C2:B0:90:00/36
   manufacturer: Harper Chalice Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HarperCh
 type: d3-device-type-assertion

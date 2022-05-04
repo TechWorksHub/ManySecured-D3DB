@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8a396e0-8c26-4e4e-96af-47da5d6f77ec
-  mac-addresses:
+  id: 9938d173-5367-410c-8b1e-cf88772b2e13
+  macAddresses:
   - 00:00:16:00:00:00/24
   manufacturer: Du Pont Pixel Systems.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DuPontPi
 type: d3-device-type-assertion

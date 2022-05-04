@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f413819-6471-48ab-80c1-2fb4d7a138ef
-  mac-addresses:
+  id: 9e603499-4b5c-4061-8438-0ae5dad15ccd
+  macAddresses:
   - 00:04:01:00:00:00/24
   manufacturer: Osaki Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsakiEle
 type: d3-device-type-assertion

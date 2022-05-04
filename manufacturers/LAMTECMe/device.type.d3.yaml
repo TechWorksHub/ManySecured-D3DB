@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 390fe0d8-bab7-4d40-9aea-24a5dea94ce8
-  mac-addresses:
+  id: 22ade8ea-95ab-4b6f-824f-d577e8ed1f1c
+  macAddresses:
   - 70:B3:D5:5B:C0:00/36
   manufacturer: "LAMTEC Me\xDF- und Regeltechnik f\xFCr Feuerungen GmbH & Co. KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LAMTECMe
 type: d3-device-type-assertion

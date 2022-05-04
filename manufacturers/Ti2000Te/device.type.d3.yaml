@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed9dbd38-6971-4d17-b955-bf8776c94d8e
-  mac-addresses:
+  id: 74346ddc-1fb1-4353-9274-154e0f0eb358
+  macAddresses:
   - 00:50:C2:98:B0:00/36
   manufacturer: Ti2000 Tecnologia Informatica 2000
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ti2000Te
 type: d3-device-type-assertion

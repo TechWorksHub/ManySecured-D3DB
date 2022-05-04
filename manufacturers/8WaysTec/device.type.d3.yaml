@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4eea0a3-fa29-4102-97e1-8bc65df523fa
-  mac-addresses:
+  id: 4f4ebf7b-514e-44e0-a814-2239cd572a32
+  macAddresses:
   - 00:18:4F:00:00:00/24
   manufacturer: 8 Ways Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 8WaysTec
 type: d3-device-type-assertion

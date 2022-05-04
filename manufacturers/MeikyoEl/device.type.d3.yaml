@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7802a8a7-e4d6-495b-8915-47441fac88b1
-  mac-addresses:
+  id: be3af886-ef1a-4784-a25c-ff746477da3b
+  macAddresses:
   - 00:09:EE:00:00:00/24
   manufacturer: Meikyo Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeikyoEl
 type: d3-device-type-assertion

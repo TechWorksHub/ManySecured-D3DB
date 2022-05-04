@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7a04c49-6853-42d8-a656-dbe94c11103f
-  mac-addresses:
+  id: 7a5c0f61-0207-40f2-990f-853fa119f988
+  macAddresses:
   - 00:1E:A8:00:00:00/24
   manufacturer: Datang Mobile Communications Equipment CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatangMo
 type: d3-device-type-assertion

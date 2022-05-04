@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92dad01d-70c1-4659-9140-f54427bd994c
-  mac-addresses:
+  id: c56649a0-ec28-4294-95dd-6b9d2f971002
+  macAddresses:
   - A4:33:D1:00:00:00/24
   manufacturer: Fibrlink Communications Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fibrlink
 type: d3-device-type-assertion

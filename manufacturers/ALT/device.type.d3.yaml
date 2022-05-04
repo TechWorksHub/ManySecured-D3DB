@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b3ebfabd-5749-4d4d-9e00-68871049774f
-  mac-addresses:
+  id: e83f2092-85f5-4b0b-8a5a-4d757a37124a
+  macAddresses:
   - 0C:7F:ED:D0:00:00/28
   - 9C:4E:8E:00:00:00/24
   manufacturer: ALT Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALT
 type: d3-device-type-assertion

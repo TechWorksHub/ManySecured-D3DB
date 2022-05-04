@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94f09cd4-2d49-400d-a65c-85ef7068ec82
-  mac-addresses:
+  id: 98972d6e-52af-4629-b329-3711bd43d8c4
+  macAddresses:
   - 7C:11:CD:00:00:00/24
   manufacturer: QianTang Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QianTang
 type: d3-device-type-assertion

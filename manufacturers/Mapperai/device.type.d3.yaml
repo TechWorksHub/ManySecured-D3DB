@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd6aa193-8689-4cfa-bd7d-2e5df1ea81b2
-  mac-addresses:
+  id: 78ec80ff-9b6a-4d17-9c12-90ba8cea7ee3
+  macAddresses:
   - EC:93:65:00:00:00/24
   manufacturer: Mapper.ai, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mapperai
 type: d3-device-type-assertion

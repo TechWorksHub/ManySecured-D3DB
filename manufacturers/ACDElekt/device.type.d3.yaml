@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b53861fa-bc7b-4a97-8637-1a420fea5144
-  mac-addresses:
+  id: 0cbcf94c-f5bf-4897-abfa-fbb3c3ef99f8
+  macAddresses:
   - 00:50:C2:25:00:00/36
   - 00:50:C2:29:B0:00/36
   - 00:50:C2:55:D0:00/36
@@ -18,6 +18,6 @@ credentialSubject:
   - 70:B3:D5:C5:B0:00/36
   - 70:B3:D5:FD:A0:00/36
   manufacturer: ACD Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACDElekt
 type: d3-device-type-assertion

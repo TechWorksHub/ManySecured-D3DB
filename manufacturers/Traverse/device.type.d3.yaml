@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05fb1b9e-3429-4be5-aa9b-dba1c0ab17c2
-  mac-addresses:
+  id: 964d0dcb-9f58-45f4-aaa2-50291b9324b4
+  macAddresses:
   - 00:0A:FA:00:00:00/24
   manufacturer: Traverse Technologies Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Traverse
 type: d3-device-type-assertion

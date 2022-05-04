@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c848d9b6-c768-4f2a-b056-49cf41011437
-  mac-addresses:
+  id: a4e69b49-cbc5-424c-b377-3ddc73482a34
+  macAddresses:
   - 00:50:C2:26:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Biotage
 type: d3-device-type-assertion

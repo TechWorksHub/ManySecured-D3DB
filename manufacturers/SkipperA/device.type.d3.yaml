@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94cc172a-6d7a-42a5-a3a2-55a8dc61e4ef
-  mac-addresses:
+  id: 1074bc22-4acd-4594-84f4-91dc3737aaba
+  macAddresses:
   - 50:C9:A0:00:00:00/24
   manufacturer: Skipper As
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkipperA
 type: d3-device-type-assertion

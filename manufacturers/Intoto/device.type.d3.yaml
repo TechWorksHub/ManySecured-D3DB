@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0b3cc33-81c9-4920-9683-49429074c0d8
-  mac-addresses:
+  id: 85283ded-243a-4c91-9a9f-37f5e7258537
+  macAddresses:
   - 00:1D:B8:00:00:00/24
   manufacturer: Intoto Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intoto
 type: d3-device-type-assertion

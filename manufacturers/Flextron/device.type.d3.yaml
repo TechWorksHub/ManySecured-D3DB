@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d888544a-ed3e-481a-94dc-2b84008fb7b4
-  mac-addresses:
+  id: 9d9f1036-0f35-4405-bbd9-b0a79555a627
+  macAddresses:
   - 00:05:8E:00:00:00/24
   - 00:0B:8C:00:00:00/24
   - 00:21:CC:00:00:00/24
@@ -28,6 +28,6 @@ credentialSubject:
   - DC:B4:AC:00:00:00/24
   - F8:D4:78:00:00:00/24
   manufacturer: Flextronics International GmbH & Co. Nfg. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flextron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3af7e9ac-328b-4368-9fe7-f96b08fe300b
-  mac-addresses:
+  id: 416ed900-0894-4052-b850-4103cce0b34d
+  macAddresses:
   - 10:FC:B6:00:00:00/24
   manufacturer: mirusystems CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: mirusyst
 type: d3-device-type-assertion

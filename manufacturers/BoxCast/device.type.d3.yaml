@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f262d0c8-aa8c-43da-a0ea-c45904866c36
-  mac-addresses:
+  id: 911b0878-961e-4f49-a179-1d7a00455a59
+  macAddresses:
   - 9C:4E:BF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoxCast
 type: d3-device-type-assertion

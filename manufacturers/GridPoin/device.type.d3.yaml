@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c448a2c-dd22-4b5f-8f01-140986c76039
-  mac-addresses:
+  id: c058dae1-603f-407c-a242-6119f35e295f
+  macAddresses:
   - 00:24:B7:00:00:00/24
   manufacturer: GridPoint, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GridPoin
 type: d3-device-type-assertion

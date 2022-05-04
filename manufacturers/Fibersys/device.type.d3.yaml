@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e148512-a521-4c0c-afae-4a99e5af2d01
-  mac-addresses:
+  id: 88b9b7ab-c956-4cdb-9739-56992f03a335
+  macAddresses:
   - B4:37:D1:20:00:00/28
   manufacturer: Fibersystem AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fibersys
 type: d3-device-type-assertion

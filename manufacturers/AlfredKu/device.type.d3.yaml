@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb674ff4-76e0-4d51-9834-4e71e7c698ec
-  mac-addresses:
+  id: 12e8ca26-5054-48dc-b656-a5637ec73746
+  macAddresses:
   - 00:50:C2:8F:B0:00/36
   manufacturer: Alfred Kuhse GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlfredKu
 type: d3-device-type-assertion

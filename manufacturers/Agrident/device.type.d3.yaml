@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b89e3f8c-9baf-4774-b771-43ff967795e3
-  mac-addresses:
+  id: f9b1b869-7c9f-4fbb-acc6-769671b25547
+  macAddresses:
   - 70:B3:D5:ED:E0:00/36
   manufacturer: Agrident GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Agrident
 type: d3-device-type-assertion

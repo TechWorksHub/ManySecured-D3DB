@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9182e07f-e653-4d58-a32b-1f8572abeb17
-  mac-addresses:
+  id: 7f77c180-bb40-4484-a05d-a60cb216feb3
+  macAddresses:
   - 00:50:C2:B8:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fbb
 type: d3-device-type-assertion

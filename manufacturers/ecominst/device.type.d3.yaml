@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 394dbc01-0c7e-4132-822b-9ef266526c42
-  mac-addresses:
+  id: 027af5bd-a558-42c5-9f6b-d4a8b1f25afe
+  macAddresses:
   - 8C:59:3C:A0:00:00/28
   manufacturer: ecom instruments GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ecominst
 type: d3-device-type-assertion

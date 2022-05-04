@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 223d8da0-786b-4fc5-8739-66c5bee7ef19
-  mac-addresses:
+  id: d61ad53d-23d1-47c3-bb65-782e2293fa6f
+  macAddresses:
   - 58:21:E9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Twpi
 type: d3-device-type-assertion

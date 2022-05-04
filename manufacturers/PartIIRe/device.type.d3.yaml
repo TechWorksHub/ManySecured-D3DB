@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d979be0-66b6-4bdb-9283-4315a99f314f
-  mac-addresses:
+  id: 9ff6c772-24da-4693-a223-b2f6eddb1b4b
+  macAddresses:
   - 00:1C:C2:00:00:00/24
   manufacturer: Part II Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PartIIRe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7383b7ac-857b-49a2-b6a6-54da5817000e
-  mac-addresses:
+  id: fdaa734a-8ec9-4b1d-aab2-e36a78559f67
+  macAddresses:
   - B0:14:08:00:00:00/24
   manufacturer: Lightspeed International Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightspe
 type: d3-device-type-assertion

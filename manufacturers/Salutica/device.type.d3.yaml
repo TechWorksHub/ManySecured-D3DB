@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43f094dc-cd7e-44f5-8f55-2e00a62fc2d1
-  mac-addresses:
+  id: 31f62368-36cb-4a91-8246-e70c27ba9dbb
+  macAddresses:
   - 00:15:88:00:00:00/24
   manufacturer: Salutica Allied Solutions Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Salutica
 type: d3-device-type-assertion

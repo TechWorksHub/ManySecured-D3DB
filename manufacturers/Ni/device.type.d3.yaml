@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2bec5e5-c10b-416a-9107-363ff16a19f2
-  mac-addresses:
+  id: f0757a32-abb7-44e0-8598-37798990dc86
+  macAddresses:
   - 00:50:C2:37:E0:00/36
   manufacturer: Ni.Co. S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ni
 type: d3-device-type-assertion

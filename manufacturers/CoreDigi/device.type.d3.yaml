@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5406dbc-7321-44d8-858c-c1473e2900c2
-  mac-addresses:
+  id: f269d735-83a8-4a51-a266-13b10995036f
+  macAddresses:
   - 00:1C:29:00:00:00/24
   manufacturer: Core Digital Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoreDigi
 type: d3-device-type-assertion

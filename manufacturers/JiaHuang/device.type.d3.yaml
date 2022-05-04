@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e3e7ea3-dd4b-418b-83ff-c74effd95a37
-  mac-addresses:
+  id: c6118ecf-237f-4cd9-9ef2-2d1f791fdace
+  macAddresses:
   - 58:20:8A:50:00:00/28
   manufacturer: Jia Huang Jhan Ye Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiaHuang
 type: d3-device-type-assertion

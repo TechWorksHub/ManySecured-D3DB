@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e33559f-3498-4820-b756-e7baa6c44c6b
-  mac-addresses:
+  id: 6ef24499-4fde-4751-a82e-b0fb53b487c4
+  macAddresses:
   - 47:54:43:00:00:00/24
   manufacturer: GTC (Not registered!)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GtcNotRe
 type: d3-device-type-assertion

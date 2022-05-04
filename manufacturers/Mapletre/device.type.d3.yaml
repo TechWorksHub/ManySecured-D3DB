@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4670ab9-3109-4156-8ecb-cd32e2b70ea8
-  mac-addresses:
+  id: 31bcbd8c-1e93-4199-8c91-c9811db522d0
+  macAddresses:
   - 00:04:49:00:00:00/24
   manufacturer: Mapletree Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mapletre
 type: d3-device-type-assertion

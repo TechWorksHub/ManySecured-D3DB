@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d490f38-872f-4ffc-af7f-57f1dc3cad44
-  mac-addresses:
+  id: ca717f3c-01ee-469e-8790-d4fa543488f2
+  macAddresses:
   - 00:50:C2:2E:70:00/36
   manufacturer: SafeView, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SafeView
 type: d3-device-type-assertion

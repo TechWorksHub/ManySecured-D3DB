@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2de330fb-9b27-4f59-ae71-a8ad4a46c457
-  mac-addresses:
+  id: ca2e4703-20bf-4a92-8a98-4ecc04a9f3a4
+  macAddresses:
   - 00:50:C2:5A:E0:00/36
   manufacturer: Cps Europe B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CpsEurop
 type: d3-device-type-assertion

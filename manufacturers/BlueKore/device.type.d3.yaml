@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fee5d0c-d4e6-445b-8e36-5eda9f26be17
-  mac-addresses:
+  id: 8d4a285d-21ac-4251-ba49-16ba516cb37a
+  macAddresses:
   - 00:08:FD:00:00:00/24
   manufacturer: BlueKorea Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueKore
 type: d3-device-type-assertion

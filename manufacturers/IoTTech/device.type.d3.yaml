@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ff698be-f0eb-44ca-b36d-43ac964a79a7
-  mac-addresses:
+  id: 78e6ca86-0c08-476d-b854-44079c153dec
+  macAddresses:
   - AC:E9:7F:00:00:00/24
   manufacturer: IoT Tech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTTech
 type: d3-device-type-assertion

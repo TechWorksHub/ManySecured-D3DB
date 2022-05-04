@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04eadffc-a2de-4f3b-b5d6-ce34f2e0ce78
-  mac-addresses:
+  id: 2df4050c-240b-4151-94b6-7535105629ca
+  macAddresses:
   - 18:45:B3:30:00:00/28
   manufacturer: Ancsonic (chongqing) Electronic Science& Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ancsonic
 type: d3-device-type-assertion

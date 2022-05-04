@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 095fb819-5149-4db6-8d16-fb918e1ecc7c
-  mac-addresses:
+  id: 821c58a2-cfea-4b4f-ab58-fe9d4bbd09bc
+  macAddresses:
   - 00:08:F3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wany
 type: d3-device-type-assertion

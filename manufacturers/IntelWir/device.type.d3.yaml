@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7829b765-593d-402f-a9c8-2838ead192bb
-  mac-addresses:
+  id: b7497798-e72e-4154-910f-7c9eb9bfc598
+  macAddresses:
   - 00:17:35:00:00:00/24
   manufacturer: Intel Wireless Network Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntelWir
 type: d3-device-type-assertion

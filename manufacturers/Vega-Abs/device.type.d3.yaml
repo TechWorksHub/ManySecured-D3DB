@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 610e6d97-0266-40ad-a302-01b3c5db9745
-  mac-addresses:
+  id: 8bcf3109-9ef0-4fd5-8ce5-b28928a69f83
+  macAddresses:
   - 70:B3:D5:0A:D0:00/36
   - 78:5E:E8:20:00:00/28
   manufacturer: Vega-Absolute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vega-Abs
 type: d3-device-type-assertion

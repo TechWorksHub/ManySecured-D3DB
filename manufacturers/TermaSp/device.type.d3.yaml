@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f118a1e-2a3b-41f4-994d-dc6dc1927f7c
-  mac-addresses:
+  id: 53c8fc72-3903-467f-a661-3989334cb460
+  macAddresses:
   - CC:22:37:10:00:00/28
   manufacturer: Terma Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TermaSp
 type: d3-device-type-assertion

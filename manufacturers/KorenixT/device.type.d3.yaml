@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb52a790-d489-4e96-ab34-80c7628dfb38
-  mac-addresses:
+  id: 0e502527-e5ed-4aae-bb03-7f88bb356a58
+  macAddresses:
   - 00:12:77:00:00:00/24
   manufacturer: Korenix Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KorenixT
 type: d3-device-type-assertion

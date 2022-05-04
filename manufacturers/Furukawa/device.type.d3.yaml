@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 0e9f04f5-26d2-4ef2-929e-0a4c88f78967
-  mac-addresses:
+  id: 993fff87-04f0-41b9-b9e6-10abaa207d85
+  macAddresses:
   - 00:80:BD:00:00:00/24
   - 40:64:A4:00:00:00/24
   - B8:26:D4:00:00:00/24
   manufacturer: The Furukawa Electric Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Furukawa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea6115ef-aaa1-432b-979d-81b80cf7fa89
-  mac-addresses:
+  id: cc31fee7-c4c4-4a07-b59c-093b5486907a
+  macAddresses:
   - 6C:AC:60:00:00:00/24
   manufacturer: Venetex Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Venetex
 type: d3-device-type-assertion

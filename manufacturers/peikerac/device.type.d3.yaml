@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 4fa27edf-ca39-461b-aeb3-ae5d4a6a9609
-  mac-addresses:
+  id: 610e9d11-bbd5-4928-9511-99d077db0923
+  macAddresses:
   - 00:13:1E:00:00:00/24
   - 00:50:C2:1D:D0:00/36
   - 00:52:C2:00:00:00/24
   manufacturer: peiker acustic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: peikerac
 type: d3-device-type-assertion

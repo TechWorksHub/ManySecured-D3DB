@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7a81a32-5be6-4d1a-8c97-9fdd73f258ce
-  mac-addresses:
+  id: 756187f5-97e6-4541-8dd7-c42509ed39fb
+  macAddresses:
   - A4:DA:22:E0:00:00/28
   manufacturer: Quuppa Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quuppa
 type: d3-device-type-assertion

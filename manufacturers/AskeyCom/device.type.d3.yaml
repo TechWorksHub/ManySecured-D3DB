@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 9120c90d-1865-45d3-8b6b-989082df321d
-  mac-addresses:
+  id: 88349b48-30ce-47af-ab5b-31f6dc228e36
+  macAddresses:
   - 00:11:F5:00:00:00/24
   - 00:16:E3:00:00:00/24
   - 00:1B:9E:00:00:00/24
@@ -41,6 +41,6 @@ credentialSubject:
   - F8:5B:3B:00:00:00/24
   - FC:B4:E6:00:00:00/24
   manufacturer: Askey Computer Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AskeyCom
 type: d3-device-type-assertion

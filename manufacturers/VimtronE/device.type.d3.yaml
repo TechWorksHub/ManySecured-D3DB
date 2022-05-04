@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06dafe36-959b-4f22-9961-3487f9be4b84
-  mac-addresses:
+  id: b494bde3-1ecf-4c81-9b7d-1c74becc2439
+  macAddresses:
   - 00:16:9F:00:00:00/24
   manufacturer: Vimtron Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VimtronE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d74b6dba-2410-4cb5-aedd-7d687e04385d
-  mac-addresses:
+  id: 667a9927-85e4-4cc2-ae67-6b6297e09429
+  macAddresses:
   - 44:AD:19:00:00:00/24
   manufacturer: "Xingfei \uFF08H.K\uFF09Limited"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Xingfei\uFF08"
 type: d3-device-type-assertion

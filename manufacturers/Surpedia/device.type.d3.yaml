@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 420e78fe-2db2-48f2-a7de-cf4221023710
-  mac-addresses:
+  id: e640a08b-5342-4166-8e2e-ff868d95470f
+  macAddresses:
   - 8C:51:09:D0:00:00/28
   manufacturer: Surpedia Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Surpedia
 type: d3-device-type-assertion

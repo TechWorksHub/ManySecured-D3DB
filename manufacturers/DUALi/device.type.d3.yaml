@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f45138e9-f336-41a2-aca6-7239ada9ae7a
-  mac-addresses:
+  id: d560a956-cbef-447f-8b52-9490e0c5a312
+  macAddresses:
   - 00:0F:33:00:00:00/24
   manufacturer: DUALi Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DUALi
 type: d3-device-type-assertion

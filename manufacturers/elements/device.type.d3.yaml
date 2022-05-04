@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12b55728-2c5e-433b-8e0f-a51477b0033b
-  mac-addresses:
+  id: 35cdd34e-e72a-4631-957e-6f9c9f34e8f6
+  macAddresses:
   - 70:B3:D5:62:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: elements
 type: d3-device-type-assertion

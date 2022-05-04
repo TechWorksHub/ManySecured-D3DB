@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 2a69ee04-50eb-4279-8eee-d282deb37d04
-  mac-addresses:
+  id: d82b5b2b-bed3-46ce-bf1b-db72a479c670
+  macAddresses:
   - 00:20:54:00:00:00/24
   - 00:90:97:00:00:00/24
   - 00:D0:D1:00:00:00/24
   manufacturer: Sycamore Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sycamore
 type: d3-device-type-assertion

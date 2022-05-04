@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a33b38f7-4e5c-4185-b6f4-4e324e6ef437
-  mac-addresses:
+  id: df45dc31-862c-41f8-8c8c-b3ebb59d8025
+  macAddresses:
   - 00:26:60:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logiways
 type: d3-device-type-assertion

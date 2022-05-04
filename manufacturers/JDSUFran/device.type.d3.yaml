@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cf36558-1057-4a15-908f-3ad840f614c4
-  mac-addresses:
+  id: 33661831-cc82-4419-bef1-5565884d2b7b
+  macAddresses:
   - 00:22:BC:00:00:00/24
   manufacturer: JDSU France SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JDSUFran
 type: d3-device-type-assertion

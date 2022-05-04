@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fc8506f2-97ee-4d57-9aec-2ef362491914
-  mac-addresses:
+  id: 4a824451-8216-4e13-b1fd-a289c9522500
+  macAddresses:
   - 00:0A:BB:00:00:00/24
   - 00:1B:82:00:00:00/24
   manufacturer: Taiwan Secom Co,. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaiwanSe
 type: d3-device-type-assertion

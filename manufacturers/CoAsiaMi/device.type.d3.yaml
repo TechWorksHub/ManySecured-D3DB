@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b863c112-744a-418b-8658-26b72d64a9ce
-  mac-addresses:
+  id: 2b7d2ebd-bec4-44ee-95ac-82cf05bafb2c
+  macAddresses:
   - A4:58:0F:50:00:00/28
   manufacturer: CoAsia Microelectronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoAsiaMi
 type: d3-device-type-assertion

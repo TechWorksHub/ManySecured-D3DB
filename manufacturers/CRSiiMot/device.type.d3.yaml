@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e397cf55-a899-47e0-9299-96b7ea5ec700
-  mac-addresses:
+  id: 80024e29-934b-4341-ae39-818495fe1117
+  macAddresses:
   - DC:64:7C:00:00:00/24
   manufacturer: C.R.S. iiMotion GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRSiiMot
 type: d3-device-type-assertion

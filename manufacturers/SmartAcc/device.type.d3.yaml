@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed2a113c-6450-4ac6-a4b0-c77619f0a537
-  mac-addresses:
+  id: 25cd8437-f857-4f94-af88-a5a4e24f699a
+  macAddresses:
   - 4C:91:7A:30:00:00/28
   manufacturer: Smart Access
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartAcc
 type: d3-device-type-assertion

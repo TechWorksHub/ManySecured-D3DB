@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d7f204ec-8753-40b5-bff3-8749fb8a1291
-  mac-addresses:
+  id: 9b14f0d5-0497-49dc-bd16-70b5132505c1
+  macAddresses:
   - 00:03:1A:00:00:00/24
   - 00:1E:6A:00:00:00/24
   - 0C:86:29:D0:00:00/28
@@ -14,6 +14,6 @@ credentialSubject:
   - C8:53:E1:00:00:00/24
   - E8:D4:E0:00:00:00/24
   manufacturer: Beijing Broad Telecom Ltd., China
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingB
 type: d3-device-type-assertion

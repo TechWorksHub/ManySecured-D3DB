@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc84d253-3d25-4f39-bf89-799e578b05d0
-  mac-addresses:
+  id: 08f14b6c-b4dd-4841-81b8-5d75ac89c4e5
+  macAddresses:
   - 00:0C:3F:00:00:00/24
   manufacturer: Cogent Defence & Security Networks,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CogentDe
 type: d3-device-type-assertion

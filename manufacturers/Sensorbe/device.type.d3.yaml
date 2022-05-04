@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aff393eb-26fb-41e8-9e9b-2d4a2a923f6a
-  mac-addresses:
+  id: a05ce92c-119c-4fcb-bccc-ca28a7d6acd3
+  macAddresses:
   - 70:B3:D5:6A:F0:00/36
   manufacturer: Sensorberg GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sensorbe
 type: d3-device-type-assertion

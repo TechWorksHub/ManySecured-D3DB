@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cc4005e-7186-4b36-8196-80ce8ce9bd51
-  mac-addresses:
+  id: 317fa60e-43dd-43fc-a734-e8553bb9ae7a
+  macAddresses:
   - 00:05:56:00:00:00/24
   manufacturer: 360 Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: '360'
 type: d3-device-type-assertion

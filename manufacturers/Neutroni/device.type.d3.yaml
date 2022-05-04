@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca54d604-6352-4e20-b2ce-8cdaecba7ace
-  mac-addresses:
+  id: 358b686b-166d-453c-83e3-52af600d382d
+  macAddresses:
   - 80:E4:DA:A0:00:00/28
   manufacturer: Neutronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neutroni
 type: d3-device-type-assertion

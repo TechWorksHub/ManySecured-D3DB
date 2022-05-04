@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7296655-f9fd-4ba9-bd9f-49617c28e7f6
-  mac-addresses:
+  id: e5cc1790-a1d1-44c2-b26e-7df7d9a3f113
+  macAddresses:
   - 00:0A:9C:00:00:00/24
   manufacturer: Server Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ServerTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1434041c-045f-4b7d-ac64-e97c91bb6d00
-  mac-addresses:
+  id: e3cf26fc-1776-46a2-af33-b781c549e42d
+  macAddresses:
   - 00:0E:AE:00:00:00/24
   manufacturer: Gawell Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GawellTe
 type: d3-device-type-assertion

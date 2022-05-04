@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbba169f-4e04-42a2-9b06-6db289acfecb
-  mac-addresses:
+  id: b8bfc201-cb89-4d65-9992-2b6addd7e112
+  macAddresses:
   - 00:50:C2:75:40:00/36
   manufacturer: Abeo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abeo
 type: d3-device-type-assertion

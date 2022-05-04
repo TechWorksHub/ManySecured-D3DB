@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58258b14-d3fd-4b3b-a6dc-b0b19f7adab1
-  mac-addresses:
+  id: 4578a359-1dd9-4890-bf45-9e923ad64423
+  macAddresses:
   - 00:14:73:00:00:00/24
   manufacturer: Bookham Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bookham
 type: d3-device-type-assertion

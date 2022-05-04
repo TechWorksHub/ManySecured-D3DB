@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f92ad0e-6cd7-45c8-8ea0-d7ecb6f32f9f
-  mac-addresses:
+  id: c2d89531-c8ae-4926-81fe-e226afc21b73
+  macAddresses:
   - 90:98:64:00:00:00/24
   manufacturer: Impex-Sat GmbH&Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Impex-Sa
 type: d3-device-type-assertion

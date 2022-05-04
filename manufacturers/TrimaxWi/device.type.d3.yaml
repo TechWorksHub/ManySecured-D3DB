@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2650915-84c6-4438-bbc3-bfe45253ebb7
-  mac-addresses:
+  id: 61fc3325-6adf-4837-89f1-75c26d43be78
+  macAddresses:
   - 00:25:A3:00:00:00/24
   manufacturer: Trimax Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrimaxWi
 type: d3-device-type-assertion

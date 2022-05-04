@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b713895e-26f2-4446-83f1-9ea07d3e787f
-  mac-addresses:
+  id: bde830d2-778b-4a8b-a751-fc8f72b36448
+  macAddresses:
   - 7C:A1:5D:00:00:00/24
   manufacturer: GN ReSound A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GNReSoun
 type: d3-device-type-assertion

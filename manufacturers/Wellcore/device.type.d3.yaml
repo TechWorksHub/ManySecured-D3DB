@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ebaa11a-3af3-4302-ac60-eb66e6a26e67
-  mac-addresses:
+  id: 7296495b-27f9-49ef-aa67-df6b631f1c03
+  macAddresses:
   - 70:D5:E7:00:00:00/24
   manufacturer: Wellcore Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wellcore
 type: d3-device-type-assertion

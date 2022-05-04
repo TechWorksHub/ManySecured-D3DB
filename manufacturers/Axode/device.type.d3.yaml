@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c806b0f1-232b-4d1c-8012-77721ac5ce9d
-  mac-addresses:
+  id: e6e6ded2-be30-48f7-bd7e-5fb38ec66bac
+  macAddresses:
   - 00:50:C2:28:D0:00/36
   manufacturer: Axode Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axode
 type: d3-device-type-assertion

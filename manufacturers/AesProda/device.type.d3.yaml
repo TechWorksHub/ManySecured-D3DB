@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c44d65b1-310f-4223-8d47-a32dd08eb1a1
-  mac-addresses:
+  id: 04971056-23e1-4f7f-b8b7-c92fe0fc012d
+  macAddresses:
   - 00:A0:62:00:00:00/24
   manufacturer: Aes Prodata
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AesProda
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b0d4d13-0fc0-416b-938c-dc773a54bb30
-  mac-addresses:
+  id: 9a6f50bb-71c0-4f7b-ae55-6f20d88a4b99
+  macAddresses:
   - 1C:0F:CF:00:00:00/24
   manufacturer: Sypro Optics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SyproOpt
 type: d3-device-type-assertion

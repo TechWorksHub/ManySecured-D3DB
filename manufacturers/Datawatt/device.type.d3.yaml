@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a79ab0be-9430-4afc-81b5-be78f8757e0e
-  mac-addresses:
+  id: 0454d6b8-00c1-494a-98ff-24c275de77b1
+  macAddresses:
   - 00:0B:83:00:00:00/24
   manufacturer: Datawatt B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datawatt
 type: d3-device-type-assertion

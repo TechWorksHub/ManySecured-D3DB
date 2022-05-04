@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d48f3740-c40a-44fd-ade3-801f2acefdfc
-  mac-addresses:
+  id: 95220c89-f87e-44b0-8e6e-d08a8f9526fb
+  macAddresses:
   - EC:80:09:00:00:00/24
   manufacturer: NovaSparks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovaSpar
 type: d3-device-type-assertion

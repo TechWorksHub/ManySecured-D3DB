@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62a84490-a76e-4869-9248-65979da3f994
-  mac-addresses:
+  id: cb59b713-dbe2-4fbf-8862-02135a5ef533
+  macAddresses:
   - 00:03:73:00:00:00/24
   manufacturer: Aselsan A.S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aselsan
 type: d3-device-type-assertion

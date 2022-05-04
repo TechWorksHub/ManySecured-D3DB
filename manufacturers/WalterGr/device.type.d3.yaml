@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a794eaa2-1572-47d0-8798-2a421b3b0032
-  mac-addresses:
+  id: 236f2e40-4b31-419b-9ece-7a3e2ed0afa0
+  macAddresses:
   - 00:50:C2:9D:B0:00/36
   manufacturer: Walter Grotkasten
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WalterGr
 type: d3-device-type-assertion

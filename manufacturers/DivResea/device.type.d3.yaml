@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72b640f7-9206-431f-a176-c99bc36300e9
-  mac-addresses:
+  id: 65ec9d12-4fc0-4300-863f-b54f1e4e16c4
+  macAddresses:
   - 00:D0:4D:00:00:00/24
   manufacturer: Div Of Research & Statistics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DivResea
 type: d3-device-type-assertion

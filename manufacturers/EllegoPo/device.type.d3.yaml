@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5672520b-ad0c-4944-a84b-f4747762f74e
-  mac-addresses:
+  id: ba541b2c-bad6-45bc-9c89-000b1a722ec5
+  macAddresses:
   - 70:B3:D5:CE:F0:00/36
   manufacturer: Ellego Powertec Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EllegoPo
 type: d3-device-type-assertion

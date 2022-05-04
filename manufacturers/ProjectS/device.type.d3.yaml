@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3dbf93ef-fb9b-4679-a233-cb8c5a86137f
-  mac-addresses:
+  id: 8f8cb5bf-e74f-4b9a-a0c1-6d6672e41dd3
+  macAddresses:
   - 70:B3:D5:78:10:00/36
   - 70:B3:D5:A2:D0:00/36
   manufacturer: Project Service S.a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProjectS
 type: d3-device-type-assertion

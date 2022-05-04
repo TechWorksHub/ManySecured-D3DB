@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98dcdfd1-2492-45a6-826b-9e0ec257167c
-  mac-addresses:
+  id: 3f25630d-6d3c-459c-adbb-7ed865c95d3e
+  macAddresses:
   - 00:0D:18:00:00:00/24
   manufacturer: Mega-Trend Electronics CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mega-Tre
 type: d3-device-type-assertion

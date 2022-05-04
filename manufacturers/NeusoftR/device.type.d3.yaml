@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9ad98860-7c40-494a-bc8c-b2bd54f8647b
-  mac-addresses:
+  id: 49a0c110-5cd2-43ff-b0ea-23a8d574f78f
+  macAddresses:
   - 70:B3:D5:00:F0:00/36
   - 70:B3:D5:E4:20:00/36
   - 98:80:BB:60:00:00/28
   manufacturer: Neusoft Reach Automotive Technology (Shenyang) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NeusoftR
 type: d3-device-type-assertion

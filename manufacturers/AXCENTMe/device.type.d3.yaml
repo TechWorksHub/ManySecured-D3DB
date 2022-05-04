@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96063cc4-a254-4e5b-8c54-cf1dd4d38c45
-  mac-addresses:
+  id: 51d68b05-e056-4cc2-9fe0-b310de7500ec
+  macAddresses:
   - 00:03:A9:00:00:00/24
   manufacturer: AXCENT Media AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AXCENTMe
 type: d3-device-type-assertion

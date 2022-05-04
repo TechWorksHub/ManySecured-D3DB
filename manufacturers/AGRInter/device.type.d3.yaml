@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e49786f-86c9-4abd-bb4b-1399ba7e1528
-  mac-addresses:
+  id: f45d198a-7baf-4387-9b65-7907cc9f2320
+  macAddresses:
   - 70:B3:D5:AB:F0:00/36
   manufacturer: AGR International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AGRInter
 type: d3-device-type-assertion

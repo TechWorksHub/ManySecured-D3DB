@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef73f488-3f9b-4c2a-88b6-82ff59814726
-  mac-addresses:
+  id: d4f1fad1-4c55-4f53-b906-97716d9278e4
+  macAddresses:
   - 00:50:C2:C4:60:00/36
   manufacturer: QNE GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QNE
 type: d3-device-type-assertion

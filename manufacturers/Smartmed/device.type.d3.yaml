@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97ec0f33-8513-4a41-a214-424d9e958e36
-  mac-addresses:
+  id: 44873b45-4ac9-4ae6-ae4c-e89bd5e73790
+  macAddresses:
   - 00:50:C2:0E:90:00/36
   manufacturer: Smartmedia LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartmed
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d730616-4140-44ae-916a-49e1d465489f
-  mac-addresses:
+  id: d3c4bff4-0ba7-4b24-ae5f-d6b3efc67941
+  macAddresses:
   - 00:08:A7:00:00:00/24
   manufacturer: iLogic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iLogic
 type: d3-device-type-assertion

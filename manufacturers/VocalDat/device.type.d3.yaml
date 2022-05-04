@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5663e84-2371-4f66-93ce-8fddcb88f0f1
-  mac-addresses:
+  id: 2e68a219-7c7b-4837-89c7-a24b310a650d
+  macAddresses:
   - 00:D0:A3:00:00:00/24
   manufacturer: Vocal Data, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VocalDat
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c89d6814-7793-4adc-9b1f-01f6e2b6191e
-  mac-addresses:
+  id: 26fdf55a-0849-4fcc-a805-f480e8f824ce
+  macAddresses:
   - 00:1A:3C:00:00:00/24
   manufacturer: Technowave Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technowa
 type: d3-device-type-assertion

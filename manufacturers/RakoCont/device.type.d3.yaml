@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 37db1d11-18de-4735-94ba-0991ab24f069
-  mac-addresses:
+  id: 75965f6d-e0a2-4c8c-b19b-7ba17825450f
+  macAddresses:
   - 70:B3:D5:08:40:00/36
   - 78:F8:B8:00:00:00/24
   manufacturer: Rako Controls Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RakoCont
 type: d3-device-type-assertion

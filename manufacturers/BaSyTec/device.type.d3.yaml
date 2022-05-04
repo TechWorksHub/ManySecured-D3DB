@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 638950dc-1a8e-4a18-ba7c-6ed2d6075270
-  mac-addresses:
+  id: a0251a05-d1e0-481b-8758-bdf681083fae
+  macAddresses:
   - 00:50:C2:0A:30:00/36
   manufacturer: BaSyTec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaSyTec
 type: d3-device-type-assertion

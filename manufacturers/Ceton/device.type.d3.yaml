@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3205c78-7eca-4287-89b6-c67dd62547da
-  mac-addresses:
+  id: 583a907f-f703-4375-9b07-d5987989302e
+  macAddresses:
   - 00:22:2C:00:00:00/24
   manufacturer: Ceton Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ceton
 type: d3-device-type-assertion

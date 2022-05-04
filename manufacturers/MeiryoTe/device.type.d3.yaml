@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9f18301-46bc-43ca-9335-6a180e78cabe
-  mac-addresses:
+  id: ea3f4238-1cf6-4d47-b5d5-90e648550cf4
+  macAddresses:
   - C8:F5:D6:00:00:00/28
   manufacturer: Meiryo Technica Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeiryoTe
 type: d3-device-type-assertion

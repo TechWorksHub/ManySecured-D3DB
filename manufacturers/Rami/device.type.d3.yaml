@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e9901d3-3e66-43d1-b123-9c4de148f087
-  mac-addresses:
+  id: 9a477ca1-3f1a-4b0b-8cbc-0264fa7d97c0
+  macAddresses:
   - EC:D9:25:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rami
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d967056-2d47-47e0-aed1-3c2340dcc854
-  mac-addresses:
+  id: a5dce90d-f6a2-461d-aa0b-d9cd8fcf2c3d
+  macAddresses:
   - 70:B3:D5:11:D0:00/36
   manufacturer: Dakton Microlabs LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaktonMi
 type: d3-device-type-assertion

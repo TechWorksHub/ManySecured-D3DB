@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad6aaecd-1e5e-4534-a5b3-e12a82b6f162
-  mac-addresses:
+  id: fccf4142-4843-45c9-a947-27f318458ad9
+  macAddresses:
   - A4:0B:ED:00:00:00/24
   manufacturer: Carry Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CarryTec
 type: d3-device-type-assertion

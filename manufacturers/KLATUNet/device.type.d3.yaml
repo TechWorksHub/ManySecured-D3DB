@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76e44aaa-0853-4f62-ac3f-ea93722a9e90
-  mac-addresses:
+  id: e031fe51-3e1d-46bf-b1d3-1a04dfb8b647
+  macAddresses:
   - F8:8A:3C:20:00:00/28
   manufacturer: KLATU Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KLATUNet
 type: d3-device-type-assertion

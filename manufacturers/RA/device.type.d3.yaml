@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acf3f1d3-c7bc-4a85-a527-66d81559a8e2
-  mac-addresses:
+  id: 361f91a4-56d0-46bb-868e-877f78790c2e
+  macAddresses:
   - 00:A0:C2:00:00:00/24
   manufacturer: R.A. Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RA
 type: d3-device-type-assertion

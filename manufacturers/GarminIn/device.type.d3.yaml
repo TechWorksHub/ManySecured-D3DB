@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 19f872f6-e4b2-4ecc-b1be-11e50b01d790
-  mac-addresses:
+  id: 3eb5632c-9ee3-4eeb-a2c6-6292302f4420
+  macAddresses:
   - 00:05:4F:00:00:00/24
   - 10:4E:89:00:00:00/24
   - 10:C6:FC:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - B4:C2:6A:00:00:00/24
   - F0:99:19:00:00:00/24
   manufacturer: Garmin International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GarminIn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2947d222-27cf-4fe4-8ed6-55d896c84bad
-  mac-addresses:
+  id: 5290b07e-9f52-435e-9b2b-863658c049cb
+  macAddresses:
   - 00:50:C2:0B:50:00/36
   manufacturer: Extreme Copper, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExtremeC
 type: d3-device-type-assertion

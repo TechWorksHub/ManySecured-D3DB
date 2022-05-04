@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f08e314e-5523-4afb-83d0-25a41917f8be
-  mac-addresses:
+  id: 5995b1ea-8cb1-4953-ad17-b9389e22643b
+  macAddresses:
   - 70:B3:D5:EC:D0:00/36
   manufacturer: SBS-Feintechnik GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SBS-Fein
 type: d3-device-type-assertion

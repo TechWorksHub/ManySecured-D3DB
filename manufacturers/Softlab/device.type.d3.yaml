@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36aabe7e-a35a-4b52-99f6-af74ddb3d686
-  mac-addresses:
+  id: 6acdac9d-dc91-4720-af1f-d8fad48b3497
+  macAddresses:
   - 00:60:1E:00:00:00/24
   manufacturer: Softlab, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Softlab
 type: d3-device-type-assertion

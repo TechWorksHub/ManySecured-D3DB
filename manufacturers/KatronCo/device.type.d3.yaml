@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ec4a163-5656-41b0-a1fd-ec8e8dbced9d
-  mac-addresses:
+  id: 8ad22ee8-2a58-4d87-ab9d-1505610c92b2
+  macAddresses:
   - 00:40:F6:00:00:00/24
   manufacturer: Katron Computers Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KatronCo
 type: d3-device-type-assertion

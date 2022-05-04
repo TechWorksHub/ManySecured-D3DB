@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3ac9024a-6cbe-4797-a616-94ff02853321
-  mac-addresses:
+  id: 0d851b94-fc93-4f61-ba1d-7149712993de
+  macAddresses:
   - 00:50:C2:6A:D0:00/36
   - 70:B3:D5:DF:40:00/36
   manufacturer: "Heim- & B\xFCrokommunikation"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Heim-B\xFCr"
 type: d3-device-type-assertion

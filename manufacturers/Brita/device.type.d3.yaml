@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25eb4aef-0f58-4d55-80d0-8411f72d4229
-  mac-addresses:
+  id: d9a87ae1-a460-45cc-858a-577a527cc1d7
+  macAddresses:
   - C0:07:4A:00:00:00/24
   manufacturer: Brita GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brita
 type: d3-device-type-assertion

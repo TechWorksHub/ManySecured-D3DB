@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1c1b602-bd16-4cb9-9b6e-a713b33b1408
-  mac-addresses:
+  id: 1d28a470-2e97-43ec-a950-077f2a76d5d4
+  macAddresses:
   - FC:D2:B6:70:00:00/28
   manufacturer: Teamly Digital
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeamlyDi
 type: d3-device-type-assertion

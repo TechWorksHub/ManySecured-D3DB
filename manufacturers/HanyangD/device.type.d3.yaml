@@ -1,9 +1,9 @@
 credentialSubject:
-  id: dda6e2df-1a6f-48f4-ae4b-33349e8cbada
-  mac-addresses:
+  id: 7565b330-0cc4-4ad4-af98-6c36f8f14006
+  macAddresses:
   - 00:03:58:00:00:00/24
   - 18:53:E0:00:00:00/24
   manufacturer: Hanyang Digitech Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanyangD
 type: d3-device-type-assertion

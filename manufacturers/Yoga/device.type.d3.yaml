@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02a2ab98-d805-478d-9509-8626c995e2cd
-  mac-addresses:
+  id: cc3fd3c5-a983-4107-a976-07702b2780d7
+  macAddresses:
   - D0:E3:47:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yoga
 type: d3-device-type-assertion

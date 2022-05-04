@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2437494b-ad38-4455-989e-c80250ef287c
-  mac-addresses:
+  id: 5a1ce859-ad9b-4328-aa0e-631556482c44
+  macAddresses:
   - 64:4B:F0:00:00:00/24
   manufacturer: CalDigit, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CalDigit
 type: d3-device-type-assertion

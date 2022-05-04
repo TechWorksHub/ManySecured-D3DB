@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4afdbfc3-f08b-4dfb-addf-2abe826ac704
-  mac-addresses:
+  id: e415b9aa-ac8a-4de3-a5a4-9a525f764fa2
+  macAddresses:
   - 00:0B:49:00:00:00/24
   manufacturer: RF-Link System Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RF-LinkS
 type: d3-device-type-assertion

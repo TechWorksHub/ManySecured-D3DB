@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70aa1217-0d06-4122-8d6f-3d75d7647a5f
-  mac-addresses:
+  id: f965a421-3368-46d9-96bb-3549a0d76620
+  macAddresses:
   - 00:16:F4:00:00:00/24
   manufacturer: Eidicom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eidicom
 type: d3-device-type-assertion

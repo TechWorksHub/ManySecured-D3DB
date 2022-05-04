@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f1abf38-e5d2-465c-a8cf-785bb9a1b0a6
-  mac-addresses:
+  id: dfce03bb-53a3-48d8-9f74-79be19e7310b
+  macAddresses:
   - 00:1F:7A:00:00:00/24
   manufacturer: WiWide Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiWide
 type: d3-device-type-assertion

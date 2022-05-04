@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78fe67b9-33cc-49cc-bb14-123d8d6706f5
-  mac-addresses:
+  id: d66902ed-9fbe-4706-ba20-7df3d12f1cd0
+  macAddresses:
   - 8C:AE:49:50:00:00/28
   manufacturer: Gati Information Technolog(Kunshan)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GatiInfo
 type: d3-device-type-assertion

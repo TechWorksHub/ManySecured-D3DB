@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b706e1c-b93d-4b65-ac35-567773b0434f
-  mac-addresses:
+  id: 04df8a12-7396-4054-94c0-9ed5da8349db
+  macAddresses:
   - 70:B3:D5:B4:10:00/36
   manufacturer: T&M Media Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T&MMedia
 type: d3-device-type-assertion

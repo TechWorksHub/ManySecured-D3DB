@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d5b95142-a0fc-460c-840b-03f75e813f32
-  mac-addresses:
+  id: 9af640ed-187d-4865-809c-ff4d7f21391e
+  macAddresses:
   - 00:03:4C:00:00:00/24
   - 00:05:29:00:00:00/24
   - 00:08:5C:00:00:00/24
@@ -241,6 +241,6 @@ credentialSubject:
   - FC:B0:C4:00:00:00/24
   - FC:FA:F7:00:00:00/24
   manufacturer: Shanghai DigiVision Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shanghai
 type: d3-device-type-assertion

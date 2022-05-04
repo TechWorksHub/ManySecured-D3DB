@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e91bfc4-dfa1-4641-82fc-bc519f951c98
-  mac-addresses:
+  id: c2f470c3-ad43-409f-884d-0ad89e75ed3d
+  macAddresses:
   - 00:19:42:00:00:00/24
   manufacturer: On Software International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnSoftwa
 type: d3-device-type-assertion

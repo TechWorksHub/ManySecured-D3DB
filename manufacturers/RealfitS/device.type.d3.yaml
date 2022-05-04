@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1c5d0dd-c605-435d-ac98-15c5e54f98c5
-  mac-addresses:
+  id: a52e1091-a03f-40a0-8a0c-4a01c090b7db
+  macAddresses:
   - 14:3B:42:00:00:00/24
   manufacturer: Realfit(Shenzhen) Intelligent Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealfitS
 type: d3-device-type-assertion

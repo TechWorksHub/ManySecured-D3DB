@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 0f1f013e-f8f9-4caf-a49a-ededfa02c6db
-  mac-addresses:
+  id: 4fe010bb-d87f-4c78-9e08-b026ee6b6e19
+  macAddresses:
   - 00:26:0D:00:00:00/24
   - 00:27:1C:00:00:00/24
   - 08:5D:DD:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - 88:3C:1C:00:00:00/24
   - B4:A9:4F:00:00:00/24
   manufacturer: Mercury Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mercury
 type: d3-device-type-assertion

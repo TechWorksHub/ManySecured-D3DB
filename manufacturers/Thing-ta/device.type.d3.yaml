@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 583865ac-dd2f-42f5-bedb-5700f87bf6b4
-  mac-addresses:
+  id: 7d9f3049-e29f-4de8-ba77-28474d3de496
+  macAddresses:
   - B4:5C:A4:00:00:00/24
   manufacturer: Thing-talk Wireless Communication Technologies Corporation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thing-ta
 type: d3-device-type-assertion

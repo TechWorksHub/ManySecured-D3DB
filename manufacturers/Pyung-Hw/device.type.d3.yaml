@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b28d929-536c-4186-887a-f0594bb78d35
-  mac-addresses:
+  id: d8691b73-72ec-4f16-a55f-d5afb3158fa2
+  macAddresses:
   - 00:22:9D:00:00:00/24
   manufacturer: Pyung-Hwa Ind.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pyung-Hw
 type: d3-device-type-assertion

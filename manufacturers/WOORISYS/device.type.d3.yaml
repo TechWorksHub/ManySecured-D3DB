@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e9c94b6-ac2f-463a-851a-0fc830b178b0
-  mac-addresses:
+  id: b9a4f398-9f2e-4a8d-89ca-7510bb82743e
+  macAddresses:
   - 60:FD:56:00:00:00/24
   manufacturer: WOORISYSTEMS CO., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WOORISYS
 type: d3-device-type-assertion

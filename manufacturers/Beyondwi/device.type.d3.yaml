@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08e51a4c-c728-44d3-ab5d-58074a8824da
-  mac-addresses:
+  id: 693c86e4-79c3-42b0-95f1-09b265b67d14
+  macAddresses:
   - 00:19:1E:00:00:00/24
   manufacturer: Beyondwiz Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beyondwi
 type: d3-device-type-assertion

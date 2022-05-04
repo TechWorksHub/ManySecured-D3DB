@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ec7137d-ab63-436d-a264-f3229b24c7cd
-  mac-addresses:
+  id: f1add89e-f35f-4491-ba39-d3c7bed8442c
+  macAddresses:
   - 00:09:07:00:00:00/24
   manufacturer: Chrysalis Development
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chrysali
 type: d3-device-type-assertion

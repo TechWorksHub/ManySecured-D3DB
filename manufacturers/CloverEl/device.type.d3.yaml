@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5b1db3f0-9a90-4ff1-860c-4ebd6db34e86
-  mac-addresses:
+  id: 208306ff-697d-4a41-aeff-58a9c36b768d
+  macAddresses:
   - 00:23:0C:00:00:00/24
   - 70:B3:D5:08:D0:00/36
   manufacturer: Clover Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CloverEl
 type: d3-device-type-assertion

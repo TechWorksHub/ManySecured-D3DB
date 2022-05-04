@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9501087a-727a-462b-b880-2549d8fb6927
-  mac-addresses:
+  id: 0a04c603-4a8b-4712-a0ef-37e01dfd9a44
+  macAddresses:
   - 00:07:0D:00:00:00/24
   manufacturer: Cisco
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cisco251
 type: d3-device-type-assertion

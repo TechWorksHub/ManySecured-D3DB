@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 26bac429-4b50-4569-9d8b-e18a8ce69547
-  mac-addresses:
+  id: e696a30c-6674-4bb0-8b05-d4ef7ce58c0e
+  macAddresses:
   - 00:50:C2:F0:F0:00/36
   - 40:D8:55:13:20:00/36
   - 70:B3:D5:77:B0:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:95:60:00/36
   - 70:B3:D5:DD:F0:00/36
   manufacturer: AeroVision Avionics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AeroVisi
 type: d3-device-type-assertion

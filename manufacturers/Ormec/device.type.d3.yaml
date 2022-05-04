@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05ad0969-0eda-4307-ab3b-feac288bb994
-  mac-addresses:
+  id: 5ca36651-c472-4c89-b17b-ccb1dfeba2ac
+  macAddresses:
   - 00:D0:34:00:00:00/24
   manufacturer: Ormec Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ormec
 type: d3-device-type-assertion

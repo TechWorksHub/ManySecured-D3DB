@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d4c18a5-c308-4b04-ba6d-b94e1000e19d
-  mac-addresses:
+  id: 94f73a0f-aebb-4a8c-a4ac-616b9e290aaa
+  macAddresses:
   - F8:F2:5A:00:00:00/24
   manufacturer: G-Lab GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-Lab
 type: d3-device-type-assertion

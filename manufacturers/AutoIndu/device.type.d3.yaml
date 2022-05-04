@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a482ca5-7f19-4131-96f5-916f503c6168
-  mac-addresses:
+  id: a786aaac-1146-4f3c-8141-123496a25e81
+  macAddresses:
   - 08:76:95:00:00:00/24
   manufacturer: Auto Industrial Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutoIndu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bcf9063-1f5f-4523-a709-6327561c9fd8
-  mac-addresses:
+  id: cc79c01d-2fe4-46a8-b540-8e08d3ff4205
+  macAddresses:
   - 00:19:81:00:00:00/24
   manufacturer: Vivox Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vivox
 type: d3-device-type-assertion

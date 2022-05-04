@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1f3e60d-1b9c-4668-aed4-47b309fc34a0
-  mac-addresses:
+  id: 831d8323-96f9-4714-bd52-df60304dcab6
+  macAddresses:
   - 68:52:D6:00:00:00/24
   manufacturer: UGame Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UGameTec
 type: d3-device-type-assertion

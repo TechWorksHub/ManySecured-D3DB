@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 26daa868-5226-48ad-ae05-0cc44fe0c27e
-  mac-addresses:
+  id: 8d5870dd-3bb2-442e-a866-e3c41de96c55
+  macAddresses:
   - 00:0D:57:00:00:00/24
   - CC:B3:F8:00:00:00/24
   manufacturer: Fujitsu I-Network Systems Limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujitsuI
 type: d3-device-type-assertion

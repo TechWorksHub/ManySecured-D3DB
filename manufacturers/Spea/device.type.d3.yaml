@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94626e3f-0a40-47bb-905f-6ca0df56f8ed
-  mac-addresses:
+  id: 7ee48227-4a26-476a-8738-61b204144dc1
+  macAddresses:
   - 70:B3:D5:3F:30:00/36
   manufacturer: Spea Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spea
 type: d3-device-type-assertion

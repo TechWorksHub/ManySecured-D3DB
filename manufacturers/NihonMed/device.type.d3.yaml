@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de964fc0-543f-4913-bd46-424e3f2a97c6
-  mac-addresses:
+  id: 9e68c02a-cf66-47b6-8f3a-e8d16c6f2542
+  macAddresses:
   - 00:90:3A:00:00:00/24
   manufacturer: Nihon Media Tool Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NihonMed
 type: d3-device-type-assertion

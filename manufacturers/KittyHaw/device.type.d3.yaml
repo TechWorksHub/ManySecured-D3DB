@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01d3e2fb-ba72-474d-aaec-978dd4757459
-  mac-addresses:
+  id: 7054e428-f01e-451d-b40e-e5d3d2227585
+  macAddresses:
   - 04:71:4B:C0:00:00/28
   manufacturer: KittyHawk Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KittyHaw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 366fcd35-03af-47bd-87e8-a4e7ded64238
-  mac-addresses:
+  id: 9de01f18-1127-40da-b8bc-962b24f21f43
+  macAddresses:
   - 00:07:08:00:00:00/24
   manufacturer: Bitrage Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bitrage
 type: d3-device-type-assertion

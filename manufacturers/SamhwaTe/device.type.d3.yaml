@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0807ccd-3f2e-4114-a1ba-7956b9740671
-  mac-addresses:
+  id: e7ecc348-2977-4d79-b07f-b8975757a1de
+  macAddresses:
   - 28:94:AF:00:00:00/24
   manufacturer: Samhwa Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamhwaTe
 type: d3-device-type-assertion

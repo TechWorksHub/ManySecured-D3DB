@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9efe8ce8-6301-4005-958a-77d20709af0e
-  mac-addresses:
+  id: 52d8622b-0e9b-48e0-9239-37e1b357614d
+  macAddresses:
   - 00:50:C2:25:E0:00/36
   manufacturer: MITE Hradec Kralove, s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MITEHrad
 type: d3-device-type-assertion

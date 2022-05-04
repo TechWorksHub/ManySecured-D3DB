@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f4d10c1-ca69-4191-b5ba-4fcac3b9d39f
-  mac-addresses:
+  id: a995cea7-a2b5-47cb-abe7-659d8149835d
+  macAddresses:
   - 00:1B:9B:00:00:00/24
   manufacturer: Hose-McCann Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hose-McC
 type: d3-device-type-assertion

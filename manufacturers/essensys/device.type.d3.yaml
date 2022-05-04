@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b96663a-1a52-4158-a549-9cd673f3d4fc
-  mac-addresses:
+  id: 20fe5230-9fb0-4242-b07b-2946165a4de0
+  macAddresses:
   - 6C:A4:01:00:00:00/24
   manufacturer: essensys plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: essensys
 type: d3-device-type-assertion

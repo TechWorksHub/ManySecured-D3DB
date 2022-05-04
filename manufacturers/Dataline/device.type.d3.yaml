@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cae22719-4305-469a-b3dc-256e52df28ed
-  mac-addresses:
+  id: eca2b67a-af51-4324-8bce-33b6399b8b8d
+  macAddresses:
   - 00:21:1D:00:00:00/24
   - 00:50:C2:31:60:00/36
   manufacturer: Dataline AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dataline
 type: d3-device-type-assertion

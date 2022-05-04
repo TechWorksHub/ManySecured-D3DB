@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb0f725b-4a90-479b-af9e-3f4d3f0ae931
-  mac-addresses:
+  id: ee40f516-dcd3-4ee1-b694-77e1979c681b
+  macAddresses:
   - 70:B3:D5:9A:D0:00/36
   manufacturer: Fortuna Impex Pvt ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FortunaI
 type: d3-device-type-assertion

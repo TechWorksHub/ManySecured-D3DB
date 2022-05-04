@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78e44057-8053-4d92-8091-b3fa5413fa0f
-  mac-addresses:
+  id: da238727-e3f9-472b-80e7-1d068dd9444e
+  macAddresses:
   - 18:9B:A5:20:00:00/28
   manufacturer: Airprotec
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airprote
 type: d3-device-type-assertion

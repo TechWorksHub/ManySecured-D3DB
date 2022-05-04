@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f886e83e-1df6-4950-859a-183b7bda0d54
-  mac-addresses:
+  id: 60f86630-bc76-4976-b58f-089d7c63e9c7
+  macAddresses:
   - 00:06:07:00:00:00/24
   manufacturer: Omni Directional Control Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmniDire
 type: d3-device-type-assertion

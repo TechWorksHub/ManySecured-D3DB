@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6324328-64a0-4862-986f-d5916cca2e67
-  mac-addresses:
+  id: 86bcbad6-d4a3-4a47-b77b-242c92b9d61c
+  macAddresses:
   - A0:16:5C:00:00:00/24
   manufacturer: Triteka LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Triteka
 type: d3-device-type-assertion

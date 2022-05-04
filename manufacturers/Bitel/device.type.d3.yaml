@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0531f807-289b-478b-8cb3-455452bc9441
-  mac-addresses:
+  id: 56dc7d42-fcc2-470f-a884-2a02729c3349
+  macAddresses:
   - 08:11:5E:00:00:00/24
   manufacturer: Bitel Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bitel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66e0dec1-4598-4c05-bc73-5d63a1e2677e
-  mac-addresses:
+  id: 85cb15c0-6c38-4b5b-aa58-ddd58957de4c
+  macAddresses:
   - 7C:C6:C4:00:00:00/24
   manufacturer: Kolff Computer Supplies b.v.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KolffCom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2fcbdca-342e-4d9d-b254-6162c3528cf1
-  mac-addresses:
+  id: 06da6611-4019-4505-8f29-9b4653c4e0f6
+  macAddresses:
   - E4:DD:79:00:00:00/24
   manufacturer: En-Vision America, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: En-Visio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49bf2185-542e-446f-b6a0-50fbb3154792
-  mac-addresses:
+  id: 37d8ede9-c7da-4271-8071-7774293337f6
+  macAddresses:
   - DC:E5:33:10:00:00/28
   manufacturer: Ambi Labs Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmbiLabs
 type: d3-device-type-assertion

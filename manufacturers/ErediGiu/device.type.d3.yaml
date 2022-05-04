@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0740b918-ee5d-41ae-b5d3-b301d4b8c66b
-  mac-addresses:
+  id: a2522bd5-ba2f-413d-af7f-74f997156c49
+  macAddresses:
   - 70:B3:D5:6C:E0:00/36
   manufacturer: Eredi Giuseppe Mercuri SPA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ErediGiu
 type: d3-device-type-assertion

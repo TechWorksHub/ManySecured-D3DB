@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7595e8a3-16ce-4761-936c-bdb61bf17398
-  mac-addresses:
+  id: 4dcfb471-83dd-48c4-a6ad-0376c4eb7042
+  macAddresses:
   - 00:50:C2:DC:20:00/36
   - 10:07:23:A0:00:00/28
   manufacturer: Tessera Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TesseraT
 type: d3-device-type-assertion

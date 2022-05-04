@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0dedcc70-b171-4173-9d7f-78d84dbcd189
-  mac-addresses:
+  id: 4953d5d7-07c0-4288-a2ca-55119c6df9e1
+  macAddresses:
   - 0C:CF:D1:00:00:00/24
   manufacturer: SPRINGWAVE Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPRINGWA
 type: d3-device-type-assertion

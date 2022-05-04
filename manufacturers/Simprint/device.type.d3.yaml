@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 547b4c51-58ad-44b4-939a-07f90bb9c61d
-  mac-addresses:
+  id: 8cd22f40-1d6c-4a22-92be-3e4f43c536ab
+  macAddresses:
   - F0:AC:D7:C0:00:00/28
   manufacturer: Simprints Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simprint
 type: d3-device-type-assertion

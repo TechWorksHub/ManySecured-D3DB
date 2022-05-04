@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ade084be-f9cd-4c98-8be9-5d4ad3c2a6f3
-  mac-addresses:
+  id: f0bdae5b-0ae7-46e2-b694-97333c57da6c
+  macAddresses:
   - 00:50:C2:F0:D0:00/36
   manufacturer: Bluetest AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bluetest
 type: d3-device-type-assertion

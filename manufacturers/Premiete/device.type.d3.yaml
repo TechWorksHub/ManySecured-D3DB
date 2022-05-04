@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 245c6130-003a-49da-8a98-eda146d01e0b
-  mac-addresses:
+  id: ee2b11a8-6f63-4b3b-9b86-88d24a1bcac3
+  macAddresses:
   - E0:48:AF:00:00:00/24
   manufacturer: Premietech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Premiete
 type: d3-device-type-assertion

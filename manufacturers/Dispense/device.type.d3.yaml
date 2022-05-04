@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9b53ce8-a593-4146-b3cf-ec6e33bf6ff0
-  mac-addresses:
+  id: b68b4b45-fc92-47dc-bc67-1a410795b641
+  macAddresses:
   - 00:0D:32:00:00:00/24
   manufacturer: DispenseSource, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dispense
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 142ff3ee-af28-4f99-8791-3956771f5eb0
-  mac-addresses:
+  id: fd33761b-5058-495e-9e17-80f2d36739b0
+  macAddresses:
   - 00:50:C2:CA:00:00/36
   manufacturer: Kiefer technic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kieferte
 type: d3-device-type-assertion

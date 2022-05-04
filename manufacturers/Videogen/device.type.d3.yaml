@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f02cdbbe-b40d-4c3b-a639-096dbd511457
-  mac-addresses:
+  id: 77a717b9-0cce-4550-8eba-39ab0e6ca6ca
+  macAddresses:
   - 70:B3:D5:73:00:00/36
   manufacturer: Videogenix
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videogen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 814094e6-7596-4a9d-b806-4e2690c4c028
-  mac-addresses:
+  id: f2ef877b-5192-4228-9c30-7d450f7f8ac4
+  macAddresses:
   - 70:B3:D5:02:D0:00/36
   manufacturer: NEXTtec srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NEXTtec
 type: d3-device-type-assertion

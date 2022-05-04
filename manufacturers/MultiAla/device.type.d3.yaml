@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cd9436e-fdd2-4d27-8409-49e0e0b5ce15
-  mac-addresses:
+  id: cb44855b-94b4-423c-ba47-267a5cea51cb
+  macAddresses:
   - 68:91:D0:10:00:00/28
   manufacturer: Multi Alarm Zrt.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MultiAla
 type: d3-device-type-assertion

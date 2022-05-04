@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d9c77e1-cd8d-42fc-b736-72474e3faac8
-  mac-addresses:
+  id: 633f3518-668f-4f9d-a2ad-288614bd787b
+  macAddresses:
   - 80:F8:EB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RayTight
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aceb6f57-d357-4ee2-a4ad-02d05cf8c05b
-  mac-addresses:
+  id: 3a20b65c-66c7-49d5-a620-f7117eb944a1
+  macAddresses:
   - 78:E9:80:00:00:00/24
   manufacturer: RainUs Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RainUs
 type: d3-device-type-assertion

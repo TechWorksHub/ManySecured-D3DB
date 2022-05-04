@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 697c9893-cc15-4092-bd1e-d3241cf0cee9
-  mac-addresses:
+  id: 71fcfd72-ffa0-4485-b93b-71af638f1332
+  macAddresses:
   - 7A:4B:A4:00:00:00/24
   manufacturer: Innostor Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innostor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a89d83f-301c-486a-a93e-b462255c8f8c
-  mac-addresses:
+  id: 6496bdd6-170a-4e2e-8556-a8259f93e1dd
+  macAddresses:
   - 70:B3:D5:B2:00:00/36
   manufacturer: ICT BUSINESS GROUP of Humanrights Center for disabled people
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICTBUSIN
 type: d3-device-type-assertion

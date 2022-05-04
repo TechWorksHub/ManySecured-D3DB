@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 742f622f-23c5-41e2-9c2a-8d07468e79da
-  mac-addresses:
+  id: bb874062-3b02-45be-9768-d45beb89e6e4
+  macAddresses:
   - 00:03:75:00:00:00/24
   manufacturer: NetMedia, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetMedia
 type: d3-device-type-assertion

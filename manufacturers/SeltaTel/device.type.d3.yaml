@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8398eaf7-6bc3-484d-93af-cbc855ad3187
-  mac-addresses:
+  id: f5a8a6b1-b3ba-41d3-92d6-1ed7ca76d190
+  macAddresses:
   - 00:02:3E:00:00:00/24
   manufacturer: Selta Telematica S.p.a
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeltaTel
 type: d3-device-type-assertion

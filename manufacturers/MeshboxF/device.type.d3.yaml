@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff380d04-9f5b-4fd9-bd7e-651a069223ad
-  mac-addresses:
+  id: 75316d91-e87c-4ee3-be85-c4665128c149
+  macAddresses:
   - 1C:FD:08:E0:00:00/28
   manufacturer: Meshbox Foundation Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeshboxF
 type: d3-device-type-assertion

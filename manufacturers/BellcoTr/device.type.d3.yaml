@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 408dea51-31af-442c-8718-79c5c8db416d
-  mac-addresses:
+  id: b07c2c2c-4be5-47bd-8862-c240bda26776
+  macAddresses:
   - 8C:1F:64:50:A0:00/36
   manufacturer: Bellco Trading Company (Pvt) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BellcoTr
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 700849bb-b12b-4470-a375-1368b4a63591
-  mac-addresses:
+  id: 47f53298-c36e-4eb9-a152-0165d2066e01
+  macAddresses:
   - 40:04:0C:00:00:00/24
   - 70:B3:D5:32:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A&T
 type: d3-device-type-assertion

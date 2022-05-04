@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2f89536c-886f-48b6-a38e-0f0e6ac05ee4
-  mac-addresses:
+  id: 103d1f18-1957-46d2-a0aa-9a7a36fd563c
+  macAddresses:
   - 00:0E:6D:00:00:00/24
   - 00:13:E0:00:00:00/24
   - 00:21:E8:00:00:00/24
@@ -64,6 +64,6 @@ credentialSubject:
   - FC:C2:DE:00:00:00/24
   - FC:DB:B3:00:00:00/24
   manufacturer: Murata Manufacturing Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MurataMa
 type: d3-device-type-assertion

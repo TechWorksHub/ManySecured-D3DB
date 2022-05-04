@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60b492d6-71c6-4c8c-9568-da2c3872d26f
-  mac-addresses:
+  id: e3ed3791-ae8e-40a1-b8d9-86714986cbce
+  macAddresses:
   - 00:50:C2:A4:40:00/36
   manufacturer: TORC Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TORCTech
 type: d3-device-type-assertion

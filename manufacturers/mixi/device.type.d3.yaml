@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60829986-41b5-4c3a-b6e0-d9cb563098be
-  mac-addresses:
+  id: 381c2cf5-7399-46ee-9770-c575bc7299d7
+  macAddresses:
   - 00:8B:FC:00:00:00/24
   manufacturer: mixi,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: mixi
 type: d3-device-type-assertion

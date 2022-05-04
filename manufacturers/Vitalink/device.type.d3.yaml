@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31c890ed-dcbe-4a09-ae1f-7761871e42e7
-  mac-addresses:
+  id: 44b354f7-d352-4491-b6d1-037aa6524fbb
+  macAddresses:
   - 08:00:7C:00:00:00/24
   manufacturer: Vitalink
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vitalink
 type: d3-device-type-assertion

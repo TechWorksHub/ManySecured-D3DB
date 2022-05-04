@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26261689-8bf4-4014-ae6a-f7c6c84b0059
-  mac-addresses:
+  id: 653318ac-dc7e-4981-af9e-484ed68987cc
+  macAddresses:
   - 08:5A:E0:00:00:00/24
   manufacturer: Recovision Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Recovisi
 type: d3-device-type-assertion

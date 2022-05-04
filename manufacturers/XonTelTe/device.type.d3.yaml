@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26aaaf1e-0dd1-489d-8743-0129af14941c
-  mac-addresses:
+  id: f44e63ef-905a-4bee-a9fe-53e2c883d6fd
+  macAddresses:
   - D4:67:61:00:00:00/24
   manufacturer: XonTel Technology Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XonTelTe
 type: d3-device-type-assertion

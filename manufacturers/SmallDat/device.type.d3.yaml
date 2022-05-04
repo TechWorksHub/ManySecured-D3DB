@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7822ae4e-921e-4148-bfb0-a29345cf449c
-  mac-addresses:
+  id: d425bbc3-09ca-4e1c-9b83-0ccb406d481b
+  macAddresses:
   - 70:B3:D5:56:80:00/36
   manufacturer: Small Data Garden Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmallDat
 type: d3-device-type-assertion

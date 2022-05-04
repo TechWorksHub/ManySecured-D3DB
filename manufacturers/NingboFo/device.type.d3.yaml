@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 077f6c64-0f67-46a7-a828-8f114dbdd21a
-  mac-addresses:
+  id: 780c6f27-5c7b-4525-99e9-46f36a28b81b
+  macAddresses:
   - C0:81:35:00:00:00/24
   manufacturer: Ningbo Forfan technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NingboFo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecceac46-84cf-4060-a494-986d225fe550
-  mac-addresses:
+  id: 95e13489-262b-4709-9830-0ed828025bf7
+  macAddresses:
   - 00:07:B6:00:00:00/24
   manufacturer: Telecom Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelecomT
 type: d3-device-type-assertion

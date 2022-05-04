@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62f84ea4-60a6-416c-9a63-305b9db0c07c
-  mac-addresses:
+  id: 53c44fda-4e58-4f67-be70-188b02f0e428
+  macAddresses:
   - 00:90:75:00:00:00/24
   manufacturer: Nec Do Brasil S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NecDoBra
 type: d3-device-type-assertion

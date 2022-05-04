@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5a0f3c1-31f1-40e0-8003-48c2c77f22d8
-  mac-addresses:
+  id: 8adbe456-67eb-470d-8c44-bfb577416b14
+  macAddresses:
   - 00:1E:47:00:00:00/24
   manufacturer: PT. Hariff Daya Tunggal Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTHariff
 type: d3-device-type-assertion

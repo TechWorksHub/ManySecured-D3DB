@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c892c47c-d6c6-456a-af31-5ab9f051433a
-  mac-addresses:
+  id: bfc53685-c82a-4173-a1d1-bc005cb3f7c2
+  macAddresses:
   - 70:B3:D5:F1:80:00/36
   manufacturer: HD Vision Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HDVision
 type: d3-device-type-assertion

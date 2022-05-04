@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe780de4-97cc-4e7f-9979-45bcbde5dc8d
-  mac-addresses:
+  id: c93d1c68-be0f-40cb-a75c-30a756d7402c
+  macAddresses:
   - 98:30:71:00:00:00/24
   manufacturer: Daikyung Vascom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daikyung
 type: d3-device-type-assertion

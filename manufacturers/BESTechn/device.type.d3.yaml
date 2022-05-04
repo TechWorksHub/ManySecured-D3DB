@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11531f17-3673-4a6f-a463-52bf05361c22
-  mac-addresses:
+  id: 7b18e9ff-1976-49f2-88bd-0529f80b1ce1
+  macAddresses:
   - 00:50:C2:4F:B0:00/36
   manufacturer: BES Technology Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BESTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfc16866-af3e-4266-bed1-5eef72b57396
-  mac-addresses:
+  id: bdfed10e-7cb1-4a7f-888e-a8afbb71c44b
+  macAddresses:
   - 00:0D:DF:00:00:00/24
   manufacturer: Japan Image & Network Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanIma
 type: d3-device-type-assertion

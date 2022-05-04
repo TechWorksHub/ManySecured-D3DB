@@ -1,11 +1,11 @@
 credentialSubject:
-  id: ff67fc32-6ad2-4c11-8317-f92e322709ea
-  mac-addresses:
+  id: d30838dd-345a-4af2-8b57-9fa3936fa73e
+  macAddresses:
   - 00:02:4D:00:00:00/24
   - 00:40:81:00:00:00/24
   - 00:A0:6D:00:00:00/24
   - 00:B0:80:00:00:00/24
   manufacturer: Mannesman Dematic Colby Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mannesma
 type: d3-device-type-assertion

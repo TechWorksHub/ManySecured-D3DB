@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2853db0b-4dfd-47bc-bb22-0dad7e157ee7
-  mac-addresses:
+  id: cb6e4772-1915-4713-b88e-1ec01d97420b
+  macAddresses:
   - 70:B3:D5:EC:E0:00/36
   - 70:B3:D5:EE:D0:00/36
   manufacturer: COMM-connect A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMM-con
 type: d3-device-type-assertion

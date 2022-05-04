@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 617b2be6-a37b-47f0-98af-428b83fe6303
-  mac-addresses:
+  id: 1253be6e-1b6e-4288-8554-982c216cd782
+  macAddresses:
   - 54:D2:72:00:00:00/24
   manufacturer: Nuki Home Solutions GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NukiHome
 type: d3-device-type-assertion

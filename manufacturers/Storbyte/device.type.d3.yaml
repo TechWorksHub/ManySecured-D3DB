@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 502aca5e-75da-43b4-8032-06e3a0ad641a
-  mac-addresses:
+  id: 350537da-c2a4-443a-9194-585695dcd0f5
+  macAddresses:
   - CA:37:82:00:00:00/24
   manufacturer: Storbyte, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Storbyte
 type: d3-device-type-assertion

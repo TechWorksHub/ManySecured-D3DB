@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be277a34-4188-4533-bd4c-743bc00aceb5
-  mac-addresses:
+  id: 23a588dd-27ce-4810-a337-b83d3c1d5167
+  macAddresses:
   - 00:40:EB:00:00:00/24
   manufacturer: Martin Marietta Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MartinMa
 type: d3-device-type-assertion

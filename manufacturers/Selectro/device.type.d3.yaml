@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0d5883f-b0e7-4917-9a89-e34fb59d28eb
-  mac-addresses:
+  id: 5ad510b7-e5d2-4ce5-bb1e-806da8c5f57a
+  macAddresses:
   - 00:01:34:00:00:00/24
   manufacturer: Selectron Systems AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Selectro
 type: d3-device-type-assertion

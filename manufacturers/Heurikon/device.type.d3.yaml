@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37c81860-cf76-413e-bf8e-858a490e5191
-  mac-addresses:
+  id: 0e231fd4-4c23-4296-8a76-3652803e2032
+  macAddresses:
   - 00:80:F9:00:00:00/24
   manufacturer: Heurikon Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Heurikon
 type: d3-device-type-assertion

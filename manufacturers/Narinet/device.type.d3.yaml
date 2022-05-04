@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8de1af2c-fe05-4e25-87fb-904675734136
-  mac-addresses:
+  id: 8ac49c19-1a4f-4d0f-8b16-33c0d6c081ad
+  macAddresses:
   - 00:50:C2:61:70:00/36
   - 40:D8:55:EE:60:00/36
   manufacturer: Narinet, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Narinet
 type: d3-device-type-assertion

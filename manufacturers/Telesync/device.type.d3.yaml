@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff374ea7-a338-4beb-abd9-5c75cd9e29a7
-  mac-addresses:
+  id: 039be0a1-197a-4be7-b98a-a5dc1135f91d
+  macAddresses:
   - 00:60:62:00:00:00/24
   manufacturer: Telesync, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telesync
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15bd5f8c-d2af-4808-bcd9-a7b5845c6833
-  mac-addresses:
+  id: cd136b2f-2e95-42c0-ad3c-1acbf185dc94
+  macAddresses:
   - 70:B3:D5:38:D0:00/36
   manufacturer: Imp-Telekomunikacije Doo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Imp-Tele
 type: d3-device-type-assertion

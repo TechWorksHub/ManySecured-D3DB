@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1f6a933-9813-4f7e-a976-b755d6ea2e58
-  mac-addresses:
+  id: b9dbfa67-cb05-4f33-988c-a66a9a005dd1
+  macAddresses:
   - 00:50:C2:C9:70:00/36
   manufacturer: Mstronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mstronic
 type: d3-device-type-assertion

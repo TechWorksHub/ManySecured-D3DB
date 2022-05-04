@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b952637-de61-4587-99e4-173014eca761
-  mac-addresses:
+  id: c4eb67d1-d486-4a30-ac4d-39bb96e13213
+  macAddresses:
   - F8:B5:68:00:00:00/28
   manufacturer: LifePrint Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifePrin
 type: d3-device-type-assertion

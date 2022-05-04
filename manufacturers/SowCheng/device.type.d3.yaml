@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fae223b-4585-4a04-a230-0f6c5ac46d43
-  mac-addresses:
+  id: aa3d6bfb-dc38-49ea-969f-04d4766db97c
+  macAddresses:
   - C8:73:24:00:00:00/24
   manufacturer: Sow Cheng Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SowCheng
 type: d3-device-type-assertion

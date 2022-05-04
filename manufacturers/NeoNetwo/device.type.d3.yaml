@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74747134-08ca-425f-9d42-b34ba501555f
-  mac-addresses:
+  id: b1af5fa3-19a3-4856-9019-a690d63bfd23
+  macAddresses:
   - 00:90:70:00:00:00/24
   manufacturer: Neo Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NeoNetwo
 type: d3-device-type-assertion

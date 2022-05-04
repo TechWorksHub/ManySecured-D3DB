@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb0198e4-19a2-4b60-a590-04bdfae00d52
-  mac-addresses:
+  id: 16bfd701-7463-475b-8531-b19a868e145d
+  macAddresses:
   - 00:19:03:00:00:00/24
   manufacturer: Bigfoot Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BigfootN
 type: d3-device-type-assertion

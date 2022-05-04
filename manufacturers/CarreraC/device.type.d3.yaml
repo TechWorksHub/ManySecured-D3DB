@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62b0bd7d-f2dd-4e61-83a5-cd93137d5d2d
-  mac-addresses:
+  id: a6b8aec5-7a72-4fb3-9325-0dd439baff5f
+  macAddresses:
   - 00:20:F8:00:00:00/24
   manufacturer: Carrera Computers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CarreraC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 992f4fa9-0831-45d5-bb63-cfe9fecde7da
-  mac-addresses:
+  id: 5803c457-7eb7-4ba4-8335-5e0ade7fd5fe
+  macAddresses:
   - C4:FF:BC:C0:00:00/28
   manufacturer: KyongBo Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyongBoE
 type: d3-device-type-assertion

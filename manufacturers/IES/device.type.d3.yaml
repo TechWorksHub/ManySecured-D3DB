@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3d58ee12-3794-409c-85f9-53ed543794de
-  mac-addresses:
+  id: 155c63dc-f332-4490-9b1c-9d1a0dd7d865
+  macAddresses:
   - 70:B3:D5:8B:00:00/36
   - F0:F9:F7:00:00:00/24
   manufacturer: IES S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IES
 type: d3-device-type-assertion

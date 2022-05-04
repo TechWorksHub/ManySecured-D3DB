@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 568699d1-3af0-4830-b30a-185b4c7124ce
-  mac-addresses:
+  id: 981bc0de-52b5-4ae0-9875-d38a57c8de88
+  macAddresses:
   - 98:FC:84:70:00:00/28
   manufacturer: Broadtech Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadtec
 type: d3-device-type-assertion

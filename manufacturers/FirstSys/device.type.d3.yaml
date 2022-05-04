@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d3b4d3d-a400-41cb-b9b1-6f9b8afa14ea
-  mac-addresses:
+  id: de0d2ef0-bd9d-4664-acac-e347f163f64f
+  macAddresses:
   - 00:50:C2:FE:C0:00/36
   manufacturer: First System Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FirstSys
 type: d3-device-type-assertion

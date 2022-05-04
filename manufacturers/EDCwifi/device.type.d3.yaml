@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38866307-6410-4e3b-a221-b99617963e54
-  mac-addresses:
+  id: 2a4b185c-7081-4b90-b8c7-10d1fa6423c5
+  macAddresses:
   - 00:50:C2:BD:00:00/36
   manufacturer: EDC wifi
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDCwifi
 type: d3-device-type-assertion

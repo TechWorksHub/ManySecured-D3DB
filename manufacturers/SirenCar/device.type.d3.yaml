@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cd30748-f352-4b40-9f68-abc65f6bd212
-  mac-addresses:
+  id: 448befec-4727-4f23-ae17-609975ef1655
+  macAddresses:
   - FC:CD:2F:10:00:00/28
   manufacturer: Siren Care(Shanghai) information and technology company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SirenCar
 type: d3-device-type-assertion

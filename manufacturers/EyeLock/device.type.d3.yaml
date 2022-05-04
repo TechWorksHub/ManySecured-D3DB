@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d5a4228-1e8b-4a37-ab5b-72dc3efb7832
-  mac-addresses:
+  id: 7f35a8ed-acc8-48c9-9612-0e475d24aac4
+  macAddresses:
   - 7C:47:7C:30:00:00/28
   manufacturer: EyeLock LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EyeLock
 type: d3-device-type-assertion

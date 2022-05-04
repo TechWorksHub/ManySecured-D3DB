@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e31dbeb-d44b-49d3-965a-2fca62ba04f2
-  mac-addresses:
+  id: d7728253-820f-49dd-baa4-6850605d8b1e
+  macAddresses:
   - 00:50:C2:61:10:00/36
   manufacturer: Brookhaven National Laboratory
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brookhav
 type: d3-device-type-assertion

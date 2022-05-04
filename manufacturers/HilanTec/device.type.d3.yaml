@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7defbb6-c50a-4c19-bdda-40c5538b45fe
-  mac-addresses:
+  id: e9797565-67f4-4bc6-a47e-776777320875
+  macAddresses:
   - 38:1C:23:00:00:00/24
   manufacturer: Hilan Technology CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HilanTec
 type: d3-device-type-assertion

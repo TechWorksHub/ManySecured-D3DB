@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2029115f-79a3-44e2-b216-650bc7d68540
-  mac-addresses:
+  id: 87bacc77-8128-4596-b486-e1fc729723bb
+  macAddresses:
   - 00:0D:DE:00:00:00/24
   manufacturer: Joyteck Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Joyteck
 type: d3-device-type-assertion

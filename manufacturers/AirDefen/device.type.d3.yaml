@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 083c6573-a29f-4a5c-81d9-31fa8da3aa97
-  mac-addresses:
+  id: 191c56a6-1cc2-4884-9066-d808039033d6
+  macAddresses:
   - 00:16:5D:00:00:00/24
   manufacturer: AirDefense, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirDefen
 type: d3-device-type-assertion

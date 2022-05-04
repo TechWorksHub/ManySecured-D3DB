@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 623ddf58-8ec2-42c5-b089-f7ee4503cfbd
-  mac-addresses:
+  id: 89d385d3-d3fd-47c3-930f-7791aee54ee2
+  macAddresses:
   - D4:1A:C8:00:00:00/24
   manufacturer: Nippon Printer Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NipponPr
 type: d3-device-type-assertion

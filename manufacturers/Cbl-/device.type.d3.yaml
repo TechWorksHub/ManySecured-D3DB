@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60bfcc07-a060-46b2-8a88-2f0e709b86ed
-  mac-addresses:
+  id: bedd89f8-de8f-4503-852f-69412bededc4
+  macAddresses:
   - 00:50:12:00:00:00/24
   manufacturer: Cbl - Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cbl-
 type: d3-device-type-assertion

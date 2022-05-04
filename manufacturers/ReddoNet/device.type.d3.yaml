@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df5fcf17-0553-42d2-a560-29f5632f282f
-  mac-addresses:
+  id: b43b10e5-849b-4917-baba-8b4c397a6831
+  macAddresses:
   - 00:05:06:00:00:00/24
   manufacturer: Reddo Networks AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReddoNet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82dfca82-f854-4198-9b78-dfbfc674b11e
-  mac-addresses:
+  id: e30723fe-4e0e-45dc-afd7-56fe53a55055
+  macAddresses:
   - 00:50:C2:A2:70:00/36
   manufacturer: meconet e. K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: meconete
 type: d3-device-type-assertion

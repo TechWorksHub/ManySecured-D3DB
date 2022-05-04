@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bf405c6-6063-480c-8608-5f662fe731e9
-  mac-addresses:
+  id: 6eebf7b7-8d2d-48e7-a0bd-f003f452d09d
+  macAddresses:
   - A0:C5:F2:00:00:00/28
   manufacturer: Quantlab Financial, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quantlab
 type: d3-device-type-assertion

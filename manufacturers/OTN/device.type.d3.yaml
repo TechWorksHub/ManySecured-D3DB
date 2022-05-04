@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e2b2857-7d6a-41d0-9f9a-b7119d81a374
-  mac-addresses:
+  id: 3ad6f569-30f5-4da2-86bf-83f112031598
+  macAddresses:
   - 38:9F:83:00:00:00/24
   manufacturer: OTN Systems N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OTN
 type: d3-device-type-assertion

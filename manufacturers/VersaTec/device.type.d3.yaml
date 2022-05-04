@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2a1d723-3301-4662-91e9-1d1198e05e28
-  mac-addresses:
+  id: d20ef7ba-e51b-4203-933a-203da781b7ba
+  macAddresses:
   - 00:30:50:00:00:00/24
   manufacturer: Versa Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VersaTec
 type: d3-device-type-assertion

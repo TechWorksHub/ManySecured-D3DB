@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3ddd871-9018-45a3-b4b6-f46aa7b12de3
-  mac-addresses:
+  id: f22a47b2-f7f1-439a-9887-403f614a326b
+  macAddresses:
   - 00:50:C2:A6:70:00/36
   manufacturer: GSS Avionics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSSAvion
 type: d3-device-type-assertion

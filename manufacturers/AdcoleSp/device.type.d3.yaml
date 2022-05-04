@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b3e62f6-349b-4c1b-b8bb-2e0a681d2259
-  mac-addresses:
+  id: 01dfe196-b941-4c6c-95c9-5b58084420e1
+  macAddresses:
   - 70:B3:D5:92:20:00/36
   manufacturer: Adcole Space
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdcoleSp
 type: d3-device-type-assertion

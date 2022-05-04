@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa170bc4-4a63-4c70-9c57-fa40fb296faf
-  mac-addresses:
+  id: 49760dac-7b44-4a65-a2d0-b84496b0cbe3
+  macAddresses:
   - EC:AF:97:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Git
 type: d3-device-type-assertion

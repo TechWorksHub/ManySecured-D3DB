@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0074851a-697b-4c46-b599-5e16a5c1c14f
-  mac-addresses:
+  id: 957a1ed6-d304-42f6-a8f9-167fbaf5e63c
+  macAddresses:
   - 18:FD:CB:60:00:00/28
   manufacturer: SKA Organisation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKAOrgan
 type: d3-device-type-assertion

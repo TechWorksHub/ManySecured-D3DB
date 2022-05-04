@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0ed136e-eece-4c36-b6b8-7d7bc5fda946
-  mac-addresses:
+  id: 86239832-0b91-44d9-a568-bf1b7e23af29
+  macAddresses:
   - 00:08:90:00:00:00/24
   manufacturer: Avilinks Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avilinks
 type: d3-device-type-assertion

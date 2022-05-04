@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 400cc232-c330-4776-80fb-405f74a91feb
-  mac-addresses:
+  id: a5e2728d-6a36-4386-8ceb-ab1fd2d3aaba
+  macAddresses:
   - 00:0E:14:00:00:00/24
   manufacturer: Visionary Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visionar
 type: d3-device-type-assertion

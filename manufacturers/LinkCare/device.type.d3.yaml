@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b82d496-e4a7-4362-8ab0-2e068b6cdbe0
-  mac-addresses:
+  id: 610f75af-3833-461a-b7d9-ed2bb3102752
+  macAddresses:
   - 70:B3:D5:C8:00:00/36
   manufacturer: Link Care Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkCare
 type: d3-device-type-assertion

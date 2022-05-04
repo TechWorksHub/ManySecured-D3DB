@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79261599-1090-4b09-a63d-eefdb7eddde9
-  mac-addresses:
+  id: 1e5d1e94-b40d-48ce-ace3-29eb88bc1d04
+  macAddresses:
   - 70:B3:D5:FD:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tapdn
 type: d3-device-type-assertion

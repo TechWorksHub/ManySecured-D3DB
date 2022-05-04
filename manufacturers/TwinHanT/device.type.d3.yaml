@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cb794ec-ffbd-41bb-8a9a-7c8141be3a1f
-  mac-addresses:
+  id: 0237d5c7-7b10-43a7-b588-438e3fb0be87
+  macAddresses:
   - 00:08:CA:00:00:00/24
   manufacturer: TwinHan Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TwinHanT
 type: d3-device-type-assertion

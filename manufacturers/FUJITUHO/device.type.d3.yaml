@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd0d2a0a-3f0d-45a1-80b6-8b8009e7651b
-  mac-addresses:
+  id: efdd1dcd-1658-4612-a412-924417a864af
+  macAddresses:
   - 78:44:05:00:00:00/24
   manufacturer: FUJITU(HONG KONG) ELECTRONIC Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FUJITUHO
 type: d3-device-type-assertion

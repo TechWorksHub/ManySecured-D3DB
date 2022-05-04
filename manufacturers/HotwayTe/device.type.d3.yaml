@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fabaa0e8-2810-45c6-bf11-26f2593f79b1
-  mac-addresses:
+  id: 367dfc0d-2583-43f8-8bcb-0223b056555e
+  macAddresses:
   - 00:14:3F:00:00:00/24
   manufacturer: Hotway Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HotwayTe
 type: d3-device-type-assertion

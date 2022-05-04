@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b8cc0f4-1358-4dbd-9a65-829594fb8b47
-  mac-addresses:
+  id: 6ddfa485-78d5-472b-8e56-f73460070f81
+  macAddresses:
   - 00:07:56:00:00:00/24
   manufacturer: Juyoung Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JuyoungT
 type: d3-device-type-assertion

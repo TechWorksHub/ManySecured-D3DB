@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed1f0d4e-dbe0-4508-9bcb-fe1583f63dde
-  mac-addresses:
+  id: a6c7a161-fb10-45fd-b520-cf1d6b075ad0
+  macAddresses:
   - 58:20:8A:80:00:00/28
   manufacturer: SAMIL CTS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAMILCTS
 type: d3-device-type-assertion

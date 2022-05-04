@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0fcba6b-eab3-4b75-bc30-012a7eb200ba
-  mac-addresses:
+  id: 15aba1a5-4a86-4e78-9f0c-3fa87359b769
+  macAddresses:
   - C4:95:4D:D0:00:00/28
   manufacturer: Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewlandE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b50813cb-fcbb-4ee2-8f1d-6085eecb1414
-  mac-addresses:
+  id: ac65092f-37c9-4f22-855d-c2ae417cc0ee
+  macAddresses:
   - 30:1F:9A:80:00:00/28
   manufacturer: Fine Triumph Technology Corp.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FineTriu
 type: d3-device-type-assertion

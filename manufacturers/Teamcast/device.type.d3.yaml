@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91d95092-a67e-49fe-9dc2-009c60ccb1da
-  mac-addresses:
+  id: f36fb89b-4a86-486a-8dea-2ca3dd37b514
+  macAddresses:
   - 00:18:D3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teamcast
 type: d3-device-type-assertion

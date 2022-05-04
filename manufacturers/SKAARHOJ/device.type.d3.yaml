@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6559e846-1766-4ac1-9bb0-f248c9254f17
-  mac-addresses:
+  id: 30a1dcd5-81d0-48a2-8718-e8f6bec0f92b
+  macAddresses:
   - 58:48:49:10:00:00/28
   manufacturer: SKAARHOJ ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKAARHOJ
 type: d3-device-type-assertion

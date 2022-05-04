@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bf4b8ee-54eb-4b9b-ad9a-e59100feeb72
-  mac-addresses:
+  id: 92978931-c416-47b5-b0bb-b85a927f1d1d
+  macAddresses:
   - 40:D8:55:1B:20:00/36
   manufacturer: AGE A. Gilg Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AGEAGilg
 type: d3-device-type-assertion

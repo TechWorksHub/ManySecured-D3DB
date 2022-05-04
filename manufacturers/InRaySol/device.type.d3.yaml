@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3852b04-7639-41c3-bab4-cbc445ad4d3a
-  mac-addresses:
+  id: 7392aac9-4b2a-479d-9377-f5551827b418
+  macAddresses:
   - 00:50:C2:7B:B0:00/36
   manufacturer: InRay Solutions Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InRaySol
 type: d3-device-type-assertion

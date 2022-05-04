@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 47d2a9c3-dc2b-444c-8ea0-c61bf8a26b0f
-  mac-addresses:
+  id: eb64bb67-191d-4125-9ac1-4fc8795b7c6b
+  macAddresses:
   - 14:14:E6:00:00:00/24
   - 78:C2:C0:30:00:00/28
   - 98:C3:D2:00:00:00/24
   manufacturer: Ningbo Sanhe Digital Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NingboSa
 type: d3-device-type-assertion

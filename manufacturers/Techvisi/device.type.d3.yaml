@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3d20f99-ff55-48b0-8f39-81456b20d7f2
-  mac-addresses:
+  id: a26d5452-62d4-4ce0-b789-760c5a4d6c2e
+  macAddresses:
   - 24:97:ED:00:00:00/24
   manufacturer: Techvision Intelligent Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techvisi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c169c980-c44e-440e-846a-f72280c3355c
-  mac-addresses:
+  id: 2b4dc155-22f5-4f2a-99d7-860ba3cf52c3
+  macAddresses:
   - FC:E2:3F:00:00:00/24
   manufacturer: Clay Paky Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClayPaky
 type: d3-device-type-assertion

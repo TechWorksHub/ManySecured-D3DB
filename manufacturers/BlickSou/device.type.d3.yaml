@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccd8c3a5-36d0-44a2-82b7-256c29f0ca55
-  mac-addresses:
+  id: 05b7f964-fff5-420b-997d-421b4422b5e0
+  macAddresses:
   - 00:1F:AE:00:00:00/24
   manufacturer: Blick South Africa (Pty) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlickSou
 type: d3-device-type-assertion

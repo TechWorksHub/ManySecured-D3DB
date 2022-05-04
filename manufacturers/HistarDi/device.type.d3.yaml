@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb93a670-9a36-4d60-b2ed-dc7b998c3130
-  mac-addresses:
+  id: dbd67928-8ca7-49b0-a6cf-1a789c1d3380
+  macAddresses:
   - B4:A8:2B:00:00:00/24
   manufacturer: Histar Digital Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HistarDi
 type: d3-device-type-assertion

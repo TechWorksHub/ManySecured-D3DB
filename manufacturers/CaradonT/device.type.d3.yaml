@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 749ed56b-1cd7-4f06-87af-54c349ddafbc
-  mac-addresses:
+  id: ba4aa0aa-ca94-4372-bb81-375cd5c80601
+  macAddresses:
   - 00:10:70:00:00:00/24
   manufacturer: Caradon Trend Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CaradonT
 type: d3-device-type-assertion

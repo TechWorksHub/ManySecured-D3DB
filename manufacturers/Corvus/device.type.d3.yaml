@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f48e54d1-dbac-42e3-b94c-977be5fc9de2
-  mac-addresses:
+  id: 27268b1a-2308-498c-a597-7fb0fa631327
+  macAddresses:
   - 08:00:4D:00:00:00/24
   manufacturer: Corvus Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corvus
 type: d3-device-type-assertion

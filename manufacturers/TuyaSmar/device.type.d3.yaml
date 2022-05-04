@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7ae5ff5e-7d15-4546-84c5-c7bb78d315e8
-  mac-addresses:
+  id: f117378a-5879-44e8-9ae5-2f3d11ab9db2
+  macAddresses:
   - 10:5A:17:00:00:00/24
   - 10:D5:61:00:00:00/24
   - 18:69:D8:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - D4:A6:51:00:00:00/24
   - D8:1F:12:00:00:00/24
   manufacturer: Tuya Smart Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TuyaSmar
 type: d3-device-type-assertion

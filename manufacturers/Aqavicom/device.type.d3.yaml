@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1069443-b3de-452b-8f26-04a392caddfa
-  mac-addresses:
+  id: b48c59aa-a999-481e-a538-3dd5e1c21d2f
+  macAddresses:
   - 2C:CD:69:00:00:00/24
   manufacturer: Aqavi.com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aqavicom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44986e5a-59dc-44da-8da7-8f4c2335cca9
-  mac-addresses:
+  id: c36a59f4-906d-416a-b8d2-3096ba3b92f2
+  macAddresses:
   - 08:3F:76:00:00:00/24
   manufacturer: Intellian Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intellia
 type: d3-device-type-assertion

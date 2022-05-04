@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62bd23ad-ec89-4178-bd5e-b49bf418e3bb
-  mac-addresses:
+  id: df3d4137-01b2-4aed-b5a6-8e66abed836a
+  macAddresses:
   - 70:B3:D5:62:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Doga
 type: d3-device-type-assertion

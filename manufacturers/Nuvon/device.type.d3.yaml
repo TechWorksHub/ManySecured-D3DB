@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0d400ab-8af4-4d79-a6bc-86500fb15567
-  mac-addresses:
+  id: 6abab4d1-770d-4495-a5ab-92d9ac75db87
+  macAddresses:
   - 64:65:C0:00:00:00/24
   manufacturer: Nuvon, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuvon
 type: d3-device-type-assertion

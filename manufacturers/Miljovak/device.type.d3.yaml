@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4540478-9bd3-4bd2-b738-4a7045fc1342
-  mac-addresses:
+  id: f3825792-01d4-4994-9394-1d51cc63905e
+  macAddresses:
   - CC:0C:DA:00:00:00/24
   manufacturer: Miljovakt AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Miljovak
 type: d3-device-type-assertion

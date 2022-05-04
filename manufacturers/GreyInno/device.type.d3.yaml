@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3be86f72-c563-4e5e-8aef-a9a9ecfaa6eb
-  mac-addresses:
+  id: ee17c870-ea27-40af-881a-c269a7d649fa
+  macAddresses:
   - D8:97:7C:00:00:00/24
   manufacturer: Grey Innovation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreyInno
 type: d3-device-type-assertion

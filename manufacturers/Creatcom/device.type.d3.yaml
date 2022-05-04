@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2b80067-3da3-43a1-995e-f0fff5af3a10
-  mac-addresses:
+  id: 7b62112d-2d10-4e61-8387-f13508186acb
+  macAddresses:
   - 9C:B7:93:00:00:00/24
   manufacturer: Creatcomm Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Creatcom
 type: d3-device-type-assertion

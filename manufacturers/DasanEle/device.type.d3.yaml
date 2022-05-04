@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65ab59f1-dd2f-4a48-a7a8-67981690e2f1
-  mac-addresses:
+  id: 927cf382-0b82-449b-a925-2150aaaf0036
+  macAddresses:
   - B8:47:7A:00:00:00/24
   manufacturer: Dasan Electron Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DasanEle
 type: d3-device-type-assertion

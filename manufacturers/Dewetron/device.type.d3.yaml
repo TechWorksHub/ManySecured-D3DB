@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88cbe37c-8096-4f18-b507-68b806050e9f
-  mac-addresses:
+  id: 869fe5f6-4e44-45b5-8860-97cb56428c6e
+  macAddresses:
   - 70:B3:D5:D9:40:00/36
   manufacturer: Dewetron GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dewetron
 type: d3-device-type-assertion

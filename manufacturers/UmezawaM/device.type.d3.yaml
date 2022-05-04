@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e86a5b4-3027-4b26-a06a-3dd5646bc049
-  mac-addresses:
+  id: 007800a2-0590-4890-b37a-75814565e0a1
+  macAddresses:
   - 00:04:14:00:00:00/24
   manufacturer: Umezawa Musen Denki Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UmezawaM
 type: d3-device-type-assertion

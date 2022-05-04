@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd0c51ba-20d8-4c16-b241-d10d1b972ebb
-  mac-addresses:
+  id: 3255be4b-a54d-4b08-b6f2-6e82a27ef0ab
+  macAddresses:
   - 70:B3:D5:74:50:00/36
   manufacturer: Tmsi Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tmsi
 type: d3-device-type-assertion

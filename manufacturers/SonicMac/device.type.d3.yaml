@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91003167-91a0-4128-bada-5e80e0da986b
-  mac-addresses:
+  id: 5bc914bd-25d4-4212-a615-35a84f7306cf
+  macAddresses:
   - 00:40:10:00:00:00/24
   manufacturer: Sonic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonicMac
 type: d3-device-type-assertion

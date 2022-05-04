@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3365eb13-f4f6-4337-aa96-e12c26773db9
-  mac-addresses:
+  id: 357759bb-b5af-4b1a-8d38-eb025a6dd900
+  macAddresses:
   - 00:20:2E:00:00:00/24
   manufacturer: Daystar Digital
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaystarD
 type: d3-device-type-assertion

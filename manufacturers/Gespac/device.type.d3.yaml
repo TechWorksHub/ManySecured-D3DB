@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02163b77-038d-42a5-835c-8559a28b75aa
-  mac-addresses:
+  id: e90be9fa-bdd4-4e12-b968-50b7576c6e8b
+  macAddresses:
   - 00:C0:E5:00:00:00/24
   manufacturer: Gespac, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gespac
 type: d3-device-type-assertion

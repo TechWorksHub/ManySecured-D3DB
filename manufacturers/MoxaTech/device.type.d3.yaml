@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3b5ed89-a3df-42f0-a85b-4d130421f766
-  mac-addresses:
+  id: 7c80c101-36a9-4edc-bc3d-e1a49b625087
+  macAddresses:
   - 00:90:E8:00:00:00/24
   manufacturer: Moxa Technologies Corp., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MoxaTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6254e352-09ab-4a56-a85a-41c65a49ebc9
-  mac-addresses:
+  id: c36791eb-2928-440b-b750-e0f75863fddc
+  macAddresses:
   - 00:50:C2:0D:D0:00/36
   manufacturer: Interisa Electronica, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interisa
 type: d3-device-type-assertion

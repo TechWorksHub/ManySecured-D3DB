@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86005347-8b65-43a7-9ebe-81e100df217e
-  mac-addresses:
+  id: c5225b3a-f6be-47be-8b98-4196bf97e9ea
+  macAddresses:
   - 00:50:C2:07:30:00/36
   manufacturer: Alstom Signalling Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlstomSi
 type: d3-device-type-assertion

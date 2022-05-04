@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0823d126-9806-4009-a470-f8c92670e4dd
-  mac-addresses:
+  id: 759aa498-de2c-4878-abe4-2c22f3929d2e
+  macAddresses:
   - 00:11:E2:00:00:00/24
   manufacturer: Hua Jung Components Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuaJungC
 type: d3-device-type-assertion

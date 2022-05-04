@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87c74b6f-0ce4-408e-b617-3e802e5ae3c3
-  mac-addresses:
+  id: 4652991d-b9b2-4ffd-9bb7-a30080369ba4
+  macAddresses:
   - 40:F3:85:10:00:00/28
   manufacturer: Johnson Matthey
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JohnsonM
 type: d3-device-type-assertion

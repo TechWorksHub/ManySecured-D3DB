@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 855d2adf-6c85-430f-9181-2fb6430446f4
-  mac-addresses:
+  id: c806d157-eaf5-490e-a109-2874b7c9aa2d
+  macAddresses:
   - 00:15:38:00:00:00/24
   manufacturer: RFID, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFID
 type: d3-device-type-assertion

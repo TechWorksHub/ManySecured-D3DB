@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35de2601-648f-4675-ab40-fa97894272cf
-  mac-addresses:
+  id: 2f00adee-d4cc-4fed-8181-fd40a37bdfe2
+  macAddresses:
   - 70:B3:D5:F0:80:00/36
   manufacturer: Szabo Software & Engineering UK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SzaboSof
 type: d3-device-type-assertion

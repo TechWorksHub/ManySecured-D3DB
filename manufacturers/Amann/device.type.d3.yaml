@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3c7fbdd-d738-4db5-b852-6b2ffb15b460
-  mac-addresses:
+  id: f1524638-cf57-4238-84de-1f223a3416b8
+  macAddresses:
   - 00:04:84:00:00:00/24
   manufacturer: Amann GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amann
 type: d3-device-type-assertion

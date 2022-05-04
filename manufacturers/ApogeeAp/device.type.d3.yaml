@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5dd0364e-4b04-4d53-9ab9-1c65e1f7e0e9
-  mac-addresses:
+  id: 2056f523-1716-46cd-8a17-53facb4920cf
+  macAddresses:
   - 70:B3:D5:FB:A0:00/36
   manufacturer: Apogee Applied Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApogeeAp
 type: d3-device-type-assertion

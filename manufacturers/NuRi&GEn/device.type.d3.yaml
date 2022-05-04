@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba577a07-a0cb-4e77-b9b0-d54bae3da7c9
-  mac-addresses:
+  id: e18b14de-75f6-4f3b-9e88-d5412ce5174e
+  macAddresses:
   - 70:B3:D5:72:C0:00/36
   manufacturer: NuRi&G Engineering co,.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NuRi&GEn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a94b441f-ebff-4235-baf7-dcd608f9368f
-  mac-addresses:
+  id: 77942b73-7fa5-42cb-ad8d-2a3d3900518d
+  macAddresses:
   - F0:87:7F:00:00:00/24
   manufacturer: Magnetar Technology Shenzhen Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magnetar
 type: d3-device-type-assertion

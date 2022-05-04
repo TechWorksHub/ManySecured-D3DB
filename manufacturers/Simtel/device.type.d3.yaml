@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfc4d83e-efe4-4147-a9ed-05d455ceff92
-  mac-addresses:
+  id: 5826ab74-1fc8-4184-bad9-1793b8575f66
+  macAddresses:
   - 00:02:1E:00:00:00/24
   manufacturer: Simtel S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simtel
 type: d3-device-type-assertion

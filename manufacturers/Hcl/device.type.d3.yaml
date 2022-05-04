@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ffa9bde-cd7e-4e1e-b7c1-3fac6603d29b
-  mac-addresses:
+  id: 41130627-b25e-426e-bd46-a2aab8a0f271
+  macAddresses:
   - 00:00:70:00:00:00/24
   manufacturer: Hcl Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hcl
 type: d3-device-type-assertion

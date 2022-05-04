@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f3b6ac9e-5d69-4530-ae83-e493e9af6831
-  mac-addresses:
+  id: e31739a0-f1e1-40d6-8c2e-383a2e508e18
+  macAddresses:
   - 70:B3:D5:0F:50:00/36
   - 70:B3:D5:15:E0:00/36
   - 70:B3:D5:65:E0:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:BA:00:00/36
   - 70:B3:D5:F4:60:00/36
   manufacturer: Season Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeasonEl
 type: d3-device-type-assertion

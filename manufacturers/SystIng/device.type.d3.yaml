@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df529878-160a-43a6-8e0f-32f939b00d49
-  mac-addresses:
+  id: 6cfd2cf5-7b71-4e5d-ad3a-cbbc26e63834
+  macAddresses:
   - 00:50:C2:20:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SystIng
 type: d3-device-type-assertion

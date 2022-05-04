@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a21ddcd6-b0b1-43d3-b1ef-7a08c9a4a0f5
-  mac-addresses:
+  id: 16213fb7-3efd-4144-b7ab-0695c2a8bf2a
+  macAddresses:
   - 70:B3:D5:C6:60:00/36
   manufacturer: Blue Access Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueAcce
 type: d3-device-type-assertion

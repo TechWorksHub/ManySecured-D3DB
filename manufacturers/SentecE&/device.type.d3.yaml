@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2535f04e-5bc6-4b6f-b180-4afa0fb5b94a
-  mac-addresses:
+  id: ac1b5d09-03db-46f3-b4b9-4755a009ac36
+  macAddresses:
   - 00:0D:24:00:00:00/24
   manufacturer: Sentec E&E Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SentecE&
 type: d3-device-type-assertion

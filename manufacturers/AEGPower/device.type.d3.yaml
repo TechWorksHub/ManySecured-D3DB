@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6e00e3b-03a5-4e10-aa61-affe21c4cdb8
-  mac-addresses:
+  id: af04139d-8f11-4b36-ae04-2aa3790b2038
+  macAddresses:
   - 00:26:E5:00:00:00/24
   manufacturer: AEG Power Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEGPower
 type: d3-device-type-assertion

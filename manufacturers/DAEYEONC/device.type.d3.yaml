@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b571eae-83bb-4a23-96f9-425d98eca72f
-  mac-addresses:
+  id: 2f206140-695f-4bcd-8fd8-a2f96300c3c0
+  macAddresses:
   - 78:A6:BD:00:00:00/24
   manufacturer: DAEYEON Control&Instrument Co,.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DAEYEONC
 type: d3-device-type-assertion

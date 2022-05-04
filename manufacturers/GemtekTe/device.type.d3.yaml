@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e52ac348-04ee-43e9-92ec-bc95751bbbaa
-  mac-addresses:
+  id: b4b9866e-ab72-4350-8671-638c42b11dee
+  macAddresses:
   - 00:09:E1:00:00:00/24
   - 00:14:A5:00:00:00/24
   - 00:1A:73:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - E8:E1:E1:00:00:00/24
   - F8:35:DD:00:00:00/24
   manufacturer: Gemtek Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GemtekTe
 type: d3-device-type-assertion

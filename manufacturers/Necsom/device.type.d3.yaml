@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9faa3c1-e0d3-4c82-a550-63646e17ccad
-  mac-addresses:
+  id: e05362c4-8617-49bd-9338-dfc81649de48
+  macAddresses:
   - 00:02:28:00:00:00/24
   manufacturer: Necsom, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Necsom
 type: d3-device-type-assertion

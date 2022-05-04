@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aee43c5f-0adc-4337-9555-30c8b20c3fcd
-  mac-addresses:
+  id: 371f534f-cbce-4ff1-9c61-e58ab2af7760
+  macAddresses:
   - AC:04:25:00:00:00/24
   manufacturer: ball-b GmbH Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ball-b
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1bbf361f-6ac7-4ce5-b31e-4d031fde1423
-  mac-addresses:
+  id: 62071fb2-05c6-4ce9-8bca-80723cc44717
+  macAddresses:
   - CC:22:18:00:00:00/24
   manufacturer: InnoDigital Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnoDigi
 type: d3-device-type-assertion

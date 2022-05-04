@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98d92541-2c2c-4b23-8221-99936f80ed96
-  mac-addresses:
+  id: 020d3e6a-5472-4839-a990-c562ebbf854e
+  macAddresses:
   - 00:0C:3D:00:00:00/24
   manufacturer: Glsystech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Glsystec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d14c57a-80aa-424c-8546-5d2cb0363235
-  mac-addresses:
+  id: fa15d176-bda6-4999-98e2-3918731625b6
+  macAddresses:
   - 28:3E:76:00:00:00/24
   manufacturer: Common Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CommonNe
 type: d3-device-type-assertion

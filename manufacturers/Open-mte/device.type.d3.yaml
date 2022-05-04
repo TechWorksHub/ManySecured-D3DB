@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb0a2f17-1725-47de-a4e2-752ae9c8892e
-  mac-addresses:
+  id: 41d3efbb-3cdb-4af7-83ab-ef7d1757f85c
+  macAddresses:
   - 58:1F:67:00:00:00/24
   manufacturer: Open-m technology limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Open-mte
 type: d3-device-type-assertion

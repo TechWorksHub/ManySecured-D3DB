@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 848c0b66-0146-4060-9f02-6c15e01adb87
-  mac-addresses:
+  id: 161f35de-daf3-4813-a8e2-e52fec8cf7d1
+  macAddresses:
   - 70:B3:D5:A2:70:00/36
   manufacturer: "HDL da Amaz\xF4nia Industria Eletr\xF4nica Ltda"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HDLdaAma
 type: d3-device-type-assertion

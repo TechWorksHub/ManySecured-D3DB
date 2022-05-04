@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5079b47-8adb-489e-8535-deb02b2da37b
-  mac-addresses:
+  id: a9c76334-4e7b-4252-b02a-03f145786e6a
+  macAddresses:
   - 00:22:D4:00:00:00/24
   manufacturer: ComWorth Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComWorth
 type: d3-device-type-assertion

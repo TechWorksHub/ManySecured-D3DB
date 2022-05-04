@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47731e08-db1d-497c-a555-824102dd3382
-  mac-addresses:
+  id: a3db6b8f-5fae-4ac3-b718-de3fa42beeb4
+  macAddresses:
   - 00:0B:19:00:00:00/24
   manufacturer: Vernier Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VernierN
 type: d3-device-type-assertion

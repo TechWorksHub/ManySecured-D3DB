@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 98a91a5e-4369-495b-af0e-ba99b327ac73
-  mac-addresses:
+  id: 93b85904-eeec-41e1-af28-3296a52923dd
+  macAddresses:
   - 00:50:C2:24:60:00/36
   - 6C:DF:FB:80:00:00/28
   manufacturer: Hardmeier
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hardmeie
 type: d3-device-type-assertion

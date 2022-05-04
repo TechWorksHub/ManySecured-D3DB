@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d10b3b76-18ca-479a-bbcb-c0a68b0fef5b
-  mac-addresses:
+  id: 65421672-e1b3-42ba-9f13-7ce4d5bf79a7
+  macAddresses:
   - 70:B3:D5:72:80:00/36
   manufacturer: BCD Audio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BCDAudio
 type: d3-device-type-assertion

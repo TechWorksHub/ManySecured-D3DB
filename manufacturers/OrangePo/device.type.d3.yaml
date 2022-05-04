@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65d05ba7-3427-4a54-bedb-f73a466f844a
-  mac-addresses:
+  id: 0dbd9b7c-c109-486c-9575-9d3d13e5a32e
+  macAddresses:
   - 8C:F8:13:00:00:00/24
   manufacturer: Orange Polska
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrangePo
 type: d3-device-type-assertion

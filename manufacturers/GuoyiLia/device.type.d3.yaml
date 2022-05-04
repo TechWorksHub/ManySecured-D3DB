@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb9628bc-eb3b-471a-8c65-c0aacfe96e00
-  mac-addresses:
+  id: be1c88be-0497-465a-8733-3217a28c216f
+  macAddresses:
   - 5C:85:7E:E0:00:00/28
   manufacturer: Guoyi Liangzi (Hefei) Technology Co., Ltd(CIQTEK)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GuoyiLia
 type: d3-device-type-assertion

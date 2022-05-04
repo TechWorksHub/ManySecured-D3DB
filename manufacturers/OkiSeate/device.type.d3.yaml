@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c940ec65-3b21-4a93-ab5b-b4ffcd156fa4
-  mac-addresses:
+  id: 5faa4b7f-f187-4ec8-9c2d-3dbaef190e6e
+  macAddresses:
   - 40:D8:55:06:80:00/36
   manufacturer: Oki Seatec Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OkiSeate
 type: d3-device-type-assertion

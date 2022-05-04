@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ea357b9-b0c4-4c01-a3db-c2719acb023e
-  mac-addresses:
+  id: ce37459e-60b4-45d1-9cc7-a5d2946b6369
+  macAddresses:
   - 40:D8:55:18:C0:00/36
   manufacturer: EOS S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EOS
 type: d3-device-type-assertion

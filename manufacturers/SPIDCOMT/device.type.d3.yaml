@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4d3f197-b771-432f-ae2d-0526cbda590f
-  mac-addresses:
+  id: da59b2de-fa36-4945-a0de-f35501ca6d8c
+  macAddresses:
   - 00:13:D7:00:00:00/24
   manufacturer: SPIDCOM Technologies SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPIDCOMT
 type: d3-device-type-assertion

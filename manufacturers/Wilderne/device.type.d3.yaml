@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af142099-5361-4b08-879c-d96d5a64a5b7
-  mac-addresses:
+  id: e02c9821-b543-4065-9259-51f545df151e
+  macAddresses:
   - 60:D7:E3:A0:00:00/28
   manufacturer: Wilderness Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wilderne
 type: d3-device-type-assertion

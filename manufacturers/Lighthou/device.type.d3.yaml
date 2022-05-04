@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f05d91a1-9cd6-4b45-8c64-271f417fca03
-  mac-addresses:
+  id: 3dba8bee-b01a-4c8c-a950-3e9da2957df0
+  macAddresses:
   - 04:71:4B:90:00:00/28
   - E8:6C:C7:80:00:00/28
   manufacturer: Lighthouse AI, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lighthou
 type: d3-device-type-assertion

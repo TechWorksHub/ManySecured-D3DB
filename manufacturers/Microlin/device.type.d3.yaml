@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 378a5dd5-a6b1-4ef5-b26b-e6191f131c22
-  mac-addresses:
+  id: d5be82cc-ae81-4719-b347-5a1a6da3f624
+  macAddresses:
   - 00:01:A4:00:00:00/24
   - 00:0C:55:00:00:00/24
   - 00:19:1F:00:00:00/24
   - 30:09:F9:30:00:00/28
   - 70:B3:D5:12:90:00/36
   manufacturer: Microlink Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microlin
 type: d3-device-type-assertion

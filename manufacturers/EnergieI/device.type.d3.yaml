@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1c56821-131b-4d42-a022-c1a327d62d52
-  mac-addresses:
+  id: 81d2e1e9-98ea-43cd-bb33-c00aef01b290
+  macAddresses:
   - 18:FD:CB:70:00:00/28
   manufacturer: Energie Ip
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnergieI
 type: d3-device-type-assertion

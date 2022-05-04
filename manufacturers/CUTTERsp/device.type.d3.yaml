@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e698bcc7-f504-4106-87d7-cbce5e1b9537
-  mac-addresses:
+  id: 32e62f69-7d8a-4f73-83c4-de5cca1dd5ee
+  macAddresses:
   - 90:4E:91:90:00:00/28
   manufacturer: CUTTER Systems spol. s r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CUTTERsp
 type: d3-device-type-assertion

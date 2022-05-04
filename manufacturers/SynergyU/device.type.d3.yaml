@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04fe909c-cdfb-4815-b537-ee534da613ad
-  mac-addresses:
+  id: 53922f22-e235-4465-a1db-0f8e665f5208
+  macAddresses:
   - 00:20:80:00:00:00/24
   manufacturer: Synergy (Uk) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SynergyU
 type: d3-device-type-assertion

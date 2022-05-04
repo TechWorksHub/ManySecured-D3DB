@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 1a4775e3-4637-4d01-8812-600960021193
-  mac-addresses:
+  id: 92f180e8-7abd-4927-9419-0440a0348ee3
+  macAddresses:
   - 00:01:30:00:00:00/24
   - 00:04:96:00:00:00/24
   - 00:19:77:00:00:00/24
@@ -48,6 +48,6 @@ credentialSubject:
   - F4:EA:B5:00:00:00/24
   - FC:0A:81:00:00:00/24
   manufacturer: Extreme Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExtremeN
 type: d3-device-type-assertion

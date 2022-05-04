@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b05913b1-0859-40aa-8a5c-aad3952c21a3
-  mac-addresses:
+  id: 6b8e8ff9-671b-431c-b06b-d87723a1f677
+  macAddresses:
   - 70:B3:D5:45:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlyTech
 type: d3-device-type-assertion

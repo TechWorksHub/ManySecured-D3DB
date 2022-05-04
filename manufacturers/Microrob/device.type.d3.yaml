@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e360533-cba7-4834-ab84-2ad372350a82
-  mac-addresses:
+  id: 3c21e516-a801-4149-b513-fa5a436f804c
+  macAddresses:
   - 00:26:A5:00:00:00/24
   manufacturer: Microrobot.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microrob
 type: d3-device-type-assertion

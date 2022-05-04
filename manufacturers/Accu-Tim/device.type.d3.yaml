@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bf014e7-c524-4ee5-9fac-c63097a1b8c2
-  mac-addresses:
+  id: d6f05806-93f6-426c-87b4-390fa3d65d6e
+  macAddresses:
   - 00:60:95:00:00:00/24
   manufacturer: Accu-Time Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accu-Tim
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e29429c8-52a8-454b-88cc-867c34f51323
-  mac-addresses:
+  id: dfb04a6b-d76e-48ee-a533-1952d6f48a62
+  macAddresses:
   - 90:6D:05:00:00:00/24
   manufacturer: Bxb Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BxbElect
 type: d3-device-type-assertion

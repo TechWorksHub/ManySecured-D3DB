@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3ff8533-5303-4406-a47a-bb9057dbcc5c
-  mac-addresses:
+  id: 1c6d8ae1-d25c-4dba-a985-21fbea192da5
+  macAddresses:
   - 08:00:1A:00:00:00/24
   manufacturer: Tiara/ 10Net
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tiara10N
 type: d3-device-type-assertion

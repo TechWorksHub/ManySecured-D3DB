@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e16f4e9-ad11-4daf-9b66-0ffeae853212
-  mac-addresses:
+  id: 84bee559-e0fb-45d6-8b50-7574a2b342a6
+  macAddresses:
   - 70:69:79:90:00:00/28
   manufacturer: Faurecia Clarion Electronics (Dongguan) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Faurecia
 type: d3-device-type-assertion

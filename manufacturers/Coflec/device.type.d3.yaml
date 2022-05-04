@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85f531a4-1109-4b1f-b33f-36943e286f3a
-  mac-addresses:
+  id: c6c25c58-ea9d-47f1-9dc2-ca1366b5718f
+  macAddresses:
   - 58:48:C0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coflec
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: d4616327-432a-4467-80ba-6e5a168f111d
-  mac-addresses:
+  id: 40cd8af7-5633-4b2d-abf8-4d2e52e63fbf
+  macAddresses:
   - 0C:AE:BD:00:00:00/24
   - 5C:C6:E9:00:00:00/24
   - 60:F4:3A:00:00:00/24
   - FC:E8:06:00:00:00/24
   manufacturer: Edifier International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdifierI
 type: d3-device-type-assertion

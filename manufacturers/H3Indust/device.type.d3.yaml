@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f27358be-974d-4e8d-a3f2-6260009bdf4a
-  mac-addresses:
+  id: b82f9bcd-7f65-47ba-abd7-4f221e287e3a
+  macAddresses:
   - 20:85:93:A0:00:00/28
   manufacturer: H3 Industries, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H3Indust
 type: d3-device-type-assertion

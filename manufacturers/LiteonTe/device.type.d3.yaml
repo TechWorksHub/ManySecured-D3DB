@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b848b853-3f9a-4a6f-ba3c-5f94d3980827
-  mac-addresses:
+  id: 798b8169-3ded-4f55-8b8d-c9732c0243e7
+  macAddresses:
   - 00:22:5F:00:00:00/24
   - 00:F4:8D:00:00:00/24
   - 10:63:C8:00:00:00/24
@@ -62,6 +62,6 @@ credentialSubject:
   - F8:28:19:00:00:00/24
   - F8:A2:D6:00:00:00/24
   manufacturer: Liteon Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LiteonTe
 type: d3-device-type-assertion

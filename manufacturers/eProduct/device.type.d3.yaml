@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a7305f8-0cc8-4fa5-86b5-89dd5c5e569a
-  mac-addresses:
+  id: 502a5733-5461-4b5b-94cb-8882dc871846
+  macAddresses:
   - 00:05:D3:00:00:00/24
   manufacturer: eProduction Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eProduct
 type: d3-device-type-assertion

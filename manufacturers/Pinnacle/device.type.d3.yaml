@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 92e7e851-3ba9-4a5a-afcc-972584d3f936
-  mac-addresses:
+  id: 1b1d064a-99af-4398-9915-5d34c5dc0a75
+  macAddresses:
   - 00:30:8D:00:00:00/24
   - 00:50:C2:42:50:00/36
   - 00:C0:07:00:00:00/24
   manufacturer: Pinnacle Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pinnacle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b10dfaaa-1c1e-4615-b45c-89dd821a3650
-  mac-addresses:
+  id: 1054b899-62f3-48b1-8cf1-e0ce0f8ec85a
+  macAddresses:
   - 48:54:15:00:00:00/24
   manufacturer: Net Rules Tecnologia Eireli
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetRules
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67c3c612-806c-431d-adc7-66cfbdac7207
-  mac-addresses:
+  id: d6b2157e-11be-4f2b-9d12-9d4617a4d86a
+  macAddresses:
   - 00:01:72:00:00:00/24
   manufacturer: TechnoLand Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechnoLa
 type: d3-device-type-assertion

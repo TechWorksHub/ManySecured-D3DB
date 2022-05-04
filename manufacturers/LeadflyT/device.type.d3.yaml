@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e7c0bf8-c335-49e8-b680-a09ee9dbe7ba
-  mac-addresses:
+  id: eb04fafb-b64a-4aab-9447-d5cf1ee7664e
+  macAddresses:
   - 00:09:A3:00:00:00/24
   manufacturer: Leadfly Techologies Corp. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeadflyT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2abfb330-81f9-4ac1-ad68-bc7bdda3b593
-  mac-addresses:
+  id: 7f4b4ab0-ff63-4c34-bf9c-1feb5a5bf168
+  macAddresses:
   - 00:50:C2:87:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Milesys
 type: d3-device-type-assertion

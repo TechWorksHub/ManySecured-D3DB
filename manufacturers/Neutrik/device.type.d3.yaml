@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9680a2d4-d5e9-46a9-b304-369fe1c0d736
-  mac-addresses:
+  id: 1fbb5bf8-fe8a-41be-aa8c-ee048c0bf467
+  macAddresses:
   - 40:D8:55:0C:A0:00/36
   - 94:05:BB:30:00:00/28
   manufacturer: Neutrik Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neutrik
 type: d3-device-type-assertion

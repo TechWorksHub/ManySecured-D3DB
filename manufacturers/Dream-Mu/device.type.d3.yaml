@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e2e3e2b-0b76-457b-a061-726e8f92f761
-  mac-addresses:
+  id: 98c18839-0d15-435d-b0e5-9789a8d07cf2
+  macAddresses:
   - 00:09:34:00:00:00/24
   manufacturer: Dream-Multimedia-Tv GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dream-Mu
 type: d3-device-type-assertion

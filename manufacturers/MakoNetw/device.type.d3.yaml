@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6016cb68-19a3-4fe9-a536-bc10c6a3186b
-  mac-addresses:
+  id: 6c0ae815-1bee-46c6-8764-235bc06861c7
+  macAddresses:
   - 30:1A:28:00:00:00/24
   - 30:1A:30:00:00:00/24
   manufacturer: Mako Networks Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MakoNetw
 type: d3-device-type-assertion

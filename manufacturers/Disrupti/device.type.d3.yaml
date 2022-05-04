@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 39c1c43f-2f57-48cb-a793-3188534cf736
-  mac-addresses:
+  id: d71d217c-868b-4bc9-91ad-db3d181dd7ac
+  macAddresses:
   - 98:82:17:00:00:00/24
   - F0:B5:B7:00:00:00/24
   manufacturer: Disruptive Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Disrupti
 type: d3-device-type-assertion

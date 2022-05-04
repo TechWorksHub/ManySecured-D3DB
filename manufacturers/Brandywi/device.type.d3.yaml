@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcb35b57-849b-4d24-bcfd-f1135cbc2f51
-  mac-addresses:
+  id: 0037bee4-2612-4532-91a7-e4a5b6fbf313
+  macAddresses:
   - 00:21:34:00:00:00/24
   manufacturer: Brandywine Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brandywi
 type: d3-device-type-assertion

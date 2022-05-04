@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50d6621b-2b2d-4112-a3cd-c9c9ec032209
-  mac-addresses:
+  id: 3533b09e-8c30-4437-9bb8-efb22745a4ce
+  macAddresses:
   - 44:88:CB:00:00:00/24
   manufacturer: Camco Technologies NV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CamcoTec
 type: d3-device-type-assertion

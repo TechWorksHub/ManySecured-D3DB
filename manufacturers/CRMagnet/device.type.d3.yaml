@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d115297a-e2c7-4cc5-850b-d1835401a56a
-  mac-addresses:
+  id: 6246ef15-e004-46af-8899-08f97d88f5b1
+  macAddresses:
   - 40:D8:55:00:40:00/36
   manufacturer: CR Magnetics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRMagnet
 type: d3-device-type-assertion

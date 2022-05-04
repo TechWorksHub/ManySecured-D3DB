@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3584a69c-6edf-4f29-9b02-0612bf88ec2d
-  mac-addresses:
+  id: 9a76f33c-c2e6-4bc0-a314-42d83ece2310
+  macAddresses:
   - 00:23:58:00:00:00/24
   manufacturer: Systel Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Systel
 type: d3-device-type-assertion

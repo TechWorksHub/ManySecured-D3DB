@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfdc2f8f-9baf-43e7-a8eb-f75dc98dd51f
-  mac-addresses:
+  id: 373b89fb-0394-48d0-a6be-4d49fe219db5
+  macAddresses:
   - 00:E0:92:00:00:00/24
   manufacturer: Admtek Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Admtek
 type: d3-device-type-assertion

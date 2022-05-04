@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 518e2065-f9a4-426e-a367-f62dd616db23
-  mac-addresses:
+  id: a8a5bac7-a53e-48d5-b72d-e6bc393ba6a1
+  macAddresses:
   - 00:12:BE:00:00:00/24
   manufacturer: Astek Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Astek
 type: d3-device-type-assertion

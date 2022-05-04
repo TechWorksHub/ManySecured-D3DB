@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19ac49ab-0486-44d4-9d2a-2cddb4502ba9
-  mac-addresses:
+  id: 4535b5ad-82b0-4e4c-a0b3-8cac313ec672
+  macAddresses:
   - 00:50:C2:62:C0:00/36
   manufacturer: AirMatrix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirMatri
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a5b0a67-4593-4519-b81d-f23bd23d32e9
-  mac-addresses:
+  id: f0c402a5-ab91-4ff0-b4f0-6538513ca123
+  macAddresses:
   - 00:1D:E3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intuicom
 type: d3-device-type-assertion

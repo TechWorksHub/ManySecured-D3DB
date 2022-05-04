@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc063efa-8cd6-4225-a92d-79e8336f1dad
-  mac-addresses:
+  id: 356acdf3-692e-4419-9d3f-63267e85a911
+  macAddresses:
   - 00:00:11:00:00:00/24
   manufacturer: Normerel Systemes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Normerel
 type: d3-device-type-assertion

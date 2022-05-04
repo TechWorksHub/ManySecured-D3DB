@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 428e090e-de67-4272-b88a-dbf43f2c93d4
-  mac-addresses:
+  id: ca7e914f-5316-4ead-bdb5-cc697f1ce8f6
+  macAddresses:
   - 70:B3:D5:B1:80:00/36
   manufacturer: Abbas, a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Abbas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2505180-d39e-4c27-bc08-9ca0f8ac0718
-  mac-addresses:
+  id: f8704d87-2935-45f5-8e9a-1e844159b57f
+  macAddresses:
   - 08:0C:C9:00:00:00/24
   manufacturer: Mission Technology Group, dba Magma
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MissionT
 type: d3-device-type-assertion

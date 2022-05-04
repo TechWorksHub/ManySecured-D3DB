@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2a15e90-0475-4685-b51a-1aaf5c17faf3
-  mac-addresses:
+  id: b3beba1b-0062-4c8d-92f4-2fdcdb9e7ebb
+  macAddresses:
   - 4A:72:06:00:00:00/24
   manufacturer: CAIRE, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CAIRE
 type: d3-device-type-assertion

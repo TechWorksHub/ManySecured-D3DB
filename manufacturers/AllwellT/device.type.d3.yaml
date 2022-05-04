@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6666d2f-c35d-4cfe-805e-710fc74dd4bc
-  mac-addresses:
+  id: edd946c7-96b9-41b0-880f-34337013b387
+  macAddresses:
   - 00:30:00:00:00:00/24
   manufacturer: Allwell Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AllwellT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2523bab9-42f0-40e3-9c5d-65b241cfdc25
-  mac-addresses:
+  id: 1ec438ad-9865-4fd9-ad0d-5f8cd65cce5d
+  macAddresses:
   - 40:D8:55:05:90:00/36
   manufacturer: COLONIAL ASSEMBLY and DESIGN
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COLONIAL
 type: d3-device-type-assertion

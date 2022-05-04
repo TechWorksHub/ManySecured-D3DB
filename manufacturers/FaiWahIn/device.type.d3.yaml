@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 641a080e-18a2-4427-a96b-3ad68b58936a
-  mac-addresses:
+  id: 4224dbd1-9095-4c4c-a314-2acce0e24a4d
+  macAddresses:
   - 70:DE:F9:00:00:00/24
   manufacturer: Fai Wah International (Hong Kong) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FaiWahIn
 type: d3-device-type-assertion

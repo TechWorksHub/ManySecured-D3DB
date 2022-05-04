@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b607e09-da23-4e73-96f0-d07b2b8b6054
-  mac-addresses:
+  id: 3fcec016-3799-4257-bbc5-db4bcc907734
+  macAddresses:
   - 5C:D1:35:00:00:00/24
   manufacturer: Xtreme Power Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XtremePo
 type: d3-device-type-assertion

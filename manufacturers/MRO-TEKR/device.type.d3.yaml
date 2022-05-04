@@ -1,8 +1,8 @@
 credentialSubject:
-  id: debb8344-910d-4965-bbeb-75284d84268a
-  mac-addresses:
+  id: 43a30b40-f209-4681-b7ab-9aec5fad56da
+  macAddresses:
   - 00:0C:FF:00:00:00/24
   manufacturer: MRO-TEK Realty Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MRO-TEKR
 type: d3-device-type-assertion

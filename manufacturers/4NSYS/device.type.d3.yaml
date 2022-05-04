@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47ef469b-72e0-4146-8698-0adbf195a58e
-  mac-addresses:
+  id: 7d2d9fe9-fe47-46af-8462-9e0a47b6ba1c
+  macAddresses:
   - 00:18:7B:00:00:00/24
   manufacturer: 4NSYS Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 4NSYS
 type: d3-device-type-assertion

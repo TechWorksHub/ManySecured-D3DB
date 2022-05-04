@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fbdf03e-452e-498c-bbf3-939df37e5de5
-  mac-addresses:
+  id: c46df373-70c7-4c1c-9ff5-ed2e762ab503
+  macAddresses:
   - D0:C8:57:30:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobicon
 type: d3-device-type-assertion

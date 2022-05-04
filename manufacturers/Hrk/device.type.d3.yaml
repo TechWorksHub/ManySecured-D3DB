@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c468641-6b5d-428e-b103-59db22ca317e
-  mac-addresses:
+  id: a035c33f-98fc-4367-9a2e-0a6ef9dd9256
+  macAddresses:
   - 00:60:31:00:00:00/24
   manufacturer: Hrk Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hrk
 type: d3-device-type-assertion

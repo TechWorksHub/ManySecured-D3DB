@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f697ad27-71e4-4a66-8c0b-01eb29d4821e
-  mac-addresses:
+  id: e040df25-0c37-44c5-b72d-e71b6ec38328
+  macAddresses:
   - 70:53:3F:00:00:00/24
   manufacturer: Alfa Instrumentos Eletronicos Ltda.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlfaInst
 type: d3-device-type-assertion

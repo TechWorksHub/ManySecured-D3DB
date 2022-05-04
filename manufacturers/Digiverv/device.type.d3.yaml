@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecb8aa96-c5bb-416a-8f36-a19e211bde7f
-  mac-addresses:
+  id: e6c201c8-805c-4f0a-84ca-754d70257826
+  macAddresses:
   - 70:B3:D5:54:80:00/36
   manufacturer: Digiverv Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digiverv
 type: d3-device-type-assertion

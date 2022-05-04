@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d151826-2eb2-40a7-aed7-19aacb8e699d
-  mac-addresses:
+  id: ace2d736-80bb-48c7-bfe0-8fa54894b99f
+  macAddresses:
   - 00:03:5A:00:00:00/24
   manufacturer: Photron Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Photron
 type: d3-device-type-assertion

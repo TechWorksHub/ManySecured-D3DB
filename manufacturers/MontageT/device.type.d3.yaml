@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2e26c25a-ace7-460c-aa59-b7f8334155e4
-  mac-addresses:
+  id: ccf1d098-8390-4e2a-82e7-81aa1a1e9303
+  macAddresses:
   - 80:05:DF:00:00:00/24
   - 8A:0A:F7:00:00:00/24
   manufacturer: Montage Technology Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MontageT
 type: d3-device-type-assertion

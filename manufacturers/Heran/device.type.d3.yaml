@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfeae434-065a-4ed0-b81b-aeca10f40ee3
-  mac-addresses:
+  id: 6f71098c-4ba7-40ff-b040-88a8e1b96843
+  macAddresses:
   - B4:0E:96:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Heran
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e12ce7c-8af4-4ce4-be0d-5416d8f80778
-  mac-addresses:
+  id: ee7afaff-ab64-49be-8696-95dd2ed190ea
+  macAddresses:
   - 00:40:1F:00:00:00/24
   manufacturer: Colorgraph Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Colorgra
 type: d3-device-type-assertion

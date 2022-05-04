@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 688704ca-6e6a-4230-b968-ba1bda50fb93
-  mac-addresses:
+  id: 80513c5a-694d-45f3-9ada-86f91fdb3697
+  macAddresses:
   - 00:0F:9E:00:00:00/24
   manufacturer: Murrelektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Murrelek
 type: d3-device-type-assertion

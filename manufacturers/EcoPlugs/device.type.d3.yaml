@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d596c2c-58f0-4876-8e4f-0f3d63b8866e
-  mac-addresses:
+  id: f057a4b3-929f-4a04-9340-ff82ca86a556
+  macAddresses:
   - 38:2B:78:00:00:00/24
   manufacturer: Eco Plugs Enterprise Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcoPlugs
 type: d3-device-type-assertion

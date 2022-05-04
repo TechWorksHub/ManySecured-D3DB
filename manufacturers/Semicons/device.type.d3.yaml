@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 972f8057-e3bc-4f91-a01d-f82f52727584
-  mac-addresses:
+  id: 7c61e72e-7f50-4dc2-b372-7b6890b37c90
+  macAddresses:
   - 70:B3:D5:21:20:00/36
   manufacturer: Semiconsoft, inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Semicons
 type: d3-device-type-assertion

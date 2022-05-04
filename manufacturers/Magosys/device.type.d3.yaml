@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebf22514-c414-4334-86fb-859b276fd427
-  mac-addresses:
+  id: 2c236739-cf98-411a-a5e3-74d14ea67f66
+  macAddresses:
   - 70:B3:D5:00:E0:00/36
   manufacturer: Magosys Systems LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magosys
 type: d3-device-type-assertion

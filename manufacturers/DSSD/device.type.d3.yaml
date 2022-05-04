@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5f361a6-7192-4c88-859e-381bbcb44b08
-  mac-addresses:
+  id: 14dfe4fd-f49e-4d66-b58c-9002dbae4d84
+  macAddresses:
   - 60:90:84:00:00:00/24
   manufacturer: DSSD Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSSD
 type: d3-device-type-assertion

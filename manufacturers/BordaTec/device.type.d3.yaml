@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3eb51083-1233-4e5c-b061-a9adb671b216
-  mac-addresses:
+  id: 92d821c9-130f-4f62-ae37-eb11a4468587
+  macAddresses:
   - 40:ED:98:E0:00:00/28
   manufacturer: Borda Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BordaTec
 type: d3-device-type-assertion

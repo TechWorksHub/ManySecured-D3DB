@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fe825b79-3378-4aa5-a259-bbeb5f2a0a45
-  mac-addresses:
+  id: 29c789f2-691a-4a48-8aa5-5bca1667867c
+  macAddresses:
   - 00:1F:0D:00:00:00/24
   - 00:50:C2:88:D0:00/36
   manufacturer: L3 Communications - Telemetry West
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: L3Commun
 type: d3-device-type-assertion

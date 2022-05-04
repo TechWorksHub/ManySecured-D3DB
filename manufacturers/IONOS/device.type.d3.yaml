@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 984bacd3-09e5-4326-adeb-7eee52f89cda
-  mac-addresses:
+  id: 9e53dd83-31fe-48ba-a662-e7a90ad3ab76
+  macAddresses:
   - 00:13:C7:00:00:00/24
   manufacturer: IONOS Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IONOS
 type: d3-device-type-assertion

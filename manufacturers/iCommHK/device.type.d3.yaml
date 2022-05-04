@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a52ecfe7-1429-40ad-a39b-8f64dc79571e
-  mac-addresses:
+  id: b8021d4d-c04e-4d64-9212-90c600687026
+  macAddresses:
   - A4:3E:A0:00:00:00/24
   manufacturer: iComm HK LIMITED
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iCommHK
 type: d3-device-type-assertion

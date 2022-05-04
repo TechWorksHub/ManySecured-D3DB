@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b74d7d1-bfee-461f-b7f3-cb86590dc531
-  mac-addresses:
+  id: 17608d73-7040-4e92-b187-3f908cc26005
+  macAddresses:
   - 70:B3:D5:7D:F0:00/36
   manufacturer: RDT Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RDT
 type: d3-device-type-assertion

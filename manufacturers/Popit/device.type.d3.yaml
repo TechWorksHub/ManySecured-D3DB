@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aa3103a-516f-44bb-810f-5c180f200979
-  mac-addresses:
+  id: 3eb4b59a-57d9-40f2-9f96-f5109a5c5c6f
+  macAddresses:
   - 48:0B:B2:B0:00:00/28
   manufacturer: Popit Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Popit
 type: d3-device-type-assertion

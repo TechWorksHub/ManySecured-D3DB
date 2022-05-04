@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6366ae8a-d09d-4efd-8021-29007a4fe9a2
-  mac-addresses:
+  id: 8162527f-c88c-42bf-aa7a-b04723e90b68
+  macAddresses:
   - 00:1B:E7:00:00:00/24
   manufacturer: Postek Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PostekEl
 type: d3-device-type-assertion

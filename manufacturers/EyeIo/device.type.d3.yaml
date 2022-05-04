@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff2bc3b7-1bad-48fc-b10c-5dae7f33c8c2
-  mac-addresses:
+  id: b3f27bea-2724-42e9-9019-c64b5147da92
+  macAddresses:
   - A4:58:0F:D0:00:00/28
   manufacturer: Eye Io, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EyeIo
 type: d3-device-type-assertion

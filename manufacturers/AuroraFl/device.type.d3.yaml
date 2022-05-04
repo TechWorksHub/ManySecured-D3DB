@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a58d5fa-93cb-413c-8b18-3809fc27117f
-  mac-addresses:
+  id: 3ee4f89e-9bd9-4a76-8b7e-867264055c2a
+  macAddresses:
   - 00:50:C2:63:00:00/36
   manufacturer: Aurora Flight Sciences
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AuroraFl
 type: d3-device-type-assertion

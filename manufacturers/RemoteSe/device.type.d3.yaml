@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 340f1bff-0a75-4f56-9c0e-26d7423474d4
-  mac-addresses:
+  id: b72b4d28-1df7-4c2e-bd52-b34c40b767b4
+  macAddresses:
   - 00:17:B4:00:00:00/24
   - 70:B3:D5:3D:70:00/36
   manufacturer: Remote Security Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RemoteSe
 type: d3-device-type-assertion

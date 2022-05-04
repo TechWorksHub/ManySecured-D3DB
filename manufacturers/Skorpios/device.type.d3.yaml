@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e76aa01-f9cb-4c5f-b2b2-bf499bb61365
-  mac-addresses:
+  id: 93798f58-6f45-4052-a27b-f586eb82eabc
+  macAddresses:
   - 18:39:9C:00:00:00/24
   manufacturer: Skorpios Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skorpios
 type: d3-device-type-assertion

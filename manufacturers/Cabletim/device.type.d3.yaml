@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2827c3c9-277b-454d-b739-547184a9af3e
-  mac-addresses:
+  id: 59be2737-12eb-47e2-b809-d97da71c64ca
+  macAddresses:
   - 00:07:CE:00:00:00/24
   manufacturer: Cabletime Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cabletim
 type: d3-device-type-assertion

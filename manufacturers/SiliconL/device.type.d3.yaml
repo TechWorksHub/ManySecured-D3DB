@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e01b9486-ab9e-4b77-8d06-0db1d5d0ad25
-  mac-addresses:
+  id: c4f5c7b8-bccc-40dd-9a45-3583c5653053
+  macAddresses:
   - 00:0B:57:00:00:00/24
   - 00:3C:84:00:00:00/24
   - 04:0D:84:00:00:00/24
@@ -40,6 +40,6 @@ credentialSubject:
   - EC:1B:BD:00:00:00/24
   - F4:B3:B1:00:00:00/24
   manufacturer: Silicon Laboratories
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiliconL
 type: d3-device-type-assertion

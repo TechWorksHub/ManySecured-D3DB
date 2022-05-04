@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15d69a97-daf9-41f0-a254-28f826d193d5
-  mac-addresses:
+  id: 7568dca4-7663-4dd1-a146-b1edbe122bc0
+  macAddresses:
   - 70:B3:D5:88:50:00/36
   manufacturer: QuirkLogic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuirkLog
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2429df7d-991c-4270-b90a-e42fbfd7e9b5
-  mac-addresses:
+  id: d20bd627-8f92-4b08-8e82-bc044bf96751
+  macAddresses:
   - 08:F7:28:00:00:00/24
   manufacturer: GLOBO Multimedia Sp. z o.o. Sp.k.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLOBOMul
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a91238cf-fc53-4529-9200-64099b1fe588
-  mac-addresses:
+  id: 7eb42feb-18a0-478d-b3a3-169058c3bec1
+  macAddresses:
   - 70:B3:D5:21:90:00/36
   manufacturer: D-E-K GmbH & Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D-E-K
 type: d3-device-type-assertion

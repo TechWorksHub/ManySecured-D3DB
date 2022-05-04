@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8067dc45-d1a3-4185-82c2-97934c49963d
-  mac-addresses:
+  id: dbc887cd-299b-4f4c-a6e6-1ca388c218d0
+  macAddresses:
   - 00:1B:31:00:00:00/24
   manufacturer: Neural Image. Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NeuralIm
 type: d3-device-type-assertion

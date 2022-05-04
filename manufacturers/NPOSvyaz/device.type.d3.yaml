@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15d0ffde-82e6-4de2-be29-a9c6325a1577
-  mac-addresses:
+  id: 9cd1663d-e76d-44b5-8243-39f2c44f78b0
+  macAddresses:
   - 70:B3:D5:58:80:00/36
   manufacturer: LLC NPO Svyazkomplektservis
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPOSvyaz
 type: d3-device-type-assertion

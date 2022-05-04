@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 278ff970-bfa7-4dd1-80e6-4f2ec947319a
-  mac-addresses:
+  id: 584c7097-62ba-4ef7-b46c-e367b4ac5db0
+  macAddresses:
   - 00:17:CF:00:00:00/24
   manufacturer: iMCA-GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iMCA
 type: d3-device-type-assertion

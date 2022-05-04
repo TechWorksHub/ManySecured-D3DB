@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d25c4956-20ed-4fc1-94c3-1a8ad13d502a
-  mac-addresses:
+  id: ddeba336-1b58-46ea-a41d-78dad5e8d8b6
+  macAddresses:
   - 00:60:A4:00:00:00/24
   manufacturer: GEW Technologies (PTY)Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GEWTechn
 type: d3-device-type-assertion

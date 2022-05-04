@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f545fc1-2c95-4a7a-a6ca-b343835940af
-  mac-addresses:
+  id: bd065316-b274-4bd0-b985-dedbe4e36e2f
+  macAddresses:
   - 00:D0:68:00:00:00/24
   manufacturer: Iwill Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iwill
 type: d3-device-type-assertion

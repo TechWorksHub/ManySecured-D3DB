@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbbc4e79-3eca-4b76-adfa-b28871f8ed5b
-  mac-addresses:
+  id: 6802b24a-178f-451c-a1fe-01d6a3ba7223
+  macAddresses:
   - C8:EE:75:00:00:00/24
   manufacturer: Pishion International Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PishionI
 type: d3-device-type-assertion

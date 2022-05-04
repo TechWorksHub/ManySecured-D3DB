@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdb9e8bb-5d47-41f4-b041-fdf37bb22a29
-  mac-addresses:
+  id: 337c9a45-d31b-4ba4-8593-5c03a1e6246d
+  macAddresses:
   - 70:B3:D5:CB:40:00/36
   manufacturer: Planewave Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Planewav
 type: d3-device-type-assertion

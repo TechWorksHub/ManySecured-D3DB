@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7223bd24-b1b7-4abb-be80-776be9705703
-  mac-addresses:
+  id: 17dfa77f-166d-453c-a0f1-553d45ef71e2
+  macAddresses:
   - 70:B3:D5:13:40:00/36
   - 78:72:64:70:00:00/28
   manufacturer: Conjing Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConjingN
 type: d3-device-type-assertion

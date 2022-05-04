@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 298c348c-92bb-46fd-b1a2-b02f35eb515b
-  mac-addresses:
+  id: d47a6435-85c9-4caf-874f-ceb1643884b9
+  macAddresses:
   - 00:50:C2:07:B0:00/36
   manufacturer: Trikon Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrikonTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6949d2b-fbda-4afb-88e3-f6b84080104a
-  mac-addresses:
+  id: 75cfc1f5-82a5-4be3-8050-7bedeca806a8
+  macAddresses:
   - 00:50:C2:C0:70:00/36
   manufacturer: CIO Informatique Industrielle
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CIOInfor
 type: d3-device-type-assertion

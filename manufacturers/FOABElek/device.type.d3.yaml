@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d4493f3-bd15-4185-b70f-65c9c51b873d
-  mac-addresses:
+  id: ff309313-ee43-4834-8420-d1636341abb4
+  macAddresses:
   - 00:13:8E:00:00:00/24
   manufacturer: FOAB Elektronik AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FOABElek
 type: d3-device-type-assertion

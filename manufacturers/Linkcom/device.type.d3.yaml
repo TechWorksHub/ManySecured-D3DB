@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e92d3142-f542-467c-a23d-d33244e24de0
-  mac-addresses:
+  id: c5a4e121-8ff0-4cf7-b87c-bc1f5a0a9989
+  macAddresses:
   - D0:9D:0A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linkcom
 type: d3-device-type-assertion

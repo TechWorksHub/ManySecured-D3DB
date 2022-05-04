@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80746d76-f164-4ce9-ac58-ab6b2479ae16
-  mac-addresses:
+  id: b57be2e5-9114-4c5f-ad2f-0b2b5e81dd4b
+  macAddresses:
   - 00:07:55:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lafon
 type: d3-device-type-assertion

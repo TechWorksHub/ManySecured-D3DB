@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cb596e1-a89b-42d1-9e08-a5f7967ab937
-  mac-addresses:
+  id: cbf8da23-c95c-4541-8ed3-ababecc47888
+  macAddresses:
   - 00:50:C2:36:C0:00/36
   manufacturer: RISCO Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RISCOGro
 type: d3-device-type-assertion

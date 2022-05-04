@@ -1,9 +1,9 @@
 credentialSubject:
-  id: eece3603-af61-4bac-92c6-5eee04cf631b
-  mac-addresses:
+  id: c8fd1988-ae85-4c47-8bdc-1d0711ef5264
+  macAddresses:
   - 40:D8:55:1C:C0:00/36
   - F4:A4:54:00:00:00/28
   manufacturer: NKT Photonics A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NKTPhoto
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 057f6410-afc7-42e8-85f4-be6414e27b91
-  mac-addresses:
+  id: 5747da1e-fd89-4eb9-b674-355ea17a6886
+  macAddresses:
   - 00:00:67:00:00:00/24
   manufacturer: Soft * Rite, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Soft*Rit
 type: d3-device-type-assertion

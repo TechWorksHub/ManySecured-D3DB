@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8a05487-bf5d-4bda-aa7f-ab155f168be8
-  mac-addresses:
+  id: 3b4f7ccf-e6e9-4497-8b28-db906b1a44a2
+  macAddresses:
   - 7C:CB:E2:10:00:00/28
   manufacturer: CeoTronics AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeoTroni
 type: d3-device-type-assertion

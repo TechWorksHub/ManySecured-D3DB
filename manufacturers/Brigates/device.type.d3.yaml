@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9ebf25a-753b-4f28-938e-29f3ee33b997
-  mac-addresses:
+  id: fb9010ad-542a-4357-a7b9-cfe0f7475319
+  macAddresses:
   - 78:13:05:C0:00:00/28
   manufacturer: Brigates Microelectronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brigates
 type: d3-device-type-assertion

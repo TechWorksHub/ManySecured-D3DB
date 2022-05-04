@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc9a91ab-56cd-4bd6-a911-104f09d053a9
-  mac-addresses:
+  id: 0ca58773-b08f-4d5f-8950-68d0d6766396
+  macAddresses:
   - 00:1F:8C:00:00:00/24
   manufacturer: CCS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CCS
 type: d3-device-type-assertion

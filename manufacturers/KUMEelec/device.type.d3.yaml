@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f4d45b0-e28d-465e-b9c9-375f8f06fc57
-  mac-addresses:
+  id: 12c237f9-4894-4409-86c6-ddf7e2cf36ef
+  macAddresses:
   - 00:19:20:00:00:00/24
   manufacturer: KUME electric Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KUMEelec
 type: d3-device-type-assertion

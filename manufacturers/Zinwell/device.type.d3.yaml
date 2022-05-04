@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c6a7acc-5f74-4036-839e-0b10015be427
-  mac-addresses:
+  id: 781529a5-12ac-478d-9b00-2ba6cafe2d43
+  macAddresses:
   - 00:05:9E:00:00:00/24
   manufacturer: Zinwell Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zinwell
 type: d3-device-type-assertion

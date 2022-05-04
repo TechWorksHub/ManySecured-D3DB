@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7789bb92-4dfe-4638-93b6-56ed366a1324
-  mac-addresses:
+  id: cdc12c83-6ed0-4d4e-9a24-7ee0c6db27f3
+  macAddresses:
   - 00:50:C2:41:40:00/36
   - 70:B3:D5:0D:C0:00/36
   - 70:B3:D5:26:A0:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - 70:B3:D5:E8:30:00/36
   - 8C:1F:64:F6:50:00/36
   manufacturer: Talleres de Escoriaza SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Talleres
 type: d3-device-type-assertion

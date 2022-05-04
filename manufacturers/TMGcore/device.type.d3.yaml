@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0046e01-bca7-44cf-a3db-75026c08e986
-  mac-addresses:
+  id: 71895f71-9a0d-4a3a-bff2-611ecbcc783e
+  macAddresses:
   - A0:22:4E:40:00:00/28
   manufacturer: TMGcore, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TMGcore
 type: d3-device-type-assertion

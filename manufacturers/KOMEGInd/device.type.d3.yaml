@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73a795a5-0618-457e-8606-474a0ef4ee34
-  mac-addresses:
+  id: 521044ec-fb44-421e-81e2-dd4e71991bc9
+  macAddresses:
   - 18:67:51:00:00:00/24
   manufacturer: KOMEG Industrielle Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KOMEGInd
 type: d3-device-type-assertion

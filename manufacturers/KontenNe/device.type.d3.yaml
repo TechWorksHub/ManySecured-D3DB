@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3e603eb-183d-4bbe-8531-45c13724c7ad
-  mac-addresses:
+  id: 00852b45-b89d-44e5-9a9a-3934c2c88fd6
+  macAddresses:
   - 68:02:35:00:00:00/24
   manufacturer: Konten Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KontenNe
 type: d3-device-type-assertion

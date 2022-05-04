@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58de196a-e033-4da9-a944-8034b678f106
-  mac-addresses:
+  id: 0f7c9559-de99-4fb8-884c-4222783f427a
+  macAddresses:
   - 00:C0:50:00:00:00/24
   manufacturer: Toyo Denki Seizo K.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToyoDenk
 type: d3-device-type-assertion

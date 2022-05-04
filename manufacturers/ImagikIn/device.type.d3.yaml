@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10cd8c28-c100-40d8-afac-68be940a7647
-  mac-addresses:
+  id: 228d0964-3d68-46cd-9c01-0d9b86e244db
+  macAddresses:
   - B4:9E:AC:00:00:00/24
   manufacturer: Imagik Int'l Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImagikIn
 type: d3-device-type-assertion

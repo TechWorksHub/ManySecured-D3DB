@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7fdb871-a5c8-41b8-9785-8791c524f405
-  mac-addresses:
+  id: a38aec41-5e1b-4032-9281-1b96042ab08c
+  macAddresses:
   - 28:B7:7C:20:00:00/28
   manufacturer: Zhuhai RongBang Electronic Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiRo
 type: d3-device-type-assertion

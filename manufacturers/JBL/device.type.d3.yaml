@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d557c077-3b7a-468c-a626-1ec1b13fda47
-  mac-addresses:
+  id: fe791cc9-5506-4a5c-9f27-12a4b86f8095
+  macAddresses:
   - F4:F3:AA:00:00:00/24
   manufacturer: JBL GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JBL
 type: d3-device-type-assertion

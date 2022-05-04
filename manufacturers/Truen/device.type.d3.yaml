@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 774464e0-ebd3-4e58-83c5-2f191ce7bb91
-  mac-addresses:
+  id: cb6f6dc6-2eed-47eb-827e-fa9da9361047
+  macAddresses:
   - 00:1C:63:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Truen
 type: d3-device-type-assertion

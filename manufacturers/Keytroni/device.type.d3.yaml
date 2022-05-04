@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9538b09f-4f56-4514-be10-0ddcf8dee5a9
-  mac-addresses:
+  id: 4a952f83-4b0d-4e61-a5f0-99c52bd11789
+  macAddresses:
   - 00:1E:16:00:00:00/24
   manufacturer: Keytronix
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Keytroni
 type: d3-device-type-assertion

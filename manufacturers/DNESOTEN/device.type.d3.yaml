@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdde45e0-030c-496a-8fa2-a6b5b2e40cd8
-  mac-addresses:
+  id: a1925e07-66ca-4588-9107-384c11febe11
+  macAddresses:
   - B0:FD:0B:60:00:00/28
   manufacturer: DNESO TEN Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DNESOTEN
 type: d3-device-type-assertion

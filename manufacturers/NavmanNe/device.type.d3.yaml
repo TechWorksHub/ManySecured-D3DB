@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31a01f1e-ea00-402d-9c41-d6b0b350046b
-  mac-addresses:
+  id: c68e1f8c-25ca-43f4-b130-1969aac35a9a
+  macAddresses:
   - 00:1B:4E:00:00:00/24
   manufacturer: Navman New Zealand
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NavmanNe
 type: d3-device-type-assertion

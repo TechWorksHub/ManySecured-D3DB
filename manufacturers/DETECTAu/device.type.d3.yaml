@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a350d642-2c57-4666-ae9e-e7c9215d08be
-  mac-addresses:
+  id: c2fa8ddd-d094-46f4-8b0e-8558e9dd8822
+  macAddresses:
   - 70:B3:D5:DD:70:00/36
   manufacturer: DETECT Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DETECTAu
 type: d3-device-type-assertion

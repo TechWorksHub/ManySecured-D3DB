@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f54498f9-3961-48da-a211-a7ee70c19a7b
-  mac-addresses:
+  id: da5db2d8-96c3-4e00-90fc-4ffc89ab5eb3
+  macAddresses:
   - 00:18:68:00:00:00/24
   - 00:19:47:00:00:00/24
   - 00:1B:D7:00:00:00/24
@@ -43,6 +43,6 @@ credentialSubject:
   - F4:4B:2A:00:00:00/24
   - F4:5F:D4:00:00:00/24
   manufacturer: Cisco SPVTG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiscoSPV
 type: d3-device-type-assertion

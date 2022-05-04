@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85e0cc01-6cdf-4db7-a7fc-b19a1e865e08
-  mac-addresses:
+  id: e2a4c63b-5130-4587-b991-6c1f2025135f
+  macAddresses:
   - 00:20:9C:00:00:00/24
   manufacturer: Primary Access Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrimaryA
 type: d3-device-type-assertion

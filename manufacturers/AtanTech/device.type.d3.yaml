@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66670d4c-174a-4c11-a723-48fed7587fa4
-  mac-addresses:
+  id: 41112307-bd75-402c-a0b1-7e8d2cc2df86
+  macAddresses:
   - 00:D0:CD:00:00:00/24
   manufacturer: Atan Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtanTech
 type: d3-device-type-assertion

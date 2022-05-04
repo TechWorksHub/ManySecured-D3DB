@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67823510-ef56-47df-8ebb-0004cd38537d
-  mac-addresses:
+  id: 8177ce46-d689-4a6d-9459-e723759e5f65
+  macAddresses:
   - EC:93:ED:00:00:00/24
   manufacturer: DDoS-Guard LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DDoS-Gua
 type: d3-device-type-assertion

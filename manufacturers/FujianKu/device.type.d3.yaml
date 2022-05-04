@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 442d5e09-c015-4bf4-905f-fa37432603b2
-  mac-addresses:
+  id: e9143ac0-f9df-4f4d-83c4-9f656b94a170
+  macAddresses:
   - 40:11:75:10:00:00/28
   manufacturer: Fujian Kuke3D Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujianKu
 type: d3-device-type-assertion

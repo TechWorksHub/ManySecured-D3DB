@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5234cbbb-1deb-4ed9-b565-44dba5a97128
-  mac-addresses:
+  id: ac6adb6e-3c75-48e5-abe8-d558c9383e8e
+  macAddresses:
   - 00:0C:61:00:00:00/24
   manufacturer: AC Tech corporation DBA Advanced Digital
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACTechDB
 type: d3-device-type-assertion

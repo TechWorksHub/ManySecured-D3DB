@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a059123-e214-4b87-be6f-d155ef0eeddb
-  mac-addresses:
+  id: b2661df8-cc74-4e17-bb95-92c0a1a4f62a
+  macAddresses:
   - 3C:DD:89:00:00:00/24
   manufacturer: Somo Holdings & Tech. Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SomoHold
 type: d3-device-type-assertion

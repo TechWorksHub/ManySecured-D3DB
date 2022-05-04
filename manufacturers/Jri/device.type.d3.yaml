@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51f8b23e-d3e5-4422-8cd1-752d7e89a5c9
-  mac-addresses:
+  id: c7b31c40-05e2-4bc0-b142-e62d17d541f6
+  macAddresses:
   - C8:3B:45:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jri
 type: d3-device-type-assertion

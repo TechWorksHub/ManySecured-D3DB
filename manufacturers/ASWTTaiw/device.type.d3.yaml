@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d05834b-32c7-494a-a0bf-03a00514e5af
-  mac-addresses:
+  id: 725995b0-3472-4229-be80-1f0511387c4b
+  macAddresses:
   - 00:1A:28:00:00:00/24
   manufacturer: ASWT Co., LTD. Taiwan Branch H.K.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ASWTTaiw
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 9b7daf9f-6546-41f2-aa28-f283869d4461
-  mac-addresses:
+  id: f8747148-6d67-4e1f-9c15-3ca243e6afa4
+  macAddresses:
   - 00:14:49:00:00:00/24
   - 00:6C:FD:00:00:00/24
   - 00:E4:00:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - C0:13:2B:00:00:00/24
   - D8:47:10:00:00:00/24
   manufacturer: Sichuan Changhong Electric Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanC
 type: d3-device-type-assertion

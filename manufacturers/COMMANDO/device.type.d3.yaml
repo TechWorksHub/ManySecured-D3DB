@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdea4420-cc7c-41f8-afb3-8666a57af975
-  mac-addresses:
+  id: f48168e8-ba14-423e-9455-66a6acd77708
+  macAddresses:
   - 8C:02:FA:00:00:00/24
   manufacturer: COMMANDO Networks Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMMANDO
 type: d3-device-type-assertion

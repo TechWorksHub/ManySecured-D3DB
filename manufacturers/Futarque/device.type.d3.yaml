@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cb3100e-7cf6-48ff-867f-a65dce37848f
-  mac-addresses:
+  id: cad17b32-384d-4288-bdf1-39c113dfaa7d
+  macAddresses:
   - 00:1B:47:00:00:00/24
   manufacturer: Futarque A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Futarque
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 24632576-ca0d-4104-8f1b-6a3bf0a29158
-  mac-addresses:
+  id: e929e749-fb34-42c7-bda8-a78f1634bc6d
+  macAddresses:
   - 00:0F:A3:00:00:00/24
   - 00:18:02:00:00:00/24
   - 00:1D:6A:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - 88:6A:E3:00:00:00/24
   - D0:AE:EC:00:00:00/24
   manufacturer: Alpha Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaNet
 type: d3-device-type-assertion

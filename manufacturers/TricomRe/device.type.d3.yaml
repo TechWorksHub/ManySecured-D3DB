@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fb13148-9671-49c2-a24f-ca759b7b1f5b
-  mac-addresses:
+  id: 0070a96f-115c-4e48-bfc2-87aa464aaf93
+  macAddresses:
   - 70:B3:D5:60:10:00/36
   manufacturer: Tricom Research Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TricomRe
 type: d3-device-type-assertion

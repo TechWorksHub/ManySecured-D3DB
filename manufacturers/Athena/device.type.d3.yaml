@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96d39f49-6031-4e25-a63c-d15f593b295b
-  mac-addresses:
+  id: 0a157f03-d49f-4bb5-a461-3ae31eaab5ee
+  macAddresses:
   - 28:72:F0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Athena
 type: d3-device-type-assertion

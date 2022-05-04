@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d14b688-92c7-49cf-a47f-0494007e2750
-  mac-addresses:
+  id: fe598807-5009-41f8-ad12-0ab4d5b0e8b1
+  macAddresses:
   - 00:50:3B:00:00:00/24
   manufacturer: Mediafire Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mediafir
 type: d3-device-type-assertion

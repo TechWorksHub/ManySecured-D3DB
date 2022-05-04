@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 11291695-4090-47c7-8d5b-6c32e4f38120
-  mac-addresses:
+  id: 16aed663-a53c-4785-b250-395745d147bd
+  macAddresses:
   - 00:06:87:00:00:00/24
   - 00:10:A3:00:00:00/24
   - 00:50:C2:52:A0:00/36
   - 44:E4:9A:00:00:00/24
   manufacturer: Omnitron Systems Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omnitron
 type: d3-device-type-assertion

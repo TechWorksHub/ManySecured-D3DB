@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f0494c9-2509-4bcd-b259-8376577bf6dd
-  mac-addresses:
+  id: dfb5ed7a-5593-47c4-8d2d-ac1a7bb262fc
+  macAddresses:
   - 00:0A:8C:00:00:00/24
   manufacturer: Guardware Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Guardwar
 type: d3-device-type-assertion

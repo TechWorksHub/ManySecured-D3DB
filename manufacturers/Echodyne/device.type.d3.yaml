@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c8f220e-0f36-4969-9f8c-ad2bdccff12f
-  mac-addresses:
+  id: 322bbcde-f0d0-424d-9ba1-14cd09a7f278
+  macAddresses:
   - 34:4C:C8:00:00:00/24
   manufacturer: Echodyne Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Echodyne
 type: d3-device-type-assertion

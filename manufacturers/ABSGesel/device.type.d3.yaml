@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f5049cca-5b3f-41bc-a318-32ce7c76550c
-  mac-addresses:
+  id: b01338ff-4a90-4b17-a126-4c114fb925a4
+  macAddresses:
   - 00:50:C2:AE:50:00/36
   manufacturer: ABS Gesellschaft f. Automatisierung, Bildverarbeitung und Software
     mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABSGesel
 type: d3-device-type-assertion

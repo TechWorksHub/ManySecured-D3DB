@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25f87b28-28bb-4c25-a7df-98d1fc1be6c6
-  mac-addresses:
+  id: 45b8ec47-13cb-4e5b-9ff2-c12642b20564
+  macAddresses:
   - 70:B3:D5:05:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jt
 type: d3-device-type-assertion

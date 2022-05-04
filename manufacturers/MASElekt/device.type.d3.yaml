@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6d6a57d-fcae-4d20-8319-69f22aa89036
-  mac-addresses:
+  id: acff37a1-9640-4a17-b2e7-e5a2f3c3afc6
+  macAddresses:
   - 00:CD:90:00:00:00/24
   manufacturer: MAS Elektronik AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MASElekt
 type: d3-device-type-assertion

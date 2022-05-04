@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab73f782-4e42-47ec-a3d3-ce82a0c59a90
-  mac-addresses:
+  id: 999493f4-bd91-4ea7-8f17-d37e006e022a
+  macAddresses:
   - 1C:BD:0E:00:00:00/24
   manufacturer: Amplified Engineering Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amplifie
 type: d3-device-type-assertion

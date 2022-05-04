@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b14b0a13-d8cf-42d9-8460-e0d8efd5b39e
-  mac-addresses:
+  id: daf637d4-e887-4edd-a5cb-2f3cc40ccfb2
+  macAddresses:
   - C0:1E:9B:00:00:00/24
   manufacturer: Pixavi AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PixaviAS
 type: d3-device-type-assertion

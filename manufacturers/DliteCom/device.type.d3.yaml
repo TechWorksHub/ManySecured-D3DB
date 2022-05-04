@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07c8599b-3fa1-441b-83b9-57c2e123fe75
-  mac-addresses:
+  id: 77d9d3d6-fa99-4798-bed5-08b375fb41a1
+  macAddresses:
   - 00:50:C2:E9:50:00/36
   manufacturer: "Dlite Comercio, Importadora e Servi\xE7os de Automa\xE7\xE3o Ltda"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DliteCom
 type: d3-device-type-assertion

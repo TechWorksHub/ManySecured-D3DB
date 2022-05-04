@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ace35a8-3733-4bc6-b953-ce9256d82f6d
-  mac-addresses:
+  id: 04fba1aa-f074-4129-a5e4-e5937ae7533a
+  macAddresses:
   - 00:50:C2:C1:30:00/36
   manufacturer: Dantec Dynamics A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DantecDy
 type: d3-device-type-assertion

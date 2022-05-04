@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5552fa63-19ee-4962-ba85-e351bffd872f
-  mac-addresses:
+  id: 15f12f66-91a5-416f-8689-7c86694c9cbe
+  macAddresses:
   - 54:B5:6C:00:00:00/24
   manufacturer: Xi'an NovaStar Tech Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XianNova
 type: d3-device-type-assertion

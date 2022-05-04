@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a16f4211-4016-42d4-9e1b-42c249c6101b
-  mac-addresses:
+  id: acd8566f-c7a8-4ff3-986d-566e50fcd2b4
+  macAddresses:
   - 74:1A:E0:E0:00:00/28
   manufacturer: ITS Partner (O.B.S) S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITSPartn
 type: d3-device-type-assertion

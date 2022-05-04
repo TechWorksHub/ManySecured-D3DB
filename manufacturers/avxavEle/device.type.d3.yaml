@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6e01099-9396-4e3a-834d-f2b27c5db861
-  mac-addresses:
+  id: 34e9d862-0341-4108-aa66-1d57e9dfe09b
+  macAddresses:
   - 0C:5C:B5:10:00:00/28
   manufacturer: avxav Electronic Trading LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: avxavEle
 type: d3-device-type-assertion

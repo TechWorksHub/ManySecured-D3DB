@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5dbffb7a-2938-4944-9d50-0cc26a8f57b7
-  mac-addresses:
+  id: 8c73e295-f9f2-4fc7-87fc-7b5fddf55de0
+  macAddresses:
   - 04:D1:6E:60:00:00/28
   - 70:B3:D5:DE:30:00/36
   manufacturer: ETL Elektrotechnik Lauter GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETLElekt
 type: d3-device-type-assertion

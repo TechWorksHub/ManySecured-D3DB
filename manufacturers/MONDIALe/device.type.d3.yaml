@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4aaa1364-3795-4605-ad27-e12ee8015261
-  mac-addresses:
+  id: 663bdcd6-6968-4ca4-a42f-bb5fadcd64dd
+  macAddresses:
   - 00:09:04:00:00:00/24
   manufacturer: MONDIAL electronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MONDIALe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86b8ef55-b30d-4bd6-b027-b5e859e7c748
-  mac-addresses:
+  id: 6c483576-7bf6-4fc9-b7fc-c3100b5aa777
+  macAddresses:
   - 00:50:C2:34:60:00/36
   manufacturer: biokeysystem
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: biokeysy
 type: d3-device-type-assertion

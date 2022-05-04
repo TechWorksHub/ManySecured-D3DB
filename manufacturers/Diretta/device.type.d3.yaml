@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2fd29e1-577c-4e11-8993-f8d08c59c1c3
-  mac-addresses:
+  id: 8bb75458-11f2-4993-9b80-d0d8e527cfbd
+  macAddresses:
   - 70:B3:D5:C9:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Diretta
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f53322f5-765f-4f11-834d-08807ed5bdca
-  mac-addresses:
+  id: dcfb14db-aa99-497f-8f56-48384841a5d5
+  macAddresses:
   - 00:50:C2:15:B0:00/36
   manufacturer: Dune Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DuneNetw
 type: d3-device-type-assertion

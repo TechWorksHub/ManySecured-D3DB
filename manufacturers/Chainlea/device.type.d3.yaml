@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8eedd082-394a-41d7-86a1-8182c400cef9
-  mac-addresses:
+  id: 3ec92105-eb63-472a-afcf-9fc45d56ca12
+  macAddresses:
   - 00:19:53:00:00:00/24
   manufacturer: Chainleader Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chainlea
 type: d3-device-type-assertion

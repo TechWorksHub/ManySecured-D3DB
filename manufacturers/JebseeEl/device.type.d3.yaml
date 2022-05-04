@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13b1aeb2-361c-47db-8f10-8743454733cb
-  mac-addresses:
+  id: 1a82d245-f139-4059-8ac3-e1ffa94a023f
+  macAddresses:
   - 08:E6:72:00:00:00/24
   manufacturer: Jebsee Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JebseeEl
 type: d3-device-type-assertion

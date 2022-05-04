@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9910ace8-becb-489c-b795-61629d01e422
-  mac-addresses:
+  id: bac2bd1c-1b04-444a-a0bd-f66cdd56a91c
+  macAddresses:
   - F4:6F:4E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Echowell
 type: d3-device-type-assertion

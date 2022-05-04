@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 240f1d1e-187f-418e-8986-36f886904f08
-  mac-addresses:
+  id: 34d8d309-4ee8-49c6-a840-b5c8eaa207a8
+  macAddresses:
   - 64:7D:81:00:00:00/24
   manufacturer: Yokota Industrial Co,.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YokotaIn
 type: d3-device-type-assertion

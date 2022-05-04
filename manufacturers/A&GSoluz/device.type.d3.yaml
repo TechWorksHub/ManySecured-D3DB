@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59a2b2ed-5127-45f3-87b6-954dee25cf46
-  mac-addresses:
+  id: b5fd5dd6-2370-4b30-a008-e471c16acb64
+  macAddresses:
   - 00:50:C2:38:D0:00/36
   manufacturer: A&G Soluzioni Digitali
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A&GSoluz
 type: d3-device-type-assertion

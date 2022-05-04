@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c02244d-31a5-4385-befc-7f4bcac94a90
-  mac-addresses:
+  id: 72fb56fc-362a-4493-ada3-86482e752559
+  macAddresses:
   - 00:10:42:00:00:00/24
   manufacturer: Alacritech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alacrite
 type: d3-device-type-assertion

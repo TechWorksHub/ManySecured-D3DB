@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f9fe0e3-977a-469d-95bb-fcbef444e68d
-  mac-addresses:
+  id: f510cdca-28d5-4ae0-ad2d-5735a5105b6e
+  macAddresses:
   - 18:06:FF:00:00:00/24
   manufacturer: Acer Computer(Shanghai) Limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcerComp
 type: d3-device-type-assertion

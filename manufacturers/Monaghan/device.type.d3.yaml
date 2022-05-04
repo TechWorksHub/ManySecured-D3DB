@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dc5aabc-6867-4449-a50c-e5fb81efb857
-  mac-addresses:
+  id: 3aa40705-acc2-4073-a908-f0cfcdce7b29
+  macAddresses:
   - 00:50:C2:51:50:00/36
   manufacturer: Monaghan Engineering, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Monaghan
 type: d3-device-type-assertion

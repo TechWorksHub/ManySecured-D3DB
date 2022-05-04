@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f963a9fb-ac4b-4c3e-9cbe-1d8287f5e75c
-  mac-addresses:
+  id: 9e6d22cd-1079-47b6-8a9c-2a4d4c7fdfe6
+  macAddresses:
   - 00:04:59:00:00:00/24
   manufacturer: Veristar Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Veristar
 type: d3-device-type-assertion

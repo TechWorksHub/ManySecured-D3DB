@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6601dd5a-0903-4c89-881b-a37143cc1bc3
-  mac-addresses:
+  id: 4de254a5-a14a-4048-9be6-bb866c907362
+  macAddresses:
   - 00:26:70:00:00:00/24
   manufacturer: Cinch Connectors
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CinchCon
 type: d3-device-type-assertion

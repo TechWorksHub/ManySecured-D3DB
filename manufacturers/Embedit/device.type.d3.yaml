@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 997ec4fe-bbfd-4ad4-819e-7771bd69708c
-  mac-addresses:
+  id: 26131dad-92fd-4a6b-8c6c-56e9acd73fbe
+  macAddresses:
   - 00:50:C2:39:40:00/36
   manufacturer: Embedit A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embedit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 017b470c-0547-44ae-b31b-71545274e44c
-  mac-addresses:
+  id: 464d5be9-7469-442f-a8a1-cc86ce0819e4
+  macAddresses:
   - 64:5C:F3:00:00:00/24
   manufacturer: ParanTek Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParanTek
 type: d3-device-type-assertion

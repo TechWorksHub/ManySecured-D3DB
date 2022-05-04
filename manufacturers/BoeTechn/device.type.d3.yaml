@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c6496bac-43e2-41f5-9b6c-e30032435c58
-  mac-addresses:
+  id: 6115ec40-ce1e-4c29-a122-d8929ac6b94c
+  macAddresses:
   - 00:0E:9A:00:00:00/24
   - 00:0E:E4:00:00:00/24
   manufacturer: Boe Technology Group Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoeTechn
 type: d3-device-type-assertion

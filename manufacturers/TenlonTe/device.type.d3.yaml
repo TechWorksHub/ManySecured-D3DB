@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a290e81-25df-472d-a585-70b62b0445e9
-  mac-addresses:
+  id: 918f68ac-9c35-40a1-8335-76540f158567
+  macAddresses:
   - 00:1C:F2:00:00:00/24
   manufacturer: Tenlon Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TenlonTe
 type: d3-device-type-assertion

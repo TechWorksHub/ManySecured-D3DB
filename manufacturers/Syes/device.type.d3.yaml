@@ -1,9 +1,9 @@
 credentialSubject:
-  id: dea6b832-4bfa-4196-8843-ad1ef81e1931
-  mac-addresses:
+  id: 4f1e67a9-f4f6-4c03-8ea6-3a8addbaf218
+  macAddresses:
   - 00:50:C2:D8:F0:00/36
   - 28:F6:06:00:00:00/24
   manufacturer: Syes srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Syes
 type: d3-device-type-assertion

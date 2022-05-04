@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80bf7f0a-8d02-4433-9a88-2f9af31ff029
-  mac-addresses:
+  id: 3bfd0b37-22fc-413c-a0fa-bbf33728d71d
+  macAddresses:
   - CC:22:37:30:00:00/28
   manufacturer: XConnect Professional Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XConnect
 type: d3-device-type-assertion

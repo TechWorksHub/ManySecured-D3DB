@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e5dc1e91-0828-4f7a-8380-79972b9d89b2
-  mac-addresses:
+  id: 995445a9-554b-4fdc-99e5-fbe21b2ff76b
+  macAddresses:
   - 00:06:5A:00:00:00/24
   - 00:19:33:00:00:00/24
   manufacturer: Strix Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Strix
 type: d3-device-type-assertion

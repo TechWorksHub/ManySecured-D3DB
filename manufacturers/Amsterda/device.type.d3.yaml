@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1464479a-bcbd-4c57-a068-e67a82ffe8af
-  mac-addresses:
+  id: c0627fd1-828c-47f1-91fe-56eda798d623
+  macAddresses:
   - 00:50:C2:EC:90:00/36
   manufacturer: Amsterdam Scientific Instruments BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amsterda
 type: d3-device-type-assertion

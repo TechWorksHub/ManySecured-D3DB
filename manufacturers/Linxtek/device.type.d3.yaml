@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 909a2d6e-f34a-45c6-afae-ab336f667661
-  mac-addresses:
+  id: a26c268d-a879-4d5e-8035-cc91b2d43ec2
+  macAddresses:
   - 00:06:B2:00:00:00/24
   manufacturer: Linxtek Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linxtek
 type: d3-device-type-assertion

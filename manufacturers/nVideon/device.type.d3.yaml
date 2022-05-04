@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fefdaf29-f73c-46e3-b782-23efdca4e233
-  mac-addresses:
+  id: 85454517-a4dd-4c18-9f76-7ab34f1eefc1
+  macAddresses:
   - 70:B3:D5:3B:80:00/36
   manufacturer: nVideon, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: nVideon
 type: d3-device-type-assertion

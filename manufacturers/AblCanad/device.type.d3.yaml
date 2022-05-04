@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad41890e-c8a1-4eeb-b301-a09c12b559d7
-  mac-addresses:
+  id: e3ccead6-f3a0-401a-955e-6be8c30a7dc4
+  macAddresses:
   - 00:50:1B:00:00:00/24
   manufacturer: Abl Canada, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AblCanad
 type: d3-device-type-assertion

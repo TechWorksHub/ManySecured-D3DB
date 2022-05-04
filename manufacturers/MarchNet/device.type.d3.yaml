@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8731f954-5fa8-47bc-b80a-b58bcef8bdab
-  mac-addresses:
+  id: 65de9666-cab3-4c93-91b9-82db046d898d
+  macAddresses:
   - 00:10:BE:00:00:00/24
   - 00:12:81:00:00:00/24
   manufacturer: March Networks Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarchNet
 type: d3-device-type-assertion

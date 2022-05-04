@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29dea4e7-82ff-400a-aaa9-d5da8e41c8ff
-  mac-addresses:
+  id: aee71687-5264-4293-a707-d6a428c3174f
+  macAddresses:
   - 70:B3:D5:92:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QDevil
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1ec1b7f-a723-48b5-9662-0ad34705d559
-  mac-addresses:
+  id: a73b03a8-e5a2-4dc7-9262-efdcad34c215
+  macAddresses:
   - 00:A0:F9:00:00:00/24
   manufacturer: Bintec Communications Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BintecCo
 type: d3-device-type-assertion

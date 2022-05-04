@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d15f5c9-88c5-4d17-b89f-f338682d31a9
-  mac-addresses:
+  id: 25f52b44-2b55-4da0-a559-18c54ab638e4
+  macAddresses:
   - 90:DF:B7:00:00:00/24
   manufacturer: s.m.s smart microwave sensors GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: smssmart
 type: d3-device-type-assertion

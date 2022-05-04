@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 842a279d-08a0-4eab-865c-95edae17c757
-  mac-addresses:
+  id: 9cdbcdbb-8539-4584-990f-130410dd5326
+  macAddresses:
   - 00:50:C2:B5:F0:00/36
   manufacturer: North Bridge Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NorthBri
 type: d3-device-type-assertion

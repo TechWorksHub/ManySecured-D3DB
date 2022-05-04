@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62cad8a5-24df-42f5-a2d2-1048ef8e5045
-  mac-addresses:
+  id: b818c30e-7693-42a3-8f51-6fc845b65a92
+  macAddresses:
   - 00:03:71:00:00:00/24
   manufacturer: Acomz Networks Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcomzNet
 type: d3-device-type-assertion

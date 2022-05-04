@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 48ef0b7c-9f70-4cc7-af74-877c7a4ca47e
-  mac-addresses:
+  id: ff530c2e-a92e-4b69-a4a6-2083703b44f7
+  macAddresses:
   - 04:CF:8C:00:00:00/24
   - 28:6C:07:00:00:00/24
   - 34:CE:00:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - 7C:49:EB:00:00:00/24
   - EC:41:18:00:00:00/24
   manufacturer: XIAOMI Electronics,CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XIAOMIEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d19089fd-2ac3-48b6-959a-113c9a18de8f
-  mac-addresses:
+  id: 9194345c-ef70-403d-a660-6d50edd3e0a8
+  macAddresses:
   - 00:17:7B:00:00:00/24
   manufacturer: Azalea Networks inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AzaleaNe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8411701a-30e4-4159-b321-b5db94cad7bc
-  mac-addresses:
+  id: ab01ae4b-1d60-4ac5-a44f-e3bb56af46c6
+  macAddresses:
   - 00:0A:A1:00:00:00/24
   manufacturer: V V S Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VVS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5929df65-e75f-459a-a5f7-b691a2e01efc
-  mac-addresses:
+  id: 0e0d1289-0afd-4dab-b194-277bf2c3d8e1
+  macAddresses:
   - 00:C0:00:00:00:00/24
   manufacturer: Lanoptics, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lanoptic
 type: d3-device-type-assertion

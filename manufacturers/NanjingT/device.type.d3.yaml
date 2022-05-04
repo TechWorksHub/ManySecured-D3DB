@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d0067832-6edc-44d5-92f4-b810447ae7e7
-  mac-addresses:
+  id: 9aa95816-0b1f-40bb-b22a-ec5ef52e1496
+  macAddresses:
   - 40:D8:55:0B:10:00/36
   - 4C:E1:73:80:00:00/28
   - DC:50:3A:00:00:00/24
   manufacturer: Nanjing TIANSU Automation Control System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingT
 type: d3-device-type-assertion

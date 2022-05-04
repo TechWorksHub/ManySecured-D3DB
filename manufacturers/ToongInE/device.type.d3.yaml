@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4631544b-808c-424c-bc68-6656a28311d9
-  mac-addresses:
+  id: 54d5fd1f-b4e5-48e0-a6cf-47ee266074ba
+  macAddresses:
   - CC:C2:61:E0:00:00/28
   manufacturer: Toong In Electronic Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToongInE
 type: d3-device-type-assertion

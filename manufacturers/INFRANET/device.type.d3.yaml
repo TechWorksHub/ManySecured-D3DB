@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58decac0-19b7-4f72-bc26-f21c595673c1
-  mac-addresses:
+  id: a055335a-0af2-4245-b3df-0aa76232ce90
+  macAddresses:
   - 00:16:BE:00:00:00/24
   manufacturer: INFRANET, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INFRANET
 type: d3-device-type-assertion

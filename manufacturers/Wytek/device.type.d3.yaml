@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54c89174-4ffa-400e-9f7a-51dcc031ea9e
-  mac-addresses:
+  id: f34e2406-dbd6-42fc-a5f5-2c1fab71f0d2
+  macAddresses:
   - 34:5D:10:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wytek
 type: d3-device-type-assertion

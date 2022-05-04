@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5b93895-0d67-420e-8320-dd51d0be8d33
-  mac-addresses:
+  id: 1f1424c7-fb22-48fa-ae95-1a794d5bfb99
+  macAddresses:
   - 00:90:57:00:00:00/24
   manufacturer: AANetcom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AANetcom
 type: d3-device-type-assertion

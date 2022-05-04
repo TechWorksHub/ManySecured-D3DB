@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f567a11b-98ba-4cc3-91d5-ffae4afbc88e
-  mac-addresses:
+  id: d1ce5d27-7b5f-43fd-b39c-cffd767edc30
+  macAddresses:
   - C0:D3:91:E0:00:00/28
   - FC:DB:21:00:00:00/24
   manufacturer: Samsara Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SamsaraN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a185250e-7c3b-4bb1-98a7-7c268175912a
-  mac-addresses:
+  id: e57b9b63-3afe-4994-bb34-2aad8c08094f
+  macAddresses:
   - 00:24:9C:00:00:00/24
   manufacturer: Bimeng Comunication System Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BimengCo
 type: d3-device-type-assertion

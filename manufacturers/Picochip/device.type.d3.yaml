@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5abc8187-77f1-4407-9573-fb66b0e55cf2
-  mac-addresses:
+  id: 8fc1fc5d-aa3c-4e21-be41-7403d0df5853
+  macAddresses:
   - 00:15:E1:00:00:00/24
   manufacturer: Picochip Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Picochip
 type: d3-device-type-assertion

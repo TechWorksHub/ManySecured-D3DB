@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03230d15-370b-476f-8e6b-dd3a96e71ce1
-  mac-addresses:
+  id: 413b7e61-2a2c-4e07-916a-c8451f757e39
+  macAddresses:
   - 8C:E3:8E:00:00:00/24
   manufacturer: Kioxia Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kioxia
 type: d3-device-type-assertion

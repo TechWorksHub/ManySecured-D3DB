@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f7c47f5-fb71-4d1b-8a64-5533ec7e072d
-  mac-addresses:
+  id: a6dbd9e2-ea89-4681-93f7-842592ffbd58
+  macAddresses:
   - 70:B3:D5:72:70:00/36
   manufacturer: LP Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LPTechno
 type: d3-device-type-assertion

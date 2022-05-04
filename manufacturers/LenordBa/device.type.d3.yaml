@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa4563ea-d30e-4304-a613-cb0b239c8978
-  mac-addresses:
+  id: 1b502e46-0033-4117-acdd-653ec02da7a3
+  macAddresses:
   - 00:22:C9:00:00:00/24
   manufacturer: Lenord, Bauer & Co GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LenordBa
 type: d3-device-type-assertion

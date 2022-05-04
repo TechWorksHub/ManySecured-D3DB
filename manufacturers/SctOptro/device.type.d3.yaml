@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac9e76b5-c19e-40b4-aee5-33abd6d70145
-  mac-addresses:
+  id: 5402ad74-9d87-441b-bc60-0f48994b138e
+  macAddresses:
   - 2C:16:BD:70:00:00/28
   manufacturer: Sct Optronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SctOptro
 type: d3-device-type-assertion

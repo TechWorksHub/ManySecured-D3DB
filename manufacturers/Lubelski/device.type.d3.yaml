@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5078dbb-7357-474a-abe0-f346a715bd50
-  mac-addresses:
+  id: 2f0a619b-880d-4347-9837-6678adcd2a78
+  macAddresses:
   - CC:D3:9D:A0:00:00/28
   manufacturer: Lubelskie Fabryki Wag FAWAG S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lubelski
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd1e516c-44bc-43f1-b1bb-18f5e43a3f82
-  mac-addresses:
+  id: c276a598-0800-438f-96a3-d7e47f94af9e
+  macAddresses:
   - 00:50:C2:37:50:00/36
   manufacturer: TIR Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TIR
 type: d3-device-type-assertion

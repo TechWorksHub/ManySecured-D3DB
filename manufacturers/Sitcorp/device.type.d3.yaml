@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e85782e-7d2b-48fc-b4f1-19f071291b62
-  mac-addresses:
+  id: 1ca04af4-236a-4eea-b5b7-f5edeec4a4d8
+  macAddresses:
   - 94:DB:49:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sitcorp
 type: d3-device-type-assertion

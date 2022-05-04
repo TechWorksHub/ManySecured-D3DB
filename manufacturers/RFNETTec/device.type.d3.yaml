@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2d4703e-0037-4373-b435-a7e3aea9c99a
-  mac-addresses:
+  id: fd454ace-7421-4da2-aa05-155f9f5a50d1
+  macAddresses:
   - 00:06:C7:00:00:00/24
   manufacturer: RFNET Technologies Pte Ltd (S)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFNETTec
 type: d3-device-type-assertion

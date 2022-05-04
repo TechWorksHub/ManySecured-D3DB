@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5870aa9-329b-4810-ad6f-f60dca018ca1
-  mac-addresses:
+  id: f098db6a-77c6-47e5-9e0b-63766d64ed3c
+  macAddresses:
   - 20:B7:80:00:00:00/24
   manufacturer: Toshiba Visual Solutions Corporation Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToshibaV
 type: d3-device-type-assertion

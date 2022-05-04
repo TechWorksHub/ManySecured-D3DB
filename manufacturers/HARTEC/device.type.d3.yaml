@@ -1,8 +1,8 @@
 credentialSubject:
-  id: adcd66fe-4a7f-431f-b49c-a7766768546c
-  mac-addresses:
+  id: e8267a9f-3744-49bd-8240-e90e4182e0e1
+  macAddresses:
   - 00:09:A4:00:00:00/24
   manufacturer: HARTEC Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HARTEC
 type: d3-device-type-assertion

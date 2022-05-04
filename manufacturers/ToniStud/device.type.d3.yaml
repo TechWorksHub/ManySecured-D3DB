@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 358be427-cedd-41c7-aabb-a771cf471690
-  mac-addresses:
+  id: c9b0d0de-6c93-4690-85a8-e7360b562525
+  macAddresses:
   - 40:D8:55:01:40:00/36
   manufacturer: Toni Studio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToniStud
 type: d3-device-type-assertion

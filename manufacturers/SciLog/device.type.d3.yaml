@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0eb6aba2-cbdc-41f1-96dd-5c31c1229a91
-  mac-addresses:
+  id: c93cf189-c226-4131-938b-66beba71b31a
+  macAddresses:
   - 00:22:CC:00:00:00/24
   manufacturer: SciLog, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SciLog
 type: d3-device-type-assertion

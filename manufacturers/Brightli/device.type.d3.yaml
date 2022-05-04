@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 675f4304-21ca-4dd1-bcfd-0cd7bee4a271
-  mac-addresses:
+  id: e18e55f2-0ad2-48db-809a-862e82833a16
+  macAddresses:
   - 00:50:C2:75:00:00/36
   manufacturer: Brightlights Intellectual Property Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brightli
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ef34206-9453-461a-896c-bde3391f0690
-  mac-addresses:
+  id: 97e5f329-0129-4006-a70d-1e95cc3cc452
+  macAddresses:
   - 70:B3:D5:50:50:00/36
   manufacturer: MC2-Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MC2-Tech
 type: d3-device-type-assertion

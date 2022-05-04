@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41b56a7e-258c-479a-8ae7-41f4aab19830
-  mac-addresses:
+  id: acfd5856-35f0-4109-98ec-4be77cd6779b
+  macAddresses:
   - 00:05:82:00:00:00/24
   manufacturer: ClearCube Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClearCub
 type: d3-device-type-assertion

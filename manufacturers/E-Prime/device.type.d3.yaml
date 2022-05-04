@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ee65ea8-be8d-47a0-9f85-c98175c50015
-  mac-addresses:
+  id: f1a6fac5-6210-4fe1-b152-53087e46051b
+  macAddresses:
   - B4:28:F1:00:00:00/24
   manufacturer: E-Prime Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-Prime
 type: d3-device-type-assertion

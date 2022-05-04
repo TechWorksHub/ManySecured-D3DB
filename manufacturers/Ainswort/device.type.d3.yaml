@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b77307a7-055c-4f7f-b378-50b527df3aa1
-  mac-addresses:
+  id: 8e867295-8c12-4788-bec3-54b1017f99d7
+  macAddresses:
   - 6C:22:AB:00:00:00/24
   manufacturer: Ainsworth Game Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ainswort
 type: d3-device-type-assertion

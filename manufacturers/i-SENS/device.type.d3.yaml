@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da32fd7b-5c06-4257-95e1-e9bf6a0270f9
-  mac-addresses:
+  id: 83e799a1-70ae-437c-a438-38b684830959
+  macAddresses:
   - 14:4F:D7:60:00:00/28
   manufacturer: i-SENS, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: i-SENS
 type: d3-device-type-assertion

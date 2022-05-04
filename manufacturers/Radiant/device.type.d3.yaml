@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b07d69e6-a7ac-4daa-8e32-8d39e02c4330
-  mac-addresses:
+  id: 6f5f6e2d-9292-4fc0-bbe4-3908a95f675e
+  macAddresses:
   - 00:E0:0D:00:00:00/24
   manufacturer: Radiant Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radiant
 type: d3-device-type-assertion

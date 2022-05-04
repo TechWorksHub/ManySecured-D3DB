@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2174f54f-371f-4878-98f2-46747a8216e7
-  mac-addresses:
+  id: 4b46eb65-29a7-4697-9598-0aed94f69f24
+  macAddresses:
   - 34:A1:83:00:00:00/24
   manufacturer: AWare, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AWare
 type: d3-device-type-assertion

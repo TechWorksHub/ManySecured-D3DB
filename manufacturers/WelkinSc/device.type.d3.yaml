@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e3c2045-20ee-45d7-ba0a-319f55d5254f
-  mac-addresses:
+  id: 8cde6819-f355-4bd2-9f2d-b3a6db6d88ae
+  macAddresses:
   - 00:1E:4D:00:00:00/24
   manufacturer: Welkin Sciences, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WelkinSc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98c0ce8e-ccfd-4a9f-a0ab-d07b47f298f5
-  mac-addresses:
+  id: ff6a2897-bef5-4661-b7c4-5129de1fe1ab
+  macAddresses:
   - 18:2B:05:00:00:00/24
   manufacturer: 8D Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 8DTechno
 type: d3-device-type-assertion

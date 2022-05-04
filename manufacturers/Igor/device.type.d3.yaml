@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfb1cd22-3955-4cd3-9b40-1b17c1fac1b0
-  mac-addresses:
+  id: c9cb0b52-596f-4d1c-aede-4d40889308e7
+  macAddresses:
   - 50:0B:91:00:00:00/28
   manufacturer: Igor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Igor
 type: d3-device-type-assertion

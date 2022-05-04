@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bfaab00-a3b4-41cb-9f01-e8e713f1ada6
-  mac-addresses:
+  id: 5d51301c-8683-4e9a-bc50-4dace63a4440
+  macAddresses:
   - FC:E1:86:00:00:00/24
   manufacturer: A3M Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A3M
 type: d3-device-type-assertion

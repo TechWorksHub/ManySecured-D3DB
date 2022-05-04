@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 690477de-028a-4f10-90fb-fa3ba778366d
-  mac-addresses:
+  id: 46676c8d-e030-4d5c-949e-4b044843eb89
+  macAddresses:
   - 00:60:15:00:00:00/24
   manufacturer: Net2Net Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Net2Net
 type: d3-device-type-assertion

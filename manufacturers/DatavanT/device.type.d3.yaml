@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9aac45aa-9bce-461a-b197-5b7267d58f0f
-  mac-addresses:
+  id: 5e788dd2-8012-49dd-9176-3e0ab0c78f5b
+  macAddresses:
   - 00:0B:CA:00:00:00/24
   manufacturer: Datavan Tc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatavanT
 type: d3-device-type-assertion

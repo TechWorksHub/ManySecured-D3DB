@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a294b05f-649d-4892-bfa1-378745083fb4
-  mac-addresses:
+  id: 0fa259a0-1da1-4ee1-b7fd-03be9ed08eb4
+  macAddresses:
   - D0:14:11:70:00:00/28
   manufacturer: Realwave Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Realwave
 type: d3-device-type-assertion

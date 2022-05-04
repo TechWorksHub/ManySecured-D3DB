@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b836e991-4662-43d7-bd12-2c27bab32bf6
-  mac-addresses:
+  id: 6475e47e-78cd-4a5b-b4cd-973b4163112c
+  macAddresses:
   - 00:04:8D:00:00:00/24
   manufacturer: Teo Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeoTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0997c85-dd62-4513-82e7-c8f34c504850
-  mac-addresses:
+  id: c00bd875-780f-4fba-aba3-f42739ac10e5
+  macAddresses:
   - 00:12:CD:00:00:00/24
   manufacturer: ASEM SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ASEM
 type: d3-device-type-assertion

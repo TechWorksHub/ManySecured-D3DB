@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e106944-9ce7-428d-8ea5-4fc852740522
-  mac-addresses:
+  id: abbe875f-cb87-445d-ae36-5b7975b2a363
+  macAddresses:
   - 70:B3:D5:B5:50:00/36
   manufacturer: Ctag - Esg36871424
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ctag-Esg
 type: d3-device-type-assertion

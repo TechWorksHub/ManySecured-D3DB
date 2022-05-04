@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a4bb472-6556-4986-b65f-6287f4bd6a7c
-  mac-addresses:
+  id: e62211bc-9ee1-46cd-abd9-ccef12e6646d
+  macAddresses:
   - 40:D8:55:14:F0:00/36
   manufacturer: TDS Software Solutions Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TDSSoftw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60cebd39-7a84-44e7-a007-be3b522e5541
-  mac-addresses:
+  id: 38608444-3e42-4f1c-abc2-1a14680bbf37
+  macAddresses:
   - A8:5B:36:A0:00:00/28
   manufacturer: Taiden Industrial Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaidenIn
 type: d3-device-type-assertion

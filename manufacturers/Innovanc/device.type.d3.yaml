@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0559d26-9a3a-4404-a225-04a8943e1cbf
-  mac-addresses:
+  id: 52ee4dcf-6ae2-4ebd-9703-992e39fd8265
+  macAddresses:
   - 00:07:2A:00:00:00/24
   manufacturer: Innovance Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innovanc
 type: d3-device-type-assertion

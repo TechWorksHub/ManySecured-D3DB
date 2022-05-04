@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1d3def3-edbf-465f-a456-92716e14ac77
-  mac-addresses:
+  id: bf8c2cc1-206a-4078-8861-d377361fd44c
+  macAddresses:
   - 08:00:51:00:00:00/24
   manufacturer: ExperData
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExperDat
 type: d3-device-type-assertion

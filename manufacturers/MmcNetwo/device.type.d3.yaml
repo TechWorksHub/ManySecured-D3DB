@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77b2d56b-7886-4162-9a09-f111b141f5e9
-  mac-addresses:
+  id: 5f1158b2-74f0-4196-888b-d8e1ae616046
+  macAddresses:
   - 00:60:4D:00:00:00/24
   manufacturer: Mmc Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MmcNetwo
 type: d3-device-type-assertion

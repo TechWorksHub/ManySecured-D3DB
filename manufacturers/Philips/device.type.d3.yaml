@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 03650214-2dfc-41f2-8ce3-8d675ff59d92
-  mac-addresses:
+  id: 96526c4b-6846-4a4a-b7f9-42cffed2f95f
+  macAddresses:
   - 00:05:4E:00:00:00/24
   - E8:C1:D7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Philips
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3cbfc3df-c994-4003-ac33-012bc0ad652d
-  mac-addresses:
+  id: ac539671-a0c0-49cb-a707-27e9bed4ca40
+  macAddresses:
   - 04:71:4B:B0:00:00/28
   manufacturer: Digibest Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digibest
 type: d3-device-type-assertion

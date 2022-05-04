@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cd0e373-87b9-47a3-9f38-12a3993511ee
-  mac-addresses:
+  id: 9e2f2504-7ffe-4f02-876d-301001ba6411
+  macAddresses:
   - 74:A4:B5:00:00:00/24
   manufacturer: Powerleader Science and Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powerlea
 type: d3-device-type-assertion

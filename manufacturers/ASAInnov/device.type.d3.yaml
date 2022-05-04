@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80f801c2-0ef2-4a0f-aca8-847b342cfc8e
-  mac-addresses:
+  id: 05bd2ff4-2f83-4aff-93da-226a31c1e159
+  macAddresses:
   - 34:E1:D1:40:00:00/28
   manufacturer: ASA Innovation & Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ASAInnov
 type: d3-device-type-assertion

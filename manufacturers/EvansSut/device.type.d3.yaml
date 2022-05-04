@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1024c34e-048a-481c-a148-bb08b120a7b6
-  mac-addresses:
+  id: 297ee16a-3f3e-4140-a113-8a48fd10354d
+  macAddresses:
   - 08:00:57:00:00:00/24
   manufacturer: Evans & Sutherland
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EvansSut
 type: d3-device-type-assertion

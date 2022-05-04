@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d186854b-a52a-4a5c-9db8-ceddadb366b4
-  mac-addresses:
+  id: 53ba70a3-9e42-4ea5-805d-5c543747e083
+  macAddresses:
   - 7C:73:8B:00:00:00/24
   manufacturer: Cocoon Alarm Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CocoonAl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81734aea-2835-4fde-a50d-7718c0a7a287
-  mac-addresses:
+  id: a3ad4718-b5d1-469c-b2c4-565413e30df1
+  macAddresses:
   - 34:A7:09:00:00:00/24
   manufacturer: Trevil srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trevil
 type: d3-device-type-assertion

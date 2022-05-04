@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 62d488e8-b39c-4da3-b406-12c2ffa7cdce
-  mac-addresses:
+  id: 15fa7bd1-4b42-496a-956b-57f6b9b42f05
+  macAddresses:
   - 00:00:0C:00:00:00/24
   - 00:01:42:00:00:00/24
   - 00:01:64:00:00:00/24
@@ -1010,6 +1010,6 @@ credentialSubject:
   - FC:99:47:00:00:00/24
   - FC:FB:FB:00:00:00/24
   manufacturer: Cisco Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cisco
 type: d3-device-type-assertion

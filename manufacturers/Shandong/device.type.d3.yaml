@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 406c91e9-428b-47f8-b74c-f9121d603100
-  mac-addresses:
+  id: 0d8f5326-25f9-49f2-885a-b0784123684a
+  macAddresses:
   - 00:13:41:00:00:00/24
   - 1C:82:59:00:00:00/28
   - 24:15:10:60:00:00/28
@@ -17,6 +17,6 @@ credentialSubject:
   - E8:11:CA:00:00:00/24
   - F0:07:86:00:00:00/24
   manufacturer: Shandong New Beiyang Information Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shandong
 type: d3-device-type-assertion

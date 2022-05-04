@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c78743b9-b1b2-49d7-b41f-bbb7102beab2
-  mac-addresses:
+  id: a2232e69-b30e-473c-922d-1b32b9f09e1e
+  macAddresses:
   - 00:02:C7:00:00:00/24
   - 00:06:F5:00:00:00/24
   - 00:06:F7:00:00:00/24
@@ -36,6 +36,6 @@ credentialSubject:
   - E0:AE:5E:00:00:00/24
   - FC:62:B9:00:00:00/24
   manufacturer: Alpsalpine Co,.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alpsalpi
 type: d3-device-type-assertion

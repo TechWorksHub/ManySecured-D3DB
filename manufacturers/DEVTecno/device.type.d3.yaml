@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9db9a13-07a6-4fa6-8f11-a071880f74e5
-  mac-addresses:
+  id: 31e74ec3-6cdb-412c-b6fc-5cd5d977e7af
+  macAddresses:
   - D8:44:5C:00:00:00/24
   manufacturer: DEV Tecnologia Ind Com Man Eq LTDA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEVTecno
 type: d3-device-type-assertion

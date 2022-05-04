@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5057d911-4ba7-4ea4-a8d5-687cf4826d08
-  mac-addresses:
+  id: 61fbced7-b5b1-4399-a598-fa1602562977
+  macAddresses:
   - F8:DC:7A:00:00:00/24
   manufacturer: Variscite LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Variscit
 type: d3-device-type-assertion

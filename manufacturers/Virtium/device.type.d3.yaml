@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27adfc32-72c8-40a8-82a8-a2da5befda8f
-  mac-addresses:
+  id: 23ab1ba5-4164-4098-a58b-4d82242fa7f7
+  macAddresses:
   - 20:0A:0D:40:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Virtium
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96abb52e-ba08-4648-b88a-dfdde364ea04
-  mac-addresses:
+  id: 411178b0-f343-4def-b99b-da6c37b9facf
+  macAddresses:
   - 00:50:64:00:00:00/24
   manufacturer: Cae Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CaeElect
 type: d3-device-type-assertion

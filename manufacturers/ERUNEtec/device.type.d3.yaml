@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48a274f7-f8ae-4183-894d-23ec3df630b0
-  mac-addresses:
+  id: 79af7f3a-48fb-46ca-9b40-2edba0e5c34b
+  macAddresses:
   - 00:12:3E:00:00:00/24
   manufacturer: ERUNE technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ERUNEtec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9aae5cf-3a5c-4fd2-8657-38133a0370be
-  mac-addresses:
+  id: c3aef6c0-2a86-4b87-a9d0-bce77c9c37ba
+  macAddresses:
   - A4:F3:C1:00:00:00/24
   manufacturer: Open Source Robotics Foundation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenSour
 type: d3-device-type-assertion

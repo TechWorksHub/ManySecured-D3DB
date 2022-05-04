@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7fe24c38-583a-4845-8efb-163198683c46
-  mac-addresses:
+  id: 3818ae0b-a8ac-49fb-b193-611f8143451b
+  macAddresses:
   - 00:0A:EB:00:00:00/24
   - 00:14:78:00:00:00/24
   - 00:19:E0:00:00:00/24
@@ -156,6 +156,6 @@ credentialSubject:
   - F8:D1:11:00:00:00/24
   - FC:D7:33:00:00:00/24
   manufacturer: Tp-Link Technologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tp-LinkT
 type: d3-device-type-assertion

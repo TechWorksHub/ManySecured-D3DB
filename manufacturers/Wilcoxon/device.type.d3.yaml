@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa1119fb-c668-4ae3-9471-d6c2686c8843
-  mac-addresses:
+  id: e14df828-a745-4f4e-93ba-d2bbb2fecfcc
+  macAddresses:
   - 00:50:C2:19:B0:00/36
   manufacturer: Wilcoxon Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wilcoxon
 type: d3-device-type-assertion

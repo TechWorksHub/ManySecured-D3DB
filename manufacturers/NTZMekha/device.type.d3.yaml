@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f53d19f0-1d77-4c8d-bb1e-2b43ec1e2f8c
-  mac-addresses:
+  id: 936814fd-7a27-44d9-a0c3-62306aa30cd7
+  macAddresses:
   - 70:B3:D5:6C:00:00/36
   manufacturer: LLC "NTZ "Mekhanotronika"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NTZMekha
 type: d3-device-type-assertion

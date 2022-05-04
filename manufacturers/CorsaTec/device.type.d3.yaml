@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34d38614-cf86-4b4f-8437-5a0a0200b345
-  mac-addresses:
+  id: ba303f56-e3ef-424c-95f5-582b0d6c1458
+  macAddresses:
   - 28:29:CC:00:00:00/24
   manufacturer: Corsa Technology Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CorsaTec
 type: d3-device-type-assertion

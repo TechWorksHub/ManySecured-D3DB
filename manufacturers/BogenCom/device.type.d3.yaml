@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6df0b8cb-4636-4a11-a453-e144e16708c9
-  mac-addresses:
+  id: f65ed1ee-aaff-463d-8c73-c80a318525d6
+  macAddresses:
   - 00:18:4C:00:00:00/24
   manufacturer: Bogen Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BogenCom
 type: d3-device-type-assertion

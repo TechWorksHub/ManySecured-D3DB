@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 311065a4-e16c-43ad-8c9d-8912c6fa253e
-  mac-addresses:
+  id: 2d8a5128-a74c-47f4-a26c-06009ab2afaa
+  macAddresses:
   - C4:A1:0E:D0:00:00/28
   manufacturer: Connectlab SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Connectl
 type: d3-device-type-assertion

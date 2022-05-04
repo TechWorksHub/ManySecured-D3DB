@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc763ace-ee5b-4762-96f5-114e04f86768
-  mac-addresses:
+  id: 00533d43-83b3-43db-b79a-3a592c5d405b
+  macAddresses:
   - 00:50:C2:50:00:00/36
   manufacturer: Orenco Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Orenco
 type: d3-device-type-assertion

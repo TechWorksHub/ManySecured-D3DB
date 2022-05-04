@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 541fffb4-1521-467d-b1a6-bd87ebb79f8d
-  mac-addresses:
+  id: 1a309151-bc0f-4504-b25f-79811a5b1e1a
+  macAddresses:
   - 80:7B:85:D0:00:00/28
   manufacturer: Kaynes Technology India Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KaynesTe
 type: d3-device-type-assertion

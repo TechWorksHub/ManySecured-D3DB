@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7f6b9a7-c49e-4116-9bb8-33ae18fcd172
-  mac-addresses:
+  id: 7f35a533-2515-480d-af0c-e5e8d1c138d2
+  macAddresses:
   - 68:53:6C:00:00:00/24
   manufacturer: SPnS Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPnS
 type: d3-device-type-assertion

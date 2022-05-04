@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcbe8b84-7b3f-4e68-b04c-28055b5e5cd8
-  mac-addresses:
+  id: 6019e43f-2317-40d9-84a0-e60368667b3a
+  macAddresses:
   - EC:B1:06:00:00:00/24
   manufacturer: Acuro Networks, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcuroNet
 type: d3-device-type-assertion

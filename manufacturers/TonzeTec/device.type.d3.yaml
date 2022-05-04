@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbe955b0-a3f0-402d-a4ab-5d35f185bde8
-  mac-addresses:
+  id: 593fdb47-55fb-4bed-b4ca-09f26752bf43
+  macAddresses:
   - 00:17:B7:00:00:00/24
   manufacturer: Tonze Technology Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TonzeTec
 type: d3-device-type-assertion

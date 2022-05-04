@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 22e92a9c-1f40-46b1-a30d-f9db39652e46
-  mac-addresses:
+  id: a0f1eec9-f7f3-4d51-967e-292be89742e6
+  macAddresses:
   - 70:B3:D5:2A:E0:00/36
   - 70:B3:D5:70:B0:00/36
   - 70:B3:D5:91:C0:00/36
   - 70:B3:D5:A4:C0:00/36
   - 70:B3:D5:F5:20:00/36
   manufacturer: Alere Technologies AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlereTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 651c770f-a17c-486b-bb77-5bf50865ffb0
-  mac-addresses:
+  id: f31f7dc5-c5c1-4597-bf69-301633278aa6
+  macAddresses:
   - 00:1F:17:00:00:00/24
   manufacturer: IDX Company, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDX
 type: d3-device-type-assertion

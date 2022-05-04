@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49d56d0c-bd46-4479-a5e7-5198594d40f8
-  mac-addresses:
+  id: af3ef139-0572-43b4-b5ce-212ca433dacd
+  macAddresses:
   - 34:E1:D1:10:00:00/28
   manufacturer: SAMA NextGen PTE Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAMANext
 type: d3-device-type-assertion

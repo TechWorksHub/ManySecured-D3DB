@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de3ec611-2cd7-4651-995f-0b474e1c3e3e
-  mac-addresses:
+  id: 11987b6b-9fca-4993-b925-d9e290dcfbf7
+  macAddresses:
   - 1C:FD:08:B0:00:00/28
   manufacturer: guangzhou huiqun intelligent technology co. LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: guangzho
 type: d3-device-type-assertion

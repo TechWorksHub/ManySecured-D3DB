@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ea7ee5f-b92f-47fc-9c7a-8e5d844446e2
-  mac-addresses:
+  id: 2f3485f9-b0a3-48d7-8a0b-21d7e293f139
+  macAddresses:
   - 00:07:A6:00:00:00/24
   manufacturer: Leviton Manufacturing Co., Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LevitonM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6da6e4e3-0345-4234-906a-416a117e830b
-  mac-addresses:
+  id: e8359cea-67ee-4a97-9e1d-572b989dfc4c
+  macAddresses:
   - 34:6F:ED:00:00:00/24
   manufacturer: Enovation Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enovatio
 type: d3-device-type-assertion

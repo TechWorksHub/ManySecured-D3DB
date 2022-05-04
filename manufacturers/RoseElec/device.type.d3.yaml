@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3bab1ad3-f84f-442b-9329-fb5521137fee
-  mac-addresses:
+  id: 84110429-3e87-4d21-9a6c-44ccd9d6d3f5
+  macAddresses:
   - 00:40:A4:00:00:00/24
   manufacturer: Rose Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoseElec
 type: d3-device-type-assertion

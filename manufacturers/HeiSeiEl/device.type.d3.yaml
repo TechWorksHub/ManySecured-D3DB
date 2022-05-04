@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee1de2d6-b04a-4acd-b1c7-9d27f2b9bbe3
-  mac-addresses:
+  id: bbe5cafb-b9f1-4402-9bdb-cb433fedc53a
+  macAddresses:
   - 00:01:99:00:00:00/24
   manufacturer: HeiSei Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeiSeiEl
 type: d3-device-type-assertion

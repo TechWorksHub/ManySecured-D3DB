@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd88b2e8-3de6-4657-b6a4-55b0f47292f2
-  mac-addresses:
+  id: c5978b01-e9e2-40e1-b680-0d3611aa2a7d
+  macAddresses:
   - 00:0A:88:00:00:00/24
   manufacturer: InCypher S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InCypher
 type: d3-device-type-assertion

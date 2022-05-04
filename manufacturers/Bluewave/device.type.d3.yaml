@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d177759a-f75d-434b-916d-dd0f2557e07a
-  mac-addresses:
+  id: 2e2e61f7-dd87-40fb-900b-9dc568c30dd6
+  macAddresses:
   - AC:64:DD:A0:00:00/28
   manufacturer: Bluewave Global Manufacturing Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bluewave
 type: d3-device-type-assertion

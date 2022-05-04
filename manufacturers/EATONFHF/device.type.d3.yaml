@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 6c26843a-c1e1-4bfa-90e2-1a91288a439f
-  mac-addresses:
+  id: 9a827f98-9ddb-429e-bd93-32288b47d565
+  macAddresses:
   - 00:50:C2:6A:50:00/36
   - 00:50:C2:FB:D0:00/36
   - 2C:6A:6F:E0:00:00/28
   manufacturer: EATON FHF Funke + Huster Fernsig GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EATONFHF
 type: d3-device-type-assertion

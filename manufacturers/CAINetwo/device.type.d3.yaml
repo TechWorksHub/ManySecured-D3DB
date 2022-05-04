@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd62a9eb-8b03-4043-a349-ef012a7db3b1
-  mac-addresses:
+  id: 39bb5e22-d7d2-49a4-8547-d9133ce1c1e5
+  macAddresses:
   - 00:22:12:00:00:00/24
   manufacturer: CAI Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CAINetwo
 type: d3-device-type-assertion

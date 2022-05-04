@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f0397b1-cf33-49eb-99ba-b83c29f1f14a
-  mac-addresses:
+  id: c83d703c-bf3b-424f-9be9-848b5f4a5b8d
+  macAddresses:
   - 00:50:C2:24:E0:00/36
   manufacturer: Scharff Weisberg Systems Integration Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScharffW
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b38e1b-e3f3-4390-8018-c3b6a1592574
-  mac-addresses:
+  id: c16dd2d9-b03e-45e3-97c6-150a60d1253a
+  macAddresses:
   - 00:50:C2:2F:80:00/36
   manufacturer: SavvyCorp.com Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SavvyCor
 type: d3-device-type-assertion

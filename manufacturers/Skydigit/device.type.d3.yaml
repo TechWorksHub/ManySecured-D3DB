@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b122647-5a31-4a0d-96b1-4287c017c6eb
-  mac-addresses:
+  id: b7cc4188-02ed-403f-ba7e-66151431ff84
+  macAddresses:
   - 00:1F:87:00:00:00/24
   manufacturer: Skydigital Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skydigit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b13470ba-febf-4bdb-9e9d-afe5b6e96f3c
-  mac-addresses:
+  id: 2b0336cb-a014-4279-b69a-0b46ffd2f12e
+  macAddresses:
   - 00:C0:C3:00:00:00/24
   manufacturer: Acuson Computed Sonography
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcusonCo
 type: d3-device-type-assertion

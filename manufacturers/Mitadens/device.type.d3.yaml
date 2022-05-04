@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 512b497d-8118-427a-958a-1296d718d9d9
-  mac-addresses:
+  id: 02d30c8e-fe17-4d15-8ec5-d8b631e430e4
+  macAddresses:
   - 00:08:D9:00:00:00/24
   manufacturer: Mitadenshi Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mitadens
 type: d3-device-type-assertion

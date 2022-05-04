@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 46d44328-5e26-41ce-bd2a-e0913f15adb0
-  mac-addresses:
+  id: f7607c0c-95fe-4eca-875e-6bba7c48d3d8
+  macAddresses:
   - 00:50:C2:9F:00:00/36
   - 70:88:6B:00:00:00/28
   manufacturer: Veracity UK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Veracity
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31e190f0-9b10-443c-87ae-c083bef20185
-  mac-addresses:
+  id: 886eb4bd-b701-4557-85e8-ac6ae93b598d
+  macAddresses:
   - 48:44:53:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hds???
 type: d3-device-type-assertion

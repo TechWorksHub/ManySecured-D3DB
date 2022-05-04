@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1fa5050-1221-4f6a-959f-6bb2d5a7c865
-  mac-addresses:
+  id: 72144dba-aa6a-415d-9d81-16bc7edd2d32
+  macAddresses:
   - 00:06:BE:00:00:00/24
   manufacturer: Baumer Optronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaumerOp
 type: d3-device-type-assertion

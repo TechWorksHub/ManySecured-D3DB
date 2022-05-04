@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02e8b200-a70a-417d-b031-ecaf11a85b36
-  mac-addresses:
+  id: 55a2fb2e-2b1e-4cf6-8f92-d725cc44cbe4
+  macAddresses:
   - E8:66:C4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Diamanti
 type: d3-device-type-assertion

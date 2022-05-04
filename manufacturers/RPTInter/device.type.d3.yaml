@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25a55fe7-e5c9-42cb-bb81-095d554fe1b8
-  mac-addresses:
+  id: c137b749-2b8a-4b0f-81dd-1f91e5ab56bf
+  macAddresses:
   - 00:40:95:00:00:00/24
   manufacturer: R.P.T. Intergroups Int'L Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RPTInter
 type: d3-device-type-assertion

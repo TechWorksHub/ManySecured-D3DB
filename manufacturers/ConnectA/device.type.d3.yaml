@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd6a65f1-6be9-4cb4-8f38-20357ed0e5a0
-  mac-addresses:
+  id: ff6b9441-f3e8-4598-9b84-db7593946112
+  macAddresses:
   - 00:00:24:00:00:00/24
   manufacturer: Connect As
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConnectA
 type: d3-device-type-assertion

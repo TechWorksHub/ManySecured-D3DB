@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b1727f1-8645-4f92-99d0-ebec30bd5734
-  mac-addresses:
+  id: 2491e292-5725-47d7-9418-9f6579d0dbb8
+  macAddresses:
   - D4:F3:37:00:00:00/24
   manufacturer: Xunison Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xunison
 type: d3-device-type-assertion

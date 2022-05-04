@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c4dc086-f2a9-473c-aba4-4f05fc30c85a
-  mac-addresses:
+  id: 2ce11369-8403-4209-a774-348667680a3a
+  macAddresses:
   - 2C:D1:41:E0:00:00/28
   manufacturer: Cita Smart Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CitaSmar
 type: d3-device-type-assertion

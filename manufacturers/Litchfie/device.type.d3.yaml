@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d1d22d2-8b1d-4f6b-b87c-d770135adc7c
-  mac-addresses:
+  id: 6b270b6b-801b-4441-86f6-33ab1a28bb6c
+  macAddresses:
   - 00:0B:71:00:00:00/24
   manufacturer: Litchfield Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Litchfie
 type: d3-device-type-assertion

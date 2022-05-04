@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 0b3470cd-dfb4-4169-b8fa-92e51cf783b4
-  mac-addresses:
+  id: c0fadb5b-75d9-4a72-b270-68443ca78b1f
+  macAddresses:
   - 00:17:B5:00:00:00/24
   - AC:A4:30:00:00:00/24
   - FC:4B:57:00:00:00/24
   manufacturer: Peerless Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Peerless
 type: d3-device-type-assertion

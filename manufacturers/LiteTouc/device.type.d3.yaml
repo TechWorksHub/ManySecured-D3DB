@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5dfa0db6-6d47-4c45-bad0-7121ce4dd064
-  mac-addresses:
+  id: ab6631b6-805d-42e5-8b0a-606f4e98300c
+  macAddresses:
   - 00:13:1C:00:00:00/24
   manufacturer: LiteTouch, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LiteTouc
 type: d3-device-type-assertion

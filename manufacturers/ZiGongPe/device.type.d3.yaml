@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe749095-cbf5-442b-ad65-c97db26d6fdc
-  mac-addresses:
+  id: a0f5620d-13fd-4f56-9e18-28edaeffc2cf
+  macAddresses:
   - F0:2A:2B:90:00:00/28
   manufacturer: ZiGong Pengcheng Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZiGongPe
 type: d3-device-type-assertion

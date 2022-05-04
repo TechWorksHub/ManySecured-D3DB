@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43e1fad8-4bd1-470a-b2a1-5f351a653cab
-  mac-addresses:
+  id: 45308db6-3e53-475e-a910-26bd002c6af4
+  macAddresses:
   - D0:76:50:30:00:00/28
   manufacturer: TAPKO Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TAPKOTec
 type: d3-device-type-assertion

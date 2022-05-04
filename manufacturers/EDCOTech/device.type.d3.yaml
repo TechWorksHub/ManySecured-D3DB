@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c831cda1-7033-43e2-b30a-d493cf7a0916
-  mac-addresses:
+  id: 1229d7d4-bce4-4852-a8bb-77bcba2afa20
+  macAddresses:
   - 70:B3:D5:B9:C0:00/36
   manufacturer: EDCO Technology 1993 ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDCOTech
 type: d3-device-type-assertion

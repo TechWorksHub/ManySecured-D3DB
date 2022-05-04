@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f36e806f-8ef5-4818-9c5c-a5632a896a3f
-  mac-addresses:
+  id: 7fd86bcf-c2a4-4dc4-8b52-de1c52b0f812
+  macAddresses:
   - 00:07:69:00:00:00/24
   - 70:B3:D5:45:20:00/36
   manufacturer: Italiana Macchi SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Italiana
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a1c4a56-a3cb-4b34-acf0-40fcc03a93cc
-  mac-addresses:
+  id: ea61cb7f-edfc-4240-bee7-6bd5ae5a6927
+  macAddresses:
   - 00:E0:54:00:00:00/24
   manufacturer: Kodai Hitec Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KodaiHit
 type: d3-device-type-assertion

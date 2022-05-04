@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6332d2df-1f0b-4e20-8f64-f72df97d4e5a
-  mac-addresses:
+  id: 4f4b8071-3f11-4a44-8be7-e114bb47b3a1
+  macAddresses:
   - E0:1C:EE:00:00:00/24
   manufacturer: Bravo Tech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BravoTec
 type: d3-device-type-assertion

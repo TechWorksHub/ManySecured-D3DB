@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2a46d75-3a44-452a-951b-b0b787be15e3
-  mac-addresses:
+  id: 07aa0e12-f853-436f-84a9-c009bc737658
+  macAddresses:
   - F4:47:13:00:00:00/24
   manufacturer: Leading Public Performance Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeadingP
 type: d3-device-type-assertion

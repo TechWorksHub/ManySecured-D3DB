@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5144eca4-ca2c-46c9-ace6-8d8294cb8be8
-  mac-addresses:
+  id: ce065018-f2a8-4c1b-9205-a55f1ff3ede7
+  macAddresses:
   - 28:F4:9B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leetek
 type: d3-device-type-assertion

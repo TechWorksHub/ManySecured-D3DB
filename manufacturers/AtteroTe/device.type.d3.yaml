@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bda6d8b-1cb9-4b49-90fd-db36f95368a9
-  mac-addresses:
+  id: bcf38ead-5a9b-4c87-b038-5d3ff5805543
+  macAddresses:
   - 00:1C:E2:00:00:00/24
   manufacturer: Attero Tech, LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtteroTe
 type: d3-device-type-assertion

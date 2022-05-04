@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57b821b8-51a5-4b84-9b0d-21fb56502b5f
-  mac-addresses:
+  id: 12742d8e-6209-466e-bc17-4b0dd07c5216
+  macAddresses:
   - 00:13:DB:00:00:00/24
   manufacturer: SHOEI Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHOEIEle
 type: d3-device-type-assertion

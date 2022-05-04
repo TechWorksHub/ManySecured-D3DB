@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb0bcdfa-7026-4a4f-87cc-43333ac58689
-  mac-addresses:
+  id: 2c23e1e2-7848-4d56-b516-d14eada2532f
+  macAddresses:
   - 00:30:B9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ectel
 type: d3-device-type-assertion

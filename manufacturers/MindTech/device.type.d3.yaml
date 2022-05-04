@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e8eec40-9c5e-4052-b9d7-58dfd624eae0
-  mac-addresses:
+  id: df6848de-578b-42f7-9703-c9cd66ad9d0f
+  macAddresses:
   - E8:EF:05:00:00:00/24
   manufacturer: Mind Tech International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MindTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9dd217d-6632-4081-9bc0-0dd3a37d4994
-  mac-addresses:
+  id: 7d1a2365-86a2-4c17-86cc-f357de7be99f
+  macAddresses:
   - 00:27:03:00:00:00/24
   manufacturer: Testech Electronics Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TestechE
 type: d3-device-type-assertion

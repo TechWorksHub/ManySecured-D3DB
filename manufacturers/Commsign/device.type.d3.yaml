@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 84d334e3-cf22-4b23-948f-6f8609c26803
-  mac-addresses:
+  id: b5f57053-6444-4cee-946c-51429ad947e2
+  macAddresses:
   - 4C:93:A6:30:00:00/28
   - 70:B3:D5:C5:A0:00/36
   manufacturer: Commsignia, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Commsign
 type: d3-device-type-assertion

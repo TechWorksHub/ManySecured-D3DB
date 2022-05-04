@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 80a04e5a-dc17-4bd4-ad1b-40a2c41b5193
-  mac-addresses:
+  id: 54c4f422-bc18-4f63-b504-90421f9221d5
+  macAddresses:
   - 00:50:C2:87:40:00/36
   - 00:50:C2:CD:50:00/36
   - 00:50:C2:E5:40:00/36
   - 00:50:C2:F2:F0:00/36
   manufacturer: Arcos Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArcosTec
 type: d3-device-type-assertion

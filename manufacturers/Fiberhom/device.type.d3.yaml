@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 4506625d-0484-4916-93c9-439026fd1430
-  mac-addresses:
+  id: a9c732d6-55d9-42c3-87bb-7d6da4c2bc1e
+  macAddresses:
   - 00:2F:D9:00:00:00/24
   - 00:67:62:00:00:00/24
   - 00:BE:9E:00:00:00/24
@@ -148,6 +148,6 @@ credentialSubject:
   - FC:A6:CD:00:00:00/24
   - FC:F6:47:00:00:00/24
   manufacturer: Fiberhome Telecommunication Technologies Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fiberhom
 type: d3-device-type-assertion

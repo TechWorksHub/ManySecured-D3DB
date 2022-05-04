@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc131889-2a3e-41fb-b2f8-7992f800dedf
-  mac-addresses:
+  id: 091ad71a-93b4-4ad4-b80e-38b630c6cda7
+  macAddresses:
   - 00:50:C2:52:60:00/36
   manufacturer: AC SYSTEMS, s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACsro
 type: d3-device-type-assertion

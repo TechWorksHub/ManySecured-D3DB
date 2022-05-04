@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 007f4895-2f3a-4511-a7bf-964ce3447f79
-  mac-addresses:
+  id: 232583a9-5148-4de7-a492-223ebd9f662d
+  macAddresses:
   - 00:50:C2:9E:40:00/36
   manufacturer: Pyxis Controls WLL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PyxisCon
 type: d3-device-type-assertion

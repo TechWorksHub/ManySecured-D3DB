@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abddb366-8bf0-4d58-9c0a-f8101860f37f
-  mac-addresses:
+  id: eaab0df4-985f-4295-ad50-91ca111939e4
+  macAddresses:
   - DC:1D:9F:00:00:00/24
   manufacturer: U & B tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UBtech
 type: d3-device-type-assertion

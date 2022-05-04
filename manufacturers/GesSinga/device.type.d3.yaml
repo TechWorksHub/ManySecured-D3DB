@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 816dc686-ae7a-460a-b18b-3bd4d0ccc79f
-  mac-addresses:
+  id: 6640d300-1493-4ecf-b942-26882848f057
+  macAddresses:
   - 00:A0:32:00:00:00/24
   manufacturer: Ges Singapore Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GesSinga
 type: d3-device-type-assertion

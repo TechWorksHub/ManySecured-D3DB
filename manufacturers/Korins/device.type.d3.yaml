@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7abaac63-476e-4099-9e83-0ff5df70fc1b
-  mac-addresses:
+  id: d38d5029-2f24-4189-b9a6-7e0de63c8858
+  macAddresses:
   - 10:12:18:00:00:00/24
   manufacturer: Korins Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Korins
 type: d3-device-type-assertion

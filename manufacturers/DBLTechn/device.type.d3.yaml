@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c8b0bab-2bf9-46cf-ac1e-093780e55ec7
-  mac-addresses:
+  id: 81c58ef9-0107-44ae-9218-dac9f597862c
+  macAddresses:
   - 38:3F:10:00:00:00/24
   manufacturer: DBL Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DBLTechn
 type: d3-device-type-assertion

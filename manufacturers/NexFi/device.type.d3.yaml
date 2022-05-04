@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3463788-708f-4837-8c12-d8549d399100
-  mac-addresses:
+  id: 0992a9e1-6f26-4609-8bac-6363fab2126d
+  macAddresses:
   - 94:D6:DB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NexFi
 type: d3-device-type-assertion

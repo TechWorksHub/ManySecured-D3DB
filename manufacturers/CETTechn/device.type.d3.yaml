@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f14ee20a-8fec-4d3b-aa73-5960ebfe6092
-  mac-addresses:
+  id: 5d94b039-18fa-4368-829a-bf5e8dbb77da
+  macAddresses:
   - 00:11:01:00:00:00/24
   manufacturer: CET Technologies Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CETTechn
 type: d3-device-type-assertion

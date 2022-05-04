@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80692f09-0fd7-45f3-8522-50c905149405
-  mac-addresses:
+  id: 48a07080-b311-4ff5-86c2-d30dc0e72a3e
+  macAddresses:
   - 00:19:3C:00:00:00/24
   manufacturer: HighPoint Technologies Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HighPoin
 type: d3-device-type-assertion

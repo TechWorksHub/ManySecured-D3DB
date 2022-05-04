@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 785f6b3d-5725-44fa-abcf-eff4c677feb0
-  mac-addresses:
+  id: 3a1b7b71-4be9-4499-a054-bdb3913887e3
+  macAddresses:
   - 00:50:C2:16:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ipcast
 type: d3-device-type-assertion

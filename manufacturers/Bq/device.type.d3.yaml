@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7ab8c6ff-3909-43e0-8b81-70a340db35d0
-  mac-addresses:
+  id: 7caefa51-9a5a-4bcf-a8fb-f7e7e535b684
+  macAddresses:
   - 4C:74:03:00:00:00/24
   - B4:9D:0B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bq
 type: d3-device-type-assertion

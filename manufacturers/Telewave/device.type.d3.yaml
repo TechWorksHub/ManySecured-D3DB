@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9fb7848-90bb-44cd-9a48-af42cd716685
-  mac-addresses:
+  id: 3248c31a-8466-467a-b579-fc36bc347d4b
+  macAddresses:
   - A4:EF:52:00:00:00/24
   manufacturer: Telewave Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telewave
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de9dc595-fc44-4f83-a03b-194b91e16bd5
-  mac-addresses:
+  id: 952007ce-c26f-4b18-b66f-086b57370a3a
+  macAddresses:
   - 00:60:7B:00:00:00/24
   manufacturer: Fore Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fore
 type: d3-device-type-assertion

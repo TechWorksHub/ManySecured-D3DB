@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc7158fb-edc6-4fc7-a4b6-e976fe7406e4
-  mac-addresses:
+  id: 82611337-e7e7-4d2b-85df-05aa44563191
+  macAddresses:
   - 70:F8:E7:D0:00:00/28
   manufacturer: System-on-Chip engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: System-o
 type: d3-device-type-assertion

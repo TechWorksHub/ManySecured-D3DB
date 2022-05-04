@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e88f2b9-488d-441f-8637-b38d9590017b
-  mac-addresses:
+  id: 344b8a5d-59b9-4a3a-bf7d-6323be3cd368
+  macAddresses:
   - 00:0E:89:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Clematic
 type: d3-device-type-assertion

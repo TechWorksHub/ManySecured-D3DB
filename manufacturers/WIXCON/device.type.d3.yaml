@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f3990e2-a020-42ce-afcf-39b722509a3f
-  mac-addresses:
+  id: 1e5a5676-962d-4b2d-b5a9-4edfceb4b2d2
+  macAddresses:
   - 70:B3:D5:2B:10:00/36
   manufacturer: WIXCON Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WIXCON
 type: d3-device-type-assertion

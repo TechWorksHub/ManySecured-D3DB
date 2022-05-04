@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f007fe3-e73e-4605-8eba-d36f96304110
-  mac-addresses:
+  id: 0603b594-4e45-431c-902c-a17d51f97009
+  macAddresses:
   - 00:00:15:00:00:00/24
   manufacturer: Datapoint Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datapoin
 type: d3-device-type-assertion

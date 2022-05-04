@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1bfdfd26-1a8e-4cef-8aa3-2c7d1d10dd16
-  mac-addresses:
+  id: 1b22dfb3-b9a7-47c0-bdc1-7fe543b0c06e
+  macAddresses:
   - 00:1C:1E:00:00:00/24
   manufacturer: emtrion GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: emtrion
 type: d3-device-type-assertion

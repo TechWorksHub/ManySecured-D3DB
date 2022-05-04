@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8daa5d46-98ec-4101-965f-0c4b15171aca
-  mac-addresses:
+  id: eaa9eb57-fced-4b0d-a33a-686eb35b103a
+  macAddresses:
   - 24:79:F8:00:00:00/24
   manufacturer: KUPSON spol. s r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KUPSONsp
 type: d3-device-type-assertion

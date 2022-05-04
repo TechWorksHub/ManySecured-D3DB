@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da5fe6f5-ce63-4b03-93f5-3f192e0ad5a4
-  mac-addresses:
+  id: 5a938411-29c8-4067-b76e-2ad09447d14f
+  macAddresses:
   - 70:1A:ED:00:00:00/24
   manufacturer: Advas Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a81f30b6-2c59-4b42-93dd-43be3897a056
-  mac-addresses:
+  id: 498ee4f7-2f09-4a42-b1fb-1efaf0c1b0d6
+  macAddresses:
   - 00:50:2F:00:00:00/24
   manufacturer: TollBridge Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TollBrid
 type: d3-device-type-assertion

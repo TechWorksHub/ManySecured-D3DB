@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1dd3094-8049-486d-9a25-fd5ff806e4b7
-  mac-addresses:
+  id: 72ee0877-46b6-42a3-bf4b-a249178863ba
+  macAddresses:
   - 74:2B:0F:00:00:00/24
   manufacturer: Infinidat Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infinida
 type: d3-device-type-assertion

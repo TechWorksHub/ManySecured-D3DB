@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d47b5290-0d63-470f-88b2-344199c9bf80
-  mac-addresses:
+  id: dc2b54a6-0a84-4799-8a40-075eeb44278f
+  macAddresses:
   - 00:03:69:00:00:00/24
   manufacturer: Nippon Antenna Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NipponAn
 type: d3-device-type-assertion

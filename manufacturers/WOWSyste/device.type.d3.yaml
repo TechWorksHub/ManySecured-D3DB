@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c4b26185-1753-47b8-a9ad-1f0e757292e0
-  mac-addresses:
+  id: 1f8a37cd-61b0-4ffd-aad8-a1f6f98bed81
+  macAddresses:
   - 40:D8:55:13:90:00/36
   - 70:B3:D5:6A:60:00/36
   manufacturer: WOW System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WOWSyste
 type: d3-device-type-assertion

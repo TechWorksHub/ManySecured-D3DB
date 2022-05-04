@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7b984602-ec55-41bb-8f4c-fd8813010744
-  mac-addresses:
+  id: f3702d70-0923-4705-a1c0-eb9dd86833cf
+  macAddresses:
   - 00:0A:47:00:00:00/24
   - 00:0F:31:00:00:00/24
   manufacturer: Allied Vision Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlliedVi
 type: d3-device-type-assertion

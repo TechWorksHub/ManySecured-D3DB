@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ed870da8-e634-477d-8d1c-3c8b99ee1a7d
-  mac-addresses:
+  id: e16cc5eb-4b7f-43c0-849c-8cbf71525140
+  macAddresses:
   - 00:3D:E1:00:00:00/24
   - 00:66:19:00:00:00/24
   - 00:68:2B:00:00:00/24
@@ -402,6 +402,6 @@ credentialSubject:
   - FC:86:2A:00:00:00/24
   - FC:F7:7B:00:00:00/24
   manufacturer: Huawei Device Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuaweiDe
 type: d3-device-type-assertion

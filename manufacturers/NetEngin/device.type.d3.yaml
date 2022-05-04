@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 672ac807-602f-4aff-84f4-c11f9aa76b2d
-  mac-addresses:
+  id: b78d5476-2a02-4698-9f67-9753507b0494
+  macAddresses:
   - 00:07:8D:00:00:00/24
   manufacturer: NetEngines Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetEngin
 type: d3-device-type-assertion

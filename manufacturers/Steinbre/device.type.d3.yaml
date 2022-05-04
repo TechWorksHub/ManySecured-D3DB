@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6646f113-020d-483f-bd8c-1fac766f224c
-  mac-addresses:
+  id: 3edbc5e1-515d-430c-87e4-be28ff0ebd5d
+  macAddresses:
   - 00:20:47:00:00:00/24
   manufacturer: Steinbrecher Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Steinbre
 type: d3-device-type-assertion

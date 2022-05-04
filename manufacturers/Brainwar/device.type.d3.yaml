@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73636129-a1e4-43ae-902e-f60526381e96
-  mac-addresses:
+  id: 197d2083-9996-48ce-ac2d-699d4698494d
+  macAddresses:
   - 50:DE:19:B0:00:00/28
   manufacturer: Brainware Teraherta Information Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brainwar
 type: d3-device-type-assertion

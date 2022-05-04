@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5001fbf2-839d-40c4-af47-fc7d5a0fe426
-  mac-addresses:
+  id: be3c6b85-d146-4e6c-88e3-b2a079e2ff3a
+  macAddresses:
   - A0:3B:1B:00:00:00/24
   manufacturer: Inspire Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InspireT
 type: d3-device-type-assertion

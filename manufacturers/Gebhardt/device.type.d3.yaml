@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc11426a-ab22-4b56-9e93-b519172b7b60
-  mac-addresses:
+  id: cc643ee3-eff2-452f-8915-b1933a6dce3b
+  macAddresses:
   - 00:50:C2:6D:B0:00/36
   manufacturer: Gebhardt Ventilatoren GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gebhardt
 type: d3-device-type-assertion

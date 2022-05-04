@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a62602f-7563-4793-9c0b-2a4e131681dd
-  mac-addresses:
+  id: c31de29d-9cce-4326-9def-c0d19f939d16
+  macAddresses:
   - 70:B3:D5:E6:60:00/36
   manufacturer: Eneon sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eneonsp
 type: d3-device-type-assertion

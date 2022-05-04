@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8282bf01-3c49-4c80-a38c-5948f4218182
-  mac-addresses:
+  id: f1d585d0-70e0-49ef-b4bb-a4a61c1b3396
+  macAddresses:
   - 00:80:16:00:00:00/24
   manufacturer: Wandel & Goltermann
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WandelGo
 type: d3-device-type-assertion

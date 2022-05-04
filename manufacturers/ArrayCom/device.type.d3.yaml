@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5136e736-e189-458d-acf2-6c7ac46ab428
-  mac-addresses:
+  id: 65ec575d-1edd-4ccc-a28e-b08966b3da96
+  macAddresses:
   - 00:10:E2:00:00:00/24
   manufacturer: ArrayComm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArrayCom
 type: d3-device-type-assertion

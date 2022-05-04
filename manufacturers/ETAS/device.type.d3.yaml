@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17e1d4d1-c796-4bae-8c0e-78f64e060292
-  mac-addresses:
+  id: dcb9b925-523b-40a6-bb43-9c7696394b01
+  macAddresses:
   - 00:02:E0:00:00:00/24
   manufacturer: ETAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETAS
 type: d3-device-type-assertion

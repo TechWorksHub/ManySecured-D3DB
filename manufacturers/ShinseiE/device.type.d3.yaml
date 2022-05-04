@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28c0f0c5-89e9-4e99-9eba-0c29ec5483f2
-  mac-addresses:
+  id: 7f2eb4d5-ed2a-4d71-91cb-f25e4612f4dd
+  macAddresses:
   - 60:E0:0E:00:00:00/24
   manufacturer: Shinsei Electronics Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShinseiE
 type: d3-device-type-assertion

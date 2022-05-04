@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 288f2e55-5dd2-4665-b93b-21d5d591ddde
-  mac-addresses:
+  id: e334e9fd-570b-4e75-8260-6fb7b76f26b4
+  macAddresses:
   - 00:1E:00:00:00:00/24
   manufacturer: Shantou Institute of Ultrasonic Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShantouI
 type: d3-device-type-assertion

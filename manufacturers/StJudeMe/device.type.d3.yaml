@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9997b1a-070c-4da6-9806-0e395931e28c
-  mac-addresses:
+  id: 1bce2099-dd4e-4265-8c94-945723105757
+  macAddresses:
   - 00:50:C2:83:10:00/36
   manufacturer: St Jude Medical, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StJudeMe
 type: d3-device-type-assertion

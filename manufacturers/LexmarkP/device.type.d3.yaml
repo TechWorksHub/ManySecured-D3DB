@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 27e57e01-3a00-43f1-8d6f-abc0909a8dac
-  mac-addresses:
+  id: c5b3f9f2-277e-455e-a490-ee2f5cce7f7e
+  macAddresses:
   - 00:04:00:00:00:00/24
   - 00:20:00:00:00:00/24
   manufacturer: Lexmark (Print Server)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LexmarkP
 type: d3-device-type-assertion

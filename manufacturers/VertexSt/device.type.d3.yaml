@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5ca7056-8cf0-4986-b7c4-b88774f8a9df
-  mac-addresses:
+  id: e307b91d-a2ae-4321-9de8-ab006c515017
+  macAddresses:
   - 58:94:CF:00:00:00/24
   manufacturer: Vertex Standard LMR, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VertexSt
 type: d3-device-type-assertion

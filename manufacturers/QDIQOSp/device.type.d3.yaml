@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 075d16aa-7d81-4f42-8dcd-9a00c65e2257
-  mac-addresses:
+  id: 22ae56f9-0e3c-45d3-a5a1-3b3132a7b0f2
+  macAddresses:
   - 8C:35:79:00:00:00/24
   manufacturer: QDIQO Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QDIQOSp
 type: d3-device-type-assertion

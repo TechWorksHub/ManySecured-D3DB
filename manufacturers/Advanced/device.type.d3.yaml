@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 64b2a0ea-5255-48fa-ad10-284aea8f9044
-  mac-addresses:
+  id: 86b01280-68aa-4883-9dd8-751117ec0509
+  macAddresses:
   - 00:00:1A:00:00:00/24
   - 00:02:18:00:00:00/24
   - 00:03:91:00:00:00/24
@@ -90,6 +90,6 @@ credentialSubject:
   - EC:5B:73:00:00:00/24
   - F4:A4:54:70:00:00/28
   manufacturer: Advanced Micro Devices
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advanced
 type: d3-device-type-assertion

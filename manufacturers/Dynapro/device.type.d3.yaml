@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd494ee3-95f8-4bb1-9e37-b25da9e3bdc7
-  mac-addresses:
+  id: 1cf25a45-f368-4d12-95c7-c42856623b71
+  macAddresses:
   - 00:30:F8:00:00:00/24
   manufacturer: Dynapro Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dynapro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0df87e2b-c91b-4885-8cf9-149cd87890bd
-  mac-addresses:
+  id: e4dce4bc-938d-4abc-aa21-9a645abb5a46
+  macAddresses:
   - 50:FF:99:80:00:00/28
   manufacturer: Dolphin Concepts Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DolphinC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd25ef76-7ba5-4ce2-9b55-18c18169fcd6
-  mac-addresses:
+  id: 68489e97-0cae-41dc-bcc1-7e81f05c97c6
+  macAddresses:
   - 78:13:05:60:00:00/28
   manufacturer: CRRC Nangjing Puzhen Haitai Brake Equipment Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRRCNang
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fa3815f-9191-4c40-ba18-7684afc67f9b
-  mac-addresses:
+  id: 8dcae073-c16c-4f2b-80dd-6d33e6f85eea
+  macAddresses:
   - 70:B3:D5:F4:20:00/36
   manufacturer: Matsuhisa Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Matsuhis
 type: d3-device-type-assertion

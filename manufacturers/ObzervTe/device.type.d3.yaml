@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4cec0b3f-45be-4abc-8baa-0fbde62ea6ba
-  mac-addresses:
+  id: 2de57305-b84a-46d3-958a-989b485d5de1
+  macAddresses:
   - 00:0F:63:00:00:00/24
   manufacturer: Obzerv Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ObzervTe
 type: d3-device-type-assertion

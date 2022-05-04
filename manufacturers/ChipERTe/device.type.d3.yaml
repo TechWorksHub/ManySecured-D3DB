@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c216ff81-d0ea-469b-9cfa-48db908302de
-  mac-addresses:
+  id: dfe9d280-9b8e-48c1-bc37-b46c6b1e15c3
+  macAddresses:
   - 18:F1:8E:00:00:00/24
   manufacturer: ChipER Technology co. ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChipERTe
 type: d3-device-type-assertion

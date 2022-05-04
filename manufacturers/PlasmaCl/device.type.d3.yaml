@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ad66af6-5bec-4833-8494-6f96c098065d
-  mac-addresses:
+  id: 65279ef5-5b3a-4495-a693-6917c705b7c7
+  macAddresses:
   - 54:9C:27:00:00:00/24
   manufacturer: Plasma Cloud Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlasmaCl
 type: d3-device-type-assertion

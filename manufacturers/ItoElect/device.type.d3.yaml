@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4df0d1b5-2ee8-4680-9eda-2616d60709f6
-  mac-addresses:
+  id: 9164ffe7-86a2-41c0-bee8-6a53c15216c0
+  macAddresses:
   - 00:90:18:00:00:00/24
   manufacturer: Ito Electric Industry Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ItoElect
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e582a694-e6ce-4d32-bd9e-999e11f210e7
-  mac-addresses:
+  id: 3cfc1916-c9a2-4ac9-a89c-f70191e27f97
+  macAddresses:
   - 70:B3:D5:36:60:00/36
   manufacturer: Solarlytics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Solarlyt
 type: d3-device-type-assertion

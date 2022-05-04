@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24ac84f6-5e21-4814-bfd1-4891fa122635
-  mac-addresses:
+  id: 2df3ca75-d2eb-4946-8dca-300d826fef3e
+  macAddresses:
   - F0:A7:64:00:00:00/24
   manufacturer: GST Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GST
 type: d3-device-type-assertion

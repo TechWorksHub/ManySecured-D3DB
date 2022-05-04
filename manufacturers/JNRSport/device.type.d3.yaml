@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b05871b-df17-4eb1-8d10-6996ce4f3fdb
-  mac-addresses:
+  id: a7a78577-3191-4c81-b485-8d859a9dd7dc
+  macAddresses:
   - 70:B3:D5:3E:70:00/36
   manufacturer: JNR Sports Holdings, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JNRSport
 type: d3-device-type-assertion

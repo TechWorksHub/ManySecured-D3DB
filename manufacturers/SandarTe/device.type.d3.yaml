@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32194d68-e1be-4d42-bf82-41f79c0e9c62
-  mac-addresses:
+  id: 6f4c6507-e48c-4b06-9f9b-f99c79dbde33
+  macAddresses:
   - 00:50:C2:8B:40:00/36
   manufacturer: Sandar Telecast AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SandarTe
 type: d3-device-type-assertion

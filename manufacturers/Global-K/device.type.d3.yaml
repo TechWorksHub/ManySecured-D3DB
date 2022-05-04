@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f36ff5b2-1780-436b-ac8b-3a4d4245b016
-  mac-addresses:
+  id: 074b2d71-ec2d-4157-864e-e121d6662faf
+  macAddresses:
   - 70:B3:D5:06:E0:00/36
   manufacturer: Global-King International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Global-K
 type: d3-device-type-assertion

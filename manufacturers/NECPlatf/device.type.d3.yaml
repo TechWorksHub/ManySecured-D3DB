@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 4d127aa1-2bdd-4413-9eb8-7de37911a28d
-  mac-addresses:
+  id: cbb4b366-e6b5-4425-9ffb-13354782bc8d
+  macAddresses:
   - 00:0D:02:00:00:00/24
   - 00:1B:8B:00:00:00/24
   - 00:3A:9D:00:00:00/24
@@ -16,6 +16,6 @@ credentialSubject:
   - C0:25:A2:00:00:00/24
   - F8:B7:97:00:00:00/24
   manufacturer: NEC Platforms, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NECPlatf
 type: d3-device-type-assertion

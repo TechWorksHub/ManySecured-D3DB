@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41fe3e6b-3b44-4548-b842-b6c60e2950cf
-  mac-addresses:
+  id: 5dc8b2c5-24d3-46f7-9b2f-9017411b7cb5
+  macAddresses:
   - 00:05:DE:00:00:00/24
   manufacturer: Gi Fone Korea, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiFoneKo
 type: d3-device-type-assertion

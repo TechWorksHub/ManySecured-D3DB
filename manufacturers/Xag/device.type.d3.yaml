@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab3e7240-8577-4cca-88ae-55f6b792385e
-  mac-addresses:
+  id: 7a927df8-831e-47d4-aff9-a89fba787322
+  macAddresses:
   - A4:51:29:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xag
 type: d3-device-type-assertion

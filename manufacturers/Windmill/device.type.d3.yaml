@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e6128e4-ab8a-44ef-9663-d337eeba8553
-  mac-addresses:
+  id: e59c863c-8e6e-4e71-9161-9bd3c6d2388c
+  macAddresses:
   - 00:50:C2:20:60:00/36
   manufacturer: Windmill Innovations
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Windmill
 type: d3-device-type-assertion

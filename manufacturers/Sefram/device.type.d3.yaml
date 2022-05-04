@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7271e46-c199-477b-9b77-492f28694a28
-  mac-addresses:
+  id: 65417f6a-eaea-4893-b512-42e610443d63
+  macAddresses:
   - 00:50:C2:FF:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sefram
 type: d3-device-type-assertion

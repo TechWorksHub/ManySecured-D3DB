@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19adc872-d520-441e-b291-363e03032bdc
-  mac-addresses:
+  id: 6bdb88b4-0f31-4387-ad04-8c5d9b6d8796
+  macAddresses:
   - 00:D0:5C:00:00:00/24
   manufacturer: KATHREIN TechnoTrend GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KATHREIN
 type: d3-device-type-assertion

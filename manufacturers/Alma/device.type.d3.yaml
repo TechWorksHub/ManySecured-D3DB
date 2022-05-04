@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1c12a22-1cce-4662-876e-e5f1e712ffd1
-  mac-addresses:
+  id: 3ac9701b-3239-416e-ac27-9872f06909d7
+  macAddresses:
   - 70:B3:D5:BA:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alma
 type: d3-device-type-assertion

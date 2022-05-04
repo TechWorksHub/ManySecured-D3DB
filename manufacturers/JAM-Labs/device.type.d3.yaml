@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63b23d79-9876-441e-acc0-67a85079b384
-  mac-addresses:
+  id: 107be552-19e7-42aa-873b-0c66fa450c36
+  macAddresses:
   - C0:61:9A:C0:00:00/28
   manufacturer: JAM-Labs Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JAM-Labs
 type: d3-device-type-assertion

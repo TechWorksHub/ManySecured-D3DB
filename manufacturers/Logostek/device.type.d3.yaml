@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd846f11-2906-48b7-94b0-177d2ac94898
-  mac-addresses:
+  id: d6998f8f-d406-4969-8c51-b995dae1e51a
+  macAddresses:
   - 00:03:E7:00:00:00/24
   manufacturer: Logostek Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logostek
 type: d3-device-type-assertion

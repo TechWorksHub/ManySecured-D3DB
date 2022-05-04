@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 490db2ad-212c-41d6-a48f-cb826f510c0d
-  mac-addresses:
+  id: 0ca5a0db-0163-4491-bad6-3f886b18804a
+  macAddresses:
   - 7C:83:34:A0:00:00/28
   manufacturer: Enginetech (Tianjin) Computer Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enginete
 type: d3-device-type-assertion

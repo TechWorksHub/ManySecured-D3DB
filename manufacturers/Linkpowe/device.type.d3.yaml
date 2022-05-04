@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 185b28da-cf6d-446b-8c62-bd38cf87b330
-  mac-addresses:
+  id: 4e2fdadf-3546-4264-8dd2-61ea4423faeb
+  macAddresses:
   - 98:90:80:00:00:00/24
   manufacturer: Linkpower Network System Inc Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linkpowe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6d68ed2-420e-4efe-812b-55c7cd93b01c
-  mac-addresses:
+  id: 52a39029-0b3f-45eb-87fe-7be08d25df7d
+  macAddresses:
   - 70:B3:D5:9A:B0:00/36
   manufacturer: Groupe Paris-Turf
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GroupePa
 type: d3-device-type-assertion

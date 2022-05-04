@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 639bbd6b-f631-4bf9-90bb-14886655ef12
-  mac-addresses:
+  id: a2b951b1-b138-42ed-a1bd-52b8c062bb68
+  macAddresses:
   - 00:0A:74:00:00:00/24
   manufacturer: Manticom Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Manticom
 type: d3-device-type-assertion

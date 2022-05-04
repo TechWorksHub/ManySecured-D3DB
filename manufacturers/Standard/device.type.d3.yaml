@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 84c3c6c7-0bb7-4f63-9cd6-2ffba0087501
-  mac-addresses:
+  id: c59dc299-a3ad-44ff-ab0b-1a5aacfbc33b
+  macAddresses:
   - 00:50:C2:15:90:00/36
   - 00:80:0F:00:00:00/24
   - 40:D8:55:18:50:00/36
   - 70:B3:D5:75:A0:00/36
   manufacturer: Standard Comm. Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Standard
 type: d3-device-type-assertion

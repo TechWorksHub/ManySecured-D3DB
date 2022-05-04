@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f22cf149-8922-42eb-a0ee-9bb34612c180
-  mac-addresses:
+  id: 98f5e189-dd78-479a-ae70-20413d78719d
+  macAddresses:
   - 0C:A4:2A:00:00:00/24
   manufacturer: OB Telecom Electronic Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OBTeleco
 type: d3-device-type-assertion

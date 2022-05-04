@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be9465ea-72f5-4676-a721-8cd7b606763b
-  mac-addresses:
+  id: ed8ddd81-ac12-44c5-b22f-bf987494c0c4
+  macAddresses:
   - 00:0F:37:00:00:00/24
   manufacturer: Xambala Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xambala
 type: d3-device-type-assertion

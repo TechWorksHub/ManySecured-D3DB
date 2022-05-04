@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8db4287b-b27c-4254-bc14-3d659f34686d
-  mac-addresses:
+  id: 2fe6686d-0618-4da8-840f-55d86398437f
+  macAddresses:
   - E0:36:E3:00:00:00/24
   manufacturer: Stage One International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StageOne
 type: d3-device-type-assertion

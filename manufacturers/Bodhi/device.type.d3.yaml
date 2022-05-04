@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d5e7348-5b73-4e7f-a080-eef8fd7bdb2b
-  mac-addresses:
+  id: 24ad99be-89ba-4f0f-a8af-39e26f7493da
+  macAddresses:
   - 30:43:D7:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bodhi
 type: d3-device-type-assertion

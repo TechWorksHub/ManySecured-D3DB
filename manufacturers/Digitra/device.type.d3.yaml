@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5213a75c-6b2f-4f53-8704-93ebeef3b47d
-  mac-addresses:
+  id: a735dc09-db89-4f98-bc99-d73ef26c74e5
+  macAddresses:
   - 00:30:5D:00:00:00/24
   manufacturer: Digitra Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digitra
 type: d3-device-type-assertion

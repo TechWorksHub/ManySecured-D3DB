@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e25e4ad8-8425-457c-a01b-f78239fca58c
-  mac-addresses:
+  id: d4a5b628-b108-426b-be37-00734b092704
+  macAddresses:
   - 00:0D:AA:00:00:00/24
   manufacturer: S.A.Tehnology co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tehnolog
 type: d3-device-type-assertion

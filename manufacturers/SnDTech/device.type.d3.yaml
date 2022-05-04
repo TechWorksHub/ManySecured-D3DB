@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13dce8cd-6377-4954-b5cb-c7d9da4ad005
-  mac-addresses:
+  id: 6156902b-365a-4ab0-8ae4-0005466dd86a
+  macAddresses:
   - C0:88:5B:00:00:00/24
   manufacturer: SnD Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SnDTech
 type: d3-device-type-assertion

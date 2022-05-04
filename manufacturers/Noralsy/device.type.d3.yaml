@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bca019f-d827-4704-bfbf-151d8761cf91
-  mac-addresses:
+  id: e5218186-3c49-41d3-9391-e6cb2da5b383
+  macAddresses:
   - 84:8B:CD:90:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Noralsy
 type: d3-device-type-assertion

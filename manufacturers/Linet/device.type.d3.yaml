@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f590922e-a082-462e-91c9-ad7c7bf6d9fb
-  mac-addresses:
+  id: d41fe15c-eca6-4b07-b371-4beefd5aa25e
+  macAddresses:
   - 00:50:C2:0C:D0:00/36
   manufacturer: Linet Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linet
 type: d3-device-type-assertion

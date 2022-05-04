@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9208c3b3-eec9-4788-8078-55adff8ca12d
-  mac-addresses:
+  id: 0b0d2212-8fb0-4975-b70f-fb13d2990b74
+  macAddresses:
   - 2C:48:35:30:00:00/28
   manufacturer: Newtrax Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewtraxT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c72a78c2-3c41-42e5-a252-107842e16231
-  mac-addresses:
+  id: deb15c09-fb61-494f-8d9a-c2118143e6da
+  macAddresses:
   - E8:4C:56:00:00:00/24
   manufacturer: Intercept Services Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intercep
 type: d3-device-type-assertion

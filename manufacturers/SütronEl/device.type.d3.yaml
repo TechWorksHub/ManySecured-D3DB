@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10b5e43f-b30b-4b74-863f-13cd399dbaac
-  mac-addresses:
+  id: 6b2b88f4-6058-49a2-9e12-3e8980a2cc2a
+  macAddresses:
   - 00:07:92:00:00:00/24
   manufacturer: "S\xFCtron Electronic GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "S\xFCtronEl"
 type: d3-device-type-assertion

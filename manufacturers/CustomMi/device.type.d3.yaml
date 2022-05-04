@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3dfaa8ed-b80f-4ae5-9c9f-db47b16d2a9f
-  mac-addresses:
+  id: ed952c58-a1ce-461b-a7ac-0bfbcd25e585
+  macAddresses:
   - 00:01:CE:00:00:00/24
   manufacturer: Custom Micro Products, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CustomMi
 type: d3-device-type-assertion

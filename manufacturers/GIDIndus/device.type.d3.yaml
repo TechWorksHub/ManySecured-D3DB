@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eef19640-3b6f-4979-a735-132e7f6e173c
-  mac-addresses:
+  id: 899e71a1-1b8d-4406-9ba0-88559cb9e89d
+  macAddresses:
   - 70:B3:D5:25:B0:00/36
   manufacturer: GID Industrial
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GIDIndus
 type: d3-device-type-assertion

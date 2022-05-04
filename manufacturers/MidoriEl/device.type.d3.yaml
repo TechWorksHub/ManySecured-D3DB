@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5ef7c2c-70c0-46f3-99b4-30b463984dfc
-  mac-addresses:
+  id: 902f9963-7d7a-4d12-9d84-d24a2bfbaea4
+  macAddresses:
   - C4:C0:AE:00:00:00/24
   manufacturer: Midori Electronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MidoriEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38dbd168-dd12-4301-99e2-83af56fcd658
-  mac-addresses:
+  id: 3a84211b-f321-418c-ade5-24b3cf1c6412
+  macAddresses:
   - 00:1A:1D:00:00:00/24
   manufacturer: PChome Online Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PChomeOn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6b38c3b-5c15-4803-8918-b1cafba1c755
-  mac-addresses:
+  id: 8377e028-afb7-46c5-a5d9-d110bbb85c1f
+  macAddresses:
   - 00:50:C2:C9:B0:00/36
   manufacturer: Sm electronic co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smelectr
 type: d3-device-type-assertion

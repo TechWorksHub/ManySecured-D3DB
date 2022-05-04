@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 316afdfa-e457-4343-81da-d3ab39836eaf
-  mac-addresses:
+  id: eb25108b-17b4-416c-8098-039ee9215cae
+  macAddresses:
   - 00:25:24:00:00:00/24
   manufacturer: Lightcomm Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightcom
 type: d3-device-type-assertion

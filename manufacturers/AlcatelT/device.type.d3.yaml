@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d55208c5-9221-497a-aeed-ad5af527dd72
-  mac-addresses:
+  id: cd965a1f-9060-44eb-af31-e9fc9d1005db
+  macAddresses:
   - 00:20:32:00:00:00/24
   manufacturer: Alcatel Taisel
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlcatelT
 type: d3-device-type-assertion

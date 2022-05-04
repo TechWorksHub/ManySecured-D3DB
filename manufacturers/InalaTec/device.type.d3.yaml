@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20887fea-86b3-47ec-bb43-f976d1fe0666
-  mac-addresses:
+  id: 34898f36-f547-43b7-9e63-ddbac49d2ea5
+  macAddresses:
   - 0C:DC:CC:00:00:00/24
   manufacturer: Inala Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InalaTec
 type: d3-device-type-assertion

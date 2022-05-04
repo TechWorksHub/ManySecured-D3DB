@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0746de33-19b4-43c8-b507-e66e9970577b
-  mac-addresses:
+  id: e5f7da15-b6ca-4f28-89c1-fc0d262ac00d
+  macAddresses:
   - 60:9A:A4:00:00:00/24
   manufacturer: Gvi Security Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GviSecur
 type: d3-device-type-assertion

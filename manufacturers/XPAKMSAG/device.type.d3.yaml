@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7836544f-1046-45bb-a127-20b15e4517b7
-  mac-addresses:
+  id: d40cc998-640c-4f3a-903e-fd5d0be9cfee
+  macAddresses:
   - 00:0A:CB:00:00:00/24
   manufacturer: XPAK MSA Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XPAKMSAG
 type: d3-device-type-assertion

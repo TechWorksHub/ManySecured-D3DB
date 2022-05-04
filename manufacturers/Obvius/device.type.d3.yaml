@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91802f16-ee08-475e-8069-7148f8827e22
-  mac-addresses:
+  id: d7ad8e93-fe13-4587-97af-1d77f9680a8c
+  macAddresses:
   - 00:50:C2:30:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Obvius
 type: d3-device-type-assertion

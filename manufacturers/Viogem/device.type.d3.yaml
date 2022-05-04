@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76f0b72b-fd32-4871-9bbd-e25c59572799
-  mac-addresses:
+  id: c6da39be-43ad-4994-8837-3b0209ea6f83
+  macAddresses:
   - 8C:6A:E4:00:00:00/24
   manufacturer: Viogem Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viogem
 type: d3-device-type-assertion

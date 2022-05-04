@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c11b461-ee53-400f-81ef-b83c70dad0f0
-  mac-addresses:
+  id: df805759-7b98-4323-8431-04129c2d5304
+  macAddresses:
   - 00:50:C2:83:B0:00/36
   manufacturer: O. Bay AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OBay
 type: d3-device-type-assertion

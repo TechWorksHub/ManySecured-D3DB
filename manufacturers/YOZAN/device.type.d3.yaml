@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d28c537c-01ef-4a2b-8f7a-08999fbd2aed
-  mac-addresses:
+  id: 166dfa83-ffcf-4232-a157-3079fb31e78e
+  macAddresses:
   - 00:09:60:00:00:00/24
   manufacturer: YOZAN Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YOZAN
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 243506c8-9c28-4689-8057-72152e4415f8
-  mac-addresses:
+  id: c094064b-b1fd-41e8-8247-f12ab4c25d8c
+  macAddresses:
   - 00:D0:6B:00:00:00/24
   manufacturer: Sr Telecom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SrTeleco
 type: d3-device-type-assertion

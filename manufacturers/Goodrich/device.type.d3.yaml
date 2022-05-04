@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 3d7e7a4e-8ad0-420b-8400-ada980496f2c
-  mac-addresses:
+  id: ac5d70f4-fcd2-4c65-a34e-240c538d7a3b
+  macAddresses:
   - 00:11:36:00:00:00/24
   - 00:50:C2:41:30:00/36
   - D4:6C:BF:00:00:00/24
   manufacturer: Goodrich Sensor Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Goodrich
 type: d3-device-type-assertion

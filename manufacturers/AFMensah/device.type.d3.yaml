@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a611fd80-2fc5-42c0-bcdd-c12bbdf6981d
-  mac-addresses:
+  id: 64f99fe7-9c45-4fa0-b08b-d3257e02b8ee
+  macAddresses:
   - 70:B3:D5:F5:B0:00/36
   manufacturer: A.F.Mensah, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AFMensah
 type: d3-device-type-assertion

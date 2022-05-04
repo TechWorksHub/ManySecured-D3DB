@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 422f9796-6bf9-4688-9cca-a86dba6209ac
-  mac-addresses:
+  id: 1888aafa-2a46-4dac-933b-87279733c9d7
+  macAddresses:
   - A4:3B:FA:80:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alpwise
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01523cb6-190a-4db1-b326-72bbdf4513f7
-  mac-addresses:
+  id: 8302818e-92fb-42f3-b779-d34c7393209a
+  macAddresses:
   - 68:EC:8A:00:00:00/24
   manufacturer: IKEA of Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IKEASwed
 type: d3-device-type-assertion

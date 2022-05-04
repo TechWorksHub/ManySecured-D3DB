@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc9cbcc8-fa62-47cf-b828-b2e405e489f7
-  mac-addresses:
+  id: 3064f15a-8295-46b5-9bd3-3a894a922330
+  macAddresses:
   - 00:21:76:00:00:00/24
   manufacturer: YMax Telecom Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YMaxTele
 type: d3-device-type-assertion

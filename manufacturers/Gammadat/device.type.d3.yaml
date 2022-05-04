@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbbbea85-1cfe-4f07-bdaf-8708b2ed54a0
-  mac-addresses:
+  id: 867bb8ed-95af-4f99-bc5c-5d780180ddf9
+  macAddresses:
   - 00:20:5F:00:00:00/24
   manufacturer: Gammadata Computer Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gammadat
 type: d3-device-type-assertion

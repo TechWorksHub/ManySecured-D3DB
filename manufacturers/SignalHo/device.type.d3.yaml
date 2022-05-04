@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e43f1505-6e27-49fa-a337-a7d2ede72f1f
-  mac-addresses:
+  id: c01e3d89-8009-401e-b178-0170502ec3fe
+  macAddresses:
   - 64:62:66:B0:00:00/28
   manufacturer: Signal Hound
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SignalHo
 type: d3-device-type-assertion

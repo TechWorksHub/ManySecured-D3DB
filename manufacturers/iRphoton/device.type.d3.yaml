@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58088856-8da5-4dd0-bb95-96450a175368
-  mac-addresses:
+  id: 2eadcb5a-b5f7-4a7d-9efb-de8a369f7446
+  macAddresses:
   - 00:50:C2:D8:C0:00/36
   manufacturer: iRphotonics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iRphoton
 type: d3-device-type-assertion

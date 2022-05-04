@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66ff4dcf-0385-4ab3-ae81-44e011bb6e01
-  mac-addresses:
+  id: a591755a-90dc-4525-8e43-1757b108aaa5
+  macAddresses:
   - 00:50:C2:6B:B0:00/36
   manufacturer: Ele.Mag S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EleMag
 type: d3-device-type-assertion

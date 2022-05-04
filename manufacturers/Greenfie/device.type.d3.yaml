@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 741f48c9-ca74-45c5-84e5-e62846bb5112
-  mac-addresses:
+  id: bf99b7a6-7a14-47ca-bf70-a653916f6f0c
+  macAddresses:
   - 8C:19:2D:30:00:00/28
   manufacturer: Greenfield Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greenfie
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 477edae4-9738-4b02-9a3e-7443fe4fadd8
-  mac-addresses:
+  id: c477044a-34ff-42ce-880f-b3a4769b1d2d
+  macAddresses:
   - 68:91:D0:60:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: femrice
 type: d3-device-type-assertion

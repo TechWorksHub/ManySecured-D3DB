@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42ef4090-0b09-4c72-bbac-b8028c9f0554
-  mac-addresses:
+  id: 6fed2f50-1d4c-4cde-9284-fbe0843cab75
+  macAddresses:
   - 00:50:C2:6D:90:00/36
   manufacturer: Ajeco Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ajeco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d60fa276-6043-4493-9bd4-dce87364f204
-  mac-addresses:
+  id: 41c87747-23f0-4d05-ba33-f88d7ce25ea7
+  macAddresses:
   - 00:20:68:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Isdyne
 type: d3-device-type-assertion

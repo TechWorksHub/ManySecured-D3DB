@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85097a13-16b6-4397-a976-5120f2cbce75
-  mac-addresses:
+  id: 56c7e42c-b94d-4e83-bfb3-5c1d7b731d89
+  macAddresses:
   - 00:24:DE:00:00:00/24
   manufacturer: GLOBAL Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLOBALTe
 type: d3-device-type-assertion

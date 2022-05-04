@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54be5cfe-66bc-40cf-a044-ab4a59390e5d
-  mac-addresses:
+  id: 597cdddd-8cff-41a2-8326-8dbdda7095da
+  macAddresses:
   - 34:A5:5D:00:00:00/24
   manufacturer: Technosoft International Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technoso
 type: d3-device-type-assertion

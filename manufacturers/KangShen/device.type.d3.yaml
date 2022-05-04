@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 853e4586-35b6-43aa-8673-b8ef521c3c54
-  mac-addresses:
+  id: 88526087-9531-49f0-af79-0970f88ce81b
+  macAddresses:
   - 10:FB:F0:00:00:00/24
   manufacturer: KangSheng LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KangShen
 type: d3-device-type-assertion

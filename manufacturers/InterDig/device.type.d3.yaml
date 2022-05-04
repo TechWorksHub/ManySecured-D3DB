@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65be9ef6-1ba8-465b-9be7-55b51a17036c
-  mac-addresses:
+  id: 25903145-4528-4a36-ad59-942af9c22502
+  macAddresses:
   - 00:50:C2:72:80:00/36
   manufacturer: InterDigital Canada Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InterDig
 type: d3-device-type-assertion

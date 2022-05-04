@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aef95052-6515-41ca-b8ea-b2446f2caf24
-  mac-addresses:
+  id: 465ada8c-d53a-4340-97bc-23b817422d63
+  macAddresses:
   - 00:16:AB:00:00:00/24
   manufacturer: Dansensor A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dansenso
 type: d3-device-type-assertion

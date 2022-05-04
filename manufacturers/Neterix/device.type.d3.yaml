@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f05d4791-56e7-4476-9a1b-12cb0c67f4d3
-  mac-addresses:
+  id: 8f2af4be-4f14-4650-894a-352bde69fe89
+  macAddresses:
   - 44:35:6F:00:00:00/24
   manufacturer: Neterix Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neterix
 type: d3-device-type-assertion

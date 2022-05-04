@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b7594a2-593b-433c-ba94-a11dd6ef1d37
-  mac-addresses:
+  id: 9b0982eb-5821-40da-8bd8-f0040de13e93
+  macAddresses:
   - 70:B3:D5:6F:20:00/36
   manufacturer: P&C Micro's Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: P&CMicro
 type: d3-device-type-assertion

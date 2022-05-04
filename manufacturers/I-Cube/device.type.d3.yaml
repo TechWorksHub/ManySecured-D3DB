@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae3e29ae-3dea-44a0-9343-08df1235727d
-  mac-addresses:
+  id: ff2d352f-0aba-44f7-bd11-78955eab5a9b
+  macAddresses:
   - 00:60:32:00:00:00/24
   manufacturer: I-Cube, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: I-Cube
 type: d3-device-type-assertion

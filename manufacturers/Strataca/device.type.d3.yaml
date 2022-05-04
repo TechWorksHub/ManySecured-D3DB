@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 959708fa-139d-4770-b50b-f5fd1315c840
-  mac-addresses:
+  id: 9c708052-01eb-4621-af28-dccdfc1a655f
+  macAddresses:
   - 2C:E3:10:00:00:00/24
   manufacturer: Stratacache
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Strataca
 type: d3-device-type-assertion

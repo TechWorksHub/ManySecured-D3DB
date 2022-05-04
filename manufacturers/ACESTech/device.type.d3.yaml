@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f61dc3b3-3901-43d6-9534-dea2b16ec32e
-  mac-addresses:
+  id: f782386b-b907-42ba-97ab-67892d038541
+  macAddresses:
   - 7C:B5:42:00:00:00/24
   manufacturer: ACES Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACESTech
 type: d3-device-type-assertion

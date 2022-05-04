@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc09e19f-db7d-4932-aa5b-661afac668f9
-  mac-addresses:
+  id: 95dfba3d-0959-4b0d-82a0-ce7dfb97bbe6
+  macAddresses:
   - 70:B3:D5:EE:C0:00/36
   manufacturer: Impolux GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Impolux
 type: d3-device-type-assertion

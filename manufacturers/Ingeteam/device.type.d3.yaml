@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 57deb147-af72-4381-8f0f-d09c57ac9e2c
-  mac-addresses:
+  id: 8326f88d-c825-4aab-a88b-753bd0f486d9
+  macAddresses:
   - 00:0D:A9:00:00:00/24
   - 00:16:A3:00:00:00/24
   - 00:50:C2:BF:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ingeteam
 type: d3-device-type-assertion

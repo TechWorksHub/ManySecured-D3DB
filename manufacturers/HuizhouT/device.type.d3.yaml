@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eacaae03-4065-4ffa-b5e7-ffb699fbdb2f
-  mac-addresses:
+  id: 37c08ecc-fe33-4238-a9f0-cc27d729b559
+  macAddresses:
   - CC:31:2A:00:00:00/24
   manufacturer: Huizhou Tcl Communication Electron Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuizhouT
 type: d3-device-type-assertion

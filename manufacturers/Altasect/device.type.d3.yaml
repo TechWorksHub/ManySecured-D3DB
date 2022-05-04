@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84d3abe8-9bdb-46f6-a0c9-c8cdcb8f2933
-  mac-addresses:
+  id: 5dc68087-ef50-41b8-934a-744f8743d50b
+  macAddresses:
   - 08:7D:21:00:00:00/24
   manufacturer: Altasec technology corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Altasect
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4273462-d5d7-4fa7-93f2-f2400aa840e4
-  mac-addresses:
+  id: bebbe6f0-4253-43e6-aef8-ea747b9c4cc3
+  macAddresses:
   - 00:1F:66:00:00:00/24
   manufacturer: Planar Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Planar
 type: d3-device-type-assertion

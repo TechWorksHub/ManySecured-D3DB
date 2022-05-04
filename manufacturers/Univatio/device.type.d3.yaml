@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4de66d84-2326-4cbd-aed6-f0b784437818
-  mac-addresses:
+  id: 88b2c27b-9748-4bd4-9b15-1729de53a341
+  macAddresses:
   - 08:00:49:00:00:00/24
   manufacturer: Univation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Univatio
 type: d3-device-type-assertion

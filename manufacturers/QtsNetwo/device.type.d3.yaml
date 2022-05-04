@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d50d49c7-b91d-4d2b-a69d-ce8c42ead3b4
-  mac-addresses:
+  id: e0eb26d0-0855-4be2-ada2-dcc0a9f7d4c9
+  macAddresses:
   - FC:AD:0F:00:00:00/24
   manufacturer: Qts Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QtsNetwo
 type: d3-device-type-assertion

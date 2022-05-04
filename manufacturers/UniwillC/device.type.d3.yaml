@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d725d60-8d55-4a84-8ec3-9f573022b0c2
-  mac-addresses:
+  id: bfb884b8-80bb-4326-9846-dd3894e0cd0d
+  macAddresses:
   - 00:03:0D:00:00:00/24
   manufacturer: Uniwill Computer Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UniwillC
 type: d3-device-type-assertion

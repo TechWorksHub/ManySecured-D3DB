@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba83fec9-f51f-4f6f-bc76-14a7131ddb76
-  mac-addresses:
+  id: 20a6d659-8f9d-4a91-8459-f8ccfcd0db02
+  macAddresses:
   - 00:80:28:00:00:00/24
   manufacturer: Tradpost (Hk) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tradpost
 type: d3-device-type-assertion

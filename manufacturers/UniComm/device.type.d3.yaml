@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4e5a774-5fc3-4555-8da4-2a43e9862a67
-  mac-addresses:
+  id: 9ce79235-356b-4fd5-99d6-39afbb08a94c
+  macAddresses:
   - A8:70:A5:00:00:00/24
   manufacturer: UniComm Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UniComm
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c7d16e0-1904-4723-bb39-da95962407df
-  mac-addresses:
+  id: ad2053ea-8cda-494f-ae95-a9622ee65b47
+  macAddresses:
   - 70:B3:D5:6A:70:00/36
   manufacturer: Partilink Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Partilin
 type: d3-device-type-assertion

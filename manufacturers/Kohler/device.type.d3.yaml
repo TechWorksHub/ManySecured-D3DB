@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6223bcf4-1d79-4e15-a031-fc25c4b8f493
-  mac-addresses:
+  id: 7b754b8a-2c16-467c-9993-1dab430e0376
+  macAddresses:
   - 00:14:6F:00:00:00/24
   manufacturer: Kohler Co
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kohler
 type: d3-device-type-assertion

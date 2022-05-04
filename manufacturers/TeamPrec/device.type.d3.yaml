@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 187f886a-1ac6-4d5d-ae18-d332dafd6dbf
-  mac-addresses:
+  id: 697bc20c-a995-4435-95fb-164de474e53f
+  macAddresses:
   - DA:FF:6B:00:00:00/24
   manufacturer: Team Precision Public Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeamPrec
 type: d3-device-type-assertion

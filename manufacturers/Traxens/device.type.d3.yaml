@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 801aad8a-6da5-410b-b4f7-dbde23179339
-  mac-addresses:
+  id: ffe7270d-0511-44eb-adc6-afb46097c55f
+  macAddresses:
   - 50:A4:D0:00:00:00/28
   - 50:DE:19:30:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Traxens
 type: d3-device-type-assertion

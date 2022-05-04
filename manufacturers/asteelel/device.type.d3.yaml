@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ce10ffb-2c00-4829-84e0-5c86d50f157c
-  mac-addresses:
+  id: 9c5edf4f-00bf-4774-b356-b66d335fa3f5
+  macAddresses:
   - 00:19:A3:00:00:00/24
   manufacturer: asteel electronique atlantique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: asteelel
 type: d3-device-type-assertion

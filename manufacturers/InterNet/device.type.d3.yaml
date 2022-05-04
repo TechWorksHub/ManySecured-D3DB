@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6559fa87-2000-40f0-bf33-1c3fa2881293
-  mac-addresses:
+  id: eec8d83a-5884-4a29-b66d-ebc78c2f6e80
+  macAddresses:
   - 00:20:5C:00:00:00/24
   manufacturer: InterNet Systems of Florida, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InterNet
 type: d3-device-type-assertion

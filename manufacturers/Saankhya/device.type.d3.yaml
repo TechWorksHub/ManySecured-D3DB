@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c2e18c8-134a-4556-a18c-328bf089ceb4
-  mac-addresses:
+  id: 4ce9dfc5-2839-4d6d-ac26-3c2d07a36a32
+  macAddresses:
   - 70:B3:D5:CA:30:00/36
   manufacturer: Saankhya Labs Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Saankhya
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1dbfb105-164f-490b-b053-921c176b49a5
-  mac-addresses:
+  id: eeb75866-48ac-4cef-bcd3-f87fcc4aec48
+  macAddresses:
   - 08:00:10:00:00:00/24
   - 80:00:10:00:00:00/24
   manufacturer: AT&T [misrepresentation of 800010?]
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: At&T[Mis
 type: d3-device-type-assertion

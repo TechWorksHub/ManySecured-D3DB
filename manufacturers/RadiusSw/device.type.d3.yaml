@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7583eb37-a1bb-44d4-9fe7-14d6a2410e35
-  mac-addresses:
+  id: e5b37286-f6a5-4b89-97c9-984b1d0a992d
+  macAddresses:
   - 00:50:C2:C9:D0:00/36
   manufacturer: Radius Sweden AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadiusSw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 537e30f8-a620-4700-b5f9-58cdc148ac22
-  mac-addresses:
+  id: 1d6f4807-6083-4eb8-9763-f9e1c3eb26e0
+  macAddresses:
   - 40:D8:55:03:E0:00/36
   manufacturer: Vishay Celtron Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VishayCe
 type: d3-device-type-assertion

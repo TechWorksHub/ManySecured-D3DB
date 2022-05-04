@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 373b69c2-acfd-4dbe-a0ad-afe1b14292ec
-  mac-addresses:
+  id: 4c47d00a-2720-4e3a-a803-1bf8b22087ae
+  macAddresses:
   - 00:01:E2:00:00:00/24
   manufacturer: Ando Electric Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndoElec
 type: d3-device-type-assertion

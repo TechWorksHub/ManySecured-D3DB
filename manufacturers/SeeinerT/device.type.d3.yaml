@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd27f7f7-a255-4fb9-a5e1-a79692d403b3
-  mac-addresses:
+  id: a1fc4ae0-49b3-4642-a64b-0378e5db6fc7
+  macAddresses:
   - 34:04:9E:50:00:00/28
   manufacturer: Seeiner Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeeinerT
 type: d3-device-type-assertion

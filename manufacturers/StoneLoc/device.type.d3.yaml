@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d24ac0b4-debc-40f8-89b7-b493a57c7dc6
-  mac-addresses:
+  id: dbb4135e-e219-4ad2-ab0b-1dad354c232c
+  macAddresses:
   - A4:58:0F:10:00:00/28
   manufacturer: Stone Lock Global, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StoneLoc
 type: d3-device-type-assertion

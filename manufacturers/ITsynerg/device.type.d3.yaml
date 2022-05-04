@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ba3462e-abe1-4e14-9096-4c9f315bd351
-  mac-addresses:
+  id: ed7c16ed-73f2-4443-b647-c609b6efdb3a
+  macAddresses:
   - 70:B3:D5:D2:A0:00/36
   manufacturer: ITsynergy Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITsynerg
 type: d3-device-type-assertion

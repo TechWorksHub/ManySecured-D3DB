@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d939fcf-73e9-48ff-b9ec-68b4023fed9c
-  mac-addresses:
+  id: 002963d1-b792-40ff-97de-ceb63a39ecd4
+  macAddresses:
   - 00:90:38:00:00:00/24
   manufacturer: Fountain Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fountain
 type: d3-device-type-assertion

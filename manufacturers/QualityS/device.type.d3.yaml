@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ffde3f7-dc02-43ed-b8b7-514930264a98
-  mac-addresses:
+  id: 9578a52c-3e09-41cd-8bb9-8afc6f9e5fa7
+  macAddresses:
   - 00:60:51:00:00:00/24
   manufacturer: Quality Semiconductor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QualityS
 type: d3-device-type-assertion

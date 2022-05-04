@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e74a026-e046-41c8-983e-88c80ebe94c3
-  mac-addresses:
+  id: 2d7f66cb-17c2-4e50-a587-9cdc2bca7695
+  macAddresses:
   - 1C:86:AD:00:00:00/24
   manufacturer: Mct Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mct
 type: d3-device-type-assertion

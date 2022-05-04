@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa4d5573-cd39-4ffd-955e-e37d798a1acd
-  mac-addresses:
+  id: 2f07b342-d2c6-4d04-914e-fde91812edf8
+  macAddresses:
   - 00:0F:44:00:00:00/24
   manufacturer: Tivella Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tivella
 type: d3-device-type-assertion

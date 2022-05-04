@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec4c423d-3619-4047-b583-beb3ec6b66b1
-  mac-addresses:
+  id: 59620bfe-1a64-424b-ab75-a3c9d8f86a15
+  macAddresses:
   - 90:F2:78:00:00:00/24
   manufacturer: Radius Gateway
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadiusGa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f20f020e-96bf-498c-9d33-dae096e881ba
-  mac-addresses:
+  id: c755c4ef-2294-4938-840f-0e4709623f85
+  macAddresses:
   - 14:48:02:00:00:00/24
   manufacturer: THE YEOLRIM Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YEOLRIM
 type: d3-device-type-assertion

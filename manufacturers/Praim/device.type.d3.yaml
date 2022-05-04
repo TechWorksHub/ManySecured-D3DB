@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b80e1f0-c822-44c3-8dfd-b8e3e1039a68
-  mac-addresses:
+  id: 06e2290c-7ca4-4b00-8d1f-ac8c758a634b
+  macAddresses:
   - 00:C0:90:00:00:00/24
   manufacturer: Praim S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Praim
 type: d3-device-type-assertion

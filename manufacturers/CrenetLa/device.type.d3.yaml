@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5588d51e-9328-411b-af42-fb4953510ed8
-  mac-addresses:
+  id: 375cf5ae-7841-40ba-8be9-a42383b00a45
+  macAddresses:
   - 38:12:7B:00:00:00/24
   manufacturer: Crenet Labs Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrenetLa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 071dd552-6621-4db9-9532-5f0a916900e9
-  mac-addresses:
+  id: cb22f429-d86c-45b7-bb9a-d32b08f20294
+  macAddresses:
   - 00:00:26:00:00:00/24
   manufacturer: Sha-Ken Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sha-Ken
 type: d3-device-type-assertion

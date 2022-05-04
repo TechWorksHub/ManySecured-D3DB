@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 938670d8-3cec-4426-9331-1b8ac24243cf
-  mac-addresses:
+  id: d80c61af-7e5c-4ee8-9ccf-197773f70a3d
+  macAddresses:
   - 00:D0:0B:00:00:00/24
   manufacturer: Rhk Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RhkTechn
 type: d3-device-type-assertion

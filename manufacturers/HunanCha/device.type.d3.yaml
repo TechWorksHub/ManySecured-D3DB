@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24c82dad-3724-41da-989b-5d7100f0dae4
-  mac-addresses:
+  id: b51705a9-e00e-4ef0-a469-224f58e5433f
+  macAddresses:
   - 30:1F:9A:A0:00:00/28
   manufacturer: Hunan Changsha Hengjian Technoldgy Develpment Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HunanCha
 type: d3-device-type-assertion

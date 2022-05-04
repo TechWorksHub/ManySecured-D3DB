@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c20bf673-602e-47bc-978f-3acc1b2081d7
-  mac-addresses:
+  id: 2941e118-e31f-40c9-b464-84a087913673
+  macAddresses:
   - 00:1F:70:00:00:00/24
   manufacturer: Botik Technologies LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BotikTec
 type: d3-device-type-assertion

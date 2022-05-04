@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 439b64d3-88d7-4f29-a190-55c762ef78f2
-  mac-addresses:
+  id: 98a8042e-0aed-42c5-a99f-707b313d46c4
+  macAddresses:
   - 00:09:84:00:00:00/24
   manufacturer: MyCasa Network Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MyCasaNe
 type: d3-device-type-assertion

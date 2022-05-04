@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c703f97-b654-4376-bb6f-be7ad617afd2
-  mac-addresses:
+  id: a5ca9c0b-1e48-40b1-b63b-31939367bcb5
+  macAddresses:
   - 00:90:E5:00:00:00/24
   manufacturer: Teknema, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teknema
 type: d3-device-type-assertion

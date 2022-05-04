@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e66f3b3c-e372-4d58-bf06-36f0c213b4b9
-  mac-addresses:
+  id: 2b17beed-9d84-4077-b62c-72bb33962142
+  macAddresses:
   - 00:25:F7:00:00:00/24
   manufacturer: Ansaldo STS USA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnsaldoS
 type: d3-device-type-assertion

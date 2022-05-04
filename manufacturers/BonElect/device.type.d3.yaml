@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c0c73106-3002-44bb-86f3-3f386202aaa6
-  mac-addresses:
+  id: d2374de6-bcd6-4097-a8e4-e97ffdb9c26f
+  macAddresses:
   - 00:08:7E:00:00:00/24
   - 00:20:99:00:00:00/24
   manufacturer: Bon Electro-Telecom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BonElect
 type: d3-device-type-assertion

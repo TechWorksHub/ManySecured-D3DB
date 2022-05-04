@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a4fb9ca-eb3b-4336-b31e-f01396e4b449
-  mac-addresses:
+  id: 757fb5e4-00aa-4dfa-9933-d4cee261c433
+  macAddresses:
   - C4:4B:D1:00:00:00/24
   manufacturer: Wallys Communications Teachnologies Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WallysCo
 type: d3-device-type-assertion

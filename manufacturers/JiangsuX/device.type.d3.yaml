@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 036c834c-e611-4ea0-9ef6-472218afb154
-  mac-addresses:
+  id: e78ae3ec-550f-441c-a3b6-619ae3a5bc9f
+  macAddresses:
   - 24:4E:7B:50:00:00/28
   - 48:51:D0:00:00:00/24
   manufacturer: Jiangsu Xuanbo Electronic Technologies Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuX
 type: d3-device-type-assertion

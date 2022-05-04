@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3ad2a62-c12c-4230-9dba-37db5f0b6fa4
-  mac-addresses:
+  id: 26b4bae8-f7ab-4f76-85b1-d3d2b2e75873
+  macAddresses:
   - 00:02:38:00:00:00/24
   manufacturer: Serome Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeromeTe
 type: d3-device-type-assertion

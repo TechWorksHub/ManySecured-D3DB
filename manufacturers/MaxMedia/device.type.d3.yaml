@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 572f04c6-7456-49e3-8318-184a2ecd3ef5
-  mac-addresses:
+  id: 47470f13-d9ec-43f9-b1e4-aac8bd8d09d5
+  macAddresses:
   - C4:01:42:00:00:00/24
   manufacturer: MaxMedia Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxMedia
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f18b547-cacd-455a-af22-35e673596bfd
-  mac-addresses:
+  id: cb400c27-5a64-4f92-bbb0-ac33abf95b52
+  macAddresses:
   - 00:40:60:00:00:00/24
   manufacturer: Comendec Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comendec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b783ae66-9600-49db-b60a-b2ecd24cff13
-  mac-addresses:
+  id: 5e4ad18e-c6a9-408b-9925-0e38b453b1cd
+  macAddresses:
   - 00:90:DE:00:00:00/24
   manufacturer: Cardkey Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cardkey
 type: d3-device-type-assertion

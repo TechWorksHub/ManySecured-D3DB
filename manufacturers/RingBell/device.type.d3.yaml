@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a4c0aca-0313-4cc8-8730-c76879cc6247
-  mac-addresses:
+  id: d21516a7-1367-4884-84f1-fb947087c729
+  macAddresses:
   - 00:25:C2:00:00:00/24
   manufacturer: RingBell Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RingBell
 type: d3-device-type-assertion

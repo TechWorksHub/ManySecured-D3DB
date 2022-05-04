@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3850a826-0218-4d3a-8116-995901b4e507
-  mac-addresses:
+  id: 69c4c91e-b1dc-4c6f-976e-6159f1912fe5
+  macAddresses:
   - 9C:F6:DD:50:00:00/28
   manufacturer: b8ta Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: b8ta
 type: d3-device-type-assertion

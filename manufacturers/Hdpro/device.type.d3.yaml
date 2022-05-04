@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34549d22-7dce-4db2-a7ed-37bd4b882b53
-  mac-addresses:
+  id: f7099f51-2305-4399-99b1-6c35f2b99782
+  macAddresses:
   - D4:88:3F:00:00:00/24
   manufacturer: Hdpro Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hdpro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32fda044-6392-4588-9891-38ab5ddf43f1
-  mac-addresses:
+  id: eba0ee92-fda5-4bc9-9742-af842af34f3e
+  macAddresses:
   - 00:03:5B:00:00:00/24
   manufacturer: BridgeWave Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BridgeWa
 type: d3-device-type-assertion

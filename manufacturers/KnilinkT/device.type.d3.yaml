@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbf92555-f7cd-4053-86d4-711b308ce48a
-  mac-addresses:
+  id: de6ba6d2-b09f-4caa-8341-951bc2533976
+  macAddresses:
   - 00:04:60:00:00:00/24
   manufacturer: Knilink Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KnilinkT
 type: d3-device-type-assertion

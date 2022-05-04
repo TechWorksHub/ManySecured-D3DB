@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 620ec378-9c5f-44ce-afe8-f5da04e9e4b4
-  mac-addresses:
+  id: e3615d27-43ec-4693-94e2-20318fd221ea
+  macAddresses:
   - 00:0C:0B:00:00:00/24
   manufacturer: Broadbus Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadbus
 type: d3-device-type-assertion

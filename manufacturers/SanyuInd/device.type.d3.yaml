@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 800edca8-3307-4248-9727-2112997da979
-  mac-addresses:
+  id: 9ea1e911-02ec-42bb-9b92-5287efadd141
+  macAddresses:
   - 00:12:7A:00:00:00/24
   manufacturer: Sanyu Industry Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanyuInd
 type: d3-device-type-assertion

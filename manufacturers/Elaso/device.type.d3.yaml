@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7078e23a-c97c-429c-8f4e-e33e474f96f9
-  mac-addresses:
+  id: dfcbf4d6-d359-4661-a656-bbf426dd89c3
+  macAddresses:
   - 00:50:C2:C4:E0:00/36
   manufacturer: Elaso AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elaso
 type: d3-device-type-assertion

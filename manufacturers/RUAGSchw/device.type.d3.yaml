@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c569df21-cba9-475a-b4bb-13b2090294f9
-  mac-addresses:
+  id: 00cd68bf-39d6-44fe-805c-89b9d2da142c
+  macAddresses:
   - 1C:94:92:00:00:00/24
   manufacturer: RUAG Schweiz AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RUAGSchw
 type: d3-device-type-assertion

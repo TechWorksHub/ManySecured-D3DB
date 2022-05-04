@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fd4b27e-7086-4cb1-953c-ac0d405836f1
-  mac-addresses:
+  id: 6df7b679-f506-434a-81a3-78215a5d1a8b
+  macAddresses:
   - 70:B3:D5:99:70:00/36
   manufacturer: ProTom International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProTomIn
 type: d3-device-type-assertion

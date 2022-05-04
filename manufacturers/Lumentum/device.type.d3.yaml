@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8fad962-aff2-475f-be12-50745ecf5744
-  mac-addresses:
+  id: 3cef55c1-a634-479a-98ac-936abf3b8b4b
+  macAddresses:
   - 70:B3:D5:BF:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumentum
 type: d3-device-type-assertion

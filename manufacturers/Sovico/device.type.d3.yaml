@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09e0c44c-473c-453b-bc10-400beeff59ad
-  mac-addresses:
+  id: a13418cd-4f37-416f-bae0-d257010ce723
+  macAddresses:
   - 88:C3:B3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sovico
 type: d3-device-type-assertion

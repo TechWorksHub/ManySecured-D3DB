@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4f98569-99dd-4378-83b8-bf406f9e8c67
-  mac-addresses:
+  id: e0fb1013-873d-45a0-bf3e-55e6a0ef2bb0
+  macAddresses:
   - 00:0B:BB:00:00:00/24
   manufacturer: Etin Systems Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Etin
 type: d3-device-type-assertion

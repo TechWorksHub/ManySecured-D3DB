@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3701d95a-fdf2-4778-93fb-238d54aa9e37
-  mac-addresses:
+  id: bc41dd1d-75d6-47cd-b2d8-3d8161b57082
+  macAddresses:
   - 00:20:0D:00:00:00/24
   - F0:95:F1:00:00:00/24
   manufacturer: Carl Zeiss
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CarlZeis
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 492ab43a-ffe4-487f-bd74-5dffaa0eae21
-  mac-addresses:
+  id: 1681952d-48aa-46c3-ac99-07434b98b65b
+  macAddresses:
   - 00:50:C2:37:40:00/36
   - 00:50:C2:68:10:00/36
   - 24:4E:7B:60:00:00/28
   manufacturer: Owasys Advanced Wireless Devices
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OwasysAd
 type: d3-device-type-assertion

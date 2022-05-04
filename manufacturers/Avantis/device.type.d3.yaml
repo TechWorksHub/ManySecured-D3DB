@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73af3863-f99b-4154-af6c-a190d5a15e45
-  mac-addresses:
+  id: 5ce4fcb2-dab0-479b-b881-a236e8814b12
+  macAddresses:
   - 00:1B:29:00:00:00/24
   manufacturer: Avantis.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avantis
 type: d3-device-type-assertion

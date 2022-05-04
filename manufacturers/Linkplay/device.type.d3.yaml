@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af02521a-e6f8-4b4b-addc-606b50920e17
-  mac-addresses:
+  id: ee9427fd-5993-4fa5-94a8-7f9b5d89b92f
+  macAddresses:
   - 6C:15:24:20:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Linkplay
 type: d3-device-type-assertion

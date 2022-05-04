@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8c764fa-5b4e-4273-9e5b-53adfbb1b81b
-  mac-addresses:
+  id: aa674024-78e2-41bb-a85d-4bd01a82cbbf
+  macAddresses:
   - 00:05:A5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kott
 type: d3-device-type-assertion

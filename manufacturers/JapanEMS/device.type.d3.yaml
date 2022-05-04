@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11311546-7f86-4eed-a2de-462999162e3c
-  mac-addresses:
+  id: bfe035cd-5a16-44b9-8e33-0b8aabe4fcf1
+  macAddresses:
   - DC:CD:74:00:00:00/24
   manufacturer: Japan E.M.Solutions Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanEMS
 type: d3-device-type-assertion

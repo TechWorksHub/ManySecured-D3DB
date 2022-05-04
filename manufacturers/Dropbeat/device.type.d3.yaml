@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d49ca19e-38ed-4d09-8ec4-abbfa44f898c
-  mac-addresses:
+  id: 2eb0640a-e43d-4d1d-b777-eb6fd450f42b
+  macAddresses:
   - C0:FB:F9:D0:00:00/28
   manufacturer: Dropbeats Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dropbeat
 type: d3-device-type-assertion

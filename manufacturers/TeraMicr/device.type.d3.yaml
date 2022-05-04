@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32f1b765-48ae-4d67-9421-d49cfaca97e9
-  mac-addresses:
+  id: 5f9b9cb0-52f4-4e4f-83b5-3ac664464f08
+  macAddresses:
   - 00:40:CD:00:00:00/24
   manufacturer: Tera Microsystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeraMicr
 type: d3-device-type-assertion

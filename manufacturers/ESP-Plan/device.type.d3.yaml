@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5524c6d-1c6b-40e0-8ede-e25662067447
-  mac-addresses:
+  id: f0deb2f1-3854-431f-8e71-f5256a6aee46
+  macAddresses:
   - 00:50:C2:84:60:00/36
   manufacturer: ESP-Planning Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESP-Plan
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 792b37c0-bf94-4dc5-9e2a-e50d9844764c
-  mac-addresses:
+  id: e14d5b3a-8092-47ee-8fee-f1859e0ebe0a
+  macAddresses:
   - 00:E0:A0:00:00:00/24
   manufacturer: Wiltron Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wiltron
 type: d3-device-type-assertion

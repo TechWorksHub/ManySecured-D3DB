@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06e8ead4-41da-4564-8849-cea83c7fde4e
-  mac-addresses:
+  id: fc46d774-84ea-41a8-b57b-f1bd344630d9
+  macAddresses:
   - 00:50:C2:B4:20:00/36
   manufacturer: ETM Electromatic Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETMElect
 type: d3-device-type-assertion

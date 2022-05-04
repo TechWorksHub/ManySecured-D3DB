@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba39ecdd-9452-4963-9560-2687638d12af
-  mac-addresses:
+  id: eec48849-db91-4676-95f0-1f148d6e4b55
+  macAddresses:
   - 40:2C:76:E0:00:00/28
   manufacturer: LS Energy Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSEnergy
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56116f9b-c1a5-4ba1-8a82-fa0a688a6912
-  mac-addresses:
+  id: 418673d6-8408-472c-a43c-48069c7c8045
+  macAddresses:
   - 04:7E:4A:00:00:00/24
   manufacturer: moobox CO., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: moobox
 type: d3-device-type-assertion

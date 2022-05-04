@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6361d2c4-88d8-4eb7-ab77-4212173b0b63
-  mac-addresses:
+  id: 4bad54e7-7ad1-4545-9f7b-6dfcf96d8906
+  macAddresses:
   - 00:1A:42:00:00:00/24
   manufacturer: Techcity Technology co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techcity
 type: d3-device-type-assertion

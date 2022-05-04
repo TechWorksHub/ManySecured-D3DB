@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8c5b1bd-8c49-4d46-9855-75458c3876dd
-  mac-addresses:
+  id: 32b21875-f5c1-42da-a535-11f10867bdb7
+  macAddresses:
   - 94:51:3D:00:00:00/24
   manufacturer: iSmart Alarm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iSmartAl
 type: d3-device-type-assertion

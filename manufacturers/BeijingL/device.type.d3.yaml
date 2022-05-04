@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 850e0ea6-69ff-4dce-8be9-8ba2f454e7d4
-  mac-addresses:
+  id: 6e21f6ea-bc5f-4744-9509-21c72abeaefe
+  macAddresses:
   - 00:0C:23:00:00:00/24
   - 00:18:AB:00:00:00/24
   - 0C:73:EB:90:00:00/28
@@ -19,6 +19,6 @@ credentialSubject:
   - E4:CB:59:00:00:00/24
   - EC:9F:0D:70:00:00/28
   manufacturer: Beijing Lanchuan Tech. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingL
 type: d3-device-type-assertion

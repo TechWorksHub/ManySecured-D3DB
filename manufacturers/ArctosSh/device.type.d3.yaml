@@ -1,8 +1,8 @@
 credentialSubject:
-  id: faae648d-a5b3-4758-861b-678f530631cd
-  mac-addresses:
+  id: 8948455e-707c-40f2-a1d6-450741e99d1b
+  macAddresses:
   - 70:B3:D5:D0:20:00/36
   manufacturer: Arctos Showlasertechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArctosSh
 type: d3-device-type-assertion

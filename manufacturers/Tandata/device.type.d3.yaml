@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4b25af4-05d0-459b-aec9-c59e8120f5ea
-  mac-addresses:
+  id: 394446a8-d9ed-468a-8ed2-1c7a6e7e7fdd
+  macAddresses:
   - 00:50:C2:23:70:00/36
   manufacturer: Tandata Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tandata
 type: d3-device-type-assertion

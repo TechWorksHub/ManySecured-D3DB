@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8051ad9-5307-4056-9271-63d5edd677d6
-  mac-addresses:
+  id: adc17ced-1f08-4c7b-b8e1-c72b82930ce7
+  macAddresses:
   - C4:AD:F1:00:00:00/24
   manufacturer: GOPEACE Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GOPEACE
 type: d3-device-type-assertion

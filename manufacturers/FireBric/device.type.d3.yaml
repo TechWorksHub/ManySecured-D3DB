@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26f9bcd9-0d15-4476-abd9-e64a346576fb
-  mac-addresses:
+  id: adc68364-9e1f-414b-9e73-767e6fcb55f2
+  macAddresses:
   - 00:03:97:00:00:00/24
   manufacturer: FireBrick Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FireBric
 type: d3-device-type-assertion

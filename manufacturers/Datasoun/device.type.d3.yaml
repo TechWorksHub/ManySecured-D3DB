@@ -1,8 +1,8 @@
 credentialSubject:
-  id: baeffc9b-3e90-4f4c-a411-efa9e3a6b7c0
-  mac-addresses:
+  id: 7041542e-0078-4872-a72e-10c7c8a8bea1
+  macAddresses:
   - 00:06:69:00:00:00/24
   manufacturer: Datasound Laboratories Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datasoun
 type: d3-device-type-assertion

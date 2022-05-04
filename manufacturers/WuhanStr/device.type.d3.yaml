@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f145f212-b8c7-44a5-a878-e83bb30c2173
-  mac-addresses:
+  id: 0a5e0447-4f50-4a84-8e0d-467c8aa39fb5
+  macAddresses:
   - 88:5D:90:40:00:00/28
   manufacturer: Wuhan Strong Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanStr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6b2da2d-680c-4cd4-a2a0-2d6d1c861466
-  mac-addresses:
+  id: fb68e807-d857-491d-9800-5ac8deeaf668
+  macAddresses:
   - 00:19:6C:00:00:00/24
   manufacturer: Etrovision Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Etrovisi
 type: d3-device-type-assertion

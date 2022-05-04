@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bd02336-3fb5-400d-8375-b25e2dbecdc5
-  mac-addresses:
+  id: 13749ea4-d37d-4fd2-bdf1-7bd065a559bd
+  macAddresses:
   - 00:50:C2:C5:E0:00/36
   manufacturer: CellPlus technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CellPlus
 type: d3-device-type-assertion

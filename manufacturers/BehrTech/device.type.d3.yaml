@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 871bec8c-6398-4656-b2cc-35129dd13071
-  mac-addresses:
+  id: c7b334be-9d82-4d9f-8c29-ba14ab422d07
+  macAddresses:
   - 70:B3:D5:C1:F0:00/36
   manufacturer: Behr Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BehrTech
 type: d3-device-type-assertion

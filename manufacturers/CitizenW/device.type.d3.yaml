@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b639611a-01db-4cd8-a2e3-8e4feab8f557
-  mac-addresses:
+  id: d98760aa-6657-47fa-9f19-f289d7350eae
+  macAddresses:
   - 00:0C:AC:00:00:00/24
   manufacturer: Citizen Watch Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CitizenW
 type: d3-device-type-assertion

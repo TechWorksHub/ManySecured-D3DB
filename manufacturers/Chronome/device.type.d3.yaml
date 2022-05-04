@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0e4477b-6e87-432a-bd74-5ba730e89b03
-  mac-addresses:
+  id: c051d4e7-1ae9-4d60-a89c-34bb67d82ad5
+  macAddresses:
   - 70:B3:D5:21:F0:00/36
   manufacturer: Chronomedia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chronome
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d1544d8-6f28-431e-98ef-1a0afbef2fa4
-  mac-addresses:
+  id: ff083db4-30eb-4a77-9830-62feea6e16cd
+  macAddresses:
   - 70:B3:D5:2A:A0:00/36
   manufacturer: Flirtey Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flirtey
 type: d3-device-type-assertion

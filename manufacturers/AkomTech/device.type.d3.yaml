@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2c4696f-35d4-4122-a15d-406299be74ef
-  mac-addresses:
+  id: 77937810-fc58-479b-b1ec-479a2a3d6b9f
+  macAddresses:
   - 00:09:2F:00:00:00/24
   manufacturer: Akom Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AkomTech
 type: d3-device-type-assertion

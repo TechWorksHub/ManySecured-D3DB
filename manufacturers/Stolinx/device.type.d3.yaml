@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c62e1f4-9f2f-4505-9d8c-c8370bcbb9f8
-  mac-addresses:
+  id: 8dd5836e-d952-48ae-b4ef-694c09f9d474
+  macAddresses:
   - 00:14:E7:00:00:00/24
   manufacturer: Stolinx,. Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stolinx
 type: d3-device-type-assertion

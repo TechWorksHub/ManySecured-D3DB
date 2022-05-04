@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 650ac9da-2f2e-4be0-b964-96a55a969005
-  mac-addresses:
+  id: 6d5a6b09-76ff-4134-92b2-254412b631b5
+  macAddresses:
   - 00:06:54:00:00:00/24
   manufacturer: Winpresa Building Automation Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Winpresa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d78a0086-52cb-4b9b-a20c-43fc8f5097ba
-  mac-addresses:
+  id: 171e1897-5ec2-4563-9587-b2191ef3bcaf
+  macAddresses:
   - 00:E0:BF:00:00:00/24
   manufacturer: Torrent Networking Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TorrentN
 type: d3-device-type-assertion

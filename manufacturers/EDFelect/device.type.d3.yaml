@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 723115e0-eadd-48d2-972f-33f0253d32bc
-  mac-addresses:
+  id: bcd4bb40-5f01-48b8-8e37-cc6fa8ef28ef
+  macAddresses:
   - 70:B3:D5:23:40:00/36
   manufacturer: EDFelectronics JRMM Sp z o.o. sp.k.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDFelect
 type: d3-device-type-assertion

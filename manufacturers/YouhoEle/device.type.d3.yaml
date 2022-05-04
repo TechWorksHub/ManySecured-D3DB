@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b8734a0-f303-4528-806d-bcf00e00a241
-  mac-addresses:
+  id: d931377a-783c-451b-8f6d-01d3445c0822
+  macAddresses:
   - 00:50:C2:E0:C0:00/36
   manufacturer: Youho Electric Ind.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YouhoEle
 type: d3-device-type-assertion

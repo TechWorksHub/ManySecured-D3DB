@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef8b653a-5c9d-4233-82eb-6943141d2c3d
-  mac-addresses:
+  id: 81b8b174-27ea-442b-b714-32325740ab08
+  macAddresses:
   - 70:B3:D5:A0:F0:00/36
   manufacturer: Osaki Datatech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsakiDat
 type: d3-device-type-assertion

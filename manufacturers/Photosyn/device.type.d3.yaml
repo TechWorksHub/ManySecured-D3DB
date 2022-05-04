@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c92d6093-a59a-427f-abb9-13033ca94cc1
-  mac-addresses:
+  id: c250e574-2975-4b4a-b0d5-ed345dd02d3e
+  macAddresses:
   - 7C:47:7C:10:00:00/28
   manufacturer: Photosynth Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Photosyn
 type: d3-device-type-assertion

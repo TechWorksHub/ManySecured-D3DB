@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e980d05d-608e-43a0-ac1c-6b17dd18f02c
-  mac-addresses:
+  id: 070f1ce2-e346-4e7b-9a2f-92a7cd4cb2e0
+  macAddresses:
   - 98:8E:4A:00:00:00/24
   manufacturer: Noxus(Beijing) Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NoxusBei
 type: d3-device-type-assertion

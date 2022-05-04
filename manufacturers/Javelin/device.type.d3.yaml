@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94328555-df38-4b3c-814a-c878ac7711c2
-  mac-addresses:
+  id: 96a73224-e05b-4316-82bd-a39ba6cf4fc5
+  macAddresses:
   - 00:90:C4:00:00:00/24
   manufacturer: Javelin Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Javelin
 type: d3-device-type-assertion

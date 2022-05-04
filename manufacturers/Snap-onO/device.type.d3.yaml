@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52b6a7c8-f116-444a-9415-7e36a61fcc22
-  mac-addresses:
+  id: e826df35-3989-4e68-9b91-66de13f7718a
+  macAddresses:
   - 00:0D:E7:00:00:00/24
   manufacturer: Snap-on OEM Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Snap-onO
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d5febd5-5e65-42b9-bf83-f2f0984880f1
-  mac-addresses:
+  id: 04f16751-36bd-4abe-956f-fadcbc7ee9ef
+  macAddresses:
   - 10:2D:96:00:00:00/24
   manufacturer: Looxcie Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Looxcie
 type: d3-device-type-assertion

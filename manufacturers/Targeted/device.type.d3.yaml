@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00bb002c-1eef-4e84-8b17-27c1e2de77e2
-  mac-addresses:
+  id: 845d2936-dc1e-4bc7-8456-b9626287665e
+  macAddresses:
   - 00:50:C2:56:C0:00/36
   manufacturer: Targeted Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Targeted
 type: d3-device-type-assertion

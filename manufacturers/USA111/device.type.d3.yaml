@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a181307-501d-44b1-a844-3c51c9bc2861
-  mac-addresses:
+  id: e36ee371-d1f1-42c3-a806-a2c3d587a947
+  macAddresses:
   - A8:D4:09:00:00:00/24
   manufacturer: USA 111 Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: USA111
 type: d3-device-type-assertion

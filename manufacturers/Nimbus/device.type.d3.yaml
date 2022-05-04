@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33344646-7876-4241-8651-64baf9609306
-  mac-addresses:
+  id: a147b8b8-ee47-4989-9b0c-dbf3411ad780
+  macAddresses:
   - 80:64:59:00:00:00/24
   manufacturer: Nimbus Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nimbus
 type: d3-device-type-assertion

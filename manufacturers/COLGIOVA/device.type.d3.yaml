@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e21b72a-87e6-4d11-8bf0-8e9407e9a329
-  mac-addresses:
+  id: 549980a3-3bf2-4e37-a149-bd9825d0ea01
+  macAddresses:
   - 20:BB:76:00:00:00/24
   manufacturer: COL GIOVANNI PAOLO SpA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COLGIOVA
 type: d3-device-type-assertion

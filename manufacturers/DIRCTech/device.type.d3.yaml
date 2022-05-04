@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 006eb368-01da-4ea1-bc9f-d20bdc303a50
-  mac-addresses:
+  id: 79aab5fd-66bf-4709-9d00-35138fc4c0c5
+  macAddresses:
   - 00:08:95:00:00:00/24
   manufacturer: DIRC Technologie GmbH & Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DIRCTech
 type: d3-device-type-assertion

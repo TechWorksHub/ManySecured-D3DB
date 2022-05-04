@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddf070fc-877e-496c-b8bc-f498f01f7660
-  mac-addresses:
+  id: 7ff7471b-7623-4222-8bd2-50e0f709ced1
+  macAddresses:
   - 00:19:8C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iXSea
 type: d3-device-type-assertion

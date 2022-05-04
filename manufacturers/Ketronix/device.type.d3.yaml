@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a25481e5-f771-419c-9047-279b578fe1b9
-  mac-addresses:
+  id: 2bf83d3c-a980-4223-be68-9b3905608c32
+  macAddresses:
   - 70:B3:D5:6A:C0:00/36
   manufacturer: Ketronixs Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ketronix
 type: d3-device-type-assertion

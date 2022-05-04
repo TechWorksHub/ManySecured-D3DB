@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbf70224-c178-4ac2-83c5-1c879fa0edda
-  mac-addresses:
+  id: 29f49383-7d24-4c1b-9694-7ab32bc45d93
+  macAddresses:
   - 00:0A:9F:00:00:00/24
   manufacturer: Pannaway Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pannaway
 type: d3-device-type-assertion

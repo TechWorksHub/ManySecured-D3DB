@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2d1265d-8a3c-4875-b6f9-c2c3ada3309f
-  mac-addresses:
+  id: ca345160-ff88-464d-96d7-a48af3b33eab
+  macAddresses:
   - 00:06:8B:00:00:00/24
   manufacturer: AirRunner Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirRunne
 type: d3-device-type-assertion

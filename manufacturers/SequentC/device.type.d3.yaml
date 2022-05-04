@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4615e34-70d9-4430-be62-65f7cdc8ca0b
-  mac-addresses:
+  id: a9e7981e-ec08-479b-b7df-1d251dc946dc
+  macAddresses:
   - 08:00:47:00:00:00/24
   manufacturer: Sequent Computer Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SequentC
 type: d3-device-type-assertion

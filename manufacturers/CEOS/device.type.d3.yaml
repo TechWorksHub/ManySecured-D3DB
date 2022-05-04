@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec3f2122-d538-4ddd-89fd-ae0bdeaafc62
-  mac-addresses:
+  id: 87847d6e-9794-43c8-9d53-e0278a03d8a5
+  macAddresses:
   - 8C:1C:DA:00:00:00/28
   manufacturer: CEOS Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CEOS
 type: d3-device-type-assertion

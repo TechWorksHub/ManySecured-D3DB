@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3cad3ca-8e4a-4203-8a43-7a96b0dbfc75
-  mac-addresses:
+  id: 6229cbc5-15f6-40fa-82e6-bc0aeecf2887
+  macAddresses:
   - 4C:B7:6D:00:00:00/24
   manufacturer: Novi Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NoviSecu
 type: d3-device-type-assertion

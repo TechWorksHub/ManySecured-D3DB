@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 715e3b71-55a1-4e27-b3d9-e2dfca2df027
-  mac-addresses:
+  id: 39e8d620-7047-4a38-8475-7b4a75289adb
+  macAddresses:
   - 00:12:E7:00:00:00/24
   manufacturer: Projectek Networking Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Projecte
 type: d3-device-type-assertion

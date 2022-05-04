@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a72dbf2b-70d6-4919-bcfa-8bb95c5104dc
-  mac-addresses:
+  id: 1a0e9b73-6798-4245-9d87-8bde5ecfb56b
+  macAddresses:
   - 00:00:8E:00:00:00/24
   manufacturer: Solbourne Computer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Solbourn
 type: d3-device-type-assertion

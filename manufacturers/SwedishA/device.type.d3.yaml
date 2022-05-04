@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78c81fee-c251-4e5c-bf1d-53de242c740f
-  mac-addresses:
+  id: f2f464d2-9323-4cf7-a650-7fc9ad36704a
+  macAddresses:
   - 38:FD:FE:B0:00:00/28
   manufacturer: Swedish Adrenaline AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwedishA
 type: d3-device-type-assertion

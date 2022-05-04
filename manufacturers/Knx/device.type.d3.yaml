@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c62ffd7-e369-4750-a3db-e9b481061a28
-  mac-addresses:
+  id: 2600973e-8975-4e43-a756-db830c9a0655
+  macAddresses:
   - 00:C0:72:00:00:00/24
   manufacturer: Knx Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Knx
 type: d3-device-type-assertion

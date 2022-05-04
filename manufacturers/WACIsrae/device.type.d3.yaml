@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcd06d2c-73c4-4131-8a69-a5a9d7a5b9fe
-  mac-addresses:
+  id: 4f84de2f-67bc-4029-8656-71c667b033cf
+  macAddresses:
   - 00:50:C2:B8:E0:00/36
   manufacturer: WAC (Israel) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WACIsrae
 type: d3-device-type-assertion

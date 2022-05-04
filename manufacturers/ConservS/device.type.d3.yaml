@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b58af2f-49c1-4cfb-b48e-05d9324239c7
-  mac-addresses:
+  id: bcda44b2-4f5b-4762-b497-62fe0441ac76
+  macAddresses:
   - 70:B3:D5:31:00:00/36
   manufacturer: Conserv Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConservS
 type: d3-device-type-assertion

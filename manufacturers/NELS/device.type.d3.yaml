@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a08db6ca-1a5c-4322-9f34-90dc130392fe
-  mac-addresses:
+  id: 46f90d27-407f-4e46-81d0-41bc9bdb6531
+  macAddresses:
   - 70:B3:D5:82:C0:00/36
   manufacturer: NELS Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NELS
 type: d3-device-type-assertion

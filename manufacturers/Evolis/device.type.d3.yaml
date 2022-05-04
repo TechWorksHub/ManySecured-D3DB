@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67560861-6e8d-435c-8abe-91cbca89a129
-  mac-addresses:
+  id: 9dfe98ef-f60f-456a-aeb5-ce09e2ea65ea
+  macAddresses:
   - 00:1A:FD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Evolis
 type: d3-device-type-assertion

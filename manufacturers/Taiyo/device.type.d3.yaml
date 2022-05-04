@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d74a98c6-a415-432b-a4b5-26f652c05557
-  mac-addresses:
+  id: b4a7e138-8d63-47d2-b7d4-f828960b639b
+  macAddresses:
   - 00:20:2D:00:00:00/24
   manufacturer: Taiyo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Taiyo
 type: d3-device-type-assertion

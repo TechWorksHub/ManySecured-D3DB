@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efb630d1-8ac4-46c8-8430-ce013549d829
-  mac-addresses:
+  id: 7b596538-6c41-48e6-987c-5a4f7248e5d8
+  macAddresses:
   - 00:50:C2:96:80:00/36
   manufacturer: BuLogics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BuLogics
 type: d3-device-type-assertion

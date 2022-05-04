@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c82c21a7-dbdb-46f9-9ab8-0f39737e34d5
-  mac-addresses:
+  id: c138239d-5f28-4780-aa3e-58466b4393f4
+  macAddresses:
   - 70:B7:E2:00:00:00/24
   manufacturer: Jiangsu Miter Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuM
 type: d3-device-type-assertion

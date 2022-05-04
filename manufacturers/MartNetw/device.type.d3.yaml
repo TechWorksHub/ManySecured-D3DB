@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 84eeb202-baa8-414e-aec1-392017014bc3
-  mac-addresses:
+  id: d49435ae-8f01-40c7-b25e-7b08931d1577
+  macAddresses:
   - 70:B3:D5:94:F0:00/36
   - 70:B3:D5:AB:E0:00/36
   manufacturer: Mart Network Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MartNetw
 type: d3-device-type-assertion

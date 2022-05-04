@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 011a8aa8-9935-4975-aac5-9633a0b6c077
-  mac-addresses:
+  id: b6b1bb58-5bed-4ece-9e6c-282dc007c85f
+  macAddresses:
   - C4:00:49:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kamama
 type: d3-device-type-assertion

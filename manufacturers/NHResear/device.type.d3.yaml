@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f8fada0-9b31-4bfa-aece-2da030073010
-  mac-addresses:
+  id: c71efd9d-a3bf-4ebd-bc47-d9fed6250f83
+  macAddresses:
   - 00:50:C2:7E:E0:00/36
   manufacturer: NH Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NHResear
 type: d3-device-type-assertion

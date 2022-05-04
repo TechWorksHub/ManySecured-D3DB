@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3af69ac-0c43-46a6-b6b7-08bc9d23111e
-  mac-addresses:
+  id: ba87716b-6153-4ebb-bd28-ba3c2d8e5650
+  macAddresses:
   - D0:76:50:A0:00:00/28
   manufacturer: InventDesign
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InventDe
 type: d3-device-type-assertion

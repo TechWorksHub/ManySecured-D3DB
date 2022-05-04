@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa184863-55af-4e18-a0e6-bc730c04b4da
-  mac-addresses:
+  id: 09e01c05-6e6a-40d4-867a-ffd2c077b2d1
+  macAddresses:
   - B4:4B:D6:B0:00:00/28
   manufacturer: DongYoung media
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DongYoun
 type: d3-device-type-assertion

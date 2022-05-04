@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e84649df-c58f-4ff8-86d2-728b877b052a
-  mac-addresses:
+  id: 17d6487e-cbe3-413f-8317-f56db0ed0f17
+  macAddresses:
   - 70:DA:9C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecsen
 type: d3-device-type-assertion

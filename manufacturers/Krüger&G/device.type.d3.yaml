@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33b68ad8-35b7-4e17-a863-8feab3b493e3
-  mac-addresses:
+  id: 04783e7a-08ad-48e3-aa51-cdc305c6d93a
+  macAddresses:
   - 00:26:4F:00:00:00/24
   manufacturer: "Kr\xFCger &Gothe GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Kr\xFCger&G"
 type: d3-device-type-assertion

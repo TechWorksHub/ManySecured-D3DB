@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8eeb3add-4a7b-4bd1-a272-022cfc96acc6
-  mac-addresses:
+  id: 35551582-75b6-48dc-8995-5b7f3e8be4ad
+  macAddresses:
   - A0:28:33:50:00:00/28
   manufacturer: JGR Optics Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JGROptic
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2ee2762-330d-401a-badd-531832c18dba
-  mac-addresses:
+  id: 1f29c2d0-d820-4aa3-ab4d-c468b526f364
+  macAddresses:
   - 00:0B:E6:00:00:00/24
   manufacturer: Datel Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatelEle
 type: d3-device-type-assertion

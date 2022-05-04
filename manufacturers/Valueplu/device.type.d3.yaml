@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49893e1a-3d83-48a9-98c5-03e1dc7866bc
-  mac-addresses:
+  id: c429540e-55cd-4250-9870-8a51b13a74ec
+  macAddresses:
   - AC:6F:D9:00:00:00/24
   manufacturer: Valueplus Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Valueplu
 type: d3-device-type-assertion

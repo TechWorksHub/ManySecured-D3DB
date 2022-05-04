@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53d4ec97-9622-4cc4-ba4a-029a76820968
-  mac-addresses:
+  id: abd4084e-e634-4a78-b755-f3739cd4c224
+  macAddresses:
   - 48:17:4C:00:00:00/24
   manufacturer: MicroPower technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroPow
 type: d3-device-type-assertion

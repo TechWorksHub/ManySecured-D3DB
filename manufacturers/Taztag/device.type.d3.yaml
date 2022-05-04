@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee064310-7366-443b-a79a-9100c7877784
-  mac-addresses:
+  id: 858da138-e3a1-4fec-a9ff-844eb24c8682
+  macAddresses:
   - 64:0E:36:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Taztag
 type: d3-device-type-assertion

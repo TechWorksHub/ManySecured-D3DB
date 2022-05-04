@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e8cc94b-1c44-4ad4-b9f6-54ea20fef716
-  mac-addresses:
+  id: 223bc42b-7e86-4d20-8da7-a33af7d46213
+  macAddresses:
   - 44:6C:24:00:00:00/24
   manufacturer: Reallin Electronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReallinE
 type: d3-device-type-assertion

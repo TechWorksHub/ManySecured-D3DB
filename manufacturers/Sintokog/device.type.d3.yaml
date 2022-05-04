@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d985440-22ab-45d8-8f2f-9c3d0e571e4e
-  mac-addresses:
+  id: a6f6c864-e2fa-48a3-a60f-7959abbf8f4f
+  macAddresses:
   - 70:B3:D5:42:F0:00/36
   manufacturer: Sintokogio, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sintokog
 type: d3-device-type-assertion

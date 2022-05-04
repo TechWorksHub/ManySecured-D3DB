@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b209b4c-ff19-4fe9-a402-c5ddbdadbe38
-  mac-addresses:
+  id: 2d13483f-785c-417a-97b3-04e88aade3f3
+  macAddresses:
   - 00:B0:EE:00:00:00/24
   manufacturer: Ajile Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ajile
 type: d3-device-type-assertion

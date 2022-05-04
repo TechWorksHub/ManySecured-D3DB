@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77bdb3f3-27f2-48e1-a900-1aab654ad705
-  mac-addresses:
+  id: 7320ba7a-e186-4f0f-92ab-8278e7550093
+  macAddresses:
   - 48:B8:DE:00:00:00/24
   manufacturer: Homewins Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Homewins
 type: d3-device-type-assertion

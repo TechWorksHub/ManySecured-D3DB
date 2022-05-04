@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3b547e8-4f8d-4612-b763-e3e2ef053080
-  mac-addresses:
+  id: a8e65f97-8a79-476f-8e32-a7c221bbffc7
+  macAddresses:
   - 8C:1F:64:E6:10:00/36
   manufacturer: Stange Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StangeEl
 type: d3-device-type-assertion

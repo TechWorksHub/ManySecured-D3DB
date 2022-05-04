@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4a1d424-d6fe-4b84-81e2-f82119fdfe11
-  mac-addresses:
+  id: 969a0ecf-f144-4e82-8125-5d6df559fcb1
+  macAddresses:
   - 00:50:C2:10:70:00/36
   manufacturer: NewHer Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewHer
 type: d3-device-type-assertion

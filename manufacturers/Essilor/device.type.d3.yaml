@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43abced0-3688-45a7-9f07-02d888b27839
-  mac-addresses:
+  id: 3e6f99f8-0055-423e-ac08-2b5dbc90ac1d
+  macAddresses:
   - 00:1A:12:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Essilor
 type: d3-device-type-assertion

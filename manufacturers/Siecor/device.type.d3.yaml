@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 240fec72-65e5-4571-9160-15e1e2c0f53d
-  mac-addresses:
+  id: f6958a3d-084e-4bc0-ae3d-f6906cdd72a1
+  macAddresses:
   - 00:00:73:00:00:00/24
   manufacturer: Siecor Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siecor
 type: d3-device-type-assertion

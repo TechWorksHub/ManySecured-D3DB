@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c09f3e70-84e5-42da-a07d-a4176552461c
-  mac-addresses:
+  id: 41949be4-63a7-4251-8174-59e09f2d804e
+  macAddresses:
   - CC:47:03:00:00:00/24
   manufacturer: Intercon Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intercon
 type: d3-device-type-assertion

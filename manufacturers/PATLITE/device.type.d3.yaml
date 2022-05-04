@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bc51b83-5c14-41dc-b2d6-d5cb98ac390e
-  mac-addresses:
+  id: 26d47a73-4b44-4734-adbe-97d3f7430704
+  macAddresses:
   - 00:50:C2:27:90:00/36
   manufacturer: PATLITE Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PATLITE
 type: d3-device-type-assertion

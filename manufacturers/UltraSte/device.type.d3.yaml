@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef8945c6-dd1a-45a5-9eae-401a9d079d6a
-  mac-addresses:
+  id: f50a8220-b0fd-43b4-adb5-bd94cdc8e321
+  macAddresses:
   - 00:23:FC:00:00:00/24
   manufacturer: Ultra Stereo Labs, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UltraSte
 type: d3-device-type-assertion

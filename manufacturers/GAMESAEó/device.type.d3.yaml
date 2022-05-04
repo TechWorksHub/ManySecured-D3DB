@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80bd6c74-0c22-4589-bd97-56e6a2f86b3d
-  mac-addresses:
+  id: 32eb5ce3-31de-4100-bce2-77b7d9e699be
+  macAddresses:
   - 00:0C:F2:00:00:00/24
   manufacturer: "GAMESA E\xF3lica"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "GAMESAE\xF3"
 type: d3-device-type-assertion

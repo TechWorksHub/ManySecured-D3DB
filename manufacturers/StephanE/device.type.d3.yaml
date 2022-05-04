@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8c19dbf-748e-4616-8172-5b729624fd87
-  mac-addresses:
+  id: 7b9780ae-d967-476b-8873-e164678e6c15
+  macAddresses:
   - 68:79:12:30:00:00/28
   manufacturer: Stephan Electronics SARL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StephanE
 type: d3-device-type-assertion

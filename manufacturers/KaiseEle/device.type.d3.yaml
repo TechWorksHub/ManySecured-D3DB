@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2841f67e-159a-4e04-9e5a-9de289dde353
-  mac-addresses:
+  id: ce295732-c558-4f28-b429-56fbadbc4179
+  macAddresses:
   - 00:1C:C9:00:00:00/24
   manufacturer: Kaise Electronic Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KaiseEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7dc1a36-ef86-4cd1-8ee5-e5cb8a47e77d
-  mac-addresses:
+  id: 101e64c8-c4c4-4f54-b988-bbbe0b7f8708
+  macAddresses:
   - B0:88:07:00:00:00/24
   manufacturer: Strata Worldwide
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StrataWo
 type: d3-device-type-assertion

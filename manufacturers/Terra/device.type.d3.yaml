@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d982aa25-e05f-4e7b-9ca0-dc54d09152f2
-  mac-addresses:
+  id: b03ec1e7-e1db-4b25-8104-3e3c4ad35c01
+  macAddresses:
   - 00:1C:A3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Terra
 type: d3-device-type-assertion

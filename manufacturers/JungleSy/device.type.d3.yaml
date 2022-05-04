@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f5a7299-72b1-489a-9726-75c0cea6d6a2
-  mac-addresses:
+  id: 83f01d3a-2eda-4aef-9713-eebab0489258
+  macAddresses:
   - 00:50:C2:62:70:00/36
   manufacturer: JungleSystem Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JungleSy
 type: d3-device-type-assertion

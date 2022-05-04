@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85e774e1-21ef-48b8-8dda-522c4d5f4d28
-  mac-addresses:
+  id: 6c110f58-06d0-4264-87ed-0a4bfca1d5e5
+  macAddresses:
   - 00:50:C2:9A:20:00/36
   manufacturer: SAMsystems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAMsyste
 type: d3-device-type-assertion

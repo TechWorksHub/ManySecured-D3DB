@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78a04820-861b-43ca-be00-af2763a4063d
-  mac-addresses:
+  id: 0da376b8-edd4-422d-9bc7-c3d18f00dc02
+  macAddresses:
   - 00:08:1A:00:00:00/24
   manufacturer: Sanrad Intelligence Storage Communications (2000) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanradIn
 type: d3-device-type-assertion

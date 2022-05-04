@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5902c0ba-97a2-4ab0-adf5-18fef73dcc98
-  mac-addresses:
+  id: 0ee71d22-bfad-4953-865c-84c4b59eca17
+  macAddresses:
   - 00:50:C2:B5:30:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prodco
 type: d3-device-type-assertion

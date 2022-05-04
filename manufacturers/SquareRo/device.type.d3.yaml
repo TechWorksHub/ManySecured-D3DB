@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7d979b4-9bca-4a8f-bbf1-acb09441571f
-  mac-addresses:
+  id: 4f5d4a85-2cad-47a9-b3e8-0a010063844f
+  macAddresses:
   - 34:92:C2:00:00:00/24
   manufacturer: Square Route Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SquareRo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e03b3435-e8e1-4585-8d31-cb9778885b05
-  mac-addresses:
+  id: eea6ae93-4789-4b1f-ae22-23518a2b9edd
+  macAddresses:
   - 00:50:C2:07:70:00/36
   manufacturer: Saco Smartvision Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SacoSmar
 type: d3-device-type-assertion

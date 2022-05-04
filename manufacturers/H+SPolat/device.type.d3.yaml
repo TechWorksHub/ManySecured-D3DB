@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07615349-f547-4742-8c42-dd0e446930c0
-  mac-addresses:
+  id: fbaff6e3-41aa-43b6-ba04-f12be77f59db
+  macAddresses:
   - F0:BD:2E:00:00:00/24
   manufacturer: H+S Polatis Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H+SPolat
 type: d3-device-type-assertion

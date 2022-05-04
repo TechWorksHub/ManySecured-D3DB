@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 356e61eb-0a87-433a-bc62-c04af57e035b
-  mac-addresses:
+  id: f020edde-ed06-4595-9d92-0183cdfc0e1a
+  macAddresses:
   - 00:02:EB:00:00:00/24
   manufacturer: Pico Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PicoComm
 type: d3-device-type-assertion

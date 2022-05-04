@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e39ace9e-5e07-4e89-b24c-f74059bea468
-  mac-addresses:
+  id: 4402ed93-9022-42d6-a273-dd66918356af
+  macAddresses:
   - 00:60:B6:00:00:00/24
   manufacturer: Land Computer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LandComp
 type: d3-device-type-assertion

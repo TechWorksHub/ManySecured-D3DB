@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 538d353f-ac73-40df-a92b-e4b8023945d5
-  mac-addresses:
+  id: 4aff141c-8724-4021-8863-08c6a39a0c47
+  macAddresses:
   - 00:50:C2:78:30:00/36
   manufacturer: NORMA systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NORMA
 type: d3-device-type-assertion

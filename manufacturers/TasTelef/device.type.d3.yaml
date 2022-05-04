@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d098011e-3c83-4438-998c-a631566f891d
-  mac-addresses:
+  id: faf80fa3-1f4f-4cfc-9bba-a244f8e4c939
+  macAddresses:
   - 00:50:DC:00:00:00/24
   manufacturer: Tas Telefonbau A. Schwabe Gmbh & Co. Kg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TasTelef
 type: d3-device-type-assertion

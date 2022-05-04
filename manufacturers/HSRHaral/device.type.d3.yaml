@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f93fc281-c8c7-4e63-8793-2e8e964156a3
-  mac-addresses:
+  id: 9513482d-2261-42bf-90ce-d6d3ce20fdd0
+  macAddresses:
   - 00:50:C2:B0:10:00/36
   manufacturer: HSR Harald L. Reuter
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HSRHaral
 type: d3-device-type-assertion

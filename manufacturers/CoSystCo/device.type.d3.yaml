@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cacbe050-9a2b-4e34-8589-8026f0e205f0
-  mac-addresses:
+  id: f28490cf-6ff0-447c-9a39-d5fc141e2916
+  macAddresses:
   - FC:7F:56:00:00:00/24
   manufacturer: CoSyst Control Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoSystCo
 type: d3-device-type-assertion

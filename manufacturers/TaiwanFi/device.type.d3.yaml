@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2503401-d2b7-4ef7-98b5-0ad1cf82a793
-  mac-addresses:
+  id: 21688a00-ff7b-4198-a40e-406440ab4bfd
+  macAddresses:
   - 00:30:91:00:00:00/24
   manufacturer: Taiwan First Line Elec. Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaiwanFi
 type: d3-device-type-assertion

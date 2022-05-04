@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6cfeb89-bd61-462f-98ee-9ec35adf85a0
-  mac-addresses:
+  id: 37ca3f4d-c281-494f-8ef2-418df724c7d6
+  macAddresses:
   - 00:30:27:00:00:00/24
   manufacturer: Kerbango, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kerbango
 type: d3-device-type-assertion

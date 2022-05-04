@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73a7d4f7-f1d2-4128-b40a-19b3b295a6dc
-  mac-addresses:
+  id: 92d361f0-962a-4036-9f3f-854b046e8732
+  macAddresses:
   - 00:D0:73:00:00:00/24
   manufacturer: Acn Advanced Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcnAdvan
 type: d3-device-type-assertion

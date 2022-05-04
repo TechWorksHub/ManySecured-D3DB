@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d6c5753-8db3-461e-a0ee-1bc1033003d9
-  mac-addresses:
+  id: fba6c222-d255-4347-9d5f-d6aa651f5595
+  macAddresses:
   - 00:0A:D6:00:00:00/24
   manufacturer: BeamReach Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeamReac
 type: d3-device-type-assertion

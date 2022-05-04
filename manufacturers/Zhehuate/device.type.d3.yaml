@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a838d49-18d3-43fa-bbc0-1fbecf5c5bfa
-  mac-addresses:
+  id: e3180346-7ef3-4d24-9e27-64bc232adafd
+  macAddresses:
   - D0:EB:03:00:00:00/24
   manufacturer: Zhehua technology limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zhehuate
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcfa2b39-79c3-4631-b85d-b470801d5a39
-  mac-addresses:
+  id: a650e009-3da5-4725-8656-1d83ef092bc0
+  macAddresses:
   - 00:50:C2:78:80:00/36
   manufacturer: Hosa Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HosaTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5be5c3e6-abe2-4b06-ad03-0b36c27464be
-  mac-addresses:
+  id: faae4b3e-37fa-4604-8695-f770238dc829
+  macAddresses:
   - 00:05:48:00:00:00/24
   manufacturer: Disco Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Disco
 type: d3-device-type-assertion

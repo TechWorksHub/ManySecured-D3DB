@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fc30c5c-6b1f-47c4-97ff-14c0ac46f987
-  mac-addresses:
+  id: b3ef64b5-b2f9-46de-a302-fd7b26409fea
+  macAddresses:
   - 70:B3:D5:FB:90:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eyedea
 type: d3-device-type-assertion

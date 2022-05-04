@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a42a26ee-d068-494f-b674-42bd83097d55
-  mac-addresses:
+  id: ad87d263-cfe7-4fe8-a8f8-ce84975d6a54
+  macAddresses:
   - 10:0D:32:00:00:00/24
   manufacturer: Embedian, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embedian
 type: d3-device-type-assertion

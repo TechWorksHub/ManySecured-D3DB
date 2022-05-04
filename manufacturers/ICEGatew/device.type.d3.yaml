@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ce24188-094a-4dee-af35-ebeb6c4acc1f
-  mac-addresses:
+  id: c22bf0a2-7fc2-4d2d-a10c-340a1781a834
+  macAddresses:
   - F4:90:CB:20:00:00/28
   manufacturer: ICE Gateway GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICEGatew
 type: d3-device-type-assertion

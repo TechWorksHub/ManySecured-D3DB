@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3c6d574-8864-4f76-a9b4-0ca6004313b1
-  mac-addresses:
+  id: a3abc2cb-30b9-45d3-b1a7-b73d9a952a74
+  macAddresses:
   - 00:18:E3:00:00:00/24
   manufacturer: Visualgate Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visualga
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcdbe00d-1fc1-4b4e-9368-752db635c4ba
-  mac-addresses:
+  id: b06ea824-605e-42dd-869c-45e1b197b12e
+  macAddresses:
   - 00:50:C2:81:30:00/36
   manufacturer: Intelleflex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intellef
 type: d3-device-type-assertion

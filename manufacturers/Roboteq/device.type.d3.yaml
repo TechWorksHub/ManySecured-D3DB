@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 794a636a-0a09-4392-8fe0-a2f790769c36
-  mac-addresses:
+  id: e5888c5a-716c-45f9-903f-85ebb9dfd5b7
+  macAddresses:
   - 70:B3:D5:DA:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Roboteq
 type: d3-device-type-assertion

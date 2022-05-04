@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f283e3de-cac0-48c9-8418-68bab9188c03
-  mac-addresses:
+  id: 1da5cc5c-c3b3-42c0-85f5-9c5cc1ab199b
+  macAddresses:
   - A0:BB:3E:90:00:00/28
   manufacturer: Sandal Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sandal
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be646068-efeb-419a-abbb-33e30f10d3f7
-  mac-addresses:
+  id: f8902168-5f93-4137-99f8-b6dd4bf8bd73
+  macAddresses:
   - DC:99:FE:00:00:00/24
   manufacturer: Armatura LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Armatura
 type: d3-device-type-assertion

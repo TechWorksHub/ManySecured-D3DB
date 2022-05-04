@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4535602e-5012-4818-ad0a-d4f9a5ec71a1
-  mac-addresses:
+  id: 9b467706-9f18-4487-808b-35f25aa14c4a
+  macAddresses:
   - 00:11:41:00:00:00/24
   manufacturer: GoodMan Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoodMan
 type: d3-device-type-assertion

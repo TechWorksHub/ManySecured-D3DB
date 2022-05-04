@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad2a7d78-3fce-4117-8617-95084c7b0c90
-  mac-addresses:
+  id: 7bd47c83-a38e-4fc7-9762-f8988ce04be4
+  macAddresses:
   - 00:C0:C8:00:00:00/24
   manufacturer: Micro Byte Pty. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroByt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dce40cfa-1086-4732-aaf7-fffde8a8d7d1
-  mac-addresses:
+  id: 37e8d2f9-bfe5-4052-bc19-2e6a683127e0
+  macAddresses:
   - 00:E0:3C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdvanSys
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01a833f2-cc03-4a57-bc67-c682a1994780
-  mac-addresses:
+  id: 25bf3f9c-4dbc-470c-892b-6347f4487af3
+  macAddresses:
   - 40:48:FD:80:00:00/28
   manufacturer: Dorel Juvenile
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DorelJuv
 type: d3-device-type-assertion

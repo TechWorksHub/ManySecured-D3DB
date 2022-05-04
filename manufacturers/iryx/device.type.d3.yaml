@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee00ea3c-0dde-45dc-a5d3-dd1cdcb55f60
-  mac-addresses:
+  id: a2364a7e-262f-418a-b5f9-8fc05772f552
+  macAddresses:
   - 5C:55:78:00:00:00/24
   manufacturer: iryx corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iryx
 type: d3-device-type-assertion

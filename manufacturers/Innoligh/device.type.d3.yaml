@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c856d4d3-dc5d-4cc7-a6ac-d9b33113ce18
-  mac-addresses:
+  id: 3c0e191a-3693-46d0-b7eb-7b6f61b72047
+  macAddresses:
   - 44:7C:7F:00:00:00/24
   manufacturer: Innolight Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innoligh
 type: d3-device-type-assertion

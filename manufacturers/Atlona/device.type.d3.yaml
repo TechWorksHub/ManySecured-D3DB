@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39bc242e-ae00-4a07-9508-d0fc6a3f71d5
-  mac-addresses:
+  id: b19af3db-106f-40f6-8de4-0284908c793f
+  macAddresses:
   - B8:98:B0:00:00:00/24
   manufacturer: Atlona Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atlona
 type: d3-device-type-assertion

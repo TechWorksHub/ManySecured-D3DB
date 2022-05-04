@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66ea9c53-cc20-44e6-9d19-346e9320039b
-  mac-addresses:
+  id: c9285602-eae0-46c5-ba9d-8141b9ccb0e6
+  macAddresses:
   - 00:25:DE:00:00:00/24
   manufacturer: Probits Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Probits
 type: d3-device-type-assertion

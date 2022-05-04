@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b83fea65-ff7d-47f2-9273-88963ea1121b
-  mac-addresses:
+  id: 50fa9430-8eb9-4aad-bb60-2bb36c1cc740
+  macAddresses:
   - 04:E0:C4:00:00:00/24
   manufacturer: Triumph-Adler Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Triumph-
 type: d3-device-type-assertion

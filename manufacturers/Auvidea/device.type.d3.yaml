@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b5a960f-9ef2-4569-bd44-38562d6bf22c
-  mac-addresses:
+  id: 496804fc-a371-4f0d-b984-c32ed9485da2
+  macAddresses:
   - D8:86:0B:30:00:00/28
   manufacturer: Auvidea GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Auvidea
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78f59268-0965-4906-a32d-c6141527f708
-  mac-addresses:
+  id: cd9ab1c0-f734-4166-97a2-c3c40ef60ba8
+  macAddresses:
   - 34:07:4F:00:00:00/24
   manufacturer: AccelStor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccelSto
 type: d3-device-type-assertion

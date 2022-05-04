@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7df02c7a-d76b-4799-958f-ac285aa7cfe5
-  mac-addresses:
+  id: 57092b51-00f6-4234-9ee4-d183cbd1e838
+  macAddresses:
   - 70:F8:E7:10:00:00/28
   manufacturer: System Level Solutions (India) Pvt.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SystemLe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae515312-c10a-4db3-b1fc-29e772094430
-  mac-addresses:
+  id: 2f17715f-e016-4a44-8bbc-7938866c119e
+  macAddresses:
   - 00:50:C2:38:C0:00/36
   manufacturer: Epsilon Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Epsilon
 type: d3-device-type-assertion

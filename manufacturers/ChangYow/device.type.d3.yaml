@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b94ee4b5-820e-4df2-9cdd-83a68a0caffb
-  mac-addresses:
+  id: 8302804d-f1af-45af-b3b3-05e225ec8622
+  macAddresses:
   - E8:5D:86:00:00:00/24
   manufacturer: Chang Yow Technologies International Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChangYow
 type: d3-device-type-assertion

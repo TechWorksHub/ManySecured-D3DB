@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f072bf29-0184-476d-95c2-3476a9e1e6b2
-  mac-addresses:
+  id: 292b62b2-4156-457e-b579-8dc07c2d979c
+  macAddresses:
   - 00:12:2C:00:00:00/24
   manufacturer: Soenen Controls N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SoenenCo
 type: d3-device-type-assertion

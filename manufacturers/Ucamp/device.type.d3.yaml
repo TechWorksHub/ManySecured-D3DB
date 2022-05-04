@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 443e13fb-b246-4e62-b884-f576c127910f
-  mac-addresses:
+  id: 53ec403d-da86-4144-973a-f49d1d67a721
+  macAddresses:
   - 00:1C:66:00:00:00/24
   manufacturer: Ucamp Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ucamp
 type: d3-device-type-assertion

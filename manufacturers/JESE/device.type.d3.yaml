@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 644f2193-7b5a-4e81-9c59-e32d166bba65
-  mac-addresses:
+  id: 6f086e06-8e57-4ba7-87e2-007215c71843
+  macAddresses:
   - 70:B3:D5:0E:20:00/36
   manufacturer: JESE Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JESE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8e8b58b-d821-4ec8-bf26-5ba8dbb1efd7
-  mac-addresses:
+  id: dbc6851f-5ee6-40cc-a9e6-ae43db5b24fb
+  macAddresses:
   - 00:30:26:00:00:00/24
   manufacturer: HeiTel Digital Video GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeiTelDi
 type: d3-device-type-assertion

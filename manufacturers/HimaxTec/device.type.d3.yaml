@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8dca58ff-6d5f-4117-966c-48f8d243c195
-  mac-addresses:
+  id: 6405ebe9-a6a5-4bdf-a7cc-057b2c5c1e0a
+  macAddresses:
   - 94:0B:D5:00:00:00/24
   manufacturer: Himax Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HimaxTec
 type: d3-device-type-assertion

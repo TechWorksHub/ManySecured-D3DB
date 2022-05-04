@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b8e58fd-9c7d-4cf2-94f2-758458a71449
-  mac-addresses:
+  id: 5b1314f7-5ff8-43de-979a-f02f7bf8745b
+  macAddresses:
   - 40:D8:55:0B:50:00/36
   manufacturer: Data Sharing Consulting
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DataShar
 type: d3-device-type-assertion

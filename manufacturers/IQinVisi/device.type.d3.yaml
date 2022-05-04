@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a272ed52-ac48-456a-91c7-fda35ca389ac
-  mac-addresses:
+  id: e4bf246f-62bc-4473-ab7e-7e83bfa706f1
+  macAddresses:
   - 00:50:1A:00:00:00/24
   manufacturer: IQinVision
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IQinVisi
 type: d3-device-type-assertion

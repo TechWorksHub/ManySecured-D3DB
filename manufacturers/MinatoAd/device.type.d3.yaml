@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d11425b-9bd1-45d8-9f9e-614146a72f04
-  mac-addresses:
+  id: f74dda28-576b-46c3-9fe0-875b80f54d94
+  macAddresses:
   - C0:FB:F9:40:00:00/28
   manufacturer: Minato Advanced Technologies inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MinatoAd
 type: d3-device-type-assertion

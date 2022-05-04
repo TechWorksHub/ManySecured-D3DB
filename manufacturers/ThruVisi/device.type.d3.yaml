@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdbd3c24-9b98-474b-9c72-bfdfaf3bb3aa
-  mac-addresses:
+  id: fd37e5b7-06c8-4b33-9754-71acf14a1573
+  macAddresses:
   - 00:17:58:00:00:00/24
   manufacturer: ThruVision Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThruVisi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cc1e5d6-5961-45fd-9409-87848db8d9ec
-  mac-addresses:
+  id: 9b31b31e-5d68-4fa4-a219-ae43dff7058d
+  macAddresses:
   - 00:1B:C5:02:50:00/36
   manufacturer: andersen lighting GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: andersen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70438719-93cd-4c32-8cab-873e86a12cf1
-  mac-addresses:
+  id: d42b7a40-b3b7-4235-9f20-62bed28fc675
+  macAddresses:
   - 00:50:C2:0C:C0:00/36
   manufacturer: AlphaMedia Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaMed
 type: d3-device-type-assertion

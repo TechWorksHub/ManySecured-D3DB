@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c5de207-6434-43c7-9185-2d4e2f570e5e
-  mac-addresses:
+  id: 78a8c892-9a00-471f-a087-34bbe01ad027
+  macAddresses:
   - 00:1E:C6:00:00:00/24
   manufacturer: Obvius Holdings LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ObviusHo
 type: d3-device-type-assertion

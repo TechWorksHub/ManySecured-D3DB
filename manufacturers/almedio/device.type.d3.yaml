@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a5c4fe2-0d29-4b5c-9fe8-f0fd640a0389
-  mac-addresses:
+  id: 01d4f9bb-6adc-456d-93ae-8faf62f37b29
+  macAddresses:
   - 00:0A:5F:00:00:00/24
   manufacturer: almedio inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: almedio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7115a6a2-c260-4d02-a923-726df894a946
-  mac-addresses:
+  id: f9d5a9ef-f162-49ee-9bdd-395c0acb40a8
+  macAddresses:
   - 00:05:6C:00:00:00/24
   manufacturer: Hung Chang Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HungChan
 type: d3-device-type-assertion

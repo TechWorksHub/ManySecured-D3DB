@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1bfd4647-266b-4c4a-8f82-4237176d8c3f
-  mac-addresses:
+  id: 856d80e0-3e28-45b4-8ca8-da58b749d8e0
+  macAddresses:
   - 00:18:59:00:00:00/24
   - 00:40:CF:00:00:00/24
   manufacturer: Strawberry Linux Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Strawber
 type: d3-device-type-assertion

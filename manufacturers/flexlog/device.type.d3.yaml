@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bf1ec60-afd0-4ae0-b35f-6f6b1015ab4b
-  mac-addresses:
+  id: 6921538e-d045-41a6-82d5-d9c27ff86dc8
+  macAddresses:
   - EC:9F:0D:A0:00:00/28
   manufacturer: flexlog GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: flexlog
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6e862b0-a6cf-4ac0-81ec-a9ade9a39b26
-  mac-addresses:
+  id: e1051e5b-9325-4805-89a7-36e0ee6bc23a
+  macAddresses:
   - 9C:5D:95:00:00:00/24
   manufacturer: VTC Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VTCElect
 type: d3-device-type-assertion

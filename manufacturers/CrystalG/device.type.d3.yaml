@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 40a88296-098a-42b8-8ed4-cd62d9a9c8c7
-  mac-addresses:
+  id: 53e33695-a23a-4c55-888f-462fee88f83e
+  macAddresses:
   - 00:90:D6:00:00:00/24
   - 00:91:D6:00:00:00/24
   manufacturer: Crystal Group, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrystalG
 type: d3-device-type-assertion

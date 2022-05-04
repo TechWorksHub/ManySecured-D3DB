@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e80cb15-7383-4474-93e3-06557521dbec
-  mac-addresses:
+  id: a296ad09-e7ee-4819-853f-8242a3b9a466
+  macAddresses:
   - 38:FD:FE:80:00:00/28
   manufacturer: Indra Navia AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IndraNav
 type: d3-device-type-assertion

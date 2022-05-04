@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eeece37a-f63e-405c-b449-8bc6120b06d1
-  mac-addresses:
+  id: bacfa384-9dad-41d9-a666-e0e9a1090b9e
+  macAddresses:
   - 1C:9F:4E:00:00:00/24
   manufacturer: Coosea Group (Hk) Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CooseaGr
 type: d3-device-type-assertion

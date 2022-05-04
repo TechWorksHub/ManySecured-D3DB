@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c92a026-006b-4c2a-b5fd-0c8cfe9203a7
-  mac-addresses:
+  id: 2f639034-ff68-4210-9ec9-f0a64e6103f3
+  macAddresses:
   - 8C:1F:64:8B:50:00/36
   manufacturer: Ashton Bentley Collaboration Spaces
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AshtonBe
 type: d3-device-type-assertion

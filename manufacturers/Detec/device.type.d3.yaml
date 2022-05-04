@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a87b0bd-326d-4442-a121-dab45b2f51f9
-  mac-addresses:
+  id: 6baa73be-3414-4d32-b854-8dfe4b6a2a41
+  macAddresses:
   - 70:B3:D5:13:C0:00/36
   manufacturer: Detec Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Detec
 type: d3-device-type-assertion

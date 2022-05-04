@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbf63734-d65c-4e25-8757-91a676be2783
-  mac-addresses:
+  id: 2386c116-43a4-4195-b3f5-68222ef95094
+  macAddresses:
   - 00:09:61:00:00:00/24
   manufacturer: Switchgear and Instrumentation Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Switchge
 type: d3-device-type-assertion

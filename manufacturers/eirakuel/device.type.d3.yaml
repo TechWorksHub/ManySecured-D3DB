@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 006ec06a-bd96-4587-a3b2-8cde37c1bf0a
-  mac-addresses:
+  id: 780069e4-a051-4cfb-b2c2-b7355b9cd51d
+  macAddresses:
   - 00:1B:C5:04:D0:00/36
   manufacturer: eiraku electric corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eirakuel
 type: d3-device-type-assertion

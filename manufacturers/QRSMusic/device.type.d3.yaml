@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 595c145e-f955-4efe-9d62-de755d990758
-  mac-addresses:
+  id: d5499459-7221-4bd8-973d-00f570eeb08b
+  macAddresses:
   - 74:A4:A7:00:00:00/24
   manufacturer: QRS Music Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QRSMusic
 type: d3-device-type-assertion

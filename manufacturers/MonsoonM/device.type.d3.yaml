@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d9df2e8-9448-4378-824c-8800fa8f954f
-  mac-addresses:
+  id: ffe19247-11de-4c70-bf66-45016ef5c44d
+  macAddresses:
   - 00:17:D4:00:00:00/24
   manufacturer: Monsoon Multimedia, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MonsoonM
 type: d3-device-type-assertion

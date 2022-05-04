@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ee2f2de-b577-45cf-a2d1-95350611fd78
-  mac-addresses:
+  id: a44b31bf-4719-40e6-a983-e15290c74969
+  macAddresses:
   - 00:50:D4:00:00:00/24
   manufacturer: Joohong Information &
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JoohongI
 type: d3-device-type-assertion

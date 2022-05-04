@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2610e5bc-896d-4932-a5a7-6bb0a40bce90
-  mac-addresses:
+  id: 67a6ed02-50f7-44db-b2fb-e111605597f7
+  macAddresses:
   - 00:04:E6:00:00:00/24
   manufacturer: Banyan Network Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BanyanNe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9022e68-56ff-4511-b7fc-f8888263c8d8
-  mac-addresses:
+  id: 809c03af-a823-4bd4-aed9-4a98139fd541
+  macAddresses:
   - 14:73:73:00:00:00/24
   manufacturer: Tubitak Uekae
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TubitakU
 type: d3-device-type-assertion

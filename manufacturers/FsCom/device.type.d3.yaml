@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ffb9602-3994-4f47-8847-3f4d846b20a2
-  mac-addresses:
+  id: bed2d50d-bb41-43cf-a391-59bed0109c63
+  macAddresses:
   - 64:9D:99:00:00:00/24
   manufacturer: Fs Com Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FsCom
 type: d3-device-type-assertion

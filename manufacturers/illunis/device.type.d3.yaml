@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7e8623e-0de5-44d1-bcc1-94eb8eeceda0
-  mac-addresses:
+  id: 043d43ab-b4f4-4280-bd78-edeb7cfa074b
+  macAddresses:
   - 00:50:C2:71:80:00/36
   manufacturer: illunis LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: illunis
 type: d3-device-type-assertion

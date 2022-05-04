@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e36a6b46-2012-4231-a1c7-beed86b4b3c5
-  mac-addresses:
+  id: fb203e3a-b08f-4eec-893c-9028e7f6d39d
+  macAddresses:
   - 00:60:CE:00:00:00/24
   manufacturer: Acclaim Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcclaimC
 type: d3-device-type-assertion

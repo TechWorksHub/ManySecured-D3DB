@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 589aa6c2-2e8d-4cb7-9f21-81bfd6c9a241
-  mac-addresses:
+  id: 953893e5-4575-4f9f-a742-7a7bea1ab5ea
+  macAddresses:
   - D8:1C:14:00:00:00/24
   manufacturer: Compacta International, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compacta
 type: d3-device-type-assertion

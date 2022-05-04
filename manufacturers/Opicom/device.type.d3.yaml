@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de977473-9f6c-463b-97a6-4c3c701cb19f
-  mac-addresses:
+  id: adb8e557-5873-4066-a822-94d8fcf090d0
+  macAddresses:
   - 00:30:29:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opicom
 type: d3-device-type-assertion

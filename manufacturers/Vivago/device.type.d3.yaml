@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 755714b6-79b7-46dc-9f8b-2320ea3e58b8
-  mac-addresses:
+  id: 542ca898-c98d-41db-95d3-e7b29989f6fb
+  macAddresses:
   - 54:05:36:00:00:00/24
   manufacturer: Vivago Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vivago
 type: d3-device-type-assertion

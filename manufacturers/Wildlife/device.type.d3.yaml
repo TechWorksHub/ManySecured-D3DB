@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c57be6a-0b92-4bfd-8c85-bd96dd6bc93f
-  mac-addresses:
+  id: 865233d6-ea76-4cc1-ad54-5867d13c0b90
+  macAddresses:
   - 9C:25:BE:00:00:00/24
   manufacturer: Wildlife Acoustics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wildlife
 type: d3-device-type-assertion

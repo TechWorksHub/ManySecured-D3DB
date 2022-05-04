@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60f9caee-6a28-4cc3-a3dd-8c41b9e40a06
-  mac-addresses:
+  id: 95ed2491-6035-4908-819a-bf5fe2a10df2
+  macAddresses:
   - 50:D7:53:00:00:00/24
   manufacturer: CONELCOM GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CONELCOM
 type: d3-device-type-assertion

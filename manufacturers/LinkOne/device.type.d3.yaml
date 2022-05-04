@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d239bef4-eca6-4946-994d-cd0dd183e808
-  mac-addresses:
+  id: 3b22d794-3d9e-4265-9cd1-ff1ff9d2fbf5
+  macAddresses:
   - 00:8D:DA:00:00:00/24
   manufacturer: Link One Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkOne
 type: d3-device-type-assertion

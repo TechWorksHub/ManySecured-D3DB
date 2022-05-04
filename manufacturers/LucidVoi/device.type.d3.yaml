@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9b1f285-418e-4d23-bada-f9d4553e665e
-  mac-addresses:
+  id: d493b1c6-94c0-4d11-8082-549ba0f4a2b5
+  macAddresses:
   - 00:05:A4:00:00:00/24
   manufacturer: Lucid Voice Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LucidVoi
 type: d3-device-type-assertion

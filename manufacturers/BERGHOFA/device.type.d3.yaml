@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 103af63a-fc55-4343-93af-e2b7f9b06922
-  mac-addresses:
+  id: b64a34ae-51cd-4434-8df3-5617804bb72f
+  macAddresses:
   - 00:E0:BA:00:00:00/24
   manufacturer: BERGHOF AUTOMATIONSTECHNIK GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BERGHOFA
 type: d3-device-type-assertion

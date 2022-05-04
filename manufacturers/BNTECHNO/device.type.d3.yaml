@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7c26bd5-7efa-4984-9140-9eb68deff629
-  mac-addresses:
+  id: 6d9f81bf-de83-4128-8f75-e5175f29189a
+  macAddresses:
   - 00:06:BD:00:00:00/24
   manufacturer: BNTECHNOLOGY Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BNTECHNO
 type: d3-device-type-assertion

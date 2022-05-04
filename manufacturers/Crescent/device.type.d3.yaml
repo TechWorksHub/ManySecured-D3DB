@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38f9473f-776c-445d-a084-67019ba89662
-  mac-addresses:
+  id: 4d9c19b6-7612-4b81-99d4-69c182998093
+  macAddresses:
   - 00:D0:B6:00:00:00/24
   manufacturer: Crescent Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crescent
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fee96c0-f95d-417c-a7c1-0c3201b4626e
-  mac-addresses:
+  id: 56a52ce4-3cc6-4e18-bc31-6de81962345f
+  macAddresses:
   - 70:B3:D5:F0:F0:00/36
   manufacturer: Kyoto Denkiki
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyotoDen
 type: d3-device-type-assertion

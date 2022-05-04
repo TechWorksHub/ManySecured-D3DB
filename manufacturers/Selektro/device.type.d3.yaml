@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e378c3b3-c690-4802-a37b-1702d18cc1a9
-  mac-addresses:
+  id: 755ad58a-4dba-4bb7-9813-6d48f466cc81
+  macAddresses:
   - A4:4F:29:60:00:00/28
   manufacturer: Selektro Power Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Selektro
 type: d3-device-type-assertion

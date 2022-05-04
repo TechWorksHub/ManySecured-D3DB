@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3420e9d3-63ef-4353-a6fb-a5fa1fc321db
-  mac-addresses:
+  id: cd245c9f-e7b1-449f-bff9-336bb412ce97
+  macAddresses:
   - 00:1C:D1:00:00:00/24
   manufacturer: Waves Audio LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WavesAud
 type: d3-device-type-assertion

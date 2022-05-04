@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75663ccf-624c-4d54-88cd-340d99df9fee
-  mac-addresses:
+  id: a6e1990d-9b8e-422c-a194-d1d27c042aab
+  macAddresses:
   - 64:3F:5F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exablaze
 type: d3-device-type-assertion

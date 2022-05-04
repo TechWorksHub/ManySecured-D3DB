@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 376b99a9-02e2-418d-8953-d55d3ba3e252
-  mac-addresses:
+  id: ba10ba1e-d5c6-4f68-b72a-ea6ebf759295
+  macAddresses:
   - D4:47:5A:00:00:00/24
   manufacturer: ScreenBeam, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScreenBe
 type: d3-device-type-assertion

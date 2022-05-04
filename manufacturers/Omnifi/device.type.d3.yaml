@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20c3206e-ac76-4664-bc86-845d24907ff1
-  mac-addresses:
+  id: 1180ffb1-3494-4428-9cc1-9b3afba69ad7
+  macAddresses:
   - 3C:E0:38:00:00:00/24
   manufacturer: Omnifi Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omnifi
 type: d3-device-type-assertion

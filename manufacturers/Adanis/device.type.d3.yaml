@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90809725-ebca-4100-a8d9-bc142c41eba7
-  mac-addresses:
+  id: b21c47cc-61a2-4664-8a02-40aa24e97b15
+  macAddresses:
   - 18:6D:99:00:00:00/24
   manufacturer: Adanis Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adanis
 type: d3-device-type-assertion

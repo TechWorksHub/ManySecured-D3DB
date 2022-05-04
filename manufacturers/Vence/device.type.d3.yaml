@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69f2d890-277b-4900-b1e7-e34cf4f33481
-  mac-addresses:
+  id: a2b2c684-e084-4296-8364-796b6d6be6e4
+  macAddresses:
   - 7C:F2:DD:00:00:00/24
   manufacturer: Vence Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vence
 type: d3-device-type-assertion

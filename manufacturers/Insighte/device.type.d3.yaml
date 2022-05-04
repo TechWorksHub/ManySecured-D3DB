@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e19e190-b2f2-45d9-a94e-b3add4707526
-  mac-addresses:
+  id: 65fec52e-4406-451b-80ae-2f02899eb921
+  macAddresses:
   - 00:26:C3:00:00:00/24
   manufacturer: Insightek Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Insighte
 type: d3-device-type-assertion

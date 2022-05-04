@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc7e4245-3645-4634-a67c-5769757865bd
-  mac-addresses:
+  id: 2a1fd3af-4d2d-430e-9d66-7120f2f33dcf
+  macAddresses:
   - 00:08:E6:00:00:00/24
   manufacturer: Littlefeet
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Littlefe
 type: d3-device-type-assertion

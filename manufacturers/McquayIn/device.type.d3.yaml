@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4db222d5-8ae9-4b7d-bc37-d5517961023f
-  mac-addresses:
+  id: 0a152375-57d4-49d5-a867-9215ab84fce9
+  macAddresses:
   - 00:D0:DB:00:00:00/24
   manufacturer: Mcquay International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: McquayIn
 type: d3-device-type-assertion

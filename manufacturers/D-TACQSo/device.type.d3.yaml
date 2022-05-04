@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 383b9674-eb0b-4b6e-a0ef-0620c69d00fb
-  mac-addresses:
+  id: 9d761e8a-06aa-430c-9c00-044397abba8c
+  macAddresses:
   - 00:21:54:00:00:00/24
   manufacturer: D-TACQ Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D-TACQSo
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: b4410bb8-418b-4085-bb00-46caaf633119
-  mac-addresses:
+  id: cc1d6de6-dd43-4824-a202-8c8759a864c6
+  macAddresses:
   - 00:50:C2:70:30:00/36
   - 00:50:C2:CA:B0:00/36
   - 00:50:C2:E6:20:00/36
   - 70:E2:4C:00:00:00/24
   manufacturer: SAE IT-systems GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAEIT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10f8a286-905e-492e-9250-c7307341be08
-  mac-addresses:
+  id: 1d719fc4-458c-4545-b19f-900705cc07b4
+  macAddresses:
   - 70:B3:D5:46:B0:00/36
   manufacturer: Airborne Engineering Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airborne
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45f20451-2594-46d2-b7bf-1a1a70d689e4
-  mac-addresses:
+  id: e9c24ec8-f392-4096-a775-bcc9e395a122
+  macAddresses:
   - 00:50:C2:BE:80:00/36
   manufacturer: Vehicle Testing Equipment, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VehicleT
 type: d3-device-type-assertion

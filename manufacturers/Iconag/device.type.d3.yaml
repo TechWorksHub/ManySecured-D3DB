@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79a7c191-bb0f-4868-91c8-8ff944768eb5
-  mac-addresses:
+  id: 28f8db3d-c53b-49a5-894c-c935efd35425
+  macAddresses:
   - 00:05:03:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iconag
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad81b3fc-933b-41d1-a3d7-0def8533cbf5
-  mac-addresses:
+  id: 6a2dad03-8e21-4649-aa28-3b0e2bba64a5
+  macAddresses:
   - 00:40:87:00:00:00/24
   manufacturer: Ubitrex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubitrex
 type: d3-device-type-assertion

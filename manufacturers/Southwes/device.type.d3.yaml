@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 16614171-eb75-4c26-ab93-a3a18c0c29e8
-  mac-addresses:
+  id: 2a353761-77d6-415f-bf90-07ec100abfba
+  macAddresses:
   - 00:50:C2:B9:80:00/36
   - D0:46:DC:00:00:00/24
   - D4:D5:0D:00:00:00/24
   manufacturer: Southwest Research Institute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Southwes
 type: d3-device-type-assertion

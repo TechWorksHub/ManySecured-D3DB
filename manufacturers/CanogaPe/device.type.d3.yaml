@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0673991e-05fd-48d9-b9df-e170c699615a
-  mac-addresses:
+  id: 3190479e-c6b0-4acf-95fd-9ed3a1f512a7
+  macAddresses:
   - 10:EE:D9:00:00:00/24
   manufacturer: Canoga Perkins Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanogaPe
 type: d3-device-type-assertion

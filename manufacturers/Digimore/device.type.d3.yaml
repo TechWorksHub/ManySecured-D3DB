@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f2cf10d-a8c9-4b87-8df2-6393bb8f4eef
-  mac-addresses:
+  id: 294d3ffe-ab78-4fe9-99d1-92f0beb397f6
+  macAddresses:
   - 90:0D:66:00:00:00/24
   manufacturer: Digimore Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digimore
 type: d3-device-type-assertion

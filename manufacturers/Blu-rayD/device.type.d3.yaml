@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e41bc7b-4fd1-4b35-8ab3-db487816db38
-  mac-addresses:
+  id: 1c6d3f6d-856c-421d-a5e8-fdb7ba534675
+  macAddresses:
   - 10:C0:7C:00:00:00/24
   manufacturer: Blu-ray Disc Association
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blu-rayD
 type: d3-device-type-assertion

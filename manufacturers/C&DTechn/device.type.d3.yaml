@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b438c732-b984-43e1-ad5f-c02d73109754
-  mac-addresses:
+  id: 84cb94a1-8d48-4be9-b4db-0bfa9bdae989
+  macAddresses:
   - 00:50:C2:7E:00:00/36
   manufacturer: C&D Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C&DTechn
 type: d3-device-type-assertion

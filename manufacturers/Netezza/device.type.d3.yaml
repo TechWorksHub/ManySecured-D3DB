@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b864e61b-87e8-49a4-824d-a36020274445
-  mac-addresses:
+  id: 9cdf05a1-1212-4685-b941-108042193b07
+  macAddresses:
   - 00:06:72:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netezza
 type: d3-device-type-assertion

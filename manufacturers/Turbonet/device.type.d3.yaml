@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64aba443-21cd-45bf-bf2a-f128fe7c0af5
-  mac-addresses:
+  id: 7809ad32-a13f-4c86-b635-f900b856ce47
+  macAddresses:
   - 00:30:EB:00:00:00/24
   manufacturer: Turbonet Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Turbonet
 type: d3-device-type-assertion

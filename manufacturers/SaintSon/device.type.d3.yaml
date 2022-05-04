@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff1338bd-1867-4965-a8b5-261fd2a2a8c1
-  mac-addresses:
+  id: 87b1b521-cfd5-45b3-ad63-fc4ba7e52d7d
+  macAddresses:
   - 00:03:5C:00:00:00/24
   manufacturer: Saint Song Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaintSon
 type: d3-device-type-assertion

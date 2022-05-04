@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 212fbece-a939-4c65-8151-730a941e5778
-  mac-addresses:
+  id: a4082690-c77c-4eba-b715-fe9448e1f94f
+  macAddresses:
   - 00:00:3D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unisys
 type: d3-device-type-assertion

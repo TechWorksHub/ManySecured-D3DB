@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17fe24bc-db63-46f9-b64f-9323f904a7f2
-  mac-addresses:
+  id: a80da7ab-62dc-4204-904c-1ca9ba02f3bf
+  macAddresses:
   - A0:23:1B:00:00:00/24
   manufacturer: TeleComp R&D Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeleComp
 type: d3-device-type-assertion

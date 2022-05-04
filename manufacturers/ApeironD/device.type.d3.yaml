@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39e47e0d-f032-4d77-8d7a-f2b8d6fbab47
-  mac-addresses:
+  id: 8a479c4f-30ee-4105-9244-56ac7921d8a0
+  macAddresses:
   - CC:22:37:20:00:00/28
   manufacturer: Apeiron Data Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApeironD
 type: d3-device-type-assertion

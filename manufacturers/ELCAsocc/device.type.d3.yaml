@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef009621-fc98-44bd-a413-0f7905663479
-  mac-addresses:
+  id: a62110b6-1c3f-4987-9801-a33218fd6e0b
+  macAddresses:
   - 00:50:C2:95:10:00/36
   manufacturer: EL.C.A. soc. coop.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ELCAsocc
 type: d3-device-type-assertion

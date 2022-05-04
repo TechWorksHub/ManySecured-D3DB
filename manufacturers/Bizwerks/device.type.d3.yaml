@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3d1dbba-3063-42e9-a32d-674c9261b0e3
-  mac-addresses:
+  id: aa9ebf49-645d-4d05-82d6-78799cb61754
+  macAddresses:
   - 70:B3:D5:A9:70:00/36
   manufacturer: Bizwerks, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bizwerks
 type: d3-device-type-assertion

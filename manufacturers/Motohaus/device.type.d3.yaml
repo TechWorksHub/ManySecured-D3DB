@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5be544f1-b5d6-4753-b74c-d4f335e3c6c3
-  mac-addresses:
+  id: 570ac779-8d8b-4133-b26b-6d42c58affaf
+  macAddresses:
   - 70:B3:D5:98:D0:00/36
   manufacturer: Motohaus Powersports Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Motohaus
 type: d3-device-type-assertion

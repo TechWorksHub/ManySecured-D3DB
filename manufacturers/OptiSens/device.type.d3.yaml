@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99e709a6-b263-46e5-ac98-07b98dc24363
-  mac-addresses:
+  id: 47a10008-086f-4c9d-830f-49d8d640e1f2
+  macAddresses:
   - 28:41:21:00:00:00/24
   manufacturer: OptiSense Network, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptiSens
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: c1194626-cc57-44e3-b17f-cffc786766c8
-  mac-addresses:
+  id: da64276e-ee52-4ba5-9d4e-3d9f8e796351
+  macAddresses:
   - 00:50:C2:D3:D0:00/36
   - 00:A0:FF:00:00:00/24
   - 00:B0:C7:00:00:00/24
   manufacturer: Tellabs Operations Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TellabsO
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2de6fda-8035-4a1d-92ae-44db7fed20ed
-  mac-addresses:
+  id: 9564099b-f2b6-4825-8ba1-5175534a7bff
+  macAddresses:
   - B0:C5:CA:10:00:00/28
   manufacturer: Ivk-Sayany
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ivk-Saya
 type: d3-device-type-assertion

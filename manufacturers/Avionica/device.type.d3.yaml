@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 260a1cbd-6050-43aa-b1d7-2315f9a802a2
-  mac-addresses:
+  id: 7a90417d-b8e5-45be-a74a-169534435769
+  macAddresses:
   - 00:50:C2:41:F0:00/36
   - 70:B3:D5:0F:00:00/36
   - 70:B3:D5:61:10:00/36
   - 70:B3:D5:CC:00:00/36
   manufacturer: Avionica, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avionica
 type: d3-device-type-assertion

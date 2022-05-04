@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65c5c262-f575-46ec-9cd8-0d7d053fd07a
-  mac-addresses:
+  id: 4c037ab6-743e-46cd-81a8-5f0d65f09fa2
+  macAddresses:
   - 00:C0:7A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrivaBv
 type: d3-device-type-assertion

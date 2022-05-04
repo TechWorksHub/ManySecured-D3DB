@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14cfbe1e-e5bd-4f09-a610-bed0a325ac75
-  mac-addresses:
+  id: fe6e0d3c-c743-4080-bcd8-db2f0190472a
+  macAddresses:
   - 78:D3:ED:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Norma
 type: d3-device-type-assertion

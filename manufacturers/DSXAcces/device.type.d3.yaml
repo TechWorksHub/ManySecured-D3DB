@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95df0ec7-3f10-4531-82b1-9e0a033063d4
-  mac-addresses:
+  id: ef60bae2-fc4f-466f-a875-d0733451dd39
+  macAddresses:
   - 00:08:66:00:00:00/24
   manufacturer: DSX Access Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSXAcces
 type: d3-device-type-assertion

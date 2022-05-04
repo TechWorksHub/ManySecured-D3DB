@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28ce2bd8-8d80-40dd-adbb-74449918e165
-  mac-addresses:
+  id: e2111d5c-099a-4dbc-b02d-0d9f5f315437
+  macAddresses:
   - 00:00:DE:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cetia
 type: d3-device-type-assertion

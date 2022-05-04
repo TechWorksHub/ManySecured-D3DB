@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2b32a40-b680-4719-8f21-6ab4bdd74e12
-  mac-addresses:
+  id: 795fc5eb-db19-4589-8106-f676224fa79b
+  macAddresses:
   - 44:B4:12:00:00:00/24
   manufacturer: Sius Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sius
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afde3c9d-d58d-42ad-bbe7-1a6492da1212
-  mac-addresses:
+  id: 136d116c-0a71-435b-90b7-2f58cfbb4441
+  macAddresses:
   - 70:B3:D5:58:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Optsys
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1d24d28-7306-4400-92a6-489fb4777acb
-  mac-addresses:
+  id: 14232bc6-5343-4934-97bd-9c010e973ccf
+  macAddresses:
   - 8C:C7:C3:00:00:00/24
   manufacturer: Netlink Ict
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetlinkI
 type: d3-device-type-assertion

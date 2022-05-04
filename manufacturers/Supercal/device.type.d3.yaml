@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66261c14-46cb-451c-95bf-5eeaa7ebd0fc
-  mac-addresses:
+  id: d719ac23-6294-4376-af86-81f556a0c975
+  macAddresses:
   - 00:09:57:00:00:00/24
   manufacturer: Supercaller, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Supercal
 type: d3-device-type-assertion

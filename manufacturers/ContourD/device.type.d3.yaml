@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e4cc2cc-40c4-4bb3-99e1-5132392b6344
-  mac-addresses:
+  id: cfa484ec-781a-43bb-bf26-8d31a2a01bff
+  macAddresses:
   - 38:CA:97:00:00:00/24
   manufacturer: Contour Design LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ContourD
 type: d3-device-type-assertion

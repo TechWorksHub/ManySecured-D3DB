@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a19a9c6-fc53-4844-8aae-6f75af66ddd1
-  mac-addresses:
+  id: 6417ae93-3d2e-4c56-bdf6-dbecb376da56
+  macAddresses:
   - 74:1A:E0:50:00:00/28
   manufacturer: Fujian Taili Communication Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujianTa
 type: d3-device-type-assertion

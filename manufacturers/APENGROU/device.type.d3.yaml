@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6e17151-8840-44fa-9802-951380fe31cd
-  mac-addresses:
+  id: b4eff669-f65c-4cb2-9aa2-d4eb4b9eec4e
+  macAddresses:
   - 70:B3:D5:EA:B0:00/36
   manufacturer: APEN GROUP SpA (VAT IT08767740155)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APENGROU
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: ed73e9a6-a7b0-45c2-8d06-52ddccc15460
-  mac-addresses:
+  id: 0fcccc58-1451-4274-bfca-5faba7cbc6cc
+  macAddresses:
   - 00:50:C2:D6:D0:00/36
   - 70:B3:D5:05:90:00/36
   - 70:B3:D5:56:D0:00/36
   manufacturer: Pro-Digital Industria Eletronica
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pro-Digi
 type: d3-device-type-assertion

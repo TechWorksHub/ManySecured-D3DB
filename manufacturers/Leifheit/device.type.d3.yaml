@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b735493-83c3-48ec-9a96-0b1c8478bddc
-  mac-addresses:
+  id: 67388b48-7f8c-4a79-9cdb-b43ecaf6e7f0
+  macAddresses:
   - E4:E4:09:00:00:00/24
   manufacturer: Leifheit Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leifheit
 type: d3-device-type-assertion

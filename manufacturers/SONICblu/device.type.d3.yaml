@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80e75f07-a86f-4678-b21e-42e1183da035
-  mac-addresses:
+  id: db7a9f4c-5e3e-4834-b629-402ce5e481d4
+  macAddresses:
   - 00:0A:97:00:00:00/24
   manufacturer: SONICblue, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SONICblu
 type: d3-device-type-assertion

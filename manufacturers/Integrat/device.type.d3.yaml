@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ab263042-73e8-4551-aee4-0c399b500678
-  mac-addresses:
+  id: fcc82eef-8cc7-48fb-ad93-43027254dbdc
+  macAddresses:
   - 00:00:E3:00:00:00/24
   - 00:02:E1:00:00:00/24
   - 00:05:05:00:00:00/24
@@ -75,6 +75,6 @@ credentialSubject:
   - F8:99:10:00:00:00/24
   - FC:EA:50:00:00:00/24
   manufacturer: Integrated Micro Products Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Integrat
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ca3beee-6486-4267-bdca-4e084577412f
-  mac-addresses:
+  id: 6c32f4f1-1c62-4524-aa40-b8f875fc3a9c
+  macAddresses:
   - 00:26:6E:00:00:00/24
   manufacturer: Nissho-denki Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nissho-d
 type: d3-device-type-assertion

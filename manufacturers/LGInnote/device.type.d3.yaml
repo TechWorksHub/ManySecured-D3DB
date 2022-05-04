@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f3ef71e8-ac35-4e1b-a365-f6fc76d918af
-  mac-addresses:
+  id: 6aa0c1be-f443-44f0-bace-75ae8185da02
+  macAddresses:
   - 00:05:C9:00:00:00/24
   - 00:1E:B2:00:00:00/24
   - 00:51:ED:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - E8:F2:E2:00:00:00/24
   - F8:B9:5A:00:00:00/24
   manufacturer: LG Innotek
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LGInnote
 type: d3-device-type-assertion

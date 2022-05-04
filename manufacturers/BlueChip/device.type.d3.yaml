@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17977823-12fa-4ab1-9df0-73f2d3934ff0
-  mac-addresses:
+  id: 8d750bd1-ad88-4912-9395-92dc55154eeb
+  macAddresses:
   - 00:C0:46:00:00:00/24
   manufacturer: Blue Chip Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueChip
 type: d3-device-type-assertion

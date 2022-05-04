@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b713c937-884a-4c46-9656-9442c82df54e
-  mac-addresses:
+  id: 73a77a22-e29a-4d68-a9d3-21126c874802
+  macAddresses:
   - 00:08:C8:00:00:00/24
   manufacturer: Soneticom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sonetico
 type: d3-device-type-assertion

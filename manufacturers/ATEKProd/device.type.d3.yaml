@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0974206c-a0f8-4636-8af5-a3f7b5c9b0af
-  mac-addresses:
+  id: 20dfdd42-5cdc-47f0-b600-2330b4f6fe95
+  macAddresses:
   - 34:F9:68:00:00:00/24
   - 74:BE:08:00:00:00/24
   manufacturer: ATEK Products, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATEKProd
 type: d3-device-type-assertion

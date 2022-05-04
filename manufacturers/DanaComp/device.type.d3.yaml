@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bb88bd3-acdb-4f53-a819-185b50468d41
-  mac-addresses:
+  id: 41238cfb-d1c2-438a-bf08-f8badcadd15e
+  macAddresses:
   - 00:00:7A:00:00:00/24
   manufacturer: Dana Computer Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DanaComp
 type: d3-device-type-assertion

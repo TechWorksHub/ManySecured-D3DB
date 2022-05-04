@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b829963f-bab1-43a3-b869-fa249aaa216d
-  mac-addresses:
+  id: 382fbd9c-a0b7-4422-abca-8a3085d469d5
+  macAddresses:
   - 34:29:8F:00:00:00/28
   manufacturer: BlackEdge Capital
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlackEdg
 type: d3-device-type-assertion

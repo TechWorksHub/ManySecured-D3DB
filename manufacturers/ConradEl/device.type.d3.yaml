@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a72a4fb-80ee-4b10-9f1e-ce64d01dd7e7
-  mac-addresses:
+  id: c780cf76-08bf-4db9-a89f-e7b1dde042bb
+  macAddresses:
   - C0:DF:77:00:00:00/24
   manufacturer: Conrad Electronic SE
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConradEl
 type: d3-device-type-assertion

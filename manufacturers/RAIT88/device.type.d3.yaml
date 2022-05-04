@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad97b8a1-52d7-44c0-8d09-6f115739fc20
-  mac-addresses:
+  id: d7f38329-996e-46d3-b684-462dd92f0541
+  macAddresses:
   - 70:B3:D5:6C:10:00/36
   manufacturer: R.A.I.T.88 Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RAIT88
 type: d3-device-type-assertion

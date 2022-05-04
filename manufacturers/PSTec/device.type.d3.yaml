@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef2fb96e-3d41-4a8a-a12e-911fd3436b85
-  mac-addresses:
+  id: 6f0805db-be7e-49b9-9048-792565f15b22
+  macAddresses:
   - B8:C2:27:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PSTec
 type: d3-device-type-assertion

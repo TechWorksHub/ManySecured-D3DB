@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1917f74-6d06-4778-b03d-d8362c10e724
-  mac-addresses:
+  id: be10c4f4-9dc9-4038-a1de-e5647011808a
+  macAddresses:
   - FC:00:12:00:00:00/24
   manufacturer: Toshiba Samsung Storage Technolgoy Korea Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToshibaS
 type: d3-device-type-assertion

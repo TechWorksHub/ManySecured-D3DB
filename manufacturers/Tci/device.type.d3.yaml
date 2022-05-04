@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e349db1-711e-4258-83be-e54d25f86111
-  mac-addresses:
+  id: 2118d170-3fe1-4ae9-ac24-78fdbd8665ff
+  macAddresses:
   - 70:B3:D5:7F:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tci
 type: d3-device-type-assertion

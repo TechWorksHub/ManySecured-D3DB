@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1733b49d-03d3-4c88-8292-e1e61190f9de
-  mac-addresses:
+  id: 3a33dc16-fdf6-4e62-b684-fa38cf3de198
+  macAddresses:
   - 00:32:3A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: so-logic
 type: d3-device-type-assertion

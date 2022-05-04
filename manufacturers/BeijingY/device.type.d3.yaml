@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f8c108fe-7092-4120-9117-99a738860df5
-  mac-addresses:
+  id: 3e2dacd2-d2f3-40df-bded-ab5d7947b63b
+  macAddresses:
   - 14:19:73:00:00:00/24
   - 3C:08:1E:00:00:00/24
   - 50:A4:D0:C0:00:00/28
@@ -13,6 +13,6 @@ credentialSubject:
   - EC:15:3D:00:00:00/24
   - F4:1C:95:00:00:00/24
   manufacturer: Beijing Yunyi Times Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingY
 type: d3-device-type-assertion

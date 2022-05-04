@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c74137e-d46d-4ce0-b140-9b82c19c1f9f
-  mac-addresses:
+  id: 9b78d681-bc14-43b5-b57d-1f7c1d8e09c0
+  macAddresses:
   - 00:50:C2:2A:10:00/36
   manufacturer: Infinetix Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infineti
 type: d3-device-type-assertion

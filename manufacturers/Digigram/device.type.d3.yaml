@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49a4717d-240a-4add-a6c8-cdf8d2481b8b
-  mac-addresses:
+  id: a2834bb4-ebdc-4ab2-af95-defb279c8e1f
+  macAddresses:
   - 00:D0:62:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digigram
 type: d3-device-type-assertion

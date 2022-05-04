@@ -1,8 +1,8 @@
 credentialSubject:
-  id: baec233c-e9a2-4286-865b-45c0c757054c
-  mac-addresses:
+  id: 899948bd-003f-489b-a4a4-71440d1ae770
+  macAddresses:
   - 40:D8:55:0E:B0:00/36
   manufacturer: WANTECH Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WANTECHN
 type: d3-device-type-assertion

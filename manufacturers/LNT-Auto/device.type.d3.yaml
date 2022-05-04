@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca9f46f4-acf4-4702-938c-1127bdcf4735
-  mac-addresses:
+  id: d3576328-c0fc-49b2-b671-4ffa5649e335
+  macAddresses:
   - 10:45:F8:00:00:00/24
   manufacturer: LNT-Automation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LNT-Auto
 type: d3-device-type-assertion

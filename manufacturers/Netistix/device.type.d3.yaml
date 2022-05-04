@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 155f6748-b058-441e-8989-87f1a2452e79
-  mac-addresses:
+  id: d78e3f79-dab0-4d7f-8042-5ac0f3b223a7
+  macAddresses:
   - 00:50:C2:6E:C0:00/36
   manufacturer: Netistix Technologies Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netistix
 type: d3-device-type-assertion

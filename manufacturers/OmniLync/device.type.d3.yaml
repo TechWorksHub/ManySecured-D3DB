@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 246bda1c-d78c-4094-8688-38d8abb38203
-  mac-addresses:
+  id: 9962850f-1666-4806-a398-200050135ef3
+  macAddresses:
   - C8:0E:95:00:00:00/24
   manufacturer: OmniLync Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmniLync
 type: d3-device-type-assertion

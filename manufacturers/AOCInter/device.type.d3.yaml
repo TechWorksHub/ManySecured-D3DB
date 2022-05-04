@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a14fc59-eef4-4970-a32c-e11067375108
-  mac-addresses:
+  id: b6cdb6a4-3478-41a8-8262-73284a620e64
+  macAddresses:
   - 00:24:67:00:00:00/24
   manufacturer: AOC International (Europe) GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AOCInter
 type: d3-device-type-assertion

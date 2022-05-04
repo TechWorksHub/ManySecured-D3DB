@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e4dfbc4-a60f-48db-826b-b0361ea9acd3
-  mac-addresses:
+  id: d37956e4-2a73-4490-bc4e-7f781d92acab
+  macAddresses:
   - 70:B3:D5:A0:30:00/36
   manufacturer: Proemion GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proemion
 type: d3-device-type-assertion

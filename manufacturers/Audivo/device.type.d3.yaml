@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fc6dc48-bd49-490e-bed3-90c171859c28
-  mac-addresses:
+  id: fea3a2a4-36a7-4a84-84e9-31aa4824c828
+  macAddresses:
   - A8:5B:F3:00:00:00/24
   manufacturer: Audivo GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audivo
 type: d3-device-type-assertion

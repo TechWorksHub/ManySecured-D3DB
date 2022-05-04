@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b05fcdcf-2b28-450c-aa7f-0a53be07709f
-  mac-addresses:
+  id: d7c2eed5-d0e8-469b-a302-d98acff07a1d
+  macAddresses:
   - 90:03:72:00:00:00/24
   manufacturer: Longnan Junya Digital Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LongnanJ
 type: d3-device-type-assertion

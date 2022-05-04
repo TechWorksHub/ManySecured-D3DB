@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8b74439-e2e7-43ee-9e05-22b3926c11ac
-  mac-addresses:
+  id: 380cf49d-5ca7-4ad0-8cff-4df3190bfb39
+  macAddresses:
   - 00:10:3C:00:00:00/24
   manufacturer: Ic Ensemble, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IcEnsemb
 type: d3-device-type-assertion

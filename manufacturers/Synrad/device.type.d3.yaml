@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da9a716e-ca0e-4c4f-b4b6-af6975ced890
-  mac-addresses:
+  id: f8c4683c-2885-405f-a30b-d143667339fe
+  macAddresses:
   - 00:50:C2:5D:70:00/36
   manufacturer: Synrad, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synrad
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8bb8e6bf-1ce6-41a3-b540-7013aa7249c7
-  mac-addresses:
+  id: a24e0b3f-3fc9-4901-b129-aa8504237ee5
+  macAddresses:
   - 00:50:C2:2E:20:00/36
   - 74:F8:DB:A0:00:00/28
   manufacturer: Ballard Technology, Inc,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BallardT
 type: d3-device-type-assertion

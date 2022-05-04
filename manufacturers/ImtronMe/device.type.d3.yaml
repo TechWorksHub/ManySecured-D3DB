@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb446043-be8f-4772-b10c-fcffe51cb581
-  mac-addresses:
+  id: b8d9cdd3-f64d-4378-9cac-d047e0011b58
+  macAddresses:
   - 00:50:C2:D6:F0:00/36
   manufacturer: Imtron Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImtronMe
 type: d3-device-type-assertion

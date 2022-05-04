@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f54e57a7-5142-47aa-b3d7-a9bc8dc1aa3f
-  mac-addresses:
+  id: aefc1d94-ff7e-4f3c-aa37-3766b04bff1c
+  macAddresses:
   - 88:94:8F:00:00:00/24
   manufacturer: Xi'an Zhisensor Technologies Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XianZhis
 type: d3-device-type-assertion

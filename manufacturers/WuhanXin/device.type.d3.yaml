@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f6e58cdc-8d15-417e-bcec-21eb5e8747b6
-  mac-addresses:
+  id: c8fcc99a-3edf-433b-9d99-1a984c6200a2
+  macAddresses:
   - 40:D8:55:08:90:00/36
   - 70:B3:D5:16:50:00/36
   - 70:B3:D5:32:A0:00/36
@@ -12,6 +12,6 @@ credentialSubject:
   - 8C:1F:64:25:A0:00/36
   - 8C:1F:64:6C:D0:00/36
   manufacturer: Wuhan Xingtuxinke ELectronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanXin
 type: d3-device-type-assertion

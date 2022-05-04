@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2874c30d-4e15-47e4-adeb-b37c023ad419
-  mac-addresses:
+  id: de05e88c-540b-44b2-9149-540fc91cab24
+  macAddresses:
   - 68:91:D0:30:00:00/28
   manufacturer: Ambitio LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ambitio
 type: d3-device-type-assertion

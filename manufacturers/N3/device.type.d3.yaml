@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7589d3e8-dddc-4bf3-8bb0-c9529af6a094
-  mac-addresses:
+  id: bb205839-4bcc-4bc9-8a4f-f8a67efc1e32
+  macAddresses:
   - 00:15:29:00:00:00/24
   manufacturer: N3 Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: N3
 type: d3-device-type-assertion

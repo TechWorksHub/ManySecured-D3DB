@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3d35a19-20f2-4343-9c5b-673686abc63b
-  mac-addresses:
+  id: 696fc3a5-7f5b-4e69-9e8f-18505e486213
+  macAddresses:
   - AC:64:DD:70:00:00/28
   manufacturer: "Wittmann Kunststoffger\xE4te GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wittmann
 type: d3-device-type-assertion

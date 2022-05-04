@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07e29222-3228-4c5b-9d3b-c5103256c2b0
-  mac-addresses:
+  id: af2b6aa6-14fc-4cc7-bd88-c074fc332f1c
+  macAddresses:
   - 70:B3:D5:48:30:00/36
   manufacturer: Litum Bilgi Teknolojileri San. Ve Tic. A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LitumBil
 type: d3-device-type-assertion

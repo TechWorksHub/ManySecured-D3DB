@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f41b91b8-15a2-4b11-b413-78f18501da98
-  mac-addresses:
+  id: 7c88abdd-b3eb-4017-a153-4d96ed8fe9f8
+  macAddresses:
   - 90:DF:FB:00:00:00/24
   manufacturer: Homerider Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Homeride
 type: d3-device-type-assertion

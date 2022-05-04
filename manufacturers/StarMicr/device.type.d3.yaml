@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f25d5d2c-dc70-458f-869e-c0857533a9f4
-  mac-addresses:
+  id: c4fa9939-3a16-495b-b9ca-ca67c9887c3b
+  macAddresses:
   - 00:11:62:00:00:00/24
   manufacturer: Star Micronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StarMicr
 type: d3-device-type-assertion

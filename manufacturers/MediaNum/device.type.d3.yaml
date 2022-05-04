@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e03c9256-e672-49e2-83f1-3d6b70892a15
-  mac-addresses:
+  id: 85d42551-bf9e-436e-9ef8-10d61ebb5c38
+  macAddresses:
   - 00:1D:A6:00:00:00/24
   manufacturer: Media Numerics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MediaNum
 type: d3-device-type-assertion

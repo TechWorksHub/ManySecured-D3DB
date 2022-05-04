@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dddb2659-7def-414b-8835-6757c9c01571
-  mac-addresses:
+  id: 9c907c81-09a1-45a4-bf13-5fc4c834cf42
+  macAddresses:
   - 00:14:FD:00:00:00/24
   manufacturer: Thecus Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThecusTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2796e63-d36e-4377-8fd3-a77636177c3b
-  mac-addresses:
+  id: d9d564bd-4048-45ba-8a4e-055afa028ff5
+  macAddresses:
   - C4:DA:26:00:00:00/24
   manufacturer: Noblex Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Noblex
 type: d3-device-type-assertion

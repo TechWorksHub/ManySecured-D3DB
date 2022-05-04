@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d432e031-3a4a-4595-8a52-2973ce2b5bd4
-  mac-addresses:
+  id: 08b38c70-1a52-49f4-b6c6-e369a1e74685
+  macAddresses:
   - E0:60:89:00:00:00/24
   manufacturer: Cloudleaf, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cloudlea
 type: d3-device-type-assertion

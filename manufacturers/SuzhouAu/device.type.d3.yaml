@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6116da5e-38f3-4972-927f-f3a11a28b452
-  mac-addresses:
+  id: 132d7933-68b1-499a-a6e4-4894606d83ec
+  macAddresses:
   - 98:6E:E8:50:00:00/28
   manufacturer: Suzhou Auditoryworks Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouAu
 type: d3-device-type-assertion

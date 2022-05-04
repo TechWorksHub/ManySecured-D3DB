@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 5f79b59d-b651-48ce-a30f-dbb8adcf047e
-  mac-addresses:
+  id: 51df701f-8f1c-4eb5-88d8-289311f0c220
+  macAddresses:
   - 00:50:C2:4B:F0:00/36
   - 18:0C:77:00:00:00/24
   - 50:97:72:00:00:00/24
   manufacturer: Westinghouse Rail Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Westingh
 type: d3-device-type-assertion

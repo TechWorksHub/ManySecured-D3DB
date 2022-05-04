@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8833a8bb-3acb-4998-9248-d0c0333b6e8e
-  mac-addresses:
+  id: aef6777b-a202-4a33-96c6-359b1834fed0
+  macAddresses:
   - BC:97:40:C0:00:00/28
   manufacturer: LISTEC GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LISTEC
 type: d3-device-type-assertion

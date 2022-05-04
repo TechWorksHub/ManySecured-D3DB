@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ef8b4e3-8490-424f-8006-feec863fc1c6
-  mac-addresses:
+  id: ace9499d-b0ac-47ee-b752-4b0c51fcfd08
+  macAddresses:
   - 08:08:EA:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amsc
 type: d3-device-type-assertion

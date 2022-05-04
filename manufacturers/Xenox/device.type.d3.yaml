@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0dde2f52-00d8-4e0b-bfa2-3a5c22320e7b
-  mac-addresses:
+  id: 6988ad49-cc97-4a56-83fc-b36a22f5d918
+  macAddresses:
   - 38:91:FB:00:00:00/24
   manufacturer: Xenox Holding BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xenox
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d21f92f2-bf02-4569-adf8-55dc8afd1a96
-  mac-addresses:
+  id: f7d72a2f-7519-4883-8708-b61ccb3d9984
+  macAddresses:
   - 00:80:90:00:00:00/24
   - 00:D0:B9:00:00:00/24
   manufacturer: Microtek International, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microtek
 type: d3-device-type-assertion

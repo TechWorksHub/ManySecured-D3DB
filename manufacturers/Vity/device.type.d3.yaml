@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92132e97-745b-4230-9e20-1771d5b3201e
-  mac-addresses:
+  id: 08d8e220-52b5-4538-82a3-050ef83ad3ce
+  macAddresses:
   - 48:E1:AF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vity
 type: d3-device-type-assertion

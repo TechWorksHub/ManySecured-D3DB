@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9fd81e8-0898-414d-b0fa-c66abd78dc41
-  mac-addresses:
+  id: d34391c0-2278-4378-b1f0-6aa924922a85
+  macAddresses:
   - 00:05:70:00:00:00/24
   manufacturer: Baydel Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Baydel
 type: d3-device-type-assertion

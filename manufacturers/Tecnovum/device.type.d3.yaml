@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d5bb026-2ca7-4495-8eff-d6f69bfc0060
-  mac-addresses:
+  id: c1a30ffd-e938-4267-8deb-1f260389a9df
+  macAddresses:
   - 00:50:C2:CC:50:00/36
   manufacturer: Tecnovum AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecnovum
 type: d3-device-type-assertion

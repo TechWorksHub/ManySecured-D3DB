@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 2f1b155f-e167-4110-a187-b069145defe9
-  mac-addresses:
+  id: 346db309-1e80-4680-ba77-6ce8f0c42bc0
+  macAddresses:
   - 00:1B:37:00:00:00/24
   - 00:50:C2:5E:30:00/36
   - 00:50:C2:D7:40:00/36
   - 70:B3:D5:28:00:00/36
   - 70:B3:D5:7D:40:00/36
   manufacturer: Computec Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Computec
 type: d3-device-type-assertion

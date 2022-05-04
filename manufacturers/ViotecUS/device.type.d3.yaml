@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54e82025-e388-4fc1-85fd-db17b015940a
-  mac-addresses:
+  id: e7c5935a-9d62-4dbd-b8ea-79a7bca53436
+  macAddresses:
   - 70:B3:D5:89:90:00/36
   manufacturer: Viotec USA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViotecUS
 type: d3-device-type-assertion

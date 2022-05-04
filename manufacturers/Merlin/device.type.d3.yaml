@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc7531cb-8835-4198-953d-d916a1b0a275
-  mac-addresses:
+  id: 2f750bf5-d364-4a22-8cbd-18cffcb03e17
+  macAddresses:
   - 00:03:17:00:00:00/24
   manufacturer: Merlin Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Merlin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7d1ce8c-d300-454c-9d08-0db0802d1405
-  mac-addresses:
+  id: baf43cbf-678a-4442-a37f-a53506e863a3
+  macAddresses:
   - 00:A0:68:00:00:00/24
   manufacturer: Bhp Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bhp
 type: d3-device-type-assertion

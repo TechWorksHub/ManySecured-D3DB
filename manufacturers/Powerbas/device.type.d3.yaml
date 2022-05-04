@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0708a44c-c851-466e-a743-f0f3cbaebe9e
-  mac-addresses:
+  id: eb3fcee9-7aa1-4450-b75d-468434042aa6
+  macAddresses:
   - 00:50:C2:C1:D0:00/36
   manufacturer: Powerbase Energy Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powerbas
 type: d3-device-type-assertion

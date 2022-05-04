@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b2b0d1e-ac65-400f-b988-88883e92119f
-  mac-addresses:
+  id: 504370fc-cda6-49a1-b49a-39c1601abd84
+  macAddresses:
   - EC:9F:0D:D0:00:00/28
   manufacturer: SKS Control Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKSContr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94513994-db5a-4139-b94c-f96107c04c90
-  mac-addresses:
+  id: 52445e98-8c65-4683-b21c-54e1c8dab4ed
+  macAddresses:
   - 00:50:C2:DA:60:00/36
   manufacturer: Manitowoc Ice
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Manitowo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d70968a-9e78-4228-a3ac-cbf5a112e08f
-  mac-addresses:
+  id: eb865bed-8963-4e67-bf20-f1cc834959d1
+  macAddresses:
   - 00:24:07:00:00:00/24
   manufacturer: Telem Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelemSas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b031a0ce-5156-4b82-8074-193f6401edf4
-  mac-addresses:
+  id: 51e9aa18-ec15-44fa-a9eb-7310ff78949e
+  macAddresses:
   - 78:DA:A2:00:00:00/24
   manufacturer: Cynosure Technologies Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cynosure
 type: d3-device-type-assertion

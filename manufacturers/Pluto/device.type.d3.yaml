@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9945135-9196-40e6-ba27-f32949972903
-  mac-addresses:
+  id: c76b909e-5fde-419c-ac9b-394826e814f9
+  macAddresses:
   - 20:67:B1:00:00:00/24
   manufacturer: Pluto inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pluto
 type: d3-device-type-assertion

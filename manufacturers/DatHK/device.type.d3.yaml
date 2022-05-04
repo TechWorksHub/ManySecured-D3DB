@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ec66946-bd54-494e-861f-95578ce7838d
-  mac-addresses:
+  id: 85a73c0a-9ce1-4d92-8fbd-9a8957d7817b
+  macAddresses:
   - 00:1D:DD:00:00:00/24
   manufacturer: Dat H.K. Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatHK
 type: d3-device-type-assertion

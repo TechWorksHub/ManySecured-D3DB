@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65eae83e-e365-4461-a040-b3874184e0ab
-  mac-addresses:
+  id: dd885106-3455-4896-a9c8-129c259241ef
+  macAddresses:
   - 00:D0:1B:00:00:00/24
   manufacturer: Mimaki Engineering Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MimakiEn
 type: d3-device-type-assertion

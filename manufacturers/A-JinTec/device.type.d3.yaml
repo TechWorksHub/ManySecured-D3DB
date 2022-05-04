@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9964cbd8-f916-4d86-a829-1b6874463e99
-  mac-addresses:
+  id: fc4772ca-ac1d-4488-81be-5efe3b7760a2
+  macAddresses:
   - 00:0F:CA:00:00:00/24
   manufacturer: A-Jin Techline Co, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A-JinTec
 type: d3-device-type-assertion

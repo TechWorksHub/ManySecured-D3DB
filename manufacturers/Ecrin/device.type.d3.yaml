@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e7f4d52-9210-4555-8cd0-00490f4b6fc8
-  mac-addresses:
+  id: 44f2cdbc-bc59-471c-966b-89217f0927b9
+  macAddresses:
   - 00:50:C2:E4:00:00/36
   manufacturer: Ecrin Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ecrin
 type: d3-device-type-assertion

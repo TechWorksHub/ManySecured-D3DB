@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7e956c4-d0c0-4494-b93c-0edec358c3a2
-  mac-addresses:
+  id: 286603fe-259d-4ba5-9e6a-d78e3b2bb71a
+  macAddresses:
   - 70:76:FF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kerlink
 type: d3-device-type-assertion

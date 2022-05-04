@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8005409c-f380-4125-9396-d43508c5e36b
-  mac-addresses:
+  id: 8e324a18-c449-4f44-b620-e5872391152e
+  macAddresses:
   - 00:50:C2:D6:B0:00/36
   manufacturer: Nemec Automation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NemecAut
 type: d3-device-type-assertion

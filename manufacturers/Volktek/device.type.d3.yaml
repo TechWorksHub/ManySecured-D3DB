@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8df206d9-9206-4b79-a509-09ce0ae684f6
-  mac-addresses:
+  id: 26cc8ce4-4416-4af1-8f5a-911e4c95cd43
+  macAddresses:
   - 00:0B:04:00:00:00/24
   manufacturer: Volktek Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Volktek
 type: d3-device-type-assertion

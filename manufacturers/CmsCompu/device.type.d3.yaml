@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8a8275b-e9b8-41c9-85a9-b620fff72f6c
-  mac-addresses:
+  id: 06dfb92b-42fb-469c-828f-ff6b6d1c141e
+  macAddresses:
   - 00:10:93:00:00:00/24
   manufacturer: Cms Computers, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CmsCompu
 type: d3-device-type-assertion

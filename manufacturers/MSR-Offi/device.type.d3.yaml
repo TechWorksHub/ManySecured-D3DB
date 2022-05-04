@@ -1,8 +1,8 @@
 credentialSubject:
-  id: beccc7c9-c636-49fd-914a-e7522eb7e752
-  mac-addresses:
+  id: dbea2fce-a1bc-43f6-8aaf-8a700e414449
+  macAddresses:
   - 00:50:C2:D1:50:00/36
   manufacturer: MSR-Office GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSR-Offi
 type: d3-device-type-assertion

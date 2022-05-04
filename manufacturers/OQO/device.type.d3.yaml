@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b701126-597b-45db-aeb6-932b18f44ea5
-  mac-addresses:
+  id: b013e383-bcc7-4f14-97fd-beebfbc08ce5
+  macAddresses:
   - 00:0C:96:00:00:00/24
   manufacturer: OQO, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OQO
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 513ffd32-c4d9-4f6c-96e1-04bbca9aa236
-  mac-addresses:
+  id: e1f317d4-225f-4980-8ee6-7ad2f7a7f3ed
+  macAddresses:
   - 00:40:62:00:00:00/24
   manufacturer: E-Systems, Inc./Garland Div.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EGarland
 type: d3-device-type-assertion

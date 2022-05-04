@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 75540ec2-2559-49a4-a470-8d7ac8e627cd
-  mac-addresses:
+  id: 3e635098-b1e8-4b42-8384-6168ca3ae276
+  macAddresses:
   - 00:60:6B:00:00:00/24
   - 9C:40:CD:00:00:00/24
   manufacturer: Synclayer Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synclaye
 type: d3-device-type-assertion

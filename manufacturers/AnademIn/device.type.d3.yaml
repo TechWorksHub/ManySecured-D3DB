@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20df9397-2f02-4a03-878d-835826ba825a
-  mac-addresses:
+  id: 263d9b64-4d32-4f6d-88ae-c570b9a438f7
+  macAddresses:
   - 98:89:ED:00:00:00/24
   manufacturer: Anadem Information Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnademIn
 type: d3-device-type-assertion

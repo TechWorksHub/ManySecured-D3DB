@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12dcc492-5e03-4964-8e8e-af0ab76ea4f5
-  mac-addresses:
+  id: c98fcee1-0720-4342-bff1-b9705fb58c5b
+  macAddresses:
   - 00:50:C2:5D:E0:00/36
   manufacturer: Magal Senstar Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagalSen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7818c24f-d932-4c40-8adc-50ecb549832c
-  mac-addresses:
+  id: 009800b3-bf0c-4db7-919f-4db798879ac3
+  macAddresses:
   - 30:3D:08:00:00:00/24
   manufacturer: Glintt Tes S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlinttTe
 type: d3-device-type-assertion

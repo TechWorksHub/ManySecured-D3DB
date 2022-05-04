@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92cee0fe-57b8-4e87-bb2c-840c4907c47a
-  mac-addresses:
+  id: 8768bf41-489c-433e-b1ef-257e151f3b53
+  macAddresses:
   - 00:C0:20:00:00:00/24
   manufacturer: Arco Electronic, Control Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArcoElec
 type: d3-device-type-assertion

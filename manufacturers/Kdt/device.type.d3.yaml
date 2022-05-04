@@ -1,11 +1,11 @@
 credentialSubject:
-  id: df4ce2fc-6d6e-4de5-8c4b-e9f546d93143
-  mac-addresses:
+  id: ad34fea4-7a19-4f25-a365-cbd794e4a28a
+  macAddresses:
   - 00:50:C2:CC:60:00/36
   - 40:D8:55:09:10:00/36
   - 70:B3:D5:2C:E0:00/36
   - 70:B3:D5:74:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kdt
 type: d3-device-type-assertion

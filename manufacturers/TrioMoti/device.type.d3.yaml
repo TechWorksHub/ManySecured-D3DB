@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 492e34da-16d1-4ae5-926d-d805b1a94ab4
-  mac-addresses:
+  id: f5e64302-da4a-422e-b920-5a6a4acb366e
+  macAddresses:
   - 00:1E:FB:00:00:00/24
   manufacturer: Trio Motion Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrioMoti
 type: d3-device-type-assertion

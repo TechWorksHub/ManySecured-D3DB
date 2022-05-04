@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd471afc-3d14-46b0-9e93-59cf3da77f1a
-  mac-addresses:
+  id: 1b6f94c2-4c93-4b88-904d-b9f5531a042e
+  macAddresses:
   - 70:B3:D5:95:F0:00/36
   manufacturer: WiFi Nation Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiFiNati
 type: d3-device-type-assertion

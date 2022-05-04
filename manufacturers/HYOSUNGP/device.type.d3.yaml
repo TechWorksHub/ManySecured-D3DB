@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7eab28f6-e372-4f6c-82a7-e039bcbc74c2
-  mac-addresses:
+  id: 9162ad29-74e3-4fcc-9204-1ad78f03e8ee
+  macAddresses:
   - 70:B3:D5:41:A0:00/36
   manufacturer: HYOSUNG Power & Industrial Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HYOSUNGP
 type: d3-device-type-assertion

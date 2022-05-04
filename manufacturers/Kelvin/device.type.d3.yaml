@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 966915ff-1165-4116-827f-41c0e0782d51
-  mac-addresses:
+  id: 2112234e-0013-4dd2-b2a1-96908ed193f9
+  macAddresses:
   - F4:C7:C8:00:00:00/24
   manufacturer: Kelvin Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kelvin
 type: d3-device-type-assertion

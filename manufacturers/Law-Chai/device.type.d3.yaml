@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c01dae0-f291-468b-8608-d19798444642
-  mac-addresses:
+  id: 0f770edd-ef94-41b0-b01d-09cd4baeed35
+  macAddresses:
   - 00:16:BB:00:00:00/24
   manufacturer: Law-Chain Computer Technology Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Law-Chai
 type: d3-device-type-assertion

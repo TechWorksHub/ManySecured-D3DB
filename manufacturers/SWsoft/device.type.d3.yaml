@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89ee9609-5858-4d29-b205-3ca233c05b78
-  mac-addresses:
+  id: 90d5c3f1-0a39-42b2-9085-07513c490bfb
+  macAddresses:
   - 00:18:51:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SWsoft
 type: d3-device-type-assertion

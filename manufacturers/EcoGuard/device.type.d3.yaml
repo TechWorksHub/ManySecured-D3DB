@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6d8f966c-ac89-4541-a7d6-0797550a3c83
-  mac-addresses:
+  id: 29c72473-e05d-4c32-979b-07651328b7fc
+  macAddresses:
   - 40:D8:55:17:40:00/36
   - DC:44:27:70:00:00/28
   manufacturer: EcoGuard AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcoGuard
 type: d3-device-type-assertion

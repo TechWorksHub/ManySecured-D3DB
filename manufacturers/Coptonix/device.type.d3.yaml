@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43c49e9f-cbea-41cb-8467-0dee4e9eac39
-  mac-addresses:
+  id: b0635d71-5110-4f8d-b3a8-6368a429b673
+  macAddresses:
   - 00:50:C2:CB:B0:00/36
   manufacturer: Coptonix GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coptonix
 type: d3-device-type-assertion

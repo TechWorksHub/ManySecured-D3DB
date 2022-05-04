@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b030803b-cb41-4075-bd7a-743318358b7a
-  mac-addresses:
+  id: 7851b0cf-5535-4db5-974a-9dbf663b5573
+  macAddresses:
   - 70:B3:D5:85:10:00/36
   manufacturer: EXASCEND (Wuhan) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EXASCEND
 type: d3-device-type-assertion

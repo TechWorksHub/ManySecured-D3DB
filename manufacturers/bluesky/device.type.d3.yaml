@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 094b3dc4-32e4-488d-b51f-536c03964b35
-  mac-addresses:
+  id: 0b478c67-43f2-48f6-8ce4-d5b45cecc8c2
+  macAddresses:
   - A4:29:B7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bluesky
 type: d3-device-type-assertion

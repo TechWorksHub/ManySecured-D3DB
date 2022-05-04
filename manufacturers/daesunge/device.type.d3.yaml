@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1dbd02e-73f5-4f66-834d-e37f1232f9b2
-  mac-addresses:
+  id: 05c83e7d-f951-4d8d-95d1-b2681009e511
+  macAddresses:
   - 48:ED:80:00:00:00/24
   manufacturer: daesung eltec
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: daesunge
 type: d3-device-type-assertion

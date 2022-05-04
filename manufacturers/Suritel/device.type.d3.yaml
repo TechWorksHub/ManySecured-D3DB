@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f753b86d-a53a-4881-b043-d4049c24fc47
-  mac-addresses:
+  id: 34cb1207-49b6-42d4-b2ec-3f66f700a812
+  macAddresses:
   - DC:44:27:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Suritel
 type: d3-device-type-assertion

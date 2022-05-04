@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcc24a95-5795-48f2-baf9-13703461a1a1
-  mac-addresses:
+  id: 12645da2-a852-443d-bf42-1fd7d313ddc4
+  macAddresses:
   - 0C:73:EB:40:00:00/28
   manufacturer: U-Pass.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: U-Pass
 type: d3-device-type-assertion

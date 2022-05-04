@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a734b087-0335-4611-8bc5-11924afd7f43
-  mac-addresses:
+  id: 1fd1e8ab-012e-4cf1-8638-5f946042e3db
+  macAddresses:
   - 00:50:C2:46:B0:00/36
   manufacturer: EASYTECH GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EASYTECH
 type: d3-device-type-assertion

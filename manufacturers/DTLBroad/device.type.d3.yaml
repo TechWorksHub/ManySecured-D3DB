@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 557458d3-30d1-4a09-b833-e9ea4e9dcda5
-  mac-addresses:
+  id: f9a40be7-1226-4912-8de5-bf67f4f25a7e
+  macAddresses:
   - 00:1B:73:00:00:00/24
   manufacturer: DTL Broadcast Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DTLBroad
 type: d3-device-type-assertion

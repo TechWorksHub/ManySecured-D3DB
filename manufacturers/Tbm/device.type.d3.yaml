@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e096984e-8514-4d51-9128-e86ee0440136
-  mac-addresses:
+  id: 522c62bd-07d8-4de4-aa54-079e581a3898
+  macAddresses:
   - 74:F8:DB:C0:00:00/28
   manufacturer: Tbm Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tbm
 type: d3-device-type-assertion

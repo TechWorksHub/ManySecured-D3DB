@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 715b1e24-56f5-4e8a-80c4-41e981233133
-  mac-addresses:
+  id: c15cde71-b7cc-4e45-abc4-061d753387d6
+  macAddresses:
   - 00:13:4E:00:00:00/24
   manufacturer: Valox Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Valox
 type: d3-device-type-assertion

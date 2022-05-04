@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87f6f2c6-2476-4ef9-b73f-a513c7437dbb
-  mac-addresses:
+  id: a2533b59-6c8a-4ed2-8671-03ad135e9177
+  macAddresses:
   - 44:9C:B5:00:00:00/24
   manufacturer: Alcomp, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alcomp
 type: d3-device-type-assertion

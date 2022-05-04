@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f0b2beb-a998-4743-a163-1a7e283d9c93
-  mac-addresses:
+  id: a578e4b8-fcf0-4e26-bbf3-a3592f0a8192
+  macAddresses:
   - 00:90:87:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Itis
 type: d3-device-type-assertion

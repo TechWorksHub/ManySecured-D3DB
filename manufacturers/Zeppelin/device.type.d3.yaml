@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7eeeeb68-90c4-4139-a565-696b21222d72
-  mac-addresses:
+  id: f5748b01-772a-4104-80df-42c4ab8a0af5
+  macAddresses:
   - 38:07:D4:00:00:00/24
   manufacturer: Zeppelin Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zeppelin
 type: d3-device-type-assertion

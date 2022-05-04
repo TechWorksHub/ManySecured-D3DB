@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b4c516b-b0eb-4e37-947a-1fdbceffe4f8
-  mac-addresses:
+  id: f4c2b477-2180-4412-a552-74c97f62988f
+  macAddresses:
   - 00:00:DA:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atex
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf6d075e-d894-4777-b03e-12c73b311601
-  mac-addresses:
+  id: b15632fb-0ae9-4d21-b0a8-7d7e81c44e1a
+  macAddresses:
   - 00:90:CD:00:00:00/24
   manufacturer: Ent-Empresa Nacional De Telecommunicacoes, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ent-Empr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1994a160-0700-4847-afea-bd91fef58b29
-  mac-addresses:
+  id: 3ac4d45b-ad4f-41ce-9030-9b988b42b3c0
+  macAddresses:
   - 00:1B:C5:0A:90:00/36
   manufacturer: Elektrometal SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elektrom
 type: d3-device-type-assertion

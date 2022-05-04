@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2370438-1a5e-4ed9-aba4-6d4f78c261da
-  mac-addresses:
+  id: 0061b1b8-caa8-4b96-b568-91ab17b0ac32
+  macAddresses:
   - 00:0F:04:00:00:00/24
   manufacturer: cim-usa inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: cim-usa
 type: d3-device-type-assertion

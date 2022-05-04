@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad6ceb68-6cfb-40aa-8d12-6d6afe8f8381
-  mac-addresses:
+  id: da834a88-a06c-48c5-88eb-170f77c1a30b
+  macAddresses:
   - 00:0C:C3:00:00:00/24
   manufacturer: BeWAN systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeWAN
 type: d3-device-type-assertion

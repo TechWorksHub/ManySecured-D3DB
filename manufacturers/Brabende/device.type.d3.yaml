@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6ccd5aa-afcd-4624-b89d-2ce96f326b4c
-  mac-addresses:
+  id: 4ff608a1-0f43-4f2b-8f60-49ed1253bfc6
+  macAddresses:
   - 88:C9:B3:50:00:00/28
   manufacturer: Brabender Technologie GmbH & Co, KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brabende
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a3d634f-bd2b-4b21-8eef-b886f4df40e9
-  mac-addresses:
+  id: 44be4307-690f-4e60-b50f-13f2385db5ab
+  macAddresses:
   - 54:9A:11:B0:00:00/28
   manufacturer: Elite Silicon Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EliteSil
 type: d3-device-type-assertion

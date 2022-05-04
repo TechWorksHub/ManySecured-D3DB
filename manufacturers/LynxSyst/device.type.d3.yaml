@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c704729f-5fb9-4afa-acab-f93f5b8b54d0
-  mac-addresses:
+  id: 7c421bdd-acad-4f08-8633-d5a3f8c7cafa
+  macAddresses:
   - 00:60:FE:00:00:00/24
   manufacturer: Lynx System Developers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LynxSyst
 type: d3-device-type-assertion

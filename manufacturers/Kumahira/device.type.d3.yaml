@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99ae368d-ceec-4881-ab0e-3e1acbf5580c
-  mac-addresses:
+  id: c3dd419b-6bda-4022-818c-7f8c112dc88e
+  macAddresses:
   - 00:04:B8:00:00:00/24
   manufacturer: Kumahira Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kumahira
 type: d3-device-type-assertion

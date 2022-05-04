@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e9daa8b-74b3-4cdd-9ec0-158b8bf2a382
-  mac-addresses:
+  id: c4510709-36dd-474b-a0f0-b32c0c6b3fb5
+  macAddresses:
   - 00:02:34:00:00:00/24
   manufacturer: Imperial Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Imperial
 type: d3-device-type-assertion

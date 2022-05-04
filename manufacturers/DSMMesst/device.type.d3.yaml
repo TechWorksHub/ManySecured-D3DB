@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaa65bef-180a-4bb0-ae70-a86a5a0fa21a
-  mac-addresses:
+  id: d059a6c4-64cc-4180-a6f3-69c2a52e256b
+  macAddresses:
   - 1C:A0:D3:A0:00:00/28
   manufacturer: DSM Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSMMesst
 type: d3-device-type-assertion

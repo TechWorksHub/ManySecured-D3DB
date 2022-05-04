@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3bb22233-a824-4994-ac46-e9c848f4f247
-  mac-addresses:
+  id: 8ca7daea-fc1f-4896-9bbe-74a04b350703
+  macAddresses:
   - 00:50:C2:C3:50:00/36
   - 00:50:C2:FD:40:00/36
   - 70:B3:D5:7A:D0:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - 70:B3:D5:D3:60:00/36
   - 70:B3:D5:DD:20:00/36
   manufacturer: Insitu, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Insitu
 type: d3-device-type-assertion

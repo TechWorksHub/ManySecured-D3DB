@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17d18d0f-9021-4ec8-bec6-39effadfdbbd
-  mac-addresses:
+  id: 99de19e5-a33a-4f94-860e-604e1da89db6
+  macAddresses:
   - 00:50:C2:F0:C0:00/36
   manufacturer: Skychannel Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skychann
 type: d3-device-type-assertion

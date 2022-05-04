@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b3dc8ab-a4b6-40e0-ba4c-9d7ac165cdee
-  mac-addresses:
+  id: 3369c163-5044-468b-9e87-aafa7875e39d
+  macAddresses:
   - 00:60:6F:00:00:00/24
   manufacturer: Clarion Corporation Of America
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClarionA
 type: d3-device-type-assertion

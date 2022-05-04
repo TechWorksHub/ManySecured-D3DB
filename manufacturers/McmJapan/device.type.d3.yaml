@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eec8c221-1b87-4203-a23a-8333fe96363b
-  mac-addresses:
+  id: 4b6bb946-d41b-42cb-ab99-24afac23234e
+  macAddresses:
   - 00:40:56:00:00:00/24
   manufacturer: Mcm Japan Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: McmJapan
 type: d3-device-type-assertion

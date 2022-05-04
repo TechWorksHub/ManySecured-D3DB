@@ -1,10 +1,10 @@
 credentialSubject:
-  id: dbd81eac-427c-489c-9c5a-651ea4a81e86
-  mac-addresses:
+  id: b124e646-e401-47e4-9148-00e5d94bca98
+  macAddresses:
   - 00:21:04:00:00:00/24
   - 58:9E:C6:00:00:00/24
   - 7C:2F:80:00:00:00/24
   manufacturer: Gigaset Communications GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GigasetC
 type: d3-device-type-assertion

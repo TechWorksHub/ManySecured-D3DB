@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 390148c5-3b0e-4517-ba16-65e29fe18f0f
-  mac-addresses:
+  id: cf286536-3bda-489c-a4e3-041e2de7f718
+  macAddresses:
   - 1C:87:79:00:00:00/28
   manufacturer: Wurm GmbH & Co. KG Elektronische Systeme
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WurmElek
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5bed2c7-7c11-4746-a0eb-145f5595fd65
-  mac-addresses:
+  id: 52f7aab1-4418-4a42-9fc0-b3c1885d6837
+  macAddresses:
   - 00:13:63:00:00:00/24
   manufacturer: Verascape, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Verascap
 type: d3-device-type-assertion

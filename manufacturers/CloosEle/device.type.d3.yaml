@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 04aaab35-cd5a-46fc-8e92-5ffa04ff93ef
-  mac-addresses:
+  id: 9455e043-eba0-40c9-8547-764b255f7ab0
+  macAddresses:
   - 00:50:C2:A0:60:00/36
   - 00:FA:3B:00:00:00/24
   manufacturer: Cloos Electronic Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CloosEle
 type: d3-device-type-assertion

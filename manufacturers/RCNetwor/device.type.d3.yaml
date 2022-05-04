@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bacb9911-e4f6-4cfc-bf15-d37c41a4b7e8
-  mac-addresses:
+  id: 3a96dd8e-aa02-460b-a2f5-d51e47e7f6f6
+  macAddresses:
   - 00:01:1F:00:00:00/24
   manufacturer: RC Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RCNetwor
 type: d3-device-type-assertion

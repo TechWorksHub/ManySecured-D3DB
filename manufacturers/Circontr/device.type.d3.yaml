@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f2405c0-0e75-4aad-acd4-2903ecc43a67
-  mac-addresses:
+  id: cfd919a7-379d-4fa2-b990-a4dd89bf159e
+  macAddresses:
   - 00:26:45:00:00:00/24
   manufacturer: Circontrol S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Circontr
 type: d3-device-type-assertion

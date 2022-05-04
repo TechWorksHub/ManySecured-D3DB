@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1a70372-ac8d-437c-a12c-6ab0f8aab001
-  mac-addresses:
+  id: f0d5e162-929d-4047-8492-caae19c61b75
+  macAddresses:
   - 00:20:27:00:00:00/24
   manufacturer: Ming Fortune Industry Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MingFort
 type: d3-device-type-assertion

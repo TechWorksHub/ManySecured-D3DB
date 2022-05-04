@@ -1,10 +1,10 @@
 credentialSubject:
-  id: abc2a644-8644-4ba7-a3f4-d70d369398c6
-  mac-addresses:
+  id: 6302040b-7d34-4a2f-b50c-834cb6a56e9e
+  macAddresses:
   - 00:50:1E:00:00:00/24
   - 00:B0:09:00:00:00/24
   - 00:D0:8E:00:00:00/24
   manufacturer: Grass Valley, A Belden Brand
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GrassVal
 type: d3-device-type-assertion

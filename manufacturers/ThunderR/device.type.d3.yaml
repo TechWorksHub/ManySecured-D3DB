@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8c98d76-af10-4a71-ac0b-5dc0e425af5f
-  mac-addresses:
+  id: 4db09bea-edde-4569-94f5-a431f2b23000
+  macAddresses:
   - 00:05:CF:00:00:00/24
   manufacturer: Thunder River Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThunderR
 type: d3-device-type-assertion

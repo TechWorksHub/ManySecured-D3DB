@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6d56946-8d3d-4028-86c3-c4d3c4e2364d
-  mac-addresses:
+  id: 3730c3c3-5e23-427e-9082-47786b2b2af4
+  macAddresses:
   - 00:E0:AB:00:00:00/24
   manufacturer: Dimat S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dimat
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4dcd2b94-f826-4fd7-9fa3-2169a024b115
-  mac-addresses:
+  id: 99e20e65-42cd-498c-bbdd-be52dbc4fab6
+  macAddresses:
   - 28:36:38:80:00:00/28
   manufacturer: Havells India Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HavellsI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60023700-f490-4908-a3f8-43635bc5fde8
-  mac-addresses:
+  id: 86c1df64-59da-43e6-9057-fdf0c191880b
+  macAddresses:
   - C4:95:4D:00:00:00/28
   manufacturer: BA International Electronics Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BAIntern
 type: d3-device-type-assertion

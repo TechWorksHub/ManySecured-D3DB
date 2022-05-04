@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7553d5b-a094-4b2b-a9f2-a6e0d06d6799
-  mac-addresses:
+  id: 5abaa709-9ece-4d01-8ca1-f420843f65d7
+  macAddresses:
   - 84:8B:CD:60:00:00/28
   manufacturer: Twtg R&D B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TwtgR&D
 type: d3-device-type-assertion

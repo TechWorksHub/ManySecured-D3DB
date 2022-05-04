@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e5c4ffe-b9f8-4ef0-baec-0428757f55d8
-  mac-addresses:
+  id: 20eeb0f7-291b-4320-bdab-6a6dacf7227e
+  macAddresses:
   - 00:0F:0D:00:00:00/24
   manufacturer: Hunt Electronic Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuntElec
 type: d3-device-type-assertion

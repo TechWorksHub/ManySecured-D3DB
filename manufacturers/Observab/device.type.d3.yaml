@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a003283-ad8e-4365-bdee-fc8bb57e7512
-  mac-addresses:
+  id: 0724194b-ebfa-48b3-8553-d125fe512e79
+  macAddresses:
   - 04:71:4B:A0:00:00/28
   manufacturer: Observables, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Observab
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7384e98f-2ee3-46d2-9be6-ff6692987734
-  mac-addresses:
+  id: ea051ee9-abb0-4159-ae10-c43ae01606fb
+  macAddresses:
   - 70:31:87:00:00:00/24
   manufacturer: ACX GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACX
 type: d3-device-type-assertion

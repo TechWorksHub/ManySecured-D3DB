@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52c1675e-731f-4591-9ae3-f3118dd1ed82
-  mac-addresses:
+  id: 2d7e35e4-9d41-4a00-b427-9dd61347067e
+  macAddresses:
   - B8:D8:12:60:00:00/28
   manufacturer: Vonger Electronic Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VongerEl
 type: d3-device-type-assertion

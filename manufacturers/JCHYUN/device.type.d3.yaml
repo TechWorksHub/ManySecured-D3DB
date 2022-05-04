@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbe2128b-9610-4743-a5c6-a7fd71041aa7
-  mac-addresses:
+  id: cf17546f-5fb3-4ad7-9e2b-4d83ea7921a6
+  macAddresses:
   - 00:02:E4:00:00:00/24
   manufacturer: JC HYUN Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JCHYUN
 type: d3-device-type-assertion

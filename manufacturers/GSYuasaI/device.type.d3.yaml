@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44d5dffd-bd47-49f1-90c9-67d5432cc719
-  mac-addresses:
+  id: 43bf9c4c-2247-4fb0-982d-2f99c8edc768
+  macAddresses:
   - D0:9F:D9:30:00:00/28
   manufacturer: GS Yuasa Infrastructure Systems Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSYuasaI
 type: d3-device-type-assertion

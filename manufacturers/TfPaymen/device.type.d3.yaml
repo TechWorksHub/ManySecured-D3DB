@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91224140-3835-4bce-b232-3a3e58959d00
-  mac-addresses:
+  id: ba65bb04-993b-47af-b381-440ce7472d20
+  macAddresses:
   - F0:EF:D2:00:00:00/24
   manufacturer: Tf Payment Service Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TfPaymen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 186983a4-ac3c-488f-b627-9ab8f84c0b62
-  mac-addresses:
+  id: 396660ba-1488-4bf1-96d2-f364f958d7ce
+  macAddresses:
   - CC:4A:E1:00:00:00/24
   manufacturer: fourtec -Fourier Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: fourtec-
 type: d3-device-type-assertion

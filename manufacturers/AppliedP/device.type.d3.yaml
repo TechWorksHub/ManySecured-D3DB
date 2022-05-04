@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f23a1daf-8688-4bac-ba73-20bc5afdf0dd
-  mac-addresses:
+  id: 91fb6e31-be5a-43d9-90fb-aa06fd01c359
+  macAddresses:
   - 70:B3:D5:E6:70:00/36
   manufacturer: Applied Processing
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppliedP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05f7ff68-0d22-4d65-abb2-35012b31f2fc
-  mac-addresses:
+  id: d0a44129-803d-4b24-a2be-d7c76192490b
+  macAddresses:
   - 00:A0:1E:00:00:00/24
   manufacturer: Est Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Est
 type: d3-device-type-assertion

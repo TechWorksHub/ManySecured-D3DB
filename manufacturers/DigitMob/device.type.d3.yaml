@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49914b46-1cc3-4909-bac8-3903ba3c5cb8
-  mac-addresses:
+  id: 31fe063a-602f-41a2-9afc-37d438abf3da
+  macAddresses:
   - E8:6D:54:00:00:00/24
   manufacturer: Digit Mobile Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitMob
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86d2dcc5-fde9-4236-ad5b-624b1586657b
-  mac-addresses:
+  id: 4ba9b65b-b717-414b-b56c-0a8153fd74a3
+  macAddresses:
   - C0:5E:6F:00:00:00/24
   manufacturer: V. Stonkaus firma "Kodinis Raktas"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VStonkau
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0aa94ae9-398e-4de2-acf8-3692272d3881
-  mac-addresses:
+  id: 64bb92c4-a87e-40e2-a86d-2b3bb0087f11
+  macAddresses:
   - 00:60:4A:00:00:00/24
   manufacturer: Saic Ideas Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaicIdea
 type: d3-device-type-assertion

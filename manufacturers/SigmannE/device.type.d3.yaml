@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6926c081-b5f1-49a2-831c-ee220320967e
-  mac-addresses:
+  id: e0b6d3e1-6788-483c-876a-507d9a3bc7e6
+  macAddresses:
   - 70:B3:D5:95:A0:00/36
   manufacturer: Sigmann Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SigmannE
 type: d3-device-type-assertion

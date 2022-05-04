@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 33e4e65f-1927-4739-8470-f1f94d4e51b2
-  mac-addresses:
+  id: fffcdbd8-c276-4f36-ad84-9e1ac27d175e
+  macAddresses:
   - 08:67:4E:00:00:00/24
   - 10:39:4E:00:00:00/24
   - B8:4D:EE:00:00:00/24
   manufacturer: Hisense broadband multimedia technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hisenseb
 type: d3-device-type-assertion

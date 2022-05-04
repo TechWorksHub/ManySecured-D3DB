@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01a69af3-0e1d-4c4a-b627-33319a1e5ee6
-  mac-addresses:
+  id: 7d2116d6-8f28-4e23-a32c-35131ce79e5a
+  macAddresses:
   - 00:13:3F:00:00:00/24
   manufacturer: Eppendorf Instrumente GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eppendor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25e04999-a41e-4159-954a-944b1ac1bc1c
-  mac-addresses:
+  id: f4647fc7-55b9-4721-bc5d-a31a4a84f4e7
+  macAddresses:
   - 90:C6:82:D0:00:00/28
   manufacturer: PowerShield Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerShi
 type: d3-device-type-assertion

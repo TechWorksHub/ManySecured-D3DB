@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0db32a4c-f3f7-4cfe-b3ab-5e3311b6195c
-  mac-addresses:
+  id: 2d807f8a-43e2-447e-9636-f4c959a415ae
+  macAddresses:
   - 70:B3:D5:D1:90:00/36
   - 8C:1F:64:64:70:00/36
   manufacturer: Senior Group LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeniorGr
 type: d3-device-type-assertion

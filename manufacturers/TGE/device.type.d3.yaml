@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fd52dee-ffe0-471e-81b3-24650121230b
-  mac-addresses:
+  id: 03ec5305-2f59-4952-9c4f-145d3718103e
+  macAddresses:
   - 00:50:C2:8F:70:00/36
   manufacturer: TGE Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TGE
 type: d3-device-type-assertion

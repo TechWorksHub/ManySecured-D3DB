@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0039cb3-edb9-4b37-9bee-63427489dd55
-  mac-addresses:
+  id: 798f0eb4-1ffb-4cca-a11b-0c875fefa96c
+  macAddresses:
   - 70:B3:D5:F7:40:00/36
   manufacturer: Tessa Agritech Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TessaAgr
 type: d3-device-type-assertion

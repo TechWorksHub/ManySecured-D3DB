@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bfcadc88-3b27-4179-936b-6bf51bc030d4
-  mac-addresses:
+  id: f56407ff-9cc5-4653-8d4f-37ed4704273b
+  macAddresses:
   - 6A:9D:A4:00:00:00/24
   - 98:C0:EB:00:00:00/24
   manufacturer: Global Reach Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalRe
 type: d3-device-type-assertion

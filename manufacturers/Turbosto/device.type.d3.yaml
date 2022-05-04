@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1949ad6b-7b1a-4083-99e1-4a960f08ba00
-  mac-addresses:
+  id: 6492c33a-1989-4656-867e-b16cd906ada5
+  macAddresses:
   - E8:FD:90:00:00:00/24
   manufacturer: Turbostor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Turbosto
 type: d3-device-type-assertion

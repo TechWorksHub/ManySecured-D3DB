@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 308a0a88-e18f-4755-9f56-0f4a7859fe12
-  mac-addresses:
+  id: d61b3ad6-1169-4d7a-a0bf-e7264a542871
+  macAddresses:
   - A0:02:4A:10:00:00/28
   manufacturer: Vitec Imaging Solutions Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VitecIma
 type: d3-device-type-assertion

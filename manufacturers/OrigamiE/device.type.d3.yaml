@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 605858b1-f420-4dab-89d2-95577fea907b
-  mac-addresses:
+  id: 32401c4a-6417-49a0-bf8c-09f1277caab4
+  macAddresses:
   - 08:ED:02:D0:00:00/28
   manufacturer: Origami Energy Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrigamiE
 type: d3-device-type-assertion

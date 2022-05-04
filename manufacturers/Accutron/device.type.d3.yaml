@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ef7ba00-b26a-47d5-94f6-f76a4c581abb
-  mac-addresses:
+  id: ecca2c72-4670-41b9-b9a3-fd66e5f53890
+  macAddresses:
   - 90:9F:43:00:00:00/24
   manufacturer: Accutron Instruments Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accutron
 type: d3-device-type-assertion

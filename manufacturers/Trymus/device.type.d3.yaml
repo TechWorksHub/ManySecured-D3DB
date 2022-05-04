@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79c85d80-51d0-4a78-abd5-d93d6365f9fd
-  mac-addresses:
+  id: 49f2158c-b3b7-44b7-8ce6-3696344822f4
+  macAddresses:
   - 60:C9:80:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trymus
 type: d3-device-type-assertion

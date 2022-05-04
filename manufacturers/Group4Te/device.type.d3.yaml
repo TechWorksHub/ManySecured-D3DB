@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae8fd4d6-beb4-4a0a-9503-2a9b6ff14f32
-  mac-addresses:
+  id: 5ebe8182-082d-48b1-bb84-66d98b267c5f
+  macAddresses:
   - 00:15:BD:00:00:00/24
   manufacturer: Group 4 Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Group4Te
 type: d3-device-type-assertion

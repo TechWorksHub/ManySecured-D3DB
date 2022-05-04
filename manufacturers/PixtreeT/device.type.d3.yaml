@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7a26888-b62e-426f-a019-f9578bb4d864
-  mac-addresses:
+  id: e605e811-e3b0-4092-8c1d-37e39234d4c6
+  macAddresses:
   - 00:50:C2:47:10:00/36
   manufacturer: Pixtree Technologies, inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PixtreeT
 type: d3-device-type-assertion

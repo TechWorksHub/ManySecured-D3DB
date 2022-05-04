@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75bba473-9088-48e8-bed5-0d22d3abe15d
-  mac-addresses:
+  id: 9d96081a-ea7a-4100-ab47-543524605e10
+  macAddresses:
   - BC:2C:55:00:00:00/24
   manufacturer: Bear Flag Design, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BearFlag
 type: d3-device-type-assertion

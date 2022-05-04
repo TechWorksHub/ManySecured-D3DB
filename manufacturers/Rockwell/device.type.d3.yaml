@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 732657ef-4208-432e-817a-7b71aa0ee795
-  mac-addresses:
+  id: bec41998-f509-4fd7-a64d-09f3c387b7ff
+  macAddresses:
   - 00:00:BC:00:00:00/24
   - 00:1D:9C:00:00:00/24
   - 08:61:95:00:00:00/24
@@ -13,6 +13,6 @@ credentialSubject:
   - E4:90:69:00:00:00/24
   - F4:54:33:00:00:00/24
   manufacturer: Rockwell Automation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rockwell
 type: d3-device-type-assertion

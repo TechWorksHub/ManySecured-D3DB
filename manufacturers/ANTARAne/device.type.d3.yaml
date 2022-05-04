@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec600cea-ff78-4570-8222-a48efbc55016
-  mac-addresses:
+  id: eca5ec2f-bc35-4536-96d0-b1af9ef5c25e
+  macAddresses:
   - 00:04:55:00:00:00/24
   manufacturer: ANTARA.net
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ANTARAne
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cbcdd8a-dc9c-45c5-9e57-696a661dfa04
-  mac-addresses:
+  id: f99434d6-52b2-4ddf-ba78-48c06245fda5
+  macAddresses:
   - 00:0A:BA:00:00:00/24
   manufacturer: Arcon Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArconTec
 type: d3-device-type-assertion

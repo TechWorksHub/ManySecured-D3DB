@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6169c853-2297-472c-98e0-a97051fff31d
-  mac-addresses:
+  id: 1f08edb4-166e-4864-bf27-1692ddf8ec15
+  macAddresses:
   - F4:C7:95:00:00:00/24
   manufacturer: WEY Technology AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEYTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 682bc11c-d34d-4665-8140-2c790dec6e35
-  mac-addresses:
+  id: 84968435-7813-4c32-ba60-cef717054bf7
+  macAddresses:
   - A0:69:86:00:00:00/24
   manufacturer: Wellav Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WellavTe
 type: d3-device-type-assertion

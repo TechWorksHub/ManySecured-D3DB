@@ -1,6 +1,6 @@
 credentialSubject:
-  id: eb46989a-01e6-4866-a458-0f0845533910
-  mac-addresses:
+  id: b8874abc-7d19-42ca-977c-7bb49fee2171
+  macAddresses:
   - 00:09:37:00:00:00/24
   - 00:14:48:00:00:00/24
   - 00:1E:33:00:00:00/24
@@ -13,6 +13,6 @@ credentialSubject:
   - 84:3A:5B:00:00:00/24
   - F8:89:3C:00:00:00/24
   manufacturer: Inventec Appliance Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inventec
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7796725f-0ef4-4f24-a264-647369117a19
-  mac-addresses:
+  id: 2cd1c800-155c-43d1-a632-e718d5d3a08b
+  macAddresses:
   - 00:1C:16:00:00:00/24
   - 28:CA:09:00:00:00/24
   manufacturer: ThyssenKrupp Elevator
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThyssenK
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 20384135-1146-4f75-b003-8fed9b0db884
-  mac-addresses:
+  id: 6aaaa257-ec7d-4e61-922c-04e446dc3bde
+  macAddresses:
   - 04:F9:93:00:00:00/24
   - 0C:01:DB:00:00:00/24
   - 30:56:96:00:00:00/24
@@ -19,6 +19,6 @@ credentialSubject:
   - E8:C2:DD:00:00:00/24
   - FC:29:E3:00:00:00/24
   manufacturer: Infinix mobility limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infinixm
 type: d3-device-type-assertion

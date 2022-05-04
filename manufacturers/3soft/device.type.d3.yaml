@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9482e1e-fcab-4873-8fe8-b98de7e3ea9c
-  mac-addresses:
+  id: bbd5d24e-42c1-4112-8ec2-a355483b9cce
+  macAddresses:
   - 00:17:A1:00:00:00/24
   manufacturer: 3soft inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3soft
 type: d3-device-type-assertion

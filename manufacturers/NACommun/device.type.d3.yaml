@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 999aef3e-7bb1-4448-be37-7f67f0038429
-  mac-addresses:
+  id: c48a034c-efc8-4323-9a5a-2f63d99fcd0c
+  macAddresses:
   - 70:B3:D5:B9:20:00/36
   manufacturer: N A Communications LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NACommun
 type: d3-device-type-assertion

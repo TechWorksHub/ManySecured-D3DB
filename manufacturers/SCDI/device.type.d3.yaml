@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3bd47688-61ad-41eb-9fca-c93ca56b0616
-  mac-addresses:
+  id: 79131aaa-4e48-40b6-aa89-a471e84e8824
+  macAddresses:
   - 00:26:C2:00:00:00/24
   manufacturer: SCDI Co. LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SCDI
 type: d3-device-type-assertion

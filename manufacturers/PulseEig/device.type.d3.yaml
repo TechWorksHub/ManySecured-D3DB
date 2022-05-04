@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c61f611-f4d7-4808-9ba8-24ce0488fc09
-  mac-addresses:
+  id: b2ce4755-4d06-4aa8-a26a-bcc75faa2f98
+  macAddresses:
   - 00:15:82:00:00:00/24
   manufacturer: Pulse Eight Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PulseEig
 type: d3-device-type-assertion

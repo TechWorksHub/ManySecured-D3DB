@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a74985dc-8712-475d-8b1f-926f7a336024
-  mac-addresses:
+  id: 1f7bd41d-db0e-492b-8268-36e5675fc5c1
+  macAddresses:
   - EC:F7:2B:00:00:00/24
   manufacturer: Hd Digital Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HdDigita
 type: d3-device-type-assertion

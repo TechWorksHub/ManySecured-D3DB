@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd588ea5-5eec-41dc-84f7-9e0787ce3bd2
-  mac-addresses:
+  id: f5f6f6e7-8e95-408c-9d67-2a48f059d78a
+  macAddresses:
   - 00:E0:2C:00:00:00/24
   manufacturer: AST - built into 5166M PC motherboard (win95 id's as Intel)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ast-Buil
 type: d3-device-type-assertion

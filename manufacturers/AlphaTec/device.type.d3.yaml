@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 79720d24-f735-4b03-8d20-18d09835d76d
-  mac-addresses:
+  id: 789e3592-00e9-42dc-b61d-0e5b3246b787
+  macAddresses:
   - 00:26:97:00:00:00/24
   - 00:90:EA:00:00:00/24
   - 50:3A:7D:00:00:00/24
   - 7C:BA:CC:E0:00:00/28
   manufacturer: Alpha Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaTec
 type: d3-device-type-assertion

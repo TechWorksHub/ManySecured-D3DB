@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b601f19-2cab-43ed-83f0-db453523f6c7
-  mac-addresses:
+  id: 726fb43c-0b48-42ce-ac48-ee2cc5e0d540
+  macAddresses:
   - 00:09:24:00:00:00/24
   manufacturer: Telebau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telebau
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea31ce8a-09c9-4a78-bebd-d0816fc59aaa
-  mac-addresses:
+  id: beae5d44-bc1c-4499-ad49-a4f6dc39d11f
+  macAddresses:
   - D4:25:CC:10:00:00/28
   manufacturer: Eware Information Technology com.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EwareInf
 type: d3-device-type-assertion

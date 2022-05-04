@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9f16971-9ada-4c43-b84f-da57ceb99676
-  mac-addresses:
+  id: 37414202-a8cd-4a1e-89b1-2880bb448856
+  macAddresses:
   - 00:1C:9D:00:00:00/24
   manufacturer: Liecthi AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liecthi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2019fdf-6e65-4d15-a1c4-e2b791d4d92c
-  mac-addresses:
+  id: c982175b-6d2f-421a-981a-1c8d482d1814
+  macAddresses:
   - 1C:CA:E3:B0:00:00/28
   manufacturer: Dream Visions Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DreamVis
 type: d3-device-type-assertion

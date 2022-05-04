@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b985da1e-a094-492f-9c57-63bce845af8d
-  mac-addresses:
+  id: 52550d00-c7d3-4840-a762-7bdba2671fd9
+  macAddresses:
   - 00:0E:AF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Castel
 type: d3-device-type-assertion

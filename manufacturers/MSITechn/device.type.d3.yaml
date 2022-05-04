@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0f41879-a285-41d2-b94a-a02a694687a0
-  mac-addresses:
+  id: af8c12cd-e776-47ff-ac02-c286f3ed8b3e
+  macAddresses:
   - 00:1F:CF:00:00:00/24
   manufacturer: MSI Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSITechn
 type: d3-device-type-assertion

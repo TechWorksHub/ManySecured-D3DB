@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e4a1855-ca23-4be9-9ce8-f5be2f1ec6a9
-  mac-addresses:
+  id: c3bb367d-7aa9-48cc-ba84-6aa5b55c513b
+  macAddresses:
   - 8C:3B:32:00:00:00/24
   manufacturer: Microfan B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microfan
 type: d3-device-type-assertion

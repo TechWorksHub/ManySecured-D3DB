@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a328943-9dea-4828-b5fa-d0c6d666af54
-  mac-addresses:
+  id: 868ac665-8621-45c2-9a2e-42a7db60ab87
+  macAddresses:
   - 00:24:B4:00:00:00/24
   manufacturer: ESCATRONIC GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESCATRON
 type: d3-device-type-assertion

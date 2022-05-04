@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01ccb2fa-011a-4207-8856-2dd3c557f871
-  mac-addresses:
+  id: a82b9a4d-f15a-4a95-adf9-7748faffdfb6
+  macAddresses:
   - 40:D8:55:0B:00:00/36
   manufacturer: Micrologic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microlog
 type: d3-device-type-assertion

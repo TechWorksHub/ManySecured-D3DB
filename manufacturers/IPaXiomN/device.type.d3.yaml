@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 404ed44f-014e-473a-9aed-17380b7f803a
-  mac-addresses:
+  id: 62082c69-564e-4e0e-96e8-639487cfe5f2
+  macAddresses:
   - 00:23:E5:00:00:00/24
   manufacturer: IPaXiom Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPaXiomN
 type: d3-device-type-assertion

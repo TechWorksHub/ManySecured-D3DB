@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ffb13ea7-2ae4-4aa0-9b4a-73ba7332d95f
-  mac-addresses:
+  id: c4b9986c-df88-49b2-94da-30afda2b118d
+  macAddresses:
   - 40:D8:55:16:50:00/36
   - E0:7F:53:00:00:00/24
   manufacturer: Techboard Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techboar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db24dd33-95e7-4673-a833-ca8d298e8bae
-  mac-addresses:
+  id: 6e91ca99-6bd4-482c-accd-90952470b298
+  macAddresses:
   - A0:8A:87:00:00:00/24
   manufacturer: HuiZhou KaiYue Electronic Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuiZhouK
 type: d3-device-type-assertion

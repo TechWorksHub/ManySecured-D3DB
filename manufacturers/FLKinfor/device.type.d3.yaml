@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b092095-7cbb-45dc-b360-bc765bebc941
-  mac-addresses:
+  id: 3e6eb510-1d16-4896-a049-ff1603399c39
+  macAddresses:
   - E4:4C:C7:E0:00:00/28
   manufacturer: FLK information security technology Co,. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FLKinfor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b482256c-dc58-4ae7-94e8-3bc704a9fd1c
-  mac-addresses:
+  id: c49e0af9-7ea1-4395-82aa-111813d0cb71
+  macAddresses:
   - 00:08:B1:00:00:00/24
   manufacturer: ProQuent Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProQuent
 type: d3-device-type-assertion

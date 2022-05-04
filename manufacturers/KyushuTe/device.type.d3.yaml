@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e7b8009-b6b6-4e86-b50f-bc73b0c035f4
-  mac-addresses:
+  id: 571d3ea1-fd63-48f9-a7cb-231921b10984
+  macAddresses:
   - 00:1D:1E:00:00:00/24
   manufacturer: Kyushu Ten Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyushuTe
 type: d3-device-type-assertion

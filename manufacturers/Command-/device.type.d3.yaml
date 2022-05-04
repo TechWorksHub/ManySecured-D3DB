@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0d64b57-df60-4d61-bda2-e8add667a59f
-  mac-addresses:
+  id: a35c59ff-ae97-41d5-8083-972149b872fa
+  macAddresses:
   - 00:08:69:00:00:00/24
   manufacturer: Command-e Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Command-
 type: d3-device-type-assertion

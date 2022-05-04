@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00320769-0dd0-40e5-8c82-5ced88803a0d
-  mac-addresses:
+  id: bb98353e-0e7b-4e58-96c9-f026794139dc
+  macAddresses:
   - 00:08:6B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mipsys
 type: d3-device-type-assertion

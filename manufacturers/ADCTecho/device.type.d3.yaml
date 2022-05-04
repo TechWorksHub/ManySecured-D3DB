@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e3b3f4c-a900-4700-a402-b7ee28540c30
-  mac-addresses:
+  id: f91f2f8b-0b35-478f-9de2-1b0e3696854c
+  macAddresses:
   - 00:09:E7:00:00:00/24
   manufacturer: ADC Techonology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADCTecho
 type: d3-device-type-assertion

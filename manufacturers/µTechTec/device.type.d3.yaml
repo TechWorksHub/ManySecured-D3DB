@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fa70d02-a2a8-42d2-bad5-4478e1967320
-  mac-addresses:
+  id: a3937734-7d54-42ee-918f-9c8fdf810da8
+  macAddresses:
   - F8:E7:B5:00:00:00/24
   manufacturer: "\xB5Tech Tecnologia LTDA"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "\xB5TechTec"
 type: d3-device-type-assertion

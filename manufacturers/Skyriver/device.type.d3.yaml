@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 984c70b0-a9cd-45c4-bcb0-43eca3d2b440
-  mac-addresses:
+  id: 5b6838d8-3c5f-4c59-b0df-0f58d17713d2
+  macAddresses:
   - 70:B3:D5:C2:20:00/36
   manufacturer: Skyriver Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skyriver
 type: d3-device-type-assertion

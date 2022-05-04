@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 281502f5-5785-4778-84e9-5b4e79e4dc94
-  mac-addresses:
+  id: e2a2f69e-d8d0-4739-a0d0-e16ebb559a32
+  macAddresses:
   - 68:72:DC:00:00:00/24
   manufacturer: CETORY.TV Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CETORYTV
 type: d3-device-type-assertion

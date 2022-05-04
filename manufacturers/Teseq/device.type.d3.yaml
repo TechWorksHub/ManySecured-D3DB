@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48835853-a33d-43dc-b12b-13def6f0e275
-  mac-addresses:
+  id: e04c5aa6-6d68-4247-ae41-057bcd47794a
+  macAddresses:
   - 94:C9:62:00:00:00/24
   manufacturer: Teseq AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teseq
 type: d3-device-type-assertion

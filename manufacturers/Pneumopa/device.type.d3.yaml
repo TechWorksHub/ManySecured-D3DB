@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff34e2e5-e216-4a66-adfb-b5d85d1ab581
-  mac-addresses:
+  id: a1483b5b-eb79-463d-a495-a93e136ad7cf
+  macAddresses:
   - 00:50:C2:6E:F0:00/36
   manufacturer: Pneumopartners LaenneXT SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pneumopa
 type: d3-device-type-assertion

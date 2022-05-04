@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a78533f-2648-4ea8-8972-561df5d1a481
-  mac-addresses:
+  id: 0214c872-6252-4c11-82e9-8707e7285eb2
+  macAddresses:
   - 00:05:D1:00:00:00/24
   manufacturer: Metavector Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metavect
 type: d3-device-type-assertion

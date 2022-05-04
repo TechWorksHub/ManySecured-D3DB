@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0ff6c60-9fb6-4631-9199-f9f53711beba
-  mac-addresses:
+  id: 147540d8-d610-42bd-89cd-cf10015108d3
+  macAddresses:
   - 00:0D:B3:00:00:00/24
   manufacturer: SDO Communication Corperation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SDOCommu
 type: d3-device-type-assertion

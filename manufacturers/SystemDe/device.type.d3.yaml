@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd4f3c31-ae5e-4f38-bb00-1a21b74df229
-  mac-addresses:
+  id: 233eb89d-4777-4d20-a975-b8f983c331ce
+  macAddresses:
   - 00:11:63:00:00:00/24
   manufacturer: System Spa Dept. Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SystemDe
 type: d3-device-type-assertion

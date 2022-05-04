@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31c16296-825e-4e04-bf75-06528614039d
-  mac-addresses:
+  id: 12984019-06c5-4182-bfe2-0e03195a5f7a
+  macAddresses:
   - 00:16:96:00:00:00/24
   manufacturer: QDI Technology (H.K.) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QDITechn
 type: d3-device-type-assertion

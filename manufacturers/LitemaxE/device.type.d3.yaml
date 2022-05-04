@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1c3623c-6e0d-47a2-ab5b-c0c9fb78898d
-  mac-addresses:
+  id: cd7e591c-cfd6-45cf-90ff-2c0e0ff9953e
+  macAddresses:
   - B4:DF:FA:00:00:00/24
   manufacturer: Litemax Electronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LitemaxE
 type: d3-device-type-assertion

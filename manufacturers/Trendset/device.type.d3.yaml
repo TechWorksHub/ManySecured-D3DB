@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5c9cb77-eba0-46cd-924f-f88a0c844127
-  mac-addresses:
+  id: 85b1b066-65ac-4b50-bb6c-8ce8b2948345
+  macAddresses:
   - 70:A1:91:00:00:00/24
   manufacturer: Trendsetter Medical, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trendset
 type: d3-device-type-assertion

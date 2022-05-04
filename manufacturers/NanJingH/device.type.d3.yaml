@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 580b40d5-1e34-4f89-9345-26c541fb7811
-  mac-addresses:
+  id: 47b24bdb-7312-4b64-be37-a30ca9031d19
+  macAddresses:
   - 40:11:75:D0:00:00/28
   manufacturer: NanJing HuaStart Network Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanJingH
 type: d3-device-type-assertion

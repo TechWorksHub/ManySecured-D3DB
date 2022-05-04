@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9190f04-5ead-468e-b5a9-25e416c98f76
-  mac-addresses:
+  id: 214e4596-c415-41d8-ab9b-40d7f997b6e7
+  macAddresses:
   - 70:B3:D5:FD:10:00/36
   manufacturer: RedRat Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedRat
 type: d3-device-type-assertion

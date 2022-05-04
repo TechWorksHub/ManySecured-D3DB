@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02bbdffb-7fed-4ec9-9f08-7ee2b3f27978
-  mac-addresses:
+  id: f05423ba-e0c7-4333-9a27-780c6ca8aac2
+  macAddresses:
   - 40:2C:76:00:00:00/28
   manufacturer: Lista AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lista
 type: d3-device-type-assertion

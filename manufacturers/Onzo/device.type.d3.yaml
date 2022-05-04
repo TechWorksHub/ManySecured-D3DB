@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3140267-5138-423a-aa70-222933eeaad7
-  mac-addresses:
+  id: f452ec67-d876-4bfc-a199-e02ce3655abe
+  macAddresses:
   - 2C:7E:CF:00:00:00/24
   manufacturer: Onzo Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Onzo
 type: d3-device-type-assertion

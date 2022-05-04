@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 203a0551-8d16-44f6-b189-ffb0e98a9aa9
-  mac-addresses:
+  id: 5c27ef72-20ca-415c-86ba-fa012ab13970
+  macAddresses:
   - C4:A1:0E:50:00:00/28
   manufacturer: O-NET Industrial Technologies (Shenzhen) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: O-NETInd
 type: d3-device-type-assertion

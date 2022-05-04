@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba119a69-0121-4699-a63d-eee3f2d02d88
-  mac-addresses:
+  id: 25668152-42a8-47b4-a212-514f06d300f1
+  macAddresses:
   - 00:15:9C:00:00:00/24
   manufacturer: B-KYUNG SYSTEM Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: B-KYUNGS
 type: d3-device-type-assertion

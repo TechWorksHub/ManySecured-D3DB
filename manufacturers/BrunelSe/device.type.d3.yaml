@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2355278-c7fd-42b9-9afe-332034754040
-  mac-addresses:
+  id: 54342727-0b0c-4012-a67e-a8bc64844637
+  macAddresses:
   - 00:50:C2:FE:A0:00/36
   manufacturer: Brunel GmbH Section Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrunelSe
 type: d3-device-type-assertion

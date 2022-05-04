@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 65fb1b18-82b7-45ec-8b92-5521261ea72a
-  mac-addresses:
+  id: 11358696-8169-4e1a-9e97-f98d07c0eaf9
+  macAddresses:
   - 00:50:C2:2A:70:00/36
   - 00:60:92:00:00:00/24
   - 60:97:DD:00:00:00/24
   manufacturer: Micro System Architecturing srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicroSys
 type: d3-device-type-assertion

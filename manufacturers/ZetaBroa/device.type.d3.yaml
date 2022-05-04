@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8247e18-3bcb-4705-bf83-b9d67227b80c
-  mac-addresses:
+  id: 32f0869c-883f-4cae-b309-26557879f3ee
+  macAddresses:
   - 00:08:CB:00:00:00/24
   manufacturer: Zeta Broadband Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZetaBroa
 type: d3-device-type-assertion

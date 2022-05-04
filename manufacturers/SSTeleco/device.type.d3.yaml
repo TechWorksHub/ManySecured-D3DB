@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0ed04cb6-3ebd-41b5-95ba-144ddcdff223
-  mac-addresses:
+  id: d961d2fe-eba4-44dd-8c1e-b325d0e96b66
+  macAddresses:
   - 00:21:44:00:00:00/24
   - 00:50:C2:4E:10:00/36
   manufacturer: SS Telecoms
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SSTeleco
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d4a2973d-b383-4289-91be-12ea8ce6076f
-  mac-addresses:
+  id: d19ba7be-2be8-46c3-928f-aba0c4d7032a
+  macAddresses:
   - 70:B3:D5:71:40:00/36
   - B4:37:D1:10:00:00/28
   manufacturer: Alturna Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlturnaN
 type: d3-device-type-assertion

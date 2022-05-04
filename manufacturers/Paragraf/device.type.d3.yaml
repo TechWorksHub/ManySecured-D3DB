@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 858bd896-b9f3-4e9d-b0a9-9d44cb6bb32c
-  mac-addresses:
+  id: 8f4dddbd-e9b3-427b-8acc-6176fd70b815
+  macAddresses:
   - 8C:1F:64:01:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Paragraf
 type: d3-device-type-assertion

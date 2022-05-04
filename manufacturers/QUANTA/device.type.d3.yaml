@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a1d200c-c481-4ad3-acff-9d37d9606306
-  mac-addresses:
+  id: f0fab7a5-e6fa-492f-8eb9-acfd7b17fc0a
+  macAddresses:
   - 00:50:C2:EE:90:00/36
   manufacturer: QUANTA S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QUANTA
 type: d3-device-type-assertion

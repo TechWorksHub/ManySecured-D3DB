@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acd78b9c-0a45-420f-beb3-72b74df534a0
-  mac-addresses:
+  id: 9b756ba3-892b-428b-a4c9-3f310a55ec6d
+  macAddresses:
   - 1C:C0:E1:B0:00:00/28
   manufacturer: Exigent Sensors
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExigentS
 type: d3-device-type-assertion

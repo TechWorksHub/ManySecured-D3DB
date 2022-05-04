@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b05214b-75bf-485d-a09a-d080440a7d08
-  mac-addresses:
+  id: a89ebc13-96f3-4330-a7c4-6d4d4504b5ea
+  macAddresses:
   - 98:FC:84:A0:00:00/28
   manufacturer: Shield Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shield
 type: d3-device-type-assertion

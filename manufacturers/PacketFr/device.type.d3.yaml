@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d38d2440-80be-4aeb-94b3-227630cff665
-  mac-addresses:
+  id: 252d39a2-fcb5-47b9-8bac-0ec009d819bb
+  macAddresses:
   - 00:08:AE:00:00:00/24
   manufacturer: PacketFront Network Products AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacketFr
 type: d3-device-type-assertion

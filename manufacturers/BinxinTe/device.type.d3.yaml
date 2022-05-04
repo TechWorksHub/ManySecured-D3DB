@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a10ea7f5-e51e-4688-a3ad-8d5b7e9d1454
-  mac-addresses:
+  id: 48b1bc47-a514-46e7-a67e-984997088a30
+  macAddresses:
   - C0:63:69:00:00:00/24
   manufacturer: Binxin Technology(Zhejiang) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BinxinTe
 type: d3-device-type-assertion

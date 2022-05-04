@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91ca175b-0e3f-4fc2-9984-000194ae26c0
-  mac-addresses:
+  id: 025c0cd8-1691-4720-bb7f-e9ebbc48ee57
+  macAddresses:
   - 00:50:C2:16:40:00/36
   manufacturer: Acunia N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acunia
 type: d3-device-type-assertion

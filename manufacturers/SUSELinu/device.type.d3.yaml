@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2032d46-77ed-4450-9097-dba814947d5f
-  mac-addresses:
+  id: e5312444-2951-4ff2-bae2-45b95e907633
+  macAddresses:
   - 0C:FD:37:00:00:00/24
   manufacturer: SUSE Linux GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SUSELinu
 type: d3-device-type-assertion

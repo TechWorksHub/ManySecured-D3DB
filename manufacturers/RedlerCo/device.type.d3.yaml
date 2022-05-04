@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74c0be8f-8437-45f1-9394-56140ecc5868
-  mac-addresses:
+  id: defefd22-de8f-4098-bf4b-289954c91abf
+  macAddresses:
   - 70:B3:D5:41:E0:00/36
   manufacturer: Redler Computers
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedlerCo
 type: d3-device-type-assertion

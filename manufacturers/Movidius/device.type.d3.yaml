@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc4e31b5-62a1-4421-a776-5d867d94eaba
-  mac-addresses:
+  id: 487d070d-fff9-4d47-a56c-89179a403112
+  macAddresses:
   - 70:B3:D5:32:F0:00/36
   manufacturer: Movidius SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Movidius
 type: d3-device-type-assertion

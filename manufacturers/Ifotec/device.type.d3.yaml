@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2acb0a4f-543e-49ee-88f9-83a15926cdd3
-  mac-addresses:
+  id: bad06b70-57f8-40b5-9fce-bc228e4b2561
+  macAddresses:
   - 00:12:F1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ifotec
 type: d3-device-type-assertion

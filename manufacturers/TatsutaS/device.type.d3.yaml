@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4832169d-2b69-4b2f-8dea-4d5237bc18db
-  mac-addresses:
+  id: 6901b263-17d9-4b58-8a81-ee7680d455b3
+  macAddresses:
   - 00:0A:82:00:00:00/24
   manufacturer: Tatsuta System Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TatsutaS
 type: d3-device-type-assertion

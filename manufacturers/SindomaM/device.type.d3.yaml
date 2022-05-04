@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f6012c4-466f-4557-8736-d32d9b890772
-  mac-addresses:
+  id: 19cbf1bb-cbed-46df-aa89-28cae5dd2536
+  macAddresses:
   - 00:50:C2:8F:D0:00/36
   manufacturer: "Sindoma M\xFCh Mim \xDDn\xFE Elk San Tic Ltd."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SindomaM
 type: d3-device-type-assertion

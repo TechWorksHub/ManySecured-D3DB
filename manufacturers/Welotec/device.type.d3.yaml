@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31748f06-c9c0-49b6-933c-2bf6ab397cf4
-  mac-addresses:
+  id: af33f0a5-c814-4d2e-835c-ed8e41980054
+  macAddresses:
   - 78:70:52:00:00:00/24
   manufacturer: Welotec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Welotec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26f20509-29d5-41d9-bf95-907fb735e7c5
-  mac-addresses:
+  id: c1a0a2dc-ee18-40a9-8072-16e1045e9f57
+  macAddresses:
   - 00:26:38:00:00:00/24
   manufacturer: Xia Men Joyatech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiaMenJo
 type: d3-device-type-assertion

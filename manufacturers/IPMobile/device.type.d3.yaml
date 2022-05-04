@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e46d86b-0fd8-4637-b10a-ae5f727a3412
-  mac-addresses:
+  id: ef5ecf9e-4eec-493d-b1cd-83ac2973f7da
+  macAddresses:
   - 00:08:CE:00:00:00/24
   manufacturer: IPMobileNet Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPMobile
 type: d3-device-type-assertion

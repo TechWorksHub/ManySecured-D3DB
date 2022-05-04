@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df7deabc-a12f-46ba-a815-9dca7cd22113
-  mac-addresses:
+  id: 419c31b1-5d55-4f64-beb3-e6f0992effa0
+  macAddresses:
   - 00:16:68:00:00:00/24
   manufacturer: Eishin Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EishinEl
 type: d3-device-type-assertion

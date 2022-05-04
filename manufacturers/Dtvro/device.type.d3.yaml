@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7309c35a-483e-4aea-ac98-b9c17888bf1f
-  mac-addresses:
+  id: 03f7f8c6-6e16-4623-9cb2-4cd526635a6a
+  macAddresses:
   - 00:02:14:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dtvro
 type: d3-device-type-assertion

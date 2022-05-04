@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bde9c886-d86c-4e1d-b252-1b090df2ff03
-  mac-addresses:
+  id: f67ffb17-6b5f-449e-93a2-ae55df4c0219
+  macAddresses:
   - 78:12:B8:00:00:00/24
   manufacturer: Orantek Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Orantek
 type: d3-device-type-assertion

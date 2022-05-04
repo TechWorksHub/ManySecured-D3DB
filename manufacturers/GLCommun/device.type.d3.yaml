@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd7e953f-1912-426b-8f61-f1af77a93efd
-  mac-addresses:
+  id: dd3a06c8-ec5a-4233-a7a0-baaa42a68684
+  macAddresses:
   - 00:21:C2:00:00:00/24
   manufacturer: GL Communications Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLCommun
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1bd53f5-e944-4d5c-99dd-ca3e7d4046b0
-  mac-addresses:
+  id: 5762d25a-4135-4f3c-ae9f-8588c73cf46f
+  macAddresses:
   - 00:50:CE:00:00:00/24
   manufacturer: Lg International Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LgIntern
 type: d3-device-type-assertion

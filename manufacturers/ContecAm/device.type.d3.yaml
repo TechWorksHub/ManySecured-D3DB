@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 89280aea-8f62-4952-9103-a576a3ef9612
-  mac-addresses:
+  id: b70a313e-5653-49b9-bb3b-5c8df7f3f82a
+  macAddresses:
   - 70:B3:D5:36:30:00/36
   - 70:B3:D5:39:20:00/36
   - 70:B3:D5:5D:20:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - 70:B3:D5:91:40:00/36
   - 70:B3:D5:D1:00:00/36
   manufacturer: Contec Americas Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ContecAm
 type: d3-device-type-assertion

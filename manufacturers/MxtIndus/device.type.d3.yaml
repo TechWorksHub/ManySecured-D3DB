@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a7edfec-96ea-4dbd-9a00-530b1ed72348
-  mac-addresses:
+  id: 8b33f3d0-ab36-4e40-8284-ef43256ed9f2
+  macAddresses:
   - 44:34:8F:00:00:00/24
   manufacturer: Mxt Industrial Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MxtIndus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29025fe7-8366-4941-8685-5c5f075ac9db
-  mac-addresses:
+  id: 829ba8a1-70e6-44d4-a9bd-13623c350f1a
+  macAddresses:
   - CC:D3:9D:80:00:00/28
   manufacturer: Obelisk Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Obelisk
 type: d3-device-type-assertion

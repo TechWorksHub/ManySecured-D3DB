@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d752caf-abaa-4d54-ac31-4dd892ecf980
-  mac-addresses:
+  id: ea557e6d-cbb0-4751-b354-746abace3b67
+  macAddresses:
   - 00:80:6F:00:00:00/24
   manufacturer: Onelan Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Onelan
 type: d3-device-type-assertion

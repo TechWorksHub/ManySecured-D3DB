@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c277922c-a4e2-498b-9ff6-c75f4471523d
-  mac-addresses:
+  id: 549bb515-7e8b-4f41-9331-ac45b55f119f
+  macAddresses:
   - 84:56:9C:00:00:00/24
   manufacturer: Coho Data, Inc.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CohoData
 type: d3-device-type-assertion

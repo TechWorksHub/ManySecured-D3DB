@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b7ebb9d-9b2c-43b7-ad99-f3399f18be42
-  mac-addresses:
+  id: 37721727-b82f-41a9-bf44-495c94f7c82b
+  macAddresses:
   - 00:23:1D:00:00:00/24
   manufacturer: Deltacom Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Deltacom
 type: d3-device-type-assertion

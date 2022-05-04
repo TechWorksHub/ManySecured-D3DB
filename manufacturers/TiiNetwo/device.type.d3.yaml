@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6edb0a5-b4b1-44a7-89b5-5fac72857600
-  mac-addresses:
+  id: 83ad62c6-c168-4c46-b631-e623657680e2
+  macAddresses:
   - 00:13:D6:00:00:00/24
   manufacturer: Tii Network Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiiNetwo
 type: d3-device-type-assertion

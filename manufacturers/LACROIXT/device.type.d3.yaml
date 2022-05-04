@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5650f91c-5edb-4a5c-8556-72b512a867db
-  mac-addresses:
+  id: e6b000fc-596c-4ac1-b061-82ff3581f599
+  macAddresses:
   - 00:60:66:00:00:00/24
   manufacturer: LACROIX Trafic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LACROIXT
 type: d3-device-type-assertion

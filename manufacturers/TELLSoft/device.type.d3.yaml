@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e5eeb36-38f8-4153-98ff-c9ef00d58ee6
-  mac-addresses:
+  id: 94fbe62f-9d70-42e0-872e-1d632c8f1a4f
+  macAddresses:
   - 70:B3:D5:27:60:00/36
   manufacturer: TELL Software Hungaria Kft.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TELLSoft
 type: d3-device-type-assertion

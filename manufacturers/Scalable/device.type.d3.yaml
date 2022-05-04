@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09b5ea50-25bc-442f-83b3-16e94ce0b435
-  mac-addresses:
+  id: f36bcbe8-a388-43f4-9cc3-1ddbf9a55274
+  macAddresses:
   - 4C:F5:A0:00:00:00/24
   manufacturer: Scalable Network Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scalable
 type: d3-device-type-assertion

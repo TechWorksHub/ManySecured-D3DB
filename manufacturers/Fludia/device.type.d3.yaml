@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bd63aea-d3a0-4e92-9bf4-cef973ce5397
-  mac-addresses:
+  id: d3754a8a-5ec7-46bc-8221-89f6acb0f3cd
+  macAddresses:
   - 70:B3:D5:4A:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fludia
 type: d3-device-type-assertion

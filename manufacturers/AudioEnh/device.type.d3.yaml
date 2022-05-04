@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67a3598a-7704-46d5-a881-03c988739880
-  mac-addresses:
+  id: ede2597f-8361-425f-aee0-628c079b322b
+  macAddresses:
   - 40:D8:55:01:B0:00/36
   manufacturer: Audio Enhancement
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioEnh
 type: d3-device-type-assertion

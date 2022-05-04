@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 86d21348-66f7-4519-b9be-281ef918a797
-  mac-addresses:
+  id: c93fc06f-f659-4568-ae6b-bef63a7dd16e
+  macAddresses:
   - 04:79:75:00:00:00/24
   - 08:E0:21:00:00:00/24
   - 0C:B7:89:00:00:00/24
@@ -20,6 +20,6 @@ credentialSubject:
   - EC:64:88:00:00:00/24
   - FC:84:17:00:00:00/24
   manufacturer: Honor Device Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HonorDev
 type: d3-device-type-assertion

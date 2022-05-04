@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a897a6d6-0e86-4100-bab9-723c847a3443
-  mac-addresses:
+  id: 0f5cf15e-ce1e-4425-8587-ddd97e85171f
+  macAddresses:
   - 94:BA:31:00:00:00/24
   manufacturer: "Visiontec da Amaz\xF4nia Ltda."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visionte
 type: d3-device-type-assertion

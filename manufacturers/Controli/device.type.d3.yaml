@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0343dc3c-a25d-40c7-813f-2dc3155294b4
-  mac-addresses:
+  id: ec1ee658-63f3-4fb5-9805-b6ef0ff43b62
+  macAddresses:
   - FC:52:CE:00:00:00/24
   manufacturer: Control iD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Controli
 type: d3-device-type-assertion

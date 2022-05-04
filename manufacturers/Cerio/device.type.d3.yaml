@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d902c215-1d36-4749-8146-1db51538b52f
-  mac-addresses:
+  id: 02c11403-e1b7-4a3a-8aae-a1a6e7a16dd1
+  macAddresses:
   - 8C:4D:EA:00:00:00/24
   manufacturer: Cerio Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cerio
 type: d3-device-type-assertion

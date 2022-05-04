@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87ab9185-174a-4a15-97c2-409e5caaf9ed
-  mac-addresses:
+  id: d1b03182-5df5-41ed-8bbe-f3c542c647b5
+  macAddresses:
   - D4:61:32:00:00:00/24
   manufacturer: Pro Concept Manufacturer Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProConce
 type: d3-device-type-assertion

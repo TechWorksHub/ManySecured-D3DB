@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52562e32-7a74-407d-a98f-eec37b7bdb40
-  mac-addresses:
+  id: a81365b8-2f99-44b2-af20-f4a31cc4fdcd
+  macAddresses:
   - 28:36:38:30:00:00/28
   manufacturer: Sabinetek
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sabinete
 type: d3-device-type-assertion

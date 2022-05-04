@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bdbad47-d639-4b25-9605-f004ef7dfb69
-  mac-addresses:
+  id: d9a88ed5-d499-4565-a0c5-2fd59e089173
+  macAddresses:
   - 14:1F:BA:70:00:00/28
   manufacturer: Wisnetworks Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wisnetwo
 type: d3-device-type-assertion

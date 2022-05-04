@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bd20085-b3a0-4fcd-b29d-e65de1057f38
-  mac-addresses:
+  id: 76dbe0f9-1dc6-4698-a3f3-164e09dc7eed
+  macAddresses:
   - BC:38:65:00:00:00/24
   manufacturer: Jwcnetworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jwcnetwo
 type: d3-device-type-assertion

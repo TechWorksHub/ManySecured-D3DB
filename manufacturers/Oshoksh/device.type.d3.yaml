@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e11ee925-fa5b-4ab8-b3e6-675e396e328a
-  mac-addresses:
+  id: a1689459-1e82-46fa-943b-65ae907dc70e
+  macAddresses:
   - 00:50:C2:E3:20:00/36
   manufacturer: Oshoksh Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oshoksh
 type: d3-device-type-assertion

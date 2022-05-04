@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62db93ca-6bc6-44a4-a956-bd3243bc631c
-  mac-addresses:
+  id: 02ae9ed4-df10-4577-a6cf-fce63c32ecab
+  macAddresses:
   - BC:15:A6:00:00:00/24
   manufacturer: Taiwan Jantek Electronics,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaiwanJa
 type: d3-device-type-assertion

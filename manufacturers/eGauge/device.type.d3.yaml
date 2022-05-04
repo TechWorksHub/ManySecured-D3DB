@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91383799-bddd-4a2b-b768-3d97c601d7dc
-  mac-addresses:
+  id: d191c316-ff41-4dd7-9cef-db6f834d5bae
+  macAddresses:
   - F8:2F:5B:00:00:00/24
   manufacturer: eGauge Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eGauge
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 324ab08b-4562-4814-ab14-fda8408ad04c
-  mac-addresses:
+  id: dda03a45-85c5-4bd2-963e-43e7a6544be8
+  macAddresses:
   - 00:D0:13:00:00:00/24
   manufacturer: Primex Aerospace Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrimexAe
 type: d3-device-type-assertion

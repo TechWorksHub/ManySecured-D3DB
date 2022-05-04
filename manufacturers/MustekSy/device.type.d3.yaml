@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67548baf-e365-4456-b772-a80fc2c3a7ac
-  mac-addresses:
+  id: 0b88ff1b-08c9-4d31-ab89-53f52ef1df35
+  macAddresses:
   - 00:0D:1A:00:00:00/24
   manufacturer: Mustek System Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MustekSy
 type: d3-device-type-assertion

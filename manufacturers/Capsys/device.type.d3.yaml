@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6077a712-7d32-4803-83e1-de1e72de2a44
-  mac-addresses:
+  id: bc2666e6-c7cf-4a95-86e4-cd565efe6648
+  macAddresses:
   - 70:B3:D5:A0:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Capsys
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: bfd36601-0bdf-4e8f-bd40-2c48bd1d8dd8
-  mac-addresses:
+  id: f09a5c91-9ab2-4c75-8c84-67dda8ad8e6f
+  macAddresses:
   - 00:1A:37:00:00:00/24
   - 48:16:93:00:00:00/24
   - 48:C5:8D:00:00:00/24
   - 88:50:46:00:00:00/24
   manufacturer: Lear Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lear
 type: d3-device-type-assertion

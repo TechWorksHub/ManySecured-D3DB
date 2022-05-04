@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9317b58-9088-462d-a5bd-3d64fca07307
-  mac-addresses:
+  id: 7072557f-b478-4664-9367-96f95a680f5f
+  macAddresses:
   - 00:E0:45:00:00:00/24
   manufacturer: Touchwave, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Touchwav
 type: d3-device-type-assertion

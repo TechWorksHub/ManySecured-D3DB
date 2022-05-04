@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c7294e6-1316-4fa7-ab80-524c030803e0
-  mac-addresses:
+  id: b19c841d-4dcc-4c36-876e-cbf752485a87
+  macAddresses:
   - 04:1D:10:00:00:00/24
   manufacturer: Dream Ware Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DreamWar
 type: d3-device-type-assertion

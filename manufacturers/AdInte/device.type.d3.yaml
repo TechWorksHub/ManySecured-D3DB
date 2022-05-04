@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f78a85b-d6fb-4a7d-9f22-632daf87a37d
-  mac-addresses:
+  id: 89bef8a7-e5d0-4cfa-bc66-4fc814096dc6
+  macAddresses:
   - 70:B3:D5:BA:C0:00/36
   manufacturer: AdInte, inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdInte
 type: d3-device-type-assertion

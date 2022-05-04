@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e885b5ec-be23-46a3-a87c-7f6409513191
-  mac-addresses:
+  id: 91212ae6-1347-429a-954a-001490682e5f
+  macAddresses:
   - 10:2C:83:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ximea
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 869cd7ee-724e-443b-a57d-57015f95a710
-  mac-addresses:
+  id: 96b8fd39-c91b-4237-a87f-7a57bb927c1b
+  macAddresses:
   - 00:03:CC:00:00:00/24
   - 00:1B:C5:02:00:00/36
   - 00:1B:C5:07:70:00/36
@@ -11,6 +11,6 @@ credentialSubject:
   - 78:D9:E9:00:00:00/24
   - FA:D9:88:00:00:00/24
   manufacturer: Momentum Computer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Momentum
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1488648-c4ee-477d-819e-1049aa823ce9
-  mac-addresses:
+  id: 5fd05018-224e-42f9-8b61-c7f652f51052
+  macAddresses:
   - 00:03:7D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stellcom
 type: d3-device-type-assertion

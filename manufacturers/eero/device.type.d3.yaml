@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ba0ea188-7845-401f-bece-5653f799bfc5
-  mac-addresses:
+  id: 6b219d9f-5fe6-45ff-af46-cf2c9dcbce17
+  macAddresses:
   - 00:AB:48:00:00:00/24
   - 08:9B:F1:00:00:00/24
   - 0C:1C:1A:00:00:00/24
@@ -40,6 +40,6 @@ credentialSubject:
   - F8:BB:BF:00:00:00/24
   - F8:BC:0E:00:00:00/24
   manufacturer: eero inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eero
 type: d3-device-type-assertion

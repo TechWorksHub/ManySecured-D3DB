@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a55eb8f5-77a9-491c-b33d-2e3844648fb3
-  mac-addresses:
+  id: fa235f1f-c4b3-4c13-b34c-4799f318ffea
+  macAddresses:
   - B0:3E:B0:00:00:00/24
   manufacturer: MICRODIA Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MICRODIA
 type: d3-device-type-assertion

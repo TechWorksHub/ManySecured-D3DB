@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac043da4-ac7c-42de-a129-d636f71b5340
-  mac-addresses:
+  id: f9edea09-db8a-4d3c-8d4f-cefdef871e7a
+  macAddresses:
   - 00:0B:11:00:00:00/24
   manufacturer: Himeji Abc Trading Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HimejiAb
 type: d3-device-type-assertion

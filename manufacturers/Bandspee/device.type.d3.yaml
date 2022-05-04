@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6fffc13-a3d2-48dd-a6e6-b1f0a30715b0
-  mac-addresses:
+  id: b161b40a-6d60-4bb0-82e8-002e61c95706
+  macAddresses:
   - 00:06:B8:00:00:00/24
   manufacturer: Bandspeed Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bandspee
 type: d3-device-type-assertion

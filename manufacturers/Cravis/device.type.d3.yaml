@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 630d40a2-55ca-4940-a054-0a392d5dfde2
-  mac-addresses:
+  id: cf15567c-a15e-4298-a379-03c352358bd5
+  macAddresses:
   - 70:B3:D5:7E:F0:00/36
   manufacturer: Cravis Co., Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cravis
 type: d3-device-type-assertion

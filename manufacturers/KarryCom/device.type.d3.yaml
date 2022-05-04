@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89e9bc6e-dd5c-4c2b-8416-bed37064e2a2
-  mac-addresses:
+  id: 5264852a-847c-474c-8489-eacfd37b9181
+  macAddresses:
   - FC:A4:7A:80:00:00/28
   manufacturer: Karry Communication Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KarryCom
 type: d3-device-type-assertion

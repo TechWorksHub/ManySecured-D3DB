@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 770ac255-3de2-433d-bc11-bcabd64d3852
-  mac-addresses:
+  id: 58c10188-e2f6-464b-86df-6301f4c86ed5
+  macAddresses:
   - 10:44:5A:00:00:00/24
   manufacturer: Shaanxi Hitech Electronic Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShaanxiH
 type: d3-device-type-assertion

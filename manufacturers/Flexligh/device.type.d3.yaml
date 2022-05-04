@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfe05b99-5fb6-40c9-8b0c-80aaf6d20024
-  mac-addresses:
+  id: 9176db3a-e224-4a0c-b0f9-135fd5ea4e44
+  macAddresses:
   - 00:07:6D:00:00:00/24
   manufacturer: Flexlight Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Flexligh
 type: d3-device-type-assertion

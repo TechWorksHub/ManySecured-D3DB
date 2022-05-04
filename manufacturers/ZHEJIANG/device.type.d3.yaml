@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 110d09ed-2ee9-425a-bcf5-3df5d2f64431
-  mac-addresses:
+  id: a298602e-451f-4c37-988d-17db3f553003
+  macAddresses:
   - 44:6F:D8:A0:00:00/28
   - 6C:93:08:20:00:00/28
   manufacturer: ZHEJIANG HIKAILINK TECHNOLOGY Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZHEJIANG
 type: d3-device-type-assertion

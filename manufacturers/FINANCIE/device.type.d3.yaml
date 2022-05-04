@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf653b1d-e846-443f-9c10-bc1b4054e96c
-  mac-addresses:
+  id: 249c9029-e5a2-4044-a5da-cd92c5ef2e9a
+  macAddresses:
   - 70:B3:D5:31:C0:00/36
   manufacturer: FINANCIERE DE L'OMBREE (eolane)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FINANCIE
 type: d3-device-type-assertion

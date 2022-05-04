@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a13f552-e134-4c05-a003-6de6fce24f9e
-  mac-addresses:
+  id: 56185af2-fb53-4605-8b34-00dcf9c44918
+  macAddresses:
   - 28:FD:80:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Millcode
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7120e59-2cad-48bd-a974-6dd2931d2667
-  mac-addresses:
+  id: 14c0a87b-51e7-4c60-b46f-3418fc79b607
+  macAddresses:
   - 00:50:C2:74:80:00/36
   manufacturer: Letechnic Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Letechni
 type: d3-device-type-assertion

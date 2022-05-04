@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91352393-99cb-40d4-a271-d4672a8e8220
-  mac-addresses:
+  id: 93a8c9c8-b139-42a3-8112-1983811812b6
+  macAddresses:
   - 00:0D:80:00:00:00/24
   manufacturer: Online Development Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnlineDe
 type: d3-device-type-assertion

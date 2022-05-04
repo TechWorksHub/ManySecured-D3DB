@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed803d9e-6e11-4cb5-a568-632843b678dd
-  mac-addresses:
+  id: eaa932f2-2422-434b-9f83-6d111a05deeb
+  macAddresses:
   - 70:B3:D5:D4:80:00/36
   manufacturer: HEADROOM Broadcast GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HEADROOM
 type: d3-device-type-assertion

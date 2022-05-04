@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8de5f9aa-21f1-4e25-9fa5-33f1fa87cc23
-  mac-addresses:
+  id: 3c369c2f-af63-4786-ac14-6a8a5f7b8873
+  macAddresses:
   - 28:F5:37:90:00:00/28
   manufacturer: Herbert Waldmann GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HerbertW
 type: d3-device-type-assertion

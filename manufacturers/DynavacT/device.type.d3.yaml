@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf898de2-ca10-4038-8c95-ea4c5278f128
-  mac-addresses:
+  id: 900a9823-c57c-412c-bed1-c0ee4b6b8452
+  macAddresses:
   - 00:0D:CE:00:00:00/24
   manufacturer: Dynavac Technology Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynavacT
 type: d3-device-type-assertion

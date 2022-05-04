@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6e18a11-f549-418d-95b3-25edb84c8992
-  mac-addresses:
+  id: e1e9f28b-876d-4223-974c-2f56a7cf33e6
+  macAddresses:
   - 70:B3:D5:DD:40:00/36
   manufacturer: ResIOT UBLSOFTWARE SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ResIOTUB
 type: d3-device-type-assertion

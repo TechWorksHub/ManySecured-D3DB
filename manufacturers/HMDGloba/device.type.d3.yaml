@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 534d26ee-21ef-46c3-bc08-82e0f4d9a131
-  mac-addresses:
+  id: f5d9f07d-496c-456f-9cb8-283fa2fc3cf2
+  macAddresses:
   - 00:5E:0C:00:00:00/24
   - 04:F1:28:00:00:00/24
   - 18:4E:03:00:00:00/24
@@ -27,6 +27,6 @@ credentialSubject:
   - EC:42:69:00:00:00/24
   - F8:AD:CB:00:00:00/24
   manufacturer: HMD Global Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HMDGloba
 type: d3-device-type-assertion

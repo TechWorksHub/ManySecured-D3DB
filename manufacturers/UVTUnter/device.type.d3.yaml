@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45e605b6-44fa-4b61-898d-3a5fbc93d9ea
-  mac-addresses:
+  id: 6e3b3261-ac4c-48f9-b1c2-b541e98d7572
+  macAddresses:
   - 00:1F:52:00:00:00/24
   manufacturer: UVT Unternehmensberatung fur Verkehr und Technik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UVTUnter
 type: d3-device-type-assertion

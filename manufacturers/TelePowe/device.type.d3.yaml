@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11189ed1-f8b2-4913-be48-995045ec1c18
-  mac-addresses:
+  id: 83521662-3c41-4bd9-9285-6730105a6580
+  macAddresses:
   - 00:14:8E:00:00:00/24
   manufacturer: Tele Power Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelePowe
 type: d3-device-type-assertion

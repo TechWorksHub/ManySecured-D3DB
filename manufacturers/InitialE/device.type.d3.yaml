@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2702ecc7-592b-4832-a782-4af704b5286e
-  mac-addresses:
+  id: f9804de8-9a49-4f42-97ba-8794a0c03814
+  macAddresses:
   - 00:50:C2:2C:60:00/36
   manufacturer: Initial Electronic Security Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InitialE
 type: d3-device-type-assertion

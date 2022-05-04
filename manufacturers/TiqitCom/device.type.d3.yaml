@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dedaa629-49a6-4c17-a64a-002d2b3519c9
-  mac-addresses:
+  id: 74aacc41-2497-4352-988e-cbc623a96ee2
+  macAddresses:
   - 00:18:A1:00:00:00/24
   manufacturer: Tiqit Computers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiqitCom
 type: d3-device-type-assertion

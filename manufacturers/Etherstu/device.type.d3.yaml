@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc654425-620c-4278-97a4-1614b8af6333
-  mac-addresses:
+  id: 4fa19991-0461-4d16-ae1e-8d4fa4654153
+  macAddresses:
   - 00:0A:2B:00:00:00/24
   manufacturer: Etherstuff
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Etherstu
 type: d3-device-type-assertion

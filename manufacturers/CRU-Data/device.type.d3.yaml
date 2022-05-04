@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aae86240-1b95-41c2-9fe8-323e61b76239
-  mac-addresses:
+  id: afe21457-d7be-41b0-922e-ce8f46465c80
+  macAddresses:
   - 60:F5:9C:00:00:00/24
   manufacturer: CRU-Dataport
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CRU-Data
 type: d3-device-type-assertion

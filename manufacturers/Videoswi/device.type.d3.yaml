@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d99e327-25d1-48f1-a835-e77e277edaaf
-  mac-addresses:
+  id: 0a2f8fb3-d0ab-4bc1-800b-0676998a8f15
+  macAddresses:
   - B8:36:D8:00:00:00/24
   manufacturer: Videoswitch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videoswi
 type: d3-device-type-assertion

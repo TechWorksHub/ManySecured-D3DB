@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f612ca27-e0a4-4f8c-be48-46daaee8fc68
-  mac-addresses:
+  id: ef7c8ed6-a4a4-4314-a1a8-c0af1853e9c4
+  macAddresses:
   - 00:21:B2:00:00:00/24
   manufacturer: Fiberblaze A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fiberbla
 type: d3-device-type-assertion

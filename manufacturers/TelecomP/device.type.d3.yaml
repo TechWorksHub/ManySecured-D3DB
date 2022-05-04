@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9113b71-4864-426f-987b-848f2bc585e7
-  mac-addresses:
+  id: 69599a29-1013-4386-93f1-9879d591a2fb
+  macAddresses:
   - 00:50:C2:43:80:00/36
   manufacturer: Telecom Protection Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelecomP
 type: d3-device-type-assertion

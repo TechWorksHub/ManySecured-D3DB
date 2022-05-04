@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ab7e20b-2045-495e-9b2a-6c73e8a40bce
-  mac-addresses:
+  id: db69d27e-194c-4d70-b294-e8f6d649b2fc
+  macAddresses:
   - 70:B3:D5:9F:20:00/36
   manufacturer: Acorde Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcordeTe
 type: d3-device-type-assertion

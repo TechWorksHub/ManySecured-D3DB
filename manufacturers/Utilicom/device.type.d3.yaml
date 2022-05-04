@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b73b7f9f-4ed9-4c94-af00-81e339ab31e2
-  mac-addresses:
+  id: 970160b0-a73f-425e-a0d3-2d9d5dc739e9
+  macAddresses:
   - 00:D0:39:00:00:00/24
   manufacturer: Utilicom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Utilicom
 type: d3-device-type-assertion

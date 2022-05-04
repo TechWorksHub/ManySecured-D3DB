@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 419a762c-09a2-40bb-a777-897b9452083b
-  mac-addresses:
+  id: 3e9e7d72-dbf2-4683-9537-fa7cc728872b
+  macAddresses:
   - A0:75:EA:00:00:00/24
   manufacturer: BoxLock, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoxLock
 type: d3-device-type-assertion

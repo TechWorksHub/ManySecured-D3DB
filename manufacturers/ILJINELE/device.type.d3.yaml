@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 104500d1-578b-44a8-8cec-e13b208f8db8
-  mac-addresses:
+  id: 244fc6a9-90a0-4106-84df-fe5794bf67ee
+  macAddresses:
   - B8:89:CA:00:00:00/24
   manufacturer: ILJIN ELECTRIC Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ILJINELE
 type: d3-device-type-assertion

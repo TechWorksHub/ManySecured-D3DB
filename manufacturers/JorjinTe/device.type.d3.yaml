@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 542dfcf7-f61b-42d6-95e6-a753d2d245db
-  mac-addresses:
+  id: 1791cfc2-67ea-48b5-a27a-cd69bc8611e7
+  macAddresses:
   - 00:19:94:00:00:00/24
   manufacturer: Jorjin Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JorjinTe
 type: d3-device-type-assertion

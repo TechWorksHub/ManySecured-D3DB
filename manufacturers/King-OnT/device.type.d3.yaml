@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d017eb16-55d4-4d15-b4d5-a1691877c245
-  mac-addresses:
+  id: 14303b9f-d796-449d-8528-e8d2347e9442
+  macAddresses:
   - 1C:59:74:C0:00:00/28
   - 70:B3:D5:D3:50:00/36
   manufacturer: King-On Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: King-OnT
 type: d3-device-type-assertion

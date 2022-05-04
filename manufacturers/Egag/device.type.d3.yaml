@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45619ee1-0357-4169-867d-5f77bded04b0
-  mac-addresses:
+  id: 0ab59fdd-a596-420d-a9d2-5cf81d96eebb
+  macAddresses:
   - 70:B3:D5:9A:80:00/36
   manufacturer: Egag, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Egag
 type: d3-device-type-assertion

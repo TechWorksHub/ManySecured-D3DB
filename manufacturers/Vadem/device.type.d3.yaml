@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6aa2b88e-c76d-4588-965a-260c6bb82ac0
-  mac-addresses:
+  id: 36b3db89-bdb4-472c-b05f-aa5f2f75693b
+  macAddresses:
   - 00:90:B0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vadem
 type: d3-device-type-assertion

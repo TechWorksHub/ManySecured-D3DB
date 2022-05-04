@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02fe02ce-01b9-4ade-bcf1-9d3f50622e00
-  mac-addresses:
+  id: 2034b5a9-7307-4a5f-9905-a7fc24ccea2c
+  macAddresses:
   - 00:08:A1:00:00:00/24
   manufacturer: CNet Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CNetTech
 type: d3-device-type-assertion

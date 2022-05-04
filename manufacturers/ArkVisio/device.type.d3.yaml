@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e90e0d0-3e8d-4db5-b24a-0052e8bf7522
-  mac-addresses:
+  id: d840353b-b151-4035-af06-7cc2bbe6e132
+  macAddresses:
   - 18:FD:CB:C0:00:00/28
   manufacturer: Ark Vision Systems GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArkVisio
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 347609bc-2b0c-4d33-9e1e-49099e151d73
-  mac-addresses:
+  id: c4650616-1ef7-45e4-a085-27e2547c6dfb
+  macAddresses:
   - 00:50:30:00:00:00/24
   manufacturer: Future Plus Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FuturePl
 type: d3-device-type-assertion

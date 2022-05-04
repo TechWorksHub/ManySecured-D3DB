@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ed33f9f-56f4-4fde-a0d2-e210d0751066
-  mac-addresses:
+  id: 321e2b02-47f5-4994-b124-4b8b512c4a2b
+  macAddresses:
   - E8:0B:13:00:00:00/24
   manufacturer: Akib Systems Taiwan, INC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AkibTaiw
 type: d3-device-type-assertion

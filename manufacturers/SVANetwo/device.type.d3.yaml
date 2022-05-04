@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5194b26-5254-4dd9-9007-d8c968479f92
-  mac-addresses:
+  id: 233c92a1-8067-4700-9d8b-1885a81c639f
+  macAddresses:
   - 00:0A:20:00:00:00/24
   manufacturer: SVA Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SVANetwo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ec50b3a-0523-4f60-8019-679d427588c8
-  mac-addresses:
+  id: d2f37fbb-8e40-4e3c-a91f-da17549b159d
+  macAddresses:
   - AC:1D:DF:E0:00:00/28
   manufacturer: Duravit AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duravit
 type: d3-device-type-assertion

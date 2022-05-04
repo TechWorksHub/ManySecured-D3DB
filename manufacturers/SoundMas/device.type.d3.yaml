@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b98750ca-3977-4d80-bc08-1c2150c4598f
-  mac-addresses:
+  id: 0c8bbd51-9d45-405b-877d-b0c35c084583
+  macAddresses:
   - CC:6B:F1:00:00:00/24
   manufacturer: Sound Masking Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SoundMas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a5771d8-807b-422a-83f4-6178f12b613d
-  mac-addresses:
+  id: 36464308-bad1-4135-b944-a6a90d6967dd
+  macAddresses:
   - 70:B3:D5:7B:D0:00/36
   manufacturer: TableConnect GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TableCon
 type: d3-device-type-assertion

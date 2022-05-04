@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ebb2213-cac8-46d1-8745-650b07d1c548
-  mac-addresses:
+  id: fd348ce9-1376-476e-8c36-04ba32d3c92b
+  macAddresses:
   - 00:50:72:00:00:00/24
   manufacturer: Corvis Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corvis
 type: d3-device-type-assertion

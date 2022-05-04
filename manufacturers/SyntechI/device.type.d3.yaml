@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f2c59b7-8440-4d7b-87ba-1a9fbf7fbb72
-  mac-addresses:
+  id: 2ac02465-21bb-44ec-81fc-58cd91ddc6ae
+  macAddresses:
   - 00:D0:17:00:00:00/24
   manufacturer: Syntech Information Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SyntechI
 type: d3-device-type-assertion

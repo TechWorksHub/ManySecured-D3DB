@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1311b21e-2329-4882-8fe0-a5fa3e001175
-  mac-addresses:
+  id: c30b67d8-bc2b-4004-9f63-f60ef34687a4
+  macAddresses:
   - 88:E7:A6:00:00:00/24
   manufacturer: iKnowledge Integration Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iKnowled
 type: d3-device-type-assertion

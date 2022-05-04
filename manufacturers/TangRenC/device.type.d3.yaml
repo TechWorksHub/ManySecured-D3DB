@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd6f38a3-2160-490b-b04e-19a5448419b7
-  mac-addresses:
+  id: 5b7e0f16-9a42-4b52-bd99-af777ced5f9b
+  macAddresses:
   - 70:B3:D5:3F:C0:00/36
   manufacturer: TangRen C&S CO., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TangRenC
 type: d3-device-type-assertion

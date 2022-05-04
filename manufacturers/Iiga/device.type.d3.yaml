@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39bde871-0daa-4178-8a83-0bb2e3e8d1aa
-  mac-addresses:
+  id: 73b5ceed-44ae-4e02-9c6e-08dd78886dc9
+  macAddresses:
   - 00:0E:B8:00:00:00/24
   manufacturer: Iiga co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iiga
 type: d3-device-type-assertion

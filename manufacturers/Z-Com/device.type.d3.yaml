@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e15ccab2-779b-4d64-9fbe-fb4824dd3513
-  mac-addresses:
+  id: f6806813-b1e6-4952-98e1-928ff71ed111
+  macAddresses:
   - 00:19:70:00:00:00/24
   - 00:60:B3:00:00:00/24
   manufacturer: Z-Com, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Z-Com
 type: d3-device-type-assertion

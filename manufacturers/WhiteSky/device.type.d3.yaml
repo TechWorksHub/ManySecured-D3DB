@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 647e2ddc-852d-48ff-aae8-9b38419267f7
-  mac-addresses:
+  id: faa3615a-2a81-4bcd-9332-726508cfacce
+  macAddresses:
   - 24:59:0B:00:00:00/24
   manufacturer: White Sky Inc. Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WhiteSky
 type: d3-device-type-assertion

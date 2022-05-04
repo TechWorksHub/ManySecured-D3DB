@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3783869b-7e4c-43f3-ae2b-3a7922671444
-  mac-addresses:
+  id: dd98c30e-6a5a-40b4-b133-3e965224d201
+  macAddresses:
   - 00:50:C2:04:A0:00/36
   - 00:C0:BC:00:00:00/24
   manufacturer: Telecom Analysis Systems, LP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelecomA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b3361f6-c4e4-493e-ae50-af82bb9f6ee6
-  mac-addresses:
+  id: 74f9891e-b24b-46aa-b24d-38db33bc5a5e
+  macAddresses:
   - 00:19:14:00:00:00/24
   manufacturer: Winix Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Winix
 type: d3-device-type-assertion

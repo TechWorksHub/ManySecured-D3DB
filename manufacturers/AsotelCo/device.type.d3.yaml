@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05e05e51-5319-4cfa-ad54-63b6c98867a2
-  mac-addresses:
+  id: bcb4a8c3-b6e5-41d4-92ae-14c29d8b7ec6
+  macAddresses:
   - 00:1A:98:00:00:00/24
   manufacturer: Asotel Communication Limited Taiwan Branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsotelCo
 type: d3-device-type-assertion

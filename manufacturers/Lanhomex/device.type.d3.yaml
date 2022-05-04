@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62c6d74f-df3b-47f0-b062-583e47403be1
-  mac-addresses:
+  id: 1108159d-0ef3-476f-b034-7daba70c4844
+  macAddresses:
   - 8C:C8:F4:10:00:00/28
   manufacturer: Lanhomex Technology(Shen Zhen)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lanhomex
 type: d3-device-type-assertion

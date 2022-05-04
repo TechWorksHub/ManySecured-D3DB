@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70e8ac50-1861-41e2-805e-15783e07e65a
-  mac-addresses:
+  id: 3db7c2cf-7347-4770-a398-eac90faa641a
+  macAddresses:
   - B8:B7:D7:00:00:00/24
   manufacturer: 2GIG Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2GIGTech
 type: d3-device-type-assertion

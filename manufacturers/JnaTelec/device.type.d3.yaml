@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b14e4f44-8092-4c35-a6da-0483f5ff1d64
-  mac-addresses:
+  id: 601e6820-3b7b-46e9-a772-85963e108be2
+  macAddresses:
   - 00:10:82:00:00:00/24
   manufacturer: Jna Telecommunications Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JnaTelec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d71a096-d2e9-4154-a019-dbeaa043c808
-  mac-addresses:
+  id: 077075b3-bb38-4f35-a907-7cc5d1cfff2e
+  macAddresses:
   - B0:17:43:00:00:00/24
   manufacturer: Edison Global Circuits Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdisonGl
 type: d3-device-type-assertion

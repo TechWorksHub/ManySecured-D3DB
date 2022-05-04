@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a212f597-9c66-4e83-9e03-d444e7642992
-  mac-addresses:
+  id: 1b7ca8f2-52d0-4735-bb33-3c7510782f37
+  macAddresses:
   - 00:04:71:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPrad
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 483f4e4a-8efa-4b98-acef-6e921ffa4732
-  mac-addresses:
+  id: 5fb8f247-a348-46aa-b32f-a55e8c79e3db
+  macAddresses:
   - 74:F8:DB:D0:00:00/28
   manufacturer: Simon Electric (China) Co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimonEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26daa862-68bf-486d-9cfa-5c8caca436f8
-  mac-addresses:
+  id: 98615966-2e5b-4601-8fe2-a77bbb71fd1c
+  macAddresses:
   - 00:1C:E5:00:00:00/24
   manufacturer: MBS Electronic Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MBSElect
 type: d3-device-type-assertion

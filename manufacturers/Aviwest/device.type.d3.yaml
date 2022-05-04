@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61e37335-6cc2-469a-a680-b1f4664991a8
-  mac-addresses:
+  id: 88e550fb-de75-4798-bd89-bb2c15015c66
+  macAddresses:
   - B4:31:B8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aviwest
 type: d3-device-type-assertion

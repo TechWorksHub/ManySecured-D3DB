@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43a95841-ba39-48c1-ad7f-8908d04534e3
-  mac-addresses:
+  id: 72f47fbf-64b6-4323-a1ac-5d3e46f8265f
+  macAddresses:
   - 00:0C:AA:00:00:00/24
   manufacturer: Cubic Transportation Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CubicTra
 type: d3-device-type-assertion

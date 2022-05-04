@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e65e91cb-6c5f-46bf-b72c-cd2be0920626
-  mac-addresses:
+  id: dfc532f1-2110-4fbf-a29f-c9ac4fe4854b
+  macAddresses:
   - 00:40:1C:00:00:00/24
   manufacturer: AST
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AstPenti
 type: d3-device-type-assertion

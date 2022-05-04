@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6427e82d-2546-4136-b038-b839b5d8033d
-  mac-addresses:
+  id: 33bd9903-9e9b-4700-8648-71814fb404b9
+  macAddresses:
   - F8:02:78:40:00:00/28
   manufacturer: CLARUS Korea Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CLARUSKo
 type: d3-device-type-assertion

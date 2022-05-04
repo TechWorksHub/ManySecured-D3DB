@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c299d33d-3b17-434c-bef9-830e75422229
-  mac-addresses:
+  id: aae9486c-0c71-4fe4-9068-1d7ced696cc4
+  macAddresses:
   - 00:1A:21:00:00:00/24
   manufacturer: Brookhuis Applied Technologies BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brookhui
 type: d3-device-type-assertion

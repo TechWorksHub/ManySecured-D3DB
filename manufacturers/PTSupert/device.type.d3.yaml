@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e617ec60-ef9b-4b8a-83be-ae29f495bf25
-  mac-addresses:
+  id: f5226213-21ba-4f61-ad46-d947f0214ed0
+  macAddresses:
   - 38:A8:CD:90:00:00/28
   manufacturer: PT Supertone
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTSupert
 type: d3-device-type-assertion

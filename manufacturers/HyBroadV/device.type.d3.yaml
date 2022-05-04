@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2e4c5c0-8580-4244-ba34-1e37d95c1c0e
-  mac-addresses:
+  id: 43f47f2a-9756-4864-9e33-8add56407e61
+  macAddresses:
   - 0C:56:5C:00:00:00/24
   manufacturer: HyBroad Vision (Hong Kong) Technology Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HyBroadV
 type: d3-device-type-assertion

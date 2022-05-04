@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a9c6638-707b-4a74-b545-6deb034f4f39
-  mac-addresses:
+  id: 7aa7140c-bbac-48fd-8e8b-3ed9d58f1761
+  macAddresses:
   - 00:50:C2:BF:10:00/36
   manufacturer: Amatic Industries GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmaticIn
 type: d3-device-type-assertion

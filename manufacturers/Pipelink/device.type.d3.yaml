@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bc1bf11-54f0-46e1-9fda-8d2bb8776794
-  mac-addresses:
+  id: 88c07d20-7bf3-412f-a9cb-ed16cdc07402
+  macAddresses:
   - 00:90:24:00:00:00/24
   manufacturer: Pipelinks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pipelink
 type: d3-device-type-assertion

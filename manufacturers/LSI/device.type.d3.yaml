@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5643480d-8a95-4fa2-a7df-1d07655f37ec
-  mac-addresses:
+  id: 0c260e90-788e-4ffa-83c9-41b48497e075
+  macAddresses:
   - 00:07:96:00:00:00/24
   manufacturer: LSI Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSI
 type: d3-device-type-assertion

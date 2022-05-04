@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 961556b6-d0bf-40fc-85b2-f8de986e63b6
-  mac-addresses:
+  id: ddb39a06-ff65-421a-97e0-8635cb267750
+  macAddresses:
   - 70:B3:D5:A1:A0:00/36
   manufacturer: Nueon - The COR
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nueon-CO
 type: d3-device-type-assertion

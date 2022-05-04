@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7506c96-88a9-4e8f-9ab0-15a04144a211
-  mac-addresses:
+  id: 83f1ef1f-6925-4354-8108-49e6977a6f62
+  macAddresses:
   - D8:97:60:00:00:00/24
   manufacturer: C2 Development, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C2Develo
 type: d3-device-type-assertion

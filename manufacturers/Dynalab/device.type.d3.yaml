@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d7a5ccf-bf1d-4b14-98bd-1f6354292de7
-  mac-addresses:
+  id: f05f54e6-2e94-4ad3-81e0-7dc4aded2017
+  macAddresses:
   - 00:13:7D:00:00:00/24
   manufacturer: Dynalab, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dynalab
 type: d3-device-type-assertion

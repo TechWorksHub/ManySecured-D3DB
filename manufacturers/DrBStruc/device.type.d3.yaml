@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7222fac8-05b7-4737-9547-45d82f96025c
-  mac-addresses:
+  id: 1d042a10-7806-4b58-8ebc-2d6ae151f124
+  macAddresses:
   - 00:00:56:00:00:00/24
   manufacturer: Dr. B. Struck
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DrBStruc
 type: d3-device-type-assertion

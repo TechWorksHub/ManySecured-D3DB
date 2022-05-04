@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85453470-1fab-446c-bc18-7682a61df69a
-  mac-addresses:
+  id: 91e364ed-1e4c-4a68-a652-772abbf82a84
+  macAddresses:
   - 00:03:D6:00:00:00/24
   manufacturer: RADVision, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RADVisio
 type: d3-device-type-assertion

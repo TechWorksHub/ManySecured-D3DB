@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95c4d780-68c5-43f0-aecb-d0236aca8a85
-  mac-addresses:
+  id: 1bce79bb-44b8-488b-8283-c56e49996ba3
+  macAddresses:
   - 00:0A:67:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OngCorp
 type: d3-device-type-assertion

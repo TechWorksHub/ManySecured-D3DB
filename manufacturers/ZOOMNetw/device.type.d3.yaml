@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d18d695c-bc39-4345-b09d-86bbd525964a
-  mac-addresses:
+  id: e3135529-e230-4ff4-b404-c0f84707b6e9
+  macAddresses:
   - 00:08:D2:00:00:00/24
   manufacturer: ZOOM Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZOOMNetw
 type: d3-device-type-assertion

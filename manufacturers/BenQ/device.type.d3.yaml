@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc60158e-260d-4672-b13e-59d3ef469e6e
-  mac-addresses:
+  id: 47f36b93-2394-4942-93e7-1e71b9b15936
+  macAddresses:
   - 80:65:E9:00:00:00/24
   manufacturer: BenQ Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BenQ
 type: d3-device-type-assertion

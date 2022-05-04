@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95f01221-666a-4e56-8fc9-a7109362ec29
-  mac-addresses:
+  id: c2a8f100-c3c7-4d97-9904-ca09a43dfa22
+  macAddresses:
   - FA:16:19:00:00:00/24
   manufacturer: trendytech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: trendyte
 type: d3-device-type-assertion

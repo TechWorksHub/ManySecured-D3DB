@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8aa56c90-a977-4a89-9a0b-ed924d82ab21
-  mac-addresses:
+  id: 85a94e3d-f3dd-4829-a811-22d58830ebc7
+  macAddresses:
   - 00:25:4D:00:00:00/24
   manufacturer: Singapore Technologies Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Singapor
 type: d3-device-type-assertion

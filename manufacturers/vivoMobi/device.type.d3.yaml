@@ -1,6 +1,6 @@
 credentialSubject:
-  id: fe64bcfc-4307-4955-a6ae-92abac147173
-  mac-addresses:
+  id: cf7a5e82-4931-420f-aef9-c4df9041c1e0
+  macAddresses:
   - 08:23:B2:00:00:00/24
   - 08:7F:98:00:00:00/24
   - 08:B3:AF:00:00:00/24
@@ -106,6 +106,6 @@ credentialSubject:
   - FC:1D:2A:00:00:00/24
   - FC:BE:7B:00:00:00/24
   manufacturer: vivo Mobile Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vivoMobi
 type: d3-device-type-assertion

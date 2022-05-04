@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69f7b857-4384-4188-b4b3-c6e8b03c0252
-  mac-addresses:
+  id: 9e1264b0-b70b-4b76-8573-ba710e5c8a73
+  macAddresses:
   - 00:50:C2:9F:C0:00/36
   manufacturer: Ectec Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ectec
 type: d3-device-type-assertion

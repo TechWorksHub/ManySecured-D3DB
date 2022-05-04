@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a7b8723-e95b-4796-a985-9a9a5d8d2b9e
-  mac-addresses:
+  id: 66f94cdc-8aa3-4703-9ac6-2e25aecde6e9
+  macAddresses:
   - 00:14:DA:00:00:00/24
   manufacturer: Huntleigh Healthcare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Huntleig
 type: d3-device-type-assertion

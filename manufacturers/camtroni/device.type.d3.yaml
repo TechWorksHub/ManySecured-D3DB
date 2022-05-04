@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e183de8-d11d-461b-8f5a-7b49b348adea
-  mac-addresses:
+  id: 14917161-b8f3-4a48-9ace-40aa13fa839e
+  macAddresses:
   - 04:5D:56:00:00:00/24
   manufacturer: camtron industrial inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: camtroni
 type: d3-device-type-assertion

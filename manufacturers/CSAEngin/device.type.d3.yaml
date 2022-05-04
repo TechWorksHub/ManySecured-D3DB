@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e14f51d7-895b-4dc4-b2be-367d642e8d08
-  mac-addresses:
+  id: fb0d2eb8-c388-4ba4-aed1-7555558e20f2
+  macAddresses:
   - 00:50:C2:F8:90:00/36
   manufacturer: CSA Engineering AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSAEngin
 type: d3-device-type-assertion

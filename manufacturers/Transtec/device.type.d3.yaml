@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 63a72b02-b782-4891-b128-48fd52fcfb10
-  mac-addresses:
+  id: 22d35740-0b29-455f-8af4-2abddbfc5c46
+  macAddresses:
   - 00:09:D4:00:00:00/24
   - 00:50:C2:2E:50:00/36
   - 00:50:C2:BA:10:00/36
   manufacturer: Transtech Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transtec
 type: d3-device-type-assertion

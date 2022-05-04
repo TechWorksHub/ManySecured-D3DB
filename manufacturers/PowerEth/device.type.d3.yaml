@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f035c438-bd53-41a2-bda5-088bf4b90d05
-  mac-addresses:
+  id: c5ddef90-cdb4-46ce-99b0-c5214e366f11
+  macAddresses:
   - D4:D2:49:00:00:00/24
   manufacturer: Power Ethernet
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerEth
 type: d3-device-type-assertion

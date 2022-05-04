@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9f43964-a758-4a03-bbfd-9c4792d19096
-  mac-addresses:
+  id: 6b3c8858-cf75-4dc9-ba85-ee14656a564b
+  macAddresses:
   - E0:AA:B0:00:00:00/24
   manufacturer: Suntaili Enterprise Co. Ltd,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Suntaili
 type: d3-device-type-assertion

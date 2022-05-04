@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3277fd6c-192a-447a-a70a-aa363bb986cf
-  mac-addresses:
+  id: 3e49995c-9822-4f52-89cb-b1fde858bfcb
+  macAddresses:
   - 00:50:C2:0A:40:00/36
   manufacturer: Bounty Systems Pty Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bounty
 type: d3-device-type-assertion

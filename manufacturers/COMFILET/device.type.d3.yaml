@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e99346fc-095d-40bc-a346-23a303151b43
-  mac-addresses:
+  id: bc6044bc-7ed2-4efe-ab26-9585c39e0a0e
+  macAddresses:
   - 00:25:AF:00:00:00/24
   manufacturer: COMFILE Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMFILET
 type: d3-device-type-assertion

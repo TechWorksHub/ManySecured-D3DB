@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9291e8c-862d-4bdc-af97-935145be95d5
-  mac-addresses:
+  id: c249c556-9060-45e3-9f1d-b7959093f0b4
+  macAddresses:
   - 00:19:6B:00:00:00/24
   manufacturer: Danpex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Danpex
 type: d3-device-type-assertion

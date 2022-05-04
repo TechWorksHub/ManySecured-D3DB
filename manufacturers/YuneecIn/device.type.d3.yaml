@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3deac430-a923-4d34-84ba-6732fae4d7fc
-  mac-addresses:
+  id: 128100fb-5561-4a06-bf99-9825638e9ab2
+  macAddresses:
   - E0:B6:F5:80:00:00/28
   manufacturer: "Yuneec International\uFF08China\uFF09Co.\uFF0CLtd"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YuneecIn
 type: d3-device-type-assertion

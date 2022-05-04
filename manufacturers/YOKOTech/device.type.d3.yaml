@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 179faab6-bdca-40f0-b355-8695a0d97534
-  mac-addresses:
+  id: b1ad9964-e480-41fe-8fea-6fd433f9ea1f
+  macAddresses:
   - 00:0E:C9:00:00:00/24
   manufacturer: YOKO Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YOKOTech
 type: d3-device-type-assertion

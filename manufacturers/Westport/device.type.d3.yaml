@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 36ad325a-6898-47f5-9c52-f3e879a7972a
-  mac-addresses:
+  id: 1c410090-cd45-4837-b753-ffd1d11e9eee
+  macAddresses:
   - 00:A0:E1:00:00:00/24
   - 00:B0:1C:00:00:00/24
   manufacturer: Westport Research Associates, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Westport
 type: d3-device-type-assertion

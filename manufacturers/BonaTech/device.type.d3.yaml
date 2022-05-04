@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13749df6-67fa-4531-955f-58f3fd688fc1
-  mac-addresses:
+  id: 6d086b3b-be8f-4b0c-90b7-d014fd646a8d
+  macAddresses:
   - 00:1A:0B:00:00:00/24
   manufacturer: Bona Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BonaTech
 type: d3-device-type-assertion

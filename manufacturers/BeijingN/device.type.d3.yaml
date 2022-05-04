@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f4ee42e5-7245-445c-a409-8e13d5553817
-  mac-addresses:
+  id: 22c80fb8-4958-4e51-8d06-eda3cba528e9
+  macAddresses:
   - 00:0E:45:00:00:00/24
   - 1C:9E:CB:00:00:00/24
   - 30:09:F9:20:00:00/28
@@ -15,6 +15,6 @@ credentialSubject:
   - CC:10:A3:00:00:00/24
   - CC:4F:5C:D0:00:00/28
   manufacturer: Beijing Newtry Electronic Technology Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingN
 type: d3-device-type-assertion

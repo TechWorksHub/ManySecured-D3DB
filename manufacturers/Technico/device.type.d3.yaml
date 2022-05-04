@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d13d6630-9c64-41a1-812d-3dc2c30226fa
-  mac-addresses:
+  id: 07e3bcab-94f6-45bc-9770-51552f66427e
+  macAddresses:
   - 00:CB:7A:00:00:00/24
   - 08:7E:64:00:00:00/24
   - 08:95:2A:00:00:00/24
@@ -91,6 +91,6 @@ credentialSubject:
   - FC:91:14:00:00:00/24
   - FC:94:E3:00:00:00/24
   manufacturer: Technicolor CH USA Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technico
 type: d3-device-type-assertion

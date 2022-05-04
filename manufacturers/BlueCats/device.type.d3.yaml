@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c5d0356-d81e-4a00-8557-6886c385bd0c
-  mac-addresses:
+  id: ab50befb-74dd-4662-ad90-db315dbd3024
+  macAddresses:
   - D4:25:CC:70:00:00/28
   manufacturer: BlueCats US, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueCats
 type: d3-device-type-assertion

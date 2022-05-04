@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbbe954a-e219-4808-a701-3ab29a13e10c
-  mac-addresses:
+  id: aa9a671e-26cb-40ab-be82-e94b869fcdf1
+  macAddresses:
   - D4:36:DB:00:00:00/24
   manufacturer: Jiangsu Toppower Automotive Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuT
 type: d3-device-type-assertion

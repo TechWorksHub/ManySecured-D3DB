@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cdcb80b-f82e-416f-bf24-ddce140f8cc3
-  mac-addresses:
+  id: bf4c8f18-5a1c-4dfd-ab03-0e1ee4c61208
+  macAddresses:
   - 70:B3:D5:EA:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Park24
 type: d3-device-type-assertion

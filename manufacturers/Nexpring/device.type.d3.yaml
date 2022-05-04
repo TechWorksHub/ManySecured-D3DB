@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de58294a-48ba-4cde-86ac-9f676c4d466c
-  mac-addresses:
+  id: 70cabf12-226a-4758-8984-b8cca009875f
+  macAddresses:
   - 34:CC:28:00:00:00/24
   manufacturer: Nexpring Co. LTD.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nexpring
 type: d3-device-type-assertion

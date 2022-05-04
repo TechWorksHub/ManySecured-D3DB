@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdc9ab02-ff04-4242-aebd-1e4591a4fb4b
-  mac-addresses:
+  id: a186accf-5320-414a-a3f6-5767d97495e7
+  macAddresses:
   - 48:1A:84:00:00:00/24
   manufacturer: Pointer Telocation Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PointerT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cf80786-1f94-4b6f-83ef-7c4216add452
-  mac-addresses:
+  id: cb875011-125e-4c77-a226-9915447dd538
+  macAddresses:
   - 70:B3:D5:72:40:00/36
   manufacturer: Quan International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuanInte
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c85a1d2a-7c4e-4fb4-aa65-56fe65df368a
-  mac-addresses:
+  id: c22626fe-0b68-4e50-9f33-2c7731a99723
+  macAddresses:
   - 00:09:4C:00:00:00/24
   - 00:0B:16:00:00:00/24
   - 00:0B:4E:00:00:00/24
@@ -23,6 +23,6 @@ credentialSubject:
   - 70:B3:D5:9D:30:00/36
   - 70:B3:D5:E0:C0:00/36
   manufacturer: Communication Weaver Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Communic
 type: d3-device-type-assertion

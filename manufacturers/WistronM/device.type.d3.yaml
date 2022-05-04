@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b21e9a5-5c92-4cdd-849c-32994872eeef
-  mac-addresses:
+  id: b3d14901-f3fd-4883-9e41-dd70af255b9c
+  macAddresses:
   - EC:B4:E8:00:00:00/24
   manufacturer: Wistron Mexico SA de CV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WistronM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26fed61c-9eb1-4bc7-833a-bc3f4ebb1099
-  mac-addresses:
+  id: 3af402ea-50d2-4cd6-801b-52a9253c4f1e
+  macAddresses:
   - 00:11:B8:00:00:00/24
   manufacturer: Liebherr - Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liebherr
 type: d3-device-type-assertion

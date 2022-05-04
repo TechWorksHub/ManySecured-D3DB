@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc4c5ce5-1016-4fe9-a7da-e1b5b4cff455
-  mac-addresses:
+  id: d8381c17-d7a7-4e45-a876-27c17f75d0b2
+  macAddresses:
   - 70:B3:D5:97:90:00/36
   manufacturer: eSMART Technologies SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eSMARTTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07ef8bc1-ffec-4b2e-b323-1e858270f2e5
-  mac-addresses:
+  id: 54b81dd1-5322-41fc-9324-ebaa58447d58
+  macAddresses:
   - 00:15:F8:00:00:00/24
   manufacturer: Kingtronics Industrial Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kingtron
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 696fbb6f-5022-4bed-80ed-b695e395085a
-  mac-addresses:
+  id: b4efc00a-f50b-473c-b3a3-e9a2dfe28ec0
+  macAddresses:
   - 00:50:C2:27:10:00/36
   - 00:50:C2:35:B0:00/36
   - 00:50:C2:42:B0:00/36
   manufacturer: Vlsip Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VlsipTec
 type: d3-device-type-assertion

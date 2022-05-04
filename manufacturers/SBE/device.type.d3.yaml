@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5e23c723-a6d5-40b9-9ab3-bb98a6cad762
-  mac-addresses:
+  id: 0d43e682-7890-4d82-ba4d-c125e893319e
+  macAddresses:
   - 00:60:99:00:00:00/24
   - 00:A0:D6:00:00:00/24
   manufacturer: SBE, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SBE
 type: d3-device-type-assertion

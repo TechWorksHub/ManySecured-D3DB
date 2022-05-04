@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2289ba0-7d0e-489d-88c3-c1b27dc6d8ad
-  mac-addresses:
+  id: 03ad9d4b-6e02-47d2-b844-a1b07a588465
+  macAddresses:
   - 04:15:D9:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viwone
 type: d3-device-type-assertion

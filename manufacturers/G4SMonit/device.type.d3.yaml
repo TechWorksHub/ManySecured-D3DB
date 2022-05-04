@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fa4374d-0f74-41b4-8200-f8c06c8534b5
-  mac-addresses:
+  id: 58d98a63-6686-41ae-a36c-557e810c0e46
+  macAddresses:
   - B4:4B:D6:00:00:00/28
   manufacturer: G4S Monitoring Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G4SMonit
 type: d3-device-type-assertion

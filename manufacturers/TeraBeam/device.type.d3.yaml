@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8999f9cb-6e9f-4a4d-baa9-35ee6d6898c1
-  mac-addresses:
+  id: 8506ff93-f3d5-4405-9a42-ed3ec398b78b
+  macAddresses:
   - 00:03:55:00:00:00/24
   manufacturer: TeraBeam Internet Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeraBeam
 type: d3-device-type-assertion

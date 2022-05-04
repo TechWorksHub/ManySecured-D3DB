@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c975fc75-7e62-4586-866e-ea1ab2aae2fb
-  mac-addresses:
+  id: 95bf0b75-af53-4d53-8b30-d268cc936065
+  macAddresses:
   - 00:01:7F:00:00:00/24
   manufacturer: Experience Music Project
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Experien
 type: d3-device-type-assertion

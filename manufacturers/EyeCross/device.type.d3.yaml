@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1d0a7a6-a506-4a40-b305-faee8209fb5e
-  mac-addresses:
+  id: bc44ad39-68a3-46be-a242-51273c3d1b1b
+  macAddresses:
   - 00:0B:DA:00:00:00/24
   manufacturer: EyeCross Co.,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EyeCross
 type: d3-device-type-assertion

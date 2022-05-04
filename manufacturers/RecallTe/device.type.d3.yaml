@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afa3ecd9-0663-4ce6-a943-d4608ea12f76
-  mac-addresses:
+  id: c7cc1d6f-60a4-49bd-a990-f03fa4252d29
+  macAddresses:
   - 00:1E:9D:00:00:00/24
   manufacturer: Recall Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RecallTe
 type: d3-device-type-assertion

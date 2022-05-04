@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98862103-d9cd-461e-a7ec-3c4bcfd13572
-  mac-addresses:
+  id: ebba996b-e799-4b7b-a48d-7d29fa15720e
+  macAddresses:
   - 6C:F9:7C:00:00:00/24
   manufacturer: Nanoptix Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nanoptix
 type: d3-device-type-assertion

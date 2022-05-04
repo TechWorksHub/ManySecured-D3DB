@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37a7aecf-14be-47ec-864c-159e8129009e
-  mac-addresses:
+  id: f7b2c6ab-db69-4e9d-a68b-0461e330b3aa
+  macAddresses:
   - 00:15:DC:00:00:00/24
   manufacturer: KT&C Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KT&C
 type: d3-device-type-assertion

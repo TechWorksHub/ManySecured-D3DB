@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbddc01c-7187-43f9-b875-f8b9d3f62a31
-  mac-addresses:
+  id: 68ed3ba2-8a98-4e73-8a77-7d1e45b93799
+  macAddresses:
   - 70:B3:D5:5E:A0:00/36
   manufacturer: Kys,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kys
 type: d3-device-type-assertion

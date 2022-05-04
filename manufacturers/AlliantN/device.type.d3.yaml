@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 744ffe0d-fbb5-4ee2-a5e8-9527a856c658
-  mac-addresses:
+  id: 29458aa9-2a8e-444a-84a6-8df63332eaf1
+  macAddresses:
   - 00:12:E1:00:00:00/24
   manufacturer: Alliant Networks, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlliantN
 type: d3-device-type-assertion

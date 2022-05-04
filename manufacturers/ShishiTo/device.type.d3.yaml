@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2650b371-cfff-479a-abbd-5888c6a9d006
-  mac-addresses:
+  id: af2ce49f-5acb-4a67-955b-389db971575a
+  macAddresses:
   - 9C:2D:CF:00:00:00/24
   manufacturer: Shishi Tongyun Technology(Chengdu)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShishiTo
 type: d3-device-type-assertion

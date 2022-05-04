@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73500a77-b3e3-4a80-bdd6-0e841673d394
-  mac-addresses:
+  id: fd444ee6-db5e-444d-bc12-7751dd33dd27
+  macAddresses:
   - B8:74:24:00:00:00/24
   manufacturer: Viessmann Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viessman
 type: d3-device-type-assertion

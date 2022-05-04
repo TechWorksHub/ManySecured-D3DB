@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 21188ee7-9ac7-4559-86f5-06296ffc40ca
-  mac-addresses:
+  id: 8ead6e04-99c8-45a1-8db6-28f6271b24d6
+  macAddresses:
   - 00:D0:B1:00:00:00/24
   - F0:3A:55:00:00:00/24
   manufacturer: Omega Electronics Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmegaEle
 type: d3-device-type-assertion

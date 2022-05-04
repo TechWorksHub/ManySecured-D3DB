@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 451ef64f-3b29-4964-8563-2dbf9d0a1d48
-  mac-addresses:
+  id: 96eef102-beed-4188-a33a-c8fc15228f46
+  macAddresses:
   - 8C:1F:64:9F:A0:00/36
   manufacturer: METRONA-Union GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: METRONA-
 type: d3-device-type-assertion

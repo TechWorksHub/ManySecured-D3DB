@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b17b4fe0-8973-48c6-9287-4b98139e2cb4
-  mac-addresses:
+  id: 805a53be-1df3-417c-bb1c-2959a758b773
+  macAddresses:
   - 00:00:BB:00:00:00/24
   manufacturer: TRI-DATA Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tri-Data
 type: d3-device-type-assertion

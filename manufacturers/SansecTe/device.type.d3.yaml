@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ed214f4-664c-4c95-96b2-b8a4eb7ed324
-  mac-addresses:
+  id: 8b008d36-e5dd-4dd6-a208-77c181bc334d
+  macAddresses:
   - 18:74:E2:70:00:00/28
   manufacturer: Sansec Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SansecTe
 type: d3-device-type-assertion

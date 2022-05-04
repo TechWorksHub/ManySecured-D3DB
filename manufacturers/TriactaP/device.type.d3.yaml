@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdcb5cf5-4662-478c-8fe0-38e7e37d454a
-  mac-addresses:
+  id: 2bbe6447-d91f-4ecf-acd4-144581ad8608
+  macAddresses:
   - 00:21:B6:00:00:00/24
   manufacturer: Triacta Power Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TriactaP
 type: d3-device-type-assertion

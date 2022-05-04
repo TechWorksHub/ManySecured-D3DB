@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f17d6a1-887a-4813-8c8a-28a96866f255
-  mac-addresses:
+  id: 15fbfc94-6024-4adf-b62b-dc6d098a84ea
+  macAddresses:
   - 00:50:A8:00:00:00/24
   manufacturer: OpenCon Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenCon
 type: d3-device-type-assertion

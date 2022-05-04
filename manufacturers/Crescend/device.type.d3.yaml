@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e80e8bd1-674f-4712-8f65-1014bb82b3d4
-  mac-addresses:
+  id: d59f1caa-b2b0-431c-82fb-77ff99993761
+  macAddresses:
   - 00:1D:B1:00:00:00/24
   - 00:50:C2:22:A0:00/36
   manufacturer: Crescendo Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crescend
 type: d3-device-type-assertion

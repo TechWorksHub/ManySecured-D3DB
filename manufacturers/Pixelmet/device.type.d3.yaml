@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f2d81e4-98cf-4196-8954-adf35ba2b710
-  mac-addresses:
+  id: cf2db92a-f283-4a1c-a27d-ac0259af28ce
+  macAddresses:
   - 00:1F:02:00:00:00/24
   manufacturer: Pixelmetrix Corporation Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pixelmet
 type: d3-device-type-assertion

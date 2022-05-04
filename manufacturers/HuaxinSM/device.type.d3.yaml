@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2fe54ec-eea7-401e-8831-8d91782ebb27
-  mac-addresses:
+  id: 5bf0358b-3c6f-4356-b7d2-0acc740129c7
+  macAddresses:
   - C0:83:59:20:00:00/28
   manufacturer: Huaxin SM Optics Co. LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuaxinSM
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: fd7228bc-682d-4740-89c5-cc2602a863a0
-  mac-addresses:
+  id: c66c76be-4d2f-40d1-91dc-45d8c63bf229
+  macAddresses:
   - 00:00:6A:00:00:00/24
   - 00:10:28:00:00:00/24
   - 00:10:53:00:00:00/24
@@ -29,6 +29,6 @@ credentialSubject:
   - 70:B3:D5:CE:A0:00/36
   - 7C:E1:FF:00:00:00/24
   manufacturer: Computer Consoles Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Computer
 type: d3-device-type-assertion

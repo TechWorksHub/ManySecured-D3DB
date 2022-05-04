@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d822a24b-9019-4cc3-a60b-51a612339dab
-  mac-addresses:
+  id: 8597276a-fd48-43f0-85de-0a48d790b87b
+  macAddresses:
   - 00:1D:94:00:00:00/24
   manufacturer: Climax Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClimaxTe
 type: d3-device-type-assertion

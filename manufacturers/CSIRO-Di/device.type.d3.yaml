@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 889f53da-3409-4f5e-97d4-ed7090f4c3ad
-  mac-addresses:
+  id: e35511f6-a38a-4cd9-96ae-a43fd77961b5
+  macAddresses:
   - 00:50:C2:3E:30:00/36
   manufacturer: CSIRO - Division of Exploration and Mining
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSIRO-Di
 type: d3-device-type-assertion

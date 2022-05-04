@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51b208f3-b9ba-40ad-a6d4-714ea6c36cae
-  mac-addresses:
+  id: 9fb83522-9fd6-4934-9d84-5e1111de18ba
+  macAddresses:
   - 00:1B:C7:00:00:00/24
   manufacturer: StarVedia Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StarVedi
 type: d3-device-type-assertion

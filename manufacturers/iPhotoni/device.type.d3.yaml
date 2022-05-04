@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8529fd6-1a90-4f63-b174-92d119a738f0
-  mac-addresses:
+  id: ee782520-dfbf-4d3d-a4e8-89d475ba7ebe
+  macAddresses:
   - 00:1C:15:00:00:00/24
   manufacturer: iPhotonix LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iPhotoni
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80ee1937-bdd9-490e-9965-2bcc873ebe8d
-  mac-addresses:
+  id: 0dd95b6b-2ef7-49b4-b810-af27d3343795
+  macAddresses:
   - 00:1B:4D:00:00:00/24
   manufacturer: Areca Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArecaTec
 type: d3-device-type-assertion

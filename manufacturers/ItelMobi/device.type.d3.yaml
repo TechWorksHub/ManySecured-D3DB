@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d2afd2b1-0498-4ec0-a0b4-3863d9730218
-  mac-addresses:
+  id: 27d10a6b-92bb-4c45-98a2-7682788e8672
+  macAddresses:
   - 04:D3:20:00:00:00/24
   - 0C:8B:D3:00:00:00/24
   - 18:AC:9E:00:00:00/24
@@ -43,6 +43,6 @@ credentialSubject:
   - F8:2F:6A:00:00:00/24
   - FC:39:64:00:00:00/24
   manufacturer: Itel Mobile Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ItelMobi
 type: d3-device-type-assertion

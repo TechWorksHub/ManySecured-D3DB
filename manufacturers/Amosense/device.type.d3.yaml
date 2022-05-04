@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9452338b-2c23-414d-958e-6026f1d2da8b
-  mac-addresses:
+  id: 41a463af-ef49-4a3b-b50b-d5478fb34e22
+  macAddresses:
   - D0:56:BF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amosense
 type: d3-device-type-assertion

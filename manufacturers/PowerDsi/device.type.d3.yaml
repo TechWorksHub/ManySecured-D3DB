@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0961996d-0f9b-47c0-8af9-6a86f0d906de
-  mac-addresses:
+  id: 99565a67-469b-4b9f-a6a7-cb3e856e07c3
+  macAddresses:
   - 00:05:5A:00:00:00/24
   manufacturer: Power Dsine Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerDsi
 type: d3-device-type-assertion

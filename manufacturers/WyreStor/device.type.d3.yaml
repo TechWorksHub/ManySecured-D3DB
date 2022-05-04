@@ -1,11 +1,11 @@
 credentialSubject:
-  id: d5d68394-bab5-400a-9258-f09496294e13
-  mac-addresses:
+  id: 7556835a-d6a0-4069-9092-89296a3ad094
+  macAddresses:
   - 70:B3:D5:D5:90:00/36
   - 70:B3:D5:D5:A0:00/36
   - 70:B3:D5:D5:B0:00/36
   - E4:CE:02:00:00:00/24
   manufacturer: WyreStorm Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WyreStor
 type: d3-device-type-assertion

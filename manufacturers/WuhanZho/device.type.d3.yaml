@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9adc590-cd10-4fb5-86a8-a22275cdba04
-  mac-addresses:
+  id: 3164f752-c1b5-42fe-8b97-f4746e8783b0
+  macAddresses:
   - D4:9E:6D:00:00:00/24
   manufacturer: Wuhan Zhongyuan Huadian Science & Technology Co.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanZho
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd9aa3b2-71a3-4cec-9505-d6d50ddf164f
-  mac-addresses:
+  id: 787676b8-da09-44dd-96f1-1c6a891f0f9f
+  macAddresses:
   - 00:0C:35:00:00:00/24
   manufacturer: KaVo Dental GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KaVoDent
 type: d3-device-type-assertion

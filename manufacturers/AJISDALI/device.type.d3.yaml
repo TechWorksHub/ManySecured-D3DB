@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5caaa64-1581-497d-a84c-a34aec39537c
-  mac-addresses:
+  id: 70c6a9cf-2300-4226-91d8-03b934f1f5da
+  macAddresses:
   - 14:1F:BA:D0:00:00/28
   manufacturer: AJIS(DALIAN)co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AJISDALI
 type: d3-device-type-assertion

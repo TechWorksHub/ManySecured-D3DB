@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52919762-93f1-4ce6-b3dd-a6156625769b
-  mac-addresses:
+  id: 02f8bcea-986b-47aa-a06e-ee28b3429247
+  macAddresses:
   - 00:14:ED:00:00:00/24
   manufacturer: Airak, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airak
 type: d3-device-type-assertion

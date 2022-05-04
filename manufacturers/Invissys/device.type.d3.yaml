@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f34b8285-134b-43a4-bedf-34114a2be826
-  mac-addresses:
+  id: b9b4ed57-9e65-41d0-b7a5-b3f34b5100c0
+  macAddresses:
   - 70:B3:D5:AD:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Invissys
 type: d3-device-type-assertion

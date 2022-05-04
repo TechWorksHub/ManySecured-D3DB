@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9ccb992-5c5f-4c3c-9535-411e9b2b2f36
-  mac-addresses:
+  id: a13082ec-7482-4799-bff2-6bd1921db03c
+  macAddresses:
   - 00:50:C2:33:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eti
 type: d3-device-type-assertion

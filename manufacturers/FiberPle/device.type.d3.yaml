@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d49e12f0-ade8-4680-9f1c-b17b7ff92213
-  mac-addresses:
+  id: 8ee9361b-584e-480f-bb80-939b16362290
+  macAddresses:
   - 00:25:75:00:00:00/24
   manufacturer: FiberPlex Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FiberPle
 type: d3-device-type-assertion

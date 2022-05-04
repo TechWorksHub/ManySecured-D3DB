@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0d3510e-23d9-4d19-b034-f132fd791811
-  mac-addresses:
+  id: 2346f1b0-7698-478e-812d-80d44a64914d
+  macAddresses:
   - 00:0E:41:00:00:00/24
   manufacturer: Nihon Mechatronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NihonMec
 type: d3-device-type-assertion

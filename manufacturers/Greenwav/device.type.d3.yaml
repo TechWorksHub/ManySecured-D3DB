@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c184b7b8-81d6-48f9-b383-e4dbdecf86de
-  mac-addresses:
+  id: defa6f7f-db5b-4587-9e90-af8ac33e6fc6
+  macAddresses:
   - D0:76:50:90:00:00/28
   manufacturer: Greenwave Scientific
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greenwav
 type: d3-device-type-assertion

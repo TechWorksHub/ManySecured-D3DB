@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60c6aabe-19b9-40bb-a862-0f3612ca23bf
-  mac-addresses:
+  id: 0a7a6312-da7d-48f2-baa4-2795f6a964c4
+  macAddresses:
   - F8:D7:BF:00:00:00/24
   manufacturer: REV Ritter GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: REVRitte
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cb19842-f4d5-4f99-bdb2-97ca74b240b3
-  mac-addresses:
+  id: 9cc5c019-d784-44a7-b2f0-6521a4e67f63
+  macAddresses:
   - B4:2E:F8:00:00:00/24
   manufacturer: Eline Technology co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElineTec
 type: d3-device-type-assertion

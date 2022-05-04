@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38b068d5-ec60-490e-9f67-4849e76323bb
-  mac-addresses:
+  id: e4a049b4-0a1e-4ddc-af45-c1136fb6386c
+  macAddresses:
   - 70:B3:D5:E6:30:00/36
   manufacturer: Potomac Electric Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PotomacE
 type: d3-device-type-assertion

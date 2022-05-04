@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cb08194-cbb6-46bf-9be3-e572cf4fbedb
-  mac-addresses:
+  id: b2eb950a-ff48-46bd-8afe-214b0771dab7
+  macAddresses:
   - 00:03:FA:00:00:00/24
   manufacturer: TiMetra Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiMetraN
 type: d3-device-type-assertion

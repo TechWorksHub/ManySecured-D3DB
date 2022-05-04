@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d73acb58-b28d-4d5a-855f-35df50b181a2
-  mac-addresses:
+  id: 1a10d1d5-6dcf-4a44-8eb2-1983e4d468a8
+  macAddresses:
   - 00:07:F5:00:00:00/24
   manufacturer: Bridgeco Co AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bridgeco
 type: d3-device-type-assertion

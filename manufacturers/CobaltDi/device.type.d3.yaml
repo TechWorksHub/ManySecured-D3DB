@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 55e87b2d-2cd1-4d34-88ff-2030a0233949
-  mac-addresses:
+  id: 9a180bc8-a54d-49b3-9a05-d7d3cee295af
+  macAddresses:
   - 00:23:02:00:00:00/24
   - AC:83:F0:00:00:00/24
   manufacturer: Cobalt Digital, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CobaltDi
 type: d3-device-type-assertion

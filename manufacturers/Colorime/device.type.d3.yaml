@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94b52c35-bcf9-42b1-b31b-aa43913fd445
-  mac-addresses:
+  id: e2cfe675-028e-41fb-b229-deabce8c5fa9
+  macAddresses:
   - 70:B3:D5:10:E0:00/36
   manufacturer: Colorimetry Research, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Colorime
 type: d3-device-type-assertion

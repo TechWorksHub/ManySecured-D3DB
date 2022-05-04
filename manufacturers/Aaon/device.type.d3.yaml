@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f124ab42-390f-4488-8734-a1286b022943
-  mac-addresses:
+  id: bc4d743c-3348-429d-b290-3d4f00b5e1c3
+  macAddresses:
   - 6C:DF:FB:60:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aaon
 type: d3-device-type-assertion

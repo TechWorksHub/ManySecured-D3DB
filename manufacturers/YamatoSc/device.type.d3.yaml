@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b45d950-e2a8-4f0f-b01c-f9f60149e9fc
-  mac-addresses:
+  id: dd377716-b78a-4061-b139-e87005b1ac13
+  macAddresses:
   - C8:F3:6B:00:00:00/24
   manufacturer: Yamato Scale Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YamatoSc
 type: d3-device-type-assertion

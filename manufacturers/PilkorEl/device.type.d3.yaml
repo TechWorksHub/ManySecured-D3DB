@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75bcd828-dbb5-458b-929f-6ca2fcbe948e
-  mac-addresses:
+  id: ed6d4e54-2dc4-470e-bef5-3f525ab4fdb6
+  macAddresses:
   - 00:16:89:00:00:00/24
   manufacturer: Pilkor Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PilkorEl
 type: d3-device-type-assertion

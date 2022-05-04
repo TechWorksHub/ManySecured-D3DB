@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a85a648-1bfa-42e9-b423-0508e2ad8568
-  mac-addresses:
+  id: f8f9edd6-e752-4116-afcc-e1d74792517d
+  macAddresses:
   - AC:C9:35:00:00:00/24
   manufacturer: Ness Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ness
 type: d3-device-type-assertion

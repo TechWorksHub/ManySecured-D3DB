@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4ee150a-6505-485d-a771-61ab0dec8256
-  mac-addresses:
+  id: 32b288ba-bc20-4cc8-a8d2-042482226f37
+  macAddresses:
   - 04:1B:94:00:00:00/24
   manufacturer: Host Mobility AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HostMobi
 type: d3-device-type-assertion

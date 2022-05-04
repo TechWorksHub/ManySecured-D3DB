@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af1deaec-75d5-4538-aa6f-43af2f2c251e
-  mac-addresses:
+  id: 03ad2083-2735-46dc-92fd-d2eba30bcda3
+  macAddresses:
   - 00:50:C2:8C:30:00/36
   manufacturer: Byte Paradigm
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BytePara
 type: d3-device-type-assertion

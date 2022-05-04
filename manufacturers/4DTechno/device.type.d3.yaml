@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bef3786a-cc10-4b2d-b518-af5ebb2c4587
-  mac-addresses:
+  id: 371175ba-7783-498d-aa05-d204fe437f5a
+  macAddresses:
   - 00:50:C2:C3:10:00/36
   manufacturer: 4D Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 4DTechno
 type: d3-device-type-assertion

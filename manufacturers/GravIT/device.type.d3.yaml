@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c73975db-95e7-4251-a053-3ed668724616
-  mac-addresses:
+  id: 1a886240-72ee-45ef-be1a-d7ee5a1cd9c3
+  macAddresses:
   - C8:2C:2B:60:00:00/28
   manufacturer: Grav I.T.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GravIT
 type: d3-device-type-assertion

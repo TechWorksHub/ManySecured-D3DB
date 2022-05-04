@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0aec9981-3961-4f99-a4ed-7428c55b581d
-  mac-addresses:
+  id: f325b501-369e-4d2c-9d53-02bf68b8a4eb
+  macAddresses:
   - 00:1F:51:00:00:00/24
   manufacturer: HD Communications Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HDCommun
 type: d3-device-type-assertion

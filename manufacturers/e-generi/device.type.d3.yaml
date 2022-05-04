@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f9c6200-175a-48b9-a101-64a80b9058fd
-  mac-addresses:
+  id: c514bf77-9bef-4856-8186-63982840a344
+  macAddresses:
   - 00:09:AF:00:00:00/24
   manufacturer: e-generis
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: e-generi
 type: d3-device-type-assertion

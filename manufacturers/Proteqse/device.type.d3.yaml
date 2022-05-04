@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3b85ba6-fb75-4d6a-8b8b-ae10d26242b1
-  mac-addresses:
+  id: a2b0668e-7951-4583-a5ed-a04780108f10
+  macAddresses:
   - 00:50:C2:E8:90:00/36
   manufacturer: Proteqsen
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proteqse
 type: d3-device-type-assertion

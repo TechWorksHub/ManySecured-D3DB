@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 696fa854-1b34-442e-9e92-e2bb6a6099f5
-  mac-addresses:
+  id: abb982a4-1d19-4409-9eef-69c51edf2b2f
+  macAddresses:
   - 00:0D:A5:00:00:00/24
   manufacturer: Fabric7 Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fabric7
 type: d3-device-type-assertion

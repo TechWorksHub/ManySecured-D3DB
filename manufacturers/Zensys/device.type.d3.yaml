@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6170619-b226-467d-a8f2-2280fed814d9
-  mac-addresses:
+  id: c3cd5825-099c-4dfa-9edc-84915ed2a66c
+  macAddresses:
   - 00:1E:32:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zensys
 type: d3-device-type-assertion

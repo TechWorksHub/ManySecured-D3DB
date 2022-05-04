@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfbe0a21-c8d1-4ec2-a241-be025e4104f2
-  mac-addresses:
+  id: 01cb5b9d-181c-47b8-b5d7-d77aa8587478
+  macAddresses:
   - 00:19:44:00:00:00/24
   manufacturer: Fossil Partners, L.P.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FossilPa
 type: d3-device-type-assertion

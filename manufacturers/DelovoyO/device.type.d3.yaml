@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84a1c76b-bddc-4a56-8acb-a7afdecec3d0
-  mac-addresses:
+  id: d5f3de9a-8d2e-4679-adbf-5dd7b551f0db
+  macAddresses:
   - C0:9B:F4:60:00:00/28
   manufacturer: LTD Delovoy Office
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DelovoyO
 type: d3-device-type-assertion

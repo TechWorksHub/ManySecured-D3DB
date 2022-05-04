@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 059e2a20-f732-425e-ac89-232e0c7e3aa8
-  mac-addresses:
+  id: 37e6112a-8a30-4bf6-8e89-0d5af7bc8370
+  macAddresses:
   - 8C:B0:94:00:00:00/24
   manufacturer: Airtech I&C Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirtechI
 type: d3-device-type-assertion

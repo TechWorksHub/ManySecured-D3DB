@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09c5fbd6-9d43-4020-88cb-c10a09c5c324
-  mac-addresses:
+  id: 54089cb7-f948-4f63-9e33-adb473fff2f9
+  macAddresses:
   - 00:15:8D:00:00:00/24
   manufacturer: Jennic Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jennic
 type: d3-device-type-assertion

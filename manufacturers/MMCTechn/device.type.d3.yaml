@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5cdfedd-0f00-497c-ad94-705142849ccc
-  mac-addresses:
+  id: 5da606c7-7cc6-4a75-aab4-d8a627bc355c
+  macAddresses:
   - 00:30:0D:00:00:00/24
   manufacturer: MMC Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MMCTechn
 type: d3-device-type-assertion

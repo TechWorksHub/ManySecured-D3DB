@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7790fe5e-1110-49fb-9c91-bdbd12742c48
-  mac-addresses:
+  id: d8ca54a0-2874-4122-800b-ba102bb27e5d
+  macAddresses:
   - 00:50:C2:3B:40:00/36
   manufacturer: "Contr\xF4le Analytique inc."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Contr\xF4le"
 type: d3-device-type-assertion

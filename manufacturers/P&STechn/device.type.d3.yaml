@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9fabd391-ce8e-4777-a723-4620a90d8940
-  mac-addresses:
+  id: 920943f5-a33c-4e77-a852-818f885738a4
+  macAddresses:
   - 68:53:88:00:00:00/24
   manufacturer: P&S Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: P&STechn
 type: d3-device-type-assertion

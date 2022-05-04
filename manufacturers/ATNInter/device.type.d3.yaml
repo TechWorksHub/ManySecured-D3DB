@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6187a1f2-3c48-4cfb-b11a-5b306ff93a37
-  mac-addresses:
+  id: 753d0590-3139-471b-9ede-3db07931137f
+  macAddresses:
   - 34:28:F0:00:00:00/24
   manufacturer: ATN International Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATNInter
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 871f5dda-5a5c-47c1-8cab-288501c85963
-  mac-addresses:
+  id: 3f15405c-0987-4fc8-87bc-fa35dcadcaf2
+  macAddresses:
   - 00:06:FC:00:00:00/24
   manufacturer: Fnet Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fnet
 type: d3-device-type-assertion

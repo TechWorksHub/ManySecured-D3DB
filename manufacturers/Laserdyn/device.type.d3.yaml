@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 953cf29f-6d4b-4a4d-ad49-3e8e28cb57d1
-  mac-addresses:
+  id: db627daf-0bfa-4b2d-9532-34bf110ec9ac
+  macAddresses:
   - 00:50:C2:77:50:00/36
   manufacturer: Laserdyne Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Laserdyn
 type: d3-device-type-assertion

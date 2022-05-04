@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ffa6711-9b39-47bf-b054-3f47d5dc11ee
-  mac-addresses:
+  id: 8248e0c5-3a30-4e8a-babb-3ae9f10a7fd5
+  macAddresses:
   - 08:25:22:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Advansee
 type: d3-device-type-assertion

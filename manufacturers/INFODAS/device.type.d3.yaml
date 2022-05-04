@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27f18852-bb5d-4c92-9a7f-6982524b449f
-  mac-addresses:
+  id: c1ddae18-8b01-4028-b212-28fa543beea2
+  macAddresses:
   - 98:27:82:10:00:00/28
   manufacturer: INFODAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INFODAS
 type: d3-device-type-assertion

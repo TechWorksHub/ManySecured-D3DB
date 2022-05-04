@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9667345-6580-4bcb-be11-59193dc85206
-  mac-addresses:
+  id: 8a6681a6-696d-43e1-aa5d-0460442c2853
+  macAddresses:
   - 74:E1:4A:B0:00:00/28
   manufacturer: Loctek Visual Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LoctekVi
 type: d3-device-type-assertion

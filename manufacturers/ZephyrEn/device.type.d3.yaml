@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1875c5dd-8983-4d42-a193-9b165763e1c2
-  mac-addresses:
+  id: f3f44eb4-8d57-4949-9873-95c27cf39059
+  macAddresses:
   - 84:89:EC:50:00:00/28
   manufacturer: Zephyr Engineering, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZephyrEn
 type: d3-device-type-assertion

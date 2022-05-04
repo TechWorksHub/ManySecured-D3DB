@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 371b94c2-ff26-4c99-aeeb-d647beed839c
-  mac-addresses:
+  id: b76557e1-cfd6-4cd9-af58-902591a72ef1
+  macAddresses:
   - BC:6E:76:00:00:00/24
   manufacturer: Green Energy Options Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenEne
 type: d3-device-type-assertion

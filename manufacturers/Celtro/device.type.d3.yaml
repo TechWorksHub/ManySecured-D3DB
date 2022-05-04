@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8aabd307-a868-49ad-9838-d4595ad0dbe5
-  mac-addresses:
+  id: ee797e7f-a4bd-447d-8373-15e00e08de04
+  macAddresses:
   - 00:1B:16:00:00:00/24
   manufacturer: Celtro Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Celtro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 407cdff9-6dfc-4994-8efc-bba7f554908b
-  mac-addresses:
+  id: 56563ae7-29f8-40b1-a7fa-a5425b8fc4e6
+  macAddresses:
   - 30:E3:D6:00:00:00/24
   manufacturer: Spotify USA Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpotifyU
 type: d3-device-type-assertion

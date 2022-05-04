@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 174d61d2-c79d-491d-8a53-9410baa7df8c
-  mac-addresses:
+  id: 79ad05e7-a544-47d3-a226-1abba30419d0
+  macAddresses:
   - 70:B3:D5:3C:90:00/36
   manufacturer: Duerkopp-Adler
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duerkopp
 type: d3-device-type-assertion

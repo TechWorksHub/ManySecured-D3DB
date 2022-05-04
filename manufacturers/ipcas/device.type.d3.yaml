@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6383ccfb-ff2c-491a-b3aa-cf32096eda77
-  mac-addresses:
+  id: cd76325f-f38b-40ed-af99-7f788a39b240
+  macAddresses:
   - 00:09:8E:00:00:00/24
   manufacturer: ipcas GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ipcas
 type: d3-device-type-assertion

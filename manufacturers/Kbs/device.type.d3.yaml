@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa1b7a80-5854-4dcb-9f0b-6a1a166d67da
-  mac-addresses:
+  id: e1621af6-e32f-4067-b11b-5ae55eb11c23
+  macAddresses:
   - 00:16:B1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kbs
 type: d3-device-type-assertion

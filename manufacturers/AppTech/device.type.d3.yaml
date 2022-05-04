@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ec56d46-8f91-4146-acc8-49022fa7ba5f
-  mac-addresses:
+  id: b84373a1-6f5b-49e4-bcf5-e513fe939fbb
+  macAddresses:
   - 00:21:89:00:00:00/24
   manufacturer: AppTech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppTech
 type: d3-device-type-assertion

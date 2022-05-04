@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2384ff92-db4d-4e23-9276-e2db39b801dc
-  mac-addresses:
+  id: 0acb8531-e42d-418d-bcd1-c585317a2488
+  macAddresses:
   - 00:80:8B:00:00:00/24
   manufacturer: Dacoll Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dacoll
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a09842e-e4e3-42d4-8900-edca9d486a72
-  mac-addresses:
+  id: 4104e1c8-bf8a-422a-8c87-257d9781d0f4
+  macAddresses:
   - 70:B3:D5:BA:40:00/36
   manufacturer: Eiwa Giken Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EiwaGike
 type: d3-device-type-assertion

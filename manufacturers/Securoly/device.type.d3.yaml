@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 162297bd-2299-45e3-a6e6-dbdbe6638b60
-  mac-addresses:
+  id: ed4dcea6-8d7f-4c3a-807f-e11ad1595304
+  macAddresses:
   - 70:B3:D5:12:50:00/36
   manufacturer: Securolytics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Securoly
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90403528-9653-488f-a3c4-ea44064b27f2
-  mac-addresses:
+  id: 728150fa-37c7-4d56-8cfb-f2b58e3e0657
+  macAddresses:
   - 00:0D:13:00:00:00/24
   manufacturer: Wilhelm Rutenbeck GmbH&Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WilhelmR
 type: d3-device-type-assertion

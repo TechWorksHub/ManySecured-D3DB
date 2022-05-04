@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96f65999-4306-44d5-833a-92a0c62961b0
-  mac-addresses:
+  id: b2698730-53e0-4280-b437-a25f9d3acb75
+  macAddresses:
   - 9C:D4:8B:00:00:00/24
   manufacturer: Innolux Technology Europe BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InnoluxT
 type: d3-device-type-assertion

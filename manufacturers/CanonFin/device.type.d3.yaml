@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b2a5119-571d-42e1-8854-0980b1f4f065
-  mac-addresses:
+  id: 87605943-1c29-44cf-a3e3-a037ebe19ffa
+  macAddresses:
   - 00:02:20:00:00:00/24
   manufacturer: Canon Finetech Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanonFin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5db92609-2755-42fb-8a7a-73f2640f3b56
-  mac-addresses:
+  id: 801e0e6a-3b28-44c2-92cb-f8eab4bd52c5
+  macAddresses:
   - 30:09:F9:40:00:00/28
   manufacturer: Punkt Tronics AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PunktTro
 type: d3-device-type-assertion

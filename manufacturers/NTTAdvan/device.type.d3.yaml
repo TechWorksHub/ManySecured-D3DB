@@ -1,8 +1,8 @@
 credentialSubject:
-  id: baff3acd-88e9-4b28-b955-46ee1420c02b
-  mac-addresses:
+  id: acec52c7-e47d-4d3b-bf4a-d98639fffac7
+  macAddresses:
   - 00:15:8F:00:00:00/24
   manufacturer: NTT Advanced Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NTTAdvan
 type: d3-device-type-assertion

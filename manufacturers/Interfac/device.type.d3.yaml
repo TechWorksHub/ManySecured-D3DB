@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 254585f6-485b-43e1-a401-6b8d6947fddb
-  mac-addresses:
+  id: 98629fd4-0eb2-49e9-849b-57be1e97a9c5
+  macAddresses:
   - 00:09:A2:00:00:00/24
   - 00:0C:BD:00:00:00/24
   - 00:10:CD:00:00:00/24
   - 00:80:62:00:00:00/24
   - 00:E0:BD:00:00:00/24
   manufacturer: Interface Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Interfac
 type: d3-device-type-assertion

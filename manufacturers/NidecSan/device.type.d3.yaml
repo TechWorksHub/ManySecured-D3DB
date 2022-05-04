@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfc1f1d7-db0e-49e6-8888-e62331d35699
-  mac-addresses:
+  id: d729ca66-fb58-4705-b839-709eb82e06bd
+  macAddresses:
   - 00:18:AD:00:00:00/24
   manufacturer: Nidec Sankyo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NidecSan
 type: d3-device-type-assertion

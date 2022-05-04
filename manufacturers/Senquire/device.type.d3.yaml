@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fe658bf-7bea-4b13-a577-4b33382d86ce
-  mac-addresses:
+  id: e4f2ff98-d4f9-41d0-b21b-afabbd80469a
+  macAddresses:
   - 70:B3:D5:96:20:00/36
   manufacturer: Senquire Pte. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senquire
 type: d3-device-type-assertion

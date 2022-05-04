@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 183e4f25-8958-4362-89e1-3b7f993b586e
-  mac-addresses:
+  id: e2aa24b3-65e4-41ca-aab0-5275b03e175f
+  macAddresses:
   - 00:01:02:00:00:00/24
   - 00:01:03:00:00:00/24
   - 00:02:9C:00:00:00/24
@@ -28,6 +28,6 @@ credentialSubject:
   - 02:C0:8C:00:00:00/24
   - 3C:00:00:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3Com
 type: d3-device-type-assertion

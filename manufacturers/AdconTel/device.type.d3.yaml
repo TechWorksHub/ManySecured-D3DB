@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cf5e533-7481-44f8-81be-5cf37f23f8e7
-  mac-addresses:
+  id: da100bf9-d9c0-441d-862d-b9812a4e6ecf
+  macAddresses:
   - 00:04:D2:00:00:00/24
   manufacturer: Adcon Telemetry GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdconTel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef16e32b-4f54-428d-954b-aa1c3091903c
-  mac-addresses:
+  id: ecd6338d-292d-4616-8e6f-1c9ddde52894
+  macAddresses:
   - 00:E0:97:00:00:00/24
   manufacturer: Carrier Access Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CarrierA
 type: d3-device-type-assertion

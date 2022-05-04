@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8da5f82-c505-43ec-a111-8d2a8bbddc17
-  mac-addresses:
+  id: e33ba993-00e5-4cc4-b59d-82861237d85e
+  macAddresses:
   - 64:F9:70:00:00:00/24
   manufacturer: Kenade Electronics Technology Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KenadeEl
 type: d3-device-type-assertion

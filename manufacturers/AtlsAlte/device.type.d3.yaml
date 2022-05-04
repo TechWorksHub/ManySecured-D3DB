@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e644ef4-fdf2-4c6d-80dd-5428a31cb9f6
-  mac-addresses:
+  id: f2b6fcf3-20cc-4b6f-aa07-d9828e166db6
+  macAddresses:
   - 0C:E9:9A:00:00:00/24
   manufacturer: Atls Altec
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtlsAlte
 type: d3-device-type-assertion

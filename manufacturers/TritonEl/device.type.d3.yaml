@@ -1,10 +1,10 @@
 credentialSubject:
-  id: a30016d4-e2ce-48a2-a01c-98b39d0aa47b
-  mac-addresses:
+  id: 7120792d-7ee6-44bf-b278-036f5c28bc2f
+  macAddresses:
   - 40:D8:55:0E:50:00/36
   - 70:B3:D5:7A:50:00/36
   - A0:C3:DE:00:00:00/24
   manufacturer: Triton Electronics LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TritonEl
 type: d3-device-type-assertion

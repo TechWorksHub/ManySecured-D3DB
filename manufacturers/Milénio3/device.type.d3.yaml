@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c41aa89-bef0-4e34-bde7-97c7ce60a883
-  mac-addresses:
+  id: 2e9fae25-94ce-4023-b1c4-ab2dea98f4a4
+  macAddresses:
   - 00:0E:93:00:00:00/24
   manufacturer: "Mil\xE9nio 3 Sistemas Electr\xF3nicos, Lda."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Mil\xE9nio3"
 type: d3-device-type-assertion

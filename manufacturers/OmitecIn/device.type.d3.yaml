@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6a95b1d-f3a5-4461-8e53-55114c6d56d7
-  mac-addresses:
+  id: d1a74051-76bc-4a3d-b74a-44d0fb3cdec4
+  macAddresses:
   - 00:04:D7:00:00:00/24
   manufacturer: Omitec Instrumentation Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmitecIn
 type: d3-device-type-assertion

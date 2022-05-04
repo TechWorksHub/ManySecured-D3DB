@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7523173f-344b-451c-97d4-811c2de481e9
-  mac-addresses:
+  id: 79cfdfe4-049d-4e17-ae88-dc609ba39cd8
+  macAddresses:
   - 00:1D:FB:00:00:00/24
   manufacturer: NETCLEUS Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NETCLEUS
 type: d3-device-type-assertion

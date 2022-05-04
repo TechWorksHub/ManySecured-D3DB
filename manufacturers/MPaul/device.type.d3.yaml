@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f7d9467-500c-45ea-9aa6-a9850cd2b894
-  mac-addresses:
+  id: ecf487d7-c497-48d6-a6dc-05baee3a207c
+  macAddresses:
   - 00:50:C2:DA:A0:00/36
   manufacturer: M & Paul, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MPaul
 type: d3-device-type-assertion

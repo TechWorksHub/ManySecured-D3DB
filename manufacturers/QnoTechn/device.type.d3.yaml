@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7af5e6a4-f878-4e92-9d53-8eef62bd770f
-  mac-addresses:
+  id: dcbb802f-5504-46c4-86f4-9bd1eebdbed2
+  macAddresses:
   - 00:17:16:00:00:00/24
   manufacturer: Qno Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QnoTechn
 type: d3-device-type-assertion

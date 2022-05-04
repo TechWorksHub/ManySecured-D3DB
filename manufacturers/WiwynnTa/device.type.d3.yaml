@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c72a67ee-d3ef-47de-8fbf-a777d81f093f
-  mac-addresses:
+  id: 48f350f6-524b-4f43-8db0-56dafeb27656
+  macAddresses:
   - 5C:FE:9E:00:00:00/24
   manufacturer: Wiwynn Corporation Tainan Branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiwynnTa
 type: d3-device-type-assertion

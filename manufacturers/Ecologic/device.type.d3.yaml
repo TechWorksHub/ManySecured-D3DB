@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56ea5314-5746-41ba-a271-8cf29ee71705
-  mac-addresses:
+  id: 01d68536-25fd-4493-98fe-8e3fe2191658
+  macAddresses:
   - 70:B3:D5:F9:60:00/36
   manufacturer: Ecologicsense
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ecologic
 type: d3-device-type-assertion

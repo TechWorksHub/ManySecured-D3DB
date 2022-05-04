@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0988f3ea-eea8-47a1-a9d7-9f7c1261f62e
-  mac-addresses:
+  id: 741f9816-ab5a-4709-9701-6c16864c8fe1
+  macAddresses:
   - 00:50:C2:9A:80:00/36
   - 00:50:C2:C8:40:00/36
   manufacturer: Domis Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Domis
 type: d3-device-type-assertion

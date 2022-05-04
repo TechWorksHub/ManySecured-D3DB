@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df09845d-f661-4167-8cf7-a1a8e01fa28f
-  mac-addresses:
+  id: 813e37d1-8b7e-4990-a777-76fb74e11c32
+  macAddresses:
   - 00:1B:C5:00:70:00/36
   manufacturer: Energy Aware Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnergyAw
 type: d3-device-type-assertion

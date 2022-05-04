@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 982d85be-f3bc-4ab7-8d46-7d17d16ef5f2
-  mac-addresses:
+  id: 5599e676-390a-405a-b0b0-b07cab07178f
+  macAddresses:
   - 34:38:AF:00:00:00/24
   manufacturer: Inlab Software GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InlabSof
 type: d3-device-type-assertion

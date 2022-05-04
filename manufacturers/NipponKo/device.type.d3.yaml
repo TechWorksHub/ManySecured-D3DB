@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 219d21f6-6899-4f3f-b6a2-c8efa4af03a4
-  mac-addresses:
+  id: 0a947f26-b6b2-493c-9a7d-0601276b48f5
+  macAddresses:
   - 00:08:CF:00:00:00/24
   manufacturer: Nippon Koei Power Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NipponKo
 type: d3-device-type-assertion

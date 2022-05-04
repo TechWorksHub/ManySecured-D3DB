@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03782167-7421-4ebc-a947-e9e794370ce6
-  mac-addresses:
+  id: 1a1e148a-d19e-4623-97f5-9dd027fc61df
+  macAddresses:
   - D0:D6:CC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wintop
 type: d3-device-type-assertion

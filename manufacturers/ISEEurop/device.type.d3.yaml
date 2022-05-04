@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a52f31f5-e356-4b1e-8890-123f6f599210
-  mac-addresses:
+  id: 1f99b999-77f8-462a-8a08-1eadb5af9662
+  macAddresses:
   - 40:F1:4C:00:00:00/24
   manufacturer: ISE Europe SPRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISEEurop
 type: d3-device-type-assertion

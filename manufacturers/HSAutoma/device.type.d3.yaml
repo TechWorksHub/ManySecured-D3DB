@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8648b7a6-4910-459e-a9d1-5bd77e4e0ca2
-  mac-addresses:
+  id: e3ed3dc0-f224-4d75-b11f-a225e9f54e9d
+  macAddresses:
   - 00:14:58:00:00:00/24
   manufacturer: HS Automatic ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HSAutoma
 type: d3-device-type-assertion

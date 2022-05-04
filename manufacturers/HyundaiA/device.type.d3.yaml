@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 919d45f1-ffcc-4947-911f-015361fb0f57
-  mac-addresses:
+  id: cbe43752-b684-4c05-80d7-c097953ce94b
+  macAddresses:
   - D0:D9:4F:60:00:00/28
   - EC:63:ED:00:00:00/24
   manufacturer: Hyundai Autohow
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HyundaiA
 type: d3-device-type-assertion

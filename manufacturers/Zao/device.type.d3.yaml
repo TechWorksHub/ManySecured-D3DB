@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2547c2b-a601-42b8-b70b-4863f8ec2862
-  mac-addresses:
+  id: b664982f-d8c5-4702-aeaf-f0d50b992ffc
+  macAddresses:
   - 00:50:C2:58:D0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zao
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d607b78-46b7-4f53-87e8-2ba6624db91b
-  mac-addresses:
+  id: 224fbfc0-a742-4d8e-bb65-3adfaf7a318f
+  macAddresses:
   - 00:12:14:00:00:00/24
   manufacturer: Koenig & Bauer AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoenigBa
 type: d3-device-type-assertion

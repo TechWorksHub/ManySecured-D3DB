@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02f4dc3f-4525-49da-a12a-588846580401
-  mac-addresses:
+  id: f744a27b-2f26-43ea-87ba-bc838d5bb47f
+  macAddresses:
   - 70:B3:D5:63:70:00/36
   manufacturer: Ineo-Sense
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ineo-Sen
 type: d3-device-type-assertion

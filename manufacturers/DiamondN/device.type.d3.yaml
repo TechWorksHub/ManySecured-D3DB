@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53682cac-6ecd-40d1-9ce7-398de83506ce
-  mac-addresses:
+  id: b558da22-f9dc-4beb-b601-4ddb3ec6cb9e
+  macAddresses:
   - 00:10:3A:00:00:00/24
   manufacturer: Diamond Network Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiamondN
 type: d3-device-type-assertion

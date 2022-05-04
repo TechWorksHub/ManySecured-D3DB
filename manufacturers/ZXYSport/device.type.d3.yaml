@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cac87840-ecc1-464b-9c9a-2240f1f7112a
-  mac-addresses:
+  id: 9a0ca999-5ce2-4d80-93f0-26a40edabca4
+  macAddresses:
   - B4:37:D1:D0:00:00/28
   manufacturer: ZXY Sport Tracking
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZXYSport
 type: d3-device-type-assertion

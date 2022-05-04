@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 613093cc-1e1a-4ccc-ba0a-bf4cb5f5f971
-  mac-addresses:
+  id: e734a42f-8c2d-4eb1-88b8-4ff95ac5d2f5
+  macAddresses:
   - 00:14:6D:00:00:00/24
   - D8:88:CE:00:00:00/24
   manufacturer: RF Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFTechno
 type: d3-device-type-assertion

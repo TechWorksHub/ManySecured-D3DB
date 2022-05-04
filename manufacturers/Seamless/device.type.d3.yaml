@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21ba9f5c-46d7-414d-b5b6-05b4a626232a
-  mac-addresses:
+  id: 06cc327b-7506-4a3d-9267-147e7dece99b
+  macAddresses:
   - 00:1D:A7:00:00:00/24
   manufacturer: Seamless Internet
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seamless
 type: d3-device-type-assertion

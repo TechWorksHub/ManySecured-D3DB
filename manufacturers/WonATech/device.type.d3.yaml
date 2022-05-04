@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80ae85d4-f2b9-4851-a444-a0bb876f98a4
-  mac-addresses:
+  id: 74c1f195-a9a2-47cf-9d73-9c9231e69a50
+  macAddresses:
   - 00:1B:C5:08:10:00/36
   manufacturer: WonATech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WonATech
 type: d3-device-type-assertion

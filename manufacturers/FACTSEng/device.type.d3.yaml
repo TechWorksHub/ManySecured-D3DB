@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7b40825d-b9a5-4810-84ea-e1e144b4342d
-  mac-addresses:
+  id: 9c2d102e-04a2-4e68-8855-82cdd656a167
+  macAddresses:
   - 00:50:C2:2C:B0:00/36
   - 60:52:D0:00:00:00/24
   manufacturer: FACTS Engineering LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FACTSEng
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 124a6cc4-115d-430a-865b-079e5cc4f019
-  mac-addresses:
+  id: da5017cc-9e88-4d25-a4c9-78cede0be30a
+  macAddresses:
   - 00:1A:08:00:00:00/24
   manufacturer: Simoco Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simoco
 type: d3-device-type-assertion

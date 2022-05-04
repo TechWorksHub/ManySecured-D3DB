@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d40a9f79-c2e4-4a10-9615-6cb45e27af6a
-  mac-addresses:
+  id: ac894259-027c-427b-af43-e3938bda8df3
+  macAddresses:
   - 00:0A:46:00:00:00/24
   manufacturer: Aro Welding Technologies Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AroWeldi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91aba441-1ed6-493c-a15d-93142042c915
-  mac-addresses:
+  id: 74c3e81e-675f-4ee4-ac67-103a14b1a528
+  macAddresses:
   - B4:4B:D6:90:00:00/28
   manufacturer: Qstar Technology Co,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QstarTec
 type: d3-device-type-assertion

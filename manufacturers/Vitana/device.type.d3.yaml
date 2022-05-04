@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 260c18c3-47f2-4a4a-89df-d30124e73f4c
-  mac-addresses:
+  id: 90e8b59b-c21c-4a00-b199-9d964b87a22f
+  macAddresses:
   - 00:01:68:00:00:00/24
   manufacturer: Vitana Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vitana
 type: d3-device-type-assertion

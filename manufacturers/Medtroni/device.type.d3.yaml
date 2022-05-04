@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5e092114-fa25-4add-a2f4-7d0173d028ea
-  mac-addresses:
+  id: bdb5d5fa-3980-432e-b030-9601bbeb3ad7
+  macAddresses:
   - 70:B3:D5:B3:40:00/36
   - DC:16:A2:00:00:00/24
   manufacturer: Medtronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Medtroni
 type: d3-device-type-assertion

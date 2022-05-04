@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ac41ef0-a3aa-4287-be4e-0c2da0d38750
-  mac-addresses:
+  id: 6ebf7bc7-cf60-4529-ab38-8796d198c1e8
+  macAddresses:
   - 08:AF:78:00:00:00/24
   manufacturer: Totus Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TotusSol
 type: d3-device-type-assertion

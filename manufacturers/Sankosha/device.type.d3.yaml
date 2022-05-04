@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 112eed0b-4170-48d1-897e-12e6eebc0b38
-  mac-addresses:
+  id: e09e6d7a-0619-40ad-a64a-ab26981b90b0
+  macAddresses:
   - 0C:9E:91:00:00:00/24
   manufacturer: Sankosha Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sankosha
 type: d3-device-type-assertion

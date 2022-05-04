@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f19f327d-ef2e-4808-9b07-ddebb82d49da
-  mac-addresses:
+  id: ff2da4f8-2abe-418d-b04c-0153dbfe82bd
+  macAddresses:
   - 60:9F:9D:00:00:00/24
   manufacturer: CloudSwitch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CloudSwi
 type: d3-device-type-assertion

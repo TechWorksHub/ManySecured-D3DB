@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae49a377-a435-4e1c-b7db-a5516d15ceb6
-  mac-addresses:
+  id: e1822cd7-6291-4d0e-a747-a697d8bd8411
+  macAddresses:
   - 00:50:C2:CD:20:00/36
   manufacturer: SIM2 Multimedia S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIM2Mult
 type: d3-device-type-assertion

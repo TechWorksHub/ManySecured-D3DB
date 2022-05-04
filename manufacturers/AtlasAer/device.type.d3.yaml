@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5857cc3-6ee5-4e57-aa73-6ea1a596f6d7
-  mac-addresses:
+  id: e602cfa3-1d16-4e35-82f4-f0b4c7e6173a
+  macAddresses:
   - 1C:A0:EF:90:00:00/28
   manufacturer: Atlas Aerospace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtlasAer
 type: d3-device-type-assertion

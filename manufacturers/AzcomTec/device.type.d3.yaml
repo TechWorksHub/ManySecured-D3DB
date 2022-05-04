@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51535df2-26b6-4cc7-9d01-6ffa62603c54
-  mac-addresses:
+  id: ff048016-8d1b-4cb2-8a6a-03c2298988e8
+  macAddresses:
   - 70:B3:D5:D5:10:00/36
   manufacturer: Azcom Technology S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AzcomTec
 type: d3-device-type-assertion

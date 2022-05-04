@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae069a69-bf1d-42c3-ab9e-f44660383491
-  mac-addresses:
+  id: 9bead87b-3c7d-459a-b355-3a396acc5d21
+  macAddresses:
   - 00:50:C2:55:80:00/36
   manufacturer: Bedo Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BedoElek
 type: d3-device-type-assertion

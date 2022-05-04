@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb7d8d9d-5c6f-473a-9bdf-bcde65c2caa3
-  mac-addresses:
+  id: 75ce45c9-b17d-44aa-a9c6-b4f3d29094e1
+  macAddresses:
   - 4C:9E:E4:00:00:00/24
   manufacturer: Hanyang Navicom Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanyangN
 type: d3-device-type-assertion

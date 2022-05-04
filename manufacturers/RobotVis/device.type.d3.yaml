@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea2bc2b5-1447-41c3-89e8-467b1ba78adf
-  mac-addresses:
+  id: 63f7e7ae-2adb-4eee-bd59-3b2084f36485
+  macAddresses:
   - 00:50:C2:82:30:00/36
   manufacturer: Robot Visual Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RobotVis
 type: d3-device-type-assertion

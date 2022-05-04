@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1788ffde-00e2-4940-a15a-3d00ec926353
-  mac-addresses:
+  id: bfd92d35-4731-4d86-9d92-52066824e80a
+  macAddresses:
   - 70:B3:D5:D5:30:00/36
   manufacturer: BeiLi eTek (Zhangjiagang) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeiLieTe
 type: d3-device-type-assertion

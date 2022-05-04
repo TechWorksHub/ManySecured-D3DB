@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ce16f6e-f013-43cf-a7ba-3f1e28a10aad
-  mac-addresses:
+  id: a01535f5-7d1f-418b-974d-a0058bd6c88f
+  macAddresses:
   - 00:60:DE:00:00:00/24
   manufacturer: Kayser-Threde GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kayser-T
 type: d3-device-type-assertion

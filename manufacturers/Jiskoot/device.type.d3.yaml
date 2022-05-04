@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10c5c694-e0c5-4b1f-8f7e-815ce66c79bc
-  mac-addresses:
+  id: 13ea785f-6c4c-447a-bac4-14b0f383d1d7
+  macAddresses:
   - 00:50:C2:BE:30:00/36
   manufacturer: Jiskoot Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jiskoot
 type: d3-device-type-assertion

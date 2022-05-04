@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9da0bbe-140b-4292-8cdf-53c7af60c5bb
-  mac-addresses:
+  id: 1aa571bd-57f8-4616-b03e-6de84ecabec0
+  macAddresses:
   - 00:1E:20:00:00:00/24
   manufacturer: Intertain Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intertai
 type: d3-device-type-assertion

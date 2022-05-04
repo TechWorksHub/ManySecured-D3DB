@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ac0b800-5485-400c-99c6-7472551c326a
-  mac-addresses:
+  id: ae689e7d-d22e-4cac-a257-31895593b91d
+  macAddresses:
   - 00:14:05:00:00:00/24
   manufacturer: OpenIB, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenIB
 type: d3-device-type-assertion

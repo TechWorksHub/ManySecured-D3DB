@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53da9891-0a29-4aaf-a9ce-629da621cee7
-  mac-addresses:
+  id: 1b337774-9f79-4d10-93c8-9d34a92674cd
+  macAddresses:
   - D4:C7:66:00:00:00/24
   manufacturer: Acentic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acentic
 type: d3-device-type-assertion

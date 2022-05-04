@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 55a769c5-17a0-4701-9513-b3a604e51846
-  mac-addresses:
+  id: 7e962afa-ca1c-4414-9674-cb6945c04238
+  macAddresses:
   - 00:50:C2:C1:C0:00/36
   - 70:B3:D5:36:A0:00/36
   - 70:B3:D5:6B:90:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - 8C:1F:64:77:50:00/36
   - 9C:C8:AE:00:00:00/24
   manufacturer: Becton Dickinson
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BectonDi
 type: d3-device-type-assertion

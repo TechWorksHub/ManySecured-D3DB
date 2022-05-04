@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffdbb698-6df0-46db-84d0-ea3afc54669e
-  mac-addresses:
+  id: ef93fce9-dc5d-485e-8b22-d3e75c6fcab2
+  macAddresses:
   - 00:13:FE:00:00:00/24
   manufacturer: Grandtec Electronic Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grandtec
 type: d3-device-type-assertion

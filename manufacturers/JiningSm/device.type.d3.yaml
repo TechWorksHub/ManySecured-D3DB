@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f7ffc00-c465-4700-ae6f-0f38b2d5d1d0
-  mac-addresses:
+  id: 3f190159-f50b-4d64-91c0-f466cd876eea
+  macAddresses:
   - A0:3E:6B:D0:00:00/28
   manufacturer: Jining SmartCity Infotech Co.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiningSm
 type: d3-device-type-assertion

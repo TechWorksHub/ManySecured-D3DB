@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c268064b-59e7-4258-90ee-e79938355669
-  mac-addresses:
+  id: 582fada9-390f-4921-8798-e8ad42e8bc4e
+  macAddresses:
   - 00:0D:94:00:00:00/24
   manufacturer: AFAR Communications,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AFARComm
 type: d3-device-type-assertion

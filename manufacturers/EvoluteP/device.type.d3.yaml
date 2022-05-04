@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 702d363c-0699-4bfe-a1ee-a88167f20d7e
-  mac-addresses:
+  id: ee2fc8d8-deea-4789-86d1-cc0bf07d90f1
+  macAddresses:
   - 04:D1:6E:E0:00:00/28
   - 70:B3:D5:D2:D0:00/36
   manufacturer: Evolute Systems Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EvoluteP
 type: d3-device-type-assertion

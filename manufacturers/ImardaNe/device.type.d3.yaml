@@ -1,10 +1,10 @@
 credentialSubject:
-  id: ac9383b3-1b94-4a09-b5c5-702d12d1a5ac
-  mac-addresses:
+  id: dc9ccb93-4ac2-4b75-90dd-b177c05f3456
+  macAddresses:
   - 00:12:F5:00:00:00/24
   - 00:50:C2:1D:C0:00/36
   - 00:50:C2:31:D0:00/36
   manufacturer: Imarda New Zealand Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImardaNe
 type: d3-device-type-assertion

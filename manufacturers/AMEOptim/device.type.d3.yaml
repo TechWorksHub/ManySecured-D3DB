@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e85e5b76-be67-4359-b952-faf1ec9062bc
-  mac-addresses:
+  id: d32856f3-5d8a-4b65-8662-2037049bdf5c
+  macAddresses:
   - 00:02:F0:00:00:00/24
   manufacturer: AME Optimedia Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMEOptim
 type: d3-device-type-assertion

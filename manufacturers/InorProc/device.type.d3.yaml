@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdf2cce5-c7e6-45f5-b1fe-09ad06667bfd
-  mac-addresses:
+  id: 832461d7-4482-4da2-9fe9-ba244e34e3eb
+  macAddresses:
   - 88:5F:E8:C0:00:00/28
   manufacturer: Inor Process AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InorProc
 type: d3-device-type-assertion

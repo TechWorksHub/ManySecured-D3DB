@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 089e8591-574b-46dc-a4b8-eebfc2ede971
-  mac-addresses:
+  id: 4949691c-e2c2-40b7-bf03-50c2e13f53af
+  macAddresses:
   - 00:0A:CA:00:00:00/24
   manufacturer: YOKOYAMA SHOKAI CO.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YOKOYAMA
 type: d3-device-type-assertion

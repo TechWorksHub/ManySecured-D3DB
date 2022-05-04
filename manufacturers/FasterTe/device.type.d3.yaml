@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d736d1c9-facf-4c08-a7f8-402cf5435cf4
-  mac-addresses:
+  id: dd54c829-4fed-4781-b199-5947653ae245
+  macAddresses:
   - 00:1A:3E:00:00:00/24
   manufacturer: Faster Technology LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FasterTe
 type: d3-device-type-assertion

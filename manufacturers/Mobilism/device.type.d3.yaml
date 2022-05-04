@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 163e34e1-6503-45c6-9902-d076465f4d16
-  mac-addresses:
+  id: c35b2a18-5432-40c7-92ef-a2c199acc71a
+  macAddresses:
   - 00:50:C2:76:D0:00/36
   manufacturer: Mobilisme
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobilism
 type: d3-device-type-assertion

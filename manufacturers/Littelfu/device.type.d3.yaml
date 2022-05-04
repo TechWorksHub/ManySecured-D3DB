@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 721bf798-9b99-4e4e-b39c-07a0eee8cdeb
-  mac-addresses:
+  id: 0a1e3893-2d45-4464-9169-c65c2c21152c
+  macAddresses:
   - 00:15:FC:00:00:00/24
   manufacturer: Littelfuse Startco
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Littelfu
 type: d3-device-type-assertion

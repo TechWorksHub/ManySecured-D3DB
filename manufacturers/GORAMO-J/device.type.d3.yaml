@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79701c62-8374-443e-b242-7f9defd0ba27
-  mac-addresses:
+  id: 9db28c6d-f227-49d0-a17a-177d0061570b
+  macAddresses:
   - 00:1B:C5:00:20:00/36
   manufacturer: GORAMO - Janusz Gorecki
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GORAMO-J
 type: d3-device-type-assertion

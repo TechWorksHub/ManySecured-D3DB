@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51a48778-15a8-4ac9-9fae-68709fd3b83d
-  mac-addresses:
+  id: a763ded8-4a27-42ba-9e15-46f1eb16b8ab
+  macAddresses:
   - 00:24:42:00:00:00/24
   manufacturer: Axona Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axona
 type: d3-device-type-assertion

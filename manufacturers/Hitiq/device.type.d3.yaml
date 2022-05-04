@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57faa4d6-4258-4eea-b9d7-a126943ce2f5
-  mac-addresses:
+  id: c955259c-45fc-416d-a350-b199601074eb
+  macAddresses:
   - 7C:BC:84:90:00:00/28
   manufacturer: Hitiq Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hitiq
 type: d3-device-type-assertion

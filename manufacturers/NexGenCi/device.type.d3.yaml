@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b52b263-8b45-41dd-8c7c-876c3a3f6a66
-  mac-addresses:
+  id: f0bae572-0558-4a1a-b7ee-e9de1b4ceaa1
+  macAddresses:
   - 00:0E:34:00:00:00/24
   manufacturer: NexGen City, LP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NexGenCi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfe419e2-020b-46c4-ae6d-94058a524305
-  mac-addresses:
+  id: b183782c-1584-4e40-a086-e45ca0a28693
+  macAddresses:
   - 00:19:6D:00:00:00/24
   manufacturer: Raybit Systems Korea, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaybitKo
 type: d3-device-type-assertion

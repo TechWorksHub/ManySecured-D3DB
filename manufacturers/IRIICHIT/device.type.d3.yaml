@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e66d236-7aa1-4b12-bca6-b8314e479cd9
-  mac-addresses:
+  id: cd3d791b-2355-4fe7-a5b0-8e6739ebfec5
+  macAddresses:
   - 00:10:F7:00:00:00/24
   manufacturer: IRIICHI TECHNOLOGIES Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IRIICHIT
 type: d3-device-type-assertion

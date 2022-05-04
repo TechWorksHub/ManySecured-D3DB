@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e98cc0cd-74e8-41e0-9f0c-3f73d37baf18
-  mac-addresses:
+  id: 2f91a009-cde7-42dc-9375-deab71392609
+  macAddresses:
   - 00:21:D5:00:00:00/24
   manufacturer: X2E GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: X2E
 type: d3-device-type-assertion

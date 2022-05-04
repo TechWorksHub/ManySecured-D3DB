@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 312418ae-bd72-408a-81a3-1ab205e96b09
-  mac-addresses:
+  id: bba92d21-a831-4638-8989-17a6b2409e93
+  macAddresses:
   - 38:FD:FE:C0:00:00/28
   manufacturer: New Garden Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewGarde
 type: d3-device-type-assertion

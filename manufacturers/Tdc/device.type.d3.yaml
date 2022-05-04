@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f36567da-3b0a-4c41-984d-2f3a03cf306b
-  mac-addresses:
+  id: b9ae4d39-23cd-4c73-b626-1c9faa50e4a5
+  macAddresses:
   - 1C:B2:43:00:00:00/24
   manufacturer: Tdc A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tdc
 type: d3-device-type-assertion

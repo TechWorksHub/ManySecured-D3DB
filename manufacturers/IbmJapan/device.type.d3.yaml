@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 71339ec8-1e59-4628-888c-6011cd3e7fa5
-  mac-addresses:
+  id: f6f6db79-95d8-45c0-877f-af1295b4ecfe
+  macAddresses:
   - 00:10:D9:00:00:00/24
   manufacturer: Ibm Japan, Fujisawa Mt+D
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IbmJapan
 type: d3-device-type-assertion

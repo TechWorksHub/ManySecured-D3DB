@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f3291fc-e9f4-4f43-9afe-6c063c82995f
-  mac-addresses:
+  id: 023e692c-2fcf-42a1-bc9a-922ad39b6097
+  macAddresses:
   - 00:A0:E7:00:00:00/24
   manufacturer: Central Data Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CentralD
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e87428f2-38ff-4335-8baa-b58b9199c047
-  mac-addresses:
+  id: 6b58b3b8-869b-4eec-a5b1-1d203ce9706d
+  macAddresses:
   - 0C:5C:B5:B0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adi
 type: d3-device-type-assertion

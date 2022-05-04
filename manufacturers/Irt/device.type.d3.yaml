@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f528c3da-ff24-4011-87b4-e8c92c2b4595
-  mac-addresses:
+  id: f5cda779-d0df-4dab-b3ac-49eccb1d8805
+  macAddresses:
   - EC:D9:50:00:00:00/24
   manufacturer: Irt Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Irt
 type: d3-device-type-assertion

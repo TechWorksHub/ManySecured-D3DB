@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dde5a389-1922-4831-ab5e-1664122ddb14
-  mac-addresses:
+  id: aeb42ee9-3232-4841-9e21-fbbdafd96802
+  macAddresses:
   - 98:F9:C7:80:00:00/28
   manufacturer: Renalsense
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Renalsen
 type: d3-device-type-assertion

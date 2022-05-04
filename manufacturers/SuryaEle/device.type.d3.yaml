@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94f3e4da-0256-48b4-b99f-f53e79fe59d9
-  mac-addresses:
+  id: 9a73a365-2a60-4d59-a749-d9372ee39778
+  macAddresses:
   - 8C:1F:64:53:40:00/36
   manufacturer: Surya Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuryaEle
 type: d3-device-type-assertion

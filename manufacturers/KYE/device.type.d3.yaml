@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7465073-2ef3-43c1-928f-51de97efb749
-  mac-addresses:
+  id: 2a0ca304-e420-4839-bbd6-023cdb1c44d2
+  macAddresses:
   - 00:C0:DF:00:00:00/24
   manufacturer: KYE Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KYE
 type: d3-device-type-assertion

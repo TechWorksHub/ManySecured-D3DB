@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef6625b4-c36c-481a-be7d-e04e4afb16d8
-  mac-addresses:
+  id: e05bee00-fbc6-4b80-9d34-5324b8dd4442
+  macAddresses:
   - 4C:96:2D:00:00:00/24
   manufacturer: Fresh AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fresh
 type: d3-device-type-assertion

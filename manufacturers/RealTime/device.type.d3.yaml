@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e3e0f05a-b398-4206-bc1a-c69a6f534f16
-  mac-addresses:
+  id: 9bc6a244-2169-44cd-9a67-527cdacf073a
+  macAddresses:
   - 00:05:F8:00:00:00/24
   - 00:18:C7:00:00:00/24
   - 00:50:C2:28:A0:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 00:50:C2:D3:20:00/36
   - 7C:38:6C:00:00:00/24
   manufacturer: Real Time Access, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealTime
 type: d3-device-type-assertion

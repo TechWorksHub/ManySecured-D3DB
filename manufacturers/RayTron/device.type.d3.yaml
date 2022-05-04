@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf270c83-b814-4aa5-89c4-bc59d76ae541
-  mac-addresses:
+  id: a4d6948f-35c4-45d7-8064-fbbc065d9ccb
+  macAddresses:
   - 98:27:82:B0:00:00/28
   manufacturer: RayTron, INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RayTron
 type: d3-device-type-assertion

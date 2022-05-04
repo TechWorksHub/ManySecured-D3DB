@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c210260-baca-44e7-8221-a490b837cece
-  mac-addresses:
+  id: 40e6de46-ca6f-4597-a436-e5d1366654e5
+  macAddresses:
   - 00:1D:A0:00:00:00/24
   manufacturer: Heng Yu Electronic Manufacturing Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HengYuEl
 type: d3-device-type-assertion

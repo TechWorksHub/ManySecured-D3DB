@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0845c026-08b6-4c18-9b47-a9a37a48081a
-  mac-addresses:
+  id: a6bb875d-eef2-4697-9f11-ebbb61e1d3bb
+  macAddresses:
   - 00:12:F6:00:00:00/24
   manufacturer: Mdk Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mdk
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcd6e65e-2ccd-4a24-81b7-7b8512c35cb1
-  mac-addresses:
+  id: 50dc8bae-1104-4e0e-b4ab-07ad48e3777a
+  macAddresses:
   - 70:B3:D5:37:90:00/36
   manufacturer: Vensi, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vensi
 type: d3-device-type-assertion

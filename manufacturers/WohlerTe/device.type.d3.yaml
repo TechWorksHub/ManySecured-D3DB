@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7733b5cd-ea61-42b4-ab3d-e7314e2ff387
-  mac-addresses:
+  id: e3d9bda1-0129-4d4a-8c03-f9fe6e49e669
+  macAddresses:
   - B4:ED:54:00:00:00/24
   manufacturer: Wohler Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WohlerTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e54e60d8-fd3d-4872-9706-befd53d5bc09
-  mac-addresses:
+  id: 0178b86c-78c1-4808-b008-c922d38633d4
+  macAddresses:
   - 1C:7C:45:00:00:00/24
   manufacturer: Vitek Industrial Video Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VitekInd
 type: d3-device-type-assertion

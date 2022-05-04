@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13d04dab-3da7-479b-92ef-ac723f2a9d1b
-  mac-addresses:
+  id: 7a145455-96b1-4b43-8a35-3458b06f7d91
+  macAddresses:
   - C0:49:3D:00:00:00/24
   manufacturer: Maitrise Technologique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maitrise
 type: d3-device-type-assertion

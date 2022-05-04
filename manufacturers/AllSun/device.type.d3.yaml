@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e02ad87-83e0-4e35-98ef-fa4a0af7d131
-  mac-addresses:
+  id: e89e710a-3cbb-4159-8fd5-a060ffc1e02e
+  macAddresses:
   - 00:50:C2:58:20:00/36
   manufacturer: AllSun A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AllSun
 type: d3-device-type-assertion

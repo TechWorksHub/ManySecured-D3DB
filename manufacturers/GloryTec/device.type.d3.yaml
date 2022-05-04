@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e28a5f3-b9e8-4c9e-9668-110fae205564
-  mac-addresses:
+  id: 9f25ff4a-5fd2-4094-9dda-30fd37860dad
+  macAddresses:
   - 70:B3:D5:80:10:00/36
   manufacturer: Glory Technology Service Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GloryTec
 type: d3-device-type-assertion

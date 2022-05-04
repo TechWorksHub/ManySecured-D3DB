@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f7f0800-3f8a-4786-a707-6dfa05d5ffb0
-  mac-addresses:
+  id: 4fb074cf-3da2-4555-8acd-68a6536c2c97
+  macAddresses:
   - 1C:87:74:90:00:00/28
   manufacturer: Wide World Trade HK ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WideWorl
 type: d3-device-type-assertion

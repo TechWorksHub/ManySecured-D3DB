@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8314a285-4724-40d9-82e9-69532cd367a3
-  mac-addresses:
+  id: 78259c24-795b-415e-8699-94d84f7b1234
+  macAddresses:
   - 00:02:97:00:00:00/24
   manufacturer: C-COR.net
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C-CORnet
 type: d3-device-type-assertion

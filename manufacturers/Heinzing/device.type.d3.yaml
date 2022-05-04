@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 533efe87-a852-4504-894c-231349cfea62
-  mac-addresses:
+  id: 2d2d2418-b8ac-4157-a3e7-49cadf48ff69
+  macAddresses:
   - 00:50:C2:F4:E0:00/36
   - 00:B7:A8:00:00:00/24
   manufacturer: Heinzinger electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Heinzing
 type: d3-device-type-assertion

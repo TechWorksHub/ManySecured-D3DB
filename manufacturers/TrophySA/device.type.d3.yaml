@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c24fb04-5e3d-4204-9525-668918c5b6f0
-  mac-addresses:
+  id: 620ac983-2325-4cb4-99fc-c0232d0a786e
+  macAddresses:
   - 60:95:CE:80:00:00/28
   manufacturer: Trophy SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrophySA
 type: d3-device-type-assertion

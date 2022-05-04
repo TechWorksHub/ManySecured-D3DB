@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 328aeea0-662e-4a2d-b2c6-8d73b18162cd
-  mac-addresses:
+  id: 6b5575ef-a687-48cf-9351-2fdfbdb17850
+  macAddresses:
   - 00:1C:6E:00:00:00/24
   manufacturer: Newbury Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewburyN
 type: d3-device-type-assertion

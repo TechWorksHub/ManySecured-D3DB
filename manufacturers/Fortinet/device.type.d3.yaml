@@ -1,6 +1,6 @@
 credentialSubject:
-  id: dab22162-e62f-40b1-80c5-1d56b05aeb46
-  mac-addresses:
+  id: e12eca8e-f5b8-4a12-9a44-872ad0cb6e22
+  macAddresses:
   - 00:09:0F:00:00:00/24
   - 00:0C:E6:00:00:00/24
   - 04:D5:90:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - E8:1C:BA:00:00:00/24
   - E8:ED:D6:00:00:00/24
   manufacturer: Fortinet Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fortinet
 type: d3-device-type-assertion

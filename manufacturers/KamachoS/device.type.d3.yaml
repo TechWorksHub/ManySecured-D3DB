@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 23ede83c-7937-41a0-ac76-13cf851b7dd8
-  mac-addresses:
+  id: f143470d-bf1e-4329-a1b9-5db26caaf608
+  macAddresses:
   - 00:50:C2:EE:80:00/36
   - 70:B3:D5:38:50:00/36
   manufacturer: Kamacho Scale Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KamachoS
 type: d3-device-type-assertion

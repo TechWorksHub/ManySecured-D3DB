@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a02a3cd8-486b-475d-bd99-6d58e8799c79
-  mac-addresses:
+  id: d2407690-afa3-48b5-8394-6a85b27fce63
+  macAddresses:
   - 50:0B:91:B0:00:00/28
   manufacturer: thumbzup UK Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: thumbzup
 type: d3-device-type-assertion

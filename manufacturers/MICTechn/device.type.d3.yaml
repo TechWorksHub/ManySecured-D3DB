@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2ed8b1c-9f6f-4f57-9917-6cb516ebe53b
-  mac-addresses:
+  id: cf8e53bb-a165-4580-a6ae-2ddec80b8362
+  macAddresses:
   - 30:C7:50:00:00:00/24
   manufacturer: MIC Technology Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MICTechn
 type: d3-device-type-assertion

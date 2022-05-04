@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba2edea6-a171-4480-85ff-c15e6005caf4
-  mac-addresses:
+  id: 308344df-0118-4e6f-8a3a-c09586c44131
+  macAddresses:
   - 00:0D:BA:00:00:00/24
   manufacturer: "Oc\xE9 Document Technologies GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Oc\xE9Docum"
 type: d3-device-type-assertion

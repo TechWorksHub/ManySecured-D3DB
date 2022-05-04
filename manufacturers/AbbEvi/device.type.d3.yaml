@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3967a09c-47c1-45dd-9122-45252eb1a42a
-  mac-addresses:
+  id: b182471e-09f6-46ae-9c0f-8c95ac8be573
+  macAddresses:
   - D0:14:11:A0:00:00/28
   manufacturer: Abb Evi Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AbbEvi
 type: d3-device-type-assertion

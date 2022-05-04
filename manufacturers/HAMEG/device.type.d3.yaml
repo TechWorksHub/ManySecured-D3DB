@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 487845e0-b44d-4995-a317-bbb9c1cd253e
-  mac-addresses:
+  id: 0292353f-45e4-4da6-ad6e-4a57f562b0c9
+  macAddresses:
   - 00:50:C2:45:10:00/36
   - 40:D8:55:0E:90:00/36
   - 70:B3:D5:F5:A0:00/36
   manufacturer: HAMEG GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HAMEG
 type: d3-device-type-assertion

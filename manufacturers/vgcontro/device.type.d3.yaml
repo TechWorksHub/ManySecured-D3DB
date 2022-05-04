@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2878133e-35f9-47c5-99cf-d0f3729fea6c
-  mac-addresses:
+  id: a5a7edc9-6615-41ae-b852-d375994db522
+  macAddresses:
   - 00:50:C2:49:B0:00/36
   manufacturer: vg controls, inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: vgcontro
 type: d3-device-type-assertion

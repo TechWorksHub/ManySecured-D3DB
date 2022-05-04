@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 143b1d85-92fe-4209-a6f9-dfa8faa6ccf9
-  mac-addresses:
+  id: 0742451b-6b1e-422f-8454-12c7a52806c6
+  macAddresses:
   - 00:E0:FA:00:00:00/24
   manufacturer: Trl Technology, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrlTechn
 type: d3-device-type-assertion

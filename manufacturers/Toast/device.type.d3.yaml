@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef4944f2-df16-4a51-8bf8-766206d428e8
-  mac-addresses:
+  id: 57db06bb-4b16-47a1-9b70-a05c8c925d9a
+  macAddresses:
   - 0C:7F:ED:10:00:00/28
   manufacturer: Toast, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toast
 type: d3-device-type-assertion

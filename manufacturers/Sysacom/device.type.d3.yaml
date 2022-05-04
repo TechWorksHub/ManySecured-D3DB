@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b502e282-ba17-4d91-86a1-360585046122
-  mac-addresses:
+  id: 865e494a-dc3b-44e4-80b2-43dc2ab9ac62
+  macAddresses:
   - 00:50:C2:C3:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sysacom
 type: d3-device-type-assertion

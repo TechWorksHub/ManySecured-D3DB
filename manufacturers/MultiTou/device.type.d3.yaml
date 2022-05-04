@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f722f1bc-35aa-4fd0-a166-77040eeb4fa8
-  mac-addresses:
+  id: 9c4d5f92-2d49-49a0-b7df-ff98c4617751
+  macAddresses:
   - C0:A0:DE:00:00:00/24
   manufacturer: Multi Touch Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MultiTou
 type: d3-device-type-assertion

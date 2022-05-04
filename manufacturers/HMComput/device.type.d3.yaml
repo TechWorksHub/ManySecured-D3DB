@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed65db7e-f1fb-4afe-aea5-cc0cbebcade1
-  mac-addresses:
+  id: a793dfca-16ad-4494-bdfb-8d6a7f1cd60e
+  macAddresses:
   - 00:50:C2:18:40:00/36
   manufacturer: H M Computing Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HMComput
 type: d3-device-type-assertion

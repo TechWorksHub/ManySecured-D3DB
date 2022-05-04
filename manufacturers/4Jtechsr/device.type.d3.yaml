@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b794bd6b-02d5-4ff9-937d-c349c716533c
-  mac-addresses:
+  id: 8cd009d7-05b2-4f20-aa32-59bd4a732ddc
+  macAddresses:
   - 70:B3:D5:16:A0:00/36
   manufacturer: 4Jtech s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 4Jtechsr
 type: d3-device-type-assertion

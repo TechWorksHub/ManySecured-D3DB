@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38bdf336-2ffd-43bb-b062-bcda31a1f393
-  mac-addresses:
+  id: 7de7be08-51e0-4015-bc46-32fa166aa5aa
+  macAddresses:
   - 2C:BE:EB:00:00:00/24
   manufacturer: Nothing Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NothingT
 type: d3-device-type-assertion

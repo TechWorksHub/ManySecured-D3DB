@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aafe85d-aee4-486f-ae96-568baf15ca22
-  mac-addresses:
+  id: 17840eda-6e93-4156-b6f9-98a25ccbc26f
+  macAddresses:
   - 00:DB:45:00:00:00/24
   manufacturer: Thamway Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thamway
 type: d3-device-type-assertion

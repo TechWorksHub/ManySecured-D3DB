@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4ae2c9f-6200-440a-98d6-164dc6810656
-  mac-addresses:
+  id: 01273bca-84b1-480e-a00c-930fab1b0e5a
+  macAddresses:
   - 00:17:6C:00:00:00/24
   manufacturer: Pivot3, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pivot3
 type: d3-device-type-assertion

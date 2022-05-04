@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab4b8470-7cd3-4c1a-9eed-15278c22602d
-  mac-addresses:
+  id: 9afb634c-6768-4cbb-81c0-46fdec450e3b
+  macAddresses:
   - 00:06:47:00:00:00/24
   manufacturer: Etrali S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Etrali
 type: d3-device-type-assertion

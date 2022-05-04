@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6a2ac1a-a352-4c52-9591-98f1317cc833
-  mac-addresses:
+  id: 47923932-5240-4993-9cd0-50f7689b2934
+  macAddresses:
   - 00:50:C2:AA:50:00/36
   manufacturer: Tampere University of Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TampereU
 type: d3-device-type-assertion

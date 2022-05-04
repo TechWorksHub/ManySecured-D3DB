@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 230f013c-cf25-4646-9346-1c54ef993fa7
-  mac-addresses:
+  id: b27a88b4-b290-4461-8ed2-a8db0fed5fa3
+  macAddresses:
   - AC:01:42:00:00:00/24
   manufacturer: Uriel Technologies SIA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UrielTec
 type: d3-device-type-assertion

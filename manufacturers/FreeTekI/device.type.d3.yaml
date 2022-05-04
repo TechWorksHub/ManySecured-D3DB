@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95fb3b65-ef47-4f4d-b326-31b2a480a10d
-  mac-addresses:
+  id: 028527af-7ec4-43fd-b489-1dcfe12dcc99
+  macAddresses:
   - A8:75:D6:00:00:00/24
   manufacturer: FreeTek International Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FreeTekI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45f1d6c6-c089-40ef-89f4-c822902ad02b
-  mac-addresses:
+  id: 9bf14e51-40e8-4664-aa63-aebff199cef9
+  macAddresses:
   - 00:09:0C:00:00:00/24
   manufacturer: Mayekawa Mfg. Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mayekawa
 type: d3-device-type-assertion

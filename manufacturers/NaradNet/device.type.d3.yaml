@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2676803-9a21-4943-8355-a72b5da06405
-  mac-addresses:
+  id: c95c8d33-c111-4e03-a571-45f1837a0464
+  macAddresses:
   - 00:06:0F:00:00:00/24
   manufacturer: Narad Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaradNet
 type: d3-device-type-assertion

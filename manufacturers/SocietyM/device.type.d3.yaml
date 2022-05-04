@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f595d426-f526-4f99-ba65-fedb38b399dd
-  mac-addresses:
+  id: f82f8e30-5549-4a9d-96ec-ddccadd89fc7
+  macAddresses:
   - 68:97:E8:00:00:00/24
   manufacturer: Society of Motion Picture & Television Engineers
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SocietyM
 type: d3-device-type-assertion

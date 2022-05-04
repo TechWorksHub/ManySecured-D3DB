@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ef10941-4830-4b85-83f9-46d7c96a795d
-  mac-addresses:
+  id: f1cfea2b-9265-41d9-bca5-bbb22fc84493
+  macAddresses:
   - 00:07:09:00:00:00/24
   manufacturer: Westerstrand Urfabrik AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Westerst
 type: d3-device-type-assertion

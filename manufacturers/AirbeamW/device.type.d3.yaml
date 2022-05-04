@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0aaeb1b-8eda-4bc7-b302-44668b46d9fb
-  mac-addresses:
+  id: 09afb7ea-31a4-4b8b-8ef4-d0559b8f00c8
+  macAddresses:
   - F4:90:CB:60:00:00/28
   manufacturer: Airbeam Wireless Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirbeamW
 type: d3-device-type-assertion

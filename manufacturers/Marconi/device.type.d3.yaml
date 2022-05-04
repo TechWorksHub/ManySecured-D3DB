@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 718f2e8c-509f-4f1d-9b55-ab7f855bf0ac
-  mac-addresses:
+  id: b3ce0322-3df9-4f03-b7fd-7400e9a2318c
+  macAddresses:
   - 00:00:32:00:00:00/24
   - 00:A0:AD:00:00:00/24
   - 02:20:48:00:00:00/24
   manufacturer: Marconi plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marconi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78636129-9e71-4ff2-817a-8987a577797d
-  mac-addresses:
+  id: 8c8d5e6e-1629-428c-930a-4113294e7251
+  macAddresses:
   - 48:65:EE:D0:00:00/28
   manufacturer: Winn Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinnTech
 type: d3-device-type-assertion

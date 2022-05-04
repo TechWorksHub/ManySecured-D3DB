@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e01ce8cc-54ec-499d-8018-5c007196f2c5
-  mac-addresses:
+  id: 210cd0c9-fe6d-46cc-bc34-6f0c7d0ec01a
+  macAddresses:
   - 00:40:E5:00:00:00/24
   manufacturer: Sybus Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sybus
 type: d3-device-type-assertion

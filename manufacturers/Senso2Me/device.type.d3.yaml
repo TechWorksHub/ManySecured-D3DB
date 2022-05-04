@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 5433bd01-2872-4f7d-b785-bd46a6815217
-  mac-addresses:
+  id: 30eea21c-9755-4a2b-952b-f5947a429d2f
+  macAddresses:
   - 70:B3:D5:63:10:00/36
   - 70:B3:D5:BC:00:00/36
   - 70:B3:D5:F7:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senso2Me
 type: d3-device-type-assertion

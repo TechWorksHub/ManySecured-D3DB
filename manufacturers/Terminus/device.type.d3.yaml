@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1d153ad-1c15-4abd-8786-50be1edc8708
-  mac-addresses:
+  id: 74cc300d-53f9-460f-8f59-ef4370763c91
+  macAddresses:
   - F4:69:D5:90:00:00/28
   manufacturer: Terminus (Shanghai) Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Terminus
 type: d3-device-type-assertion

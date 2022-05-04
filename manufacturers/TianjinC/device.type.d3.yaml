@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b16f4f4-bb2d-47fa-a19e-63ce9cadf506
-  mac-addresses:
+  id: 9b84ab7b-c48a-4c39-9a9a-d5127f41dd5f
+  macAddresses:
   - 00:1D:74:00:00:00/24
   manufacturer: Tianjin China-Silicon Microelectronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TianjinC
 type: d3-device-type-assertion

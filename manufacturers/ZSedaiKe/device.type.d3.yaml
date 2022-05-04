@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3d16f6e-0676-4d58-8f6b-177f8cad27b5
-  mac-addresses:
+  id: f33c090b-31fa-4e38-99d4-72e155aaab6c
+  macAddresses:
   - 7C:7B:E4:00:00:00/24
   manufacturer: Z'Sedai Kenkyusho Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZSedaiKe
 type: d3-device-type-assertion

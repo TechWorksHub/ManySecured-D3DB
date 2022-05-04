@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac6d7c9b-a016-4b34-83e9-24f822d3a813
-  mac-addresses:
+  id: 3b24b5d6-b70c-4cb7-a1ee-f7b20ddc9f98
+  macAddresses:
   - 00:50:C2:A1:70:00/36
   manufacturer: Winners Satellite Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinnersS
 type: d3-device-type-assertion

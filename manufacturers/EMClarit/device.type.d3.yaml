@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9b37f47c-5376-41d8-aa26-f751c131721a
-  mac-addresses:
+  id: d54ab4ab-0017-41a1-ad81-2746bb00ab22
+  macAddresses:
   - 70:B3:D5:C7:B0:00/36
   manufacturer: EM Clarity Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMClarit
 type: d3-device-type-assertion

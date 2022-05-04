@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7981916a-9313-498b-b39b-1a11893f6416
-  mac-addresses:
+  id: 4071a5e8-c3f3-44dc-ac37-eb811dd97f4d
+  macAddresses:
   - 00:40:6B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sysgen
 type: d3-device-type-assertion

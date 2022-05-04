@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 979dcfc1-414a-49e2-8cd3-60dbb298b924
-  mac-addresses:
+  id: 3b4e678e-4d7d-430b-b5e9-1ecd400b2a5e
+  macAddresses:
   - 38:F7:CD:A0:00:00/28
   manufacturer: Distech Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DistechC
 type: d3-device-type-assertion

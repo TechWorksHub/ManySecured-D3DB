@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2655a21f-8d6b-473e-973b-4476fad438ba
-  mac-addresses:
+  id: 783de6fa-d82f-4187-8122-feadea372efb
+  macAddresses:
   - 68:54:F5:00:00:00/24
   manufacturer: enLighted Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: enLighte
 type: d3-device-type-assertion

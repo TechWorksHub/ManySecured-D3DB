@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d0b6475-9687-4227-8d69-825ef5c8ef9e
-  mac-addresses:
+  id: ddae8505-4528-4c58-8c57-ae21fa29fcbc
+  macAddresses:
   - 00:50:C2:C5:20:00/36
   manufacturer: Smartfield, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartfie
 type: d3-device-type-assertion

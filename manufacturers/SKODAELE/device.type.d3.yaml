@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 97d34dac-ba97-4b9c-b157-67ff8b1645c1
-  mac-addresses:
+  id: 366f610d-6cd7-4ff4-ac0a-447b438d71b1
+  macAddresses:
   - 00:1B:C5:0B:20:00/36
   - 90:4E:91:D0:00:00/28
   manufacturer: SKODA ELECTRIC a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKODAELE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 968ebd39-2e4e-49f9-a91a-8b5152b62b75
-  mac-addresses:
+  id: 95f3d0eb-00a9-4908-98a8-5d8202b5ba62
+  macAddresses:
   - 70:B3:D5:16:70:00/36
   manufacturer: Eiden Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eiden
 type: d3-device-type-assertion

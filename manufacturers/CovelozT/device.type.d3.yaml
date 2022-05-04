@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 296155ed-9ab0-4fa5-b0d6-9273e5e5b280
-  mac-addresses:
+  id: 8ba7f105-7e84-4cab-b074-4c9614929e92
+  macAddresses:
   - 70:B3:D5:04:20:00/36
   manufacturer: Coveloz Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CovelozT
 type: d3-device-type-assertion

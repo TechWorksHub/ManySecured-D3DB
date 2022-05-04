@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9eead03b-3c61-4cc0-9513-33476c8a3816
-  mac-addresses:
+  id: 88bee7c2-9db3-460c-9233-cc02144a6e4f
+  macAddresses:
   - 00:50:C2:52:30:00/36
   manufacturer: AMRDEC Prototype Integration Facility
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMRDECPr
 type: d3-device-type-assertion

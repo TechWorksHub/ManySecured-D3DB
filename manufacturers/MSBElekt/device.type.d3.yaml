@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 86b4d09d-ded3-454f-a4c5-8d7cf9ef2975
-  mac-addresses:
+  id: 95f42b93-db9c-4bc7-834d-43dbfe704ffb
+  macAddresses:
   - 00:50:C2:C6:F0:00/36
   - 70:B3:D5:96:D0:00/36
   - 70:B3:D5:E9:E0:00/36
   - 98:F9:C7:A0:00:00/28
   manufacturer: MSB Elektronik und Geraetebau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MSBElekt
 type: d3-device-type-assertion

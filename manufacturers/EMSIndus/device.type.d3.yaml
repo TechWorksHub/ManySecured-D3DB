@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 373d57dd-a89d-4e3e-8873-0b3983f1f0a0
-  mac-addresses:
+  id: 1095bb3c-9edc-485e-aa1d-f8e5509a30e4
+  macAddresses:
   - 00:50:C2:A6:30:00/36
   manufacturer: EMS Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMSIndus
 type: d3-device-type-assertion

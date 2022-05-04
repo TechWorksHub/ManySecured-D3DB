@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01fcf035-3002-47ce-b503-472e5cf73d58
-  mac-addresses:
+  id: 74c4362f-885a-418c-a8e0-1d06d77e52aa
+  macAddresses:
   - 00:1F:71:00:00:00/24
   manufacturer: xG Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: xGTechno
 type: d3-device-type-assertion

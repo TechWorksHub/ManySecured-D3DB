@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4401188a-aba3-492a-8afe-4096f837ea82
-  mac-addresses:
+  id: 513bad06-2574-4723-ace6-70cc5340a8f0
+  macAddresses:
   - A4:ED:43:80:00:00/28
   manufacturer: Linseis Messgeraete GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinseisM
 type: d3-device-type-assertion

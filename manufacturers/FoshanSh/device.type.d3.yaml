@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdd21729-4108-47be-ae22-94f0ac95b5db
-  mac-addresses:
+  id: 6bc533f1-3a30-4532-9d3b-6fb2e6a89e6e
+  macAddresses:
   - 70:B3:D5:C5:D0:00/36
   manufacturer: Foshan Shilantian Network S.T. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FoshanSh
 type: d3-device-type-assertion

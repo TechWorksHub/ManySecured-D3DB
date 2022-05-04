@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7072c1a1-9158-4be9-b35d-7999fc25b645
-  mac-addresses:
+  id: 005d91ce-93ac-4b9e-8142-f3f60425df53
+  macAddresses:
   - 00:50:C2:7C:60:00/36
   manufacturer: Lyngdorf Audio Aps
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lyngdorf
 type: d3-device-type-assertion

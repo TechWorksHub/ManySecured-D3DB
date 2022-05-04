@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8643870d-eff5-4274-81ed-0d39fcc10f59
-  mac-addresses:
+  id: 4c7317bb-daea-4a97-9385-ab08e1b6f86a
+  macAddresses:
   - C4:29:1D:00:00:00/24
   manufacturer: Klemsan Elektrik Elektronik San.Ve Tic.As.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KlemsanE
 type: d3-device-type-assertion

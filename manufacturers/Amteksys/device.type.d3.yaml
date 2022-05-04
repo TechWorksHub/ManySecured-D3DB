@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ca18179-88a6-4eeb-8880-62f72cd04e34
-  mac-addresses:
+  id: 6f04d052-ae00-4e3b-97a4-fb59bc9e1993
+  macAddresses:
   - 00:0C:6F:00:00:00/24
   manufacturer: Amtek system co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amteksys
 type: d3-device-type-assertion

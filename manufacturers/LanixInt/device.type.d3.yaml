@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbe75ddf-464d-4004-a287-8d9da809008b
-  mac-addresses:
+  id: 8c931924-adbe-4e0a-ad64-8a8a443a179b
+  macAddresses:
   - 4C:91:0C:00:00:00/24
   manufacturer: Lanix Internacional, S.A. de C.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LanixInt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01cb4560-638d-4434-b628-c2c4d5449ebe
-  mac-addresses:
+  id: 27d2e05d-17fc-4d42-a8e7-935f7b70930d
+  macAddresses:
   - 10:C6:0C:00:00:00/24
   manufacturer: Domino UK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DominoUK
 type: d3-device-type-assertion

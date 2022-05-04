@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a44f2da6-a876-4b98-be68-7a17a6749cb3
-  mac-addresses:
+  id: 52167a8e-abba-41ba-bb56-d7a410ad8c8f
+  macAddresses:
   - 40:78:75:00:00:00/24
   manufacturer: IMBEL - Industria de Material Belico do Brasil
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMBEL-In
 type: d3-device-type-assertion

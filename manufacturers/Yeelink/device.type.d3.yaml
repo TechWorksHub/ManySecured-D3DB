@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e160d03-a70c-46c3-b1a7-dd2a7f2df6c2
-  mac-addresses:
+  id: 3f0163e4-42f1-4c13-b8c6-e7dee012442d
+  macAddresses:
   - F8:24:41:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yeelink
 type: d3-device-type-assertion

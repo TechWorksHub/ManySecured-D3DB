@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c3a47d0-7025-4bba-b8fb-0fae600cb735
-  mac-addresses:
+  id: 4df87d39-c646-4c31-b53a-f40ea7345d02
+  macAddresses:
   - 00:50:C2:0E:40:00/36
   manufacturer: Collabo Tec. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CollaboT
 type: d3-device-type-assertion

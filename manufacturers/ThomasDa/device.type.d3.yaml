@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccff2ca4-4ad8-4bb7-bad2-82380ec6a81b
-  mac-addresses:
+  id: f849551b-40bd-45a5-8438-762aa1c61cf0
+  macAddresses:
   - 88:A9:A7:40:00:00/28
   manufacturer: Thomas & Darden, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThomasDa
 type: d3-device-type-assertion

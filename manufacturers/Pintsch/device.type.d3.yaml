@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e67877b6-bed2-4ba1-900b-89b7480ddda3
-  mac-addresses:
+  id: 8d480e9d-0648-4d87-aa1d-b3305ef9d1ef
+  macAddresses:
   - 44:3C:9C:00:00:00/24
   manufacturer: Pintsch GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pintsch
 type: d3-device-type-assertion

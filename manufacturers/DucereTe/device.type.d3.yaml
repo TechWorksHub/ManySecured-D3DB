@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a19633f-cf32-4c1b-8909-9534079dd3e9
-  mac-addresses:
+  id: e31e1c45-a7d7-4c89-a0d1-b98094c83f22
+  macAddresses:
   - D0:93:80:00:00:00/24
   manufacturer: Ducere Technologies Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DucereTe
 type: d3-device-type-assertion

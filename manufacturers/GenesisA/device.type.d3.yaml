@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ce4e031-6eda-4ceb-b0c8-a7f984ef5e42
-  mac-addresses:
+  id: cda1106b-6337-407e-9d79-9d5997ee4f30
+  macAddresses:
   - 00:50:C2:7E:D0:00/36
   manufacturer: Genesis Automation Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GenesisA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 812c09b9-8b3b-4793-93ff-c7312d1dad8b
-  mac-addresses:
+  id: 363a5ecc-bf9b-4be1-bdbc-e9adf3178fdc
+  macAddresses:
   - 00:50:C2:34:10:00/36
   manufacturer: Novx Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novx
 type: d3-device-type-assertion

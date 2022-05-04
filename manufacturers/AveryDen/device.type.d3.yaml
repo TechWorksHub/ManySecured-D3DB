@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba435203-935f-452f-9f87-54669dda1491
-  mac-addresses:
+  id: 82aa9340-20b5-4aab-a20d-642d9f71b771
+  macAddresses:
   - 00:0A:44:00:00:00/24
   manufacturer: Avery Dennison Deutschland GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AveryDen
 type: d3-device-type-assertion

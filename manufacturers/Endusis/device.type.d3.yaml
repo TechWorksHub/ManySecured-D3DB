@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 628df0d4-2c9e-43d3-ba41-82d57b630051
-  mac-addresses:
+  id: 827f6551-8d1f-40d5-b567-cbe8ab999642
+  macAddresses:
   - 00:50:C2:11:10:00/36
   manufacturer: Endusis Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Endusis
 type: d3-device-type-assertion

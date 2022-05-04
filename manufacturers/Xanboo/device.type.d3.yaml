@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a9b269b-0e7c-4ac3-a31d-431914fa408e
-  mac-addresses:
+  id: d5d67bcf-1892-4ac6-a77f-81293409ea78
+  macAddresses:
   - 00:16:2C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xanboo
 type: d3-device-type-assertion

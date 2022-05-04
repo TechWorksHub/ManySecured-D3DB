@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67ec550d-d360-4b96-abef-b74bd0177977
-  mac-addresses:
+  id: 1227a181-6303-4dca-82eb-4e2d23fc0fd5
+  macAddresses:
   - 00:02:5D:00:00:00/24
   manufacturer: Calix Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CalixNet
 type: d3-device-type-assertion

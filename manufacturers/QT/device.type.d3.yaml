@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5d4993d9-c69e-40eb-b0f5-f1d2fd8ef056
-  mac-addresses:
+  id: ef72de84-797a-41e6-83ce-b448ab57a617
+  macAddresses:
   - 00:50:C2:41:70:00/36
   - 78:72:64:D0:00:00/28
   manufacturer: QT systems ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30540601-0eeb-4a50-9ffe-9c37e63507a6
-  mac-addresses:
+  id: 189fe2c7-5ae7-43c6-bff8-b8cab8cd4ad6
+  macAddresses:
   - 00:09:30:00:00:00/24
   manufacturer: AeroConcierge Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AeroConc
 type: d3-device-type-assertion

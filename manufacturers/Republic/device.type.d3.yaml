@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f02e3d1-1e62-4f86-b64d-3cc606b125f6
-  mac-addresses:
+  id: aaf5fc79-d44d-41c4-9e89-752950ea7676
+  macAddresses:
   - 00:80:A6:00:00:00/24
   manufacturer: Republic Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Republic
 type: d3-device-type-assertion

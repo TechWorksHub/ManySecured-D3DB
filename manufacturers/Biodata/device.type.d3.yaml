@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e89f7a90-7cde-4c1b-8d78-fa753bba6164
-  mac-addresses:
+  id: 341b37ec-fa07-4885-9cd9-2bd05c7f27b7
+  macAddresses:
   - 40:D4:0E:00:00:00/24
   manufacturer: Biodata Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Biodata
 type: d3-device-type-assertion

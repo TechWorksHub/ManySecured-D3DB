@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4df5a68c-71c6-46c8-af85-230f0447969d
-  mac-addresses:
+  id: 72b2508b-a9e3-4b9c-bfcf-e53ea68b7e3d
+  macAddresses:
   - 24:5D:FC:90:00:00/28
   - 70:B3:D5:7C:00:00/36
   manufacturer: Torgovyy Dom Tehnologiy Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Torgovyy
 type: d3-device-type-assertion

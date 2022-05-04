@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff16e57c-3490-4c81-acf7-0666b7f78150
-  mac-addresses:
+  id: eabef387-6e01-4179-b634-c68de4321157
+  macAddresses:
   - B4:CE:FE:00:00:00/24
   manufacturer: James Czekaj
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JamesCze
 type: d3-device-type-assertion

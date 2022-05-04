@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78e403f0-0b0c-4e5d-bda8-ecf761808992
-  mac-addresses:
+  id: 230e4cc0-e0cd-4d22-b7c8-6b0576445494
+  macAddresses:
   - 70:B3:D5:BF:30:00/36
   manufacturer: Cg-Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cg-Wirel
 type: d3-device-type-assertion

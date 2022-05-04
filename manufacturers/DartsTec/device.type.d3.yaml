@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15e48da2-ef7a-4ce4-a5d4-2f7881ed33db
-  mac-addresses:
+  id: de5f8a61-6e95-4793-b91f-50871a18056c
+  macAddresses:
   - 00:17:8A:00:00:00/24
   manufacturer: Darts Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DartsTec
 type: d3-device-type-assertion

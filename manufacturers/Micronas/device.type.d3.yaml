@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ebc9010-532b-4abe-bfc1-2667be569788
-  mac-addresses:
+  id: f08e1b52-acb6-4441-a68b-ef0e758645bf
+  macAddresses:
   - 00:11:3C:00:00:00/24
   manufacturer: Micronas GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micronas
 type: d3-device-type-assertion

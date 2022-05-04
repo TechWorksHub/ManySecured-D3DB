@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a974beb0-d990-49e3-8cc6-93ebf5746a39
-  mac-addresses:
+  id: c1800fce-052f-4c01-a333-7d83631d9cf3
+  macAddresses:
   - A8:05:77:00:00:00/24
   manufacturer: Netlist, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netlist
 type: d3-device-type-assertion

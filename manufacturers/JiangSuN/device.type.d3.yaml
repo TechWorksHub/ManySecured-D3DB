@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf41f47b-e247-4544-a153-6c2bf14b5e77
-  mac-addresses:
+  id: ba01686c-c234-4e85-9b48-f12056e8e9b0
+  macAddresses:
   - EC:22:57:00:00:00/24
   manufacturer: JiangSu NanJing University Electronic Information Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangSuN
 type: d3-device-type-assertion

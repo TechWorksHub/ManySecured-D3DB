@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85455197-03e8-4d3d-a873-a2fc31f83cb1
-  mac-addresses:
+  id: 698ea61a-c051-4245-9cf1-911a72fc362a
+  macAddresses:
   - 7A:15:EC:00:00:00/24
   manufacturer: Yatomi Techology(ZheJiang) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YatomiTe
 type: d3-device-type-assertion

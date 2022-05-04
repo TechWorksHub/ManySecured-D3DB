@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb1269d2-4bff-4f4f-9c33-dfeaf2998ae8
-  mac-addresses:
+  id: 767734fc-2856-47aa-86f5-2ff7668e881d
+  macAddresses:
   - 70:B3:D5:7C:F0:00/36
   manufacturer: ORCA Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ORCATech
 type: d3-device-type-assertion

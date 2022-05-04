@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e2429fd-0d44-4c04-b94d-7731e3423b94
-  mac-addresses:
+  id: 0e7ece5d-4b2a-49ec-975e-fc024fb77ba0
+  macAddresses:
   - 00:01:2E:00:00:00/24
   manufacturer: PC Partner Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCPartne
 type: d3-device-type-assertion

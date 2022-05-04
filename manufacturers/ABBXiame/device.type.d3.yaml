@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 85085351-1cae-412a-b8ed-61bca3a3a6b2
-  mac-addresses:
+  id: 7f3a1286-70e7-4e84-84a9-01c64039c05e
+  macAddresses:
   - 00:50:C2:34:30:00/36
   - 80:3B:2A:00:00:00/24
   manufacturer: ABB Xiamen Switchgear Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABBXiame
 type: d3-device-type-assertion

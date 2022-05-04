@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 954e5d9b-d101-4287-b735-9406ac4fb25a
-  mac-addresses:
+  id: 9401acba-26b7-4a92-95b8-22982ff81280
+  macAddresses:
   - 00:22:06:00:00:00/24
   manufacturer: Cyberdyne Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cyberdyn
 type: d3-device-type-assertion

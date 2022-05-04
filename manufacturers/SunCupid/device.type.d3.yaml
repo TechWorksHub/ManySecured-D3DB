@@ -1,10 +1,10 @@
 credentialSubject:
-  id: c9d00633-e312-4957-96f6-b44991e253eb
-  mac-addresses:
+  id: 82476410-582a-49f2-a612-6b0f8ae1c736
+  macAddresses:
   - 54:E7:D5:00:00:00/24
   - 68:A4:7D:00:00:00/24
   - A4:4B:15:00:00:00/24
   manufacturer: Sun Cupid Technology (HK) LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunCupid
 type: d3-device-type-assertion

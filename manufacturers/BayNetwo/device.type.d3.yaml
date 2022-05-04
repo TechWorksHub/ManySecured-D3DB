@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 0611cb56-089c-439b-bd25-cb7a009fab2d
-  mac-addresses:
+  id: a78615a7-676b-48fc-b759-6ae317bb67ce
+  macAddresses:
   - 00:00:81:00:00:00/24
   - 00:00:A2:00:00:00/24
   - 00:E0:7B:00:00:00/24
   - 04:88:45:00:00:00/24
   manufacturer: Bay Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BayNetwo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c556760-454f-4399-87c3-4a2777cf4a39
-  mac-addresses:
+  id: 93e7e6b1-9dbe-4846-8219-0ac5b1602d6d
+  macAddresses:
   - 24:86:F4:00:00:00/24
   manufacturer: Ctek, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ctek
 type: d3-device-type-assertion

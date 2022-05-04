@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 75633b7d-4fdc-4fff-b5f3-9b28ef4772db
-  mac-addresses:
+  id: 088c59c5-b682-4478-885b-830c693586be
+  macAddresses:
   - 00:00:17:00:00:00/24
   - 00:00:7D:00:00:00/24
   - 00:01:5D:00:00:00/24
@@ -19,6 +19,6 @@ credentialSubject:
   - 2C:C2:60:00:00:00/24
   - A8:69:8C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oracle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42ffaea6-9ad1-4f18-8c46-077a3a336a27
-  mac-addresses:
+  id: c8fdb2f7-43a7-4275-83ad-268db179156c
+  macAddresses:
   - 70:B3:D5:A1:60:00/36
   manufacturer: devAIs s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: devAIs
 type: d3-device-type-assertion

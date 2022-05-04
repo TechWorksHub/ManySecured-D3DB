@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bb7630c-be03-4e8b-bcd1-ab0304dced0f
-  mac-addresses:
+  id: 46a0b8a1-449c-4245-bc73-0c623d6c02bd
+  macAddresses:
   - 00:30:FE:00:00:00/24
   manufacturer: DSA GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSA
 type: d3-device-type-assertion

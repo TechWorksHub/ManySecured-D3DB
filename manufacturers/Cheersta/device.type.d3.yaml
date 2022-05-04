@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2407cb8f-f846-4ee3-ad68-a9926f30478b
-  mac-addresses:
+  id: 89fd8f7f-5c69-4f24-9d50-f93996aa65c6
+  macAddresses:
   - 5C:EB:68:00:00:00/24
   manufacturer: Cheerstar Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cheersta
 type: d3-device-type-assertion

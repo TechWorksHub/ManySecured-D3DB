@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e543491-5786-40c3-b09c-105db446924f
-  mac-addresses:
+  id: bfae7172-18b4-493c-a474-67cf97743a6c
+  macAddresses:
   - 08:BE:09:00:00:00/24
   manufacturer: Astrol Electronic AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AstrolEl
 type: d3-device-type-assertion

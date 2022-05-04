@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc4fa6f0-6b88-486b-9605-cf85aadf28e6
-  mac-addresses:
+  id: c0ee02ce-2798-4fd6-a5d1-55560722d36a
+  macAddresses:
   - 00:50:C2:3C:D0:00/36
   manufacturer: Micro-Measurements
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micro-Me
 type: d3-device-type-assertion

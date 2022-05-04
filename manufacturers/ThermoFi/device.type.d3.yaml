@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 17caaf5e-d522-44e7-955b-02d92a27c0fe
-  mac-addresses:
+  id: 195af9cd-b14b-47e1-bc33-eea976302530
+  macAddresses:
   - 00:1E:76:00:00:00/24
   - 00:50:C2:CA:70:00/36
   - 08:1D:C4:00:00:00/24
@@ -12,6 +12,6 @@ credentialSubject:
   - 70:B3:D5:F7:60:00/36
   - B0:5B:1F:00:00:00/24
   manufacturer: Thermo Fisher Scientific
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThermoFi
 type: d3-device-type-assertion

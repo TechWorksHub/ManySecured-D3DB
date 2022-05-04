@@ -1,8 +1,8 @@
 credentialSubject:
-  id: edf9c1a4-0d63-4b1e-857f-6a3b1da24deb
-  mac-addresses:
+  id: eb795106-8ced-4f24-9667-b5b8f720f430
+  macAddresses:
   - 00:50:C2:FE:E0:00/36
   manufacturer: Sparks Instruments SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SparksIn
 type: d3-device-type-assertion

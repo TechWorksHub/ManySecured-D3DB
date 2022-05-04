@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afc1589f-488c-456f-9482-6b08f039167e
-  mac-addresses:
+  id: 5b946a80-285b-44a9-bebc-98d1f9fe088d
+  macAddresses:
   - 0C:04:00:00:00:00/24
   manufacturer: Jantar d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jantardo
 type: d3-device-type-assertion

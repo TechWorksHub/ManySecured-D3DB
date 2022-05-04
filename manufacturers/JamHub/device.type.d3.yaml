@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3df54c3-047c-4388-8957-9e261961bef7
-  mac-addresses:
+  id: 62f94815-edb5-48f9-8e41-b301b7c4e7da
+  macAddresses:
   - 70:B3:D5:3A:80:00/36
   manufacturer: JamHub Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JamHub
 type: d3-device-type-assertion

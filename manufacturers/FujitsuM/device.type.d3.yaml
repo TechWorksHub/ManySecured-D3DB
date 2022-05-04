@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55b43a21-22b8-42ce-b38c-e75aa92f8848
-  mac-addresses:
+  id: 4e0e3c52-a7b3-46ba-98b7-989c0ada0340
+  macAddresses:
   - 00:10:55:00:00:00/24
   manufacturer: Fujitsu Microelectronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujitsuM
 type: d3-device-type-assertion

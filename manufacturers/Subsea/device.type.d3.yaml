@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ace81024-cb1b-41e4-9deb-4b2aab429d1b
-  mac-addresses:
+  id: 9c759f19-4b1e-458e-a8c6-8abb9cf38627
+  macAddresses:
   - 00:50:C2:EA:30:00/36
   manufacturer: Subsea Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Subsea
 type: d3-device-type-assertion

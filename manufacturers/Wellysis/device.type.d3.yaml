@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7e22d3c-c386-4eb9-92f9-1863066bbb36
-  mac-addresses:
+  id: 93297339-d356-4b5d-beb2-31a34503c2bb
+  macAddresses:
   - DC:F5:6E:00:00:00/24
   manufacturer: Wellysis Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wellysis
 type: d3-device-type-assertion

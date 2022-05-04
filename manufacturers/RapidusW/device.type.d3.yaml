@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bcc5e8d-8c91-43a7-bedb-10c6013ad304
-  mac-addresses:
+  id: 45ef1cc8-7761-4087-a770-4764eb9342c5
+  macAddresses:
   - 00:13:4F:00:00:00/24
   manufacturer: Rapidus Wireless Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RapidusW
 type: d3-device-type-assertion

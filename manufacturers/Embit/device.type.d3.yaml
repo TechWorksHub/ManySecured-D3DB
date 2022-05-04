@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25911495-9a5b-4fe1-a0f7-1c14ddd0e733
-  mac-addresses:
+  id: 26bec2cc-a8d2-4769-8f7a-675028fabcc3
+  macAddresses:
   - 00:1B:C5:06:70:00/36
   manufacturer: Embit srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embit
 type: d3-device-type-assertion

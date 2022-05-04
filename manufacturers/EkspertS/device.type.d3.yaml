@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 31829b85-abfe-40f9-b378-87401413cf48
-  mac-addresses:
+  id: de46e3af-ed70-4d77-894c-8b76b89db340
+  macAddresses:
   - 70:B3:D5:DE:90:00/36
   - 8C:1F:64:A5:70:00/36
   manufacturer: EkspertStroyProekt LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EkspertS
 type: d3-device-type-assertion

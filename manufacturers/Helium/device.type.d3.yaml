@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 310fd2fb-ff98-433e-a61e-c8b91fa84a49
-  mac-addresses:
+  id: 93aea498-8101-4b5e-9c10-62d31c2a746a
+  macAddresses:
   - 60:81:F9:00:00:00/24
   manufacturer: Helium Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Helium
 type: d3-device-type-assertion

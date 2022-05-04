@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 252cad7e-d679-4d17-a1ba-6998806e2100
-  mac-addresses:
+  id: 87ce9aec-8258-4956-a118-4b474c13a84d
+  macAddresses:
   - 98:8F:E0:90:00:00/28
   manufacturer: Nawon Machinery
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NawonMac
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea1b7cd0-016a-433c-8609-405090e4fee5
-  mac-addresses:
+  id: 98c0b0ec-9971-48e4-a729-1cb6805bf226
+  macAddresses:
   - 70:B3:D5:A7:F0:00/36
   manufacturer: Audio Visual Digital Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioVis
 type: d3-device-type-assertion

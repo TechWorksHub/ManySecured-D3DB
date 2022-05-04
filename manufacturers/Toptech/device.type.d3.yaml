@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 6b218622-8e5b-47dc-a113-527e1085ecd7
-  mac-addresses:
+  id: c5965f0a-92bf-47cf-aab8-a3de6e2e633d
+  macAddresses:
   - 00:50:C2:60:90:00/36
   - 00:50:C2:BB:90:00/36
   - 00:50:C2:FD:D0:00/36
   - 70:B3:D5:8B:90:00/36
   - 70:B3:D5:E9:70:00/36
   manufacturer: Toptech Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toptech
 type: d3-device-type-assertion

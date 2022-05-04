@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34c94c71-f4f2-4955-88f3-5b6b24b7ee4d
-  mac-addresses:
+  id: 972c9071-30ce-4744-9a81-bfff63bf40f0
+  macAddresses:
   - 00:50:C2:4D:50:00/36
   manufacturer: SEBA Design Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEBADesi
 type: d3-device-type-assertion

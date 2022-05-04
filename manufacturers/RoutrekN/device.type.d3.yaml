@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29ac34a4-d823-4124-b20c-1c72bca259b4
-  mac-addresses:
+  id: 209231ac-d889-4793-a36d-7985dd209f62
+  macAddresses:
   - 00:03:45:00:00:00/24
   manufacturer: Routrek Networks Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoutrekN
 type: d3-device-type-assertion

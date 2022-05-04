@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac6c4c5a-b67b-416b-a506-c3fe16b5b666
-  mac-addresses:
+  id: df0dcc12-2b29-48a6-87ed-ca966cadb6cd
+  macAddresses:
   - 64:33:B5:C0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Geksacon
 type: d3-device-type-assertion

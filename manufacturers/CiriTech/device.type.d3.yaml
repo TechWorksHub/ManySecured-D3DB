@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0d3d4a4-84fc-4e26-9bba-f83b3553610e
-  mac-addresses:
+  id: 8633c080-34d1-4ea1-b259-65978134ab87
+  macAddresses:
   - 00:1E:93:00:00:00/24
   manufacturer: CiriTech Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiriTech
 type: d3-device-type-assertion

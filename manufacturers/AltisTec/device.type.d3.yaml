@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 933ec243-f7f8-4909-916d-c29a99b5fb59
-  mac-addresses:
+  id: a928b62e-2730-499a-9e66-c89fdb559aad
+  macAddresses:
   - 68:91:D0:B0:00:00/28
   manufacturer: Altis Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltisTec
 type: d3-device-type-assertion

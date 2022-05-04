@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3834b3a-31ae-4886-8883-9b47fdf53ec5
-  mac-addresses:
+  id: 46b1a184-3f71-403c-8510-518d9014725e
+  macAddresses:
   - 00:14:06:00:00:00/24
   manufacturer: Go Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoNetwor
 type: d3-device-type-assertion

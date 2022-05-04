@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4605f99-d330-459d-b4c4-161b2cd04a4e
-  mac-addresses:
+  id: 60e856c5-93fe-4136-b0f5-d82d8e115d3c
+  macAddresses:
   - 00:50:C2:69:80:00/36
   manufacturer: Navtech Radar Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NavtechR
 type: d3-device-type-assertion

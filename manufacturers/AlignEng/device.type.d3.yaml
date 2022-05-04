@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4f2f968-1f77-45ad-b96a-debd26d8b615
-  mac-addresses:
+  id: 9aebc187-5265-48f7-b0dc-bacc54555976
+  macAddresses:
   - 00:0B:7F:00:00:00/24
   manufacturer: Align Engineering LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlignEng
 type: d3-device-type-assertion

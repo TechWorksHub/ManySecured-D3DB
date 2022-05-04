@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3946b2da-ae7e-47c6-a104-6c2ce9acc27c
-  mac-addresses:
+  id: e02211be-15f0-4f0c-8108-b5d0dfdd81b9
+  macAddresses:
   - 70:B3:D5:13:10:00/36
   manufacturer: Inova Design Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InovaDes
 type: d3-device-type-assertion

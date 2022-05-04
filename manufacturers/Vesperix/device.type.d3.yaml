@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e730f224-dd9f-421c-9a81-bdb916275ae7
-  mac-addresses:
+  id: c87fcbf0-0b90-4ce8-9e12-f144a265593e
+  macAddresses:
   - 8C:1F:64:8E:90:00/36
   manufacturer: Vesperix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vesperix
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 408d2100-99cb-470e-8978-f1435f674fba
-  mac-addresses:
+  id: a02f1142-712f-4055-9910-faac4e6a4b4f
+  macAddresses:
   - 00:11:F6:00:00:00/24
   - 00:1A:B1:00:00:00/24
   - 00:50:C2:66:20:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - C8:45:44:00:00:00/24
   - D4:13:6F:00:00:00/24
   manufacturer: Asia Pacific Microsystems , Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsiaPaci
 type: d3-device-type-assertion

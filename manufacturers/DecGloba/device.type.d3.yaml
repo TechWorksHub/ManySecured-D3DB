@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f99f51ca-f22f-458f-bfcd-1b7945938e7f
-  mac-addresses:
+  id: 53a1b8a7-7604-47d9-bdfd-d5e263185e6d
+  macAddresses:
   - AA:00:03:00:00:00/24
   manufacturer: DEC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DecGloba
 type: d3-device-type-assertion

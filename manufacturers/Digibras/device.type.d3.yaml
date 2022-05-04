@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff6f3bf2-5e73-4cbe-a963-c29e8f09c8c0
-  mac-addresses:
+  id: 43c5e605-bafc-4e14-84b6-d3f79755a2d3
+  macAddresses:
   - 64:1C:67:00:00:00/24
   manufacturer: Digibras Industria Do Brasils/A
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digibras
 type: d3-device-type-assertion

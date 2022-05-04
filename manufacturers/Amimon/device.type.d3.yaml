@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2083a64-6ef6-4aa1-9ce7-5882f015fec1
-  mac-addresses:
+  id: 2e37e331-bb36-431d-b7d8-93b10267891f
+  macAddresses:
   - 0C:D6:96:00:00:00/24
   manufacturer: Amimon Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amimon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de8693ea-fa25-4663-81f3-f4105da712c7
-  mac-addresses:
+  id: 8eb60824-5b87-49c2-8f20-92c463247750
+  macAddresses:
   - 00:01:07:00:00:00/24
   manufacturer: Leiser GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leiser
 type: d3-device-type-assertion

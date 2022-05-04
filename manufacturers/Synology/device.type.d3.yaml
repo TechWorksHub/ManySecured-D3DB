@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ac6438fc-b738-4256-8ddb-86c62ff303dd
-  mac-addresses:
+  id: c130e5e0-a551-4ad6-b083-ddc16db4b311
+  macAddresses:
   - 00:11:32:00:00:00/24
   - 90:09:D0:00:00:00/24
   manufacturer: Synology Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Synology
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c31fc946-d76a-4a46-aba9-d3bc8b50f4aa
-  mac-addresses:
+  id: 979ebb21-a983-4f4d-bd96-67def24c9ba2
+  macAddresses:
   - 00:09:54:00:00:00/24
   manufacturer: AMiT spol. s. r. o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMiTspol
 type: d3-device-type-assertion

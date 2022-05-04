@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74c4aeaf-a18c-4cdd-a6be-6f5d56def080
-  mac-addresses:
+  id: 993659f8-4a5e-4ddb-a62e-86e5d6b5b1ca
+  macAddresses:
   - 00:50:C2:E4:70:00/36
   manufacturer: Enika.Cz
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnikaCz
 type: d3-device-type-assertion

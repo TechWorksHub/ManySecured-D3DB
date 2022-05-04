@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c3bf331-1ce7-4a18-b531-68784f0c2770
-  mac-addresses:
+  id: 4930514a-a7c1-474c-9f87-a052474e46da
+  macAddresses:
   - 00:1F:FD:00:00:00/24
   manufacturer: Indigo Mobile Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IndigoMo
 type: d3-device-type-assertion

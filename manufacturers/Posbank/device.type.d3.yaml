@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7232a8fc-cebb-4fcb-9321-05d77ba1ebd3
-  mac-addresses:
+  id: 545fcd7f-13a1-41f0-8eb6-5ebb4ddcf73b
+  macAddresses:
   - 60:04:17:00:00:00/24
   manufacturer: Posbank Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Posbank
 type: d3-device-type-assertion

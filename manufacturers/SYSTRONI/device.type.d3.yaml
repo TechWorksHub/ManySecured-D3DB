@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38664a23-9239-4687-a2b8-789d438523d3
-  mac-addresses:
+  id: c8c2661f-cca9-41a1-a345-b5f654aec185
+  macAddresses:
   - 2C:5A:8D:00:00:00/24
   manufacturer: SYSTRONIK Elektronik u. Systemtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SYSTRONI
 type: d3-device-type-assertion

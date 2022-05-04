@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4caccdf7-de4c-4fb7-af7c-bd8ac9db026a
-  mac-addresses:
+  id: 9fdd69a6-c7b6-42af-8c79-fa1d8a4330c1
+  macAddresses:
   - 00:1A:14:00:00:00/24
   manufacturer: Xin Hua Control Engineering Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XinHuaCo
 type: d3-device-type-assertion

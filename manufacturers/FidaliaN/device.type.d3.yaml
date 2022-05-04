@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d80778e-d811-4e58-a370-1e6459d13be2
-  mac-addresses:
+  id: 64a88dc5-aa90-4a97-a183-560697ca9bbb
+  macAddresses:
   - 70:B3:D5:CC:30:00/36
   manufacturer: Fidalia Networks Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FidaliaN
 type: d3-device-type-assertion

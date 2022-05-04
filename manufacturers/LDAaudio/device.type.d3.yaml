@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7480a69-3091-4b7f-9e7c-6f2f51c0b258
-  mac-addresses:
+  id: 68c9cce1-1859-48a2-8a16-9aa9cabfc243
+  macAddresses:
   - 70:B3:D5:1C:80:00/36
   manufacturer: LDA audio video profesional S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LDAaudio
 type: d3-device-type-assertion

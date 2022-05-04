@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a87938f-6294-48c0-a039-d79185565f8a
-  mac-addresses:
+  id: 37083c6a-17f7-4356-be0a-80c195adefc4
+  macAddresses:
   - 8C:07:8C:00:00:00/24
   manufacturer: Flow Data Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlowData
 type: d3-device-type-assertion

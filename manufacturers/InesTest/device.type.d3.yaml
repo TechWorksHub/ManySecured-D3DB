@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52709d3b-dc0d-42d7-aee8-8cc11dd5d0bd
-  mac-addresses:
+  id: ea235a4a-33e0-4391-8ae6-81042611f220
+  macAddresses:
   - 00:04:1A:00:00:00/24
   manufacturer: Ines Test and Measurement GmbH & CoKG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InesTest
 type: d3-device-type-assertion

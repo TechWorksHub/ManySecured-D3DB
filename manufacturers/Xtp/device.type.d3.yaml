@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b96617b-884f-49b6-adf5-9aa3902f4993
-  mac-addresses:
+  id: b990e6b1-9abd-4e03-a775-6ca99ee4aede
+  macAddresses:
   - 00:80:E0:00:00:00/24
   manufacturer: Xtp Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xtp
 type: d3-device-type-assertion

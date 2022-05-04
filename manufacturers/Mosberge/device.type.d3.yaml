@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9087289c-4c1a-433d-8558-a84ff3010a7c
-  mac-addresses:
+  id: 1681fd1d-e5e7-4684-bff3-ffdc65fb8505
+  macAddresses:
   - 00:50:C2:A4:00:00/36
   manufacturer: Mosberger Consulting LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mosberge
 type: d3-device-type-assertion

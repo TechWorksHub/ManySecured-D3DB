@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ccb5bd0-840a-492d-b3a6-06149a656c6b
-  mac-addresses:
+  id: 085be441-c3bb-492e-bcef-2be529eec017
+  macAddresses:
   - 40:D8:55:03:F0:00/36
   manufacturer: UniSVR Global Information Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UniSVRGl
 type: d3-device-type-assertion

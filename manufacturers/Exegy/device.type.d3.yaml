@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b2be76a-9085-423e-9169-5bb3d3a47853
-  mac-addresses:
+  id: 9f60350e-4209-4850-b613-1cae73041e37
+  macAddresses:
   - 2C:27:9E:A0:00:00/28
   manufacturer: Exegy Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exegy
 type: d3-device-type-assertion

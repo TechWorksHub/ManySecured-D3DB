@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9195d560-7cdd-4a06-8a7e-00f4a5cf2200
-  mac-addresses:
+  id: bc045604-33a9-4562-8778-8641a6da69f8
+  macAddresses:
   - C8:F5:D6:70:00:00/28
   manufacturer: Oscars Pro
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OscarsPr
 type: d3-device-type-assertion

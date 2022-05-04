@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ff08a330-89f1-4d7f-8ac0-18041b2a332e
-  mac-addresses:
+  id: ff20a1eb-f704-4fd2-bbd0-c453b0f5c49b
+  macAddresses:
   - 00:E6:D3:00:00:00/24
   - 02:E6:D3:00:00:00/24
   manufacturer: Nixdorf Computer Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NixdorfC
 type: d3-device-type-assertion

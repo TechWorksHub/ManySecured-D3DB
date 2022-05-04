@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8075909b-0396-4222-bb5b-3eaa260626ae
-  mac-addresses:
+  id: 81254eb1-cd96-4e46-b935-69fd15a375cf
+  macAddresses:
   - 00:50:C2:78:00:00/36
   manufacturer: IQ Solutions GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IQSoluti
 type: d3-device-type-assertion

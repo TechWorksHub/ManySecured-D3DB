@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a84c798a-d45c-4960-8dcf-badef21e51bd
-  mac-addresses:
+  id: 8e93291b-a5e0-4488-80fa-a1899c58d166
+  macAddresses:
   - 00:25:A7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: itron
 type: d3-device-type-assertion

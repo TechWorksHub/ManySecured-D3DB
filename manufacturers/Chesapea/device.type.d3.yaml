@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 550be1cc-ad0c-4130-a4af-7e910feed391
-  mac-addresses:
+  id: c29d42ad-049a-421f-abc2-25a9101ca7e3
+  macAddresses:
   - 00:50:C2:75:60:00/36
   manufacturer: Chesapeake Sciences Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chesapea
 type: d3-device-type-assertion

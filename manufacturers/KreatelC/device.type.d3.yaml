@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 283ca334-21ae-4878-91c6-990a6929b4dd
-  mac-addresses:
+  id: 5093b1f9-4a35-424c-b6b8-acee918e1f36
+  macAddresses:
   - 00:02:9B:00:00:00/24
   manufacturer: Kreatel Communications AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KreatelC
 type: d3-device-type-assertion

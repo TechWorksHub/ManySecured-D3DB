@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f861f7b8-4750-4770-a258-fef3f7a3ff75
-  mac-addresses:
+  id: b76f335b-cce2-4c90-b5da-81c529ea3b57
+  macAddresses:
   - 60:D7:E3:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avalun
 type: d3-device-type-assertion

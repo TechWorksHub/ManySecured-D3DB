@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f89ad0a6-295f-4b54-80c6-14d663c53032
-  mac-addresses:
+  id: b12342bf-2f01-42cd-8550-d9c6b9e888ff
+  macAddresses:
   - 00:50:C2:B4:B0:00/36
   manufacturer: Chitose Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chitose
 type: d3-device-type-assertion

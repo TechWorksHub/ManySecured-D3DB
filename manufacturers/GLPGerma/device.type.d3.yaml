@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0aa38662-e419-48aa-a8b9-caf621a41e06
-  mac-addresses:
+  id: 4793fb8e-05c5-424f-b88b-836606be6a05
+  macAddresses:
   - F8:91:2A:00:00:00/24
   manufacturer: GLP German Light Products GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GLPGerma
 type: d3-device-type-assertion

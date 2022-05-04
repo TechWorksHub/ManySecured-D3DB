@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66a66001-ddfa-42d8-bf43-5ced53bb097c
-  mac-addresses:
+  id: e646b434-1be0-4a5c-880a-6a23c3539cde
+  macAddresses:
   - 80:97:1B:00:00:00/24
   manufacturer: Altenergy Power System,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Altenerg
 type: d3-device-type-assertion

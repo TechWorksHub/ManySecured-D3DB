@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2702d49b-8515-4d82-bd3c-f8302e3257c1
-  mac-addresses:
+  id: 07772ef3-d29e-4625-9c63-a60c178b1e06
+  macAddresses:
   - 0C:AA:EE:00:00:00/24
   - 74:19:F8:D0:00:00/28
   manufacturer: Ansjer Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnsjerEl
 type: d3-device-type-assertion

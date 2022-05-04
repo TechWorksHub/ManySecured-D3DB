@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd8893e8-a7f9-4ded-a7b6-20fb743d140c
-  mac-addresses:
+  id: ed474ac6-8a62-4d8b-b9d4-aed429d11a7b
+  macAddresses:
   - 88:E1:61:00:00:00/24
   manufacturer: Art Beijing Science and Technology Development Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtBeiji
 type: d3-device-type-assertion

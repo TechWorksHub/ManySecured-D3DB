@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3eee4756-76f7-409d-9882-01831a3ea9bf
-  mac-addresses:
+  id: 77d0c620-ebe4-4272-a36f-a10fc4188ee9
+  macAddresses:
   - 80:74:84:00:00:00/24
   manufacturer: ALL Winner (Hong Kong) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALLWinne
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1654e4a4-50e0-4854-8b00-95b2a327562b
-  mac-addresses:
+  id: d545b813-4f2c-42f0-a90d-dbf7af9c5e99
+  macAddresses:
   - 70:B3:D5:F4:C0:00/36
   manufacturer: PolyTech A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PolyTech
 type: d3-device-type-assertion

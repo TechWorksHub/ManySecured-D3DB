@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 290faa44-8789-41fa-882d-e84c32bb6e74
-  mac-addresses:
+  id: 79035c6c-9ca3-43c7-89ac-3145e813e203
+  macAddresses:
   - 00:07:60:00:00:00/24
   manufacturer: TOMIS Information & Telecom Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOMISInf
 type: d3-device-type-assertion

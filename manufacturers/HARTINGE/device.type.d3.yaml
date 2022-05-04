@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 03480d01-5130-46a9-b82a-bbd7d7b1198a
-  mac-addresses:
+  id: de85ef89-0f70-46f3-8cbb-e84f0c6b1497
+  macAddresses:
   - 00:0A:ED:00:00:00/24
   - 00:11:FC:00:00:00/24
   - D4:7B:75:00:00:00/24
   manufacturer: HARTING Electronics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HARTINGE
 type: d3-device-type-assertion

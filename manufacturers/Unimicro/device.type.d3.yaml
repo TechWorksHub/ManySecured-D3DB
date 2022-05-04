@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48003202-23b0-4e52-9602-7b2c08469d92
-  mac-addresses:
+  id: 6bd71ab6-1951-41b9-95a3-7e4f33e7e0c9
+  macAddresses:
   - 00:C0:47:00:00:00/24
   manufacturer: Unimicro Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unimicro
 type: d3-device-type-assertion

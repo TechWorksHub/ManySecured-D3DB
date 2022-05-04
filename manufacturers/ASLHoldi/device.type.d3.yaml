@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 030d3bdb-1cbe-46c7-b77f-8b745adca226
-  mac-addresses:
+  id: 143ad5ca-95a8-4e47-b864-f3d1fa5ad2ec
+  macAddresses:
   - 70:B3:D5:F7:30:00/36
   manufacturer: ASL Holdings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ASLHoldi
 type: d3-device-type-assertion

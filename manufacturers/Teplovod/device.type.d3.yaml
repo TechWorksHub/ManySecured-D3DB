@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a05665fc-1c5e-4857-bf6e-538994abd3b5
-  mac-addresses:
+  id: cc6c4ada-69eb-4b15-8a94-381281dc8e52
+  macAddresses:
   - 00:50:C2:E2:80:00/36
   - D8:86:0B:40:00:00/28
   manufacturer: Teplovodokhran
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teplovod
 type: d3-device-type-assertion

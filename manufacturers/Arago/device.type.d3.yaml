@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 791fad4c-4b4e-4f34-a7c9-11bfae245827
-  mac-addresses:
+  id: 5bf8219a-1401-4000-97e3-e3b719f60c47
+  macAddresses:
   - 40:D8:55:0E:40:00/36
   manufacturer: Arago Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arago
 type: d3-device-type-assertion

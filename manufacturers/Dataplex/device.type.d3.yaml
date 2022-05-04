@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb9d26ad-2e76-4d65-9e03-13480ecb9e22
-  mac-addresses:
+  id: a377eadb-03b6-4dab-b62f-3f46c4f0ee85
+  macAddresses:
   - 00:A0:84:00:00:00/24
   manufacturer: Dataplex Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dataplex
 type: d3-device-type-assertion

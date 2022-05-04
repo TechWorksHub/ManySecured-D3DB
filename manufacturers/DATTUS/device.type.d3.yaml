@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2f0129c-48fc-4632-97b5-83dbb5aa7048
-  mac-addresses:
+  id: 619e93e9-9cdf-45cc-8a9f-c911de3e66dd
+  macAddresses:
   - D0:48:F3:00:00:00/24
   manufacturer: DATTUS Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DATTUS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00650dbf-4870-4455-9802-c537bb2c6842
-  mac-addresses:
+  id: 45db0cfb-d72a-4b9d-9332-ba14fdf95b5c
+  macAddresses:
   - 14:B1:C8:00:00:00/24
   manufacturer: InfiniWing, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InfiniWi
 type: d3-device-type-assertion

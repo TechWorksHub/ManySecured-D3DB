@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a1ec710-4ff8-4dc0-88f8-879baf1a3659
-  mac-addresses:
+  id: 3fab4fcf-b52a-47b4-b5bc-42afcc018b6c
+  macAddresses:
   - 70:B3:D5:54:B0:00/36
   manufacturer: Brakels IT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrakelsI
 type: d3-device-type-assertion

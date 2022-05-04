@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15e35b67-d104-403c-b5dc-dbd48c5883b1
-  mac-addresses:
+  id: 81ceb668-94c6-481f-8ee6-42e3edd8abd8
+  macAddresses:
   - 00:E0:5D:00:00:00/24
   manufacturer: Unitec Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unitec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e7d7ec3-868a-4966-a2e2-31191ffd2e60
-  mac-addresses:
+  id: 061c024e-6cb3-4dbe-a308-61abbb9248ab
+  macAddresses:
   - 00:50:C2:8F:60:00/36
   manufacturer: K-MAC Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: K-MAC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b97dced1-41c4-4cc4-b51a-a22a5c440388
-  mac-addresses:
+  id: 702e8219-ef13-42c2-a3ca-d628b3727cf7
+  macAddresses:
   - 70:B3:D5:FF:10:00/36
   manufacturer: Data Strategy Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DataStra
 type: d3-device-type-assertion

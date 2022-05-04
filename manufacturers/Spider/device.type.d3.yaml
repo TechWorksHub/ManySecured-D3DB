@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fc763d8-1fde-4951-84c7-b61b9b42e5b8
-  mac-addresses:
+  id: 700b73b3-026b-4b70-96fa-6e7fed32c11a
+  macAddresses:
   - 08:00:39:00:00:00/24
   manufacturer: Spider Systems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spider
 type: d3-device-type-assertion

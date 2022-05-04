@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af4d4988-5aa2-42f6-bc15-a09bc1c91db2
-  mac-addresses:
+  id: 8f8cbbfd-6fe2-44ae-8bd1-4f19fd1c15d2
+  macAddresses:
   - 00:50:48:00:00:00/24
   manufacturer: Infolibria
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infolibr
 type: d3-device-type-assertion

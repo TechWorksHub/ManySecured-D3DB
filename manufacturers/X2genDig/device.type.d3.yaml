@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7cfa25f-0c41-48ae-be87-0e3e2f3df388
-  mac-addresses:
+  id: 71278b8d-d543-460a-a863-a404c20da394
+  macAddresses:
   - F8:47:2D:00:00:00/24
   manufacturer: X2gen Digital Corp. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: X2genDig
 type: d3-device-type-assertion

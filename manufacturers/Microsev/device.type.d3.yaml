@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f2e82fe-d3a4-43c7-9e6b-5b9c4de280c8
-  mac-addresses:
+  id: 678ed6f2-cdb4-4fc8-86d2-45c63b3cca0f
+  macAddresses:
   - 10:83:D2:00:00:00/24
   manufacturer: Microseven Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microsev
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d21c84ea-3647-4f35-b378-9006e42c436f
-  mac-addresses:
+  id: 679b25b1-dc2c-40cd-a339-ab6e6d50c5db
+  macAddresses:
   - B0:49:5F:00:00:00/24
   manufacturer: OMRON HEALTHCARE Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OMRONHEA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea9ca3b6-f194-4b7b-a8c7-3f8bc69b15e3
-  mac-addresses:
+  id: e36f72f0-c196-40ab-a960-ee3be6478ae3
+  macAddresses:
   - 00:16:5B:00:00:00/24
   manufacturer: Grip Audio
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GripAudi
 type: d3-device-type-assertion

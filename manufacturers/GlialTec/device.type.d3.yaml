@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 681c7258-30b3-4b28-81b6-467184450437
-  mac-addresses:
+  id: 2e207554-6c45-49e2-97d2-d627b46546d8
+  macAddresses:
   - 70:B3:D5:6A:10:00/36
   manufacturer: Glial Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlialTec
 type: d3-device-type-assertion

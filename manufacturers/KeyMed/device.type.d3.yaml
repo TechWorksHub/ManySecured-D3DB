@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94522be3-0ad4-446a-aff7-a6370f3d2bbe
-  mac-addresses:
+  id: 20292dce-a132-48f5-88d7-e552fc903aed
+  macAddresses:
   - 00:0F:C5:00:00:00/24
   manufacturer: KeyMed Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KeyMed
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 668e6bb4-594d-454a-af0a-c5bd15c9c131
-  mac-addresses:
+  id: f2260446-212f-420b-8234-239345d24ca0
+  macAddresses:
   - 98:60:22:00:00:00/24
   manufacturer: EMW Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMW
 type: d3-device-type-assertion

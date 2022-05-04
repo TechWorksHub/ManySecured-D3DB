@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a04846ae-4239-4daa-84e9-4958908fb887
-  mac-addresses:
+  id: 20f6623c-b880-4794-a643-730d762ae6f0
+  macAddresses:
   - 00:00:A7:00:00:00/24
   - 00:18:5B:00:00:00/24
   - 00:1D:FF:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - 00:C0:F3:00:00:00/24
   - 70:B3:D5:B4:B0:00/36
   manufacturer: Network Computing Devices Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetworkC
 type: d3-device-type-assertion

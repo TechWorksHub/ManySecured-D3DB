@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc017eae-80e8-4624-83fb-bc347b60b312
-  mac-addresses:
+  id: 8292de58-a189-4866-a2f7-d910d3a6d5d4
+  macAddresses:
   - 00:03:FC:00:00:00/24
   manufacturer: Intertex Data AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intertex
 type: d3-device-type-assertion

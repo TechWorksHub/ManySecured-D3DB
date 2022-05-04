@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 249011bf-1132-4b90-a440-4bda11672f45
-  mac-addresses:
+  id: 529022f5-4fea-4182-878c-382a48808435
+  macAddresses:
   - 00:0D:BF:00:00:00/24
   manufacturer: TekTone Sound & Signal Mfg., Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TekToneS
 type: d3-device-type-assertion

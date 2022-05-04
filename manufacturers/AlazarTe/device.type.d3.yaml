@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8713e77b-8d8b-4eaa-a637-fb7d2f1b38ed
-  mac-addresses:
+  id: b44b3fdc-1131-43d8-9e7d-8801b871500f
+  macAddresses:
   - 70:B3:D5:69:70:00/36
   manufacturer: Alazar Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlazarTe
 type: d3-device-type-assertion

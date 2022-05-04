@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03284230-2f40-41fa-b9e9-38e25ce099a7
-  mac-addresses:
+  id: e7bfe2e6-662e-481b-aad8-795ee95b0fd8
+  macAddresses:
   - 00:30:A1:00:00:00/24
   manufacturer: WEBGATE Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEBGATE
 type: d3-device-type-assertion

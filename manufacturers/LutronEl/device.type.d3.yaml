@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe6e9e8f-a62c-488a-a39b-f6b9254d734b
-  mac-addresses:
+  id: c3953bc7-ff53-4316-b877-12f4d350ec81
+  macAddresses:
   - 00:0F:E7:00:00:00/24
   manufacturer: Lutron Electronics Co., Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LutronEl
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 16755334-d681-46e2-a1be-3d8a6129622c
-  mac-addresses:
+  id: 4c7c72e6-791b-406b-afc8-f2fa86ec1d19
+  macAddresses:
   - 00:1F:47:00:00:00/24
   - 08:EF:3B:00:00:00/24
   - 54:15:89:00:00:00/24
   - C4:30:18:00:00:00/24
   manufacturer: MCS Logic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCSLogic
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a404b044-0abf-4b0c-83b0-9194a15c16d8
-  mac-addresses:
+  id: 0386b8bb-ba6a-4eb0-81c4-c4ce2e8101a1
+  macAddresses:
   - 60:D7:E3:40:00:00/28
   manufacturer: Hemisphere GNSS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hemisphe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 065c5da2-cde2-41e7-b5dd-cd0e54fd4e21
-  mac-addresses:
+  id: e440e8ca-31a5-45e7-aaf7-db0586b1fd23
+  macAddresses:
   - 48:1B:D2:00:00:00/24
   manufacturer: Intron Scientific co., ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntronSc
 type: d3-device-type-assertion

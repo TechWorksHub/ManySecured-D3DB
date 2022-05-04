@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29159353-1f31-4d0c-ba99-d8617a5eec28
-  mac-addresses:
+  id: ca9bdf15-09c5-43eb-b269-a08875f5c440
+  macAddresses:
   - 60:84:3B:00:00:00/24
   manufacturer: Soladigm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Soladigm
 type: d3-device-type-assertion

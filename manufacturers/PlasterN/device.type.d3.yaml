@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 980ac76b-a403-4783-ab94-7a0e5673230e
-  mac-addresses:
+  id: 23fbf012-673a-4163-ab2b-d422644f9e49
+  macAddresses:
   - 00:24:E7:00:00:00/24
   manufacturer: Plaster Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlasterN
 type: d3-device-type-assertion

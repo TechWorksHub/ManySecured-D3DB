@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8273507a-f82a-46aa-a3ad-16bdfd370caa
-  mac-addresses:
+  id: 20a1dbec-3b31-426f-8e24-3dd405546233
+  macAddresses:
   - 44:D6:3D:00:00:00/24
   manufacturer: Talari Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TalariNe
 type: d3-device-type-assertion

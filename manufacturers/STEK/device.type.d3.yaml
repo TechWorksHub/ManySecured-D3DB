@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5e1700e-a5d0-4c9d-a60e-7bb69f28b262
-  mac-addresses:
+  id: 8de4a694-af38-462e-a4c9-2685e56decea
+  macAddresses:
   - 40:D8:55:1E:40:00/36
   manufacturer: STEK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STEK
 type: d3-device-type-assertion

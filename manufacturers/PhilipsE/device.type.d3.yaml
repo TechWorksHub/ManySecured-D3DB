@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ab2a47a6-219e-4d03-9cff-871a30948e90
-  mac-addresses:
+  id: a0d86556-4e52-4767-a4e0-a88c275a354c
+  macAddresses:
   - 00:1E:CF:00:00:00/24
   - 1C:5A:6B:00:00:00/24
   manufacturer: Philips Electronics Uk Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhilipsE
 type: d3-device-type-assertion

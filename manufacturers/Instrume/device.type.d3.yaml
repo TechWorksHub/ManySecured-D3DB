@@ -1,12 +1,12 @@
 credentialSubject:
-  id: b11ddcbd-f344-4964-932c-251c394cfb75
-  mac-addresses:
+  id: b9dd79fe-251c-4618-9bec-bdbd94ce49f3
+  macAddresses:
   - 00:26:32:00:00:00/24
   - 00:26:A2:00:00:00/24
   - 00:50:C2:14:20:00/36
   - 00:50:C2:DC:C0:00/36
   - 70:B3:D5:73:30:00/36
   manufacturer: Instrumentation Technologies d.d.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Instrume
 type: d3-device-type-assertion

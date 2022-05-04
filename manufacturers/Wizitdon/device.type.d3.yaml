@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 183c5a91-2da8-4727-8b72-22942b70d1b3
-  mac-addresses:
+  id: 181ffbf0-9bde-4437-b045-1cc68aadcc17
+  macAddresses:
   - B0:BF:99:00:00:00/24
   manufacturer: Wizitdongdo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wizitdon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b804b66d-9d3d-4f59-87ea-81b96de54fb8
-  mac-addresses:
+  id: 8adfca72-fd98-4919-acc0-4edafec81fba
+  macAddresses:
   - 00:06:30:00:00:00/24
   manufacturer: Adtranz Sweden
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdtranzS
 type: d3-device-type-assertion

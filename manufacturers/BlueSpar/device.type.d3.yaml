@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be77357f-86c2-4c34-a880-af2c4d78c3cd
-  mac-addresses:
+  id: 46c59800-c509-4d14-9752-21680d9a9c88
+  macAddresses:
   - 78:D4:F1:E0:00:00/28
   manufacturer: Blue Sparq, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueSpar
 type: d3-device-type-assertion

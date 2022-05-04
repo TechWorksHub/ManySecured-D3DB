@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 942692b9-faaf-43ff-8d93-3cf117895e8c
-  mac-addresses:
+  id: 2fe2c6ec-8b63-43a0-8873-7b7dbfd4a16d
+  macAddresses:
   - F0:D7:AF:00:00:00/28
   manufacturer: ID Tech Japan Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IDTechJa
 type: d3-device-type-assertion

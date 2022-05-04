@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81b53927-9011-48c1-9300-c19603dc35f7
-  mac-addresses:
+  id: e3ac14e3-bf54-42eb-a3b7-f1e917bb9ec0
+  macAddresses:
   - 0C:2D:89:00:00:00/24
   manufacturer: QiiQ Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QiiQComm
 type: d3-device-type-assertion

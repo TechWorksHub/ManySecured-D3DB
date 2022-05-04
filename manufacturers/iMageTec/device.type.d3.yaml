@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0ee6cd0-fbf1-4c19-a29d-35ac72ec6e38
-  mac-addresses:
+  id: 2de7e909-ccb1-4f8f-a1d4-320b7232f80c
+  macAddresses:
   - C4:FF:BC:40:00:00/28
   manufacturer: iMageTech CO.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iMageTec
 type: d3-device-type-assertion

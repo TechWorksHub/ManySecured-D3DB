@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf7001e3-abbe-4039-aaa4-3da7e6f70259
-  mac-addresses:
+  id: f3356c66-ae18-4ee7-a0c0-7df43d8f8914
+  macAddresses:
   - 00:80:01:00:00:00/24
   manufacturer: Periphonics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Periphon
 type: d3-device-type-assertion

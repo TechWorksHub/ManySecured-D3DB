@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abe82d8d-8be6-4251-9227-4e60206ca3d9
-  mac-addresses:
+  id: 45146002-54e6-4d2b-89f8-929ef4a29569
+  macAddresses:
   - 40:D8:55:0A:40:00/36
   manufacturer: Resch Electronic Innovation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReschEle
 type: d3-device-type-assertion

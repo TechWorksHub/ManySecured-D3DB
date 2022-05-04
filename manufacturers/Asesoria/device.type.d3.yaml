@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 030d7438-5383-41f8-9cc1-fdc920bc9a06
-  mac-addresses:
+  id: 8682cb6f-3b31-4c8d-b32e-c51e2acac4c9
+  macAddresses:
   - FC:CD:2F:80:00:00/28
   manufacturer: Asesorias y Servicios Innovaxxion SPA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asesoria
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 03fca6d0-2243-48b6-b0e2-f27fe918904a
-  mac-addresses:
+  id: 1c86f40a-ed44-4bef-b52d-0558792b5685
+  macAddresses:
   - 00:0C:4C:00:00:00/24
   manufacturer: Arcor AG&Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArcorAG
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 725a8c9a-7db8-4433-875e-1563e7b23e9c
-  mac-addresses:
+  id: 6081f127-8bb4-4f72-8893-82ac19188ae1
+  macAddresses:
   - 70:B3:D5:80:20:00/36
   manufacturer: Qingdao CNR HITACH Railway Signal&communication co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QingdaoC
 type: d3-device-type-assertion

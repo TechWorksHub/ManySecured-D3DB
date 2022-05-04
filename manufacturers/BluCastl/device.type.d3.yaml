@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30ee61b8-c557-4d75-b380-95faf69dadfc
-  mac-addresses:
+  id: ebc69a65-8a46-4b63-91b4-0baea7afdfbb
+  macAddresses:
   - 14:94:48:00:00:00/24
   manufacturer: Blu Castle S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BluCastl
 type: d3-device-type-assertion

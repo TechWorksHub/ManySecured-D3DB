@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 556f470b-254b-4687-a0f6-d94d31de8f32
-  mac-addresses:
+  id: 64dffbe8-e4ab-409d-93fa-d64e226e109e
+  macAddresses:
   - 00:1B:B0:00:00:00/24
   manufacturer: Bharat Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BharatEl
 type: d3-device-type-assertion

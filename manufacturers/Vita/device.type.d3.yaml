@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e40c9670-825a-47ee-9477-591ff0063f79
-  mac-addresses:
+  id: a41f2e0a-75cf-4fb6-9b92-181c9eaddcc7
+  macAddresses:
   - 00:12:A2:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vita
 type: d3-device-type-assertion

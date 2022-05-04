@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1093981f-b1d3-4f50-b3d4-e3c7b937eb02
-  mac-addresses:
+  id: 6d2bd6b7-874a-4767-8025-d326058ede33
+  macAddresses:
   - 74:72:1E:00:00:00/24
   manufacturer: Edison Labs Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdisonLa
 type: d3-device-type-assertion

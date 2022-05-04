@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26d0979c-488b-4a18-9678-64176bf82955
-  mac-addresses:
+  id: 0af02222-c32e-4ab2-9be9-cf158ed050bf
+  macAddresses:
   - 00:0A:CE:00:00:00/24
   manufacturer: Radiantech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radiante
 type: d3-device-type-assertion

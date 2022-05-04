@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a3bd93b9-1287-46c0-8e92-9830d0e16edd
-  mac-addresses:
+  id: 654161e3-5eb8-443f-a43e-4c0ad0213bc2
+  macAddresses:
   - 00:14:46:00:00:00/24
   - 00:36:FE:00:00:00/24
   manufacturer: SuperVision Solutions LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuperVis
 type: d3-device-type-assertion

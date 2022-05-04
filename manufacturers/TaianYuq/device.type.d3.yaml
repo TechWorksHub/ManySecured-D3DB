@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25e8a7a9-4cc6-40a6-818f-9acbfcab0bc6
-  mac-addresses:
+  id: a42edace-51a9-44cb-9ed0-4e3b811bf3f9
+  macAddresses:
   - B0:FD:0B:50:00:00/28
   manufacturer: Taian Yuqi Communication Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaianYuq
 type: d3-device-type-assertion

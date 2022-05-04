@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6948e8e9-bc17-42db-9cb1-06c99f14db9b
-  mac-addresses:
+  id: 6770b04f-7bca-4e31-9071-294380e26d28
+  macAddresses:
   - 70:B3:D5:7E:B0:00/36
   manufacturer: Xerox International Partners
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XeroxInt
 type: d3-device-type-assertion

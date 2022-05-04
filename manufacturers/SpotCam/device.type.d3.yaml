@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1e9dc32-3ce7-453f-b473-3f6099684af5
-  mac-addresses:
+  id: 28461aca-73b1-4243-96c5-128f150e413e
+  macAddresses:
   - B8:DF:6B:00:00:00/24
   manufacturer: SpotCam Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpotCam
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87166a67-a4bf-4f99-8b22-4c6a0f3aa752
-  mac-addresses:
+  id: 27c5e884-0124-4137-a5e5-fddd95e7e1d9
+  macAddresses:
   - E0:31:9E:00:00:00/24
   manufacturer: Valve Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Valve
 type: d3-device-type-assertion

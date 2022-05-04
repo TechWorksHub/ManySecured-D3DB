@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d9f916b-7d40-473e-b5f0-e6c59be47f2e
-  mac-addresses:
+  id: f098faeb-5e7e-4f13-9e74-8b933823989e
+  macAddresses:
   - 70:B3:D5:29:F0:00/36
   manufacturer: Code Hardware SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CodeHard
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0039c9dd-785c-429e-ba46-b509d3f0f094
-  mac-addresses:
+  id: cc57719b-c27e-4ec1-8b31-05864ae8227f
+  macAddresses:
   - 70:B3:D5:D0:10:00/36
   manufacturer: Vision4ce Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vision4c
 type: d3-device-type-assertion

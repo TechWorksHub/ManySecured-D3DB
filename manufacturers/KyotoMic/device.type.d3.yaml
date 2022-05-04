@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd03ddef-65c5-441f-9a3d-92fa1e2bef03
-  mac-addresses:
+  id: 5f0672dc-c1bf-4b76-b36c-db54d0c4ed2a
+  macAddresses:
   - 00:01:9B:00:00:00/24
   manufacturer: Kyoto Microcomputer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyotoMic
 type: d3-device-type-assertion

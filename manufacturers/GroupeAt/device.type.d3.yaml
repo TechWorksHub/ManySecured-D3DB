@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18352a44-5135-48ab-af7e-9069c4d9b252
-  mac-addresses:
+  id: 922b1fab-9c40-4f5e-b506-8fd98a4db093
+  macAddresses:
   - 4C:F1:9E:00:00:00/24
   manufacturer: Groupe Atlantic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GroupeAt
 type: d3-device-type-assertion

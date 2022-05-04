@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6791860-b445-436f-9cb1-f2ddc3e60103
-  mac-addresses:
+  id: da385f4a-24fa-4a21-8cff-2ce3ede53de0
+  macAddresses:
   - 10:7B:A4:00:00:00/24
   manufacturer: Olive & Dove Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OliveDov
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2e8ad4d-623c-43a6-bc62-8a7d6069fa3d
-  mac-addresses:
+  id: db5d0029-afeb-4eb6-b013-5eb03120fa69
+  macAddresses:
   - 40:D8:55:13:40:00/36
   manufacturer: digitech GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: digitech
 type: d3-device-type-assertion

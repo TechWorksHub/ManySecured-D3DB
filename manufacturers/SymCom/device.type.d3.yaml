@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbd1f3bb-8633-4550-b767-ddfb3482d01a
-  mac-addresses:
+  id: 8ca72999-71e8-4496-a466-c414e1e0c69c
+  macAddresses:
   - 00:21:6F:00:00:00/24
   manufacturer: SymCom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SymCom
 type: d3-device-type-assertion

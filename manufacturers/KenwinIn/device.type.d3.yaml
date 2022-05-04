@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b10e097c-bf4a-473e-bbb7-c191fa2354fc
-  mac-addresses:
+  id: 69cc2407-1747-4c8e-9bdc-87fddf7aca31
+  macAddresses:
   - 00:1B:F4:00:00:00/24
   manufacturer: Kenwin Industrial(Hk) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KenwinIn
 type: d3-device-type-assertion

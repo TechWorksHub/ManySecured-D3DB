@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c69992ed-c457-40db-8566-73ba6a6d4ad2
-  mac-addresses:
+  id: f4cf44d0-5200-4f99-996c-f843df3f7c8e
+  macAddresses:
   - 00:50:C2:0F:10:00/36
   - 70:2F:4B:00:00:00/24
   manufacturer: Steelcase Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Steelcas
 type: d3-device-type-assertion

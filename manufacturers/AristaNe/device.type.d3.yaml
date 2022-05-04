@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2ade1202-9027-49e3-b120-759076c6f53c
-  mac-addresses:
+  id: 5ac1e5e0-5ce1-4b49-ad9a-1bab4f4aaba9
+  macAddresses:
   - 00:1C:73:00:00:00/24
   - 28:99:3A:00:00:00/24
   - 2C:DD:E9:00:00:00/24
@@ -17,6 +17,6 @@ credentialSubject:
   - E8:AE:C5:00:00:00/24
   - FC:BD:67:00:00:00/24
   manufacturer: Arista Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AristaNe
 type: d3-device-type-assertion

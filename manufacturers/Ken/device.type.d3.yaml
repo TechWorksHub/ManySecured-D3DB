@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d640ddfa-aeee-4c44-8571-e58a07b2c177
-  mac-addresses:
+  id: f70386e5-efa8-444a-8690-e792d45204ff
+  macAddresses:
   - CC:D3:1E:30:00:00/28
   manufacturer: Ken A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ken
 type: d3-device-type-assertion

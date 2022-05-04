@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 855a370e-317a-43b4-aaeb-f1aa90c0d64f
-  mac-addresses:
+  id: 6dd2ae27-a193-43f8-b4ad-188cc1f73cf6
+  macAddresses:
   - F8:8A:3C:B0:00:00/28
   manufacturer: Fara As
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FaraAs
 type: d3-device-type-assertion

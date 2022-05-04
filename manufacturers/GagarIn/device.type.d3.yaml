@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f57ff9f-aaf8-4971-90f9-f3389ff7d419
-  mac-addresses:
+  id: 7a0d547c-2429-4a92-869b-10c27dd6bb32
+  macAddresses:
   - 1C:A0:EF:C0:00:00/28
   manufacturer: LLC "Gagar.In"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GagarIn
 type: d3-device-type-assertion

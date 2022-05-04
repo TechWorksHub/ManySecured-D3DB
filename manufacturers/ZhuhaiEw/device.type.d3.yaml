@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53e872ca-2572-4e74-90b0-794e4729ef02
-  mac-addresses:
+  id: fd420d79-f127-4101-8779-9f94ad819046
+  macAddresses:
   - F4:91:1E:00:00:00/24
   manufacturer: Zhuhai Ewpe Information Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiEw
 type: d3-device-type-assertion

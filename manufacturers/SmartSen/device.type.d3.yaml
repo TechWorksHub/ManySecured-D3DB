@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 391ffc1e-713d-44d1-a768-b938d74978b5
-  mac-addresses:
+  id: 0608a7e9-a379-4691-bff3-62b3152fadc7
+  macAddresses:
   - 40:48:FD:E0:00:00/28
   manufacturer: Smart Sensor Devices Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartSen
 type: d3-device-type-assertion

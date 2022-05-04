@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43f4a4c0-b79b-4d5e-a59f-09a959212117
-  mac-addresses:
+  id: 1c1605a6-1123-43db-b177-301069b3bc2e
+  macAddresses:
   - D4:52:97:00:00:00/24
   manufacturer: nSTREAMS Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: nSTREAMS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6faafe0-cbad-4479-aa58-13734cd02ed8
-  mac-addresses:
+  id: 78b5c9c6-f037-4c6c-b471-53a8a186d6bb
+  macAddresses:
   - 6C:15:24:10:00:00/28
   manufacturer: Telsonic AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telsonic
 type: d3-device-type-assertion

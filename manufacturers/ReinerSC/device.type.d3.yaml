@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 869f6efd-6192-4147-8ab9-dd0dd8ca8835
-  mac-addresses:
+  id: c03de941-a4c4-4452-be88-661d3b36bf59
+  macAddresses:
   - 00:25:CB:00:00:00/24
   manufacturer: Reiner SCT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReinerSC
 type: d3-device-type-assertion

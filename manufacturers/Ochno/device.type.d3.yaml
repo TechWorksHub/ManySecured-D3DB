@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b63b681c-896b-4e92-9853-4632cae2f6b9
-  mac-addresses:
+  id: 8ab9068b-3d61-458f-8369-cc6b6ee0d567
+  macAddresses:
   - 70:B3:D5:03:A0:00/36
   manufacturer: Ochno AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ochno
 type: d3-device-type-assertion

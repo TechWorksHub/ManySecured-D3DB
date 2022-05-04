@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b0d1211-a0e0-4c33-9bbe-4d94e0a3dc71
-  mac-addresses:
+  id: 47f31645-f7d8-4bc2-a3f8-00e95e1e86bf
+  macAddresses:
   - 70:B3:D5:C2:80:00/36
   manufacturer: Mitech Integrated Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MitechIn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af81a270-e1aa-4073-af20-c5661e0c0667
-  mac-addresses:
+  id: 3bfdc800-f28d-4a4a-8e66-3372ced16d19
+  macAddresses:
   - E8:94:4C:00:00:00/24
   manufacturer: Cogent Healthcare Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CogentHe
 type: d3-device-type-assertion

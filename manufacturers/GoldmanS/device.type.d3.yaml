@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5126da0-39b9-4ef9-8c70-ecbcb163f2cf
-  mac-addresses:
+  id: 2a914d2c-dcd7-494e-afbd-dd9b658a4b7d
+  macAddresses:
   - F8:71:FE:00:00:00/24
   manufacturer: The Goldman Sachs Group, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoldmanS
 type: d3-device-type-assertion

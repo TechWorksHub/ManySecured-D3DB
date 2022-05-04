@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1bfeb6d7-8597-4618-9bd5-2523d04bf99d
-  mac-addresses:
+  id: 7de3dd1d-17d0-4236-98c7-d750f9e7bc56
+  macAddresses:
   - 40:D8:55:15:20:00/36
   manufacturer: Home Automation Europe
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HomeAuto
 type: d3-device-type-assertion

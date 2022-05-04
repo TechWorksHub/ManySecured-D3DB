@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e92d810f-9ecb-4183-b841-ab88de0d05a3
-  mac-addresses:
+  id: 76769298-4dae-4678-8bd1-1d710719c96a
+  macAddresses:
   - 00:11:66:00:00:00/24
   manufacturer: Taelim Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaelimEl
 type: d3-device-type-assertion

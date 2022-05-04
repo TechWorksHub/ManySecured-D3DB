@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 5703dc75-9ed8-488e-961b-a8e73033bc7b
-  mac-addresses:
+  id: 01f94cdc-48ce-417e-8364-a6988078d1bf
+  macAddresses:
   - 00:0F:9B:00:00:00/24
   - 00:50:C2:22:60:00/36
   - 00:50:C2:2C:E0:00/36
   manufacturer: Ross Video Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RossVide
 type: d3-device-type-assertion

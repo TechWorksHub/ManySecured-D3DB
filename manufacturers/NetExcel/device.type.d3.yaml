@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68538a1f-8cf1-4fc1-a71d-8bab4928737c
-  mac-addresses:
+  id: 0216ba58-0d7a-46f5-bdf5-c3c45ad58e31
+  macAddresses:
   - 00:08:BB:00:00:00/24
   manufacturer: NetExcell
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetExcel
 type: d3-device-type-assertion

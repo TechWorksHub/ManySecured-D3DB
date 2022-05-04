@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9985d2e0-06ef-4d9f-b76b-a0d511a7ed9a
-  mac-addresses:
+  id: 0ca696aa-b348-4eef-934f-6e203fcf296d
+  macAddresses:
   - 00:50:C2:86:40:00/36
   manufacturer: ATG Automatisierungstechnik GERA GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATGAutom
 type: d3-device-type-assertion

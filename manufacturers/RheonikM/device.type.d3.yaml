@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49aa90b5-88ef-4d80-9cb9-3c6a3347e3f6
-  mac-addresses:
+  id: 668f4bae-b0fd-47cb-b8ff-b00379c253af
+  macAddresses:
   - 2C:48:35:20:00:00/28
   manufacturer: Rheonik Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RheonikM
 type: d3-device-type-assertion

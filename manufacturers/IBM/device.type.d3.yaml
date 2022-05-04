@@ -1,6 +1,6 @@
 credentialSubject:
-  id: bd78fc50-a998-4651-9c9b-cd97b9fb9af1
-  mac-addresses:
+  id: 5be0b92e-40fb-4560-bc05-ec97bfa5ca98
+  macAddresses:
   - 00:02:55:00:00:00/24
   - 00:09:6B:00:00:00/24
   - 00:0D:60:00:00:00/24
@@ -22,6 +22,6 @@ credentialSubject:
   - E4:1F:13:00:00:00/24
   - FC:CF:62:00:00:00/24
   manufacturer: IBM Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IBM
 type: d3-device-type-assertion

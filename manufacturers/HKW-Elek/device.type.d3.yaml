@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2db39986-0727-4776-b701-872bdebd1624
-  mac-addresses:
+  id: d360455b-c030-4842-8d6d-7316eba76dee
+  macAddresses:
   - 70:B3:D5:03:50:00/36
   manufacturer: HKW-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HKW-Elek
 type: d3-device-type-assertion

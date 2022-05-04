@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d975b525-66a3-4afb-adb3-d824b1739b7c
-  mac-addresses:
+  id: c4c0ea7e-17e6-42e2-ae77-fb7e1336e439
+  macAddresses:
   - F0:58:49:00:00:00/24
   manufacturer: CareView Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CareView
 type: d3-device-type-assertion

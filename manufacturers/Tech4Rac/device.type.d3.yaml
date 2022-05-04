@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dd1f95f-c80b-4736-8f2f-e1af3fae461a
-  mac-addresses:
+  id: e0a6ae43-cce6-4ad4-9e2e-108edadbb6b6
+  macAddresses:
   - 70:B3:D5:C0:C0:00/36
   manufacturer: Tech4Race
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tech4Rac
 type: d3-device-type-assertion

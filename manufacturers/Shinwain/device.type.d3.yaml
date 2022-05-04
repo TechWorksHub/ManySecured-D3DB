@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f1668df-6414-4ea3-ac38-102614c93e66
-  mac-addresses:
+  id: fdbcce13-7e03-4669-8483-f93f32961b81
+  macAddresses:
   - 88:E0:34:00:00:00/24
   manufacturer: Shinwa industries(China) ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shinwain
 type: d3-device-type-assertion

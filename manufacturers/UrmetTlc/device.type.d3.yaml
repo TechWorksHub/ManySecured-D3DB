@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 839dc8c7-25a5-4080-994c-f6b019b869e7
-  mac-addresses:
+  id: 1b9c848f-c882-4911-bdbb-85978401c477
+  macAddresses:
   - 00:D0:1A:00:00:00/24
   manufacturer: Urmet Tlc S.P.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UrmetTlc
 type: d3-device-type-assertion

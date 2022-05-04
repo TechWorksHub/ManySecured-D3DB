@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f802919b-e5a9-4cd3-b15f-7b0072de43d5
-  mac-addresses:
+  id: 8b22f92e-3b46-455f-a7d8-3050552c37c8
+  macAddresses:
   - CC:59:3E:00:00:00/24
   manufacturer: Sensium Healthcare Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensiumH
 type: d3-device-type-assertion

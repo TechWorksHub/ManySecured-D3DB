@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a42283f-4800-4bc8-84c7-dd4fbfbad29f
-  mac-addresses:
+  id: 1524b1f3-0242-4232-9ebe-380fc821bcf7
+  macAddresses:
   - 00:07:FD:00:00:00/24
   manufacturer: LANergy Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LANergy
 type: d3-device-type-assertion

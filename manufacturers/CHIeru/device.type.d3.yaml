@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79f0afb7-e29b-46bd-a323-d6eb3f8a7d6b
-  mac-addresses:
+  id: 811061e5-ed37-45a7-9347-ea56102898ae
+  macAddresses:
   - 70:B3:D5:78:30:00/36
   manufacturer: CHIeru., CO., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CHIeru
 type: d3-device-type-assertion

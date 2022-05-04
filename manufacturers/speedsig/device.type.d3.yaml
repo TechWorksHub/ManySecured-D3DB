@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a66bb8cd-7523-47e5-b21f-b2740c817181
-  mac-addresses:
+  id: 5a956a3e-30c5-4b32-b8c5-85d71b5b9b43
+  macAddresses:
   - 70:B3:D5:C2:50:00/36
   manufacturer: speedsignal GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: speedsig
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a883abc-fd01-4fa7-a1d1-9a00eccad6e5
-  mac-addresses:
+  id: 506104e0-79e0-447d-bec6-e2ab882838d6
+  macAddresses:
   - 0C:C6:AC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dags
 type: d3-device-type-assertion

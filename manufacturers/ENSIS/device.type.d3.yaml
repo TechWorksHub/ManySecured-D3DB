@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f700ea1-ddec-4d03-abc6-e11c5c32f78b
-  mac-addresses:
+  id: 13bab628-5197-4034-85d2-0a4f90ea4e4f
+  macAddresses:
   - 00:50:C2:E3:10:00/36
   manufacturer: ENSIS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ENSIS
 type: d3-device-type-assertion

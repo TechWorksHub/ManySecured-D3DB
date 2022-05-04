@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bc9723d0-c6d2-40e1-bec8-ae99fd3b20e7
-  mac-addresses:
+  id: d6421384-6bc6-44e3-9104-c029cdd96422
+  macAddresses:
   - 00:40:0A:00:00:00/24
   - 00:D0:BF:00:00:00/24
   manufacturer: Pivotal Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PivotalT
 type: d3-device-type-assertion

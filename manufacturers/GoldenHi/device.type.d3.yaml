@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c1e6941-d98a-487c-bf9e-2223f09d8424
-  mac-addresses:
+  id: 346d1cc5-ccb8-45d1-a97d-ede4204ec2ed
+  macAddresses:
   - 00:26:F8:00:00:00/24
   manufacturer: Golden Highway Industry Development Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoldenHi
 type: d3-device-type-assertion

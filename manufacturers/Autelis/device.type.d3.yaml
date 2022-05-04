@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be54ddf1-3ff5-40d1-8437-d762a1463e97
-  mac-addresses:
+  id: 687554b5-f52f-4473-82d9-28760194d90b
+  macAddresses:
   - 00:1B:C5:0B:70:00/36
   manufacturer: Autelis, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autelis
 type: d3-device-type-assertion

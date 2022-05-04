@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f77a4a0-8e98-4a2c-a071-a70b544fd638
-  mac-addresses:
+  id: 26539b17-fd98-4bba-bc51-27aa4ef5ef55
+  macAddresses:
   - D8:19:7A:00:00:00/24
   manufacturer: Nuheara Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuheara
 type: d3-device-type-assertion

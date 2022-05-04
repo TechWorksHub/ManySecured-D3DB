@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdbfedf9-030b-4a19-abbb-a25a25ed954f
-  mac-addresses:
+  id: bf862a0c-97fd-453c-b571-a5dac6261439
+  macAddresses:
   - E8:EA:DA:00:00:00/24
   manufacturer: Denkovi Assembly Electronics LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DenkoviA
 type: d3-device-type-assertion

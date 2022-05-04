@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74c0b83e-f2a8-48c9-ab33-65d947792fe9
-  mac-addresses:
+  id: 09fd073b-b839-4f5d-bb22-64d34d18b02c
+  macAddresses:
   - 00:50:C2:F9:10:00/36
   manufacturer: RE2 Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RE2
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9c52994-b968-4825-a1b2-bf1a4aa82cfc
-  mac-addresses:
+  id: 217967de-ecbf-4ac8-ae54-67e8a03401e6
+  macAddresses:
   - 00:50:C2:C2:C0:00/36
   manufacturer: bach-messtechnik gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bach-mes
 type: d3-device-type-assertion

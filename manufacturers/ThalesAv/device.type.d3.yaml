@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1ee239e2-e34d-49ab-b443-9617ae00953d
-  mac-addresses:
+  id: dcf5ec38-0e8b-47c6-9acf-a97db3e93a5b
+  macAddresses:
   - 00:06:CF:00:00:00/24
   - 00:22:25:00:00:00/24
   manufacturer: Thales Avionics In-Flight Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThalesAv
 type: d3-device-type-assertion

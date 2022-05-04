@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8092b4d7-d877-468d-b70a-8056d20a568d
-  mac-addresses:
+  id: 66ab8555-66ed-46c1-99ab-0a48b0b78aad
+  macAddresses:
   - 00:50:C2:AD:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Incyma
 type: d3-device-type-assertion

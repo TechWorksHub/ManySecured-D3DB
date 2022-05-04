@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c8fd9408-394b-4125-b2cf-a891cc1032df
-  mac-addresses:
+  id: 79011396-c35f-46b5-a904-2fe84c22a5dd
+  macAddresses:
   - 00:50:C2:A2:60:00/36
   - 28:3E:0C:00:00:00/24
   manufacturer: Preferred Oil, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Preferre
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 24ad8e76-33b0-4fb2-bcaa-bb373a309195
-  mac-addresses:
+  id: baa69a9d-bfea-4ef3-b72b-957c689e9642
+  macAddresses:
   - 60:44:F5:00:00:00/24
   - 70:B3:D5:0B:90:00/36
   manufacturer: Easy Digital Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EasyDigi
 type: d3-device-type-assertion

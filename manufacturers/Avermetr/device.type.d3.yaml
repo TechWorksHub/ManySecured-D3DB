@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a42f4f1-7e61-4909-9d95-2fc538fc40a0
-  mac-addresses:
+  id: 6157ec2a-7287-4a42-88a3-35bc5456600a
+  macAddresses:
   - 14:30:7A:00:00:00/24
   manufacturer: Avermetrics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avermetr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc5693df-3e51-4240-9c80-56b4c8b453bb
-  mac-addresses:
+  id: b552514a-0436-4572-aa41-2df9ccd70717
+  macAddresses:
   - E0:B6:F5:10:00:00/28
   manufacturer: Start Today Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StartTod
 type: d3-device-type-assertion

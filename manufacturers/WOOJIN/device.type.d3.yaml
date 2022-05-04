@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43952cac-3e8c-4516-a407-f5cfe860723b
-  mac-addresses:
+  id: b2b3d845-a9cc-4cb3-9bfe-fbc5dd0c128e
+  macAddresses:
   - 70:B3:D5:20:30:00/36
   manufacturer: WOOJIN Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WOOJIN
 type: d3-device-type-assertion

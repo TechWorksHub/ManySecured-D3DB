@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 070f5e61-93f7-41ba-a1cd-4d5126a05709
-  mac-addresses:
+  id: 78f63f18-62fe-46c3-9360-979b8d063163
+  macAddresses:
   - 04:EE:E8:30:00:00/28
   - 70:B3:D5:A7:A0:00/36
   manufacturer: Fluid Management Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FluidMan
 type: d3-device-type-assertion

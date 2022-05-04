@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1991f532-5750-4535-bcea-5a5156b3fd51
-  mac-addresses:
+  id: 35e67053-e51b-4106-a1c8-4f472175be9b
+  macAddresses:
   - 70:B3:D5:77:E0:00/36
   manufacturer: Blue Marble Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueMarb
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d373d6f-999a-4a19-88d7-eb1b92a9d8b5
-  mac-addresses:
+  id: fa9b053b-dc73-4963-a3de-0769df2fb2d2
+  macAddresses:
   - 00:4D:32:00:00:00/24
   manufacturer: Andon Health Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndonHea
 type: d3-device-type-assertion

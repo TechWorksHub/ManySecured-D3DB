@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 029ffeef-a120-4fba-bc5b-bb03b7bc1390
-  mac-addresses:
+  id: 2f938698-3f64-4daa-b2f0-f0285b11566b
+  macAddresses:
   - 00:0E:76:00:00:00/24
   manufacturer: Gemsoc Innovision Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GemsocIn
 type: d3-device-type-assertion

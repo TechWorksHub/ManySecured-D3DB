@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4e5f51a-4f60-41df-b971-6ebcca33aadf
-  mac-addresses:
+  id: 9ec3bce0-ce3a-443e-a7be-e44b1f871642
+  macAddresses:
   - 3C:42:7E:40:00:00/28
   manufacturer: Teknoware Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teknowar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d7afe58-cc95-419d-a7e6-b54633f1ad59
-  mac-addresses:
+  id: be55535b-8684-4b86-bfc3-1ed1606b3fb1
+  macAddresses:
   - 04:9F:06:00:00:00/24
   manufacturer: Smobile Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smobile
 type: d3-device-type-assertion

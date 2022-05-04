@@ -1,10 +1,10 @@
 credentialSubject:
-  id: da903ada-c775-4ad7-9d7c-ddfe1731c1ce
-  mac-addresses:
+  id: 8911af32-5d3d-4ff4-8c12-6cf779768a8c
+  macAddresses:
   - 00:50:C2:9E:F0:00/36
   - 70:B3:D5:8A:90:00/36
   - 70:B3:D5:8E:10:00/36
   manufacturer: WoKa-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WoKa-Ele
 type: d3-device-type-assertion

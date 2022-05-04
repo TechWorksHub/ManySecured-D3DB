@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f07cad3-13ca-47ff-9cda-96f49482f087
-  mac-addresses:
+  id: 0c8a0b34-cb1e-4284-ad51-d5153955a123
+  macAddresses:
   - 70:B3:D5:AF:20:00/36
   manufacturer: True Networks Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrueNetw
 type: d3-device-type-assertion

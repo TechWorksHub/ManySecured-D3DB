@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70ed7bce-fb65-40cb-9789-7208971ae5f5
-  mac-addresses:
+  id: 4d2a1070-ee9d-4c7c-9618-7d3f00112117
+  macAddresses:
   - 70:B3:D5:17:70:00/36
   manufacturer: Wired Broadcast Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiredBro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eaa414c8-f742-4eeb-8271-3d63dd669fc7
-  mac-addresses:
+  id: d6e4e13d-802f-4b5c-b769-2cc02c0f4668
+  macAddresses:
   - 00:50:C2:42:60:00/36
   manufacturer: STOM System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STOMSyst
 type: d3-device-type-assertion

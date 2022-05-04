@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0f36363-e78c-4a98-ad3b-ff916891b16a
-  mac-addresses:
+  id: 17e0a917-9207-42fb-95ec-da999fb737d5
+  macAddresses:
   - 80:42:7C:00:00:00/24
   manufacturer: Adolf Tedsen GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdolfTed
 type: d3-device-type-assertion

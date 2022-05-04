@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 846b9d22-5f3b-46d9-a6a6-3bea81fa6bc7
-  mac-addresses:
+  id: 07a876ad-762a-47d4-bfb7-f9953de61dad
+  macAddresses:
   - 00:50:C2:1D:E0:00/36
   - 40:D8:55:0C:B0:00/36
   manufacturer: ReliOn Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReliOn
 type: d3-device-type-assertion

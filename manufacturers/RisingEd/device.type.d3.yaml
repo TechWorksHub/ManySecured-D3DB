@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f920190c-31ac-49bb-8fd6-d23aeffffe2d
-  mac-addresses:
+  id: f6f52f10-5467-4472-b6cf-835933e6d7b0
+  macAddresses:
   - 00:50:C2:08:A0:00/36
   manufacturer: Rising Edge Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RisingEd
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef3c610e-f0d3-4b2b-875d-74b71a380d30
-  mac-addresses:
+  id: 2d7cc8bc-4ab2-4adc-948a-131f029714c0
+  macAddresses:
   - 00:D0:80:00:00:00/24
   manufacturer: Exabyte Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exabyte
 type: d3-device-type-assertion

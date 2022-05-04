@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 435de0e4-26b6-44d4-b66e-f07824033df8
-  mac-addresses:
+  id: 30259b3f-a4ad-4db8-b9ae-60285ec84b3f
+  macAddresses:
   - 00:03:81:00:00:00/24
   - 10:1E:DA:00:00:00/24
   - 38:EF:E3:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - 54:E1:40:00:00:00/24
   - B4:00:16:00:00:00/24
   manufacturer: Ingenico International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ingenico
 type: d3-device-type-assertion

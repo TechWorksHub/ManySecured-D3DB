@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f4dbc919-9594-46c4-b477-938909970fc9
-  mac-addresses:
+  id: dbd57766-3b45-46af-aa18-7818f0e535ce
+  macAddresses:
   - 8C:1C:DA:80:00:00/28
   - E4:F3:27:00:00:00/24
   manufacturer: Atol Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atol
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d97ad5f-f458-443f-9fcc-e1392b84e298
-  mac-addresses:
+  id: a297af2a-868c-4e95-a591-3ebf836c9071
+  macAddresses:
   - 00:03:E2:00:00:00/24
   manufacturer: Comspace Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comspace
 type: d3-device-type-assertion

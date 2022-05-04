@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b89099cd-dfc4-4b93-a96e-1f487ac86838
-  mac-addresses:
+  id: 7c7b157f-43e3-4184-91af-8196f5de4852
+  macAddresses:
   - 00:10:7E:00:00:00/24
   manufacturer: BACHMANN ELECTRONIC GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BACHMANN
 type: d3-device-type-assertion

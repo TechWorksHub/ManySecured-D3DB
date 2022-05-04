@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd6ded8c-81d4-44a6-929f-bdeb0254f23d
-  mac-addresses:
+  id: ef91b910-7fac-4640-80ae-2d74d91f642a
+  macAddresses:
   - 00:80:0B:00:00:00/24
   manufacturer: Csk Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Csk
 type: d3-device-type-assertion

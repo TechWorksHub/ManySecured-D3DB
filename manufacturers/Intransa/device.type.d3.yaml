@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66e632ce-fcae-4032-8c08-b523f4f9d855
-  mac-addresses:
+  id: 18fee69a-7e1d-4771-becf-64557788da8a
+  macAddresses:
   - 00:07:2F:00:00:00/24
   manufacturer: Intransa, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intransa
 type: d3-device-type-assertion

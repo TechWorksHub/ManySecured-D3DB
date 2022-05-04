@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a152be49-be00-4314-83cc-dc4cf0b4859a
-  mac-addresses:
+  id: 653eb75a-1a89-4faf-a78f-5ee023778f08
+  macAddresses:
   - 70:B3:D5:57:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dsilog
 type: d3-device-type-assertion

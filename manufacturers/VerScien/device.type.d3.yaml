@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1128958-37f7-458d-97c3-bc816eb7fabe
-  mac-addresses:
+  id: 50b29ee0-173a-48d5-8499-4d8a26c37a47
+  macAddresses:
   - 00:1C:BA:00:00:00/24
   manufacturer: VerScient, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VerScien
 type: d3-device-type-assertion

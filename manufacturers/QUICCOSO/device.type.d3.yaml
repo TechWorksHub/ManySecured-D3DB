@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb52af92-bc1f-4885-82b9-3b47ea9111c3
-  mac-addresses:
+  id: c7d1e293-a8e1-416d-837e-e2692c085b05
+  macAddresses:
   - 70:B3:D5:A7:E0:00/36
   manufacturer: QUICCO SOUND Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QUICCOSO
 type: d3-device-type-assertion

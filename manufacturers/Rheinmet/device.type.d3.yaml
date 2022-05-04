@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 719a72f3-6ac9-4f22-a9dc-bebf6c4d2730
-  mac-addresses:
+  id: 1921cef5-06ae-426f-9f38-edde02a97dc4
+  macAddresses:
   - 00:14:3C:00:00:00/24
   manufacturer: Rheinmetall Canada Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rheinmet
 type: d3-device-type-assertion

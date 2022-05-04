@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c59f65a-aeaa-4e66-9044-7d32b8df6965
-  mac-addresses:
+  id: 489dd5d0-ece7-45c3-88b0-7284bf79a984
+  macAddresses:
   - 00:0C:74:00:00:00/24
   manufacturer: Rivertec Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rivertec
 type: d3-device-type-assertion

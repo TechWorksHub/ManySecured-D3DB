@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75f776b5-d99c-48ed-b8f3-73a481c16489
-  mac-addresses:
+  id: 471f322d-38b1-4adb-953c-1fe3a9512784
+  macAddresses:
   - 70:B3:D5:E2:80:00/36
   manufacturer: iotec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iotec
 type: d3-device-type-assertion

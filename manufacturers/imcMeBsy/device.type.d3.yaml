@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f19b1ff2-da01-4572-ab49-6cdc44c01d43
-  mac-addresses:
+  id: 36835948-0ee3-43c8-8aed-5787d0bc49b7
+  macAddresses:
   - 00:A0:33:00:00:00/24
   manufacturer: imc MeBsysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: imcMeBsy
 type: d3-device-type-assertion

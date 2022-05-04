@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3197f1ce-ee3b-4829-ac67-47551bce5589
-  mac-addresses:
+  id: 1546d3ce-3e52-4530-8054-b9dd55cfb8fd
+  macAddresses:
   - 4C:14:80:00:00:00/24
   manufacturer: Noregon Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Noregon
 type: d3-device-type-assertion

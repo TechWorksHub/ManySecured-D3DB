@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d098a4e5-77d0-468a-a6b9-91570f477c57
-  mac-addresses:
+  id: f7ae75b8-9945-438d-90bd-5fb8f9110515
+  macAddresses:
   - 80:2F:DE:00:00:00/24
   manufacturer: Zurich Instruments AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZurichIn
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2e1c85df-2fbb-4e42-b13a-d547021459e7
-  mac-addresses:
+  id: c2f05519-0257-47d8-ba95-b9c39f5079d5
+  macAddresses:
   - 00:17:6A:00:00:00/24
   - 00:19:4D:00:00:00/24
   manufacturer: Avago Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvagoTec
 type: d3-device-type-assertion

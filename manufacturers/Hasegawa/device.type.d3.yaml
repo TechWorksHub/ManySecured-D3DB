@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c19be04-8423-4b70-adce-52df7e83d28b
-  mac-addresses:
+  id: 9272ddc8-257e-491a-9f5a-b74653c5d0ca
+  macAddresses:
   - 00:24:E2:00:00:00/24
   manufacturer: Hasegawa Electric Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hasegawa
 type: d3-device-type-assertion

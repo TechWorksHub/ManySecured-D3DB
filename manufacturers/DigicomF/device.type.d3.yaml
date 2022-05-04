@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98efd9a7-6316-4283-a633-7c2999e09776
-  mac-addresses:
+  id: 1e7a7ea8-0949-4d4b-9da7-f56e6834f527
+  macAddresses:
   - A8:32:9A:00:00:00/24
   manufacturer: Digicom Futuristic Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigicomF
 type: d3-device-type-assertion

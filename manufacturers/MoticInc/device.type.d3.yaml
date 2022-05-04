@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6e1a15e-44cf-45e8-ba83-88a3177896ba
-  mac-addresses:
+  id: 0fccf4a7-4bb9-4136-8fa9-af47a34216fc
+  macAddresses:
   - 00:0E:42:00:00:00/24
   manufacturer: Motic Incoporation Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MoticInc
 type: d3-device-type-assertion

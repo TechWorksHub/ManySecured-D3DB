@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6263f482-b18a-4c42-9b04-27ff83bf33df
-  mac-addresses:
+  id: 78b2d3b1-7458-4875-837d-c2b2d0fdc9ec
+  macAddresses:
   - FA:66:73:00:00:00/24
   manufacturer: Nells Electronic Systems (Nes)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NellsEle
 type: d3-device-type-assertion

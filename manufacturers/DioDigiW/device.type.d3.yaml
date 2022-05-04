@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff443f50-fd0b-45e2-8066-c3a227f89062
-  mac-addresses:
+  id: 7cc144ef-46aa-49c3-8ef0-935c26082e4a
+  macAddresses:
   - 00:50:C2:70:60:00/36
   manufacturer: DioDigiWorks. CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DioDigiW
 type: d3-device-type-assertion

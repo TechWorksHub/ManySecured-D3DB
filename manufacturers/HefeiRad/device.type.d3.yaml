@@ -1,12 +1,12 @@
 credentialSubject:
-  id: 37dc9c56-fef2-46b1-8d19-adc439918407
-  mac-addresses:
+  id: 4871e197-aa67-4c0a-bda5-bd4444540d92
+  macAddresses:
   - 14:82:5B:00:00:00/24
   - 30:44:87:00:00:00/24
   - 58:9B:F7:00:00:00/24
   - C8:AF:E3:00:00:00/24
   - F4:95:1B:00:00:00/24
   manufacturer: Hefei Radio Communication Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HefeiRad
 type: d3-device-type-assertion

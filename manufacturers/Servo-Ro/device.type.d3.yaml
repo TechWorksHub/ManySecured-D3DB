@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 835f619b-ba6d-472f-b725-efa55f53edfb
-  mac-addresses:
+  id: 8f59704e-d38b-4297-b857-6849951cd238
+  macAddresses:
   - 40:D8:55:17:90:00/36
   manufacturer: Servo-Robot Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Servo-Ro
 type: d3-device-type-assertion

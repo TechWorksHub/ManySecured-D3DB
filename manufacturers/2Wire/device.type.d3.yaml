@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 1af12526-3773-4ea3-9c93-c3c47dcf263b
-  mac-addresses:
+  id: 6817c9d9-f4fd-4ce8-a389-5a52394bf6f4
+  macAddresses:
   - 00:0D:72:00:00:00/24
   - 00:12:88:00:00:00/24
   - 00:14:95:00:00:00/24
@@ -36,6 +36,6 @@ credentialSubject:
   - F8:18:97:00:00:00/24
   - F8:2C:18:00:00:00/24
   manufacturer: 2Wire Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2Wire
 type: d3-device-type-assertion

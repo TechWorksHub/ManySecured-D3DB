@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba7fb49a-c6c2-4855-b826-05c494b268b2
-  mac-addresses:
+  id: 850c40de-1524-45dd-9daa-93193b975092
+  macAddresses:
   - 14:56:45:00:00:00/24
   manufacturer: Savitech Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Savitech
 type: d3-device-type-assertion

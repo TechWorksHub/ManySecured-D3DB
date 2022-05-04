@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 42fde4a0-7c65-4248-a922-8c84f1e54e7f
-  mac-addresses:
+  id: e9fcc230-ed3d-4252-b939-8bf33135d3dc
+  macAddresses:
   - 00:90:8D:00:00:00/24
   - 70:B3:D5:9F:50:00/36
   manufacturer: Vickers Electronics Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VickersE
 type: d3-device-type-assertion

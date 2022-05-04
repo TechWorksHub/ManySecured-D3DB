@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df0b0c9f-3c95-4001-9d31-124cca4ae8cd
-  mac-addresses:
+  id: 31d86006-d4a4-4d9f-b333-529c87c21d81
+  macAddresses:
   - 00:21:17:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tellord
 type: d3-device-type-assertion

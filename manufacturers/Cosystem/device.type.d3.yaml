@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72d4f5b8-9f6c-411f-8aa1-5613ac7bef75
-  mac-addresses:
+  id: 741d9e27-eec5-48ff-97e5-85df13375d9e
+  macAddresses:
   - 00:50:26:00:00:00/24
   manufacturer: Cosystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cosystem
 type: d3-device-type-assertion

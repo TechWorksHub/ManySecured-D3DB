@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d65fbd4-a5c8-48be-b1f6-efc89717fcd2
-  mac-addresses:
+  id: 4bcebe22-cd81-4a9e-b8ab-80942ddbf0e2
+  macAddresses:
   - 90:C6:82:20:00:00/28
   manufacturer: ekey biometric systems gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ekeybiom
 type: d3-device-type-assertion

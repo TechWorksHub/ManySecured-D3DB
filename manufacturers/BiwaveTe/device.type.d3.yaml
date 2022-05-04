@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0234cbf0-3d1c-4a7d-b20b-4b73a4aff054
-  mac-addresses:
+  id: d931e61f-0538-4fc6-9ee9-7fe4ca5ae2d0
+  macAddresses:
   - 70:B3:D5:16:80:00/36
   manufacturer: Biwave Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BiwaveTe
 type: d3-device-type-assertion

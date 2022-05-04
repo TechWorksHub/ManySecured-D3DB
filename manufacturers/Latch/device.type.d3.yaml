@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9fac04c-ea9f-4da8-9c2c-fdbf6a0c2a6d
-  mac-addresses:
+  id: f0b3bbc3-e817-47da-90a5-1d7621503e1e
+  macAddresses:
   - 00:B6:9F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Latch
 type: d3-device-type-assertion

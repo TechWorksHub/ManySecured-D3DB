@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ad3c080-9a55-4fe1-9aa6-6346fd46ae53
-  mac-addresses:
+  id: 454d8b7a-af4a-41a1-a70b-398356c39033
+  macAddresses:
   - 00:08:52:00:00:00/24
   manufacturer: Davolink Co. Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Davolink
 type: d3-device-type-assertion

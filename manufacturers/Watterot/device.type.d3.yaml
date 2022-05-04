@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a28c312-61a2-43d2-9ecf-b6d57de22600
-  mac-addresses:
+  id: 40a4f86f-e34d-4597-8ed9-4db1ec905cec
+  macAddresses:
   - 00:50:C2:C5:50:00/36
   manufacturer: Watterott electronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Watterot
 type: d3-device-type-assertion

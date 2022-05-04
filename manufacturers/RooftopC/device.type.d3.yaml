@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82818e53-6e94-40c8-91dc-df2a56da211f
-  mac-addresses:
+  id: fd63f58f-ea9a-4977-a14e-4146c6354c0c
+  macAddresses:
   - 00:E0:0B:00:00:00/24
   manufacturer: Rooftop Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RooftopC
 type: d3-device-type-assertion

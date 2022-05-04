@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee73d3bb-1418-441b-905b-3347faac1740
-  mac-addresses:
+  id: f92bc973-0b72-48b9-80b8-5160da8b307e
+  macAddresses:
   - 70:B3:D5:16:60:00/36
   manufacturer: Serial Image Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SerialIm
 type: d3-device-type-assertion

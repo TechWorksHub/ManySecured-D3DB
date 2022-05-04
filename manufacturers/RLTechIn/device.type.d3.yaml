@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18b6746f-ca51-4f28-9785-f3fdd7294b42
-  mac-addresses:
+  id: e0b6d820-2566-4792-a3dd-10a4be7aa87e
+  macAddresses:
   - 44:95:3B:00:00:00/24
   manufacturer: RLTech India Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RLTechIn
 type: d3-device-type-assertion

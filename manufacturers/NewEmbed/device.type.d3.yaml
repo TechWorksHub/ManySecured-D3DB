@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f13d2268-9a70-4ddd-96d7-5414f2520f90
-  mac-addresses:
+  id: 8b342f07-2822-4d2c-816b-e3ae5916a217
+  macAddresses:
   - 00:50:C2:CF:B0:00/36
   manufacturer: New Embedded Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewEmbed
 type: d3-device-type-assertion

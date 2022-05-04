@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a45789d-eac4-4489-a800-905905ecb337
-  mac-addresses:
+  id: bc83edd4-97fe-4369-aa63-746ce3edd3e7
+  macAddresses:
   - 00:16:1C:00:00:00/24
   manufacturer: e:cue
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ecue
 type: d3-device-type-assertion

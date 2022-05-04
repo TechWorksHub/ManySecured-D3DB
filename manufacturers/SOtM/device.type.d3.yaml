@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58c674f0-6d0d-4b1a-93cb-c43e165290e9
-  mac-addresses:
+  id: 40b47e65-ca35-4cb7-8c92-e550addb062c
+  macAddresses:
   - 70:B3:D5:CC:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SOtM
 type: d3-device-type-assertion

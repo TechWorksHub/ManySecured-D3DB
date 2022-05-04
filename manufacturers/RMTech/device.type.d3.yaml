@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e69ee38c-d1b1-4042-985b-7286bb92eac5
-  mac-addresses:
+  id: dac42d0d-4551-434e-9ff6-d4c577aeb32f
+  macAddresses:
   - EC:83:6C:00:00:00/24
   manufacturer: RM Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RMTech
 type: d3-device-type-assertion

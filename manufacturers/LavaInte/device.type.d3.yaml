@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 20052d23-db9f-4a4c-a5de-2109c9c0d74d
-  mac-addresses:
+  id: cf55008c-81b4-4a29-aeba-aa8a0074dcef
+  macAddresses:
   - 34:8B:75:00:00:00/24
   - 48:FC:B6:00:00:00/24
   - AC:56:2C:00:00:00/24
   - C4:56:FE:00:00:00/24
   manufacturer: Lava International(H.K) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LavaInte
 type: d3-device-type-assertion

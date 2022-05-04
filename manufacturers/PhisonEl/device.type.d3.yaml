@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6cbab07-20ce-4310-95d9-11712b9400bf
-  mac-addresses:
+  id: fb7da609-9d49-4f39-a78b-38c82bfbc998
+  macAddresses:
   - 64:79:A7:00:00:00/24
   manufacturer: Phison Electronics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhisonEl
 type: d3-device-type-assertion

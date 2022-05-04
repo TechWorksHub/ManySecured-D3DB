@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38b9a912-7a89-4b8e-84f2-b477bedc8a06
-  mac-addresses:
+  id: b6dd5bcb-ffe1-45f5-bc2e-7cdd8ee43b02
+  macAddresses:
   - 00:25:F6:00:00:00/24
   manufacturer: netTALK.com, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: netTALKc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 900d1d5e-3eb3-41d8-89cf-73bd3ce0b711
-  mac-addresses:
+  id: 6eeda501-8a7d-497d-9563-c0c325091ac8
+  macAddresses:
   - 94:67:7E:00:00:00/24
   manufacturer: Belden India Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeldenIn
 type: d3-device-type-assertion

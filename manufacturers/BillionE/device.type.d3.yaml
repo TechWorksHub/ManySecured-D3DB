@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5f300d65-632b-4fb6-a83c-25e7d78431a1
-  mac-addresses:
+  id: 28a84289-ba1a-4d5f-9bd0-d66886b5f695
+  macAddresses:
   - 00:04:ED:00:00:00/24
   - 60:03:47:00:00:00/24
   manufacturer: Billion Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BillionE
 type: d3-device-type-assertion

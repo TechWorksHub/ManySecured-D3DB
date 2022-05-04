@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdaa5acf-30fb-4d6c-bdf7-74232ef7cffb
-  mac-addresses:
+  id: 8a5179ab-f5ce-4671-b771-5232f8f22085
+  macAddresses:
   - 00:21:67:00:00:00/24
   manufacturer: HWA JIN T&I Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HWAJINT&
 type: d3-device-type-assertion

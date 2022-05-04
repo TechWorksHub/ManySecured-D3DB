@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b56d3c4-9879-4bc5-a443-2421204a02c6
-  mac-addresses:
+  id: e539f07c-d9c2-4f9c-96f3-594b60131cb1
+  macAddresses:
   - 7C:BA:CC:D0:00:00/28
   manufacturer: SIGMA-ELEKTRO GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIGMA-EL
 type: d3-device-type-assertion

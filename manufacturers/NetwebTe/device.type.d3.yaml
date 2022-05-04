@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c2ebb5e-3bd7-48f5-97b0-6b9a5e7c5d62
-  mac-addresses:
+  id: 31c3083e-0192-4aa5-b955-62524802bdb4
+  macAddresses:
   - 0C:7F:ED:60:00:00/28
   manufacturer: Netweb Technologies India Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetwebTe
 type: d3-device-type-assertion

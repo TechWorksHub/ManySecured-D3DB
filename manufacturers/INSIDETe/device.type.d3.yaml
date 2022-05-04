@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19427db6-eb23-4846-aede-84d08a9369b8
-  mac-addresses:
+  id: adef14be-5f51-46ff-9cf9-d10b129f04f5
+  macAddresses:
   - 00:E0:F4:00:00:00/24
   manufacturer: INSIDE Technology A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INSIDETe
 type: d3-device-type-assertion

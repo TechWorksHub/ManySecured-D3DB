@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ae73cafc-9ffa-4b3b-8179-d4d200a4d39d
-  mac-addresses:
+  id: 6e7fd5c3-3611-479d-975a-066e0e548204
+  macAddresses:
   - 00:13:9D:00:00:00/24
   - 00:50:C2:12:60:00/36
   manufacturer: MaxLinear Hispania S.L.U.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxLinea
 type: d3-device-type-assertion

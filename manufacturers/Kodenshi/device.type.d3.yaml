@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcf06784-42d8-4a1f-bd84-88163f2a813f
-  mac-addresses:
+  id: de789a79-d468-470e-9a05-6dddee805b23
+  macAddresses:
   - 70:B3:D5:DB:A0:00/36
   manufacturer: Kodenshi Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kodenshi
 type: d3-device-type-assertion

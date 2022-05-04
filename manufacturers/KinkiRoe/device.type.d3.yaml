@@ -1,8 +1,8 @@
 credentialSubject:
-  id: babdef33-bbc3-4fa3-8a44-e673eb1528db
-  mac-addresses:
+  id: 1e8c2c9d-c5a2-4c0b-873b-06cae0bc29ae
+  macAddresses:
   - 00:50:C2:F0:40:00/36
   manufacturer: Kinki Roentgen Industrial Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KinkiRoe
 type: d3-device-type-assertion

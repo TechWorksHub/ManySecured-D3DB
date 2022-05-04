@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2e91a2b-34a9-4d86-b76d-3f2a00dbadec
-  mac-addresses:
+  id: 718b3764-db9e-4f0b-8458-1c4936384a9e
+  macAddresses:
   - 00:21:15:00:00:00/24
   manufacturer: PHYWE Systeme GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PHYWESys
 type: d3-device-type-assertion

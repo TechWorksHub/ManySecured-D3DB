@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e52568f2-b6a6-42c3-876e-627aa3b25fe9
-  mac-addresses:
+  id: 3f3c84c4-db63-44f4-a0e5-d027e67d6db0
+  macAddresses:
   - 64:B9:4E:00:00:00/24
   manufacturer: Dell Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DellTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b52eb6e6-98ba-40ca-9007-d4cd7373062b
-  mac-addresses:
+  id: ba913057-5488-45f9-9370-20fb00bda792
+  macAddresses:
   - 74:DB:D1:00:00:00/24
   manufacturer: Ebay Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ebay
 type: d3-device-type-assertion

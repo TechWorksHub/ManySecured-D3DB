@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85e04271-d28a-4b5b-a83e-21eead420248
-  mac-addresses:
+  id: 527a458e-3d8b-45e7-842f-0a31563664d7
+  macAddresses:
   - 70:B3:D5:F2:20:00/36
   manufacturer: Shengli Financial Software Development
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShengliF
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f79001b-461a-43fa-b6ef-ec64c1b48d8e
-  mac-addresses:
+  id: ef9fac4e-f37a-4acf-8962-323f525d0f9c
+  macAddresses:
   - F8:97:CF:00:00:00/24
   manufacturer: Daeshin-Information Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daeshin-
 type: d3-device-type-assertion

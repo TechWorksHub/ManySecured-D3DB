@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab4b65a4-bdbf-4461-b0d8-f5dc00f2984a
-  mac-addresses:
+  id: e8cdfd02-d7ba-4165-ac97-5e621e76165d
+  macAddresses:
   - 70:B3:D5:17:B0:00/36
   manufacturer: Vistec Electron Beam GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VistecEl
 type: d3-device-type-assertion

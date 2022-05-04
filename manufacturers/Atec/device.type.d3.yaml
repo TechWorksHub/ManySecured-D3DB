@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80dde9ba-b484-496a-8146-128722309ea8
-  mac-addresses:
+  id: 67235390-ffe5-4965-9652-775fbd1e43d9
+  macAddresses:
   - 00:50:C2:77:C0:00/36
   manufacturer: Atec Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atec
 type: d3-device-type-assertion

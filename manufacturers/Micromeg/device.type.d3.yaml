@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 792238a0-d97d-4209-b50b-7eee2e665be8
-  mac-addresses:
+  id: 141b66d4-1f24-494f-b3b3-2ab4a0166598
+  macAddresses:
   - 40:D8:55:1B:B0:00/36
   manufacturer: Micromega Dynamics SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micromeg
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: fde84f81-c786-4e19-91e3-061551a16bfa
-  mac-addresses:
+  id: 75e48a11-fed0-4351-bf35-71feca6d099a
+  macAddresses:
   - 04:71:53:00:00:00/24
   - 38:1F:26:10:00:00/28
   - 48:3E:5E:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - D0:B6:6F:00:00:00/24
   - F4:23:9C:00:00:00/24
   manufacturer: Sernet (Suzhou) Technologies Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SernetSu
 type: d3-device-type-assertion

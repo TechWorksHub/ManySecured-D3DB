@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18144c5f-9c84-4488-b001-6f008b5cda6e
-  mac-addresses:
+  id: bc76492c-ef4e-4a1f-af18-c164643b1cc2
+  macAddresses:
   - 04:11:19:50:00:00/28
   manufacturer: Ceita Communication Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeitaCom
 type: d3-device-type-assertion

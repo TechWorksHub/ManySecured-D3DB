@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a770efa-10ab-42bd-98fb-ea580eac835f
-  mac-addresses:
+  id: b13c2c6e-e07a-4a09-b963-3901eb25db5a
+  macAddresses:
   - 64:FB:81:40:00:00/28
   manufacturer: Pricer AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pricer
 type: d3-device-type-assertion

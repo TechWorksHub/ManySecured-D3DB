@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 131e89b1-24be-4028-835d-8096326f54e4
-  mac-addresses:
+  id: a85c5e57-f319-43d0-8d42-811d13df014d
+  macAddresses:
   - 00:13:6A:00:00:00/24
   manufacturer: Hach Lange Sarl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HachLang
 type: d3-device-type-assertion

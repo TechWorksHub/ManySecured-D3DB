@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88755d47-1578-4b29-a815-e8464dce9a7a
-  mac-addresses:
+  id: b5cfd42a-31de-4f12-aec1-d3c97d38f764
+  macAddresses:
   - C0:A3:64:00:00:00/24
   manufacturer: 3D Systems Massachusetts
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3DMassac
 type: d3-device-type-assertion

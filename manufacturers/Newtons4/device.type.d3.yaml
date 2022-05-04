@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca91b4f4-9f88-4ba6-ae6a-a1126bf4a667
-  mac-addresses:
+  id: e24f07d0-16ee-4303-8aab-c1311b74c9e1
+  macAddresses:
   - 30:0A:60:70:00:00/28
   manufacturer: Newtons4th Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newtons4
 type: d3-device-type-assertion

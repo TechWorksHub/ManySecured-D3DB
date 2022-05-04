@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed949074-2562-4ebb-933e-011e088c0378
-  mac-addresses:
+  id: 6b31e037-a6dd-4dd1-a856-1f34fbff0c75
+  macAddresses:
   - 00:0D:EE:00:00:00/24
   manufacturer: Andrew RF Power Amplifier Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndrewRF
 type: d3-device-type-assertion

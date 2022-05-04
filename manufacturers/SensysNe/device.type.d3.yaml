@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f852f337-7088-4de3-9dce-56731d9e41b8
-  mac-addresses:
+  id: 7eb8d543-5c58-4471-8796-4511614c7487
+  macAddresses:
   - 1C:88:79:70:00:00/28
   manufacturer: Sensys Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensysNe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cf4c144-757e-49f1-ae04-9f36c9343629
-  mac-addresses:
+  id: 6bd2cc7e-d691-4e86-a802-3e6f9a33270a
+  macAddresses:
   - 00:07:18:00:00:00/24
   manufacturer: iCanTek Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iCanTek
 type: d3-device-type-assertion

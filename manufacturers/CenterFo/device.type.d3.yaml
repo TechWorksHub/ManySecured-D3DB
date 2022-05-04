@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c238aa1-0a2f-4575-96c8-20f2ce8cc0d9
-  mac-addresses:
+  id: 94c78366-d158-47c0-ab38-a05ee1ca1647
+  macAddresses:
   - 00:20:BA:00:00:00/24
   manufacturer: Center For High Performance
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CenterFo
 type: d3-device-type-assertion

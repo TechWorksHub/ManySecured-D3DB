@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4315124-cfac-4ea0-b699-89ca4a9a2313
-  mac-addresses:
+  id: ce2efb49-c090-4ea0-a523-1ecafd8d1a84
+  macAddresses:
   - 00:50:C2:C9:90:00/36
   manufacturer: HJPC Corporation dba Pactron
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HJPCdbaP
 type: d3-device-type-assertion

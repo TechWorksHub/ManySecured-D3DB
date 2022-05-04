@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04cccf6c-ccb1-4bef-880c-538fe246802e
-  mac-addresses:
+  id: 49aedad3-a6a9-484c-9b0f-5674daba87a3
+  macAddresses:
   - 00:03:D4:00:00:00/24
   manufacturer: Alloptic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alloptic
 type: d3-device-type-assertion

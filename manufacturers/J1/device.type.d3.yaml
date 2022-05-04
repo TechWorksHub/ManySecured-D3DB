@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc692063-68f6-4e0e-b583-85b17e5a6eb1
-  mac-addresses:
+  id: 7aa0f1ef-460a-43d1-9b81-8420db052abd
+  macAddresses:
   - 00:C0:D6:00:00:00/24
   manufacturer: J1 Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: J1
 type: d3-device-type-assertion

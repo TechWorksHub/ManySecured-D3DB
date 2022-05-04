@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88dc915f-c8d3-4cee-8fac-791a42017766
-  mac-addresses:
+  id: 1e3cae4d-08d8-49c6-b10c-7ee1292f22e9
+  macAddresses:
   - 00:1B:C5:08:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nistica
 type: d3-device-type-assertion

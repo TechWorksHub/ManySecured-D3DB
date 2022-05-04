@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e27ec094-d9b2-4616-a939-4f92275e5359
-  mac-addresses:
+  id: 806f97bb-b671-437c-b9bf-f8de2ceae7b5
+  macAddresses:
   - 4C:32:2D:00:00:00/24
   manufacturer: Teledata Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teledata
 type: d3-device-type-assertion

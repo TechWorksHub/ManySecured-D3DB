@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89d9cb21-07b7-42ea-a28f-95b2f4b9f977
-  mac-addresses:
+  id: 57e0552a-aa10-497e-ab5b-50d5e9290b5e
+  macAddresses:
   - 00:0F:4D:00:00:00/24
   manufacturer: TalkSwitch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TalkSwit
 type: d3-device-type-assertion

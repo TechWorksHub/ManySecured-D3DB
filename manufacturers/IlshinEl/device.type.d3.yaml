@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e1e200e-9563-451d-9608-10308fec1b74
-  mac-addresses:
+  id: 2eb764bb-0592-4770-9807-a50d7791e4fb
+  macAddresses:
   - 1C:EE:E8:00:00:00/24
   manufacturer: Ilshin Elecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IlshinEl
 type: d3-device-type-assertion

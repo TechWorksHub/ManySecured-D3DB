@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f973c2f3-f2be-4fc3-ae80-23a35e657cf5
-  mac-addresses:
+  id: 346afd06-4705-4cca-ac97-7e06b584b7ec
+  macAddresses:
   - 00:17:23:00:00:00/24
   manufacturer: Summit Data Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SummitDa
 type: d3-device-type-assertion

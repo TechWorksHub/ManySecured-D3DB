@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a91fac06-ba0d-4852-a27e-bd83dbbf7158
-  mac-addresses:
+  id: 86d704d5-1ab8-4901-ad45-86bb74f233c3
+  macAddresses:
   - A4:A4:D3:00:00:00/24
   manufacturer: Bluebank Communication Technology Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bluebank
 type: d3-device-type-assertion

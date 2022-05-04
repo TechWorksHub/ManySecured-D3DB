@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8068c561-1d91-4d39-bc9c-65d644ed0476
-  mac-addresses:
+  id: 86c50dd7-cfd7-4efe-9d74-5374d93b544d
+  macAddresses:
   - 14:4F:D7:10:00:00/28
   - 70:B3:D5:42:60:00/36
   manufacturer: Zehnder Group AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZehnderG
 type: d3-device-type-assertion

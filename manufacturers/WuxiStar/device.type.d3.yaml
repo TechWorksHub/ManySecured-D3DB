@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb03be0b-1312-4355-8ef4-03ee54ff593b
-  mac-addresses:
+  id: e6799821-5b85-4b82-8ce0-8a5759e8ecd0
+  macAddresses:
   - E4:B6:33:00:00:00/24
   manufacturer: Wuxi Stars Microsystem Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuxiStar
 type: d3-device-type-assertion

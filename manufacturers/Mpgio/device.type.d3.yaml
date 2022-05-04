@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a681398e-99be-46e9-9975-72bff4650155
-  mac-addresses:
+  id: dcfed5ce-2155-4338-a492-9c405f1ec162
+  macAddresses:
   - 8C:60:E7:00:00:00/24
   manufacturer: Mpgio Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mpgio
 type: d3-device-type-assertion

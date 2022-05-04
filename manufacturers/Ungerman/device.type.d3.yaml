@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 9037a8c3-b5ce-4aa5-9cbf-2d0a4a0172b9
-  mac-addresses:
+  id: 32db0a4c-55c0-427a-8b4e-f9429b5ceee4
+  macAddresses:
   - 00:BB:F0:00:00:00/24
   - 00:DD:00:00:00:00/24
   - 00:DD:01:00:00:00/24
@@ -19,6 +19,6 @@ credentialSubject:
   - 00:DD:0E:00:00:00/24
   - 00:DD:0F:00:00:00/24
   manufacturer: Ungermann-Bass Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ungerman
 type: d3-device-type-assertion

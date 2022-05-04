@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4db0201-34ea-4634-8c7b-1d1b4ebfd4d9
-  mac-addresses:
+  id: 07208439-a840-4049-90d9-831d05cb5af3
+  macAddresses:
   - A8:8D:7B:00:00:00/24
   manufacturer: SunDroid Global limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SunDroid
 type: d3-device-type-assertion

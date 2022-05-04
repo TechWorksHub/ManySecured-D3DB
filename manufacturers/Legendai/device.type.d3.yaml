@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7b36c4a-e3de-48b2-b035-aff9a2d2d513
-  mac-addresses:
+  id: 62598805-81ee-4231-a602-a07039adbd8b
+  macAddresses:
   - 70:B3:D5:02:F0:00/36
   manufacturer: Legendaire Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Legendai
 type: d3-device-type-assertion

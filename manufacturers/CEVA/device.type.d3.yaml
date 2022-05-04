@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20052319-63da-40f9-aec2-5825d5c57020
-  mac-addresses:
+  id: 52f3b31a-6e32-430d-82ac-773cfe3eff56
+  macAddresses:
   - 00:25:3A:00:00:00/24
   manufacturer: CEVA, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CEVA
 type: d3-device-type-assertion

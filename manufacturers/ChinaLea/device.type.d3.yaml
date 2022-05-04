@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1009cedb-c97c-44ea-9d93-87f58da2d6a8
-  mac-addresses:
+  id: 235f4ecf-3aa5-4844-a100-22d1ec8f6b07
+  macAddresses:
   - 74:DD:CB:00:00:00/24
   manufacturer: China Leadshine Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChinaLea
 type: d3-device-type-assertion

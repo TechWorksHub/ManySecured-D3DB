@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a418900-e014-473f-9d18-4ab103a2a903
-  mac-addresses:
+  id: 65ac5589-f1fe-4236-bde8-3bc6868deaa3
+  macAddresses:
   - 48:0B:B2:00:00:00/28
   manufacturer: Ridango AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RidangoA
 type: d3-device-type-assertion

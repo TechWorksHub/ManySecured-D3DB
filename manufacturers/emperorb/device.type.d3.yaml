@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e258003-72ad-4a09-b8bc-02f456c3edcd
-  mac-addresses:
+  id: 936424a3-9dea-4430-b075-986126487eb3
+  macAddresses:
   - 70:B3:D5:65:80:00/36
   manufacturer: emperor brands
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: emperorb
 type: d3-device-type-assertion

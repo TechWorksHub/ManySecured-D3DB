@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1af8b9f7-2ecc-4b12-9faf-00922af51e84
-  mac-addresses:
+  id: 8ab19457-461c-41a5-8f5b-6b9b6560cde6
+  macAddresses:
   - 00:02:B2:00:00:00/24
   manufacturer: Cablevision
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cablevis
 type: d3-device-type-assertion

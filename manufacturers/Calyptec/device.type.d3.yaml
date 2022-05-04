@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3432b5c9-a4e3-45e6-baf9-9438c439513e
-  mac-addresses:
+  id: 4cc714fd-5460-4450-8f99-6b8a3a4a36f2
+  macAddresses:
   - 00:1B:9F:00:00:00/24
   manufacturer: Calyptech Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Calyptec
 type: d3-device-type-assertion

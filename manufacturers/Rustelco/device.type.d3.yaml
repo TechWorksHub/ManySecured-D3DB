@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 103ec71a-fef1-4089-b1f0-e0217df045a9
-  mac-addresses:
+  id: 5eb77c88-1461-4611-b88a-f353df6c3414
+  macAddresses:
   - 00:22:EA:00:00:00/24
   manufacturer: Rustelcom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rustelco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70c4b870-4942-4891-85c3-dc906f57e0d8
-  mac-addresses:
+  id: bca9da8f-006a-4d12-b9e9-6158cbe6a6aa
+  macAddresses:
   - A0:F9:B7:00:00:00/24
   manufacturer: Ademco Smart Homes Technology(Tianjin)Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdemcoSm
 type: d3-device-type-assertion

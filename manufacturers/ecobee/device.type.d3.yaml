@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6af7d36d-a9ca-4d7b-aedb-831e91334eaa
-  mac-addresses:
+  id: d28e0e5f-6784-4610-a636-c7fb978ea172
+  macAddresses:
   - 44:61:32:00:00:00/24
   manufacturer: ecobee inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ecobee
 type: d3-device-type-assertion

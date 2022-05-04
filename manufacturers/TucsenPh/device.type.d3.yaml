@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5fab69f-3ea7-4619-8f52-4f8f0bc7bf8d
-  mac-addresses:
+  id: c888a9bb-00b0-4dc9-9d5b-d21b537558f7
+  macAddresses:
   - 70:B3:D5:8A:70:00/36
   manufacturer: Tucsen Photonics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TucsenPh
 type: d3-device-type-assertion

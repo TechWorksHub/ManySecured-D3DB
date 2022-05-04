@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2575702f-3947-441a-a12c-0c6b69214eea
-  mac-addresses:
+  id: 34c4ccbb-0ea1-49bd-9e6c-0888bcc297b5
+  macAddresses:
   - 00:18:A6:00:00:00/24
   manufacturer: Persistent Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Persiste
 type: d3-device-type-assertion

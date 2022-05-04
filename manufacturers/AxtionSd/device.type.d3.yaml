@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62b6e703-cc79-4da2-a3a4-9dc9438f3d2f
-  mac-addresses:
+  id: 4427d81b-4b5a-4ab4-b23a-270f578c5a13
+  macAddresses:
   - 0C:5A:19:00:00:00/24
   manufacturer: Axtion Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxtionSd
 type: d3-device-type-assertion

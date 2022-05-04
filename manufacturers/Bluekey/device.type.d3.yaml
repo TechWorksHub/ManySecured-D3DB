@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c94547f2-3a82-4352-924b-c6dc200550d6
-  mac-addresses:
+  id: a5860b8e-9710-41cb-8278-7fafb128ccfd
+  macAddresses:
   - 28:36:38:A0:00:00/28
   manufacturer: Bluekey Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bluekey
 type: d3-device-type-assertion

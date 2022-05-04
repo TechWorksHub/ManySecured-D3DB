@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 331f6654-8669-493b-bf7f-11e04f26525d
-  mac-addresses:
+  id: 1cd985ed-8d66-4cb8-b617-3d3b6de0f433
+  macAddresses:
   - 00:90:C3:00:00:00/24
   manufacturer: Topic Semiconductor Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TopicSem
 type: d3-device-type-assertion

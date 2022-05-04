@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dacd7176-7bf7-4c26-ad73-0d3490f58c2c
-  mac-addresses:
+  id: 972f4160-2235-4bbd-96a0-5ec699e4c080
+  macAddresses:
   - AC:A9:A0:00:00:00/24
   manufacturer: Audioengine, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audioeng
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 946ecca8-95da-44fc-9783-9a4e7b0cfb09
-  mac-addresses:
+  id: a1082e41-dda8-4286-976c-5a4d0da8df8a
+  macAddresses:
   - 00:AD:24:00:00:00/24
   - 08:5A:11:00:00:00/24
   - 0C:0E:76:00:00:00/24
@@ -62,6 +62,6 @@ credentialSubject:
   - F8:E9:03:00:00:00/24
   - FC:75:16:00:00:00/24
   manufacturer: D-Link International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D-LinkIn
 type: d3-device-type-assertion

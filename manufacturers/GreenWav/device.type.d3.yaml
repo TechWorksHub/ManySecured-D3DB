@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 688142cf-d47c-41be-a453-76503a68db43
-  mac-addresses:
+  id: e6a2687b-8f4a-4d06-bca6-e17e12285cae
+  macAddresses:
   - 84:E3:23:00:00:00/24
   - D4:A9:28:00:00:00/24
   manufacturer: Green Wave Telecommunication SDN BHD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenWav
 type: d3-device-type-assertion

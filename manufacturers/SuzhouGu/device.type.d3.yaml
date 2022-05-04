@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcfe68ea-74d4-408a-8665-b3675ee2d04e
-  mac-addresses:
+  id: dc8e3e3c-550f-4f86-9c4d-4538b91ea624
+  macAddresses:
   - 8C:AE:49:B0:00:00/28
   manufacturer: Suzhou Guowang Electronics Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouGu
 type: d3-device-type-assertion

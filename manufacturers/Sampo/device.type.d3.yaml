@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5badd06-9115-4a0c-bcae-7a92bde6398a
-  mac-addresses:
+  id: 5e610a71-9b56-4fd8-925e-376e0b02da09
+  macAddresses:
   - 00:15:5B:00:00:00/24
   manufacturer: Sampo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sampo
 type: d3-device-type-assertion

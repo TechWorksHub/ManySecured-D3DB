@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 608b5014-bf8c-451b-9c7a-9a35de4257b4
-  mac-addresses:
+  id: 2af4158f-3ac2-4f76-8479-26ad31b6ea34
+  macAddresses:
   - 70:76:F0:00:00:00/24
   manufacturer: LevelOne Communications (India) Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LevelOne
 type: d3-device-type-assertion

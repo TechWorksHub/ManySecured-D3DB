@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b11a7be8-cb5e-4c06-befd-7b9b1f0e28ec
-  mac-addresses:
+  id: fbb06eca-1470-49b4-a625-14b2438181a5
+  macAddresses:
   - 00:15:09:00:00:00/24
   manufacturer: Plus Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlusTech
 type: d3-device-type-assertion

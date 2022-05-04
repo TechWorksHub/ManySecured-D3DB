@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e74d6548-0c30-4fbf-ae51-b157d9a636c9
-  mac-addresses:
+  id: f6cb97ae-abae-4ed7-9004-705c75aadd60
+  macAddresses:
   - 78:D5:B5:00:00:00/24
   manufacturer: Navielektro Ky
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Navielek
 type: d3-device-type-assertion

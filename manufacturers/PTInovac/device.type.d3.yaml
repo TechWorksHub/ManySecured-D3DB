@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11b65b1b-c392-44cd-a999-92a07b149e8b
-  mac-addresses:
+  id: 162cd227-a41d-45a0-890c-64b17c73c19f
+  macAddresses:
   - 00:06:91:00:00:00/24
   manufacturer: PT Inovacao
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTInovac
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 651ebccf-1c46-44b4-b2fb-55ab53526f78
-  mac-addresses:
+  id: 7ba2f4a6-b671-4752-9115-d69604d03248
+  macAddresses:
   - 00:1E:2F:00:00:00/24
   manufacturer: DiMoto Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiMoto
 type: d3-device-type-assertion

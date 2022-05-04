@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9328be9a-b577-4c14-8f82-da272aa56ea5
-  mac-addresses:
+  id: 7bd9ea12-9ef3-4756-980d-061d9492f265
+  macAddresses:
   - 2C:E2:A8:00:00:00/24
   manufacturer: DeviceDesign
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeviceDe
 type: d3-device-type-assertion

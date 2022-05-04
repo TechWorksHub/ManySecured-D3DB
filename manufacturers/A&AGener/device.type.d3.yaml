@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe373203-f88a-4db3-9dac-4cb0bdf4790b
-  mac-addresses:
+  id: bfcaac9a-b4ab-4e03-b300-c72bd84fd74b
+  macAddresses:
   - 00:50:C2:DD:D0:00/36
   manufacturer: A&A General Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A&AGener
 type: d3-device-type-assertion

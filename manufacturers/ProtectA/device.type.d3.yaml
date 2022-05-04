@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a47c3e57-dd80-4b95-a83d-9a8e6bdfa372
-  mac-addresses:
+  id: c6c484c2-b3b3-4e8d-ac91-9a2c81a6fabb
+  macAddresses:
   - 40:15:97:00:00:00/24
   manufacturer: Protect America, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProtectA
 type: d3-device-type-assertion

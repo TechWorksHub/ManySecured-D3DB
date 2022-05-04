@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84fc4aac-df64-47df-abe8-dc3ef14604ac
-  mac-addresses:
+  id: 9c761778-82e9-42b0-9cb2-9afa2fb7e72b
+  macAddresses:
   - 00:1E:D6:00:00:00/24
   manufacturer: Alentec & Orion AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlentecO
 type: d3-device-type-assertion

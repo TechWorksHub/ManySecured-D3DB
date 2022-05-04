@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7009a324-8762-40ff-b2f9-67b009c7a309
-  mac-addresses:
+  id: f0aba97b-97d2-42ea-8e82-ee8f40dce056
+  macAddresses:
   - E4:1E:0A:40:00:00/28
   manufacturer: XPR Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XPRGroup
 type: d3-device-type-assertion

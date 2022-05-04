@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3e4bbc3-69bd-4ece-ab0a-497514b1ccbc
-  mac-addresses:
+  id: bd7f1070-ed80-428b-8014-b4f8c6b87c40
+  macAddresses:
   - E8:78:29:70:00:00/28
   manufacturer: FAIOT Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FAIOT
 type: d3-device-type-assertion

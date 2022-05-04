@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d740232-0b6a-4dff-9f3f-bdcc96f4bc9c
-  mac-addresses:
+  id: 2ac3aae2-206f-441d-9ed2-e330982e335c
+  macAddresses:
   - 00:0E:FA:00:00:00/24
   manufacturer: Optoway Technology Incorporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptowayT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c9cc748-58b1-4d67-892b-01f216890b39
-  mac-addresses:
+  id: 0a8a8e85-3037-4b57-9632-7f94d1755496
+  macAddresses:
   - B4:AB:2C:00:00:00/24
   manufacturer: MtM Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MtMTechn
 type: d3-device-type-assertion

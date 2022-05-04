@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28dbab4f-bbf5-4e77-ac63-0efb187c5ca9
-  mac-addresses:
+  id: 1b56128b-c1d3-4676-9c3f-9666c19775f7
+  macAddresses:
   - 4C:40:88:00:00:00/24
   manufacturer: Sanshin Electronics Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanshinE
 type: d3-device-type-assertion

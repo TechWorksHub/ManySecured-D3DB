@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecbb7100-0cda-4feb-991b-e35f3b82ae15
-  mac-addresses:
+  id: 4407c9a8-f107-414c-81b6-dfd0891462ee
+  macAddresses:
   - 00:E0:9B:00:00:00/24
   manufacturer: Engage Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EngageNe
 type: d3-device-type-assertion

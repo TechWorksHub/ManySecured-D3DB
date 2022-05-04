@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 368bdf08-71b7-4a86-a203-f21e0a90bf8c
-  mac-addresses:
+  id: a1fb4b41-1838-422d-b7ea-9b014bdbea69
+  macAddresses:
   - D4:25:CC:50:00:00/28
   manufacturer: bvk technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bvktechn
 type: d3-device-type-assertion

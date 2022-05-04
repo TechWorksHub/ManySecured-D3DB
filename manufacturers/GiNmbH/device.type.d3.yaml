@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29af0d39-aea7-4d8c-8c2d-a51a33e35e09
-  mac-addresses:
+  id: 663a6fea-576b-4407-aa7e-b518efaf440b
+  macAddresses:
   - 00:1B:FA:00:00:00/24
   manufacturer: G.i.N. mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiNmbH
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bd9d6c5-096c-4134-ae1d-9294c0fdd2c5
-  mac-addresses:
+  id: 8ae6daf3-5d82-4797-9107-bdd7dd203426
+  macAddresses:
   - 00:40:7C:00:00:00/24
   manufacturer: Qume Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qume
 type: d3-device-type-assertion

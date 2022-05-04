@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1441ac67-1f8b-437b-8328-9356018d6e9c
-  mac-addresses:
+  id: 99d726db-0c0b-4566-b0ee-dd2d47e9f884
+  macAddresses:
   - 00:1B:C5:06:D0:00/36
   manufacturer: TES Electronic Solutions (I) Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TESElect
 type: d3-device-type-assertion

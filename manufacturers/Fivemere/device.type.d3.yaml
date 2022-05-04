@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd97e7de-a3e3-414c-810f-b5303355bbce
-  mac-addresses:
+  id: 636123ea-6c2d-4b68-ab6f-4722ebb7bfbe
+  macAddresses:
   - 00:D0:38:00:00:00/24
   manufacturer: Fivemere, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fivemere
 type: d3-device-type-assertion

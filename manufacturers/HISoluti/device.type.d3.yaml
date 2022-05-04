@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 518f85ad-6c10-42cd-8708-1e480080b343
-  mac-addresses:
+  id: 272799ea-117d-44c7-bf64-5542d31f3fad
+  macAddresses:
   - AC:02:CA:00:00:00/24
   manufacturer: HI Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HISoluti
 type: d3-device-type-assertion

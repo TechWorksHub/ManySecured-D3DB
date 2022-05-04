@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92dc3a98-20c6-45d6-9256-1690e9ae9cbd
-  mac-addresses:
+  id: 146ec815-4376-44a5-b082-d4073be54c20
+  macAddresses:
   - 70:B3:D5:C0:60:00/36
   manufacturer: XotonicsMED GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xotonics
 type: d3-device-type-assertion

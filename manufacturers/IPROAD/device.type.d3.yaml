@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 575dc6dd-40e4-45b0-893f-d98ada726fbc
-  mac-addresses:
+  id: f3d815b3-19d3-480a-ae72-3623e9338cd4
+  macAddresses:
   - 1C:AE:3E:10:00:00/28
   - D4:F1:43:00:00:00/24
   manufacturer: IPROAD,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPROAD
 type: d3-device-type-assertion

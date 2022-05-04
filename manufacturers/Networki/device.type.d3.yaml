@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 364b55ca-3b31-4748-985f-2c61e4a2cae0
-  mac-addresses:
+  id: 91b21eaa-578d-4963-9f0a-284f2add646b
+  macAddresses:
   - 20:85:93:10:00:00/28
   manufacturer: Networking Services Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Networki
 type: d3-device-type-assertion

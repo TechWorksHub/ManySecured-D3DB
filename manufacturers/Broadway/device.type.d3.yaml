@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 061e4595-e9f2-48e6-bc43-e2e59e02da7d
-  mac-addresses:
+  id: ca4d6f77-952d-484d-b36a-940585d61474
+  macAddresses:
   - 00:23:C0:00:00:00/24
   manufacturer: Broadway Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Broadway
 type: d3-device-type-assertion

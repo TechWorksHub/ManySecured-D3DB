@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a0486625-8969-4359-8758-4df5c0ae7830
-  mac-addresses:
+  id: 700b93a9-2c34-4573-94cd-415b4f127dde
+  macAddresses:
   - 00:50:C2:AB:F0:00/36
   manufacturer: MCC Computer Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MCCCompu
 type: d3-device-type-assertion

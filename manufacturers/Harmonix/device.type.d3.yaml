@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec7a322a-8939-4db2-b8de-052df4f3abe2
-  mac-addresses:
+  id: 6d015b05-2185-4d6d-ad4e-85f0e7b68de8
+  macAddresses:
   - 00:30:30:00:00:00/24
   manufacturer: Harmonix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Harmonix
 type: d3-device-type-assertion

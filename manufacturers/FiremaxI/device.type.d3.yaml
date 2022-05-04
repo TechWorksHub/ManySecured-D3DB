@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47d72917-3b12-4e1a-b121-2b205093efbe
-  mac-addresses:
+  id: e74e708b-8777-4310-8fe3-ea886105d955
+  macAddresses:
   - 9C:5C:8D:00:00:00/24
   manufacturer: "Firemax Ind\xFAstria E Com\xE9rcio De Produtos Eletr\xF4nicos Ltda"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FiremaxI
 type: d3-device-type-assertion

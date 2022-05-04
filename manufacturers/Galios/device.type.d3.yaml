@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53343f8d-6a83-464c-9f7f-36c53019db8b
-  mac-addresses:
+  id: fa5e8828-dc46-4108-8130-80bca2235562
+  macAddresses:
   - 70:B3:D5:EA:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Galios
 type: d3-device-type-assertion

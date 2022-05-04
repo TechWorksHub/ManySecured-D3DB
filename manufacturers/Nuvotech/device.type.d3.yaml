@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7980eb16-813e-4283-be1c-9d214a348fed
-  mac-addresses:
+  id: 1bd0e82b-4d34-4ec8-b622-d25f33140c84
+  macAddresses:
   - 00:80:D6:00:00:00/24
   manufacturer: Nuvotech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nuvotech
 type: d3-device-type-assertion

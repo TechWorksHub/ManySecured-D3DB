@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9c5e4c7-0737-421f-86b5-55e0355a78cf
-  mac-addresses:
+  id: 33cd2d2b-9e35-43d2-ace4-d2b267f1982d
+  macAddresses:
   - 40:D8:55:0E:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Richter
 type: d3-device-type-assertion

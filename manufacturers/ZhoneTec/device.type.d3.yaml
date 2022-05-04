@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1dcd7268-58cc-4df3-b050-bc4ffbb63e2f
-  mac-addresses:
+  id: 04b03e81-6941-48e2-90e3-1727b5ac4fbe
+  macAddresses:
   - 00:01:47:00:00:00/24
   - 00:02:71:00:00:00/24
   manufacturer: Zhone Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhoneTec
 type: d3-device-type-assertion

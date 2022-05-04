@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a28c7b41-9f61-4367-963d-1d54a4b15b63
-  mac-addresses:
+  id: a7298f6b-6e29-4822-b730-4448c5249995
+  macAddresses:
   - 70:B3:D5:F7:E0:00/36
   manufacturer: Alpha Elettronica s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 565910bd-cbf5-4765-8ff7-c6826af79f95
-  mac-addresses:
+  id: ab0a7b52-07c8-4956-bba9-fffbfd767c42
+  macAddresses:
   - 00:50:C2:92:10:00/36
   manufacturer: iQue RFID Technologies BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iQueRFID
 type: d3-device-type-assertion

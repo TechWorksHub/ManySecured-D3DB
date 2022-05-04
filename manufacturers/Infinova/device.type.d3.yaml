@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df907d99-6ab5-424f-ada6-6c23b3de44d2
-  mac-addresses:
+  id: eb2b1970-44ac-4de8-aa8e-c0d5912ea702
+  macAddresses:
   - 00:18:8A:00:00:00/24
   manufacturer: Infinova LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infinova
 type: d3-device-type-assertion

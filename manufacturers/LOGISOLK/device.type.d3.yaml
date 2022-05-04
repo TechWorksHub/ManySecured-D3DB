@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19d74e6f-e9d3-4d04-9229-acc6f1e6c71c
-  mac-addresses:
+  id: 118331b4-f0c9-448e-bea4-81b12a4fff80
+  macAddresses:
   - 00:50:C2:FE:D0:00/36
   manufacturer: LOGISOL Kft.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LOGISOLK
 type: d3-device-type-assertion

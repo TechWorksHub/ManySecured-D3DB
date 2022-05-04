@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1078477-779b-4ba8-b2b9-fecbf04a8f6c
-  mac-addresses:
+  id: 66987e53-093f-4311-a261-333edf3b4370
+  macAddresses:
   - 00:07:59:00:00:00/24
   manufacturer: Boris Manufacturing Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BorisMan
 type: d3-device-type-assertion

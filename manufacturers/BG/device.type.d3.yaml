@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ee15870-3b44-47eb-8c59-0f8a0d81fd9b
-  mac-addresses:
+  id: b9879c76-16f2-4bee-998b-8407ba3e39bf
+  macAddresses:
   - 00:50:C2:BD:60:00/36
   manufacturer: BG Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BG
 type: d3-device-type-assertion

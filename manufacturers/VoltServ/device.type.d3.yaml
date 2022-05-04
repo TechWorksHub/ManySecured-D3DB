@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb2531f3-9501-4822-a402-b958d43ef4f3
-  mac-addresses:
+  id: 33fe04cb-1261-4f70-83ff-817936f02a54
+  macAddresses:
   - 8C:25:5E:00:00:00/24
   manufacturer: VoltServer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VoltServ
 type: d3-device-type-assertion

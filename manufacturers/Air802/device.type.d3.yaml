@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ae0d202-7764-467a-8779-26da6529a79c
-  mac-addresses:
+  id: 7417bdac-c160-4813-a0e4-462487673eda
+  macAddresses:
   - 00:1F:35:00:00:00/24
   manufacturer: Air802 Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Air802
 type: d3-device-type-assertion

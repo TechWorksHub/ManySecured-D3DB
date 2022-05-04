@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5d9e7c6-467e-42e2-be59-5adc29c07b7c
-  mac-addresses:
+  id: 533c80fd-b0ac-4bd5-a871-0d8be73098a2
+  macAddresses:
   - 40:11:75:50:00:00/28
   manufacturer: Mirc Electronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MircElec
 type: d3-device-type-assertion

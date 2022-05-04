@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 466e0dcb-e4db-45bb-af34-c6b4efacc76b
-  mac-addresses:
+  id: 0c46880d-3d34-4884-a248-7388d6a38b8e
+  macAddresses:
   - 58:57:0D:00:00:00/24
   manufacturer: Danfoss Solar Inverters
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DanfossS
 type: d3-device-type-assertion

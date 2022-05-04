@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4507e0f3-5ea6-4051-a243-98c79ca1480d
-  mac-addresses:
+  id: 6715aa81-150c-4311-b73b-bc4d346d57e4
+  macAddresses:
   - 00:0E:2B:00:00:00/24
   manufacturer: Safari Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SafariTe
 type: d3-device-type-assertion

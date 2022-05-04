@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3c653dc-5463-4358-beab-d72e791da2e3
-  mac-addresses:
+  id: 4a0e18a0-243e-4e9a-83d5-42e966db7101
+  macAddresses:
   - 94:F1:9E:00:00:00/24
   manufacturer: Huizhou Maorong Intelligent Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuizhouM
 type: d3-device-type-assertion

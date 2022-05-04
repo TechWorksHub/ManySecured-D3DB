@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 245f0698-c3a0-499f-b7c6-195b3173ad86
-  mac-addresses:
+  id: 38ba0533-1851-4ee8-b5e4-e0093aec6f12
+  macAddresses:
   - 00:00:4F:00:00:00/24
   manufacturer: Logicraft 386-Ware P.C. Emulator
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logicraf
 type: d3-device-type-assertion

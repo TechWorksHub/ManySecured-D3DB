@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1ca72b7-d69d-4f2b-a31e-f81e5045aeb6
-  mac-addresses:
+  id: aee7487b-0c4e-442f-bfaf-f1fa1cc2e421
+  macAddresses:
   - 70:B3:D5:05:F0:00/36
   manufacturer: Unisor Multisystems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnisorMu
 type: d3-device-type-assertion

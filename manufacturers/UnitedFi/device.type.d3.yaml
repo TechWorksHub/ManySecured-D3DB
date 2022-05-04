@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f5205e2-705e-4e8a-8ef7-adee7d2ee979
-  mac-addresses:
+  id: 8a58faf0-0e1a-435e-86c1-cd0ded1d9b38
+  macAddresses:
   - 00:11:C2:00:00:00/24
   manufacturer: United Fiber Optic Communication
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnitedFi
 type: d3-device-type-assertion

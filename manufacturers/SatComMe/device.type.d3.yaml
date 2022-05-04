@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63139777-a298-42f1-89cb-51fc90bbfa8f
-  mac-addresses:
+  id: b1432a95-91f9-4edd-a0e5-a173311b3d15
+  macAddresses:
   - 00:10:22:00:00:00/24
   manufacturer: SatCom Media Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SatComMe
 type: d3-device-type-assertion

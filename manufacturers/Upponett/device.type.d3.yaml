@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 012d6fca-df94-4c74-abb0-8ac044b8d176
-  mac-addresses:
+  id: 4c7d7cb8-dd3b-4d3d-9577-4cc4a5632497
+  macAddresses:
   - 00:06:70:00:00:00/24
   manufacturer: Upponetti Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Upponett
 type: d3-device-type-assertion

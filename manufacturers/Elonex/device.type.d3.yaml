@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3c65924-7891-4631-b42c-34e9c2c29b71
-  mac-addresses:
+  id: 634ad050-123a-469f-8940-ecf1b45db9a3
+  macAddresses:
   - 00:C0:5C:00:00:00/24
   manufacturer: Elonex Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elonex
 type: d3-device-type-assertion

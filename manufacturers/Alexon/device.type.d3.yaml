@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c62e7d8f-70f6-4d0e-b6f5-802814f1c524
-  mac-addresses:
+  id: 7c82e5e6-9390-4be2-a06e-673b66667213
+  macAddresses:
   - 00:06:4B:00:00:00/24
   manufacturer: Alexon Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alexon
 type: d3-device-type-assertion

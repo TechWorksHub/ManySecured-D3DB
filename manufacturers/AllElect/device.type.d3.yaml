@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3a30011-7556-458c-98d1-3e1c3be4060a
-  mac-addresses:
+  id: 9acc7cc7-bb39-48a7-89d9-f65e49214740
+  macAddresses:
   - 00:50:C2:5F:B0:00/36
   manufacturer: All-Systems Electronics Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AllElect
 type: d3-device-type-assertion

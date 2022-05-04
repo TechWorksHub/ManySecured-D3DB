@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d00c36f0-2307-4d2a-81ff-cd434c7f249d
-  mac-addresses:
+  id: 2800f934-be92-4d3e-a10d-9e85863d2986
+  macAddresses:
   - 9C:80:7D:00:00:00/24
   manufacturer: SYSCABLE Korea Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SYSCABLE
 type: d3-device-type-assertion

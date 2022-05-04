@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac572662-c905-4076-9bd2-6aea17c44ffb
-  mac-addresses:
+  id: eeb5467b-6708-4002-a40b-61935be71c10
+  macAddresses:
   - 00:02:49:00:00:00/24
   manufacturer: Aviv Infocom Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvivInfo
 type: d3-device-type-assertion

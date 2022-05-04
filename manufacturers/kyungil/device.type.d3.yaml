@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce33dca6-0dc9-47c8-a359-f9375820abcb
-  mac-addresses:
+  id: 622cc1d4-3998-4344-a34e-e0199989b603
+  macAddresses:
   - 00:15:AE:00:00:00/24
   manufacturer: kyung il
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: kyungil
 type: d3-device-type-assertion

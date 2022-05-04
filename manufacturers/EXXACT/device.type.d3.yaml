@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92d560e2-c160-45e1-9440-e557b8237d9a
-  mac-addresses:
+  id: 302bfe39-5481-4560-bd96-41174d045b64
+  macAddresses:
   - 00:E0:17:00:00:00/24
   manufacturer: EXXACT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EXXACT
 type: d3-device-type-assertion

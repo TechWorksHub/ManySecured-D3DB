@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df82556f-3cce-492e-b507-35cc1b2a3474
-  mac-addresses:
+  id: 8f7c4020-6a21-4f36-8e5f-a2ad747de74a
+  macAddresses:
   - 00:10:DD:00:00:00/24
   manufacturer: Enable Semiconductor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnableSe
 type: d3-device-type-assertion

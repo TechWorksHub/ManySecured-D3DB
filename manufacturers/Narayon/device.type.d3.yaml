@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6bc103e-6723-4b11-abfc-19564a188e4e
-  mac-addresses:
+  id: 8801223e-01f6-4641-be9a-b294884a7c52
+  macAddresses:
   - 00:13:67:00:00:00/24
   manufacturer: Narayon. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Narayon
 type: d3-device-type-assertion

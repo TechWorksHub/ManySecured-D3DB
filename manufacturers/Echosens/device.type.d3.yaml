@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e70bf94-109b-4020-a1de-7ab55b123dc6
-  mac-addresses:
+  id: 9b8f10dc-0ffc-45c9-ad4b-208b2bfc9e75
+  macAddresses:
   - F0:D6:57:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Echosens
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3538243-923a-43a1-a16f-22dcb574d3b7
-  mac-addresses:
+  id: 100c4e45-9bf9-4199-a5c5-9c6045a8c488
+  macAddresses:
   - 00:50:C2:66:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: flsystem
 type: d3-device-type-assertion

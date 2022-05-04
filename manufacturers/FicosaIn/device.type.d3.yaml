@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fbc7cc5-a8ae-4299-b2c9-7843ed420ab1
-  mac-addresses:
+  id: ca24af0d-581c-4092-8a02-29eba4be2480
+  macAddresses:
   - 00:92:7D:00:00:00/24
   manufacturer: Ficosa Internationa(Taicang) C0.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FicosaIn
 type: d3-device-type-assertion

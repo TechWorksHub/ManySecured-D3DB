@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00b59514-4235-4062-9cf7-6ff1e3ba56f2
-  mac-addresses:
+  id: d5f8a9e5-2e7f-41b6-bf8c-43902a772d5d
+  macAddresses:
   - 00:50:C2:51:90:00/36
   manufacturer: DBMCORP, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DBMCORP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 114fe603-8cbd-470a-8c66-869408015314
-  mac-addresses:
+  id: 82554dc4-7eeb-470e-ac0b-bcd1f4280180
+  macAddresses:
   - 00:90:67:00:00:00/24
   manufacturer: WalkAbout Computers, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WalkAbou
 type: d3-device-type-assertion

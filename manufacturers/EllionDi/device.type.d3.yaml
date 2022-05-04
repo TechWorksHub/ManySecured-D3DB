@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa8ad7c1-571e-4a8c-a1b4-873059676ad0
-  mac-addresses:
+  id: 0ca52b92-4fe1-439e-8ede-3c9a8c9b8cd6
+  macAddresses:
   - 00:1F:8A:00:00:00/24
   manufacturer: Ellion Digital Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EllionDi
 type: d3-device-type-assertion

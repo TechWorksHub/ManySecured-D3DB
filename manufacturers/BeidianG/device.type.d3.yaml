@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3ab0568-561a-4ac4-a08d-b0a127753edc
-  mac-addresses:
+  id: 5092ab48-436c-4811-8271-e22bd08110dc
+  macAddresses:
   - 1C:87:79:50:00:00/28
   manufacturer: Beidian Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeidianG
 type: d3-device-type-assertion

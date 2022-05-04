@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e09fe93-740b-4aeb-8ee0-c6d3a91d6cca
-  mac-addresses:
+  id: be0e82ba-8abd-4b2f-acdb-7684c9994f78
+  macAddresses:
   - 00:09:AE:00:00:00/24
   manufacturer: Okano Electric Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OkanoEle
 type: d3-device-type-assertion

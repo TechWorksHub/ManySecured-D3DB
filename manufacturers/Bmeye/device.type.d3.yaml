@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb8942f0-1937-4c86-894a-b1bd9b657002
-  mac-addresses:
+  id: a14c830f-ae7c-4355-9d74-37dd45100694
+  macAddresses:
   - A8:81:F1:00:00:00/24
   manufacturer: Bmeye B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bmeye
 type: d3-device-type-assertion

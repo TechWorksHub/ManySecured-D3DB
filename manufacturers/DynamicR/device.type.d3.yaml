@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b1cbaec-5e7f-43c3-b717-e759e4377a65
-  mac-addresses:
+  id: 53858bbf-749b-4ac3-90c3-769a672dbd72
+  macAddresses:
   - 00:0E:28:00:00:00/24
   manufacturer: Dynamic Ratings P/L
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynamicR
 type: d3-device-type-assertion

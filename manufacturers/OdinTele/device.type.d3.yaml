@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3af7d40e-04c1-48a4-a79d-faf48ef0a027
-  mac-addresses:
+  id: 62bbad79-7668-4f9a-8d1b-e4bb9a6df4e9
+  macAddresses:
   - 00:50:C2:81:70:00/36
   manufacturer: Odin TeleSystems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OdinTele
 type: d3-device-type-assertion

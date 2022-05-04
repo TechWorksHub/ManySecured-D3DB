@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b8ccfa0-09c0-4bd3-84cc-b0bf2cea959f
-  mac-addresses:
+  id: 0df515ba-8f4b-4a75-9fbb-d731761f369a
+  macAddresses:
   - 00:10:E4:00:00:00/24
   manufacturer: Nsi Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nsi
 type: d3-device-type-assertion

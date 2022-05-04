@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4223690-793f-4184-a6c7-9a50ddaddef8
-  mac-addresses:
+  id: 00b65103-94da-4561-b313-ccb29c04ba2c
+  macAddresses:
   - 00:10:81:00:00:00/24
   manufacturer: Dps, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dps
 type: d3-device-type-assertion

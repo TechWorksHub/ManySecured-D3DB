@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9460b5d1-42e0-484b-beda-6d709b227da9
-  mac-addresses:
+  id: 72e6ef70-47a5-408a-8f9b-f2c0b64ddbaa
+  macAddresses:
   - 00:50:C2:DF:50:00/36
   manufacturer: EtherLight
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EtherLig
 type: d3-device-type-assertion

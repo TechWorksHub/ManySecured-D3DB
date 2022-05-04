@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4518395d-5b3e-45e8-bde9-f75abeb39ef4
-  mac-addresses:
+  id: 1938abdd-d089-49c9-ae48-ecef6ee4c16f
+  macAddresses:
   - 00:50:C2:D8:D0:00/36
   manufacturer: CS-Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CS-Instr
 type: d3-device-type-assertion

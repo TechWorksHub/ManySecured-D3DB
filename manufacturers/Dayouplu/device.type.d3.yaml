@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f4a1695-ae8a-4441-9f1a-c578daca555f
-  mac-addresses:
+  id: 33731164-2559-49f3-9116-a78084d5b16f
+  macAddresses:
   - 8C:31:E2:00:00:00/24
   manufacturer: Dayouplus
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dayouplu
 type: d3-device-type-assertion

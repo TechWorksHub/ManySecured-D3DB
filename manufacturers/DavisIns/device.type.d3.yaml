@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f00124dd-c285-4812-977d-af016e4e437d
-  mac-addresses:
+  id: f83e78a5-92b0-47b5-bc08-04d57a6dcbca
+  macAddresses:
   - 00:1D:0A:00:00:00/24
   manufacturer: Davis Instruments, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DavisIns
 type: d3-device-type-assertion

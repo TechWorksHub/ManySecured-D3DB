@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff2b4563-81f9-4059-a955-fce87e9ff7b0
-  mac-addresses:
+  id: 0e2cbdec-4a58-4fef-8f22-6078165b9222
+  macAddresses:
   - 00:0F:40:00:00:00/24
   manufacturer: Optical Internetworking Forum
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpticalI
 type: d3-device-type-assertion

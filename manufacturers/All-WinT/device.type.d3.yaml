@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e6134ae-03b6-4c53-b1da-29fed4a0aacf
-  mac-addresses:
+  id: 7cbadee4-f3ac-4d4e-8857-ae6954fbd85d
+  macAddresses:
   - 00:02:46:00:00:00/24
   manufacturer: All-Win Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: All-WinT
 type: d3-device-type-assertion

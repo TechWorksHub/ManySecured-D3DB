@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e69d5f6-da9d-4e02-8d67-5c1c49b76a19
-  mac-addresses:
+  id: 0bcee610-2d75-4746-a4d3-4a35ea470826
+  macAddresses:
   - 18:9B:A5:50:00:00/28
   manufacturer: Starfire Industries LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Starfire
 type: d3-device-type-assertion

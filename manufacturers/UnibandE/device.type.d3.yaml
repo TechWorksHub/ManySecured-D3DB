@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c81b949-d7a0-43b0-8617-c1c908cbd34d
-  mac-addresses:
+  id: 7771adb6-67fa-44a3-ab02-90f3ff46e768
+  macAddresses:
   - AC:B8:59:00:00:00/24
   manufacturer: Uniband Electronic Corp,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnibandE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bffa4486-e9f8-4e48-b876-e6028c27c0e8
-  mac-addresses:
+  id: dbd091d2-28d6-4b45-a418-a42bbd6e3290
+  macAddresses:
   - 00:C0:E9:00:00:00/24
   manufacturer: Oak Solutions, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OakSolut
 type: d3-device-type-assertion

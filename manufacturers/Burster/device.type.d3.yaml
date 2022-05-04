@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb166b44-25f4-4c65-aa23-e76b1a31e01e
-  mac-addresses:
+  id: ceb19518-147b-4fa0-8453-6d266f73250f
+  macAddresses:
   - 00:23:6E:00:00:00/24
   manufacturer: Burster GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Burster
 type: d3-device-type-assertion

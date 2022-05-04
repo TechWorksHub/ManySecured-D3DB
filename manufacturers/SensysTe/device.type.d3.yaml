@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b0b3a39-a694-4062-9076-94820c1d12d2
-  mac-addresses:
+  id: 629ad6d9-6202-4a69-bac5-1fad4504bff1
+  macAddresses:
   - 00:50:C2:01:30:00/36
   manufacturer: Sensys Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensysTe
 type: d3-device-type-assertion

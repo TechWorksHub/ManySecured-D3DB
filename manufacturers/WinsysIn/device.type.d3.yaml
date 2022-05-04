@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d38be82-61e5-49c1-a0b3-1d9469ab2965
-  mac-addresses:
+  id: b075356f-2cd8-4c33-8685-3ca9a8af2d55
+  macAddresses:
   - 00:50:C2:62:60:00/36
   manufacturer: Winsys Informatica ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinsysIn
 type: d3-device-type-assertion

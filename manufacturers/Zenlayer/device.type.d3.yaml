@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f65ff28-16e7-4cfb-9b5c-6fe8520a235e
-  mac-addresses:
+  id: ecf6840e-a83e-4cef-9977-49b56b991588
+  macAddresses:
   - B0:B3:53:50:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zenlayer
 type: d3-device-type-assertion

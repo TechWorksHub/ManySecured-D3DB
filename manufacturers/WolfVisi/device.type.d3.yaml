@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 977cb925-d5cc-4774-bf83-1d5c520e6576
-  mac-addresses:
+  id: 12fe76b4-bf5b-4582-b7a7-a4db7bdc9774
+  macAddresses:
   - 00:0C:92:00:00:00/24
   manufacturer: WolfVision Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WolfVisi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42eed9c6-4061-419e-b498-53236be2806b
-  mac-addresses:
+  id: 624c5b6f-2d49-470e-bb25-1c4590c0703a
+  macAddresses:
   - 70:B3:D5:FA:E0:00/36
   manufacturer: Silixa Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silixa
 type: d3-device-type-assertion

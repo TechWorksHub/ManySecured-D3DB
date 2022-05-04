@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 901a6ce4-d569-43a5-9658-d98bd7f1669a
-  mac-addresses:
+  id: 06e0376d-b8e7-4d10-be7f-564f64c44301
+  macAddresses:
   - EC:10:00:00:00:00/24
   manufacturer: Enance Source Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnanceSo
 type: d3-device-type-assertion

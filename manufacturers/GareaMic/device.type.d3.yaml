@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef055e74-8268-4c1a-b748-333ca39e7d74
-  mac-addresses:
+  id: 8b9d9c93-1d1b-480b-b7df-5717e4cd2e33
+  macAddresses:
   - 90:70:25:00:00:00/24
   manufacturer: Garea Microsys Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GareaMic
 type: d3-device-type-assertion

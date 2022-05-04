@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e738e3f5-8e73-41dc-8d11-606b52b4a298
-  mac-addresses:
+  id: eb074f3d-fb72-4e53-aa96-0cd3de93318f
+  macAddresses:
   - E8:10:2E:00:00:00/24
   manufacturer: Really Simple Software, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ReallySi
 type: d3-device-type-assertion

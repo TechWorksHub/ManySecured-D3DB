@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5143df6b-2475-4026-b702-e898e8d05c41
-  mac-addresses:
+  id: 5d646e20-92e9-4e8b-830b-e128b328246e
+  macAddresses:
   - 70:B3:D5:A3:20:00/36
   - 9C:69:B4:B0:00:00/28
   manufacturer: Toughdog Security Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toughdog
 type: d3-device-type-assertion

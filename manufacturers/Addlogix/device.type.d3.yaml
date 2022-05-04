@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fdeb052-a1dd-479c-92e3-cc37b096a5b9
-  mac-addresses:
+  id: b41e9fc4-6a71-4b87-8e1f-e064c438c034
+  macAddresses:
   - 00:12:96:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Addlogix
 type: d3-device-type-assertion

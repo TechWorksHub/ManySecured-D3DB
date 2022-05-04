@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8480b2fe-9eae-4976-9f5f-dd9a413bea12
-  mac-addresses:
+  id: 110cd4ef-318f-4b44-bccd-8adeacf07000
+  macAddresses:
   - 00:50:C2:AD:00:00/36
   manufacturer: Geonautics Australia Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Geonauti
 type: d3-device-type-assertion

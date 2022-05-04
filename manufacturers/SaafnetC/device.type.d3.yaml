@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aaacb319-666e-4294-b641-829cea9d8457
-  mac-addresses:
+  id: b61e110c-8756-45d5-965d-53660b9f7a03
+  macAddresses:
   - 00:19:57:00:00:00/24
   manufacturer: Saafnet Canada Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaafnetC
 type: d3-device-type-assertion

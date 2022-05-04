@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9303417f-2a90-4ad6-b4e3-03647e7d2f6d
-  mac-addresses:
+  id: 5b78e3fe-8b4a-4e0a-bf89-636093b19676
+  macAddresses:
   - 00:50:C2:A8:E0:00/36
   manufacturer: BFI Industrie-Elektronik GmbH & Co.KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BFIIndus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f066d6c5-6aa7-4c60-9295-41ddbbdfc1ce
-  mac-addresses:
+  id: 7ace7161-6ce6-4ecd-a297-e5a6012c51ed
+  macAddresses:
   - 00:50:C2:21:00:00/36
   manufacturer: Innovics Wireless Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innovics
 type: d3-device-type-assertion

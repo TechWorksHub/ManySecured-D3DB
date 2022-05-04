@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66c5af59-7d87-4ccd-9e04-2976b9a59a0e
-  mac-addresses:
+  id: cbe840cf-9fb0-45d0-8301-d4e9d09b1769
+  macAddresses:
   - 00:06:8D:00:00:00/24
   manufacturer: SEPATON, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEPATON
 type: d3-device-type-assertion

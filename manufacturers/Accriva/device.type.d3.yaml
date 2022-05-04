@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0def6fad-0d81-4ef1-8077-ae723cdb8d79
-  mac-addresses:
+  id: d53a9f8a-5eef-4c4c-ac79-a5bec7726303
+  macAddresses:
   - 1C:88:79:C0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accriva
 type: d3-device-type-assertion

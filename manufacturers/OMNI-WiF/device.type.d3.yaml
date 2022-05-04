@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0780d915-e16e-4aab-aef7-633f69767fb8
-  mac-addresses:
+  id: 15d28ae6-1a60-4422-993d-9cff11303bea
+  macAddresses:
   - 00:25:E4:00:00:00/24
   manufacturer: OMNI-WiFi, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OMNI-WiF
 type: d3-device-type-assertion

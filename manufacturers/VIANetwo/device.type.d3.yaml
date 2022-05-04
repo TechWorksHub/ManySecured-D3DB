@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b595a5b2-1a95-4e87-98b4-3de4ca316e02
-  mac-addresses:
+  id: 2a92b9c0-5858-4f19-b344-bb69a71c1b49
+  macAddresses:
   - 00:12:7B:00:00:00/24
   manufacturer: VIA Networking Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VIANetwo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbeeeea3-f4dc-4450-baa7-5506cf7ca3f9
-  mac-addresses:
+  id: 9f49a197-c35d-4d44-b91c-dc1094400be3
+  macAddresses:
   - 94:C9:B7:C0:00:00/28
   manufacturer: Jinjin Technology (Shenzhen) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JinjinTe
 type: d3-device-type-assertion

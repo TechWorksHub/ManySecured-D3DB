@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 4cd206ea-4c2e-491c-aeb3-2e0060cc5e3c
-  mac-addresses:
+  id: 57eb54b8-3023-4399-a05f-4b5d3e26dcb6
+  macAddresses:
   - 00:0E:E8:00:00:00/24
   - 14:4D:67:00:00:00/24
   - 1C:56:8E:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - B8:55:10:00:00:00/24
   - F4:28:53:00:00:00/24
   manufacturer: Zioncom Electronics (Shenzhen) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZioncomE
 type: d3-device-type-assertion

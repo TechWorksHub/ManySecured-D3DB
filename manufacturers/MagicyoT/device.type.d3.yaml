@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac40f9b7-9ea3-433d-b27c-f87fe4d290c7
-  mac-addresses:
+  id: c69eba53-be8d-4677-88df-711c170c328c
+  macAddresses:
   - 6C:15:24:40:00:00/28
   manufacturer: Magicyo Technology CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagicyoT
 type: d3-device-type-assertion

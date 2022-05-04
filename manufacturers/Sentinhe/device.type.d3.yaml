@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3f631cb-4b0a-4ae1-9479-9023d3edf899
-  mac-addresses:
+  id: 5704ba1c-a2e7-4d3b-943c-669bbd66177f
+  macAddresses:
   - E8:74:C7:00:00:00/24
   manufacturer: Sentinhealth
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sentinhe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a47fcb8-72dd-4ee4-bf4d-9a1fc595da40
-  mac-addresses:
+  id: 31783825-c1e7-491f-85b9-08da2c0f8dde
+  macAddresses:
   - 00:15:37:00:00:00/24
   manufacturer: Ventus Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VentusNe
 type: d3-device-type-assertion

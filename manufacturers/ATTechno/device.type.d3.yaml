@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2453417c-ef79-47c0-8791-8c67cdbf7704
-  mac-addresses:
+  id: 93e41a9d-78dd-4420-b028-ffb98be4a14e
+  macAddresses:
   - 70:B3:D5:14:30:00/36
   manufacturer: A & T Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATTechno
 type: d3-device-type-assertion

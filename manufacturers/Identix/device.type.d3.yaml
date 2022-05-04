@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d436d517-d6d9-4167-8b4c-51b6581c60bc
-  mac-addresses:
+  id: a0f56df1-ae55-4750-8a9f-c16d2d3fdf81
+  macAddresses:
   - 00:07:BC:00:00:00/24
   manufacturer: Identix Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Identix
 type: d3-device-type-assertion

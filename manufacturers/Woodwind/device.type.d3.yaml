@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63a9cd32-d051-46a2-a193-25bf85e7e09c
-  mac-addresses:
+  id: 32d1378a-e8ab-4647-82be-446142c8fd8b
+  macAddresses:
   - 00:30:A4:00:00:00/24
   manufacturer: Woodwind Communications System
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Woodwind
 type: d3-device-type-assertion

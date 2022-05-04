@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68cc1078-cb51-45d2-aeb0-8bea0fc05132
-  mac-addresses:
+  id: dafd44aa-2bb8-4f62-beb1-3094fcc6b2d4
+  macAddresses:
   - 70:B3:D5:80:50:00/36
   manufacturer: Eurotronik Kranj d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eurotron
 type: d3-device-type-assertion

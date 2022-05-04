@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0d51b8a-fcd7-422f-b8d8-1f64031029af
-  mac-addresses:
+  id: dd2a4bfc-846c-4b6c-a5d9-dcb98f628c61
+  macAddresses:
   - 7C:0A:50:00:00:00/24
   manufacturer: J-MEX Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: J-MEX
 type: d3-device-type-assertion

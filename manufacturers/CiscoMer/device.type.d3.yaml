@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 99086d3d-1aa7-4eba-a322-be43c0e13213
-  mac-addresses:
+  id: 4e540759-38b4-4d8f-9e60-14f66b33e608
+  macAddresses:
   - 00:18:0A:00:00:00/24
   - 0C:7B:C8:00:00:00/24
   - 0C:8D:DB:00:00:00/24
@@ -25,6 +25,6 @@ credentialSubject:
   - E4:55:A8:00:00:00/24
   - F8:9E:28:00:00:00/24
   manufacturer: Cisco Meraki
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CiscoMer
 type: d3-device-type-assertion

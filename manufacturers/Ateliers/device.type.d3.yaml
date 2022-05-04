@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 603af5f8-6fb1-4632-bb2f-360b068e1a62
-  mac-addresses:
+  id: 2fa8ef6f-d0f2-402d-b674-c6ebcb91ae67
+  macAddresses:
   - 00:1B:06:00:00:00/24
   manufacturer: Ateliers R. LAUMONIER
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ateliers
 type: d3-device-type-assertion

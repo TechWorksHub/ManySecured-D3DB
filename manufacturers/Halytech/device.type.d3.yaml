@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a5f6e86-7e3f-4211-bbd9-d4c2b1c98be6
-  mac-addresses:
+  id: 17b125ac-2679-480c-ae49-0f37cf8d29d2
+  macAddresses:
   - 00:11:8E:00:00:00/24
   manufacturer: Halytech Mace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Halytech
 type: d3-device-type-assertion

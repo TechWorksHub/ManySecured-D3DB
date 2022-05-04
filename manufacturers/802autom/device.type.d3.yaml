@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d40011fb-6701-420f-aa39-25b118a6e7c7
-  mac-addresses:
+  id: 0635a6b7-551b-4fa3-b741-7b9113d77dff
+  macAddresses:
   - 00:1B:E5:00:00:00/24
   manufacturer: 802automation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 802autom
 type: d3-device-type-assertion

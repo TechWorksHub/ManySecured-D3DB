@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d00560f4-ee91-4d3d-9058-4f1154a7c592
-  mac-addresses:
+  id: 92417801-e8d2-4498-8b2b-455435da4e68
+  macAddresses:
   - 00:08:FC:00:00:00/24
   manufacturer: Gigaphoton Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gigaphot
 type: d3-device-type-assertion

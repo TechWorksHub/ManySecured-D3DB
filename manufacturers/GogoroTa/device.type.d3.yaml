@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e52dd1b-de59-4611-b007-0542e8b601e6
-  mac-addresses:
+  id: 021e0c1f-a960-483d-8ea2-aadb21e4a1d7
+  macAddresses:
   - F0:3E:BF:00:00:00/24
   manufacturer: Gogoro Taiwan Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GogoroTa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d956011-49b3-4efa-8777-8ef054f87409
-  mac-addresses:
+  id: d7c79988-c5e6-4a2d-a1b4-149c08b3ef2e
+  macAddresses:
   - B0:65:F1:00:00:00/24
   manufacturer: WIO Manufacturing HK Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WIOManuf
 type: d3-device-type-assertion

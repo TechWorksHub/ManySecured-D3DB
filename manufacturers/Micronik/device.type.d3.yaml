@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccec9895-97ad-4d92-9038-651bb8266bc0
-  mac-addresses:
+  id: 4a56c581-e639-4572-9f74-88c69b83e423
+  macAddresses:
   - 00:03:C3:00:00:00/24
   manufacturer: Micronik Multimedia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micronik
 type: d3-device-type-assertion

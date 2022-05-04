@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63fe7b2a-5aa9-4d18-841b-d61bef897430
-  mac-addresses:
+  id: c739f198-d11c-43e4-881d-b9f8e9512e9c
+  macAddresses:
   - 94:1F:3A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ambiq
 type: d3-device-type-assertion

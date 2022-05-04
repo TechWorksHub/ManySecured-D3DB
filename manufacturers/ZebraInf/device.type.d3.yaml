@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a37b0491-f7d5-4c2e-a745-751585a70f3a
-  mac-addresses:
+  id: 1bb962d1-8ddc-424d-83d2-e10c0c0949d7
+  macAddresses:
   - C4:BB:4C:00:00:00/24
   manufacturer: Zebra Information Tech Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZebraInf
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bac66a2f-20b5-441b-abde-7a2ce11d6957
-  mac-addresses:
+  id: 311456f7-fb6c-4174-9304-a05b017819d7
+  macAddresses:
   - 00:1B:C5:01:F0:00/36
   - 00:1B:C5:02:B0:00/36
   manufacturer: Saturn Solutions Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SaturnSo
 type: d3-device-type-assertion

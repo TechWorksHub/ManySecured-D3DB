@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d97dfcd2-941e-4875-8f69-1452e70d4fa1
-  mac-addresses:
+  id: 7a88f501-909b-493b-8778-a0f68af254c4
+  macAddresses:
   - 00:50:C2:89:30:00/36
   manufacturer: EIZO Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EIZOTech
 type: d3-device-type-assertion

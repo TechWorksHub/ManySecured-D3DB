@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f4cf75e-d01f-4183-8424-4b78b98f1ed8
-  mac-addresses:
+  id: 46993119-2860-4cae-a75f-f2d63c293f9e
+  macAddresses:
   - 00:1B:D1:00:00:00/24
   manufacturer: Sogestmatic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sogestma
 type: d3-device-type-assertion

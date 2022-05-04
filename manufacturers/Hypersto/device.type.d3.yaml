@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b90ba39-4a51-4a65-8d29-88d466a5dd96
-  mac-addresses:
+  id: 223dbe4c-a490-4a0f-9f03-9969b1c54133
+  macAddresses:
   - 00:1C:1B:00:00:00/24
   manufacturer: Hyperstone GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hypersto
 type: d3-device-type-assertion

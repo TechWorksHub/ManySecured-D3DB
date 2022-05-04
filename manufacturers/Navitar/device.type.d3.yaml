@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c23e0d68-9c99-4fcd-9d8e-2739f9e13b92
-  mac-addresses:
+  id: cd5a6b1e-a87f-47f0-a4b6-663b10e9a22c
+  macAddresses:
   - 00:1B:C5:09:D0:00/36
   manufacturer: Navitar Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Navitar
 type: d3-device-type-assertion

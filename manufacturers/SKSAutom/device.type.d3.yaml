@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a814030-0dd9-4fd5-aa28-1a9d493e0f58
-  mac-addresses:
+  id: 36060a83-f825-41a8-ab0a-c90959c97abc
+  macAddresses:
   - 60:D7:E3:30:00:00/28
   manufacturer: SKS Automaatio oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKSAutom
 type: d3-device-type-assertion

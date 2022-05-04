@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0554c0a5-cb36-4526-915b-d1f82b669b98
-  mac-addresses:
+  id: ba02c831-c0a3-4dd0-bdf7-f7b02ac2dec5
+  macAddresses:
   - D0:D9:4F:D0:00:00/28
   manufacturer: Duksanmecasys Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duksanme
 type: d3-device-type-assertion

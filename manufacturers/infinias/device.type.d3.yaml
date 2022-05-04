@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e360879-62ae-40cd-a46d-2563c53f123c
-  mac-addresses:
+  id: 4c8518d1-65ff-477c-9b48-09daf34663e6
+  macAddresses:
   - 00:14:E4:00:00:00/24
   manufacturer: infinias, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: infinias
 type: d3-device-type-assertion

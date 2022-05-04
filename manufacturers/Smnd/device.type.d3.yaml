@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5b69cfa-3dfd-49f4-8730-59ccb548e9ef
-  mac-addresses:
+  id: b7a8a402-36d6-4606-9027-bcf3ec0673f2
+  macAddresses:
   - 24:0D:6C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smnd
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b042e883-982a-47bb-b957-d8fdb74afaeb
-  mac-addresses:
+  id: 5de66d17-5253-448d-a61b-5190a9b6f116
+  macAddresses:
   - 00:22:5E:00:00:00/24
   manufacturer: Uwin Technologies Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UwinTech
 type: d3-device-type-assertion

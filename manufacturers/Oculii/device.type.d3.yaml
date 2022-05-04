@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23a2435b-1caa-4b3f-9c71-3dfab8c11bac
-  mac-addresses:
+  id: c6a6ce48-1f13-4afc-ae50-910825a5c1bc
+  macAddresses:
   - 70:B3:D5:B9:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oculii
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7fe9eed-8a78-4dfc-989a-11abd337c663
-  mac-addresses:
+  id: 080e5547-7d44-494e-9394-37700c5bab7a
+  macAddresses:
   - 00:50:C2:F5:F0:00/36
   manufacturer: Boryeu Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoryeuTe
 type: d3-device-type-assertion

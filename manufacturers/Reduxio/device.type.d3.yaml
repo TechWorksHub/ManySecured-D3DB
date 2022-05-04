@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fbaf68f-be84-4fd6-a122-a1d4384e30b9
-  mac-addresses:
+  id: 66c3b132-75fe-492f-94cd-0986ad10a3a3
+  macAddresses:
   - F4:03:2F:00:00:00/24
   manufacturer: Reduxio Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reduxio
 type: d3-device-type-assertion

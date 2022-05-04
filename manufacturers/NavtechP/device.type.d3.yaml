@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3bdf6e8-daaa-4893-90dd-9c38695c5f45
-  mac-addresses:
+  id: 4965dd06-a355-4b26-aec6-e81d606a2cf2
+  macAddresses:
   - 34:A5:B4:00:00:00/24
   manufacturer: Navtech Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NavtechP
 type: d3-device-type-assertion

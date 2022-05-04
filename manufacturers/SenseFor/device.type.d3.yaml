@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a138426-bb50-4954-a383-a34317494836
-  mac-addresses:
+  id: 5c61a957-d902-433a-90de-8d4643bf7e7b
+  macAddresses:
   - 70:B3:D5:1E:A0:00/36
   manufacturer: Sense For Innovation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenseFor
 type: d3-device-type-assertion

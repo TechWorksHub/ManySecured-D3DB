@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ae129d0-c2f0-4b94-8033-8a7a4a14bc67
-  mac-addresses:
+  id: bfcccd3d-404f-4f3a-a283-dff1a7953a0e
+  macAddresses:
   - 00:50:C2:98:30:00/36
   manufacturer: Bogart Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BogartEn
 type: d3-device-type-assertion

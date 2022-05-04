@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 076fb401-80e8-48ea-b16c-25efaf2eb57f
-  mac-addresses:
+  id: ff475983-4701-44a6-b010-3ea61256f128
+  macAddresses:
   - 00:60:73:00:00:00/24
   manufacturer: Redcreek Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Redcreek
 type: d3-device-type-assertion

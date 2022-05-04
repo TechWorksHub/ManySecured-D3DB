@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 238a30d0-9a67-4082-a651-5480598b763e
-  mac-addresses:
+  id: c6453033-d91e-4356-8834-d316c8530c18
+  macAddresses:
   - 00:1B:4C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Signtech
 type: d3-device-type-assertion

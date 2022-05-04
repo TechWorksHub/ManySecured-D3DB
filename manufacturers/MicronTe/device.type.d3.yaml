@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0e8fed20-dc41-4c56-9ab0-8e9e2af571e3
-  mac-addresses:
+  id: e06133a5-fea4-4dda-be40-94645c57d83f
+  macAddresses:
   - 00:A0:75:00:00:00/24
   manufacturer: Micron Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MicronTe
 type: d3-device-type-assertion

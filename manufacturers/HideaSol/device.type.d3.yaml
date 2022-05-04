@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e1f5ba6-e10f-4286-a91d-3d02a4805349
-  mac-addresses:
+  id: 1bfe3ac6-e6fb-44e9-aaa3-2f7831642bf6
+  macAddresses:
   - 00:21:60:00:00:00/24
   manufacturer: Hidea Solutions Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HideaSol
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2386995-de12-4941-8fa6-0820bc99ac7b
-  mac-addresses:
+  id: 4135f6bc-a5da-44b2-91eb-7d2d799d17a6
+  macAddresses:
   - 70:B3:D5:F6:80:00/36
   manufacturer: Al Zajel Modern Telecomm
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlZajelM
 type: d3-device-type-assertion

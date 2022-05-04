@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9978f04e-b0d1-49ca-bd69-e6d068c973a4
-  mac-addresses:
+  id: f0346ffa-a176-4837-8213-ddd4ee099b8b
+  macAddresses:
   - 00:1A:F2:00:00:00/24
   manufacturer: Dynavisions Schweiz AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dynavisi
 type: d3-device-type-assertion

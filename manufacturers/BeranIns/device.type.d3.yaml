@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3a2e64f-00b4-4f71-8743-dc84552fcbf6
-  mac-addresses:
+  id: 42c051a7-7711-48dd-aeef-358fc070037b
+  macAddresses:
   - 00:90:B9:00:00:00/24
   manufacturer: Beran Instruments Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeranIns
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 850212f7-ce9b-44c5-b446-e1a73682ccd2
-  mac-addresses:
+  id: 891f6809-6e15-453e-8f7d-4a8643d18377
+  macAddresses:
   - 00:50:C2:0C:00:00/36
   manufacturer: Imigix Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Imigix
 type: d3-device-type-assertion

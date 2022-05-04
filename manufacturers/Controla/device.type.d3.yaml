@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 153ebb24-a37e-4110-8cc1-b0a4475a3495
-  mac-addresses:
+  id: a5277813-04c2-4c46-b3c0-a8f971944864
+  macAddresses:
   - 00:50:C2:76:F0:00/36
   manufacturer: Control and Robotics Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Controla
 type: d3-device-type-assertion

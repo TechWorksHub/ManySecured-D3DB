@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09e658f4-f7fd-4381-b0ca-613cd138b1dd
-  mac-addresses:
+  id: 34c5b7d2-b3f9-4ece-a8dd-7777c3465435
+  macAddresses:
   - F4:55:95:00:00:00/24
   manufacturer: HENGBAO Corporation LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HENGBAO
 type: d3-device-type-assertion

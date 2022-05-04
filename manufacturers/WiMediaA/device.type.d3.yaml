@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08897846-1da5-4ebd-bff0-86f167789070
-  mac-addresses:
+  id: 7509c27e-ea02-43e1-9c34-d872b3e08415
+  macAddresses:
   - 00:13:88:00:00:00/24
   manufacturer: WiMedia Alliance
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiMediaA
 type: d3-device-type-assertion

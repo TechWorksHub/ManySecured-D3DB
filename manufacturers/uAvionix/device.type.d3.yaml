@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d740c6b0-aa8b-4480-afc1-d7398b336879
-  mac-addresses:
+  id: a9f13f2e-708c-4df7-afe5-5ade23fb2482
+  macAddresses:
   - 04:71:4B:10:00:00/28
   - 54:6F:71:00:00:00/24
   manufacturer: uAvionix Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: uAvionix
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b5b98a2-1305-4697-ba1e-f66e94640827
-  mac-addresses:
+  id: 811fa1d9-3694-40c6-b418-15c13e12bdcd
+  macAddresses:
   - C8:31:68:00:00:00/24
   manufacturer: eZEX corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eZEX
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2b62bc4a-0942-498a-88af-c7fd00e92246
-  mac-addresses:
+  id: 63844671-6d65-40fa-83a7-eca564119958
+  macAddresses:
   - 00:50:C2:8B:D0:00/36
   - 70:B3:D5:90:B0:00/36
   manufacturer: Matrix Switch Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MatrixSw
 type: d3-device-type-assertion

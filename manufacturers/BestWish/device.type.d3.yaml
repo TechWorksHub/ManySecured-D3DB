@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e78cf1b-6501-46a2-870c-ca446f5b45ac
-  mac-addresses:
+  id: 2b9f2256-7786-42ef-8eea-84da97bae5fc
+  macAddresses:
   - D8:29:86:00:00:00/24
   manufacturer: Best Wish Technology LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BestWish
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 073f2f64-1e39-41c7-a21e-d107d2a45410
-  mac-addresses:
+  id: 6fa9bacc-c802-45a3-92a6-6aa5b67061f2
+  macAddresses:
   - 70:B3:D5:27:20:00/36
   manufacturer: Telecom Sante
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelecomS
 type: d3-device-type-assertion

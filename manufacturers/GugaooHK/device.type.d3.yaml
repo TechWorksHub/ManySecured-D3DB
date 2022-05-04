@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c931f984-4b04-4e4f-9157-e02d4f446598
-  mac-addresses:
+  id: bbd09d83-79d0-4769-b8c2-3920c509671b
+  macAddresses:
   - C4:C9:EC:00:00:00/24
   manufacturer: Gugaoo HK Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GugaooHK
 type: d3-device-type-assertion

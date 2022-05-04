@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 835fc2f4-5129-4dcb-bd35-fdb363851ee5
-  mac-addresses:
+  id: e366022b-4ca8-43df-925b-ca1fca400eac
+  macAddresses:
   - 00:0E:A7:00:00:00/24
   manufacturer: Endace Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EndaceTe
 type: d3-device-type-assertion

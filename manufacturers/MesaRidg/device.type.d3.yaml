@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51718327-7b92-4649-af70-86d4f56c4641
-  mac-addresses:
+  id: 94c640c5-fa15-43c2-8f0b-51d171b5230f
+  macAddresses:
   - 00:40:E2:00:00:00/24
   manufacturer: Mesa Ridge Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MesaRidg
 type: d3-device-type-assertion

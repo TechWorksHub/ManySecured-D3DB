@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef52edcb-6f41-4440-b4d2-90af44c46964
-  mac-addresses:
+  id: 0f03cf0e-088d-4ddf-8523-a87246c164b5
+  macAddresses:
   - 00:A0:1A:00:00:00/24
   manufacturer: Binar Elektronik Ab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BinarEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb852675-c4b0-488e-abc7-9b9718a7afb6
-  mac-addresses:
+  id: 81db933a-bcfe-4776-87b0-51653ac1f378
+  macAddresses:
   - 1C:24:EB:00:00:00/24
   manufacturer: Burlywood
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Burlywoo
 type: d3-device-type-assertion

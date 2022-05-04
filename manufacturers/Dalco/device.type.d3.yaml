@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48362387-6489-4444-947c-1244d9561fb5
-  mac-addresses:
+  id: 3e8b40ab-ebf1-4c5c-af3c-18c34be1bc13
+  macAddresses:
   - C8:2C:2B:50:00:00/28
   manufacturer: Dalco Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dalco
 type: d3-device-type-assertion

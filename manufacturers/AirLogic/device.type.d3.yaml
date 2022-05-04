@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 46fbb2e3-d680-4952-97fa-edc2b61e8f8a
-  mac-addresses:
+  id: 013aea38-936a-4817-ba48-0a9c167422e8
+  macAddresses:
   - 00:0B:24:00:00:00/24
   - 00:1F:76:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirLogic
 type: d3-device-type-assertion

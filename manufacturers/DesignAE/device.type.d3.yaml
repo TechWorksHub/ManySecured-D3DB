@@ -1,10 +1,10 @@
 credentialSubject:
-  id: cad6382b-e437-440d-b01b-6254fb787549
-  mac-addresses:
+  id: 0321866c-23e3-4263-8d52-96d3335699ce
+  macAddresses:
   - 00:1B:C5:04:10:00/36
   - 70:B3:D5:66:10:00/36
   - 70:B3:D5:A6:30:00/36
   manufacturer: DesignA Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DesignAE
 type: d3-device-type-assertion

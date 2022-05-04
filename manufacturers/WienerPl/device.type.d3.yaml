@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d22ee91-4e4c-48c6-86b0-5cf87311fcad
-  mac-addresses:
+  id: dc849a95-8cd3-4237-9e92-9a2d365c2799
+  macAddresses:
   - 00:50:C2:2D:C0:00/36
   manufacturer: Wiener, Plein & Baus GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WienerPl
 type: d3-device-type-assertion

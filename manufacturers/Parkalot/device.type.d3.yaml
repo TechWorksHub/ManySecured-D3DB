@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bba02ec-9682-4a81-b756-ae4fdf17c22d
-  mac-addresses:
+  id: 77f82f28-deb4-4b3f-a06d-3f67a5a205e4
+  macAddresses:
   - 70:B3:D5:63:80:00/36
   manufacturer: Parkalot Denmark ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Parkalot
 type: d3-device-type-assertion

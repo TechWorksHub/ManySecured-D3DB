@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46903ef2-871c-4f2a-a7b8-bd4f6d32cbbd
-  mac-addresses:
+  id: c3fe0f37-a1a0-4a16-ab82-c1c3bb31064d
+  macAddresses:
   - 88:2B:D7:00:00:00/24
   manufacturer: "Add\xE9nergie Technologies"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Add\xE9nerg"
 type: d3-device-type-assertion

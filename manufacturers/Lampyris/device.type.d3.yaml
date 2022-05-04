@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c8e7bdf-872a-42bb-b35c-8df78c0cb2a5
-  mac-addresses:
+  id: c2d64286-152d-45e3-b13c-bf6c7f00215c
+  macAddresses:
   - A8:5B:36:B0:00:00/28
   manufacturer: Lampyris Plant LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lampyris
 type: d3-device-type-assertion

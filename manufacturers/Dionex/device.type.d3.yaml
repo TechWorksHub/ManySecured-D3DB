@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14f5e8b3-97d3-429e-b3af-536fc642d8e7
-  mac-addresses:
+  id: cb780cbb-3802-45fc-a5a8-44b60cc3185a
+  macAddresses:
   - 00:E0:EF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dionex
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aed0b54f-9cb3-4844-821f-14ff83e46600
-  mac-addresses:
+  id: 9336a95d-4b88-42df-a088-6acc05fbfa79
+  macAddresses:
   - 00:1C:53:00:00:00/24
   manufacturer: Synergy Lighting Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SynergyL
 type: d3-device-type-assertion

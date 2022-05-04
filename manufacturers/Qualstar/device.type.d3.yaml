@@ -1,8 +1,8 @@
 credentialSubject:
-  id: edaa7038-e2b4-4921-bb2e-73d492cb48a3
-  mac-addresses:
+  id: 43545513-b8c8-4264-9f8e-f605257630db
+  macAddresses:
   - 00:08:4F:00:00:00/24
   manufacturer: Qualstar Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qualstar
 type: d3-device-type-assertion

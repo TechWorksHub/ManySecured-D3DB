@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16d20a5b-8c92-4b99-ae41-c0798f92ef75
-  mac-addresses:
+  id: c9afeaff-f070-4d8c-a68f-b1a89b837900
+  macAddresses:
   - 00:1D:3D:00:00:00/24
   manufacturer: Avidyne Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avidyne
 type: d3-device-type-assertion

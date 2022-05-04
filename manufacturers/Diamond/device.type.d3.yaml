@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 414ee67e-d9d4-43ae-a594-15ca71bb15a5
-  mac-addresses:
+  id: e5420474-29f5-4f6b-9c96-9b8d68d0969d
+  macAddresses:
   - 00:06:D5:00:00:00/24
   manufacturer: Diamond Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Diamond
 type: d3-device-type-assertion

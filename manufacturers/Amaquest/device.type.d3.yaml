@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a7217fa-4373-4848-bc06-ab562bf3ace6
-  mac-addresses:
+  id: 90bf5a57-073e-4fd9-8c40-3054b714e4b2
+  macAddresses:
   - 00:D0:7A:00:00:00/24
   manufacturer: Amaquest Computer Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amaquest
 type: d3-device-type-assertion

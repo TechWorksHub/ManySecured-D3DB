@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cdaafbc4-b648-482e-aa49-c39a2ffdadbc
-  mac-addresses:
+  id: d36860fb-425d-4923-945b-4f6f4658f3a6
+  macAddresses:
   - 70:B3:D5:49:30:00/36
   - A0:C5:F2:90:00:00/28
   manufacturer: Impulse Networks Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImpulseN
 type: d3-device-type-assertion

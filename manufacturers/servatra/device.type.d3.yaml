@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef162f53-7562-4a91-a9f6-6fe0939bba0f
-  mac-addresses:
+  id: 242e1b2d-eb49-406d-8b18-4e4e9cbaba09
+  macAddresses:
   - 70:B3:D5:46:F0:00/36
   manufacturer: serva transport systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: servatra
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51f4086e-dabc-4696-944f-7106be758818
-  mac-addresses:
+  id: 954cab9b-5134-42fc-943a-935322435148
+  macAddresses:
   - 84:89:EC:40:00:00/28
   manufacturer: Vayyar Imaging Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VayyarIm
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 715b24f8-d074-4a8f-a241-a0fb28a309df
-  mac-addresses:
+  id: de4e154a-9b41-49e1-acc7-432b359705c5
+  macAddresses:
   - 00:A0:11:00:00:00/24
   manufacturer: Mutoh Industries Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MutohInd
 type: d3-device-type-assertion

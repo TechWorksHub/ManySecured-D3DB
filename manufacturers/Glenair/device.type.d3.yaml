@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9228fc30-982f-417c-a622-b4b9e120d165
-  mac-addresses:
+  id: 1fb7b6c8-82ec-4823-8456-42721627b715
+  macAddresses:
   - CC:D3:9D:70:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Glenair
 type: d3-device-type-assertion

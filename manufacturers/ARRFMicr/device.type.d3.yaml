@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6eae0465-2e92-448d-be07-b6b729ab5431
-  mac-addresses:
+  id: 774e7f42-50ae-4af6-be39-e84772ffdd77
+  macAddresses:
   - 00:50:C2:EB:30:00/36
   manufacturer: AR RF/Microwave Instrumentation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARRFMicr
 type: d3-device-type-assertion

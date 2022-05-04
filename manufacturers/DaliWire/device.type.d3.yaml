@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e07196b-5877-4eac-8b2d-2e2970176d8a
-  mac-addresses:
+  id: 245f81ed-cab8-429b-a04d-9c6eb2320da5
+  macAddresses:
   - 24:BC:82:00:00:00/24
   manufacturer: Dali Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaliWire
 type: d3-device-type-assertion

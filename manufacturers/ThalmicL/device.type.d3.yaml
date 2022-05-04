@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e214cc7-8845-4481-9ff0-254b93a70347
-  mac-addresses:
+  id: ed8ba0f3-4546-4286-8d80-e2b87e094ea3
+  macAddresses:
   - B8:25:9A:00:00:00/24
   manufacturer: Thalmic Labs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThalmicL
 type: d3-device-type-assertion

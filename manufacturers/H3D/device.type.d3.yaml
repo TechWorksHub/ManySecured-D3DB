@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73de20db-3252-4f13-9476-546be6da8143
-  mac-addresses:
+  id: a202c740-e230-4424-8b0f-da77f2a761cf
+  macAddresses:
   - 70:B3:D5:3F:20:00/36
   manufacturer: H3D, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H3D
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13ce299a-dcb3-4b44-894d-8deba480449a
-  mac-addresses:
+  id: b948b30c-9795-4744-8faf-b255c2e04930
+  macAddresses:
   - C8:F5:D6:50:00:00/28
   manufacturer: Pinmicro K K
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pinmicro
 type: d3-device-type-assertion

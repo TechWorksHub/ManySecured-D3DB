@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7a66336-b2a1-4df4-babd-db2e4d7416bf
-  mac-addresses:
+  id: 5f46c35d-b099-433d-8b43-f5184452f442
+  macAddresses:
   - 00:02:8B:00:00:00/24
   manufacturer: VDSL Systems OY
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VDSL
 type: d3-device-type-assertion

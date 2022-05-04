@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ceec8d5-e32c-451f-8523-b45c7ba04fb7
-  mac-addresses:
+  id: 3505375b-43c4-445e-a290-9b6442079fed
+  macAddresses:
   - EA:B8:9B:00:00:00/24
   manufacturer: Thread Group, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThreadGr
 type: d3-device-type-assertion

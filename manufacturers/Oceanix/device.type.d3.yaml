@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c828ba86-8c10-4fad-bf58-f247c4341346
-  mac-addresses:
+  id: a72cef84-4b3a-456c-bb66-edcc4d90f13f
+  macAddresses:
   - 70:B3:D5:1A:90:00/36
   manufacturer: Oceanix Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oceanix
 type: d3-device-type-assertion

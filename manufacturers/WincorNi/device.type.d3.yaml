@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 36a3d9a5-71c9-42ed-9d3b-6cbe04b5c76a
-  mac-addresses:
+  id: 74065725-bcbf-4492-a591-234f17586a7c
+  macAddresses:
   - 00:03:56:00:00:00/24
   - 00:50:C2:F1:00:00/36
   manufacturer: Wincor Nixdorf International GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WincorNi
 type: d3-device-type-assertion

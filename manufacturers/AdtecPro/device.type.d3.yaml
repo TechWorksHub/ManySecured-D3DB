@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f39ac63-2c51-4574-abb6-80e0776d641d
-  mac-addresses:
+  id: d26e66a0-a54c-4e4c-a1eb-94051c9117b8
+  macAddresses:
   - 00:90:1F:00:00:00/24
   manufacturer: Adtec Productions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdtecPro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06007faa-422e-4a06-94eb-c6840b43f264
-  mac-addresses:
+  id: b3306006-ad1e-4b9f-a9f0-4f7c35de2d3c
+  macAddresses:
   - 00:1B:19:00:00:00/24
   manufacturer: IEEE I&M Society TC9
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IEEEI&MS
 type: d3-device-type-assertion

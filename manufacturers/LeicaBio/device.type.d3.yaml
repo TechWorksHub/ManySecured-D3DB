@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39fc884d-dac6-4b93-a557-a56a03fa145e
-  mac-addresses:
+  id: d074e0fb-de0e-4270-9695-ba79a9410a86
+  macAddresses:
   - 40:D8:55:05:D0:00/36
   manufacturer: Leica Biosystems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeicaBio
 type: d3-device-type-assertion

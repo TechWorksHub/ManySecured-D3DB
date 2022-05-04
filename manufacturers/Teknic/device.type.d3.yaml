@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e86c334-3388-4ca0-9130-94790bf50fc2
-  mac-addresses:
+  id: ef3052df-8e89-4e9c-a689-6278bc9a44f6
+  macAddresses:
   - 24:15:10:B0:00:00/28
   manufacturer: Teknic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teknic
 type: d3-device-type-assertion

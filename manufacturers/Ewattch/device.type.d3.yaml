@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45813906-bae4-4ffc-a46f-e93ede8341d0
-  mac-addresses:
+  id: ae99ade0-1c21-46ab-a65e-73cdcdf4748f
+  macAddresses:
   - 70:B3:D5:47:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ewattch
 type: d3-device-type-assertion

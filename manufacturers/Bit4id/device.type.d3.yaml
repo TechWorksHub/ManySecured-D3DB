@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11ca4abb-3e22-4c8f-8247-8df4dd09e69a
-  mac-addresses:
+  id: 44966044-64a6-470d-b39d-612db6a2497f
+  macAddresses:
   - 8C:39:5C:00:00:00/24
   manufacturer: Bit4id Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bit4id
 type: d3-device-type-assertion

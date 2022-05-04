@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2de63c2-f580-45a3-9ed8-291e80ec1adb
-  mac-addresses:
+  id: 164ad229-a481-4e73-ac69-da2b4b8ef0ab
+  macAddresses:
   - 00:05:A1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zenocom
 type: d3-device-type-assertion

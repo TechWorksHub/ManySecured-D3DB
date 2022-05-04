@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1a8fbd0-026f-4ee4-ab07-0d0a64f731d1
-  mac-addresses:
+  id: 02aae455-b168-453b-9e3e-c469fc0439c0
+  macAddresses:
   - 00:21:FD:00:00:00/24
   manufacturer: Lacroix Traffic S.A.U
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LacroixT
 type: d3-device-type-assertion

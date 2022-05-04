@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c45948c-c076-4e2e-a18b-dfe33dfd2f63
-  mac-addresses:
+  id: 25382152-2314-400a-b8bc-4ba9672d7814
+  macAddresses:
   - EC:7D:9D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cpi
 type: d3-device-type-assertion

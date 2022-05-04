@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7224932-14b6-49db-9739-a6ee15cc4053
-  mac-addresses:
+  id: 6607f901-5aac-4679-8df6-7511f39cd670
+  macAddresses:
   - E0:7F:88:00:00:00/24
   manufacturer: EVIDENCE Network SIA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EVIDENCE
 type: d3-device-type-assertion

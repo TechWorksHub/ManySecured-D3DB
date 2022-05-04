@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00938f6c-03e2-4c81-a28e-8f2277f8d8c4
-  mac-addresses:
+  id: 9b341807-9af7-4494-8477-30a2be95eedd
+  macAddresses:
   - 00:20:0A:00:00:00/24
   manufacturer: Source-Comm Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Source-C
 type: d3-device-type-assertion

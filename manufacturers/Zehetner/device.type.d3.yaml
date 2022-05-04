@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de07935d-1633-433c-b6d5-74be24c302ce
-  mac-addresses:
+  id: 450d6900-d947-47de-9e7d-abb4519b23d6
+  macAddresses:
   - 70:B3:D5:5E:90:00/36
   manufacturer: Zehetner-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zehetner
 type: d3-device-type-assertion

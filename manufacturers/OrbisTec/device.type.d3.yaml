@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57dc7a66-6078-4e76-a11e-d9b003e64fca
-  mac-addresses:
+  id: 41092e2c-35d2-4f40-8be2-563afc5d2002
+  macAddresses:
   - 70:64:17:00:00:00/24
   manufacturer: Orbis Tecnologia Electrica S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrbisTec
 type: d3-device-type-assertion

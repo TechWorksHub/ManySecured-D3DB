@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 81369022-65cf-4761-a1c6-769f9880b3be
-  mac-addresses:
+  id: bf5b564b-5a86-41a9-a7d4-b93d7c82527c
+  macAddresses:
   - 00:50:C2:3E:60:00/36
   - 00:50:C2:B3:60:00/36
   - 70:B3:D5:14:C0:00/36
@@ -23,6 +23,6 @@ credentialSubject:
   - 70:B3:D5:DE:E0:00/36
   - AC:1D:DF:30:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Crde
 type: d3-device-type-assertion

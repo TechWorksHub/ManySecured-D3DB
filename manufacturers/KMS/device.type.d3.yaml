@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d16ca38-7ab2-456e-bd25-70716907f57b
-  mac-addresses:
+  id: 4995ad9d-45be-4daa-8ad2-4ce32bda7134
+  macAddresses:
   - 00:50:C2:0F:20:00/36
   manufacturer: KMS Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KMS
 type: d3-device-type-assertion

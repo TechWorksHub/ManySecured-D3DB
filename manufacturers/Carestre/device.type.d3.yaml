@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 431e86e7-172f-4554-9a30-11bd381f5915
-  mac-addresses:
+  id: cc32dfae-71e8-4d23-ae45-01fdaa6d19c6
+  macAddresses:
   - 00:1D:4A:00:00:00/24
   - 8C:1F:64:B7:70:00/36
   manufacturer: Carestream Health, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carestre
 type: d3-device-type-assertion

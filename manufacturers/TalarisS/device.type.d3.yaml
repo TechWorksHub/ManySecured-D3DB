@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90de9973-8172-405d-bb1e-43bd4b32e8ae
-  mac-addresses:
+  id: ecb04b0e-b890-4fa1-b8af-0061cc494eb5
+  macAddresses:
   - F0:24:08:00:00:00/24
   manufacturer: Talaris (Sweden) AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TalarisS
 type: d3-device-type-assertion

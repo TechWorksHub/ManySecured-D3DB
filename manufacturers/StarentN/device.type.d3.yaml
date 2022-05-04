@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b202736f-ee6a-491f-9f78-6a8b321562a2
-  mac-addresses:
+  id: 5c4e371f-ac3d-41df-9b4e-5ccf7b0c5439
+  macAddresses:
   - 00:05:47:00:00:00/24
   manufacturer: Starent Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StarentN
 type: d3-device-type-assertion

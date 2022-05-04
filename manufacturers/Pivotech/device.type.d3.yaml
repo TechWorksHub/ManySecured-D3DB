@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37b306df-26f7-4843-b65a-092def00fd7a
-  mac-addresses:
+  id: 1cf35a51-bf1d-46af-a86b-348b6299627b
+  macAddresses:
   - 00:06:2F:00:00:00/24
   manufacturer: Pivotech Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pivotech
 type: d3-device-type-assertion

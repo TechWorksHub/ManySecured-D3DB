@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 655a7419-1eef-4b14-b4f6-216284422d74
-  mac-addresses:
+  id: 2205d3d7-f66e-411a-9810-559da7683ca8
+  macAddresses:
   - 00:1B:03:00:00:00/24
   manufacturer: Action Technology (SZ) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActionTe
 type: d3-device-type-assertion

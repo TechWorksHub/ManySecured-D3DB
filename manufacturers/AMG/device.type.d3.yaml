@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1df9283-7430-4447-a0ef-e5ad5267cb2e
-  mac-addresses:
+  id: 563709ee-cfa8-4d1e-9b88-81143b9ce222
+  macAddresses:
   - 54:51:46:00:00:00/24
   manufacturer: AMG Systems Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AMG
 type: d3-device-type-assertion

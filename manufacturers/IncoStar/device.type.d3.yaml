@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 443877b8-86af-46cc-9387-a2cf4da08b9e
-  mac-addresses:
+  id: 3bb3f831-9272-4da7-8ad7-027cb1b40565
+  macAddresses:
   - 00:50:C2:0D:60:00/36
   manufacturer: Inco Startec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IncoStar
 type: d3-device-type-assertion

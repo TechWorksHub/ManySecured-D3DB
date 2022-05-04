@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87f7ba5d-9ec3-4b9e-9fa6-4f53fad71e03
-  mac-addresses:
+  id: 4eef3f3d-81e4-45d4-8e85-3a894a71a7c5
+  macAddresses:
   - 2C:1C:F6:00:00:00/24
   manufacturer: Alien Green LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlienGre
 type: d3-device-type-assertion

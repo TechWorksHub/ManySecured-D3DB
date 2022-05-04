@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3381358-e4be-4fb8-866a-bf04e0ef2f86
-  mac-addresses:
+  id: 3ed03cd8-2b38-42b3-8322-1289d0c8075a
+  macAddresses:
   - 24:EC:51:00:00:00/24
   manufacturer: ADF Technologies Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADFTechn
 type: d3-device-type-assertion

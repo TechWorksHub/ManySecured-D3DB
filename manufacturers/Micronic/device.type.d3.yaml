@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a1b0557-29cc-4295-bb2e-3bde57949393
-  mac-addresses:
+  id: e5398e4f-d4ba-4d37-a736-433167f06148
+  macAddresses:
   - 00:80:CD:00:00:00/24
   manufacturer: Micronics Computer, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micronic
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f06288ff-fcd9-43fd-ac18-f5079d0696d9
-  mac-addresses:
+  id: 00500f42-e06c-4b9d-901b-086230c92518
+  macAddresses:
   - 40:D8:55:07:40:00/36
   manufacturer: Sphere Medical Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SphereMe
 type: d3-device-type-assertion

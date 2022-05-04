@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8fb6809-20dd-4b7f-abdc-a76c99838155
-  mac-addresses:
+  id: 25904efb-d93f-4543-b259-f12f05c1855a
+  macAddresses:
   - 00:09:F3:00:00:00/24
   manufacturer: WELL Communication Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WELLComm
 type: d3-device-type-assertion

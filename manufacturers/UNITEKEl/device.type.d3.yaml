@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6467e1a5-3d44-4ffd-8629-80835a738d73
-  mac-addresses:
+  id: cc7f82c9-3de0-44fd-a8e6-992fcd63370e
+  macAddresses:
   - 00:0A:4E:00:00:00/24
   manufacturer: UNITEK Electronics INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UNITEKEl
 type: d3-device-type-assertion

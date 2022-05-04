@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ac830db-8eb3-482d-8472-190cce56ee06
-  mac-addresses:
+  id: 4e6fdbb2-dc47-4ab9-bceb-c5471818545d
+  macAddresses:
   - 00:02:C3:00:00:00/24
   manufacturer: Arelnet Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arelnet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfb7ca05-a15f-487e-99f3-5cbdf4bf5bb3
-  mac-addresses:
+  id: dbe4f9d3-d662-43ab-8c36-373b0b201015
+  macAddresses:
   - 00:D0:4A:00:00:00/24
   manufacturer: Presence Technology Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Presence
 type: d3-device-type-assertion

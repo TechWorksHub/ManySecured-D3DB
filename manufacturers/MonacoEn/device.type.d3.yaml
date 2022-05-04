@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34b9c60f-c23b-4f4c-884c-1bc2198eb06b
-  mac-addresses:
+  id: 34071088-8d67-4060-967b-81f65b815cab
+  macAddresses:
   - 14:41:E2:00:00:00/24
   manufacturer: Monaco Enterprises, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MonacoEn
 type: d3-device-type-assertion

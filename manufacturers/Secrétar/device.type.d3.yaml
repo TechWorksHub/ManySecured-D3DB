@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9bd81ef4-33b9-4c77-8c3c-1848fa6254e0
-  mac-addresses:
+  id: dcb6516a-7750-4dda-90f4-b5a89043ae26
+  macAddresses:
   - 6A:5C:35:00:00:00/24
   manufacturer: "Secr\xE9tariat g\xE9n\xE9ral de la d\xE9fense et de la s\xE9curit\xE9\
     \ nationale"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Secr\xE9tar"
 type: d3-device-type-assertion

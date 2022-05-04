@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9e25aa37-2f58-4052-81db-b8cea18e28a6
-  mac-addresses:
+  id: d8489e5d-4929-453c-95c2-928ffee3ca88
+  macAddresses:
   - 00:50:C2:96:A0:00/36
   - 18:01:E3:00:00:00/24
   manufacturer: Bittium Wireless Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BittiumW
 type: d3-device-type-assertion

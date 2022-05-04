@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 310b5e4d-cbfb-441a-92bc-49fdc59a87ce
-  mac-addresses:
+  id: e4fe084f-1130-4bd8-9e58-6207e775980c
+  macAddresses:
   - C8:4D:34:00:00:00/24
   manufacturer: LIONS Taiwan Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LIONSTai
 type: d3-device-type-assertion

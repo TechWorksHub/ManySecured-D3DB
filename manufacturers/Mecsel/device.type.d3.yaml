@@ -1,10 +1,10 @@
 credentialSubject:
-  id: afb5b977-360f-4072-a79e-5c1558ddbe11
-  mac-addresses:
+  id: aeb9004e-3159-487c-ad2f-04bc30bdc9bc
+  macAddresses:
   - 00:50:C2:41:90:00/36
   - 00:50:C2:DC:E0:00/36
   - 70:B3:D5:7E:90:00/36
   manufacturer: Mecsel Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mecsel
 type: d3-device-type-assertion

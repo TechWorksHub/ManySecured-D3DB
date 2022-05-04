@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72c5dae9-09ed-4fe4-8be9-61764300c843
-  mac-addresses:
+  id: e6cce893-1834-4893-a303-ca031e02fa8e
+  macAddresses:
   - 00:0F:0B:00:00:00/24
   manufacturer: Kentima Technologies AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KentimaT
 type: d3-device-type-assertion

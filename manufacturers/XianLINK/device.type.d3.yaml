@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 171c9a68-79ca-4b1d-96a5-b66722b0bd88
-  mac-addresses:
+  id: 413fc9cd-376e-4d02-a996-954b345dfbb4
+  macAddresses:
   - D0:F1:21:00:00:00/24
   manufacturer: Xi'an LINKSCI Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XianLINK
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 174d71d9-b790-453d-9d89-8462d9b42ed0
-  mac-addresses:
+  id: 887c944d-6e0f-42a9-a9a3-59f83f2a8d11
+  macAddresses:
   - 0C:5C:B5:70:00:00/28
   - 70:B3:D5:FA:40:00/36
   manufacturer: Energybox Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Energybo
 type: d3-device-type-assertion

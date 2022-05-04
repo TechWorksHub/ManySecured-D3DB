@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfb13082-367a-4f57-a5e6-d91683c3cd7c
-  mac-addresses:
+  id: 56f4acf5-828a-4bad-a698-aa2c514ea1db
+  macAddresses:
   - 64:DE:1C:00:00:00/24
   manufacturer: Kingnetic Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kingneti
 type: d3-device-type-assertion

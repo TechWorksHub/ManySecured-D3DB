@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28e673ab-4691-49d3-b64c-8f5432c25f7f
-  mac-addresses:
+  id: 788475f4-36be-4142-8451-18bc86d84335
+  macAddresses:
   - 00:50:C2:DD:90:00/36
   manufacturer: Metraware
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metrawar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53ab710a-bf5e-473b-a301-79a24eef2cb6
-  mac-addresses:
+  id: 6820cfc8-fd32-47e1-ac1a-d09bb5138b06
+  macAddresses:
   - 74:87:A9:00:00:00/24
   manufacturer: OCT Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OCTTechn
 type: d3-device-type-assertion

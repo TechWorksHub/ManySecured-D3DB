@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10046e84-4847-4eab-8c1f-8222f0b73792
-  mac-addresses:
+  id: 40787851-3cfe-4ea4-929b-4abfd37ec48b
+  macAddresses:
   - 00:19:45:00:00:00/24
   manufacturer: RF COncepts, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RFCOncep
 type: d3-device-type-assertion

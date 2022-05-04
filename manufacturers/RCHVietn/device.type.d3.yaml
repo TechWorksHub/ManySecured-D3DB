@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2c748b00-20bc-4af5-a762-83e8715f5288
-  mac-addresses:
+  id: 6f8d7d29-9c99-48da-b1a3-5dd8fdb3d50a
+  macAddresses:
   - 70:B3:D5:06:00:00/36
   - 70:B3:D5:15:90:00/36
   - 70:B3:D5:29:40:00/36
@@ -11,6 +11,6 @@ credentialSubject:
   - 70:B3:D5:C0:90:00/36
   - 70:B3:D5:DA:90:00/36
   manufacturer: RCH Vietnam Limited Liability Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RCHVietn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75d0c434-b8e1-49fe-844c-5c2418c24171
-  mac-addresses:
+  id: 5503c267-a41f-4ee3-954e-99b5d2a0d0cc
+  macAddresses:
   - 40:70:74:00:00:00/24
   manufacturer: Life Technology (China) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LifeTech
 type: d3-device-type-assertion

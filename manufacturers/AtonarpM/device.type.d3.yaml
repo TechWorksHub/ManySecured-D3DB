@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d83414e2-0ffe-48be-a3be-78e07133c3b6
-  mac-addresses:
+  id: 45e6410a-1fb2-4dbf-8041-cc084b14ca8c
+  macAddresses:
   - 70:B3:D5:97:60:00/36
   manufacturer: Atonarp Micro-Systems India Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtonarpM
 type: d3-device-type-assertion

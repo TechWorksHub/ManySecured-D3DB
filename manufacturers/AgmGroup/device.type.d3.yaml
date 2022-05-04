@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49a28442-46b6-450d-bf89-bd5a9c3da114
-  mac-addresses:
+  id: 7ed4e90d-a44f-453b-821e-39b56f343b03
+  macAddresses:
   - 0C:52:03:00:00:00/24
   manufacturer: Agm Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AgmGroup
 type: d3-device-type-assertion

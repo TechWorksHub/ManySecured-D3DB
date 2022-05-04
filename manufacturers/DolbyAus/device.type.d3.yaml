@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69cf3392-87aa-4fa2-ac5d-f53c6e289832
-  mac-addresses:
+  id: ee8c5f6a-742e-4989-9978-4ee99effdd41
+  macAddresses:
   - 00:12:A6:00:00:00/24
   manufacturer: Dolby Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DolbyAus
 type: d3-device-type-assertion

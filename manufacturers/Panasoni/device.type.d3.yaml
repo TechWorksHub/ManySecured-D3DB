@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d07a9544-8ff1-4ae2-bbfc-b5269205a67d
-  mac-addresses:
+  id: 4922dd5a-04bc-465f-887f-4db06c660de9
+  macAddresses:
   - 00:0F:12:00:00:00/24
   - 00:12:67:00:00:00/24
   - 00:19:87:00:00:00/24
@@ -44,6 +44,6 @@ credentialSubject:
   - E0:EE:1B:00:00:00/24
   - EC:65:CC:00:00:00/24
   manufacturer: Panasonic Europe Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Panasoni
 type: d3-device-type-assertion

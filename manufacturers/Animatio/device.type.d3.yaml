@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16e4b2e9-208d-4da4-aec9-125132b23fb4
-  mac-addresses:
+  id: e2656f7d-bb9b-4a89-be24-f30eed1a69f0
+  macAddresses:
   - 00:0C:45:00:00:00/24
   manufacturer: Animation Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Animatio
 type: d3-device-type-assertion

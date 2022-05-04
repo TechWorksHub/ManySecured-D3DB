@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45424bb3-7bd7-442f-a681-d900d34be8be
-  mac-addresses:
+  id: 29d8ea12-14d6-45ae-8d8a-4196ea8aa90f
+  macAddresses:
   - 00:1C:F8:00:00:00/24
   manufacturer: Parade Technologies, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParadeTe
 type: d3-device-type-assertion

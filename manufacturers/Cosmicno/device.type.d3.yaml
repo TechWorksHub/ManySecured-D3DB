@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3f4341e-695f-499f-bcbe-4c45fc73b014
-  mac-addresses:
+  id: c4f6ee2e-d037-4597-887f-f1949b337c11
+  macAddresses:
   - 24:5D:FC:80:00:00/28
   manufacturer: Cosmicnode
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cosmicno
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4bba0636-48b3-419f-8c87-e626af17373c
-  mac-addresses:
+  id: d56414b2-3ddb-48bc-b1ca-f28517a53b2f
+  macAddresses:
   - 00:1B:58:00:00:00/24
   manufacturer: ACE CAD Enterprise Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACECADEn
 type: d3-device-type-assertion

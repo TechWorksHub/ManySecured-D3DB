@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b9f184b-d26d-4e38-90d7-9c6d7aa1d290
-  mac-addresses:
+  id: 2c25a2e1-36ee-4c39-a87a-3f68b22dbbe7
+  macAddresses:
   - 68:85:40:00:00:00/24
   manufacturer: IGI Mobile, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IGIMobil
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22fc5922-17f2-4a0f-8eee-49136a356110
-  mac-addresses:
+  id: bc4fd80d-95e8-4ba2-ab7c-655da05d1eb9
+  macAddresses:
   - 00:D0:66:00:00:00/24
   manufacturer: Wintriss Engineering Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wintriss
 type: d3-device-type-assertion

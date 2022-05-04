@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 412c7afc-ad84-4bf3-9000-1a151d5641f6
-  mac-addresses:
+  id: 798069d3-2fb3-4fe7-b02a-961cc6f0b761
+  macAddresses:
   - 00:1C:BD:00:00:00/24
   manufacturer: Ezze Mobile Tech., Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EzzeMobi
 type: d3-device-type-assertion

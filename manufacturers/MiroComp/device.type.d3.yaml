@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f1fd22d-9202-474a-b650-a6d8163aac35
-  mac-addresses:
+  id: c5ec28c6-1e66-4575-ba8b-a22ea48ff58b
+  macAddresses:
   - 00:20:59:00:00:00/24
   manufacturer: Miro Computer Products Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MiroComp
 type: d3-device-type-assertion

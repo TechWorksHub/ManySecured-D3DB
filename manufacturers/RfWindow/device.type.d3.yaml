@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00fa0fd3-fd85-4a68-9a3e-97311c23f832
-  mac-addresses:
+  id: 4d6ee4c5-c561-4014-bf8d-7844aa684480
+  macAddresses:
   - E4:8A:D5:00:00:00/24
   manufacturer: Rf Window Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RfWindow
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e6bbde6-f21a-4541-9c8a-06b702a97820
-  mac-addresses:
+  id: 09b78ec6-7f8e-4570-8185-050a4d8c5865
+  macAddresses:
   - A0:3E:6B:60:00:00/28
   manufacturer: Wuhan Rui Ying Tong Network Technology Co., Ltd(China)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanRui
 type: d3-device-type-assertion

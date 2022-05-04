@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 7a63e6df-1641-4d3c-a8c9-918c9697949f
-  mac-addresses:
+  id: 686388cd-5eb7-4fb8-a047-b40c36a3f420
+  macAddresses:
   - 00:71:47:00:00:00/24
   - 00:BB:3A:00:00:00/24
   - 00:F3:61:00:00:00/24
@@ -128,6 +128,6 @@ credentialSubject:
   - FC:A1:83:00:00:00/24
   - FC:A6:67:00:00:00/24
   manufacturer: Amazon Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmazonTe
 type: d3-device-type-assertion

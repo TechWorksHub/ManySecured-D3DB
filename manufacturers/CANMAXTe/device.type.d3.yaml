@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68ddc552-f1fc-468a-b6c9-ce3909fabc16
-  mac-addresses:
+  id: 8ea6a287-65e9-4505-91ee-7f709ac2c837
+  macAddresses:
   - 00:50:C2:36:70:00/36
   manufacturer: CANMAX Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CANMAXTe
 type: d3-device-type-assertion

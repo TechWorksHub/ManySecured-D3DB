@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01742efb-e16c-422a-b028-5eab1efd632a
-  mac-addresses:
+  id: bd0a3155-3350-4cb2-9b04-f38554aea1a2
+  macAddresses:
   - 70:B3:D5:0F:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bespoon
 type: d3-device-type-assertion

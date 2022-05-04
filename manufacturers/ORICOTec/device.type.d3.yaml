@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e78f26d3-0c44-40d7-a2d4-6ec6be2f68af
-  mac-addresses:
+  id: cf967030-cd80-4152-b8d0-86f92cb5b1d8
+  macAddresses:
   - F0:1E:34:00:00:00/24
   manufacturer: ORICO Technologies Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ORICOTec
 type: d3-device-type-assertion

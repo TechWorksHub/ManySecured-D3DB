@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b375ccfd-2969-41f3-9783-356f47a355bd
-  mac-addresses:
+  id: 1dc3f858-1c3d-4a02-81c5-8f138699a9fd
+  macAddresses:
   - B8:BA:68:00:00:00/24
   manufacturer: Xi'an Jizhong Digital Communication Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XianJizh
 type: d3-device-type-assertion

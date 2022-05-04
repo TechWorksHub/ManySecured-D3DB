@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9235af08-bb79-4397-82ad-5925c20474e3
-  mac-addresses:
+  id: 559e7b40-5293-4f9d-9c39-a87867472801
+  macAddresses:
   - 80:7B:1E:00:00:00/24
   manufacturer: Corsair Memory, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CorsairM
 type: d3-device-type-assertion

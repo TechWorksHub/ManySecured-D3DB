@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 174ecc84-fc5c-451f-8f91-35bb3014d4f2
-  mac-addresses:
+  id: 01e0528c-404c-4101-acc7-c7b9bafbf73d
+  macAddresses:
   - 00:0C:E0:00:00:00/24
   manufacturer: Trek Diagnostics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrekDiag
 type: d3-device-type-assertion

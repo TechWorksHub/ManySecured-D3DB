@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ea4a29b-e285-4388-a77e-897beb540b84
-  mac-addresses:
+  id: 6caffdce-d373-41ab-ade2-3ff99bd5dd48
+  macAddresses:
   - 00:50:C2:AE:B0:00/36
   manufacturer: UMLogics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UMLogics
 type: d3-device-type-assertion

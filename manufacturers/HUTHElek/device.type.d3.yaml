@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 551c8877-425a-4ea3-aafc-85020e00daef
-  mac-addresses:
+  id: 094f0e07-c452-4c20-b60c-80571ba5201f
+  macAddresses:
   - 00:22:BA:00:00:00/24
   manufacturer: HUTH Elektronik Systeme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HUTHElek
 type: d3-device-type-assertion

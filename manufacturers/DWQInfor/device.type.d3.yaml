@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cef73d6-090e-4ecd-9121-aabe0b95f89c
-  mac-addresses:
+  id: 727b4e36-52d6-4dfe-887b-f7dd0fec764a
+  macAddresses:
   - 70:B3:D5:B4:80:00/36
   manufacturer: DWQ Informatikai Tanacsado es Vezerlestechnikai KFT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DWQInfor
 type: d3-device-type-assertion

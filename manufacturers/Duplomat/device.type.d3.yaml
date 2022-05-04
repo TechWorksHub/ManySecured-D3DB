@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d257c5b-916d-41f5-a658-7d37ed801c15
-  mac-addresses:
+  id: e687cd5e-2128-4472-92ca-74454a6d4ede
+  macAddresses:
   - 70:B3:D5:DE:10:00/36
   manufacturer: Duplomatic MS spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Duplomat
 type: d3-device-type-assertion

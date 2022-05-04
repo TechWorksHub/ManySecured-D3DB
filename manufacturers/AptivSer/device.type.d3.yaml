@@ -1,9 +1,9 @@
 credentialSubject:
-  id: efcc6258-97a9-49f7-b07a-1096f7a36e63
-  mac-addresses:
+  id: 31ca4e99-dafb-4bd4-849d-b353c81a5bb6
+  macAddresses:
   - 00:22:A0:00:00:00/24
   - 28:63:BD:00:00:00/24
   manufacturer: Aptiv Services Us, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AptivSer
 type: d3-device-type-assertion

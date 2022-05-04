@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 3e0c0858-6ea7-4374-9de1-2830582280be
-  mac-addresses:
+  id: 32352648-e9db-4a2f-a10a-e0fe5336aa26
+  macAddresses:
   - 7C:CB:E2:D0:00:00/28
   - B4:F9:49:00:00:00/24
   manufacturer: optilink networks pvt ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: optilink
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 44a87158-88aa-4d90-95bf-903b717e1ee9
-  mac-addresses:
+  id: 7638e94e-afe6-4c70-b57e-4c14da313135
+  macAddresses:
   - 00:1A:11:00:00:00/24
   - 00:F6:20:00:00:00/24
   - 08:9E:08:00:00:00/24
@@ -65,6 +65,6 @@ credentialSubject:
   - F8:1A:2B:00:00:00/24
   - F8:8F:CA:00:00:00/24
   manufacturer: Google, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Google
 type: d3-device-type-assertion

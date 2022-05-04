@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83dfb374-e4bf-4006-bd64-ab61d84edff7
-  mac-addresses:
+  id: 26198bd3-1917-4ec8-a931-d0eb035f73dd
+  macAddresses:
   - 00:50:C2:F3:80:00/36
   manufacturer: AeroControl, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AeroCont
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f3bf3e6-2c16-4be9-a506-358ba91b1673
-  mac-addresses:
+  id: 7211c5b1-a926-458c-a529-92c491c98c34
+  macAddresses:
   - 00:01:32:00:00:00/24
   manufacturer: Dranetz - BMI
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dranetz-
 type: d3-device-type-assertion

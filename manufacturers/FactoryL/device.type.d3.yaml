@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a2647e7-161f-40f8-8058-f5ace96b51e9
-  mac-addresses:
+  id: 38527a52-cca0-4c72-b21d-e60414de8932
+  macAddresses:
   - 70:B3:D5:5D:C0:00/36
   manufacturer: FactoryLab B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FactoryL
 type: d3-device-type-assertion

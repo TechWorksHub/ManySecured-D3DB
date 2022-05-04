@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e724a21-7094-42b5-ae31-a5dd17f92543
-  mac-addresses:
+  id: f9975966-7934-4773-bcb7-3f0b6502ffc3
+  macAddresses:
   - 8C:C8:F4:E0:00:00/28
   manufacturer: Evaporcool Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Evaporco
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40d7aad0-b26b-492c-a1f4-941cb0a318ca
-  mac-addresses:
+  id: b374711b-71dd-4af1-a617-e82aab3e2add
+  macAddresses:
   - 00:26:3D:00:00:00/24
   manufacturer: MIA Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MIA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 928c1b13-dfc5-40f3-86a3-59d1abd9c4b1
-  mac-addresses:
+  id: e9b865a8-204d-4548-9793-4d5f1195d4a8
+  macAddresses:
   - 00:11:3D:00:00:00/24
   manufacturer: Kn Soltec Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KnSoltec
 type: d3-device-type-assertion

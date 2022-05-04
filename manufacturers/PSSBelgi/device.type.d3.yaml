@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a34b741-b5c9-434b-9676-cb843c210460
-  mac-addresses:
+  id: b30568d8-6dd2-47d1-ad70-0fc94b10f0c0
+  macAddresses:
   - A0:3A:75:00:00:00/24
   manufacturer: PSS Belgium N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PSSBelgi
 type: d3-device-type-assertion

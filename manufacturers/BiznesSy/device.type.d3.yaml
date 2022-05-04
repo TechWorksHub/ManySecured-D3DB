@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b999e68-de43-400f-a4a6-bfc430cf187a
-  mac-addresses:
+  id: bb6aaf55-b898-47db-b48c-00c26ed341df
+  macAddresses:
   - 84:85:53:00:00:00/24
   manufacturer: Biznes Systema Telecom, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BiznesSy
 type: d3-device-type-assertion

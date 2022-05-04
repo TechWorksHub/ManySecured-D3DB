@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4f023e1-4ddd-4256-b66e-67ab2cc09868
-  mac-addresses:
+  id: 5558b506-55c7-48c3-9b86-6db602893e52
+  macAddresses:
   - A0:D1:2A:00:00:00/24
   manufacturer: AXPRO Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AXPROTec
 type: d3-device-type-assertion

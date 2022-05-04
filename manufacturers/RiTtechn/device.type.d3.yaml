@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d938cce-07c4-4ab6-a419-4854a7dce6f3
-  mac-addresses:
+  id: 25b3ca4d-25ae-42d1-93d9-120db6629421
+  macAddresses:
   - 00:0B:B3:00:00:00/24
   manufacturer: RiT technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RiTtechn
 type: d3-device-type-assertion

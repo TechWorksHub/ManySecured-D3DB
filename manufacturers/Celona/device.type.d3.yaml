@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83369f2d-0dad-42b7-968b-998bf3c558dc
-  mac-addresses:
+  id: 6ef8afa7-7f56-4a81-82e9-95bdaa4aef9c
+  macAddresses:
   - B4:15:7E:00:00:00/24
   manufacturer: Celona Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Celona
 type: d3-device-type-assertion

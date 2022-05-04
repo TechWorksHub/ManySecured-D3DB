@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39e618ed-c889-49f1-9ab3-687ec63d6a8f
-  mac-addresses:
+  id: 7dbe1683-c8d5-4d50-bc18-0ba30139377f
+  macAddresses:
   - 54:A9:D4:00:00:00/24
   manufacturer: Minibar Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Minibar
 type: d3-device-type-assertion

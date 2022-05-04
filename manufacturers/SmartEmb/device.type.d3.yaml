@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a478e91c-5212-4bcc-b812-1899cc81373b
-  mac-addresses:
+  id: d984cd2f-cb22-4793-a26f-1231b69b64a4
+  macAddresses:
   - 70:B3:D5:A0:90:00/36
   manufacturer: Smart Embedded Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartEmb
 type: d3-device-type-assertion

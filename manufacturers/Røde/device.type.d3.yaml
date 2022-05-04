@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d529ca7f-96eb-4dab-a23f-12cc549a745c
-  mac-addresses:
+  id: a78c4348-dbe9-4395-afc5-17d881f7bb1f
+  macAddresses:
   - 74:60:4C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "R\xF8de"
 type: d3-device-type-assertion

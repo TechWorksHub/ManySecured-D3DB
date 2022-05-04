@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c0d03220-11af-45a2-9a11-a06285de4570
-  mac-addresses:
+  id: 52d6c010-cb90-4d3a-b52c-f2865b64f0b0
+  macAddresses:
   - 70:B3:D5:44:20:00/36
   - 98:6E:E8:60:00:00/28
   manufacturer: Blair Companies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlairCom
 type: d3-device-type-assertion

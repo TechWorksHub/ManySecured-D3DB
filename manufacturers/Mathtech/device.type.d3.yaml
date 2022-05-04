@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26eb68bb-3ad1-42c1-b9ec-3be9f79beb6a
-  mac-addresses:
+  id: e80a2430-7ded-4f7c-b28b-6999539fa79e
+  macAddresses:
   - 00:16:34:00:00:00/24
   manufacturer: Mathtech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mathtech
 type: d3-device-type-assertion

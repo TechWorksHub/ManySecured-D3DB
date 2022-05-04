@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c0040d1-7056-40fc-ad77-836bf79066d7
-  mac-addresses:
+  id: c4453d44-ec90-4100-88c3-5558317397b5
+  macAddresses:
   - 00:0F:F4:00:00:00/24
   manufacturer: Guntermann & Drunck GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gunterma
 type: d3-device-type-assertion

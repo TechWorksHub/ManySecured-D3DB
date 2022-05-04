@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 986eee31-6610-44a0-8436-791b48fe5778
-  mac-addresses:
+  id: 7fbdb4a9-6778-41c1-bba7-0026af1cae37
+  macAddresses:
   - B4:36:E3:00:00:00/24
   manufacturer: Kbvision Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kbvision
 type: d3-device-type-assertion

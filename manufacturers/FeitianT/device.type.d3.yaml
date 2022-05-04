@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2008b552-b125-4f1e-9f29-a2466e9d18ec
-  mac-addresses:
+  id: c696f91f-4e72-4866-9172-95179a38d20a
+  macAddresses:
   - 64:47:E0:00:00:00/24
   - E0:92:A7:00:00:00/24
   manufacturer: Feitian Technologies Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FeitianT
 type: d3-device-type-assertion

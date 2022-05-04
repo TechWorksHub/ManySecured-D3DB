@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9902ef25-e7be-4914-859a-ddc2c52f899b
-  mac-addresses:
+  id: a87ec042-dee5-4a9a-9884-86a4faa04011
+  macAddresses:
   - 00:50:C2:E7:50:00/36
   manufacturer: Fsm Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fsm
 type: d3-device-type-assertion

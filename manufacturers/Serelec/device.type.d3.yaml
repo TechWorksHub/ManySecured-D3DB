@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 374675d9-6277-46b0-953b-48141bd62de7
-  mac-addresses:
+  id: 60718683-277c-4a16-b114-6e039b1230b9
+  macAddresses:
   - C0:4D:F7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Serelec
 type: d3-device-type-assertion

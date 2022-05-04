@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c741026-5e15-4f77-8aaf-bb8ffb055c9d
-  mac-addresses:
+  id: db6a2e95-2bcd-4165-8e1a-0b506de31636
+  macAddresses:
   - 70:B3:D5:4F:D0:00/36
   manufacturer: Enless Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnlessWi
 type: d3-device-type-assertion

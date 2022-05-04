@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18ef231e-6232-4d8e-9f3b-9b0f2d95c944
-  mac-addresses:
+  id: 35847390-a976-4fc4-8467-31f65cb63db2
+  macAddresses:
   - 94:54:93:00:00:00/24
   manufacturer: Rigado, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rigado
 type: d3-device-type-assertion

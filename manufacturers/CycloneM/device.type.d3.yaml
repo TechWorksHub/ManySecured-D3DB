@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8d2e7ca-c9f0-4a4a-abca-a7677cb53e19
-  mac-addresses:
+  id: 5ab8a53f-f8cc-4d00-8f62-7d05e0037433
+  macAddresses:
   - 00:80:4D:00:00:00/24
   manufacturer: Cyclone Microsystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CycloneM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88f68286-2a52-4f0c-be4d-c63c01e16688
-  mac-addresses:
+  id: 755c533d-061f-4c41-9a68-00c76f7b22c6
+  macAddresses:
   - 00:14:07:00:00:00/24
   manufacturer: Sperian Protection Instrumentation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SperianP
 type: d3-device-type-assertion

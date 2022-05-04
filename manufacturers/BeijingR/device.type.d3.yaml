@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3f6e791e-c574-4640-bb9a-34edf2aaff2d
-  mac-addresses:
+  id: 58bcd066-a621-467b-b3f1-73a1d925399a
+  macAddresses:
   - 00:1B:CA:00:00:00/24
   - 1C:88:79:D0:00:00/28
   - 30:0A:60:10:00:00/28
@@ -13,6 +13,6 @@ credentialSubject:
   - EC:98:C1:00:00:00/24
   - F8:02:78:90:00:00/28
   manufacturer: Beijing Run Technology LTD. Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingR
 type: d3-device-type-assertion

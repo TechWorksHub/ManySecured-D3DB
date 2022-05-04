@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fed65bb5-c625-47ff-9fdd-cc346f5d0696
-  mac-addresses:
+  id: 9fa3d9c2-3c9f-43f9-9604-1cb80467c10e
+  macAddresses:
   - 8C:AE:49:C0:00:00/28
   manufacturer: Parametric GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Parametr
 type: d3-device-type-assertion

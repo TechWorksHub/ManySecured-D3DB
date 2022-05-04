@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4977f842-3ddb-4fae-b913-162dc58a3108
-  mac-addresses:
+  id: 886aa023-f17d-4cc5-8a85-5300ee722584
+  macAddresses:
   - 00:02:95:00:00:00/24
   manufacturer: IP.Access Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPAccess
 type: d3-device-type-assertion

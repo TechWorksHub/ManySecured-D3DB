@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fea8f9fc-19d0-4037-b26f-26c544c4f3c4
-  mac-addresses:
+  id: fddfffb7-6098-4965-89d9-676afd7fbf95
+  macAddresses:
   - 7C:72:E4:00:00:00/24
   manufacturer: Unikey Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnikeyTe
 type: d3-device-type-assertion

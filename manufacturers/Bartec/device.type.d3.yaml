@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c138858c-840d-4ff0-8df0-868efe1e6697
-  mac-addresses:
+  id: a0dd0f02-e1b5-445b-844f-37d27123e214
+  macAddresses:
   - 70:B3:D5:AA:D0:00/36
   manufacturer: Bartec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bartec
 type: d3-device-type-assertion

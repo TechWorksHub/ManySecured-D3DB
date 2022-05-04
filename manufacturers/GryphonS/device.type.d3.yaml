@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2255173-7e28-4deb-a11f-e4174ddb4725
-  mac-addresses:
+  id: 20846099-b5a9-42a5-888e-5aa22ead4031
+  macAddresses:
   - 70:B3:D5:73:80:00/36
   manufacturer: Gryphon Secure Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GryphonS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41f16ebc-2ef3-4d96-aa07-ecab7e808c32
-  mac-addresses:
+  id: 7f69fcbc-aba7-481b-8ea3-60188ea73b10
+  macAddresses:
   - 20:0A:0D:20:00:00/28
   manufacturer: Netinovo Technologies(Shenzhen) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netinovo
 type: d3-device-type-assertion

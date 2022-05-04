@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efe700fe-6fb7-40ec-9a09-931dd6348fdf
-  mac-addresses:
+  id: c8ee66e4-5b3c-438a-a890-5046cdc69833
+  macAddresses:
   - 00:1B:F3:00:00:00/24
   manufacturer: TRANSRADIO SenderSysteme Berlin AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TRANSRAD
 type: d3-device-type-assertion

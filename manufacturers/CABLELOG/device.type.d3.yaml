@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18c38b30-bb3e-4683-ab19-d916adceb3bf
-  mac-addresses:
+  id: 6e7c85d6-168a-457c-a17a-6083b4a71a1c
+  macAddresses:
   - 00:0F:57:00:00:00/24
   manufacturer: CABLELOGIC Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CABLELOG
 type: d3-device-type-assertion

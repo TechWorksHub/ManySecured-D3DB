@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12f99bf7-00aa-4218-96fd-52c40a157c7a
-  mac-addresses:
+  id: 8b8e1e3f-c589-439e-977b-78bf93966fa0
+  macAddresses:
   - 00:30:AA:00:00:00/24
   manufacturer: Axus Microsystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxusMicr
 type: d3-device-type-assertion

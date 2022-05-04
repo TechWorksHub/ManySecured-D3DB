@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a7aa8a66-d8a0-48f7-9ced-8cc1442df93b
-  mac-addresses:
+  id: 8c83b036-491f-4c30-9c47-0b12ac8d861f
+  macAddresses:
   - 28:4F:CE:00:00:00/24
   - 84:E0:F4:60:00:00/28
   manufacturer: Liaoning Wontel Science and Technology Development Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liaoning
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b45f538-d228-4346-ac6a-082e6e073345
-  mac-addresses:
+  id: 78aaa311-8b5f-4c75-8458-c8b973850a7d
+  macAddresses:
   - 70:B3:D5:BE:20:00/36
   manufacturer: Nocix, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nocix
 type: d3-device-type-assertion

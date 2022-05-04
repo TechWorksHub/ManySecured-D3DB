@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c5b27de-64b4-4ee4-b6c9-27003781eef6
-  mac-addresses:
+  id: a40d2914-828e-42dd-ba28-a67020f3987d
+  macAddresses:
   - 00:1B:B7:00:00:00/24
   manufacturer: Alta Heights Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltaHeig
 type: d3-device-type-assertion

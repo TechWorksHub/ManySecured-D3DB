@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0eb007e-6746-454f-bf9e-03eaba3b3b7d
-  mac-addresses:
+  id: 0a9213bd-1e46-40b2-8549-8b46da0d4f70
+  macAddresses:
   - C0:29:F3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XySystem
 type: d3-device-type-assertion

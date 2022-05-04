@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53f403f3-164d-44bc-a4f3-22fca56e7915
-  mac-addresses:
+  id: 3cd1a42b-1540-4ebe-b97d-e254110b4b26
+  macAddresses:
   - 40:D8:55:18:70:00/36
   manufacturer: CDEX Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CDEX
 type: d3-device-type-assertion

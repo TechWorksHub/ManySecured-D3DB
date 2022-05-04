@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b794c178-4442-4fd4-beca-ef2e45ff038b
-  mac-addresses:
+  id: c4f8b542-3028-4a21-99df-aaba22885d26
+  macAddresses:
   - 00:D0:61:00:00:00/24
   manufacturer: Tremon Enterprises Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TremonEn
 type: d3-device-type-assertion

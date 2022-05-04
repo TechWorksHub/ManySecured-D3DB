@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44d030be-614b-4d4a-919f-12fbc004a998
-  mac-addresses:
+  id: ff3fe3ea-574d-4e62-be26-2dc15c230637
+  macAddresses:
   - 88:A9:A7:B0:00:00/28
   manufacturer: Twk-Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Twk-Elek
 type: d3-device-type-assertion

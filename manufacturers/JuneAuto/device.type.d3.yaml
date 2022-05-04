@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f777dd96-c543-42e9-bb60-52c7bfae78a5
-  mac-addresses:
+  id: 479a8a43-7939-499c-b87e-3e1902480711
+  macAddresses:
   - 70:B3:D5:CE:70:00/36
   manufacturer: June Automation Singapore Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JuneAuto
 type: d3-device-type-assertion

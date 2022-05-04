@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5a7aaab-15c5-49e3-b68a-fb8d61c23968
-  mac-addresses:
+  id: 961d53f2-fd5d-4b4a-b496-eaaf42cb48c3
+  macAddresses:
   - 9C:7B:D2:00:00:00/24
   manufacturer: NEOLAB Convergence
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NEOLABCo
 type: d3-device-type-assertion

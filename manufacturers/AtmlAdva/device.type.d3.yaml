@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c3a7af8-ae50-483f-9169-970a1bad87ec
-  mac-addresses:
+  id: 06d99932-187c-4d1c-9610-951b988e03c0
+  macAddresses:
   - 00:20:2B:00:00:00/24
   manufacturer: ATML (Advanced Telecommunications Modules, Ltd.)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtmlAdva
 type: d3-device-type-assertion

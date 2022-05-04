@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d85ee7d1-a384-488a-b8bf-62b5c925197c
-  mac-addresses:
+  id: 4ca82049-61b5-46b2-be73-e5fb7a516096
+  macAddresses:
   - 00:C0:83:00:00:00/24
   manufacturer: Trace Mountain Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TraceMou
 type: d3-device-type-assertion

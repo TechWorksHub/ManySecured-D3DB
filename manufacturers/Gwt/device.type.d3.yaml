@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0b861d5-d158-4d97-9a29-00fce12db8b2
-  mac-addresses:
+  id: 38464b35-cd9b-4076-bda6-5e4a744b4e69
+  macAddresses:
   - 00:50:C2:F6:60:00/36
   manufacturer: Gwt Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gwt
 type: d3-device-type-assertion

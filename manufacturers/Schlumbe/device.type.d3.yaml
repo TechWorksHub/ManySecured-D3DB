@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 8fc73dde-f67f-4cd0-9e7b-71f44f22c479
-  mac-addresses:
+  id: c29714ea-7087-45cd-b219-d900cb791466
+  macAddresses:
   - 00:04:7B:00:00:00/24
   - 00:50:C2:73:20:00/36
   - 00:60:76:00:00:00/24
   - 08:00:3C:00:00:00/24
   manufacturer: Schlumberger
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Schlumbe
 type: d3-device-type-assertion

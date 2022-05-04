@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1407d352-2cb3-424b-98c7-bfb8c5a9a694
-  mac-addresses:
+  id: cdcc5253-7f57-42f1-908f-b9b5db3dc169
+  macAddresses:
   - 20:71:9E:00:00:00/24
   manufacturer: SF Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SFTechno
 type: d3-device-type-assertion

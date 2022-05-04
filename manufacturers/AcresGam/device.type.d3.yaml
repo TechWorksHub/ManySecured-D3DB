@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c635c064-c7d4-4188-bcb7-547efefc39ab
-  mac-addresses:
+  id: e9ad2494-a882-4b83-85ca-28d5e400e5df
+  macAddresses:
   - 00:60:07:00:00:00/24
   manufacturer: Acres Gaming, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcresGam
 type: d3-device-type-assertion

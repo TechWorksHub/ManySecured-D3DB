@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 377db23d-dbc8-46f0-8fdf-dd08f99a5327
-  mac-addresses:
+  id: 56413d48-e459-4f44-a1ed-6117aba41a30
+  macAddresses:
   - 70:82:0E:00:00:00/24
   manufacturer: as electronics GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: aselectr
 type: d3-device-type-assertion

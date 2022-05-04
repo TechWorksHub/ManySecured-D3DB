@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3efe8c01-9a65-4016-b1a2-3da7417d3a77
-  mac-addresses:
+  id: 067e0ebd-fbe2-40c5-b7ce-989596720133
+  macAddresses:
   - 00:90:E9:00:00:00/24
   manufacturer: Janz Computer Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JanzComp
 type: d3-device-type-assertion

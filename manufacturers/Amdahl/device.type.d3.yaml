@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73bb8a80-82ca-45b5-8296-e8e12e47a22e
-  mac-addresses:
+  id: 09ca2b2a-9192-432c-a39f-45771c880df1
+  macAddresses:
   - 00:80:83:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amdahl
 type: d3-device-type-assertion

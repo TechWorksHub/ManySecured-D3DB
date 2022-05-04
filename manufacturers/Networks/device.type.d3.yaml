@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af0fef45-db7f-4f39-a701-81454acc7cde
-  mac-addresses:
+  id: 671ea6ef-3b3d-4895-9ede-29c0ee0cf4ad
+  macAddresses:
   - 00:C0:5B:00:00:00/24
   manufacturer: Networks Northwest, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Networks
 type: d3-device-type-assertion

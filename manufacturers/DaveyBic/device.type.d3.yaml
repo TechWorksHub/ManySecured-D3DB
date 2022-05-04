@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7888e404-e0a9-43f0-9a6a-585d49576ffb
-  mac-addresses:
+  id: f8c79b56-1eaf-4219-8b16-233cfced48c6
+  macAddresses:
   - 70:B3:D5:1A:40:00/36
   manufacturer: Davey Bickford
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaveyBic
 type: d3-device-type-assertion

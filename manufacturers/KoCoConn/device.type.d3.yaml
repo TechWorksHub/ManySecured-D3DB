@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cdd9bab-f2f4-4826-b172-cab86a62f1da
-  mac-addresses:
+  id: 05833049-2b09-45f0-b814-2833e5076751
+  macAddresses:
   - 00:25:F4:00:00:00/24
   manufacturer: KoCo Connector AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoCoConn
 type: d3-device-type-assertion

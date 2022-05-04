@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bfbad7a-999e-4df8-b90f-d6127e47dd93
-  mac-addresses:
+  id: bcc79077-50f3-41f5-9800-688ce9ff99e6
+  macAddresses:
   - 40:D8:55:09:20:00/36
   manufacturer: Wasserbauer GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wasserba
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a5dcb2f6-dff9-437f-9294-01bf2f0f468c
-  mac-addresses:
+  id: 98becb44-72e9-4a98-b06f-d04eb3a20c94
+  macAddresses:
   - 00:09:2D:00:00:00/24
   - 00:23:76:00:00:00/24
   - 00:EE:BD:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - E8:99:C4:00:00:00/24
   - F8:DB:7F:00:00:00/24
   manufacturer: HTC Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HTC
 type: d3-device-type-assertion

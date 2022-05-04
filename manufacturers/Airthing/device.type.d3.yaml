@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 6c15bfad-4eda-4f61-bfb5-a6d67fb8592c
-  mac-addresses:
+  id: e02622aa-e0c3-42f1-aed6-b5f2bc305378
+  macAddresses:
   - 70:B3:D5:2A:00:00/36
   - 70:B3:D5:53:C0:00/36
   - D0:14:11:90:00:00/28
   manufacturer: Airthings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airthing
 type: d3-device-type-assertion

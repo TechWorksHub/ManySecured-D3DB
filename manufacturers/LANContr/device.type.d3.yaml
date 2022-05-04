@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1fa762f2-3b9d-4892-a72a-538b0fcb1a04
-  mac-addresses:
+  id: 3edee55f-3d7e-4c68-9576-d0aed04a137b
+  macAddresses:
   - 00:50:C2:0B:80:00/36
   manufacturer: LAN Controls, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LANContr
 type: d3-device-type-assertion

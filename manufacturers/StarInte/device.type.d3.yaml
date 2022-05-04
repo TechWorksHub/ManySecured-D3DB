@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29121dc8-cb2d-4563-a307-0f88e905865e
-  mac-addresses:
+  id: 50a096cf-ae02-4183-8839-05655d64a81f
+  macAddresses:
   - 70:B3:D5:5E:F0:00/36
   manufacturer: Star Systems International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StarInte
 type: d3-device-type-assertion

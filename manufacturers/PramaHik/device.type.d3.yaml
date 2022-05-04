@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aff9968c-7f24-432d-a445-b3adeac054e3
-  mac-addresses:
+  id: 48bf574f-2175-4b6f-8d79-62730dce15d7
+  macAddresses:
   - 24:B1:05:00:00:00/24
   manufacturer: Prama Hikvision India Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PramaHik
 type: d3-device-type-assertion

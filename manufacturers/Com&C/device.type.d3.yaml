@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80b22b4c-b99b-426c-a0c8-152788428fcb
-  mac-addresses:
+  id: 91d083b2-d019-4d61-a03e-bf667ba83fa4
+  macAddresses:
   - 00:0F:03:00:00:00/24
   manufacturer: Com&C Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Com&C
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 99517e09-9af7-49ad-918f-74bc374274bc
-  mac-addresses:
+  id: a909f300-f84c-4447-bd4b-af570239da5e
+  macAddresses:
   - 00:50:C2:8E:70:00/36
   - 88:09:07:00:00:00/24
   manufacturer: MKT Systemtechnik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MKTSyste
 type: d3-device-type-assertion

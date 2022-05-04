@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caf76514-4688-4533-850c-e23d42b636b0
-  mac-addresses:
+  id: 2d737c1a-3eb5-4249-bc09-edf3205e7644
+  macAddresses:
   - 00:18:F7:00:00:00/24
   manufacturer: Kameleon Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kameleon
 type: d3-device-type-assertion

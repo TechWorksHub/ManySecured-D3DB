@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 265b2f9c-cc37-4831-b43d-fcff47c90763
-  mac-addresses:
+  id: f3d89154-b313-4e67-a175-f0c61f736c31
+  macAddresses:
   - 80:7B:85:70:00:00/28
   manufacturer: Chendu Ningshui Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChenduNi
 type: d3-device-type-assertion

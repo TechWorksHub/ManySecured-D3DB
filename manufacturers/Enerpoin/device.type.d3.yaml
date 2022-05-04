@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7753b18-01fc-4eb7-9e7f-86d0dea83b15
-  mac-addresses:
+  id: 852cc623-da68-48b0-bc68-9f1463cd94e0
+  macAddresses:
   - 00:0A:3C:00:00:00/24
   manufacturer: Enerpoint Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enerpoin
 type: d3-device-type-assertion

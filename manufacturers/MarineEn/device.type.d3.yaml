@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1e19d1e-03b0-4d28-973d-5115db60bfd5
-  mac-addresses:
+  id: 238254db-d4a1-413d-84cf-f0c1f7e608cf
+  macAddresses:
   - 00:50:C2:B1:00:00/36
   manufacturer: Marine Entertainment Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarineEn
 type: d3-device-type-assertion

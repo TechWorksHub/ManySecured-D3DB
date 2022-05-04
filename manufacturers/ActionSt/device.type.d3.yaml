@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 223b1e3d-56e3-4c2c-af76-cba675a3dd80
-  mac-addresses:
+  id: c0ff9d3a-014b-4972-9810-e46cb36d8b60
+  macAddresses:
   - 00:24:9B:00:00:00/24
   manufacturer: Action Star Enterprise Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActionSt
 type: d3-device-type-assertion

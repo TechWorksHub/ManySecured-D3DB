@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df1b09cb-a96d-4e17-b615-a83f45cf00be
-  mac-addresses:
+  id: 64ab7d9c-b8c2-491d-b8aa-c8eb23764043
+  macAddresses:
   - 70:B3:D5:2C:10:00/36
   manufacturer: Avlinkpro
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avlinkpr
 type: d3-device-type-assertion

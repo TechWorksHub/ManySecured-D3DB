@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d66d723-8bf3-43eb-9766-031add5d52fa
-  mac-addresses:
+  id: f6bac34d-df96-455f-8771-91cd65f04d8b
+  macAddresses:
   - 78:F5:E5:00:00:00/24
   manufacturer: BEGA Gantenbrink-Leuchten KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BEGAGant
 type: d3-device-type-assertion

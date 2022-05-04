@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5eb765cb-1d6f-410c-b51f-1f5240b78c7e
-  mac-addresses:
+  id: 81fb534b-6db6-47c3-bbde-345b3eb78eff
+  macAddresses:
   - 70:B3:D5:93:30:00/36
   manufacturer: Sarl S@Tis
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S@Tis
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7e17ac6-03c7-4635-9147-60967fb339f9
-  mac-addresses:
+  id: 8c2d1d47-d129-440e-806b-7db08464b9b4
+  macAddresses:
   - 20:0F:70:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Foxtech
 type: d3-device-type-assertion

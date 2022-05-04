@@ -1,10 +1,10 @@
 credentialSubject:
-  id: c991c77f-32e5-4d92-9716-d0c609a1b502
-  mac-addresses:
+  id: 090392b0-5d5d-45ac-ac18-29ddc1c65081
+  macAddresses:
   - 00:02:88:00:00:00/24
   - 00:20:14:00:00:00/24
   - 00:20:88:00:00:00/24
   manufacturer: Global Village (PCcard in Mac portable)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalVi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef4d7887-adec-4bb0-b210-c39631331137
-  mac-addresses:
+  id: 111e1e06-1dbc-4a66-a7a5-000a11aa3702
+  macAddresses:
   - 00:18:BB:00:00:00/24
   manufacturer: Eliwell Controls srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EliwellC
 type: d3-device-type-assertion

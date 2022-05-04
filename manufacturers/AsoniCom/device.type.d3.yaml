@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3a69956-ba80-4e11-8310-4979f5ef18f7
-  mac-addresses:
+  id: 3ad58b37-2453-44fb-8495-2a1cd5ad87e0
+  macAddresses:
   - 5C:20:D0:00:00:00/24
   manufacturer: Asoni Communication Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsoniCom
 type: d3-device-type-assertion

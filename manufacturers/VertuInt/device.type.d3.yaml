@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f92aae7b-e777-486f-8c88-6fd6cd2a1f5f
-  mac-addresses:
+  id: 9f61a4a7-aa80-48c3-92d2-9c2955539dc9
+  macAddresses:
   - 34:66:EA:00:00:00/24
   manufacturer: Vertu International Corporation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VertuInt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 292d70b5-a4d8-40ab-90fc-03ca65497f24
-  mac-addresses:
+  id: a469aa4d-9c67-4886-a1fc-cfbea20463a2
+  macAddresses:
   - D4:3A:65:00:00:00/24
   manufacturer: IGRS Engineering Lab Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IGRSEngi
 type: d3-device-type-assertion

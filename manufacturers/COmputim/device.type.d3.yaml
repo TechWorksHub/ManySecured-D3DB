@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7006de7c-9ae0-47be-8bab-7509da212a94
-  mac-addresses:
+  id: 0f2ff9bf-0ef0-4c89-813c-a772e73fe8ee
+  macAddresses:
   - 00:1E:5E:00:00:00/24
   manufacturer: COmputime Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COmputim
 type: d3-device-type-assertion

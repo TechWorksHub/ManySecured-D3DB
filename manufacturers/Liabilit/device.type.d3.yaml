@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 94b6365b-c20c-4b19-8ad7-da8b93c845b0
-  mac-addresses:
+  id: 1c879e51-d945-48f7-b95c-d1a0d9007675
+  macAddresses:
   - 70:14:04:00:00:00/24
   - E8:6C:C7:C0:00:00/28
   manufacturer: Limited Liability Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liabilit
 type: d3-device-type-assertion

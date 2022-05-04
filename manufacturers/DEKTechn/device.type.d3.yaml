@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8db56a46-efb4-4fd0-822d-1f482de3b918
-  mac-addresses:
+  id: fed38bc5-e2a6-4f1b-829b-2c79e2cc78be
+  macAddresses:
   - 70:B3:D5:D2:20:00/36
   manufacturer: DEK Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEKTechn
 type: d3-device-type-assertion

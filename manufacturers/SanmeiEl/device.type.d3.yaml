@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14b9294f-5e4a-4c7a-be7e-a53f4c3db92b
-  mac-addresses:
+  id: 04c9f183-d630-4082-bc29-23e7e31b9098
+  macAddresses:
   - 00:0F:71:00:00:00/24
   manufacturer: Sanmei Electronics Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanmeiEl
 type: d3-device-type-assertion

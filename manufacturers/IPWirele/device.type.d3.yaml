@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d6fcc4c-42b7-4cdc-8332-08421100aee3
-  mac-addresses:
+  id: e54aa486-21c2-4b2b-a922-b3e0cdcc6f4a
+  macAddresses:
   - 00:04:D8:00:00:00/24
   manufacturer: IPWireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPWirele
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31343cfa-3eef-4bf9-a6fa-368c966db732
-  mac-addresses:
+  id: c9ef0f7e-a2f9-4fb8-b6cd-14324cbea131
+  macAddresses:
   - 70:B3:D5:9E:C0:00/36
   manufacturer: eSoftThings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eSoftThi
 type: d3-device-type-assertion

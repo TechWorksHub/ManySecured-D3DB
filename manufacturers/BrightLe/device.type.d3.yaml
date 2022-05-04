@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7782d21c-fa62-42ef-96c3-ca01308740f5
-  mac-addresses:
+  id: 4bc980ff-6afa-48ed-aca3-cf26d30f6e3e
+  macAddresses:
   - 40:D8:55:16:F0:00/36
   manufacturer: BrightLeaf Power
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BrightLe
 type: d3-device-type-assertion

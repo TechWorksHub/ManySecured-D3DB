@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f28a9e5a-c8c6-4e7e-a407-4b810f05ec67
-  mac-addresses:
+  id: 0179af86-f372-439d-8b5b-1b30f576c8f2
+  macAddresses:
   - 00:0B:77:00:00:00/24
   manufacturer: Cogent Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cogent
 type: d3-device-type-assertion

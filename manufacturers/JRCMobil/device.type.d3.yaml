@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31ea2d1c-75bd-4b66-854c-645329ba92a6
-  mac-addresses:
+  id: 0bc5e1c4-42d9-4f17-8178-728008fd01f1
+  macAddresses:
   - 18:4F:5D:00:00:00/24
   manufacturer: JRC Mobility Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JRCMobil
 type: d3-device-type-assertion

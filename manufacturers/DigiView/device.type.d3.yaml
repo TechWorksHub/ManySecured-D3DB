@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f125e248-b002-4e57-aad3-1a3f6f043d35
-  mac-addresses:
+  id: 4611d955-4e25-4bbc-af9f-65a375d4e299
+  macAddresses:
   - E0:64:BB:00:00:00/24
   manufacturer: DigiView S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigiView
 type: d3-device-type-assertion

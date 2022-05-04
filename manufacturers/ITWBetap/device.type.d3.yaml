@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 419aefb3-48cf-401b-aaf0-023e1dd8bea2
-  mac-addresses:
+  id: 482ecd8f-78e0-4166-912e-d5d91c5c99a6
+  macAddresses:
   - 00:50:C2:54:80:00/36
   manufacturer: I.T.W. Betaprint
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITWBetap
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e4daf7a-b79c-4856-b2d1-5c6e6551385e
-  mac-addresses:
+  id: dd7cfecc-477e-4cd2-bfc5-80d762dc0048
+  macAddresses:
   - B0:B5:E8:00:00:00/24
   manufacturer: Ruroc LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ruroc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7031542-fb13-4ce6-9c99-12d5aa37cba6
-  mac-addresses:
+  id: c56e0231-acf3-489c-9132-9183a9e53b70
+  macAddresses:
   - 00:C0:FE:00:00:00/24
   manufacturer: Aptec Computer Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AptecCom
 type: d3-device-type-assertion

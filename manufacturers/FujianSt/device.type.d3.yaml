@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 13890ebf-684e-4da5-800c-2a142388b3bd
-  mac-addresses:
+  id: 98bb525c-47f0-4d0a-96e0-2078aeb7135a
+  macAddresses:
   - 00:0B:00:00:00:00/24
   - 00:19:4C:00:00:00/24
   - 00:1A:A9:00:00:00/24
@@ -18,6 +18,6 @@ credentialSubject:
   - E0:07:C2:00:00:00/24
   - F4:E4:D7:00:00:00/24
   manufacturer: Fujian Start Computer Equipment Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FujianSt
 type: d3-device-type-assertion

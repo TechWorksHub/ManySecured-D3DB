@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eaf77aab-54cf-4b75-8df5-ad1a3ce41b39
-  mac-addresses:
+  id: 592945ff-08e4-47be-a459-f7889e2ed139
+  macAddresses:
   - 00:09:20:00:00:00/24
   manufacturer: EpoX COMPUTER CO.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EpoXCOMP
 type: d3-device-type-assertion

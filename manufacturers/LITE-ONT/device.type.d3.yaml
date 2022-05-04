@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35c98510-748e-45f3-b9a4-62aac4f20d30
-  mac-addresses:
+  id: 1815f02f-1893-4211-b7c0-b0ffa7e4a483
+  macAddresses:
   - 00:16:44:00:00:00/24
   manufacturer: LITE-ON Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LITE-ONT
 type: d3-device-type-assertion

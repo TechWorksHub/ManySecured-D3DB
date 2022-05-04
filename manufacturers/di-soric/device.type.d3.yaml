@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca8ae231-e19a-4514-833f-ade01f4e9028
-  mac-addresses:
+  id: d071ddb1-5f7f-458e-bb74-b6e23671908c
+  macAddresses:
   - 8C:0F:A0:00:00:00/24
   manufacturer: di-soric GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: di-soric
 type: d3-device-type-assertion

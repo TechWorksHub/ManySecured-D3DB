@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 31bb9573-3172-40da-8f7a-b89a795c050d
-  mac-addresses:
+  id: e1ecf756-d2c2-46f9-94a4-a4bc7cbcf243
+  macAddresses:
   - 00:50:C2:0E:00:00/36
   - 00:50:C2:97:40:00/36
   - 00:50:C2:B8:70:00/36
@@ -20,6 +20,6 @@ credentialSubject:
   - 70:B3:D5:72:90:00/36
   - 70:B3:D5:8A:B0:00/36
   manufacturer: EMAC, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMAC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23bfb5c9-5699-4077-9258-0d2606a9d850
-  mac-addresses:
+  id: 3e60c686-4086-4428-9d9e-6c60b2763588
+  macAddresses:
   - 00:50:C2:0E:D0:00/36
   manufacturer: Valley Products Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValleyPr
 type: d3-device-type-assertion

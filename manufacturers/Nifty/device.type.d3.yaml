@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecdc4c93-3b3a-4c2c-912a-9cffbf6fc165
-  mac-addresses:
+  id: 3fedfdbf-0d80-4f94-b386-84322c88be3c
+  macAddresses:
   - 00:19:9E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nifty
 type: d3-device-type-assertion

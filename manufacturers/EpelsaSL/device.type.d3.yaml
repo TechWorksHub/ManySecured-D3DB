@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 17c5a395-087f-429b-a0b6-dc5fb5875cb1
-  mac-addresses:
+  id: d474708f-ee0c-4c10-a545-ae15d7cbb059
+  macAddresses:
   - 00:50:C2:2A:20:00/36
   manufacturer: Epelsa, SL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EpelsaSL
 type: d3-device-type-assertion

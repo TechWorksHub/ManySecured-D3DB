@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b97f3109-41f4-4217-b007-7a46d660642b
-  mac-addresses:
+  id: a36fd467-d1ad-4024-a7db-866eecb302b1
+  macAddresses:
   - 00:08:0B:00:00:00/24
   manufacturer: Birka BPA Informationssystem AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BirkaBPA
 type: d3-device-type-assertion

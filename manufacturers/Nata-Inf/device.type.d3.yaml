@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65012f42-6604-46e0-8466-20bc9d9f837b
-  mac-addresses:
+  id: 9b077e43-6f54-4a33-81c6-6bd5a1629746
+  macAddresses:
   - E0:87:B1:00:00:00/24
   manufacturer: Nata-Info Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nata-Inf
 type: d3-device-type-assertion

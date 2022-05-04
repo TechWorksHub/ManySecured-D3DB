@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25965544-b436-4c6b-89e4-5d1bd7eb7c0d
-  mac-addresses:
+  id: b8c079f3-0b2d-4c1d-b4da-c62ccb92d927
+  macAddresses:
   - 4C:62:7B:00:00:00/24
   manufacturer: SmartCow AI Technologies Taiwan Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartCow
 type: d3-device-type-assertion

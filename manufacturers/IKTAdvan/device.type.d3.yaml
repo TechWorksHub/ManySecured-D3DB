@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d99e403c-c874-4071-afb2-94fba1cdaea9
-  mac-addresses:
+  id: 58e77197-5b2d-407d-b129-8731ecf0331c
+  macAddresses:
   - 00:26:2C:00:00:00/24
   manufacturer: IKT Advanced Technologies s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IKTAdvan
 type: d3-device-type-assertion

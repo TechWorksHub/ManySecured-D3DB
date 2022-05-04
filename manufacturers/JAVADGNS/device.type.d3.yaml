@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f56b61b0-fd71-465e-aa2e-df173f9c1f57
-  mac-addresses:
+  id: 31eab614-963d-4455-bc3b-fb4a8a593dac
+  macAddresses:
   - 00:18:D7:00:00:00/24
   manufacturer: JAVAD GNSS, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JAVADGNS
 type: d3-device-type-assertion

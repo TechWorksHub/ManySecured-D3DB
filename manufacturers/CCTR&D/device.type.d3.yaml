@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10004ea8-b204-44ee-a868-d2403eacf0aa
-  mac-addresses:
+  id: d417461d-c396-4b2e-afc1-e03b8dd0e1ab
+  macAddresses:
   - 00:19:83:00:00:00/24
   manufacturer: CCT R&D Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CCTR&D
 type: d3-device-type-assertion

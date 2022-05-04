@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81d6cfb6-8d7f-483b-89da-117e4a668d22
-  mac-addresses:
+  id: 265af070-d809-4efc-889f-4d93fc82ae17
+  macAddresses:
   - 70:B3:D5:AD:10:00/36
   manufacturer: Sensile Technologies SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensileT
 type: d3-device-type-assertion

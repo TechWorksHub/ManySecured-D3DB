@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90f55b46-a9a0-40a3-bd54-5d2069c59ea0
-  mac-addresses:
+  id: d80d9f8b-ba02-49ba-8d2e-2f5288817a1c
+  macAddresses:
   - 00:1B:C5:05:00:00/36
   manufacturer: TeliSwitch Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeliSwit
 type: d3-device-type-assertion

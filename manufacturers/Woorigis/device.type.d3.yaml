@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db672e1e-672a-4122-a154-47de778dbbf3
-  mac-addresses:
+  id: 5ee86a2f-0273-4af6-b583-43ce306c5f9b
+  macAddresses:
   - 00:02:90:00:00:00/24
   manufacturer: Woorigisool, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Woorigis
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23bb459e-0005-43c2-aa34-2f4c78ed2402
-  mac-addresses:
+  id: b549d5d7-9655-4d80-b407-6686ec246438
+  macAddresses:
   - 00:24:0A:00:00:00/24
   manufacturer: US Beverage Net
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: USBevera
 type: d3-device-type-assertion

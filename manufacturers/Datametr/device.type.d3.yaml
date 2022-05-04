@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fb9b821-8685-4cb1-b29a-bd55fba91134
-  mac-addresses:
+  id: 60f45e2a-2340-41c6-bb16-40c16c4d1169
+  macAddresses:
   - 00:20:42:00:00:00/24
   manufacturer: Datametrics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datametr
 type: d3-device-type-assertion

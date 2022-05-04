@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eadad120-f9cd-4a1f-98ce-e1c0ff181f8e
-  mac-addresses:
+  id: a37cfcaf-13ea-42b5-866e-abf35c0dd7d8
+  macAddresses:
   - 00:00:09:00:00:00/24
   manufacturer: powerpipes?
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Powerpip
 type: d3-device-type-assertion

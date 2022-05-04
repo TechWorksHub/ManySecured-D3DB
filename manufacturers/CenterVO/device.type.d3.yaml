@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a028db05-fcb7-459b-ae9a-07136dd2f3e1
-  mac-addresses:
+  id: 6f4d7c32-9d9d-4427-a6d6-77b3516b0db3
+  macAddresses:
   - 00:50:C2:40:B0:00/36
   manufacturer: Center VOSPI JSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CenterVO
 type: d3-device-type-assertion

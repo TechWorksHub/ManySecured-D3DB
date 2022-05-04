@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31a3ec2c-cf6c-405b-af0c-43881e189dba
-  mac-addresses:
+  id: 3520c29b-f779-4fca-9211-0817c314e60a
+  macAddresses:
   - 40:48:FD:60:00:00/28
   manufacturer: Swarco Technology ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SwarcoTe
 type: d3-device-type-assertion

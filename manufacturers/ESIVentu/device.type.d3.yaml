@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5a1e03c0-9d72-4548-92d0-65fe3fb95084
-  mac-addresses:
+  id: 2700a008-4b8d-4e7d-9b51-58f33b62b1b3
+  macAddresses:
   - 00:50:C2:F0:50:00/36
   - 28:36:13:60:00:00/28
   manufacturer: ESI Ventures, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESIVentu
 type: d3-device-type-assertion

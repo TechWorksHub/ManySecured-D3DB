@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acdc8a80-d8a5-40c9-ba15-2b3e7bbd315e
-  mac-addresses:
+  id: 4a1104ea-4edb-4966-aff7-4029d9b9a55d
+  macAddresses:
   - 00:1F:43:00:00:00/24
   manufacturer: Entes Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EntesEle
 type: d3-device-type-assertion

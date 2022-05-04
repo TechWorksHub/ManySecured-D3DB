@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52749a5a-f13a-4a92-988c-df725f05f494
-  mac-addresses:
+  id: 46e0ff3e-778f-4645-8347-f3b453f178d2
+  macAddresses:
   - 00:50:C2:BA:00:00/36
   manufacturer: txtr GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: txtr
 type: d3-device-type-assertion

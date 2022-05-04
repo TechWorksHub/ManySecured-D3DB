@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01b5ee0b-3f22-49d2-977c-e7fbb3ede2e1
-  mac-addresses:
+  id: c00d28d0-4d79-4b56-9f8a-1f324110d161
+  macAddresses:
   - 00:0C:7A:00:00:00/24
   manufacturer: DaTARIUS Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaTARIUS
 type: d3-device-type-assertion

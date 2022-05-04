@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 880bc168-9f25-4687-8499-92b7a883f1d2
-  mac-addresses:
+  id: b400b1e7-4bf1-4018-8167-86f64056d952
+  macAddresses:
   - 00:80:15:00:00:00/24
   manufacturer: Seiko Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seiko
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e2b79c0b-9883-4000-8edd-786bcfb3b7b1
-  mac-addresses:
+  id: 1e2e13b5-8cfd-4036-a0e2-7cf0530fd62f
+  macAddresses:
   - 00:1B:C5:00:10:00/36
   manufacturer: OpenRB.com, Direct SIA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenRBco
 type: d3-device-type-assertion

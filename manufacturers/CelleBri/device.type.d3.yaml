@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca479fc6-4c0f-4493-a372-53ff95367d10
-  mac-addresses:
+  id: 0e0abe9d-2067-4bf9-b121-a11a8cf8c4e3
+  macAddresses:
   - 00:16:00:00:00:00/24
   manufacturer: CelleBrite Mobile Synchronization
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CelleBri
 type: d3-device-type-assertion

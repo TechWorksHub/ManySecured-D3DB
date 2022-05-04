@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbe590f6-2572-4911-8d4f-d1472ed46754
-  mac-addresses:
+  id: 46c21240-9940-46e5-b040-8a6b499a453e
+  macAddresses:
   - E4:3F:A2:00:00:00/24
   manufacturer: Wuxi DSP Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuxiDSPT
 type: d3-device-type-assertion

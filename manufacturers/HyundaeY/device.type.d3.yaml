@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b859ce9-3082-4aa3-8cd7-47e86c76fde4
-  mac-addresses:
+  id: ac326439-a44e-4a80-94c2-25cb972cb7ca
+  macAddresses:
   - 00:17:49:00:00:00/24
   manufacturer: Hyundae Yong-O-Sa Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HyundaeY
 type: d3-device-type-assertion

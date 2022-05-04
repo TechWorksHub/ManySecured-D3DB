@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a48a50f-341b-4635-8824-8791c354b2e0
-  mac-addresses:
+  id: c2a44638-248b-49cd-abf7-e1cab52eeea7
+  macAddresses:
   - 00:E0:C6:00:00:00/24
   manufacturer: Link2It, L.L.C.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Link2ItL
 type: d3-device-type-assertion

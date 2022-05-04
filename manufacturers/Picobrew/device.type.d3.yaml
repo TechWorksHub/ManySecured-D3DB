@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18874f62-1e20-4ce2-9af5-9e1e22f040de
-  mac-addresses:
+  id: 3b8c0d7c-638d-42f8-8002-317fb4633909
+  macAddresses:
   - D0:76:50:60:00:00/28
   manufacturer: Picobrew LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Picobrew
 type: d3-device-type-assertion

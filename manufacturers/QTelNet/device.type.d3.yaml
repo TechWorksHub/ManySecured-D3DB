@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae428748-d8c5-4fe7-80ff-e965480d0015
-  mac-addresses:
+  id: 6a24ad2e-b6d9-405e-8b9a-63004a38ca99
+  macAddresses:
   - 00:30:57:00:00:00/24
   manufacturer: QTelNet, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QTelNet
 type: d3-device-type-assertion

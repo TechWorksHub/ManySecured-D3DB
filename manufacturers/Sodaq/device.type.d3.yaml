@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fe65cb1c-ca2a-4bd9-96bf-bac3dbbee2b3
-  mac-addresses:
+  id: 1f75f9af-5360-423b-9edf-fcdd6c5de423
+  macAddresses:
   - 70:B3:D5:AD:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sodaq
 type: d3-device-type-assertion

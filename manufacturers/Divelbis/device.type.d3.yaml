@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 3c01f9a5-fbf2-4b8e-976a-8892d8f754cd
-  mac-addresses:
+  id: 2c505ad6-6d33-4b3b-93ec-a7f90ea1423d
+  macAddresses:
   - 00:50:C2:E2:00:00/36
   - 70:B3:D5:F4:30:00/36
   - 88:C9:B3:80:00:00/28
   manufacturer: Divelbiss Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Divelbis
 type: d3-device-type-assertion

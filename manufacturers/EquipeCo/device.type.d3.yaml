@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac527766-e14d-4475-ac6f-64d76571a5a1
-  mac-addresses:
+  id: 04ac5260-2beb-4719-9fe0-4db3ced1d067
+  macAddresses:
   - 00:02:F6:00:00:00/24
   manufacturer: Equipe Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EquipeCo
 type: d3-device-type-assertion

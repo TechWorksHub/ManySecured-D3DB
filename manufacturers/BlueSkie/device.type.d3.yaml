@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45cf9946-b512-41d1-aa1b-27fb688841e9
-  mac-addresses:
+  id: 272d3883-e730-471b-899e-afbf04b7e950
+  macAddresses:
   - 70:B3:D5:1D:80:00/36
   manufacturer: Blue Skies Global LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueSkie
 type: d3-device-type-assertion

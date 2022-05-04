@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72239d8c-4857-4225-b8c3-ef5e65f630b9
-  mac-addresses:
+  id: 9c86d92a-3748-4ed9-9dc3-6326b2ffa0dd
+  macAddresses:
   - 00:1D:1F:00:00:00/24
   manufacturer: Siauliu Tauro Televizoriai, JSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiauliuT
 type: d3-device-type-assertion

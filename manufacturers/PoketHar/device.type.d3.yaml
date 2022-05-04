@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d48435e-9c27-480e-874c-4f472d38f991
-  mac-addresses:
+  id: 697eb078-c5c9-40f1-8152-47d6862a98f2
+  macAddresses:
   - 28:FD:80:B0:00:00/28
   manufacturer: Poket Hardware GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PoketHar
 type: d3-device-type-assertion

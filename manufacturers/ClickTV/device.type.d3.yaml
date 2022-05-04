@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bcf096d-ed26-47b3-a27f-ba0bb7c47c85
-  mac-addresses:
+  id: 53302379-e90b-4c4e-ac85-70e1cdcc7dc3
+  macAddresses:
   - 00:02:23:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClickTV
 type: d3-device-type-assertion

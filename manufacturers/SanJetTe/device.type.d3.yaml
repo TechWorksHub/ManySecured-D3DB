@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18240b60-5c13-49b1-b7d3-68f231e08ba1
-  mac-addresses:
+  id: 524ccb35-3597-48c1-9d2c-6b6673695656
+  macAddresses:
   - B8:47:C6:00:00:00/24
   manufacturer: SanJet Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanJetTe
 type: d3-device-type-assertion

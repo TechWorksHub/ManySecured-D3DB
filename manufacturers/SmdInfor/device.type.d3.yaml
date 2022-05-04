@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b41ca3a-97f4-4a12-8a25-930ca3392495
-  mac-addresses:
+  id: 689a51ec-0a80-4b1e-8549-0bc39a13398a
+  macAddresses:
   - 00:40:48:00:00:00/24
   manufacturer: Smd Informatica S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmdInfor
 type: d3-device-type-assertion

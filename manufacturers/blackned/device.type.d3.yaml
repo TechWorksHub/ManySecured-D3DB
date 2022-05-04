@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc03e764-ae7c-4ebb-ba3d-c9ddc8a68e23
-  mac-addresses:
+  id: d3de898f-e677-4c70-8893-679159dabe1e
+  macAddresses:
   - F4:C6:D7:00:00:00/24
   manufacturer: blackned GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: blackned
 type: d3-device-type-assertion

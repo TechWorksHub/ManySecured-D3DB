@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01c9949b-6743-4141-b93b-a55f12b3ac47
-  mac-addresses:
+  id: 1a94e51d-0d3a-4ca0-a79c-d02054243a24
+  macAddresses:
   - 00:0C:65:00:00:00/24
   manufacturer: Sunin Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuninTel
 type: d3-device-type-assertion

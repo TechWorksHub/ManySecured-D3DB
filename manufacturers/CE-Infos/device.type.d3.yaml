@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54b34223-1cda-43c9-a40b-e5c66bd1ec37
-  mac-addresses:
+  id: fd45bf8b-6375-4b11-be31-f32e6afc9de5
+  macAddresses:
   - 00:12:0C:00:00:00/24
   manufacturer: CE-Infosys Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CE-Infos
 type: d3-device-type-assertion

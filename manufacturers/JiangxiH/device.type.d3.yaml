@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48d89dc2-cc8e-4be9-b10e-d3386226c582
-  mac-addresses:
+  id: 43f92a98-015f-4ea7-b493-a97dc7719d71
+  macAddresses:
   - D4:45:E8:00:00:00/24
   manufacturer: Jiangxi Hongpai Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangxiH
 type: d3-device-type-assertion

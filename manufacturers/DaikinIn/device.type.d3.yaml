@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e1f29e3-1469-4e3d-8290-58000713e97c
-  mac-addresses:
+  id: 80d2e30c-6d25-48a4-846d-294240ee8d7b
+  macAddresses:
   - 00:80:4F:00:00:00/24
   manufacturer: Daikin Industries, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaikinIn
 type: d3-device-type-assertion

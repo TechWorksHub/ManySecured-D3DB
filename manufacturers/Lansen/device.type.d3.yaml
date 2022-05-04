@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46eaf4d9-dc82-47dc-84a3-0750eb26e944
-  mac-addresses:
+  id: 5898ea27-5c61-4ccb-bf99-318a23293ac0
+  macAddresses:
   - A0:41:2D:00:00:00/24
   manufacturer: Lansen Systems AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lansen
 type: d3-device-type-assertion

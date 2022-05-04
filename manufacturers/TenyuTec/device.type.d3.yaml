@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba80118b-5b8e-437d-9dc8-b44703e3ebea
-  mac-addresses:
+  id: 283787bd-df9a-459b-88a2-a4466891f55e
+  macAddresses:
   - 7C:6B:33:00:00:00/24
   manufacturer: Tenyu Tech Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TenyuTec
 type: d3-device-type-assertion

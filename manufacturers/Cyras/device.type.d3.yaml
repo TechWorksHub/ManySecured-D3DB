@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 100d62cd-4ba9-4b42-b5cb-3f7b2dd5cc7f
-  mac-addresses:
+  id: 36018190-a57d-4211-bd34-6bac1fdfa4cf
+  macAddresses:
   - 00:03:18:00:00:00/24
   manufacturer: Cyras Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cyras
 type: d3-device-type-assertion

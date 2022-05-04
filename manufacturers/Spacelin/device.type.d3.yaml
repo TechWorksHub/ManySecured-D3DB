@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 679da42c-51d3-455e-977f-92cd89328955
-  mac-addresses:
+  id: 7b937306-60d5-43d5-8f87-a6dc4a492c11
+  macAddresses:
   - 10:34:1B:00:00:00/24
   manufacturer: Spacelink
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spacelin
 type: d3-device-type-assertion

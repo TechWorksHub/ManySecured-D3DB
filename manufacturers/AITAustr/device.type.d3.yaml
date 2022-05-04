@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64810fe8-2b84-41ee-8630-2d8a5ecc2d1a
-  mac-addresses:
+  id: 589277e7-3fe0-4f86-a86b-235d6275d919
+  macAddresses:
   - 00:60:36:00:00:00/24
   manufacturer: AIT Austrian Institute of Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AITAustr
 type: d3-device-type-assertion

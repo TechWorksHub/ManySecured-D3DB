@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b97815f-2cd2-4cfc-9116-5e57315a6605
-  mac-addresses:
+  id: e06f9dc3-d616-4772-afad-867e9c0b19c4
+  macAddresses:
   - 00:13:99:00:00:00/24
   manufacturer: STAC Corporation.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STAC
 type: d3-device-type-assertion

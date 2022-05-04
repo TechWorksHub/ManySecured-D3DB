@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba7cd786-56ff-431f-8717-90959483f289
-  mac-addresses:
+  id: fcaede88-75c9-4f59-88e7-231842375e5b
+  macAddresses:
   - 00:50:C2:80:B0:00/36
   manufacturer: Open Video, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OpenVide
 type: d3-device-type-assertion

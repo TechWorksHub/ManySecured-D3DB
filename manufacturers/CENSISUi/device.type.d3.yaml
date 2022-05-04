@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 903409e0-33c9-472e-bdae-5754726f6565
-  mac-addresses:
+  id: 91c08f7e-d7de-453c-b722-75ca23df9d24
+  macAddresses:
   - 70:B3:D5:1C:20:00/36
   manufacturer: CENSIS, Uiversity of Glasgow
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CENSISUi
 type: d3-device-type-assertion

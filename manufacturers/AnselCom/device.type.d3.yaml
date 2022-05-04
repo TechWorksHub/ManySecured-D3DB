@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5dd9fde-2f29-40fd-b235-4bf14837190b
-  mac-addresses:
+  id: 27d5fdb1-44b6-4c41-88b0-e292050cd809
+  macAddresses:
   - 00:40:90:00:00:00/24
   manufacturer: Ansel Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnselCom
 type: d3-device-type-assertion

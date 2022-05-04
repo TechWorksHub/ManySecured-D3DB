@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc6107eb-db21-4ab7-91c5-edece598e2d4
-  mac-addresses:
+  id: 5cb9e8ec-3c97-429e-96aa-02aaeaca4b49
+  macAddresses:
   - 00:50:C2:AE:20:00/36
   manufacturer: Power Medical Interventions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerMed
 type: d3-device-type-assertion

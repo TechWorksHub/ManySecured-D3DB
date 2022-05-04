@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ce4054f-0e06-4d50-955e-c74bee3243c5
-  mac-addresses:
+  id: f8cb788e-1327-4543-8d51-4b770e0ce51a
+  macAddresses:
   - C8:FA:E1:00:00:00/24
   manufacturer: ARQ Digital LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARQDigit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43fb2ac4-f30b-430e-bd71-30b6afb76493
-  mac-addresses:
+  id: fcf5f1d3-ba5a-4856-a4de-b942b266e5c7
+  macAddresses:
   - 0C:CD:FB:00:00:00/24
   manufacturer: EDIC Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDIC
 type: d3-device-type-assertion

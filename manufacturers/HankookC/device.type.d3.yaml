@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b2bdde09-2d1b-4981-ab84-bbfd6b51f282
-  mac-addresses:
+  id: 5c9afd61-55ef-4716-b7b4-488dda037c49
+  macAddresses:
   - 50:A0:30:E0:00:00/28
   - 70:B3:D5:6E:E0:00/36
   manufacturer: Hankook Ctec Co,. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HankookC
 type: d3-device-type-assertion

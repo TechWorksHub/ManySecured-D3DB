@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 574fb950-0391-4a79-a51a-06a5f997fded
-  mac-addresses:
+  id: fe12f6b6-7a4b-4f74-b771-0612aba15c2c
+  macAddresses:
   - 00:00:31:00:00:00/24
   - 00:A0:9B:00:00:00/24
   manufacturer: Qpsx Communications, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QpsxComm
 type: d3-device-type-assertion

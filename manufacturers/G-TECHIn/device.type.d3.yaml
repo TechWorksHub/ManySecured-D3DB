@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d9d5377-7931-437d-9b30-7c6ea5dab818
-  mac-addresses:
+  id: d83d0a99-5a1e-4163-8e6e-0a0656733d70
+  macAddresses:
   - 68:91:D0:40:00:00/28
   manufacturer: G-TECH Instruments Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-TECHIn
 type: d3-device-type-assertion

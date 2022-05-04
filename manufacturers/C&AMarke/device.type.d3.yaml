@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1c8b290f-8c3c-4c62-91a0-d08aa25f635d
-  mac-addresses:
+  id: a7333e53-c231-46f3-be4c-a8ade0ddf499
+  macAddresses:
   - 0C:86:29:60:00:00/28
   - 1C:82:59:30:00:00/28
   manufacturer: C&A Marketing, INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C&AMarke
 type: d3-device-type-assertion

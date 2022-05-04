@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c46dd36-bdb9-46f3-98fc-73612bfb04ba
-  mac-addresses:
+  id: 9168d83a-aaa5-45b2-82af-7f0911c06fa0
+  macAddresses:
   - 00:17:81:00:00:00/24
   manufacturer: Greystone Data System, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greyston
 type: d3-device-type-assertion

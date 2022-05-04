@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07e1055e-75a5-466c-94ff-6c6710e29df6
-  mac-addresses:
+  id: 7e8970d8-f5d7-4a18-bd76-3528bda02dca
+  macAddresses:
   - 00:00:A1:00:00:00/24
   manufacturer: Marquette Electric Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marquett
 type: d3-device-type-assertion

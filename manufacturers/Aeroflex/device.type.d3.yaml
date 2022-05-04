@@ -1,10 +1,10 @@
 credentialSubject:
-  id: fae85e87-1e53-4004-9ad4-ed03f94a36da
-  mac-addresses:
+  id: 104a722e-ff81-4ea9-9f2d-d2a459b1b333
+  macAddresses:
   - 00:50:31:00:00:00/24
   - 00:50:C2:21:90:00/36
   - 00:50:C2:B5:10:00/36
   manufacturer: Aeroflex Laboratories, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aeroflex
 type: d3-device-type-assertion

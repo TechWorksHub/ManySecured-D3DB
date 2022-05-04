@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ef96a268-58c2-4fd0-beaf-871520329791
-  mac-addresses:
+  id: cb76b267-89a2-4c71-8ac6-f433372a0f32
+  macAddresses:
   - 00:21:16:00:00:00/24
   manufacturer: Transcon Electronic Systems, spol. s r. o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transcon
 type: d3-device-type-assertion

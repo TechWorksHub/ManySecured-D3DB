@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7500b7a7-58a5-406e-bebd-e3b4edea0760
-  mac-addresses:
+  id: f7e17288-67f4-43b3-bfd5-dd3ad88b21a4
+  macAddresses:
   - 00:1E:53:00:00:00/24
   manufacturer: Further Tech Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FurtherT
 type: d3-device-type-assertion

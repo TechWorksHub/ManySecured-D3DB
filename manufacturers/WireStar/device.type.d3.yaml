@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 097b608c-4fd0-4e9c-b5f5-2d7b35f5ec92
-  mac-addresses:
+  id: 7d6aa9c6-277e-466b-9042-977d7bf83067
+  macAddresses:
   - E0:D7:38:00:00:00/24
   manufacturer: WireStar Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WireStar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce5c6de5-d9a4-4d3e-a41d-84865807ed15
-  mac-addresses:
+  id: 30678b98-a36f-45a6-be6c-9bf4b8c9a63f
+  macAddresses:
   - 00:1B:A0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Awox
 type: d3-device-type-assertion

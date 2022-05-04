@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e071ee12-b64d-47c7-a558-cb887eb2bb9f
-  mac-addresses:
+  id: 211a2eee-a5c9-4a79-9ddb-49da75d33233
+  macAddresses:
   - 00:55:DA:70:00:00/28
   manufacturer: "Lucistechnologies\uFF08Shanghai\uFF09Co.,Ltd"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lucistec
 type: d3-device-type-assertion

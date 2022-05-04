@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ce5be36-ba15-4df9-9f2f-b302bc1b222a
-  mac-addresses:
+  id: d988123a-c05a-457c-a691-2384e64ff009
+  macAddresses:
   - 00:1F:18:00:00:00/24
   manufacturer: Hakusan.Mfg.Co,.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HakusanM
 type: d3-device-type-assertion

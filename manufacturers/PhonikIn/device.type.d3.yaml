@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43f77faf-b4f1-491e-821e-4722902a4aab
-  mac-addresses:
+  id: 3c271556-ad18-4a2e-b360-1d3e544cf256
+  macAddresses:
   - 00:1F:57:00:00:00/24
   manufacturer: Phonik Innovation Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhonikIn
 type: d3-device-type-assertion

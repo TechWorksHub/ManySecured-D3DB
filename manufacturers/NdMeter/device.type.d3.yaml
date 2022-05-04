@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1050660a-5793-44fb-b25f-c949bd78321f
-  mac-addresses:
+  id: 7f45f013-8a26-4456-b1db-f0d1f1a4055b
+  macAddresses:
   - 70:B3:D5:68:C0:00/36
   manufacturer: Nd Meter
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NdMeter
 type: d3-device-type-assertion

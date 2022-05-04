@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96bfde83-99db-4a4e-a1c0-80ffdaf3b7e3
-  mac-addresses:
+  id: 7109cce9-c627-4be7-9a92-24fbbf6af3c5
+  macAddresses:
   - 00:50:C2:90:30:00/36
   manufacturer: EcoAxis Systems Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EcoAxis
 type: d3-device-type-assertion

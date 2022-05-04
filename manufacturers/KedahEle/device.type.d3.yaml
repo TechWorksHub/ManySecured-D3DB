@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac94ebaa-89a0-4251-a630-dbe5d4ba9d20
-  mac-addresses:
+  id: 62b927cd-2884-46c1-a225-3b4675e2ea89
+  macAddresses:
   - 00:23:2E:00:00:00/24
   manufacturer: Kedah Electronics Engineering, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KedahEle
 type: d3-device-type-assertion

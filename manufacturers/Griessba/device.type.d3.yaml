@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7649c5c-bdbd-4d2c-abe2-30e4e67867b6
-  mac-addresses:
+  id: abff3e31-bff1-4d85-a8b1-c46d22108e7f
+  macAddresses:
   - 2C:26:5F:10:00:00/28
   manufacturer: Griessbach
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Griessba
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 454b1c88-e11d-4839-91ec-a20392d0d8dc
-  mac-addresses:
+  id: c71cae08-688f-4bdc-95a7-4b4f9ec93171
+  macAddresses:
   - 00:02:2E:00:00:00/24
   manufacturer: TEAC Corp. R& D
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TEACR&D
 type: d3-device-type-assertion

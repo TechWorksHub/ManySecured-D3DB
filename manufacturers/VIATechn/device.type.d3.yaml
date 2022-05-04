@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e674711-fec6-4a6e-adc8-80afd4619d65
-  mac-addresses:
+  id: 994d4d46-407a-47c2-b106-700ca1f440d9
+  macAddresses:
   - 00:1F:F2:00:00:00/24
   manufacturer: VIA Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VIATechn
 type: d3-device-type-assertion

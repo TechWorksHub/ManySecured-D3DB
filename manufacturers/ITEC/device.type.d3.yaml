@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59d7ea49-088d-4beb-92da-e77ab1ef1cdd
-  mac-addresses:
+  id: 4161c92e-18fa-4076-8cd1-61f051dbcff4
+  macAddresses:
   - 00:1E:61:00:00:00/24
   manufacturer: ITEC GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITEC
 type: d3-device-type-assertion

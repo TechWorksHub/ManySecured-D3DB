@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d34438a8-ec18-45b9-ba5d-8eb505c6ca13
-  mac-addresses:
+  id: 433d1ecd-32a2-4629-a159-b47129536e3c
+  macAddresses:
   - B4:37:D1:E0:00:00/28
   manufacturer: Union Tecnologica Noxium S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnionTec
 type: d3-device-type-assertion

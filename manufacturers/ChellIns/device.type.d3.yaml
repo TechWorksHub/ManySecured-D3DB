@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f507b1da-fc06-47e9-aee0-bd6cabf0d2ce
-  mac-addresses:
+  id: 26d5eec7-da3d-429e-bf15-15d84ac7f9e0
+  macAddresses:
   - 00:50:C2:57:20:00/36
   manufacturer: Chell Instruments Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChellIns
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e1684b9-41d5-41b5-9ceb-2861c4880586
-  mac-addresses:
+  id: d287156d-bef9-4a42-add4-800dc6531791
+  macAddresses:
   - 00:1C:59:00:00:00/24
   manufacturer: Devon It
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DevonIt
 type: d3-device-type-assertion

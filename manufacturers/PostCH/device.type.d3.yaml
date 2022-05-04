@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 906a116e-51c3-4a84-9ab5-5c85073e33f3
-  mac-addresses:
+  id: 7e3eb54a-5077-4e7c-ab84-71096375e452
+  macAddresses:
   - D8:F3:DB:00:00:00/24
   manufacturer: Post CH AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PostCH
 type: d3-device-type-assertion

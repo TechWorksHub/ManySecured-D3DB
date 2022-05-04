@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 395660a7-0956-40f4-abb5-35222b60f847
-  mac-addresses:
+  id: dab042d7-7387-437c-924d-d80edcbdbfa6
+  macAddresses:
   - 00:21:1A:00:00:00/24
   manufacturer: LInTech Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LInTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f9c33a8-609b-4a4d-89e2-c1441dbeed73
-  mac-addresses:
+  id: 631786db-4b4c-4f14-8f4a-9657eae96261
+  macAddresses:
   - 00:0C:54:00:00:00/24
   manufacturer: Pedestal Networks, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pedestal
 type: d3-device-type-assertion

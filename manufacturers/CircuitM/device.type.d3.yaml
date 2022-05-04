@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98a56e04-5631-485f-a7da-9e892fb44a53
-  mac-addresses:
+  id: 6b4643f7-f655-417f-a70b-1a365699fa02
+  macAddresses:
   - 70:B3:D5:36:50:00/36
   manufacturer: CircuitMeter Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CircuitM
 type: d3-device-type-assertion

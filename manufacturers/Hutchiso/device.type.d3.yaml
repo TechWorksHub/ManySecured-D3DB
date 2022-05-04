@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd988b9f-d319-4289-a191-b5d268653697
-  mac-addresses:
+  id: bd5c4e03-380e-4e62-a1ad-31eda2552c09
+  macAddresses:
   - 00:07:30:00:00:00/24
   manufacturer: Hutchison OPTEL Telecom Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hutchiso
 type: d3-device-type-assertion

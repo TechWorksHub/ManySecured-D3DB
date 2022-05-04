@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 313512c4-9351-4e86-a013-7967eaeaaad8
-  mac-addresses:
+  id: 0eaefa8d-1b6d-4d0a-a9ff-0ab170fe4a78
+  macAddresses:
   - E4:92:E7:00:00:00/24
   manufacturer: Gridlink Tech. Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gridlink
 type: d3-device-type-assertion

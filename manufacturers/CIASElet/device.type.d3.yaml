@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e358ca31-af53-4e7d-82eb-98dbdf1d98fe
-  mac-addresses:
+  id: 50190c15-2179-4669-abec-71b6e19a16ed
+  macAddresses:
   - CC:C8:D7:00:00:00/24
   manufacturer: CIAS Elettronica srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CIASElet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84e9f22a-18bd-45b7-b094-ac38bbec04e0
-  mac-addresses:
+  id: 27cc94f5-b327-48f3-93d5-e45a8acc0139
+  macAddresses:
   - 48:0B:B2:80:00:00/28
   manufacturer: "BravoCom\uFF08xiamen\uFF09TechCo.Ltd"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BravoCom
 type: d3-device-type-assertion

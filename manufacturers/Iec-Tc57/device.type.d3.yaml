@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59422c6b-3972-4bc4-b5ac-5b0371959a15
-  mac-addresses:
+  id: 5fc0e31b-eaaf-47b3-baad-16dc839158fa
+  macAddresses:
   - 00:0C:CD:00:00:00/24
   manufacturer: Iec - Tc57
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iec-Tc57
 type: d3-device-type-assertion

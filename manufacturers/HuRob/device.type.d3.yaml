@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f70577f-4443-4ca7-accd-7a9c669b393b
-  mac-addresses:
+  id: 18c45c97-509f-4415-beef-892bcd9ff0f8
+  macAddresses:
   - 00:24:BC:00:00:00/24
   manufacturer: HuRob Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuRob
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c76e8d14-8968-4734-9a72-31b239172af5
-  mac-addresses:
+  id: 7da7c378-5d13-44ca-8506-d9a4b3125bfc
+  macAddresses:
   - 00:0C:5A:00:00:00/24
   manufacturer: IBSmm Embedded Electronics Consulting
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IBSmmEmb
 type: d3-device-type-assertion

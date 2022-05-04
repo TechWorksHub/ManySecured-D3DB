@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2a616af-0d8b-454f-a4c2-68c2168b014e
-  mac-addresses:
+  id: 0176eca7-cce7-4762-8edd-c52e78ae0c60
+  macAddresses:
   - 00:0E:19:00:00:00/24
   manufacturer: LogicaCMG Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LogicaCM
 type: d3-device-type-assertion

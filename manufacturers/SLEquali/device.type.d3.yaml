@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f14752f0-2d5b-45db-9de3-76528f965d09
-  mac-addresses:
+  id: bfaa0f2c-ce2c-4755-b24e-df9e78a03a3a
+  macAddresses:
   - 3C:27:63:00:00:00/24
   manufacturer: SLE quality engineering GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SLEquali
 type: d3-device-type-assertion

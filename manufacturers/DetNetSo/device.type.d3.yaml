@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1736937-a8a0-44d9-887c-8b48efb99fcd
-  mac-addresses:
+  id: 0508ecc2-7bc0-48e0-8c87-067cede62cd0
+  macAddresses:
   - 00:50:C2:A7:A0:00/36
   manufacturer: DetNet South Africa PTY (LTD)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DetNetSo
 type: d3-device-type-assertion

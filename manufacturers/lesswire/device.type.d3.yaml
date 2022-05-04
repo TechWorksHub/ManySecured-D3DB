@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 297132ca-4c74-4b46-8374-62f648923912
-  mac-addresses:
+  id: 72bbe000-db70-4c12-a663-73851fdfabea
+  macAddresses:
   - 00:06:C6:00:00:00/24
   - CC:4F:5C:10:00:00/28
   manufacturer: lesswire AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: lesswire
 type: d3-device-type-assertion

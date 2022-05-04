@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f89c5747-68c4-4298-aadc-10597384f5f6
-  mac-addresses:
+  id: 77436f03-dd18-4f3c-b270-ae28998053a8
+  macAddresses:
   - 00:30:FA:00:00:00/24
   manufacturer: Telica, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telica
 type: d3-device-type-assertion

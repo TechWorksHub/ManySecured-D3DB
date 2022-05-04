@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b0f67c9-eaa5-44dc-8cd6-849064881a01
-  mac-addresses:
+  id: 9c68d91f-0571-485f-b7cd-9ac18d9e32a2
+  macAddresses:
   - 14:AE:85:00:00:00/28
   manufacturer: Kayamatics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kayamati
 type: d3-device-type-assertion

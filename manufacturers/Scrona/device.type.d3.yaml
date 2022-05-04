@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e4e6a0a-4f30-4b60-a617-25588a140a50
-  mac-addresses:
+  id: 6fc634bc-8f46-4369-b137-87c3d2378c0a
+  macAddresses:
   - 70:B3:D5:00:D0:00/36
   manufacturer: Scrona AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scrona
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c45620e-c089-4a4f-90e8-5b6d975d096d
-  mac-addresses:
+  id: a6db4ae6-eaef-45ea-bfdd-0758b501cff5
+  macAddresses:
   - 1C:8E:8E:00:00:00/24
   manufacturer: DB Communication & Systems Co., ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DBCommun
 type: d3-device-type-assertion

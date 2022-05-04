@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0fbf6e5-29e4-488b-a150-cd6d2e567465
-  mac-addresses:
+  id: 1fd041da-9d2d-466c-a388-424252811cfc
+  macAddresses:
   - 44:A9:2C:30:00:00/28
   manufacturer: Luxonis Holding Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Luxonis
 type: d3-device-type-assertion

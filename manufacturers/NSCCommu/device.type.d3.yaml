@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d33342a4-eb10-4145-9bc9-fba99fc944c5
-  mac-addresses:
+  id: cb19a3d6-7de9-4902-83b8-36a33abfc6ec
+  macAddresses:
   - 54:A5:4B:00:00:00/24
   manufacturer: NSC Communications Siberia Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NSCCommu
 type: d3-device-type-assertion

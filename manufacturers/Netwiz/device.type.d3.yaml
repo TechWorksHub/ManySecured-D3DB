@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fa8e8ee-a680-49a0-9f35-a7a74b5a381a
-  mac-addresses:
+  id: 30a47f02-5d97-49c1-a018-77405224e9eb
+  macAddresses:
   - 00:C0:2E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netwiz
 type: d3-device-type-assertion

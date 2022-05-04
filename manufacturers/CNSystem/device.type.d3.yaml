@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd63a42e-5588-46b9-888f-3d083e3611a6
-  mac-addresses:
+  id: ef41a257-59ac-47af-b47f-85eb40d35a01
+  macAddresses:
   - 00:07:2D:00:00:00/24
   manufacturer: CNSystems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CNSystem
 type: d3-device-type-assertion

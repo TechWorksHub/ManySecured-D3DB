@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7edb060c-e7a4-4558-b64e-02407d7aadd1
-  mac-addresses:
+  id: 0c2df379-5d39-4dc0-a3a9-e1297c7cef22
+  macAddresses:
   - 00:05:24:00:00:00/24
   manufacturer: BTL System (HK) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BTLSyste
 type: d3-device-type-assertion

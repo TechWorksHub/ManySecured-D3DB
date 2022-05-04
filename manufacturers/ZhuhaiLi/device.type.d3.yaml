@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc1ece26-fdcc-40bf-84fa-2efd90f3d62b
-  mac-addresses:
+  id: 05b47fee-2d0f-4392-b447-f0cf4a4188ba
+  macAddresses:
   - EC:D1:9A:00:00:00/24
   manufacturer: Zhuhai Liming Industries Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiLi
 type: d3-device-type-assertion

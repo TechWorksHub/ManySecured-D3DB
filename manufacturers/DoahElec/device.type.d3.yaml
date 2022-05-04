@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8212de97-7506-48b2-a484-05440b1b257d
-  mac-addresses:
+  id: 0c6204f6-3bef-4599-99c4-5eb51d38c124
+  macAddresses:
   - 00:1A:3B:00:00:00/24
   manufacturer: Doah Elecom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DoahElec
 type: d3-device-type-assertion

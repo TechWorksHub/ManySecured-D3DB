@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d896131d-fda1-4497-afdc-3a5c794ed6ec
-  mac-addresses:
+  id: 66af5563-4c49-45d8-9ea4-47a64c3650aa
+  macAddresses:
   - BC:E5:9F:00:00:00/24
   manufacturer: WATERWORLD Technology Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WATERWOR
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cea57b81-4b16-47bd-8380-f673cbdf5369
-  mac-addresses:
+  id: 398d0967-49d3-409c-9411-07d2cc548c8f
+  macAddresses:
   - 30:49:50:10:00:00/28
   manufacturer: Atli World Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtliWorl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1fec5035-5fa8-4869-ae29-0cb5adf0886f
-  mac-addresses:
+  id: 24041c07-c632-4c09-96a0-7d8e85b52836
+  macAddresses:
   - 68:B0:94:00:00:00/24
   manufacturer: Inesa Electron Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InesaEle
 type: d3-device-type-assertion

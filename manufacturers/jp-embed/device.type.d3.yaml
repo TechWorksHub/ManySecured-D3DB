@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 182892e3-ae19-45cb-8794-040fd45abfdb
-  mac-addresses:
+  id: 45216cdf-fda0-4162-90b1-32ccbe183e06
+  macAddresses:
   - 00:0C:EE:00:00:00/24
   manufacturer: jp-embedded
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: jp-embed
 type: d3-device-type-assertion

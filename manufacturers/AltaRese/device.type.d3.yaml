@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dda83f99-f85e-440a-b29e-0681366be601
-  mac-addresses:
+  id: b2480281-ac7a-435e-8d48-4bc7127e06a5
+  macAddresses:
   - 00:C0:93:00:00:00/24
   manufacturer: Alta Research Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltaRese
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 96394666-0808-4e23-906f-52cdab87cbeb
-  mac-addresses:
+  id: 124a8630-c9f7-4677-89b0-bfae4e5e7b71
+  macAddresses:
   - 00:0D:F6:00:00:00/24
   - 00:26:EF:00:00:00/24
   - 00:50:B0:00:00:00/24
@@ -19,6 +19,6 @@ credentialSubject:
   - E8:1A:58:00:00:00/24
   - F8:02:78:C0:00:00/28
   manufacturer: Technology Thesaurus Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technolo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e99c8dbb-c519-4a75-9e12-88ee3dbf2568
-  mac-addresses:
+  id: 3eda9671-4a71-489e-87e4-950a1e083a81
+  macAddresses:
   - 00:0B:1C:00:00:00/24
   manufacturer: SIBCO bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SIBCO
 type: d3-device-type-assertion

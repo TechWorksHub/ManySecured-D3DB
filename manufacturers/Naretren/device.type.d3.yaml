@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfe95db4-dff0-409f-8b72-9f7fd1a8cd63
-  mac-addresses:
+  id: 110dc58f-b145-48de-ab8c-e2199bcc5d71
+  macAddresses:
   - 00:50:C2:B7:E0:00/36
   manufacturer: Naretrends
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Naretren
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2d07a86d-a679-4224-8b20-833b54177e62
-  mac-addresses:
+  id: 203ad793-3da7-4022-b1bf-7fedd671d54a
+  macAddresses:
   - 00:15:AF:00:00:00/24
   - 00:22:43:00:00:00/24
   - 00:24:23:00:00:00/24
@@ -56,6 +56,6 @@ credentialSubject:
   - EC:2E:98:00:00:00/24
   - F0:03:8C:00:00:00/24
   manufacturer: AzureWave Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AzureWav
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f302ce76-e253-4941-8ec3-6eede900fbd5
-  mac-addresses:
+  id: cc0fab4e-dfd4-459b-a515-e3e0ed828b18
+  macAddresses:
   - 00:14:BA:00:00:00/24
   manufacturer: Carvers SA de CV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carvers
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3142ffe-1cff-4663-b2ab-cb4f8423ce72
-  mac-addresses:
+  id: 793c007a-920d-4875-a759-b89a73d0d473
+  macAddresses:
   - 00:30:4C:00:00:00/24
   manufacturer: Appian Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AppianCo
 type: d3-device-type-assertion

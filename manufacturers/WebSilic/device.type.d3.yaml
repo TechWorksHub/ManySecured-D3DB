@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85af284f-3214-474c-97e8-18bdead8c366
-  mac-addresses:
+  id: 283136e8-48f8-4b41-a335-76d3dba9be73
+  macAddresses:
   - 00:FC:58:00:00:00/24
   manufacturer: WebSilicon Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WebSilic
 type: d3-device-type-assertion

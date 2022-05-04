@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36fd0cd0-6ed1-42c4-84bf-ea0dc8d7a851
-  mac-addresses:
+  id: 7abba677-c550-45a8-acb2-56cba8d88d91
+  macAddresses:
   - DC:E5:33:70:00:00/28
   manufacturer: SAN Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SANEngin
 type: d3-device-type-assertion

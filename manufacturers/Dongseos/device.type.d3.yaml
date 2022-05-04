@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c338bbc8-59c1-4489-b030-93c8d362b28d
-  mac-addresses:
+  id: b97f9819-0b25-448f-b094-a858e1b7f699
+  macAddresses:
   - 00:17:5D:00:00:00/24
   manufacturer: Dongseo system.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dongseos
 type: d3-device-type-assertion

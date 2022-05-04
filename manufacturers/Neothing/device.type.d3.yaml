@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 570bec70-c96f-4b1b-ad7f-a6bce5ebb96c
-  mac-addresses:
+  id: 0781d7f5-c807-45bf-94b1-4a1a0adade9e
+  macAddresses:
   - 00:50:C2:B1:60:00/36
   manufacturer: Neothings, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neothing
 type: d3-device-type-assertion

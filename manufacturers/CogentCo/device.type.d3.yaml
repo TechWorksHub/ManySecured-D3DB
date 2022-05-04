@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 863db464-3b03-4d91-b620-d770381d19a8
-  mac-addresses:
+  id: 26ed7fda-861c-4480-893f-18201ce2aa7d
+  macAddresses:
   - 00:30:23:00:00:00/24
   manufacturer: Cogent Computer Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CogentCo
 type: d3-device-type-assertion

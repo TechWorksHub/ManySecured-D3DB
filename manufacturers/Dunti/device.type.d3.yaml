@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32c33ddf-ba06-489b-9d2d-73953b1c181e
-  mac-addresses:
+  id: 6454d298-e90d-4ca8-8795-17f411e2bd14
+  macAddresses:
   - 00:50:C2:07:F0:00/36
   manufacturer: Dunti Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dunti
 type: d3-device-type-assertion

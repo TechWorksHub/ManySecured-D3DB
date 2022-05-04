@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6220f60a-3b08-4cca-b650-725cac292aec
-  mac-addresses:
+  id: faa0ed6f-0e1d-4f9d-b861-83da8475bcdb
+  macAddresses:
   - E8:78:29:A0:00:00/28
   manufacturer: METZ CONNECT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: METZCONN
 type: d3-device-type-assertion

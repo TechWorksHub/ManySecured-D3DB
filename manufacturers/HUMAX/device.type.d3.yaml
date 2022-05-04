@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d1f17e8d-f722-4548-9a1e-28acf7a063c6
-  mac-addresses:
+  id: 9e70fd67-68d9-4d18-b52b-139266b6e3c9
+  macAddresses:
   - 00:03:78:00:00:00/24
   - 04:4F:17:00:00:00/24
   - 08:EB:74:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - E8:B2:FE:00:00:00/24
   - EC:C3:02:00:00:00/24
   manufacturer: HUMAX Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HUMAX
 type: d3-device-type-assertion

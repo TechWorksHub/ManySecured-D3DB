@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 61037384-d9a0-4312-9312-e89d97aa0f8f
-  mac-addresses:
+  id: 61cd444e-f8ac-49f9-8d52-9519d1113cd3
+  macAddresses:
   - 00:0E:F3:00:00:00/24
   - E4:27:71:00:00:00/24
   manufacturer: Smartlabs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartlab
 type: d3-device-type-assertion

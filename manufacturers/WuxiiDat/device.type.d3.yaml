@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7f76d4f-ade9-480e-b527-151fd736a790
-  mac-addresses:
+  id: 8517efc7-619e-48c9-9cca-502eeab294be
+  macAddresses:
   - 7C:71:76:00:00:00/24
   manufacturer: Wuxi iData Technology Company Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuxiiDat
 type: d3-device-type-assertion

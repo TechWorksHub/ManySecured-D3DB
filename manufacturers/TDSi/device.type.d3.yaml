@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33b30557-8fbe-4efe-b8e1-0f24908f9334
-  mac-addresses:
+  id: c846b376-c689-44a3-9f20-3add85cdebc3
+  macAddresses:
   - C8:07:18:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TDSi
 type: d3-device-type-assertion

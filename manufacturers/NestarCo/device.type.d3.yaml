@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 603fa18e-28af-4f60-9ebe-59e732000d38
-  mac-addresses:
+  id: 82853e2d-5a07-43f8-8e60-a82ccd59317c
+  macAddresses:
   - 00:0A:17:00:00:00/24
   manufacturer: Nestar Communications, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NestarCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 611df28b-b517-47e8-beda-faf049c58169
-  mac-addresses:
+  id: efa66a13-41eb-4d71-80ce-1624165659c5
+  macAddresses:
   - 40:D8:55:1B:70:00/36
   manufacturer: TEWS Elektronik GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TEWSElek
 type: d3-device-type-assertion

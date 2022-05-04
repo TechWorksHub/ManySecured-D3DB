@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1de1ac9-dfef-49ec-9976-7866f4fcbb4c
-  mac-addresses:
+  id: cdac3277-b9e3-43cb-adb1-5c46a2a8327e
+  macAddresses:
   - 00:02:B7:00:00:00/24
   manufacturer: Watanabe Electric Industry Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Watanabe
 type: d3-device-type-assertion

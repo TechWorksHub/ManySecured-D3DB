@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7991d650-6a82-4478-a229-51df5bd9e1db
-  mac-addresses:
+  id: b77aa73a-dd1b-4079-b860-e12c89900f8d
+  macAddresses:
   - 00:50:C2:CA:E0:00/36
   - 00:D0:2C:00:00:00/24
   manufacturer: Campbell Scientific Canada Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Campbell
 type: d3-device-type-assertion

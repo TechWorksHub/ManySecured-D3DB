@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 712944ff-265c-48a3-910f-b640d06da769
-  mac-addresses:
+  id: 5f1fb3b7-5c09-4fe2-a908-01be6fc4929c
+  macAddresses:
   - 0C:4C:39:00:00:00/24
   - 34:57:60:00:00:00/24
   - 44:48:B9:00:00:00/24
@@ -18,6 +18,6 @@ credentialSubject:
   - E0:41:36:00:00:00/24
   - E4:AB:89:00:00:00/24
   manufacturer: MitraStar Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MitraSta
 type: d3-device-type-assertion

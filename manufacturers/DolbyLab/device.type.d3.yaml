@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 7542d07e-1f4e-402b-89d2-ed7ca5335095
-  mac-addresses:
+  id: 28af2bd1-8a27-4442-82dc-6d45ded618ad
+  macAddresses:
   - 00:D0:46:00:00:00/24
   - 70:B3:D5:3F:50:00/36
   - 70:B3:D5:73:A0:00/36
   - D4:25:CC:80:00:00/28
   manufacturer: Dolby Laboratories, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DolbyLab
 type: d3-device-type-assertion

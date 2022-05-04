@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 916f740c-61c6-484d-b355-39d68a4cf4bf
-  mac-addresses:
+  id: edb570e6-73cd-4671-89d0-79c5ed436172
+  macAddresses:
   - 00:1C:69:00:00:00/24
   manufacturer: Packet Vision Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacketVi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38f5338c-e42e-4316-8cdc-f68dc15fda26
-  mac-addresses:
+  id: 67dafdba-d115-4d36-852e-6183c8381ca4
+  macAddresses:
   - 30:CB:36:00:00:00/24
   manufacturer: Belden Singapore Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeldenSi
 type: d3-device-type-assertion

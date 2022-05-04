@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e05053d-d949-4392-bae3-8afe269b5747
-  mac-addresses:
+  id: 57c3b051-a595-485d-9196-512a42bfaacf
+  macAddresses:
   - 00:22:B9:00:00:00/24
   manufacturer: Analogix Seminconductor, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Analogix
 type: d3-device-type-assertion

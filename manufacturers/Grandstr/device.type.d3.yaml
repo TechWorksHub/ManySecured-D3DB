@@ -1,10 +1,10 @@
 credentialSubject:
-  id: f402e535-c473-444a-8d76-aec7737b1dc4
-  mac-addresses:
+  id: da2edc79-99a1-43bb-a793-f88045cb2898
+  macAddresses:
   - 00:0B:82:00:00:00/24
   - C0:74:AD:00:00:00/24
   - EC:74:D7:00:00:00/24
   manufacturer: Grandstream Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grandstr
 type: d3-device-type-assertion

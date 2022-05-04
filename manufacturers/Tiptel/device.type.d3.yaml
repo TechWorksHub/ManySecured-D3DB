@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20fca9fa-7078-4325-83ad-9571e79b8f19
-  mac-addresses:
+  id: 0fb02d94-96d8-41e8-b3b6-db39e9ab17f2
+  macAddresses:
   - 00:0C:C4:00:00:00/24
   manufacturer: Tiptel AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tiptel
 type: d3-device-type-assertion

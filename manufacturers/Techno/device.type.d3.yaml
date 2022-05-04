@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20ca7a9a-f44b-4642-8ce9-16af825b3d40
-  mac-addresses:
+  id: 1effd589-a5a9-44d7-a8d0-1696e44f2621
+  macAddresses:
   - 00:50:C2:FB:80:00/36
   manufacturer: Techno Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Techno
 type: d3-device-type-assertion

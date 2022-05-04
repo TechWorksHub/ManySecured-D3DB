@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df8b3f9e-e677-4cc9-846c-6bab3f6a26d1
-  mac-addresses:
+  id: 06841cb8-aa39-4a16-8af8-12d5de8dc88a
+  macAddresses:
   - 14:5A:83:00:00:00/24
   manufacturer: Logi-D inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logi-D
 type: d3-device-type-assertion

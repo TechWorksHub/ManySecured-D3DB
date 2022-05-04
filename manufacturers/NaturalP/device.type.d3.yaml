@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dc7119d-6265-45ff-a073-58addb9459c6
-  mac-addresses:
+  id: 71feb443-2c5e-452c-b1d8-3f15a9b5960d
+  macAddresses:
   - 00:25:02:00:00:00/24
   manufacturer: NaturalPoint
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NaturalP
 type: d3-device-type-assertion

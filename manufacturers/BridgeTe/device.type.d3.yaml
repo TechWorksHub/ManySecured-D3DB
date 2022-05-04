@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0be661b-f755-4b6f-bfff-fb7aa8722201
-  mac-addresses:
+  id: 9bed0453-542b-46d5-baf7-db11069ce84e
+  macAddresses:
   - 00:24:64:00:00:00/24
   manufacturer: Bridge Technologies Co AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BridgeTe
 type: d3-device-type-assertion

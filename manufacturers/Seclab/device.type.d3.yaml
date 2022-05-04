@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8592a845-01ca-443f-89c3-c6c9b3c9652e
-  mac-addresses:
+  id: 5a1f1cb6-83e3-4901-a2f2-9276878591d5
+  macAddresses:
   - 70:B3:D5:CB:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seclab
 type: d3-device-type-assertion

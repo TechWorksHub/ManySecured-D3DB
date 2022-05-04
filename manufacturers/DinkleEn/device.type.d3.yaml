@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 326bf5bc-1c77-4bf9-aab1-3df0ff2f6155
-  mac-addresses:
+  id: c60716a4-6e4b-402f-9899-632bb6d81b43
+  macAddresses:
   - 0C:73:EB:70:00:00/28
   manufacturer: Dinkle Enterprise Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DinkleEn
 type: d3-device-type-assertion

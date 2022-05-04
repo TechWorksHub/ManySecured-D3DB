@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccadf884-4f6c-4d9b-af75-8c6ad0a10836
-  mac-addresses:
+  id: 5e1654cb-f0eb-454a-927b-eade5606936f
+  macAddresses:
   - 00:19:35:00:00:00/24
   manufacturer: Duerr Dental Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DuerrDen
 type: d3-device-type-assertion

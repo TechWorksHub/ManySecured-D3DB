@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cafe7383-6990-4460-9bd0-eac44d747a90
-  mac-addresses:
+  id: 6a2417b5-97e9-48a7-86d6-16e9c16e9001
+  macAddresses:
   - 48:0B:B2:A0:00:00/28
   manufacturer: Xiamen Rongta Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenRo
 type: d3-device-type-assertion

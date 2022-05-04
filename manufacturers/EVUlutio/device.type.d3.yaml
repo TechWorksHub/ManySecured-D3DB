@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd826d6c-63cf-40f2-b3f4-525c20f3fc53
-  mac-addresses:
+  id: 13f1ac68-3115-40c2-b1d2-fae9840fa31c
+  macAddresses:
   - 9C:ED:FA:00:00:00/24
   manufacturer: EVUlution AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EVUlutio
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: af2b512c-e8a8-486f-9ed7-1f448e236a90
-  mac-addresses:
+  id: b7780005-84f7-4d0f-8742-1cb5be0b1257
+  macAddresses:
   - 00:50:C2:52:40:00/36
   - 00:50:C2:E5:10:00/36
   - 00:50:C2:FC:10:00/36
@@ -12,6 +12,6 @@ credentialSubject:
   - 7C:70:BC:A0:00:00/28
   - AC:1D:DF:40:00:00/28
   manufacturer: Motec Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Motec
 type: d3-device-type-assertion

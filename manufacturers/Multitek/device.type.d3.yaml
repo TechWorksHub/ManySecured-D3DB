@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f6204eb-7292-4cc8-9733-808951290362
-  mac-addresses:
+  id: c75e740f-30e8-4760-9ef2-e618390f77ed
+  macAddresses:
   - 4C:4B:F9:00:00:00/28
   manufacturer: Multitek Elektronik Sanayi ve Ticaret A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Multitek
 type: d3-device-type-assertion

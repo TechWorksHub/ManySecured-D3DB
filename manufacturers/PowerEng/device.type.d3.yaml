@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cde67b5-e233-4244-91cc-6f3192e6f887
-  mac-addresses:
+  id: bdc150a3-16a3-478d-9fbd-c7501c63a389
+  macAddresses:
   - 90:E2:FC:A0:00:00/28
   manufacturer: Power Engineering & Manufacturing, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerEng
 type: d3-device-type-assertion

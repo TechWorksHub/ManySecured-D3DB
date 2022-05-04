@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba04bd76-5e66-4738-ac6e-a62ba688be60
-  mac-addresses:
+  id: 5dc61a71-462f-4cbc-808b-1a5342983864
+  macAddresses:
   - 00:26:7A:00:00:00/24
   manufacturer: wuhan hongxin telecommunication technologies co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: wuhanhon
 type: d3-device-type-assertion

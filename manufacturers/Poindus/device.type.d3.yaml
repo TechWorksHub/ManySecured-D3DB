@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 047eaa9a-a93a-494d-ad36-d95a48f52be0
-  mac-addresses:
+  id: ab4a5039-ac35-4ff5-baf2-bb4123e38b96
+  macAddresses:
   - 70:0F:EC:00:00:00/24
   manufacturer: Poindus Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Poindus
 type: d3-device-type-assertion

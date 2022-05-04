@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2246460c-293b-409f-b0bf-0f2fe3568983
-  mac-addresses:
+  id: 19a32d0f-1d7f-4b6b-9a7d-38c840038712
+  macAddresses:
   - 00:09:6F:00:00:00/24
   - 00:24:9A:00:00:00/24
   - 00:50:C2:C4:40:00/36
@@ -17,6 +17,6 @@ credentialSubject:
   - E4:4C:C7:40:00:00/28
   - F8:8A:3C:60:00:00/28
   manufacturer: Beijing Zhongqing Elegant Tech. Corp.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingZ
 type: d3-device-type-assertion

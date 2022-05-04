@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43e2eacc-2d61-46ce-b81f-3fcca88687cb
-  mac-addresses:
+  id: b82483b4-46ce-4874-ba0f-d12905c2ecbb
+  macAddresses:
   - 00:50:ED:00:00:00/24
   manufacturer: Anda Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AndaNetw
 type: d3-device-type-assertion

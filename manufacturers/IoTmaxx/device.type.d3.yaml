@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dbebdd5-87a9-4504-86f0-43c83d0c6682
-  mac-addresses:
+  id: f657c44a-c244-43a9-ba3d-4a7a6beaa1c2
+  macAddresses:
   - 30:49:50:E0:00:00/28
   manufacturer: IoTmaxx GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IoTmaxx
 type: d3-device-type-assertion

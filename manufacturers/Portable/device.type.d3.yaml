@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2b9bd247-f8f1-4af6-8b25-a991e7b1cc96
-  mac-addresses:
+  id: 38d3c7b2-c45e-46f2-b23c-6a8f4bd84d5b
+  macAddresses:
   - 00:50:C2:00:80:00/36
   - F4:45:ED:00:00:00/24
   manufacturer: Portable Add-Ons
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Portable
 type: d3-device-type-assertion

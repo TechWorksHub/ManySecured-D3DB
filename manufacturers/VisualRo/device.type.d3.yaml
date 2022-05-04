@@ -1,8 +1,8 @@
 credentialSubject:
-  id: facc04df-efed-4b7c-8a3f-0f8182a2ebb1
-  mac-addresses:
+  id: f2eeafac-8843-43e6-a676-57a463284808
+  macAddresses:
   - 70:B3:D5:0F:40:00/36
   manufacturer: Visual Robotics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisualRo
 type: d3-device-type-assertion

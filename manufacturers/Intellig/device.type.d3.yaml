@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 1bf69d81-137f-480b-b582-a3617cfe0222
-  mac-addresses:
+  id: d9d6d3b9-af40-4f8e-a464-4d4db6a222dc
+  macAddresses:
   - 00:04:3A:00:00:00/24
   - 00:09:91:00:00:00/24
   - 00:0C:C7:00:00:00/24
@@ -24,6 +24,6 @@ credentialSubject:
   - A0:CA:A5:00:00:00/24
   - FC:8F:C4:00:00:00/24
   manufacturer: Intelligent Telecommunications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intellig
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 440f66fa-3ba2-4fa7-953b-0a2a747c93bb
-  mac-addresses:
+  id: 05380e24-87f6-40bd-8d0e-17b8ef921c6c
+  macAddresses:
   - 00:23:83:00:00:00/24
   manufacturer: InMage Systems Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InMage
 type: d3-device-type-assertion

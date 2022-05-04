@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94886d4a-99a9-4ec9-9512-d3277561e6a3
-  mac-addresses:
+  id: 93512a66-0921-4120-838f-8d9ed46d152c
+  macAddresses:
   - 00:08:62:00:00:00/24
   manufacturer: NEC Eluminant Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NECElumi
 type: d3-device-type-assertion

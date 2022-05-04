@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80164de5-02e1-4437-9530-809c583c647d
-  mac-addresses:
+  id: b61d0f3c-3538-4ca9-98e5-9306db8a867b
+  macAddresses:
   - 70:B3:D5:2B:70:00/36
   manufacturer: Matrix Orbital Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MatrixOr
 type: d3-device-type-assertion

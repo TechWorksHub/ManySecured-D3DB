@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7044b93-d5d9-4a7c-aee4-ccda019859c9
-  mac-addresses:
+  id: 1c3073a9-f9bb-4be6-90ec-a53e3b418305
+  macAddresses:
   - 38:A5:3C:00:00:00/24
   manufacturer: COMECER Netherlands
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMECERN
 type: d3-device-type-assertion

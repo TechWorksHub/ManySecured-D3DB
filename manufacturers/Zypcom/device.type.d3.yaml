@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1aa54790-6a30-4845-b2e4-e39468ad3756
-  mac-addresses:
+  id: 7d805e34-1a56-4cee-995f-44662a6f5db2
+  macAddresses:
   - 00:90:17:00:00:00/24
   manufacturer: Zypcom, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zypcom
 type: d3-device-type-assertion

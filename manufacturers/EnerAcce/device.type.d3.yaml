@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e1ca16f-28cb-491b-a953-0e75ebbacc05
-  mac-addresses:
+  id: 1ba9ce5c-5567-4bb0-87ef-762f935d210c
+  macAddresses:
   - 54:9D:85:00:00:00/24
   manufacturer: EnerAccess inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnerAcce
 type: d3-device-type-assertion

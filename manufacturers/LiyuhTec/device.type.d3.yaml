@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcebd310-d1d4-477b-be71-fb0d988f4132
-  mac-addresses:
+  id: 7d721f79-d7b4-4a6a-8611-93302c7db6e2
+  macAddresses:
   - 00:16:62:00:00:00/24
   manufacturer: Liyuh Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LiyuhTec
 type: d3-device-type-assertion

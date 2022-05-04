@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 213abaec-c76e-483f-a545-5b3c6c60c709
-  mac-addresses:
+  id: 66d574fc-6c10-4c33-81c3-838529caaba8
+  macAddresses:
   - 74:E1:4A:D0:00:00/28
   manufacturer: Knog Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Knog
 type: d3-device-type-assertion

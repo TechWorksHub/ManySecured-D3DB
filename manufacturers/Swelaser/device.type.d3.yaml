@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a42dcb22-a420-416b-9b90-53d6d0c1f954
-  mac-addresses:
+  id: 5d3e7a6e-82b7-4ce1-8984-bb1c94af18f5
+  macAddresses:
   - 00:54:BD:00:00:00/24
   manufacturer: Swelaser AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swelaser
 type: d3-device-type-assertion

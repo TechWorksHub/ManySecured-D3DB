@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d15d6e10-e15a-4207-8e3c-aa3be61b14b8
-  mac-addresses:
+  id: ebe036ba-2132-41f2-959c-dff5d9ff6e76
+  macAddresses:
   - 38:3A:21:90:00:00/28
   manufacturer: Skylark Wireless LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkylarkW
 type: d3-device-type-assertion

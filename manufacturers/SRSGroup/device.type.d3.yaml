@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d30e79d-4a1a-4742-a4b1-9062620ed211
-  mac-addresses:
+  id: 5efeb537-de06-4a62-aa05-f4db0368b73f
+  macAddresses:
   - 70:B3:D5:95:B0:00/36
   manufacturer: SRS Group s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SRSGroup
 type: d3-device-type-assertion

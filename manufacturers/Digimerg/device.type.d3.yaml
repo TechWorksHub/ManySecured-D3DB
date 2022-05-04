@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f83c5829-a4d1-4223-9872-285c1e355e4c
-  mac-addresses:
+  id: 9138633b-4a8e-4359-abe0-fca2a35ae4b3
+  macAddresses:
   - 40:D8:55:02:20:00/36
   manufacturer: Digimerge Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digimerg
 type: d3-device-type-assertion

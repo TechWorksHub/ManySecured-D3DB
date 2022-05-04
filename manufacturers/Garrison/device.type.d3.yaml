@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8544059b-f1fc-4c9a-a2f3-db9995f1daff
-  mac-addresses:
+  id: 5cdffcb9-426c-405a-be0b-7e7ae41cb2da
+  macAddresses:
   - 50:FF:99:50:00:00/28
   manufacturer: Garrison Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Garrison
 type: d3-device-type-assertion

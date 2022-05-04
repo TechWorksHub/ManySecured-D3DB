@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fe120a0-122d-460e-ad52-28de169fa6b7
-  mac-addresses:
+  id: 83762d2f-bfc5-48b9-a93e-a8a87de68735
+  macAddresses:
   - 00:50:4F:00:00:00/24
   manufacturer: Olencom Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OlencomE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 736980bb-8808-42bc-a770-e89ac3bf4101
-  mac-addresses:
+  id: 40fb04ef-ba02-401a-baef-7cee5733b98d
+  macAddresses:
   - 00:50:C2:14:B0:00/36
   manufacturer: HECUBA Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HECUBAEl
 type: d3-device-type-assertion

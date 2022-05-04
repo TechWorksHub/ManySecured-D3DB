@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9e4b1e4d-18d7-45f2-acaa-83bdc61e38ad
-  mac-addresses:
+  id: 3fe7590b-3b8a-4a44-8551-1f7c6428bf4a
+  macAddresses:
   - 2C:A3:27:00:00:00/24
   - 5C:E8:B7:00:00:00/24
   manufacturer: Oraimo Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OraimoTe
 type: d3-device-type-assertion

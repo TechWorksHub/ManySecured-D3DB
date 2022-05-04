@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecf3d937-70b0-4353-ae45-7253874068e9
-  mac-addresses:
+  id: 45bc4563-6864-430d-9a44-1cabe8c0063e
+  macAddresses:
   - 00:50:C2:3C:70:00/36
   manufacturer: Salent Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SalentTe
 type: d3-device-type-assertion

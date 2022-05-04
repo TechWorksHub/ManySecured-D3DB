@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 2e2bf9c6-bc1d-4abc-9026-e7dc8da6b617
-  mac-addresses:
+  id: 325ccee9-7b02-4ce2-89b4-2ceb58e5d091
+  macAddresses:
   - 00:00:8F:00:00:00/24
   - 00:E0:E7:00:00:00/24
   - 44:51:DB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Raytheon
 type: d3-device-type-assertion

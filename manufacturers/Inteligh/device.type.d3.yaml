@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a82341fc-54c4-489a-85d7-dd79d3ee7073
-  mac-addresses:
+  id: fc32dc94-2120-4773-a5ac-a57bf369441c
+  macAddresses:
   - 00:50:C2:81:60:00/36
   - 64:55:63:00:00:00/24
   manufacturer: Intelight Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inteligh
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6d6e94b-4f3c-4c9e-a788-1b0faa0f6124
-  mac-addresses:
+  id: 8e47a4ab-d34f-4eec-bb0e-e7724b57c332
+  macAddresses:
   - 70:2F:97:00:00:00/24
   manufacturer: Aava Mobile Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AavaMobi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b65ac81-5df1-49d2-8379-e776cc2a5cf2
-  mac-addresses:
+  id: cf844a50-3254-4489-a34d-e9bbb1026be7
+  macAddresses:
   - 2C:27:9E:C0:00:00/28
   manufacturer: WAYCOM Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WAYCOMTe
 type: d3-device-type-assertion

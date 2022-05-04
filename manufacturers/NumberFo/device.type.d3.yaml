@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee0621d3-b810-44d2-94fb-fedcbbb146be
-  mac-addresses:
+  id: 0cb5330f-65e6-4ef6-8a0e-8f82f60cbcc7
+  macAddresses:
   - 34:D0:B8:60:00:00/28
   manufacturer: NumberFour AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NumberFo
 type: d3-device-type-assertion

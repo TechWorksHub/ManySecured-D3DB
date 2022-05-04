@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 129b6cf9-15e8-4c9d-928e-1a21894ba0d2
-  mac-addresses:
+  id: eac10bb5-ae3a-4bbb-a3f7-5468a63c0f94
+  macAddresses:
   - 18:10:4E:00:00:00/24
   manufacturer: Cedint-Upm
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cedint-U
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c93db40-af94-4b94-9ccd-1724dc206536
-  mac-addresses:
+  id: c5c92f9b-147c-47f5-b476-68b07ec24218
+  macAddresses:
   - 8C:1F:64:3F:F0:00/36
   manufacturer: Uisee(Shanghai) Automotive Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UiseeSha
 type: d3-device-type-assertion

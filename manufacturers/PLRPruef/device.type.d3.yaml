@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3602c68b-a08a-4007-81f6-1f8e09e8bdd1
-  mac-addresses:
+  id: 26ca6a9f-064b-4c8b-8340-092911ad32f4
+  macAddresses:
   - 70:B3:D5:59:50:00/36
   manufacturer: PLR Prueftechnik Linke und Ruehe GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PLRPruef
 type: d3-device-type-assertion

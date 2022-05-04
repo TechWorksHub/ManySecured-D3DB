@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea495213-ee21-4f68-8eda-1d0f53b4ab19
-  mac-addresses:
+  id: aab6c4d4-3196-49bb-9b52-60f238e4db0a
+  macAddresses:
   - 48:61:A3:00:00:00/24
   manufacturer: Concern "Axion" JSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConcernA
 type: d3-device-type-assertion

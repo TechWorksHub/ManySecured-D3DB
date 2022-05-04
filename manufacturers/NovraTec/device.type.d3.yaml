@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a459ac5-4d67-496e-838e-d02d0311d63b
-  mac-addresses:
+  id: d636960c-6bc6-4fd4-accd-1474a91b0522
+  macAddresses:
   - 00:06:76:00:00:00/24
   manufacturer: Novra Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovraTec
 type: d3-device-type-assertion

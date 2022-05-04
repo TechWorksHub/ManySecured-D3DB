@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f405bba7-1646-4ef8-90f3-f67caefed9b4
-  mac-addresses:
+  id: 0d774dca-45d3-426e-9171-83b5bbc0e0dc
+  macAddresses:
   - 00:15:7A:00:00:00/24
   manufacturer: Telefin S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telefin
 type: d3-device-type-assertion

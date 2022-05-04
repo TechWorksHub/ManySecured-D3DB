@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcef6321-ab67-4760-9f56-a10d257d53fe
-  mac-addresses:
+  id: 4dc90f12-7059-42f9-9520-5ac7d604352c
+  macAddresses:
   - 00:50:C2:25:B0:00/36
   manufacturer: Winford Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinfordE
 type: d3-device-type-assertion

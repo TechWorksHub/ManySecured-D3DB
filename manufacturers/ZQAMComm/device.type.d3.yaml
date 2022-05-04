@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 563a2c71-ebdd-44e2-b7bc-9316a65b18fe
-  mac-addresses:
+  id: aafb3969-4cc6-4729-89f4-ddbe5bff53c9
+  macAddresses:
   - 34:00:8A:10:00:00/28
   manufacturer: ZQAM Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZQAMComm
 type: d3-device-type-assertion

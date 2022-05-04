@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b2c15925-a97f-4ae1-9e06-eac46d195e50
-  mac-addresses:
+  id: fcc63417-49cd-416a-9485-8971f81fb0e5
+  macAddresses:
   - 00:21:78:00:00:00/24
   - 00:50:C2:08:10:00/36
   manufacturer: Matuschek Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Matusche
 type: d3-device-type-assertion

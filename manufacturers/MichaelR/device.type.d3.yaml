@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b78f9c7-c01c-44b6-850c-f7db9ae5478c
-  mac-addresses:
+  id: f1e8cc3e-292c-4111-9e03-16d6be05ff9b
+  macAddresses:
   - 00:50:C2:E2:20:00/36
   manufacturer: Michael Riedel Transformatorenbau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MichaelR
 type: d3-device-type-assertion

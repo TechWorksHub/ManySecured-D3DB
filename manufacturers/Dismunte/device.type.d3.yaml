@@ -1,10 +1,10 @@
 credentialSubject:
-  id: e46ecfcf-39f4-4c01-b68d-e3bf55220743
-  mac-addresses:
+  id: 2bf26666-1f77-466f-a8ad-d6c06a862f58
+  macAddresses:
   - 00:50:C2:C2:E0:00/36
   - 70:B3:D5:92:C0:00/36
   - 70:B3:D5:E8:F0:00/36
   manufacturer: Dismuntel Sal
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dismunte
 type: d3-device-type-assertion

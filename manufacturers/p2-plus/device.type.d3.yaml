@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8353c8e-1108-47b5-a82f-d76d46d1171c
-  mac-addresses:
+  id: 46c60b53-5287-48cc-9f8f-a991893e6486
+  macAddresses:
   - 1C:21:D1:E0:00:00/28
   manufacturer: p2-plus inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: p2-plus
 type: d3-device-type-assertion

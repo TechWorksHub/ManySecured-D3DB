@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bba06e6a-ea97-4f8e-9770-ae2bc45adade
-  mac-addresses:
+  id: d5fe0259-8a78-4749-a6b3-05ee579653ab
+  macAddresses:
   - 00:50:C2:40:D0:00/36
   manufacturer: Afonics Fibreoptics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AfonicsF
 type: d3-device-type-assertion

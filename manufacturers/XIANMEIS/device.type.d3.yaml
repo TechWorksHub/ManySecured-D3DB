@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e69c8126-09e5-492b-be77-29b3f5974703
-  mac-addresses:
+  id: fadd5ba6-2096-4887-b72b-be96560e81c3
+  macAddresses:
   - F0:41:C8:50:00:00/28
   manufacturer: XI'AN MEI SHANG MEI WIRELESS TECHNOLOGY.Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XIANMEIS
 type: d3-device-type-assertion

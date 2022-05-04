@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 770c3669-567f-481f-bac1-50ab3df03836
-  mac-addresses:
+  id: 1535d438-5be5-44e4-b079-cac8b51d5cfd
+  macAddresses:
   - 00:50:C2:E0:30:00/36
   manufacturer: ICU Scandinavia Schweiz GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICUScand
 type: d3-device-type-assertion

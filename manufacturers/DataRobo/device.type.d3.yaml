@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b01ffa2f-0afa-4195-9a0c-dfa10e03e707
-  mac-addresses:
+  id: 21841afd-9a60-4d79-82d3-25c01989248f
+  macAddresses:
   - 00:1A:62:00:00:00/24
   manufacturer: Data Robotics, Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DataRobo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db7d33bc-184e-4079-8866-7095044ee388
-  mac-addresses:
+  id: cce23a06-5ac7-41c7-9387-cf5e7e45df20
+  macAddresses:
   - 00:1E:43:00:00:00/24
   manufacturer: Aisin Aw Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AisinAw
 type: d3-device-type-assertion

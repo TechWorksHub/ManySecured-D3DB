@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de321852-fe55-44ab-9971-51a97653d268
-  mac-addresses:
+  id: d1b56aff-c430-4f31-b446-477b593b89d3
+  macAddresses:
   - A0:3E:6B:C0:00:00/28
   manufacturer: Qunar.com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qunarcom
 type: d3-device-type-assertion

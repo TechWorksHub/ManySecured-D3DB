@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 0fb40cdc-e690-427d-811c-03fb438ca43c
-  mac-addresses:
+  id: d8d84661-9c7d-4386-9b9a-0948e7b5037d
+  macAddresses:
   - 70:B3:D5:32:10:00/36
   - 70:B3:D5:BC:90:00/36
   - 90:E2:FC:10:00:00/28
   manufacturer: Yite technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yitetech
 type: d3-device-type-assertion

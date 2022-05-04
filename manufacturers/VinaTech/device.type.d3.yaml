@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8aa50e0f-f368-451d-b581-88eaa22b87e7
-  mac-addresses:
+  id: 0c6d1f62-1d2b-47df-8424-06489db216a3
+  macAddresses:
   - 00:60:49:00:00:00/24
   manufacturer: Vina Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VinaTech
 type: d3-device-type-assertion

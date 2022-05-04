@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5465404-f57a-4711-85a2-9bbdb7f5d749
-  mac-addresses:
+  id: af56e95f-bf70-4d58-a332-4aeda1f9b144
+  macAddresses:
   - 00:08:EB:00:00:00/24
   manufacturer: ROMWin Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ROMWin
 type: d3-device-type-assertion

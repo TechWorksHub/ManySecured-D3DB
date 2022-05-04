@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 98dfdc48-d38f-4f0b-b61a-fcd5c0e9830e
-  mac-addresses:
+  id: 839f89ba-b904-4fd3-8839-45dc5fe3d3ba
+  macAddresses:
   - 00:50:C2:B0:70:00/36
   - 70:B3:D5:8A:E0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fareco
 type: d3-device-type-assertion

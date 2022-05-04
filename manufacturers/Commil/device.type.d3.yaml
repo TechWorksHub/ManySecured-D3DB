@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23d40813-465d-40eb-ab42-c82beffd2138
-  mac-addresses:
+  id: 89c9a42a-e361-46e7-9952-ac77df67f5fc
+  macAddresses:
   - 00:07:D6:00:00:00/24
   manufacturer: Commil Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Commil
 type: d3-device-type-assertion

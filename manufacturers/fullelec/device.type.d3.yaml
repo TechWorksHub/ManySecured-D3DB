@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce08aa5b-e1a3-4812-a6ed-d16573aabd71
-  mac-addresses:
+  id: 62d1d3b5-cf34-494a-9f93-d19efd343ca8
+  macAddresses:
   - 00:50:C2:95:D0:00/36
   manufacturer: full electronic system
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: fullelec
 type: d3-device-type-assertion

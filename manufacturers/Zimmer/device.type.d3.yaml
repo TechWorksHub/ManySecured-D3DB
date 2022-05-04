@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f299fb1-6776-4b7a-b92b-ad9537cbf9d3
-  mac-addresses:
+  id: e583a0ce-582f-4c88-b73e-f478df70dd20
+  macAddresses:
   - 94:05:BB:90:00:00/28
   manufacturer: Zimmer GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zimmer
 type: d3-device-type-assertion

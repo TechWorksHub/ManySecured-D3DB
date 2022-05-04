@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6f0c94b-0f47-43d3-aa20-016d6f92c7cc
-  mac-addresses:
+  id: ccbc1975-0eb0-4c71-93eb-aee472a66b7b
+  macAddresses:
   - 70:B3:D5:70:20:00/36
   manufacturer: Sensor Highway Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensorHi
 type: d3-device-type-assertion

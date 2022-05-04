@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9efeeee-3c6f-49f9-9421-150748b03922
-  mac-addresses:
+  id: 8f456fed-1144-4a82-acd2-f6d1adfea0c8
+  macAddresses:
   - 00:D0:4C:00:00:00/24
   manufacturer: Eseye Design Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EseyeDes
 type: d3-device-type-assertion

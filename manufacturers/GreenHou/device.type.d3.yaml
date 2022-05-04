@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86f8e107-7005-4600-ab81-eeec99bcccea
-  mac-addresses:
+  id: f84e55c3-b4b2-4cba-a68a-86360d8ad2ae
+  macAddresses:
   - 70:B3:D5:4C:F0:00/36
   manufacturer: Green House Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenHou
 type: d3-device-type-assertion

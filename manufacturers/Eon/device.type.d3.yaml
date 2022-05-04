@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffaf38cd-b6ba-4b5d-8083-676abe8b206b
-  mac-addresses:
+  id: 879c536b-fe1f-4b58-8a92-17fbb0a98184
+  macAddresses:
   - 70:B3:D5:E6:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eon
 type: d3-device-type-assertion

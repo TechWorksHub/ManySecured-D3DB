@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ad5d226-ceb6-44e7-9e44-2f1b0726090f
-  mac-addresses:
+  id: d290878a-8952-4348-b272-cbe53be10b26
+  macAddresses:
   - 00:0E:54:00:00:00/24
   manufacturer: AlphaCell Wireless Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaCel
 type: d3-device-type-assertion

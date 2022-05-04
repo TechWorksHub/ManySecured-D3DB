@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fa9a5c3-9edc-472c-9283-40302b527219
-  mac-addresses:
+  id: de566e1c-2d71-4f48-865d-2353e0c393ea
+  macAddresses:
   - 0C:39:56:00:00:00/24
   manufacturer: Observator instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Observat
 type: d3-device-type-assertion

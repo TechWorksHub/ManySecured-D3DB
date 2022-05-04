@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7588ba99-74bc-4a45-8ee9-c7659fc01269
-  mac-addresses:
+  id: a79b0fb8-e8dc-4644-adb3-97b97a16e3a8
+  macAddresses:
   - 00:90:B8:00:00:00/24
   manufacturer: Rohde & Schwarz Gmbh & Co. Kg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RohdeSch
 type: d3-device-type-assertion

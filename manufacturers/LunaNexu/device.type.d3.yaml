@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcb56ab7-07cb-471f-86a9-b739a37a83f1
-  mac-addresses:
+  id: 4816fce6-83b5-412f-8606-6cb4d9ecfd0e
+  macAddresses:
   - 70:B3:D5:55:D0:00/36
   manufacturer: LunaNexus Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LunaNexu
 type: d3-device-type-assertion

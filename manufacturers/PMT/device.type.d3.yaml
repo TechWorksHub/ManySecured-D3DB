@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c203594-6dea-4825-87a4-9aee6cd3c2f9
-  mac-addresses:
+  id: fd351657-a2c3-410e-9bb6-3bedc40eb3d1
+  macAddresses:
   - 70:B3:D5:80:40:00/36
   manufacturer: PMT Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PMT
 type: d3-device-type-assertion

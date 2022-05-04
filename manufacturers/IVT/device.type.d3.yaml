@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d6ecd088-bd5c-4e19-a7f5-afd14ea6cf3e
-  mac-addresses:
+  id: bc4ad5fe-616c-4aab-a8bb-6608e8c844c2
+  macAddresses:
   - 00:15:83:00:00:00/24
   - C0:FB:F9:60:00:00/28
   manufacturer: IVT corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IVT
 type: d3-device-type-assertion

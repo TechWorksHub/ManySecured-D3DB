@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21abc341-168a-472d-b6c1-632455e14f35
-  mac-addresses:
+  id: a7bd41f5-7959-4e9a-9789-da0108c3b557
+  macAddresses:
   - 70:B3:D5:21:D0:00/36
   manufacturer: iRF - Intelligent RF Solutions, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iRF-Inte
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9d61195-665e-443e-992d-49f5bfe1e5ff
-  mac-addresses:
+  id: c49bc6be-aebd-4175-a561-f6b83ddce308
+  macAddresses:
   - 00:1C:21:00:00:00/24
   manufacturer: Nucsafe Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nucsafe
 type: d3-device-type-assertion

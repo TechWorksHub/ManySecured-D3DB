@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff1a65b5-8c0c-4e3d-978b-e74978c96b19
-  mac-addresses:
+  id: 1a68aad6-1da0-4a80-b9ca-f0d32e952b0e
+  macAddresses:
   - 00:50:C2:E3:00:00/36
   manufacturer: Goennheimer Elektronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Goennhei
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fed9b79-f0b1-4c0f-9eee-cf64c2c6338b
-  mac-addresses:
+  id: 3278c22c-a9af-409f-bf1f-9e64ad61afad
+  macAddresses:
   - 00:03:1C:00:00:00/24
   manufacturer: Svenska Hardvarufabriken AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SvenskaH
 type: d3-device-type-assertion

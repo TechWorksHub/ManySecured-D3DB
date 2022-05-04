@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d060d7cb-ec22-427f-9569-99c91ebddc40
-  mac-addresses:
+  id: cbb3ea1b-1b98-4adc-952c-2357dc076b14
+  macAddresses:
   - 00:00:74:00:00:00/24
   - 00:26:73:00:00:00/24
   - 58:38:79:00:00:00/24
   manufacturer: Ricoh Company Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ricoh
 type: d3-device-type-assertion

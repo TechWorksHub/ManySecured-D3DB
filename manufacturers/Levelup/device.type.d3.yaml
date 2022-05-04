@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f25e3ea-acf3-48a7-95e8-a597e599e710
-  mac-addresses:
+  id: 5ee7739d-a117-4219-936c-435a3eaad3b2
+  macAddresses:
   - 70:B3:D5:89:F0:00/36
   manufacturer: Levelup Holding, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Levelup
 type: d3-device-type-assertion

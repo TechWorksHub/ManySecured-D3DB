@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c526848c-ad43-478d-86ba-88779bdbd5ac
-  mac-addresses:
+  id: 3910d5d6-c7b9-4c64-83c3-9fca1585e183
+  macAddresses:
   - 2E:2E:2E:00:00:00/24
   manufacturer: LAA (Locally Administered Address) for Meditech Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LaaLocal
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9806ba3-a111-46b9-8347-032f01010498
-  mac-addresses:
+  id: c05994b6-c133-4b03-9682-a30585291c73
+  macAddresses:
   - 04:8B:42:00:00:00/24
   manufacturer: Skspruce Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Skspruce
 type: d3-device-type-assertion

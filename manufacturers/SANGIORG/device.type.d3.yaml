@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98103bed-705c-43c9-ab72-28c5b3778d21
-  mac-addresses:
+  id: 968023f6-a74b-4836-9ec3-2e6d7698c7b5
+  macAddresses:
   - 00:50:C2:AA:90:00/36
   manufacturer: SAN GIORGIO S.E.I.N. srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SANGIORG
 type: d3-device-type-assertion

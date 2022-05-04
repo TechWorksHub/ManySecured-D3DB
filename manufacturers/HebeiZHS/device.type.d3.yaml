@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf8b6f6f-07db-4874-998e-52fb1e4a064d
-  mac-addresses:
+  id: a1156936-d79d-4e10-a3c0-ed8ad61965ae
+  macAddresses:
   - CC:22:37:C0:00:00/28
   manufacturer: Hebei ZHSF Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HebeiZHS
 type: d3-device-type-assertion

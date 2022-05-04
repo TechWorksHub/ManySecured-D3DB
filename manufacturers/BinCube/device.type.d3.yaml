@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcf33668-be62-4ac5-ab1c-06202b55b20e
-  mac-addresses:
+  id: 0487ccd3-81f4-4ea1-9f7d-369ed4fb4210
+  macAddresses:
   - 08:1F:EB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BinCube
 type: d3-device-type-assertion

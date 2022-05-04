@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d803c3e1-da91-4251-9b2f-6c201e6e980d
-  mac-addresses:
+  id: d0f6fc6d-ff87-498e-bac6-06f84df7b015
+  macAddresses:
   - 34:00:8A:70:00:00/28
   manufacturer: uberGARD Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: uberGARD
 type: d3-device-type-assertion

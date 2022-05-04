@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 140c7af7-e4da-4bc8-87da-b048ceadf710
-  mac-addresses:
+  id: 105bfb76-8a3c-4950-91a5-e899907f9f89
+  macAddresses:
   - 58:7F:C8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S2M
 type: d3-device-type-assertion

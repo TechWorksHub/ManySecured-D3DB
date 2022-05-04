@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bb9c36e-93be-4bb2-b845-4423311b23ab
-  mac-addresses:
+  id: 8c8ecd6e-2b0b-4e2a-bcd2-db92470c7547
+  macAddresses:
   - 38:73:EA:20:00:00/28
   manufacturer: Eyesight(Shanghai)Communication Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eyesight
 type: d3-device-type-assertion

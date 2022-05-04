@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d0d9816-7f9d-4afb-822f-892491b5d782
-  mac-addresses:
+  id: 71af30a8-480a-402d-8bd6-9bc462f21ff9
+  macAddresses:
   - A4:3B:FA:B0:00:00/28
   manufacturer: ALSTOM Strongwish (Shenzhen) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ALSTOMSt
 type: d3-device-type-assertion

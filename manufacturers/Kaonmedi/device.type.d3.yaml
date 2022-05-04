@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 764b9e8b-fe3a-428d-92a9-b1b24cd1cebc
-  mac-addresses:
+  id: 567b5c5d-2aa3-4ae7-8076-38c7888b8680
+  macAddresses:
   - 00:08:B9:00:00:00/24
   - 18:34:AF:00:00:00/24
   - 44:F0:34:00:00:00/24
@@ -11,6 +11,6 @@ credentialSubject:
   - 94:3B:B1:00:00:00/24
   - 98:77:E7:00:00:00/24
   manufacturer: Kaonmedia CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kaonmedi
 type: d3-device-type-assertion

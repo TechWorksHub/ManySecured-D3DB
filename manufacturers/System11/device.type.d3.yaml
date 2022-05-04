@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 81f5be82-ef6d-47aa-a407-5a9111a1d1a0
-  mac-addresses:
+  id: f481c15d-6388-431e-b1cf-bd4c9e2ce0a5
+  macAddresses:
   - 70:B3:D5:9D:E0:00/36
   manufacturer: System 11 Sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: System11
 type: d3-device-type-assertion

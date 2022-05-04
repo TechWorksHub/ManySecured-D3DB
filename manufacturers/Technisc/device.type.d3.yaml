@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 75edbf47-6b8b-48b0-a99c-ca970ef27614
-  mac-addresses:
+  id: d29662bf-2e52-433f-ba64-17a05270b2cb
+  macAddresses:
   - 00:50:C2:5C:60:00/36
   - 3C:CD:5A:00:00:00/24
   manufacturer: Technische Alternative GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technisc
 type: d3-device-type-assertion

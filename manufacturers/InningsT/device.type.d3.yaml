@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 030e05d9-8536-43f6-9611-93e0383815e2
-  mac-addresses:
+  id: 1088152f-7128-4c53-aed8-f96d9df140f6
+  macAddresses:
   - 00:50:C2:30:A0:00/36
   manufacturer: Innings Telecom Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InningsT
 type: d3-device-type-assertion

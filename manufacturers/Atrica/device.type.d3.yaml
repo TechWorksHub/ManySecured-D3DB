@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea5ee2b5-332b-444c-8db8-fd75a782f1ab
-  mac-addresses:
+  id: 398d83de-9c28-43c0-87bc-2844fe54ec22
+  macAddresses:
   - 00:03:EB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atrica
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b90e4951-848d-4cf8-a7a2-5216095fcd77
-  mac-addresses:
+  id: 51e3f852-c90b-4096-810a-23e5ce5b2648
+  macAddresses:
   - 44:62:46:00:00:00/24
   manufacturer: Comat AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comat
 type: d3-device-type-assertion

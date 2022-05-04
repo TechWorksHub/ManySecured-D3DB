@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36975e2f-7117-4754-9a2c-297cd11ab92c
-  mac-addresses:
+  id: e25541c4-2fc6-4bdd-a61d-1c9016e48e65
+  macAddresses:
   - D4:12:96:00:00:00/24
   manufacturer: Anobit Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnobitTe
 type: d3-device-type-assertion

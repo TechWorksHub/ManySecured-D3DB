@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a8d882b-c020-45ac-b901-aa4f705f9d38
-  mac-addresses:
+  id: df2d1e24-68be-4465-ba42-41e58b51f890
+  macAddresses:
   - 60:76:88:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Velodyne
 type: d3-device-type-assertion

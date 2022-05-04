@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95d5d905-0110-42ed-97e9-4d71e5a91191
-  mac-addresses:
+  id: d2e065da-325b-4f7c-87f6-61c7c5d90957
+  macAddresses:
   - 00:D6:32:00:00:00/24
   manufacturer: GE Energy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GEEnergy
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 375eb5af-adf1-43bf-8905-49eb020714ff
-  mac-addresses:
+  id: 981d0f6e-d08e-4d0a-b6d9-114c6f8044eb
+  macAddresses:
   - 70:B3:D5:DF:30:00/36
   manufacturer: SPC Bioclinicum
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPCBiocl
 type: d3-device-type-assertion

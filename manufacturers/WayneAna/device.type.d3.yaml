@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b3c4c2e-6474-44fd-8142-f3907b68062a
-  mac-addresses:
+  id: a249685e-6264-4146-b82b-8ce094992108
+  macAddresses:
   - 70:B3:D5:30:10:00/36
   manufacturer: Wayne Analytics Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WayneAna
 type: d3-device-type-assertion

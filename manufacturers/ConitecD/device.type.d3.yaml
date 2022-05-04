@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97e772ac-5e5d-43f6-8d76-02f30e2c19bb
-  mac-addresses:
+  id: e6235421-f5be-4dc8-99af-2a2f5dc2c03b
+  macAddresses:
   - 00:11:EF:00:00:00/24
   manufacturer: Conitec Datensysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConitecD
 type: d3-device-type-assertion

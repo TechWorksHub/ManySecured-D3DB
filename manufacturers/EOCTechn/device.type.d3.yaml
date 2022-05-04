@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 177a3b4d-5743-4a5f-a708-bfa8f20c1842
-  mac-addresses:
+  id: 1c8223c8-0989-442b-abaa-167a8bec42cf
+  macAddresses:
   - A4:46:6B:00:00:00/24
   manufacturer: EOC Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EOCTechn
 type: d3-device-type-assertion

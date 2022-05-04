@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c0dbe65-ed60-41a5-8c71-373439ec60a5
-  mac-addresses:
+  id: 7dfb477f-9c2b-4826-a33e-1fc6215458b5
+  macAddresses:
   - 20:11:4E:00:00:00/24
   manufacturer: MeteRSit S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeteRSit
 type: d3-device-type-assertion

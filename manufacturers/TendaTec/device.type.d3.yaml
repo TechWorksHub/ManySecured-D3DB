@@ -1,6 +1,6 @@
 credentialSubject:
-  id: fe199b9e-4c68-4a88-a088-dd30d254e0b2
-  mac-addresses:
+  id: c7c283a7-fb03-47cb-9674-8d7784456a8f
+  macAddresses:
   - 04:95:E6:00:00:00/24
   - 08:40:F3:00:00:00/24
   - 50:0F:F5:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - D8:32:14:00:00:00/24
   - E8:65:D4:00:00:00/24
   manufacturer: Tenda Technology Co.,Ltd.Dongguan branch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TendaTec
 type: d3-device-type-assertion

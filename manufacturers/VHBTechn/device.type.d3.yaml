@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78d34495-6625-45f6-beff-f5f03f75bea9
-  mac-addresses:
+  id: c5a7f697-dae0-4eac-83cc-0cd2e83e9f48
+  macAddresses:
   - 00:50:C2:0F:00:00/36
   manufacturer: VHB Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VHBTechn
 type: d3-device-type-assertion

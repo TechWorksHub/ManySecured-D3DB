@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26ccd4a8-7373-430d-ad46-cd1227f69974
-  mac-addresses:
+  id: 15005bb0-7677-4a2e-9140-d215f0606c86
+  macAddresses:
   - 30:77:CB:00:00:00/24
   manufacturer: Maike Industry(Shenzhen)CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaikeInd
 type: d3-device-type-assertion

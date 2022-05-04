@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bd0fc20-a397-4b9b-999e-df6b83cdb6d8
-  mac-addresses:
+  id: 8eea6387-e2fb-4e46-9f99-06d7d33811d1
+  macAddresses:
   - FC:17:94:00:00:00/24
   manufacturer: InterCreative Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InterCre
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 526baf5a-62f6-4658-8448-d802ec2d7045
-  mac-addresses:
+  id: 36d45d56-a2fc-4b68-aad0-cca4640335a6
+  macAddresses:
   - 00:09:80:00:00:00/24
   manufacturer: Power Zenith Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerZen
 type: d3-device-type-assertion

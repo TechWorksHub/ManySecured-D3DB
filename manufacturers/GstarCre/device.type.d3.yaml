@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd6d1e14-b42b-45ed-b859-afcc13dfc26d
-  mac-addresses:
+  id: b8aeb60b-31d2-4d1f-8d28-82fb5d6b80fc
+  macAddresses:
   - 70:B3:D5:A6:70:00/36
   manufacturer: Gstar Creation Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GstarCre
 type: d3-device-type-assertion

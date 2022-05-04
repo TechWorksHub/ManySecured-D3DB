@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4cde54a5-0762-43e9-802d-584b495b140d
-  mac-addresses:
+  id: 517a24ea-81a6-4da8-8cd6-47640d644e65
+  macAddresses:
   - 00:1F:79:00:00:00/24
   manufacturer: Lodam Electronics A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LodamEle
 type: d3-device-type-assertion

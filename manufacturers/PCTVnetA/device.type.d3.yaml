@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27331911-a22b-40e3-8db9-29db38054424
-  mac-addresses:
+  id: 39b980a1-cc89-44e3-8aad-0bd6ce778b0b
+  macAddresses:
   - 00:50:FE:00:00:00/24
   manufacturer: PCTVnet ASA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCTVnetA
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 506097b4-768e-48bb-a5d4-34c14b7d307a
-  mac-addresses:
+  id: b1ca07d0-fb28-4adc-b55f-b186b823ec2b
+  macAddresses:
   - 00:02:83:00:00:00/24
   - 00:06:74:00:00:00/24
   - 00:07:D1:00:00:00/24
@@ -11,6 +11,6 @@ credentialSubject:
   - 70:B3:D5:25:40:00/36
   - 70:B3:D5:95:30:00/36
   manufacturer: Spectrum Controls, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spectrum
 type: d3-device-type-assertion

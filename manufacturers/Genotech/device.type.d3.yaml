@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 61e4c676-2c7e-4451-915e-542f8e4ededc
-  mac-addresses:
+  id: debb713d-af73-476f-9cdc-7fb63d79e5ea
+  macAddresses:
   - 00:05:96:00:00:00/24
   manufacturer: Genotech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Genotech
 type: d3-device-type-assertion

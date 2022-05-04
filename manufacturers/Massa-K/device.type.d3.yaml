@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b108510e-cc14-4144-aa1d-9111b494931b
-  mac-addresses:
+  id: 6ba90bc1-8754-48f8-83c1-70c160cb3361
+  macAddresses:
   - 00:1E:FC:00:00:00/24
   manufacturer: Jsc "Massa-K"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Massa-K
 type: d3-device-type-assertion

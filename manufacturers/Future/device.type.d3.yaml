@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1e2124d-8ffe-4a9c-aa8c-d14ac6379373
-  mac-addresses:
+  id: 23c2fd27-ce8e-4ada-8035-9a73e87a59ab
+  macAddresses:
   - 00:40:5C:00:00:00/24
   manufacturer: Future Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Future
 type: d3-device-type-assertion

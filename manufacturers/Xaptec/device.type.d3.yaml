@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36d9ed40-7b96-41ac-a10a-a523ef8bcada
-  mac-addresses:
+  id: 8227e55a-dfc5-4c3a-8a0a-3a9d959d8fc8
+  macAddresses:
   - E8:33:0D:00:00:00/24
   manufacturer: Xaptec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xaptec
 type: d3-device-type-assertion

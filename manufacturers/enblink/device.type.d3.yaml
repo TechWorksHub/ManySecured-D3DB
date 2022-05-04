@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a2d5e3f-d1bc-4083-baee-6327a5378c2a
-  mac-addresses:
+  id: c9e5cd0d-88ca-47c7-b7cc-10c5dd29fc54
+  macAddresses:
   - 28:A1:86:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: enblink
 type: d3-device-type-assertion

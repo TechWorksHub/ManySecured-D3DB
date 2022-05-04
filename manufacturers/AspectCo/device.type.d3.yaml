@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a37be15-5069-45e7-806c-3a4a83c6124a
-  mac-addresses:
+  id: dfda84f4-81e1-4a33-8476-47248cd9305c
+  macAddresses:
   - 00:90:F3:00:00:00/24
   manufacturer: Aspect Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AspectCo
 type: d3-device-type-assertion

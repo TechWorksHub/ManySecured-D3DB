@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de137279-bb61-45a2-9cb9-45c4f974936d
-  mac-addresses:
+  id: 1145e627-bea9-4b9d-ad48-f77a3794154a
+  macAddresses:
   - 94:29:57:00:00:00/24
   manufacturer: Airpo Networks Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirpoNet
 type: d3-device-type-assertion

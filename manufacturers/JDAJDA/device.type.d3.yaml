@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a27ed8da-e3d9-4f1c-9705-469f4ab45fbe
-  mac-addresses:
+  id: 1ee525ef-db27-4597-8ae3-908c4c2510e7
+  macAddresses:
   - 30:2D:E8:00:00:00/24
   manufacturer: JDA, LLC (JDA Systems)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JDAJDA
 type: d3-device-type-assertion

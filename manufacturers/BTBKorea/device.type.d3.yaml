@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2848f31-f542-403c-9477-777e5b4896d5
-  mac-addresses:
+  id: e63d6cf0-ae96-4a8e-9e80-b3246acec964
+  macAddresses:
   - 88:9C:A6:00:00:00/24
   manufacturer: BTB Korea INC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BTBKorea
 type: d3-device-type-assertion

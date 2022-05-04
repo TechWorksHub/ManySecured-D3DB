@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9e73b87-6b69-4119-8bf0-83f8fb29f471
-  mac-addresses:
+  id: 5719e227-d25e-4a32-87bd-61b1c718c978
+  macAddresses:
   - 70:F8:E7:80:00:00/28
   manufacturer: Eclipse Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EclipseS
 type: d3-device-type-assertion

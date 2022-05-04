@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e887b5cc-ee81-44fb-82ea-745a02dfabed
-  mac-addresses:
+  id: 52eec1e0-0cf8-47db-9d03-4d51d92995fa
+  macAddresses:
   - 00:50:C2:3D:A0:00/36
   manufacturer: M5 Data Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: M5Data
 type: d3-device-type-assertion

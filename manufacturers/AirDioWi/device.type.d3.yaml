@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 159f6312-6358-42aa-82c3-9670f3544c94
-  mac-addresses:
+  id: c88422cc-6140-4cac-a0bb-4d296b497963
+  macAddresses:
   - 00:26:FB:00:00:00/24
   manufacturer: AirDio Wireless, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirDioWi
 type: d3-device-type-assertion

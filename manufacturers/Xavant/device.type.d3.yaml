@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38c143a3-2841-4e2e-ad5e-4be455235b24
-  mac-addresses:
+  id: 3ece59a6-afb4-4483-b2b6-8d869cab4b56
+  macAddresses:
   - 70:B3:D5:1E:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xavant
 type: d3-device-type-assertion

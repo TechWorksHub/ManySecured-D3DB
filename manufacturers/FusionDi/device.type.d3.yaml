@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf4bab38-fec8-47c7-9d07-35890e8b7a5e
-  mac-addresses:
+  id: e10ba26e-bd2f-47ac-9a5d-1eda325c1b26
+  macAddresses:
   - 00:12:B9:00:00:00/24
   manufacturer: Fusion Digital Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FusionDi
 type: d3-device-type-assertion

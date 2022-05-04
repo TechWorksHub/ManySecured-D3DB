@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d8648f1-93f9-447b-aa26-44f7ae950dd4
-  mac-addresses:
+  id: 94032496-5403-4af8-8ca5-f9b5f409fddc
+  macAddresses:
   - 68:85:6A:00:00:00/24
   manufacturer: OuterLink Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OuterLin
 type: d3-device-type-assertion

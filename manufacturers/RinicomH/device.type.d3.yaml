@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34805991-2a3d-4aee-8df8-2298577de371
-  mac-addresses:
+  id: 8cab51ca-b495-49d4-a1e4-9662da1d80d0
+  macAddresses:
   - 6C:61:26:00:00:00/24
   manufacturer: Rinicom Holdings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RinicomH
 type: d3-device-type-assertion

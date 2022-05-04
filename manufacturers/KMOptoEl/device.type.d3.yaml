@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1adf92f3-9fca-46b5-886a-192063ce9776
-  mac-addresses:
+  id: 405377d0-e328-4153-b00d-09b4b48e2a50
+  macAddresses:
   - 70:B3:D5:9D:70:00/36
   manufacturer: KM OptoElektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KMOptoEl
 type: d3-device-type-assertion

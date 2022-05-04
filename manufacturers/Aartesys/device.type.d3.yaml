@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bb75cd93-c8d6-4b7a-ac75-0262344bce64
-  mac-addresses:
+  id: 02ce8981-2217-42b6-a8c1-7827c8d22e49
+  macAddresses:
   - 00:50:C2:14:30:00/36
   - E4:77:6B:00:00:00/24
   manufacturer: Aartesys Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aartesys
 type: d3-device-type-assertion

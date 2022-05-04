@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1415b64-2185-4383-86c5-9112c5dbc014
-  mac-addresses:
+  id: 19662508-8b6c-4ee8-8c45-74a1063d9627
+  macAddresses:
   - 88:D9:62:00:00:00/24
   manufacturer: Canopus Systems US LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanopusU
 type: d3-device-type-assertion

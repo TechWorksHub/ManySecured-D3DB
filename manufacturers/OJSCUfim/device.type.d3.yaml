@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a277df6-553c-48ed-b1b6-76a791d4f5a5
-  mac-addresses:
+  id: c4c860e6-32c8-4116-9fd6-9b7411dbf354
+  macAddresses:
   - 1C:BB:A8:00:00:00/24
   manufacturer: OJSC "Ufimskiy Zavod "Promsvyaz"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OJSCUfim
 type: d3-device-type-assertion

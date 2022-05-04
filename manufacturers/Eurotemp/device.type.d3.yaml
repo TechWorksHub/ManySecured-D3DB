@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0fe1f1a-455a-481d-b3a7-3a06c4208ac9
-  mac-addresses:
+  id: 0d432a8f-cbae-4c01-a294-f4491820269e
+  macAddresses:
   - 70:B3:D5:E3:70:00/36
   manufacturer: Eurotempest AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eurotemp
 type: d3-device-type-assertion

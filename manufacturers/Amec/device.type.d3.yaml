@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33dfcd00-f306-42b5-879f-e08d97d2f02e
-  mac-addresses:
+  id: 59b8d549-63e2-4eca-9384-4efc281b7eeb
+  macAddresses:
   - 00:1D:67:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amec
 type: d3-device-type-assertion

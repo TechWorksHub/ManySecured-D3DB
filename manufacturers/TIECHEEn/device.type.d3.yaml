@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d25ca79f-1ee9-4116-ad9e-84c0908e9fb3
-  mac-addresses:
+  id: 7f6f1d61-8825-475c-9b8a-00d762e473c1
+  macAddresses:
   - 70:B3:D5:79:50:00/36
   manufacturer: TIECHE Engineered Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TIECHEEn
 type: d3-device-type-assertion

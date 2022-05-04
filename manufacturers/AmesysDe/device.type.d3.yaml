@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 892a7b71-89c6-4bfd-9949-a17d3c9f0f4b
-  mac-addresses:
+  id: 65555e55-59ef-47cc-a3f4-ed442e362cf5
+  macAddresses:
   - 00:0D:1C:00:00:00/24
   manufacturer: Amesys Defense
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmesysDe
 type: d3-device-type-assertion

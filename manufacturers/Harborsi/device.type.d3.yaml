@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e494b1ec-171a-473c-b5b1-5aa27180c2c6
-  mac-addresses:
+  id: c0479a60-8168-461d-afc2-9ab9db3d7157
+  macAddresses:
   - 70:B3:D5:84:50:00/36
   manufacturer: Harborside Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Harborsi
 type: d3-device-type-assertion

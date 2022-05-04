@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2ed9029-d16a-4d94-be3d-cf51dc68f8e4
-  mac-addresses:
+  id: afcebcaa-2130-4d7e-a118-06ef81b7dcca
+  macAddresses:
   - 00:50:C2:E7:C0:00/36
   manufacturer: sp controls, inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: spcontro
 type: d3-device-type-assertion

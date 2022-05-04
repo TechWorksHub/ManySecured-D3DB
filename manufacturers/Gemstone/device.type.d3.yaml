@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 536f57a4-4290-4350-9199-8af758ff58e6
-  mac-addresses:
+  id: 2a575948-c86b-46ce-9e48-c631736fb064
+  macAddresses:
   - 00:0B:F9:00:00:00/24
   manufacturer: Gemstone Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gemstone
 type: d3-device-type-assertion

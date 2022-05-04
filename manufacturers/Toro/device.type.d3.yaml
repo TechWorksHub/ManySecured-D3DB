@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5155a63f-27c4-4782-a564-7ff6dd21373f
-  mac-addresses:
+  id: f5f59863-42d7-44c8-aeb1-23300b27da7d
+  macAddresses:
   - 00:24:09:00:00:00/24
   manufacturer: The Toro Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toro
 type: d3-device-type-assertion

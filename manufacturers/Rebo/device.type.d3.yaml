@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0571aba4-04f7-43cb-b2ac-556d60ecb9e3
-  mac-addresses:
+  id: 8a0aa433-2f1e-4d44-9cdf-6bb94fab97ef
+  macAddresses:
   - 00:50:C2:C6:90:00/36
   manufacturer: Rebo Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rebo
 type: d3-device-type-assertion

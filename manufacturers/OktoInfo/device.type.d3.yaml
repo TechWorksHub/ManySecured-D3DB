@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2b7723f-1de5-4225-80f7-a2233c5a9511
-  mac-addresses:
+  id: 031b707a-269a-4c52-a0bb-0e17358c827f
+  macAddresses:
   - 50:43:B9:00:00:00/24
   manufacturer: OktoInform RUS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OktoInfo
 type: d3-device-type-assertion

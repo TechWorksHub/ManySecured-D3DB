@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d90d810-ca60-4e88-b522-f3a4c9deab10
-  mac-addresses:
+  id: 2ead125f-1575-45de-9888-3c0d44def6cf
+  macAddresses:
   - 7C:83:34:E0:00:00/28
   manufacturer: Balter GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Balter
 type: d3-device-type-assertion

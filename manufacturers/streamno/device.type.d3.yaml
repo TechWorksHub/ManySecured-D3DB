@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c2e3393-4c5d-484b-8725-574cfdabad99
-  mac-addresses:
+  id: d2711f21-7087-418f-9c9d-859d9511e577
+  macAddresses:
   - 30:59:5B:00:00:00/24
   manufacturer: streamnow AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: streamno
 type: d3-device-type-assertion

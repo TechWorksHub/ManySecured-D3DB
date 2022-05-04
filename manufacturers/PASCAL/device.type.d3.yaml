@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54008e6a-1084-44e0-8c44-f624fd3a5515
-  mac-addresses:
+  id: 8eb6736b-35b4-43c7-8e27-454097a472b4
+  macAddresses:
   - C4:7C:8D:50:00:00/28
   manufacturer: PASCAL Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PASCAL
 type: d3-device-type-assertion

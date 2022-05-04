@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afc2dd55-c43a-47a8-ac58-d1bde4b1a253
-  mac-addresses:
+  id: 21a36460-e7d2-415b-a00f-2190ce65a718
+  macAddresses:
   - 64:62:66:D0:00:00/28
   manufacturer: Kobol Innovations Pte. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KobolInn
 type: d3-device-type-assertion

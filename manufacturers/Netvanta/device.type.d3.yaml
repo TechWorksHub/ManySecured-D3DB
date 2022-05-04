@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa73ec4c-6708-453a-bc4d-d1f1ecae3409
-  mac-addresses:
+  id: b1ea3975-7988-4d26-9f55-b78cdfe9a018
+  macAddresses:
   - 00:C0:BA:00:00:00/24
   manufacturer: Netvantage
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netvanta
 type: d3-device-type-assertion

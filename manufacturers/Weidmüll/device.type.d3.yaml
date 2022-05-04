@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ff5372c-947f-4621-9244-bf0abf381b8b
-  mac-addresses:
+  id: 74e5591e-00b0-4362-abfd-d7204435277e
+  macAddresses:
   - 00:15:7E:00:00:00/24
   manufacturer: "Weidm\xFCller Interface GmbH & Co. KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Weidm\xFCll"
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 540f62c3-e34a-40cd-b4b5-72425db8b8bb
-  mac-addresses:
+  id: d1884ae6-652f-4265-b126-1c0a2cee86ba
+  macAddresses:
   - 70:B3:D5:CF:10:00/36
   manufacturer: LightDec GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LightDec
 type: d3-device-type-assertion

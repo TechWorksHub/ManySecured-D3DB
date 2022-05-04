@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ede81099-bc39-4b98-b302-0b5cea07b808
-  mac-addresses:
+  id: 21837bda-e156-4f97-85d8-044ac69942f1
+  macAddresses:
   - 60:D3:0A:00:00:00/24
   manufacturer: Quatius Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quatius
 type: d3-device-type-assertion

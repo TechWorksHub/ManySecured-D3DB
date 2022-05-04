@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3315265a-76f6-4df7-998c-0f0cfcbbac6d
-  mac-addresses:
+  id: ca4eb67c-553b-4180-9b8e-cee85023743b
+  macAddresses:
   - E4:1E:0A:00:00:00/28
   manufacturer: "Zavod \u2116 423"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Zavod\u211642"
 type: d3-device-type-assertion

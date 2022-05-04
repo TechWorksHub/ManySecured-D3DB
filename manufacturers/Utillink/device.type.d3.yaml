@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be103a33-65c1-4c73-8cb5-074bc5985759
-  mac-addresses:
+  id: ffd9c31b-08e0-4fdf-ac05-d6e8760af288
+  macAddresses:
   - AC:5E:8C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Utillink
 type: d3-device-type-assertion

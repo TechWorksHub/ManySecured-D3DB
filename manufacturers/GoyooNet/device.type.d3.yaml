@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9622edb7-b683-4bf4-bc25-073281b60cca
-  mac-addresses:
+  id: 5c29d4f3-bbf0-4efb-9713-c348afafc2fa
+  macAddresses:
   - C8:A9:FC:00:00:00/24
   manufacturer: Goyoo Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoyooNet
 type: d3-device-type-assertion

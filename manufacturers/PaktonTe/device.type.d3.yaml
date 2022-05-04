@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0563673-3c26-41b0-bc76-869ea532ceb0
-  mac-addresses:
+  id: 017bd28a-e9db-43ff-b7d5-45ab769f0251
+  macAddresses:
   - C8:90:3E:00:00:00/24
   manufacturer: Pakton Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PaktonTe
 type: d3-device-type-assertion

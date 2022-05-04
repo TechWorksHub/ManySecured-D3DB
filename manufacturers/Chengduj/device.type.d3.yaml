@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4469790c-a337-42b3-9c44-00924dc75e33
-  mac-addresses:
+  id: c7e9de02-5a3b-4dcf-960b-074b5812a322
+  macAddresses:
   - F4:BD:7C:00:00:00/24
   manufacturer: Chengdu jinshi communication Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chengduj
 type: d3-device-type-assertion

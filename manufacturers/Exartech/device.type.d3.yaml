@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bf7129b-6c6f-425a-a7ba-f5f0369aeb0b
-  mac-addresses:
+  id: eea7053f-0a32-4f40-8588-5b35576060b4
+  macAddresses:
   - 00:15:CD:00:00:00/24
   manufacturer: Exartech International Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exartech
 type: d3-device-type-assertion

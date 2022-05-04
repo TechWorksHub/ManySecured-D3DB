@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67c3fc46-afbb-4fac-842b-8966f79306c6
-  mac-addresses:
+  id: 3bb7d164-5b34-4823-8166-8fae79f6d0c4
+  macAddresses:
   - 00:50:C2:57:00:00/36
   manufacturer: Ellex Medical Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EllexMed
 type: d3-device-type-assertion

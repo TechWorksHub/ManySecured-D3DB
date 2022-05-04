@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41a97656-49a6-4ae3-ac79-56d68b33de60
-  mac-addresses:
+  id: 91b5c0c7-dc41-458a-bf95-2f74467d8f97
+  macAddresses:
   - 00:14:10:00:00:00/24
   manufacturer: Suzhou Keda Technology CO.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouKe
 type: d3-device-type-assertion

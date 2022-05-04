@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5de4e19-adb7-4193-9975-310d79fee891
-  mac-addresses:
+  id: 48468a3d-117c-42e8-8afc-e7e8863f9d3b
+  macAddresses:
   - 00:30:81:00:00:00/24
   manufacturer: Altos C&C
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltosC&C
 type: d3-device-type-assertion

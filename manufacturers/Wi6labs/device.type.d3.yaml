@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6471d36-9d29-4ff0-96d3-0fb6198868d2
-  mac-addresses:
+  id: 601eec97-c9cf-4e34-b726-432232f9c0c0
+  macAddresses:
   - 70:B3:D5:8F:80:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wi6labs
 type: d3-device-type-assertion

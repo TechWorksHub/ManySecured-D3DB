@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2943eed6-1d2a-48cd-a7d0-6c7b376622e8
-  mac-addresses:
+  id: d7d1d2af-b31d-4e2e-b7c8-94d0fea3699c
+  macAddresses:
   - 00:1B:C5:00:F0:00/36
   - F4:90:CB:D0:00:00/28
   manufacturer: Simavita Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simavita
 type: d3-device-type-assertion

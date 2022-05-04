@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 862b8432-8a6d-4636-90a9-21a823b6cbde
-  mac-addresses:
+  id: 1a863e86-baba-4355-bc19-50817c8dad85
+  macAddresses:
   - 70:B3:D5:8C:E0:00/36
   manufacturer: CORES Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CORES
 type: d3-device-type-assertion

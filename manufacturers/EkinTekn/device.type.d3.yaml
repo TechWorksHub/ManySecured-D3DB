@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08178867-d767-4642-adc7-802cd6d6a29e
-  mac-addresses:
+  id: e1aef0e7-0881-4265-83f4-175c9456dbe3
+  macAddresses:
   - 04:C3:E6:90:00:00/28
   manufacturer: Ekin Teknoloji San ve Tic A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EkinTekn
 type: d3-device-type-assertion

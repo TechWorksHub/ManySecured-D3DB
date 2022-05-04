@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27514d1d-53df-4b1b-8662-050352ea221a
-  mac-addresses:
+  id: e51a6372-1e63-4158-b349-9f2cf526ca4d
+  macAddresses:
   - 0C:86:29:80:00:00/28
   manufacturer: MyGregor Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MyGregor
 type: d3-device-type-assertion

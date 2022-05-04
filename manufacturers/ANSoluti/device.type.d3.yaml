@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18f93b22-307a-4d7a-bb74-b9b78dfeb991
-  mac-addresses:
+  id: 8ad2a1d3-6d12-407b-860b-9169f1ac9f96
+  macAddresses:
   - C4:7D:FE:00:00:00/24
   manufacturer: A.N. Solutions GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ANSoluti
 type: d3-device-type-assertion

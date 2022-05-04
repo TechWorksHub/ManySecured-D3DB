@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 71791a52-b6d1-40d7-a7f4-f8fe8c234517
-  mac-addresses:
+  id: 8b4b5822-daf7-4b9e-ba15-f7500e0e406e
+  macAddresses:
   - FC:1F:C0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eurecam
 type: d3-device-type-assertion

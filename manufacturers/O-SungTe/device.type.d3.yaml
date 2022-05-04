@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d347f8ff-e809-45b1-a5f2-7144d7160256
-  mac-addresses:
+  id: a894316a-8234-4dc5-818f-d05df5ce387d
+  macAddresses:
   - 5C:24:43:00:00:00/24
   manufacturer: O-Sung Telecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: O-SungTe
 type: d3-device-type-assertion

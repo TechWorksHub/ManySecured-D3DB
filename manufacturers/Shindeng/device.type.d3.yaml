@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff4c7a3e-d867-4509-a8ee-c26e51d98bd5
-  mac-addresses:
+  id: 1d28f9bf-a9d4-4647-a593-ba90972ed97b
+  macAddresses:
   - 00:A0:6C:00:00:00/24
   manufacturer: Shindengen Electric Mfg. Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shindeng
 type: d3-device-type-assertion

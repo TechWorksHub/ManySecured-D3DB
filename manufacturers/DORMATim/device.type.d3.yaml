@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8217749-e4c7-4a5e-ab33-a7fdfcbad6f0
-  mac-addresses:
+  id: a52908ff-f332-40bc-96e4-5f404b5560a6
+  macAddresses:
   - 00:0B:D7:00:00:00/24
   manufacturer: DORMA Time + Access GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DORMATim
 type: d3-device-type-assertion

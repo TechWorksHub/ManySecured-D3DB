@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4ec855cd-2201-4a44-b2a6-b1fd50b92d46
-  mac-addresses:
+  id: 443f8323-cc31-44fd-b8a0-79477efef819
+  macAddresses:
   - 00:06:FB:00:00:00/24
   - 40:D8:55:15:70:00/36
   manufacturer: Hitachi Printing Solutions, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HitachiP
 type: d3-device-type-assertion

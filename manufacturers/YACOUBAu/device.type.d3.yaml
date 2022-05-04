@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ad32f32-8292-4407-a2bc-2fc9b21b99ef
-  mac-addresses:
+  id: d96739bb-7803-441f-84bc-25bbcfedf60a
+  macAddresses:
   - B0:45:45:00:00:00/24
   manufacturer: YACOUB Automation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YACOUBAu
 type: d3-device-type-assertion

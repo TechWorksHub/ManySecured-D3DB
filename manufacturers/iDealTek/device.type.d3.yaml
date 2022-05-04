@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5b6eb19-743f-4a2b-9f42-2b918071f16d
-  mac-addresses:
+  id: cb846e5e-5f87-4fd4-b760-4848a7f89e5a
+  macAddresses:
   - 00:50:C2:BA:B0:00/36
   manufacturer: iDeal Teknoloji Bilisim Cozumleri A.S.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iDealTek
 type: d3-device-type-assertion

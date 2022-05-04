@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0cea5ce-a57e-4244-814e-37b6dd0cf583
-  mac-addresses:
+  id: a6dba32d-6b08-4854-9b1f-33124dbc5024
+  macAddresses:
   - 00:1E:83:00:00:00/24
   manufacturer: LAN/MAN Standards Association (LMSC)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LANMANSt
 type: d3-device-type-assertion

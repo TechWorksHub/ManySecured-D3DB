@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d24f623d-1ff3-45f7-acac-f4a22a6cd10a
-  mac-addresses:
+  id: 684f916e-76cb-49ea-b3d5-42009e964b3a
+  macAddresses:
   - 00:0B:8F:00:00:00/24
   manufacturer: Akita Electronics Systems Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AkitaEle
 type: d3-device-type-assertion

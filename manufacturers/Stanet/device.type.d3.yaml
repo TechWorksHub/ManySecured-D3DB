@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62942dec-d6af-4917-9d14-806d54387523
-  mac-addresses:
+  id: 836b0515-ae0b-4ef6-adff-def1eb7bca1c
+  macAddresses:
   - 70:B3:D5:84:10:00/36
   manufacturer: Stanet Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stanet
 type: d3-device-type-assertion

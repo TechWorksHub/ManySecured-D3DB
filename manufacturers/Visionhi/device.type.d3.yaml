@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd64256b-f4cf-4c39-bf67-d02b9bb22a0b
-  mac-addresses:
+  id: 60bfdec4-1046-49dd-8eee-789e42687881
+  macAddresses:
   - 00:26:E6:00:00:00/24
   manufacturer: Visionhitech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visionhi
 type: d3-device-type-assertion

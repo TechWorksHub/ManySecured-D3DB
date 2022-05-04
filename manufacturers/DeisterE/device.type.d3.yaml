@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29a74caa-3c0d-4dac-a688-a046a1546cbc
-  mac-addresses:
+  id: 4f3a736e-541a-43e1-a6b8-1224c371c9ce
+  macAddresses:
   - 00:50:C2:45:C0:00/36
   manufacturer: Deister Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeisterE
 type: d3-device-type-assertion

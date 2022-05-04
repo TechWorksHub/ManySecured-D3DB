@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b691ddf2-5e31-413a-b911-2d3d58ad3989
-  mac-addresses:
+  id: 6c2f4cc4-9b87-46cb-9764-5ce97386ab71
+  macAddresses:
   - 40:D8:55:0F:50:00/36
   manufacturer: CST Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSTGroup
 type: d3-device-type-assertion

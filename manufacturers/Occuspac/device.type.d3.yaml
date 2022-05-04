@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d91ef91-2cd9-4c3c-9428-8cc53e955fdd
-  mac-addresses:
+  id: 7cab2ecd-5dd9-451c-a2cf-a8ecfd4c329d
+  macAddresses:
   - 04:D9:21:00:00:00/24
   manufacturer: Occuspace
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Occuspac
 type: d3-device-type-assertion

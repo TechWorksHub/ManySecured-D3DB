@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f8e49bb-479c-44ac-8635-060590fc848d
-  mac-addresses:
+  id: 0142bc17-231a-437d-845b-709ebd79e173
+  macAddresses:
   - 00:06:FA:00:00:00/24
   manufacturer: IP SQUARE Co, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPSQUARE
 type: d3-device-type-assertion

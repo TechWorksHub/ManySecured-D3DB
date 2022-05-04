@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c268a291-808f-48ca-9d49-57536d15443e
-  mac-addresses:
+  id: 5b1f7e11-963f-4808-853a-68d7eb13651f
+  macAddresses:
   - 8C:47:6E:A0:00:00/28
   manufacturer: AU Optronics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AUOptron
 type: d3-device-type-assertion

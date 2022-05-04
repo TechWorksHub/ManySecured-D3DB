@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20b1841c-f3ce-4af2-8f8f-e34ba53cea4a
-  mac-addresses:
+  id: 10954ae4-5ce8-43b6-b0d6-e108c4e060b9
+  macAddresses:
   - A4:7C:1F:00:00:00/24
   manufacturer: Cobham plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cobham
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fcef75f-1f9e-4cfe-9151-49ca6abed97f
-  mac-addresses:
+  id: d389fcd7-3213-4610-af27-9d4f37ae0246
+  macAddresses:
   - 70:B3:D5:7F:A0:00/36
   manufacturer: meoENERGY
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: meoENERG
 type: d3-device-type-assertion

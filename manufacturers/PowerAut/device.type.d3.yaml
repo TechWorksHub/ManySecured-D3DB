@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e77f238-5ab8-48bf-8884-2213e09fd3be
-  mac-addresses:
+  id: 1037c4db-c80f-45ac-8f2d-1028bd8c867e
+  macAddresses:
   - 8C:F9:45:00:00:00/24
   manufacturer: Power Automation pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerAut
 type: d3-device-type-assertion

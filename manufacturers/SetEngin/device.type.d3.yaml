@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d28db54-284e-4ad5-89d2-c444bc5cc015
-  mac-addresses:
+  id: dd6caad4-de18-49f1-a017-d64240458748
+  macAddresses:
   - 00:30:34:00:00:00/24
   manufacturer: Set Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SetEngin
 type: d3-device-type-assertion

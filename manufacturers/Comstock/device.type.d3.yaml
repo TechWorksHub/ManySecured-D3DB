@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f47af0d-1d40-4a73-9510-a150fee1acb3
-  mac-addresses:
+  id: 5ca8012a-5730-4056-9e31-911c1bb974a7
+  macAddresses:
   - E8:13:63:00:00:00/24
   manufacturer: Comstock RD, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comstock
 type: d3-device-type-assertion

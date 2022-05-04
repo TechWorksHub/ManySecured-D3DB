@@ -1,6 +1,6 @@
 credentialSubject:
-  id: db5929d0-011e-4d90-ba05-ddf726130dc0
-  mac-addresses:
+  id: 5460660b-51ab-4f7e-8fa7-879ebbf660a1
+  macAddresses:
   - 08:3A:F2:00:00:00/24
   - 08:B6:1F:00:00:00/24
   - 0C:8B:95:00:00:00/24
@@ -126,6 +126,6 @@ credentialSubject:
   - F4:CF:A2:00:00:00/24
   - FC:F5:C4:00:00:00/24
   manufacturer: Espressif Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Espressi
 type: d3-device-type-assertion

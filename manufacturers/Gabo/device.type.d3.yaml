@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c31bf2d-94d3-4f8b-ba3d-1d59eb3ea133
-  mac-addresses:
+  id: 2269c002-f023-4984-aeaa-60c751e68564
+  macAddresses:
   - 70:B3:D5:75:70:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gabo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc96919a-3664-4e80-89c9-1a0a63c6674e
-  mac-addresses:
+  id: b8946875-e769-4407-806b-c4f5f24ad76c
+  macAddresses:
   - 0C:AF:5A:00:00:00/24
   manufacturer: Genus Power Infrastructures Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GenusPow
 type: d3-device-type-assertion

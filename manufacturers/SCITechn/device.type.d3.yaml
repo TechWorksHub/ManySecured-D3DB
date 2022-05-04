@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7b6e7c7-60a5-482c-aa32-3a9e20485c33
-  mac-addresses:
+  id: cd5844f1-5fe1-4557-8852-b9868cf24c86
+  macAddresses:
   - 00:50:C2:00:40:00/36
   manufacturer: SCI Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SCITechn
 type: d3-device-type-assertion

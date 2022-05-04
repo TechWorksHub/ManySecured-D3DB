@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf49155f-35bd-42fd-a37b-0bb077143602
-  mac-addresses:
+  id: 63518820-03d3-41a5-92ec-4a5c4df89e95
+  macAddresses:
   - C8:05:9E:00:00:00/24
   manufacturer: Hefei Symboltek Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HefeiSym
 type: d3-device-type-assertion

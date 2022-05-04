@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af3ef09b-41c1-473a-b69e-7654e773acfa
-  mac-addresses:
+  id: dee9d8f4-041e-48bd-9c8f-da938519dc94
+  macAddresses:
   - 98:6E:E8:00:00:00/28
   manufacturer: Sbarco Technology CO., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SbarcoTe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d575905-27c7-46c2-b024-aecb49d21c6e
-  mac-addresses:
+  id: f160a025-2456-4d96-bc41-8d626c35b6a7
+  macAddresses:
   - 64:E8:4F:00:00:00/24
   manufacturer: Serialway Communication Technology Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Serialwa
 type: d3-device-type-assertion

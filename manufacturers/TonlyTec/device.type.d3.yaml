@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 788d6176-7cf8-4208-96d5-97153fbe8d92
-  mac-addresses:
+  id: ff7e9fbd-9581-43cb-a205-1bf6bfe6bfd9
+  macAddresses:
   - 28:6F:40:00:00:00/24
   - 2C:FD:B3:00:00:00/24
   - 88:D0:39:00:00:00/24
   - D8:AA:59:00:00:00/24
   manufacturer: Tonly Technology Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TonlyTec
 type: d3-device-type-assertion

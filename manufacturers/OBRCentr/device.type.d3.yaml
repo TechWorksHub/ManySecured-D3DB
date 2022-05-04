@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8c1a4fc-7ae3-4142-bf90-5f2eca9a13d0
-  mac-addresses:
+  id: 41e06c84-186f-4653-8f50-64900ecb3b86
+  macAddresses:
   - 00:25:FD:00:00:00/24
   manufacturer: OBR Centrum Techniki Morskiej S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OBRCentr
 type: d3-device-type-assertion

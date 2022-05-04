@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f9bff06-15a4-495b-891f-a5839c1c5183
-  mac-addresses:
+  id: a4b48aa8-c080-4ff5-9a8f-b7be7e99ab36
+  macAddresses:
   - 00:0D:DC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vac
 type: d3-device-type-assertion

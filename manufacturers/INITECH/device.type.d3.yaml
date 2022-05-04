@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cf5cab50-81e0-4fbe-8921-4ecc247cc7c9
-  mac-addresses:
+  id: 2329c3bf-3b67-48d9-82fb-8182076766a1
+  macAddresses:
   - 00:0A:D3:00:00:00/24
   manufacturer: INITECH Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INITECH
 type: d3-device-type-assertion

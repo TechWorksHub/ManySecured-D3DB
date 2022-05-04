@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ec2f704-3021-4f7a-a556-dbb6a652b7c3
-  mac-addresses:
+  id: 6071acee-a4d5-4d4c-8499-9ef7a9bccd45
+  macAddresses:
   - B4:6F:2D:00:00:00/24
   manufacturer: Wahoo Fitness
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WahooFit
 type: d3-device-type-assertion

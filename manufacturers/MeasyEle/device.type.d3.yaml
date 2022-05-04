@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 86e7bcd2-e4b1-488c-8476-8d5993bce1ed
-  mac-addresses:
+  id: d5374aac-0e8c-40b8-8db8-1781078494cf
+  macAddresses:
   - 00:50:C2:B1:30:00/36
   - 50:CE:75:00:00:00/24
   manufacturer: Measy Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeasyEle
 type: d3-device-type-assertion

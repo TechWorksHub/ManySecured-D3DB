@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67692144-aa61-4da3-8072-f972256661e9
-  mac-addresses:
+  id: 3548e538-0de7-493d-85d8-1182dfe43102
+  macAddresses:
   - 18:AD:4D:00:00:00/24
   manufacturer: Polostar Technology Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polostar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 497af3aa-f283-4fd5-9bd4-53659ff0655b
-  mac-addresses:
+  id: f31ee3cf-1cda-4e7d-ae83-c37599aa1553
+  macAddresses:
   - AC:42:28:00:00:00/24
   manufacturer: Parta Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PartaNet
 type: d3-device-type-assertion

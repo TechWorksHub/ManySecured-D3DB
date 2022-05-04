@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a23a383-ca29-4d4f-b775-e6906063b503
-  mac-addresses:
+  id: 5219fd30-f4a2-43e7-9e11-d6d38257946c
+  macAddresses:
   - 00:1F:C0:00:00:00/24
   manufacturer: Control Express Finland Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ControlE
 type: d3-device-type-assertion

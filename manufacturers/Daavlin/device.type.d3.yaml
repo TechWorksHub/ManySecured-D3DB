@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04235b96-4d74-4c97-a5dd-3a7a3fe6b95e
-  mac-addresses:
+  id: ad69a544-cd01-45bf-86cf-25f857ed6327
+  macAddresses:
   - 70:B3:D5:F2:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daavlin
 type: d3-device-type-assertion

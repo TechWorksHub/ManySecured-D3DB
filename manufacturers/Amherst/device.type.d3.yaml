@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 895066ce-1502-432b-8361-10e3d88987b0
-  mac-addresses:
+  id: 62bd3824-ca4d-4fe7-ab3d-335548c3a99b
+  macAddresses:
   - 00:10:F5:00:00:00/24
   manufacturer: Amherst Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amherst
 type: d3-device-type-assertion

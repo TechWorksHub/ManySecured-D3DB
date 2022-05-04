@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b32bfab0-4e85-422b-872b-f97faccccc01
-  mac-addresses:
+  id: 35316b96-6aef-4914-b355-469c5cf6b0d0
+  macAddresses:
   - 00:1B:C5:06:30:00/36
   manufacturer: Check-It Solutions Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Check-It
 type: d3-device-type-assertion

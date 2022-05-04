@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21886693-7e0e-4ab6-9fff-51f5305f41b1
-  mac-addresses:
+  id: bc27340f-bee7-4c49-83d0-c36779607d7b
+  macAddresses:
   - 00:1A:51:00:00:00/24
   manufacturer: Alfred Mann Foundation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlfredMa
 type: d3-device-type-assertion

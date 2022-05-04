@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f5660cc3-88b8-44e3-84bf-fe7f4e39b649
-  mac-addresses:
+  id: 0f58af66-c8f9-4a82-afcf-061ac2ccc60b
+  macAddresses:
   - 00:14:A4:00:00:00/24
   - 00:16:CE:00:00:00/24
   - 00:16:CF:00:00:00/24
@@ -144,6 +144,6 @@ credentialSubject:
   - F8:DA:0C:00:00:00/24
   - FC:01:7C:00:00:00/24
   manufacturer: Hon Hai Precision Ind. Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HonHaiPr
 type: d3-device-type-assertion

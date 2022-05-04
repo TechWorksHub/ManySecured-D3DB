@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 650b7657-9b77-4170-b8ff-f41897978064
-  mac-addresses:
+  id: b0a136c3-e42e-4502-b897-23762f463272
+  macAddresses:
   - 88:D2:BF:00:00:00/24
   manufacturer: German Autolabs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GermanAu
 type: d3-device-type-assertion

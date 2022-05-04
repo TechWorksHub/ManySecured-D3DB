@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54ba04f6-83b6-4371-8e09-072b69e07402
-  mac-addresses:
+  id: dc96a871-e730-479e-bb87-ba64d62157dd
+  macAddresses:
   - 00:23:28:00:00:00/24
   manufacturer: Alcon Telecommunications Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlconTel
 type: d3-device-type-assertion

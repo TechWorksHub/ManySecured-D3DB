@@ -1,6 +1,6 @@
 credentialSubject:
-  id: cccc9b80-6b26-48df-8033-bb839147f661
-  mac-addresses:
+  id: f8633942-683b-4375-9abc-588c20b27623
+  macAddresses:
   - 00:07:CB:00:00:00/24
   - 00:24:D4:00:00:00/24
   - 14:0C:76:00:00:00/24
@@ -13,6 +13,6 @@ credentialSubject:
   - E4:9E:12:00:00:00/24
   - F4:CA:E5:00:00:00/24
   manufacturer: Freebox Sas
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FreeboxS
 type: d3-device-type-assertion

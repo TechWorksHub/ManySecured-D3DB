@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 64cfddeb-eb00-4a79-b80a-e7f386d988b7
-  mac-addresses:
+  id: 8485931d-9f08-40ca-a503-39cc192a617e
+  macAddresses:
   - 00:50:C2:A9:40:00/36
   - 40:D8:55:01:60:00/36
   - 70:B3:D5:47:C0:00/36
   manufacturer: Par-Tech, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Par-Tech
 type: d3-device-type-assertion

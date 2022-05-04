@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3b652d5-2d53-4fea-aa7a-c59f294e4b2a
-  mac-addresses:
+  id: 9b7a3f27-e48c-46c5-81ec-5015044469a1
+  macAddresses:
   - 00:0F:5E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Veo
 type: d3-device-type-assertion

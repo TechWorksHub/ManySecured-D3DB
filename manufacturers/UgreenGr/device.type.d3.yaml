@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 517f4918-a904-4d88-8805-869f421a0ae5
-  mac-addresses:
+  id: 268f1efd-9ecd-4fb1-ba0b-6eaf63b9bf69
+  macAddresses:
   - 98:6E:E8:20:00:00/28
   manufacturer: Ugreen Group Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UgreenGr
 type: d3-device-type-assertion

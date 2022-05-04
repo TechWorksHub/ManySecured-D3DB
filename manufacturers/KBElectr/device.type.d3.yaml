@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11af61aa-1c30-4129-8eea-2f3190f81993
-  mac-addresses:
+  id: 37f58102-94c5-4ee2-b6ec-acc227e1c86e
+  macAddresses:
   - 00:06:AD:00:00:00/24
   manufacturer: KB Electronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KBElectr
 type: d3-device-type-assertion

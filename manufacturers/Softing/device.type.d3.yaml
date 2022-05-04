@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67f7b3ed-7ad5-498d-b5e8-e4b8c337b805
-  mac-addresses:
+  id: 443489c2-77b3-4b0c-8f97-ba17bd4864c7
+  macAddresses:
   - 00:06:71:00:00:00/24
   manufacturer: Softing AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Softing
 type: d3-device-type-assertion

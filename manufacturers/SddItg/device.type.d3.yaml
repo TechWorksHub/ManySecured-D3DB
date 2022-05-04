@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 666010ed-21da-4b57-a920-c59516089835
-  mac-addresses:
+  id: 32c60813-3e00-4f33-a1e9-e1c5f0bde100
+  macAddresses:
   - 00:50:C2:C8:E0:00/36
   manufacturer: Sdd Itg
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SddItg
 type: d3-device-type-assertion

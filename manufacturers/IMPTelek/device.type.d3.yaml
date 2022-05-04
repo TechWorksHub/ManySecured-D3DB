@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e946cf97-a01c-49dd-a3d3-d62a509ea704
-  mac-addresses:
+  id: 2356748a-bd6c-4c72-a396-9e1accfea596
+  macAddresses:
   - 00:50:C2:7B:00:00/36
   manufacturer: IMP Telekom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMPTelek
 type: d3-device-type-assertion

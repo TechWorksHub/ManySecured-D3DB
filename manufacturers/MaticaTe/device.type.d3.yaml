@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d23e19ad-81b7-435e-a8b1-bbe34374f7f9
-  mac-addresses:
+  id: 5e123abb-e484-4570-91e1-d6ddb69bfaf5
+  macAddresses:
   - BC:34:00:80:00:00/28
   manufacturer: Matica Technologies Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaticaTe
 type: d3-device-type-assertion

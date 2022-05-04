@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 78d16d1b-86cc-4eff-aaac-104f36919b93
-  mac-addresses:
+  id: 6ca0ad9b-3276-4979-a7b7-66550f8658f4
+  macAddresses:
   - 70:B3:D5:40:20:00/36
   - 70:B3:D5:FD:30:00/36
   manufacturer: AKIS technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AKIStech
 type: d3-device-type-assertion

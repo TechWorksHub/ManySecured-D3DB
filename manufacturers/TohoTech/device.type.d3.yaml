@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d68e86d7-cf2a-4ca6-946f-b90b33616103
-  mac-addresses:
+  id: c9f0d784-1f16-4138-a9a3-5f480db5e346
+  macAddresses:
   - 00:16:AC:00:00:00/24
   manufacturer: Toho Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TohoTech
 type: d3-device-type-assertion

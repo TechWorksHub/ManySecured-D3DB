@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6c2408f-bc91-4b1d-84fc-b5f3bec8e0c4
-  mac-addresses:
+  id: e7a553eb-cf4a-4029-a38c-a4d7f64a46f8
+  macAddresses:
   - 00:01:27:00:00:00/24
   manufacturer: OPEN Networks Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OPENNetw
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3669b8b-611d-4bda-b2fd-ce12601d7d95
-  mac-addresses:
+  id: 535fbbdd-1838-400f-9083-60e32c368a36
+  macAddresses:
   - D0:C8:57:00:00:00/28
   manufacturer: YUAN High-Tech Development Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YUANHigh
 type: d3-device-type-assertion

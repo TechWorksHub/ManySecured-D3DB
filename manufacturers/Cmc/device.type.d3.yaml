@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a45484b9-4611-450c-b6fe-96f1d84a69b2
-  mac-addresses:
+  id: 44e683a2-66ae-4c6e-83e0-5b2c8f79e43d
+  macAddresses:
   - 78:89:73:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cmc
 type: d3-device-type-assertion

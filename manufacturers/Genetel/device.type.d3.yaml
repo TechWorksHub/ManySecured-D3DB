@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5c624d2-ecd2-4898-88a0-9da07e00ae4a
-  mac-addresses:
+  id: 95e2494a-2393-4e4d-8ae7-6a6b2c161d31
+  macAddresses:
   - 00:06:42:00:00:00/24
   manufacturer: Genetel Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Genetel
 type: d3-device-type-assertion

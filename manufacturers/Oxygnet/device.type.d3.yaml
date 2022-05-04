@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94ee0a67-8e38-4321-a826-b50aac649154
-  mac-addresses:
+  id: c8ba5157-eee1-46b7-a25c-eb298f1ea78f
+  macAddresses:
   - 00:0B:50:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Oxygnet
 type: d3-device-type-assertion

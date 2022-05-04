@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e17f37c-a75d-4bbe-bdf6-d2146d18eb5e
-  mac-addresses:
+  id: dbbdb3bb-5544-4ef9-8882-eefde7a3ede4
+  macAddresses:
   - D0:58:75:00:00:00/24
   manufacturer: Active Control Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActiveCo
 type: d3-device-type-assertion

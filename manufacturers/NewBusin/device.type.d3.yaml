@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86af70c9-cdde-478a-805d-fa04644cd1a1
-  mac-addresses:
+  id: d7933ca4-13f1-4e09-854a-6a5874bd48f8
+  macAddresses:
   - 00:1C:80:00:00:00/24
   manufacturer: New Business Division/Rhea-Information CO., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewBusin
 type: d3-device-type-assertion

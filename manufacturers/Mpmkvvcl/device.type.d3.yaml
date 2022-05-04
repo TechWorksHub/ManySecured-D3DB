@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bcd7e9d-f1af-494d-a941-7ad4b7d9cb01
-  mac-addresses:
+  id: 4d3f08d3-45e6-4fcc-bddf-0ecef610a1b3
+  macAddresses:
   - 14:DD:E5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mpmkvvcl
 type: d3-device-type-assertion

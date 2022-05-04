@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96b0d903-a730-4566-9db9-6428ce29fec8
-  mac-addresses:
+  id: ef7542d3-3516-480b-9bea-62896ba690b4
+  macAddresses:
   - 70:B3:D5:0B:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aver
 type: d3-device-type-assertion

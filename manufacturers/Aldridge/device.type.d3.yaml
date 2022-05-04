@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dc033fa-d0b7-439e-b7df-587de49f89c5
-  mac-addresses:
+  id: a64f6379-ed99-4dc3-a38c-d52ef5a21058
+  macAddresses:
   - 70:B3:D5:84:80:00/36
   manufacturer: Aldridge Electrical Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aldridge
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 56087584-06a9-44a8-a7fa-86814a88eb21
-  mac-addresses:
+  id: bb3b66e5-3996-445d-8ba3-41c1b40de08b
+  macAddresses:
   - 68:84:70:00:00:00/24
   manufacturer: eSSys Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eSSys
 type: d3-device-type-assertion

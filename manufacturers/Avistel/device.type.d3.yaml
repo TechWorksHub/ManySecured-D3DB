@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 415ea357-7be5-4039-9121-9805d8bacbe0
-  mac-addresses:
+  id: 5c5ee2e0-cb9d-41db-91c5-8d7dc7094fe2
+  macAddresses:
   - 14:46:E4:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avistel
 type: d3-device-type-assertion

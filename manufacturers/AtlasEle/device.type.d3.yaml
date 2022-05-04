@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7123ccdb-c568-41a1-8af3-f7bf411fd84a
-  mac-addresses:
+  id: a12d7cd6-1f5f-4ba1-862a-546c6a7c431a
+  macAddresses:
   - 20:6A:FF:00:00:00/24
   manufacturer: Atlas Elektronik UK Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtlasEle
 type: d3-device-type-assertion

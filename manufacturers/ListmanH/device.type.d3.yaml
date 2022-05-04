@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d219ff5a-6718-49b6-9b1b-34e9301ccc67
-  mac-addresses:
+  id: 42d5aafd-9261-433f-b38b-a97265a0107e
+  macAddresses:
   - 00:09:16:00:00:00/24
   manufacturer: Listman Home Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ListmanH
 type: d3-device-type-assertion

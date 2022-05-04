@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 513b8405-4666-4c1e-bf6c-6e46461134f4
-  mac-addresses:
+  id: 66311f3c-5124-4040-8d5c-69152f947abb
+  macAddresses:
   - 70:B3:D5:02:50:00/36
   manufacturer: Elsuhd Net Ltd Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElsuhdNe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6cf5c816-4c34-42db-a927-45561be0b7b7
-  mac-addresses:
+  id: bd96a25b-8319-4844-8c1c-e58fd714acb6
+  macAddresses:
   - E0:84:F3:00:00:00/24
   manufacturer: High Grade Controls Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HighGrad
 type: d3-device-type-assertion

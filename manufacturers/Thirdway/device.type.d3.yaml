@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 08fa2ce9-00da-432c-a1d5-2dbd6bcfd9b1
-  mac-addresses:
+  id: ff80e338-59bc-48e4-bf05-94773c298474
+  macAddresses:
   - 40:D8:55:19:E0:00/36
   manufacturer: Thirdwayv Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Thirdway
 type: d3-device-type-assertion

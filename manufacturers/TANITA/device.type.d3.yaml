@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f993e59-8c66-444c-96a9-50cf3dbc8c1d
-  mac-addresses:
+  id: 493084ed-9924-481e-b4c4-ffa124abd3c1
+  macAddresses:
   - 00:1C:0C:00:00:00/24
   manufacturer: TANITA Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TANITA
 type: d3-device-type-assertion

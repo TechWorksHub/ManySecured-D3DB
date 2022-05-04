@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1c86e95-4c35-445d-b328-e9aed4a88fda
-  mac-addresses:
+  id: 3807d0b5-5aa8-4269-80d0-5f8c70690847
+  macAddresses:
   - 00:1D:61:00:00:00/24
   manufacturer: BIJ Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BIJ
 type: d3-device-type-assertion

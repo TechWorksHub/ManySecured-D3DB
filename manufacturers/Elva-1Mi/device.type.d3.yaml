@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f4ba46b-d4c2-4e1d-b977-84c1e47b2b89
-  mac-addresses:
+  id: 47252733-e9db-426e-a1bf-9e89377aa4b8
+  macAddresses:
   - 70:B3:D5:FA:30:00/36
   manufacturer: Elva-1 Microwave Handelsbolag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elva-1Mi
 type: d3-device-type-assertion

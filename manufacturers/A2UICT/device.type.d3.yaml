@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dbd443e9-6daf-4412-a64b-be43180dd216
-  mac-addresses:
+  id: bc093a5e-ecf8-4ec3-9f7a-d7d2a374273f
+  macAddresses:
   - F8:BE:0D:00:00:00/24
   manufacturer: A2UICT Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A2UICT
 type: d3-device-type-assertion

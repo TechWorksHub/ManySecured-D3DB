@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93b2ae22-0748-4a13-9e38-15d4d05bcfc1
-  mac-addresses:
+  id: 38d28cd8-12d8-4985-ab3c-4ad62974852c
+  macAddresses:
   - 00:1A:3D:00:00:00/24
   manufacturer: Ajin Vision Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AjinVisi
 type: d3-device-type-assertion

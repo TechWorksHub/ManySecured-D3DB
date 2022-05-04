@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 43dfbd55-de18-4df1-91d8-99b4e7942f7b
-  mac-addresses:
+  id: e06f22dd-a711-44d0-b1d9-9eab7bbe68c0
+  macAddresses:
   - 00:05:CA:00:00:00/24
   - 00:07:D8:00:00:00/24
   - 00:26:5B:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - FC:5A:1D:00:00:00/24
   - FC:77:7B:00:00:00/24
   manufacturer: Hitron Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HitronTe
 type: d3-device-type-assertion

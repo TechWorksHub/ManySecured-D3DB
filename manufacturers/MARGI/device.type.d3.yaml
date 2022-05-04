@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41c9fa9a-5b00-443e-a60b-5125cb788727
-  mac-addresses:
+  id: 318ad679-d64c-49e9-ac60-87c81f58d196
+  macAddresses:
   - 00:01:78:00:00:00/24
   manufacturer: MARGI Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MARGI
 type: d3-device-type-assertion

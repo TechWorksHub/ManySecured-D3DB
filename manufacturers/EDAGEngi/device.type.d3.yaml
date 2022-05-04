@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fedc17dc-8371-4762-af44-633b4b936a54
-  mac-addresses:
+  id: 384008cc-b9fe-490c-a11c-348df2c6767e
+  macAddresses:
   - CC:C2:61:40:00:00/28
   manufacturer: EDAG Engineering GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDAGEngi
 type: d3-device-type-assertion

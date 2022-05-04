@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a29bc07d-5f46-4771-8700-1a3a0dc222ba
-  mac-addresses:
+  id: dcaedabd-4962-4238-9901-1e63ea0f3acc
+  macAddresses:
   - 00:13:92:00:00:00/24
   - 00:1D:2E:00:00:00/24
   - 00:1F:41:00:00:00/24
@@ -74,6 +74,6 @@ credentialSubject:
   - F8:E7:1E:00:00:00/24
   - FC:5C:45:00:00:00/24
   manufacturer: Ruckus Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuckusWi
 type: d3-device-type-assertion

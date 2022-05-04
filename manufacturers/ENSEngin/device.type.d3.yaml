@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5d2a21e-9c6d-40b5-b4d6-7b901a6a2cf5
-  mac-addresses:
+  id: 4e1e3616-d200-4a85-a4cd-cbfafb124b10
+  macAddresses:
   - 70:B3:D5:98:30:00/36
   manufacturer: ENS Engineered Network Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ENSEngin
 type: d3-device-type-assertion

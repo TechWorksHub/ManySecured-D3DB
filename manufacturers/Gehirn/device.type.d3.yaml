@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94684089-ab25-4966-97c6-dd3ad2b42c96
-  mac-addresses:
+  id: ac01ea5f-7022-4e5c-973c-cef224904b63
+  macAddresses:
   - 5C:3B:35:00:00:00/24
   manufacturer: Gehirn Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gehirn
 type: d3-device-type-assertion

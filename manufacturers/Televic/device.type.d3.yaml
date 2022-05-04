@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 101620e2-7643-4044-be1d-531c6166460e
-  mac-addresses:
+  id: 8035f3d1-9b70-4639-a997-15de2090c0a6
+  macAddresses:
   - 00:0E:3D:00:00:00/24
   manufacturer: Televic N.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Televic
 type: d3-device-type-assertion

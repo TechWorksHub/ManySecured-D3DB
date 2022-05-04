@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9527864c-5b82-455b-9821-ffec7022592f
-  mac-addresses:
+  id: 36e55f91-d0c5-466b-b537-aedd7b17fe60
+  macAddresses:
   - 00:30:01:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smp
 type: d3-device-type-assertion

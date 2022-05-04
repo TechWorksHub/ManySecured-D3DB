@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c679bb8e-08d5-41e6-9095-186d935e5e23
-  mac-addresses:
+  id: 7f31a656-8529-4f5a-aa19-d7d85d79e55e
+  macAddresses:
   - E4:4C:C7:10:00:00/28
   manufacturer: ACS-Solutions GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACS-Solu
 type: d3-device-type-assertion

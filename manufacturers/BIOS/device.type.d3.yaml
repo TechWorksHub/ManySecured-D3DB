@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4752debe-7f8f-47ab-8346-d71f280a4d39
-  mac-addresses:
+  id: dec2fa23-3acb-4b01-bc5d-72edc3d82037
+  macAddresses:
   - D0:12:42:00:00:00/24
   manufacturer: BIOS Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BIOS
 type: d3-device-type-assertion

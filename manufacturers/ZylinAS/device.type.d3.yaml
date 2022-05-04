@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66852030-89ac-4430-a02b-35b0d625279d
-  mac-addresses:
+  id: 1effec68-3747-4082-be57-e11a2e93e889
+  macAddresses:
   - 00:23:23:00:00:00/24
   manufacturer: Zylin AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZylinAS
 type: d3-device-type-assertion

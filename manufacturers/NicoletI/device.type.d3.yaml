@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a4f3918-419c-49e7-abcb-7c4df5321089
-  mac-addresses:
+  id: 60930d89-0845-493b-94d7-1b5ff865e3a6
+  macAddresses:
   - 00:00:47:00:00:00/24
   manufacturer: Nicolet Instruments Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NicoletI
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 9748fec3-0ce5-4fcc-93e4-0a84cd053f1b
-  mac-addresses:
+  id: 7337b354-7813-4cb6-a5b5-7af707f41fc9
+  macAddresses:
   - 00:50:C2:84:B0:00/36
   - 00:50:C2:CC:F0:00/36
   - 00:50:C2:E7:80:00/36
@@ -9,6 +9,6 @@ credentialSubject:
   - 70:B3:D5:18:10:00/36
   - 70:B3:D5:96:10:00/36
   manufacturer: Task Sistemas De Computacao Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TaskSist
 type: d3-device-type-assertion

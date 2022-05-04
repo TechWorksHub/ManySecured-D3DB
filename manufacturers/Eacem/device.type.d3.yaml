@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ee654b5-b204-4525-9a13-6b772c0bfb33
-  mac-addresses:
+  id: 41c0e2df-f738-47b2-82ba-5b9cfdec9e82
+  macAddresses:
   - 00:B0:EC:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eacem
 type: d3-device-type-assertion

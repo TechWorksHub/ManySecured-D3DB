@@ -1,6 +1,6 @@
 credentialSubject:
-  id: bc5e6f0f-1e11-42de-8a3a-f775b9da6eec
-  mac-addresses:
+  id: 9dd08ce3-aa3d-463e-ba82-b621dbdcc3a8
+  macAddresses:
   - 00:05:B8:00:00:00/24
   - 00:05:DF:00:00:00/24
   - 00:0E:7D:00:00:00/24
@@ -31,6 +31,6 @@ credentialSubject:
   - E8:78:29:30:00:00/28
   - F8:FF:0B:00:00:00/24
   manufacturer: Electronic Design Associates, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Electron
 type: d3-device-type-assertion

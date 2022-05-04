@@ -1,8 +1,8 @@
 credentialSubject:
-  id: debba8c0-7e51-42ea-b8ba-9c965b7842fe
-  mac-addresses:
+  id: 11a5c59d-ef37-432b-b0df-127e947bb52c
+  macAddresses:
   - 00:17:AC:00:00:00/24
   manufacturer: O'Neil Product Development Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ONeilPro
 type: d3-device-type-assertion

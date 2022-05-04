@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3be8e63-d039-469c-822b-24172cfc2325
-  mac-addresses:
+  id: e35e9e38-fbf9-49b2-8c84-7da157086dab
+  macAddresses:
   - 00:14:93:00:00:00/24
   manufacturer: Systimax Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Systimax
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7100a1a-75c4-4245-9df9-9abfc5c14fde
-  mac-addresses:
+  id: c701137f-8b52-484b-b0a5-0c0a5150bef7
+  macAddresses:
   - 00:13:BB:00:00:00/24
   manufacturer: Smartvue Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartvue
 type: d3-device-type-assertion

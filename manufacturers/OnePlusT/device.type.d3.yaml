@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2ef7bca6-d0f9-444c-8c6b-53ba82045460
-  mac-addresses:
+  id: 6ba9059b-b61d-4047-a8a5-b6a362d5b0ee
+  macAddresses:
   - 30:BB:7D:00:00:00/24
   - 48:01:C5:00:00:00/24
   - 48:74:12:00:00:00/24
@@ -16,6 +16,6 @@ credentialSubject:
   - D0:49:7C:00:00:00/24
   - E4:41:22:00:00:00/24
   manufacturer: OnePlus Technology (Shenzhen) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OnePlusT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9397864-0b60-4016-b9d2-4ead69ffc16d
-  mac-addresses:
+  id: 75f06507-cd50-469c-a0e1-31c38cd17096
+  macAddresses:
   - 88:E6:03:00:00:00/24
   manufacturer: Avotek corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avotek
 type: d3-device-type-assertion

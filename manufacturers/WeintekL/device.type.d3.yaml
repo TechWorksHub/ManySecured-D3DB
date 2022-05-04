@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 18317e67-8a80-41f9-be62-53042ef294dc
-  mac-addresses:
+  id: 19ffdcb7-a6f4-475c-877e-c60e19ed2c55
+  macAddresses:
   - 00:0C:26:00:00:00/24
   manufacturer: Weintek Labs. Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeintekL
 type: d3-device-type-assertion

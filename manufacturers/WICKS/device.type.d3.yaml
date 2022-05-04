@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f921b31b-1ae4-4f21-a195-2e4b71ff5904
-  mac-addresses:
+  id: 1ad192b1-70b7-4ccf-affc-ed0340c2b9dc
+  macAddresses:
   - 3C:6A:2C:90:00:00/28
   manufacturer: WICKS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WICKS
 type: d3-device-type-assertion

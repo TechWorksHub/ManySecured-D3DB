@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42cd16fd-1a02-4db9-8104-a74b4133dc89
-  mac-addresses:
+  id: b0da8c3f-8cc4-4878-bebd-f0b7a6394ae4
+  macAddresses:
   - 00:50:C2:EB:F0:00/36
   manufacturer: Civolution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Civoluti
 type: d3-device-type-assertion

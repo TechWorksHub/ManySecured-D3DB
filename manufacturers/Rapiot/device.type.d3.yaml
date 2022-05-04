@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb952b47-6577-456e-856f-c66cbfb5d524
-  mac-addresses:
+  id: 19a1edfd-d23b-439a-894b-e67960ccd10d
+  macAddresses:
   - 70:B3:D5:26:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rapiot
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9b41bcb-cc02-4d92-8b81-ddb2d2beddcc
-  mac-addresses:
+  id: 87f8bcf4-2af9-4be6-8735-f99c9ba5bfed
+  macAddresses:
   - 00:09:8A:00:00:00/24
   manufacturer: EqualLogic Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EqualLog
 type: d3-device-type-assertion

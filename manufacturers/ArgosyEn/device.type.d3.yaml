@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0831bdc5-7c16-467f-9521-d0e98549a31e
-  mac-addresses:
+  id: dd06b04b-1e62-4d8e-ab26-830878a6e227
+  macAddresses:
   - 00:10:D7:00:00:00/24
   manufacturer: Argosy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArgosyEn
 type: d3-device-type-assertion

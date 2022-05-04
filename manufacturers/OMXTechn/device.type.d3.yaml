@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b87c64-5067-4d58-8435-a3b0acf447c5
-  mac-addresses:
+  id: 045c346d-c9ff-4417-8458-59193b78a330
+  macAddresses:
   - 94:AB:DE:00:00:00/24
   manufacturer: OMX Technology - FZE
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OMXTechn
 type: d3-device-type-assertion

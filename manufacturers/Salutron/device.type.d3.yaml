@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 230b9cad-94bb-435c-9ac8-736069ae781d
-  mac-addresses:
+  id: 09240e97-aaa2-45d7-afc9-f6377245c399
+  macAddresses:
   - 7C:FE:28:00:00:00/24
   manufacturer: Salutron Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Salutron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 787ad727-8383-4508-815b-6cf146f6f623
-  mac-addresses:
+  id: d92451e2-fc42-443d-9dc7-2dd1d54c3fbf
+  macAddresses:
   - 00:A0:90:00:00:00/24
   manufacturer: TimeStep Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TimeStep
 type: d3-device-type-assertion

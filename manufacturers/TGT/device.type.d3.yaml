@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24191b57-b19c-4c09-ab6e-42479a98c8be
-  mac-addresses:
+  id: 73590e2b-446c-444e-beb5-277d0e89fb55
+  macAddresses:
   - 7C:BA:CC:00:00:00/28
   manufacturer: TGT Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TGT
 type: d3-device-type-assertion

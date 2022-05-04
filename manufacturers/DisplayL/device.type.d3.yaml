@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6f1cb086-af45-49d4-affe-392594ef50ad
-  mac-addresses:
+  id: 0c8e7daf-d233-4a47-b0e9-16489ac76af5
+  macAddresses:
   - 00:0F:9D:00:00:00/24
   - 6C:A9:36:00:00:00/24
   manufacturer: DisplayLink (UK) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DisplayL
 type: d3-device-type-assertion

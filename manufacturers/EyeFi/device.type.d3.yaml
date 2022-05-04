@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cc57fa9-8781-4f11-b83c-439c71674143
-  mac-addresses:
+  id: cd1714cb-d34a-47e2-834e-9962c14b319a
+  macAddresses:
   - 00:18:56:00:00:00/24
   manufacturer: EyeFi, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EyeFi
 type: d3-device-type-assertion

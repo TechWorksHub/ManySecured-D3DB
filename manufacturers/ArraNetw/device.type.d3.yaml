@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a639acc5-c780-4818-a412-2a791e2e71b9
-  mac-addresses:
+  id: 2dee5f26-7248-428b-af7f-e6df3f357dd2
+  macAddresses:
   - F0:AA:0B:00:00:00/24
   manufacturer: Arra Networks/ Spectramesh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArraNetw
 type: d3-device-type-assertion

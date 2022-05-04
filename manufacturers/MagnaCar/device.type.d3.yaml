@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64689158-cc6e-4573-b81b-8b145466f9c5
-  mac-addresses:
+  id: 2727d141-cf0f-4d08-ab4a-ec109c819e67
+  macAddresses:
   - 00:18:B5:00:00:00/24
   manufacturer: Magna Carta
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagnaCar
 type: d3-device-type-assertion

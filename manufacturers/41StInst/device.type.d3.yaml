@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ad78f84-5285-41d8-b3d8-e0fd0d17f83c
-  mac-addresses:
+  id: 44995868-51c5-40fb-8b0c-93aca560f951
+  macAddresses:
   - 50:4C:7E:00:00:00/24
   manufacturer: The 41St Institute Of Cetc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 41StInst
 type: d3-device-type-assertion

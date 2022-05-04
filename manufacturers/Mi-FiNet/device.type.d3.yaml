@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46660e4d-ebbc-4875-b992-4f79cbec422c
-  mac-addresses:
+  id: 69e5bdbf-7732-417c-aa93-99651c19bfa8
+  macAddresses:
   - 70:B3:D5:41:10:00/36
   manufacturer: Mi-Fi Networks Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mi-FiNet
 type: d3-device-type-assertion

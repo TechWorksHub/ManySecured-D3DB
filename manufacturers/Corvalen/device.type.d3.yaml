@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9753554-62b6-4d3e-b7d8-17f59fcd2eae
-  mac-addresses:
+  id: 40597712-1204-4539-9332-e326b0b0118a
+  macAddresses:
   - 00:07:B8:00:00:00/24
   manufacturer: Corvalent Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corvalen
 type: d3-device-type-assertion

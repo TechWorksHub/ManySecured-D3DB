@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79114e31-6f63-44bf-a71d-3edc6b4b447d
-  mac-addresses:
+  id: 58003b8e-d0af-4239-a35b-cece99652eef
+  macAddresses:
   - 6C:4B:90:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LiteON
 type: d3-device-type-assertion

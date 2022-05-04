@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d26ed1f1-7de8-4b56-861f-f988df6c54c1
-  mac-addresses:
+  id: 42e791b2-c362-447e-bc2b-cb36df62d155
+  macAddresses:
   - E8:DF:F2:00:00:00/24
   manufacturer: PRF Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PRF
 type: d3-device-type-assertion

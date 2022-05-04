@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 900cb3e2-3465-4891-b693-99de4db42b56
-  mac-addresses:
+  id: c87af04f-3512-467f-9e55-3fd43966ccd6
+  macAddresses:
   - 00:50:C2:F4:30:00/36
   manufacturer: Special Systems Engineering Center LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpecialE
 type: d3-device-type-assertion

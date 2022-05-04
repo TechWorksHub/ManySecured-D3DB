@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09329f6e-f61f-4f10-b27c-9c01f703ccf3
-  mac-addresses:
+  id: b15a4a8c-f04d-4225-a1b8-1ce265ae2062
+  macAddresses:
   - 00:22:31:00:00:00/24
   manufacturer: SMT&C Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMT&C
 type: d3-device-type-assertion

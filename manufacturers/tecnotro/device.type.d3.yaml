@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f612d86-711b-4e3b-a9fc-3798da7f91aa
-  mac-addresses:
+  id: 10f04782-1a04-4665-a1fb-b44d804126b5
+  macAddresses:
   - D0:76:50:D0:00:00/28
   manufacturer: tecnotron elekronik gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: tecnotro
 type: d3-device-type-assertion

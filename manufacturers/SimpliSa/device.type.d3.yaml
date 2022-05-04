@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1e9cc48-d220-4637-a204-fc87d9e02680
-  mac-addresses:
+  id: e70226db-e988-4eac-89c2-c993ef0ecb79
+  macAddresses:
   - F8:51:28:00:00:00/24
   manufacturer: SimpliSafe
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SimpliSa
 type: d3-device-type-assertion

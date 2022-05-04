@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f77a7a57-d75e-4be8-b23f-5a7a69682a30
-  mac-addresses:
+  id: 794602c9-7d13-4658-94a1-10e4257488f4
+  macAddresses:
   - 40:D8:55:1B:10:00/36
   - 84:E0:F4:D0:00:00/28
   manufacturer: Logos 01 S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logos01
 type: d3-device-type-assertion

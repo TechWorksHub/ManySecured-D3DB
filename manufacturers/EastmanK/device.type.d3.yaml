@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f66ced0-1e5f-45e5-a113-f5c24153ac81
-  mac-addresses:
+  id: 9a22f441-02c6-48a2-94f2-8e46bc3cb3b7
+  macAddresses:
   - 00:07:5C:00:00:00/24
   manufacturer: Eastman Kodak Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EastmanK
 type: d3-device-type-assertion

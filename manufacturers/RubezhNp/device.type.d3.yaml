@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d1622ec-32da-4be9-ae6e-46e4a71efb94
-  mac-addresses:
+  id: 12ddce14-3d85-4c46-8e6d-c5e858693863
+  macAddresses:
   - 44:C3:9B:00:00:00/24
   manufacturer: Ooo Rubezh Npo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RubezhNp
 type: d3-device-type-assertion

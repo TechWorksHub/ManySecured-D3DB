@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aed07a92-92bd-4007-8b47-051057966546
-  mac-addresses:
+  id: e93547f9-b897-4e1f-94b6-bedf9570dd3a
+  macAddresses:
   - 00:18:17:00:00:00/24
   manufacturer: D. E. Shaw Research, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEShawRe
 type: d3-device-type-assertion

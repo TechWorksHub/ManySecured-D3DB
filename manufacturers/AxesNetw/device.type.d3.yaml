@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 279619d9-1b97-47b6-aa6d-661a161f3795
-  mac-addresses:
+  id: 7b8eefc4-943c-42c2-8082-58e34929b71b
+  macAddresses:
   - E0:56:F4:00:00:00/24
   manufacturer: AxesNetwork Solutions inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxesNetw
 type: d3-device-type-assertion

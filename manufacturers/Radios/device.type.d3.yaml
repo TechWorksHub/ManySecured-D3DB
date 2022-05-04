@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6be4e21-9553-42fb-8cb7-89e4a3b575fa
-  mac-addresses:
+  id: b62de35c-4487-495a-8c3d-db342433653b
+  macAddresses:
   - 4C:C6:02:00:00:00/24
   manufacturer: Radios, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radios
 type: d3-device-type-assertion

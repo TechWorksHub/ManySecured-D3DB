@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9f0a88b-fcb1-4149-b3ff-1f384e72dfa9
-  mac-addresses:
+  id: 4cbcdded-1212-480a-a21f-2ce8e4ca7a80
+  macAddresses:
   - 00:04:41:00:00:00/24
   manufacturer: Half Dome Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HalfDome
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6e79bbe-1097-4727-96cb-21fd0a18d3ef
-  mac-addresses:
+  id: 61627957-a424-46f5-9818-a31f86813580
+  macAddresses:
   - 80:20:E1:00:00:00/24
   manufacturer: BVBA DPTechnics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BVBADPTe
 type: d3-device-type-assertion

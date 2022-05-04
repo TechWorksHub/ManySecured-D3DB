@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d56966a-8ac3-4118-95c6-593bc8a62ea4
-  mac-addresses:
+  id: 548f6ff2-cf99-4bc1-8eac-e51ea2ffe1ac
+  macAddresses:
   - 00:1B:C5:0A:40:00/36
   manufacturer: Radmor S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radmor
 type: d3-device-type-assertion

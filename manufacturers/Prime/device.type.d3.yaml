@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 582b4754-fa44-47ee-8046-f3e8df8f986a
-  mac-addresses:
+  id: c2251e48-a6ce-4a16-b6f0-a9c3ba915a77
+  macAddresses:
   - 00:11:86:00:00:00/24
   manufacturer: Prime Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prime
 type: d3-device-type-assertion

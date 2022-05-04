@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 041a4293-535b-4929-b925-383c48329570
-  mac-addresses:
+  id: f81b3e94-de72-4982-b3c3-163bd87ac95e
+  macAddresses:
   - 00:E0:A4:00:00:00/24
   manufacturer: ESAOTE S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESAOTE
 type: d3-device-type-assertion

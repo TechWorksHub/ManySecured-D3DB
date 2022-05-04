@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07b7ef1c-b832-4f27-909b-a3e0cfd7c0fb
-  mac-addresses:
+  id: df34ff35-c8f1-4e6b-914a-1be0205dbf29
+  macAddresses:
   - DC:CB:A8:00:00:00/24
   manufacturer: Explora Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExploraT
 type: d3-device-type-assertion

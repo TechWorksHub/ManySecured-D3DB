@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d1835173-d577-4456-986d-7b7d754e84c5
-  mac-addresses:
+  id: 37fa5a4c-552c-4909-863d-28f13d47c867
+  macAddresses:
   - B8:87:1E:00:00:00/24
   - F8:33:76:00:00:00/24
   manufacturer: Good Mind Industries Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoodMind
 type: d3-device-type-assertion

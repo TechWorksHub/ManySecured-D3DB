@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e7a2692-6a07-4057-aa58-840a001776ef
-  mac-addresses:
+  id: 6c83b30c-5f12-4c4f-9f2a-22801fa442a6
+  macAddresses:
   - 00:50:C2:0A:A0:00/36
   manufacturer: Log-In, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Log-In
 type: d3-device-type-assertion

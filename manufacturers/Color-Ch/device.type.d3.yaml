@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69ac190f-563c-4fe2-85dc-6fce65dac3d9
-  mac-addresses:
+  id: 7ac8fa1d-c61d-47d2-aca9-48109a452ca6
+  macAddresses:
   - E4:25:E9:00:00:00/24
   manufacturer: Color-Chip
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Color-Ch
 type: d3-device-type-assertion

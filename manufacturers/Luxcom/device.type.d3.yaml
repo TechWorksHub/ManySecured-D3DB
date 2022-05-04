@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 793df67b-7f26-47d9-b513-4e954ce0d7c1
-  mac-addresses:
+  id: 18c32f2d-d726-4df4-b346-ef3e2faf653e
+  macAddresses:
   - 00:80:9C:00:00:00/24
   manufacturer: Luxcom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Luxcom
 type: d3-device-type-assertion

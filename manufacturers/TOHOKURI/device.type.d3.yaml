@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f443f249-5a2d-46db-9f45-24e818464880
-  mac-addresses:
+  id: f898f439-c4b1-4e72-a5e6-d58d53c17294
+  macAddresses:
   - 00:0B:DD:00:00:00/24
   manufacturer: TOHOKU RICOH Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOHOKURI
 type: d3-device-type-assertion

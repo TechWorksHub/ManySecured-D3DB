@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96fb0543-6fe0-4558-9794-7fc6bc431284
-  mac-addresses:
+  id: d1c30a2c-5ed7-4834-a77e-ee192b3a2e52
+  macAddresses:
   - F4:90:CB:C0:00:00/28
   manufacturer: Cheetah Medical
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CheetahM
 type: d3-device-type-assertion

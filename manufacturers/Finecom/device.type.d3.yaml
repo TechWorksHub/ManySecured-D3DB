@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8afb5774-bc20-42b6-a136-de30a6d6b211
-  mac-addresses:
+  id: 6927463b-c23e-4d05-854b-b2100a7e5e61
+  macAddresses:
   - 00:20:7E:00:00:00/24
   manufacturer: Finecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Finecom
 type: d3-device-type-assertion

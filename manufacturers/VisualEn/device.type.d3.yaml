@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc4c7b6e-f018-4c3f-b710-3ca1ad16cbf5
-  mac-addresses:
+  id: f4c8e7e9-d6a7-4d94-96fd-e649eb114997
+  macAddresses:
   - 70:B3:D5:6D:10:00/36
   manufacturer: Visual Engineering Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VisualEn
 type: d3-device-type-assertion

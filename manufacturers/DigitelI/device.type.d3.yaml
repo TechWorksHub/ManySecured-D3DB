@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c205f94-b07d-48c3-9c9d-7d6740dc89bf
-  mac-addresses:
+  id: fb76d1d8-b756-4545-9b3a-18a012d9b68f
+  macAddresses:
   - 00:04:6F:00:00:00/24
   manufacturer: Digitel S/A Industria Eletronica
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitelI
 type: d3-device-type-assertion

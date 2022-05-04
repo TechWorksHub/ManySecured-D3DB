@@ -1,6 +1,6 @@
 credentialSubject:
-  id: df3b72be-4357-41cd-9fd5-91e349a11a73
-  mac-addresses:
+  id: 34d071f2-ad28-4695-b85c-9d2eda3efa92
+  macAddresses:
   - 00:00:B4:00:00:00/24
   - 00:0E:2E:00:00:00/24
   - 00:1F:1F:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - 74:DA:38:00:00:00/24
   - 80:1F:02:00:00:00/24
   manufacturer: Edimax Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdimaxTe
 type: d3-device-type-assertion

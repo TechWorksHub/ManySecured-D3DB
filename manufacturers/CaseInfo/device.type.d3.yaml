@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ad304b1-68ad-4804-90a2-b4c81ea0d713
-  mac-addresses:
+  id: 00a57aed-d75e-4d7c-be11-ea70b674a64d
+  macAddresses:
   - 00:50:C2:09:90:00/36
   manufacturer: Case Information & Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CaseInfo
 type: d3-device-type-assertion

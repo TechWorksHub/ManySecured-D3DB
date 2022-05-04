@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdbb9f14-8621-4b1a-9c7a-0961064d6203
-  mac-addresses:
+  id: a0396c90-6397-45fb-9ab2-9a0cef09eb64
+  macAddresses:
   - 70:B3:D5:0F:30:00/36
   manufacturer: MonsoonRF, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MonsoonR
 type: d3-device-type-assertion

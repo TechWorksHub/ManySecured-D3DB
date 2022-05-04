@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16ba5188-6a41-4042-91b2-aaf0977ebdcf
-  mac-addresses:
+  id: a1779356-1837-4f1b-aaa8-fd753861ac2d
+  macAddresses:
   - 00:90:7E:00:00:00/24
   manufacturer: Vetronix Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vetronix
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ef64add5-1a06-4178-93d4-94f20b5ddc90
-  mac-addresses:
+  id: ab472cd1-3d7d-481c-b07c-6468851bb108
+  macAddresses:
   - 00:01:83:00:00:00/24
   - E0:1E:07:00:00:00/24
   manufacturer: Anite Telecoms
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AniteTel
 type: d3-device-type-assertion

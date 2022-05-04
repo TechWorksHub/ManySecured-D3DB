@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4042098c-5838-4dea-8642-eeab1b046b8b
-  mac-addresses:
+  id: b71fc031-d608-4f9a-a6a8-d4440b7920a1
+  macAddresses:
   - 00:07:7E:00:00:00/24
   manufacturer: Elrest GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elrest
 type: d3-device-type-assertion

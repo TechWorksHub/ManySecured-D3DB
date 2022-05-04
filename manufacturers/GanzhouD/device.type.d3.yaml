@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aebc407e-dff3-47ad-ac67-e1fd3f7c2e48
-  mac-addresses:
+  id: 565f8ad5-a654-4eaf-9fdb-42b43606ec68
+  macAddresses:
   - 24:15:10:50:00:00/28
   manufacturer: Ganzhou Dehuida Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GanzhouD
 type: d3-device-type-assertion

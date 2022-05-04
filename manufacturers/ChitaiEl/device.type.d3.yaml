@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ff2c34f-ef9a-42cd-aeeb-cdf3d28ab328
-  mac-addresses:
+  id: e11c4381-ee2c-4792-afc0-37236fd4b80f
+  macAddresses:
   - 58:49:BA:00:00:00/24
   manufacturer: Chitai Electronic Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChitaiEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24252036-d671-453a-9cf2-a5c2ad9a4602
-  mac-addresses:
+  id: 991a801a-1f9d-4e0c-a5fc-3c761c5c4663
+  macAddresses:
   - 00:06:B7:00:00:00/24
   manufacturer: TELEM GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TELEM
 type: d3-device-type-assertion

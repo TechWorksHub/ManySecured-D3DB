@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 01f4c5a8-d053-4d69-a151-b666e1db9f4a
-  mac-addresses:
+  id: 2300c0ec-ecf9-41d6-8f8e-bb750f3e6f7c
+  macAddresses:
   - 18:82:19:00:00:00/24
   - D8:96:E0:00:00:00/24
   manufacturer: Alibaba Cloud Computing Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlibabaC
 type: d3-device-type-assertion

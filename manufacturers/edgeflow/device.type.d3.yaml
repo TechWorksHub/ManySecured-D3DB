@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4d337949-2274-4d09-90b2-c85113da04cf
-  mac-addresses:
+  id: aba5bfb8-3d43-4e9d-a693-fbea96ae5a56
+  macAddresses:
   - 00:07:E6:00:00:00/24
   manufacturer: edgeflow Canada Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: edgeflow
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d42ad7a-4249-4481-8b4b-044432e83b5b
-  mac-addresses:
+  id: 7fe18dbf-eb70-40f7-acad-d09e4ea0a34c
+  macAddresses:
   - 70:B3:D5:58:40:00/36
   manufacturer: Sertone, a division of Opti-Knights Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sertonea
 type: d3-device-type-assertion

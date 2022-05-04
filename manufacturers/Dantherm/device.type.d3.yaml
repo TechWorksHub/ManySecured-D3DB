@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 0c417aee-60c4-4ff9-953c-f5a20e08462e
-  mac-addresses:
+  id: 21bb47df-bbaa-4a36-9204-75f0637a5e45
+  macAddresses:
   - 00:25:6F:00:00:00/24
   - 84:E0:F4:70:00:00/28
   - 8C:59:3C:C0:00:00/28
   manufacturer: Dantherm Power
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dantherm
 type: d3-device-type-assertion

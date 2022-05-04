@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c776e62-3442-4298-b711-4265a8df8866
-  mac-addresses:
+  id: 0eb94fab-4754-4455-9cf7-529c9d317027
+  macAddresses:
   - 00:00:F5:00:00:00/24
   manufacturer: Diamond Sales Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DiamondS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 656aa32e-7ea8-430f-9183-63af191b90c0
-  mac-addresses:
+  id: b80349fe-3bdb-40d7-a70e-902d99daeef4
+  macAddresses:
   - 00:0D:CF:00:00:00/24
   manufacturer: Cidra Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cidra
 type: d3-device-type-assertion

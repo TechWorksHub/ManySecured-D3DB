@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 93742182-af4c-488c-bdac-96395bdd9b0e
-  mac-addresses:
+  id: b7abb856-ac95-43fd-9b7b-4f04af7ea27c
+  macAddresses:
   - 00:50:C2:58:E0:00/36
   - 50:DE:19:D0:00:00/28
   manufacturer: Penny & Giles Aerospace Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PennyGil
 type: d3-device-type-assertion

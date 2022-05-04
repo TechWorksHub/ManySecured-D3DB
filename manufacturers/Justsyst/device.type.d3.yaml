@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ded996f-0aac-4cde-b2ea-95c225ce9a98
-  mac-addresses:
+  id: b6de8862-68f9-4815-8f7a-a756a0661225
+  macAddresses:
   - 00:80:9B:00:00:00/24
   manufacturer: Justsystem Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Justsyst
 type: d3-device-type-assertion

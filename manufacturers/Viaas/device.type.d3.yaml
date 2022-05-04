@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cadf7866-d911-4769-a351-3372c70b93b6
-  mac-addresses:
+  id: f17529e7-49b1-4e71-98d6-a5e2c7cedcbc
+  macAddresses:
   - 00:25:19:00:00:00/24
   manufacturer: Viaas Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viaas
 type: d3-device-type-assertion

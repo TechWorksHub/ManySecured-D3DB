@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d50f868-9690-429f-8015-af043ee1fcae
-  mac-addresses:
+  id: ccb918ba-75f6-4260-9c7f-04bec8f65aec
+  macAddresses:
   - 00:13:3E:00:00:00/24
   manufacturer: MetaSwitch
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MetaSwit
 type: d3-device-type-assertion

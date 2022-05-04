@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 961d9586-d9dc-4299-8168-0978f9ec8a03
-  mac-addresses:
+  id: 287e9aaa-dd74-42c6-b2c0-48d01964c7b1
+  macAddresses:
   - 70:B3:D5:84:B0:00/36
   manufacturer: QuestHouse, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QuestHou
 type: d3-device-type-assertion

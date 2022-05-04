@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f26694a-d1f8-4aa4-87fe-0327bf688234
-  mac-addresses:
+  id: 90a2c3c8-f824-4411-861b-a6f338d97fa6
+  macAddresses:
   - 7C:BC:84:00:00:00/28
   manufacturer: AG Neovo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neovo
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 0ecd8829-1c97-4673-8a1f-2350d7bf3fa2
-  mac-addresses:
+  id: 5bcb1eb5-461a-4f39-ac50-0fc794247517
+  macAddresses:
   - 00:00:C5:00:00:00/24
   - 00:00:CA:00:00:00/24
   - 00:03:E0:00:00:00/24
@@ -345,6 +345,6 @@ credentialSubject:
   - FC:8E:7E:00:00:00/24
   - FC:AE:34:00:00:00/24
   manufacturer: ARRIS Group, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARRISGro
 type: d3-device-type-assertion

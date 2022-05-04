@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d77ec3b6-d07a-4572-93c3-8e9dff43df12
-  mac-addresses:
+  id: 9ad3531b-9b19-4c2a-aced-1cdf646b27bb
+  macAddresses:
   - 20:85:93:80:00:00/28
   manufacturer: Aasset Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AassetSe
 type: d3-device-type-assertion

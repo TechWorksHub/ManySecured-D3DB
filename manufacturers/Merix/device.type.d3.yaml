@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68946aaa-338e-4210-8b6c-e6dc8362adc4
-  mac-addresses:
+  id: 6d20812c-e971-4db0-845e-a5628d845f42
+  macAddresses:
   - 00:02:9D:00:00:00/24
   manufacturer: Merix Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Merix
 type: d3-device-type-assertion

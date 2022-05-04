@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f447b15-4a15-4e5e-9195-c87ba6f56df9
-  mac-addresses:
+  id: 5bc88f2b-50df-4a7c-a6a8-b7c33965cdbb
+  macAddresses:
   - 40:D8:55:04:D0:00/36
   manufacturer: MACHINEPERFORMANCE ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MACHINEP
 type: d3-device-type-assertion

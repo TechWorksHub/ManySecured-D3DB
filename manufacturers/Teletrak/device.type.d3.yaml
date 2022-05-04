@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 835253fa-9674-4570-81df-35b0ef89914e
-  mac-addresses:
+  id: 6d9874ac-7f88-42fb-9733-028783edac50
+  macAddresses:
   - 00:1B:6F:00:00:00/24
   manufacturer: Teletrak Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teletrak
 type: d3-device-type-assertion

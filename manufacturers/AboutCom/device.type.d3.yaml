@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d8c7ca2-a6b8-4ea0-b678-6b28151cd523
-  mac-addresses:
+  id: a2dd8450-bc4b-4388-acd6-cd5cae4a2851
+  macAddresses:
   - 00:C0:F8:00:00:00/24
   manufacturer: About Computing Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AboutCom
 type: d3-device-type-assertion

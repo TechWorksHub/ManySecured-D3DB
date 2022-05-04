@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8c71138d-76cf-44c7-94d8-b4a2ff6cd0da
-  mac-addresses:
+  id: e3f86703-27ff-4084-9f2c-f79983237f36
+  macAddresses:
   - 70:D8:80:00:00:00/24
   manufacturer: Upos System sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UposSyst
 type: d3-device-type-assertion

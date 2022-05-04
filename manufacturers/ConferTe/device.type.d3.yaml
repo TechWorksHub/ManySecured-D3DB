@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51ed0864-02a7-47e7-99ba-3a27888ebc16
-  mac-addresses:
+  id: 4d8ce119-8211-4550-9e71-81a934937310
+  macAddresses:
   - 00:60:8B:00:00:00/24
   manufacturer: ConferTech International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConferTe
 type: d3-device-type-assertion

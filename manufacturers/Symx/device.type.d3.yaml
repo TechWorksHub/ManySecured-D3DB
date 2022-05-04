@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6df9ab43-4969-46f9-938d-2d25f0c85e76
-  mac-addresses:
+  id: 0623cff7-7660-4c1c-9814-0563b8a177ab
+  macAddresses:
   - 00:1E:A2:00:00:00/24
   manufacturer: Symx Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symx
 type: d3-device-type-assertion

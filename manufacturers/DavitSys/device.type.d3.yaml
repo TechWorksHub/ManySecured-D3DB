@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6b0730b6-8b22-4689-bf8a-605ac88142c0
-  mac-addresses:
+  id: cb6cdf90-0073-4491-88f7-66841eb2d184
+  macAddresses:
   - 48:6E:FB:00:00:00/24
   manufacturer: Davit System Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DavitSys
 type: d3-device-type-assertion

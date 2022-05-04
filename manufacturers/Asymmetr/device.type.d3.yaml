@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8832ad5-3ec8-4d50-ba1c-c50d592bd861
-  mac-addresses:
+  id: 2ac80684-a705-45c2-afc8-6fc6a15edd28
+  macAddresses:
   - 70:B3:D5:9F:80:00/36
   manufacturer: Asymmetric Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asymmetr
 type: d3-device-type-assertion

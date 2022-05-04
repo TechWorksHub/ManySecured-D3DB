@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 13598849-84a9-43f6-a22f-3ba2dbea5ef4
-  mac-addresses:
+  id: 1888c7e2-03c5-4691-9b34-1e41eedc748a
+  macAddresses:
   - 00:1E:59:00:00:00/24
   manufacturer: Silicon Turnkey Express, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiliconT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14eccf01-432f-4917-8f40-25ff55f6cae1
-  mac-addresses:
+  id: d3fd0b53-c35e-4579-b470-ec8a55f38ef2
+  macAddresses:
   - 38:08:FD:00:00:00/24
   manufacturer: Silca Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silca
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23b43d54-fedb-4aca-96ba-03104a7e95b1
-  mac-addresses:
+  id: 96449ff3-b4f6-4460-aa6a-9c30f03f77fd
+  macAddresses:
   - 00:E0:6A:00:00:00/24
   manufacturer: Kapsch Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kapsch
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ccb0054-11ee-4f8a-a1e7-136352bf2ae2
-  mac-addresses:
+  id: 17dea2a6-6d16-4cbb-aeb5-0ba1d1c7b22a
+  macAddresses:
   - 00:30:7E:00:00:00/24
   manufacturer: Redflex Communication Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedflexC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f083a2a7-eb33-4cc7-852c-c993b25c27a9
-  mac-addresses:
+  id: 23737277-f999-4a09-84de-1611e0413691
+  macAddresses:
   - 34:81:37:00:00:00/24
   manufacturer: Unicard Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unicard
 type: d3-device-type-assertion

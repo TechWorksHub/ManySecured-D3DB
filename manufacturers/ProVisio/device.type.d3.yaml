@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa6b8f4d-5c4a-48ad-b86a-7583ddd0b46a
-  mac-addresses:
+  id: 62de081c-e4d9-47af-9998-4701ed4ff337
+  macAddresses:
   - 00:22:E9:00:00:00/24
   manufacturer: ProVision Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProVisio
 type: d3-device-type-assertion

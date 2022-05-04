@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b06b8af7-4d81-4712-b01a-4cb1acc69433
-  mac-addresses:
+  id: 37212c1c-dddc-4879-a76b-c4784bd316dd
+  macAddresses:
   - 68:79:12:40:00:00/28
   manufacturer: McDonald's Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: McDonald
 type: d3-device-type-assertion

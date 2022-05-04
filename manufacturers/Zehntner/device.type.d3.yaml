@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73fee1ea-364b-49da-a81e-09807fbaf7e1
-  mac-addresses:
+  id: 11a9419f-328a-4dc3-9e5c-ca0e31063c6f
+  macAddresses:
   - 70:B3:D5:26:70:00/36
   manufacturer: Zehntner Testing Instruments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zehntner
 type: d3-device-type-assertion

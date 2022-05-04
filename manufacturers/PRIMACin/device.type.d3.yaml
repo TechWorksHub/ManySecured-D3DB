@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfbf2760-3124-4f5b-a5d0-7b9ee520b224
-  mac-addresses:
+  id: dfc93981-b738-487f-a9c9-cfc92595ae77
+  macAddresses:
   - 1C:5C:55:00:00:00/24
   manufacturer: PRIMA Cinema, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PRIMACin
 type: d3-device-type-assertion

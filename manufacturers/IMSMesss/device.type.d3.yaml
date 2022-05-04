@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39e140a8-1db3-4939-b11c-c9fabf101972
-  mac-addresses:
+  id: c9794d09-c883-4eb6-9c82-183bc51a79af
+  macAddresses:
   - 1C:48:40:00:00:00/24
   manufacturer: IMS Messsysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMSMesss
 type: d3-device-type-assertion

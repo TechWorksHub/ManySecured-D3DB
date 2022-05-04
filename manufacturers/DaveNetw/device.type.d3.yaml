@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52eb9205-5a0a-4ef6-8b09-a7165800e8ef
-  mac-addresses:
+  id: fa694821-bef9-428c-918d-f513c87c19dd
+  macAddresses:
   - 00:15:7C:00:00:00/24
   manufacturer: Dave Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DaveNetw
 type: d3-device-type-assertion

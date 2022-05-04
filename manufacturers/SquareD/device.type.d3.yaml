@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d647aea4-d4e7-45d0-9339-ef3f32262ff4
-  mac-addresses:
+  id: 54c6f982-9b18-4535-8e1e-e6e35e59622f
+  macAddresses:
   - 00:80:67:00:00:00/24
   manufacturer: Square D Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SquareD
 type: d3-device-type-assertion

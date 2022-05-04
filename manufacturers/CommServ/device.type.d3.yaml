@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a7be840-45ec-4b4a-bed4-ad31edd9ac71
-  mac-addresses:
+  id: 0bdf995c-ba95-402e-bb50-6b0f9fe260bd
+  macAddresses:
   - 00:50:C2:15:60:00/36
   manufacturer: CommServ Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CommServ
 type: d3-device-type-assertion

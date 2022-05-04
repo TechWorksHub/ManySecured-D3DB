@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aef0c49e-f47f-4f30-b3ca-5f89bce81fd1
-  mac-addresses:
+  id: 5c55df26-5672-49e2-afea-426a43b110de
+  macAddresses:
   - B8:19:99:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nesys
 type: d3-device-type-assertion

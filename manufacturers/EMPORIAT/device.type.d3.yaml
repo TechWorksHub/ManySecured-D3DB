@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 949eb12c-b1c9-4c5d-b718-bd4f6181dc74
-  mac-addresses:
+  id: 7ca64848-73bd-4d31-a207-df05e4de71f7
+  macAddresses:
   - 84:29:14:00:00:00/24
   manufacturer: EMPORIA TELECOM Produktions- und VertriebsgesmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMPORIAT
 type: d3-device-type-assertion

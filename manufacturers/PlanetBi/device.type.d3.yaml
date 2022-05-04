@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f57d5da0-2d49-4d4b-835a-1b839bb426af
-  mac-addresses:
+  id: 5eedc235-4d90-44c6-bae8-7dd49ad4535c
+  macAddresses:
   - 08:0A:4E:00:00:00/24
   manufacturer: "Planet Bingo\xAE \u2014 3rd Rock Gaming\xAE"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlanetBi
 type: d3-device-type-assertion

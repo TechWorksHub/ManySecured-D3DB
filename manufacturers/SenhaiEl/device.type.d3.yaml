@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64e861b7-aa61-4144-bac2-ea54cbd58e66
-  mac-addresses:
+  id: abe1cccb-1d2e-4583-87c9-33db6b78486d
+  macAddresses:
   - 00:14:AB:00:00:00/24
   manufacturer: Senhai Electronic Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenhaiEl
 type: d3-device-type-assertion

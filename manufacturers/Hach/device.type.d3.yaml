@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09d65aad-b714-4717-9b2f-e8ebc42910b7
-  mac-addresses:
+  id: da9b477d-7005-4944-931e-43f68d69f292
+  macAddresses:
   - 00:0E:1C:00:00:00/24
   manufacturer: Hach Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hach
 type: d3-device-type-assertion

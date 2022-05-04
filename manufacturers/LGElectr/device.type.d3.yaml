@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 068a0a85-1c1d-485b-b99e-533660402ace
-  mac-addresses:
+  id: cc02900e-5686-4683-b38b-50616069a4ac
+  macAddresses:
   - 00:1C:62:00:00:00/24
   - 00:1E:75:00:00:00/24
   - 00:1F:6B:00:00:00/24
@@ -107,6 +107,6 @@ credentialSubject:
   - F8:95:C7:00:00:00/24
   - F8:A9:D0:00:00:00/24
   manufacturer: LG Electronics (Mobile Communications)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LGElectr
 type: d3-device-type-assertion

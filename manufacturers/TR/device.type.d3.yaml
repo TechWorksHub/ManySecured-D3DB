@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8f25cb6-3d1f-46fc-9903-2c2f975f7107
-  mac-addresses:
+  id: e6f0c089-7d0c-4f23-9e83-2781cb6d8f5f
+  macAddresses:
   - 00:50:C2:27:70:00/36
   manufacturer: T/R Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TR
 type: d3-device-type-assertion

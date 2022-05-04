@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2849d29-1f94-492b-b5e1-e359e7bf89b8
-  mac-addresses:
+  id: 2f217037-9237-41a4-b046-76468d037441
+  macAddresses:
   - 00:50:C2:A3:E0:00/36
   manufacturer: Duevi Snc Di Mora E Santese
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DueviSnc
 type: d3-device-type-assertion

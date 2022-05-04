@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 551b26c3-8bd8-4314-a31b-34133be85cf9
-  mac-addresses:
+  id: b9e82004-ed4c-4c36-9b9e-104a1e9eb699
+  macAddresses:
   - 00:50:C2:58:10:00/36
   manufacturer: Devitech ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Devitech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da2e1d63-c0d3-461d-946c-19f5b4db24b3
-  mac-addresses:
+  id: eda00323-90bb-4511-acbe-443eab2f888f
+  macAddresses:
   - 54:FF:82:00:00:00/24
   manufacturer: Davit Solution co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DavitSol
 type: d3-device-type-assertion

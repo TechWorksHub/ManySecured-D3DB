@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f21a637-7256-4c4f-a281-dc47e2d1b399
-  mac-addresses:
+  id: 7085beef-e88b-414b-9464-9dfb3ffe4bbe
+  macAddresses:
   - 14:2F:FD:00:00:00/24
   manufacturer: Lt Security Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LtSecuri
 type: d3-device-type-assertion

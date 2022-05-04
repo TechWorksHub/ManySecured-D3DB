@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5432e7af-555c-4f0d-908e-24251f8444e8
-  mac-addresses:
+  id: 36e3a36a-4ee4-4697-9816-7c0bb9c4db6e
+  macAddresses:
   - 00:02:0D:00:00:00/24
   manufacturer: Micronpc.com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micronpc
 type: d3-device-type-assertion

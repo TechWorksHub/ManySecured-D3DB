@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d299e0eb-7654-4e10-a6c2-3667a10e3da3
-  mac-addresses:
+  id: 3d03d2ed-9bbd-4a58-9872-1a681a14a2b8
+  macAddresses:
   - 00:50:C2:87:E0:00/36
   manufacturer: Scm Products, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScmProdu
 type: d3-device-type-assertion

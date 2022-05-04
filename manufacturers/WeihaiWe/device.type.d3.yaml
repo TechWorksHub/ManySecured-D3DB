@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bbf6b23-cbbb-4895-8596-d3d56a74a0f5
-  mac-addresses:
+  id: 0a696561-9b0f-46a8-bd62-d827b8702661
+  macAddresses:
   - 70:B3:D5:53:40:00/36
   manufacturer: Weihai Weigao Medical Imaging Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeihaiWe
 type: d3-device-type-assertion

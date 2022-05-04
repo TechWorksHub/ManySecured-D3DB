@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7fa7764-d2a6-4143-b9a4-f3c8667b804f
-  mac-addresses:
+  id: 1eaa8c7c-1fa0-4906-8e23-08ef60d8c231
+  macAddresses:
   - 00:50:C2:9D:C0:00/36
   manufacturer: FTM Marketing Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FTMMarke
 type: d3-device-type-assertion

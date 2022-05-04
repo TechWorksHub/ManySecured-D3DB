@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bc11f7a-1487-4b98-b0bc-1345cf1992f1
-  mac-addresses:
+  id: a741d1e1-30d4-4484-8429-94da45bac091
+  macAddresses:
   - 08:51:14:00:00:00/24
   manufacturer: Qingdao Topscomm Communication Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QingdaoT
 type: d3-device-type-assertion

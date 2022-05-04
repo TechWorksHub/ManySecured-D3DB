@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a61a43b-8550-4b92-9146-7edbf22057c0
-  mac-addresses:
+  id: a9e479a5-d6e8-4441-b8d8-d27a1ab5b9e9
+  macAddresses:
   - 00:50:C2:BE:90:00/36
   manufacturer: Zucchetti Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zucchett
 type: d3-device-type-assertion

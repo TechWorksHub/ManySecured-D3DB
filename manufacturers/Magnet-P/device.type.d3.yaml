@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f05d782-5b55-4961-af44-2e062c7f1a09
-  mac-addresses:
+  id: 6ed9972d-94a1-4b07-8251-c584a7f26b52
+  macAddresses:
   - 8C:1F:64:C9:70:00/36
   manufacturer: Magnet-Physik Dr. Steingroever GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magnet-P
 type: d3-device-type-assertion

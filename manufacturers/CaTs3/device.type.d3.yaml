@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94ee7a7b-4bc4-4657-be88-d53a8e4e3b58
-  mac-addresses:
+  id: f43ffe56-eb71-41b9-bb71-29ffc4d0786c
+  macAddresses:
   - 00:50:C2:99:C0:00/36
   manufacturer: CaTs3 Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CaTs3
 type: d3-device-type-assertion

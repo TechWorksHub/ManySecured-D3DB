@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebabbdae-7946-4fd7-a169-34bf1e0d7097
-  mac-addresses:
+  id: 31636713-4028-4efd-89de-1601d49343d5
+  macAddresses:
   - 00:18:61:00:00:00/24
   manufacturer: Ooma, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ooma
 type: d3-device-type-assertion

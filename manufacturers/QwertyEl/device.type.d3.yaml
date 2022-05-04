@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b787c755-c9c7-4ece-9bfd-6844fd37dfb7
-  mac-addresses:
+  id: 05787aab-34de-4d04-98cb-076721a877be
+  macAddresses:
   - 00:14:36:00:00:00/24
   manufacturer: Qwerty Elektronik AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QwertyEl
 type: d3-device-type-assertion

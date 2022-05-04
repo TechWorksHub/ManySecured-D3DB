@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3cdb3d3b-bc5a-4143-b0fb-86368b92d07d
-  mac-addresses:
+  id: 7c152556-617c-47be-af64-3d8ad4b95d30
+  macAddresses:
   - 00:15:9E:00:00:00/24
   manufacturer: Mad Catz Interactive Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MadCatzI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83b2ce32-e7e9-4fce-9ba8-66486a678cc0
-  mac-addresses:
+  id: 54dde7d1-976b-44e3-8dfa-398977d100d8
+  macAddresses:
   - 00:1E:3E:00:00:00/24
   manufacturer: KMW Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KMW
 type: d3-device-type-assertion

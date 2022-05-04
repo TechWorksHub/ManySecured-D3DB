@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6f5ff18-2999-4169-bbff-b10bab66e0dd
-  mac-addresses:
+  id: c7eead14-ac2d-436f-acbc-9af793c27934
+  macAddresses:
   - 40:D8:55:0D:10:00/36
   manufacturer: Cantada Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cantada
 type: d3-device-type-assertion

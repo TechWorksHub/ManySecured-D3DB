@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7447f45e-252f-4853-818f-e549950ebaea
-  mac-addresses:
+  id: c149dbe5-62ca-44f4-8173-e4b51e8e7bc6
+  macAddresses:
   - 00:0F:30:00:00:00/24
   manufacturer: Raza Microelectronics Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RazaMicr
 type: d3-device-type-assertion

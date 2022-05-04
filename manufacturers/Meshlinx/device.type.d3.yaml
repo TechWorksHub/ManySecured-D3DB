@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dc036c7-e11c-44ef-9ad1-5c801e6ed6cf
-  mac-addresses:
+  id: 0892a43d-efd3-40e1-9419-fe3de3acd0cd
+  macAddresses:
   - 00:1A:52:00:00:00/24
   manufacturer: Meshlinx Wireless Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meshlinx
 type: d3-device-type-assertion

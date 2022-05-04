@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 153ba697-e722-4e08-a4ef-aff34c85652d
-  mac-addresses:
+  id: 455793b8-8036-463f-a0f4-b825a70e1542
+  macAddresses:
   - 70:B3:D5:65:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Roush
 type: d3-device-type-assertion

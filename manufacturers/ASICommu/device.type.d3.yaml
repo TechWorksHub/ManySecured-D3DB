@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51c084a5-a9fc-46d5-b68a-70b6abf083cd
-  mac-addresses:
+  id: 207a5726-dee4-43c2-aeda-525ba8b26ef7
+  macAddresses:
   - 00:1A:33:00:00:00/24
   manufacturer: ASI Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ASICommu
 type: d3-device-type-assertion

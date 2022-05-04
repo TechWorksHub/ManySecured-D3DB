@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c07d1964-a074-4c9e-89fb-d3042157d7fe
-  mac-addresses:
+  id: b36654e1-b848-46b5-b88a-955f10f1d1e9
+  macAddresses:
   - 04:EE:E8:90:00:00/28
   manufacturer: Privacy Hero
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrivacyH
 type: d3-device-type-assertion

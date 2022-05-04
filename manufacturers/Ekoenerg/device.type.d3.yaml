@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2ae2d5c-b86d-4e46-aeca-699d0641061d
-  mac-addresses:
+  id: a81f2f47-a0d6-487c-bd40-46941615db22
+  macAddresses:
   - 78:D4:F1:30:00:00/28
   manufacturer: Ekoenergetyka - Polska S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ekoenerg
 type: d3-device-type-assertion

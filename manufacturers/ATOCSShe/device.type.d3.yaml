@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdee6927-d9fd-4887-9df0-cc047b3f94f5
-  mac-addresses:
+  id: 9ef5293c-1777-461b-871d-02c4cbc17954
+  macAddresses:
   - 04:2F:56:00:00:00/24
   manufacturer: ATOCS (Shenzhen) LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATOCSShe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a70410b-74b4-4db0-a1be-d84bbdbdc2e7
-  mac-addresses:
+  id: 27c56d21-7bab-47fd-b88f-5368364e3911
+  macAddresses:
   - 00:C0:3F:00:00:00/24
   manufacturer: Stores Automated Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StoresAu
 type: d3-device-type-assertion

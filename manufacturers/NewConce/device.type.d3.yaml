@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99707d96-16f4-44fc-acc6-7b374379a831
-  mac-addresses:
+  id: 808749d9-ff5d-4f7b-88e4-5104b5c2ae09
+  macAddresses:
   - 00:23:A4:00:00:00/24
   manufacturer: New Concepts Development Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewConce
 type: d3-device-type-assertion

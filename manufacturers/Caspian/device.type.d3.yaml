@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 460b69ce-e252-4f93-829a-ee495e2caf22
-  mac-addresses:
+  id: a3790662-65f6-4e98-b5dc-b24a8b34c4b9
+  macAddresses:
   - 00:16:D2:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Caspian
 type: d3-device-type-assertion

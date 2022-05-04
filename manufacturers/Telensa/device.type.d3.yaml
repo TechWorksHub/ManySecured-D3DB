@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23edf44f-5160-4a80-b108-0e5939c360a5
-  mac-addresses:
+  id: ba7565ac-b879-4949-98aa-fd0680cf518c
+  macAddresses:
   - 70:B3:D5:56:C0:00/36
   manufacturer: Telensa Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telensa
 type: d3-device-type-assertion

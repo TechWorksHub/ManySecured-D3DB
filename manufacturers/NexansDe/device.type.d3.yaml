@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 073e4789-7825-4532-b372-19362631ffb0
-  mac-addresses:
+  id: b4fc47c4-c30d-4948-9942-9e8cb6cc7bce
+  macAddresses:
   - 00:C0:29:00:00:00/24
   manufacturer: Nexans Deutschland GmbH - ANS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NexansDe
 type: d3-device-type-assertion

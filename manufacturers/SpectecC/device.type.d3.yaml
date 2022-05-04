@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 683b8b0b-b07b-4bbc-b95c-8102d15a5354
-  mac-addresses:
+  id: d1a77873-7232-4ddb-8319-a92759d19871
+  macAddresses:
   - 00:12:E6:00:00:00/24
   manufacturer: Spectec Computer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpectecC
 type: d3-device-type-assertion

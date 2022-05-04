@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb2cce29-4d3d-4143-a7b2-5c9f3dcb9fd2
-  mac-addresses:
+  id: 26f8a39e-e802-4193-bab1-049a0cc81e85
+  macAddresses:
   - 2C:D1:41:C0:00:00/28
   manufacturer: PIN SHANG LED Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PINSHANG
 type: d3-device-type-assertion

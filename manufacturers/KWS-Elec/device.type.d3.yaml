@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 85b96a23-1310-43d5-a378-fbb3467937da
-  mac-addresses:
+  id: 6917915b-6796-4dcb-b29b-ca95dfcd3b44
+  macAddresses:
   - 00:50:C2:A2:C0:00/36
   - 70:B3:D5:EB:30:00/36
   manufacturer: KWS-Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KWS-Elec
 type: d3-device-type-assertion

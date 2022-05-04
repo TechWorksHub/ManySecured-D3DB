@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa8cb466-7b5d-4402-9e13-16a662d78fd9
-  mac-addresses:
+  id: 108ad9e4-311d-42a9-9431-f4de546c4a9e
+  macAddresses:
   - 00:50:C2:24:10:00/36
   manufacturer: Contronics Automacao Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Controni
 type: d3-device-type-assertion

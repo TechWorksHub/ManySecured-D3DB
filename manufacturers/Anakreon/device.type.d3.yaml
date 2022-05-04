@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69be0e5d-073a-49c9-bd34-a6b5f9a1af55
-  mac-addresses:
+  id: 73eb38f1-f7e4-4278-b111-111b919ad991
+  macAddresses:
   - 14:13:30:00:00:00/24
   manufacturer: Anakreon UK LLP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Anakreon
 type: d3-device-type-assertion

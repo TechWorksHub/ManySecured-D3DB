@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c51d89de-efb3-4646-8bae-cb9b7d9d0012
-  mac-addresses:
+  id: 47ade3e4-3321-4abf-807b-757e4de6d2e8
+  macAddresses:
   - A0:34:1B:00:00:00/24
   manufacturer: Adero Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adero
 type: d3-device-type-assertion

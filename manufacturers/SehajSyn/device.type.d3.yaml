@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f401a5d-4ee2-47f1-85f4-5b49883592b0
-  mac-addresses:
+  id: 6ef000a9-2094-427d-ae99-2d6f50f7761b
+  macAddresses:
   - 50:6F:98:00:00:00/24
   manufacturer: Sehaj Synergy Technologies Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SehajSyn
 type: d3-device-type-assertion

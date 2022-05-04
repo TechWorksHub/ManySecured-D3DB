@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6560d124-91a7-4f10-824b-09ea6db69c3f
-  mac-addresses:
+  id: 29bed015-fc8d-44cd-b421-df37e9bf58a9
+  macAddresses:
   - 30:1F:9A:00:00:00/28
   manufacturer: Ilsan Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IlsanEle
 type: d3-device-type-assertion

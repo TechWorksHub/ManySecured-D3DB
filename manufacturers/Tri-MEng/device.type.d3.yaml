@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 981506df-8852-4c99-b5a9-2ff937c0b9e3
-  mac-addresses:
+  id: 7e76f15b-d436-4e3f-8d93-7f7260860d9e
+  macAddresses:
   - 00:07:1E:00:00:00/24
   manufacturer: Tri-M Engineering / Nupak Dev. Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tri-MEng
 type: d3-device-type-assertion

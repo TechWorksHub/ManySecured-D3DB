@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5e7d1f68-4b3a-411e-8eb2-b93e9966ae05
-  mac-addresses:
+  id: 04f8c7e6-68dc-4c9d-8229-10a22d665f66
+  macAddresses:
   - 00:02:84:00:00:00/24
   - 80:B3:2A:00:00:00/24
   manufacturer: UK Grid Solutions Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UKGridSo
 type: d3-device-type-assertion

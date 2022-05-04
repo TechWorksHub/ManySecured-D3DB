@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fd311eb-59a2-4569-8b65-9c5a3bffee40
-  mac-addresses:
+  id: 0f23daf1-5577-40f7-b730-4aa5b14f6d8f
+  macAddresses:
   - 40:A3:6B:40:00:00/28
   manufacturer: SKS-Kinkel Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKS-Kink
 type: d3-device-type-assertion

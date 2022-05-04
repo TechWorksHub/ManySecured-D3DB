@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fed5fcb-4ac0-4946-808f-c15e9e4ec86e
-  mac-addresses:
+  id: c037c527-a574-4cfc-af8a-a31b8dd21ce3
+  macAddresses:
   - 08:14:43:00:00:00/24
   manufacturer: Unibrain S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unibrain
 type: d3-device-type-assertion

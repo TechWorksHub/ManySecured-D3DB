@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6933a452-dcb1-49d8-9f5a-ae872530d295
-  mac-addresses:
+  id: 16ddb19d-1b89-41bc-aa0c-2e01312b8f8e
+  macAddresses:
   - AC:0A:61:00:00:00/24
   manufacturer: Labor S.r.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Labor
 type: d3-device-type-assertion

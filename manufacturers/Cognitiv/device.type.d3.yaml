@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be08cf10-f7d3-4f83-ad40-618cb32b25e3
-  mac-addresses:
+  id: ddfa391a-862b-42f5-9b98-6f82b8628d76
+  macAddresses:
   - 58:BC:8F:00:00:00/24
   manufacturer: Cognitive Systems Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cognitiv
 type: d3-device-type-assertion

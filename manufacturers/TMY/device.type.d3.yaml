@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8fa7464b-e2f3-41c9-9551-30bf56e56963
-  mac-addresses:
+  id: e1541858-f800-481c-b428-a7c4638e50a4
+  macAddresses:
   - E8:28:77:00:00:00/24
   manufacturer: TMY Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TMY
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bea405a-85bb-475a-89aa-ec42bb645cf6
-  mac-addresses:
+  id: f5b309a5-9815-4b7a-b81f-0eb3400140dd
+  macAddresses:
   - F0:2A:2B:30:00:00/28
   manufacturer: Frigotel SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Frigotel
 type: d3-device-type-assertion

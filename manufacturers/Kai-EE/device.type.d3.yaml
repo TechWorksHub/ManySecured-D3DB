@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7236763-5744-4097-93c0-5a3bf8d30866
-  mac-addresses:
+  id: 84aee38c-4eea-4435-ab9d-ab88f6724043
+  macAddresses:
   - 78:3C:E3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kai-EE
 type: d3-device-type-assertion

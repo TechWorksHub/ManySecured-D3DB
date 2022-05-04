@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f250cf2c-f0d7-4c80-b04c-792af5b0f9cc
-  mac-addresses:
+  id: 12c5128e-4a16-4999-b769-94c2a9a0e64f
+  macAddresses:
   - 00:A0:60:00:00:00/24
   manufacturer: Acer Peripherals, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcerPeri
 type: d3-device-type-assertion

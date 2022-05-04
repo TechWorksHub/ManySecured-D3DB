@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5a2c99e-d408-47c7-a6f0-7408a6a2cece
-  mac-addresses:
+  id: c730b10a-14aa-42d1-8a35-6daae74188d2
+  macAddresses:
   - 00:24:6E:00:00:00/24
   manufacturer: Phihong USA Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhihongU
 type: d3-device-type-assertion

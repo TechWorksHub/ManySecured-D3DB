@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04b7994f-c277-4e16-88ea-1a3db921af26
-  mac-addresses:
+  id: 82d6a508-be53-49ed-9117-1f560c8020c6
+  macAddresses:
   - 74:6E:E4:00:00:00/24
   manufacturer: Asia Vital Components Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsiaVita
 type: d3-device-type-assertion

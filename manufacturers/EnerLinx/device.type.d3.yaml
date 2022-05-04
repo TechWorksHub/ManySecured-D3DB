@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6dc649e3-6739-472f-b6d3-167a014aacd5
-  mac-addresses:
+  id: c43f74a1-ab68-42ba-8ce8-4696830e93c6
+  macAddresses:
   - 00:08:AB:00:00:00/24
   manufacturer: EnerLinx.com, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EnerLinx
 type: d3-device-type-assertion

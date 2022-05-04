@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d6ac81d8-e34c-44bc-970a-2de26d458069
-  mac-addresses:
+  id: cfb69aea-bc80-4042-844a-1f833717582a
+  macAddresses:
   - 00:50:C2:8C:20:00/36
   - 70:B3:D5:1A:B0:00/36
   manufacturer: Access Control Systems JSC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccessCo
 type: d3-device-type-assertion

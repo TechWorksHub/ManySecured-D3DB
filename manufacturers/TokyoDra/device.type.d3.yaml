@@ -1,10 +1,10 @@
 credentialSubject:
-  id: f2deb633-8bb3-44e0-9f1e-2a0baad3a9b7
-  mac-addresses:
+  id: 5083aebc-2479-4a62-a608-7b91a118375a
+  macAddresses:
   - 1C:87:76:90:00:00/28
   - 40:D8:55:14:30:00/36
   - 70:B3:D5:16:40:00/36
   manufacturer: Tokyo Drawing Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TokyoDra
 type: d3-device-type-assertion

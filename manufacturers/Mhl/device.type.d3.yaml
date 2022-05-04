@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66fa98b8-68a8-490d-b206-7c2de5557e33
-  mac-addresses:
+  id: 00866f58-9405-4154-b0d3-24a53c73ceaf
+  macAddresses:
   - 7C:A6:1D:00:00:00/24
   manufacturer: Mhl, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mhl
 type: d3-device-type-assertion

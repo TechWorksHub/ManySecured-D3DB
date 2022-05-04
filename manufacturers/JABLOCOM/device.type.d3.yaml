@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06e483f6-f8ef-4089-9baf-ecf9e4944252
-  mac-addresses:
+  id: 8bc9d378-71f8-4b24-bc1e-9c7d21da6fc1
+  macAddresses:
   - 60:F1:3D:00:00:00/24
   manufacturer: JABLOCOM s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JABLOCOM
 type: d3-device-type-assertion

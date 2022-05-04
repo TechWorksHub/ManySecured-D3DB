@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2375b8b2-f3b3-4766-8c31-169e5bb88c35
-  mac-addresses:
+  id: 934b5aea-c4cd-48e2-8ec8-73a4dfa5d6d5
+  macAddresses:
   - 60:9B:C8:00:00:00/24
   manufacturer: Hipad Intelligent Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HipadInt
 type: d3-device-type-assertion

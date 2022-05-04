@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9dcb9947-0e19-4cde-bf7f-60982cbfa44d
-  mac-addresses:
+  id: 9199fe35-7667-460e-849f-0173cd508fd1
+  macAddresses:
   - 00:07:A3:00:00:00/24
   manufacturer: Ositis Software, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OsitisSo
 type: d3-device-type-assertion

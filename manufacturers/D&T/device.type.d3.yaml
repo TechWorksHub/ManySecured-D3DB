@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d37ac3d-1e5c-48cb-90ca-a25daa659aef
-  mac-addresses:
+  id: 2f037d8a-c60a-4132-bbb8-9700a2c37099
+  macAddresses:
   - B0:C5:CA:90:00:00/28
   manufacturer: D&T Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D&T
 type: d3-device-type-assertion

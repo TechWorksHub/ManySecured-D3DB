@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94820210-4290-4e4c-bd9f-3c7956e1850a
-  mac-addresses:
+  id: 1ae2f16a-b15e-4eb9-9e5e-8c6b69bca27f
+  macAddresses:
   - 00:50:C2:09:10:00/36
   manufacturer: StorLogic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StorLogi
 type: d3-device-type-assertion

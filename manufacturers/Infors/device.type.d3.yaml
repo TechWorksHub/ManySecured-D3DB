@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 322419e3-61e7-4d2c-93f0-08da2e2c65ee
-  mac-addresses:
+  id: f9b52990-249c-47b8-b2f4-31e42ece9149
+  macAddresses:
   - 80:02:F4:40:00:00/28
   manufacturer: Infors AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infors
 type: d3-device-type-assertion

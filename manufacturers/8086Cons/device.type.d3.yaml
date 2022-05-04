@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1862854-96d2-4c12-b50c-c11ca404d0fb
-  mac-addresses:
+  id: 27fb441e-95d1-4fc8-b94b-4b14679dfcd9
+  macAddresses:
   - 00:22:82:00:00:00/24
   manufacturer: 8086 Consultancy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 8086Cons
 type: d3-device-type-assertion

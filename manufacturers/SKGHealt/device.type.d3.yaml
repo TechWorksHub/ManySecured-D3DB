@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5d4cf68-378f-425f-931a-34969fe08105
-  mac-addresses:
+  id: 71a978b9-2fca-4d9b-9a43-12c6cd681194
+  macAddresses:
   - 2C:07:F6:00:00:00/24
   manufacturer: SKG Health Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SKGHealt
 type: d3-device-type-assertion

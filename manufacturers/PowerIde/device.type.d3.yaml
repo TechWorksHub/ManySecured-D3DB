@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ddd5f42-511e-4ba1-9214-2fed5ea4404d
-  mac-addresses:
+  id: b2847563-95d8-4e84-b99f-50fe72b36cc8
+  macAddresses:
   - 40:70:4A:00:00:00/24
   manufacturer: Power Idea Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerIde
 type: d3-device-type-assertion

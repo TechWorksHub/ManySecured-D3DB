@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce033bc3-2bca-4698-999d-7ece2e353d9c
-  mac-addresses:
+  id: 1a689853-a326-44af-bff2-ad4951b8f758
+  macAddresses:
   - 78:BB:88:00:00:00/24
   manufacturer: Maxio Technology (Hangzhou) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxioTec
 type: d3-device-type-assertion

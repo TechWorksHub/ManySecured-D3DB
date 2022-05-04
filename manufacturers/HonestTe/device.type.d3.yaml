@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9964b957-ffbb-4ca9-98a5-07e5a6ef7b0a
-  mac-addresses:
+  id: 2a035144-7b77-4462-817d-a729d9029e16
+  macAddresses:
   - A4:E9:A3:00:00:00/24
   manufacturer: Honest Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HonestTe
 type: d3-device-type-assertion

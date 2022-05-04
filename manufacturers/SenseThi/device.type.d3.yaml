@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bbf127f-0543-48d9-9b7c-cd5a8facced0
-  mac-addresses:
+  id: ec24542b-e0cf-49b3-a167-6b1a33e725d7
+  macAddresses:
   - C8:BC:E5:00:00:00/24
   manufacturer: Sense Things Japan INC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SenseThi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c927a08a-cf74-40c7-beaf-3f7dd24e989b
-  mac-addresses:
+  id: 1b4d18cb-5fbe-4d5c-ab42-7b22d5a97ca5
+  macAddresses:
   - 00:30:69:00:00:00/24
   manufacturer: Impacct Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImpacctT
 type: d3-device-type-assertion

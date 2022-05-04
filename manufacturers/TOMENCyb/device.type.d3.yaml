@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 98bc8986-46b1-483c-b02c-55f255185e58
-  mac-addresses:
+  id: 11160e00-fec5-46d4-b4ef-d1c265bf4d85
+  macAddresses:
   - 00:13:55:00:00:00/24
   manufacturer: TOMEN Cyber-business Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOMENCyb
 type: d3-device-type-assertion

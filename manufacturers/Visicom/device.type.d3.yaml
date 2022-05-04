@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e25d93c1-c9fd-4e9e-948b-48a7c589016d
-  mac-addresses:
+  id: 805256fc-e6bb-4667-bbff-cd7bad890683
+  macAddresses:
   - 00:02:39:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visicom
 type: d3-device-type-assertion

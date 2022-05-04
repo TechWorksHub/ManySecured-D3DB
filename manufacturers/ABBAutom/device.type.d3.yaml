@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12008f9a-1284-4484-9a57-2953f55bba61
-  mac-addresses:
+  id: 75331a97-4411-45c2-88bd-8af6fd8f5738
+  macAddresses:
   - 00:24:59:00:00:00/24
   manufacturer: ABB Automation products GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ABBAutom
 type: d3-device-type-assertion

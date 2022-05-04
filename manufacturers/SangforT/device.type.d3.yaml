@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75b42f96-74e4-409a-a37d-e7b494ad0c71
-  mac-addresses:
+  id: d1767944-7140-408d-a429-f91f61a8ecea
+  macAddresses:
   - A8:85:D7:00:00:00/24
   manufacturer: Sangfor Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SangforT
 type: d3-device-type-assertion

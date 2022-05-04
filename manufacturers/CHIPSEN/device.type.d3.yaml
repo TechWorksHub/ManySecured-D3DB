@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75ce07dc-1e41-4a28-964c-3d79246ca87b
-  mac-addresses:
+  id: bafec6db-cd88-4d72-be2f-6ac42035f567
+  macAddresses:
   - 5C:F2:86:40:00:00/28
   manufacturer: CHIPSEN Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CHIPSEN
 type: d3-device-type-assertion

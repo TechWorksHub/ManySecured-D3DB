@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 883bc4ab-b5a6-48ec-a60a-21d59e361725
-  mac-addresses:
+  id: ab8fcf79-c390-4e6f-8982-c6a4dc68d02d
+  macAddresses:
   - 70:69:79:40:00:00/28
   manufacturer: SelectTech GeoSpatial, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SelectTe
 type: d3-device-type-assertion

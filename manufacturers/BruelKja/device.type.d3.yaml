@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 218dc6b8-18de-4e5a-940d-4026413a1f0b
-  mac-addresses:
+  id: f36ecb10-1fa0-41b1-b3c7-44dc8ebc99d4
+  macAddresses:
   - 00:80:DA:00:00:00/24
   manufacturer: Bruel & Kjaer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BruelKja
 type: d3-device-type-assertion

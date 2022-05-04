@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c8f1808-2403-4702-87a6-9154b15ca961
-  mac-addresses:
+  id: 45258110-66c2-4d2b-b12c-febb66b37a05
+  macAddresses:
   - 00:0B:A0:00:00:00/24
   manufacturer: T&L Information Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T&LInfor
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a446601f-a5f9-418b-951e-8fccbf3e7a4d
-  mac-addresses:
+  id: 4ba578e0-f3f1-4007-9d17-099f5ea0295f
+  macAddresses:
   - 00:0F:6D:00:00:00/24
   manufacturer: Midas Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MidasEng
 type: d3-device-type-assertion

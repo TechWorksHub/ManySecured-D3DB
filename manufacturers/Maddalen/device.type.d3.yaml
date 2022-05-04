@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a8b96523-810e-4171-9d62-ae71f4be7156
-  mac-addresses:
+  id: 885b195a-52f0-4868-b2b7-fc54df1a7dc7
+  macAddresses:
   - 00:50:C2:D3:30:00/36
   - 78:D8:00:B0:00:00/28
   manufacturer: Maddalena S.p.A
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Maddalen
 type: d3-device-type-assertion

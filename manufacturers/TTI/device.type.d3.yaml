@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36c19aef-e5ee-47a1-a793-cd0fb7a7b389
-  mac-addresses:
+  id: 4a0d2b68-8f48-4316-904a-b0d83d203029
+  macAddresses:
   - 70:B3:D5:3C:A0:00/36
   manufacturer: TTI Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TTI
 type: d3-device-type-assertion

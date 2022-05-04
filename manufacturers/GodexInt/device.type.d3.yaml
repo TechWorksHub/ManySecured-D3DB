@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8f50947-2c2d-42ad-a12b-d4420451db57
-  mac-addresses:
+  id: de2fe4fe-739e-4493-a426-d4e189cc9b53
+  macAddresses:
   - 00:1D:9A:00:00:00/24
   manufacturer: Godex International Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GodexInt
 type: d3-device-type-assertion

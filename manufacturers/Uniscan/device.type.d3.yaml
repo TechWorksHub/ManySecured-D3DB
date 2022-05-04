@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4bdc0dc8-7177-4e0e-9e98-c468254e9640
-  mac-addresses:
+  id: 5d8a64a8-82c4-4d98-8ea5-03e6f12a0e05
+  macAddresses:
   - 40:D8:55:11:60:00/36
   manufacturer: Uniscan LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uniscan
 type: d3-device-type-assertion

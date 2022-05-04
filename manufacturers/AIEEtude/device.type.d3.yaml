@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebbf4c41-636e-447e-b0f4-683b8493f65e
-  mac-addresses:
+  id: 211d2953-1529-4819-894f-3ee03b20732d
+  macAddresses:
   - 00:50:C2:40:70:00/36
   manufacturer: AIE Etudes
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AIEEtude
 type: d3-device-type-assertion

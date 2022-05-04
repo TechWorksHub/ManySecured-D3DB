@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44e07786-1799-4120-b7a6-fe3a221e2d1a
-  mac-addresses:
+  id: 791f43e2-ff04-4324-baca-4598dcc0fcde
+  macAddresses:
   - 00:50:C2:F2:B0:00/36
   manufacturer: Bio Guard component & technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BioGuard
 type: d3-device-type-assertion

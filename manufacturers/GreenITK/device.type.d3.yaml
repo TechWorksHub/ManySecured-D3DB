@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75d243f4-ec06-4711-b39f-897c830b0354
-  mac-addresses:
+  id: 09978f33-1eaa-4306-83e4-ec3cff534191
+  macAddresses:
   - AC:1D:DF:70:00:00/28
   manufacturer: Green IT Korea Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenITK
 type: d3-device-type-assertion

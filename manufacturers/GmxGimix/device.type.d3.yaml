@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e623654-58a7-49f5-898d-7dbc1b489320
-  mac-addresses:
+  id: 355afcd8-2ba6-4e3c-b92d-1c669a6b657c
+  macAddresses:
   - 00:80:DD:00:00:00/24
   manufacturer: Gmx Inc/Gimix
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GmxGimix
 type: d3-device-type-assertion

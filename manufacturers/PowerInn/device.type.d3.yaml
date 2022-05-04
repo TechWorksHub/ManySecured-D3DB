@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bea2a853-75c4-4663-87e9-1abd4c1d2a4c
-  mac-addresses:
+  id: 3262bf73-8219-466c-ba89-ecc1f6835234
+  macAddresses:
   - 00:1D:18:00:00:00/24
   manufacturer: Power Innovation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerInn
 type: d3-device-type-assertion

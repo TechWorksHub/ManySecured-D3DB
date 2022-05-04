@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ac3162d6-40e2-4f8e-897c-a607addb9b81
-  mac-addresses:
+  id: a1a5651d-20b3-4a6f-86ec-1706e44cdd63
+  macAddresses:
   - 14:4F:D7:A0:00:00/28
   manufacturer: Unirobot Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unirobot
 type: d3-device-type-assertion

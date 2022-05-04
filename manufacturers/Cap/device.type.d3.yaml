@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b30102f1-b631-49c4-803c-fb3450fc72b2
-  mac-addresses:
+  id: 100408d2-cf4e-45df-99be-47e8748493f4
+  macAddresses:
   - 00:13:23:00:00:00/24
   manufacturer: Cap Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cap
 type: d3-device-type-assertion

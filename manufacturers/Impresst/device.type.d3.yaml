@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ab6aceb-3f69-4220-a51e-4288141b721e
-  mac-addresses:
+  id: 5a36c935-bf49-460f-bfa1-d5a70d36c420
+  macAddresses:
   - 00:D0:49:00:00:00/24
   manufacturer: Impresstek Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Impresst
 type: d3-device-type-assertion

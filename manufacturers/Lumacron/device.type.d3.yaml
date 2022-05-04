@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfa55975-2639-48fd-b919-6520b59b8df4
-  mac-addresses:
+  id: e19ff95c-2cfe-4000-a763-a4d8ebb4fff7
+  macAddresses:
   - 70:B3:D5:77:80:00/36
   manufacturer: Lumacron Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lumacron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff96f2a7-bd09-49a2-ba57-b67e806e82a7
-  mac-addresses:
+  id: c5272533-32eb-4bb8-af6a-6638db071802
+  macAddresses:
   - 00:25:FE:00:00:00/24
   manufacturer: Pilot Electronics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PilotEle
 type: d3-device-type-assertion

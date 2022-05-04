@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c58b908a-f3de-41a7-8288-0f2cf6c1a65d
-  mac-addresses:
+  id: 9283bbdc-7d5b-4bd0-a431-fa4a911b226b
+  macAddresses:
   - 00:05:4A:00:00:00/24
   manufacturer: Ario Data Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArioData
 type: d3-device-type-assertion

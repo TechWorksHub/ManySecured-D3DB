@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 390dbcf5-c224-4965-bd75-a9b05564d53c
-  mac-addresses:
+  id: 0a495cd8-45b9-47fc-a528-07353361610f
+  macAddresses:
   - 8C:1F:64:1B:60:00/36
   manufacturer: Red Sensors Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedSenso
 type: d3-device-type-assertion

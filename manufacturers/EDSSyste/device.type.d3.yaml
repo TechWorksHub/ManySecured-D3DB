@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f1128c2-035d-402f-ae85-2b171c6871bb
-  mac-addresses:
+  id: 6e04b9b8-2ed0-4a45-ae5f-9c47fc0a3e84
+  macAddresses:
   - 00:50:C2:6D:00:00/36
   manufacturer: EDS Systemtechnik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDSSyste
 type: d3-device-type-assertion

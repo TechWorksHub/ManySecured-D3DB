@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c945853-aab0-4432-aa39-3af38d32c3c2
-  mac-addresses:
+  id: 045d1168-5848-46d0-8a87-3743379ba040
+  macAddresses:
   - 00:0C:04:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecnova
 type: d3-device-type-assertion

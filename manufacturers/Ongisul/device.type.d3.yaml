@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d39b7fc-84aa-4575-a395-63b03f97cbeb
-  mac-addresses:
+  id: 1de8b8d4-39e4-47b2-8451-58f2f20f61e8
+  macAddresses:
   - 70:B3:D5:45:80:00/36
   manufacturer: Ongisul Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ongisul
 type: d3-device-type-assertion

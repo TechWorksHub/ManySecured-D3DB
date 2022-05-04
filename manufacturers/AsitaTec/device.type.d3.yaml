@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4c2d03e-cf68-4ed7-a25d-cd54e3cbb05e
-  mac-addresses:
+  id: 4a854b1c-539e-4d4d-872b-dca50ccc644d
+  macAddresses:
   - 00:50:8F:00:00:00/24
   manufacturer: Asita Technologies Int'L Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsitaTec
 type: d3-device-type-assertion

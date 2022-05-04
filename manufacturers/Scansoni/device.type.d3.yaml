@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c986f45-521b-4bab-a439-792cf203f635
-  mac-addresses:
+  id: 3f1a07cf-d280-4665-9254-3e4d4cbf61c1
+  macAddresses:
   - 00:50:C2:9C:50:00/36
   manufacturer: Scansonic MI GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scansoni
 type: d3-device-type-assertion

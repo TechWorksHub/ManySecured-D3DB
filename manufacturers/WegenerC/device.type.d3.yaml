@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5219f411-24b0-44c7-9ff3-75bfe771d98c
-  mac-addresses:
+  id: 8c52ae3e-151f-48ed-beb5-67c79319337a
+  macAddresses:
   - 00:07:8B:00:00:00/24
   manufacturer: Wegener Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WegenerC
 type: d3-device-type-assertion

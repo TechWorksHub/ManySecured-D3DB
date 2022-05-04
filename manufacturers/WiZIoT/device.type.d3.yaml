@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 162ca732-4866-4f3c-bd9d-9190ae83b8dc
-  mac-addresses:
+  id: 4cb43268-20a8-4ca9-892c-5c92e611a6c8
+  macAddresses:
   - A8:BB:50:00:00:00/24
   manufacturer: WiZ IoT Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiZIoT
 type: d3-device-type-assertion

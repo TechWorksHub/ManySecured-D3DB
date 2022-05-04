@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d3cc3483-c338-426a-988b-375f949a7c42
-  mac-addresses:
+  id: 377bcf0b-4dd2-4154-936c-c2ffac4f610a
+  macAddresses:
   - 70:B3:D5:5B:90:00/36
   manufacturer: Eizo Rugged Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EizoRugg
 type: d3-device-type-assertion

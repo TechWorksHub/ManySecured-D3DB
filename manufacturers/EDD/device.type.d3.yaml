@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 468d8920-5888-4611-9a9e-94e215981259
-  mac-addresses:
+  id: 3351e4d4-6db2-4450-933d-e835993a79d8
+  macAddresses:
   - 00:50:C2:1F:C0:00/36
   manufacturer: EDD Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDD
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 84b307c7-f5e8-4b3f-8e5f-e393264f99f5
-  mac-addresses:
+  id: 4afdd511-acbb-49f0-84d2-cbbdac4784a5
+  macAddresses:
   - 04:E2:F8:00:00:00/24
   manufacturer: AEP Ticketing solutions srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEPTicke
 type: d3-device-type-assertion

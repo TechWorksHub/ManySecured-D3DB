@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ad774c9-1d72-4c58-bd16-5bbef592578a
-  mac-addresses:
+  id: fcc2a6cb-8242-4258-8f85-e7be1d29bc60
+  macAddresses:
   - 70:B3:D5:29:00:00/36
   manufacturer: GETT Geraetetechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GETTGera
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ffa34be-92ca-404a-aace-781cbcc9d9d7
-  mac-addresses:
+  id: a8f2d2c9-4a72-4365-900e-319c0e430859
+  macAddresses:
   - 00:1B:0F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Petratec
 type: d3-device-type-assertion

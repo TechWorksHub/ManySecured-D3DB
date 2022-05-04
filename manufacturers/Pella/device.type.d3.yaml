@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a1476cd-6fac-4a2b-9966-1446fa0ebccc
-  mac-addresses:
+  id: 9dbf426a-5ecd-4c0c-9c7e-3199866255bc
+  macAddresses:
   - 40:A3:6B:70:00:00/28
   manufacturer: Pella Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pella
 type: d3-device-type-assertion

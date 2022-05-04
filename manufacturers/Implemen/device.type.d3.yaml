@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e46e85f-72e8-456f-af6c-53e04803158c
-  mac-addresses:
+  id: 47555a35-8b9a-4394-b02f-6908f5e3f84b
+  macAddresses:
   - 00:50:C2:10:D0:00/36
   manufacturer: Implementa GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Implemen
 type: d3-device-type-assertion

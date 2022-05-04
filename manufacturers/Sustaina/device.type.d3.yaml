@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8302e17d-084b-4f2b-b15a-a220ee4dd2b9
-  mac-addresses:
+  id: eac83bc0-414a-46ad-b3c9-69c823021ca8
+  macAddresses:
   - 00:15:F5:00:00:00/24
   manufacturer: Sustainable Energy Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sustaina
 type: d3-device-type-assertion

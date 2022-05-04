@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5fd3f49-a01f-4498-a78b-a67e20d2d9e7
-  mac-addresses:
+  id: 6b64be35-7cfe-47a0-891d-1674172857d0
+  macAddresses:
   - 00:09:BD:00:00:00/24
   manufacturer: Epygi Technologies, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EpygiTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4692919-2840-4d95-8c55-f52f36d84fac
-  mac-addresses:
+  id: ef5e76cd-7fc1-4002-af35-02bf4927ced9
+  macAddresses:
   - 00:05:13:00:00:00/24
   manufacturer: VTLinx Multimedia Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VTLinxMu
 type: d3-device-type-assertion

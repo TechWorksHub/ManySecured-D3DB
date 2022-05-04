@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d86f13c6-435f-4360-94b2-595e91ca9ea1
-  mac-addresses:
+  id: 784e7d09-0ae1-4d00-a649-b91af5f782f8
+  macAddresses:
   - 78:BE:BD:00:00:00/24
   manufacturer: STULZ GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STULZ
 type: d3-device-type-assertion

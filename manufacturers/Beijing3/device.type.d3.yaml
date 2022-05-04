@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 596e1817-2e2e-4507-a38b-2e2da270b7e2
-  mac-addresses:
+  id: 9f12c024-c482-47b2-a230-63b2824f993f
+  macAddresses:
   - 98:6D:35:80:00:00/28
   manufacturer: Beijing 3CAVI Tech Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beijing3
 type: d3-device-type-assertion

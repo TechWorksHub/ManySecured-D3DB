@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f19c9686-86d7-4819-898a-42bf34f7e90d
-  mac-addresses:
+  id: d558f51f-fe91-43da-a474-c8b5701b5e52
+  macAddresses:
   - 00:19:54:00:00:00/24
   manufacturer: Leaf Corporation.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leaf
 type: d3-device-type-assertion

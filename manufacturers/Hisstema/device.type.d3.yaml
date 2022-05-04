@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58a5aade-344d-46b6-b741-3bf84622b4c2
-  mac-addresses:
+  id: d61f84d4-d341-4607-acf1-68e4af8d2e7c
+  macAddresses:
   - 00:50:C2:65:A0:00/36
   manufacturer: Hisstema AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hisstema
 type: d3-device-type-assertion

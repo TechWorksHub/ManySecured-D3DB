@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c35897a-a41c-44c9-8c07-67d59722bae6
-  mac-addresses:
+  id: a581cd51-2b75-440b-a981-e6a6e606abd2
+  macAddresses:
   - 70:B3:D5:24:A0:00/36
   manufacturer: Unmukti Technology Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnmuktiT
 type: d3-device-type-assertion

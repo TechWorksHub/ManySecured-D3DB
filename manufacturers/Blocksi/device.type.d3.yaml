@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9fdc1a18-83df-4b84-8d20-84005579c4e7
-  mac-addresses:
+  id: 59d86df6-75c4-401d-a0be-ca8182be36a7
+  macAddresses:
   - 70:B3:D5:95:E0:00/36
   - 70:B3:D5:9E:60:00/36
   manufacturer: Blocksi Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Blocksi
 type: d3-device-type-assertion

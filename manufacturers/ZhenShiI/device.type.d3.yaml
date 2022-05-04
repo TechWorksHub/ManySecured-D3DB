@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6d7f5c7c-146d-4e44-9d4c-c66dc9dbf1c3
-  mac-addresses:
+  id: 4309fd79-a9ef-4f44-b6f8-91eb998403c7
+  macAddresses:
   - 6C:2D:24:00:00:00/24
   - 78:8B:2A:00:00:00/24
   manufacturer: Zhen Shi Information Technology (Shanghai) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhenShiI
 type: d3-device-type-assertion

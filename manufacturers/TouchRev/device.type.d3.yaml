@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35639b40-fc2b-40ea-8c4b-959ddc0848b8
-  mac-addresses:
+  id: afc94119-d5ab-47b3-b913-ab3a0cde7176
+  macAddresses:
   - 00:50:C2:BE:D0:00/36
   manufacturer: Touch Revolution Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TouchRev
 type: d3-device-type-assertion

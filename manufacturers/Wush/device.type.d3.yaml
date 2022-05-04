@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21fc3866-f09d-4f3b-97d2-fbc50bf04440
-  mac-addresses:
+  id: 58691bbb-ca9f-4c66-be54-cb160d458dde
+  macAddresses:
   - D8:E7:43:00:00:00/24
   manufacturer: Wush, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wush
 type: d3-device-type-assertion

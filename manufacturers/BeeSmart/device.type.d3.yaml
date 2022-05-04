@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a85e7ef3-6d8f-4e23-aec2-01b5169a5a30
-  mac-addresses:
+  id: 1f57f3c7-8075-440e-903e-7e498fb1e8c7
+  macAddresses:
   - FC:D2:B6:D0:00:00/28
   manufacturer: Bee Smart(Changzhou) Information Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeeSmart
 type: d3-device-type-assertion

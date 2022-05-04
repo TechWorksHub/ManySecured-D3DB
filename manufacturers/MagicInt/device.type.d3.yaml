@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26ba3d79-49f3-4262-8a9e-6608ecc5c35c
-  mac-addresses:
+  id: 3079358d-9018-4055-8034-a88975f0c612
+  macAddresses:
   - 68:3C:7D:00:00:00/24
   manufacturer: Magic Intelligence Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagicInt
 type: d3-device-type-assertion

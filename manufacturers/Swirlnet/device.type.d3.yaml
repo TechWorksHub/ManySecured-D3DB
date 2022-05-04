@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9dbcccc-620c-4f79-8ba2-d7d890cb7767
-  mac-addresses:
+  id: 2a537721-71fc-4f4f-bc29-b49c1bab7ac5
+  macAddresses:
   - 00:18:D6:00:00:00/24
   manufacturer: Swirlnet A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swirlnet
 type: d3-device-type-assertion

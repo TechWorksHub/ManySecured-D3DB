@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41634fce-9eaf-4fb9-b635-db21986d0a58
-  mac-addresses:
+  id: f114c60c-d394-4a73-a7a2-70895cf4858b
+  macAddresses:
   - 00:06:83:00:00:00/24
   manufacturer: Bravara Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BravaraC
 type: d3-device-type-assertion

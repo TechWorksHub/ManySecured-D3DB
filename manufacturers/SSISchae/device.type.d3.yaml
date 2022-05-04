@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f16eb0e2-a9bf-4f8f-9eaf-0832f7378ef8
-  mac-addresses:
+  id: 3802b471-0283-4728-b048-4eae4195d32c
+  macAddresses:
   - 00:50:C2:34:90:00/36
   manufacturer: SSI Schaefer Peem
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SSISchae
 type: d3-device-type-assertion

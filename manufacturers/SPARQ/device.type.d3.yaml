@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 346bb731-10f4-4cf1-a29a-10857742f101
-  mac-addresses:
+  id: 448c6a79-88f1-4a69-bf44-6624329c0e7e
+  macAddresses:
   - 00:50:C2:E9:C0:00/36
   manufacturer: SPARQ systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPARQ
 type: d3-device-type-assertion

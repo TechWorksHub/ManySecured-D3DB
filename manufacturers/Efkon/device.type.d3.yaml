@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19583f7f-879b-4fde-845b-c223c3b78a2a
-  mac-addresses:
+  id: 75d5e0c4-79d2-4df1-bb20-710e543a5640
+  macAddresses:
   - 00:1B:91:00:00:00/24
   manufacturer: Efkon Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Efkon
 type: d3-device-type-assertion

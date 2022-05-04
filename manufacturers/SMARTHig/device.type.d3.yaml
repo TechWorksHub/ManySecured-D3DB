@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9b92c11-e04b-4ca3-a7b7-d963506515f5
-  mac-addresses:
+  id: a77ddf19-074f-44e4-86b6-8f8a6ad22ff7
+  macAddresses:
   - 38:C9:A9:00:00:00/24
   manufacturer: SMART High Reliability Solutions, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMARTHig
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: efb844f8-4776-450f-b184-256d1a7d4bc8
-  mac-addresses:
+  id: 0e0af2ca-9cdd-4832-90d9-1b78519a0ac6
+  macAddresses:
   - 00:1D:29:00:00:00/24
   - 98:BA:39:00:00:00/24
   manufacturer: Doro AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Doro
 type: d3-device-type-assertion

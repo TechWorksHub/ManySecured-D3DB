@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93b235bf-7f47-43db-b44c-f855f9a5e547
-  mac-addresses:
+  id: 9fb7c8bc-04eb-46cf-8c94-5876f9e39d40
+  macAddresses:
   - 00:C0:33:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telebit
 type: d3-device-type-assertion

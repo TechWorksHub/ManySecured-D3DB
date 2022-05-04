@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 414a5afb-4f7d-4656-bdeb-6ac24f0dbd6f
-  mac-addresses:
+  id: 9b1f00bd-5667-4781-b94b-eeb10167d078
+  macAddresses:
   - 00:02:65:00:00:00/24
   manufacturer: Virditech Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Virditec
 type: d3-device-type-assertion

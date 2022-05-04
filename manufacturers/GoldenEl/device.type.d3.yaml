@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c2c5e980-77ac-4bcf-89a6-43aa37cdfbe7
-  mac-addresses:
+  id: f2dac520-5642-4d82-a856-6187b829aa3d
+  macAddresses:
   - 00:07:9C:00:00:00/24
   manufacturer: Golden Electronics Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoldenEl
 type: d3-device-type-assertion

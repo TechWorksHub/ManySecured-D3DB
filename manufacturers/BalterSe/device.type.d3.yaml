@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1693e3f8-d101-4cfc-ade4-d1fce1946ebc
-  mac-addresses:
+  id: 0283db30-9fd7-4f36-9b8e-337aa9e1c14f
+  macAddresses:
   - 00:1B:C5:0A:60:00/36
   manufacturer: Balter Security GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BalterSe
 type: d3-device-type-assertion

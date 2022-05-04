@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8f4a15b0-1ffb-4667-abf1-676da9bf1f38
-  mac-addresses:
+  id: ed8f625e-9fe1-4b85-98ec-763bcf1c9a06
+  macAddresses:
   - 48:BF:74:00:00:00/24
   - 80:02:F4:B0:00:00/28
   manufacturer: Baicells Technologies Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Baicells
 type: d3-device-type-assertion

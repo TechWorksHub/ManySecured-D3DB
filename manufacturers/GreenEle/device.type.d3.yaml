@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d1d9861-7699-4bbd-ad81-972bb1bec6b7
-  mac-addresses:
+  id: 74b6f980-70cd-4770-aa9f-09ae736bb97a
+  macAddresses:
   - 08:BE:77:00:00:00/24
   manufacturer: Green Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenEle
 type: d3-device-type-assertion

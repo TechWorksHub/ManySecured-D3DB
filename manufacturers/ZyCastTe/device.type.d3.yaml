@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6fef6c10-32d4-40e8-bd4e-461bf7bdef81
-  mac-addresses:
+  id: 3d189d42-bb34-48f3-9dde-c7622788812d
+  macAddresses:
   - F8:0D:EA:00:00:00/24
   manufacturer: ZyCast Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZyCastTe
 type: d3-device-type-assertion

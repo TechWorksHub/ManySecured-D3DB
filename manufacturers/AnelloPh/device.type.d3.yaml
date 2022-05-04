@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59ed68af-45fe-4968-8a12-ce83b430d824
-  mac-addresses:
+  id: c7741eac-e844-4ba1-90de-a3a932ea3f4c
+  macAddresses:
   - 70:B3:D5:96:A0:00/36
   manufacturer: Anello Photonics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnelloPh
 type: d3-device-type-assertion

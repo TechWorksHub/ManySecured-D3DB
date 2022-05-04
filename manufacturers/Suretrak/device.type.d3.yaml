@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1787fc50-d1c0-404b-a25f-ab53bdc058f6
-  mac-addresses:
+  id: a2aaa860-4b15-44f5-98d8-b9c16312c269
+  macAddresses:
   - 00:1B:C5:05:C0:00/36
   manufacturer: Suretrak Global Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Suretrak
 type: d3-device-type-assertion

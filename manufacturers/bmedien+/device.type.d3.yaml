@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fdf6709-18c8-4a5a-86d4-d02b9422fe60
-  mac-addresses:
+  id: b988dc3c-df36-42e2-8e78-e6bd149a536e
+  macAddresses:
   - 38:E8:DF:00:00:00/24
   manufacturer: b gmbh medien + datenbanken
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bmedien+
 type: d3-device-type-assertion

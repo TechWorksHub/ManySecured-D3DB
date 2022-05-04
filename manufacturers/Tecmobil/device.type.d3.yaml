@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54132b8e-4c37-4dcc-bf53-9d5cbe45ff46
-  mac-addresses:
+  id: 4c7858cb-1dc4-43d1-889e-33ec87d117b2
+  macAddresses:
   - 9C:04:73:00:00:00/24
   manufacturer: Tecmobile (International) Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecmobil
 type: d3-device-type-assertion

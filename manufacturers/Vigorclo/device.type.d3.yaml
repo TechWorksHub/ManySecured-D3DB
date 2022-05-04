@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e86b2a8b-ba38-4c22-9797-2ea6d57b4f7b
-  mac-addresses:
+  id: 8b36d95b-0ed9-4b22-a6a9-c11cdc1647b2
+  macAddresses:
   - 70:B3:D5:A3:E0:00/36
   manufacturer: Vigorcloud Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vigorclo
 type: d3-device-type-assertion

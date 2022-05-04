@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8dea3420-86a2-4f8b-ac28-3839b6cae52b
-  mac-addresses:
+  id: 33431647-9143-40a9-a58d-974d52dc985c
+  macAddresses:
   - 00:25:B0:00:00:00/24
   manufacturer: Schmartz Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Schmartz
 type: d3-device-type-assertion

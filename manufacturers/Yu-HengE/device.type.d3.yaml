@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d125a789-1ae0-4e4e-a258-03c40edc330b
-  mac-addresses:
+  id: 3aa18d97-8f05-42d9-8deb-c08465cc67ff
+  macAddresses:
   - 8C:1F:64:57:50:00/36
   manufacturer: Yu-Heng Electric Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Yu-HengE
 type: d3-device-type-assertion

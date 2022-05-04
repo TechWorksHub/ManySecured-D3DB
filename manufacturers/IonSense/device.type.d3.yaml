@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fdec303-c6be-4ce6-89be-8b5b163396e7
-  mac-addresses:
+  id: 44223735-f4fc-4f97-b138-8883ee4bdf91
+  macAddresses:
   - 00:50:C2:9F:60:00/36
   manufacturer: Ion Sense Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IonSense
 type: d3-device-type-assertion

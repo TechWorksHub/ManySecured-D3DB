@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b4fba2e9-fdfd-4c7f-9b1e-c7e7e615edbf
-  mac-addresses:
+  id: 4f219b16-6f48-4680-9338-bdfa35ff1f95
+  macAddresses:
   - 70:B3:D5:DA:60:00/36
   manufacturer: Redfish Group Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedfishG
 type: d3-device-type-assertion

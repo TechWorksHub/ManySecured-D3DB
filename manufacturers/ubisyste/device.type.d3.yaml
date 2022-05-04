@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e0e007c-e643-4bd9-a251-83675465710a
-  mac-addresses:
+  id: 853e2fd7-90d5-4c7f-b453-3358e631225b
+  macAddresses:
   - 00:1F:EE:00:00:00/24
   manufacturer: ubisys technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ubisyste
 type: d3-device-type-assertion

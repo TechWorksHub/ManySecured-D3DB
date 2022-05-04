@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 18f50511-0f72-42cf-9911-5dc0473f1a55
-  mac-addresses:
+  id: 18eab704-bdff-4ebe-86ec-e857899631ed
+  macAddresses:
   - 00:50:C2:BE:F0:00/36
   - 70:B3:D5:EE:E0:00/36
   manufacturer: Sociedad Iberica De Construcciones Electricas, S.A. (Sice)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sociedad
 type: d3-device-type-assertion

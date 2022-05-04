@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 443d4a3d-e717-4e5a-b825-157ad3a49105
-  mac-addresses:
+  id: 7d61ba3a-4a7a-4774-89e1-fa072814d888
+  macAddresses:
   - 00:20:0F:00:00:00/24
   manufacturer: EBRAINS Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EBRAINS
 type: d3-device-type-assertion

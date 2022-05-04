@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0be5588f-0428-4dd5-87d4-5f33b54aec42
-  mac-addresses:
+  id: 8887faf4-8161-4c26-9449-5ceb187609a9
+  macAddresses:
   - 00:50:C2:1C:60:00/36
   manufacturer: Remco Italia Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RemcoIta
 type: d3-device-type-assertion

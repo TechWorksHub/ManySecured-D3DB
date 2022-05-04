@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5612987a-03be-4374-86b4-ceab3e7f2140
-  mac-addresses:
+  id: 6c41e408-a99a-49c9-8632-e651b181a439
+  macAddresses:
   - 00:13:E6:00:00:00/24
   manufacturer: Technolution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technolu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c5172cf-db3c-4a2e-8387-527c8e189b7b
-  mac-addresses:
+  id: c5f13529-4998-4c96-ba38-fe849b213f8b
+  macAddresses:
   - 64:35:1C:00:00:00/24
   manufacturer: e-CON SYSTEMS INDIA PVT LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: e-CONIND
 type: d3-device-type-assertion

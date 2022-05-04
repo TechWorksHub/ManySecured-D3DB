@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1522bf6f-564f-4fed-9d80-450ccfa3182f
-  mac-addresses:
+  id: 2f80cdec-75e2-4fd0-a3dc-8edc7084441f
+  macAddresses:
   - 00:1B:08:00:00:00/24
   manufacturer: Danfoss Drives A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DanfossD
 type: d3-device-type-assertion

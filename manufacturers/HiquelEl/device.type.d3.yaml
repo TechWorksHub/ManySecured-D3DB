@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02951233-5969-40b3-9349-a3c57cdf56d2
-  mac-addresses:
+  id: 0ced4101-e11d-4ce0-991f-fe33fdccfd7d
+  macAddresses:
   - 70:B3:D5:22:C0:00/36
   manufacturer: Hiquel Elektronik- und Anlagenbau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HiquelEl
 type: d3-device-type-assertion

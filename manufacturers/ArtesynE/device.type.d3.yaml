@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ce59081f-2e73-4097-8d5b-dd8d31de88af
-  mac-addresses:
+  id: b0b153b7-a9d5-4f25-825e-72f3db92d50e
+  macAddresses:
   - 00:01:AF:00:00:00/24
   - 00:06:0B:00:00:00/24
   - 00:08:F9:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - D8:97:3B:00:00:00/24
   - EC:9E:CD:00:00:00/24
   manufacturer: Artesyn Embedded Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArtesynE
 type: d3-device-type-assertion

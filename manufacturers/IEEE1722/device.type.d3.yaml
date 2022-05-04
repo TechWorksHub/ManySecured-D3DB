@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 019ec934-451a-4c5b-8e02-fe78528d0bd8
-  mac-addresses:
+  id: 7dbf6ca5-81f5-4a40-816c-7e300cbecd5c
+  macAddresses:
   - 90:E0:F0:00:00:00/24
   manufacturer: IEEE 1722a Working Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IEEE1722
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4df57407-052b-4afe-bd38-8c9197e2a943
-  mac-addresses:
+  id: 230fd690-d4bf-423c-aba3-80c705de0b17
+  macAddresses:
   - 8C:1F:64:79:E0:00/36
   manufacturer: Accemic Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccemicT
 type: d3-device-type-assertion

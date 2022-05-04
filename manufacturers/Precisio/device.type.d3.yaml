@@ -1,6 +1,6 @@
 credentialSubject:
-  id: da738584-9816-4999-b37f-eea1e0a2aaa8
-  mac-addresses:
+  id: 8e19684d-2b9d-4a0a-be55-26d51b9af8a5
+  macAddresses:
   - 00:01:B3:00:00:00/24
   - 00:16:5E:00:00:00/24
   - 00:40:2E:00:00:00/24
@@ -13,6 +13,6 @@ credentialSubject:
   - A8:29:4C:00:00:00/24
   - BC:97:40:30:00:00/28
   manufacturer: Precision Electronic Manufacturing
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Precisio
 type: d3-device-type-assertion

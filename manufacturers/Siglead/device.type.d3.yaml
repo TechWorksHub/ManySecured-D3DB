@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64ff736a-86e2-45a1-ac09-62edae8c0ca6
-  mac-addresses:
+  id: 9bad9b0a-b682-47b8-9c48-6c9403612d7f
+  macAddresses:
   - 70:B3:D5:AB:70:00/36
   manufacturer: Siglead Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siglead
 type: d3-device-type-assertion

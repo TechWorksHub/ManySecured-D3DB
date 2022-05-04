@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20fa1a34-1fec-43cd-a412-07ec05990f79
-  mac-addresses:
+  id: 40b6a9a3-5850-42fe-836d-20e51b40b538
+  macAddresses:
   - 00:E0:CC:00:00:00/24
   manufacturer: Hero Systems, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hero
 type: d3-device-type-assertion

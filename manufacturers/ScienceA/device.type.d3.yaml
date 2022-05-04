@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8dbb06f-1c49-4b31-85d3-a1b8acdd19f4
-  mac-addresses:
+  id: c73ef59f-00fd-46c0-a2df-146039e6a2f8
+  macAddresses:
   - 00:15:F6:00:00:00/24
   manufacturer: Science And Engineering Services, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScienceA
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c700a96-7e73-4b4f-b88d-f81788f18ab2
-  mac-addresses:
+  id: 33923d2f-f3fd-468d-a5cc-034f0ef969db
+  macAddresses:
   - 90:DA:6A:00:00:00/24
   manufacturer: FOCUS H&S Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FOCUSH&S
 type: d3-device-type-assertion

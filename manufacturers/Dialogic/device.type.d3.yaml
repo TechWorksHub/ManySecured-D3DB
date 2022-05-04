@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e660db6a-d400-4cad-a392-27830ea358bc
-  mac-addresses:
+  id: 8ce9f5b9-72a1-4a31-a251-aa3a61d6ff9a
+  macAddresses:
   - 00:60:68:00:00:00/24
   - 00:A0:E6:00:00:00/24
   manufacturer: Dialogic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dialogic
 type: d3-device-type-assertion

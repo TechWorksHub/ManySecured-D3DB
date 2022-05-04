@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c870f25-1092-4f13-a1b6-6821d5531b8e
-  mac-addresses:
+  id: eb078e91-05c9-4999-8585-4c1e800f6f59
+  macAddresses:
   - 74:59:33:00:00:00/24
   manufacturer: Danal Entertainment
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DanalEnt
 type: d3-device-type-assertion

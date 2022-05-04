@@ -1,8 +1,8 @@
 credentialSubject:
-  id: daf42a41-a9be-4cde-8921-5f55edec660a
-  mac-addresses:
+  id: 64576308-b13d-4d45-9f31-2d0b961bf9e2
+  macAddresses:
   - 70:B3:D5:D1:30:00/36
   manufacturer: IRT Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IRTTechn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0fa98ff7-a67b-4b9d-a77b-33612b159a2a
-  mac-addresses:
+  id: 714d564c-7abd-4884-be41-0f159dd8c043
+  macAddresses:
   - 00:13:3B:00:00:00/24
   manufacturer: Speed Dragon Multimedia Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpeedDra
 type: d3-device-type-assertion

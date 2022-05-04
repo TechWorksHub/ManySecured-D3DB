@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16d7cdd2-cf1d-47f5-a41a-a7c57aac370f
-  mac-addresses:
+  id: fb05d9c6-b98b-4c95-9e3f-a5bc18a634d6
+  macAddresses:
   - 00:09:EC:00:00:00/24
   manufacturer: Daktronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Daktroni
 type: d3-device-type-assertion

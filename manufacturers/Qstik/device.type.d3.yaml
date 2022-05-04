@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05b1ae70-d24b-4d0d-b5f6-de40ea8f0687
-  mac-addresses:
+  id: 2fe0329a-2b4c-4c40-9ced-c26c779bb752
+  macAddresses:
   - 00:17:15:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qstik
 type: d3-device-type-assertion

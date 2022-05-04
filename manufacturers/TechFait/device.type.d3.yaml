@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a329d3c9-f545-4c6f-b45c-2051aeed30ca
-  mac-addresses:
+  id: 1ef05db0-1b46-4345-a0df-ac3a6a4d7143
+  macAddresses:
   - 18:97:FF:00:00:00/24
   manufacturer: TechFaith Wireless Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechFait
 type: d3-device-type-assertion

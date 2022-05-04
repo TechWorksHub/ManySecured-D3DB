@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a35d30c7-a713-4fa3-8418-8edf1765f521
-  mac-addresses:
+  id: 9564e9c3-9ec0-4180-aa02-cd94416699ac
+  macAddresses:
   - 00:0A:AA:00:00:00/24
   manufacturer: AltiGen Communications Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AltiGenC
 type: d3-device-type-assertion

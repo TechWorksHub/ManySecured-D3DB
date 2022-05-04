@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b32f65c-fc23-4947-865e-f5562ba0e743
-  mac-addresses:
+  id: a62a19fa-fe2d-40b1-897b-cbd88a28cc8f
+  macAddresses:
   - 00:06:BA:00:00:00/24
   manufacturer: Westwave Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Westwave
 type: d3-device-type-assertion

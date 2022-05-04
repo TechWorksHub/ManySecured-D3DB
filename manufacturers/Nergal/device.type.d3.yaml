@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 635a6bfb-4372-4ef7-b73f-b86120adfd71
-  mac-addresses:
+  id: e2a2de9d-efe7-4293-a48a-301ebbcb921d
+  macAddresses:
   - 00:0C:8F:00:00:00/24
   manufacturer: Nergal s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nergal
 type: d3-device-type-assertion

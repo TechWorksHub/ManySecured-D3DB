@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97bd1c77-26d5-4028-9bf2-2b363476c5be
-  mac-addresses:
+  id: c44d8d68-2912-40b3-8651-58303f4e98f4
+  macAddresses:
   - 00:05:6A:00:00:00/24
   manufacturer: Heuft Systemtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeuftSys
 type: d3-device-type-assertion

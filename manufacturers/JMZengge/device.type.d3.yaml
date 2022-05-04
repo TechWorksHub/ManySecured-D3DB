@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c88c2fc8-6012-4041-ab9c-e26070cb0e2b
-  mac-addresses:
+  id: 5f37f4e1-bcf7-44e3-bf91-b043f42a9146
+  macAddresses:
   - 08:65:F0:00:00:00/24
   manufacturer: JM Zengge Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JMZengge
 type: d3-device-type-assertion

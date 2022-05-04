@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80583ae6-21d6-4ecd-87bb-3c73af6e6e5b
-  mac-addresses:
+  id: 21bbef05-8dff-44dd-8d8c-4a726bca7701
+  macAddresses:
   - 00:1B:28:00:00:00/24
   manufacturer: Polygon, Jsc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polygon
 type: d3-device-type-assertion

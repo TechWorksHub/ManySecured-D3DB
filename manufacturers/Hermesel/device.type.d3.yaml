@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00a48e50-0789-465d-a8e4-bd0896177b9d
-  mac-addresses:
+  id: 9bc99a1c-38f9-4749-bdd7-0e3b7ee0344b
+  macAddresses:
   - C4:0F:09:00:00:00/24
   manufacturer: Hermes electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hermesel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6fca875-dced-4652-8c31-66f59dfe1301
-  mac-addresses:
+  id: 82199fa3-6396-416b-ab51-313414aca360
+  macAddresses:
   - 00:40:53:00:00:00/24
   manufacturer: Ampro Computers
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmproCom
 type: d3-device-type-assertion

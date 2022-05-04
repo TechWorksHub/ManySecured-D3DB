@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6f42e310-baf6-42cf-9424-0b47406fe405
-  mac-addresses:
+  id: 4accfd5a-4481-4d9f-9036-2f40192430d3
+  macAddresses:
   - 28:36:13:10:00:00/28
   manufacturer: Hi-p (Suzhou) Electronics Co,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hi-pSuzh
 type: d3-device-type-assertion

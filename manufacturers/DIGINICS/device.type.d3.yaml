@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9264bb29-afdf-4423-9039-193b161c256a
-  mac-addresses:
+  id: 9c5578cf-2749-481e-922a-027f32b573f4
+  macAddresses:
   - 00:0D:E4:00:00:00/24
   manufacturer: DIGINICS, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DIGINICS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b5562a8-695d-488c-8d71-2d6ef4ba4df4
-  mac-addresses:
+  id: 32b6b047-f71a-49ea-9be0-a88584e38dc8
+  macAddresses:
   - 80:7B:85:C0:00:00/28
   manufacturer: SCALA Digital Technology(Ningbo) CO, LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SCALADig
 type: d3-device-type-assertion

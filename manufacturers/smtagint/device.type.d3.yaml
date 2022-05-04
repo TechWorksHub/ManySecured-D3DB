@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9a14934-dd86-43f2-adcc-287412973e19
-  mac-addresses:
+  id: f18f6a62-52ba-4300-a7fa-52bc4d607dac
+  macAddresses:
   - 00:50:C2:8B:B0:00/36
   manufacturer: smtag international ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: smtagint
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2832d02f-4722-4f67-8064-e28dd76a1fb6
-  mac-addresses:
+  id: b3f1602b-29e5-460c-9523-df9a0caf48c2
+  macAddresses:
   - 70:B3:D5:C6:70:00/36
   manufacturer: Collini Dienstleistungs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ColliniD
 type: d3-device-type-assertion

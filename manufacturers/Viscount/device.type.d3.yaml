@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e433a15-01f2-4e07-982e-a843b440ea42
-  mac-addresses:
+  id: 96a125b0-6fd4-4514-8af3-126e96e5ef39
+  macAddresses:
   - CC:72:0F:00:00:00/24
   manufacturer: Viscount Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viscount
 type: d3-device-type-assertion

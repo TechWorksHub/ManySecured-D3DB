@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 413dd914-bd81-40af-bcc3-56f8fd995607
-  mac-addresses:
+  id: 3e655772-7c06-41ea-b038-d961ebd7090f
+  macAddresses:
   - 00:21:88:00:00:00/24
   manufacturer: EMC Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMC
 type: d3-device-type-assertion

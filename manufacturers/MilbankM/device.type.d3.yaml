@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 70591768-f26a-49c2-99b5-62e60f50802b
-  mac-addresses:
+  id: d4c33717-90cb-4cc8-b5f2-97a6867db61c
+  macAddresses:
   - 2C:6A:6F:80:00:00/28
   manufacturer: Milbank Manufacturing Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MilbankM
 type: d3-device-type-assertion

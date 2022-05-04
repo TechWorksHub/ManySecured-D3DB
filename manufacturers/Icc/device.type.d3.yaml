@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2cda4c80-be4e-4473-8021-1360ba56de89
-  mac-addresses:
+  id: b60dafbb-adb0-4e1d-b84e-4840438806c0
+  macAddresses:
   - 00:40:1E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Icc
 type: d3-device-type-assertion

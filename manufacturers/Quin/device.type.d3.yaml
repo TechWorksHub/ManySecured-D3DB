@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da16bac1-8ecf-47a1-a003-edfa06e0103e
-  mac-addresses:
+  id: 86ff4776-c70b-4924-b40c-c05f0cc28345
+  macAddresses:
   - 00:40:E3:00:00:00/24
   manufacturer: Quin Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Quin
 type: d3-device-type-assertion

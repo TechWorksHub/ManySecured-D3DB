@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a6ea197-2782-410d-92b9-ba976d08e544
-  mac-addresses:
+  id: c0c0a700-cb63-4773-84aa-b24c8ff167ba
+  macAddresses:
   - 70:B3:D5:E4:40:00/36
   manufacturer: BrainboxAI Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brainbox
 type: d3-device-type-assertion

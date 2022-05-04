@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 86bc6220-b6b9-4179-b190-086a93e87257
-  mac-addresses:
+  id: 736bd42f-a7ed-4c08-a8f7-d8ee8aa3dccd
+  macAddresses:
   - 70:B3:D5:03:B0:00/36
   manufacturer: SSL - Electrical Aerospace Ground Equipment Section
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SSL-Elec
 type: d3-device-type-assertion

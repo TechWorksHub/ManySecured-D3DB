@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39900f78-67b6-47f2-90c6-ff108e01c111
-  mac-addresses:
+  id: 587378cd-1d43-4b4e-81d2-8e69783462b6
+  macAddresses:
   - 00:21:7F:00:00:00/24
   manufacturer: Intraco Technology Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntracoT
 type: d3-device-type-assertion

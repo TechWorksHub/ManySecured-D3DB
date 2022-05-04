@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 528d5480-bb8b-4457-863c-19db8254968e
-  mac-addresses:
+  id: 2f39ee05-fcaa-4f12-9844-1fac42ff3d77
+  macAddresses:
   - 00:0E:50:00:00:00/24
   - 00:0E:80:00:00:00/24
   - 00:14:7F:00:00:00/24
@@ -12,6 +12,6 @@ credentialSubject:
   - 00:90:D0:00:00:00/24
   - 08:76:FF:00:00:00/24
   manufacturer: Thomson Telecom Belgium
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThomsonT
 type: d3-device-type-assertion

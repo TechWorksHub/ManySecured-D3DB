@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02da3306-0a9c-4be9-8282-7fd6360a743b
-  mac-addresses:
+  id: 99683c5f-69d8-4ce7-904b-a8c9afd2ce86
+  macAddresses:
   - 5C:40:58:00:00:00/24
   manufacturer: Jefferson Audio Video Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jefferso
 type: d3-device-type-assertion

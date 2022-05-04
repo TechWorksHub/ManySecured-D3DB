@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aca581cb-a4ab-41bc-8a74-fa713a859c6c
-  mac-addresses:
+  id: 4466c88b-67d9-4604-9d13-30a5d1a76a4e
+  macAddresses:
   - 40:D8:55:0E:F0:00/36
   manufacturer: GeneSys Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeneSysE
 type: d3-device-type-assertion

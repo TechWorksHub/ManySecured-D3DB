@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 453708bd-b54d-4ed4-97d1-6e283091d302
-  mac-addresses:
+  id: 1abd3302-5d8f-4575-8219-4e52cd45aead
+  macAddresses:
   - 38:FD:FE:A0:00:00/28
   manufacturer: Management Service Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Manageme
 type: d3-device-type-assertion

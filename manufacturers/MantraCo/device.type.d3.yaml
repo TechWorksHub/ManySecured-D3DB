@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d2cb248-a301-4c3f-95a0-9a7dba040cd8
-  mac-addresses:
+  id: 68f96716-c658-46c0-b171-763b724c233e
+  macAddresses:
   - 00:02:33:00:00:00/24
   manufacturer: Mantra Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MantraCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d6d7cf6d-ab13-4694-b8d5-e984e7c8949c
-  mac-addresses:
+  id: e7eb7dae-3287-4b3a-914c-521e1ebe2d99
+  macAddresses:
   - 70:B3:D5:EE:10:00/36
   manufacturer: allora Factory BVBA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: alloraFa
 type: d3-device-type-assertion

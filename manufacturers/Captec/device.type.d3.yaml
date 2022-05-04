@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9042c7e-481a-43d4-a026-7ead84918c4c
-  mac-addresses:
+  id: 688822a5-b9a6-4159-97b0-07e9ca6f161c
+  macAddresses:
   - 34:D0:B8:00:00:00/28
   manufacturer: Captec Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Captec
 type: d3-device-type-assertion

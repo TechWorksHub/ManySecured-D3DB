@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e0e3ddc-7748-43c2-a427-9ab6011acd0b
-  mac-addresses:
+  id: 35ee97f8-d8e3-4330-bb82-72ecc12b62da
+  macAddresses:
   - 70:B3:D5:55:F0:00/36
   manufacturer: Deep BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Deep
 type: d3-device-type-assertion

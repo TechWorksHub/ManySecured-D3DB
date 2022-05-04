@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b98b033b-b270-495b-b036-34be0e6a1609
-  mac-addresses:
+  id: 317a4b39-57ba-4855-ac5b-f7e581822f64
+  macAddresses:
   - 00:04:79:00:00:00/24
   manufacturer: Radius Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radius
 type: d3-device-type-assertion

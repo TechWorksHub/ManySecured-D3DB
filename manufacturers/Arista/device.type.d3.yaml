@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9d19f30e-d177-46ea-94df-2a5c66278829
-  mac-addresses:
+  id: 2a8982a8-7a6a-48dd-ae23-c5db628cd344
+  macAddresses:
   - 00:50:C2:E9:70:00/36
   - 40:01:07:00:00:00/24
   manufacturer: Arista Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arista
 type: d3-device-type-assertion

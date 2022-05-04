@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 777b0748-3991-4d86-9de3-bc9296ee8b5a
-  mac-addresses:
+  id: 67b83b30-d58a-41ad-bb9e-a76d7363f6f5
+  macAddresses:
   - 00:02:75:00:00:00/24
   manufacturer: SMART Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMARTTec
 type: d3-device-type-assertion

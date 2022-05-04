@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a7d9909-87b4-4fdd-b1eb-656cec36bf98
-  mac-addresses:
+  id: 732392ee-7a4b-40e4-b60e-fe99a10ca1f7
+  macAddresses:
   - F4:CA:24:00:00:00/24
   manufacturer: FreeBit Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FreeBit
 type: d3-device-type-assertion

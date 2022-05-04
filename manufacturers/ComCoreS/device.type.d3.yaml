@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa12fa71-0ff0-45c6-9c8a-d5e99d466ca2
-  mac-addresses:
+  id: ad262e73-e4bd-4255-8677-f2dd8ead8f45
+  macAddresses:
   - 00:E0:A5:00:00:00/24
   manufacturer: ComCore Semiconductor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ComCoreS
 type: d3-device-type-assertion

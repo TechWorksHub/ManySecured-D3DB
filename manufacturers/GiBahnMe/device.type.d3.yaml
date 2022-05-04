@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c108d35-aa6b-48a4-952c-5aee5b967b6e
-  mac-addresses:
+  id: b3f2fc4a-ca2d-4390-8f9c-a4095ecfd974
+  macAddresses:
   - 00:1F:75:00:00:00/24
   manufacturer: GiBahn Media
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiBahnMe
 type: d3-device-type-assertion

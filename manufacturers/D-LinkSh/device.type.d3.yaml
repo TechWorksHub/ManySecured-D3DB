@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c995998-090b-4427-9a52-3700ef6aa7c1
-  mac-addresses:
+  id: 2e8c671a-449f-4a39-bb5b-66ee4382723f
+  macAddresses:
   - B4:37:D8:00:00:00/24
   manufacturer: D-Link (Shanghai) Limited Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D-LinkSh
 type: d3-device-type-assertion

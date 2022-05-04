@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67781fc1-4de8-4c5b-9c80-e02b4387586b
-  mac-addresses:
+  id: ebb5c33e-10df-44b2-97f3-a46ff2dd70c2
+  macAddresses:
   - 00:50:C2:AE:60:00/36
   manufacturer: Vecom Usa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VecomUsa
 type: d3-device-type-assertion

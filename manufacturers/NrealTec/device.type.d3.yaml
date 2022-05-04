@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6c3ce20-df19-4a3a-8043-a229f55042b7
-  mac-addresses:
+  id: c7e42db8-98e1-473a-9ed2-f8f512f5c5c8
+  macAddresses:
   - FC:D2:B6:A0:00:00/28
   manufacturer: Nreal Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NrealTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e65c3b60-330a-4f70-a8da-89c8302fbf29
-  mac-addresses:
+  id: 8837f7ab-3ec1-4a8e-bf49-429962d3e049
+  macAddresses:
   - F0:2A:2B:80:00:00/28
   manufacturer: Tenways Engineering Service Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TenwaysE
 type: d3-device-type-assertion

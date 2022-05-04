@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25e9ce86-a044-46e7-9c8b-ed9ed46ba7f0
-  mac-addresses:
+  id: 6c910ee1-3104-4aa0-a869-6dc5b9cc6110
+  macAddresses:
   - 00:04:5C:00:00:00/24
   manufacturer: Mobiwave Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobiwave
 type: d3-device-type-assertion

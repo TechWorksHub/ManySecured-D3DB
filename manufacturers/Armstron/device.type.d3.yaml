@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 5760b9ed-a537-4484-877b-9ddbdf741f6a
-  mac-addresses:
+  id: 0f1d46d3-9c50-4720-85e5-f0fa4cf3d3ab
+  macAddresses:
   - 04:71:4B:60:00:00/28
   - 4C:80:4F:00:00:00/24
   - 70:B3:D5:15:B0:00/36
   manufacturer: Armstrong Fluid Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Armstron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db15fe8a-07bf-4e05-84fe-b48b2a357725
-  mac-addresses:
+  id: 80cc1045-4072-49d1-9c21-fb0d8540bcf7
+  macAddresses:
   - 00:06:A0:00:00:00/24
   manufacturer: Mx Imaging
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MxImagin
 type: d3-device-type-assertion

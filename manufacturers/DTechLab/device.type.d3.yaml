@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55b4dc29-a38d-4c9b-a25e-f22d120d717e
-  mac-addresses:
+  id: a5f543ab-dd2a-4427-88a4-f2c618863654
+  macAddresses:
   - 00:50:C2:70:70:00/36
   manufacturer: DTech Labs Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DTechLab
 type: d3-device-type-assertion

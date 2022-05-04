@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1d3a9729-d06d-43fd-adab-80b96ac9e7f0
-  mac-addresses:
+  id: 829ca7a1-958b-47fd-845d-4d1e9001baaf
+  macAddresses:
   - 00:19:41:00:00:00/24
   - 00:50:C2:47:B0:00/36
   manufacturer: Pitney Bowes, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PitneyBo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 590e1e3b-a78a-4fbd-bc98-0ea3c6e8c566
-  mac-addresses:
+  id: 50b2606a-1ee4-4f9a-a563-96c7bb043ff2
+  macAddresses:
   - 00:50:C2:AE:90:00/36
   manufacturer: ClearCorp Enterprises, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClearCor
 type: d3-device-type-assertion

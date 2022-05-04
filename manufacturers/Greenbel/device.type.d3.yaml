@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 720772b8-94b4-465f-b2fa-a102bf3f1355
-  mac-addresses:
+  id: 07a97b76-8c42-4a5d-8a29-e66e3557111a
+  macAddresses:
   - 00:0F:2B:00:00:00/24
   manufacturer: Greenbell Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greenbel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79bcf401-1fdb-4771-80f6-72bd4f0adeb4
-  mac-addresses:
+  id: b64bc361-b096-4496-abe7-3f3c3d5538f1
+  macAddresses:
   - 28:79:94:00:00:00/24
   manufacturer: Realplay Digital Technology(Shenzhen) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Realplay
 type: d3-device-type-assertion

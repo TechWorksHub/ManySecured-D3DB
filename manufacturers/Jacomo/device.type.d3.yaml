@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d9662f5-faaf-475d-a9ca-be70a1768a18
-  mac-addresses:
+  id: 3e3422fc-94ed-4cde-a22c-fd7c0fe4ceb2
+  macAddresses:
   - 00:A0:8D:00:00:00/24
   manufacturer: Jacomo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jacomo
 type: d3-device-type-assertion

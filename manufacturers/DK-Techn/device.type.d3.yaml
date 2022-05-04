@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b97cea7-aab5-45d9-93df-cbcf4ce8d4a7
-  mac-addresses:
+  id: eee24088-8950-4942-86ff-7b602ace2675
+  macAddresses:
   - 70:B3:D5:3C:00:00/36
   manufacturer: DK-Technologies A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DK-Techn
 type: d3-device-type-assertion

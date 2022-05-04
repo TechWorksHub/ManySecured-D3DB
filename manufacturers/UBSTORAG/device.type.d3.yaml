@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d358197-f792-46a0-b007-30e37674225e
-  mac-addresses:
+  id: 19a06762-b5a2-436e-993f-da29cd6b5d52
+  macAddresses:
   - 00:0F:7F:00:00:00/24
   manufacturer: UBSTORAGE Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UBSTORAG
 type: d3-device-type-assertion

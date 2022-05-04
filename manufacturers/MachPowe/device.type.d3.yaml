@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d01ddb4-5168-43e6-a56c-683e461d22be
-  mac-addresses:
+  id: 095963ae-176a-447c-b5e7-e92ab854f162
+  macAddresses:
   - 28:AC:67:00:00:00/24
   manufacturer: Mach Power, Rappresentanze Internazionali s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MachPowe
 type: d3-device-type-assertion

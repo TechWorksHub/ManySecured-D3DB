@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9eea4b4f-7d9a-4d29-bd99-76dde5f6ae34
-  mac-addresses:
+  id: c0a4937b-b9fd-4e5f-b711-c99bb80c144f
+  macAddresses:
   - 00:1F:BA:00:00:00/24
   manufacturer: Boyoung Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoyoungT
 type: d3-device-type-assertion

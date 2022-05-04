@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa65e6ec-d7c0-4ce9-9a78-25f12cfb85ce
-  mac-addresses:
+  id: bcc73a87-a440-4a98-85d1-19fff2d6611f
+  macAddresses:
   - 50:62:55:A0:00:00/28
   manufacturer: CCTV Manufacturer
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CCTVManu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 50b0ffe7-7e0e-4cf5-bd1a-1847e51dacf9
-  mac-addresses:
+  id: 513fa66c-2c42-4a57-bd5f-d1973041969f
+  macAddresses:
   - E8:C5:7A:00:00:00/24
   manufacturer: Ufispace Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ufispace
 type: d3-device-type-assertion

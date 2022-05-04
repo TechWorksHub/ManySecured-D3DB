@@ -1,10 +1,10 @@
 credentialSubject:
-  id: d6fd3979-a98b-42a0-9ce9-e1559a82a27e
-  mac-addresses:
+  id: 286c4275-b577-43ba-ab14-9c758d46e315
+  macAddresses:
   - 00:00:90:00:00:00/24
   - 00:02:57:00:00:00/24
   - 00:20:D1:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Microcom
 type: d3-device-type-assertion

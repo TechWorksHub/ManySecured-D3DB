@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 6a7338b8-4143-4210-83c6-a05708a2e857
-  mac-addresses:
+  id: 84d9fa62-aa0a-47c1-b8f1-aebd1ce5cfad
+  macAddresses:
   - 00:50:C2:4D:10:00/36
   - 00:50:C2:82:80:00/36
   - 00:50:C2:B5:90:00/36
   manufacturer: SLICAN sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SLICANsp
 type: d3-device-type-assertion

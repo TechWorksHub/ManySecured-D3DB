@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddb9c622-824e-4f2e-9153-f75086837d24
-  mac-addresses:
+  id: 0593c7a6-42f7-4fa1-8111-7aa5739a1c8a
+  macAddresses:
   - 00:50:C2:0A:80:00/36
   manufacturer: Kaveri Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KaveriNe
 type: d3-device-type-assertion

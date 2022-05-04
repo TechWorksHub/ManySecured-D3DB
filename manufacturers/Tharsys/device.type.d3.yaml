@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b09880b-0434-41b7-ad99-96d55f9b4a46
-  mac-addresses:
+  id: 4eba33fb-db87-4da6-928a-f3683c533819
+  macAddresses:
   - 00:50:C2:00:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tharsys
 type: d3-device-type-assertion

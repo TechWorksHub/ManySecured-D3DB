@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cf5fb54-5c57-41ea-884f-94340ccba705
-  mac-addresses:
+  id: 7461b21c-e69f-4a68-b9ad-10867abb624c
+  macAddresses:
   - 70:B3:D5:48:F0:00/36
   manufacturer: Seiwa Giken
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeiwaGik
 type: d3-device-type-assertion

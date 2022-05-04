@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb278d7e-d4e4-44a1-b957-99bdfc40424f
-  mac-addresses:
+  id: 2ee9eb2a-ce31-4e41-8633-3da74de15d54
+  macAddresses:
   - 74:37:3B:00:00:00/24
   manufacturer: UNINET Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UNINET
 type: d3-device-type-assertion

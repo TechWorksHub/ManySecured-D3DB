@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5bf9d8b-dcc9-4bf6-ae04-021e92d4a422
-  mac-addresses:
+  id: b231f256-35ac-49cd-9a17-8a623012cec0
+  macAddresses:
   - 00:A0:D4:00:00:00/24
   manufacturer: Radiolan, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Radiolan
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f089b4b0-abfd-41dd-a4bb-0aebcbf9433d
-  mac-addresses:
+  id: d13b4e19-192d-40cb-93bd-63d3802a8a20
+  macAddresses:
   - A0:19:B2:60:00:00/28
   manufacturer: GfG mbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GfGmbH
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: ac044dd9-8871-4b05-8a3d-c77dc7ff8946
-  mac-addresses:
+  id: 9693cda2-0402-4841-b633-0352d0ac2ed3
+  macAddresses:
   - 00:80:8C:00:00:00/24
   - 00:A0:0E:00:00:00/24
   - 04:9F:81:00:00:00/24
   - D8:E7:2B:00:00:00/24
   manufacturer: Netscout Systems (formerly Frontier Software Development)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netscout
 type: d3-device-type-assertion

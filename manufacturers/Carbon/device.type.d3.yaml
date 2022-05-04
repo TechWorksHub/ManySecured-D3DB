@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 039806eb-13a7-491e-91d2-fea7a876d455
-  mac-addresses:
+  id: 8ba7845e-7515-4b56-a49e-2b2ea3d08622
+  macAddresses:
   - A4:11:63:50:00:00/28
   manufacturer: Carbon, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carbon
 type: d3-device-type-assertion

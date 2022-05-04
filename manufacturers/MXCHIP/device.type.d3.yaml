@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc4381a6-92db-4a07-bc04-d58187de419f
-  mac-addresses:
+  id: 3290b263-5d6a-4316-b1ef-304bcfa64a47
+  macAddresses:
   - C8:93:46:00:00:00/24
   manufacturer: MXCHIP Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MXCHIP
 type: d3-device-type-assertion

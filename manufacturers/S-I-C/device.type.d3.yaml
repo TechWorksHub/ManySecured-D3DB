@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db7e45f8-6d0a-4dc7-b9b1-e05b6d406d53
-  mac-addresses:
+  id: 3c10f599-4282-4af6-9cba-cd2552874566
+  macAddresses:
   - 70:B3:D5:73:B0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: S-I-C
 type: d3-device-type-assertion

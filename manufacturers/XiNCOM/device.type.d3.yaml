@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a56c9b0a-934c-486b-aa3e-523974ff2959
-  mac-addresses:
+  id: ba39b756-41cb-42ea-89bd-d5bcb441b3ec
+  macAddresses:
   - 00:0E:DB:00:00:00/24
   manufacturer: XiNCOM Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiNCOM
 type: d3-device-type-assertion

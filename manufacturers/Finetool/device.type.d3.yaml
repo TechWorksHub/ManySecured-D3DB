@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f605e756-327f-46f2-9e0b-7cea314e1137
-  mac-addresses:
+  id: cc4dfe54-fa6a-4844-86b8-fcce2cb34212
+  macAddresses:
   - 78:5E:E8:C0:00:00/28
   manufacturer: Finetooling Technology(Hong Kong)Co.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Finetool
 type: d3-device-type-assertion

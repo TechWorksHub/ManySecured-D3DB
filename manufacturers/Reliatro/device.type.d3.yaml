@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fc29a5c6-ad93-4693-8c06-b53889025a1a
-  mac-addresses:
+  id: f214907a-ac70-4836-9fd9-cacb75c986ee
+  macAddresses:
   - 00:50:C2:93:B0:00/36
   - 1C:21:D1:80:00:00/28
   manufacturer: Reliatronics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reliatro
 type: d3-device-type-assertion

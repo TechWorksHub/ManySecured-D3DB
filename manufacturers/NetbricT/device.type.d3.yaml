@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3162bfa3-3011-49b1-bd33-67bbe7ac5e73
-  mac-addresses:
+  id: 922afb22-8a92-4f48-a621-472c5fd366f0
+  macAddresses:
   - 70:B3:D5:64:A0:00/36
   manufacturer: Netbric Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetbricT
 type: d3-device-type-assertion

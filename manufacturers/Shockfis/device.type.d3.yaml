@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 25c5a05f-293f-4dd6-9a8e-c9d80f901916
-  mac-addresses:
+  id: 33bfeb4f-3799-435f-92a7-88390c21b38e
+  macAddresses:
   - 00:50:C2:63:50:00/36
   - 00:50:C2:89:40:00/36
   - 00:50:C2:96:20:00/36
   manufacturer: Shockfish SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shockfis
 type: d3-device-type-assertion

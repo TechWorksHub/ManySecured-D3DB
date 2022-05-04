@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1cb29dc-90c5-43fa-bd6c-81c104fb4dbf
-  mac-addresses:
+  id: d85eb0ad-3507-418c-a531-8616c6cc30a4
+  macAddresses:
   - 00:30:D8:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sitek
 type: d3-device-type-assertion

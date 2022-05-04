@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2470bafd-e02d-47cd-a3c8-6c7d2f806a25
-  mac-addresses:
+  id: 56115ed2-678c-4a6d-92b9-35086bb69fe6
+  macAddresses:
   - 00:02:C2:00:00:00/24
   - 00:50:C2:07:10:00/36
   manufacturer: Net Vision Telecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetVisio
 type: d3-device-type-assertion

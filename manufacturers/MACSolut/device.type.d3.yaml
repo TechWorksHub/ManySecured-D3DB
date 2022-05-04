@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e7024711-e271-4611-b112-134d86f2fe62
-  mac-addresses:
+  id: 7b837c8a-32f8-46ff-ad65-c019781ef7e6
+  macAddresses:
   - 70:B3:D5:E6:A0:00/36
   - 70:B3:D5:F9:F0:00/36
   manufacturer: MAC Solutions (UK) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MACSolut
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f61e571c-fde8-4c82-b2ab-870e9d236deb
-  mac-addresses:
+  id: 8c331535-a84c-4290-8af6-c853f89a47b7
+  macAddresses:
   - D8:19:CE:00:00:00/24
   manufacturer: Telesquare
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telesqua
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f24fdf97-e2cb-4fcf-830a-f9a406d3cf6a
-  mac-addresses:
+  id: 9aab73a6-7f62-4556-8192-48b6e424a49a
+  macAddresses:
   - D0:54:75:00:00:00/24
   manufacturer: SAVI Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAVICont
 type: d3-device-type-assertion

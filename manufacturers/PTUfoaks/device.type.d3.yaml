@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89c217ad-034b-4c46-ba3f-e73606d7d22e
-  mac-addresses:
+  id: 4a7cdf73-ee0b-461e-9a12-ebd6f4406780
+  macAddresses:
   - 00:19:FC:00:00:00/24
   manufacturer: PT. Ufoakses Sukses Luarbiasa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTUfoaks
 type: d3-device-type-assertion

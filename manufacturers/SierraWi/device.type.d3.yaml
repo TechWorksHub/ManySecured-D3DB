@@ -1,12 +1,12 @@
 credentialSubject:
-  id: ad92620d-dfd1-4d2c-9d1f-7c04af91bf63
-  mac-addresses:
+  id: e7405a68-9535-4189-92d5-af7d7ca15cd5
+  macAddresses:
   - 00:A0:D5:00:00:00/24
   - 28:A3:31:00:00:00/24
   - 64:CE:6E:00:00:00/24
   - 84:DB:2F:00:00:00/24
   - CC:93:4A:00:00:00/24
   manufacturer: Sierra Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SierraWi
 type: d3-device-type-assertion

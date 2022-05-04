@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1b50ad0-cd16-4c65-89b1-9c91a6a32dd7
-  mac-addresses:
+  id: f597c116-2edd-49e8-8ed9-297a803bfbfd
+  macAddresses:
   - 00:A0:AA:00:00:00/24
   manufacturer: Spacelabs Medical
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spacelab
 type: d3-device-type-assertion

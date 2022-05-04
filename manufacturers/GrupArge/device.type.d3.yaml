@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55446758-70e3-4cb1-8504-57f34ee265d6
-  mac-addresses:
+  id: b6c62eb3-143c-4fae-af14-4c9ca9ee7b1a
+  macAddresses:
   - C0:61:9A:20:00:00/28
   manufacturer: Grup Arge Enerji ve Kontrol Sistemleri
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GrupArge
 type: d3-device-type-assertion

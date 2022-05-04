@@ -1,9 +1,9 @@
 credentialSubject:
-  id: a97028b1-49a8-4e06-9c04-73db23c01e87
-  mac-addresses:
+  id: 90c8b02e-7c02-4471-a413-fd5222715aa8
+  macAddresses:
   - 3C:6A:2C:40:00:00/28
   - C4:A1:0E:90:00:00/28
   manufacturer: Xi'An Yep Telecom Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiAnYepT
 type: d3-device-type-assertion

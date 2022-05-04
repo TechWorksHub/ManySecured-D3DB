@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e040e086-c375-4ef3-be55-874b2508c789
-  mac-addresses:
+  id: 9dbdd90a-2e9f-423b-988a-dd830b1a407d
+  macAddresses:
   - 00:50:C2:22:40:00/36
   manufacturer: PANNOCOM Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PANNOCOM
 type: d3-device-type-assertion

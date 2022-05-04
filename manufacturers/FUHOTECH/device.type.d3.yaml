@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c81470fe-d54f-4155-86db-26ae43c05be1
-  mac-addresses:
+  id: 1d811a5a-4dd9-45d1-ad32-fd6185a50a30
+  macAddresses:
   - 00:16:55:00:00:00/24
   manufacturer: FUHO TECHNOLOGY Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FUHOTECH
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0652228-36d9-4b23-aa93-817c6efeb144
-  mac-addresses:
+  id: 79faca4f-0ec4-493d-bf8c-7e7a1af1c01b
+  macAddresses:
   - 70:B3:D5:9B:70:00/36
   manufacturer: Itronics Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Itronics
 type: d3-device-type-assertion

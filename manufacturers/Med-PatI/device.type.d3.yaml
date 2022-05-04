@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42565374-0dc2-4aac-b870-7965ea455673
-  mac-addresses:
+  id: b6e5e9d0-49c6-4090-9876-21d7b0085be4
+  macAddresses:
   - F0:AC:D7:30:00:00/28
   manufacturer: Med-Pat/Inn-Phone
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Med-PatI
 type: d3-device-type-assertion

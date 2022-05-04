@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fe64a6b-e9f9-4047-bc6b-df4ca6884b51
-  mac-addresses:
+  id: 16a20b24-2d74-4a6f-9b35-6ef18aba6dfe
+  macAddresses:
   - 34:C6:9A:00:00:00/24
   manufacturer: Enecsys Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enecsys
 type: d3-device-type-assertion

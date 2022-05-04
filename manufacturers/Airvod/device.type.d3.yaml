@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e828f8d6-6ac8-4447-b39d-ac9c4a1564dd
-  mac-addresses:
+  id: 36355c4d-102f-4144-b46c-2214d36acc34
+  macAddresses:
   - 00:1B:B4:00:00:00/24
   manufacturer: Airvod Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airvod
 type: d3-device-type-assertion

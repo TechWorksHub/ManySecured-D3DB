@@ -1,8 +1,8 @@
 credentialSubject:
-  id: adc9d46c-1d9c-435c-8d9e-c9e91c970f4a
-  mac-addresses:
+  id: b74d8a97-211c-4490-bf2a-445b269a9fb5
+  macAddresses:
   - F8:C6:78:00:00:00/24
   manufacturer: Carefusion
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Carefusi
 type: d3-device-type-assertion

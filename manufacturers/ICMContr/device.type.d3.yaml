@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1d7f184-f887-4af2-90e9-1c96dba5fd49
-  mac-addresses:
+  id: 878a22f0-d550-4edf-8f08-6e8bf014da5e
+  macAddresses:
   - 4C:2F:9D:00:00:00/24
   manufacturer: ICM Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICMContr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2b3f522-cfce-4926-b598-a4cd6ea5aaf1
-  mac-addresses:
+  id: b2f8f6fc-c448-4fb7-b1a4-399b84042435
+  macAddresses:
   - 70:B3:D5:81:30:00/36
   manufacturer: Wavemed srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wavemed
 type: d3-device-type-assertion

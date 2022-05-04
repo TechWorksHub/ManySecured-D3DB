@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2ebb1de-cf53-4384-977f-aa65cb3c6b19
-  mac-addresses:
+  id: 295df79d-8a15-4344-b205-2a7828ac3b6c
+  macAddresses:
   - B8:29:F7:00:00:00/24
   manufacturer: Blaster Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlasterT
 type: d3-device-type-assertion

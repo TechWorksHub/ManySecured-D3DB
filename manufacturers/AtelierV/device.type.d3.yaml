@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd33bf8f-f6cd-4ec6-bb73-a662952f5a05
-  mac-addresses:
+  id: 1f4b0404-18fb-4b73-833b-0050edd1a0a0
+  macAddresses:
   - 68:9A:B7:00:00:00/24
   manufacturer: Atelier Vision Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtelierV
 type: d3-device-type-assertion

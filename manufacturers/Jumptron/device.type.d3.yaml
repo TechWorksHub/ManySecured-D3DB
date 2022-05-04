@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b18b89e-70d6-4243-8711-68f5070bd9b2
-  mac-addresses:
+  id: 27b8170f-d0e4-4d33-a77a-522caafc40f5
+  macAddresses:
   - E4:82:CC:00:00:00/24
   manufacturer: Jumptronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jumptron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54482d21-593b-43b4-8a10-6cb16494024f
-  mac-addresses:
+  id: 093f2adc-adc8-4b13-9dfc-40167afac3fa
+  macAddresses:
   - 00:0F:D0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Astri
 type: d3-device-type-assertion

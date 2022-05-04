@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f32bbbcd-bd29-4de0-8565-5d82ca24834f
-  mac-addresses:
+  id: e59e51ff-6e18-4726-baa9-381903fe954e
+  macAddresses:
   - 00:50:C2:C2:40:00/36
   manufacturer: Qualnetics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qualneti
 type: d3-device-type-assertion

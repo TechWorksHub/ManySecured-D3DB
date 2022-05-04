@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4e9952e0-4bb1-4d06-a842-402035367ae1
-  mac-addresses:
+  id: 1ce084d9-aa1a-41ec-ada5-713742bbbf4b
+  macAddresses:
   - 00:50:C2:92:40:00/36
   - 70:B3:D5:60:D0:00/36
   manufacturer: Link Electric & Safety Control Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkElec
 type: d3-device-type-assertion

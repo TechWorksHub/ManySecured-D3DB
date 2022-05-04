@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aac20411-0d5e-44d2-9d45-1b3df9ba1330
-  mac-addresses:
+  id: 85f4a9c6-ebac-4887-8c56-2de986c065d9
+  macAddresses:
   - 70:B3:D5:2F:E0:00/36
   manufacturer: Yaham Optoelectronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YahamOpt
 type: d3-device-type-assertion

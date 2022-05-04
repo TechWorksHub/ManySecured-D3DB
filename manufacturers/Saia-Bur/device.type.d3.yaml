@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e7144237-99bd-4517-a7fa-9e13416b01a6
-  mac-addresses:
+  id: 9d9f6d87-029e-40f9-9fe6-a2b3d5625eb6
+  macAddresses:
   - 00:50:C2:74:C0:00/36
   - 00:50:C2:7F:60:00/36
   - 00:50:C2:8D:00:00/36
@@ -35,6 +35,6 @@ credentialSubject:
   - 00:50:C2:F5:B0:00/36
   - 7C:16:0D:00:00:00/24
   manufacturer: Saia-Burgess Controls AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Saia-Bur
 type: d3-device-type-assertion

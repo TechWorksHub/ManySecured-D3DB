@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b755dad3-7740-42cb-ac04-e06dd337931c
-  mac-addresses:
+  id: f6ab2b65-3ae8-4646-906f-73ca912885ba
+  macAddresses:
   - 00:18:12:00:00:00/24
   - 04:7A:0B:00:00:00/24
   - 18:9B:A5:70:00:00/28
@@ -48,6 +48,6 @@ credentialSubject:
   - EC:4D:3E:00:00:00/24
   - EC:FA:5C:00:00:00/24
   manufacturer: Beijing Xinwei Telecom Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingX
 type: d3-device-type-assertion

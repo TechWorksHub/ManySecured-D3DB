@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d60ae7f-bb24-43da-87b3-2774adaec1b1
-  mac-addresses:
+  id: 05612bbd-6835-47fc-8ee0-37438855be53
+  macAddresses:
   - 00:50:C2:BA:A0:00/36
   manufacturer: NetworkFX Communications, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetworkF
 type: d3-device-type-assertion

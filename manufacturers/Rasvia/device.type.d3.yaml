@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 809d9fd4-3f6d-4329-a2df-b0bffab58ea8
-  mac-addresses:
+  id: a531da42-fc33-4421-a6a3-c3cb6d93727c
+  macAddresses:
   - 00:08:70:00:00:00/24
   manufacturer: Rasvia Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rasvia
 type: d3-device-type-assertion

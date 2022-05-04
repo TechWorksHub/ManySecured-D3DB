@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c208fa3-81eb-4a62-8415-ab5be84f2521
-  mac-addresses:
+  id: 03ed889e-3acf-47eb-b901-cfe18f0891cf
+  macAddresses:
   - 8C:F9:C9:00:00:00/24
   manufacturer: MESADA Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MESADATe
 type: d3-device-type-assertion

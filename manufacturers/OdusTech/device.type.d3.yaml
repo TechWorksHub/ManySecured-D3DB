@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1628f8a6-dc2f-43c6-86ac-58bd82705977
-  mac-addresses:
+  id: 8fad807d-7086-45e5-bcc4-e3cebad461c8
+  macAddresses:
   - 00:50:C2:AF:C0:00/36
   manufacturer: Odus Technologies SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OdusTech
 type: d3-device-type-assertion

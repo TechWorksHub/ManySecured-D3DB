@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d56eb687-ef56-408f-aaf0-856201d65a94
-  mac-addresses:
+  id: baa5d2d8-41d4-4b00-9ad3-a9c61aa28850
+  macAddresses:
   - 70:B3:D5:94:50:00/36
   manufacturer: Symboticware Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symbotic
 type: d3-device-type-assertion

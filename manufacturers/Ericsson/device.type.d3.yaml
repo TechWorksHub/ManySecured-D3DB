@@ -1,6 +1,6 @@
 credentialSubject:
-  id: d45e8bd3-fa2b-4456-882b-c35ce59a9a3c
-  mac-addresses:
+  id: 9f59cb90-11ea-4a74-87e1-61ad0630a397
+  macAddresses:
   - 00:01:EC:00:00:00/24
   - 00:02:3B:00:00:00/24
   - 00:0D:67:00:00:00/24
@@ -35,6 +35,6 @@ credentialSubject:
   - F0:B1:07:00:00:00/24
   - F8:97:A9:00:00:00/24
   manufacturer: Ericsson Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ericsson
 type: d3-device-type-assertion

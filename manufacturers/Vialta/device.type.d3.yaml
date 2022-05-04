@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 10283528-852d-4547-aec7-61d61ece4163
-  mac-addresses:
+  id: 4a6340d9-1abb-420e-867c-32b34abe7497
+  macAddresses:
   - 00:12:B5:00:00:00/24
   manufacturer: Vialta, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vialta
 type: d3-device-type-assertion

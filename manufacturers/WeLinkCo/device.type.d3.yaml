@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 46753180-70ac-4daf-8169-e6a47479a190
-  mac-addresses:
+  id: f713564d-cac4-4493-8247-1d7fcb82b423
+  macAddresses:
   - 6C:10:8B:00:00:00/24
   manufacturer: WeLink Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeLinkCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d90f575a-f7d9-482b-a9ce-dbf17de6fdf9
-  mac-addresses:
+  id: 5467682b-7a7c-4843-ba31-07449c2778ad
+  macAddresses:
   - C4:F1:22:00:00:00/24
   manufacturer: Nexar Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nexar
 type: d3-device-type-assertion

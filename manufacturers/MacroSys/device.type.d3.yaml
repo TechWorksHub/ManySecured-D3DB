@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e40648d-fad3-45b0-bbe4-f8da6a708d44
-  mac-addresses:
+  id: de1eb50b-f795-4acd-9977-10605beb9bf0
+  macAddresses:
   - 00:04:97:00:00:00/24
   manufacturer: MacroSystem Digital Video AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MacroSys
 type: d3-device-type-assertion

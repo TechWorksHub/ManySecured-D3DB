@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1931bd63-53a8-4b0d-a93d-c53a00b04c70
-  mac-addresses:
+  id: 461efd0f-bbf0-4538-848a-041fe7ac671a
+  macAddresses:
   - 70:B3:D5:15:A0:00/36
   manufacturer: Enabler Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enabler
 type: d3-device-type-assertion

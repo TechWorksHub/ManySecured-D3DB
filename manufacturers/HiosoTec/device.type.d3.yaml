@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21407f6c-d9f4-4e3f-bf4a-bcb7f4a39e85
-  mac-addresses:
+  id: 86c5a26a-c679-48bc-9e7e-63d4b859b809
+  macAddresses:
   - 78:5C:72:00:00:00/24
   manufacturer: Hioso Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HiosoTec
 type: d3-device-type-assertion

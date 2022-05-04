@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 22f9ea15-692a-4739-bf62-8fdf9bb67d23
-  mac-addresses:
+  id: 49cdeff6-dfbb-47ab-ab9b-51fd928d916a
+  macAddresses:
   - 00:50:C2:4F:90:00/36
   - 60:15:92:10:00:00/28
   - 70:B3:D5:54:20:00/36
   manufacturer: RTDS Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RTDSTech
 type: d3-device-type-assertion

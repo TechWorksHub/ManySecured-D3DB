@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49e87478-de78-46e2-8dcb-76370308c1ed
-  mac-addresses:
+  id: 6a2b33fe-7519-4203-8664-4e7edef5095b
+  macAddresses:
   - 1C:21:D1:D0:00:00/28
   manufacturer: Liscotech System Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Liscotec
 type: d3-device-type-assertion

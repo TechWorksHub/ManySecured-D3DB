@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 747f9027-ddd8-4a80-a8c7-e9c92d2c9a3a
-  mac-addresses:
+  id: e1197bfa-ba33-4abc-aaf0-593235113f61
+  macAddresses:
   - 7C:BD:06:00:00:00/24
   manufacturer: AE REFUsol
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AEREFUso
 type: d3-device-type-assertion

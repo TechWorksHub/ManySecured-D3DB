@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f96a0acc-8053-40ba-bb7b-e13ae0ca18a8
-  mac-addresses:
+  id: b4c6456a-fa79-4db5-88d5-92f8929fbad4
+  macAddresses:
   - 70:B3:D5:A0:B0:00/36
   manufacturer: ambiHome GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ambiHome
 type: d3-device-type-assertion

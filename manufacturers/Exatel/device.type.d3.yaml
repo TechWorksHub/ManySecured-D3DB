@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c23ce404-d51f-40ae-a5ba-3a6dc5ea947d
-  mac-addresses:
+  id: 8112315d-c92e-44cd-9bef-a6b55138d9ca
+  macAddresses:
   - 70:B3:D5:06:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exatel
 type: d3-device-type-assertion

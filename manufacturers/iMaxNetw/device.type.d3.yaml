@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5251bd7c-cad7-4d03-8f8d-bc5395ea11a7
-  mac-addresses:
+  id: be347d90-dafb-4065-8b28-196925d6bed4
+  macAddresses:
   - 00:09:CA:00:00:00/24
   manufacturer: iMaxNetworks(Shenzhen)Limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iMaxNetw
 type: d3-device-type-assertion

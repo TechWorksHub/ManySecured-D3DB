@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad7722d9-f1a1-4173-9963-ab0a4481111c
-  mac-addresses:
+  id: a89fd453-b234-49ef-ab5a-0de109213788
+  macAddresses:
   - 0C:FE:5D:20:00:00/28
   manufacturer: Dspread International Co.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DspreadI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8bf2c020-a9bb-4523-879c-37a0cc7dc101
-  mac-addresses:
+  id: 77a807b0-144a-4b50-8647-b439b2c0dcbd
+  macAddresses:
   - 00:18:D5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reigncom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 838ebb47-6be0-4b33-bcbe-cb2616496626
-  mac-addresses:
+  id: 85ae4f7f-0b53-4603-9944-49b498893707
+  macAddresses:
   - A4:E0:E6:00:00:00/24
   manufacturer: Filizola S.A. Pesagem E Automacao
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Filizola
 type: d3-device-type-assertion

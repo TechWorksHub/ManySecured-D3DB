@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4f865d5-ed00-41b0-a72b-0c4a6c556038
-  mac-addresses:
+  id: a8dec1ff-a119-4b0b-8878-89bab914e590
+  macAddresses:
   - 00:24:86:00:00:00/24
   manufacturer: DesignArt Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DesignAr
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12440814-5e87-4e58-a293-8afac0ad2ebe
-  mac-addresses:
+  id: 6a79cad6-0f29-4097-b353-450dc7015fde
+  macAddresses:
   - 00:50:C2:33:E0:00/36
   manufacturer: CA Technology, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CATechno
 type: d3-device-type-assertion

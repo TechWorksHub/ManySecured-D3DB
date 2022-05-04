@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d179862-d958-4950-aa96-4bf36ba84597
-  mac-addresses:
+  id: 24c775c8-4aa0-4f61-8e3a-18951791d706
+  macAddresses:
   - 00:80:C3:00:00:00/24
   manufacturer: Bicc Information Systems & Svc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BiccInfo
 type: d3-device-type-assertion

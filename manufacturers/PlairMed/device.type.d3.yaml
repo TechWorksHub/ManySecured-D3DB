@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e87bb30e-09de-4039-8481-45f27adc8717
-  mac-addresses:
+  id: ea5135b8-5d1a-4010-8e83-1374a92c4ea9
+  macAddresses:
   - 00:1B:C5:06:50:00/36
   manufacturer: Plair Media Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlairMed
 type: d3-device-type-assertion

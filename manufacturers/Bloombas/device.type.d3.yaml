@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26c9180b-4262-4bad-9e2a-c47d32e4e85c
-  mac-addresses:
+  id: bdd8fb5c-a1fb-48f4-a495-644319312506
+  macAddresses:
   - F0:3A:4B:00:00:00/24
   manufacturer: Bloombase, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bloombas
 type: d3-device-type-assertion

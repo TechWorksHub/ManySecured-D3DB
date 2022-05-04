@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e88d9af5-4b69-44e2-b6dd-8542265c049d
-  mac-addresses:
+  id: 2f3b57b6-7b44-4284-aa5a-8eb8a9231d0f
+  macAddresses:
   - B4:37:D1:70:00:00/28
   manufacturer: GE Power Management
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GEPowerM
 type: d3-device-type-assertion

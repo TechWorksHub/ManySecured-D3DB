@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 330369ec-4e63-4d85-9281-40dff5014eb7
-  mac-addresses:
+  id: f9afee4d-00d1-4451-b709-9d8083bd32de
+  macAddresses:
   - 70:B3:D5:30:D0:00/36
   manufacturer: Fiberbase
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fiberbas
 type: d3-device-type-assertion

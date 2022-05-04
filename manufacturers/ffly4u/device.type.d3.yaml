@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2b7ef2b-6d60-4e36-9e63-9abaa0aa6b53
-  mac-addresses:
+  id: 9aa38799-3fec-4fa0-a30a-470f92f3d56c
+  macAddresses:
   - 84:5A:81:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ffly4u
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3cfaa0f7-2b3a-41b7-b45f-2d2cdc00e06f
-  mac-addresses:
+  id: db80884f-bdd9-4f39-b0a6-8a38c1665213
+  macAddresses:
   - 00:08:D8:00:00:00/24
   manufacturer: Dowkey Microwave
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DowkeyMi
 type: d3-device-type-assertion

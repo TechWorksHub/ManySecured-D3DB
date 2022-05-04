@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22f3da7d-3471-4dac-8f7f-9bb7aabe668e
-  mac-addresses:
+  id: a538a84f-9a2d-4a5b-9102-fe5b17da84ec
+  macAddresses:
   - 00:50:C2:13:50:00/36
   manufacturer: Elad Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elad
 type: d3-device-type-assertion

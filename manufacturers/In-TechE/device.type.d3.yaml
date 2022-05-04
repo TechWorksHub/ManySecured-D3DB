@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c8ab73c6-17b0-43d3-b945-154184764d42
-  mac-addresses:
+  id: 771a9795-efda-433a-9401-4f6a6a5c6484
+  macAddresses:
   - 00:0C:78:00:00:00/24
   manufacturer: In-Tech Electronics Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: In-TechE
 type: d3-device-type-assertion

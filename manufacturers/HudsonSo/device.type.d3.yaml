@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d3fe90b-4aba-4bd2-98a2-c71448371ca0
-  mac-addresses:
+  id: 35a62bb6-6b13-4547-85a3-6aace423bd92
+  macAddresses:
   - 00:09:CD:00:00:00/24
   manufacturer: Hudson Soft Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HudsonSo
 type: d3-device-type-assertion

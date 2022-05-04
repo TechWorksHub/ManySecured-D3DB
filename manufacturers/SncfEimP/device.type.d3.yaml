@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5e7ee10-c6c4-42fc-ba11-c2ee13fc48ff
-  mac-addresses:
+  id: 51d6a708-edf6-4618-9279-4bc9eeb1b10e
+  macAddresses:
   - 00:50:C2:72:E0:00/36
   manufacturer: Sncf Eim Pays De Loire
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SncfEimP
 type: d3-device-type-assertion

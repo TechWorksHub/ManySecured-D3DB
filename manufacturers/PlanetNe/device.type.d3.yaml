@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4181e96e-bcf2-4ed9-bb19-22d1af834dcd
-  mac-addresses:
+  id: 7887e079-2986-4d60-ab93-ba64d7bad09d
+  macAddresses:
   - 50:67:87:00:00:00/24
   manufacturer: Planet Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PlanetNe
 type: d3-device-type-assertion

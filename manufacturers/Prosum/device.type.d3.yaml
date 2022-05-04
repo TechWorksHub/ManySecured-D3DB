@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7e66df2-c7b7-4553-8b50-5b32f365f85a
-  mac-addresses:
+  id: 8507c0d3-1808-44f1-9cb4-127b36cec9fe
+  macAddresses:
   - 00:C0:FD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Prosum
 type: d3-device-type-assertion

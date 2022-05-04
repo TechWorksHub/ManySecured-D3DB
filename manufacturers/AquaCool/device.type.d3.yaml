@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95b10905-a196-479e-b804-e0153a6be96e
-  mac-addresses:
+  id: 3b886c62-6a00-4b47-82b2-626e85660307
+  macAddresses:
   - 00:50:C2:96:C0:00/36
   manufacturer: Aqua Cooler Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AquaCool
 type: d3-device-type-assertion

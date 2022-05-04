@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00bdcea6-8022-40a6-8ffa-b45b5c4342f2
-  mac-addresses:
+  id: d69b571d-f6d9-4520-b7d3-576297e2d6ff
+  macAddresses:
   - 84:D9:C8:00:00:00/24
   manufacturer: Unipattern Co.,
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unipatte
 type: d3-device-type-assertion

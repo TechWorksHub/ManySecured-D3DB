@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f14d4e2b-f1e0-49df-aaca-edfe91404b05
-  mac-addresses:
+  id: f44a37f1-5c08-4338-bafc-e54a2157c15b
+  macAddresses:
   - 98:5C:93:00:00:00/24
   manufacturer: SBG Systems SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SBGSAS
 type: d3-device-type-assertion

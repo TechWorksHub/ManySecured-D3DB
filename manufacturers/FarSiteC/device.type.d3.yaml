@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62afb161-2f4b-403b-bd32-40b521e5305c
-  mac-addresses:
+  id: a4271466-facd-4c0e-818c-4dfe55c5ab4b
+  macAddresses:
   - 00:50:C2:B2:20:00/36
   manufacturer: FarSite Communications Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FarSiteC
 type: d3-device-type-assertion

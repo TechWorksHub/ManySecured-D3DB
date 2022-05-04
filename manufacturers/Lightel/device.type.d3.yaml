@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c09749cc-1179-4d08-9f09-64368c2ec198
-  mac-addresses:
+  id: 65df4aac-a497-42c8-86bd-afd2ebaa750b
+  macAddresses:
   - 00:50:C2:E7:A0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightel
 type: d3-device-type-assertion

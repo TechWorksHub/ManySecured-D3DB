@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4074e946-7130-4bf6-9262-6142d7c286b6
-  mac-addresses:
+  id: f661ff3a-3def-4788-9d54-94565ab54aa2
+  macAddresses:
   - 70:B3:D5:79:30:00/36
   manufacturer: Gastech Australia Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GastechA
 type: d3-device-type-assertion

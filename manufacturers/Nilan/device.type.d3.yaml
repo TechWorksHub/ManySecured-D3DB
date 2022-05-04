@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 90b02fb9-ca52-494d-b755-f0f07380adc6
-  mac-addresses:
+  id: a96b4913-e5e6-4414-8403-ff6afed5b8ab
+  macAddresses:
   - 00:50:C2:66:F0:00/36
   - AC:3C:B4:00:00:00/24
   manufacturer: Nilan A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nilan
 type: d3-device-type-assertion

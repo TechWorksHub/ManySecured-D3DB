@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24f7445a-d647-4f26-a33e-6f92957e5017
-  mac-addresses:
+  id: 5cfe4906-58aa-4348-ac35-f2647b08a5b7
+  macAddresses:
   - 00:50:C2:AB:30:00/36
   manufacturer: "Compa\xF1\xEDa de Instrumentacion y control, S.L."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Compa\xF1\xEDa"
 type: d3-device-type-assertion

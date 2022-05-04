@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48311823-6023-4098-9c98-2311d1871f6a
-  mac-addresses:
+  id: a518ac14-49de-45be-aac7-79cde79fe1b3
+  macAddresses:
   - 00:80:39:00:00:00/24
   manufacturer: Alcatel Stc Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlcatelS
 type: d3-device-type-assertion

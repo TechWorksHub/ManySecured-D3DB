@@ -1,6 +1,6 @@
 credentialSubject:
-  id: aabc7a5f-d643-46af-b4f7-cf4729c13af7
-  mac-addresses:
+  id: 8cc85a03-75a6-428f-b1b6-1b3fb12551bc
+  macAddresses:
   - 00:0D:61:00:00:00/24
   - 00:0F:EA:00:00:00/24
   - 00:14:85:00:00:00/24
@@ -25,6 +25,6 @@ credentialSubject:
   - E0:D5:5E:00:00:00/24
   - FC:AA:14:00:00:00/24
   manufacturer: Giga-Byte Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Giga-Byt
 type: d3-device-type-assertion

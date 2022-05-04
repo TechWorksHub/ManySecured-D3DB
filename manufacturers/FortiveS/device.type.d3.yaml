@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31898f37-21f8-4208-a53d-f38914ae875e
-  mac-addresses:
+  id: 003ee79c-5798-40d0-9228-5a6732bf7428
+  macAddresses:
   - 88:C9:B3:30:00:00/28
   manufacturer: Fortive Setra-ICG(Tianjin)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FortiveS
 type: d3-device-type-assertion

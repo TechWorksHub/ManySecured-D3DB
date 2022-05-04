@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90d9bdc8-e919-495c-b360-24f0ea62b0ae
-  mac-addresses:
+  id: b0615deb-913e-478c-8546-5975525fc003
+  macAddresses:
   - 70:B3:D5:7B:C0:00/36
   manufacturer: FIRST RF Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FIRSTRF
 type: d3-device-type-assertion

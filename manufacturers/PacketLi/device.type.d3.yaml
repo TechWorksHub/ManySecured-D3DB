@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3582e5e-0cfc-4816-ae76-78c7a2a14c08
-  mac-addresses:
+  id: d91b11c3-fdc1-4c4a-aa11-c05165fe9cc2
+  macAddresses:
   - 00:05:FD:00:00:00/24
   manufacturer: PacketLight Networks Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PacketLi
 type: d3-device-type-assertion

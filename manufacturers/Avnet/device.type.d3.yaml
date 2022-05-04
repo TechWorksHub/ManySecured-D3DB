@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ef58065-53d3-4f32-b010-951d2c65a572
-  mac-addresses:
+  id: 879f6a07-eea4-4bf4-a0ed-49be257469f1
+  macAddresses:
   - 00:02:B5:00:00:00/24
   manufacturer: Avnet, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avnet
 type: d3-device-type-assertion

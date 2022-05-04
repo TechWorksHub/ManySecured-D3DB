@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4594796-ac21-4742-9e9f-819c92fb4685
-  mac-addresses:
+  id: 66ad4ab6-fe08-4a97-96d0-3301f519aaf2
+  macAddresses:
   - 00:1C:0D:00:00:00/24
   manufacturer: G-Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-Techno
 type: d3-device-type-assertion

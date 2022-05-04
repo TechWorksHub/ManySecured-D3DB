@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 504e82e7-c5db-4a07-b082-c27382586333
-  mac-addresses:
+  id: 9c47c807-14ab-47b3-9345-833b75e96237
+  macAddresses:
   - D4:02:4A:00:00:00/24
   manufacturer: Delphian Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Delphian
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd680cff-9c1e-4668-a3ff-ee7a9bdcc8e3
-  mac-addresses:
+  id: 62639db2-dfc5-4acb-a957-dbc6e2dd1ce0
+  macAddresses:
   - 00:03:9C:00:00:00/24
   manufacturer: OptiMight Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptiMigh
 type: d3-device-type-assertion

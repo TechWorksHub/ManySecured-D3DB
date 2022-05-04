@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0be5257-fae9-4c3e-876f-0d69bef80898
-  mac-addresses:
+  id: 133fb36a-dabc-44d5-838c-4f0b06fc33c9
+  macAddresses:
   - 00:22:6F:00:00:00/24
   manufacturer: 3onedata Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3onedata
 type: d3-device-type-assertion

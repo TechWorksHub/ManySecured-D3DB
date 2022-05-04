@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 504f1762-4ac2-4f50-87c3-08aa815bb3ab
-  mac-addresses:
+  id: 39bdce35-5321-4ebd-b9b9-64ce1d7b4212
+  macAddresses:
   - 14:F2:8E:00:00:00/24
   manufacturer: ShenYang ZhongKe-Allwin Technology Co.LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShenYang
 type: d3-device-type-assertion

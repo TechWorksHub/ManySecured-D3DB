@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ebc8c0a0-db39-413c-9834-0752aa4b884f
-  mac-addresses:
+  id: ba767c70-c70f-4b08-a519-082519224f40
+  macAddresses:
   - 00:07:9E:00:00:00/24
   manufacturer: Ilinx Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ilinx
 type: d3-device-type-assertion

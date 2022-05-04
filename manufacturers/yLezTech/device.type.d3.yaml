@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47548222-4e53-429e-a3e4-f0bd0e6db4c1
-  mac-addresses:
+  id: 589efeda-1fa3-410f-b27d-899ac59a929f
+  macAddresses:
   - 00:06:89:00:00:00/24
   manufacturer: yLez Technologies Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: yLezTech
 type: d3-device-type-assertion

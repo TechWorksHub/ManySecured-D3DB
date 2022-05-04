@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 294b9dd0-dd51-416d-acc0-44571a4c7921
-  mac-addresses:
+  id: 69af68b9-7baf-4eda-9c1a-8c8b38933116
+  macAddresses:
   - F8:B5:68:40:00:00/28
   manufacturer: Combiwins Technology Co.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Combiwin
 type: d3-device-type-assertion

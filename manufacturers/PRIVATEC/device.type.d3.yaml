@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 441d0548-71ea-4fbb-93f3-43ec5c38da59
-  mac-addresses:
+  id: 5352d485-2bb1-403b-8daf-b40d4f8f26cd
+  macAddresses:
   - 00:50:C2:D5:E0:00/36
   manufacturer: PRIVATECH Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PRIVATEC
 type: d3-device-type-assertion

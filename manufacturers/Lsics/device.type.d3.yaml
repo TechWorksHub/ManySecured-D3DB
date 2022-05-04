@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04cb4118-80ff-4193-8c75-299e2b41684a
-  mac-addresses:
+  id: 48700bee-d6ed-4459-86ac-8ac282ef6725
+  macAddresses:
   - 00:E0:44:00:00:00/24
   manufacturer: Lsics Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lsics
 type: d3-device-type-assertion

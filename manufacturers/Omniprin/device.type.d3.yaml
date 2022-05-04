@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a9d9468-a9f2-4337-a15c-d90541918a07
-  mac-addresses:
+  id: 5aa0d4a5-1204-411e-aeb6-f5784d7c7b3d
+  macAddresses:
   - C4:4B:44:00:00:00/24
   manufacturer: Omniprint Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omniprin
 type: d3-device-type-assertion

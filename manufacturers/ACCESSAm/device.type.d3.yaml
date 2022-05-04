@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6ea38af-85bc-44cd-abd7-9328fb916491
-  mac-addresses:
+  id: a656347d-c780-4afe-b3b7-fa39ef62e446
+  macAddresses:
   - 00:0E:20:00:00:00/24
   manufacturer: ACCESS Systems Americas, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACCESSAm
 type: d3-device-type-assertion

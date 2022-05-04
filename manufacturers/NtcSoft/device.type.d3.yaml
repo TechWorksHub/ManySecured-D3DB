@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8ffa572-63db-4fee-84f5-3382189f4115
-  mac-addresses:
+  id: 404ca8f0-dd18-489d-ab55-ec9cdfd2caf8
+  macAddresses:
   - 14:AE:85:B0:00:00/28
   manufacturer: Ntc Soft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NtcSoft
 type: d3-device-type-assertion

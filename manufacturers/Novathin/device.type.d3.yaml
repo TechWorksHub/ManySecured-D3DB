@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9d1df35-a89b-41b7-8f0d-c5159b5b8313
-  mac-addresses:
+  id: 7f041d5b-29a9-4d3a-894a-c067c61794b4
+  macAddresses:
   - 70:B3:D5:81:E0:00/36
   manufacturer: Novathings
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novathin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4a3587f-3910-42a5-a6b7-36b89062d291
-  mac-addresses:
+  id: 870d1322-8e66-4509-b860-d56e59d67560
+  macAddresses:
   - F8:FE:5C:00:00:00/24
   manufacturer: Reciprocal Labs Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Reciproc
 type: d3-device-type-assertion

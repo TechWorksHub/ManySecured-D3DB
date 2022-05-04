@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 212c9b95-0e14-4836-be56-79c2ad1be060
-  mac-addresses:
+  id: c9f6a56f-99cd-4917-9bb0-8ce240cae3d8
+  macAddresses:
   - 00:1C:E3:00:00:00/24
   manufacturer: Optimedical Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Optimedi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52293a36-65fa-448c-a32d-7bd283ab7fd4
-  mac-addresses:
+  id: 71343d10-a3f1-4eff-aa6d-46e74828b18f
+  macAddresses:
   - C4:69:3E:00:00:00/24
   manufacturer: Turbulence Design Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Turbulen
 type: d3-device-type-assertion

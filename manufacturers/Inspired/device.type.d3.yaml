@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f3284f96-1bef-47ff-8878-3e64b768ed02
-  mac-addresses:
+  id: fe5a1170-88a1-4750-b6ff-76bd28783480
+  macAddresses:
   - 40:D8:55:0C:40:00/36
   manufacturer: Inspired Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inspired
 type: d3-device-type-assertion

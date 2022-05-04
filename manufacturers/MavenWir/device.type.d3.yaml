@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48131fda-8a6d-48a7-8b47-5ea068eabe60
-  mac-addresses:
+  id: eaf2ae62-3fba-401b-af6c-02903895f0d0
+  macAddresses:
   - F8:B5:68:80:00:00/28
   manufacturer: Maven Wireless AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MavenWir
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5397cbc-dcb9-4e3c-a02c-7413066d7cab
-  mac-addresses:
+  id: c43940b2-9ba0-47cc-a896-8e48ccf308f9
+  macAddresses:
   - 00:50:C2:92:E0:00/36
   manufacturer: Goanna Technologies Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GoannaTe
 type: d3-device-type-assertion

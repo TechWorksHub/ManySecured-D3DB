@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 283d4220-2639-4475-ba75-6736cdb6d495
-  mac-addresses:
+  id: bee5fe59-065c-4529-bf5c-8015d72de02a
+  macAddresses:
   - 4C:8E:CC:00:00:00/24
   manufacturer: Silkan Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silkan
 type: d3-device-type-assertion

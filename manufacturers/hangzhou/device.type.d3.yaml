@@ -1,10 +1,10 @@
 credentialSubject:
-  id: ea8bb4c1-eea9-48cb-9c16-d23a37d78cc8
-  mac-addresses:
+  id: 5299f73c-f113-478e-8a1a-49b3548517bb
+  macAddresses:
   - 70:B3:D5:ED:50:00/36
   - 90:6A:94:00:00:00/24
   - 98:F9:C7:D0:00:00/28
   manufacturer: hangzhou battle link technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: hangzhou
 type: d3-device-type-assertion

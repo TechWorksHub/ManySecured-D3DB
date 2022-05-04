@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51522a9d-3946-4181-bd60-f9d260e930a9
-  mac-addresses:
+  id: 2b8841fa-bb01-45c8-8bac-047f095391df
+  macAddresses:
   - 00:D0:02:00:00:00/24
   manufacturer: Ditech Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ditech
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f4175231-424a-4c7e-84f2-f0b9c3fc6122
-  mac-addresses:
+  id: 74dd22a2-cc35-441a-b199-214c91196f87
+  macAddresses:
   - 00:50:C2:24:D0:00/36
   - 00:50:C2:AB:50:00/36
   - 00:50:C2:EA:90:00/36
@@ -12,6 +12,6 @@ credentialSubject:
   - 70:B3:D5:BB:20:00/36
   - 70:B3:D5:D6:40:00/36
   manufacturer: Mettler Toledo
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MettlerT
 type: d3-device-type-assertion

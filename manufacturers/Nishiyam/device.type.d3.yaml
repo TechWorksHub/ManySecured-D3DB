@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd0c3a2f-33cf-4be8-9b2d-3dc2b28ffb34
-  mac-addresses:
+  id: 70f8ad34-c64e-4347-8a40-f92799aa389f
+  macAddresses:
   - 70:AF:25:00:00:00/24
   manufacturer: Nishiyama Industry Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nishiyam
 type: d3-device-type-assertion

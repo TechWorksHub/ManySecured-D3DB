@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e81b12b-6778-4628-8795-399770ed78d5
-  mac-addresses:
+  id: ab7df952-38e2-4b8a-acb3-85af9b057120
+  macAddresses:
   - 00:0D:64:00:00:00/24
   manufacturer: COMAG Handels AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COMAGHan
 type: d3-device-type-assertion

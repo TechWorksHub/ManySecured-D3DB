@@ -1,10 +1,10 @@
 credentialSubject:
-  id: dd5ccc47-89e4-49c0-aa3b-73e1cf04b299
-  mac-addresses:
+  id: 33fcb52d-0d4d-4499-a0f0-c7545cf84450
+  macAddresses:
   - 8C:A3:99:00:00:00/24
   - A8:DA:0C:00:00:00/24
   - B4:A7:C6:00:00:00/24
   manufacturer: Servercom (India) Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Serverco
 type: d3-device-type-assertion

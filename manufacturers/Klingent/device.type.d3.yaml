@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2694ced-3341-467c-bf3c-b41f768ef423
-  mac-addresses:
+  id: 2ea8091b-1915-48e8-9420-6b9c0ca96797
+  macAddresses:
   - 00:1B:C5:05:F0:00/36
   manufacturer: Klingenthaler Musikelektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Klingent
 type: d3-device-type-assertion

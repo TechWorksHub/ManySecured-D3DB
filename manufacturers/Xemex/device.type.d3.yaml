@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 4bd9012a-96a8-4b52-b13d-89078fe9b47c
-  mac-addresses:
+  id: f2f3b860-9c35-451c-b268-6804003bef08
+  macAddresses:
   - 00:50:C2:FA:30:00/36
   - 40:D8:55:0A:20:00/36
   - 70:B3:D5:AA:A0:00/36
   manufacturer: Xemex NV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xemex
 type: d3-device-type-assertion

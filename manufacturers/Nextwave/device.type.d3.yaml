@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afc6348b-cba9-41b5-a366-e1041be0c536
-  mac-addresses:
+  id: ebae31bf-1cc1-4c84-b24a-b1e760fe76ca
+  macAddresses:
   - 00:24:18:00:00:00/24
   manufacturer: Nextwave Semiconductor
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nextwave
 type: d3-device-type-assertion

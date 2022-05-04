@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ab54f90-d9be-460c-b8b2-2c29f230e359
-  mac-addresses:
+  id: f6435a38-28d8-4ab6-b360-ddefdb9bcc28
+  macAddresses:
   - 00:0F:2F:00:00:00/24
   manufacturer: W-Linx Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: W-LinxTe
 type: d3-device-type-assertion

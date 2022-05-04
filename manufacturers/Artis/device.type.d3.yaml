@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 765f536d-7a9e-44b7-b45f-4fbc32f7b716
-  mac-addresses:
+  id: 1c55e8a9-8d22-4370-b7e4-3a846de3c8fe
+  macAddresses:
   - 00:50:C2:49:30:00/36
   - 1C:87:76:E0:00:00/28
   manufacturer: Artis GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Artis
 type: d3-device-type-assertion

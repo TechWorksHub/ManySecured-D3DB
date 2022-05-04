@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da8c0de8-f19e-44d2-a678-52307a6f54a3
-  mac-addresses:
+  id: 49358910-d0e0-4e7c-9ca7-799308e39226
+  macAddresses:
   - A0:DD:97:00:00:00/24
   manufacturer: PolarLink Technologies, Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PolarLin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1906a9a8-ca10-4cd1-bb22-45f2136b4908
-  mac-addresses:
+  id: 420714e6-f9e7-43ce-9d0b-40dc31e77363
+  macAddresses:
   - 00:50:C2:68:40:00/36
   manufacturer: REASON Tecnologia S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: REASONTe
 type: d3-device-type-assertion

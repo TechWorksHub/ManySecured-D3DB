@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6e5cb9ed-e583-435a-8040-b10e618ba55b
-  mac-addresses:
+  id: c63a74c6-77a1-4d49-a280-bde5fdf08861
+  macAddresses:
   - 8C:1F:64:CD:90:00/36
   manufacturer: Fingoti Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fingoti
 type: d3-device-type-assertion

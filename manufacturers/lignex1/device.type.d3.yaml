@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 970d4337-10c8-4a18-bb48-36f74b9c653c
-  mac-addresses:
+  id: e9c32ca1-ea6f-466e-8310-2fe6594f5d68
+  macAddresses:
   - B8:57:76:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: lignex1
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 30b7ca51-944e-4b00-8019-f0854477c919
-  mac-addresses:
+  id: e8f8c1ac-fc6e-4001-a9c7-44be364698ec
+  macAddresses:
   - 78:C4:0E:00:00:00/24
   manufacturer: H&D Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: H&DWirel
 type: d3-device-type-assertion

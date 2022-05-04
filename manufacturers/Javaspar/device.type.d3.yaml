@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42ec66cb-6c24-43af-91cf-7d298d2724cb
-  mac-addresses:
+  id: 149946df-224b-491d-b8be-4c943389049c
+  macAddresses:
   - 70:B3:D5:99:10:00/36
   manufacturer: Javasparrow Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Javaspar
 type: d3-device-type-assertion

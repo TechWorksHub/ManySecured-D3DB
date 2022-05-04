@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b685caa7-6b1b-4837-b62f-28f355bf3e77
-  mac-addresses:
+  id: 5ca3885d-a43a-43b3-b96d-a35280bdc9a9
+  macAddresses:
   - 00:16:2A:00:00:00/24
   manufacturer: Antik computers & communications s.r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Antikcom
 type: d3-device-type-assertion

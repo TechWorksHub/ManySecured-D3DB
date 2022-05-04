@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f870954-3b7c-42bd-97b2-5ac2473a9e9d
-  mac-addresses:
+  id: e993852e-97ca-45c9-9121-a7cf475fc720
+  macAddresses:
   - 00:0B:29:00:00:00/24
   manufacturer: LS(LG) Industrial Systems co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSLGIndu
 type: d3-device-type-assertion

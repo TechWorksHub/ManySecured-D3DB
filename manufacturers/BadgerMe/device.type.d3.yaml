@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19c70cea-d113-4f4b-b5f3-1b3dc87ef3a6
-  mac-addresses:
+  id: 45af8073-5221-4fe5-8db5-9f962a223aad
+  macAddresses:
   - 00:16:0F:00:00:00/24
   manufacturer: Badger Meter Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BadgerMe
 type: d3-device-type-assertion

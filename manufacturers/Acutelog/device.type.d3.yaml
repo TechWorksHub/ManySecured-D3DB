@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 085c8d5e-e702-4227-bb7d-7f94c5e1d590
-  mac-addresses:
+  id: 3954b643-2043-4d85-bdbc-68f9966870fd
+  macAddresses:
   - 00:50:C2:49:60:00/36
   manufacturer: Acutelogic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acutelog
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d7bcacca-92fd-4821-b729-06627871a95c
-  mac-addresses:
+  id: b8ac078f-22c6-41d4-9c64-bf7b042b10c3
+  macAddresses:
   - 08:BA:22:00:00:00/24
   manufacturer: Swaive Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swaive
 type: d3-device-type-assertion

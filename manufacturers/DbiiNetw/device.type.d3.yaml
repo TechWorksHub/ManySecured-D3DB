@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79e11bf5-a6d6-499b-acbb-2d0ec09a2b69
-  mac-addresses:
+  id: 003a9bdf-0085-49f3-bd08-277c66f25627
+  macAddresses:
   - 00:21:A4:00:00:00/24
   manufacturer: Dbii Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DbiiNetw
 type: d3-device-type-assertion

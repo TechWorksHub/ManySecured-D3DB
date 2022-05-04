@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d3ee1b7-6a57-45ae-8a2f-6bc2a5015f42
-  mac-addresses:
+  id: 061909f8-cc86-44af-816c-3d2e2056b329
+  macAddresses:
   - 00:1D:62:00:00:00/24
   manufacturer: InPhase Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InPhaseT
 type: d3-device-type-assertion

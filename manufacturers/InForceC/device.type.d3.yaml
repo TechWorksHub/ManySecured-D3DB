@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fbf81e6d-604d-42ef-9e50-ea0fe6cad9ef
-  mac-addresses:
+  id: bef2f9e6-b73e-44c1-8f6d-dea5d2887352
+  macAddresses:
   - 00:50:C2:C5:10:00/36
   - 00:50:C2:F3:90:00/36
   manufacturer: InForce Computing, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InForceC
 type: d3-device-type-assertion

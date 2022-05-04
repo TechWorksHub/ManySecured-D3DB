@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8679df3e-c34e-40d1-91af-83e6f0eff10c
-  mac-addresses:
+  id: 3f71926c-07d6-47e8-8998-fd7792d37150
+  macAddresses:
   - 0C:7F:ED:E0:00:00/28
   manufacturer: environmental systems corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: environm
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3cabc333-7d1e-4e9f-ac1f-7d9bed1cfb18
-  mac-addresses:
+  id: 1414374d-ce1b-4acc-8cc3-7f8bb28dae3e
+  macAddresses:
   - 00:06:79:00:00:00/24
   manufacturer: Konami Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Konami
 type: d3-device-type-assertion

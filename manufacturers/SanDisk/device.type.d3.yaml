@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cb683707-9b00-4c39-84ca-21323fc3c9e5
-  mac-addresses:
+  id: 14d77f9f-08ca-4151-9558-206521bfd781
+  macAddresses:
   - 00:1B:44:00:00:00/24
   - 00:1E:82:00:00:00/24
   manufacturer: SanDisk Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanDisk
 type: d3-device-type-assertion

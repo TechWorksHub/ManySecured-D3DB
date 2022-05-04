@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2de1277-c9ee-489a-b422-b47096d41172
-  mac-addresses:
+  id: 302c796b-7ae5-4dca-beda-df1090186442
+  macAddresses:
   - 00:13:93:00:00:00/24
   manufacturer: Panta Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Panta
 type: d3-device-type-assertion

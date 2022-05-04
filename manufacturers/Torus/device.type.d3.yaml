@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3bfcb2f-39d0-4a10-9ab2-a7593344f148
-  mac-addresses:
+  id: 2eb39d19-ed33-4fc5-a713-fc112e11dfba
+  macAddresses:
   - 08:00:3B:00:00:00/24
   manufacturer: Torus Systems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Torus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f15b2d6-007c-4931-a7f2-3c87623bee9d
-  mac-addresses:
+  id: 1ffb1537-6a89-4b53-9ccb-ae8d45143d56
+  macAddresses:
   - 70:B3:D5:93:50:00/36
   manufacturer: Sensor Developments
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensorDe
 type: d3-device-type-assertion

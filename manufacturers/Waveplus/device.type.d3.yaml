@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc9c4f14-7701-473d-92d9-fbae4870747c
-  mac-addresses:
+  id: eaa0c836-ef9a-4cd0-bd5b-ef866fc32ab8
+  macAddresses:
   - 00:0E:4E:00:00:00/24
   manufacturer: Waveplus Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Waveplus
 type: d3-device-type-assertion

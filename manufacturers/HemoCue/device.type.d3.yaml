@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 748bbbcd-1614-497e-b2fd-fe9078390758
-  mac-addresses:
+  id: c4c493e9-139b-4a04-b821-44638eaafe35
+  macAddresses:
   - 00:0A:91:00:00:00/24
   manufacturer: HemoCue AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HemoCue
 type: d3-device-type-assertion

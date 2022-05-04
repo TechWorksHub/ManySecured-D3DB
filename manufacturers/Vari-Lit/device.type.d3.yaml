@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 234b4af7-3937-4b84-b306-76587a79f5c5
-  mac-addresses:
+  id: 730fbdcd-305c-4d1f-b980-fbd785392177
+  macAddresses:
   - 00:C0:5E:00:00:00/24
   manufacturer: Vari-Lite, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vari-Lit
 type: d3-device-type-assertion

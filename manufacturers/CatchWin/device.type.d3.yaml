@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d7099d0-010d-4bd8-9236-f91ff01b5ff4
-  mac-addresses:
+  id: 1b1f0313-4d34-4e08-b9e0-278c05257f67
+  macAddresses:
   - 04:94:A1:00:00:00/24
   manufacturer: Catch The Wind Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CatchWin
 type: d3-device-type-assertion

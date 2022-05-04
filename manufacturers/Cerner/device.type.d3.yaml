@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 261f9ee4-ded5-4663-8957-44096e3a6584
-  mac-addresses:
+  id: dffb4fb7-9828-4b80-ac46-3cefe6644af7
+  macAddresses:
   - 00:50:C2:DE:A0:00/36
   manufacturer: Cerner Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cerner
 type: d3-device-type-assertion

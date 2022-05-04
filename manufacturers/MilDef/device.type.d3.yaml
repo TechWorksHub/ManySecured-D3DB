@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75795623-dbbf-4b6c-8bc6-d003a4e8df24
-  mac-addresses:
+  id: 391d5e68-9aeb-4279-903b-cd3827c80a2a
+  macAddresses:
   - E0:C6:B3:00:00:00/24
   manufacturer: MilDef AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MilDef
 type: d3-device-type-assertion

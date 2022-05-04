@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4af0aa96-089a-484b-9cc7-7d5f6f03b079
-  mac-addresses:
+  id: 2b3fc628-1d04-4d20-9c32-088e484d09ad
+  macAddresses:
   - 8C:1F:64:C2:70:00/36
   manufacturer: Lift Ventures, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LiftVent
 type: d3-device-type-assertion

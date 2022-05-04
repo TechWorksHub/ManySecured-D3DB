@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2446f5f2-b3ad-48d9-b015-e50f97250322
-  mac-addresses:
+  id: 271b5212-5112-47e3-b6de-fd08a19cd70e
+  macAddresses:
   - C0:9B:F4:90:00:00/28
   manufacturer: Alcatraz AI Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alcatraz
 type: d3-device-type-assertion

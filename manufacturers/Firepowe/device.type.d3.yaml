@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f41b41a-98f7-424f-a26f-50c6934ef73d
-  mac-addresses:
+  id: 8eaccebb-2049-4f7a-8fdb-8409868cfc36
+  macAddresses:
   - 00:A0:27:00:00:00/24
   manufacturer: Firepower Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Firepowe
 type: d3-device-type-assertion

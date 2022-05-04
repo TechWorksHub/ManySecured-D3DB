@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 385feb48-eda7-4972-ad9c-16f8179aace6
-  mac-addresses:
+  id: c58ab9e6-79bf-406e-ad0a-440afe42acca
+  macAddresses:
   - 00:09:72:00:00:00/24
   manufacturer: Securebase,Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Secureba
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 713a8066-ac5d-4372-ba29-57d8c7ef1430
-  mac-addresses:
+  id: 02631d0c-5273-4fa0-9aa6-d8dc547f343b
+  macAddresses:
   - 9C:43:1E:20:00:00/28
   manufacturer: Haesung Ds
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HaesungD
 type: d3-device-type-assertion

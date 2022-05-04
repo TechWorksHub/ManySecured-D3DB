@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d85bf970-c2f8-4713-b06b-269c43561c3e
-  mac-addresses:
+  id: 8af1d135-6619-42b2-89b2-ed7c0f130139
+  macAddresses:
   - 00:30:B8:00:00:00/24
   manufacturer: RiverDelta Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RiverDel
 type: d3-device-type-assertion

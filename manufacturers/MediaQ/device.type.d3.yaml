@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ecdfea07-f9b2-4c25-95ee-0f75ce8cfdc6
-  mac-addresses:
+  id: dbb1473a-c88b-49e3-aa9c-34eb448cadc9
+  macAddresses:
   - 00:0C:13:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MediaQ
 type: d3-device-type-assertion

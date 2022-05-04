@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 106c4300-f314-4182-ae1a-afb86525a70d
-  mac-addresses:
+  id: de310bb4-69e4-4be4-b291-249cd9bd5cb0
+  macAddresses:
   - 00:24:0F:00:00:00/24
   manufacturer: Ishii Tool & Engineering Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IshiiToo
 type: d3-device-type-assertion

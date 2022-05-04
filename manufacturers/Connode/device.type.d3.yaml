@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 554f0547-404b-4ba4-8684-2c7cfedd6091
-  mac-addresses:
+  id: e0ab2ddf-389c-4c30-bc3d-7dcd6137ab04
+  macAddresses:
   - 00:1B:C5:0C:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Connode
 type: d3-device-type-assertion

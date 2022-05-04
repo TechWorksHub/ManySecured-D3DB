@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00f6ed55-5cfc-447e-9657-27361f6bfc43
-  mac-addresses:
+  id: 5f484973-32f2-4b9e-a3ed-06fe71d09cee
+  macAddresses:
   - 00:17:3A:00:00:00/24
   manufacturer: Cloudastructure Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cloudast
 type: d3-device-type-assertion

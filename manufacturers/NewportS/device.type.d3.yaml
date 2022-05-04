@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 519ea495-c0ac-4692-814d-d5dbf040352f
-  mac-addresses:
+  id: 7822d858-1606-408f-84be-082dba4d5fa8
+  macAddresses:
   - 00:80:1C:00:00:00/24
   manufacturer: Newport Systems Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewportS
 type: d3-device-type-assertion

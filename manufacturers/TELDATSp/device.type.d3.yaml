@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0107fdf4-828c-46cd-89e3-c080cacd4181
-  mac-addresses:
+  id: 1249c848-382a-4142-9d0b-3d3e33019710
+  macAddresses:
   - 00:19:67:00:00:00/24
   manufacturer: TELDAT Sp.J.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TELDATSp
 type: d3-device-type-assertion

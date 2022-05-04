@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ea74fe4-6e65-4690-8d1e-b01adc539cee
-  mac-addresses:
+  id: d4014245-7732-4f02-bd04-13561a54bae0
+  macAddresses:
   - EC:DE:3D:00:00:00/24
   manufacturer: Lamprey Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LampreyN
 type: d3-device-type-assertion

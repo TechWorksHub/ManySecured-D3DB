@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2d6b56dd-25db-4172-9b7e-3e607e5254c0
-  mac-addresses:
+  id: 7d66ec3e-0c38-430f-aef1-3e9b614986f3
+  macAddresses:
   - 00:D0:CB:00:00:00/24
   - 18:D0:71:00:00:00/24
   manufacturer: Dasan Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dasan
 type: d3-device-type-assertion

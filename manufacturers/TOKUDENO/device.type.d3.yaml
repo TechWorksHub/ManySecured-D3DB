@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b813d05-9d02-4ae2-a12e-84e2315702c6
-  mac-addresses:
+  id: 53b7de30-6524-4a34-9645-87d9b364bee2
+  macAddresses:
   - 00:0D:9E:00:00:00/24
   manufacturer: TOKUDEN OHIZUMI SEISAKUSYO Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TOKUDENO
 type: d3-device-type-assertion

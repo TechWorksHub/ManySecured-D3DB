@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c915383d-8e55-4d5f-8311-19cf43d7a8b6
-  mac-addresses:
+  id: 6c488c9b-af35-440b-98ce-fade5d5a017b
+  macAddresses:
   - 00:0E:88:00:00:00/24
   manufacturer: Videotron Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videotro
 type: d3-device-type-assertion

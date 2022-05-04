@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 68c154b9-f654-479b-9448-00ae765a7367
-  mac-addresses:
+  id: 3f68d6d3-86fd-479e-812e-687756d1a51f
+  macAddresses:
   - 1C:C1:1A:00:00:00/24
   manufacturer: Wavetronix
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wavetron
 type: d3-device-type-assertion

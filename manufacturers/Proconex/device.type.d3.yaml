@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9ef9f5e-104e-4876-9851-b7f18ad81b1e
-  mac-addresses:
+  id: a5f1fa3b-3f03-4435-b378-174545860c97
+  macAddresses:
   - 70:B3:D5:CC:E0:00/36
   manufacturer: Proconex 2010 Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Proconex
 type: d3-device-type-assertion

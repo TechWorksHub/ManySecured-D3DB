@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ddeff96-2c9c-4904-8931-a0ef566802b9
-  mac-addresses:
+  id: f359bfd7-b0dd-43a1-bd03-454b8927d618
+  macAddresses:
   - 00:15:08:00:00:00/24
   manufacturer: Global Target Enterprise Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalTa
 type: d3-device-type-assertion

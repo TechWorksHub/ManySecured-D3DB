@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 063e6f81-341a-41f3-b58a-27bcf2ab8bbd
-  mac-addresses:
+  id: f358bd15-63de-41a6-b095-1b17136aaab9
+  macAddresses:
   - 00:05:14:00:00:00/24
   - 70:B3:D5:E7:20:00/36
   manufacturer: KDT Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KDT
 type: d3-device-type-assertion

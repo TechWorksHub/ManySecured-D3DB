@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb47162a-9d0c-43ca-b8b4-78c556936ac9
-  mac-addresses:
+  id: 8a4af6a8-37cd-4839-b0e3-f41a44e52963
+  macAddresses:
   - 70:B3:D5:8B:C0:00/36
   manufacturer: GSI GeoSolutions International Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GSIGeoSo
 type: d3-device-type-assertion

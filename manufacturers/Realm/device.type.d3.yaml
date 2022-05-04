@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da1dab55-c4a7-40bc-9b08-d3e94ea51685
-  mac-addresses:
+  id: bd929d50-0dd5-4f4a-addf-e571187ab9bf
+  macAddresses:
   - 00:13:58:00:00:00/24
   manufacturer: Realm Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Realm
 type: d3-device-type-assertion

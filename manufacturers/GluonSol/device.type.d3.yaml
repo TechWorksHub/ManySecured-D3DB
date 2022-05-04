@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 708af137-215e-4308-929f-9f530bb90ed2
-  mac-addresses:
+  id: 35389748-e1f0-4539-9415-e897bdd0e386
+  macAddresses:
   - 70:B3:D5:BA:60:00/36
   manufacturer: Gluon Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GluonSol
 type: d3-device-type-assertion

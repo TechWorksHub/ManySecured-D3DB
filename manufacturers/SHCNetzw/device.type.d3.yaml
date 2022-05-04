@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9776279-b852-4dfe-ad57-aa8cb3685078
-  mac-addresses:
+  id: 75a7fbd7-7580-4190-8212-73b3c0a6d96b
+  macAddresses:
   - 4C:EE:B0:00:00:00/24
   manufacturer: SHC Netzwerktechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHCNetzw
 type: d3-device-type-assertion

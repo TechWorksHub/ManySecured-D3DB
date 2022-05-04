@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa9a80e1-7412-4d76-974d-b6f1ba37a647
-  mac-addresses:
+  id: fce802f1-8a2e-45c2-81a0-4d55ee06e8c0
+  macAddresses:
   - F4:90:CB:40:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OmniNet
 type: d3-device-type-assertion

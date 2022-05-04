@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 274ac1c2-bd41-4062-9ee9-3c1e7d430dc9
-  mac-addresses:
+  id: e9f457f7-0c31-4441-a608-760f4e15239c
+  macAddresses:
   - 40:D8:55:12:20:00/36
   - 70:B3:D5:51:C0:00/36
   - 70:B3:D5:64:40:00/36
   - 70:B3:D5:9D:90:00/36
   manufacturer: ATX Networks Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATXNetwo
 type: d3-device-type-assertion

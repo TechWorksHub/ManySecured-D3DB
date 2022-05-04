@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db6c55e1-edbc-4af7-8fc0-08c958d358d3
-  mac-addresses:
+  id: bfabb5c5-80b3-4912-aab3-7cc553e261e5
+  macAddresses:
   - 00:25:70:00:00:00/24
   manufacturer: Eastern Communications Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EasternC
 type: d3-device-type-assertion

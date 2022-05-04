@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 97fe1725-2cfb-4d09-a560-6631c8a0b2a8
-  mac-addresses:
+  id: 1595dece-45cd-4d1c-9547-5eca011ff81e
+  macAddresses:
   - 00:50:C2:7A:70:00/36
   - 70:B3:D5:E3:60:00/36
   manufacturer: Guidance Navigation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Guidance
 type: d3-device-type-assertion

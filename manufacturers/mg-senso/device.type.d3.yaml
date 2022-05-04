@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b0f8cbe-7616-44c4-90a3-e5fca86e0e97
-  mac-addresses:
+  id: 8449832e-2438-40a7-a31d-ca8742013094
+  macAddresses:
   - 70:B3:D5:2B:D0:00/36
   manufacturer: mg-sensor GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: mg-senso
 type: d3-device-type-assertion

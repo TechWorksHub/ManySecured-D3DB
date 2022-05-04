@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 293dbadc-bb18-44fd-b8e4-7f1dd5d599be
-  mac-addresses:
+  id: fce9ea25-2a10-4343-87e1-aeca0f9ddf20
+  macAddresses:
   - 54:A4:93:D0:00:00/28
   manufacturer: Assem Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AssemTec
 type: d3-device-type-assertion

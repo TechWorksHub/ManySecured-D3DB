@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 6ef1d73e-94cb-42da-aab1-14eaeaa71c0c
-  mac-addresses:
+  id: 515314a1-97e4-4b10-a4c7-8420b20ca61f
+  macAddresses:
   - 00:06:C9:00:00:00/24
   - 00:0D:73:00:00:00/24
   - 00:14:FB:00:00:00/24
@@ -16,6 +16,6 @@ credentialSubject:
   - 70:B3:D5:C3:40:00/36
   - C8:E4:2F:00:00:00/24
   manufacturer: Technical Marketing Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technica
 type: d3-device-type-assertion

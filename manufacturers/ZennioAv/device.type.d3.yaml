@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93fcb801-6201-4ee3-9e9c-e30c93393a3b
-  mac-addresses:
+  id: f3c002d6-d182-4033-a87a-4345f4e60cd5
+  macAddresses:
   - 48:33:DD:00:00:00/24
   manufacturer: Zennio Avance Y Tecnologia, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZennioAv
 type: d3-device-type-assertion

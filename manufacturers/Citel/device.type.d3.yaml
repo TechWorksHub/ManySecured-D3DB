@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3078350e-487a-4212-a33c-c5150195c0d6
-  mac-addresses:
+  id: d0fc7340-ad9c-445a-af1f-dd64ffcde399
+  macAddresses:
   - 00:10:01:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Citel
 type: d3-device-type-assertion

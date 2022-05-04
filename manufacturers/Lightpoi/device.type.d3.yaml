@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7268daf1-da1d-4b91-a9e3-a82f60cd8f9f
-  mac-addresses:
+  id: 5c53e945-c622-4926-92d2-aeeec584c3e0
+  macAddresses:
   - 00:04:E7:00:00:00/24
   manufacturer: Lightpointe Communications, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightpoi
 type: d3-device-type-assertion

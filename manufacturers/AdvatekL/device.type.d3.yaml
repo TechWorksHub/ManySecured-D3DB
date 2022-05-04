@@ -1,9 +1,9 @@
 credentialSubject:
-  id: deb53917-f642-4467-acf5-9f2fe3be8b98
-  mac-addresses:
+  id: 1c61bc7d-01b1-42d6-9ab6-718042268c66
+  macAddresses:
   - 40:D8:55:02:F0:00/36
   - E0:B6:F5:E0:00:00/28
   manufacturer: Advatek Lighting Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdvatekL
 type: d3-device-type-assertion

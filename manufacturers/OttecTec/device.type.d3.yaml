@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec294cc1-9293-41c1-8d1b-b9f6db1d18ba
-  mac-addresses:
+  id: 71423963-a5f9-4070-8967-49c89b5041e4
+  macAddresses:
   - E4:41:E6:00:00:00/24
   manufacturer: Ottec Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OttecTec
 type: d3-device-type-assertion

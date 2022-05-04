@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e3c9377-91c2-42eb-82ef-8523c26a77d7
-  mac-addresses:
+  id: 332d809d-5d43-4b1b-b1ea-0f6f48fe8696
+  macAddresses:
   - 00:D0:A9:00:00:00/24
   manufacturer: Shinano Kenshi Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShinanoK
 type: d3-device-type-assertion

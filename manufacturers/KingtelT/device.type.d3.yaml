@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ede3613b-1b42-4f5b-a99b-3c510353a7b7
-  mac-addresses:
+  id: 3d5314e8-ea6f-4696-aa8e-6fe40fba99e1
+  macAddresses:
   - 00:0D:EA:00:00:00/24
   manufacturer: Kingtel Telecommunication Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KingtelT
 type: d3-device-type-assertion

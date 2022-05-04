@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35b8a254-d2db-4cfb-84c7-3d17772019e6
-  mac-addresses:
+  id: afc6155e-7013-48f8-8445-586ff2bd9e2b
+  macAddresses:
   - 70:B3:D5:B0:50:00/36
   manufacturer: E-Plus Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-PlusTe
 type: d3-device-type-assertion

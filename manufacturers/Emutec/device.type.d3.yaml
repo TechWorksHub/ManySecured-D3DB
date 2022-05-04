@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48186d64-e4d0-4af7-93d2-a5ba6370244d
-  mac-addresses:
+  id: d65b043d-e1c0-46c0-b1d0-c91e8ccc1033
+  macAddresses:
   - 00:D0:BE:00:00:00/24
   manufacturer: Emutec Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Emutec
 type: d3-device-type-assertion

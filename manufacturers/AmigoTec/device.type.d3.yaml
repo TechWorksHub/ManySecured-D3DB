@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7ae1824-b7cd-40e3-b850-b4ad237b1b5e
-  mac-addresses:
+  id: f08db839-3e6d-4e91-b4aa-3d804faff8ce
+  macAddresses:
   - 00:D0:41:00:00:00/24
   manufacturer: Amigo Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmigoTec
 type: d3-device-type-assertion

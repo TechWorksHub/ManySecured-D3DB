@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37db0b99-789b-4e2b-8c22-be8ffd833218
-  mac-addresses:
+  id: 428cdef9-dcf2-46c2-8e0a-b876e8080102
+  macAddresses:
   - 4C:E5:AE:00:00:00/24
   manufacturer: Tianjin Beebox Intelligent Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TianjinB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91e4ab4f-65b2-4a4e-b1d1-04a5e0f32183
-  mac-addresses:
+  id: 96a43de4-3c5d-41fc-a8a2-f66c10d135ca
+  macAddresses:
   - 00:50:C2:93:60:00/36
   manufacturer: Margaritis Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Margarit
 type: d3-device-type-assertion

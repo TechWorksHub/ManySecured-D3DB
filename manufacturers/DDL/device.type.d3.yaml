@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 480130f7-dfb3-4ae7-9370-08615d6e4eb1
-  mac-addresses:
+  id: dd1fd184-3759-4bee-b9e4-8aaa053d980f
+  macAddresses:
   - 00:C1:4F:00:00:00/24
   manufacturer: DDL Co,.ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DDL
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73530984-1d60-42f5-989e-6229931b13dd
-  mac-addresses:
+  id: 9d64ac10-a8a0-43c4-9b3b-005ee46a6399
+  macAddresses:
   - 00:1F:10:00:00:00/24
   manufacturer: Toledo Do Brasil Industria De Balancas Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToledoDo
 type: d3-device-type-assertion

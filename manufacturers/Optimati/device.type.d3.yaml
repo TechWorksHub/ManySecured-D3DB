@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b9a5c008-9acd-439c-adb8-1f4b2c6b7390
-  mac-addresses:
+  id: 0b98ffb0-227e-4c8a-aed4-133dc4a76f4d
+  macAddresses:
   - 00:50:8E:00:00:00/24
   manufacturer: Optimation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Optimati
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31124fa9-93e1-40fc-84d2-7f2f84320170
-  mac-addresses:
+  id: 53b3321e-3fa1-4225-9933-3722eb036fa6
+  macAddresses:
   - 2C:92:2C:00:00:00/24
   manufacturer: Kishu Giken Kogyou Company Ltd,.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KishuGik
 type: d3-device-type-assertion

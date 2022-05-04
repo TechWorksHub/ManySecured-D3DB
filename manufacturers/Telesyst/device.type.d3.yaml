@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 16992b19-39b4-45ea-becc-09e084de5136
-  mac-addresses:
+  id: 4a66e71e-323d-48a7-b797-ae42d1f40159
+  macAddresses:
   - 40:62:B6:00:00:00/24
   manufacturer: Tele system communication
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telesyst
 type: d3-device-type-assertion

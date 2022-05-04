@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 29d6245d-9d03-47aa-be30-41bbd3e68ef9
-  mac-addresses:
+  id: 3534840a-9140-4e17-bee8-4752c40847b9
+  macAddresses:
   - 70:B3:D5:86:60:00/36
   manufacturer: MEPS Realtime
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MEPSReal
 type: d3-device-type-assertion

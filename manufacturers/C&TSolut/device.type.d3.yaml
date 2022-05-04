@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05140428-4232-4a35-b54a-c0d9c8bd807d
-  mac-addresses:
+  id: c23d620e-6f8b-4c59-b4a2-bb818755b8ed
+  macAddresses:
   - AC:40:EA:00:00:00/24
   manufacturer: C&T Solution Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C&TSolut
 type: d3-device-type-assertion

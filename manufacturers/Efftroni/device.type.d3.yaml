@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7801f96f-9c7d-44a6-b156-e6cca536a206
-  mac-addresses:
+  id: aeb4e581-5be9-4a4b-80df-6d7b774ea887
+  macAddresses:
   - 00:50:C2:B4:50:00/36
   manufacturer: Efftronics Systems (P) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Efftroni
 type: d3-device-type-assertion

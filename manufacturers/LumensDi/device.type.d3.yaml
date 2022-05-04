@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6eea0bf-f5bd-45e8-96ba-c027eb0635c9
-  mac-addresses:
+  id: 991deecd-a7ba-455d-bda1-d23eb808405b
+  macAddresses:
   - DC:E2:AC:00:00:00/24
   manufacturer: Lumens Digital Optics Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LumensDi
 type: d3-device-type-assertion

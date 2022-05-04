@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec329ca9-8ccf-4237-8f34-8ef6846f9aca
-  mac-addresses:
+  id: 2f98e70f-33d3-4a41-aeca-7fbd82958d21
+  macAddresses:
   - 00:50:C2:FC:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elta
 type: d3-device-type-assertion

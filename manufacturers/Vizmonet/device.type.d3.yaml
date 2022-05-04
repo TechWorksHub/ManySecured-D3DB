@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34f4aa27-7c64-4334-9271-48b99897d9c0
-  mac-addresses:
+  id: ec03340b-6cf5-4230-b21f-79441e1fc76f
+  macAddresses:
   - 74:E2:77:00:00:00/24
   manufacturer: Vizmonet Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vizmonet
 type: d3-device-type-assertion

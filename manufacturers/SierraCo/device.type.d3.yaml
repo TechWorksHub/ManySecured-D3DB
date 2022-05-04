@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07e539aa-cecd-4b0d-bcfe-9d612f979921
-  mac-addresses:
+  id: 8113acac-9fc8-4d25-826e-74e848912f06
+  macAddresses:
   - 00:02:12:00:00:00/24
   manufacturer: SierraCom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SierraCo
 type: d3-device-type-assertion

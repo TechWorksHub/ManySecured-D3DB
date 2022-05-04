@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25ca0470-6084-441c-8c0c-54f9180ac08b
-  mac-addresses:
+  id: 2b87ecf9-2802-434a-99ba-56b441975af9
+  macAddresses:
   - 00:C0:81:00:00:00/24
   manufacturer: Metrodata Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metrodat
 type: d3-device-type-assertion

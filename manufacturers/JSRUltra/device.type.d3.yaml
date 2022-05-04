@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20ca3e2f-f61b-4af0-989e-a6814c8aceb8
-  mac-addresses:
+  id: 7b77a539-5aaa-425c-99e7-7263fbf2a2c0
+  macAddresses:
   - 00:50:C2:05:10:00/36
   manufacturer: JSR Ultrasonics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JSRUltra
 type: d3-device-type-assertion

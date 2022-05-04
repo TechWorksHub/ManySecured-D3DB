@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b29fab02-151a-46e0-8500-501446b3b095
-  mac-addresses:
+  id: bab13cd4-5808-4463-b918-6d0a74ecb7de
+  macAddresses:
   - 70:B3:D5:94:E0:00/36
   manufacturer: BP Lubricants USA, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BPLubric
 type: d3-device-type-assertion

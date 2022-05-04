@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 24b68bd6-2a4b-48d2-9adc-03e94b0bb410
-  mac-addresses:
+  id: 42a95a3a-75bc-4575-9ebb-e4d5a609d98d
+  macAddresses:
   - 8C:1F:64:29:F0:00/36
   - 8C:AE:DB:00:00:00/24
   - F8:F0:82:00:00:00/24
   manufacturer: Nagtech Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nagtech
 type: d3-device-type-assertion

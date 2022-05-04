@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 475eade4-75a1-4f57-b409-6c3d2fa70ab6
-  mac-addresses:
+  id: f369b2c2-4a8b-452e-a9e6-38f62a2a40cd
+  macAddresses:
   - 00:12:9F:00:00:00/24
   manufacturer: RAE Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RAE
 type: d3-device-type-assertion

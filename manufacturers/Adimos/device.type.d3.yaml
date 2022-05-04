@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bae87a0-92eb-4b05-af38-9e7270815e68
-  mac-addresses:
+  id: a9567bb7-c770-42bf-a43b-124566bb7eaa
+  macAddresses:
   - 00:0E:E6:00:00:00/24
   manufacturer: Adimos Systems LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adimos
 type: d3-device-type-assertion

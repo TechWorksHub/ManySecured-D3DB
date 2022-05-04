@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0cb4c07-9a76-4dfa-b3dc-253c2e1fc26f
-  mac-addresses:
+  id: d9bf888f-ec2e-41ea-9f76-b4f7f3466ac3
+  macAddresses:
   - 00:21:73:00:00:00/24
   manufacturer: Ion Torrent Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IonTorre
 type: d3-device-type-assertion

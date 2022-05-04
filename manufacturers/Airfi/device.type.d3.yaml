@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 165b6f6a-8f28-4277-bf38-8141c6cfbcee
-  mac-addresses:
+  id: 0fba057b-7018-46f6-ae76-09d293a3bf76
+  macAddresses:
   - BC:97:40:70:00:00/28
   manufacturer: Airfi Oy AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Airfi
 type: d3-device-type-assertion

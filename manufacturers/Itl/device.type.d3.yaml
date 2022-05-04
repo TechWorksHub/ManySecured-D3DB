@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcd23b44-8883-4387-ba6f-91928bac2ac9
-  mac-addresses:
+  id: db3b0d64-ccf1-43e0-bf0c-ba8a334ea8c4
+  macAddresses:
   - 28:06:8D:00:00:00/24
   manufacturer: Itl, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Itl
 type: d3-device-type-assertion

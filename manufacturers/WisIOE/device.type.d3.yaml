@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1410fd9b-0d73-4f66-b29e-163c995d20dc
-  mac-addresses:
+  id: d0fb8c51-4729-4433-8468-a38d3f07bb66
+  macAddresses:
   - EC:9F:0D:40:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WisIOE
 type: d3-device-type-assertion

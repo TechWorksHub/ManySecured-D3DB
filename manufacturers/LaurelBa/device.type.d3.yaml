@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfbd973f-adb1-44b5-97ed-f358815b4858
-  mac-addresses:
+  id: 74ecc5a4-eb6b-4f19-8340-6a999682dc7a
+  macAddresses:
   - 00:26:1B:00:00:00/24
   manufacturer: Laurel Bank Machines Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LaurelBa
 type: d3-device-type-assertion

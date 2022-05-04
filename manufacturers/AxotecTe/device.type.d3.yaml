@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9334f9a6-24c9-4546-8d63-d68892683bad
-  mac-addresses:
+  id: e1166240-f6c6-4f79-9208-ecf44410ee61
+  macAddresses:
   - 00:50:C2:1A:90:00/36
   - 00:50:C2:CD:E0:00/36
   - 70:B3:D5:BA:B0:00/36
   manufacturer: Axotec Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxotecTe
 type: d3-device-type-assertion

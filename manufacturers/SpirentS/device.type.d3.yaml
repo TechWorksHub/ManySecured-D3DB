@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 637d5f5c-1c12-4d42-8b83-244cf032d7c4
-  mac-addresses:
+  id: 4dc0545a-ceda-4ed5-92bc-5f257960b2a7
+  macAddresses:
   - 00:10:5E:00:00:00/24
   manufacturer: Spirent plc, Service Assurance Broadband
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpirentS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 534cc022-a6d9-45b5-a6c3-9294fbcde0cc
-  mac-addresses:
+  id: 1cc83ac8-92d3-4d0d-882c-36df6bb6608e
+  macAddresses:
   - 00:50:17:00:00:00/24
   manufacturer: Rsr S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rsr
 type: d3-device-type-assertion

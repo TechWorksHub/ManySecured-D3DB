@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 84749cc6-6036-4e89-9a3c-8340ec86f655
-  mac-addresses:
+  id: 212bba7e-2052-4eb7-8e7f-eb98d3252d7c
+  macAddresses:
   - 40:D8:55:10:80:00/36
   - F4:0E:11:60:00:00/28
   manufacturer: Alpha Design Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaDes
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d18a5c4-3184-44d3-a10a-3588ddd02f89
-  mac-addresses:
+  id: efccfb52-a904-407a-8c9d-97113d92e61e
+  macAddresses:
   - 08:00:0D:00:00:00/24
   manufacturer: ICL (International Computers, Ltd.)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IclInter
 type: d3-device-type-assertion

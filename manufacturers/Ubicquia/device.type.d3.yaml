@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45de160d-16e8-4d52-9766-bd9514bdf604
-  mac-addresses:
+  id: 14d5375a-7944-49e3-9ba9-aedbc968cfa5
+  macAddresses:
   - 94:7B:BE:00:00:00/24
   manufacturer: Ubicquia LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubicquia
 type: d3-device-type-assertion

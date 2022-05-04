@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d00e7187-80eb-448b-82ec-c425959383f8
-  mac-addresses:
+  id: cde6fd5c-df5a-45c8-8bef-726829d8490d
+  macAddresses:
   - 00:50:C2:CF:10:00/36
   manufacturer: TelGaAs, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelGaAs
 type: d3-device-type-assertion

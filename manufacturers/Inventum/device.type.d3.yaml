@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d502c735-6e0b-4da8-892a-e843ca4dfa4f
-  mac-addresses:
+  id: f9b83979-0ac2-421b-a090-73872a0c745e
+  macAddresses:
   - 50:98:71:00:00:00/24
   manufacturer: Inventum Technologies Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inventum
 type: d3-device-type-assertion

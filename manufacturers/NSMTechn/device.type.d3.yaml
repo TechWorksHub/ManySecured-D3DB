@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b3bbec6-963d-4be4-9457-b55811e6801a
-  mac-addresses:
+  id: 51ddf1ec-489a-4e11-84d3-60773e78f29d
+  macAddresses:
   - 00:05:76:00:00:00/24
   manufacturer: NSM Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NSMTechn
 type: d3-device-type-assertion

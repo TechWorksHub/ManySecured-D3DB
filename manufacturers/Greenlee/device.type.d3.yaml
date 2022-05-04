@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d0e2794-5d1e-4ca5-89c7-fa475cd1b1cc
-  mac-addresses:
+  id: 56ff816b-29aa-4e42-9a76-97a187a3bcfc
+  macAddresses:
   - 50:64:41:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Greenlee
 type: d3-device-type-assertion

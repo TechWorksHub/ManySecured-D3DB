@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19154f31-15c6-4377-8af8-3f70f9f035f3
-  mac-addresses:
+  id: 5620180a-7a48-4386-9515-5cd33fb46dc3
+  macAddresses:
   - A8:61:0A:00:00:00/24
   manufacturer: Arduino Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arduino
 type: d3-device-type-assertion

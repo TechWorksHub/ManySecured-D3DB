@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2139642b-b543-4fd1-ad9a-f0d6e455524c
-  mac-addresses:
+  id: c8d9c800-f77a-4ed4-83dd-89e6a8576756
+  macAddresses:
   - 00:14:96:00:00:00/24
   manufacturer: Phonic Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phonic
 type: d3-device-type-assertion

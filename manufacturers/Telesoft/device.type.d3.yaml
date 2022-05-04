@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7faf56e6-7590-4b18-8731-9f1115f6f108
-  mac-addresses:
+  id: 6273928d-1063-4ba3-9d83-3111892904ae
+  macAddresses:
   - 00:03:0C:00:00:00/24
   manufacturer: Telesoft Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telesoft
 type: d3-device-type-assertion

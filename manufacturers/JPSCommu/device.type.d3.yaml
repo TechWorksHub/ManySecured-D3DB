@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cd0bd61-a157-4f10-9632-a022f738b3ff
-  mac-addresses:
+  id: 5ed067ba-0d00-43c0-8df9-31e08b970296
+  macAddresses:
   - 00:0E:1A:00:00:00/24
   manufacturer: JPS Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JPSCommu
 type: d3-device-type-assertion

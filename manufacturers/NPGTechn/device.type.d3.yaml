@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d08196b9-ac60-469f-8f3f-fa9480bb348b
-  mac-addresses:
+  id: e9a2b922-3c18-46dc-afe3-12af027843ba
+  macAddresses:
   - 64:FB:81:80:00:00/28
   manufacturer: NPG Technology S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NPGTechn
 type: d3-device-type-assertion

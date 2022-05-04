@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 283c4c19-73e4-4b6e-a3c1-938a66fbdff1
-  mac-addresses:
+  id: 081570f0-9985-4bf6-b5c3-fec01b1f7b90
+  macAddresses:
   - 00:04:D3:00:00:00/24
   - 00:09:27:00:00:00/24
   manufacturer: Toyokeiki Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Toyokeik
 type: d3-device-type-assertion

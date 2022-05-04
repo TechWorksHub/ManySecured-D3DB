@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f02a846a-02aa-4baf-ada8-a945d53909e2
-  mac-addresses:
+  id: 72f0c5b0-9401-4739-9876-ca2b325b786a
+  macAddresses:
   - 20:0A:5E:00:00:00/24
   manufacturer: Xiangshan Giant Eagle Technology Developing Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xiangsha
 type: d3-device-type-assertion

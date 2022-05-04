@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 886e0b4f-9f57-4985-861e-1b0d8b9e9c61
-  mac-addresses:
+  id: f4f7d302-52e0-488e-9c74-3ead881107e0
+  macAddresses:
   - 00:1D:3E:00:00:00/24
   manufacturer: Saka Techno Science Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SakaTech
 type: d3-device-type-assertion

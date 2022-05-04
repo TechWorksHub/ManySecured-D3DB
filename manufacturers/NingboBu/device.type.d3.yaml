@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa9db8f7-cb05-4408-8d80-aa57c96e6f6f
-  mac-addresses:
+  id: 2738b7a6-ee58-479e-8af6-a2c19ffa0755
+  macAddresses:
   - FC:CD:2F:00:00:00/28
   manufacturer: Ningbo Bull Digital Technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NingboBu
 type: d3-device-type-assertion

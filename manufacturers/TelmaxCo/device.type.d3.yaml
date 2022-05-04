@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 871a3357-6279-4a36-97c3-2010c952bd83
-  mac-addresses:
+  id: 8c3a11cb-74d9-4d72-9088-cc558d45ad96
+  macAddresses:
   - 00:E0:B2:00:00:00/24
   manufacturer: Telmax Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelmaxCo
 type: d3-device-type-assertion

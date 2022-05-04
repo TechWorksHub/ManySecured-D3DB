@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a724c71-ff92-406e-97d1-c7a4766bab06
-  mac-addresses:
+  id: 8ba5d08a-2e8a-494f-af3e-81c40bc1d89f
+  macAddresses:
   - 74:F8:DB:90:00:00/28
   manufacturer: Avantree Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avantree
 type: d3-device-type-assertion

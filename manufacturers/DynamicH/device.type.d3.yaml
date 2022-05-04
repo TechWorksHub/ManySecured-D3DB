@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58bc2f8d-e607-406e-ad87-d11d162ab500
-  mac-addresses:
+  id: 093e63eb-e90b-4096-8a4f-1c99769b86cc
+  macAddresses:
   - 00:50:C2:6C:A0:00/36
   manufacturer: Dynamic Hearing Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynamicH
 type: d3-device-type-assertion

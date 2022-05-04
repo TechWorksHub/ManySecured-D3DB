@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7ff3b70-f82d-4842-a13d-9f87e05cefe1
-  mac-addresses:
+  id: 808c7b38-f828-4636-9926-1bf626c392c6
+  macAddresses:
   - 5C:17:37:00:00:00/24
   manufacturer: I-View Now, LLC.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: I-ViewNo
 type: d3-device-type-assertion

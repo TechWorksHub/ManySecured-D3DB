@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cd4aa6fe-7f0a-4c31-8976-6f5e9e2e8c8e
-  mac-addresses:
+  id: 7a1d23ba-0508-4f43-8fc3-fb75be1a4a09
+  macAddresses:
   - 00:50:C2:42:70:00/36
   - 54:FD:BF:00:00:00/24
   manufacturer: Scheidt & Bachmann GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScheidtB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7103f86a-e4d3-4093-a552-5d85c9aa154c
-  mac-addresses:
+  id: 303bd635-210a-4f7a-b73e-4ef4d3397626
+  macAddresses:
   - F8:2E:8E:00:00:00/24
   manufacturer: Nanjing Kechen Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NanjingK
 type: d3-device-type-assertion

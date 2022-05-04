@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a950b26-3cec-4dbc-b25b-ca112579367b
-  mac-addresses:
+  id: c2d855ac-bcde-4360-aee4-fd4be5bef2f8
+  macAddresses:
   - 90:17:11:00:00:00/24
   manufacturer: Hagenuk Marinekommunikation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HagenukM
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ccbdef1a-5613-4b86-8da3-0c664d2e5272
-  mac-addresses:
+  id: 6d6daa9c-ee76-49cf-986d-f20fc99843d6
+  macAddresses:
   - 00:0F:E0:00:00:00/24
   manufacturer: NComputing Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NComputi
 type: d3-device-type-assertion

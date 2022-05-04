@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60665b0f-edd9-4e45-8e7c-552eb41845e1
-  mac-addresses:
+  id: d1a17269-adcb-4406-96ad-0dc628e19ec5
+  macAddresses:
   - 98:AA:FC:B0:00:00/28
   manufacturer: Resonant Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Resonant
 type: d3-device-type-assertion

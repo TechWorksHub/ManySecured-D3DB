@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8eb8ed41-bfb2-469a-8bad-88167f0568ab
-  mac-addresses:
+  id: 7fbcddf4-8d9d-4083-afcc-285c941d9345
+  macAddresses:
   - 00:01:D4:00:00:00/24
   manufacturer: Leisure Time, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeisureT
 type: d3-device-type-assertion

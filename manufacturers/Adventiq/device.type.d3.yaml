@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b508269-224f-41e4-9dd9-811cceddeba7
-  mac-addresses:
+  id: 06306745-3196-4b68-abbc-fb9b8a44f2f4
+  macAddresses:
   - 00:1E:ED:00:00:00/24
   manufacturer: Adventiq Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adventiq
 type: d3-device-type-assertion

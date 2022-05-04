@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab029d98-8552-41a9-992b-c795402613b3
-  mac-addresses:
+  id: 875410f5-312b-49a3-8a56-774dd52354f4
+  macAddresses:
   - 14:1F:BA:A0:00:00/28
   manufacturer: Winsonic Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Winsonic
 type: d3-device-type-assertion

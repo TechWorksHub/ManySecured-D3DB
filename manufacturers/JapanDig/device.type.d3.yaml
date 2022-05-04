@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c992cf4f-f7ff-4803-b768-2243a6f6d9c6
-  mac-addresses:
+  id: 13b3c65e-bb58-4170-9b7e-a0ee1c582b83
+  macAddresses:
   - 00:20:DE:00:00:00/24
   manufacturer: Japan Digital Laborat'Y Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanDig
 type: d3-device-type-assertion

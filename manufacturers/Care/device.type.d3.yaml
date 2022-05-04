@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5cbd159-5fdb-4982-982b-f8a364626305
-  mac-addresses:
+  id: 4c05895f-36a6-4523-8273-88090f1ddb67
+  macAddresses:
   - 70:B3:D5:FE:40:00/36
   manufacturer: Care Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Care
 type: d3-device-type-assertion

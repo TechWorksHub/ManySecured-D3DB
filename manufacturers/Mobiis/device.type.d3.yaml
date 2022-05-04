@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1920d54f-cf61-410d-9c9d-2d57d5b85757
-  mac-addresses:
+  id: fb59149e-ccc7-4556-9495-7749ff6cda82
+  macAddresses:
   - 00:07:19:00:00:00/24
   manufacturer: Mobiis Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mobiis
 type: d3-device-type-assertion

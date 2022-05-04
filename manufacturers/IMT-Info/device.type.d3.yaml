@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce93a941-9f7d-4b24-a8a9-4b024a8365d1
-  mac-addresses:
+  id: 2a474d5b-4dfa-4a7e-9511-c0285f045f51
+  macAddresses:
   - 00:30:0F:00:00:00/24
   manufacturer: IMT - Information Management T
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMT-Info
 type: d3-device-type-assertion

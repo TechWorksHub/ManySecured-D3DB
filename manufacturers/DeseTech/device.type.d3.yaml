@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e51693f1-1c46-46b0-a15c-aa5f07e775a6
-  mac-addresses:
+  id: a99aa7be-7310-42e7-9d9f-9c66034629aa
+  macAddresses:
   - 00:50:C2:31:20:00/36
   manufacturer: Dese Technologies SL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeseTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 333fac63-1c38-4561-9eba-632361a3d655
-  mac-addresses:
+  id: 1e706c5f-26c1-4107-b69f-982ae81bff4e
+  macAddresses:
   - 78:B5:D2:00:00:00/24
   manufacturer: Ever Treasure Industrial Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EverTrea
 type: d3-device-type-assertion

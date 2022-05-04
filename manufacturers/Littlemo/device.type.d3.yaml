@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 89cba07c-b22b-4cee-8d33-d1eae78e316a
-  mac-addresses:
+  id: 17efe7d9-4094-4423-af5b-24087009d202
+  macAddresses:
   - 00:50:C2:A8:70:00/36
   - 70:B3:D5:F8:10:00/36
   manufacturer: Littlemore Scientific
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Littlemo
 type: d3-device-type-assertion

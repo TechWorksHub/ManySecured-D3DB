@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60e3f0b2-80c1-4051-b9ea-c37830d99d97
-  mac-addresses:
+  id: d3efce14-f5de-403a-a516-d53cec2c0f3c
+  macAddresses:
   - 00:50:C2:F4:C0:00/36
   manufacturer: Enistic Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enistic
 type: d3-device-type-assertion

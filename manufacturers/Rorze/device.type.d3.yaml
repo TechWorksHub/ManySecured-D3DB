@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d116dbaa-0828-4971-a23d-3a584f57a95e
-  mac-addresses:
+  id: f97b29b4-f123-4636-b049-a501b31bf2da
+  macAddresses:
   - 90:47:16:00:00:00/24
   manufacturer: Rorze Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rorze
 type: d3-device-type-assertion

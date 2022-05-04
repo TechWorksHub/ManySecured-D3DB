@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d472e0a2-54ba-42d1-a267-9028b8daf119
-  mac-addresses:
+  id: cb5e7cfa-0e59-4ddd-adf5-3a0d6f1f07e9
+  macAddresses:
   - 00:50:C2:62:F0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qes
 type: d3-device-type-assertion

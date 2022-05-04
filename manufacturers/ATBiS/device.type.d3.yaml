@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95f09d20-2795-4916-bebe-e1265391d4cd
-  mac-addresses:
+  id: ba262c96-9020-4662-b165-833e53d00ff1
+  macAddresses:
   - 70:B3:D5:C2:F0:00/36
   manufacturer: ATBiS Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ATBiS
 type: d3-device-type-assertion

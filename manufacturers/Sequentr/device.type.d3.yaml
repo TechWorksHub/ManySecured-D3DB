@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5b49c7e-eda4-400c-8039-cf5914b6a81c
-  mac-addresses:
+  id: a02e4239-53f4-4aee-83c2-586524da6bc4
+  macAddresses:
   - 00:50:C2:75:90:00/36
   manufacturer: Sequentric Energy Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sequentr
 type: d3-device-type-assertion

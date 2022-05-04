@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d06239d6-6601-4927-ab24-86995f8c6f0d
-  mac-addresses:
+  id: 89a566e9-a08e-4aa1-ac59-e031953a9fb6
+  macAddresses:
   - 00:50:C2:47:60:00/36
   - FC:CC:E4:00:00:00/24
   manufacturer: Ascon S.p.a.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ascon
 type: d3-device-type-assertion

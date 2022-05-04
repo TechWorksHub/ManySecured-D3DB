@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f0897c90-ce3b-47af-a446-191c013b2c74
-  mac-addresses:
+  id: aeb69260-5e43-475f-a29b-9d877b499e05
+  macAddresses:
   - 48:03:62:00:00:00/24
   manufacturer: Desay Electronics(Huizhou)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DesayEle
 type: d3-device-type-assertion

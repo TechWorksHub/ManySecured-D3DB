@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14593016-bc4b-4cb6-9945-fc94c39fd540
-  mac-addresses:
+  id: 127fc79e-42f8-475f-9237-3aec5fcdad40
+  macAddresses:
   - 88:A3:CC:00:00:00/24
   manufacturer: Amatis Controls
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmatisCo
 type: d3-device-type-assertion

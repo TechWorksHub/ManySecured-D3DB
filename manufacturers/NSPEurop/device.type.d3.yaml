@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 00f144a3-2a33-49bb-8f63-a9e6c4f19aee
-  mac-addresses:
+  id: 3f943603-4510-4d08-bcff-66978d4894be
+  macAddresses:
   - 40:D8:55:12:C0:00/36
   - 70:B3:D5:18:A0:00/36
   manufacturer: NSP Europe Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NSPEurop
 type: d3-device-type-assertion

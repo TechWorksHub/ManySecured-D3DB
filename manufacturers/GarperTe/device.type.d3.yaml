@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7b6a91d-4213-4602-a0bb-ab36031ddd95
-  mac-addresses:
+  id: 5d17f200-7e54-4bfe-8934-259b7a2fb1d0
+  macAddresses:
   - 00:50:C2:5E:B0:00/36
   manufacturer: Garper Telecomunicaciones, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GarperTe
 type: d3-device-type-assertion

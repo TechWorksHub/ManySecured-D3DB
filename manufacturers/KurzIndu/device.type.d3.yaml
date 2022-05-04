@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d3caed9-7c24-4844-a857-46e023ff01dc
-  mac-addresses:
+  id: 028dac15-f153-4d26-80c5-800d6197f192
+  macAddresses:
   - 00:0C:6B:00:00:00/24
   manufacturer: Kurz Industrie-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KurzIndu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa05106a-b4ad-4c45-adcc-12a548cb9724
-  mac-addresses:
+  id: 341d915d-2d09-4c8b-bf6c-ff5d61630f84
+  macAddresses:
   - 00:1D:57:00:00:00/24
   manufacturer: CAETEC Messtechnik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CAETECMe
 type: d3-device-type-assertion

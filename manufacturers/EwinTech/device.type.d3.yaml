@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a89ad2c8-33f1-4fae-9b8d-50d95a68fb95
-  mac-addresses:
+  id: 0d5406ee-227e-4e97-9b03-a4822d4db07b
+  macAddresses:
   - 50:0B:91:30:00:00/28
   manufacturer: Ewin Technology Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EwinTech
 type: d3-device-type-assertion

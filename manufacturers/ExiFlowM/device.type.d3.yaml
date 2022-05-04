@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 7ca923b4-df16-4d56-80e1-dc56bac17101
-  mac-addresses:
+  id: afc3452d-ccf4-46bd-9035-18cc81d99138
+  macAddresses:
   - 00:50:C2:94:50:00/36
   - 70:B3:D5:7A:E0:00/36
   - 70:B3:D5:AA:F0:00/36
   - 8C:1F:64:9C:E0:00/36
   manufacturer: Exi Flow Measurement Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ExiFlowM
 type: d3-device-type-assertion

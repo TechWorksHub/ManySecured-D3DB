@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8b87a08f-1197-4c6b-9699-78d8658745b9
-  mac-addresses:
+  id: f6367703-f69e-4d4f-b6d6-e45d4d54fa6e
+  macAddresses:
   - 00:01:1C:00:00:00/24
   - 00:04:57:00:00:00/24
   - 00:05:79:00:00:00/24
@@ -62,6 +62,6 @@ credentialSubject:
   - FC:44:63:00:00:00/24
   - FC:4D:D4:00:00:00/24
   manufacturer: Universal Talkware Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Universa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42701c82-96dd-4ecf-a668-6dd9fc471727
-  mac-addresses:
+  id: cb348ebd-3e0b-442e-b051-5671d5ddc834
+  macAddresses:
   - 00:20:35:00:00:00/24
   manufacturer: IBM (International Business Machines)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IbmInter
 type: d3-device-type-assertion

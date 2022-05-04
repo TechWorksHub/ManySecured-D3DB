@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 498abe49-5d2c-4f56-ad4e-35648f888e0f
-  mac-addresses:
+  id: 4ea72b12-e778-4ed1-b4e5-d172406ececb
+  macAddresses:
   - 00:50:C2:47:F0:00/36
   manufacturer: BRIT Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BRIT
 type: d3-device-type-assertion

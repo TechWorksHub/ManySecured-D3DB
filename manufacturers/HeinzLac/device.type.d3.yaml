@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5fe9d987-87a4-43da-9c1c-247badc3ca50
-  mac-addresses:
+  id: a6d1c784-ef72-4ab4-884c-4afbbd9d003b
+  macAddresses:
   - 34:86:2A:00:00:00/24
   manufacturer: Heinz Lackmann GmbH & Co KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeinzLac
 type: d3-device-type-assertion

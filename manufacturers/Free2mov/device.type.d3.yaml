@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efaadb67-a510-4f5f-b890-dfd1905e3bb4
-  mac-addresses:
+  id: b8578600-7f5a-493d-8547-2c52f83ad5fe
+  macAddresses:
   - 00:0B:CE:00:00:00/24
   manufacturer: Free2move AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Free2mov
 type: d3-device-type-assertion

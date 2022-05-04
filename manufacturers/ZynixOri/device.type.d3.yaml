@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 226870ab-b2a5-4654-96c2-96a8c5d58b1b
-  mac-addresses:
+  id: b56a9c82-8a70-4fc3-b403-ff063fe1d9c1
+  macAddresses:
   - 00:50:C2:94:E0:00/36
   manufacturer: Zynix Original Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZynixOri
 type: d3-device-type-assertion

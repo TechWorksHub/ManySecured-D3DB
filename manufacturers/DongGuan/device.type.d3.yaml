@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 05703baa-071c-4c5b-853e-0c6c87e23ab3
-  mac-addresses:
+  id: 0ac29149-e269-4f3a-9a22-621c7ac8a29f
+  macAddresses:
   - 00:B4:F5:00:00:00/24
   - 08:05:CD:00:00:00/24
   - 18:D7:93:50:00:00/28
@@ -11,6 +11,6 @@ credentialSubject:
   - E8:B4:70:00:00:00/28
   - F0:41:C8:10:00:00/28
   manufacturer: DongGuan Siyoto Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DongGuan
 type: d3-device-type-assertion

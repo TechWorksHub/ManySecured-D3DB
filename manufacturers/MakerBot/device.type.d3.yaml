@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a706733-1f76-4bbb-9510-7d50c9b4dd6c
-  mac-addresses:
+  id: f2cff682-7014-463e-a636-9d2be89a932f
+  macAddresses:
   - 3C:70:59:00:00:00/24
   manufacturer: MakerBot Industries
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MakerBot
 type: d3-device-type-assertion

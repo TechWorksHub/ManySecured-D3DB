@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77a21da4-5a99-43af-8d34-a84a69a7d274
-  mac-addresses:
+  id: c2d64c79-4c00-4f60-85d2-c3179311e7cf
+  macAddresses:
   - 70:B3:D5:AE:50:00/36
   manufacturer: BeatCraft, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeatCraf
 type: d3-device-type-assertion

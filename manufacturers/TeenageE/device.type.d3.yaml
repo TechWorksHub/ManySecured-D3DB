@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85f1cbcc-b4a7-4071-b6a2-17a4a2526f38
-  mac-addresses:
+  id: 44ae4fe7-f543-4a55-a551-9b1ab6f21175
+  macAddresses:
   - 70:B3:D5:1A:F0:00/36
   manufacturer: Teenage Engineering AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeenageE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83fbc669-c541-45a3-9d37-e40c1cab6ee4
-  mac-addresses:
+  id: 7bfb6e82-8cd1-4141-a266-c4bc81693e2c
+  macAddresses:
   - 00:10:6C:00:00:00/24
   manufacturer: EDNT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EDNT
 type: d3-device-type-assertion

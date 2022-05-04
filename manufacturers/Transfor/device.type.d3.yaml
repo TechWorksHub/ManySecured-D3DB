@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ae2eb13-4e33-4fde-b067-0b54e1d09be0
-  mac-addresses:
+  id: 6175a362-84d4-4997-9677-9644c39d3a7c
+  macAddresses:
   - 70:B3:D5:76:20:00/36
   manufacturer: Transformational Security, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transfor
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 0b3a3ae2-76f4-4c30-a2dd-3daa2180474b
-  mac-addresses:
+  id: 17e84960-2952-451e-9158-b170e03ff667
+  macAddresses:
   - 00:06:5B:00:00:00/24
   - 00:08:74:00:00:00/24
   - 00:0B:DB:00:00:00/24
@@ -152,6 +152,6 @@ credentialSubject:
   - F8:CA:B8:00:00:00/24
   - F8:DB:88:00:00:00/24
   manufacturer: Dell Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dell
 type: d3-device-type-assertion

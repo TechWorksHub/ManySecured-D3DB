@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 762183e2-e903-4cd8-adaa-c4b0f76c73ca
-  mac-addresses:
+  id: 3b3b7d89-5b10-4a0b-a748-4ff3bc1b1f0e
+  macAddresses:
   - 00:80:3D:00:00:00/24
   manufacturer: Surigiken Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Surigike
 type: d3-device-type-assertion

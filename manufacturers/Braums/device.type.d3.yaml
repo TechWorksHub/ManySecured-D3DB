@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 380f32de-a1c0-447c-b000-1cef2a3dd109
-  mac-addresses:
+  id: 8e29f2d0-7f00-43d6-8818-a075a1c1ae45
+  macAddresses:
   - 6C:93:08:00:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Braums
 type: d3-device-type-assertion

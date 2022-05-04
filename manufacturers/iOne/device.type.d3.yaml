@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8046570-eb99-4fae-b0f2-e39574a4d0fc
-  mac-addresses:
+  id: 5641e277-2cd8-4a9b-89cd-4f28a955349a
+  macAddresses:
   - 70:B3:D5:33:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iOne
 type: d3-device-type-assertion

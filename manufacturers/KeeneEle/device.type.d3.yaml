@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a681de44-31e0-4d27-9e50-06dca1c10b0b
-  mac-addresses:
+  id: 012bfae5-2775-477c-880e-69b0a9cab0fa
+  macAddresses:
   - 00:50:C2:96:D0:00/36
   manufacturer: Keene Electronics Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KeeneEle
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5479db3d-83e8-4407-a042-5b6658925fa1
-  mac-addresses:
+  id: 9e3b4e79-f66b-4454-b77c-5317663af445
+  macAddresses:
   - 24:62:78:00:00:00/24
   manufacturer: sysmocom - systems for mobile communications GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: sysmocom
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d9908d1-6664-4dc9-9395-d13b44ae8a6f
-  mac-addresses:
+  id: a8517068-c60e-4ef4-aa7e-6b99df43362b
+  macAddresses:
   - E0:D9:A2:00:00:00/24
   manufacturer: Hippih aps
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hippihap
 type: d3-device-type-assertion

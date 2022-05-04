@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9a5acba-6122-4be4-8cbd-059a561d22cb
-  mac-addresses:
+  id: 8abb1345-d006-4ead-bf17-1d56e61b4628
+  macAddresses:
   - EC:65:6E:00:00:00/24
   manufacturer: The Things Industries B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThingsIn
 type: d3-device-type-assertion

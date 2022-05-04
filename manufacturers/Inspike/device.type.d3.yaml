@@ -1,8 +1,8 @@
 credentialSubject:
-  id: feddef98-f901-4f37-902c-5e166cca0d7b
-  mac-addresses:
+  id: fe29b08d-9c46-40b3-ab6a-f228dac0230a
+  macAddresses:
   - 70:B3:D5:2F:10:00/36
   manufacturer: Inspike S.R.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inspike
 type: d3-device-type-assertion

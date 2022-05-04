@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b84cee2-1fde-49aa-b02d-6f86a62a76c6
-  mac-addresses:
+  id: 037ac2dc-ba9b-403b-83a9-f77753dfda84
+  macAddresses:
   - 24:A4:2C:00:00:00/24
   manufacturer: KOUKAAM a.s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KOUKAAM
 type: d3-device-type-assertion

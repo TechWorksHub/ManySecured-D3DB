@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2f604860-0959-4252-afd0-903c646afc9e
-  mac-addresses:
+  id: c4e7e951-9333-4115-8a2f-bdd6a935610b
+  macAddresses:
   - 00:0F:59:00:00:00/24
   manufacturer: Phonak AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phonak
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ea2346e-f69e-499c-b6aa-c71a53d726de
-  mac-addresses:
+  id: 92121776-8acd-425f-a7d7-d2aba29bd9e8
+  macAddresses:
   - 00:1C:ED:00:00:00/24
   manufacturer: Environnement Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Environn
 type: d3-device-type-assertion

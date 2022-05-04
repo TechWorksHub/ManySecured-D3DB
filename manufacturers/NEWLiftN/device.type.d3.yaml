@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0aec008a-88ee-4131-abfb-fc22aab70378
-  mac-addresses:
+  id: efbe03af-e7ee-4e5d-bb21-db5dd86aed1b
+  macAddresses:
   - 1C:35:F1:00:00:00/24
   manufacturer: NEW Lift Neue Elektronische Wege Steuerungsbau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NEWLiftN
 type: d3-device-type-assertion

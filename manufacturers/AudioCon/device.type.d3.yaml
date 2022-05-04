@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54ba2c30-de76-43c3-9733-fd2042f543a1
-  mac-addresses:
+  id: 8291bd63-0c30-4ebd-a5ab-b1bbef40885b
+  macAddresses:
   - 44:14:41:00:00:00/24
   manufacturer: AudioControl Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioCon
 type: d3-device-type-assertion

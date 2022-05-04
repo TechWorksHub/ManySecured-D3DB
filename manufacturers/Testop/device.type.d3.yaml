@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d5062dce-bac1-4cf6-bd15-e19641cbf74a
-  mac-addresses:
+  id: 9730d763-5885-4e43-807c-bc059d16e254
+  macAddresses:
   - 04:65:65:00:00:00/24
   - 44:42:2F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Testop
 type: d3-device-type-assertion

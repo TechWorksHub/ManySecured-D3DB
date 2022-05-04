@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0fa8861-d585-4e4f-8ad6-31b349051b23
-  mac-addresses:
+  id: c943ebe0-537d-4d16-9b51-f772343d8b06
+  macAddresses:
   - 20:D9:06:00:00:00/24
   manufacturer: Iota, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iota
 type: d3-device-type-assertion

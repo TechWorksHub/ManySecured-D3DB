@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59fcb0dc-4cf3-489b-9ffc-ef59525f1204
-  mac-addresses:
+  id: 9b10afec-90ad-4144-b22c-5d7ceffaf19c
+  macAddresses:
   - 00:13:2E:00:00:00/24
   manufacturer: ITian Coporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITianCop
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fe1369d0-56e5-4a2f-8d24-12892d0a7ed9
-  mac-addresses:
+  id: 9f3e644a-50f2-48c6-95da-058f1f783f47
+  macAddresses:
   - 00:02:9A:00:00:00/24
   - 88:8B:5D:00:00:00/24
   manufacturer: Storage Apps
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StorageA
 type: d3-device-type-assertion

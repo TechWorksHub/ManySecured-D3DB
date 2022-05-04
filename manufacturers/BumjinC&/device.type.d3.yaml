@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba97464e-b776-44e2-bc50-c3b2979dfcdb
-  mac-addresses:
+  id: d9cac727-7bc0-4497-9a6b-6f624b104b48
+  macAddresses:
   - 38:B8:EB:00:00:00/28
   manufacturer: Bumjin C&L Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BumjinC&
 type: d3-device-type-assertion

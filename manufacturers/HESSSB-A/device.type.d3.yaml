@@ -1,8 +1,8 @@
 credentialSubject:
-  id: da1d9282-c62b-4336-977f-195fe21c6e1d
-  mac-addresses:
+  id: 5dd058c3-4425-4be6-92be-3907b123fe88
+  macAddresses:
   - 00:E0:10:00:00:00/24
   manufacturer: HESS SB-AUTOMATENBAU GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HESSSB-A
 type: d3-device-type-assertion

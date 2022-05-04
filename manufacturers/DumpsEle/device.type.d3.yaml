@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1afaadc0-55b9-44e6-8e68-2b1f9d2c1023
-  mac-addresses:
+  id: 7e926c9e-d0e1-48c9-8929-ae76671754d6
+  macAddresses:
   - 00:50:C2:D9:00:00/36
   manufacturer: Dumps Electronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DumpsEle
 type: d3-device-type-assertion

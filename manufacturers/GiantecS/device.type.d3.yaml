@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f31871b-7a64-4aa4-9794-9c8a2aace0b7
-  mac-addresses:
+  id: 713bec87-c27b-4abc-bf4a-e0b939c46ec6
+  macAddresses:
   - D8:FC:38:00:00:00/24
   manufacturer: Giantec Semiconductor Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GiantecS
 type: d3-device-type-assertion

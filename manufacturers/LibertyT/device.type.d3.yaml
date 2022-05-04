@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05dd5eb3-9d4e-4bb5-9c57-23f7c16a44ce
-  mac-addresses:
+  id: c274b895-6d53-4945-bd2d-b33513ca2a9a
+  macAddresses:
   - 00:60:5E:00:00:00/24
   manufacturer: Liberty Technology Networking
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LibertyT
 type: d3-device-type-assertion

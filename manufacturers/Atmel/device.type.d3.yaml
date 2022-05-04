@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f7cfe760-2cc2-4437-b48b-86c9fe0a80b0
-  mac-addresses:
+  id: ef1effc1-493b-402b-9a75-8d5bd37e41b2
+  macAddresses:
   - 00:04:25:00:00:00/24
   - FC:C2:3D:00:00:00/24
   manufacturer: Atmel Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atmel
 type: d3-device-type-assertion

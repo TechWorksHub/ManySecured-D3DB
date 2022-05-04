@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d78079d0-f25d-4828-a2c6-b1bb874bd5c0
-  mac-addresses:
+  id: 4d024763-f9d9-4efc-b378-784f1d1f79c5
+  macAddresses:
   - 00:18:7F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zodianet
 type: d3-device-type-assertion

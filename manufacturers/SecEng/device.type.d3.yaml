@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14fcff12-2c5a-4809-84a9-ccab71adfd83
-  mac-addresses:
+  id: 4e9083e5-3853-4161-a758-e508141384f0
+  macAddresses:
   - 00:50:C2:E0:40:00/36
   manufacturer: Sec.Eng Systems Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SecEng
 type: d3-device-type-assertion

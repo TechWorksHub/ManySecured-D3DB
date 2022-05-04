@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d0572e8-75bb-43e8-9183-1c17b28a5822
-  mac-addresses:
+  id: 9a00b583-67a3-4c80-bc38-99a54fb97e82
+  macAddresses:
   - 00:02:A1:00:00:00/24
   manufacturer: World Wide Packets
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WorldWid
 type: d3-device-type-assertion

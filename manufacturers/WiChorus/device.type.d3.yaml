@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69c3cfdb-fef8-4588-9b46-1e6d8a5c4d32
-  mac-addresses:
+  id: 91749152-d3a7-409b-abf6-6df09b3075d6
+  macAddresses:
   - 00:1C:AE:00:00:00/24
   manufacturer: WiChorus, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiChorus
 type: d3-device-type-assertion

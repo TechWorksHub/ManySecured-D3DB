@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77618094-a308-47a6-9714-c92b764301e6
-  mac-addresses:
+  id: 9ccb3fd7-761f-4542-a3af-f29885997184
+  macAddresses:
   - 00:D0:5B:00:00:00/24
   manufacturer: Acroloop Motion Control
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acroloop
 type: d3-device-type-assertion

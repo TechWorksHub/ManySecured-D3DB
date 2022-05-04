@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 0bfa4c3a-c98e-4931-b0d2-14bbbd141409
-  mac-addresses:
+  id: 32b7b519-95ae-466d-8f88-c72f7a73defc
+  macAddresses:
   - 00:00:E8:00:00:00/24
   - 00:04:E3:00:00:00/24
   - 00:10:B5:00:00:00/24
@@ -8,6 +8,6 @@ credentialSubject:
   - 00:30:F1:00:00:00/24
   - B8:61:6F:00:00:00/24
   manufacturer: Accton Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcctonTe
 type: d3-device-type-assertion

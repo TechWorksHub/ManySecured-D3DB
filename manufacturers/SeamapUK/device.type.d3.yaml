@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e5a5cc92-6d61-4840-9406-2cddf6655df3
-  mac-addresses:
+  id: 7a92d28b-8474-40ac-8a6c-fb8e556fa255
+  macAddresses:
   - 04:B3:B6:00:00:00/24
   manufacturer: Seamap (UK) Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeamapUK
 type: d3-device-type-assertion

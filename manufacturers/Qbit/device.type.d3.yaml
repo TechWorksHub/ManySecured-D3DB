@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1771b9f-83db-46d7-978e-f6208a2f5021
-  mac-addresses:
+  id: 7513afd6-a7ca-4b62-85b7-89e1a0812996
+  macAddresses:
   - 00:1F:3D:00:00:00/24
   manufacturer: Qbit GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qbit
 type: d3-device-type-assertion

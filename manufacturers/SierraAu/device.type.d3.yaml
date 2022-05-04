@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a28ed41-7a05-4e2e-a2d6-5c77c99f510e
-  mac-addresses:
+  id: 8dada316-2dd2-479c-baf9-8183b806992e
+  macAddresses:
   - 00:07:41:00:00:00/24
   manufacturer: Sierra Automated Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SierraAu
 type: d3-device-type-assertion

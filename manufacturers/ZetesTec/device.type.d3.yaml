@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a94afcab-7f27-4d3b-a41c-01ff2f2882b8
-  mac-addresses:
+  id: 18daaec5-f0ea-4a39-a29a-21691d70b420
+  macAddresses:
   - 00:03:36:00:00:00/24
   manufacturer: Zetes Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZetesTec
 type: d3-device-type-assertion

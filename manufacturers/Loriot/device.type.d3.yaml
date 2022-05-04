@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e110734-a06b-4c5e-8a0a-e84dbd5a0abf
-  mac-addresses:
+  id: d89ce3d1-898b-44a7-a0d8-afeb59133aee
+  macAddresses:
   - A4:DA:22:40:00:00/28
   manufacturer: Loriot Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Loriot
 type: d3-device-type-assertion

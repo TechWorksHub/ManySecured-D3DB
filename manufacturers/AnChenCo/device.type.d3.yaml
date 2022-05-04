@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff7da909-07f9-4794-9c15-5c9d9ccb10a5
-  mac-addresses:
+  id: 83129c40-b972-47b4-9bff-b0688d54ad47
+  macAddresses:
   - 40:D8:55:04:40:00/36
   manufacturer: An Chen Computer Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AnChenCo
 type: d3-device-type-assertion

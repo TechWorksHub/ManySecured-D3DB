@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7754600f-676b-41e6-a972-b88e372770f6
-  mac-addresses:
+  id: ae09c910-f04f-46de-85dc-20ebb27c6579
+  macAddresses:
   - D8:9D:B9:00:00:00/24
   manufacturer: eMegatech International Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eMegatec
 type: d3-device-type-assertion

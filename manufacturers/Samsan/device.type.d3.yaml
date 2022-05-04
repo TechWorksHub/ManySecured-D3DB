@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4946895-66fc-4acf-bb8a-e5531ba37774
-  mac-addresses:
+  id: b573198c-85e3-4e45-97f6-e23e9cbed877
+  macAddresses:
   - 00:90:13:00:00:00/24
   manufacturer: Samsan Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Samsan
 type: d3-device-type-assertion

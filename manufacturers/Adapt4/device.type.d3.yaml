@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d73a691c-1668-4dd3-a7ae-e71ca7cdd3ae
-  mac-addresses:
+  id: 3fa2eb00-94fc-4df6-a961-b660e3478d6b
+  macAddresses:
   - 00:13:DE:00:00:00/24
   manufacturer: Adapt4, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Adapt4
 type: d3-device-type-assertion

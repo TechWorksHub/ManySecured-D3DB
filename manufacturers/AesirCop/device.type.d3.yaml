@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d83f287-7dab-451f-973e-87a05ed015b4
-  mac-addresses:
+  id: 64edd788-9190-41e0-8fb3-61d2eafdaef3
+  macAddresses:
   - 00:50:C2:E3:80:00/36
   manufacturer: Aesir Copenhagen
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AesirCop
 type: d3-device-type-assertion

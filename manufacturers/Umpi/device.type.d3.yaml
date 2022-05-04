@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65316301-53f4-4544-99ce-955db7aa0580
-  mac-addresses:
+  id: e5347d1b-f710-4634-933b-22ce0134fd95
+  macAddresses:
   - B4:C8:10:00:00:00/24
   manufacturer: Umpi srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Umpi
 type: d3-device-type-assertion

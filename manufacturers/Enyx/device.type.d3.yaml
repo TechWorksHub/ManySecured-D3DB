@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4248bfda-4fd4-4128-ae2b-4d42155accd5
-  mac-addresses:
+  id: bdb51f96-bf2e-45f3-b581-368666c7fc78
+  macAddresses:
   - 00:50:C2:FD:10:00/36
   - 70:B3:D5:21:C0:00/36
   manufacturer: Enyx SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Enyx
 type: d3-device-type-assertion

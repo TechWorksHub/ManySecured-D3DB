@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfc6e0b3-5e3c-4c76-b820-a97f1c99764f
-  mac-addresses:
+  id: 3e85936a-88ea-4413-84a9-41bfb859dfa4
+  macAddresses:
   - 00:50:C2:F1:10:00/36
   manufacturer: Organis GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Organis
 type: d3-device-type-assertion

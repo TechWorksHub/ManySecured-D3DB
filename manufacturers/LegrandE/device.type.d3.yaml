@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 220124e1-3a8e-41ca-9b5e-3f24de1ffc57
-  mac-addresses:
+  id: 083e3452-7d60-4046-a9ca-f858f07ae15f
+  macAddresses:
   - 70:B3:D5:09:30:00/36
   manufacturer: Legrand Electric Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LegrandE
 type: d3-device-type-assertion

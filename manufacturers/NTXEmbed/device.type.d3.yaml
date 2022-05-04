@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f06ff934-3cc8-448d-bc46-90d52aacb913
-  mac-addresses:
+  id: d3cf2d8e-d964-4564-979d-7628a601a236
+  macAddresses:
   - 34:D0:B8:D0:00:00/28
   manufacturer: NTX Embedded
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NTXEmbed
 type: d3-device-type-assertion

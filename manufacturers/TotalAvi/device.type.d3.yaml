@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54c6efbe-d81d-4dd9-a369-044c6598c8d7
-  mac-addresses:
+  id: 677f4767-3983-4b3a-915b-8a3facad46b5
+  macAddresses:
   - A0:9B:BD:00:00:00/24
   manufacturer: Total Aviation Solutions Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TotalAvi
 type: d3-device-type-assertion

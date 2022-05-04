@@ -1,9 +1,9 @@
 credentialSubject:
-  id: f93eb9ac-2bc8-4459-9dc7-3a40bb7f1e78
-  mac-addresses:
+  id: 9afcb052-ec36-4f6f-8693-ef933f92cdaa
+  macAddresses:
   - 00:50:C2:64:F0:00/36
   - E4:4F:29:00:00:00/24
   manufacturer: MA Lighting Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MALighti
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b7394c0-32c8-485a-ade3-90d990b41562
-  mac-addresses:
+  id: c40806b5-685a-4ccb-be94-a9acf91ba786
+  macAddresses:
   - 18:74:E2:80:00:00/28
   manufacturer: Kano Computing Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KanoComp
 type: d3-device-type-assertion

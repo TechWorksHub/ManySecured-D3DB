@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 560a1337-d868-44a1-a3af-68cb7c04d0e0
-  mac-addresses:
+  id: 7882e6b0-77d3-4db5-b222-4d1d35515c44
+  macAddresses:
   - 00:50:C2:B4:90:00/36
   - 00:50:C2:D1:10:00/36
   - 00:50:C2:DA:B0:00/36
@@ -45,6 +45,6 @@ credentialSubject:
   - 70:B3:D5:FF:30:00/36
   - 7C:CB:E2:E0:00:00/28
   manufacturer: Aplex Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AplexTec
 type: d3-device-type-assertion

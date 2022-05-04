@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d75e3d06-0a1e-41b5-8c92-8c40d95a73f8
-  mac-addresses:
+  id: a1a62bd0-a26e-420e-b085-ffae8864a7e2
+  macAddresses:
   - 70:B3:D5:E0:D0:00/36
   - F8:1D:78:B0:00:00/28
   manufacturer: Sigma Connectivity AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SigmaCon
 type: d3-device-type-assertion

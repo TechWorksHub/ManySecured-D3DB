@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 568ee0cf-983b-413a-9346-d9355aebe3ef
-  mac-addresses:
+  id: add063e0-8546-4174-a9f0-06ce6a7fadc2
+  macAddresses:
   - 00:27:17:00:00:00/24
   manufacturer: CE Digital(Zhenjiang)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CEDigita
 type: d3-device-type-assertion

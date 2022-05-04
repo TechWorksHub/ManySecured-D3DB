@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90234282-c898-4290-a4ac-ff545054e138
-  mac-addresses:
+  id: 8144a512-6c39-4e07-adde-2dcd27df1702
+  macAddresses:
   - 00:0C:95:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PrimeNet
 type: d3-device-type-assertion

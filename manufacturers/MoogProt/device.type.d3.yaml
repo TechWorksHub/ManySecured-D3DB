@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8275522b-75f7-4aa9-a3af-c4f90c2d4aa2
-  mac-addresses:
+  id: 29e9949c-b79a-4209-a7d2-4150e8e5380e
+  macAddresses:
   - D8:EE:78:00:00:00/24
   manufacturer: Moog Protokraft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MoogProt
 type: d3-device-type-assertion

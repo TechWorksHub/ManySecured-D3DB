@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cbcb1351-7e11-4941-913a-a69e3acf2c2f
-  mac-addresses:
+  id: 7ea925e3-a394-4f4c-999b-e5675310f9e9
+  macAddresses:
   - 00:0E:43:00:00:00/24
   manufacturer: G-Tek Electronics Sdn. Bhd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: G-TekEle
 type: d3-device-type-assertion

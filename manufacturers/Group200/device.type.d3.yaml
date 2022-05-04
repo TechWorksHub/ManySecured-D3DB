@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a2f87f4-98ad-48a7-af54-41cfb3fb7cb2
-  mac-addresses:
+  id: aacaeb67-5b9a-4506-8436-8284deb561e1
+  macAddresses:
   - 00:C0:4A:00:00:00/24
   manufacturer: Group 2000 Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Group200
 type: d3-device-type-assertion

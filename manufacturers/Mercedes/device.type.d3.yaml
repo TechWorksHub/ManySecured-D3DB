@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78364f55-47bc-4d8f-955e-62b9eeb9f8a6
-  mac-addresses:
+  id: a8ea8d56-66ca-4b46-9bd6-6fe1815a4c54
+  macAddresses:
   - 3C:CE:15:00:00:00/24
   manufacturer: Mercedes-Benz USA, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mercedes
 type: d3-device-type-assertion

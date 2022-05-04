@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b029157-a065-4fc8-8037-9748f63e5e4c
-  mac-addresses:
+  id: f6e49e12-26b9-4248-a518-c53d7dbe0016
+  macAddresses:
   - 00:50:C2:AB:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Barrick
 type: d3-device-type-assertion

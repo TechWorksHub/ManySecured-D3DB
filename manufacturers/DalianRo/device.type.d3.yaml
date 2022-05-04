@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 312b5eb4-e99d-41bf-a1c2-2f61208b21f5
-  mac-addresses:
+  id: eabef8af-41ce-49c3-9095-2da88f96283e
+  macAddresses:
   - 80:E4:DA:D0:00:00/28
   manufacturer: Dalian Roiland Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DalianRo
 type: d3-device-type-assertion

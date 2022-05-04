@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f4eea16-fd78-41f8-b7ab-3904cfdd83c5
-  mac-addresses:
+  id: 15885504-7d59-4592-a2ec-9e61713f19ed
+  macAddresses:
   - 00:16:65:00:00:00/24
   manufacturer: Cellon France
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CellonFr
 type: d3-device-type-assertion

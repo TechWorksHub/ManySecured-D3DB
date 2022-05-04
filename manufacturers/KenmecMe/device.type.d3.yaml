@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc66c012-c904-453f-8d04-ff390a8811a5
-  mac-addresses:
+  id: 834c21bf-a9c0-4399-aafb-13cafee5e080
+  macAddresses:
   - 00:26:AA:00:00:00/24
   manufacturer: Kenmec Mechanical Engineering Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KenmecMe
 type: d3-device-type-assertion

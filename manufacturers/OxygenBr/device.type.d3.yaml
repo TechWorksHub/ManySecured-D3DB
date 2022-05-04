@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5882564f-01ff-4f73-a58f-31773facd677
-  mac-addresses:
+  id: 5c52ce73-a971-4704-b26a-139c793f7c19
+  macAddresses:
   - 24:3F:30:00:00:00/24
   manufacturer: Oxygen Broadband s.a.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OxygenBr
 type: d3-device-type-assertion

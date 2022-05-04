@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 7c19f247-91cd-4038-a2a1-853b194b5da0
-  mac-addresses:
+  id: 768ddfb1-0677-4bba-9580-f01cfe15d486
+  macAddresses:
   - 6C:0E:E6:00:00:00/24
   - 80:0B:51:00:00:00/24
   - 9C:44:3D:00:00:00/24
   manufacturer: Chengdu Xiyida Electronic Technology Co,.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengduX
 type: d3-device-type-assertion

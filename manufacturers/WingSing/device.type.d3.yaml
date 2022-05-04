@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 065174df-c659-482a-97fb-1ca722b6531b
-  mac-addresses:
+  id: b0a6fbd1-9d31-4570-a659-a5d2a0288de4
+  macAddresses:
   - 6C:D1:B0:00:00:00/24
   manufacturer: Wing Sing Electronics Hong Kong Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WingSing
 type: d3-device-type-assertion

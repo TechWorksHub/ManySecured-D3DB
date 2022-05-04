@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5469678a-e7fd-48d3-8690-c1653ad0da64
-  mac-addresses:
+  id: e3440af1-dbc1-45ac-9552-2e213d170322
+  macAddresses:
   - 30:09:F9:B0:00:00/28
   manufacturer: Sichuan Nebula Networks Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SichuanN
 type: d3-device-type-assertion

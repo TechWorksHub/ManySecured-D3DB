@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 897b3eae-4620-46b5-b024-6f4372e65d5d
-  mac-addresses:
+  id: e9f7c19b-ae1b-4a9e-bbb5-d74b6702f7ca
+  macAddresses:
   - 00:00:CF:00:00:00/24
   - 00:00:DC:00:00:00/24
   manufacturer: Hayes Microcomputer Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HayesMic
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 008b8255-fac0-4237-85a0-0cd34ac8ccbc
-  mac-addresses:
+  id: ce21b01a-ebf2-4474-aafd-6fa4c8038941
+  macAddresses:
   - 4C:91:7A:40:00:00/28
   - 70:B3:D5:17:20:00/36
   manufacturer: LumiGrow Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LumiGrow
 type: d3-device-type-assertion

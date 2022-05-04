@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5ca53286-105d-4459-a113-9017862a3399
-  mac-addresses:
+  id: 7df67190-f1e2-41cc-8fd0-2b20ecd1ce33
+  macAddresses:
   - 70:B3:D5:9A:C0:00/36
   manufacturer: Suzhou Sapa Automotive Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouSa
 type: d3-device-type-assertion

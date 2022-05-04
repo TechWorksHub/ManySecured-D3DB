@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12fa9316-81a2-4fac-b3f4-c90e015ba531
-  mac-addresses:
+  id: 7f8599ce-dc5e-4a56-b066-b8d84a6ef61d
+  macAddresses:
   - 6C:32:DE:00:00:00/24
   manufacturer: Indieon Technologies Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IndieonT
 type: d3-device-type-assertion

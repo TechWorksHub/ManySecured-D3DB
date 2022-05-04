@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 8ac7affb-f2dd-489f-8e88-a4ef4d55e6ca
-  mac-addresses:
+  id: cc115c72-3f3c-49d1-b69e-3b704c7a4637
+  macAddresses:
   - 00:50:C2:C2:00:00/36
   - 88:36:12:00:00:00/24
   manufacturer: SRC Computers, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SRCCompu
 type: d3-device-type-assertion

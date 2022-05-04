@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 978ec108-2859-4965-ac5d-5f7c32a68fe4
-  mac-addresses:
+  id: c127a7a7-6503-4b95-9208-7843b306904d
+  macAddresses:
   - 50:ED:94:00:00:00/24
   manufacturer: Egatel Sl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EgatelSl
 type: d3-device-type-assertion

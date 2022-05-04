@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5451db38-3d32-4035-955c-1d15ab1f76f9
-  mac-addresses:
+  id: ca697160-6c8c-4a80-9fb8-3df534a50e3b
+  macAddresses:
   - 00:03:76:00:00:00/24
   manufacturer: Graphtec Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Graphtec
 type: d3-device-type-assertion

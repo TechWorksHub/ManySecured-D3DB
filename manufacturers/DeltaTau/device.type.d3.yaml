@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 5fc2340d-e0a5-452c-b417-3a8ac9e0e956
-  mac-addresses:
+  id: b6e6910a-d371-4920-ada5-a095bc37df27
+  macAddresses:
   - 00:50:C2:12:C0:00/36
   - 00:50:C2:4D:70:00/36
   - 00:50:C2:7A:90:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 70:B3:D5:23:10:00/36
   - A0:22:4E:90:00:00/28
   manufacturer: Delta Tau Data Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeltaTau
 type: d3-device-type-assertion

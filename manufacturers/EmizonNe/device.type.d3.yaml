@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ed9c6e9-49c1-4006-82f7-c44275f14f5f
-  mac-addresses:
+  id: 313b8f41-85bf-470e-8b2f-db1a22658c44
+  macAddresses:
   - 98:7E:46:00:00:00/24
   manufacturer: Emizon Networks Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmizonNe
 type: d3-device-type-assertion

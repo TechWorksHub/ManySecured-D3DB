@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d73eb45-ac41-403a-96e8-0e555aa68c79
-  mac-addresses:
+  id: 8dff3220-5553-4604-9b24-5ac992560d6a
+  macAddresses:
   - B4:EF:04:00:00:00/24
   manufacturer: DAIHAN Scientific Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DAIHANSc
 type: d3-device-type-assertion

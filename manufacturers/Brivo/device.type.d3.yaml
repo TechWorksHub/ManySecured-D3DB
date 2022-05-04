@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ed74272b-9e37-4e5c-a6bf-d6f2472281b5
-  mac-addresses:
+  id: 68e461cb-7a2e-448e-9d61-59ef38c9e81b
+  macAddresses:
   - 00:1D:00:00:00:00/24
   - 00:50:C2:45:40:00/36
   manufacturer: Brivo Systems, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Brivo
 type: d3-device-type-assertion

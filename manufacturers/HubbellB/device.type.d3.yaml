@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba0e75e5-1b5d-45d4-853c-9008e7a5e8f3
-  mac-addresses:
+  id: 98b0df06-cced-4833-bee7-9d90d48aec04
+  macAddresses:
   - 6C:AD:3F:00:00:00/24
   manufacturer: Hubbell Building Automation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HubbellB
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: beaab55e-d13e-4e4c-8888-4889a90b1ea7
-  mac-addresses:
+  id: 5c365e8f-2b37-4c54-bf14-9238217f9e66
+  macAddresses:
   - 00:1E:DD:00:00:00/24
   manufacturer: Wasko S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wasko
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c1ff854-aa8d-4e8d-981e-c0579a2917ec
-  mac-addresses:
+  id: 337c0213-5453-4c1f-a4b1-1936038f5299
+  macAddresses:
   - 20:0A:0D:A0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Irsap
 type: d3-device-type-assertion

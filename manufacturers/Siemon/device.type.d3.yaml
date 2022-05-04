@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f062fbfd-39de-4b10-9c67-6c6605038279
-  mac-addresses:
+  id: f190e025-5907-47fe-af2b-11120c673893
+  macAddresses:
   - 00:1E:62:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siemon
 type: d3-device-type-assertion

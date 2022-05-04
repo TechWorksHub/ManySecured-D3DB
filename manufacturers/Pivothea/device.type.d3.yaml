@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8f5fbf5b-2b59-4b4c-8a6b-b83150ae7043
-  mac-addresses:
+  id: 842837ea-442b-49c2-a591-b3cdd3105090
+  macAddresses:
   - 70:B3:D5:63:C0:00/36
   manufacturer: Pivothead
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pivothea
 type: d3-device-type-assertion

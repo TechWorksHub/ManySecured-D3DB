@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1b0483e-83bf-4b2e-90ee-9fcc0b4639c0
-  mac-addresses:
+  id: c56bf3e6-d9ca-4bbc-825e-6eca286d1b59
+  macAddresses:
   - D0:EB:9E:00:00:00/24
   manufacturer: Seowoo Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seowoo
 type: d3-device-type-assertion

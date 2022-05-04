@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f33c9d9-6de1-40ce-8071-71cb2a5a3e17
-  mac-addresses:
+  id: 0ec755c8-6dc1-4b7c-8c1b-db66e1640bb3
+  macAddresses:
   - 00:0F:AE:00:00:00/24
   manufacturer: E2O Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E2OCommu
 type: d3-device-type-assertion

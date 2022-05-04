@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d155d37-010a-495e-9266-a92b092285ad
-  mac-addresses:
+  id: 0c3198dc-00cb-4d37-893e-ef51ae1935fb
+  macAddresses:
   - 00:01:89:00:00:00/24
   manufacturer: Refraction Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Refracti
 type: d3-device-type-assertion

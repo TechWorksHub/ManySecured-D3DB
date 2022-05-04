@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e47f0c7a-4904-477e-894d-6e59828dd805
-  mac-addresses:
+  id: f8540795-91ab-4b68-be03-66e5cfd4eeb1
+  macAddresses:
   - 38:3A:21:80:00:00/28
   manufacturer: Alicat Scientific
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlicatSc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d61c3607-3faf-4289-9385-ff1dcdd9fafd
-  mac-addresses:
+  id: 8952491b-1502-48ba-ad60-db2beee1a01d
+  macAddresses:
   - A8:45:CD:00:00:00/24
   manufacturer: Siselectron Technology LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siselect
 type: d3-device-type-assertion

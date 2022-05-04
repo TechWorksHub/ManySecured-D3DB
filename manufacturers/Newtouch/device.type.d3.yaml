@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1f03730-f500-45b1-bef5-374ed593ab5b
-  mac-addresses:
+  id: e2125286-a185-4faa-ba19-8c495745c2b8
+  macAddresses:
   - 70:B3:D5:DF:A0:00/36
   manufacturer: Newtouch Electronics (Shanghai) Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Newtouch
 type: d3-device-type-assertion

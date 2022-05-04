@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 477eaaf9-9a63-4b52-9140-9d327e43f80c
-  mac-addresses:
+  id: b3db82f4-bf5a-4525-8888-af8b5a132ca0
+  macAddresses:
   - A4:62:DF:00:00:00/24
   manufacturer: DS Global. Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSGlobal
 type: d3-device-type-assertion

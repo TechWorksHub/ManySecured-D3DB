@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2617df9-0f51-46d1-9f1b-aef4d85b3815
-  mac-addresses:
+  id: f579fe52-8e3c-4e61-bd4e-de59f88e90a7
+  macAddresses:
   - 00:50:C2:01:90:00/36
   manufacturer: Emtac Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmtacTec
 type: d3-device-type-assertion

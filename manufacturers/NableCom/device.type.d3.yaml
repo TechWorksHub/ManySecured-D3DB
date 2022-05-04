@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82715d5f-ca80-4c4d-9b58-7b5976270b14
-  mac-addresses:
+  id: eab03b49-318f-4033-b449-b6055fe7d50c
+  macAddresses:
   - 70:B3:D5:F5:C0:00/36
   manufacturer: Nable Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NableCom
 type: d3-device-type-assertion

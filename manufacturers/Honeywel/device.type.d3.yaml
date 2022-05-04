@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 3fb5fa85-9692-4f94-9966-552f74551b09
-  mac-addresses:
+  id: f1cb8094-c608-4337-a6b2-dd587de273c9
+  macAddresses:
   - 00:06:4A:00:00:00/24
   - 00:0A:13:00:00:00/24
   - 00:11:12:00:00:00/24
@@ -40,6 +40,6 @@ credentialSubject:
   - DC:B3:B4:00:00:00/24
   - F0:54:94:00:00:00/24
   manufacturer: Honeywell Co., Ltd. (KOREA)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Honeywel
 type: d3-device-type-assertion

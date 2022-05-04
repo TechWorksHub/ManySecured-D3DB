@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a51e716-e0f9-4774-ba35-335e17d877a4
-  mac-addresses:
+  id: 2175d447-7529-49be-986f-f76928af6ea2
+  macAddresses:
   - 00:50:C2:65:10:00/36
   manufacturer: Staer Spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Staer
 type: d3-device-type-assertion

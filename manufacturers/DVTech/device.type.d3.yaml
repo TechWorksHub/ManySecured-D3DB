@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d229b05-c357-47db-88a5-895dba15cbcd
-  mac-addresses:
+  id: 62c9eb1f-38fd-4258-ad16-b3f890ca39e6
+  macAddresses:
   - 00:50:C2:A6:60:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DVTech
 type: d3-device-type-assertion

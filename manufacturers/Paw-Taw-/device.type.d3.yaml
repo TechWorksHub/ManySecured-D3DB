@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6935ab6-eb6d-4458-bbab-94a06390f2c6
-  mac-addresses:
+  id: 94b11c81-5400-468d-a57c-c778cc8f9d03
+  macAddresses:
   - EC:9F:0D:50:00:00/28
   manufacturer: Paw-Taw-John Services, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Paw-Taw-
 type: d3-device-type-assertion

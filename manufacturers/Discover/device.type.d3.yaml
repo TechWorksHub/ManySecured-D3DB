@@ -1,6 +1,6 @@
 credentialSubject:
-  id: ed172587-7aec-4080-b13a-806a91ea044c
-  mac-addresses:
+  id: 4b44071b-66c8-4d01-aa03-4bd59313feba
+  macAddresses:
   - 00:30:CA:00:00:00/24
   - 2C:DD:0C:00:00:00/24
   - 70:B3:D5:44:00:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 9C:28:40:00:00:00/24
   - E4:8C:0F:00:00:00/24
   manufacturer: Discovery Com
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Discover
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9260bb8-9d69-4353-8cbd-4ca3c6c29342
-  mac-addresses:
+  id: 90b182fc-70a4-445d-bf67-fef454722d16
+  macAddresses:
   - 00:50:C2:66:D0:00/36
   manufacturer: DIGITEK S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DIGITEK
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 780617b7-c903-4e22-8f2c-dd58c821cac6
-  mac-addresses:
+  id: 67be8e3f-d86b-434f-b6a9-a4f092f1a654
+  macAddresses:
   - 70:B3:D5:00:B0:00/36
   - 70:B3:D5:26:30:00/36
   - 70:B3:D5:CA:60:00/36
   - E8:78:29:60:00:00/28
   manufacturer: Axing Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Axing
 type: d3-device-type-assertion

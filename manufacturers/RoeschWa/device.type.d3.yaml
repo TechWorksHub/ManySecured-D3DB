@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 355767d6-f934-49e3-bd74-67658d1fb44b
-  mac-addresses:
+  id: 7c7c4254-5f0d-494f-8188-2118511c5058
+  macAddresses:
   - 00:50:C2:A7:60:00/36
   manufacturer: Roesch & Walter Industrie-Elektronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoeschWa
 type: d3-device-type-assertion

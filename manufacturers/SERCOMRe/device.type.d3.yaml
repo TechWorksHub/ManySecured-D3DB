@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ec83b76-ee26-4cc6-8c33-c64b8c9b181f
-  mac-addresses:
+  id: 93073d88-6c09-4a34-b22f-191b2ad1b0d9
+  macAddresses:
   - 00:50:C2:FC:70:00/36
   manufacturer: SERCOM Regeltechniek
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SERCOMRe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0666d1d5-69c8-495d-a6b1-7b5537677603
-  mac-addresses:
+  id: bd3a5526-e4cb-4a59-a2e3-30993d29eead
+  macAddresses:
   - D4:94:5A:00:00:00/24
   manufacturer: Cosmo Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cosmo
 type: d3-device-type-assertion

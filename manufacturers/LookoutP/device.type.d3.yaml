@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d462e943-e20e-4dd1-abc4-f2c5834973e8
-  mac-addresses:
+  id: 42c1bacf-6d80-4aaa-a326-f95c4228c5b2
+  macAddresses:
   - 70:B3:D5:B8:20:00/36
   manufacturer: Lookout Portable Security
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LookoutP
 type: d3-device-type-assertion

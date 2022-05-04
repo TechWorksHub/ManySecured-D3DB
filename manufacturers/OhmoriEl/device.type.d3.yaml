@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c1167443-34c3-40b0-9b03-62f99f6293ed
-  mac-addresses:
+  id: 3662d9c2-3817-455f-b64e-8e4d0b4a65ee
+  macAddresses:
   - 70:B3:D5:6A:90:00/36
   manufacturer: Ohmori Electric Industries Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OhmoriEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a241ceb-b61c-4881-b947-53b3dfa86b61
-  mac-addresses:
+  id: a91cf453-5275-4416-9e53-7838cb92d844
+  macAddresses:
   - 70:B3:D5:09:50:00/36
   manufacturer: plc-tec AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: plc-tec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 765f7f11-c865-4a8d-afd5-188c5490a1c4
-  mac-addresses:
+  id: b813d156-9a88-4f18-a6f9-f5c6cda68449
+  macAddresses:
   - 4C:93:A6:C0:00:00/28
   manufacturer: Wuhan Maiwe communication Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuhanMai
 type: d3-device-type-assertion

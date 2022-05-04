@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd31b134-d716-4783-9478-2f363c1dc783
-  mac-addresses:
+  id: b93c4b6e-d3b2-4e17-88f3-d61a8f15bb35
+  macAddresses:
   - 70:B3:D5:19:F0:00/36
   manufacturer: Koizumi Lighting Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoizumiL
 type: d3-device-type-assertion

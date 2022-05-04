@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9f8f842-1a98-4304-aa37-5db513e25306
-  mac-addresses:
+  id: 913b8829-968d-4cfa-b8c1-14217e2460e2
+  macAddresses:
   - 7C:BB:6F:00:00:00/24
   manufacturer: Cosco Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoscoEle
 type: d3-device-type-assertion

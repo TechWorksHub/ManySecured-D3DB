@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0d05b85-cb1e-4522-a0b0-80f2a63309f4
-  mac-addresses:
+  id: 0983f9a7-1a04-4e39-b76d-faff155d128f
+  macAddresses:
   - 78:13:05:70:00:00/28
   manufacturer: E-Stone Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-StoneE
 type: d3-device-type-assertion

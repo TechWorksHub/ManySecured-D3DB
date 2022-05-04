@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7e4f66e-7d36-4253-ab82-c41c338b869b
-  mac-addresses:
+  id: 796bcc03-c960-4de8-bfd3-3fe36f29b27d
+  macAddresses:
   - 00:1F:0E:00:00:00/24
   manufacturer: Japan Kyastem Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanKya
 type: d3-device-type-assertion

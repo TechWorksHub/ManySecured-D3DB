@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5cff2fc9-02ad-40e9-b280-8b28808fd0fa
-  mac-addresses:
+  id: 85b078f8-4fd7-4c70-a0fe-9ee65e9e0e70
+  macAddresses:
   - 00:50:C2:53:20:00/36
   manufacturer: NVE Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NVE
 type: d3-device-type-assertion

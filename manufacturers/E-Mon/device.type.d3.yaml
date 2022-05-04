@@ -1,8 +1,8 @@
 credentialSubject:
-  id: faf1fe42-bb57-436a-8ec1-5ae86a183ec6
-  mac-addresses:
+  id: 6acbbf87-ad8d-42b8-ba4a-d7db77e049c3
+  macAddresses:
   - 00:23:A6:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-Mon
 type: d3-device-type-assertion

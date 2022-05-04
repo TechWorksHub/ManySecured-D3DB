@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a63d668a-cdce-4d91-8412-de89ca0b2797
-  mac-addresses:
+  id: d0a60122-8138-4841-8bb7-b20893f3088f
+  macAddresses:
   - 00:11:19:00:00:00/24
   manufacturer: Solteras, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Solteras
 type: d3-device-type-assertion

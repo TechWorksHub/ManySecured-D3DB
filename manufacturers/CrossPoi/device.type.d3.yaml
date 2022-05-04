@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 442fdefb-7123-4467-8bf5-dc14e3404dc8
-  mac-addresses:
+  id: adb9f7d0-3873-4cff-b73d-aee8e9826284
+  macAddresses:
   - 84:F6:4C:00:00:00/24
   manufacturer: Cross Point BV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrossPoi
 type: d3-device-type-assertion

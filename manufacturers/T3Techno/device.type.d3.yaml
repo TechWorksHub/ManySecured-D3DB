@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a1a8196c-1f76-4a95-b409-25a124b0b96e
-  mac-addresses:
+  id: d0d213c3-106a-456c-80fc-a9d243e2afd6
+  macAddresses:
   - 64:20:E0:00:00:00/24
   manufacturer: T3 Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T3Techno
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2983e8ee-243f-43bc-a1ad-72b7dc6ec689
-  mac-addresses:
+  id: be24182f-1099-4f96-a9d3-45a8c5f1559b
+  macAddresses:
   - 00:A0:82:00:00:00/24
   manufacturer: Nkt Elektronik A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NktElekt
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ba8e1c7-8349-4cbf-b257-e56c6f45023d
-  mac-addresses:
+  id: 1623c67c-2434-4ab5-a8eb-5ccb59cf4e3a
+  macAddresses:
   - 3C:1A:79:00:00:00/24
   manufacturer: Huayuan Technology CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuayuanT
 type: d3-device-type-assertion

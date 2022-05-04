@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 539462ba-a453-4c49-8019-d82fafb192c1
-  mac-addresses:
+  id: 1d653125-0d6f-4c90-88a4-03fdb63a2d72
+  macAddresses:
   - 14:EE:9D:00:00:00/24
   manufacturer: AirNav Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AirNav
 type: d3-device-type-assertion

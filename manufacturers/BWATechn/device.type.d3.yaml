@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 43e3834f-357f-4731-95cd-890f4de8e531
-  mac-addresses:
+  id: 8e3320f1-56be-4888-95a9-976587cbe403
+  macAddresses:
   - 00:0F:A5:00:00:00/24
   manufacturer: BWA Technology GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BWATechn
 type: d3-device-type-assertion

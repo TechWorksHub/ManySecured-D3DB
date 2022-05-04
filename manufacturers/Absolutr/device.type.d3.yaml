@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b24ebaac-0d87-4e02-9d17-d4899c84aeb2
-  mac-addresses:
+  id: d1de62f8-dff2-41c8-b472-3125bb7e56ec
+  macAddresses:
   - 00:50:C2:A9:A0:00/36
   manufacturer: Absolutron. LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Absolutr
 type: d3-device-type-assertion

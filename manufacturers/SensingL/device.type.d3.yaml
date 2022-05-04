@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d47e8fc-afe0-4a8d-a6d9-82718016efb2
-  mac-addresses:
+  id: 0ab06f44-9fa5-4bc4-a942-914792912d2d
+  macAddresses:
   - 70:B3:D5:80:A0:00/36
   manufacturer: Sensing Labs
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SensingL
 type: d3-device-type-assertion

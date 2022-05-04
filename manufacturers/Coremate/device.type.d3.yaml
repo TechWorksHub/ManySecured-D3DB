@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67351e96-2404-4e46-8585-162771f5c7e2
-  mac-addresses:
+  id: ef31c64f-443e-4daa-b221-9e4b89a12b3c
+  macAddresses:
   - 2C:26:5F:70:00:00/28
   manufacturer: Coremate Technical Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coremate
 type: d3-device-type-assertion

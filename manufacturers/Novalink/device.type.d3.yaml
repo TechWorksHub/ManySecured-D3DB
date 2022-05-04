@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b14748f4-ea76-42cc-b3d9-8a06e77b81c9
-  mac-addresses:
+  id: b15b66ad-be9b-4a28-8184-6a68a6573a6a
+  macAddresses:
   - 00:60:82:00:00:00/24
   manufacturer: Novalink Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novalink
 type: d3-device-type-assertion

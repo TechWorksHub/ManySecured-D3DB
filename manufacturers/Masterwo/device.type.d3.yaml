@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9aeb22ac-08db-44aa-b7f4-ed437cb9702f
-  mac-addresses:
+  id: ec2b2652-8db0-4708-b880-c2ed654f2777
+  macAddresses:
   - A4:2C:08:00:00:00/24
   manufacturer: Masterwork Automodules
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Masterwo
 type: d3-device-type-assertion

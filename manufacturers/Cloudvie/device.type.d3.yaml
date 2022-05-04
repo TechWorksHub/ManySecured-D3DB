@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 672662db-63b1-4599-8883-900d4d61e5d7
-  mac-addresses:
+  id: d023508b-4c6b-474f-9d91-e32d0fc5c275
+  macAddresses:
   - A8:61:AA:00:00:00/24
   manufacturer: Cloudview Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cloudvie
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b71c5b3-d6c8-437d-aa99-2b25eea86739
-  mac-addresses:
+  id: b8249614-7663-4259-b942-d04ad7e505eb
+  macAddresses:
   - 00:13:12:00:00:00/24
   manufacturer: Amedia Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmediaNe
 type: d3-device-type-assertion

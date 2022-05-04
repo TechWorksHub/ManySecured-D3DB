@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4fac16db-3e35-4cea-ace8-0aa9c8229484
-  mac-addresses:
+  id: 4636a235-23e2-420f-84f2-8b897044f50b
+  macAddresses:
   - 00:50:C2:9E:30:00/36
   manufacturer: SAI Informationstechnik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SAIInfor
 type: d3-device-type-assertion

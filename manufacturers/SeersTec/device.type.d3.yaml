@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9fee92ac-3a67-4703-a327-ac6ae89acea2
-  mac-addresses:
+  id: 3344cc5e-bd05-477f-98d1-5337891fed3c
+  macAddresses:
   - 08:D5:C0:00:00:00/24
   manufacturer: Seers Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeersTec
 type: d3-device-type-assertion

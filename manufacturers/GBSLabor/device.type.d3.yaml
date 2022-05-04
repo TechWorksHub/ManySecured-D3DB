@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6601694-5734-4e29-bd95-b2ad824a9b8c
-  mac-addresses:
+  id: 24f748d2-ac6b-462e-b3d3-1d7fc30bb4a6
+  macAddresses:
   - 00:22:8D:00:00:00/24
   manufacturer: GBS Laboratories LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GBSLabor
 type: d3-device-type-assertion

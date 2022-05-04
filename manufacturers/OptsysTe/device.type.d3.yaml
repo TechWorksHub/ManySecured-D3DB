@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ebc9f18-e4a0-4902-ab47-0f6b5716c146
-  mac-addresses:
+  id: c19c53cd-a92a-4f4c-a412-5251367be90a
+  macAddresses:
   - 00:1C:13:00:00:00/24
   manufacturer: Optsys Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OptsysTe
 type: d3-device-type-assertion

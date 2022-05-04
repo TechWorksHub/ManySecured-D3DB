@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 909227c1-d755-4c19-9718-06f98e0bbdd8
-  mac-addresses:
+  id: 8f693f5e-5614-45d0-a4e9-4632250bad0d
+  macAddresses:
   - 04:EE:E8:E0:00:00/28
   manufacturer: Best Integration Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BestInte
 type: d3-device-type-assertion

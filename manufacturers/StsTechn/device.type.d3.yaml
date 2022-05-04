@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bfb6f43c-f24c-4885-ac84-a3930924fb93
-  mac-addresses:
+  id: 4b09fb33-ab73-406e-81e7-0bb6cb65b93a
+  macAddresses:
   - 00:A0:DF:00:00:00/24
   manufacturer: Sts Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StsTechn
 type: d3-device-type-assertion

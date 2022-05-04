@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5908f3b9-8edf-487d-9446-e645a03e1840
-  mac-addresses:
+  id: d2294ef3-f71d-4764-aa78-2df3ed1250ae
+  macAddresses:
   - 00:04:47:00:00:00/24
   manufacturer: Acrowave Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acrowave
 type: d3-device-type-assertion

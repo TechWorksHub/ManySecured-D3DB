@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25600713-edc4-4487-8cc0-15cfcfc84693
-  mac-addresses:
+  id: 8e754c67-a2f1-40c3-a2fd-d19396406553
+  macAddresses:
   - 00:C0:62:00:00:00/24
   manufacturer: Impulse Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImpulseT
 type: d3-device-type-assertion

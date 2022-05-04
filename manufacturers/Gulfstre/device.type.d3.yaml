@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a3808de-b927-4257-82b5-3b18151a7d54
-  mac-addresses:
+  id: b38278e9-d7a3-4b99-938d-9c53dabb32ac
+  macAddresses:
   - 00:23:5B:00:00:00/24
   manufacturer: Gulfstream
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gulfstre
 type: d3-device-type-assertion

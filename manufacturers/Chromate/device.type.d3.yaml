@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6d113816-5b63-4b97-8597-a12a8dab31e8
-  mac-addresses:
+  id: 2db360a8-8ecb-490c-ae9f-76a337166b3f
+  macAddresses:
   - 00:01:52:00:00:00/24
   - 70:B3:D5:94:40:00/36
   manufacturer: Chromatek Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Chromate
 type: d3-device-type-assertion

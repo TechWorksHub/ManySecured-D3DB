@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45a194c2-f463-41b1-aa24-7df6d5718dd7
-  mac-addresses:
+  id: 3d1066d0-41ab-48bd-935e-d81598aced13
+  macAddresses:
   - 00:50:C2:6A:30:00/36
   manufacturer: CreaTech Electronics Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CreaTech
 type: d3-device-type-assertion

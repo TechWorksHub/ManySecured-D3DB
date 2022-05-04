@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b23c443-1655-4c60-aab2-dfe537c3d4f7
-  mac-addresses:
+  id: 4e41a69a-6508-43b2-a474-cc4f59aaf7cc
+  macAddresses:
   - 00:10:73:00:00:00/24
   manufacturer: Technobox, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Technobo
 type: d3-device-type-assertion

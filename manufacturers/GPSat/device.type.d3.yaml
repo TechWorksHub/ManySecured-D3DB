@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b255376c-af15-4d3b-a9f2-ca1f79bd5f8a
-  mac-addresses:
+  id: c927ccf2-8ad7-45c6-b903-55f62b08d8e9
+  macAddresses:
   - 70:B3:D5:38:60:00/36
   manufacturer: GPSat Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GPSat
 type: d3-device-type-assertion

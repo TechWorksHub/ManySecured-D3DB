@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1a60f70c-ed2d-4120-a5f2-1b4f5d5b37ba
-  mac-addresses:
+  id: c6105926-6e56-4005-ac94-5d9e2876284e
+  macAddresses:
   - 00:C0:CE:00:00:00/24
   manufacturer: Cei Systems & Engineering Pte
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeiEngin
 type: d3-device-type-assertion

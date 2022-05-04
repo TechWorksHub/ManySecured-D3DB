@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cfdad429-3157-4ded-a4c1-5034d031c412
-  mac-addresses:
+  id: 81bac4a2-dd79-48bc-be71-9084e7ffc26d
+  macAddresses:
   - 00:1F:CE:00:00:00/24
   - 08:C6:B3:00:00:00/24
   manufacturer: Qtech Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Qtech
 type: d3-device-type-assertion

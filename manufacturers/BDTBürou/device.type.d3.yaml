@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b34e63c3-5d63-438e-b808-c99c6801ecc7
-  mac-addresses:
+  id: 8b477855-6d44-440e-a37f-62d8042d4a16
+  macAddresses:
   - 00:0E:11:00:00:00/24
   manufacturer: "BDT B\xFCro und Datentechnik GmbH & Co.KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "BDTB\xFCrou"
 type: d3-device-type-assertion

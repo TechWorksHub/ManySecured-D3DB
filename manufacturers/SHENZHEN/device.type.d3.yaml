@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 819ee2f9-6988-48f8-b67f-cc29d18aab4c
-  mac-addresses:
+  id: 9a2a885f-c2ec-4ec1-8468-36eac02f6064
+  macAddresses:
   - 44:5D:5E:00:00:00/24
   - 64:31:39:C0:00:00/28
   - 70:B3:D5:A8:30:00/36
@@ -13,6 +13,6 @@ credentialSubject:
   - E4:67:1E:00:00:00/24
   - E4:C1:F1:00:00:00/24
   manufacturer: SHENZHEN Coolkit Technology CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SHENZHEN
 type: d3-device-type-assertion

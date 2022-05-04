@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55b5706d-2a1c-45c6-84c0-e88cd6640da8
-  mac-addresses:
+  id: ee15bb99-7d7f-4128-a0e5-792dc4f6a87f
+  macAddresses:
   - 00:04:74:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Legrand
 type: d3-device-type-assertion

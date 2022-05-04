@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd234717-7bed-4e51-bc57-78d96287463c
-  mac-addresses:
+  id: 88800f09-8c31-4f09-a64d-076c13982c73
+  macAddresses:
   - 00:14:7A:00:00:00/24
   manufacturer: Eubus GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eubus
 type: d3-device-type-assertion

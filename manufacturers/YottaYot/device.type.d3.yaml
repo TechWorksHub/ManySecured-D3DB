@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7bfc319-fc9a-405e-a7f4-6f06279e1aa9
-  mac-addresses:
+  id: df1bd87e-8f07-4cd1-9aff-b297ee3dce12
+  macAddresses:
   - 00:04:53:00:00:00/24
   manufacturer: YottaYotta, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YottaYot
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3514138e-9c36-4649-be6a-4bda6e871de6
-  mac-addresses:
+  id: f6e24fb9-e12d-469b-95b6-15ba15e25e0e
+  macAddresses:
   - 00:30:76:00:00:00/24
   manufacturer: Akamba Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Akamba
 type: d3-device-type-assertion

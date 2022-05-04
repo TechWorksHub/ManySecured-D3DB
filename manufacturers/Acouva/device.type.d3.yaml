@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a151002b-b81d-4533-869c-b6cba7ced252
-  mac-addresses:
+  id: a39d8a99-3942-4dc8-a3cb-de0d8797bcb8
+  macAddresses:
   - 70:B3:D5:E0:A0:00/36
   manufacturer: Acouva, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acouva
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a05421df-0f03-4413-9ab5-75336dd603d0
-  mac-addresses:
+  id: 185284ba-b4e2-44b6-99c0-f8d215a5f2e7
+  macAddresses:
   - 00:90:4D:00:00:00/24
   manufacturer: Spec S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Spec
 type: d3-device-type-assertion

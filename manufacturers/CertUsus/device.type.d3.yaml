@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff3a0db4-b8f6-4adf-82b1-88304af2814f
-  mac-addresses:
+  id: 3c6e9bee-d580-462c-aac6-ecad7bb90829
+  macAddresses:
   - 70:B3:D5:66:50:00/36
   manufacturer: CertUsus GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CertUsus
 type: d3-device-type-assertion

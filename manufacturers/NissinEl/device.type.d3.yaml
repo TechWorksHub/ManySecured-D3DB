@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb75b529-53ad-479b-be24-9ad42c605f5c
-  mac-addresses:
+  id: 2d3cbc48-740c-4cd5-ab57-3386df815b28
+  macAddresses:
   - 00:80:49:00:00:00/24
   manufacturer: Nissin Electric Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NissinEl
 type: d3-device-type-assertion

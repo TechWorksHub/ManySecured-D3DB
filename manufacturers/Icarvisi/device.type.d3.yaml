@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4774e44c-05f6-476f-895e-f22515f23cd8
-  mac-addresses:
+  id: bc770e6c-33a4-422b-aea0-a085eff79bb0
+  macAddresses:
   - 74:6F:19:00:00:00/24
   manufacturer: Icarvisions (Shenzhen) Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Icarvisi
 type: d3-device-type-assertion

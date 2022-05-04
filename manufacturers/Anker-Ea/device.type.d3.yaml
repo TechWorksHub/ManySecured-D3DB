@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 87fdf9b2-2e7b-4047-af6e-1c2ef27cf33a
-  mac-addresses:
+  id: fa97e603-d03d-40bc-ab74-028df88e3f57
+  macAddresses:
   - 70:B3:D5:C4:B0:00/36
   manufacturer: Anker-East
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Anker-Ea
 type: d3-device-type-assertion

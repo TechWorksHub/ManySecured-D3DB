@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52d0554b-3748-43ec-9588-3d5e267db22b
-  mac-addresses:
+  id: 5a12ec04-84f4-460f-9529-ab8f68715682
+  macAddresses:
   - 00:0F:D9:00:00:00/24
   manufacturer: FlexDSL Telecommunications AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FlexDSLT
 type: d3-device-type-assertion

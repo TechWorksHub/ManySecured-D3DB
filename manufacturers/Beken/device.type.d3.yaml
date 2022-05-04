@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9b1b4266-fef4-45b5-be65-2dd43a2d8497
-  mac-addresses:
+  id: 4d0effa3-fd6c-404e-bbda-7805b3eff0a3
+  macAddresses:
   - 70:87:9E:00:00:00/24
   - C8:47:8C:00:00:00/24
   manufacturer: Beken Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Beken
 type: d3-device-type-assertion

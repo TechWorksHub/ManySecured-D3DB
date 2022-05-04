@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c7c9978-24e8-4fc7-87d6-c09601883cb2
-  mac-addresses:
+  id: 9ab146fb-2a93-4af8-8489-c6fc48d724e7
+  macAddresses:
   - 00:18:07:00:00:00/24
   manufacturer: Fanstel Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fanstel
 type: d3-device-type-assertion

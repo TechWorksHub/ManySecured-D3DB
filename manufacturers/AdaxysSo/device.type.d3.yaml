@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 49e1530f-ff02-4d0a-9bc2-3aabaa2beb04
-  mac-addresses:
+  id: b71722d8-c102-4ff6-bfb1-4d6c850e1013
+  macAddresses:
   - A4:B2:A7:00:00:00/24
   manufacturer: Adaxys Solutions AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdaxysSo
 type: d3-device-type-assertion

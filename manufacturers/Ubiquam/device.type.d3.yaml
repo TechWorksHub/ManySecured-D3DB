@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2dd37be9-2c93-457d-9e2f-cb7b9dd66534
-  mac-addresses:
+  id: a4ac6f76-aa4e-41c1-ba24-7c675d64cd4a
+  macAddresses:
   - 00:16:39:00:00:00/24
   manufacturer: Ubiquam Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubiquam
 type: d3-device-type-assertion

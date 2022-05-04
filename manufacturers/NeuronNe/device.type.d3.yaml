@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 020f432e-ef05-415d-8e83-6bc61709126f
-  mac-addresses:
+  id: 4893c73c-db4b-4779-990d-df47c6e08f8d
+  macAddresses:
   - 00:06:8A:00:00:00/24
   manufacturer: NeuronNet Co. Ltd. R&D Center
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NeuronNe
 type: d3-device-type-assertion

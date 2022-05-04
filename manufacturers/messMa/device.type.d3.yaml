@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 267010cd-a30d-47a3-9672-7a52acb7d4b0
-  mac-addresses:
+  id: 5978a736-58df-46c5-8b43-780ad1b63353
+  macAddresses:
   - E4:6C:21:00:00:00/24
   manufacturer: messMa GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: messMa
 type: d3-device-type-assertion

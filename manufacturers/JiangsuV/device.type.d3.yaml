@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92e8a0f8-1d95-429d-8540-e2f09ae5be1a
-  mac-addresses:
+  id: e72069d9-e9bf-4cee-9aa0-0a9df25cb912
+  macAddresses:
   - 80:02:F4:D0:00:00/28
   manufacturer: Jiangsu Vedkang Medicl Sclence and Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuV
 type: d3-device-type-assertion

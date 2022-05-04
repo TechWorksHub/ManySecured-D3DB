@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 273c33b7-b921-404e-a0f4-d0c796695b5a
-  mac-addresses:
+  id: f25dece4-39a7-4023-83b5-a2db08001c84
+  macAddresses:
   - 4C:93:A6:B0:00:00/28
   manufacturer: Felten Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FeltenEl
 type: d3-device-type-assertion

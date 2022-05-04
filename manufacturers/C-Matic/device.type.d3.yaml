@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb307005-f55b-427f-9928-f9a0cb71cdf4
-  mac-addresses:
+  id: 35648ba7-c7d1-4a80-b97c-5813aa496cf8
+  macAddresses:
   - 00:23:3B:00:00:00/24
   manufacturer: C-Matic Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: C-Matic
 type: d3-device-type-assertion

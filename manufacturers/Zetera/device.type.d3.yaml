@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97012ea1-8a58-4b75-a0e6-24de7fbae052
-  mac-addresses:
+  id: 8fdedc87-ec72-44b0-afb6-c10a2151de35
+  macAddresses:
   - 00:50:C2:54:40:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zetera
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa66fcdd-be66-433a-8eca-2de2a2be07a6
-  mac-addresses:
+  id: 1d5c39ba-77e0-4c01-a7c3-d3b38ed60d62
+  macAddresses:
   - 14:01:9C:00:00:00/24
   manufacturer: Ubyon Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubyon
 type: d3-device-type-assertion

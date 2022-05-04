@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cedcfcec-5216-4dd0-800e-d8875c7face7
-  mac-addresses:
+  id: af232602-f5d7-4a0e-8110-cd372983fea8
+  macAddresses:
   - 00:0F:C8:00:00:00/24
   - 00:50:C2:23:A0:00/36
   manufacturer: Chantry Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChantryN
 type: d3-device-type-assertion

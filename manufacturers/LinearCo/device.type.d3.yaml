@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed21d499-b063-4b5f-8cfb-e3238676509c
-  mac-addresses:
+  id: 0c36cb58-a344-4c0d-b97f-10937d41f385
+  macAddresses:
   - 28:36:13:30:00:00/28
   manufacturer: Linear Computing Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinearCo
 type: d3-device-type-assertion

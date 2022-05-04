@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58f843a2-76ec-46c0-921e-4c08e47f8ffb
-  mac-addresses:
+  id: 677d2af4-60c5-4d0e-8d8b-f614a40315e7
+  macAddresses:
   - 00:25:63:00:00:00/24
   manufacturer: Luxtera Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Luxtera
 type: d3-device-type-assertion

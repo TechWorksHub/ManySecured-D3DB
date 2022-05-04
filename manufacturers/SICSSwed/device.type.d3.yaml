@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 360c48ca-ce7b-42be-876f-1d1553350b52
-  mac-addresses:
+  id: 9b631d4e-4bf5-4a4e-9b5e-e97b87e5a874
+  macAddresses:
   - 70:B3:D5:7D:50:00/36
   manufacturer: SICS Swedish ICT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SICSSwed
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35ac3e2b-b15f-4b80-877e-d01ce8b61cd9
-  mac-addresses:
+  id: a3bbd217-cd2f-4129-8681-d838ad535ff8
+  macAddresses:
   - 70:B3:D5:F9:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechOne
 type: d3-device-type-assertion

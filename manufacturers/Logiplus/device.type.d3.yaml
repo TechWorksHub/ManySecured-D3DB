@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b735113-9a64-43f7-ba1e-f44ee91358b1
-  mac-addresses:
+  id: 27d130d9-3dca-44e4-bca9-211622375ca4
+  macAddresses:
   - 00:22:38:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logiplus
 type: d3-device-type-assertion

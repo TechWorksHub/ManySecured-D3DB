@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7370d9a-f178-419c-ac24-0058056ad5b2
-  mac-addresses:
+  id: addfa6d6-9e77-44c5-9c87-23cd2151854c
+  macAddresses:
   - 00:90:44:00:00:00/24
   manufacturer: Assured Digital, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AssuredD
 type: d3-device-type-assertion

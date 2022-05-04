@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96ea27bd-f633-4fa3-a4a6-24871e55f6e2
-  mac-addresses:
+  id: 6789a4cd-fba2-437d-aa7e-ebff18d30999
+  macAddresses:
   - 9C:83:BF:00:00:00/24
   manufacturer: PRO-VISION, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PRO-VISI
 type: d3-device-type-assertion

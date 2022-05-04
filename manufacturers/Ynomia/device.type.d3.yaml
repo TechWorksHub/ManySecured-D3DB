@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0b4b3fe-e9f6-47dd-af5d-bb4fe66a04d7
-  mac-addresses:
+  id: 537deebd-f285-46e3-9159-d99138f231be
+  macAddresses:
   - 1C:97:C5:00:00:00/24
   manufacturer: Ynomia Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ynomia
 type: d3-device-type-assertion

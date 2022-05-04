@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7d7b54e5-9b30-4694-afeb-f535b72653ec
-  mac-addresses:
+  id: e39d03f1-6d82-4bb2-afe4-03e46bd4e469
+  macAddresses:
   - 00:25:B6:00:00:00/24
   - 00:50:C2:60:70:00/36
   manufacturer: Telecom FM
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TelecomF
 type: d3-device-type-assertion

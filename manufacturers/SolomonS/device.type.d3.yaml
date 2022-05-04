@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3961f8bd-9aeb-4acc-9c9c-e0e9c9003a93
-  mac-addresses:
+  id: 474be1e9-78b9-4f8c-b783-ab7d2e3ac517
+  macAddresses:
   - 00:1B:C5:00:90:00/36
   manufacturer: Solomon Systech Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SolomonS
 type: d3-device-type-assertion

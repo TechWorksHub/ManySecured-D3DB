@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c87f039-6a78-4180-9e87-0a3b757a2e33
-  mac-addresses:
+  id: b9249e2f-1b72-48f8-bb5c-8040bda2a19e
+  macAddresses:
   - 1C:43:EC:00:00:00/24
   manufacturer: Japan Circuit Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JapanCir
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82912ae5-5981-436e-8de9-9752a876f644
-  mac-addresses:
+  id: dbf26cc2-a1f1-4192-b3cd-e54273962be7
+  macAddresses:
   - 00:21:AF:00:00:00/24
   manufacturer: Radio Frequency Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RadioFre
 type: d3-device-type-assertion

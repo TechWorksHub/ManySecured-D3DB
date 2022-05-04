@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 794f539b-a6ab-45d4-bd4b-2e43603824df
-  mac-addresses:
+  id: 19333843-b620-4023-9550-a1e259e53825
+  macAddresses:
   - 00:50:C2:B7:10:00/36
   - 00:50:C2:C2:D0:00/36
   - 00:50:C2:D2:80:00/36
   manufacturer: Digitale Analoge COMponenten West Electronic Vertriebs GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digitale
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d73bf9c-0f5c-4c8d-b11d-0413d28eab89
-  mac-addresses:
+  id: a76c6f28-7d34-45a2-8caa-ec104002c7e4
+  macAddresses:
   - F8:02:78:80:00:00/28
   manufacturer: EMBUX Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EMBUXTec
 type: d3-device-type-assertion

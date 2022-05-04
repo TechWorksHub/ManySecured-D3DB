@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9022dee9-44a8-4075-9300-47b1454b03df
-  mac-addresses:
+  id: 27218e88-e77a-4184-8889-e6b940e3be58
+  macAddresses:
   - 00:16:8C:00:00:00/24
   manufacturer: DSL Partner AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSLPartn
 type: d3-device-type-assertion

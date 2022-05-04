@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67630a9b-adee-41e9-9b2a-44133728bc54
-  mac-addresses:
+  id: b6fcbbef-ab47-4220-aca2-702a8dcb7026
+  macAddresses:
   - 00:0F:5B:00:00:00/24
   manufacturer: Delta Information Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DeltaInf
 type: d3-device-type-assertion

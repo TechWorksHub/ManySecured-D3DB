@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4615e2a6-8efc-483f-bae0-c86cea8398a5
-  mac-addresses:
+  id: acce34a5-d04f-42c2-b4d4-1c1603f595fc
+  macAddresses:
   - 74:15:E2:00:00:00/24
   manufacturer: Tri-Sen Systems Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tri-Sen
 type: d3-device-type-assertion

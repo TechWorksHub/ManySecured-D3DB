@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1294ee6e-e33b-49bb-999e-079a3af5ae03
-  mac-addresses:
+  id: 04c0ce15-acd4-43ea-9241-126794ad34a4
+  macAddresses:
   - 00:12:C3:00:00:00/24
   manufacturer: Wit S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wit
 type: d3-device-type-assertion

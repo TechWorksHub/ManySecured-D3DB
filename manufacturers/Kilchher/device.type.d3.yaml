@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 616d5b2a-8e8a-4bdd-8c34-e9b65e966e6f
-  mac-addresses:
+  id: e22bf8b4-69b4-4e27-94e7-cb581aa9c051
+  macAddresses:
   - 00:0A:FF:00:00:00/24
   manufacturer: Kilchherr Elektronik AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kilchher
 type: d3-device-type-assertion

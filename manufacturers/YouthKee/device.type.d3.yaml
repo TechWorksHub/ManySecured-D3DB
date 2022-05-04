@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99905f90-549c-4c09-aa71-a0fa70a3d8d8
-  mac-addresses:
+  id: 608cc0a2-1201-4c20-b21c-4c3cf143bef9
+  macAddresses:
   - 00:00:F7:00:00:00/24
   manufacturer: Youth Keep Enterprise Co Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YouthKee
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85bbf231-fe94-438f-9f73-4b9a2873fc5a
-  mac-addresses:
+  id: c5a6b474-2916-4fa0-9304-f9c5aa7c3602
+  macAddresses:
   - 70:B3:D5:62:C0:00/36
   manufacturer: OOO "NTC Rotek"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NTCRotek
 type: d3-device-type-assertion

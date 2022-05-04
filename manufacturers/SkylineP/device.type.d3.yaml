@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f6a6e9d-083f-4ab1-ae5d-441de9e0eb85
-  mac-addresses:
+  id: ac0f2e7b-f860-4730-b4d3-56d65c6a3c23
+  macAddresses:
   - 00:50:C2:67:10:00/36
   manufacturer: Skyline Products, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SkylineP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a20fb68-d124-45fc-8614-2a8659493b92
-  mac-addresses:
+  id: 75b91e2a-7662-498c-81d9-92a6429781d8
+  macAddresses:
   - 00:01:61:00:00:00/24
   manufacturer: Meta Machine Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MetaMach
 type: d3-device-type-assertion

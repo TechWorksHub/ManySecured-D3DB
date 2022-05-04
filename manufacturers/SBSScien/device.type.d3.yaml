@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7887a198-cd7e-4e80-b591-c00a2042cb96
-  mac-addresses:
+  id: 9812b6c8-17d3-4cc6-be54-0cfd263287ec
+  macAddresses:
   - 00:1D:F3:00:00:00/24
   manufacturer: SBS Science & Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SBSScien
 type: d3-device-type-assertion

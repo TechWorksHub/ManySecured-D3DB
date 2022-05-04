@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b44c1a9-50fd-46b9-8c95-3bc601d5d147
-  mac-addresses:
+  id: 54ff5f06-390c-4582-a6ea-e0f6984f2012
+  macAddresses:
   - 00:04:34:00:00:00/24
   manufacturer: Accelent Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accelent
 type: d3-device-type-assertion

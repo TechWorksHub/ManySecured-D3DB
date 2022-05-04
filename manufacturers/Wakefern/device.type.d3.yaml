@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2470949d-1a92-46ca-b7a8-5f66a5ba21f8
-  mac-addresses:
+  id: e1dd79e9-4179-4a14-825a-2d3af60c871e
+  macAddresses:
   - 00:D0:29:00:00:00/24
   manufacturer: Wakefern Food Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wakefern
 type: d3-device-type-assertion

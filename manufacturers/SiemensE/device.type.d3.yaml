@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ed79bdb0-2b29-4db1-add5-2f09d4985f10
-  mac-addresses:
+  id: 62c611bf-84c1-44be-9842-ac1cc365f55b
+  macAddresses:
   - B4:B1:5A:00:00:00/24
   - DC:05:75:00:00:00/24
   manufacturer: Siemens AG Energy Management Division
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiemensE
 type: d3-device-type-assertion

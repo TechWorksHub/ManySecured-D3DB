@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54d7bf06-4820-43d1-9a68-30cc51350af2
-  mac-addresses:
+  id: b383c0cc-7e10-4a2f-a68e-fa59e751cce0
+  macAddresses:
   - 00:1A:E1:00:00:00/24
   manufacturer: Edge Access Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EdgeAcce
 type: d3-device-type-assertion

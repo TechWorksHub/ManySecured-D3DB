@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d667202f-1247-478c-8475-8d2173f0b212
-  mac-addresses:
+  id: 75e1320f-8655-43b2-abb1-91d8914b5569
+  macAddresses:
   - 00:03:F8:00:00:00/24
   - 00:50:C2:05:50:00/36
   manufacturer: SanCastle Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanCastl
 type: d3-device-type-assertion

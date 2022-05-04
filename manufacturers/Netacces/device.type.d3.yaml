@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 462b280c-4a3f-42bb-9f54-336dbb474f35
-  mac-addresses:
+  id: 79168c1c-3dbc-47ed-b0c2-5a6e1ef9d022
+  macAddresses:
   - 00:50:91:00:00:00/24
   manufacturer: Netaccess, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netacces
 type: d3-device-type-assertion

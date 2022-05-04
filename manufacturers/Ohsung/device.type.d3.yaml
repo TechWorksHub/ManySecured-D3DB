@@ -1,6 +1,6 @@
 credentialSubject:
-  id: df3dab6e-65be-429e-a3a4-523fab66ccc4
-  mac-addresses:
+  id: ef83f215-65f0-4d76-954a-63e8cf25e8bb
+  macAddresses:
   - 14:CF:8D:00:00:00/24
   - 1C:39:29:00:00:00/24
   - 30:9E:1D:00:00:00/24
@@ -11,6 +11,6 @@ credentialSubject:
   - B8:14:DB:00:00:00/24
   - D0:1B:1F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ohsung
 type: d3-device-type-assertion

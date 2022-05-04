@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ddbe7f9c-5ed7-41e7-812c-91eb168ec73d
-  mac-addresses:
+  id: eee15ebc-ce0e-4848-8035-ba7706af19b8
+  macAddresses:
   - 00:50:C2:83:E0:00/36
   manufacturer: KPE spol. s r.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KPEspols
 type: d3-device-type-assertion

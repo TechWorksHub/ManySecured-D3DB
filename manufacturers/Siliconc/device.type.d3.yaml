@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 76bbff2c-fcf3-4b27-b77a-b8a4336f0b1e
-  mac-addresses:
+  id: 6075275b-4f4e-4393-a8f9-01c312483321
+  macAddresses:
   - E8:18:63:70:00:00/28
   manufacturer: Siliconcube
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Siliconc
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 967da3cb-9b3c-46de-bfef-34feda952f70
-  mac-addresses:
+  id: 3d57d9ef-9ec6-44e7-93fd-3de4b97a70c0
+  macAddresses:
   - 00:07:8C:00:00:00/24
   - 00:50:C2:C4:90:00/36
   - 64:99:A0:00:00:00/24
@@ -12,6 +12,6 @@ credentialSubject:
   - A8:17:58:00:00:00/24
   - F4:0E:11:E0:00:00/28
   manufacturer: Elektronikspecialisten i Borlange AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elektron
 type: d3-device-type-assertion

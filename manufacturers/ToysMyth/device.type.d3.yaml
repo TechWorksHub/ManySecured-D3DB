@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae5904f7-0746-41bd-84ae-67411f9b3cee
-  mac-addresses:
+  id: 5edbb449-23cf-4a5f-9397-f5efbfe1a375
+  macAddresses:
   - D8:65:95:00:00:00/24
   manufacturer: Toy's Myth Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToysMyth
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 2ca5c443-1300-48cd-8012-fbd12acbb5ed
-  mac-addresses:
+  id: 38fd5245-a4aa-4060-a565-dc9b17ab0b21
+  macAddresses:
   - 00:18:92:00:00:00/24
   - 00:50:C2:25:20:00/36
   - 00:50:C2:34:40:00/36
@@ -11,6 +11,6 @@ credentialSubject:
   - 00:50:C2:55:C0:00/36
   - 00:50:C2:59:F0:00/36
   manufacturer: ads-tec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ads-tec
 type: d3-device-type-assertion

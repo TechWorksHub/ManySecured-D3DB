@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d18f7fbf-5601-456f-9d43-9755c8f8866b
-  mac-addresses:
+  id: 6713abb2-c4ec-4f20-84d2-7141e3c16532
+  macAddresses:
   - 00:50:C2:94:40:00/36
   manufacturer: Wireonair A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wireonai
 type: d3-device-type-assertion

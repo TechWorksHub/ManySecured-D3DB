@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fca25cc2-745e-4d8f-9a7c-5626a6a3024f
-  mac-addresses:
+  id: f717c54b-b927-4c3c-bd89-ac5257b08544
+  macAddresses:
   - 00:50:C2:26:A0:00/36
   manufacturer: Fg Synerys
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FgSynery
 type: d3-device-type-assertion

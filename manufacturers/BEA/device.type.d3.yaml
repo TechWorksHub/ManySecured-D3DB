@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc324053-4aba-44ba-9f72-bb0317119193
-  mac-addresses:
+  id: 69c82c54-1027-4e1f-854e-a6a09b8be75f
+  macAddresses:
   - 70:B3:D5:0D:F0:00/36
   manufacturer: B.E.A. sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BEA
 type: d3-device-type-assertion

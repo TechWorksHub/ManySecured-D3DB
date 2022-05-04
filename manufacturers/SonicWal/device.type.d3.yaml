@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 64dcc5db-8357-4fa1-8509-99b20bcff2b7
-  mac-addresses:
+  id: 1aa08a85-120a-4bb4-a198-d37866d53102
+  macAddresses:
   - 18:C2:41:00:00:00/24
   - 2C:B8:ED:00:00:00/24
   manufacturer: SonicWall
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonicWal
 type: d3-device-type-assertion

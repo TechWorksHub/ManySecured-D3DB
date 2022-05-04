@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c990775-a0b7-4e62-bcea-45dffafbfef8
-  mac-addresses:
+  id: c04c166e-4816-4a7b-94b8-8c9266f40c42
+  macAddresses:
   - D8:8D:C8:00:00:00/24
   manufacturer: Atil Technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AtilTech
 type: d3-device-type-assertion

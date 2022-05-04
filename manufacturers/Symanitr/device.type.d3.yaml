@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 224b6b65-a850-4052-a963-feebe66c9a95
-  mac-addresses:
+  id: 23ee59d5-30ca-4421-a209-673c11bdc9c9
+  macAddresses:
   - 48:BE:2D:00:00:00/24
   manufacturer: Symanitron
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Symanitr
 type: d3-device-type-assertion

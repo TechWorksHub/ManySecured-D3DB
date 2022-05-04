@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dec19265-d746-4782-9f73-c80c38d3e2af
-  mac-addresses:
+  id: 8ae80017-b4fa-4d3e-af7e-e3dddcd70fba
+  macAddresses:
   - 00:09:53:00:00:00/24
   manufacturer: Linkage System Integration Co.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LinkageS
 type: d3-device-type-assertion

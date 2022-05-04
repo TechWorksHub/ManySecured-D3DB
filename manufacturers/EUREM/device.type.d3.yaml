@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c0394ce-af78-457d-a107-bc1c81adcf9f
-  mac-addresses:
+  id: a23687ea-4d2a-4b76-8014-8b8247cfce5c
+  macAddresses:
   - 00:10:76:00:00:00/24
   manufacturer: EUREM GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EUREM
 type: d3-device-type-assertion

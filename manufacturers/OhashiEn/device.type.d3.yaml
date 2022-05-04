@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd4e2d6d-78ec-45a1-bb5d-73e4727d3e1c
-  mac-addresses:
+  id: c1833d62-5c42-4f56-adaf-f9299c37eca6
+  macAddresses:
   - 70:B3:D5:55:60:00/36
   manufacturer: Ohashi Engineering Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OhashiEn
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1911b403-a2fc-40b5-919c-91d25cac79a4
-  mac-addresses:
+  id: da1c46d9-89c6-4814-a7c6-4e084598dc78
+  macAddresses:
   - 28:CF:08:00:00:00/24
   - 48:7A:FF:00:00:00/24
   - A8:B9:B3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Essys
 type: d3-device-type-assertion

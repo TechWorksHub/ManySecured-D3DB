@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6447fc9d-b709-4f7e-94b0-e7a0648219b0
-  mac-addresses:
+  id: 4f1e07ee-40a9-470b-afe3-500bf6792d6e
+  macAddresses:
   - 00:1B:E8:00:00:00/24
   manufacturer: Ultratronik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ultratro
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7221000-fc67-4011-b888-fc701f49be7e
-  mac-addresses:
+  id: d00c8d7d-ce3f-4684-a91a-46c5d1488270
+  macAddresses:
   - D8:B8:F6:00:00:00/24
   manufacturer: Nantworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nantwork
 type: d3-device-type-assertion

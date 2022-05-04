@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb0dd15d-3c49-4681-bd82-ff7d86f95aaa
-  mac-addresses:
+  id: e19da48d-fc04-45f6-97e1-7ccac15dced1
+  macAddresses:
   - 00:0C:FA:00:00:00/24
   manufacturer: Digital Systems Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digital
 type: d3-device-type-assertion

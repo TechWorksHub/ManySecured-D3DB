@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf783e59-81e3-4861-8974-2f57ba654386
-  mac-addresses:
+  id: 80989702-cbcb-4571-a392-9322e5aae729
+  macAddresses:
   - 70:B3:D5:9D:80:00/36
   manufacturer: JOLANYEE Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JOLANYEE
 type: d3-device-type-assertion

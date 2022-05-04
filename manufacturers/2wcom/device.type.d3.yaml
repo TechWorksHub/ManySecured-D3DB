@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1649d51-b191-4660-a711-4a4560ec9643
-  mac-addresses:
+  id: 364e7cae-adc1-4eaf-b6dd-be5874cec0f9
+  macAddresses:
   - 00:11:99:00:00:00/24
   manufacturer: 2wcom Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2wcom
 type: d3-device-type-assertion

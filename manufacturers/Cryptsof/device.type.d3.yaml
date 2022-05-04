@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 62090ab6-e78a-4a79-84ad-bf8d5b7eb6c8
-  mac-addresses:
+  id: 4fdaea0e-e177-41a8-ba21-5419f3b96a54
+  macAddresses:
   - 00:1E:B1:00:00:00/24
   manufacturer: Cryptsoft Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cryptsof
 type: d3-device-type-assertion

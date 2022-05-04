@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a52d603-03bf-4cc0-b449-88ad5abe993a
-  mac-addresses:
+  id: b6092bf7-1e08-42c0-9b73-94cc0297fa2f
+  macAddresses:
   - 00:02:C4:00:00:00/24
   manufacturer: OPT Machine Vision Tech Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OPTMachi
 type: d3-device-type-assertion

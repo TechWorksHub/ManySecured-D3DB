@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c38beeeb-925d-4605-a99d-467d23371eeb
-  mac-addresses:
+  id: 6496571b-e501-444e-a87b-d539363da166
+  macAddresses:
   - DC:9C:52:00:00:00/24
   manufacturer: Sapphire Technology Limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sapphire
 type: d3-device-type-assertion

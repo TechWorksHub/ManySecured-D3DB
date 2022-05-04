@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45536e36-d2b4-4d1b-a9ba-3f6247af703e
-  mac-addresses:
+  id: a71cbb6c-7f8a-42d8-96f4-268ec452a482
+  macAddresses:
   - 00:07:1D:00:00:00/24
   manufacturer: Satelsa Sistemas Y Aplicaciones De Telecomunicaciones, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SatelsaS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec2cb660-b5c0-4c3d-a6f1-afc2d31e0138
-  mac-addresses:
+  id: 33cf8c49-9d42-4457-a788-764b1e79d0ff
+  macAddresses:
   - 70:50:E7:90:00:00/28
   manufacturer: Elastics.cloud
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elastics
 type: d3-device-type-assertion

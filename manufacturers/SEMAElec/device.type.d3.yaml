@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0edc70a3-2d11-41bf-9cbd-7a1453a95798
-  mac-addresses:
+  id: 728511b6-5c2d-4ec9-998b-e2c7a5728a1a
+  macAddresses:
   - B4:FC:75:00:00:00/24
   manufacturer: SEMA Electronics(HK) CO.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SEMAElec
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f168d283-1766-4a4c-9ab6-1a330f759048
-  mac-addresses:
+  id: 53ce140b-4777-4f0f-9138-e9da4f7988d7
+  macAddresses:
   - 00:0B:6B:00:00:00/24
   - 00:1B:B1:00:00:00/24
   - 10:E8:A7:00:00:00/24
@@ -34,6 +34,6 @@ credentialSubject:
   - E8:C7:CF:00:00:00/24
   - F4:6C:68:00:00:00/24
   manufacturer: Wistron Neweb Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WistronN
 type: d3-device-type-assertion

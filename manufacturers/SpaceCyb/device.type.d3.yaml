@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b116b77-f7ba-49fb-a9e0-23e15c1e7c72
-  mac-addresses:
+  id: 0d962da7-b5a6-4a9e-99cf-141e219db00f
+  macAddresses:
   - 00:01:0B:00:00:00/24
   manufacturer: Space CyberLink, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpaceCyb
 type: d3-device-type-assertion

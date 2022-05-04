@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aa0f84aa-2b05-46dc-b952-cdf3e576dba5
-  mac-addresses:
+  id: ad498655-5385-48ec-9061-f2bcdcbe7675
+  macAddresses:
   - 00:50:C2:CE:10:00/36
   manufacturer: Satellink Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satellin
 type: d3-device-type-assertion

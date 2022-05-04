@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92d23bf2-64f1-439f-9a1a-877ad3ac5f81
-  mac-addresses:
+  id: f3877197-f478-4194-bc5b-253c306e985e
+  macAddresses:
   - 70:B3:D5:55:40:00/36
   manufacturer: Teletypes Manufacturing Plant
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teletype
 type: d3-device-type-assertion

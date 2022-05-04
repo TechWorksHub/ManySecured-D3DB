@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45010367-d58d-46c1-831f-083a7080a235
-  mac-addresses:
+  id: a443d684-a313-46ad-9aaa-fc1f5533c8ff
+  macAddresses:
   - 00:1F:9C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ledco
 type: d3-device-type-assertion

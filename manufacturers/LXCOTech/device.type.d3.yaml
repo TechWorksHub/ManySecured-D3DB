@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 27baa635-01b0-4903-8d7e-a9b21dcb7717
-  mac-addresses:
+  id: 5658c26e-40f9-4343-99ee-69c14f3a38d6
+  macAddresses:
   - 00:01:88:00:00:00/24
   manufacturer: LXCO Technologies ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LXCOTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e21799cb-ccc2-4258-91ef-22ddcab8655d
-  mac-addresses:
+  id: 38a71de5-e7b4-40da-ab51-7e55c2aae2ae
+  macAddresses:
   - 70:B3:D5:E0:70:00/36
   manufacturer: Baader Planetarium GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BaaderPl
 type: d3-device-type-assertion

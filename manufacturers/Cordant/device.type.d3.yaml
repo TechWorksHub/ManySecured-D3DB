@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1405394-5467-46c8-bf19-74b8c873da3f
-  mac-addresses:
+  id: 6f936c93-8e5c-4109-bce8-0a6831fedef8
+  macAddresses:
   - 00:A0:B7:00:00:00/24
   manufacturer: Cordant, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cordant
 type: d3-device-type-assertion

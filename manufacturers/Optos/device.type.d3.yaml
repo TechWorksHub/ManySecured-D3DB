@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5047371-cb8d-4346-9643-25adcb6e9f22
-  mac-addresses:
+  id: 962f1875-2d86-4bb3-a4d5-430379cf498b
+  macAddresses:
   - 00:21:24:00:00:00/24
   manufacturer: Optos Plc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Optos
 type: d3-device-type-assertion

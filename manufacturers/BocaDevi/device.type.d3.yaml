@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ad4bbc4-5c0f-47dd-b402-914d00db45c1
-  mac-addresses:
+  id: 05d703c5-c844-41e1-8973-289da8d59cbc
+  macAddresses:
   - 00:15:EC:00:00:00/24
   manufacturer: Boca Devices LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BocaDevi
 type: d3-device-type-assertion

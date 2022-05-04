@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e544c8e7-11d5-4103-ba15-0b1edef40b5d
-  mac-addresses:
+  id: ef3d69a2-2034-48f2-88fb-95561d4b99a8
+  macAddresses:
   - 00:15:94:00:00:00/24
   manufacturer: Bixolon Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bixolon
 type: d3-device-type-assertion

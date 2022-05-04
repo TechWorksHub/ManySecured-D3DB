@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bdcdc5e0-8c46-4bbe-b9df-6a9d0c007f86
-  mac-addresses:
+  id: 06c737a6-2d58-4ff4-a219-a44902f8f4af
+  macAddresses:
   - 00:0B:79:00:00:00/24
   manufacturer: X-COM, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: X-COM
 type: d3-device-type-assertion

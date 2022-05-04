@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 8ffbabb2-61a6-47ac-88fc-750ff1f15121
-  mac-addresses:
+  id: 2b11872b-035f-4525-8da7-bee5d1122087
+  macAddresses:
   - 00:50:C2:3A:50:00/36
   - 00:50:C2:A0:80:00/36
   - 90:2E:87:00:00:00/24
   manufacturer: LabJack Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LabJack
 type: d3-device-type-assertion

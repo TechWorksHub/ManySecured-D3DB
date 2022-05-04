@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de88f23b-263d-44f9-b027-0e77ed54c3b1
-  mac-addresses:
+  id: b7ed1994-3a40-4b42-9257-19cd4e969e4f
+  macAddresses:
   - 00:1A:22:00:00:00/24
   manufacturer: eQ-3 Entwicklung GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eQ-3Entw
 type: d3-device-type-assertion

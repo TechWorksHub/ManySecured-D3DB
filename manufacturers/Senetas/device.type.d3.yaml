@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d4cea957-97b1-4b33-a8dd-4f4a455ae798
-  mac-addresses:
+  id: 3725ac59-4147-4b80-94e4-87b90442b79a
+  macAddresses:
   - 00:D0:1F:00:00:00/24
   manufacturer: Senetas Corporation Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Senetas
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 878ddf7a-c3c1-430b-bead-e2c66eabcda5
-  mac-addresses:
+  id: e8ab0ed0-b653-4ac5-814d-cb0bcf29f4a0
+  macAddresses:
   - 00:14:D7:00:00:00/24
   manufacturer: Datastore Technology Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datastor
 type: d3-device-type-assertion

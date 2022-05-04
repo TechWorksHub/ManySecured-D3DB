@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7172741e-e515-416e-b249-0f13b939c576
-  mac-addresses:
+  id: a6109787-d7c3-49d8-a5f2-21d0caf4043d
+  macAddresses:
   - 00:50:C2:E2:10:00/36
   manufacturer: Norwia AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NorwiaAS
 type: d3-device-type-assertion

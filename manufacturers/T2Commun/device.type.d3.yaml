@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b484d3b3-ab6a-4a0f-a6e1-9c35e85823cb
-  mac-addresses:
+  id: 5304b068-9e02-4408-81cb-280131e839d0
+  macAddresses:
   - 00:50:C2:63:E0:00/36
   manufacturer: T2 Communication Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T2Commun
 type: d3-device-type-assertion

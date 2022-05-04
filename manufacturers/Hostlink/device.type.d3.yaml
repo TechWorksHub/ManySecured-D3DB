@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ca5f071-bada-4a84-aab0-f4b16a55cf6f
-  mac-addresses:
+  id: 25b87198-78b2-4354-81aa-1ff3a1a7be72
+  macAddresses:
   - 00:10:61:00:00:00/24
   manufacturer: Hostlink Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hostlink
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b54cff5a-1fc5-4f89-9a81-489210e90221
-  mac-addresses:
+  id: cfb1937a-8fd6-46fd-a32c-82443696c9da
+  macAddresses:
   - 00:00:AE:00:00:00/24
   manufacturer: Dassault Electronique
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dassault
 type: d3-device-type-assertion

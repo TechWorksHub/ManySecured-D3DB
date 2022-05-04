@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a92b4633-2fe2-4b82-8a1b-84f90ab182b4
-  mac-addresses:
+  id: 4e3df2fc-33ee-4780-a4cd-8305fd908101
+  macAddresses:
   - 00:21:D9:00:00:00/24
   manufacturer: Sekonic Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sekonic
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bce9ded-6555-4862-9da2-81674335ec5d
-  mac-addresses:
+  id: db9d9c36-4766-41d7-bf9a-49187c95c854
+  macAddresses:
   - 00:24:AE:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Idemia
 type: d3-device-type-assertion

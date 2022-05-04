@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb68de20-df3a-4b9c-aeaa-727a80c39575
-  mac-addresses:
+  id: b84012a6-2e71-4f3d-a708-50260fb95956
+  macAddresses:
   - 00:14:16:00:00:00/24
   manufacturer: Scosche Industries, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScoscheI
 type: d3-device-type-assertion

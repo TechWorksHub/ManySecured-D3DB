@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a9e3ca2-3dca-43a9-bf13-edd5e20d95e4
-  mac-addresses:
+  id: 34733004-90de-46aa-bc9c-a4dc895a7c7b
+  macAddresses:
   - 00:50:C2:75:70:00/36
   manufacturer: E S P Technologies Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ESPTechn
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 199a4a43-0428-43ad-aa90-906ba533bbf2
-  mac-addresses:
+  id: 7463f715-057e-44a9-b4f1-ad05763c5b5b
+  macAddresses:
   - 44:D5:F2:40:00:00/28
   - 68:79:12:60:00:00/28
   - D0:D9:4F:E0:00:00/28
   manufacturer: Appotronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Appotron
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 1141259c-7f45-4fec-8b46-90f79d03cc6e
-  mac-addresses:
+  id: 80d0870c-e003-4244-b0f9-a3ed1c513575
+  macAddresses:
   - 70:B3:D5:2F:00:00/36
   - 8C:1F:64:4C:10:00/36
   manufacturer: Clock-O-Matic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Clock-O-
 type: d3-device-type-assertion

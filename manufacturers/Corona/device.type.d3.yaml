@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 75395895-eb9d-400a-96fb-c0b1842b7c1a
-  mac-addresses:
+  id: 6b8a36b5-5329-49d7-baf2-54cbb00a46ff
+  macAddresses:
   - 00:14:61:00:00:00/24
   manufacturer: Corona Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corona
 type: d3-device-type-assertion

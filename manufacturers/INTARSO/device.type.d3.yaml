@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f32611fc-1260-41c5-bac1-d87a035e1d38
-  mac-addresses:
+  id: ea8907ea-b052-4e1b-8cf1-609f478c166b
+  macAddresses:
   - 10:54:03:00:00:00/24
   manufacturer: INTARSO GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INTARSO
 type: d3-device-type-assertion

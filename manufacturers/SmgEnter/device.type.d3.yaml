@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01332a5e-54bd-42e9-af6a-fe5690dffd3f
-  mac-addresses:
+  id: 5b711f77-556a-476c-9c65-411eb1853d08
+  macAddresses:
   - 1C:4B:B9:00:00:00/24
   manufacturer: Smg Enterprise, Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmgEnter
 type: d3-device-type-assertion

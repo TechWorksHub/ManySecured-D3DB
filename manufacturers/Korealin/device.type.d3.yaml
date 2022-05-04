@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bd9c1bb7-876f-4fcb-9de5-f1e02e9f6c09
-  mac-addresses:
+  id: 0a2f2a18-72f0-441e-84f4-372dca3db49a
+  macAddresses:
   - 00:50:C2:09:30:00/36
   manufacturer: Korealink
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Korealin
 type: d3-device-type-assertion

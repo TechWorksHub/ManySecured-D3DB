@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4b3fbb0f-00ee-4654-8e59-6b3ec702539a
-  mac-addresses:
+  id: d46ce2c8-e0fb-41c7-9cf2-c8a3caedfd96
+  macAddresses:
   - 00:09:CB:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HBrain
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1acd800e-b51e-43ac-96bd-88b09ba07cc0
-  mac-addresses:
+  id: 646ea8d2-a790-493e-8a54-8ba312e5326d
+  macAddresses:
   - 00:1A:C7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unipoint
 type: d3-device-type-assertion

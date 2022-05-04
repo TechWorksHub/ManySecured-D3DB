@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14961392-16f8-471d-b7d9-1cd7d061a8fb
-  mac-addresses:
+  id: ed202949-706b-4bd2-abea-bb0603f8e446
+  macAddresses:
   - 94:C9:B7:70:00:00/28
   manufacturer: Mammothtek Cloud(Dong Guan)Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mammotht
 type: d3-device-type-assertion

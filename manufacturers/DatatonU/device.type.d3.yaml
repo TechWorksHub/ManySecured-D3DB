@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6d7ee34-3e25-4507-9caf-d26eee5a6b36
-  mac-addresses:
+  id: b2247b7e-343f-412b-b165-4ec246fb052a
+  macAddresses:
   - 00:50:C2:56:B0:00/36
   manufacturer: Dataton Utvecklings AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DatatonU
 type: d3-device-type-assertion

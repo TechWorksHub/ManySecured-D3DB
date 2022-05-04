@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 773c4135-c021-4dfa-93c8-e566a604042f
-  mac-addresses:
+  id: ec2630b0-5c64-4009-97c0-dcde96970abc
+  macAddresses:
   - 00:50:C2:8A:B0:00/36
   manufacturer: Nanomotion Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nanomoti
 type: d3-device-type-assertion

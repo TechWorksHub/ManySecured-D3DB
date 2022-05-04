@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd9c7262-e1ce-4584-9fa0-b60b7450c63e
-  mac-addresses:
+  id: 7c61fee9-eaba-4434-b1b8-3ac6541bec99
+  macAddresses:
   - C8:C1:26:00:00:00/24
   manufacturer: ZPM Industria e Comercio Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZPMIndus
 type: d3-device-type-assertion

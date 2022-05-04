@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5341773e-849a-4550-b7c1-b5808e4dafb9
-  mac-addresses:
+  id: 45b91f29-226c-4915-80b9-0bde0fd7db97
+  macAddresses:
   - 70:B3:D5:7E:80:00/36
   manufacturer: Mannkind Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mannkind
 type: d3-device-type-assertion

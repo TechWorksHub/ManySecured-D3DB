@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5772cec6-6ad8-4021-b06b-3490d4aafde8
-  mac-addresses:
+  id: 1b007fe4-84ee-41e8-af19-3ee57e1fe7f5
+  macAddresses:
   - 00:0C:B4:00:00:00/24
   manufacturer: AutoCell Laboratories, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutoCell
 type: d3-device-type-assertion

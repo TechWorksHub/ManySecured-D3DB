@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5273bf9f-8a34-47fd-9df7-5e682a357de2
-  mac-addresses:
+  id: 7362101d-6205-42ed-9dec-e5dd539f451e
+  macAddresses:
   - 00:A0:02:00:00:00/24
   manufacturer: Leeds & Northrup Australia Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeedsNor
 type: d3-device-type-assertion

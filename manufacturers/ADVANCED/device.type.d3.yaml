@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d302a202-2eee-4826-8d4f-b726b58698a9
-  mac-addresses:
+  id: 91fb0047-e177-4c20-8a13-c419ecf1b30d
+  macAddresses:
   - 00:60:F4:00:00:00/24
   manufacturer: ADVANCED COMPUTER SOLUTIONS, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADVANCED
 type: d3-device-type-assertion

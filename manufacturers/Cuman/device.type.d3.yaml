@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a0c975c-c39a-4b0a-9c4a-cad79de4d41f
-  mac-addresses:
+  id: 3a51eace-3120-4872-8ad8-469ca9d50b00
+  macAddresses:
   - 18:A5:9C:10:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cuman
 type: d3-device-type-assertion

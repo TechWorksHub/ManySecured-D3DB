@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7a19385-72ed-4c79-b27d-43abd841514d
-  mac-addresses:
+  id: 9074667a-116f-4f4d-a89d-1cde70d88062
+  macAddresses:
   - 00:1B:C5:04:00:00/36
   manufacturer: OOO Actidata
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Actidata
 type: d3-device-type-assertion

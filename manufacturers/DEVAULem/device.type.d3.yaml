@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c7a0689-1648-494f-bffb-f9655314bc54
-  mac-addresses:
+  id: 090efaaa-d47a-46db-914a-d538c1fe401e
+  macAddresses:
   - 70:B3:D5:4A:20:00/36
   manufacturer: DEVAU Lemppenau GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DEVAULem
 type: d3-device-type-assertion

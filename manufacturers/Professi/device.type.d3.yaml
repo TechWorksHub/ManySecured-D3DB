@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a433887a-677b-442c-b946-3599a16cb8fb
-  mac-addresses:
+  id: aa4ca7ec-2c48-4c33-9e55-73d227c5683b
+  macAddresses:
   - C0:9B:F4:D0:00:00/28
   manufacturer: The Professional Monitor Company Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Professi
 type: d3-device-type-assertion

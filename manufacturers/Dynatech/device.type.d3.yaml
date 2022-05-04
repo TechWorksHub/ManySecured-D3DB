@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 545d77f8-9742-4acb-b2ca-50c5483690df
-  mac-addresses:
+  id: 14aea7ec-4305-4041-b673-4c607a8a01a3
+  macAddresses:
   - 00:20:61:00:00:00/24
   - 00:80:08:00:00:00/24
   manufacturer: Dynatech Communications Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dynatech
 type: d3-device-type-assertion

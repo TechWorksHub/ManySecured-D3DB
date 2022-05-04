@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e1c35fb-0831-4beb-b739-6582bc7e87a2
-  mac-addresses:
+  id: 1890bba2-33af-48f0-b9ec-1b0d608eccdb
+  macAddresses:
   - 3C:B5:3D:00:00:00/24
   manufacturer: Hunan Goke Microelectronics Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HunanGok
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0978ae9-1fe0-4c80-ad05-0ce1f05ed1c1
-  mac-addresses:
+  id: 6d879d56-e31d-4559-bc37-acee233d8eb0
+  macAddresses:
   - 8C:19:2D:00:00:00/28
   manufacturer: Noritsu Precision Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NoritsuP
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5856ec7f-b237-4e55-92d8-d341ee7e76e5
-  mac-addresses:
+  id: 4a9f284c-dd98-4a82-9e53-60a92b45050e
+  macAddresses:
   - 08:99:E8:00:00:00/24
   manufacturer: KEMAS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KEMAS
 type: d3-device-type-assertion

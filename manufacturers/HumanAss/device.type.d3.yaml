@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15ff5b4d-c7b4-4021-8d30-268c5c83d69e
-  mac-addresses:
+  id: 5b42d258-fb56-4051-8ae3-a54908a1c680
+  macAddresses:
   - AC:58:3B:00:00:00/24
   manufacturer: Human Assembler, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HumanAss
 type: d3-device-type-assertion

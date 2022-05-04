@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 12f31111-d0ca-4f39-b694-7c20ca7c8edc
-  mac-addresses:
+  id: 12f6c7fe-8136-4441-8bc6-43155db18472
+  macAddresses:
   - E4:95:6E:90:00:00/28
   manufacturer: eZeLink LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eZeLink
 type: d3-device-type-assertion

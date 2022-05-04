@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74ce78df-a0e4-415c-8199-c654a6f17744
-  mac-addresses:
+  id: 08f6057b-7a8e-4741-942c-89ba13db5f94
+  macAddresses:
   - 08:68:EA:00:00:00/24
   manufacturer: Eito Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EitoElec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94d70602-c4bb-4a30-addd-91517775a145
-  mac-addresses:
+  id: c3fa2ca4-13cc-4210-92d6-87564ba13b80
+  macAddresses:
   - 7C:E0:44:00:00:00/24
   manufacturer: NEON Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NEON
 type: d3-device-type-assertion

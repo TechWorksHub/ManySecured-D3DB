@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 40c35b31-aed3-4abe-a9bb-f41ba3eca657
-  mac-addresses:
+  id: 94259609-dac7-4f5f-a47f-198383f862be
+  macAddresses:
   - 00:90:B3:00:00:00/24
   manufacturer: Agranat Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Agranat
 type: d3-device-type-assertion

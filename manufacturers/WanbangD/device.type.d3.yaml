@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d300143-f705-4297-b1af-d6712d92742f
-  mac-addresses:
+  id: 8a150d99-ff0a-4b21-8da1-176444c4ecfd
+  macAddresses:
   - E0:A2:58:00:00:00/24
   manufacturer: Wanbang Digital Energy Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WanbangD
 type: d3-device-type-assertion

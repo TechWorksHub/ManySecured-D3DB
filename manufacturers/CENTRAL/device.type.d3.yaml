@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e24952ef-7776-46e3-bea2-e9875feeaf41
-  mac-addresses:
+  id: 3fe449ca-a657-41a1-a1de-bc58334495f8
+  macAddresses:
   - 00:24:BB:00:00:00/24
   manufacturer: CENTRAL Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CENTRAL
 type: d3-device-type-assertion

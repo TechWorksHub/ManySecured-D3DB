@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 299eb857-4b2e-4c6e-a7a3-c01ae435827f
-  mac-addresses:
+  id: b0b4d466-aa27-4328-91f9-e43613d3f872
+  macAddresses:
   - E4:4C:C7:90:00:00/28
   manufacturer: Ottomate International Pvt. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ottomate
 type: d3-device-type-assertion

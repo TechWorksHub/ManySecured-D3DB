@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1784e85b-91ec-42b4-bf6f-470f4c1cb39d
-  mac-addresses:
+  id: 8b0e714d-0b37-47a3-8a20-0e7c491e3d94
+  macAddresses:
   - 00:0C:6C:00:00:00/24
   manufacturer: Eve Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eve
 type: d3-device-type-assertion

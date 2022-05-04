@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ebaf810-f920-46e5-8549-af0bf1dbab3a
-  mac-addresses:
+  id: a9a7e3dd-0a79-4ef2-9492-ce5952474ed4
+  macAddresses:
   - E4:4C:C7:80:00:00/28
   manufacturer: Iag Group Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IagGroup
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7cd4bb71-211b-4685-bcbd-a0397f59b05d
-  mac-addresses:
+  id: f825b344-a156-4e6b-8e96-228e42c24429
+  macAddresses:
   - 14:94:2F:00:00:00/24
   manufacturer: Usys Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Usys
 type: d3-device-type-assertion

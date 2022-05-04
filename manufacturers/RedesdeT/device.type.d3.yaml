@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8eb744c0-8031-4da0-80c4-f748cd2e8b81
-  mac-addresses:
+  id: 8e7ee5a6-2587-4d79-9755-9308d5fca322
+  macAddresses:
   - 00:13:89:00:00:00/24
   manufacturer: "Redes de Telefon\xEDa M\xF3vil S.A."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedesdeT
 type: d3-device-type-assertion

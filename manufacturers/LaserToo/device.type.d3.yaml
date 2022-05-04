@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f9775dab-57c5-4ba8-bdec-5870b305743f
-  mac-addresses:
+  id: 8b87fe52-7493-4f9a-a28f-291000493205
+  macAddresses:
   - 00:50:C2:6D:E0:00/36
   manufacturer: Laser Tools & Technics Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LaserToo
 type: d3-device-type-assertion

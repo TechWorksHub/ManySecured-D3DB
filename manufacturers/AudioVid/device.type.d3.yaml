@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f8221f61-43eb-4eb6-b416-e8557c996e6a
-  mac-addresses:
+  id: b8619622-4649-4dd7-af76-2d0129d7a8ee
+  macAddresses:
   - 00:15:78:00:00:00/24
   manufacturer: Audio / Video Innovations
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AudioVid
 type: d3-device-type-assertion

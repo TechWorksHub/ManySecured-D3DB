@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 308f839c-0629-44ac-95ae-0bacf964ecd9
-  mac-addresses:
+  id: da10f3b7-5738-48ac-b2aa-1b9d02019f17
+  macAddresses:
   - 00:16:6D:00:00:00/24
   - 18:DC:56:00:00:00/24
   - 3C:91:57:00:00:00/24
@@ -9,6 +9,6 @@ credentialSubject:
   - D0:37:42:00:00:00/24
   - EC:5A:86:00:00:00/24
   manufacturer: Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YulongCo
 type: d3-device-type-assertion

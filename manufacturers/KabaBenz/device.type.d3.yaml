@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58525305-fea4-4396-aea9-ec7edf91eb81
-  mac-addresses:
+  id: 4c976d68-3e6a-4dd8-8377-855fac33bcf8
+  macAddresses:
   - 00:07:CC:00:00:00/24
   manufacturer: Kaba Benzing GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KabaBenz
 type: d3-device-type-assertion

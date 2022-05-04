@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42c11e5b-47d3-422b-8280-3cea683e8bd2
-  mac-addresses:
+  id: d8432667-fe43-40bd-a5ee-1296a30d9400
+  macAddresses:
   - 00:0E:46:00:00:00/24
   manufacturer: Niigata Seimitsu Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NiigataS
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efeeca76-0cb1-4afb-8db3-909309f8d071
-  mac-addresses:
+  id: 0557d289-e561-4b52-b56d-53365ce16f3b
+  macAddresses:
   - 1C:88:79:60:00:00/28
   manufacturer: Eolos IT Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EolosIT
 type: d3-device-type-assertion

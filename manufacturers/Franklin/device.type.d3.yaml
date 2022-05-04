@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 79c37d11-8855-465d-b9a4-8d1c9f5f9619
-  mac-addresses:
+  id: 6fe5a5c8-1e9c-4923-a17f-b83f09acd0d1
+  macAddresses:
   - 00:11:0B:00:00:00/24
   - 00:12:27:00:00:00/24
   - 70:B3:D5:76:70:00/36
   manufacturer: Franklin Technology Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Franklin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 00b775af-8138-4bb2-b60a-2e9401f70534
-  mac-addresses:
+  id: 27351ced-5719-4a2d-9fad-3a0a9962e10b
+  macAddresses:
   - 00:25:17:00:00:00/24
   manufacturer: Venntis, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Venntis
 type: d3-device-type-assertion

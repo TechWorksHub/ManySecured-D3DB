@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 024f38c5-fcea-42c1-84c7-34fe5e2cec4a
-  mac-addresses:
+  id: dbaf93ce-00b9-4b50-a45b-2e059f2a83cc
+  macAddresses:
   - 00:20:BE:00:00:00/24
   manufacturer: Lan Access Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LanAcces
 type: d3-device-type-assertion

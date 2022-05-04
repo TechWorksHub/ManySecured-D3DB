@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2b37698a-07ac-4308-8f96-c327a009fa57
-  mac-addresses:
+  id: e635bc1b-9cd3-4349-9e3a-beb3f22fee25
+  macAddresses:
   - 00:21:EF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kapsys
 type: d3-device-type-assertion

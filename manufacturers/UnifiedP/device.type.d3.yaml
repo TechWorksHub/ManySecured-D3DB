@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb184b59-55eb-48bd-b291-321ba18971c6
-  mac-addresses:
+  id: 84a92532-6f42-451f-8aa6-31b49eb91668
+  macAddresses:
   - 88:95:B9:00:00:00/24
   manufacturer: Unified Packet Systems Crop
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UnifiedP
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6c1cfbae-4978-4b41-b2d4-ea8b6684b019
-  mac-addresses:
+  id: 3e09ac0b-667f-4410-85f5-83f4a5d33019
+  macAddresses:
   - 00:D0:5F:00:00:00/24
   - 40:B0:A1:00:00:00/24
   manufacturer: Valcom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Valcom
 type: d3-device-type-assertion

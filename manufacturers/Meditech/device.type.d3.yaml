@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a428005d-716d-4167-80dc-d045f4659819
-  mac-addresses:
+  id: 1b9803e8-fec2-4d30-a42e-21ee28ba0952
+  macAddresses:
   - DC:02:65:00:00:00/24
   manufacturer: Meditech Kft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Meditech
 type: d3-device-type-assertion

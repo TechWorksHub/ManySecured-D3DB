@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e3cbaefd-8ac6-4df7-9f12-50f263699398
-  mac-addresses:
+  id: 26f3c9a5-826e-4cbc-8f6a-ff30a0d53ae2
+  macAddresses:
   - D0:9F:D9:70:00:00/28
   manufacturer: Raymax Technology Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaymaxTe
 type: d3-device-type-assertion

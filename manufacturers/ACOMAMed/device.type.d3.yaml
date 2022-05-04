@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b255276-8a8d-4590-b0cd-b167a68be52e
-  mac-addresses:
+  id: df91ed0d-d514-479e-93ca-8b89a0847ff6
+  macAddresses:
   - F0:0D:F5:00:00:00/24
   manufacturer: ACOMA Medical Industry Co,. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ACOMAMed
 type: d3-device-type-assertion

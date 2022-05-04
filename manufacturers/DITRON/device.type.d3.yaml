@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 90fc106e-7559-4b03-9ae1-898a8b8c405d
-  mac-addresses:
+  id: 3b9e4404-8de4-4ce3-8509-cb2a88ce90fc
+  macAddresses:
   - 00:50:C2:A4:A0:00/36
   manufacturer: DITRON S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DITRON
 type: d3-device-type-assertion

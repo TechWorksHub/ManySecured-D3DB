@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8517e7e4-2a8b-439d-b7bc-30068c34bc54
-  mac-addresses:
+  id: 23283e15-fa98-451e-bbf9-4a258a58c567
+  macAddresses:
   - 20:46:A1:00:00:00/24
   manufacturer: VECOW Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VECOW
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 05f0dfac-78de-403d-8f11-2fab1f4f5011
-  mac-addresses:
+  id: ff90c1ea-600e-4f86-9014-8b3d2321c1ef
+  macAddresses:
   - 00:50:C2:63:80:00/36
   manufacturer: HUNGAROCOM Telecommunication Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HUNGAROC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: faf0ecbb-42bb-41af-9c15-014219057f66
-  mac-addresses:
+  id: 7a6e26ae-7404-4459-8160-ab3ddf74a0bf
+  macAddresses:
   - B4:A2:EB:00:00:00/28
   manufacturer: QKM Technology(Dongguan)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QKMTechn
 type: d3-device-type-assertion

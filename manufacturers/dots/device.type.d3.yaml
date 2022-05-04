@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c0787e7c-a718-4207-a542-700892584f7f
-  mac-addresses:
+  id: 6cccd32f-5b74-49a5-9ae0-3fdc012dfa44
+  macAddresses:
   - 98:AA:FC:C0:00:00/28
   manufacturer: dots Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: dots
 type: d3-device-type-assertion

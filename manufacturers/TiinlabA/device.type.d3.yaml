@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 610f5f96-ff26-4bcc-ab05-3570c1e33488
-  mac-addresses:
+  id: 8815ecdb-554e-4305-bc2d-5f4f71cb2656
+  macAddresses:
   - 0C:73:EB:30:00:00/28
   manufacturer: Tiinlab Acoustic Technology (Shenzhen) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TiinlabA
 type: d3-device-type-assertion

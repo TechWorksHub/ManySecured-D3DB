@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7f41bdf3-e5dc-4237-bb4c-4591da125b20
-  mac-addresses:
+  id: c5f2630c-74fa-43f5-af39-c9b5071697cd
+  macAddresses:
   - 00:30:32:00:00:00/24
   manufacturer: MagicRam, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagicRam
 type: d3-device-type-assertion

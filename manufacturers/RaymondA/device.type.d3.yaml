@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b08df4e-0f1f-4bf6-8e11-cea56618c2c2
-  mac-addresses:
+  id: d112ad03-338f-4cf6-87e3-5a97f238a8ff
+  macAddresses:
   - 00:90:5B:00:00:00/24
   manufacturer: Raymond And Lae Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaymondA
 type: d3-device-type-assertion

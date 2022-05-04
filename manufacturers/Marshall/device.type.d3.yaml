@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dea2eeab-b70d-4cbb-93f1-e1329daebe1a
-  mac-addresses:
+  id: 1b08ec76-c121-4085-b066-bb56b3cb60ab
+  macAddresses:
   - 00:23:A8:00:00:00/24
   manufacturer: Marshall Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marshall
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 207ffcdf-e61d-4167-a27a-3e9523026255
-  mac-addresses:
+  id: 0e8dd307-3dac-4879-9b73-1ead273adfde
+  macAddresses:
   - 00:10:25:00:00:00/24
   manufacturer: Grayhill, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grayhill
 type: d3-device-type-assertion

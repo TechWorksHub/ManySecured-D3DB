@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aeb50cca-60c6-4d0f-ab29-0b511cd24162
-  mac-addresses:
+  id: d342ce78-c4c5-4b9e-b2b6-94cbce497fce
+  macAddresses:
   - 70:B3:D5:59:00:00/36
   manufacturer: 812th AITS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 812thAIT
 type: d3-device-type-assertion

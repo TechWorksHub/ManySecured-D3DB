@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19d63d83-680a-466b-9cb3-b72aa525dd09
-  mac-addresses:
+  id: 0353da2d-d79c-4499-82d8-3dbfaa84bab9
+  macAddresses:
   - 00:17:86:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: wisembed
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 209d0fc2-bc60-49e9-971e-fa378d09b3a6
-  mac-addresses:
+  id: 431e7902-cd3c-41e8-a3a8-cc068e4a1abf
+  macAddresses:
   - 58:75:21:00:00:00/24
   manufacturer: CJSC RTSoft
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CJSCRTSo
 type: d3-device-type-assertion

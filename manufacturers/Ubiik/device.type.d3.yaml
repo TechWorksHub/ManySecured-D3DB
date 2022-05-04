@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 63402f43-d70e-49a5-945c-12c7a2369459
-  mac-addresses:
+  id: 5046901a-b474-4c94-9262-f9f0304d619b
+  macAddresses:
   - F0:6F:46:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ubiik
 type: d3-device-type-assertion

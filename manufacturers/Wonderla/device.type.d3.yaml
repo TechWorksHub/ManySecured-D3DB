@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80ec429e-df09-4370-9751-9d3830accbcf
-  mac-addresses:
+  id: 3e826ee8-38cf-4812-95bc-0874dfb16582
+  macAddresses:
   - 64:A3:41:00:00:00/24
   manufacturer: Wonderlan (Beijing) Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wonderla
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c8c74070-d560-4a23-ab98-240387bf7cb4
-  mac-addresses:
+  id: ef06fb33-ce7f-4eb7-ba06-ead8f55ce2a4
+  macAddresses:
   - 00:1B:C5:09:00:00/36
   - 64:FB:81:20:00:00/28
   manufacturer: Seven Solutions S.L
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SevenSol
 type: d3-device-type-assertion

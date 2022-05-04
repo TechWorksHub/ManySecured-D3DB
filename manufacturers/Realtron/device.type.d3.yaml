@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b5a47ba-6181-4699-ae34-841e87e0a441
-  mac-addresses:
+  id: 2d4987ef-c97d-4f79-aeff-608d4dc16c66
+  macAddresses:
   - 00:50:C2:74:60:00/36
   manufacturer: Realtronix Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Realtron
 type: d3-device-type-assertion

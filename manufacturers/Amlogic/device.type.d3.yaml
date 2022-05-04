@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64334e13-e80f-4719-8e9d-826e35d2fbf2
-  mac-addresses:
+  id: da76c203-0b48-4995-ad8f-dbe93b4664da
+  macAddresses:
   - 1C:A4:10:00:00:00/24
   manufacturer: Amlogic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Amlogic
 type: d3-device-type-assertion

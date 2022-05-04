@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfabb42d-b434-4e85-8e8e-eb31715d37f1
-  mac-addresses:
+  id: 1f7f4b09-f120-4a75-8ef5-79fa53e266a8
+  macAddresses:
   - 00:0A:15:00:00:00/24
   manufacturer: Silicon Data, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiliconD
 type: d3-device-type-assertion

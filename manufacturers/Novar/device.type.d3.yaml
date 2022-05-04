@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e25448f7-d89b-4fae-99cf-cc577ce3df38
-  mac-addresses:
+  id: e4435083-145f-4684-99c8-864f84545c5f
+  macAddresses:
   - 6C:70:39:00:00:00/24
   manufacturer: Novar GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novar
 type: d3-device-type-assertion

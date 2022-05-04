@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bb5f10c1-5335-4bda-9f8a-1e2c8713b0e2
-  mac-addresses:
+  id: 2da27da2-8bd6-4678-ac02-36b4bceb189e
+  macAddresses:
   - 00:50:C2:12:10:00/36
   - 00:50:C2:66:30:00/36
   manufacturer: COE Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COE
 type: d3-device-type-assertion

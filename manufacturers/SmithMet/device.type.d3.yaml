@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 5137a7a5-e6ec-41fb-b0e7-6bbb8c20982a
-  mac-addresses:
+  id: c577b2da-3134-4cf7-b657-4ccfbcda1211
+  macAddresses:
   - 00:50:C2:1E:70:00/36
   - 00:50:C2:77:A0:00/36
   - 00:50:C2:AA:00:00/36
@@ -12,6 +12,6 @@ credentialSubject:
   - 70:B3:D5:81:60:00/36
   - 70:B3:D5:E2:30:00/36
   manufacturer: Smith Meter, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmithMet
 type: d3-device-type-assertion

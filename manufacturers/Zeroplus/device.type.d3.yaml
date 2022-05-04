@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e3850d6-a29c-421f-b519-172b23a76397
-  mac-addresses:
+  id: 3b9d389c-856e-467e-ab6c-19523dd2c454
+  macAddresses:
   - 70:B3:D5:9C:10:00/36
   manufacturer: Zeroplus Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zeroplus
 type: d3-device-type-assertion

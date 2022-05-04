@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af907b4e-7ea8-4733-aa08-d1d9ed573c8a
-  mac-addresses:
+  id: f1d6351e-7f37-441f-9042-c49abb653268
+  macAddresses:
   - 04:E6:62:00:00:00/24
   manufacturer: Acroname Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acroname
 type: d3-device-type-assertion

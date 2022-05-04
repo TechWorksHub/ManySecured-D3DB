@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d72f5f17-6fbb-499e-9188-ab7f851fb842
-  mac-addresses:
+  id: 22f2edd5-b926-483e-aa26-0656a4807d0a
+  macAddresses:
   - 00:80:65:00:00:00/24
   manufacturer: Cybergraphic Systems Pty Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cybergra
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d1aed845-c49e-46c3-a60b-f1e576c910df
-  mac-addresses:
+  id: 5c558eab-05f9-4995-8113-819bcabfcb98
+  macAddresses:
   - A4:DA:22:B0:00:00/28
   manufacturer: Klashwerks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Klashwer
 type: d3-device-type-assertion

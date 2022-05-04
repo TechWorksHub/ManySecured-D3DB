@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a5ed5ab-42c9-440a-bf1c-deb101533961
-  mac-addresses:
+  id: 078e2fbb-f486-4bd0-8ad0-ce605e39d591
+  macAddresses:
   - 00:30:16:00:00:00/24
   manufacturer: Ishida Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ishida
 type: d3-device-type-assertion

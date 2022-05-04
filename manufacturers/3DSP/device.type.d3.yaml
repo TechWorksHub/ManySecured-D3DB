@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 6009c16f-745c-4eb8-81a6-0b153a5064dc
-  mac-addresses:
+  id: a60c10a7-5480-41b3-afef-940afd474565
+  macAddresses:
   - 00:21:C5:00:00:00/24
   - 00:50:C2:63:A0:00/36
   manufacturer: 3DSP Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 3DSP
 type: d3-device-type-assertion

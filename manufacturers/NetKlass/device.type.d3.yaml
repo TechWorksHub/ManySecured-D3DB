@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c9defb6b-7fc0-4077-b532-ffb4455bc17b
-  mac-addresses:
+  id: aa1c1e7d-6f28-465b-b52f-0bcf59472657
+  macAddresses:
   - 00:0E:A0:00:00:00/24
   manufacturer: NetKlass Technology Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetKlass
 type: d3-device-type-assertion

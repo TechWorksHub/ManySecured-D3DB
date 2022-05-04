@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eda601c4-542f-46f2-8d8c-d4b73908a0f1
-  mac-addresses:
+  id: c71c73f1-0b9c-4096-b414-fe6fc47f858d
+  macAddresses:
   - D0:5F:64:80:00:00/28
   manufacturer: TytoCare LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TytoCare
 type: d3-device-type-assertion

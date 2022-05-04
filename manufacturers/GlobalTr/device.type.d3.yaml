@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 99cb6bbc-cdb5-400d-a414-540fcf58782d
-  mac-addresses:
+  id: e0a86522-55c5-47d2-aa6c-569537802d0b
+  macAddresses:
   - CC:69:B0:00:00:00/24
   manufacturer: Global Traffic Technologies, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GlobalTr
 type: d3-device-type-assertion

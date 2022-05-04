@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48af32b5-c65f-412c-b914-5cf6d3a3f84c
-  mac-addresses:
+  id: 9a5bf27c-b1cf-41e5-a685-a8e20a9d13fc
+  macAddresses:
   - 00:0E:47:00:00:00/24
   manufacturer: NCI System Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NCISyste
 type: d3-device-type-assertion

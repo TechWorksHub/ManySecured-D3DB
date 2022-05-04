@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d71e6d3-8340-4e99-b98f-eba96dd54bb1
-  mac-addresses:
+  id: 034a3de6-b8ef-4d0d-a219-8f4fbf066558
+  macAddresses:
   - 00:40:65:00:00:00/24
   manufacturer: Gte Spacenet
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GteSpace
 type: d3-device-type-assertion

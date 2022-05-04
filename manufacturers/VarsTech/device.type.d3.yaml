@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dea00ddb-c853-4a92-99e5-4c38aba536ad
-  mac-addresses:
+  id: f495ce36-c326-4a80-9923-ca5bbe56c96a
+  macAddresses:
   - 70:B3:D5:C9:40:00/36
   manufacturer: Vars Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VarsTech
 type: d3-device-type-assertion

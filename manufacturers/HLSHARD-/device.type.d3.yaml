@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ab16026b-d3b9-40d0-8974-28ac939c91d7
-  mac-addresses:
+  id: 71213561-ace1-4912-9308-9e75b09b3ea8
+  macAddresses:
   - 00:12:AE:00:00:00/24
   manufacturer: HLS HARD-LINE Solutions Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HLSHARD-
 type: d3-device-type-assertion

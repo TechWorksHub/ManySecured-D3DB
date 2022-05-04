@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7f34be7-8a83-4c37-8883-7f6543987f34
-  mac-addresses:
+  id: 88c7c05d-0634-4b60-bfa3-13b9d81753aa
+  macAddresses:
   - 00:B3:42:00:00:00/24
   manufacturer: MacroSAN Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MacroSAN
 type: d3-device-type-assertion

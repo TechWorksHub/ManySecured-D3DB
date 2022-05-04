@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a7a49853-6816-4480-aee4-884ea62c0465
-  mac-addresses:
+  id: f9da2f2b-2242-49a8-8d31-cf69e13c58fc
+  macAddresses:
   - D4:25:CC:E0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Coperion
 type: d3-device-type-assertion

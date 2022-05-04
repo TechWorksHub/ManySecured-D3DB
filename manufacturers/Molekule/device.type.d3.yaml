@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 9edc6c5c-bfec-4105-bd24-b228578e77e6
-  mac-addresses:
+  id: e731b779-f727-4fdb-ac09-47680e4b7155
+  macAddresses:
   - 10:8E:BA:00:00:00/24
   - 70:B3:D5:7C:D0:00/36
   - 70:B3:D5:A5:C0:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Molekule
 type: d3-device-type-assertion

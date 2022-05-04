@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e3b1d1f-009c-4ad7-ae31-b6ae77e94421
-  mac-addresses:
+  id: e19dc73b-4f8f-4230-9b1f-446e80f96733
+  macAddresses:
   - 00:50:C2:69:E0:00/36
   manufacturer: Ideus AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ideus
 type: d3-device-type-assertion

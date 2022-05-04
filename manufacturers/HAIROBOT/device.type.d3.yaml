@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4209f97e-6708-4fda-b4e8-f7b78db41c98
-  mac-addresses:
+  id: 66bf5f36-424d-41bd-9ac1-b4017db5604f
+  macAddresses:
   - 70:B3:D5:0B:70:00/36
   manufacturer: HAI ROBOTICS Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HAIROBOT
 type: d3-device-type-assertion

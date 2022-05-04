@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e55f41fc-73a5-4536-833a-c70644c0f07f
-  mac-addresses:
+  id: ce3e5b07-d4f6-4dcc-b107-597cb96c77d2
+  macAddresses:
   - 00:06:C4:00:00:00/24
   manufacturer: Piolink Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Piolink
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97af1eec-41b5-4916-b09a-10adc7f71d58
-  mac-addresses:
+  id: 02ede1c8-23e5-4bac-92d6-9b33f089739c
+  macAddresses:
   - BC:34:00:70:00:00/28
   manufacturer: Q-PRODUCTS a. s.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Q-PRODUC
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1fdd641-f933-4aad-9674-18f406c4f875
-  mac-addresses:
+  id: 754c49e3-6e3f-47f1-8751-0691ddfab7f5
+  macAddresses:
   - 1C:A0:D3:00:00:00/28
   manufacturer: OOO Tekhnotronika
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tekhnotr
 type: d3-device-type-assertion

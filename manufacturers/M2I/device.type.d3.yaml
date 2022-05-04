@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 268e1c4d-a0c9-482a-8eeb-9ace3d2ed541
-  mac-addresses:
+  id: 10533734-0ee2-4faf-a51c-e51ee1992fad
+  macAddresses:
   - 00:15:1D:00:00:00/24
   manufacturer: M2I Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: M2I
 type: d3-device-type-assertion

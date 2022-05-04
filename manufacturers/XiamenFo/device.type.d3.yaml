@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd474bdf-7039-4e2d-955c-7b933dfe5085
-  mac-addresses:
+  id: cea3e117-0c0f-4957-9a56-56d972815025
+  macAddresses:
   - 54:D0:B4:00:00:00/24
   manufacturer: Xiamen Four-Faith Communication Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenFo
 type: d3-device-type-assertion

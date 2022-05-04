@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 662b62f4-44e0-42d7-9c85-d1d287918918
-  mac-addresses:
+  id: 7733c67e-4f3a-4454-878b-e50f59e62c4c
+  macAddresses:
   - 00:0F:A9:00:00:00/24
   manufacturer: PC Fabrik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PCFabrik
 type: d3-device-type-assertion

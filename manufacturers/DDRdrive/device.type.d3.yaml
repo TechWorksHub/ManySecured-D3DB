@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6fc5db1-0223-4633-a1e9-6f5a53f36931
-  mac-addresses:
+  id: 593f6d2e-beb9-4dad-8391-774dbbe61bc6
+  macAddresses:
   - 00:23:29:00:00:00/24
   manufacturer: DDRdrive LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DDRdrive
 type: d3-device-type-assertion

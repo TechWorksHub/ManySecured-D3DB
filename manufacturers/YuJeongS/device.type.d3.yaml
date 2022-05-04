@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 731bb8d1-7a27-460c-8e02-1c78353769e7
-  mac-addresses:
+  id: c4c8ee2a-f0b2-4735-9cfb-1dca8892aace
+  macAddresses:
   - 38:5F:C3:00:00:00/24
   manufacturer: Yu Jeong System, Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YuJeongS
 type: d3-device-type-assertion

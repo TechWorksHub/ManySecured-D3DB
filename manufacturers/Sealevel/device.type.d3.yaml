@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45b61db6-8a89-4191-91cd-46ea99988716
-  mac-addresses:
+  id: 21250549-2c73-44dc-bbc9-6f249fed6b4d
+  macAddresses:
   - 00:0A:0B:00:00:00/24
   manufacturer: Sealevel Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sealevel
 type: d3-device-type-assertion

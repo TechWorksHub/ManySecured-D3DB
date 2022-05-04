@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3a2739fb-a64c-4f47-8301-aacd11261249
-  mac-addresses:
+  id: fb1078f3-f79b-4cce-a66a-2bad21fddbb5
+  macAddresses:
   - B0:FD:0B:80:00:00/28
   manufacturer: eSenseLab Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: eSenseLa
 type: d3-device-type-assertion

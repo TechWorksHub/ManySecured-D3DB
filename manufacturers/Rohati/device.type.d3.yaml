@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83781c85-e931-4657-bb37-a8b9c8af75b8
-  mac-addresses:
+  id: be6ffbb2-4f40-4ce7-84bc-1adf04910387
+  macAddresses:
   - 00:22:11:00:00:00/24
   manufacturer: Rohati Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rohati
 type: d3-device-type-assertion

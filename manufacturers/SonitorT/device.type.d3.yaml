@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b80d17d7-1a43-4cab-aaf8-00dd5d0e74cf
-  mac-addresses:
+  id: bffd154c-2940-4de0-b499-11409919a3ee
+  macAddresses:
   - 00:09:62:00:00:00/24
   manufacturer: Sonitor Technologies AS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonitorT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73585df6-05d4-4812-91f0-d4c48d0b5885
-  mac-addresses:
+  id: b7c93d24-14bb-44fe-b0cc-3531a9214089
+  macAddresses:
   - 30:42:25:00:00:00/24
   manufacturer: "Burg-W\xE4chter Kg"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Burg-W\xE4c"
 type: d3-device-type-assertion

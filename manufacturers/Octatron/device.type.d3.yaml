@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 780e34b8-95a3-49d1-a164-f7bbec85528d
-  mac-addresses:
+  id: 1a01dc8d-5cff-491c-88c9-5870c8e4254d
+  macAddresses:
   - 00:50:C2:43:10:00/36
   manufacturer: Octatron, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Octatron
 type: d3-device-type-assertion

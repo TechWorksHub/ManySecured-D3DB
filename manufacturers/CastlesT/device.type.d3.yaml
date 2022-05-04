@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3a868c3-4ec8-44e0-929f-d04d3d31923a
-  mac-addresses:
+  id: 22d6f871-efda-40c4-8a56-a46c559b4238
+  macAddresses:
   - 00:1D:A9:00:00:00/24
   manufacturer: Castles Technology, Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CastlesT
 type: d3-device-type-assertion

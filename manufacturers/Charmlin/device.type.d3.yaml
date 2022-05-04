@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6bae35e7-1f00-40d4-bc64-68f315014ede
-  mac-addresses:
+  id: 4d15f7f9-3578-4b58-864a-e6ffd26f8de0
+  macAddresses:
   - 8C:19:2D:40:00:00/28
   manufacturer: Charmlink Tech(HK) Co.,Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Charmlin
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7c24152a-7648-4f3e-9080-a6958f84cf0b
-  mac-addresses:
+  id: b1fc9079-7d9f-4913-8d66-c729fe570c38
+  macAddresses:
   - 00:00:F1:00:00:00/24
   - 28:10:1B:00:00:00/24
   manufacturer: Magna Computer Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MagnaCom
 type: d3-device-type-assertion

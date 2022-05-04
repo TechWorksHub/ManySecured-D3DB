@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 045bf52e-a9ee-48bc-8a67-efa405e1324d
-  mac-addresses:
+  id: a6afe147-b576-4806-9ce6-a263bdefb4ae
+  macAddresses:
   - 4C:33:29:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sweroam
 type: d3-device-type-assertion

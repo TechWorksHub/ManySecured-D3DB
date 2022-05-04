@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d2211c3-e4d9-4ee5-9884-21e0e29ec722
-  mac-addresses:
+  id: 380c6033-3e38-4bfe-8408-ba6e22053015
+  macAddresses:
   - 70:B3:D5:23:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uconsys
 type: d3-device-type-assertion

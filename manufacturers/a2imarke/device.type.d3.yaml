@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c4cd5b48-cecd-41e0-80f5-9dd7f817ca34
-  mac-addresses:
+  id: d533c387-fb87-4e5c-8578-28f4f74a3c53
+  macAddresses:
   - 00:12:41:00:00:00/24
   manufacturer: a2i marketing center
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: a2imarke
 type: d3-device-type-assertion

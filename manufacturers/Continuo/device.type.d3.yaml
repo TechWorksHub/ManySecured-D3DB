@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85d6c8d2-0040-4346-a218-ec41c0310421
-  mac-addresses:
+  id: c15d3274-ce9d-4c80-ba4b-47ace8cbff3e
+  macAddresses:
   - 00:02:BB:00:00:00/24
   manufacturer: Continuous Computing Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Continuo
 type: d3-device-type-assertion

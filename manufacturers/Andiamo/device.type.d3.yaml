@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a56cf63-a921-42dd-93d0-f6c03b672606
-  mac-addresses:
+  id: 9ee2f819-ad33-4bef-8a08-88868382a0ed
+  macAddresses:
   - 00:05:30:00:00:00/24
   manufacturer: Andiamo Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Andiamo
 type: d3-device-type-assertion

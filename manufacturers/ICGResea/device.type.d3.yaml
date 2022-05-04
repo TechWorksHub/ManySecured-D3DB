@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c933abb-bd18-47ff-bfd6-88bf0ce6a2e0
-  mac-addresses:
+  id: 3e62c27e-a871-4f77-b68b-879cf9dba186
+  macAddresses:
   - 00:03:EC:00:00:00/24
   manufacturer: ICG Research, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICGResea
 type: d3-device-type-assertion

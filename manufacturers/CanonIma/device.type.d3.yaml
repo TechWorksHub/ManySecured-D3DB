@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce426964-9075-4a33-a282-7f1477cdad01
-  mac-addresses:
+  id: 0ae1bd4a-82ec-461a-955b-d2551676635e
+  macAddresses:
   - 00:30:C4:00:00:00/24
   manufacturer: Canon Imaging Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanonIma
 type: d3-device-type-assertion

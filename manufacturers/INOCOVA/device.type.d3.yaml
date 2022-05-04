@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb128932-c984-4e2e-abbc-2aba0b286858
-  mac-addresses:
+  id: 925d26f9-1858-491b-94c5-755e52fc0409
+  macAddresses:
   - 00:1A:41:00:00:00/24
   manufacturer: INOCOVA Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INOCOVA
 type: d3-device-type-assertion

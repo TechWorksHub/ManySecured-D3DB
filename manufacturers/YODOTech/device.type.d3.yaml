@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1ef2b0f0-12d0-494e-ba96-fd2ed14e294e
-  mac-addresses:
+  id: fcecd203-12fd-42e4-abf0-c6d743092908
+  macAddresses:
   - 68:EC:62:00:00:00/24
   manufacturer: YODO Technology Corp. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YODOTech
 type: d3-device-type-assertion

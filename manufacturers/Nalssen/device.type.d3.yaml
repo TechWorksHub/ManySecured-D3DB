@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bcfb0e3f-ced6-4a51-97ec-3071a5f6ecbe
-  mac-addresses:
+  id: 4cd135c5-9ce0-495d-80f7-24670c40bead
+  macAddresses:
   - 04:EE:E8:60:00:00/28
   manufacturer: Nalssen Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nalssen
 type: d3-device-type-assertion

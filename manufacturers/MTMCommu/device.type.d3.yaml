@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ba3c26e-7eff-43b2-a475-a9ec304326bc
-  mac-addresses:
+  id: a4d758f8-bc94-472f-8654-3cec2c92dfba
+  macAddresses:
   - 88:09:05:00:00:00/24
   manufacturer: MTMCommunications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MTMCommu
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 681cab07-3efd-4bb3-bf49-dc5973484981
-  mac-addresses:
+  id: 4a30be1c-4f48-4736-b034-08aa4979aa93
+  macAddresses:
   - 00:50:C2:5D:10:00/36
   manufacturer: Meucci Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MeucciSo
 type: d3-device-type-assertion

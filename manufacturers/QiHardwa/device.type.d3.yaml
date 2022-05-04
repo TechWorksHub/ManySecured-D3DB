@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4f68944-c9b0-4c5d-a425-89c22ca3f493
-  mac-addresses:
+  id: eaa7d4af-abcc-4b37-8586-6d48817a642a
+  macAddresses:
   - 10:E2:D5:00:00:00/24
   manufacturer: Qi Hardware Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QiHardwa
 type: d3-device-type-assertion

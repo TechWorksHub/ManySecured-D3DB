@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26f250d2-5bfb-4429-b8fe-4b3e8b81577e
-  mac-addresses:
+  id: ed962a64-1a59-4008-8903-ee5dfd4f23c2
+  macAddresses:
   - 00:21:2F:00:00:00/24
   manufacturer: Phoebe Micro Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhoebeMi
 type: d3-device-type-assertion

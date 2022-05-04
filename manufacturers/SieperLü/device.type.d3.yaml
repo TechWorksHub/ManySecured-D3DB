@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f4bd6b30-c470-4b44-a12f-1ea9a5c01264
-  mac-addresses:
+  id: 17ee88a7-2ff0-4ee6-8317-15f9ffd79a20
+  macAddresses:
   - 88:A9:A7:60:00:00/28
   manufacturer: "Sieper L\xFCdenscheid GmbH & Co. KG"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "SieperL\xFC"
 type: d3-device-type-assertion

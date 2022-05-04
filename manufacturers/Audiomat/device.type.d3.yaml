@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e8db497e-a51a-48f0-89b8-cd1793a4b930
-  mac-addresses:
+  id: 443af30b-b66e-446f-a14b-8c56b6e74d93
+  macAddresses:
   - 00:1C:A9:00:00:00/24
   manufacturer: Audiomatica Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Audiomat
 type: d3-device-type-assertion

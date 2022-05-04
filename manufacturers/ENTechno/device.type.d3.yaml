@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8de00a23-1487-4a75-b4fe-09bb52fc0a92
-  mac-addresses:
+  id: 6739f208-bbe7-4837-b4e7-7b0ab98a3ca9
+  macAddresses:
   - 00:21:40:00:00:00/24
   manufacturer: EN Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ENTechno
 type: d3-device-type-assertion

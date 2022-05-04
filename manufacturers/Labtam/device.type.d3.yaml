@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d50fa38f-78bd-4c34-a05a-6b93bc8dc5fd
-  mac-addresses:
+  id: e7182a62-2c23-4960-9232-4e09c86ded24
+  macAddresses:
   - 00:00:78:00:00:00/24
   manufacturer: Labtam Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Labtam
 type: d3-device-type-assertion

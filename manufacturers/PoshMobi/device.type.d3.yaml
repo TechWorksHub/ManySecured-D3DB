@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 668db250-1194-4834-8154-21ebce0b5098
-  mac-addresses:
+  id: d129c495-1865-43ed-91fe-c460fa29e853
+  macAddresses:
   - 20:D7:5A:00:00:00/24
   manufacturer: Posh Mobile Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PoshMobi
 type: d3-device-type-assertion

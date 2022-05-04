@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22203aec-9c4e-497a-81d1-1b18b7b13144
-  mac-addresses:
+  id: fe952f2d-0321-49de-ac1e-1e98371b5ea0
+  macAddresses:
   - 00:24:C0:00:00:00/24
   manufacturer: Nti Comodo Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NtiComod
 type: d3-device-type-assertion

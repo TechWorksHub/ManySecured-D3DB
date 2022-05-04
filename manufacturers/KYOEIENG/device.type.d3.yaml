@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c78be863-fb82-4a5c-9ec3-3916991320f9
-  mac-addresses:
+  id: 7df8e896-c4ba-49a2-8dbf-5663f0bcbd98
+  macAddresses:
   - 00:50:C2:A7:30:00/36
   manufacturer: KYOEI ENGINEERING Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KYOEIENG
 type: d3-device-type-assertion

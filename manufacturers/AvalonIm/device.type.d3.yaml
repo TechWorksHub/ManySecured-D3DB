@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ba9e96d7-7f24-4d9c-9a67-f945bfd7d474
-  mac-addresses:
+  id: 6fe0e698-99e3-4ba2-9f4b-28262bfd0af8
+  macAddresses:
   - 00:E0:0E:00:00:00/24
   manufacturer: Avalon Imaging Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvalonIm
 type: d3-device-type-assertion

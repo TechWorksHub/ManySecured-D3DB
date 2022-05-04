@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ed0f5569-1ced-40bd-9e4e-bb4a3e7962ed
-  mac-addresses:
+  id: 4420159a-566b-470f-a329-499638734e46
+  macAddresses:
   - 70:B3:D5:72:D0:00/36
   - 70:B3:D5:C1:E0:00/36
   manufacturer: Kron Medidores
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KronMedi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ba39546-52f2-45e2-aa77-7983f398c33b
-  mac-addresses:
+  id: 3505be54-0825-46b8-adf3-aa71754e1e05
+  macAddresses:
   - 70:B3:D5:8F:60:00/36
   manufacturer: Dofuntech Co.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dofuntec
 type: d3-device-type-assertion

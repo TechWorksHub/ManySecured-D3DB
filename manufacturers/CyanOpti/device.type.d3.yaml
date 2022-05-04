@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f63e7649-6995-47b0-9290-1a1d40670c0b
-  mac-addresses:
+  id: fdc2d6e4-fd18-4606-9bf1-20823b1abc91
+  macAddresses:
   - 00:1D:99:00:00:00/24
   manufacturer: Cyan Optic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CyanOpti
 type: d3-device-type-assertion

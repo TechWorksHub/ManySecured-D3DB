@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e4714acb-e41b-413a-b670-47e06b285475
-  mac-addresses:
+  id: ede0e20d-7257-487d-839d-fe92d7f7b632
+  macAddresses:
   - 00:14:AE:00:00:00/24
   manufacturer: Wizlogics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wizlogic
 type: d3-device-type-assertion

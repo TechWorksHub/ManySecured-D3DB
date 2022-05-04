@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 743e73de-60ee-457f-aef1-1f785dfe394c
-  mac-addresses:
+  id: 10287d1a-1039-49ab-8547-a8f26839df34
+  macAddresses:
   - 00:50:C2:7B:40:00/36
   manufacturer: T 1 Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: T1Engine
 type: d3-device-type-assertion

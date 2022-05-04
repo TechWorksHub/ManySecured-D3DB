@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51494091-0f24-4a79-9a86-2cb7eb32fc27
-  mac-addresses:
+  id: 5d701c0d-1779-429b-be22-8460abbd2718
+  macAddresses:
   - 54:EF:FE:00:00:00/24
   manufacturer: Fullpower Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fullpowe
 type: d3-device-type-assertion

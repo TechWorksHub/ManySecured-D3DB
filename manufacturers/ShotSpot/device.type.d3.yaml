@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce3a715e-b661-4197-a369-65596a960c38
-  mac-addresses:
+  id: d8fd1f49-91b2-406e-8a0c-e696ecd4707e
+  macAddresses:
   - D4:11:D6:00:00:00/24
   manufacturer: ShotSpotter, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ShotSpot
 type: d3-device-type-assertion

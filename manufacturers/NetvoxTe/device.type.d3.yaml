@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 33fc058a-4121-48c5-9348-39a1e67d7fdf
-  mac-addresses:
+  id: 2c659942-2c43-485c-b19c-ec1d55c5e5c1
+  macAddresses:
   - 00:13:7A:00:00:00/24
   manufacturer: Netvox Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetvoxTe
 type: d3-device-type-assertion

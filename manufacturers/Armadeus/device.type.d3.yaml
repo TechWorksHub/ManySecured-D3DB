@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 540619ae-8087-42bf-b446-86fb54b3c107
-  mac-addresses:
+  id: 2b7e8d84-9f23-4c9d-9621-21b0b5538465
+  macAddresses:
   - 00:1E:AC:00:00:00/24
   manufacturer: Armadeus Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Armadeus
 type: d3-device-type-assertion

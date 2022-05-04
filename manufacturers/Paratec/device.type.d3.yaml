@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e2dfbd1-efcd-4f5a-8621-0b0aedf732c8
-  mac-addresses:
+  id: aa9ad0bb-5106-4d36-910b-a811b5b3b1fb
+  macAddresses:
   - 70:B3:D5:AE:C0:00/36
   manufacturer: Paratec Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Paratec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c4058be-5f3f-43b9-94b4-1752050a1259
-  mac-addresses:
+  id: 48124ccd-5bfb-445a-9dac-0047f0bf1968
+  macAddresses:
   - 00:1C:36:00:00:00/24
   manufacturer: iNEWiT NV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iNEWiT
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5dd9fa2-7cf7-4905-9655-fa2ab2f82c24
-  mac-addresses:
+  id: a33670a1-469d-45be-a0db-ff30edbc7158
+  macAddresses:
   - 00:19:32:00:00:00/24
   manufacturer: Gude Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gude
 type: d3-device-type-assertion

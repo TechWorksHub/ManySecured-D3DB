@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3614cbbb-5259-46a6-a274-805d701627ec
-  mac-addresses:
+  id: cf697b60-cabc-490c-b779-2cff0d815720
+  macAddresses:
   - 74:5B:C5:60:00:00/28
   manufacturer: Yekani Manufacturing PTY Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YekaniMa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c7c74b26-ac3b-441d-a7c2-4f7fcd2e8b5d
-  mac-addresses:
+  id: 855f536e-186d-480e-b305-b60310e0f49e
+  macAddresses:
   - 00:25:81:00:00:00/24
   manufacturer: x-star networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: x-starne
 type: d3-device-type-assertion

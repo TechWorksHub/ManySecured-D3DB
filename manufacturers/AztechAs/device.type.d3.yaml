@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65f07f9a-2210-4c16-a8d2-4aae20e20679
-  mac-addresses:
+  id: 26fc7a7a-a46b-4175-81ab-012236d6cbc3
+  macAddresses:
   - 18:20:12:00:00:00/24
   manufacturer: Aztech Associates Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AztechAs
 type: d3-device-type-assertion

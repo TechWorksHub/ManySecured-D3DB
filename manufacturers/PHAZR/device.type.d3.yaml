@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8cc7f2fd-ee0b-4738-885c-c4355bcd41ca
-  mac-addresses:
+  id: 958b0deb-c35d-4e9c-8b80-e2ed140f8e97
+  macAddresses:
   - 3C:10:E6:00:00:00/24
   manufacturer: PHAZR Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PHAZR
 type: d3-device-type-assertion

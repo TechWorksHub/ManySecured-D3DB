@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dd97b8aa-0825-4d55-a05d-48806987e2f2
-  mac-addresses:
+  id: dcfca63e-4072-4f98-9e2e-6c9c099d4cae
+  macAddresses:
   - C4:D8:F3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iZotope
 type: d3-device-type-assertion

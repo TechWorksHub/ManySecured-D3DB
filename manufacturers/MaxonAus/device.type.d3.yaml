@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f8a0bf9-8baf-42cb-9f5a-c89da4226390
-  mac-addresses:
+  id: cba5f736-f74d-49fd-952f-6210260ae69f
+  macAddresses:
   - A4:3B:FA:40:00:00/28
   manufacturer: Maxon Australia
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MaxonAus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 046f9d1c-1a78-4079-8f93-14e2cdae7e23
-  mac-addresses:
+  id: 5047c28a-5273-4b1a-a5d5-e4557a61c56b
+  macAddresses:
   - 00:0D:6A:00:00:00/24
   manufacturer: Redwood Technologies LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RedwoodT
 type: d3-device-type-assertion

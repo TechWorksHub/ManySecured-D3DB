@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e41103d-c42b-47fc-a49a-d4582db51a50
-  mac-addresses:
+  id: 9a7a5975-8853-4b76-bd21-431d299d08fb
+  macAddresses:
   - 00:03:E1:00:00:00/24
   manufacturer: Winmate Communication, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WinmateC
 type: d3-device-type-assertion

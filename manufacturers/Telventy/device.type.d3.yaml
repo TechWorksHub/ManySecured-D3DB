@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91302f2d-ee4a-49e9-8ce6-3ec627ca3078
-  mac-addresses:
+  id: e6d6b74d-d340-40d3-bb47-0c182dfecaa7
+  macAddresses:
   - 00:50:C2:B9:B0:00/36
   manufacturer: Telventy Energia S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telventy
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91cb75e7-a879-4c40-864b-e114debacf8c
-  mac-addresses:
+  id: 5726fb8a-562a-483c-b4d6-b8af501a8c7f
+  macAddresses:
   - 00:1C:76:00:00:00/24
   manufacturer: The Wandsworth Group Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wandswor
 type: d3-device-type-assertion

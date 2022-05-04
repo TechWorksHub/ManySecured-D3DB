@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a12aea5-6e0b-4724-b27e-a24cfc3f0f68
-  mac-addresses:
+  id: cab823ce-bf3a-4209-8fd3-3d2d973e4338
+  macAddresses:
   - 84:85:0A:00:00:00/24
   manufacturer: Hella Sonnen- und Wetterschutztechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HellaSon
 type: d3-device-type-assertion

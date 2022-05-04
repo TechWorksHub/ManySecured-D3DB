@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a223d41-77c7-4a07-a266-2085d94f8f8b
-  mac-addresses:
+  id: 21c81511-5c89-4f18-b3eb-addd466cabeb
+  macAddresses:
   - 00:20:7C:00:00:00/24
   manufacturer: Autec Gmbh
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autec
 type: d3-device-type-assertion

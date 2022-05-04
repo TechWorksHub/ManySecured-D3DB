@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38247992-54b1-4b55-8809-127fa0c91c62
-  mac-addresses:
+  id: 8c3d885c-fbe0-46e8-8bca-8ee92ea82b80
+  macAddresses:
   - 70:B3:D5:2E:D0:00/36
   manufacturer: Signals and systems india pvt ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Signalsa
 type: d3-device-type-assertion

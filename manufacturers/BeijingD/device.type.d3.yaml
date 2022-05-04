@@ -1,6 +1,6 @@
 credentialSubject:
-  id: bd8e7efa-f25c-4e18-827e-7afdcc2079e4
-  mac-addresses:
+  id: 17bbe50e-6cfa-45e9-a956-2a8db298d171
+  macAddresses:
   - 00:1B:43:00:00:00/24
   - 00:23:A9:00:00:00/24
   - 10:48:B1:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - D8:CF:89:00:00:00/24
   - F4:0E:11:10:00:00/28
   manufacturer: Beijing DG Telecommunications equipment Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BeijingD
 type: d3-device-type-assertion

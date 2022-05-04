@@ -1,11 +1,11 @@
 credentialSubject:
-  id: b363e871-3144-46d4-9af4-7edef5b83c49
-  mac-addresses:
+  id: 9d5af443-c5a3-49ae-809e-bbe49f5a0b22
+  macAddresses:
   - 00:17:10:00:00:00/24
   - 00:50:C2:31:C0:00/36
   - D0:DB:B7:00:00:00/24
   - F0:2E:51:00:00:00/24
   manufacturer: Casa Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Casa
 type: d3-device-type-assertion

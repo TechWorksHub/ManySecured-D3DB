@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f7103142-911a-4be1-b3eb-e0598b0e72ee
-  mac-addresses:
+  id: ac6ebf33-ce28-4d21-8eb7-b01a4eaf4a19
+  macAddresses:
   - 00:0F:6B:00:00:00/24
   manufacturer: GateWare Communications GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GateWare
 type: d3-device-type-assertion

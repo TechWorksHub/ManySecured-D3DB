@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e814d43-29cf-4dd5-b154-85dc261bc072
-  mac-addresses:
+  id: e6462d28-022a-414d-a923-7b053cf80603
+  macAddresses:
   - 00:1E:EE:00:00:00/24
   manufacturer: ETL Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ETL
 type: d3-device-type-assertion

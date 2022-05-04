@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 96d0661d-9505-47dd-a5ed-c2bffe5fa100
-  mac-addresses:
+  id: c00f19c8-7394-4c6d-aa6a-1a3e9033d158
+  macAddresses:
   - 0C:1C:19:00:00:00/24
   - 74:BA:DB:00:00:00/24
   manufacturer: Longconn Electronics(Shenzhen) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Longconn
 type: d3-device-type-assertion

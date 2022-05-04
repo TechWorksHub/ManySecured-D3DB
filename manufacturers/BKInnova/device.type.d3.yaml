@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a972514d-8829-48ec-8bc1-11adee11a24e
-  mac-addresses:
+  id: 59cf9fa3-a529-4686-a411-3a6049a3b852
+  macAddresses:
   - 00:50:C2:8B:00:00/36
   manufacturer: BK Innovation, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BKInnova
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: e68b7a21-3cde-4681-a7c7-9777596eb3cc
-  mac-addresses:
+  id: ea69a432-953c-4529-a9c6-8c597378f9a1
+  macAddresses:
   - 00:0C:41:00:00:00/24
   - 00:0E:08:00:00:00/24
   - 00:0F:66:00:00:00/24
@@ -27,6 +27,6 @@ credentialSubject:
   - C8:B3:73:00:00:00/24
   - C8:D7:19:00:00:00/24
   manufacturer: Cisco-Linksys, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cisco-Li
 type: d3-device-type-assertion

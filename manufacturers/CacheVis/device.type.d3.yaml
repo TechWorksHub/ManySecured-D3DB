@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5082060e-a66a-4e0c-99f3-5a57eede8392
-  mac-addresses:
+  id: e1afa602-03ae-40be-abd0-d236acaa5684
+  macAddresses:
   - 00:09:1C:00:00:00/24
   manufacturer: CacheVision, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CacheVis
 type: d3-device-type-assertion

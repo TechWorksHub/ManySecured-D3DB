@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 934df2b7-5642-4e19-a484-b73e42d1f8a5
-  mac-addresses:
+  id: 85d9b6fb-c0b3-4235-b8c2-77fd81c82f19
+  macAddresses:
   - 8C:B8:2C:00:00:00/24
   manufacturer: IPitomy Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPitomyC
 type: d3-device-type-assertion

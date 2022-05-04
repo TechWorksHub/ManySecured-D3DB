@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 26b6970a-a81f-44ea-bf75-1064fe565986
-  mac-addresses:
+  id: 9ccba831-2c60-49aa-9e4c-52fbc6e9f195
+  macAddresses:
   - 84:11:C2:50:00:00/28
   manufacturer: AIBIoT GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AIBIoT
 type: d3-device-type-assertion

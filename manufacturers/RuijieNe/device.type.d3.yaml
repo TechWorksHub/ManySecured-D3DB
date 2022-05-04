@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 07ad24aa-9d06-433d-aa49-5d95175adf93
-  mac-addresses:
+  id: 1d0a3dee-1035-4fdc-98a4-0f8dafb228df
+  macAddresses:
   - 00:74:9C:00:00:00/24
   - 14:14:4B:00:00:00/24
   - 28:D0:F5:00:00:00/24
@@ -14,6 +14,6 @@ credentialSubject:
   - C4:70:AB:00:00:00/24
   - EC:B9:70:00:00:00/24
   manufacturer: Ruijie Networks Co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RuijieNe
 type: d3-device-type-assertion

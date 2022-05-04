@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94777037-e0ee-4118-b97a-447ff01626ae
-  mac-addresses:
+  id: 4330bcfd-df8a-4a6f-a3a3-40c870b715f9
+  macAddresses:
   - 00:40:29:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compex
 type: d3-device-type-assertion

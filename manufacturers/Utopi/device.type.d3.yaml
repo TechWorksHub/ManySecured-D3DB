@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0c2f625d-edd4-475d-bec9-65cb61f1a94f
-  mac-addresses:
+  id: ba9ccb8d-f0be-4f77-a244-aed170d08f7e
+  macAddresses:
   - 70:B3:D5:80:E0:00/36
   manufacturer: Utopi Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Utopi
 type: d3-device-type-assertion

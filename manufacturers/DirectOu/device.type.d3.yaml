@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64258749-af87-488f-9b11-96cdc09ba173
-  mac-addresses:
+  id: 64067c3d-1009-4d5c-8135-977810093c27
+  macAddresses:
   - A0:BB:3E:20:00:00/28
   manufacturer: DirectOut GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DirectOu
 type: d3-device-type-assertion

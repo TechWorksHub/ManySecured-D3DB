@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2131137a-3300-4787-8a2f-63570cb1abcf
-  mac-addresses:
+  id: b414d1aa-3f89-464c-abd8-ca5fd5ff4105
+  macAddresses:
   - 6A:B6:F2:00:00:00/24
   manufacturer: Eli Technology Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EliTechn
 type: d3-device-type-assertion

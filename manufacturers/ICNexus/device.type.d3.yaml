@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c2a2e1e-0c90-4c2a-a049-90525369b620
-  mac-addresses:
+  id: db9d7f7b-6f17-4b26-a502-1963aef785df
+  macAddresses:
   - F8:5C:45:00:00:00/24
   manufacturer: IC Nexus Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICNexus
 type: d3-device-type-assertion

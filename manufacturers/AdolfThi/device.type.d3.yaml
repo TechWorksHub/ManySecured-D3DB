@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d498ece4-0471-429e-b852-dfb4a2cb0792
-  mac-addresses:
+  id: 09903a4d-a0d2-49c7-96d3-7deeceeac542
+  macAddresses:
   - 00:24:AD:00:00:00/24
   manufacturer: Adolf Thies Gmbh & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdolfThi
 type: d3-device-type-assertion

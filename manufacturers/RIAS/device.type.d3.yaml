@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d82a0e6d-d1df-4456-8e7b-2c3fa6b156ed
-  mac-addresses:
+  id: 6388261a-1351-4bb9-b2e9-284a32054cf8
+  macAddresses:
   - 00:03:4A:00:00:00/24
   manufacturer: RIAS Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RIAS
 type: d3-device-type-assertion

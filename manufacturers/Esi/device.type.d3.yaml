@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 01a72295-150c-4745-8a4a-b025dbf19566
-  mac-addresses:
+  id: dfa7a3fa-e134-4867-b934-2944b67bc8bb
+  macAddresses:
   - 00:30:4D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Esi
 type: d3-device-type-assertion

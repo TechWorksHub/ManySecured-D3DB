@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ad1e667b-aa53-4624-bb33-623451ea396a
-  mac-addresses:
+  id: 5f562396-5d0d-4ea5-9b0b-8b057b9fbeaa
+  macAddresses:
   - 00:90:CF:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nortel
 type: d3-device-type-assertion

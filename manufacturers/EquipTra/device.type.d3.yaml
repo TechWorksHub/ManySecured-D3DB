@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c10ef5d3-923d-4029-9a9c-f0d2411055e5
-  mac-addresses:
+  id: 5e55090c-6b79-4b9c-8d6c-0ea31d5d4fb3
+  macAddresses:
   - 00:01:00:00:00:00/24
   manufacturer: Equip'Trans
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EquipTra
 type: d3-device-type-assertion

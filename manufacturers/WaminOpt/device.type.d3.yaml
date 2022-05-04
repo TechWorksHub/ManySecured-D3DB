@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2f49027-f2ed-4054-9977-976b13b26807
-  mac-addresses:
+  id: 17c2f16b-b361-41ef-b8e5-b22e3b64cf9e
+  macAddresses:
   - 00:16:FF:00:00:00/24
   manufacturer: Wamin Optocomm Mfg Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WaminOpt
 type: d3-device-type-assertion

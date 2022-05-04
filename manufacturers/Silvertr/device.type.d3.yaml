@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 82a456f7-8d8c-4e21-ba95-c678c6a356c2
-  mac-addresses:
+  id: c46d9dab-9b9c-423c-9164-17a0072c344e
+  macAddresses:
   - 00:50:C2:3A:40:00/36
   manufacturer: Silvertree Engineering Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Silvertr
 type: d3-device-type-assertion

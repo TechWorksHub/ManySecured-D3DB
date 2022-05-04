@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acf82e95-bc78-4a45-845b-576a0b6aff8c
-  mac-addresses:
+  id: 215bddb5-d3cc-45c5-8c38-ebda89205595
+  macAddresses:
   - 70:B3:D5:8F:50:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stmovic
 type: d3-device-type-assertion

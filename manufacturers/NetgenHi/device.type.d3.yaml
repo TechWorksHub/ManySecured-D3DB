@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94129573-898d-499d-b3be-b419f912139c
-  mac-addresses:
+  id: 84da081a-bc74-4a79-b06d-582f272ca215
+  macAddresses:
   - 8C:1F:64:ED:90:00/36
   manufacturer: Netgen Hitech Solutions Llp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetgenHi
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5b27a878-48fb-40f4-8bcc-3337eb64cc55
-  mac-addresses:
+  id: 4493d1f8-99c7-40c1-8806-a17b05f61c2c
+  macAddresses:
   - 10:CC:DB:00:00:00/24
   manufacturer: Aximum Produits Electroniques
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AximumPr
 type: d3-device-type-assertion

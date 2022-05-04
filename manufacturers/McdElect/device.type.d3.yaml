@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 42c0d566-2c20-407c-9493-63558e2b98e5
-  mac-addresses:
+  id: 3c50d7fd-c489-4114-a324-3932a333f9e5
+  macAddresses:
   - 34:29:EA:00:00:00/24
   manufacturer: Mcd Electronics Sp. Z O.O.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: McdElect
 type: d3-device-type-assertion

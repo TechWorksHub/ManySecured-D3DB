@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9b6a238-bebb-4568-9cad-58fbaa29d7b9
-  mac-addresses:
+  id: 3acaa196-29e9-4604-8ca4-541501408030
+  macAddresses:
   - 50:A7:15:00:00:00/24
   manufacturer: Aboundi, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aboundi
 type: d3-device-type-assertion

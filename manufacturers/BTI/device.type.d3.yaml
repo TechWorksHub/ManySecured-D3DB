@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ba774df-1a1e-437c-976f-43b2369c954d
-  mac-addresses:
+  id: beb7a25e-8d0b-4954-b13f-fcc94abbf842
+  macAddresses:
   - 00:14:D0:00:00:00/24
   manufacturer: BTI Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BTI
 type: d3-device-type-assertion

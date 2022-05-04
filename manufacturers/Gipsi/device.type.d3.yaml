@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af129d36-3697-402c-ac2c-544b8cb5edf6
-  mac-addresses:
+  id: 9580ffb0-5662-46d6-ba38-d1cdf8721965
+  macAddresses:
   - 00:80:DE:00:00:00/24
   manufacturer: Gipsi S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gipsi
 type: d3-device-type-assertion

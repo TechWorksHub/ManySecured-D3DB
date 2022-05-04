@@ -1,8 +1,8 @@
 credentialSubject:
-  id: aae53609-5cb0-4b26-bc7f-d7cf07ce8928
-  mac-addresses:
+  id: 97e246bf-a35e-43b8-8ed2-9202825275d2
+  macAddresses:
   - 00:18:0E:00:00:00/24
   manufacturer: Avega Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avega
 type: d3-device-type-assertion

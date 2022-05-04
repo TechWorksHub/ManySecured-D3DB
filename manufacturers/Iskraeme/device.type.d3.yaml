@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cfe923ab-cd25-4dd2-96b2-776a43327b36
-  mac-addresses:
+  id: 1e61eeb2-96dc-4858-b818-5abc5502f157
+  macAddresses:
   - 00:0C:BB:00:00:00/24
   manufacturer: Iskraemeco
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Iskraeme
 type: d3-device-type-assertion

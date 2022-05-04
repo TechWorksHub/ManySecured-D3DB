@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd41aed5-4c9c-49f0-914d-0d483d345a1d
-  mac-addresses:
+  id: ae67d5ab-5ab8-42dc-8d83-7d8f6d59a0b7
+  macAddresses:
   - B0:A6:F5:00:00:00/24
   manufacturer: Xaptum, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xaptum
 type: d3-device-type-assertion

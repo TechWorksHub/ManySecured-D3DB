@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1989d7cd-665a-4c6b-95e9-79a9d082857d
-  mac-addresses:
+  id: 9e347b0e-33f3-4726-8b92-b1853715182c
+  macAddresses:
   - 00:A0:A7:00:00:00/24
   manufacturer: Vorax Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vorax
 type: d3-device-type-assertion

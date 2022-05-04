@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed54fa5b-79a9-4682-af64-d51be2a38f53
-  mac-addresses:
+  id: 87e1eb97-b1d7-4f43-9e93-c74cae562ed9
+  macAddresses:
   - 1C:21:D1:90:00:00/28
   manufacturer: Dynojet Research
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynojetR
 type: d3-device-type-assertion

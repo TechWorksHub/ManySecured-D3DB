@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2fc282b3-58a6-4478-a60c-7f317aa7b28f
-  mac-addresses:
+  id: 47d76325-6524-4a12-af06-8e7644397441
+  macAddresses:
   - 48:EB:30:00:00:00/24
   manufacturer: Eterna Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EternaTe
 type: d3-device-type-assertion

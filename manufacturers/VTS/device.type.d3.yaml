@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7848f19f-ea1d-4776-85e0-ce27aa1de41c
-  mac-addresses:
+  id: 76f27c9b-9a95-4d2c-9ab0-62912eb3264f
+  macAddresses:
   - 74:63:DF:00:00:00/24
   manufacturer: VTS GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VTS
 type: d3-device-type-assertion

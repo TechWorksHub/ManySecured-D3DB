@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34ff279a-b46b-4b96-9303-66606f427726
-  mac-addresses:
+  id: e7dfc5a5-8c08-4eed-a6ec-de5bb4fff63f
+  macAddresses:
   - 00:40:A8:00:00:00/24
   manufacturer: Imf International Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImfInter
 type: d3-device-type-assertion

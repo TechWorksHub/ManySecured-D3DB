@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2db4f0e-845b-4e75-8e46-048b7511a760
-  mac-addresses:
+  id: 2c56330c-260c-4eb7-9725-803b53f541c6
+  macAddresses:
   - 64:24:00:00:00:00/24
   manufacturer: Xorcom Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xorcom
 type: d3-device-type-assertion

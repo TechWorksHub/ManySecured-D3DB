@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fcf5d8a1-bf3b-4695-b6fd-89b798ad2682
-  mac-addresses:
+  id: 8e7e52b5-9507-4d3a-8bea-b44a4a594236
+  macAddresses:
   - 00:1F:4E:00:00:00/24
   manufacturer: ConMed Linvatec
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ConMedLi
 type: d3-device-type-assertion

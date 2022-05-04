@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa33c404-1c91-495f-8ba8-3c658941b246
-  mac-addresses:
+  id: cac3c68d-4248-41c0-9441-359d8f7485c3
+  macAddresses:
   - 70:4A:E4:00:00:00/24
   manufacturer: Rinstrum Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rinstrum
 type: d3-device-type-assertion

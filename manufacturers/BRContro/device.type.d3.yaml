@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77e845e5-a08c-46f4-b8b9-a13759c0e7ee
-  mac-addresses:
+  id: eebf570a-33f0-4d5a-b566-1000642a2b47
+  macAddresses:
   - 00:17:14:00:00:00/24
   manufacturer: BR Controls Nederland bv
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BRContro
 type: d3-device-type-assertion

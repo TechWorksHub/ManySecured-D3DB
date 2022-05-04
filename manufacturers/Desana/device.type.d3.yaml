@@ -1,8 +1,8 @@
 credentialSubject:
-  id: df44ab2b-2e96-49e8-8173-7559c9ad67ae
-  mac-addresses:
+  id: eea7e08a-3a13-4387-bade-16df57cdf79e
+  macAddresses:
   - 00:03:DF:00:00:00/24
   manufacturer: Desana Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Desana
 type: d3-device-type-assertion

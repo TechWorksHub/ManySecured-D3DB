@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c6110182-d1c4-4c2f-99c5-8f8c148f0f7a
-  mac-addresses:
+  id: 77f8b4c6-8320-4960-8444-f35aeec26b57
+  macAddresses:
   - 00:22:B5:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Novita
 type: d3-device-type-assertion

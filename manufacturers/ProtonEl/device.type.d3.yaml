@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2729e013-ec71-4bdd-a668-b1ee5c493b6c
-  mac-addresses:
+  id: ab3d64f5-a5ae-4952-a06b-3553979b3cc4
+  macAddresses:
   - 00:90:0A:00:00:00/24
   manufacturer: Proton Electronic Industrial Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProtonEl
 type: d3-device-type-assertion

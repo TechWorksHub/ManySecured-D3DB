@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 290874a0-13e8-4dbf-a157-62931dc93d41
-  mac-addresses:
+  id: cffd33dc-c751-4d00-a49f-1262d3325b36
+  macAddresses:
   - 00:06:7F:00:00:00/24
   - 00:06:F0:00:00:00/24
   manufacturer: Digeo, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digeo
 type: d3-device-type-assertion

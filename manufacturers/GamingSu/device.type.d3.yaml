@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74281fd8-62e4-4063-86c5-09e9a7560de6
-  mac-addresses:
+  id: 1095805b-01a3-40ab-b8dc-9b66b87ee8ae
+  macAddresses:
   - 00:0F:1A:00:00:00/24
   manufacturer: Gaming Support B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GamingSu
 type: d3-device-type-assertion

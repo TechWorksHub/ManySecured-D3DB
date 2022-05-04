@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 09b1f75f-2fc9-4343-8d8d-02b1f9782658
-  mac-addresses:
+  id: 47a8a9fc-c977-4dd6-9f47-3aff728eadd6
+  macAddresses:
   - 00:08:29:00:00:00/24
   - 00:50:4D:00:00:00/24
   - 00:80:91:00:00:00/24
   manufacturer: Tokyo Electron Device Nagasaki Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TokyoEle
 type: d3-device-type-assertion

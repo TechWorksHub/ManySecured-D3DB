@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fde78980-72df-434a-8e03-fc98157814f5
-  mac-addresses:
+  id: 5081bc9d-e68a-4e70-aba2-35cb807ff693
+  macAddresses:
   - 94:E0:D0:00:00:00/24
   manufacturer: HealthStream Taiwan Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HealthSt
 type: d3-device-type-assertion

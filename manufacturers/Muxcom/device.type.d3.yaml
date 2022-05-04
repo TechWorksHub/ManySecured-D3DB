@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3b362a9-c92d-48ac-996c-84a049ffe1f9
-  mac-addresses:
+  id: d5c11426-33c2-4cfb-97ef-d4f289a24583
+  macAddresses:
   - 00:03:CF:00:00:00/24
   manufacturer: Muxcom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Muxcom
 type: d3-device-type-assertion

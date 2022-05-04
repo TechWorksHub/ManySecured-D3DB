@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 455f58f6-fe9d-4484-bcc9-05635516facd
-  mac-addresses:
+  id: b35490c0-2937-4164-8474-f010e601d962
+  macAddresses:
   - 00:05:90:00:00:00/24
   manufacturer: Swissvoice Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swissvoi
 type: d3-device-type-assertion

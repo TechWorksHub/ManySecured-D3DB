@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 85287a4c-cb1d-49d9-9779-f33e688319db
-  mac-addresses:
+  id: e2891ebf-8b10-4d8a-88fb-5c027db178a8
+  macAddresses:
   - 40:D8:55:02:10:00/36
   manufacturer: Smt D.O.O.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmtDOO
 type: d3-device-type-assertion

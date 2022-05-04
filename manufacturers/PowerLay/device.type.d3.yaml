@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e748860-4b91-4ac9-8004-e73d468eafa7
-  mac-addresses:
+  id: 937e5b64-911c-4994-b655-5e37039c66a6
+  macAddresses:
   - 94:C4:E9:00:00:00/24
   manufacturer: PowerLayer Microsystems HongKong Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerLay
 type: d3-device-type-assertion

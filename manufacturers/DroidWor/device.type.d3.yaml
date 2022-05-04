@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8651ff71-ea5f-422d-9f1c-4c7b1ab3ebde
-  mac-addresses:
+  id: ba1718f8-d6f6-4607-961e-eeb1484fab80
+  macAddresses:
   - 08:00:79:00:00:00/24
   manufacturer: The Droid Works
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DroidWor
 type: d3-device-type-assertion

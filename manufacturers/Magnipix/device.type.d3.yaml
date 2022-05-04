@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b267d262-7a9c-4a99-882a-6d1b319d8cfd
-  mac-addresses:
+  id: f51727ac-324d-431c-b3a8-f8968d79f881
+  macAddresses:
   - 00:04:C2:00:00:00/24
   manufacturer: Magnipix, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Magnipix
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22568eb1-91d6-4acc-a9fa-e1ca022b4663
-  mac-addresses:
+  id: 28f7def7-9ea4-48b0-913a-49e2da649680
+  macAddresses:
   - 9C:43:1E:10:00:00/28
   manufacturer: Symfun Telecom Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SymfunTe
 type: d3-device-type-assertion

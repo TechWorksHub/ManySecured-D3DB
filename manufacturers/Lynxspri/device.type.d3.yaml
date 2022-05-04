@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5be09674-65ff-47be-b9af-6d9fcf984d14
-  mac-addresses:
+  id: 88fc67e4-9ef7-4769-9c5d-a515d776d7e1
+  macAddresses:
   - 98:F0:58:00:00:00/24
   manufacturer: Lynxspring, Incl.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lynxspri
 type: d3-device-type-assertion

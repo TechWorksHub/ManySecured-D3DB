@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6ee541f-f82b-4f69-98c7-9c2d3f61b0fc
-  mac-addresses:
+  id: 72d16f5a-07d0-438e-b762-abf3ba846d76
+  macAddresses:
   - A0:22:4E:20:00:00/28
   manufacturer: Closed Joint-Stock Company "NORSI-TRANS"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ClosedJo
 type: d3-device-type-assertion

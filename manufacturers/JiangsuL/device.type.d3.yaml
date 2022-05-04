@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 67ad0703-9ee7-4130-aa17-c65891c46826
-  mac-addresses:
+  id: 133218db-7c7a-4bc2-acae-8092dacc6a6a
+  macAddresses:
   - 00:23:9E:00:00:00/24
   - 08:ED:02:30:00:00/28
   manufacturer: Jiangsu Lemote Technology Corporation Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangsuL
 type: d3-device-type-assertion

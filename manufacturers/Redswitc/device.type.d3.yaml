@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48af05f9-7d3a-41bc-a097-368afadd32c2
-  mac-addresses:
+  id: 63245c47-bc02-486b-bf72-045e46831551
+  macAddresses:
   - 00:06:17:00:00:00/24
   manufacturer: Redswitch Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Redswitc
 type: d3-device-type-assertion

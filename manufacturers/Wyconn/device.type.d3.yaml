@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 34f20823-b8ac-4fb0-aa46-3369d12c7a4f
-  mac-addresses:
+  id: c553777e-5e03-4a68-ac04-eae841777b37
+  macAddresses:
   - A8:D8:8A:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wyconn
 type: d3-device-type-assertion

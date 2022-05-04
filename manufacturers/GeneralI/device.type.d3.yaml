@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 8708fc0b-0912-48d2-92bc-c5385aa682d8
-  mac-addresses:
+  id: b68325bd-5a72-4c06-bf55-4619478f6e49
+  macAddresses:
   - 00:1B:41:00:00:00/24
   - 00:50:C2:08:F0:00/36
   - 00:50:C2:F1:20:00/36
   manufacturer: General Infinity Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GeneralI
 type: d3-device-type-assertion

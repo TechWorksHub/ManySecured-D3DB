@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 097d4d64-4dcb-40a1-bf2a-bd3867a859b0
-  mac-addresses:
+  id: a44069a9-e39e-4c55-8766-a048e1e956d6
+  macAddresses:
   - B4:AE:6F:00:00:00/24
   manufacturer: Circle Reliance, Inc DBA Cranberry Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CircleRe
 type: d3-device-type-assertion

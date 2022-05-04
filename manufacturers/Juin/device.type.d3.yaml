@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ca1add4-94d1-48a5-af43-d409428ca632
-  mac-addresses:
+  id: 976445a9-c530-49ce-888e-feb982f78cc5
+  macAddresses:
   - 44:68:AB:00:00:00/24
   manufacturer: Juin Company, Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Juin
 type: d3-device-type-assertion

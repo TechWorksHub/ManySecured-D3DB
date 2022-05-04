@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 940dcfbb-3724-4078-8b72-16d7c46f4fea
-  mac-addresses:
+  id: 1e6a0e68-529b-45f8-95e5-a9e591610504
+  macAddresses:
   - 00:60:FC:00:00:00/24
   manufacturer: Conservation Through Innovation Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Conserva
 type: d3-device-type-assertion

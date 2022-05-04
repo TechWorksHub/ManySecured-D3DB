@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1cbc41f8-d926-4263-8cec-3af0e07e0e93
-  mac-addresses:
+  id: 6a47aabd-da53-4308-b0bd-9a4cfb3e60dc
+  macAddresses:
   - 00:50:C2:8C:F0:00/36
   manufacturer: GigaLinx Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GigaLinx
 type: d3-device-type-assertion

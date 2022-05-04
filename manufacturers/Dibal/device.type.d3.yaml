@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 686583a3-a59b-450f-8d09-b4019a1e6d93
-  mac-addresses:
+  id: add1142f-4dcb-4aad-b582-facef99bb10a
+  macAddresses:
   - 00:08:EF:00:00:00/24
   manufacturer: Dibal,S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dibal
 type: d3-device-type-assertion

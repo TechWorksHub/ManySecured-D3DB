@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22414050-9338-4b43-9437-751edeed6e29
-  mac-addresses:
+  id: 37f347ee-0eb7-484f-9c4e-7a42ee576d78
+  macAddresses:
   - 54:FF:CF:00:00:00/24
   manufacturer: Mopria Alliance
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MopriaAl
 type: d3-device-type-assertion

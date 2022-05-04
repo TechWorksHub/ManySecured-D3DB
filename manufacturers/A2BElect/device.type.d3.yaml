@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea24ba16-b54b-4bc8-aa4b-54318365c996
-  mac-addresses:
+  id: 74d06315-5a2b-4ee3-a424-785332d1bcb4
+  macAddresses:
   - 00:22:80:00:00:00/24
   manufacturer: A2B Electronics AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: A2BElect
 type: d3-device-type-assertion

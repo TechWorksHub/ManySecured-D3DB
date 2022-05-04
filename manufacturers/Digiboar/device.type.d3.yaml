@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0a8745e-9bee-452c-a64d-4d782af3723c
-  mac-addresses:
+  id: cfa67a74-f7de-4328-b6b5-c2323886444b
+  macAddresses:
   - 00:40:9D:00:00:00/24
   manufacturer: DigiBoard
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digiboar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 41590f95-bd9f-4ab8-9684-de366ea63de7
-  mac-addresses:
+  id: 902a0d87-f116-4ca6-8bfe-60037f62bc7f
+  macAddresses:
   - 00:50:C2:F7:40:00/36
   manufacturer: Thor Technologies Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThorTech
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 7bdd0445-0073-41ca-8301-a9e698b6ff8d
-  mac-addresses:
+  id: a4f96ce0-7c3d-42d1-a3e3-a97cb69afef0
+  macAddresses:
   - 00:14:84:00:00:00/24
   - 78:36:07:00:00:00/24
   manufacturer: Cermate Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CermateT
 type: d3-device-type-assertion

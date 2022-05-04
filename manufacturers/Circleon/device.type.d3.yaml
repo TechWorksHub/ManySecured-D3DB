@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 67f6dcbb-7bb6-4d6f-891b-d671b5b6aba3
-  mac-addresses:
+  id: 580e63b3-489f-4682-b3c6-318e83097721
+  macAddresses:
   - 00:1C:D0:00:00:00/24
   manufacturer: Circleone Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Circleon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c185ad7b-6dc1-4ac8-b71b-ec5001f95c8a
-  mac-addresses:
+  id: c3e3e031-ba6f-452e-96f9-8319b016eec6
+  macAddresses:
   - 00:0B:15:00:00:00/24
   manufacturer: Platypus Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Platypus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6511f895-430a-4672-92bf-c3eee7d9fcf9
-  mac-addresses:
+  id: 8cb09907-7e7e-4729-a569-516011d18106
+  macAddresses:
   - 3C:C9:9E:00:00:00/24
   manufacturer: Huiyang Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HuiyangT
 type: d3-device-type-assertion

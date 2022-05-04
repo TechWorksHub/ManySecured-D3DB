@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ca95b74-9b11-4183-849d-94a80fac0544
-  mac-addresses:
+  id: 39a50432-10dd-4b5d-96ce-60eb9cc6e5b7
+  macAddresses:
   - 6C:E0:1E:00:00:00/24
   manufacturer: Modcam AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Modcam
 type: d3-device-type-assertion

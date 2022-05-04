@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 73960440-271a-402d-8ad1-3a74589fda62
-  mac-addresses:
+  id: f52785c4-aab3-4899-adb8-ef645a9c6027
+  macAddresses:
   - 00:50:C2:28:C0:00/36
   - 40:D8:55:1A:00:00/36
   - F0:A7:B2:00:00:00/24
   manufacturer: Futaba Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Futaba
 type: d3-device-type-assertion

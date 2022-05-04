@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 17cb624c-41ea-475d-bcc7-4009acdea118
-  mac-addresses:
+  id: 56d703df-f716-482f-96d7-9c392472a32b
+  macAddresses:
   - 04:E2:29:00:00:00/24
   - 04:FA:83:00:00:00/24
   - 08:BA:5F:00:00:00/24
@@ -29,6 +29,6 @@ credentialSubject:
   - C8:16:BD:00:00:00/24
   - D0:58:C0:00:00:00/24
   manufacturer: Qingdao Haier Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QingdaoH
 type: d3-device-type-assertion

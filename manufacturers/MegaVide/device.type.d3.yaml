@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a98685f6-2a9b-4fed-810d-3cae24fab62b
-  mac-addresses:
+  id: 5a9cdd73-3970-4caa-aab4-4f8c86ffa655
+  macAddresses:
   - 44:65:6A:00:00:00/24
   manufacturer: Mega Video Electronic(HK) Industry Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MegaVide
 type: d3-device-type-assertion

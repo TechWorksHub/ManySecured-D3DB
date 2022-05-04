@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e73dbfd-5c0c-4d00-91f9-248413bed14c
-  mac-addresses:
+  id: 5a471a18-8741-4011-9178-8ca439ca9a9a
+  macAddresses:
   - 00:03:D1:00:00:00/24
   manufacturer: Takaya Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Takaya
 type: d3-device-type-assertion

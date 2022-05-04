@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 931f1643-938b-4406-8f0e-ce8fe871e1ed
-  mac-addresses:
+  id: ad301ca7-22a5-4e6d-ad71-524d2123c453
+  macAddresses:
   - 70:B3:D5:C0:E0:00/36
   manufacturer: SYSDEV Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SYSDEV
 type: d3-device-type-assertion

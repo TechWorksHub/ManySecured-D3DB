@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36f9a247-942e-439e-963a-781ee793cdb9
-  mac-addresses:
+  id: 870188cf-071c-4935-a6b9-90ac019933ea
+  macAddresses:
   - 98:70:E8:00:00:00/24
   manufacturer: Innatech Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innatech
 type: d3-device-type-assertion

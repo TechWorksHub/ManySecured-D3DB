@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3103e07c-90d3-4074-8d5c-386c6301ddf7
-  mac-addresses:
+  id: cee4912c-7a89-4f8f-8693-747d444b46c3
+  macAddresses:
   - 24:BE:18:00:00:00/24
   manufacturer: Dadoutek Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dadoutek
 type: d3-device-type-assertion

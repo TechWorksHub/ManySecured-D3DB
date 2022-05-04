@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4f085e0c-dcce-4b45-a51c-87804f54f619
-  mac-addresses:
+  id: 0adef4e4-cf9f-48bd-b584-5c66b7158066
+  macAddresses:
   - 00:1C:1C:00:00:00/24
   manufacturer: Center Communication Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CenterCo
 type: d3-device-type-assertion

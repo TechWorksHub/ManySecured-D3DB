@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 30c47b91-e2f9-4dba-ab1f-c70e19d23b7c
-  mac-addresses:
+  id: 51a04b4d-2220-4fa8-a426-7b0403f9aeef
+  macAddresses:
   - 00:50:C2:BC:20:00/36
   - E0:1F:0A:00:00:00/24
   manufacturer: Xslent Energy Technologies. LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XslentEn
 type: d3-device-type-assertion

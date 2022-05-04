@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2dd3e66f-dfa1-4d6f-823f-53a084b4ebc1
-  mac-addresses:
+  id: 3709171a-cddc-4f12-a225-e276fbbb28f2
+  macAddresses:
   - 70:B3:D5:34:B0:00/36
   - 78:13:05:20:00:00/28
   manufacturer: Leaff Engineering Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LeaffEng
 type: d3-device-type-assertion

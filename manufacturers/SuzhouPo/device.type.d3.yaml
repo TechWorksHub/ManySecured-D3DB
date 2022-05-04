@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afa7f3d5-92ee-4b82-93d7-e387cd6b1cb6
-  mac-addresses:
+  id: 202e85e8-f12e-4746-bb72-6573404699bd
+  macAddresses:
   - 70:B3:D5:CC:D0:00/36
   manufacturer: Suzhou PowerCore Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuzhouPo
 type: d3-device-type-assertion

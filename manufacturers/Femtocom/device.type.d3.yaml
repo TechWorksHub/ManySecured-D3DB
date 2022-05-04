@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ed625a0a-cf4e-4cdf-b7d3-1911254ee4d1
-  mac-addresses:
+  id: 72d86205-af6b-451a-8632-05facb0bf9d7
+  macAddresses:
   - 00:26:1A:00:00:00/24
   manufacturer: Femtocomm System Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Femtocom
 type: d3-device-type-assertion

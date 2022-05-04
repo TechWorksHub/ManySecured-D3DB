@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8a27caba-2dec-4d5a-87b5-b0d746df555a
-  mac-addresses:
+  id: c2952227-9cac-47b6-88c1-a37382dcb727
+  macAddresses:
   - 00:50:C2:EB:D0:00/36
   manufacturer: Droplet Measurement Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DropletM
 type: d3-device-type-assertion

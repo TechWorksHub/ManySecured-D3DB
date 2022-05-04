@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e04b90da-4ebc-48a8-b9fb-463cfaa826bc
-  mac-addresses:
+  id: 0afe9dd9-05a9-4bde-b17a-65178a38544c
+  macAddresses:
   - F0:F7:B3:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Phorm
 type: d3-device-type-assertion

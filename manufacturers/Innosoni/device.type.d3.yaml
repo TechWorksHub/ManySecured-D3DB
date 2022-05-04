@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a021ad79-3378-4f7c-878a-82c3d4c75e28
-  mac-addresses:
+  id: c426e716-d961-4a44-a1fe-3d0f760e5ae9
+  macAddresses:
   - 70:B3:D5:14:E0:00/36
   manufacturer: Innosonix GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innosoni
 type: d3-device-type-assertion

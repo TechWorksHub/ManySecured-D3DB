@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdacaf75-9abc-45d1-9681-b55ce3bec359
-  mac-addresses:
+  id: b90c3ed0-4230-44e9-9539-fdc1a0746141
+  macAddresses:
   - A0:B6:62:00:00:00/24
   manufacturer: Acutvista Innovation Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acutvist
 type: d3-device-type-assertion

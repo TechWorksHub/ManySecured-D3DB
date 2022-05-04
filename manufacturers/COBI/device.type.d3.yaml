@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cdd9ef92-dde7-4450-8dbf-0dbd0b88bd9d
-  mac-addresses:
+  id: 0d37bc61-ac19-4094-aa78-6bd196335f56
+  macAddresses:
   - 7C:57:4E:00:00:00/24
   manufacturer: COBI GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: COBI
 type: d3-device-type-assertion

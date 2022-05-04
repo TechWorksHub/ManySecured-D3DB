@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e87885d4-d52a-40b2-8639-ffe5eb0db790
-  mac-addresses:
+  id: 82736539-6a2c-4053-bf19-0f11ffd9c85c
+  macAddresses:
   - 18:84:10:00:00:00/24
   manufacturer: CoreTrust Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoreTrus
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 28e7a0af-cdd7-41ef-b539-8be60865e137
-  mac-addresses:
+  id: 70accccd-579f-4ba1-9d06-e59deee737f4
+  macAddresses:
   - 00:20:39:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scinets
 type: d3-device-type-assertion

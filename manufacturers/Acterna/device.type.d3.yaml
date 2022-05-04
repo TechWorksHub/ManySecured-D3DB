@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 220e92bb-6d4f-4415-bfc0-f0f9bc8c6f7d
-  mac-addresses:
+  id: 43787ea2-20c3-47a1-ba4a-bc2781d0b9de
+  macAddresses:
   - 00:07:11:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Acterna
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bf3518e-0cab-4b0b-b642-33c028bbf25d
-  mac-addresses:
+  id: ec3287e1-2cbe-4b9c-8c97-7bf763a6fa30
+  macAddresses:
   - 00:11:BD:00:00:00/24
   manufacturer: Bombardier Transportation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bombardi
 type: d3-device-type-assertion

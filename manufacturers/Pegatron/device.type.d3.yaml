@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 06c3afe9-0b5e-4f5f-a064-332f306b85af
-  mac-addresses:
+  id: 167a8db9-61b2-4e11-99a2-5986e03f13ce
+  macAddresses:
   - 00:71:C2:00:00:00/24
   - 0C:54:A5:00:00:00/24
   - 10:05:01:00:00:00/24
@@ -27,6 +27,6 @@ credentialSubject:
   - E8:40:F2:00:00:00/24
   - EC:AA:A0:00:00:00/24
   manufacturer: Pegatron Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pegatron
 type: d3-device-type-assertion

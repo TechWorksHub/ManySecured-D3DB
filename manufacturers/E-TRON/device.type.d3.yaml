@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ac0f71d-1046-4518-b20e-6d0b1b206340
-  mac-addresses:
+  id: f629641f-4e95-41fa-bf62-23af2cfc4e17
+  macAddresses:
   - 7C:18:CD:00:00:00/24
   manufacturer: E-TRON Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-TRON
 type: d3-device-type-assertion

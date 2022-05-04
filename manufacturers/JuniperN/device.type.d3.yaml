@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8a5c7607-316f-4732-a01a-0b2a8eb9f087
-  mac-addresses:
+  id: 6a7f6f84-f32c-487a-94af-af8aeb02d812
+  macAddresses:
   - 00:05:85:00:00:00/24
   - 00:10:DB:00:00:00/24
   - 00:12:1E:00:00:00/24
@@ -145,6 +145,6 @@ credentialSubject:
   - FC:33:42:00:00:00/24
   - FC:96:43:00:00:00/24
   manufacturer: Juniper Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JuniperN
 type: d3-device-type-assertion

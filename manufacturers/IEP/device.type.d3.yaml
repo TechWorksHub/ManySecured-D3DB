@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3acc227-a669-40ce-b4b7-eeb100fa6fb9
-  mac-addresses:
+  id: 5937d03a-a194-42c1-a9d3-c77fadc63108
+  macAddresses:
   - 48:34:3D:00:00:00/24
   manufacturer: IEP GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IEP
 type: d3-device-type-assertion

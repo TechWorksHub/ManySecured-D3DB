@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 47f01a2e-df55-4e2f-a5cd-74bd65ccee57
-  mac-addresses:
+  id: 3802c692-ecb5-41d8-97a9-7cfac718521c
+  macAddresses:
   - 00:1B:C5:07:10:00/36
   manufacturer: Center for E-Commerce Infrastructure Development, The University of
     Hong Kong
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Centerfo
 type: d3-device-type-assertion

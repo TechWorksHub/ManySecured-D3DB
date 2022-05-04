@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a7d98b0-1350-4264-862d-4cb245220581
-  mac-addresses:
+  id: 71d790c3-4368-42a8-bded-2ee4f5290539
+  macAddresses:
   - 00:09:E2:00:00:00/24
   manufacturer: Sinbon Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SinbonEl
 type: d3-device-type-assertion

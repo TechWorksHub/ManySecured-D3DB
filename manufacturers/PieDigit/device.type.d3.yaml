@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 53367059-24bb-4432-9bf7-054bf6a965b0
-  mac-addresses:
+  id: 35838a82-0d2a-4921-8565-adad91f3eea4
+  macAddresses:
   - B4:ED:19:00:00:00/24
   manufacturer: Pie Digital, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PieDigit
 type: d3-device-type-assertion

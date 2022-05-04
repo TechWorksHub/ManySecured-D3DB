@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc46edde-a7e3-4ac2-8b0b-ae1df88f642d
-  mac-addresses:
+  id: 53e48ce4-ed0d-49ab-a064-25e87a3452e8
+  macAddresses:
   - 00:50:C2:E7:D0:00/36
   manufacturer: AEL Microsystems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AELMicro
 type: d3-device-type-assertion

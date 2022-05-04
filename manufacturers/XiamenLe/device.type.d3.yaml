@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fe44fa81-0bdf-4d90-b114-f2651f52bb47
-  mac-addresses:
+  id: f86c61fa-d9c3-4f48-9043-4e3e849f2257
+  macAddresses:
   - 58:FC:DB:D0:00:00/28
   - E8:A7:88:00:00:00/24
   manufacturer: Xiamen Leelen Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenLe
 type: d3-device-type-assertion

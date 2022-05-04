@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 29e1f94a-018f-4b21-9f34-acf6a1cb3203
-  mac-addresses:
+  id: 690127ed-4699-472a-b883-b76ad621de9d
+  macAddresses:
   - 00:1F:20:00:00:00/24
   - 08:81:B2:00:00:00/24
   - 10:94:97:00:00:00/24
@@ -15,6 +15,6 @@ credentialSubject:
   - EC:81:93:00:00:00/24
   - F4:73:35:00:00:00/24
   manufacturer: Logitech Europe SA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Logitech
 type: d3-device-type-assertion

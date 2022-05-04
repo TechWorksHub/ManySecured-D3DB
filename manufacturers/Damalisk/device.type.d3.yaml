@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a5a0226-c47e-46a9-9e03-d8295b50d60f
-  mac-addresses:
+  id: 2cc710f0-b77a-4c86-94e9-83cf5f6eb404
+  macAddresses:
   - 7C:C8:D7:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Damalisk
 type: d3-device-type-assertion

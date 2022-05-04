@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4c41bb4e-208a-4b1e-bd36-4161cf75a008
-  mac-addresses:
+  id: d7148e23-2f69-4d0f-966e-b204427d440e
+  macAddresses:
   - 00:1E:26:00:00:00/24
   manufacturer: Digifriends Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Digifrie
 type: d3-device-type-assertion

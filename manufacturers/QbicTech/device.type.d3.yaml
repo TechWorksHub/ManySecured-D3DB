@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 85c98f93-ada6-46ec-b4ed-b8c8c5b5b8f6
-  mac-addresses:
+  id: 699b0d27-7739-451f-ada0-8ce08606dd47
+  macAddresses:
   - 8C:59:3C:60:00:00/28
   - C8:F5:D6:20:00:00/28
   manufacturer: Qbic Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QbicTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a662a42-a12c-4954-833b-3c7aeef49140
-  mac-addresses:
+  id: ad902710-e651-4fa3-b7e4-446d952c9e18
+  macAddresses:
   - 00:0A:D7:00:00:00/24
   manufacturer: Origin ELECTRIC CO.,LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OriginEL
 type: d3-device-type-assertion

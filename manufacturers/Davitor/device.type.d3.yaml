@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 97bce123-490f-4f07-ac5a-869b9931d380
-  mac-addresses:
+  id: e922ab18-70ca-4e86-929a-a4b996ae0d1e
+  macAddresses:
   - 70:B3:D5:E6:00:00/36
   manufacturer: Davitor AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Davitor
 type: d3-device-type-assertion

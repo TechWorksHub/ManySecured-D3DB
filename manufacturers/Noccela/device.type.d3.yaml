@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 015822aa-19fa-4cdf-a204-880328259864
-  mac-addresses:
+  id: f403bd20-730b-486b-9b3e-972c80ef1549
+  macAddresses:
   - 14:3F:27:00:00:00/24
   manufacturer: Noccela Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Noccela
 type: d3-device-type-assertion

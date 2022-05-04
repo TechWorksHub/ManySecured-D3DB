@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d5a81a1-52b9-480d-94a2-f22d8efd3f29
-  mac-addresses:
+  id: 6b2bbe8d-1de8-4563-9d57-73aed8f3c41f
+  macAddresses:
   - 1C:C0:E1:D0:00:00/28
   manufacturer: NewLand (NZ) Communication Tech Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NewLandN
 type: d3-device-type-assertion

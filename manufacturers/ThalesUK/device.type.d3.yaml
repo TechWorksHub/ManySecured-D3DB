@@ -1,10 +1,10 @@
 credentialSubject:
-  id: dc4ff499-b22f-4629-b7f1-cd7563279902
-  mac-addresses:
+  id: faa47821-4fc2-4f76-a310-4f5ac43e8a99
+  macAddresses:
   - 00:50:C2:6A:C0:00/36
   - 00:50:C2:A4:80:00/36
   - 40:68:26:00:00:00/24
   manufacturer: Thales UK
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ThalesUK
 type: d3-device-type-assertion

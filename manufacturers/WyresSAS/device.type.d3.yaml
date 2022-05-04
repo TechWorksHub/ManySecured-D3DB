@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b0cd85e9-4527-4a7b-8047-169bb36e7f69
-  mac-addresses:
+  id: fc4ae4bd-5d90-4547-901c-b2983c964881
+  macAddresses:
   - 38:B8:EB:E0:00:00/28
   manufacturer: Wyres SAS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WyresSAS
 type: d3-device-type-assertion

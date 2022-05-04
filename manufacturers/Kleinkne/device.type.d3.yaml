@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 73537dba-e090-4665-8d44-924897ecefa6
-  mac-addresses:
+  id: 22d3bb4b-108a-43ae-9b26-dd0e0ad9bd56
+  macAddresses:
   - 00:05:9C:00:00:00/24
   manufacturer: "Kleinknecht GmbH, Ing. B\xFCro"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kleinkne
 type: d3-device-type-assertion

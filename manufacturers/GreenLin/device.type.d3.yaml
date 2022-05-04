@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c24ae93-9d52-47c5-8eb9-75d7132b2dab
-  mac-addresses:
+  id: 7df69f3c-e5bd-4a38-866c-d6716dd028d6
+  macAddresses:
   - 00:1E:98:00:00:00/24
   manufacturer: GreenLine Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GreenLin
 type: d3-device-type-assertion

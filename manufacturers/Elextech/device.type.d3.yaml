@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a2d5a661-d9c4-4dc6-9ca8-8ec54a28eaec
-  mac-addresses:
+  id: 98229278-5757-42c1-9fb6-0339755be549
+  macAddresses:
   - 00:0F:4C:00:00:00/24
   manufacturer: Elextech INC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elextech
 type: d3-device-type-assertion

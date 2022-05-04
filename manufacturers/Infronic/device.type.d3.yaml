@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b1160a9-5196-47c4-bb38-f81a24a5c12c
-  mac-addresses:
+  id: 35cbe1b2-f5bd-4ed0-ab25-845cdc5ed764
+  macAddresses:
   - 00:50:C2:EC:60:00/36
   manufacturer: Infronics Systems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infronic
 type: d3-device-type-assertion

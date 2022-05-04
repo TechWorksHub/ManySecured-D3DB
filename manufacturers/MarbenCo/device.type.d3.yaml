@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 009b57bd-29db-473b-9784-b9aea2400417
-  mac-addresses:
+  id: e71629f1-4f19-416f-bd13-3a6a6f272aaa
+  macAddresses:
   - 00:C0:AD:00:00:00/24
   manufacturer: Marben Communication Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MarbenCo
 type: d3-device-type-assertion

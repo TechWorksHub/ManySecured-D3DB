@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3aaad39c-de94-4002-a37a-a531e049d77a
-  mac-addresses:
+  id: 012d9807-33aa-41e2-b389-766eeeb1bc24
+  macAddresses:
   - 00:60:22:00:00:00/24
   manufacturer: Vicom Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vicom
 type: d3-device-type-assertion

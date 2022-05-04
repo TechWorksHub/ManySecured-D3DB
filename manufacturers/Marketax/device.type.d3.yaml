@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c614c75-3f32-472b-8f66-19d46ae5f2e2
-  mac-addresses:
+  id: 1b56fb93-d663-4975-9f2b-7ae243f4242c
+  macAddresses:
   - 48:B2:53:00:00:00/24
   manufacturer: Marketaxess Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Marketax
 type: d3-device-type-assertion

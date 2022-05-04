@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6852e06a-64fe-4d96-b894-b0da6a4d40a1
-  mac-addresses:
+  id: 31114bac-485d-41b6-8924-5d5c537180be
+  macAddresses:
   - 00:26:A9:00:00:00/24
   manufacturer: Strong Technologies Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: StrongTe
 type: d3-device-type-assertion

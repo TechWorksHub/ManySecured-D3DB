@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c91180d7-3f92-448e-a5f2-18571447f904
-  mac-addresses:
+  id: 9cabf039-9b85-4bd1-9850-ad20d98bafb0
+  macAddresses:
   - 30:1F:9A:60:00:00/28
   manufacturer: YiSheng technology co.,LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YiShengt
 type: d3-device-type-assertion

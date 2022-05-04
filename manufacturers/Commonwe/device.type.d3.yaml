@@ -1,9 +1,9 @@
 credentialSubject:
-  id: cef76fb6-9c3b-4c87-a726-68b454224c5c
-  mac-addresses:
+  id: 2a554ae3-6664-4886-abf9-ff0245b4ec13
+  macAddresses:
   - 00:1B:C5:01:B0:00/36
   - D8:97:90:00:00:00/24
   manufacturer: Commonwealth Scientific and Industrial Research Organisation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Commonwe
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b043b27-71ed-482a-95a7-4f35b3ca0846
-  mac-addresses:
+  id: 92553a72-fb1f-4815-ba41-4eb5394f573e
+  macAddresses:
   - 00:30:72:00:00:00/24
   manufacturer: Intellibyte Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intellib
 type: d3-device-type-assertion

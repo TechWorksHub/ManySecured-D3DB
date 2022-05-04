@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 424d2e86-f672-4737-9c02-932b6fe0d2f3
-  mac-addresses:
+  id: 003799e0-d17e-4e89-ac54-4e442bcdc7b3
+  macAddresses:
   - 1C:A0:D3:50:00:00/28
   - 70:B3:D5:33:E0:00/36
   - 70:B3:D5:AB:90:00/36
   manufacturer: Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DynamicC
 type: d3-device-type-assertion

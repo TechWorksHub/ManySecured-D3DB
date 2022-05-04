@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 210bc3ec-dc1d-458d-98c9-86b5601973a0
-  mac-addresses:
+  id: 59a5c49b-6baf-47c6-96fc-43e0fde974bf
+  macAddresses:
   - 00:24:62:00:00:00/24
   manufacturer: Rayzone Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rayzone
 type: d3-device-type-assertion

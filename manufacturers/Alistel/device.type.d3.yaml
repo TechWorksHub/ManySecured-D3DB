@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 459f3b93-ddcf-4f9a-a3c2-dcff8b517771
-  mac-addresses:
+  id: e7ceef17-d8c2-4b4f-a89b-171bbc6dfd94
+  macAddresses:
   - 00:08:DF:00:00:00/24
   manufacturer: Alistel Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alistel
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d8baad8-56b0-46ea-b55d-3a565ff4ed27
-  mac-addresses:
+  id: e7677391-f872-4dfd-b658-809ec899d801
+  macAddresses:
   - 70:B3:D5:35:90:00/36
   manufacturer: Boutronic
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Boutroni
 type: d3-device-type-assertion

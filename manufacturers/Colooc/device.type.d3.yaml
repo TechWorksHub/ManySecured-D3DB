@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 64b70bcd-db78-4b50-94a8-5ceecd1d231e
-  mac-addresses:
+  id: 9117a275-713f-46bf-bc06-1aa6a2005b16
+  macAddresses:
   - 38:3A:21:D0:00:00/28
   manufacturer: Colooc AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Colooc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 505d71eb-1e50-4188-8b8e-f6ef59630a71
-  mac-addresses:
+  id: b37b8807-68d9-4ed6-b94a-fcc7697af085
+  macAddresses:
   - 00:0A:B9:00:00:00/24
   manufacturer: Astera Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AsteraTe
 type: d3-device-type-assertion

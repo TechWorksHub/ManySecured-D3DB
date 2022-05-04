@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 459ddab2-7ec4-42f1-8f93-c4ab7097de13
-  mac-addresses:
+  id: e8a3f346-ccb6-4135-9373-03439de2206f
+  macAddresses:
   - 70:B3:D5:D3:A0:00/36
   manufacturer: Promomed Rus Llc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Promomed
 type: d3-device-type-assertion

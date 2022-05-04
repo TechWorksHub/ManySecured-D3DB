@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 04fde9c3-16b4-4445-9a89-9b6df7c20269
-  mac-addresses:
+  id: 7941ebd2-d159-4989-a044-3699ea0e92c7
+  macAddresses:
   - 00:1C:87:00:00:00/24
   manufacturer: Uriver Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Uriver
 type: d3-device-type-assertion

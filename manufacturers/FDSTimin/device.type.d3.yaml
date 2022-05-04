@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3efecbb3-388a-478f-a074-6c6576364ab4
-  mac-addresses:
+  id: 0881f1d5-afbc-4dd4-bde1-ca00da19cd27
+  macAddresses:
   - 70:B3:D5:5F:40:00/36
   manufacturer: FDSTiming
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FDSTimin
 type: d3-device-type-assertion

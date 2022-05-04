@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8918d882-1628-462e-bea8-6d0641670759
-  mac-addresses:
+  id: 1a57190e-8506-4385-8016-5b1ed07613d0
+  macAddresses:
   - 98:29:1D:00:00:00/24
   manufacturer: Jaguar de Mexico, SA de CV
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jaguarde
 type: d3-device-type-assertion

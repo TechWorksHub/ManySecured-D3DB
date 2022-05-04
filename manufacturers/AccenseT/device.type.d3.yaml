@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 66399c20-af63-44cd-8fd2-569b30be1fdf
-  mac-addresses:
+  id: 165b6731-57b8-4595-9bd0-9ac174f16c9e
+  macAddresses:
   - 00:17:66:00:00:00/24
   manufacturer: Accense Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccenseT
 type: d3-device-type-assertion

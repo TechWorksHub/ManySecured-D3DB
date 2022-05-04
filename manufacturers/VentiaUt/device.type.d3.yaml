@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dfc98936-afa1-471d-8439-9381710fabef
-  mac-addresses:
+  id: 9fab827e-5f01-4d5d-a4d3-36b82f4790a2
+  macAddresses:
   - C4:D1:97:00:00:00/24
   manufacturer: Ventia Utility Services
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VentiaUt
 type: d3-device-type-assertion

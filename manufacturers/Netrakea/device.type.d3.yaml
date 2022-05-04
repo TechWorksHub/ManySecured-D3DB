@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91279366-4faa-4495-a43c-a30522cb45d4
-  mac-addresses:
+  id: 0869eea2-be02-45e7-9f2a-94565dff4535
+  macAddresses:
   - 00:05:E7:00:00:00/24
   manufacturer: Netrake an AudioCodes Company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Netrakea
 type: d3-device-type-assertion

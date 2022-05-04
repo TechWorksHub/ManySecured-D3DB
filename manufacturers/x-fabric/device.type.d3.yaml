@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8dfb560a-791c-4e2d-aa6a-5bc66b2ad18a
-  mac-addresses:
+  id: 32994c9d-016c-48ad-8041-99ab5179d28d
+  macAddresses:
   - 04:EE:91:00:00:00/24
   manufacturer: x-fabric GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: x-fabric
 type: d3-device-type-assertion

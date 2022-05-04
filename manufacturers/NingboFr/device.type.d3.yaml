@@ -1,9 +1,9 @@
 credentialSubject:
-  id: c58331fe-3286-40e3-9d0f-e0d807d17481
-  mac-addresses:
+  id: 7f155ab0-7117-429c-9b93-fbe7666c62cd
+  macAddresses:
   - A0:E9:DB:00:00:00/24
   - A4:77:58:00:00:00/24
   manufacturer: Ningbo FreeWings Technologies Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NingboFr
 type: d3-device-type-assertion

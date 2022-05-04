@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce3fb2dc-5ae2-4647-855a-e01e454d6ff4
-  mac-addresses:
+  id: 19eb6fe5-0e1c-4935-939e-e841090d6cd8
+  macAddresses:
   - 00:1F:73:00:00:00/24
   manufacturer: Teraview Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Teraview
 type: d3-device-type-assertion

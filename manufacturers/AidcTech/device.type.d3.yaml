@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5940a3dc-6f8e-4b21-bbfa-8f9db7f8b73c
-  mac-addresses:
+  id: 7d428183-a6d5-4dca-bd2c-4cdd860a5d4a
+  macAddresses:
   - 5C:15:E1:00:00:00/24
   manufacturer: Aidc Technology (S) Pte Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AidcTech
 type: d3-device-type-assertion

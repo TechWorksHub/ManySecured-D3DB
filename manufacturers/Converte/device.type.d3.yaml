@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 334d767a-41fa-4aa3-8bba-2edcfdb6f82c
-  mac-addresses:
+  id: 6b8147a4-bf8b-4365-999c-b8d4623cbcc1
+  macAddresses:
   - 00:1E:51:00:00:00/24
   - 28:B7:7C:70:00:00/28
   manufacturer: Converter Industry Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Converte
 type: d3-device-type-assertion

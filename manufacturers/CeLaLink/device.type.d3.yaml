@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fa19efa7-efb0-407d-89c6-9d34079b6747
-  mac-addresses:
+  id: cce0307b-9428-4884-954a-71e245d5bc2d
+  macAddresses:
   - E8:FD:E8:00:00:00/24
   manufacturer: CeLa Link Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeLaLink
 type: d3-device-type-assertion

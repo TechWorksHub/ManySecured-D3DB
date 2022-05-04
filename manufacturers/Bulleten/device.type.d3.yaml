@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77fb64ff-751c-475f-bfec-693316dfb722
-  mac-addresses:
+  id: c7b14d2a-cb71-4166-a6f3-c6102763350e
+  macAddresses:
   - 00:50:C2:69:90:00/36
   manufacturer: Bulletendpoints Enterprises Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bulleten
 type: d3-device-type-assertion

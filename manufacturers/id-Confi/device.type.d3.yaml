@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47634f25-e346-4219-aa29-ccdc65d52961
-  mac-addresses:
+  id: c8d71970-58b5-4f17-8db9-a467561be8e0
+  macAddresses:
   - 00:16:8A:00:00:00/24
   manufacturer: id-Confirm Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: id-Confi
 type: d3-device-type-assertion

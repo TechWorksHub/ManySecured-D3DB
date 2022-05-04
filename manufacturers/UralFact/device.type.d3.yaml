@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9f07166d-886d-4911-9de5-48360f8232dc
-  mac-addresses:
+  id: 7c76b75d-4e18-4bd8-b1df-757bbe15d8d0
+  macAddresses:
   - 70:B3:D5:0F:D0:00/36
   manufacturer: JSC "Ural Factories"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UralFact
 type: d3-device-type-assertion

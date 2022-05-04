@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ec9fc346-4295-4b83-8d5e-28f3e152cb0c
-  mac-addresses:
+  id: 7c95c650-57e1-4903-aafa-c08225cad881
+  macAddresses:
   - 74:5B:C5:50:00:00/28
   manufacturer: SpringCard
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpringCa
 type: d3-device-type-assertion

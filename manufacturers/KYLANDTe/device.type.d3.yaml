@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 330e93c2-d06a-4350-8487-dbc18b6cf0c0
-  mac-addresses:
+  id: c6e38807-4cb5-4caa-b2f7-674f38a38006
+  macAddresses:
   - 00:1E:CD:00:00:00/24
   manufacturer: KYLAND Technology Co. LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KYLANDTe
 type: d3-device-type-assertion

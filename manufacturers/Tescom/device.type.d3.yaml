@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d05ac091-b894-43c4-8e50-a8015e746bfb
-  mac-addresses:
+  id: 87d077a4-3418-40ec-a613-b4312e708068
+  macAddresses:
   - 3C:15:EA:00:00:00/24
   - 40:D8:55:07:E0:00/36
   manufacturer: Tescom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tescom
 type: d3-device-type-assertion

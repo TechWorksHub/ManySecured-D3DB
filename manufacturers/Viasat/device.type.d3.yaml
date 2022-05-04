@@ -1,8 +1,8 @@
 credentialSubject:
-  id: be6f2c87-268a-4689-a0cf-29ce7fc99964
-  mac-addresses:
+  id: 248f60b5-b494-415a-9f95-90e3a749f994
+  macAddresses:
   - 00:A0:BC:00:00:00/24
   manufacturer: Viasat, Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viasat
 type: d3-device-type-assertion

@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 4ee633e0-499e-4d81-9c27-2a4a0b08e9de
-  mac-addresses:
+  id: 258c658d-f7b5-4b72-b0dc-eeb7f4fd3fac
+  macAddresses:
   - 00:50:C2:86:00:00/36
   - 18:9B:A5:B0:00:00/28
   - 70:B3:D5:DC:C0:00/36
   manufacturer: Eutron S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Eutron
 type: d3-device-type-assertion

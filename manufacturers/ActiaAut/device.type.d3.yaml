@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ca331f31-9f08-4433-84ff-f5ddd071a6f4
-  mac-addresses:
+  id: fd19bc84-8fca-4dfe-a077-8cf33c688de5
+  macAddresses:
   - C4:F8:39:00:00:00/24
   manufacturer: Actia Automotive
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ActiaAut
 type: d3-device-type-assertion

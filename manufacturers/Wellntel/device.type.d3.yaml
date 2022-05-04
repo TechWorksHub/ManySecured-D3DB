@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79b7c6c0-daa1-478d-808e-325633e79062
-  mac-addresses:
+  id: 04919dd0-396f-431b-836a-c7cf6d97adb1
+  macAddresses:
   - 2C:6A:6F:A0:00:00/28
   manufacturer: Wellntel, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wellntel
 type: d3-device-type-assertion

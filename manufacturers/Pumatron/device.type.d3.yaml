@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 0dfcda44-eacc-4714-bd50-ea09b934c08a
-  mac-addresses:
+  id: 70b3e699-bb4d-4ef8-a317-553e8f370625
+  macAddresses:
   - 00:50:C2:8C:80:00/36
   - F8:D4:62:00:00:00/24
   manufacturer: Pumatronix Equipamentos Eletronicos Ltda.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Pumatron
 type: d3-device-type-assertion

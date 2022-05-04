@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4a75122e-cb71-417e-993f-2c3c1f8d7184
-  mac-addresses:
+  id: 9931d421-274a-4400-bf43-982eb1116294
+  macAddresses:
   - 54:1D:61:00:00:00/24
   manufacturer: YEESTOR Microelectronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YEESTORM
 type: d3-device-type-assertion

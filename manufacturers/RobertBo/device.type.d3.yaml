@@ -1,6 +1,6 @@
 credentialSubject:
-  id: c0b14535-ae91-4e07-8c4d-4d1b052c454f
-  mac-addresses:
+  id: 476a73a0-ba26-42e8-9a6e-14748af44a55
+  macAddresses:
   - 00:0D:5C:00:00:00/24
   - 00:50:C2:EA:00:00/36
   - 00:50:C2:F2:D0:00/36
@@ -16,6 +16,6 @@ credentialSubject:
   - D0:B4:98:00:00:00/24
   - FC:D6:BD:00:00:00/24
   manufacturer: Robert Bosch GmbH, VT-ATMO
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RobertBo
 type: d3-device-type-assertion

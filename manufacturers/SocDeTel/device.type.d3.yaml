@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 38a0cbea-a8e5-422c-834b-76539aef3428
-  mac-addresses:
+  id: 48c1f976-4ad2-42e3-bf0b-75adb2b95e8d
+  macAddresses:
   - 00:80:FF:00:00:00/24
   manufacturer: Soc. De Teleinformatique Rtc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SocDeTel
 type: d3-device-type-assertion

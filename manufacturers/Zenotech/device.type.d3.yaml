@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b366c608-b5ec-4851-b10b-41999331ca0f
-  mac-addresses:
+  id: 97ef4d3b-a194-4537-9257-7b1788dc6a70
+  macAddresses:
   - 18:5A:E8:00:00:00/24
   manufacturer: Zenotech.Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Zenotech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 942b55a0-817b-4117-84e7-ed8fd0acc3ae
-  mac-addresses:
+  id: 1df7e0d3-9634-4f37-8c83-1522d5b2ad7b
+  macAddresses:
   - 00:30:1C:00:00:00/24
   manufacturer: Altvater Airdata Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Altvater
 type: d3-device-type-assertion

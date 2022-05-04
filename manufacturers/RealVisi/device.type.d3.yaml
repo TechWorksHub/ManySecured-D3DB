@@ -1,9 +1,9 @@
 credentialSubject:
-  id: edbad784-a167-4913-9f34-8d818deb3ddc
-  mac-addresses:
+  id: 58023b4e-121a-44f6-8f70-a01f6fe4fabf
+  macAddresses:
   - 00:50:C2:A4:20:00/36
   - AC:1F:D7:00:00:00/24
   manufacturer: RealVision Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RealVisi
 type: d3-device-type-assertion

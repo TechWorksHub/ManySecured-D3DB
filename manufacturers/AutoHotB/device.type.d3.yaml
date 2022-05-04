@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e9d73111-d79d-4035-a1a0-d79feaf0500e
-  mac-addresses:
+  id: ce5501ad-3ae9-4457-a90f-a18990257244
+  macAddresses:
   - 94:01:49:00:00:00/24
   manufacturer: AutoHotBox
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutoHotB
 type: d3-device-type-assertion

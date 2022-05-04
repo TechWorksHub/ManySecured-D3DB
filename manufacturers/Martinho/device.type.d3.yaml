@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f50995bd-a6b6-4618-acd4-d8124c77d360
-  mac-addresses:
+  id: 2768a438-f395-42a4-a490-7e21d71eefb8
+  macAddresses:
   - 00:10:BA:00:00:00/24
   manufacturer: Martinho-Davis Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Martinho
 type: d3-device-type-assertion

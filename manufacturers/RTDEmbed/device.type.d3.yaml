@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9eab6025-08d2-4ae2-b6e9-c05406ed7b0f
-  mac-addresses:
+  id: 60639487-8b1e-4d3a-961f-076223c85c01
+  macAddresses:
   - 00:D0:81:00:00:00/24
   manufacturer: RTD Embedded Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RTDEmbed
 type: d3-device-type-assertion

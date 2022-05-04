@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22c6c743-c2a3-4a35-841b-8797808aca0a
-  mac-addresses:
+  id: 3c60b0bb-d466-4608-86ea-71001dd06462
+  macAddresses:
   - 70:B3:D5:70:70:00/36
   manufacturer: Koco Motion US LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KocoMoti
 type: d3-device-type-assertion

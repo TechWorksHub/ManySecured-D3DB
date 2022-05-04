@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f2931d19-185d-44b8-b8a2-23edbce76e1b
-  mac-addresses:
+  id: 5a0abedc-662c-410f-9746-ad86be654017
+  macAddresses:
   - 3C:35:56:00:00:00/24
   manufacturer: Cognitec Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cognitec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d311a0aa-05d7-4c1b-9c7e-c58ed0749479
-  mac-addresses:
+  id: 90dd0db5-cc73-49da-b655-c8664e0a018a
+  macAddresses:
   - 00:50:C2:F4:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DSPCon
 type: d3-device-type-assertion

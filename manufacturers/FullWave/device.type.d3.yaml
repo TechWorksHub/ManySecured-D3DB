@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06b2ede7-09ae-46b7-b679-e1501c494787
-  mac-addresses:
+  id: b0de2644-7a7d-4d4e-ad74-4889802c29a8
+  macAddresses:
   - 00:0C:2D:00:00:00/24
   manufacturer: FullWave Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FullWave
 type: d3-device-type-assertion

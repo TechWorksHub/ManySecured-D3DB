@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 220e51a6-b092-4584-a1b5-79ba4448ee21
-  mac-addresses:
+  id: 1091a523-ca79-4504-ba15-31b9dd7aae49
+  macAddresses:
   - 00:02:56:00:00:00/24
   manufacturer: Alpha Processor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AlphaPro
 type: d3-device-type-assertion

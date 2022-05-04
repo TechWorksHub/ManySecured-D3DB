@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b42c19f-2f2b-4e27-9b35-210a7c67f521
-  mac-addresses:
+  id: 88f2b3c8-985d-4b14-8d31-abe966190c80
+  macAddresses:
   - 00:1B:60:00:00:00/24
   manufacturer: Navigon Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Navigon
 type: d3-device-type-assertion

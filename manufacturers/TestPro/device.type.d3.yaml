@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1c534f92-34a8-430a-a229-3792d15518b2
-  mac-addresses:
+  id: d6d79420-df5e-428c-a076-7c3b080e11fd
+  macAddresses:
   - 00:50:C2:61:C0:00/36
   manufacturer: TestPro Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TestPro
 type: d3-device-type-assertion

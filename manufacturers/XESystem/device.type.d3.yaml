@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 60c8c7e6-0e17-4dd2-bb0c-8905f77f0086
-  mac-addresses:
+  id: 922d131e-f07d-4dc5-b051-c0a480ef8383
+  macAddresses:
   - 00:02:26:00:00:00/24
   manufacturer: XESystems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XESystem
 type: d3-device-type-assertion

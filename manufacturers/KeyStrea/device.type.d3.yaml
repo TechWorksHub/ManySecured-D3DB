@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bbabc6b4-55ee-4674-9506-ee1a94e65ff3
-  mac-addresses:
+  id: 476e5350-8aa1-4900-8771-33c79105a760
+  macAddresses:
   - 00:0B:E3:00:00:00/24
   manufacturer: Key Stream Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KeyStrea
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 806f4a3a-e39b-46cf-9176-f5835e9b58bd
-  mac-addresses:
+  id: 41132057-465e-4e2d-9045-5bea41da7bbf
+  macAddresses:
   - 00:13:CF:00:00:00/24
   manufacturer: 4Access Communications
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 4AccessC
 type: d3-device-type-assertion

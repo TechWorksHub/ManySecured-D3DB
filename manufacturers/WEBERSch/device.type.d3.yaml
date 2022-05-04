@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 268f6032-3ad2-4e50-b126-6ad0bf5217a4
-  mac-addresses:
+  id: a07dba0b-1dfb-4471-b611-d3a293d139f8
+  macAddresses:
   - F4:99:AC:00:00:00/24
   manufacturer: WEBER Schraubautomaten GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WEBERSch
 type: d3-device-type-assertion

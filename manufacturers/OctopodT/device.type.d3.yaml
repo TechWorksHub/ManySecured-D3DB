@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea491181-fe59-43b1-ba63-b7b65f6a44cd
-  mac-addresses:
+  id: 93601784-adbd-43e9-830d-f9bdca544e51
+  macAddresses:
   - 3C:92:DC:00:00:00/24
   manufacturer: Octopod Technology Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OctopodT
 type: d3-device-type-assertion

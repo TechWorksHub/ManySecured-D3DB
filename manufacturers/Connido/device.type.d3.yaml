@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b8db3b9-7cde-4e76-a883-453369a4e817
-  mac-addresses:
+  id: 378e743b-4965-4b81-9c27-af92928ad057
+  macAddresses:
   - 70:B3:D5:71:D0:00/36
   manufacturer: Connido Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Connido
 type: d3-device-type-assertion

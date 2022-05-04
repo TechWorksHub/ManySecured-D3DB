@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 06a9c484-94be-4c70-ab5b-8abf539ab0ce
-  mac-addresses:
+  id: bfbb9718-449d-4c97-8187-2482cc691ec1
+  macAddresses:
   - 8C:51:09:C0:00:00/28
   manufacturer: SpotterRF LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpotterR
 type: d3-device-type-assertion

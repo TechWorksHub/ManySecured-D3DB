@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35e6252f-f231-444d-8f8e-c38a8248ad11
-  mac-addresses:
+  id: 7b666aa8-37f8-436e-9f79-98df98b28bd3
+  macAddresses:
   - 7C:CB:E2:80:00:00/28
   manufacturer: Polarteknik Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Polartek
 type: d3-device-type-assertion

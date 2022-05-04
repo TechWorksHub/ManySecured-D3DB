@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e9e9130-da36-44fb-91e9-198052a0c72f
-  mac-addresses:
+  id: aefb23c5-cfb5-4a27-b0da-459b89b195e4
+  macAddresses:
   - B8:9A:ED:00:00:00/24
   manufacturer: OceanServer Technology, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OceanSer
 type: d3-device-type-assertion

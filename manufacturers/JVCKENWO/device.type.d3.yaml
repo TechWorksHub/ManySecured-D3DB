@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7ed8b2b8-7c9d-4bc0-9910-8be30cddda5c
-  mac-addresses:
+  id: 104f0106-ba84-4908-b10e-59e0b15400df
+  macAddresses:
   - E0:DA:DC:00:00:00/24
   manufacturer: JVC KENWOOD Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JVCKENWO
 type: d3-device-type-assertion

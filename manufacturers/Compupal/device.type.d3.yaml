@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0dd7caf2-3c9b-473a-806b-239ee4ae17d5
-  mac-addresses:
+  id: 565c64c6-f8a6-4b55-ae3c-a5b8e2c30d46
+  macAddresses:
   - 74:FD:A0:00:00:00/24
   manufacturer: Compupal (Group) Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compupal
 type: d3-device-type-assertion

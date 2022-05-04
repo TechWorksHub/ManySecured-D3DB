@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 837f56ea-39e2-43bc-bbd0-eeb709eb194c
-  mac-addresses:
+  id: 4f323a0b-60aa-41d6-89b8-ea0fa4eb488d
+  macAddresses:
   - 00:22:2B:00:00:00/24
   manufacturer: Nucomm, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nucomm
 type: d3-device-type-assertion

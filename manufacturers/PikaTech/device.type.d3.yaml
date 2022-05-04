@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d120b5a-ad10-450d-9708-a4f2e772537f
-  mac-addresses:
+  id: 5fa67f74-f05d-4da3-a78c-ea336159d547
+  macAddresses:
   - 00:1E:84:00:00:00/24
   manufacturer: Pika Technologies Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PikaTech
 type: d3-device-type-assertion

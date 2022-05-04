@@ -1,9 +1,9 @@
 credentialSubject:
-  id: db1fd305-02ef-4442-a972-2854a178128c
-  mac-addresses:
+  id: 602062f3-75db-4152-85ff-077ca7585698
+  macAddresses:
   - 00:50:C2:22:F0:00/36
   - 00:50:C2:7D:A0:00/36
   manufacturer: HTEC Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HTEC
 type: d3-device-type-assertion

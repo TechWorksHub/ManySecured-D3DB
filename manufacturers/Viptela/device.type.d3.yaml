@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8edee8e0-3c67-4692-bce3-5ecc59097f2c
-  mac-addresses:
+  id: f298dbe1-2750-429a-a730-1e5cc6bf91f2
+  macAddresses:
   - 80:B7:09:00:00:00/24
   manufacturer: Viptela, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Viptela
 type: d3-device-type-assertion

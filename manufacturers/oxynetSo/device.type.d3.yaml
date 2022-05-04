@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55bd9a98-cf35-473f-bff4-b3bdd70a9f58
-  mac-addresses:
+  id: 6888ce3b-49a5-462f-8703-0ada886d4b32
+  macAddresses:
   - 70:B3:D5:3D:50:00/36
   manufacturer: oxynet Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: oxynetSo
 type: d3-device-type-assertion

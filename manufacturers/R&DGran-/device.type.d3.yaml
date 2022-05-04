@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 96b21ed8-9f86-477d-a9c6-abc34bf9e9ca
-  mac-addresses:
+  id: 66d956b6-cd08-4b06-97dd-4d8ed0e99c5f
+  macAddresses:
   - 70:B3:D5:18:50:00/36
   manufacturer: R&D Gran-System-S LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: R&DGran-
 type: d3-device-type-assertion

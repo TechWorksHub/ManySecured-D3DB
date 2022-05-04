@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80789d62-a6e2-4fbf-9e1b-00551ae90b52
-  mac-addresses:
+  id: f591131d-dc7f-4b1e-8a7a-ad49f138610c
+  macAddresses:
   - 00:1A:23:00:00:00/24
   manufacturer: Ice Qube, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IceQube
 type: d3-device-type-assertion

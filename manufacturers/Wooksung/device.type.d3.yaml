@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ce8441d-655b-43c0-8e06-59ce2407008e
-  mac-addresses:
+  id: 59e9d0f6-64ff-4d60-b694-bfb955cf2529
+  macAddresses:
   - 00:08:2B:00:00:00/24
   manufacturer: Wooksung Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wooksung
 type: d3-device-type-assertion

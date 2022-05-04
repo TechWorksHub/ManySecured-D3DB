@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b3192610-0cf3-4457-93a7-6b8f6d71fa7e
-  mac-addresses:
+  id: 279ad782-50ff-4858-85c3-2aaf785a8139
+  macAddresses:
   - 3C:30:0C:00:00:00/24
   manufacturer: Dewar Electronics Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DewarEle
 type: d3-device-type-assertion

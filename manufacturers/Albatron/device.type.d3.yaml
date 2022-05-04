@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fba4194e-da4a-428d-a33c-aa77d790b2fd
-  mac-addresses:
+  id: f39ad415-90b5-4e87-a550-74e06bda9e70
+  macAddresses:
   - 00:0A:48:00:00:00/24
   manufacturer: Albatron Technology
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Albatron
 type: d3-device-type-assertion

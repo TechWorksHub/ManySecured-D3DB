@@ -1,8 +1,8 @@
 credentialSubject:
-  id: caf11a3e-701d-4970-b825-de18c2cf442e
-  mac-addresses:
+  id: 8ef2f51f-1484-4a5f-8d80-6edcf290fbdb
+  macAddresses:
   - 00:11:FF:00:00:00/24
   manufacturer: Digitro Tecnologia Ltda
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DigitroT
 type: d3-device-type-assertion

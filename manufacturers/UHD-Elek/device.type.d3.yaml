@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8912fcb3-c07e-4420-ae07-f69c585e5fa9
-  mac-addresses:
+  id: f8cb00a9-8349-469c-a1e3-f20deb947899
+  macAddresses:
   - 00:08:9D:00:00:00/24
   manufacturer: UHD-Elektronik
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UHD-Elek
 type: d3-device-type-assertion

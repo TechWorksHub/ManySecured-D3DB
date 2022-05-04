@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 692d0411-aca7-4170-896d-e006e6d7f125
-  mac-addresses:
+  id: a7e97b3e-4865-4510-80e2-d8ada856fca4
+  macAddresses:
   - 68:76:27:00:00:00/24
   manufacturer: Zhuhai Dingzhi Electronic Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZhuhaiDi
 type: d3-device-type-assertion

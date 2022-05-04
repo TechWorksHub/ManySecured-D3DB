@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6a8a0f67-dc36-43fc-9fcb-dc6d4e69b744
-  mac-addresses:
+  id: 4570d5ff-2478-45c7-82d6-21b55b245091
+  macAddresses:
   - A8:D2:36:00:00:00/24
   manufacturer: Lightware Visual Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lightwar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1f4922d0-9f0e-4796-ab56-ea186a76cf4d
-  mac-addresses:
+  id: 9a2e3678-945e-4c4a-b88d-0d90d5e49941
+  macAddresses:
   - 00:08:D7:00:00:00/24
   manufacturer: How Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: How
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e40e9bb6-b7a0-4cc7-a480-e00eb12adaab
-  mac-addresses:
+  id: 5724448c-f158-4656-b4cc-d518a253b1f3
+  macAddresses:
   - 00:52:C8:00:00:00/24
   manufacturer: Made Studio Design Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MadeStud
 type: d3-device-type-assertion

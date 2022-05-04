@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83985f91-2687-467b-a6f7-17f07f1e6321
-  mac-addresses:
+  id: 4ffbf910-ce39-4f6b-98ac-b2bec09c4c3f
+  macAddresses:
   - 00:50:C2:86:10:00/36
   manufacturer: Grantronics Pty Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grantron
 type: d3-device-type-assertion

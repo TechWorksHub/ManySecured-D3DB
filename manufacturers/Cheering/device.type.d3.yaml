@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45d2c780-187d-4e4b-8f12-ab89d4fab79b
-  mac-addresses:
+  id: 43b52281-a557-4f4e-855b-578ccf7ece5c
+  macAddresses:
   - 88:3B:8B:00:00:00/24
   manufacturer: Cheering Connection Co. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cheering
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2995f8a8-9fbb-45c5-866c-edc76e47896b
-  mac-addresses:
+  id: 6052b3c2-3c86-492e-9b15-45505884e7e4
+  macAddresses:
   - 64:32:16:00:00:00/24
   manufacturer: Weidu Technology (Beijing) Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WeiduTec
 type: d3-device-type-assertion

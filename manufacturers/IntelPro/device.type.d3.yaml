@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8b48ed1-4702-43e4-8a1c-f2e8a3a35164
-  mac-addresses:
+  id: c284e22f-d75a-470f-a5fc-28e1ae366656
+  macAddresses:
   - 00:A0:C9:00:00:00/24
   manufacturer: Intel (PRO100B and PRO100+)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IntelPro
 type: d3-device-type-assertion

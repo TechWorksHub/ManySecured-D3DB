@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e6def2e8-217b-4204-9e55-ca03de8e07c6
-  mac-addresses:
+  id: 7c31da7f-ae23-4dc2-aa1d-266ab69e8675
+  macAddresses:
   - 3C:EA:F9:00:00:00/24
   manufacturer: Jubixcoltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Jubixcol
 type: d3-device-type-assertion

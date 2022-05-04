@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7d725e9-02cc-4a41-9920-942e7c6a8707
-  mac-addresses:
+  id: 095ea295-54bc-4f88-b1ea-e13eb6a753dc
+  macAddresses:
   - 70:B3:D5:65:90:00/36
   manufacturer: E2G srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E2G
 type: d3-device-type-assertion

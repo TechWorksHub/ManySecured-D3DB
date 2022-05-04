@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9aee83d-8d25-4f32-94f3-a361f18deba9
-  mac-addresses:
+  id: 1bc7a0db-92e6-46b7-8772-00c440425fdc
+  macAddresses:
   - 00:50:C2:7D:20:00/36
   manufacturer: Bittitalo Oy
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bittital
 type: d3-device-type-assertion

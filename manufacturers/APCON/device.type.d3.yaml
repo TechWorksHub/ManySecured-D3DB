@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e711831a-718c-4152-8821-008e9b986039
-  mac-addresses:
+  id: c22165b7-4505-4b65-9db5-f8264bb3328a
+  macAddresses:
   - 00:50:C2:14:60:00/36
   - D0:89:99:00:00:00/24
   manufacturer: APCON, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APCON
 type: d3-device-type-assertion

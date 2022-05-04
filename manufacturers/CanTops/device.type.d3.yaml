@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7d9dfe16-6123-4fb3-99b8-cdef5de3b6a7
-  mac-addresses:
+  id: 35f7f2d5-5461-4bc2-a33a-759c9af3974e
+  macAddresses:
   - 90:2C:FB:00:00:00/24
   manufacturer: CanTops Co,.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CanTops
 type: d3-device-type-assertion

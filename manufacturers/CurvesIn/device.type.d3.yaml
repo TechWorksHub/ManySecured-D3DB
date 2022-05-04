@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1cee01c-4f21-477c-b8b0-780ffd208f1a
-  mac-addresses:
+  id: 0510c02e-3857-4d67-949d-e6dfc2455693
+  macAddresses:
   - 00:16:07:00:00:00/24
   manufacturer: Curves International Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CurvesIn
 type: d3-device-type-assertion

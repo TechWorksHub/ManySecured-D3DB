@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 31891291-521f-4ff0-97b8-034eaf5dc6ef
-  mac-addresses:
+  id: 6dd85635-8f81-41eb-98a0-73245e0d3762
+  macAddresses:
   - 00:0D:AD:00:00:00/24
   - 00:50:C2:05:00:00/36
   manufacturer: Dataprobe, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dataprob
 type: d3-device-type-assertion

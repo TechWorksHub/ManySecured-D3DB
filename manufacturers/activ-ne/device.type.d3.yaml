@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6acd6ebd-22e2-4bdc-bb99-2996096d70d0
-  mac-addresses:
+  id: fcd05679-08d6-4725-827d-143c3f8dbea9
+  macAddresses:
   - 00:0E:5F:00:00:00/24
   manufacturer: activ-net GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: activ-ne
 type: d3-device-type-assertion

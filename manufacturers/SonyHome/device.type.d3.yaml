@@ -1,10 +1,10 @@
 credentialSubject:
-  id: a3267f20-9d77-4dda-90fc-bbd2d3c2e49a
-  mac-addresses:
+  id: 098666c6-3ff8-41dc-8bef-13c7668232e5
+  macAddresses:
   - 14:3F:A6:00:00:00/24
   - 38:18:4C:00:00:00/24
   - 94:DB:56:00:00:00/24
   manufacturer: Sony Home Entertainment&Sound Products Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SonyHome
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 48d6139a-a090-4d76-a303-4b0fc9899d4a
-  mac-addresses:
+  id: 42f9b60e-2a79-4ab3-94ec-2626b6a22117
+  macAddresses:
   - E0:B2:60:00:00:00/24
   manufacturer: Teno Network Technologies Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TenoNetw
 type: d3-device-type-assertion

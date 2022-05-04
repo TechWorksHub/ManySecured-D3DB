@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de2e7028-a779-46d2-8151-549f5fa2b3aa
-  mac-addresses:
+  id: e49391d4-cf3b-4439-ab81-f314a348d9fa
+  macAddresses:
   - DC:05:ED:00:00:00/24
   manufacturer: Nabtesco Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nabtesco
 type: d3-device-type-assertion

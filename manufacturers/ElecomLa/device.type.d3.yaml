@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ea0cfe07-a9c3-4361-889f-bbf44273d96e
-  mac-addresses:
+  id: 3ccee231-e679-42c5-81f0-bd07dbf7eb7e
+  macAddresses:
   - 00:90:FE:00:00:00/24
   manufacturer: Elecom Co., Ltd. (Laneed Div.)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ElecomLa
 type: d3-device-type-assertion

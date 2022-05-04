@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6109e010-2820-4fa8-9e97-c981a1a6bb78
-  mac-addresses:
+  id: 8fa6c14d-329d-4801-bf67-93589e15e1ea
+  macAddresses:
   - EC:26:FB:00:00:00/24
   manufacturer: Tecc Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tecc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d165551-83df-48dd-9f3a-49239997c09d
-  mac-addresses:
+  id: b78d6956-213f-454a-9c31-89ea70b77284
+  macAddresses:
   - 70:B3:D5:0B:60:00/36
   manufacturer: Landis Gyr
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LandisGy
 type: d3-device-type-assertion

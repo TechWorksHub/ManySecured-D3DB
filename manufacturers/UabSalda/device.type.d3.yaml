@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4dca53b2-e121-4b03-a3e1-8d510a2cd422
-  mac-addresses:
+  id: 2c36dbcf-6d01-457b-a4d9-8afab21b67d5
+  macAddresses:
   - D0:22:12:90:00:00/28
   manufacturer: Uab "Salda"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UabSalda
 type: d3-device-type-assertion

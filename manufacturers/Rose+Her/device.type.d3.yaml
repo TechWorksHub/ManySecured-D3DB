@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc1f5725-0d61-4218-b381-2b2aa3c45993
-  mac-addresses:
+  id: 55f2075d-242a-4de1-9b9f-dd2aef816780
+  macAddresses:
   - 00:1B:C5:01:D0:00/36
   manufacturer: Rose + Herleth GbR
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rose+Her
 type: d3-device-type-assertion

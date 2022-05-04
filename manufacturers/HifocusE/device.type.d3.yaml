@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e5e47457-0311-4975-8223-4144e6f66c10
-  mac-addresses:
+  id: 46952fad-5564-40ae-ab27-a7b0dd3c52fa
+  macAddresses:
   - 70:B3:D5:B2:50:00/36
   - A4:17:52:00:00:00/24
   manufacturer: Hifocus Electronics India Private Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HifocusE
 type: d3-device-type-assertion

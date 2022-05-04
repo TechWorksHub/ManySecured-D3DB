@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af92f275-ec77-4a70-9dcf-fd234edf24e2
-  mac-addresses:
+  id: d8662173-a9a1-410c-95d2-e142baa7fc1f
+  macAddresses:
   - 40:11:75:C0:00:00/28
   manufacturer: disguise Technologies Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: disguise
 type: d3-device-type-assertion

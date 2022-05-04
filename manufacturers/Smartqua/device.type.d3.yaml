@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94a5d94c-690f-4b46-8665-573f327810a0
-  mac-addresses:
+  id: ab0e72f3-4392-4d96-85ef-38fe344b2681
+  macAddresses:
   - 00:50:C2:97:B0:00/36
   manufacturer: Smartquantum Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Smartqua
 type: d3-device-type-assertion

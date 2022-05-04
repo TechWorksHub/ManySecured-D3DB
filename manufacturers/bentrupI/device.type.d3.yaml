@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e949db55-15bc-4b65-8a4b-f6acb315a88d
-  mac-addresses:
+  id: c086283c-3cca-46a9-99e6-3288f6028be3
+  macAddresses:
   - 70:B3:D5:87:00:00/36
   manufacturer: bentrup Industriesteuerungen
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bentrupI
 type: d3-device-type-assertion

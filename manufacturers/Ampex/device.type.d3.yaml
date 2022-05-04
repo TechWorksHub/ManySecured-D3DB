@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 58f189b0-e4e4-4419-9572-6ba041895093
-  mac-addresses:
+  id: bb45047b-3c9e-4019-889b-05adfe441d6f
+  macAddresses:
   - 00:00:4E:00:00:00/24
   manufacturer: Ampex Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ampex
 type: d3-device-type-assertion

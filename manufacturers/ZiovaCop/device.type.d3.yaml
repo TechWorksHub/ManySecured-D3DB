@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83f6875a-e297-4c15-8a05-736eb4f125cb
-  mac-addresses:
+  id: 363dc876-9c46-4725-9b1c-5f4cb04a187f
+  macAddresses:
   - 00:1A:2E:00:00:00/24
   manufacturer: Ziova Coporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZiovaCop
 type: d3-device-type-assertion

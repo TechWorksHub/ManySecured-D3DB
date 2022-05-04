@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 87c79bad-ad60-41c5-ae5d-ad533418ff6f
-  mac-addresses:
+  id: 4bbb9453-cd64-4f95-b9aa-469b3063820c
+  macAddresses:
   - 08:47:D0:00:00:00/24
   - 08:9C:86:00:00:00/24
   - 10:47:38:00:00:00/24
@@ -17,6 +17,6 @@ credentialSubject:
   - DC:D9:AE:00:00:00/24
   - E0:1F:ED:00:00:00/24
   manufacturer: Nokia Shanghai Bell Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NokiaSha
 type: d3-device-type-assertion

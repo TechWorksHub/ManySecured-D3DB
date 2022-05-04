@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24d6b323-d12e-40d7-ae7e-274e4668128d
-  mac-addresses:
+  id: e9ec99c5-ddb8-473d-a8ac-2d231cd54f3c
+  macAddresses:
   - 50:0E:6D:00:00:00/24
   manufacturer: TrafficCast International
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TrafficC
 type: d3-device-type-assertion

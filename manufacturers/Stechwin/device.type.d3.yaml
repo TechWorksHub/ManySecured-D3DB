@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2594e8e0-6916-4791-9f1a-cb4d131a3d5f
-  mac-addresses:
+  id: 8b1ba7d4-957f-4605-af80-68fb7a5792a2
+  macAddresses:
   - 00:1B:C5:02:80:00/36
   manufacturer: Stechwin.Co.Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stechwin
 type: d3-device-type-assertion

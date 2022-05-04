@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 22e14a05-201c-49eb-b31a-d09778fb3290
-  mac-addresses:
+  id: 78379095-6133-42da-b740-f8b9bffacb0d
+  macAddresses:
   - 00:1F:B7:00:00:00/24
   manufacturer: WiMate Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiMateTe
 type: d3-device-type-assertion

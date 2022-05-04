@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d7d2bcd-1748-4370-bcf4-b47d98f80f77
-  mac-addresses:
+  id: 6805ccf1-c7d2-43bb-84ff-3c6be24a18a4
+  macAddresses:
   - 40:11:75:90:00:00/28
   manufacturer: ADH Guardian USA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ADHGuard
 type: d3-device-type-assertion

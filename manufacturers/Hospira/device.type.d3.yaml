@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cb42a545-ed84-43de-9437-aaa565421f80
-  mac-addresses:
+  id: ef78a65f-26b0-4635-9c3e-64bca9703bea
+  macAddresses:
   - 00:03:B1:00:00:00/24
   manufacturer: Hospira Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hospira
 type: d3-device-type-assertion

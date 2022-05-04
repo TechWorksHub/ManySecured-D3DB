@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d5ce6da3-4566-43c2-b6c1-3209125e6373
-  mac-addresses:
+  id: 442e8fd7-1b3e-4536-835d-261a76fd6194
+  macAddresses:
   - A4:B1:EE:00:00:00/24
   manufacturer: H. ZANDER GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HZANDER
 type: d3-device-type-assertion

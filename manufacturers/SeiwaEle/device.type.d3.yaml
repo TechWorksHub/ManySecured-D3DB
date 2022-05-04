@@ -1,9 +1,9 @@
 credentialSubject:
-  id: bada880f-3849-4f37-8dec-4d7ff1b61a36
-  mac-addresses:
+  id: 4ef42049-55b8-4183-bcca-852afef7d7df
+  macAddresses:
   - 00:05:71:00:00:00/24
   - 00:E0:C0:00:00:00/24
   manufacturer: Seiwa Electronics Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SeiwaEle
 type: d3-device-type-assertion

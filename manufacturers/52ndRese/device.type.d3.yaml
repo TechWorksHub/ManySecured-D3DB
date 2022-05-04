@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e30ab1c3-a63e-4593-a4a9-80ba2fe90d82
-  mac-addresses:
+  id: ef07780a-f006-4261-b208-113af47863b8
+  macAddresses:
   - 40:48:FD:50:00:00/28
   manufacturer: The 52nd Research Institute of China Electronic Technology Group Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 52ndRese
 type: d3-device-type-assertion

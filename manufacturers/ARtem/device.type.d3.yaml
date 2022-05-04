@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6aaedb2a-647e-48ae-9220-85eb1ae3d408
-  mac-addresses:
+  id: 5108aea1-d121-4215-933d-f73d0dbe550f
+  macAddresses:
   - 00:01:CD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ARtem
 type: d3-device-type-assertion

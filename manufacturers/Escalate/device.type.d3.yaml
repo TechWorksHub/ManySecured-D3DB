@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb502d6a-6189-47a3-9762-c5552d1351bc
-  mac-addresses:
+  id: f4750455-3d04-46cc-8b79-9ee7edb63644
+  macAddresses:
   - 00:90:F6:00:00:00/24
   manufacturer: Escalate Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Escalate
 type: d3-device-type-assertion

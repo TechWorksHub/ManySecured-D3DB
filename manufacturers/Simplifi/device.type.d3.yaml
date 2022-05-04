@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2bc2f618-648a-406c-ae07-9c5722a875a8
-  mac-addresses:
+  id: f242ae4a-dc3f-4c27-b595-f800ece1f61b
+  macAddresses:
   - 70:B3:D5:66:F0:00/36
   manufacturer: Simplified MFG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Simplifi
 type: d3-device-type-assertion

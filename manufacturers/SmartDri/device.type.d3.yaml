@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a4808e02-2a31-4bbd-a3f7-1e975d0d1f71
-  mac-addresses:
+  id: 6c6abd45-b3a7-4dce-9a89-b1614a219faf
+  macAddresses:
   - 24:D2:CC:00:00:00/24
   manufacturer: SmartDrive Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartDri
 type: d3-device-type-assertion

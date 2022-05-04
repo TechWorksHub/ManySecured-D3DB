@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09ab7303-ca0b-4bf1-9df2-6a3adbbe152e
-  mac-addresses:
+  id: 4aeed9cd-15bf-47f4-9160-a3914324cc8d
+  macAddresses:
   - 5C:00:38:00:00:00/24
   manufacturer: Viasat Group S.p.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ViasatGr
 type: d3-device-type-assertion

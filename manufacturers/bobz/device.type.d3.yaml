@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 722d33e8-139f-4a27-b587-fedd52eead5b
-  mac-addresses:
+  id: f4a69e13-0b39-4fc0-ac8c-c47223adc03b
+  macAddresses:
   - 70:B3:D5:81:B0:00/36
   manufacturer: bobz GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: bobz
 type: d3-device-type-assertion

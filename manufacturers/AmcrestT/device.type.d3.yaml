@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 47240f43-4b0d-48e0-960f-2168421bddf3
-  mac-addresses:
+  id: 28689022-53fc-4872-8c48-555095defe82
+  macAddresses:
   - 9C:8E:CD:00:00:00/24
   manufacturer: Amcrest Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AmcrestT
 type: d3-device-type-assertion

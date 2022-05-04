@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 94c901d4-8e4c-4f3e-980d-7d428e35d759
-  mac-addresses:
+  id: 79b9df69-d4ed-4fb7-bae8-9d0d02813e49
+  macAddresses:
   - 00:F3:DB:00:00:00/24
   manufacturer: WOO Sports
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WOOSport
 type: d3-device-type-assertion

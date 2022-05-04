@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 83c537b7-9814-4855-a22f-6c983ff1ea4c
-  mac-addresses:
+  id: 5faa6525-fa46-4885-906e-f165bcf127cb
+  macAddresses:
   - 08:00:6D:00:00:00/24
   manufacturer: Whitechapel Computer Works
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Whitecha
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7fc277aa-16a1-4e70-86df-96d6421f5e53
-  mac-addresses:
+  id: 3ae07e75-9916-4054-8417-bea5c1af532c
+  macAddresses:
   - 88:FD:15:00:00:00/24
   manufacturer: Lineeye Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lineeye
 type: d3-device-type-assertion

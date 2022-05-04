@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 9f39eafa-e7ea-4c42-84c2-4d762cd47f1f
-  mac-addresses:
+  id: a6c11f53-6861-4382-8aec-8b0a70d4fceb
+  macAddresses:
   - 00:D0:2D:00:00:00/24
   - 48:A2:E6:00:00:00/24
   - 8A:CB:A4:00:00:00/24
   - B8:2C:A0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Resideo
 type: d3-device-type-assertion

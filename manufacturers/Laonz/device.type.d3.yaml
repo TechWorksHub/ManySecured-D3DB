@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 546869a2-d95c-41d3-88df-13198004d70f
-  mac-addresses:
+  id: f3e890e4-3a77-4950-9fc4-95d383ae3ab5
+  macAddresses:
   - A8:3F:A1:C0:00:00/28
   manufacturer: Laonz Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Laonz
 type: d3-device-type-assertion

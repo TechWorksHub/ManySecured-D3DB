@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 953b7c2a-fe7c-4426-bd17-ec8f928cacae
-  mac-addresses:
+  id: be8b8119-d58b-47e2-99d8-1971da0ec6f4
+  macAddresses:
   - 00:00:8B:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Infotron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 72dc80b2-0624-45b4-bb4d-87a6ede25209
-  mac-addresses:
+  id: cd5d61a3-3c38-4ee4-9114-0073b66a3de9
+  macAddresses:
   - 00:0E:AD:00:00:00/24
   manufacturer: Metanoia Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Metanoia
 type: d3-device-type-assertion

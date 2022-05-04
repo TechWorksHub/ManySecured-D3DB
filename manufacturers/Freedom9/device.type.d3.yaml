@@ -1,8 +1,8 @@
 credentialSubject:
-  id: afa87141-e991-4801-a5a6-7dd39b52997c
-  mac-addresses:
+  id: 406645f3-16a8-4ca2-852d-22421940859e
+  macAddresses:
   - 00:17:46:00:00:00/24
   manufacturer: Freedom9 Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Freedom9
 type: d3-device-type-assertion

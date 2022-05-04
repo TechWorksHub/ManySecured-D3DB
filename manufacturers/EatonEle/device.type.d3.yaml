@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 9df89326-b9b5-4348-9fbe-07241c07e57f
-  mac-addresses:
+  id: fa91df19-d8b6-4b44-b1ae-a81aadc005a8
+  macAddresses:
   - 00:22:D5:00:00:00/24
   - 00:50:C2:5A:B0:00/36
   manufacturer: Eaton Corp. Electrical Group Data Center Solutions - Pulizzi
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EatonEle
 type: d3-device-type-assertion

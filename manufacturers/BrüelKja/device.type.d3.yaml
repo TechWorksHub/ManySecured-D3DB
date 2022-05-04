@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f1c691e6-a4dd-4ab9-86cd-779711f4489d
-  mac-addresses:
+  id: ef7d499d-52e6-4bc9-93bf-9ee37ebe3dae
+  macAddresses:
   - 2C:26:5F:90:00:00/28
   manufacturer: "Br\xFCel & Kjaer Vibro GmbH"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: "Br\xFCelKja"
 type: d3-device-type-assertion

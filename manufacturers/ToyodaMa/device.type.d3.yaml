@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7246d2ea-766c-4258-b8fd-59e06f3fe7a8
-  mac-addresses:
+  id: 6cf61aed-3353-440d-9a3f-0836baf86a93
+  macAddresses:
   - 00:60:53:00:00:00/24
   manufacturer: Toyoda Machine Works, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ToyodaMa
 type: d3-device-type-assertion

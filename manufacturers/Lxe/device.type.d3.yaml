@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e57fb5b8-eb7e-4917-8315-1d59283cfb88
-  mac-addresses:
+  id: 099d4b54-01e1-4c0d-9b53-fbe79ec1e9f0
+  macAddresses:
   - 00:40:FD:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Lxe
 type: d3-device-type-assertion

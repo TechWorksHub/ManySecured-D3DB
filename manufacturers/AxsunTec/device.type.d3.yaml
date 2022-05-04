@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3fe6526-32c6-4e3b-b68b-8aac222484f6
-  mac-addresses:
+  id: 978ce6ad-1379-4b4e-b3a6-1e3c3d35e3cd
+  macAddresses:
   - 00:11:CD:00:00:00/24
   manufacturer: Axsun Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxsunTec
 type: d3-device-type-assertion

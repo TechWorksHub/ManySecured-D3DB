@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88c272a4-3809-49d5-9925-407afb217d3e
-  mac-addresses:
+  id: 6a691948-3ae6-4c41-8f2a-7e6b26e976b6
+  macAddresses:
   - 40:D8:55:01:20:00/36
   manufacturer: Sencon Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sencon
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 14e9cf5a-2796-4042-aed2-10f12a22057a
-  mac-addresses:
+  id: f65173f7-5973-4d22-beb8-cf7411ae1e81
+  macAddresses:
   - 00:60:13:00:00:00/24
   manufacturer: Netstal Maschinen Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetstalM
 type: d3-device-type-assertion

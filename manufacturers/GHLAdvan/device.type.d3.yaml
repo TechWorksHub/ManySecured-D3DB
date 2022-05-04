@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 5330434e-432a-48cb-8296-59be7a2b00b2
-  mac-addresses:
+  id: 3e0b018b-c43b-47c4-b50d-0b72dbdf0c32
+  macAddresses:
   - 00:50:C2:B8:10:00/36
   - 74:F8:DB:10:00:00/28
   manufacturer: GHL Advanced Technolgy GmbH & Co. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GHLAdvan
 type: d3-device-type-assertion

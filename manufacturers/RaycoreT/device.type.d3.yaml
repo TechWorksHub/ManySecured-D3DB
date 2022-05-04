@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89845f45-5789-4e2a-a8df-7b60487a8026
-  mac-addresses:
+  id: bda2cea1-7e72-4ef2-a502-3c75e15fa757
+  macAddresses:
   - 08:48:2C:00:00:00/24
   manufacturer: Raycore Taiwan Co., LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RaycoreT
 type: d3-device-type-assertion

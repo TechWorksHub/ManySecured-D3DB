@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 57a3b2e9-ebde-43ca-b521-91fa91cd1680
-  mac-addresses:
+  id: 40a95897-a57f-4eff-b5b8-58ae09bd12c8
+  macAddresses:
   - 70:B3:D5:15:C0:00/36
   manufacturer: Woods Hole Oceanographic Institution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WoodsHol
 type: d3-device-type-assertion

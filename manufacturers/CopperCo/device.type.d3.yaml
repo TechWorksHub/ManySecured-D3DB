@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b1c06cc7-93c1-4adf-b4a0-c06b49452ae1
-  mac-addresses:
+  id: 5bf2a69b-4ea5-4b10-8861-a1b24c48f9e7
+  macAddresses:
   - 00:90:FD:00:00:00/24
   manufacturer: CopperCom, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CopperCo
 type: d3-device-type-assertion

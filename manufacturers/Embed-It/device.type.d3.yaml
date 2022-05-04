@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b29f7672-ea24-4b58-b60d-249569164c4f
-  mac-addresses:
+  id: d8a034c8-3c70-4a3f-a000-46bc96f72313
+  macAddresses:
   - 00:50:C2:CE:E0:00/36
   manufacturer: Embed-It Og
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Embed-It
 type: d3-device-type-assertion

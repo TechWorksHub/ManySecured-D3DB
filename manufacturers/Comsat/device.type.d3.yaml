@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9ec7ffee-daef-402a-ad07-065b6431137c
-  mac-addresses:
+  id: 3ac95bbb-9f91-45ec-bf05-5030adfe1413
+  macAddresses:
   - 00:A0:94:00:00:00/24
   manufacturer: Comsat Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Comsat
 type: d3-device-type-assertion

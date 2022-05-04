@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a67d60ce-8cd5-4f98-8ab4-be791e9ee61b
-  mac-addresses:
+  id: edb09134-2639-4fbc-a380-69b7a50dd877
+  macAddresses:
   - 00:40:08:00:00:00/24
   manufacturer: A Plus Info Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: APlusInf
 type: d3-device-type-assertion

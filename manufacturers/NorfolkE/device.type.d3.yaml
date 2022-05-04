@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7788b98a-e9d7-40c7-b78c-101c03795c57
-  mac-addresses:
+  id: 34eb8868-510a-4a15-a6a4-578658e1f23e
+  macAddresses:
   - 74:2D:0A:00:00:00/24
   manufacturer: Norfolk Elektronik AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NorfolkE
 type: d3-device-type-assertion

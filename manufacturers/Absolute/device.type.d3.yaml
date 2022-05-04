@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 532b9b72-65d8-46f9-9ce1-2385bfa28638
-  mac-addresses:
+  id: 38fe2f05-8e2a-4f5c-8fc2-f8536452e5bd
+  macAddresses:
   - 00:05:84:00:00:00/24
   - 00:50:C2:AF:A0:00/36
   - 1C:C5:86:00:00:00/24
   - 24:BB:C1:00:00:00/24
   manufacturer: AbsoluteValue Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Absolute
 type: d3-device-type-assertion

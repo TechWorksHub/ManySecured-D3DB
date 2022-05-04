@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93ea0675-a496-440f-a134-b8c20124fac0
-  mac-addresses:
+  id: e1d53284-5f76-4bf9-b9ee-22586e2a1499
+  macAddresses:
   - B0:78:70:00:00:00/24
   manufacturer: Wi-NEXT, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wi-NEXT
 type: d3-device-type-assertion

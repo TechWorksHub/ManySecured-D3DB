@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ffd64e44-085d-453f-9dd5-b728e99cdf72
-  mac-addresses:
+  id: e4be0214-3106-4b4a-b431-fd51de04c21b
+  macAddresses:
   - 00:50:C2:F8:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Plda
 type: d3-device-type-assertion

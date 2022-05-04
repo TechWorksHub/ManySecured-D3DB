@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd558f63-494c-4b93-b7ea-49514a2b90d0
-  mac-addresses:
+  id: 2dd78ec1-62aa-45a7-8f5a-959e1cebd43f
+  macAddresses:
   - 74:6A:89:00:00:00/24
   manufacturer: Rezolt Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rezolt
 type: d3-device-type-assertion

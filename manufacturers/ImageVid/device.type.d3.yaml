@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1879eff3-0c12-4ef5-ac42-ab57e08a69b4
-  mac-addresses:
+  id: 08a2f6ca-f0ed-4b7d-a8e0-7b74dba0ccb4
+  macAddresses:
   - 00:50:C2:93:50:00/36
   manufacturer: Image Video
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImageVid
 type: d3-device-type-assertion

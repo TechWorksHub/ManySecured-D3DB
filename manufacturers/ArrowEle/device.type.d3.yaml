@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5610205f-bb66-437b-8c7f-cbb544b6c780
-  mac-addresses:
+  id: 18101713-7966-4827-81a9-240c5fb93675
+  macAddresses:
   - 00:55:DA:D0:00:00/28
   manufacturer: Arrow Electronics,Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArrowEle
 type: d3-device-type-assertion

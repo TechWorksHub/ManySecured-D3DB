@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 755d2e22-cd2d-4c10-8887-d5c0ef97b8e9
-  mac-addresses:
+  id: 680e92e2-8041-4ab9-85f1-4371be154894
+  macAddresses:
   - 70:B3:D5:5A:50:00/36
   manufacturer: Rehwork GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rehwork
 type: d3-device-type-assertion

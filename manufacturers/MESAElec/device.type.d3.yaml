@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 632fc4f1-7cff-4dd9-b3e3-b344d1e3db12
-  mac-addresses:
+  id: dc718392-aa23-4ea0-a628-cb13c7bb4152
+  macAddresses:
   - 40:D8:55:11:50:00/36
   manufacturer: MESA Electronic GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MESAElec
 type: d3-device-type-assertion

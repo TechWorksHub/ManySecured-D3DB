@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d95e742-6f87-489d-ad45-3f48c1b8a4bc
-  mac-addresses:
+  id: 2f3574c3-9933-47ee-adba-d2d8bd278f44
+  macAddresses:
   - B8:BA:72:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cynove
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a19c04cd-daff-414f-b8c4-a6ca02a8fab6
-  mac-addresses:
+  id: c895e072-13ec-4037-a9df-f11778797d40
+  macAddresses:
   - 08:00:66:00:00:00/24
   manufacturer: AGFA
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AgfaPrin
 type: d3-device-type-assertion

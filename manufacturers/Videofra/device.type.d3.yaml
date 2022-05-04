@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0950b52d-e7f9-4ea8-8924-17a55ca6aff3
-  mac-addresses:
+  id: 12832c66-7fcc-46e6-8cf5-59db12ffcf78
+  macAddresses:
   - 00:02:42:00:00:00/24
   manufacturer: Videoframe Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Videofra
 type: d3-device-type-assertion

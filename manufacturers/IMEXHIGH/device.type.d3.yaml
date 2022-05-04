@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f30bc95c-f77d-40e4-949e-575ac4bbc85b
-  mac-addresses:
+  id: 953d9532-6b08-4bcb-9ab7-f63f7b3d5d3a
+  macAddresses:
   - 00:50:C2:94:70:00/36
   manufacturer: IMEXHIGHWAY cvba
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IMEXHIGH
 type: d3-device-type-assertion

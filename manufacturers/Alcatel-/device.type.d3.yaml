@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b7fafeb9-553d-4227-8106-3fb74e9b8788
-  mac-addresses:
+  id: 9b2a7f1f-c991-49dd-8c75-d35538f736ac
+  macAddresses:
   - 00:07:72:00:00:00/24
   - 00:11:8B:00:00:00/24
   - 00:16:4D:00:00:00/24
@@ -47,6 +47,6 @@ credentialSubject:
   - F4:C6:13:00:00:00/24
   - F8:30:94:00:00:00/24
   manufacturer: Alcatel-Lucent Shanghai Bell Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Alcatel-
 type: d3-device-type-assertion

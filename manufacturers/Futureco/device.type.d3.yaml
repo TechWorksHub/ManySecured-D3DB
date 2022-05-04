@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cc51231d-10d9-40be-8d7f-e46fc8507cd0
-  mac-addresses:
+  id: 71a3cb42-2247-4d73-a317-eddca7617c90
+  macAddresses:
   - 84:11:C2:20:00:00/28
   manufacturer: Futurecom Systems Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Futureco
 type: d3-device-type-assertion

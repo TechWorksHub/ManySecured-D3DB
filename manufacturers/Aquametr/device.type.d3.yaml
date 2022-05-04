@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6688a788-f2de-4a35-82bd-e55731126e3b
-  mac-addresses:
+  id: 4556c0b5-4b37-471b-bc6e-3341a369b060
+  macAddresses:
   - F0:23:B9:00:00:00/28
   manufacturer: Aquametro AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Aquametr
 type: d3-device-type-assertion

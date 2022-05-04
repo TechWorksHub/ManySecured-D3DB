@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2afe61f5-d6f3-4fed-9ec2-3eec5f1340ad
-  mac-addresses:
+  id: 065749e2-843e-4f53-9860-a1100b3d74c6
+  macAddresses:
   - 00:A0:5D:00:00:00/24
   manufacturer: CS COMPUTER SYSTEME GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSCOMPUT
 type: d3-device-type-assertion

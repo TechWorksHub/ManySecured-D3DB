@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 179b799d-b63b-42b4-9ec5-56d0d4f0ea21
-  mac-addresses:
+  id: 2ffc1c6b-3739-4edc-a5c8-aadd4863dcd5
+  macAddresses:
   - 44:7B:C4:00:00:00/24
   manufacturer: DualShine Technology(SZ)Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DualShin
 type: d3-device-type-assertion

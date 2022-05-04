@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d64f4753-8437-482c-a5be-e6649123602d
-  mac-addresses:
+  id: ece935d4-c62e-4f54-9ac0-9c996dfa1bed
+  macAddresses:
   - 00:2A:AF:00:00:00/24
   manufacturer: LARsys-Automation GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LARsys-A
 type: d3-device-type-assertion

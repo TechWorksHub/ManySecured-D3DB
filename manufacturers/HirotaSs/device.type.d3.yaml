@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8897248e-07c9-4439-99d3-2cb923273539
-  mac-addresses:
+  id: 76741ecf-2d05-4b15-a039-6f36a00da424
+  macAddresses:
   - 00:0A:BF:00:00:00/24
   manufacturer: Hirota Ss
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HirotaSs
 type: d3-device-type-assertion

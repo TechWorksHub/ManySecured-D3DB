@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 58486eaa-8d4e-4664-970f-63d7461c1390
-  mac-addresses:
+  id: 5c3f0097-13a5-42c7-9c1f-bcd14e6ec0d0
+  macAddresses:
   - 00:09:FB:00:00:00/24
   - 1C:87:74:00:00:00/28
   - 74:1A:E0:30:00:00/28
   manufacturer: Philips Patient Monitoring
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhilipsP
 type: d3-device-type-assertion

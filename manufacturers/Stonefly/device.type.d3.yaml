@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fd564bea-1d93-46b3-b91b-86f344e0e452
-  mac-addresses:
+  id: 32afd13c-ecc5-4e43-abfd-7867ed9f24d6
+  macAddresses:
   - 00:50:C2:11:C0:00/36
   manufacturer: Stonefly Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stonefly
 type: d3-device-type-assertion

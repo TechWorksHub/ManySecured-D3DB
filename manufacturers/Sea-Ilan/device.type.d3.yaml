@@ -1,8 +1,8 @@
 credentialSubject:
-  id: eb066b4c-591c-49bf-b948-6814f2ae3c84
-  mac-addresses:
+  id: d838339e-b57a-453a-bf0b-55047cc2c072
+  macAddresses:
   - 00:40:37:00:00:00/24
   manufacturer: Sea-Ilan, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sea-Ilan
 type: d3-device-type-assertion

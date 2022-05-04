@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 69e6fbb1-67d2-4ee2-9774-09f2686c298b
-  mac-addresses:
+  id: e9c2879a-6fc2-4899-a311-ccf983163178
+  macAddresses:
   - 2C:6A:6F:D0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Holjeron
 type: d3-device-type-assertion

@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a1ab4127-a24c-4d89-976e-5f567ff5223a
-  mac-addresses:
+  id: fdc9a778-b375-4979-b0ce-401ad9c4f56c
+  macAddresses:
   - 00:02:EE:00:00:00/24
   - 00:0E:ED:00:00:00/24
   - 00:11:9F:00:00:00/24
@@ -74,6 +74,6 @@ credentialSubject:
   - A8:7E:33:00:00:00/24
   - C0:38:F9:00:00:00/24
   manufacturer: Nokia Danmark A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NokiaDan
 type: d3-device-type-assertion

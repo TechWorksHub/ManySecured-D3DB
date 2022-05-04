@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 6e7fc3d6-7eee-4daf-9178-c3fb51231a22
-  mac-addresses:
+  id: dfeb86e4-a72e-44dc-9768-980bf8723abd
+  macAddresses:
   - 00:0B:1A:00:00:00/24
   - 00:0B:D8:00:00:00/24
   - 00:0F:18:00:00:00/24
@@ -27,6 +27,6 @@ credentialSubject:
   - 98:66:EA:00:00:00/24
   - FC:E6:6A:00:00:00/24
   manufacturer: Industrial Defender, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Industri
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65e7a672-aa9b-4206-8e45-819936e5e599
-  mac-addresses:
+  id: 1b0aeb08-b440-4841-a645-5a84c2cc507f
+  macAddresses:
   - 00:50:C2:9B:90:00/36
   manufacturer: ISA - Intelligent Sensing Anywhere, S.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISA-Inte
 type: d3-device-type-assertion

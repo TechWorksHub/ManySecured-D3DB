@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4439764b-d6d3-4f85-bd33-fbb8f34ab5bf
-  mac-addresses:
+  id: 2851f78c-a83d-4b39-837a-5172e8aeb50b
+  macAddresses:
   - 00:50:C2:E7:E0:00/36
   manufacturer: Swareflex GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Swarefle
 type: d3-device-type-assertion

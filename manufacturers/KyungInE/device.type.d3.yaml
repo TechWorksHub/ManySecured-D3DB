@@ -1,9 +1,9 @@
 credentialSubject:
-  id: d6618a61-f68b-4ab4-aed9-0470955db74a
-  mac-addresses:
+  id: bebd4dee-9e1a-4480-b9ca-533e14b860db
+  macAddresses:
   - A0:22:4E:00:00:00/28
   - A0:3B:01:00:00:00/24
   manufacturer: Kyung In Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KyungInE
 type: d3-device-type-assertion

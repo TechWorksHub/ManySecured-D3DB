@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b496b65c-ac30-4b91-bfc6-881d63386727
-  mac-addresses:
+  id: 1d1f41ec-ed5d-4af2-8648-1ea950419c9c
+  macAddresses:
   - A4:9B:F5:00:00:00/24
   manufacturer: Hybridserver Tec GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hybridse
 type: d3-device-type-assertion

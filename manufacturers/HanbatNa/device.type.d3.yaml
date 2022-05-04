@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5d4a1aa8-d1b1-4481-96a1-7dc12edd8611
-  mac-addresses:
+  id: 7d7e58a2-d6b8-442b-9ac1-cb82ce126b04
+  macAddresses:
   - 70:B3:D5:FB:E0:00/36
   manufacturer: Hanbat National University
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanbatNa
 type: d3-device-type-assertion

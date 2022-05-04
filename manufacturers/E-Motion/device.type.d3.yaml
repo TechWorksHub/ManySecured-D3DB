@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 832ae97d-e65c-4e7c-987a-7d99500a33b4
-  mac-addresses:
+  id: 723bd262-1809-4dd5-87f7-60d0b5bb0db7
+  macAddresses:
   - 00:50:C2:AC:50:00/36
   manufacturer: E-Motion System, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-Motion
 type: d3-device-type-assertion

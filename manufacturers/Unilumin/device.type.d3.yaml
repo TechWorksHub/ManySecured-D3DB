@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 959e3972-a64f-446c-82aa-348cda0835cb
-  mac-addresses:
+  id: bbbbb44f-9ed4-4ea7-a512-63ce8bf0e509
+  macAddresses:
   - 20:85:93:30:00:00/28
   manufacturer: Unilumin Group Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Unilumin
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a88c4c41-4b0a-4355-8c14-40aff8f4d4b0
-  mac-addresses:
+  id: de94aa36-f22a-46f3-9093-6664d8ff79d3
+  macAddresses:
   - 20:0A:0D:00:00:00/28
   manufacturer: halstrup-walcher GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: halstrup
 type: d3-device-type-assertion

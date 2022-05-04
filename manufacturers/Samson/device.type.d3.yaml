@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0fe6cf9-5418-4563-be9f-994e363348ea
-  mac-addresses:
+  id: b834ada8-427c-417e-9488-e58750506c4d
+  macAddresses:
   - 00:E0:99:00:00:00/24
   manufacturer: Samson Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Samson
 type: d3-device-type-assertion

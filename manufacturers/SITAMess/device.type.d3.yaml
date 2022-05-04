@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ac79d82-1cf4-4f5f-9b02-1c2b18f7eb3b
-  mac-addresses:
+  id: ab674f5f-d256-439a-96a8-45f40412c409
+  macAddresses:
   - 70:B3:D5:53:50:00/36
   manufacturer: SITA Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SITAMess
 type: d3-device-type-assertion

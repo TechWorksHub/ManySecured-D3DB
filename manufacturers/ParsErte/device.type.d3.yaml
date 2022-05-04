@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0a399fa1-5c00-4986-8f27-f97d1088fc91
-  mac-addresses:
+  id: b22308f2-6b1a-4c50-8fa3-444d56642475
+  macAddresses:
   - 90:E2:FC:00:00:00/28
   manufacturer: Pars Ertebat Afzar Co.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ParsErte
 type: d3-device-type-assertion

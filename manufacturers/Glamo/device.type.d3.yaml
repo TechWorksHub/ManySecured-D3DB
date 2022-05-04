@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4ea0140f-c158-40b7-a7d6-a4bde0b292cc
-  mac-addresses:
+  id: 3343b413-41aa-4466-b3c3-7f628fb9f638
+  macAddresses:
   - B8:D8:12:00:00:00/28
   manufacturer: Glamo Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Glamo
 type: d3-device-type-assertion

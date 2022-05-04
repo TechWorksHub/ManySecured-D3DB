@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2c5cd8ce-3919-45aa-b3da-0be8a9da997e
-  mac-addresses:
+  id: 539b26b8-fd33-437c-83e3-27770b1972ab
+  macAddresses:
   - 70:B3:D5:00:60:00/36
   - 70:B3:D5:8C:C0:00/36
   manufacturer: Piranha EMS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PiranhaE
 type: d3-device-type-assertion

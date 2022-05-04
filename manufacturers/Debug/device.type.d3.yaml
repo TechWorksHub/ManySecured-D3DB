@@ -1,8 +1,8 @@
 credentialSubject:
-  id: db6b5754-c43b-4618-8905-b57ea5fc29ee
-  mac-addresses:
+  id: b35517d7-d032-4983-99bb-73374b309a18
+  macAddresses:
   - 40:D8:55:12:40:00/36
   manufacturer: Debug s.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Debug
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: becbafbd-ca2c-4fd6-afcd-c5c5a4eb9cef
-  mac-addresses:
+  id: 7b12650e-deaa-4f47-9917-ed734e981562
+  macAddresses:
   - 00:60:58:00:00:00/24
   manufacturer: Copper Mountain Communications, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CopperMo
 type: d3-device-type-assertion

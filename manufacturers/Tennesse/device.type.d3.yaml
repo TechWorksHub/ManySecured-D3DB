@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6af68cc2-7a07-4169-becd-8a86816e6898
-  mac-addresses:
+  id: 87296c66-7bd4-405e-a51c-bc8283cebb65
+  macAddresses:
   - 00:50:C2:3B:20:00/36
   manufacturer: Tennessee Valley Authority
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tennesse
 type: d3-device-type-assertion

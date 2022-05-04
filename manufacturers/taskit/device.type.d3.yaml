@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 5e8c21e2-05d2-4f7f-9a1e-f8555d83f363
-  mac-addresses:
+  id: 379ceec4-08df-4794-b168-560e95f786ba
+  macAddresses:
   - 00:50:C2:94:90:00/36
   - 00:50:C2:CD:A0:00/36
   - 8C:8E:76:00:00:00/24
   manufacturer: taskit GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: taskit
 type: d3-device-type-assertion

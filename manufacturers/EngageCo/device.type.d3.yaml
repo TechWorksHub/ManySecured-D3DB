@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1e3b1b7a-7fe2-4bb5-afc1-19dc03bc6969
-  mac-addresses:
+  id: b301169f-c1a0-4cc3-8f8f-d9eceff56186
+  macAddresses:
   - 00:C0:F7:00:00:00/24
   manufacturer: Engage Communication, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EngageCo
 type: d3-device-type-assertion

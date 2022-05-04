@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 306cd43a-548e-49ef-9869-e317d7d539c1
-  mac-addresses:
+  id: e03dd52d-abe6-4f6f-b91b-7fc59252b4fa
+  macAddresses:
   - 84:39:BE:20:00:00/28
   manufacturer: Cheng Du virtual world Technology Limited.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChengDuv
 type: d3-device-type-assertion

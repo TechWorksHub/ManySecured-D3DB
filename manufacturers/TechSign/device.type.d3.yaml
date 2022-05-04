@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 820b90bf-2e16-4abb-bb66-7656ba327fa0
-  mac-addresses:
+  id: b656f58c-049e-4b70-aee5-83f3ec95f206
+  macAddresses:
   - 70:B3:D5:0A:20:00/36
   manufacturer: TechSigno srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TechSign
 type: d3-device-type-assertion

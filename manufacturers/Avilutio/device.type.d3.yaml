@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 21dedbb5-c916-44f6-af44-95cba75bca1f
-  mac-addresses:
+  id: ea693acc-a61e-4d4b-ba1a-0b24e8204cb2
+  macAddresses:
   - F4:90:CB:50:00:00/28
   manufacturer: Avilution
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Avilutio
 type: d3-device-type-assertion

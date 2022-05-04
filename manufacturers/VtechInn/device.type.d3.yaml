@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23935dbc-63fe-469f-9269-e2b3718d4159
-  mac-addresses:
+  id: 278b624f-ba06-4916-8383-16810c807f41
+  macAddresses:
   - 00:0D:14:00:00:00/24
   manufacturer: Vtech Innovation LP dba Advanced American Telephones
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VtechInn
 type: d3-device-type-assertion

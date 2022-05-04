@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f88037df-db19-470a-8ac7-f35c242f91de
-  mac-addresses:
+  id: 41d53157-f956-462d-8db5-91a12af680ac
+  macAddresses:
   - 40:D8:55:1B:00:00/36
   manufacturer: Shin-ei Electronic Measuring Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shin-eiE
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c5f4cc51-ffe0-4726-a1d4-784fa593972b
-  mac-addresses:
+  id: 568e24f3-919c-46c2-bc05-3d05fb5a6b08
+  macAddresses:
   - 00:50:C2:66:00:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Izisoft
 type: d3-device-type-assertion

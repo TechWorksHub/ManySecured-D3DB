@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7749fbf6-8893-495e-bbff-3931b9fb971f
-  mac-addresses:
+  id: e112e323-d834-4410-b7fd-dbe3b459d881
+  macAddresses:
   - 88:8E:7F:00:00:00/24
   manufacturer: Atop Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atop
 type: d3-device-type-assertion

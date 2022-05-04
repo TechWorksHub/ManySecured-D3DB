@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a21f7305-a40b-44e3-9c9f-dad2975bdbc9
-  mac-addresses:
+  id: 1142da8a-0b10-4988-bdc8-cd577f2410ef
+  macAddresses:
   - 00:20:AE:00:00:00/24
   manufacturer: Ornet Data Communication Tech.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OrnetDat
 type: d3-device-type-assertion

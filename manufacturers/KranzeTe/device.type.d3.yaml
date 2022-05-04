@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8b6236f1-c6b3-47af-abce-2574c92527cb
-  mac-addresses:
+  id: 080b7ae7-7011-4cb5-8af7-a64b86d2b4dd
+  macAddresses:
   - 70:B3:D5:C1:D0:00/36
   manufacturer: Kranze Technology Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KranzeTe
 type: d3-device-type-assertion

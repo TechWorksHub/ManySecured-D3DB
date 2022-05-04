@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bcf3734-57f4-49f6-8af2-949374af3d17
-  mac-addresses:
+  id: 71098f48-5929-4c0c-9aad-ed3068012b42
+  macAddresses:
   - 70:B3:D5:D6:C0:00/36
   manufacturer: GP Systems GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GP
 type: d3-device-type-assertion

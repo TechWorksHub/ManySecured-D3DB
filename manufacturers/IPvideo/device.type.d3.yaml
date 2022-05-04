@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8eeae441-bc13-42ed-b6f0-2a2e05ff5b87
-  mac-addresses:
+  id: 0eb3fdd3-2957-465f-bdc2-8eda73e25402
+  macAddresses:
   - B0:B3:53:D0:00:00/28
   manufacturer: IPvideo Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IPvideo
 type: d3-device-type-assertion

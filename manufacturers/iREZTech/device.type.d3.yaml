@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bce1b36a-0446-4a89-96cc-6e1c8792a49d
-  mac-addresses:
+  id: 6b74cb6d-8c8c-4b0b-92dc-1d148228a847
+  macAddresses:
   - 00:50:C2:0E:B0:00/36
   manufacturer: iREZ Technologies LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: iREZTech
 type: d3-device-type-assertion

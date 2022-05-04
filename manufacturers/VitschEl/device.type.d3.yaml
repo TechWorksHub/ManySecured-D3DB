@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 77e74f49-63c0-4834-8e1d-15e16d8fa715
-  mac-addresses:
+  id: fe135f76-2ea2-4ab0-bdd6-6828f18f2167
+  macAddresses:
   - 70:B3:D5:6A:80:00/36
   manufacturer: Vitsch Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VitschEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78993b76-2430-46a0-8ba3-d12fb8ba622a
-  mac-addresses:
+  id: a3b226b5-3dda-4e9e-99d9-d0ee6b0c2160
+  macAddresses:
   - 4C:65:A8:C0:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Fuse
 type: d3-device-type-assertion

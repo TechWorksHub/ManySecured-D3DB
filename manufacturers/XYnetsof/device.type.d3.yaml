@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 249f795f-56e4-476a-bff4-9e647f1dc316
-  mac-addresses:
+  id: 9d83e48e-d2f1-4e06-b118-048731317196
+  macAddresses:
   - 00:19:B2:00:00:00/24
   manufacturer: XYnetsoft Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XYnetsof
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0cb61400-1342-4345-ab17-ffd78b2107af
-  mac-addresses:
+  id: fe17d22c-be37-4b11-a30c-ef7d28be3137
+  macAddresses:
   - 54:AE:D2:00:00:00/24
   manufacturer: CSL Dualcom Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CSLDualc
 type: d3-device-type-assertion

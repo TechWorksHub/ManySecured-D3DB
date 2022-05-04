@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79edb83d-00ac-4b51-97b3-159527480058
-  mac-addresses:
+  id: 657a3d40-4cce-4ba2-8996-de4f07bcccc2
+  macAddresses:
   - 00:20:56:00:00:00/24
   manufacturer: Neoproducts
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neoprodu
 type: d3-device-type-assertion

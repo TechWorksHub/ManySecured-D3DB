@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b19dc12a-f240-448d-9ff4-cb9d210b165b
-  mac-addresses:
+  id: fab03a66-c66a-4778-bfaa-5e3fb29f345c
+  macAddresses:
   - 00:1B:C5:06:F0:00/36
   - E8:5A:A7:00:00:00/24
   manufacturer: LLC Emzior
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Emzior
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9a0f5873-f145-481a-87c3-65e8384f2dd9
-  mac-addresses:
+  id: 0a1172e7-3419-4a53-b595-a913b4c224b7
+  macAddresses:
   - 00:16:DD:00:00:00/24
   manufacturer: Gigabeam Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Gigabeam
 type: d3-device-type-assertion

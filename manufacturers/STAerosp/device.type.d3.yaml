@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a5945325-264e-4b3d-884b-81a033a7f2b6
-  mac-addresses:
+  id: 4af81844-9919-4571-a676-9470e19bb156
+  macAddresses:
   - 70:B3:D5:27:F0:00/36
   manufacturer: ST Aerospace Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: STAerosp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 07d85ddc-8bfb-49d1-ac9e-508c8cbb023d
-  mac-addresses:
+  id: 6ae964b8-d4f0-4562-9ca0-cc7280da8450
+  macAddresses:
   - 0A:D9:C4:00:00:00/24
   manufacturer: Craft Designs, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CraftDes
 type: d3-device-type-assertion

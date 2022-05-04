@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d74a16f2-ec57-4568-bbb9-7d3938c8da82
-  mac-addresses:
+  id: c58567bf-77c3-49a8-bd57-e005ffcdf248
+  macAddresses:
   - 94:E7:11:00:00:00/24
   manufacturer: Xirka Dama Persada PT
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XirkaDam
 type: d3-device-type-assertion

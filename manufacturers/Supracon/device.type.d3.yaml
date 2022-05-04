@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91f4a0f1-92c1-4b73-ba15-adc41ee2c36a
-  mac-addresses:
+  id: 7ddbe6c0-8119-4e91-b19c-5182a71bb150
+  macAddresses:
   - 70:B3:D5:5D:30:00/36
   manufacturer: Supracon AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Supracon
 type: d3-device-type-assertion

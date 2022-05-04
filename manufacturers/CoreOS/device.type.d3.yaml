@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 92ae8433-7d66-45e0-b9e6-10b654414fb8
-  mac-addresses:
+  id: 607931d8-c17f-4dbc-b01a-d8ca91d646aa
+  macAddresses:
   - B4:74:47:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoreOS
 type: d3-device-type-assertion

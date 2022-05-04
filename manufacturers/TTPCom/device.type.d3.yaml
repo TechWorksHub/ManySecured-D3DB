@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 19804deb-6ee5-41ef-b033-67b4562c305a
-  mac-addresses:
+  id: 845b6e38-95b0-4db5-92ab-2145f2aea187
+  macAddresses:
   - 00:50:C2:12:90:00/36
   manufacturer: TTPCom Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TTPCom
 type: d3-device-type-assertion

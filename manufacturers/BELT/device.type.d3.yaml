@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb9b5a50-bd97-4ccf-ac59-2c8e91c81d50
-  mac-addresses:
+  id: ee323e0b-6c96-4372-b474-5d654e2ed085
+  macAddresses:
   - 70:B3:D5:E5:50:00/36
   manufacturer: BELT S.r.l.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BELT
 type: d3-device-type-assertion

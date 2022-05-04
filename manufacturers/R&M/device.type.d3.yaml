@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f717cd4a-abfe-4a25-a0f8-77f65ac5da82
-  mac-addresses:
+  id: 3cb3079c-5cc1-4734-95fc-e423303f6efb
+  macAddresses:
   - 34:4F:5C:00:00:00/24
   manufacturer: R&M Ag
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: R&M
 type: d3-device-type-assertion

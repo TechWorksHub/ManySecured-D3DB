@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6697ce35-83e5-49e6-a8e7-5662f1681a12
-  mac-addresses:
+  id: 0c91e901-d830-41ab-bc6a-5893d597f6e7
+  macAddresses:
   - FC:8D:3D:00:00:00/24
   manufacturer: Leapfive Tech. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leapfive
 type: d3-device-type-assertion

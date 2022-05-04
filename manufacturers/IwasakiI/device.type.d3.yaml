@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2a236d0c-11b1-4a96-9fc5-f15b3a28714d
-  mac-addresses:
+  id: 1f6042a2-8cc6-42fd-88d1-73d6366d32f2
+  macAddresses:
   - 00:03:26:00:00:00/24
   manufacturer: Iwasaki Information Systems Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: IwasakiI
 type: d3-device-type-assertion

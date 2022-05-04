@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ed79a3d-26b4-49d1-a55d-b5d85c692e02
-  mac-addresses:
+  id: f276f52a-dbee-4357-92e6-7724c984c8f6
+  macAddresses:
   - E4:A7:FD:00:00:00/24
   manufacturer: Cellco Partnership
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CellcoPa
 type: d3-device-type-assertion

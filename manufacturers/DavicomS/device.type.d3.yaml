@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f5c818a9-da2d-42c8-9bd7-0d66e78378bd
-  mac-addresses:
+  id: eb453578-bd0b-4bf3-b08e-0085b478d869
+  macAddresses:
   - 00:60:6E:00:00:00/24
   manufacturer: Davicom Semiconductor, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DavicomS
 type: d3-device-type-assertion

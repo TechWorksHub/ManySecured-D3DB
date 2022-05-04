@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d31d725-26b5-4d77-b387-1822010bc229
-  mac-addresses:
+  id: f55d50b1-1129-4ed0-a31b-f86d29275744
+  macAddresses:
   - 40:D8:55:04:30:00/36
   manufacturer: SchulerControl GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SchulerC
 type: d3-device-type-assertion

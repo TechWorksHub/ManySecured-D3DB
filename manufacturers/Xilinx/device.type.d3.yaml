@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 960dab3d-1133-4f50-a107-b834a7a6a66a
-  mac-addresses:
+  id: a3f7bc47-6a49-4923-b077-d8843b4ce13e
+  macAddresses:
   - 00:0A:35:00:00:00/24
   - 00:5D:03:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Xilinx
 type: d3-device-type-assertion

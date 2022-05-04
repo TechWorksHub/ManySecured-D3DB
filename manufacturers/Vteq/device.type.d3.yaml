@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 35c06663-28c5-438b-8b95-fe7dcf7b7d1a
-  mac-addresses:
+  id: 73ab4bfe-dcaf-4fe6-aab4-aaa4453b4807
+  macAddresses:
   - 70:B3:D5:B1:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vteq
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 89ba4264-14e6-4205-b546-573f724a8000
-  mac-addresses:
+  id: 82dee112-69e1-40b9-a4b8-fb898257a8f1
+  macAddresses:
   - F8:DA:E2:00:00:00/24
   manufacturer: NDC Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NDCTechn
 type: d3-device-type-assertion

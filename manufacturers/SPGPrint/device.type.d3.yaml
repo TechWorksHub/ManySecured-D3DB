@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c3c0fd3d-44d0-4587-88a4-a6d72098c4ee
-  mac-addresses:
+  id: 46e0c864-b30d-4c81-902a-e1285212dfb5
+  macAddresses:
   - 00:07:D3:00:00:00/24
   manufacturer: SPGPrints B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SPGPrint
 type: d3-device-type-assertion

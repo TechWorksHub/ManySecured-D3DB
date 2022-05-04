@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0f11ad24-11f9-40c2-bcb0-5f11e8fc082d
-  mac-addresses:
+  id: 187ef74d-55f6-4aae-86ab-caff39b8e868
+  macAddresses:
   - 90:46:A2:00:00:00/24
   manufacturer: Tedipay UK Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TedipayU
 type: d3-device-type-assertion

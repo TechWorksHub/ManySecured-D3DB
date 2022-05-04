@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 251f9b40-7d6f-43fe-abf8-d1890c3e8e05
-  mac-addresses:
+  id: 6030945f-38ab-4f0a-9872-522f57ddaa27
+  macAddresses:
   - 00:05:F0:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Satec
 type: d3-device-type-assertion

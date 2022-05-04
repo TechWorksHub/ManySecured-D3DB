@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7c8e6921-d73d-4e1c-bcf8-338eec452be5
-  mac-addresses:
+  id: 783ce954-1f4a-45d5-b02b-fff5f35c2523
+  macAddresses:
   - 00:0A:7F:00:00:00/24
   manufacturer: Teradon Industries, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TeradonI
 type: d3-device-type-assertion

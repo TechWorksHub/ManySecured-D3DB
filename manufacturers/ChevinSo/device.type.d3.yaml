@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 24f6caec-a839-4003-b255-bd1326a3c400
-  mac-addresses:
+  id: 90303c7c-3034-42ea-91a7-5163c37f6129
+  macAddresses:
   - 00:20:8E:00:00:00/24
   manufacturer: Chevin Software Eng. Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChevinSo
 type: d3-device-type-assertion

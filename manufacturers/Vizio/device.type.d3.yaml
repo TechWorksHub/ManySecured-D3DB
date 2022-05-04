@@ -1,6 +1,6 @@
 credentialSubject:
-  id: a6e29e7b-a04c-4dc6-b31b-a571d67c409f
-  mac-addresses:
+  id: 789c2b6f-4d6a-4f86-8467-cec7f946523f
+  macAddresses:
   - 00:19:9D:00:00:00/24
   - 00:6B:9E:00:00:00/24
   - 00:BD:3E:00:00:00/24
@@ -12,6 +12,6 @@ credentialSubject:
   - C4:1C:FF:00:00:00/24
   - CC:95:D7:00:00:00/24
   manufacturer: Vizio, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Vizio
 type: d3-device-type-assertion

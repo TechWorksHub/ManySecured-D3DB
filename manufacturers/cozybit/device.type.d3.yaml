@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cabe6b9e-f053-4925-8b3e-bbb4a64b251b
-  mac-addresses:
+  id: 729e1a9e-0c84-4dca-a17e-659d2efdefb2
+  macAddresses:
   - 4C:22:58:00:00:00/24
   manufacturer: cozybit, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: cozybit
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6ceaf36-df51-482c-8c61-f037f9a0a4b8
-  mac-addresses:
+  id: 58a8882f-6c28-4d98-ab6a-95bb28a641ae
+  macAddresses:
   - 00:05:E8:00:00:00/24
   manufacturer: TurboWave, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TurboWav
 type: d3-device-type-assertion

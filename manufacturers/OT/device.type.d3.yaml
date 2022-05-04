@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 23c7585e-a06e-46cb-8e12-28796ceabc26
-  mac-addresses:
+  id: b211366f-0cd1-46ee-815d-dc86e1d89947
+  macAddresses:
   - 80:34:57:00:00:00/24
   manufacturer: OT Systems Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OT
 type: d3-device-type-assertion

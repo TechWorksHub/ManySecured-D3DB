@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7fbe712-3ef1-44bb-9718-680f25ef6065
-  mac-addresses:
+  id: aafc0748-3912-4ce6-a256-a2e1f4713f3f
+  macAddresses:
   - AC:14:D2:00:00:00/24
   manufacturer: wi-daq, inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: wi-daq
 type: d3-device-type-assertion

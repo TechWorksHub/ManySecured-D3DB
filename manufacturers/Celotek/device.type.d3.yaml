@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d0712c8-6cb5-434b-981c-ca49b15944c5
-  mac-addresses:
+  id: 81872e23-ef1d-4f36-9425-216aa0ba2ddf
+  macAddresses:
   - 00:50:C2:03:F0:00/36
   manufacturer: Celotek Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Celotek
 type: d3-device-type-assertion

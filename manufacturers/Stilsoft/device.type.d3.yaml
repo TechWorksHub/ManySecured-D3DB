@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 805eb302-a25c-4ebd-92ae-7ca5ddc45544
-  mac-addresses:
+  id: 3656bd2f-af93-4c1d-9d5f-e6655893272c
+  macAddresses:
   - 00:1F:62:00:00:00/24
   manufacturer: JSC "Stilsoft"
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stilsoft
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7970234f-2968-42ac-b157-fce71f89586f
-  mac-addresses:
+  id: 473fb3bf-bbf6-4a6c-a766-37049c3ae8a5
+  macAddresses:
   - 18:A5:9C:70:00:00/28
   manufacturer: ePower Network Solution Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ePowerNe
 type: d3-device-type-assertion

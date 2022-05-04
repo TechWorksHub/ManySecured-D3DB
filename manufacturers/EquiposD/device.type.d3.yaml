@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c115d1e-39ed-4594-b042-fc48c4eae410
-  mac-addresses:
+  id: ae03c9c0-4460-412a-a299-c76e94df93b7
+  macAddresses:
   - 70:B3:D5:2B:C0:00/36
   manufacturer: "Equipos De Telecomunicaci\xF3n Optoelectr\xF3nicos, S.A."
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EquiposD
 type: d3-device-type-assertion

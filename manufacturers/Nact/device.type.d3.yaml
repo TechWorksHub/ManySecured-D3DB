@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 397eda87-1ab1-417e-a452-c69ea5cb3f75
-  mac-addresses:
+  id: a35933a1-7d0e-4d40-83b8-1552cfd46efc
+  macAddresses:
   - 00:04:42:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Nact
 type: d3-device-type-assertion

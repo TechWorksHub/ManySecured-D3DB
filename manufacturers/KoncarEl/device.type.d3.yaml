@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e10b7499-e769-418f-93a1-90b3d0aa3473
-  mac-addresses:
+  id: 75f0dd26-07c3-467c-b99c-1bd978005009
+  macAddresses:
   - 00:50:C2:DF:00:00/36
   - 58:46:8F:00:00:00/24
   manufacturer: Koncar Electrical Engineering Institute
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KoncarEl
 type: d3-device-type-assertion

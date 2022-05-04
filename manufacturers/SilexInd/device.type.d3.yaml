@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2ebc171-dd07-44ad-9c41-8cc0f7ce44d3
-  mac-addresses:
+  id: 169167f0-0e0b-4b05-9c00-d2f3a2dd7e5d
+  macAddresses:
   - 00:50:C2:60:80:00/36
   manufacturer: Silex Industrial Automation Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SilexInd
 type: d3-device-type-assertion

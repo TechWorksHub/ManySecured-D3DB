@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 706e6496-4c01-438e-ad19-50d08e1f52d9
-  mac-addresses:
+  id: 42d8b08a-56c2-401a-a28c-a59e90e8c605
+  macAddresses:
   - 00:A0:9E:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ictv
 type: d3-device-type-assertion

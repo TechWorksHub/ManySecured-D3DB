@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 44dbdb4f-a320-4f7a-882d-ee9fd826d98f
-  mac-addresses:
+  id: 022c71df-3616-4185-b369-79b9ee9ceac3
+  macAddresses:
   - 04:EE:E8:20:00:00/28
   manufacturer: Hengke Technology Industry Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HengkeTe
 type: d3-device-type-assertion

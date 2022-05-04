@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 79dec630-cf1d-4da0-a696-706a49bbb12e
-  mac-addresses:
+  id: 4f71aede-5478-4aca-9ca0-2eaaed5baaa6
+  macAddresses:
   - 00:20:92:00:00:00/24
   manufacturer: Chess Engineering B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChessEng
 type: d3-device-type-assertion

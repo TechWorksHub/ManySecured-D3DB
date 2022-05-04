@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 805634d3-28d7-4832-a28e-73b67a5d7723
-  mac-addresses:
+  id: 278ed71e-9aeb-481a-a3c7-3cb601709815
+  macAddresses:
   - 70:B3:D5:A6:D0:00/36
   manufacturer: Metek Meteorologische Messtechnik GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MetekMet
 type: d3-device-type-assertion

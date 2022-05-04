@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 11673ae6-9d29-4a98-b988-6e055fba4750
-  mac-addresses:
+  id: e49059d3-f00f-4ff3-95a5-b9f2d2ae1cc6
+  macAddresses:
   - 70:B3:D5:01:C0:00/36
   manufacturer: Kumu Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KumuNetw
 type: d3-device-type-assertion

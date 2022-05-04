@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3eff1da2-b79f-437c-8321-ec541ad7a873
-  mac-addresses:
+  id: 0f424abd-b6b4-4770-8863-a76ac5ae4bf3
+  macAddresses:
   - 00:1B:C5:0B:10:00/36
   manufacturer: Roslen Eco-Networking Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RoslenEc
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bf677bad-2077-457c-9890-42a3991762b8
-  mac-addresses:
+  id: d0bb4211-7717-4e8f-96af-068b9a15eabb
+  macAddresses:
   - 00:05:EC:00:00:00/24
   manufacturer: Mosaic Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mosaic
 type: d3-device-type-assertion

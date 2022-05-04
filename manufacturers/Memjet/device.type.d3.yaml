@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 296a4799-821f-4180-ab86-9a5e5b63c24c
-  mac-addresses:
+  id: 892a6078-16a0-40d3-94e8-dd5c34856693
+  macAddresses:
   - 84:97:B8:00:00:00/24
   manufacturer: Memjet Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Memjet
 type: d3-device-type-assertion

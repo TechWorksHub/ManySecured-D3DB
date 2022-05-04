@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b23d6900-cde5-4d4e-aa06-fe9a3eb5d579
-  mac-addresses:
+  id: b905eaa5-57e2-49ad-a54e-73b9a1c4aeed
+  macAddresses:
   - 38:B5:D3:00:00:00/24
   manufacturer: SecuWorks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SecuWork
 type: d3-device-type-assertion

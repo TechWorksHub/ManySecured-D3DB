@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 02303140-6c43-4546-b291-4be55b90ad60
-  mac-addresses:
+  id: 11a70fde-fcbe-47ae-98ec-4cd77271f22b
+  macAddresses:
   - 00:09:64:00:00:00/24
   manufacturer: Hi-Techniques, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Hi-Techn
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8e1c9ee7-f861-4c1f-94b0-6bb275779b92
-  mac-addresses:
+  id: 033133fb-d284-449b-a49c-e3e715a31dc0
+  macAddresses:
   - 88:A9:A7:D0:00:00/28
   manufacturer: Avlink Industrial Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AvlinkIn
 type: d3-device-type-assertion

@@ -1,9 +1,9 @@
 credentialSubject:
-  id: fa0b8eeb-3e72-46b4-bbe1-c26bce66ec33
-  mac-addresses:
+  id: edb21dab-ef09-4d0c-8faf-5608fbecf61f
+  macAddresses:
   - 00:08:07:00:00:00/24
   - B0:1F:81:C0:00:00/28
   manufacturer: Access Devices Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AccessDe
 type: d3-device-type-assertion

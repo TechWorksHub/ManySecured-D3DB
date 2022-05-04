@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 09968272-6f79-4818-8d21-1fa750b8e593
-  mac-addresses:
+  id: d7b01134-6668-4d70-9b7c-9b5642102dde
+  macAddresses:
   - 34:D9:54:00:00:00/24
   manufacturer: WiBotic Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiBotic
 type: d3-device-type-assertion

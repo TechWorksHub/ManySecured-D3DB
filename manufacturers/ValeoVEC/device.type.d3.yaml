@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b215a242-2887-4711-b463-a765c5614997
-  mac-addresses:
+  id: a8ee75ae-c52b-40c0-802b-5ecab4830cd3
+  macAddresses:
   - 00:1B:DB:00:00:00/24
   manufacturer: Valeo VECS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ValeoVEC
 type: d3-device-type-assertion

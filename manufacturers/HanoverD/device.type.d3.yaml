@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4de0494a-5ed0-444f-8871-cdfab58a3341
-  mac-addresses:
+  id: b1f1a63c-a98f-4573-af99-1049a0bc9898
+  macAddresses:
   - 18:67:3F:00:00:00/24
   manufacturer: Hanover Displays Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HanoverD
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d40c8c74-281e-42ee-b549-67b5edb44edd
-  mac-addresses:
+  id: 71f19384-5612-4de1-b374-a18e4d145970
+  macAddresses:
   - 70:B3:D5:BE:00:00/36
   manufacturer: Cognosos, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cognosos
 type: d3-device-type-assertion

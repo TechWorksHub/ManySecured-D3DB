@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6c4a7a02-563b-4427-be7b-adaa06e465c3
-  mac-addresses:
+  id: 0017d7d3-dafb-4903-a331-0e17450cc220
+  macAddresses:
   - 00:50:C2:13:30:00/36
   manufacturer: ChipWrights, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ChipWrig
 type: d3-device-type-assertion

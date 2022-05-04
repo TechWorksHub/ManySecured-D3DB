@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 382fd13e-2e83-4b88-a0d9-70d74f775e1f
-  mac-addresses:
+  id: 253cdfec-c9da-4d41-9f2f-03ecbe7df6ed
+  macAddresses:
   - 8C:DE:52:00:00:00/24
   manufacturer: ISSC Technologies Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ISSCTech
 type: d3-device-type-assertion

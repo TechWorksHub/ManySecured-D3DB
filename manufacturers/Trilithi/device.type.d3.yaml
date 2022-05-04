@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 559bab35-eca1-49ac-b2fa-3d13725c1d98
-  mac-addresses:
+  id: ebe65223-dbef-4a19-81fe-b3fce8e15d61
+  macAddresses:
   - 00:02:7C:00:00:00/24
   manufacturer: Trilithic, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Trilithi
 type: d3-device-type-assertion

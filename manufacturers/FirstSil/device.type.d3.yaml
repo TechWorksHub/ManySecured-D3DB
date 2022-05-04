@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 248a1caf-d71f-4541-b925-e876943da632
-  mac-addresses:
+  id: f5a090b2-7fe1-4c73-b670-8537af7a9c82
+  macAddresses:
   - 00:0F:75:00:00:00/24
   manufacturer: First Silicon Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FirstSil
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f635baa5-b1e3-40e1-8ac8-d892c3856121
-  mac-addresses:
+  id: d6fc83ba-1dca-4ba1-82f8-59d509a92364
+  macAddresses:
   - 2C:26:5F:A0:00:00/28
   manufacturer: Polara Engineering
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PolaraEn
 type: d3-device-type-assertion

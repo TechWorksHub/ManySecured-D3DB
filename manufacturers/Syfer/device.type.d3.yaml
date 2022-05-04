@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 51c07b20-0988-4bfc-b7ac-a92842bc9edc
-  mac-addresses:
+  id: 788a4641-b715-41ff-8946-acc726eac3df
+  macAddresses:
   - FC:A4:7A:50:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Syfer
 type: d3-device-type-assertion

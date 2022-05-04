@@ -1,9 +1,9 @@
 credentialSubject:
-  id: b3104ccc-74ba-4cb0-b73a-fc4bb229e7b6
-  mac-addresses:
+  id: 66f6075d-2981-44af-b662-9c3c79707e7a
+  macAddresses:
   - 00:50:C2:90:80:00/36
   - 20:F5:10:00:00:00/24
   manufacturer: Codex Digital Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CodexDig
 type: d3-device-type-assertion

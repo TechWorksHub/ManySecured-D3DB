@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 471d0b41-53e0-4842-98fe-a2f6fe432e97
-  mac-addresses:
+  id: 0c92b62e-5074-4e22-bcb9-ca1ed1fe22fc
+  macAddresses:
   - 00:05:CD:00:00:00/24
   - 00:06:78:00:00:00/24
   - 8C:A9:6F:00:00:00/24
   manufacturer: D&M Holdings Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: D&MHoldi
 type: d3-device-type-assertion

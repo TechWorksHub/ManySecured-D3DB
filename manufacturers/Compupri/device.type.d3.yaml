@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78991489-03ec-4715-9cad-0669fb8090c8
-  mac-addresses:
+  id: cca6632e-82ce-49c3-9cbc-aee0abed3749
+  macAddresses:
   - 00:06:6D:00:00:00/24
   manufacturer: Compuprint S.P.A.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Compupri
 type: d3-device-type-assertion

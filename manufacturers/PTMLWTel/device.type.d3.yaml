@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0d166f7c-ad69-44d7-9f59-c4735592f0be
-  mac-addresses:
+  id: 1c8d1534-16f8-426c-b866-fc4e9259debe
+  macAddresses:
   - E4:95:6E:80:00:00/28
   manufacturer: PT.MLWTelecom
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PTMLWTel
 type: d3-device-type-assertion

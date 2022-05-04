@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2adcf779-d73b-48c5-86c4-a3c8fd025071
-  mac-addresses:
+  id: 9ef80ebc-7706-4b24-aaac-54c0d216a9e2
+  macAddresses:
   - E0:27:1A:00:00:00/24
   manufacturer: TTC Next-generation Home Network System WG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TTCNext-
 type: d3-device-type-assertion

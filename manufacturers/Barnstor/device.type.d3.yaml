@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 39a22ddf-bb6e-4d22-aae7-1646091d034d
-  mac-addresses:
+  id: e8e4e07a-89c2-4baf-add1-8221094b6b67
+  macAddresses:
   - 70:B3:D5:3E:10:00/36
   manufacturer: Barnstormer Softworks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Barnstor
 type: d3-device-type-assertion

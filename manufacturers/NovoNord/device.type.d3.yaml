@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bb1c6791-fc3b-4512-a059-ddac0983473d
-  mac-addresses:
+  id: 17eaf759-bdbd-4249-aff0-06a334d7d518
+  macAddresses:
   - 00:14:65:00:00:00/24
   manufacturer: Novo Nordisk A/S
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NovoNord
 type: d3-device-type-assertion

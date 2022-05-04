@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5b4db50-8fea-4fa7-9a82-a2d9b811534c
-  mac-addresses:
+  id: 55dbce39-1f60-4e01-b826-3e652ac15de3
+  macAddresses:
   - 08:00:6C:00:00:00/24
   manufacturer: Suntek Technology Int'L
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SuntekTe
 type: d3-device-type-assertion

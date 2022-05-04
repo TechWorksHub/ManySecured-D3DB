@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 88398869-f72d-4685-94d9-0b40b23adaf9
-  mac-addresses:
+  id: 53409144-4e49-4690-bb70-858b0d26fec3
+  macAddresses:
   - 00:03:DE:00:00:00/24
   manufacturer: OTC Wireless
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: OTCWirel
 type: d3-device-type-assertion

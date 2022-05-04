@@ -1,9 +1,9 @@
 credentialSubject:
-  id: e74f740f-4525-4140-a543-b8ec149195df
-  mac-addresses:
+  id: c7fac1b9-4fdd-4489-88ae-e6db5798ded6
+  macAddresses:
   - 00:1B:9C:00:00:00/24
   - 00:50:C2:4E:80:00/36
   manufacturer: SATEL sp. z o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SATELsp
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fdbd4bab-3dc2-40d8-b7c5-9e9c1647c7e7
-  mac-addresses:
+  id: 058b7440-5a8b-45f6-8587-5748d1fa0bc3
+  macAddresses:
   - 18:4B:DF:00:00:00/24
   manufacturer: Caavo Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Caavo
 type: d3-device-type-assertion

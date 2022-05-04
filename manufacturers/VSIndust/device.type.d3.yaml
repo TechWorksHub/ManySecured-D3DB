@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b5e27cf7-7e8c-4b69-865a-027eec0d7946
-  mac-addresses:
+  id: 18fbe6e6-0673-49de-827b-886ea93eef0a
+  macAddresses:
   - 00:13:35:00:00:00/24
   manufacturer: VS Industry Berhad
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VSIndust
 type: d3-device-type-assertion

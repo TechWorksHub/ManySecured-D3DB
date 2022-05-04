@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd29658f-61e1-482b-a58e-cba37453e7c8
-  mac-addresses:
+  id: 847b4081-67c9-4c44-baa4-d1e5c0d0a3ca
+  macAddresses:
   - 00:26:CF:00:00:00/24
   manufacturer: Deka R&D
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DekaR&D
 type: d3-device-type-assertion

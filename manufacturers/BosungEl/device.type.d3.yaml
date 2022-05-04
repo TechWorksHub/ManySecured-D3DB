@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a6a2111-8608-4471-a45d-0a0eff43329d
-  mac-addresses:
+  id: fa850eba-1a89-468b-9730-18e33ec65379
+  macAddresses:
   - 1C:AD:D1:00:00:00/24
   manufacturer: Bosung Electronics Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BosungEl
 type: d3-device-type-assertion

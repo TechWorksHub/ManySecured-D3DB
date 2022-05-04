@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 2f717aeb-e812-41d3-a1c2-9cbff809c20a
-  mac-addresses:
+  id: 6f391fd0-e3b9-4281-8cd0-d1c50cef4e45
+  macAddresses:
   - 40:D8:55:1B:40:00/36
   - 58:FC:DB:40:00:00/28
   manufacturer: Inforce Computing Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InforceC
 type: d3-device-type-assertion

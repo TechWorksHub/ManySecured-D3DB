@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5c84cf9d-85e9-4118-acaf-c96dcd0ea563
-  mac-addresses:
+  id: 69c9d442-02e2-454f-8914-4da21f6f5f7d
+  macAddresses:
   - 00:11:91:00:00:00/24
   manufacturer: CTS-Clima Temperatur Systeme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CTS-Clim
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2c08d3b3-f8b6-4533-95b2-badfa416c9a1
-  mac-addresses:
+  id: af6172a1-bd50-40a9-8d30-ac2c2df94b74
+  macAddresses:
   - C4:FF:BC:10:00:00/28
   manufacturer: Visatech C0., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Visatech
 type: d3-device-type-assertion

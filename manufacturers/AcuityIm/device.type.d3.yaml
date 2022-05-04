@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dafb0905-f307-47f9-8c69-5f149cd8f973
-  mac-addresses:
+  id: bc738811-ecc3-44ed-a8eb-c96d861bcecf
+  macAddresses:
   - 00:60:33:00:00:00/24
   manufacturer: Acuity Imaging, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AcuityIm
 type: d3-device-type-assertion

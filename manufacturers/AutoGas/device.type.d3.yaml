@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36225665-214b-4b52-9ab9-f2230cc20de5
-  mac-addresses:
+  id: 1e413955-5e76-4909-86a4-5c29abccad5f
+  macAddresses:
   - 00:A0:F6:00:00:00/24
   manufacturer: AutoGas Systems Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AutoGas
 type: d3-device-type-assertion

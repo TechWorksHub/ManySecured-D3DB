@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3e35c64c-d662-438f-b132-6b15ce959bdc
-  mac-addresses:
+  id: d7d4302d-c856-4d44-a9d8-71fe6c8e33ad
+  macAddresses:
   - 70:B3:D5:14:D0:00/36
   manufacturer: 2-Observe
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 2-Observ
 type: d3-device-type-assertion

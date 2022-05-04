@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 55e199ae-bdbc-451c-9d41-c7eae55b2eb1
-  mac-addresses:
+  id: d9156ba7-588d-4f21-a500-79fcc6efe327
+  macAddresses:
   - 80:02:F4:10:00:00/28
   manufacturer: Sichuan lookout environment protection technology co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sichuanl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7bd1c0cd-fd45-4b32-a69a-655d9ef6863f
-  mac-addresses:
+  id: 0d16720f-76e8-4441-aa28-43f150c226f8
+  macAddresses:
   - AC:BD:0B:00:00:00/24
   manufacturer: Leimac Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Leimac
 type: d3-device-type-assertion

@@ -1,12 +1,12 @@
 credentialSubject:
-  id: eebb93fb-57eb-4659-85e0-c3a197f84f6b
-  mac-addresses:
+  id: 235f46d5-c6cc-442b-bae2-dfc07008149a
+  macAddresses:
   - 00:20:EA:00:00:00/24
   - 00:50:C2:2F:40:00/36
   - 00:50:C2:47:A0:00/36
   - 00:50:C2:70:A0:00/36
   - 44:A9:2C:70:00:00/28
   manufacturer: Efficient Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Efficien
 type: d3-device-type-assertion

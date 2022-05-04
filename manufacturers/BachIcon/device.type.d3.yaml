@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b84533b-fb5f-444c-9238-1c9fb352a449
-  mac-addresses:
+  id: 819aa77f-c3ca-4aa2-929a-675dd185f724
+  macAddresses:
   - 74:19:F8:C0:00:00/28
   manufacturer: Bach Icon ApS
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BachIcon
 type: d3-device-type-assertion

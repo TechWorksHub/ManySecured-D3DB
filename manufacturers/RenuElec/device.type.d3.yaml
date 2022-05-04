@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 25b3d916-304f-4f37-9129-36d6f12c2ef9
-  mac-addresses:
+  id: 484acc48-2ac0-4c03-8bc8-f56ae790685f
+  macAddresses:
   - 00:17:F1:00:00:00/24
   manufacturer: Renu Electronics Pvt Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RenuElec
 type: d3-device-type-assertion

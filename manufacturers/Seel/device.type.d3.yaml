@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f16d5db9-6ad5-492a-9a94-b86f66d780b1
-  mac-addresses:
+  id: 5924f639-a048-4b0e-9e0a-5922f119327d
+  macAddresses:
   - 00:C0:A7:00:00:00/24
   manufacturer: Seel Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Seel
 type: d3-device-type-assertion

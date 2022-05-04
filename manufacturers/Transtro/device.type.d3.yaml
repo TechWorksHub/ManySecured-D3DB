@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ce6261ca-f6f0-47e3-a736-5cc677a97279
-  mac-addresses:
+  id: 52c49141-14bf-4f63-8e3b-0878bde2579c
+  macAddresses:
   - 70:B3:D5:EC:A0:00/36
   manufacturer: Transtronic AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Transtro
 type: d3-device-type-assertion

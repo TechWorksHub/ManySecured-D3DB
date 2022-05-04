@@ -1,8 +1,8 @@
 credentialSubject:
-  id: de262bf4-025f-41fe-bdd9-87cea1983515
-  mac-addresses:
+  id: 65e1a65d-6125-48bc-a468-366fb2c91a34
+  macAddresses:
   - 70:B3:D5:BD:70:00/36
   manufacturer: TT Group SRL
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TTGroup
 type: d3-device-type-assertion

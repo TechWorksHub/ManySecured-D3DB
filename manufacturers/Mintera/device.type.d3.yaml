@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ee57085b-c728-4de3-af67-fc92b3f95767
-  mac-addresses:
+  id: 27fb1b64-28b2-48d3-b127-bf25223427a4
+  macAddresses:
   - 00:0C:A6:00:00:00/24
   manufacturer: Mintera Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Mintera
 type: d3-device-type-assertion

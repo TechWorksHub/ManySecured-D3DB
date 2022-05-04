@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b2581268-19a2-43c5-9260-a87a90d88504
-  mac-addresses:
+  id: 68793474-3642-4f49-baf2-2a5d3df9c400
+  macAddresses:
   - 00:17:20:00:00:00/24
   manufacturer: Image Sensing Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImageSen
 type: d3-device-type-assertion

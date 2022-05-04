@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 65a64873-37e5-4e7a-a9d4-50e0e1afeac7
-  mac-addresses:
+  id: 59b07cf3-a714-45ef-bc36-8028f282e0b5
+  macAddresses:
   - 00:0B:C2:00:00:00/24
   manufacturer: Corinex Communication Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CorinexC
 type: d3-device-type-assertion

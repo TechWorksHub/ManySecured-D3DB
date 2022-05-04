@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc230da8-2136-4d2f-8cd4-f1968f93a54b
-  mac-addresses:
+  id: 7d35aa45-db36-4829-88f2-48af0672fab1
+  macAddresses:
   - 70:B3:D5:2E:70:00/36
   manufacturer: Atos spa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atos
 type: d3-device-type-assertion

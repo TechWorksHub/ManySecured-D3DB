@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ff267ed7-6ed2-4911-8f14-ce505bda621d
-  mac-addresses:
+  id: b08c1d90-6b2c-497b-9d4e-abf93d17b7cb
+  macAddresses:
   - 40:D8:55:1A:E0:00/36
   manufacturer: Autonomous Solutions, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Autonomo
 type: d3-device-type-assertion

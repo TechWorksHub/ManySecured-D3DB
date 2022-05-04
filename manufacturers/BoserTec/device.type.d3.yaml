@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 104b545c-50be-483b-b77a-f752eb935de2
-  mac-addresses:
+  id: e577bd9f-1f8a-4584-96d8-1cdf9777a6c3
+  macAddresses:
   - 00:50:B7:00:00:00/24
   manufacturer: Boser Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BoserTec
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b6aaffa9-1a6d-484f-8979-efd61c15abc0
-  mac-addresses:
+  id: 20508da5-a037-409d-8ac7-49c5cefd4dba
+  macAddresses:
   - 00:00:FD:00:00:00/24
   manufacturer: High Level Hardware (Orion, UK)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HighLeve
 type: d3-device-type-assertion

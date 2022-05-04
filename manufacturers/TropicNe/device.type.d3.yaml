@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20b6afad-8fab-4012-b8a3-1346c492ba9e
-  mac-addresses:
+  id: 485ad951-6e96-4570-892e-cb0fcee2e47b
+  macAddresses:
   - 00:08:8B:00:00:00/24
   manufacturer: Tropic Networks Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TropicNe
 type: d3-device-type-assertion

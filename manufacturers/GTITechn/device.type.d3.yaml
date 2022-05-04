@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8af88602-55d2-475e-b274-919960d17422
-  mac-addresses:
+  id: 0789fe8a-3bd1-4479-9b06-9447bb6abe63
+  macAddresses:
   - 70:B3:D5:B5:A0:00/36
   manufacturer: GTI Technologies Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GTITechn
 type: d3-device-type-assertion

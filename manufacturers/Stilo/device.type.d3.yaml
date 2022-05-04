@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d60d40c9-07a2-4744-8a35-631ab3270da6
-  mac-addresses:
+  id: 69612173-70d1-4006-a7bb-f71c2314c8f2
+  macAddresses:
   - 00:1F:A6:00:00:00/24
   manufacturer: Stilo srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Stilo
 type: d3-device-type-assertion

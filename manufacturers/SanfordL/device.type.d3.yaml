@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a6798965-7bbc-44a4-941a-cdf721d5abe4
-  mac-addresses:
+  id: 43e2a245-718c-4e9f-b2e0-7102bbd81a9b
+  macAddresses:
   - F8:5A:00:00:00:00/24
   manufacturer: Sanford LP
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SanfordL
 type: d3-device-type-assertion

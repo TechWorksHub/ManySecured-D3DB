@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 2ea46e8d-e2e1-4822-9a47-17eb3c755d7f
-  mac-addresses:
+  id: 75634b03-bdf1-4977-92ea-cc63bc5e6b34
+  macAddresses:
   - 14:52:90:00:00:00/24
   - A0:C5:F2:10:00:00/28
   - B4:7D:76:00:00:00/24
   manufacturer: KNS Group LLC (YADRO Company)
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KNSGroup
 type: d3-device-type-assertion

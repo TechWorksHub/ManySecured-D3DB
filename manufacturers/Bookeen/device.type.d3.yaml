@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 009e9eab-1b03-4dc7-8752-96eca1349dcf
-  mac-addresses:
+  id: 1cd3df1f-9eac-4de8-990c-aa6337881104
+  macAddresses:
   - 90:D7:4F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Bookeen
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0925b13e-5037-4b8b-ba85-67161a358b98
-  mac-addresses:
+  id: 942b457a-5f9e-4d9e-858e-79a54862c4b6
+  macAddresses:
   - F0:26:24:00:00:00/24
   manufacturer: Wafa Technologies Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WafaTech
 type: d3-device-type-assertion

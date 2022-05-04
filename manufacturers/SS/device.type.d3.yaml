@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 649d5130-7b68-4ded-99c4-fd50075472c0
-  mac-addresses:
+  id: 1d1bbfd2-6c00-43f4-9f49-69f5a8cd970d
+  macAddresses:
   - 00:50:C2:BD:C0:00/36
   manufacturer: SS Systems LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SS
 type: d3-device-type-assertion

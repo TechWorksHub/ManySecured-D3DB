@@ -1,8 +1,8 @@
 credentialSubject:
-  id: c95edf2e-0b39-4f24-836a-f3822149fbbc
-  mac-addresses:
+  id: 7f1f724a-b26f-417e-9009-536e2d1ba21b
+  macAddresses:
   - C8:56:45:00:00:00/24
   manufacturer: Intermas France
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Intermas
 type: d3-device-type-assertion

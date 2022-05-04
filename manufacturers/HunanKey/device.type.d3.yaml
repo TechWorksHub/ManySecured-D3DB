@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5f30df20-9c08-482c-b1c2-5c6df2a42f15
-  mac-addresses:
+  id: 64f171a3-a259-42a4-a55e-272b7b45e263
+  macAddresses:
   - CC:EF:03:00:00:00/24
   manufacturer: Hunan Keyshare Communication Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HunanKey
 type: d3-device-type-assertion

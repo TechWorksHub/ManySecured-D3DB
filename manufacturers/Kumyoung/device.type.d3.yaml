@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f3d54c4-c8e3-4ae3-80fc-741f97f746fb
-  mac-addresses:
+  id: b18d3822-9596-4ffe-b1b5-df63c6a153c7
+  macAddresses:
   - 00:13:8C:00:00:00/24
   manufacturer: Kumyoung.Co.Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kumyoung
 type: d3-device-type-assertion

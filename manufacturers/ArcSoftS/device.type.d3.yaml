@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0afaaff-a027-4084-b97b-d701f2e406f3
-  mac-addresses:
+  id: 3686da87-e374-4e80-ade0-03a20c0cf9a7
+  macAddresses:
   - 00:18:03:00:00:00/24
   manufacturer: ArcSoft Shanghai Co. LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ArcSoftS
 type: d3-device-type-assertion

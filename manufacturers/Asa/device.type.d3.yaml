@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8201916c-1d71-47ec-8e8e-452d2bd5610e
-  mac-addresses:
+  id: b8e0f7de-0f01-4e6d-80f5-23c71b7ceeec
+  macAddresses:
   - 00:08:C0:00:00:00/24
   manufacturer: Asa Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Asa
 type: d3-device-type-assertion

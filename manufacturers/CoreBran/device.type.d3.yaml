@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d643cb4-aca5-4207-a9cb-a5ea2e7aec5c
-  mac-addresses:
+  id: aedbe618-c5b2-442e-acec-bdfad26f27fb
+  macAddresses:
   - F8:57:2E:00:00:00/24
   manufacturer: Core Brands, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoreBran
 type: d3-device-type-assertion

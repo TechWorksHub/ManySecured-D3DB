@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 80440b1f-5447-41aa-8667-2125c7620092
-  mac-addresses:
+  id: 06595e0c-c24b-43f6-ac1c-802b3f5caf42
+  macAddresses:
   - 70:B3:D5:7E:70:00/36
   manufacturer: Atessa, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Atessa
 type: d3-device-type-assertion

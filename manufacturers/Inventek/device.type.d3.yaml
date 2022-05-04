@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 36d055f1-353f-4b44-8b05-16657f301392
-  mac-addresses:
+  id: e3520f92-8879-4ae9-b4b1-5608a6d5541b
+  macAddresses:
   - C4:7F:51:00:00:00/24
   manufacturer: Inventek Systems
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Inventek
 type: d3-device-type-assertion

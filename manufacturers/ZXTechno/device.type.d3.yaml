@@ -1,8 +1,8 @@
 credentialSubject:
-  id: bc04e25e-ed81-4eb0-8fe7-099fa552446a
-  mac-addresses:
+  id: 7d2476aa-4ddc-4875-9d77-65f8a5e46a6d
+  macAddresses:
   - 00:E0:4A:00:00:00/24
   manufacturer: ZX Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ZXTechno
 type: d3-device-type-assertion

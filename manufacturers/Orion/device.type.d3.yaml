@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 41493593-5441-4f43-a1a3-1f155b9f2899
-  mac-addresses:
+  id: cb530c0a-859b-45b4-aacf-19f78ab402dd
+  macAddresses:
   - 40:D8:55:1B:80:00/36
   - 70:B3:D5:41:F0:00/36
   - 70:B3:D5:97:A0:00/36
   manufacturer: Orion Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Orion
 type: d3-device-type-assertion

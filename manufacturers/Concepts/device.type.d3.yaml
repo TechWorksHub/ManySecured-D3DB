@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e1f53184-3678-4d7c-9656-9bbd8efe7437
-  mac-addresses:
+  id: e1ba2878-0869-4d92-ad59-4fc4ea5c41de
+  macAddresses:
   - 08:00:58:00:00:00/24
   manufacturer: Systems Concepts
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Concepts
 type: d3-device-type-assertion

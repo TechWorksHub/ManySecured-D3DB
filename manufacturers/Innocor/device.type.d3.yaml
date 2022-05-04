@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fc6d70a3-c1d8-4cad-8619-80c60f87e41f
-  mac-addresses:
+  id: 12b7677d-6c4b-49f6-9d09-b0962d129502
+  macAddresses:
   - 00:50:C2:02:D0:00/36
   manufacturer: Innocor LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Innocor
 type: d3-device-type-assertion

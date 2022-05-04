@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 05731375-3ddb-4f45-85ed-9cce855a7b7f
-  mac-addresses:
+  id: 80525e78-3fe2-40ce-ae9e-aee9c37319ff
+  macAddresses:
   - 00:0D:41:00:00:00/24
   - 00:1B:C5:07:00:00/36
   - 68:1F:D8:00:00:00/24
@@ -10,6 +10,6 @@ credentialSubject:
   - 8C:F3:19:00:00:00/24
   - E0:DC:A0:00:00:00/24
   manufacturer: Siemens AG ICM MP UC RD IT KLF1
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SiemensI
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 95116b73-e29d-47b0-bf25-c9a7b9ac9a4c
-  mac-addresses:
+  id: 1e00978f-9721-4047-8dd7-4e3e27f95b66
+  macAddresses:
   - 08:00:87:00:00:00/24
   manufacturer: Xyplex
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XyplexTe
 type: d3-device-type-assertion

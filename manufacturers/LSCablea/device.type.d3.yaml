@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dcb97abf-f78f-42aa-a643-cf156fa38542
-  mac-addresses:
+  id: 1b62f82b-02bd-41e8-a2ae-126afeda933f
+  macAddresses:
   - 00:19:D6:00:00:00/24
   manufacturer: LS Cable and System Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LSCablea
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 510c1c95-cb68-412c-97e0-c4df552b56c6
-  mac-addresses:
+  id: 540da5f3-b669-411f-baa1-ca008ea21fb3
+  macAddresses:
   - 00:80:D5:00:00:00/24
   manufacturer: Cadre Technologies
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CadreTec
 type: d3-device-type-assertion

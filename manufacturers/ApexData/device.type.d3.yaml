@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52bcce0a-feec-4c96-8401-11a8496fdc8c
-  mac-addresses:
+  id: f782cbbe-b2a1-45c7-ace5-207c915c9267
+  macAddresses:
   - 00:20:E5:00:00:00/24
   manufacturer: Apex Data
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ApexData
 type: d3-device-type-assertion

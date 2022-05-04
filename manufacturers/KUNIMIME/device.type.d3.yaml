@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31b313f8-2746-415c-94a9-09ea29712882
-  mac-addresses:
+  id: 1c5cd604-c67a-4cf5-a679-71f0ead0cc32
+  macAddresses:
   - 00:25:74:00:00:00/24
   manufacturer: KUNIMI MEDIA DEVICE Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KUNIMIME
 type: d3-device-type-assertion

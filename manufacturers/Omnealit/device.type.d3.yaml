@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d148ad17-b9af-478a-b799-c645e4286cbd
-  mac-addresses:
+  id: 20736901-94e2-4af4-96b7-e7c11bf1436e
+  macAddresses:
   - 58:3C:C6:00:00:00/24
   manufacturer: Omneality Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Omnealit
 type: d3-device-type-assertion

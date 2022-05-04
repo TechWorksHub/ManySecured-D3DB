@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5666f883-ecf9-431b-9d0e-f9c533d224b0
-  mac-addresses:
+  id: 2fbc6fee-d10a-41d8-82be-5ea17eec9b22
+  macAddresses:
   - 00:0D:40:00:00:00/24
   manufacturer: Verint Loronix Video Solutions
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VerintLo
 type: d3-device-type-assertion

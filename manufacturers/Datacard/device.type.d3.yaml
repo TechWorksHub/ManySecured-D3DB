@@ -1,8 +1,8 @@
 credentialSubject:
-  id: dc5b761c-fbdf-4c4f-9a67-4c732ebc9eab
-  mac-addresses:
+  id: ff64f941-9f33-41b7-a20d-cd3e2d5db82f
+  macAddresses:
   - 00:02:4E:00:00:00/24
   manufacturer: Datacard Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Datacard
 type: d3-device-type-assertion

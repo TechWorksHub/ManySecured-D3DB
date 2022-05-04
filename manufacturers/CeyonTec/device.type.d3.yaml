@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f6ee4528-0f95-442f-ad12-358adbeb38d6
-  mac-addresses:
+  id: 9445d874-794a-41fe-b93d-1fed853667d8
+  macAddresses:
   - 00:16:02:00:00:00/24
   manufacturer: Ceyon Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CeyonTec
 type: d3-device-type-assertion

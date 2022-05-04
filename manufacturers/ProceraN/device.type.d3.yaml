@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d2a641f7-98b6-4ef6-afd3-7395f99dbb8b
-  mac-addresses:
+  id: ea55718c-7a6b-497b-b71a-a756a3ef240b
+  macAddresses:
   - 00:0A:37:00:00:00/24
   manufacturer: Procera Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ProceraN
 type: d3-device-type-assertion

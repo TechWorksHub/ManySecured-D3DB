@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1729412d-c76e-4af8-a430-824f29a43082
-  mac-addresses:
+  id: 3b1966bd-f84e-4c9a-b988-f48ef960c391
+  macAddresses:
   - 00:00:5E:00:00:00/24
   manufacturer: ICANN, IANA Department
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ICANNIAN
 type: d3-device-type-assertion

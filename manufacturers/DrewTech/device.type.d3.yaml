@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 563436f1-93ea-4f8d-97bb-0b7cbe682946
-  mac-addresses:
+  id: 5a6df06a-d224-45a7-9460-8687d3fd9e58
+  macAddresses:
   - 00:04:D1:00:00:00/24
   manufacturer: Drew Technologies, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DrewTech
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6ddea46d-f518-411f-986d-44ddcd924c05
-  mac-addresses:
+  id: 8519e027-2f87-4cd8-984a-91dc2b482dda
+  macAddresses:
   - 00:0B:53:00:00:00/24
   manufacturer: INITIUM Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INITIUM
 type: d3-device-type-assertion

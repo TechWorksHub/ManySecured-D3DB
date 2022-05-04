@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8d0eac00-bd30-44ec-a416-f1391c070680
-  mac-addresses:
+  id: 87396210-99fd-4de6-a8b8-d02e0b2cf2cf
+  macAddresses:
   - 00:18:20:00:00:00/24
   manufacturer: w5networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: w5networ
 type: d3-device-type-assertion

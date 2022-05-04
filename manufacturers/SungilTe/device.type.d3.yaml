@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d0da7ff6-05d9-41b3-95e0-c6ebab933fcd
-  mac-addresses:
+  id: 6b847289-c36e-41a8-bd2a-a56a06bd38ed
+  macAddresses:
   - 00:07:79:00:00:00/24
   manufacturer: Sungil Telecom Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SungilTe
 type: d3-device-type-assertion

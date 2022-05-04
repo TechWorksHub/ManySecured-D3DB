@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 15d8811c-f261-49fb-a236-2cc53f081d0c
-  mac-addresses:
+  id: a55d1675-6c66-48fa-b691-2f191eeea650
+  macAddresses:
   - 00:12:89:00:00:00/24
   manufacturer: Advance Sterilization Products
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AdvanceS
 type: d3-device-type-assertion

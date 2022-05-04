@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d66c6d9-a278-4bd2-98d2-be68059d40a2
-  mac-addresses:
+  id: d108d3a3-1f97-40e9-98bc-cf8dcb8b0ac2
+  macAddresses:
   - 00:17:2E:00:00:00/24
   manufacturer: FXC Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FXC
 type: d3-device-type-assertion

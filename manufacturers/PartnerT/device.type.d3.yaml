@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0bf70f15-4a04-4c11-a20d-40d344a18bc4
-  mac-addresses:
+  id: cfe7ea96-2eeb-43db-a7fa-95f0231947b7
+  macAddresses:
   - 00:0C:D6:00:00:00/24
   manufacturer: Partner Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PartnerT
 type: d3-device-type-assertion

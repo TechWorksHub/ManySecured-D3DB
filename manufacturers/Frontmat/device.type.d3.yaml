@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e7e4d479-8e00-4603-b331-6cb53e7fbb6a
-  mac-addresses:
+  id: 940f7ff3-945f-415f-9208-53e466b1c850
+  macAddresses:
   - 8C:51:09:90:00:00/28
   manufacturer: Frontmatec
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Frontmat
 type: d3-device-type-assertion

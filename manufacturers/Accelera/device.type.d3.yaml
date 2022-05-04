@@ -1,9 +1,9 @@
 credentialSubject:
-  id: 4088f9da-688d-4329-a962-a30eac02785a
-  mac-addresses:
+  id: d0b4686e-8fd0-44d3-b744-7dcfc82a818f
+  macAddresses:
   - 00:10:26:00:00:00/24
   - 00:27:04:00:00:00/24
   manufacturer: Accelerated Networks, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Accelera
 type: d3-device-type-assertion

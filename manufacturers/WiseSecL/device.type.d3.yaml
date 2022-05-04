@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3ad43342-f9aa-4bbe-ba07-d07031e10b24
-  mac-addresses:
+  id: ae46ffc6-fa60-4a50-b1c0-25107488faa9
+  macAddresses:
   - A8:FB:70:00:00:00/24
   manufacturer: WiseSec L.t.d
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WiseSecL
 type: d3-device-type-assertion

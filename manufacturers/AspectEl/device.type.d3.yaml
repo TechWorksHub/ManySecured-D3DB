@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1d9c3b93-99d0-4dd3-a59d-8c2ff4f4462e
-  mac-addresses:
+  id: ec535521-3b80-4d9a-bc75-c1bb18f7a1de
+  macAddresses:
   - 00:90:AD:00:00:00/24
   manufacturer: Aspect Electronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AspectEl
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7e9dc4b8-ad53-47f2-92fb-2dd0d487bcd0
-  mac-addresses:
+  id: bf45cfff-0132-45c2-bafe-02a18f80ea2f
+  macAddresses:
   - 98:27:82:90:00:00/28
   manufacturer: Wuxi GuoYiHaiJu Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WuxiGuoY
 type: d3-device-type-assertion

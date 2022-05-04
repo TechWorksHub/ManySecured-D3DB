@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 8ac83cfa-9765-4ad7-b7e9-0f77b61009d7
-  mac-addresses:
+  id: b80638e8-e805-42ea-8e88-d58988f78243
+  macAddresses:
   - 00:50:C2:0F:C0:00/36
   manufacturer: Kimmon Manufacturing Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KimmonMa
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a8204d19-0aca-447b-a604-c287732f5654
-  mac-addresses:
+  id: 7094dfda-a795-42b3-99d3-029236e14ed6
+  macAddresses:
   - 08:00:13:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Exxon
 type: d3-device-type-assertion

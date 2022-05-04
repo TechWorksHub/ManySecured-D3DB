@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a101d613-5e59-49f3-a9b6-db9c2f694a02
-  mac-addresses:
+  id: a2f24f7c-950d-4969-bb36-9e515f8887ff
+  macAddresses:
   - 74:B0:0C:00:00:00/24
   manufacturer: Network Video Technologies, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NetworkV
 type: d3-device-type-assertion

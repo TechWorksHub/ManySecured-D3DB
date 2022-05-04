@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae185702-0112-427a-9a19-5e5329e4c4c3
-  mac-addresses:
+  id: cd104034-57a2-4fe1-b33f-7af90792a345
+  macAddresses:
   - 7C:43:8F:00:00:00/24
   manufacturer: E-Band Communications Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: E-BandCo
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a9adfc81-addc-4716-bdcc-f8ad97cfc64d
-  mac-addresses:
+  id: a4065200-fa33-4838-8803-950b98ac4b6b
+  macAddresses:
   - 00:11:F3:00:00:00/24
   manufacturer: NeoMedia Europe AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NeoMedia
 type: d3-device-type-assertion

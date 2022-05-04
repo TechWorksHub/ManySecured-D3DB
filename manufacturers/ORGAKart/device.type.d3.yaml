@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 157576a9-c4e6-4d88-bd3e-08b24ed84555
-  mac-addresses:
+  id: 06b050a2-8434-4849-a789-bc52bcb71ce0
+  macAddresses:
   - 00:0D:F8:00:00:00/24
   manufacturer: ORGA Kartensysteme GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ORGAKart
 type: d3-device-type-assertion

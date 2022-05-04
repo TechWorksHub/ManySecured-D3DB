@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 4e858840-b556-420a-8e4f-93e5f3d826aa
-  mac-addresses:
+  id: 9a3f782d-a6e0-4231-b03e-adbf598b4f0f
+  macAddresses:
   - 60:95:CE:E0:00:00/28
   manufacturer: VNS Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VNS
 type: d3-device-type-assertion

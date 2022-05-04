@@ -1,8 +1,8 @@
 credentialSubject:
-  id: efba91a4-2140-48e0-a0b0-df6eb7788cec
-  mac-addresses:
+  id: f8f39f20-3d9b-4fc8-9d70-17cd67f6942c
+  macAddresses:
   - 70:B3:D5:58:20:00/36
   manufacturer: VAGLER International Sdn Bhd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VAGLERIn
 type: d3-device-type-assertion

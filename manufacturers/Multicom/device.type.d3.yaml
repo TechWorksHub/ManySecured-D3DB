@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 447e5db9-00aa-49b8-8c14-fa5b4a4456f7
-  mac-addresses:
+  id: 10113426-e81e-41c2-b336-873f1c8e6727
+  macAddresses:
   - C4:95:4D:B0:00:00/28
   manufacturer: Multicom, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Multicom
 type: d3-device-type-assertion

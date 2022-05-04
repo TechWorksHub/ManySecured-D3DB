@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e575fd96-d9c2-42dd-a8c1-05de5b8d20ca
-  mac-addresses:
+  id: e0d10df6-d796-4603-bf29-47c73cc63aaa
+  macAddresses:
   - 98:F9:C7:E0:00:00/28
   manufacturer: NC-LINK Technology Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NC-LINKT
 type: d3-device-type-assertion

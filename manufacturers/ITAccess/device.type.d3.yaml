@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7dc34b73-5d53-4a6a-9f1d-5283fe453329
-  mac-addresses:
+  id: 63986a84-1ccf-4cb1-b76a-e26b7274a291
+  macAddresses:
   - 00:04:2B:00:00:00/24
   manufacturer: IT Access Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ITAccess
 type: d3-device-type-assertion

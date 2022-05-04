@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 52b65ef6-2340-4ec3-9807-84679c096f9a
-  mac-addresses:
+  id: 4f645e13-7e86-4325-a560-367938fe7127
+  macAddresses:
   - 90:0A:39:00:00:00/24
   manufacturer: Wiio, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Wiio
 type: d3-device-type-assertion

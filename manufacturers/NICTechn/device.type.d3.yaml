@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2324f01b-fc07-4478-9a2c-4bfd0c18518d
-  mac-addresses:
+  id: 97abbd26-149e-4652-b652-69285004b2c0
+  macAddresses:
   - 38:A8:CD:A0:00:00/28
   manufacturer: NIC Technologii
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NICTechn
 type: d3-device-type-assertion

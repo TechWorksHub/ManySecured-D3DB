@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cd426ccd-68ed-47d3-829d-6692af0c9e7a
-  mac-addresses:
+  id: d09ff223-e883-4cca-a0f2-320a5f313c90
+  macAddresses:
   - 00:1B:68:00:00:00/24
   manufacturer: Modnnet Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Modnnet
 type: d3-device-type-assertion

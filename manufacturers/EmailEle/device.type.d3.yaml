@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 512a77ae-10c3-407d-a447-9323d2ce7b01
-  mac-addresses:
+  id: a7cf4f20-231f-4b0a-961e-983be13b9076
+  macAddresses:
   - 00:A0:38:00:00:00/24
   manufacturer: Email Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EmailEle
 type: d3-device-type-assertion

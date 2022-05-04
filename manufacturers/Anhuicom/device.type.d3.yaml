@@ -1,8 +1,8 @@
 credentialSubject:
-  id: af0a53c1-b942-4e0a-8e9b-f844fa03a3aa
-  mac-addresses:
+  id: bdaa8201-44c6-4a77-8bfc-d29175326fa3
+  macAddresses:
   - 6C:B3:50:00:00:00/24
   manufacturer: Anhui comhigher tech co.,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Anhuicom
 type: d3-device-type-assertion

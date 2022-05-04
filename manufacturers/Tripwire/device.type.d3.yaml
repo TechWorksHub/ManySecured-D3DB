@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5a619740-f289-4b5c-ac30-26c0a524d17a
-  mac-addresses:
+  id: fb41ca5f-93e5-4bc5-ab53-01065ea4a5a8
+  macAddresses:
   - B0:A4:54:00:00:00/24
   manufacturer: Tripwire Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tripwire
 type: d3-device-type-assertion

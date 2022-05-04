@@ -1,10 +1,10 @@
 credentialSubject:
-  id: 1ed5dbc4-5158-44d5-86ed-35eb880368c7
-  mac-addresses:
+  id: fd16a23a-8481-479a-bd37-da93f40f67e6
+  macAddresses:
   - 58:04:CB:00:00:00/24
   - C0:6D:1A:00:00:00/24
   - E4:AA:EC:00:00:00/24
   manufacturer: Tianjin Huisun Technology Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TianjinH
 type: d3-device-type-assertion

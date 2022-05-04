@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5e17cb4f-ad80-4d05-adae-7caeae00c3ac
-  mac-addresses:
+  id: 11c26352-0832-4adb-acb7-870a94070181
+  macAddresses:
   - CC:7A:30:00:00:00/24
   manufacturer: CMAX Wireless Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CMAXWire
 type: d3-device-type-assertion

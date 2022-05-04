@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 482d5e37-4e06-4441-80d2-15389ce64aad
-  mac-addresses:
+  id: f348584a-fea0-45a6-a81f-c0fde0f9f4dd
+  macAddresses:
   - 00:26:26:00:00:00/24
   manufacturer: Geophysical Survey Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Geophysi
 type: d3-device-type-assertion

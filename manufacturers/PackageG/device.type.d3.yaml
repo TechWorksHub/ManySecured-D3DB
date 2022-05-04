@@ -1,9 +1,9 @@
 credentialSubject:
-  id: eea535b9-e0c1-46a7-89d1-8e9a0192d8d8
-  mac-addresses:
+  id: fd0cdbf3-c498-422d-8e70-56a458fd5f45
+  macAddresses:
   - 70:B3:D5:87:80:00/36
   - F8:B5:68:60:00:00/28
   manufacturer: Package Guard, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PackageG
 type: d3-device-type-assertion

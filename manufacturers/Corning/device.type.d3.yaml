@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fc7b1a7-9e0a-4fd7-8eb3-68dd892bf03c
-  mac-addresses:
+  id: 5b98bad5-6b8e-4d33-9be7-bcf8de5e1132
+  macAddresses:
   - 00:30:35:00:00:00/24
   manufacturer: Corning Incorporated
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Corning
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d9d8390f-9c38-4957-b821-8fce5d9ca1d1
-  mac-addresses:
+  id: 2c6b8e95-ac28-4b65-8373-d0951361c0cd
+  macAddresses:
   - 8C:51:09:80:00:00/28
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: nerospec
 type: d3-device-type-assertion

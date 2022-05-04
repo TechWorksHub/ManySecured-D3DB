@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 247c39a9-af56-4916-8f29-ecdb60b99055
-  mac-addresses:
+  id: ff46b3b8-e7f5-4c30-9b56-6c331f848c8a
+  macAddresses:
   - 00:13:8B:00:00:00/24
   manufacturer: Phantom Technologies LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PhantomT
 type: d3-device-type-assertion

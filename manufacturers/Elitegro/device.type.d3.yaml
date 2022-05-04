@@ -1,6 +1,6 @@
 credentialSubject:
-  id: b349b4d2-9083-4583-b437-87cfefc325f5
-  mac-addresses:
+  id: 68aa8864-d2df-4446-81bf-60154e2d616b
+  macAddresses:
   - 00:07:95:00:00:00/24
   - 00:0A:E6:00:00:00/24
   - 00:0D:87:00:00:00/24
@@ -22,6 +22,6 @@ credentialSubject:
   - EC:A8:6B:00:00:00/24
   - F4:4D:30:00:00:00/24
   manufacturer: Elitegroup Computer Systems Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Elitegro
 type: d3-device-type-assertion

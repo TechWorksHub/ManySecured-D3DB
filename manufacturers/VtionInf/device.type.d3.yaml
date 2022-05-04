@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 20729600-9e34-4d60-b530-bde7b9f093b3
-  mac-addresses:
+  id: 86552a76-c69d-437c-bce0-acf48d774218
+  macAddresses:
   - 44:7D:A5:00:00:00/24
   manufacturer: Vtion Information Technology (Fujian) Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VtionInf
 type: d3-device-type-assertion

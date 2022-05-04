@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e69ee8aa-33e9-48cd-a375-13dfbba22a80
-  mac-addresses:
+  id: 206bf4de-e2d5-461e-955a-0a24313300e3
+  macAddresses:
   - 4C:78:97:00:00:00/24
   manufacturer: Arrowhead Alarm Products Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Arrowhea
 type: d3-device-type-assertion

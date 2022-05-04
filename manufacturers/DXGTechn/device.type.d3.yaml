@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 165ac9cc-60ac-4cc1-a657-726398ceac7d
-  mac-addresses:
+  id: 04a4f2d2-a851-4fb9-8de8-10289e4b96cb
+  macAddresses:
   - F4:0E:11:D0:00:00/28
   manufacturer: DXG Technology Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DXGTechn
 type: d3-device-type-assertion

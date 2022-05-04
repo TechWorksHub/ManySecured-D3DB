@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d36f49f-4e8b-4c30-bf3d-df7fdbfc375a
-  mac-addresses:
+  id: 7b1e4aeb-e0ad-4c68-95b4-d4bbc3f64abf
+  macAddresses:
   - 00:60:28:00:00:00/24
   manufacturer: Macrovision Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Macrovis
 type: d3-device-type-assertion

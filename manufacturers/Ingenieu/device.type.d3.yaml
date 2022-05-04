@@ -1,6 +1,6 @@
 credentialSubject:
-  id: 8e57e46b-46bb-46d5-8791-a051bdfa7d6e
-  mac-addresses:
+  id: 926325e4-13ed-4f99-93a1-6536f9b93b42
+  macAddresses:
   - 00:1F:8D:00:00:00/24
   - 00:50:C2:4D:60:00/36
   - 00:50:C2:AF:90:00/36
@@ -8,6 +8,6 @@ credentialSubject:
   - 38:42:A6:00:00:00/24
   - 70:B3:D5:81:40:00/36
   manufacturer: Ingenieurbuero Stark GmbH und Ko. KG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ingenieu
 type: d3-device-type-assertion

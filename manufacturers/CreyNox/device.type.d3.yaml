@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93393f93-3633-4316-a06f-0e5c09e573e6
-  mac-addresses:
+  id: 8d14b00e-be3b-484b-88d2-c71fb6a8248a
+  macAddresses:
   - 18:FD:CB:90:00:00/28
   manufacturer: CreyNox GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CreyNox
 type: d3-device-type-assertion

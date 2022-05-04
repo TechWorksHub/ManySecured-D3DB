@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a3b76f9c-7a08-41f6-8719-3cb7feb2d053
-  mac-addresses:
+  id: 9b5c804a-25fc-480e-b371-a3f5ece986a8
+  macAddresses:
   - 00:50:C2:A6:E0:00/36
   manufacturer: Screen Technics Pty Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ScreenTe
 type: d3-device-type-assertion

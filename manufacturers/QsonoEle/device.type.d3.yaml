@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b3a0e97-c53f-4884-8954-26f25bfca4cd
-  mac-addresses:
+  id: 8faea8b3-7612-4fc1-862e-999a31c7a457
+  macAddresses:
   - 4C:D6:37:00:00:00/24
   manufacturer: Qsono Electronics Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: QsonoEle
 type: d3-device-type-assertion

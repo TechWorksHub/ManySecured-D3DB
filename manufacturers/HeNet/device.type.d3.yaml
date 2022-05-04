@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3570cccf-9d07-40d2-9491-832da5145064
-  mac-addresses:
+  id: ee9dddde-5173-463f-b818-9ed6d9b0f640
+  macAddresses:
   - A0:83:B4:00:00:00/24
   manufacturer: HeNet B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: HeNet
 type: d3-device-type-assertion

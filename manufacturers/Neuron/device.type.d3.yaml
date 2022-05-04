@@ -1,9 +1,9 @@
 credentialSubject:
-  id: ad3ee9d3-225b-4d4e-ad62-52d9e3e6c866
-  mac-addresses:
+  id: 8c7e4533-2ebc-4f83-ac5d-341e995df6d5
+  macAddresses:
   - 00:20:43:00:00:00/24
   - 70:B3:D5:E1:B0:00/36
   manufacturer: Neuron Company Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Neuron
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93594030-4e03-4a16-b5a7-031924f35696
-  mac-addresses:
+  id: 33838823-4f56-49f0-a94d-d6a7b5d67ee4
+  macAddresses:
   - 00:0E:FC:00:00:00/24
   manufacturer: JTAG Technologies B.V.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JTAGTech
 type: d3-device-type-assertion

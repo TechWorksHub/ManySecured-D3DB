@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 32d25db3-482a-48d9-b1a0-4e9242dc8914
-  mac-addresses:
+  id: 82557106-0f46-4075-afc7-837dc59c1f02
+  macAddresses:
   - 70:B3:D5:57:D0:00/36
   manufacturer: WICOM1 GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: WICOM1
 type: d3-device-type-assertion

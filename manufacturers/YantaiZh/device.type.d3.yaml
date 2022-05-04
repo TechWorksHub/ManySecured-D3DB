@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 439956c1-19c1-43b6-b67d-291046eb9e42
-  mac-addresses:
+  id: 0d71328a-97a2-40cf-9886-b65bd380ba7e
+  macAddresses:
   - 00:0B:31:00:00:00/24
   manufacturer: Yantai ZhiYang Scientific and technology industry CO., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: YantaiZh
 type: d3-device-type-assertion

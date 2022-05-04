@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1b21767a-b794-4adc-870b-c5514da5fec5
-  mac-addresses:
+  id: 5ee3b795-0281-4845-b053-362274aaa77e
+  macAddresses:
   - 00:50:C2:3E:20:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SysNova
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2e61f0e8-c855-4c85-97a4-8b6ab333cf2f
-  mac-addresses:
+  id: c890ac50-efda-46d1-b900-fa49976eaad4
+  macAddresses:
   - 00:A0:06:00:00:00/24
   manufacturer: Image Data Processing System Group
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ImageDat
 type: d3-device-type-assertion

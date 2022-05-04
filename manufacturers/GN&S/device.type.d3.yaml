@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2ba67eae-cac3-4b27-aab1-6fc26c483e22
-  mac-addresses:
+  id: 488efed8-d765-4178-92a7-8038377e8cf2
+  macAddresses:
   - 00:0F:F5:00:00:00/24
   manufacturer: GN&S company
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: GN&S
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d8fb7bf6-80c7-4228-8b44-4f9eba9f59e8
-  mac-addresses:
+  id: 71684ca2-86c1-4e75-8876-7209f77d919b
+  macAddresses:
   - 00:50:C2:DD:F0:00/36
   manufacturer: Device GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Device
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3fbe790d-ab85-48dc-b2ab-45483cee66ac
-  mac-addresses:
+  id: 11ddb246-9e21-46c8-b011-4de5d3c1218e
+  macAddresses:
   - 94:A0:4E:00:00:00/24
   manufacturer: Bostex Technology Co., LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BostexTe
 type: d3-device-type-assertion

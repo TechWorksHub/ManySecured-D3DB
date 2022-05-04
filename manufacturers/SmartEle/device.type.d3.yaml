@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7b9d98af-f271-474c-9f64-e57afb8ded12
-  mac-addresses:
+  id: b6dd8102-1257-4dc6-9f50-f29ee049cfd8
+  macAddresses:
   - 80:7B:85:90:00:00/28
   manufacturer: Smart Electronics Nz Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SmartEle
 type: d3-device-type-assertion

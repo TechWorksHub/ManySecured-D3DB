@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 7a617f6b-a2eb-4b93-8535-3451c4eb81f4
-  mac-addresses:
+  id: 01a49c0a-26d7-4bd1-aa69-aab183d37a79
+  macAddresses:
   - 40:D8:55:03:B0:00/36
   manufacturer: Telcomkorea
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Telcomko
 type: d3-device-type-assertion

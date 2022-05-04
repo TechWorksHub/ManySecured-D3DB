@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9c67495b-ffac-4937-9ebf-aac37b94380b
-  mac-addresses:
+  id: 288b8f1c-7571-47ae-926f-39858a3856a1
+  macAddresses:
   - 00:50:C2:8D:60:00/36
   manufacturer: UltraVision Security Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: UltraVis
 type: d3-device-type-assertion

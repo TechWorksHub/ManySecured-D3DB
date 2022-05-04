@@ -1,6 +1,6 @@
 credentialSubject:
-  id: acd4ace1-6585-4fb0-97d3-f575c80f3803
-  mac-addresses:
+  id: 61468132-eba5-401d-a9e0-a1b108756246
+  macAddresses:
   - 00:50:C2:72:30:00/36
   - 30:B1:64:00:00:00/24
   - 40:D8:55:10:20:00/36
@@ -19,6 +19,6 @@ credentialSubject:
   - 8C:1F:64:D0:80:00/36
   - 8C:1F:64:FE:30:00/36
   manufacturer: Power Electronics Espana, S.L.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: PowerEle
 type: d3-device-type-assertion

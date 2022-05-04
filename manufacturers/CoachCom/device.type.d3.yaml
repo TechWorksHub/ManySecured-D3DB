@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 93fc1635-9878-40eb-8da0-c927ef621c1e
-  mac-addresses:
+  id: b99e7d04-112d-4c53-b533-39de0e64e787
+  macAddresses:
   - 00:25:5B:00:00:00/24
   manufacturer: CoachComm, LLC
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CoachCom
 type: d3-device-type-assertion

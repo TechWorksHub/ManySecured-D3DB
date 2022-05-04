@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b7cb0ec0-b41c-4f43-bcdf-7eefa3e23c80
-  mac-addresses:
+  id: 6c88ba19-2698-4ba4-82bc-b7e7fefc4890
+  macAddresses:
   - 38:F7:CD:20:00:00/28
   manufacturer: RIPower Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: RIPower
 type: d3-device-type-assertion

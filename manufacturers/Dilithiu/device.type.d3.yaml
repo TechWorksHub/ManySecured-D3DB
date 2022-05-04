@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9d6022f6-b3af-4021-a8da-817ecc6fad65
-  mac-addresses:
+  id: 77e07351-8b47-421e-a083-3e3a04239257
+  macAddresses:
   - 00:15:68:00:00:00/24
   manufacturer: Dilithium Networks
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dilithiu
 type: d3-device-type-assertion

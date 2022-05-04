@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3181fa45-e265-475c-b56b-5a77654b2df0
-  mac-addresses:
+  id: daec7404-0b5b-444b-85f9-e012626c7455
+  macAddresses:
   - 00:1D:78:00:00:00/24
   manufacturer: Invengo Information Technology Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: InvengoI
 type: d3-device-type-assertion

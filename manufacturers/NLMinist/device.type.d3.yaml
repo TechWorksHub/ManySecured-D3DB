@@ -1,8 +1,8 @@
 credentialSubject:
-  id: e0028749-be16-4752-b872-94797296b26e
-  mac-addresses:
+  id: 5c5a0133-2e5d-48b1-a558-a706aed8f62b
+  macAddresses:
   - A0:41:A7:00:00:00/24
   manufacturer: NL Ministry of Defense
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NLMinist
 type: d3-device-type-assertion

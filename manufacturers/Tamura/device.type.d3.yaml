@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fce45988-b630-4d4c-93f5-2d01e95fc17a
-  mac-addresses:
+  id: e1066eac-7c79-42e8-aa3e-25cb644a2f7c
+  macAddresses:
   - 00:C0:96:00:00:00/24
   manufacturer: Tamura Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Tamura
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 381a2531-d7ef-466c-966f-aa263b61d07b
-  mac-addresses:
+  id: a3d02a07-b6c2-4248-97ec-113746898f31
+  macAddresses:
   - EC:2A:F0:00:00:00/24
   manufacturer: Ypsomed AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ypsomed
 type: d3-device-type-assertion

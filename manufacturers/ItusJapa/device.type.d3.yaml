@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 079700d8-5f6e-49a5-8a8b-f7196a535543
-  mac-addresses:
+  id: a8452700-31cc-42e5-aa00-1d02fd0d620b
+  macAddresses:
   - 00:26:9C:00:00:00/24
   manufacturer: Itus Japan Co. Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: ItusJapa
 type: d3-device-type-assertion

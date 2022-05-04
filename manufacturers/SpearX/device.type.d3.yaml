@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 2d4b8d67-0ea9-4d4b-b9d5-602f5d1b0e75
-  mac-addresses:
+  id: 68bac2c3-8992-43a5-bef0-5029be01c10d
+  macAddresses:
   - 54:9A:11:10:00:00/28
   manufacturer: SpearX Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SpearX
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 45f91b2d-3401-4d57-a691-ef55db74f62a
-  mac-addresses:
+  id: 8fe945e0-c357-4539-90a2-f994c78314a1
+  macAddresses:
   - 00:1F:D4:00:00:00/24
   manufacturer: 4Ipnet, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: 4Ipnet
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae8c4b42-07a6-4784-932d-dc4eeddc9987
-  mac-addresses:
+  id: 10a824b8-060b-47a4-b9be-8b3e9c30f632
+  macAddresses:
   - 10:54:D2:10:00:00/28
   manufacturer: Jiangxi Ofilm&Jvneng IoT Tech Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: JiangxiO
 type: d3-device-type-assertion

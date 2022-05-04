@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5814b615-66e1-4457-873b-6eb084f5b050
-  mac-addresses:
+  id: d31de1a3-f3ad-4cbd-8171-aeaff8646779
+  macAddresses:
   - 00:14:86:00:00:00/24
   manufacturer: Echo Digital Audio Corporation
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: EchoDigi
 type: d3-device-type-assertion

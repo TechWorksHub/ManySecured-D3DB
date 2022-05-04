@@ -1,8 +1,8 @@
 credentialSubject:
-  id: ae103cd7-f575-4a4c-afba-ad3902d6a2d3
-  mac-addresses:
+  id: f7a6b05a-553e-4332-9c2f-5cd55e29ad02
+  macAddresses:
   - 3C:6A:9D:00:00:00/24
   manufacturer: Dexatek Technology LTD.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: DexatekT
 type: d3-device-type-assertion

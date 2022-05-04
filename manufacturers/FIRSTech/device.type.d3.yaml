@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31574181-6efb-414d-88c8-e29e8b4e0851
-  mac-addresses:
+  id: de3b24fd-26ed-4ce7-9390-8c7b3674d5b0
+  macAddresses:
   - E8:75:7F:00:00:00/24
   manufacturer: FIRS Technologies(Shenzhen) Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: FIRSTech
 type: d3-device-type-assertion

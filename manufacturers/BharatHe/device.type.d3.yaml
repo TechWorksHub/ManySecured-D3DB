@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 78e1a002-2f84-4c45-9836-88a407fe0385
-  mac-addresses:
+  id: bc3cf9ba-6ddd-41a9-aec1-a7cb57654fde
+  macAddresses:
   - 70:B3:D5:16:30:00/36
   manufacturer: Bharat Heavy Electricals Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BharatHe
 type: d3-device-type-assertion

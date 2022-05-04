@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9bdf36c5-b39e-4f0b-871f-5ae71185d45a
-  mac-addresses:
+  id: 19b0aec3-ffe7-45be-9d09-5db25d22859f
+  macAddresses:
   - 00:50:C2:D6:50:00/36
   manufacturer: TX Technology Corp
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: TXTechno
 type: d3-device-type-assertion

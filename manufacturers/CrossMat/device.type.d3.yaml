@@ -1,10 +1,10 @@
 credentialSubject:
-  id: ad8c73b2-d29b-49f2-ab75-36e952e5ca63
-  mac-addresses:
+  id: 13113fd5-d8ed-4277-aa73-379b3a780dc6
+  macAddresses:
   - 00:06:33:00:00:00/24
   - 00:17:C6:00:00:00/24
   - 00:30:8E:00:00:00/24
   manufacturer: Cross Match Technologies GmbH
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CrossMat
 type: d3-device-type-assertion

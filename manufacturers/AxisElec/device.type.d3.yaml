@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3b31e3ed-75cb-4d50-a253-8c3d1096beb1
-  mac-addresses:
+  id: d394d410-72fb-46ba-9e12-f2000c9cf2b5
+  macAddresses:
   - 00:50:C2:61:50:00/36
   manufacturer: Axis Electronics
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AxisElec
 type: d3-device-type-assertion

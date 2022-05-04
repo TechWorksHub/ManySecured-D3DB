@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 5bca6e8b-9b57-4d0e-9db7-7ca16294c603
-  mac-addresses:
+  id: e904992b-bb75-4687-8dad-dae713f7f676
+  macAddresses:
   - 34:00:8A:30:00:00/28
   manufacturer: Globex 99 LTD
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Globex99
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a116b246-3329-4478-89df-a7f13492e70a
-  mac-addresses:
+  id: 6ee76f1e-7505-4dfa-86a2-53309b094eb0
+  macAddresses:
   - 00:00:30:00:00:00/24
   manufacturer: Vg Laboratory Systems Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VgLabora
 type: d3-device-type-assertion

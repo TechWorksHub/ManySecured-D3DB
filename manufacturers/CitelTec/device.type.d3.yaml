@@ -1,8 +1,8 @@
 credentialSubject:
-  id: f22e3fb5-6f35-4d48-bee8-eb63cf4629ec
-  mac-addresses:
+  id: 663c646b-08a5-4bc9-9c3f-c211de43db3a
+  macAddresses:
   - 00:06:E4:00:00:00/24
   manufacturer: Citel Technologies Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CitelTec
 type: d3-device-type-assertion

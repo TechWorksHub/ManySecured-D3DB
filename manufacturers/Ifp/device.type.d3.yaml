@@ -1,8 +1,8 @@
 credentialSubject:
-  id: a87cfba9-5da4-489e-b634-3880bcbbc508
-  mac-addresses:
+  id: 8f33fbf6-9a5d-4dab-ac72-5a2f3fb7d5e9
+  macAddresses:
   - 00:50:7D:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Ifp
 type: d3-device-type-assertion

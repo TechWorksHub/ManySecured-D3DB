@@ -1,8 +1,8 @@
 credentialSubject:
-  id: cab3097f-2969-4992-9244-109ae8d62d05
-  mac-addresses:
+  id: 58cd55b7-49e1-48b8-8a6d-b48461cebd5b
+  macAddresses:
   - 00:21:F4:00:00:00/24
   manufacturer: INRange Systems, Inc
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: INRange
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: abb5540c-b154-46aa-9065-f8211fff1699
-  mac-addresses:
+  id: 05e819e7-f5c0-4660-8f14-5931b08fa8ca
+  macAddresses:
   - 70:B3:D5:87:20:00/36
   manufacturer: Nippon Safety co,ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NipponSa
 type: d3-device-type-assertion

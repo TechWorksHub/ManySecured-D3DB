@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 1442faad-fc3c-48b1-8c73-a608230dfc9b
-  mac-addresses:
+  id: 0cba592c-b14a-4e2f-962b-8b042018bf1e
+  macAddresses:
   - 70:B3:D5:2C:00:00/36
   manufacturer: Sensative AB
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Sensativ
 type: d3-device-type-assertion

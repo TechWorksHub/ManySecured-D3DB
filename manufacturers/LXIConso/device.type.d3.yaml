@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b17613b9-0080-447f-9727-359c88a3473d
-  mac-addresses:
+  id: 6beb95ec-1c5b-4894-9543-0053ccb4b159
+  macAddresses:
   - 00:21:D6:00:00:00/24
   manufacturer: LXI Consortium
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: LXIConso
 type: d3-device-type-assertion

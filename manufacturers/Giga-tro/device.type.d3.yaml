@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 222e54aa-a013-442a-8146-6144286a07b2
-  mac-addresses:
+  id: 3dfd2b90-0164-42fa-8a04-e8f24136bff8
+  macAddresses:
   - 00:50:C2:78:C0:00/36
   manufacturer: Giga-tronics, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Giga-tro
 type: d3-device-type-assertion

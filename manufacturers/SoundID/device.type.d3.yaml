@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 134944d4-772a-472f-8a80-c0089508527a
-  mac-addresses:
+  id: a95faccd-1e6a-4b20-a83c-f0f815f03dea
+  macAddresses:
   - 00:14:9D:00:00:00/24
   manufacturer: Sound ID Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SoundID
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 54acb7e1-ad7f-49e1-a5af-395f0d7e305d
-  mac-addresses:
+  id: feb54a07-545c-4e6c-94f0-b361c6d00a18
+  macAddresses:
   - 00:A0:16:00:00:00/24
   manufacturer: Micropolis Corp.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Micropol
 type: d3-device-type-assertion

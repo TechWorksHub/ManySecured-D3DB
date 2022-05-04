@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 31aaf3c1-a622-4028-ae04-51bfda429ea2
-  mac-addresses:
+  id: 3776510b-1b6b-4b50-896e-cbfe66638f22
+  macAddresses:
   - 00:C0:27:00:00:00/24
   manufacturer: Cipher Systems, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Cipher
 type: d3-device-type-assertion

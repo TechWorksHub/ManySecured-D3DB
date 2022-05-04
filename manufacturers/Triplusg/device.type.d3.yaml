@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3c451c1e-2568-40fe-b861-5b48e12ad610
-  mac-addresses:
+  id: 1b861f65-4db8-48ed-86bd-c53a87294a20
+  macAddresses:
   - 28:77:B1:00:00:00/24
   manufacturer: Tri plus grupa d.o.o.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Triplusg
 type: d3-device-type-assertion

@@ -1,11 +1,11 @@
 credentialSubject:
-  id: 0b647053-accf-4169-adfc-bd3c2742f3d7
-  mac-addresses:
+  id: ccd0118a-84ea-43fd-85ca-e82ab52de953
+  macAddresses:
   - 0C:7F:ED:70:00:00/28
   - 28:FD:80:D0:00:00/28
   - 3C:42:7E:00:00:00/28
   - FC:D2:B6:50:00:00/28
   manufacturer: Grandway Technology (Shenzhen) Limited
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Grandway
 type: d3-device-type-assertion

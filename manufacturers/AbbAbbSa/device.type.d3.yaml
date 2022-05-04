@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 9e9fe443-83b2-4170-b13a-fac948d620e0
-  mac-addresses:
+  id: ed2a7d6e-67df-4b14-a48b-a07be9c9da65
+  macAddresses:
   - AC:D3:64:00:00:00/24
   manufacturer: Abb Spa, Abb Sace Div.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: AbbAbbSa
 type: d3-device-type-assertion

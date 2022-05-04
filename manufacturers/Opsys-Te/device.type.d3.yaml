@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 74b36f90-6705-483f-9bb1-5d9e29b476b2
-  mac-addresses:
+  id: c70b973f-2ec9-49c1-979b-103c4b132a3c
+  macAddresses:
   - 70:B3:D5:99:D0:00/36
   manufacturer: Opsys-Tech
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Opsys-Te
 type: d3-device-type-assertion

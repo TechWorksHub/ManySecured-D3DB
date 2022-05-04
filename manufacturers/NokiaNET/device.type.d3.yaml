@@ -1,8 +1,8 @@
 credentialSubject:
-  id: acc01a93-7c02-4cb9-b8bc-e7eb98338a78
-  mac-addresses:
+  id: 08f49e73-01af-4bdc-a5a6-8276f4bceaa3
+  macAddresses:
   - 00:0B:E1:00:00:00/24
   manufacturer: Nokia NET Product Operations
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: NokiaNET
 type: d3-device-type-assertion

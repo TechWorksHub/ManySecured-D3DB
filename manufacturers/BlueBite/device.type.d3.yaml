@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0b3df737-ac11-4eb4-ac8d-e1df5f21559f
-  mac-addresses:
+  id: 15ebc4f8-44bf-436f-a552-cb1771360c5f
+  macAddresses:
   - F4:C0:2F:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BlueBite
 type: d3-device-type-assertion

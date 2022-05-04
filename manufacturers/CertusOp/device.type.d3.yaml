@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb63ec80-37a3-4abd-81c3-526344ac54cc
-  mac-addresses:
+  id: d76fa31c-144d-40dd-905f-cbbc05cf6caa
+  macAddresses:
   - 70:B3:D5:4B:20:00/36
   manufacturer: Certus Operations Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: CertusOp
 type: d3-device-type-assertion

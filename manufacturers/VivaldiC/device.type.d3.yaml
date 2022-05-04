@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 274b5aa3-2d47-4739-8a2d-e42dee2d162c
-  mac-addresses:
+  id: 09ecaa64-733a-436a-8b23-bb6d05c1bead
+  macAddresses:
   - 70:B3:D5:45:70:00/36
   manufacturer: Vivaldi Clima Srl
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: VivaldiC
 type: d3-device-type-assertion

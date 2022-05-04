@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 91f4180d-e1d3-440d-a422-92b54db249c2
-  mac-addresses:
+  id: f8c44dc1-71c1-410f-af31-aaa3b1482fea
+  macAddresses:
   - 00:26:0C:00:00:00/24
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dataram
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 456185a8-8f18-4603-a177-4396b3f0dc98
-  mac-addresses:
+  id: 761581c7-c134-4967-becc-8c01c2b98495
+  macAddresses:
   - 0C:37:96:00:00:00/24
   manufacturer: Bizlink Technology, Inc.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: BizlinkT
 type: d3-device-type-assertion

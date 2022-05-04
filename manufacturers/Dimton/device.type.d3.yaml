@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 062e7a7f-2737-47a3-9d87-c07ca0f7b352
-  mac-addresses:
+  id: b66418d8-c4d1-4a13-b5b3-072f018545ea
+  macAddresses:
   - B4:37:D1:30:00:00/28
   manufacturer: Dimton Co.,Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Dimton
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: b8d4432d-4e98-4f40-a2d7-985c885783b9
-  mac-addresses:
+  id: 9345c5bc-d385-4dca-84c5-10bad9011710
+  macAddresses:
   - E0:8F:EC:00:00:00/24
   manufacturer: Repotec Co., Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Repotec
 type: d3-device-type-assertion

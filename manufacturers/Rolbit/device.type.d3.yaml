@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 0ce3910e-a815-4d43-88bc-51526143dfdb
-  mac-addresses:
+  id: 29dcf8ac-c993-467b-bc05-255cd402cf19
+  macAddresses:
   - 00:50:C2:94:10:00/36
   manufacturer: ''
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Rolbit
 type: d3-device-type-assertion

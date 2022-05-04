@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 37a2499d-8945-43a5-a552-c9897d6fad84
-  mac-addresses:
+  id: 88cc9371-0b16-4a91-bce1-3300a46ac7cb
+  macAddresses:
   - 90:19:00:00:00:00/24
   manufacturer: Scs Sa
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Scs
 type: d3-device-type-assertion

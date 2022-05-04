@@ -1,8 +1,8 @@
 credentialSubject:
-  id: fb1507c9-d177-4c86-9de5-f4e6f51e5b92
-  mac-addresses:
+  id: a03dde79-0ab7-4f8d-b368-2362e510a932
+  macAddresses:
   - 70:B3:D5:22:A0:00/36
   manufacturer: Shishido Electrostatic, Ltd.
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Shishido
 type: d3-device-type-assertion

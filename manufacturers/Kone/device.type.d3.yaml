@@ -1,8 +1,8 @@
 credentialSubject:
-  id: d82247ca-7fb6-4b9c-9af0-e1cef1ce0de3
-  mac-addresses:
+  id: 3fc69b98-e534-41ec-b211-6258f006ea28
+  macAddresses:
   - 64:9F:F7:00:00:00/24
   manufacturer: Kone OYj
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: Kone
 type: d3-device-type-assertion

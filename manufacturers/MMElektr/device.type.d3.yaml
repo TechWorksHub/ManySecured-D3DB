@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 6d919311-0e4b-49b8-bf6c-732406b8ba7c
-  mac-addresses:
+  id: 7016a093-4f44-4a18-b6bf-3cb6025d8f8e
+  macAddresses:
   - 40:D8:55:0C:50:00/36
   manufacturer: M.M. Elektrolab
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: MMElektr
 type: d3-device-type-assertion

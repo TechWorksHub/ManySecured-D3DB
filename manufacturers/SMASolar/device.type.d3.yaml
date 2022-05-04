@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 59c26647-267d-4eff-badf-5891a998d075
-  mac-addresses:
+  id: 4e67007e-7b88-41ff-972c-86d6319343b7
+  macAddresses:
   - 00:15:BB:00:00:00/24
   manufacturer: SMA Solar Technology AG
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: SMASolar
 type: d3-device-type-assertion

@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3d3616f8-ee9f-4f9e-aa41-33039d727615
-  mac-addresses:
+  id: 0be8644f-34fe-4b2b-bf4c-0b8357acf5fe
+  macAddresses:
   - A0:BB:3E:60:00:00/28
   manufacturer: Xiamen Kehua Hengsheng Co.,Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: XiamenKe
 type: d3-device-type-assertion

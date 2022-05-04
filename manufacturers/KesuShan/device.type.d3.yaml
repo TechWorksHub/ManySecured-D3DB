@@ -1,8 +1,8 @@
 credentialSubject:
-  id: 3f687f29-2285-4e5a-8197-346ff84ef574
-  mac-addresses:
+  id: 3ad7844e-e98f-45ad-af6a-0b916edb37e6
+  macAddresses:
   - 30:43:D7:80:00:00/28
   manufacturer: Kesu (Shanghai) Electronic Technology Co., Ltd
-  manufacturer-uri: https://device-type.com
+  manufacturerUri: https://device-type.com
   name: KesuShan
 type: d3-device-type-assertion

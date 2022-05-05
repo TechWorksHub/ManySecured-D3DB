@@ -1,5 +1,4 @@
 import json
-import os
 
 
 def load_json(file_name: str):
@@ -62,7 +61,6 @@ def write_json(file_name: str, json_data: dict):
         Boolean indicating if the JSON file was successfully written
     """
     # create file path if it doesn't exist
-    os.makedirs(os.path.dirname(file_name), exist_ok=True)
     with open(file_name, "w") as f:
-        json.dump(json_data, f, indent=4)
+        json.dump(json_data, f, indent=2)
     return True

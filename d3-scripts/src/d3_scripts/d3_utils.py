@@ -6,7 +6,7 @@ from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
 from .json_tools import is_json_unchanged, get_json_file_name, write_json
 from .validate_schemas import (
     get_schema_from_path, get_schema_from_d3_claim,
-    validate_schema, validate_claim_schema
+    validate_claim_meta_schema, validate_schema
 )
 from .check_uri_resolve import check_uri_resolve
 
@@ -70,6 +70,7 @@ def process_claim_file(yaml_file_name: str):
 
     # validate schema
     schema = get_schema_from_path(yaml_file_name)
+    validate_claim_meta_schema(claim)
     validate_schema(claim["credentialSubject"], schema)
 
     # check URIs and other refs resolve

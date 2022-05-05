@@ -1,8 +1,6 @@
 import validators
-import urllib3
+import requests
 import logging
-
-http = urllib3.PoolManager()
 
 
 def check_uri_resolve(json_data: dict, schema: dict) -> None:
@@ -45,7 +43,7 @@ def uri_resolves(uri: str) -> None:
     # TODO: Temporary bypass for example uri
     if(not uri == "https://device-type.com"):
         try:
-            response = http.request('GET', uri, retries=False)
+            response = requests('GET', uri, retries=False)
             if(response.status != 200):
                 raise ValueError()
         except Exception:

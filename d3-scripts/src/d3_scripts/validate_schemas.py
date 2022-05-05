@@ -2,7 +2,7 @@ from pathlib import Path
 import jsonschema
 from .d3_constants import d3_type_codes_to_schemas
 from .json_tools import load_json
-from .yaml_tools import load_claim
+from .yaml_tools import load_claim, get_yaml_suffixes
 
 schema_store = Path(__file__).parent / "schemas"
 
@@ -39,7 +39,7 @@ def get_schema_from_path(yaml_path: str):
     Returns:
         The JSON schema for the D3 claim file type
     """
-    d3_type = Path(yaml_path).suffixes[0].replace(".", "")
+    d3_type = get_yaml_suffixes(yaml_path)[0].replace(".", "")
     schema_path = schema_store / f"{d3_type}.json"
     return load_json(str(schema_path.resolve()))
 

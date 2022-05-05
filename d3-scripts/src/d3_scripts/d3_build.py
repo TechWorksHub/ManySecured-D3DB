@@ -31,6 +31,11 @@ def d3_build():
     files_to_process = [file for file in files_to_process if file]
     pbar.update(30)
 
+    # Get list of YAML files and check for invalid claims
+    yaml_store = Path(__file__).parents[3] / "manufacturers"
+    files_to_process = pool.map(claim_handler, yaml_store.glob("**/*.*"))
+    files_to_process = [file for file in files_to_process if file]
+
     # check for duplicate GUID/UUIDs
     pbar.set_description("Checking UUIDs")
     guids = [guid for guid in pool.map(get_guid, files_to_process) if guid]

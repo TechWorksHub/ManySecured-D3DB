@@ -7,6 +7,11 @@ import yamllint.cli
 from yamllint.config import YamlLintConfig
 
 
+def get_yaml_suffixes(file_name):
+    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
+    return d3_type, d3_ext, yaml_ext
+
+
 def is_valid_yaml_claim(file_name: str):
     """Validates a YAML claim file against the D3 expected extensions
     e.g. exmaple.type.d3.yaml
@@ -21,10 +26,12 @@ def is_valid_yaml_claim(file_name: str):
     suffixes = file_path.suffixes
     file_str = file_path.relative_to(file_path.parents[2])
     example = "e.g. example_claim.type.d3.yaml"
+
     assert (
         len(suffixes) == 3
     ), f"File ({file_str}) has invalid d3 claim format {example}"
-    d3_type, d3_ext, yaml_ext = suffixes
+
+    d3_type, d3_ext, yaml_ext = get_yaml_suffixes(file_name)
     assert (
         d3_ext == ".d3"
     ), f"File ({file_str}) missing .d3 extension {example}"

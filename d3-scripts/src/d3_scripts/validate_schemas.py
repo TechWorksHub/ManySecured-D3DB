@@ -59,3 +59,33 @@ def validate_schema(json_data: dict, schema: dict):
         schema=schema,
     )
     return True
+
+
+def get_d3_master_claim_schema():
+    """Loads the D3 master claim schema
+
+    Returns:
+        The D3 master claim schema as a Python dict
+    """
+    schema_dir = Path(__file__).parent / "schemas"
+    d3_schema = load_json(schema_dir / "d3-claim.json")
+    return d3_schema
+
+
+def validate_claim_schema(yaml_file_name: str, claim: dict):
+    """Validates a D3 claim against:
+    - the D3 master claim schema
+    - the D3 claim schema for the claim type
+
+    Args:
+        yaml_file_name: The filepath to the YAML claim file
+        claim: The claim to validate (dict)
+
+    Returns:
+        Boolean indicating if the claim is valid else throws an exception
+    """
+    d3_master_schema = get_d3_master_claim_schema()
+    d3_type_schema = get_schema_from_path(yaml_file_name)
+    validate_schema(claim, d3_master_schema)
+    validate_schema(claim["credentialSubject"], d3_type_schema)
+    return True

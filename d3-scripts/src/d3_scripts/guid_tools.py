@@ -1,4 +1,4 @@
-from yaml_tools import load_claim, is_valid_yaml_claim
+from .yaml_tools import load_claim, is_valid_yaml_claim
 import typing
 import uuid
 

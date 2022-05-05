@@ -57,6 +57,24 @@
           "type": "string"
         },
         "description": "An array of MAC addresses"
+      },
+      "behaviours": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid",
+              "description": "GUID for the behaviour"
+            },
+            "name": {
+              "type": "string",
+              "description": "The behaviour name"
+            }
+          }
+        },
+        "description": "An array of behaviours"
       }
     },
     "required": ["id"]

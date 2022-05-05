@@ -15,7 +15,7 @@ def load_json(file_name: str):
     return json_data
 
 
-def check_json_unchanged(file_name: str, claim: dict):
+def is_json_unchanged(file_name: str, claim: dict):
     """Checks if a JSON file contents are the same as the source claim
 
     Args:
@@ -24,9 +24,12 @@ def check_json_unchanged(file_name: str, claim: dict):
     Returns:
         Boolean indicating if the JSON file is unchanged from the YAML file
     """
-    with open(file_name) as f:
-        json_data = json.load(f)
-    return json_data == claim
+    try:
+        with open(file_name) as f:
+            json_data = json.load(f)
+        return json_data == claim
+    except FileNotFoundError:
+        return False
 
 
 def get_json_file_name(yaml_file_name: str):
@@ -41,8 +44,8 @@ def get_json_file_name(yaml_file_name: str):
     json_file_name = (
         yaml_file_name
         .replace(".yaml", ".json")
-        .replace("/manufacturers", "/_manufacturers_json")
-        .replace("\\manufacturers", "\\_manufacturers_json")
+        .replace("/manufacturers", "/manufacturers_json")
+        .replace("\\manufacturers", "\\manufacturers_json")
     )
     return json_file_name
 

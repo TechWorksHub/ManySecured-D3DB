@@ -2,7 +2,7 @@
     "$id": "https://example.com/instance.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "title": "instance",
-    "type": "The device instance",
+    "type": "object",
     "properties": {
       "id": {
         "type": "string",
@@ -27,7 +27,8 @@
         "oneOf": [
           {"format": "ipv4" },
           {"format": "ipv6" }
-        ],        "description": "The device instance secondary IP"
+        ],
+        "description": "The device instance secondary IP"
       },
       "name": {
         "type": "string",

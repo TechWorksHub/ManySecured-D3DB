@@ -1,5 +1,4 @@
 import json
-import os
 
 
 def load_json(file_name: str):
@@ -16,7 +15,7 @@ def load_json(file_name: str):
     return json_data
 
 
-def check_json_unchanged(file_name: str, claim: dict):
+def is_json_unchanged(file_name: str, claim: dict):
     """Checks if a JSON file contents are the same as the source claim
 
     Args:
@@ -45,8 +44,8 @@ def get_json_file_name(yaml_file_name: str):
     json_file_name = (
         yaml_file_name
         .replace(".yaml", ".json")
-        .replace("/manufacturers", "/_manufacturers_json")
-        .replace("\\manufacturers", "\\_manufacturers_json")
+        .replace("/manufacturers", "/manufacturers_json")
+        .replace("\\manufacturers", "\\manufacturers_json")
     )
     return json_file_name
 
@@ -61,8 +60,6 @@ def write_json(file_name: str, json_data: dict):
     Returns:
         Boolean indicating if the JSON file was successfully written
     """
-    # create file path if it doesn't exist
-    os.makedirs(os.path.dirname(file_name), exist_ok=True)
     with open(file_name, "w") as f:
-        json.dump(json_data, f, indent=4)
+        json.dump(json_data, f, indent=2)
     return True

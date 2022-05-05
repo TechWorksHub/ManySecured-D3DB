@@ -30,7 +30,7 @@ def is_valid_guid(guid: str):
         Boolean indicating if the string is a valid UUID
     """
     try:
-        uuid.uuid(guid)
+        uuid.UUID(guid)
         return True
     except ValueError:
         return False

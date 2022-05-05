@@ -1,10 +1,13 @@
 import logging
 import typing
 
+from pathlib import Path
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
-from .json_tools import check_json_unchanged, get_json_file_name, write_json
-from .validate_schemas import \
-    get_schema_from_path, get_schema_from_d3_claim, validate_schema
+from .json_tools import is_json_unchanged, get_json_file_name, write_json
+from .validate_schemas import (
+    get_schema_from_path, get_schema_from_d3_claim,
+    validate_claim_meta_schema, validate_schema
+)
 from .check_uri_resolve import check_uri_resolve
 
 
@@ -55,19 +58,19 @@ def process_claim_file(yaml_file_name: str):
     Returns:
         Boolean indicating if the file was successfully processed
     """
-    # check if file is YAML with right extension
-    is_valid_yaml_claim(yaml_file_name)
-
     json_file_name = get_json_file_name(yaml_file_name)
+    Path(json_file_name).parent.mkdir(parents=True, exist_ok=True)
 
     # import yaml claim to Python dict (JSON)
     claim = load_claim(yaml_file_name)
 
     # if JSON already exists and is unchanged then skip
-    check_json_unchanged(json_file_name, claim)
+    if is_json_unchanged(json_file_name, claim):
+        return True
 
     # validate schema
     schema = get_schema_from_path(yaml_file_name)
+    validate_claim_meta_schema(claim)
     validate_schema(claim["credentialSubject"], schema)
 
     # check URIs and other refs resolve

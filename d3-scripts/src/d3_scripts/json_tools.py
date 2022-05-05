@@ -24,9 +24,12 @@ def check_json_unchanged(file_name: str, claim: dict):
     Returns:
         Boolean indicating if the JSON file is unchanged from the YAML file
     """
-    with open(file_name) as f:
-        json_data = json.load(f)
-    return json_data == claim
+    try:
+        with open(file_name) as f:
+            json_data = json.load(f)
+        return json_data == claim
+    except FileNotFoundError:
+        return False
 
 
 def get_json_file_name(yaml_file_name: str):

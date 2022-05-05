@@ -42,9 +42,11 @@ def uri_resolves(uri: str) -> None:
     Returns:
         None
     """
-    try:
-        response = http.request('GET', uri, retries=False)
-        if(response.status != 200):
-            raise ValueError()
-    except Exception:
-        logging.warning("URI " + uri + " cannot be resolved")
+    # TODO: Temporary bypass for example uri
+    if(not uri == "https://device-type.com"):
+        try:
+            response = http.request('GET', uri, retries=False)
+            if(response.status != 200):
+                raise ValueError()
+        except Exception:
+            logging.warning("URI " + uri + " cannot be resolved")

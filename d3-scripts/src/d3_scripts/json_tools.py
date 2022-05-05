@@ -60,7 +60,6 @@ def write_json(file_name: str, json_data: dict):
     Returns:
         Boolean indicating if the JSON file was successfully written
     """
-    # create file path if it doesn't exist
     with open(file_name, "w") as f:
         json.dump(json_data, f, indent=2)
     return True

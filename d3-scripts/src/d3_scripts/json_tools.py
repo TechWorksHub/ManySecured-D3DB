@@ -1,4 +1,5 @@
 import json
+import os
 
 
 def load_json(file_name: str):
@@ -24,9 +25,12 @@ def check_json_unchanged(file_name: str, claim: dict):
     Returns:
         Boolean indicating if the JSON file is unchanged from the YAML file
     """
-    with open(file_name) as f:
-        json_data = json.load(f)
-    return json_data == claim
+    try:
+        with open(file_name) as f:
+            json_data = json.load(f)
+        return json_data == claim
+    except FileNotFoundError:
+        return False
 
 
 def get_json_file_name(yaml_file_name: str):
@@ -57,6 +61,8 @@ def write_json(file_name: str, json_data: dict):
     Returns:
         Boolean indicating if the JSON file was successfully written
     """
+    # create file path if it doesn't exist
+    os.makedirs(os.path.dirname(file_name), exist_ok=True)
     with open(file_name, "w") as f:
         json.dump(json_data, f, indent=4)
     return True

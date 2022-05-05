@@ -30,7 +30,7 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
         claim = load_claim(file)
         # validate schema
         schema = get_schema_from_d3_claim(file)
-        validate_schema(claim["credential-subject"], schema)
+        validate_schema(claim["credentialSubject"], schema)
 
     logging.info("Checking whether D3 files have valid URIs/refs")
     for file in yaml_file_names:
@@ -38,7 +38,7 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
         claim = load_claim(file)
         schema = get_schema_from_path(file)
         # check URIs and other refs resolve
-        check_uri_resolve(claim, schema)
+        check_uri_resolve(claim["credentialSubject"], schema)
     return True
 
 
@@ -68,10 +68,10 @@ def process_claim_file(yaml_file_name: str):
 
     # validate schema
     schema = get_schema_from_path(yaml_file_name)
-    validate_schema(claim["credential-subject"], schema)
+    validate_schema(claim["credentialSubject"], schema)
 
     # check URIs and other refs resolve
-    check_uri_resolve(claim, schema)
+    check_uri_resolve(claim["credentialSubject"], schema)
 
     # write JSON if valid
     write_json(json_file_name, claim)

@@ -15,17 +15,20 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.7"
+python = ">=3.7,<4"
 PyYAML = "^6.0"
 requests = "^2.27.1"
 jsonschema = "^4.4.0"
 yamllint = "^1.26.3"
+validators = "^0.19.0"
+urllib3 = "^1.26.9"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
 
 [tool.poetry.scripts]
 d3lint = "d3_scripts.d3_lint:cli"
+d3build = "d3_scripts.d3_build:d3_build"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

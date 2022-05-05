@@ -9,6 +9,11 @@ from yamllint.config import YamlLintConfig
 from .d3_constants import d3_types
 
 
+def get_yaml_suffixes(file_name):
+    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
+    return d3_type, d3_ext, yaml_ext
+
+
 def is_valid_yaml_claim(file_name: str):
     """Validates a YAML claim file against the D3 expected extensions
     e.g. exmaple.type.d3.yaml
@@ -19,7 +24,7 @@ def is_valid_yaml_claim(file_name: str):
     Returns:
         Boolean indicating if the file is valid else throws an exception
     """
-    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
+    d3_type, d3_ext, yaml_ext = get_yaml_suffixes(file_name)
     assert (
         d3_type[1:] in d3_types
     ), f"File has invalid d3 type extension {d3_types} ({file_name})"

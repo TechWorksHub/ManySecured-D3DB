@@ -10,6 +10,8 @@ Links:
 
 ## How to add a new D3 claim
 
+For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 1. Start a new branch.
 2. Within the `manufacturers folder` folder, create the claim files for the manufacturers products. If you organisae your files into subdirectories they will be recuresed into automatically at compile time.
 3. Add a YAML file with the details for your D3 spec. See

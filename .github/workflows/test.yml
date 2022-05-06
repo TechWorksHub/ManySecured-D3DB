@@ -1,0 +1,27 @@
+name: Tests
+
+# This action should run on every commit
+on: [push, pull_request]
+env:
+  # override poetry virtual env location
+  # required for actions/setup-python@v3 can cache poetry correctly
+  POETRY_VIRTUALENVS_IN_PROJECT: false
+ 
+jobs:
+  test:
+    name: Test Python scripts
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: d3-scripts
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v3
+        with:
+          # Turris Omnia uses Python 3.7.13
+          python-version: '3.7.13'
+          cache: 'poetry'
+      - run: poetry install
+      - run: poetry run pytest # tests whether our Python code works

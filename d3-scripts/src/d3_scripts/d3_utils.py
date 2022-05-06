@@ -78,12 +78,12 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: typing.List):
     # check URIs and other refs resolve
     check_uri_resolve(claim["credentialSubject"], schema)
 
-    # check behaviour statements are valid
-    check_behaviours_resolve(
+    # check behaviour statement is valid, if so add to claim
+    claim = check_behaviours_resolve(
         claim["credentialSubject"],
         schema,
         behaviour_jsons)
 
     # write JSON if valid
-    #write_json(json_file_name, claim)
+    write_json(json_file_name, claim)
     return True

@@ -5,25 +5,28 @@ def check_behaviours_resolve(
     json_data: dict,
     schema: dict,
     behaviour_jsons: List,
-) -> None:
+) -> dict:
     """Checks whether behaviours resolve, throws if not.
     Args:
         json_data: The JSON object to check
         schema: The JSON schema to use
         behaviour_jsons: The list of behaviour JSONs to check
     Returns:
-        None
+        Behaviour JSON object
     """
     # If both the schema and data contain a behaviour field, check it resolves
     if(schema["properties"].get("behaviour") and json_data.get("behaviour")):
-        behaviour = json_data["behaviour"]
-        if not behaviour_resolves(behaviour, behaviour_jsons):
+        behaviour_name = json_data["behaviour"]
+        behaviour = retrieve_behaviour(behaviour_name, behaviour_jsons)
+        if not behaviour:
             b = behaviour
             i = json_data["id"]
             raise Exception(f"Behaviour '{b}' of GUID {i} is invlid")
+        json_data["behaviour"] = behaviour["credentialSubject"]
+    return json_data
 
 
-def behaviour_resolves(name: str, behaviour_jsons: List) -> bool:
+def retrieve_behaviour(name: str, behaviour_jsons: List) -> bool:
     """Checks whether a behaviour exists with name = value.
     Args:
         name: The value to check
@@ -31,7 +34,7 @@ def behaviour_resolves(name: str, behaviour_jsons: List) -> bool:
     Returns:
         Boolean indicating if the behaviour exists
     """
-    return any(
+    return next(
         json for json in behaviour_jsons if
         json["credentialSubject"]["name"] == name
     )

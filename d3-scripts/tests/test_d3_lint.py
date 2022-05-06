@@ -5,7 +5,7 @@ import d3_scripts.d3_lint
 def test_lint():
     # should pass with no Exception
     d3_scripts.d3_lint.cli([
-        "../manufacturers/Amazon/Echo/echo.behaviour.d3.yaml",
+        "../manufacturers/AmazonTe/device.type.d3.yaml",
     ])
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_lint.cli([

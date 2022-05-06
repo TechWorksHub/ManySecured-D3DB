@@ -39,12 +39,17 @@ Links:
 - `./d3-scripts/src`: Folder containing the scripts for compiling the D3 YAML claims
 
 ### Workflow
-Useage `python3 ./d3_scripts/src/<script>.py`
+
+`cd d3-scripts/ && poetry install`
+
+This installs the scripts listed in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./d3-scripts/pyproject.toml).
 
 #### Scripts
-- `d3_build.py`: Runs all tests
-- `d3_build_db.py`: Convert claims to database format for the ManySecured router
-- `uuid.py`, `guid.py`: A helper to generate a UUID/GUID to add to your claim defintion
+
+- `poetry run d3build`: Runs all tests
+- `poetry run d3lint`: Checks YAML files conform to the standard
+- _Unimplemented_ `d3_build_db.py`: Convert claims to database format for the ManySecured router
+- _Unimplemented_ `uuid.py`, `guid.py`: A helper to generate a UUID/GUID to add to your claim defintion
 
 #### Pipeline scripts/utils
 - `yaml_lint.py`: Checks YAML files conform to the YAML standard and naming conventions

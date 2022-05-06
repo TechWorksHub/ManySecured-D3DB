@@ -46,7 +46,7 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
     return True
 
 
-def process_claim_file(yaml_file_name: str):
+def process_claim_file(yaml_file_name: str, behaviour_jsons: typing.List):
     """Processes a single D3 claim file.
     Checks include:
     - is unchanged claim
@@ -79,7 +79,10 @@ def process_claim_file(yaml_file_name: str):
     check_uri_resolve(claim["credentialSubject"], schema)
 
     # check behaviour statements are valid
-    check_behaviours_resolve(claim["credentialSubject"], schema)
+    check_behaviours_resolve(
+        claim["credentialSubject"],
+        schema,
+        behaviour_jsons)
 
     # write JSON if valid
     #write_json(json_file_name, claim)

@@ -3,9 +3,10 @@
 from pathlib import Path
 import multiprocessing as mp
 from tqdm import tqdm
+import functools
 from .d3_utils import process_claim_file
 from .guid_tools import get_guid, check_guids
-from .yaml_tools import is_valid_yaml_claim
+from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
 
 
 def claim_handler(file_name):
@@ -38,11 +39,23 @@ def d3_build():
     pbar.update(30)
 
     pbar.set_description("Processing claims")
-    pool.map(process_claim_file, files_to_process)
+    # Pass behaviour files into process_claim_file function
+    behaviour_files = get_files_by_type(files_to_process, "behaviour")
+    behaviour_jsons = pool.map(load_claim, behaviour_files)
+    process_claim = functools.partial(
+        process_claim_file,
+        behaviour_jsons=behaviour_jsons)
+
+    pool.map(process_claim, files_to_process)
     pool.close()
     pbar.update(30)
     pbar.set_description("Done!")
     pbar.close()
+
+
+def get_files_by_type(files, type_code):
+    return [file for file in files
+            if get_yaml_suffixes(file)[0] == "." + type_code]
 
 
 if __name__ == "__main__":

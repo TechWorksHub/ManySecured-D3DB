@@ -7,9 +7,9 @@ credentialSubject:
 
     #general manufacturer information
   manufacturer:     Brother UK Ltd
-  manufacturer-uri: https://brother.com
+  manufacturerUri: https://brother.com
 
   #model specific information
-  model-number:          MFC-J6920DW
-  model-support-uri:     https://www.brother.co.uk/support/mfcj6920dw/downloads
-  model-information-uri: https://www.brother.co.uk/printers/inkjet-printers/mfcj6920dw
+  modelNumber:          MFC-J6920DW
+  modelSupportUri:     https://www.brother.co.uk/support/mfcj6920dw/downloads
+  modelInformationUri: https://www.brother.co.uk/printers/inkjet-printers/mfcj6920dw

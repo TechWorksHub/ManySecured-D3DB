@@ -5,7 +5,7 @@ credentialSubject:
 
   #general manufacturer information
   manufacturer:     Brother UK Ltd
-  manufacturer-uri: https://brother.com
+  manufacturerUri: https://brother.com
 
   #specific information
   name: "Brother"

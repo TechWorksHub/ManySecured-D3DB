@@ -79,7 +79,7 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: typing.List):
     check_uri_resolve(claim["credentialSubject"], schema)
 
     # check behaviour statement is valid, if so add to claim
-    claim = check_behaviours_resolve(
+    claim["credentialSubject"] = check_behaviours_resolve(
         claim["credentialSubject"],
         schema,
         behaviour_jsons)

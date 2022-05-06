@@ -16,3 +16,7 @@ repos:
     -   id: mixed-line-ending
         # prevent Windows CRLF line ending, and use LF (Unix) line ending
         args: ["--fix=lf"]
+    # Python-only-checks
+    -   id: check-ast # check whether valid Python
+    -   id: check-docstring-first # check Python doc-string location
+    -   id: debug-statements # forbid committing Python debug statements

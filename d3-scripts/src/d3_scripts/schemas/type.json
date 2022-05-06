@@ -60,7 +60,7 @@
       },
       "behaviour": {
         "type": "string",
-        "description": "The behaviour name of the device type"
+        "description": "The behaviour name or id for this device type"
       }
     },
     "required": ["id"]

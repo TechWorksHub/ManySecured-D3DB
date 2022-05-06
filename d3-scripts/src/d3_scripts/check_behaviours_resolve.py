@@ -27,7 +27,7 @@ def check_behaviours_resolve(
 
 
 def retrieve_behaviour(name: str, behaviour_jsons: List) -> bool:
-    """Checks whether a behaviour exists with name = value.
+    """Checks whether a behaviour exists with name or id = value.
     Args:
         name: The value to check
         behaviour_jsons: The list of behaviours to check
@@ -36,5 +36,6 @@ def retrieve_behaviour(name: str, behaviour_jsons: List) -> bool:
     """
     return next(
         json for json in behaviour_jsons if
-        json["credentialSubject"]["name"] == name
+        json["credentialSubject"]["name"] == name or
+        json["credentialSubject"]["id"] == name
     )

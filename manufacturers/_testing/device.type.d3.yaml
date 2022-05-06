@@ -5,8 +5,5 @@ credentialSubject:
   manufacturer: NquiringMinds
   manufacturerUri: https://nquiringminds.com
   name: nqminds
-  behaviours: 
-  - name: Behaviour 1
-  - id: a86aa19f-a81d-4624-b290-436172a8db1c
-  - name: 2
+  behaviour: Behaviour 1
 type: d3-device-type-assertion

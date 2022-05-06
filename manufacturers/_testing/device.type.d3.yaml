@@ -1,0 +1,12 @@
+credentialSubject:
+  id: 0de372d6-4ccc-46d3-a1ce-eb73e89b9b73
+  macAddresses:
+  - C5-5E-87-89-3C-3B
+  manufacturer: NquiringMinds
+  manufacturerUri: https://nquiringminds.com
+  name: nqminds
+  behaviours: 
+  - name: Behaviour 1
+  - id: a86aa19f-a81d-4624-b290-436172a8db1c
+  - name: 2
+type: d3-device-type-assertion

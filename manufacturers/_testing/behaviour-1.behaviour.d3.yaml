@@ -1,0 +1,11 @@
+type: d3-behaviour
+credentialSubject:
+  id: aa92ebae-4928-4456-b597-cbd7657e9e83
+  name: Behaviour 1
+  rules:
+    - name: rule no. 1
+      matches:
+        ip4:
+          protocol: 1
+        tcp:
+          destination-port: 1

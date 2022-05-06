@@ -21,3 +21,5 @@ pre-commit install
 
 This will automatically run some formatting/linting checks before making a `git commit`.
 You can also manually run `pre-commit` on all files by doing `pre-commit run --all-files`.
+
+**If you want to skip hooks (e.g. to make a WIP commit) run `git commit --no-verify`**

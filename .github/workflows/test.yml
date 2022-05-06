@@ -25,3 +25,20 @@ jobs:
           cache: 'poetry'
       - run: poetry install
       - run: poetry run pytest # tests whether our Python code works
+  d3build:
+    name: Run D3 Build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: d3-scripts
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3'
+          cache: 'poetry'
+      - run: poetry install
+      - run: poetry run d3build
+      # todo, commit the ../manufacturers_json/ dir to a new branch

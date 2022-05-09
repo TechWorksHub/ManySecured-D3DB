@@ -10,3 +10,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v3
       - uses: pre-commit/action@v2.0.3
+        env:
+          # skip the check that throws on `main` branch
+          SKIP: no-commit-to-branch

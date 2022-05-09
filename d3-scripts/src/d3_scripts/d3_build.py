@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+import argparse
 from pathlib import Path
 import multiprocessing as mp
 from tqdm import tqdm
@@ -68,5 +69,27 @@ def get_files_by_type(files, type_code):
             if get_yaml_suffixes(file)[0] == "." + type_code]
 
 
+def cli(argv=None):
+    parser = argparse.ArgumentParser(
+        description="Build D3 YAML files into JSON files",
+        epilog="Example: d3build manufacturers/",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument(
+        "D3_FOLDER",
+        nargs="*",
+        help="Folders containing D3 YAML files.",
+        default=f"{Path(__file__).parents[3] / 'manufacturers'}",
+        type=Path,
+    )
+
+    args = parser.parse_args(argv)
+    d3_build(
+        d3_files=(
+          d3_file for d3_folder in args.D3_FOLDER for d3_file in Path(d3_folder).glob("**/*.yaml")
+        ),
+    )
+
+
 if __name__ == "__main__":
-    d3_build()
+    cli()

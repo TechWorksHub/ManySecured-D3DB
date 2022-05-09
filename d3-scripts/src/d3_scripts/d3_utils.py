@@ -9,7 +9,7 @@ from .validate_schemas import (
     validate_claim_meta_schema, validate_schema
 )
 from .check_uri_resolve import check_uri_resolve
-from .check_behaviours_resolve import check_behaviours_resolve
+from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
 
 def validate_d3_claim_files(yaml_file_names: typing.List[str]):
@@ -46,7 +46,7 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
     return True
 
 
-def process_claim_file(yaml_file_name: str, behaviour_jsons: typing.List):
+def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
     """Processes a single D3 claim file.
     Checks include:
     - is unchanged claim

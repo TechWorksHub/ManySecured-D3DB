@@ -3,11 +3,14 @@ import requests
 import logging
 
 
-def check_uri_resolve(json_data: dict, schema: dict) -> None:
+def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
     """Checks uri resolves in a JSON object, provids soft warning if not.
+
     Args:
         json_data: The JSON object to check
         schema: The JSON schema to use
+        check_uri_resolves: Whether to check if the uri resolves.
+
     Returns:
         None
     """
@@ -19,7 +22,8 @@ def check_uri_resolve(json_data: dict, schema: dict) -> None:
         uri = json_data.get(uri_field)
         if(uri is not None):
             is_valid_uri(uri)
-            uri_resolves(uri)
+            if check_uri_resolves:
+                uri_resolves(uri)
 
 
 def is_valid_uri(uri: str) -> None:

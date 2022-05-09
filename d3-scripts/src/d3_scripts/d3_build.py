@@ -20,12 +20,15 @@ def claim_handler(file_name):
 
 def d3_build(
     d3_files: typing.Iterable[Path] = (Path(__file__).parents[3] / "manufacturers").glob("**/*.yaml"),
+    check_uri_resolves: bool = True,
 ):
     """Build compressed D3 files from D3 YAML files
 
     Args:
         d3_files: The D3 YAML files to build from.
                   Defaults to all the YAML files in the ../../../manufacturers directory.
+        check_uri_resolves: Whether to check that URIs/refs resolve.
+                            This can be very slow, so you may want to leave this off normally.
     """
     print("Compiling D3 claims...")
     bar_format = "{desc: <20}|{bar}| {percentage:3.0f}% [{elapsed}]"
@@ -53,7 +56,9 @@ def d3_build(
     behaviour_jsons = tuple(pool.map(load_claim, behaviour_files))
     process_claim = functools.partial(
         process_claim_file,
-        behaviour_jsons=behaviour_jsons)
+        behaviour_jsons=behaviour_jsons,
+        check_uri_resolves=check_uri_resolves,
+    )
     pbar.update(10)
 
     pbar.set_description("Processing claims")
@@ -79,8 +84,13 @@ def cli(argv=None):
         "D3_FOLDER",
         nargs="*",
         help="Folders containing D3 YAML files.",
-        default=f"{Path(__file__).parents[3] / 'manufacturers'}",
+        default=[f"{Path(__file__).parents[3] / 'manufacturers'}"],
         type=Path,
+    )
+    parser.add_argument(
+        "--check_uri_resolves",
+        action="store_true",
+        help="Check that URIs/refs resolve. This can be very slow, so you may want to leave this off normally.",
     )
 
     args = parser.parse_args(argv)
@@ -88,6 +98,7 @@ def cli(argv=None):
         d3_files=(
           d3_file for d3_folder in args.D3_FOLDER for d3_file in Path(d3_folder).glob("**/*.yaml")
         ),
+        check_uri_resolves=args.check_uri_resolves,
     )
 
 

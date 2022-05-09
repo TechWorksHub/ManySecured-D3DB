@@ -47,8 +47,9 @@ def uri_resolves(uri: str) -> None:
     # TODO: Temporary bypass for example uri
     if(not uri == "https://device-type.com"):
         try:
-            response = requests('GET', uri, retries=False)
-            if(response.status != 200):
-                raise ValueError()
+            # timeout of 5 seconds is pretty slow, but so are some people's servers
+            response = requests.head(uri, timeout=5)
+            # throws an error if HTTP Code >= 400
+            response.raise_for_status()
         except Exception:
             logging.warning("URI " + uri + " cannot be resolved")

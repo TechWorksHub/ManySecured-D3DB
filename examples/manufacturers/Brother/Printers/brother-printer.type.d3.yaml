@@ -1,13 +1,12 @@
 type: d3-device-type-assertion
-credentialSubject: 
-  # unique identifiers 
+credentialSubject:
+  # unique identifiers
   id: 76ac379a-5f93-418b-9a34-5c715042fdc2
 
-  #general manufacturer information  
+  #general manufacturer information
   manufacturer:     Brother UK Ltd
-  manufacturer-uri: https://brother.com 
+  manufacturerUri: https://brother.com
 
   #specific information
   types: ["Printers", "Fax", "Scanners"]
   name: "Brother Printers"
- 

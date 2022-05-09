@@ -9,6 +9,7 @@ from .validate_schemas import (
     validate_claim_meta_schema, validate_schema
 )
 from .check_uri_resolve import check_uri_resolve
+from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
 
 def validate_d3_claim_files(yaml_file_names: typing.List[str]):
@@ -45,12 +46,13 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
     return True
 
 
-def process_claim_file(yaml_file_name: str):
+def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
     """Processes a single D3 claim file.
     Checks include:
     - is unchanged claim
     - is valid claim relative to JSONSchema for type
     - are all URIs/refs resolveable/valid
+    - behaviour statements are valid
 
     Args:
         yaml_file_name: The filepath to the YAML file
@@ -75,6 +77,12 @@ def process_claim_file(yaml_file_name: str):
 
     # check URIs and other refs resolve
     check_uri_resolve(claim["credentialSubject"], schema)
+
+    # check behaviour statement is valid, if so add to claim
+    claim["credentialSubject"] = check_behaviours_resolve(
+        claim["credentialSubject"],
+        schema,
+        behaviour_jsons)
 
     # write JSON if valid
     write_json(json_file_name, claim)

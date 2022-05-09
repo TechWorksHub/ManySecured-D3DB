@@ -71,6 +71,9 @@ def lint_yaml(file_name: str, show_problems=True) -> typing.Literal[0, 1]:
             line-length:
                 # 80 characters is too small for 1080p/4K monitors
                 max: 120
+            indentation:
+                spaces: consistent
+                indent-sequences: consistent
     """
     )
     contents = Path(file_name).read_text()

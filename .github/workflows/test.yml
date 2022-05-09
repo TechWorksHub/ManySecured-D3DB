@@ -6,7 +6,7 @@ env:
   # override poetry virtual env location
   # required for actions/setup-python@v3 can cache poetry correctly
   POETRY_VIRTUALENVS_IN_PROJECT: false
- 
+
 jobs:
   test:
     name: Test Python scripts

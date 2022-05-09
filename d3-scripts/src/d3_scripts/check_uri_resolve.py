@@ -1,6 +1,6 @@
 import validators
 import requests
-import logging
+import warnings
 
 
 def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
@@ -44,6 +44,7 @@ def uri_resolves(uri: str) -> None:
     Returns:
         None
     """
+
     # TODO: Temporary bypass for example uri
     if(not uri == "https://device-type.com"):
         try:
@@ -51,5 +52,5 @@ def uri_resolves(uri: str) -> None:
             response = requests.head(uri, timeout=5)
             # throws an error if HTTP Code >= 400
             response.raise_for_status()
-        except Exception:
-            logging.warning("URI " + uri + " cannot be resolved")
+        except Exception as error:
+            warnings.warn(f"URI {uri} cannot be resolved: {error}")

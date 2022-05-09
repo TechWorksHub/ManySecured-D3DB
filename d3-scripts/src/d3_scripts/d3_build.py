@@ -3,6 +3,7 @@
 import argparse
 from pathlib import Path
 import multiprocessing as mp
+import logging
 from tqdm import tqdm
 import functools
 from .d3_utils import process_claim_file
@@ -62,7 +63,10 @@ def d3_build(
     pbar.update(10)
 
     pbar.set_description("Processing claims")
-    pool.map(process_claim, files_to_process)
+    for i, warnings in enumerate(pool.map(process_claim, files_to_process)):
+        for warning in warnings:
+            logging.warning(f"{warning} in {files_to_process[i]}")
+
     pool.close()
     pbar.update(20)
     pbar.set_description("Done!")

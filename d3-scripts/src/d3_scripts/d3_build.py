@@ -46,17 +46,19 @@ def d3_build(
     check_guids(guids, files_to_process)
     pbar.update(30)
 
-    pbar.set_description("Processing claims")
     # Pass behaviour files into process_claim_file function
+    pbar.set_description("Loading claims")
     behaviour_files = get_files_by_type(files_to_process, "behaviour")
     behaviour_jsons = tuple(pool.map(load_claim, behaviour_files))
     process_claim = functools.partial(
         process_claim_file,
         behaviour_jsons=behaviour_jsons)
+    pbar.update(10)
 
+    pbar.set_description("Processing claims")
     pool.map(process_claim, files_to_process)
     pool.close()
-    pbar.update(30)
+    pbar.update(20)
     pbar.set_description("Done!")
     pbar.close()
 

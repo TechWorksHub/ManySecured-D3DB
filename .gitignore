@@ -115,3 +115,6 @@ packages/*/dist/*
 
 # Nick proofing
 ./**/desktop.ini
+
+# D3 build artefacts
+manufacturers_json/

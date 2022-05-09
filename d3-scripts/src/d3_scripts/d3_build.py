@@ -96,8 +96,30 @@ def cli(argv=None):
         action="store_true",
         help="Check that URIs/refs resolve. This can be very slow, so you may want to leave this off normally.",
     )
+    debug_level_group = parser.add_mutually_exclusive_group()
+    debug_level_group.add_argument(
+        "--verbose",
+        "-v",
+        dest="log_level",
+        action="append_const",
+        const=-10,
+    )
+    debug_level_group.add_argument(
+        "--quiet",
+        "-q",
+        dest="log_level",
+        action="append_const",
+        const=10,
+    )
 
     args = parser.parse_args(argv)
+
+    log_level_sum = min(
+        sum(args.log_level or tuple(), logging.INFO),
+        logging.ERROR
+    )
+    logging.basicConfig(level=log_level_sum)
+
     d3_build(
         d3_files=(
           d3_file for d3_folder in args.D3_FOLDER for d3_file in Path(d3_folder).glob("**/*.yaml")

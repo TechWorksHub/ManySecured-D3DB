@@ -1,75 +1,52 @@
 from pathlib import Path
 import jsonschema
+import functools
 from .d3_constants import d3_type_codes_to_schemas
 from .json_tools import load_json
-from .yaml_tools import load_claim, get_yaml_suffixes
+from .yaml_tools import get_yaml_suffixes
 
 schema_store = Path(__file__).parent / "schemas"
 
 
-def get_schema_from_d3_claim(yaml_path: str):
-    """Gets the schema from the D3 claim file type field
-
-    Args:
-        yaml_path: The filepath to the YAML claim file
+@functools.lru_cache(maxsize=None)
+def get_d3_claim_schema_validator(d3_type: str) -> jsonschema.Validator:
+    """Loads a jsonschema validator for a specific d3 type
 
     Returns:
-        The JSON schema for the D3 claim file type
+        The D3 master claim schema as a Python dict
     """
-    # import yaml claim to Python dict (JSON)
-    claim = load_claim(yaml_path)
-    claim_type = claim["type"]
-    try:
-        d3_schema_name = d3_type_codes_to_schemas[claim_type]
-    except KeyError:
-        raise KeyError(
-            f"Unknown D3 claim type='{claim_type} in D3 file {yaml_path}'"
-        )
+    schema_path = schema_store / f"{d3_type}.json"
+    d3_schema = load_json(schema_path)
 
-    schema_path = schema_store / f"{d3_schema_name}.json"
-    return load_json(str(schema_path.resolve()))
+    jsonschema.Draft202012Validator.check_schema(d3_schema)
+    return jsonschema.Draft202012Validator(schema=d3_schema)
 
 
-def get_schema_from_path(yaml_path: str):
-    """Gets the schema from the D3 claim file extension
+def get_schema_validator_from_path(yaml_path: str) -> jsonschema.Validator:
+    """Gets the schema validator from the D3 claim file extension
 
     Args:
         yaml_path: The filepath to the YAML claim file
 
     Returns:
-        The JSON schema for the D3 claim file type
+        The JSON schema validator for the D3 claim file type
     """
     d3_type = get_yaml_suffixes(yaml_path)[0].replace(".", "")
-    schema_path = schema_store / f"{d3_type}.json"
-    return load_json(str(schema_path.resolve()))
+    return get_d3_claim_schema_validator(d3_type)
 
 
-def validate_schema(json_data: dict, schema: dict):
-    """Validates a JSON data against a JSON schema
-
-    Args:
-        json_data: The data to validate
-        schema: The JSON schema to validate against
-
-    Returns:
-        Boolean indicating if the data is valid else throws an exception
-    """
-    jsonschema.validate(
-        instance=json_data,
-        schema=schema,
-    )
-    return True
-
-
-def get_d3_master_claim_schema():
-    """Loads the D3 master claim schema
+@functools.lru_cache(maxsize=None)
+def d3_master_claim_schema_validator() -> jsonschema.Validator:
+    """Loads a jsonschema validator for the D3 master claim schema
 
     Returns:
         The D3 master claim schema as a Python dict
     """
     schema_dir = Path(__file__).parent / "schemas"
     d3_schema = load_json(schema_dir / "d3-claim.json")
-    return d3_schema
+
+    jsonschema.Draft202012Validator.check_schema(d3_schema)
+    return jsonschema.Draft202012Validator(schema=d3_schema)
 
 
 def validate_claim_meta_schema(claim: dict):
@@ -81,6 +58,6 @@ def validate_claim_meta_schema(claim: dict):
     Returns:
         Boolean indicating if the claim is valid else throws an exception
     """
-    d3_master_schema = get_d3_master_claim_schema()
-    validate_schema(claim, d3_master_schema)
+    d3_master_schema_validator = d3_master_claim_schema_validator()
+    d3_master_schema_validator.validate(claim)
     return True

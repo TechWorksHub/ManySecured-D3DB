@@ -10,9 +10,9 @@ from .yaml_tools import get_yaml_suffixes
 path_type = Union[Path, str]
 id_type = Union[str, UUID]
 
-src_path = Path(__file__).absolute()
-yaml_store = src_path.parents[3] / "manufacturers_json"
-csv_store = src_path.parents[3] / "D3DB"
+src_dir = Path(__file__).absolute()
+json_dir = src_dir.parents[3] / "manufacturers_json"
+csv_dir = src_dir.parents[3] / "D3DB"
 
 
 def get_ruleid(id: id_type, name: str) -> str:
@@ -37,9 +37,11 @@ def get_ruleid(id: id_type, name: str) -> str:
 def create_csv_templates() -> None:
     """Creates the csv files + header for the D3DB output CSVs"""
     for name, header in csv_headers.items():
-        file_name = csv_store / f"{name}.csv"
+        file_name = csv_dir / f"{name}.csv"
         with open(file_name, "w") as csv_file:
-            csv_writer = DictWriter(csv_file, fieldnames=header, dialect="unix")
+            csv_writer = DictWriter(
+                csv_file, fieldnames=header, dialect="unix"
+            )
             csv_writer.writeheader()
 
 
@@ -66,7 +68,7 @@ def export_type_csv(file_path: path_type) -> None:
     Args:
         file_path: The path to the D3 type claim JSON.
     """
-    file_name = csv_store / "type.csv"
+    file_name = csv_dir / "type.csv"
     data = load_json(file_path)["credentialSubject"]
     data = {k.lower(): v for k, v in data.items()}
     write_csv_data(file_name, csv_headers["type"], data)
@@ -78,7 +80,7 @@ def export_behaviour_csv(file_path: path_type) -> None:
     Args:
         file_path: The path to the D3 behaviour claim JSON.
     """
-    behaviour_file = csv_store / "behaviour.csv"
+    behaviour_file = csv_dir / "behaviour.csv"
     data = load_json(file_path)["credentialSubject"]
     behaviour = {"id": data["id"]}
     behaviour_name = data["ruleName"] if data["ruleName"] else file_path.stem
@@ -105,7 +107,7 @@ def export_rule_csv(rule_type: str, rule: dict, entry_id: id_type) -> None:
     data = {k.lower(): v for k, v in data.items()}
     data["id"] = entry_id
     rule_stem = f"behaviour_{rule_type}"
-    file_name = csv_store / f"{rule_stem}.csv"
+    file_name = csv_dir / f"{rule_stem}.csv"
 
     write_csv_data(file_name, csv_headers[rule_stem], data)
 

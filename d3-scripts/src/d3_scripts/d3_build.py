@@ -18,13 +18,15 @@ def claim_handler(file_name):
 
 
 def d3_build(
-    d3_files: typing.Iterable[Path] = (Path(__file__).parents[3] / "manufacturers").glob("**/*.yaml"),
+    d3_files: typing.Iterable[Path] =
+        (Path(__file__).parents[3] / "manufacturers").glob("**/*.yaml"),
 ):
     """Build compressed D3 files from D3 YAML files
 
     Args:
         d3_files: The D3 YAML files to build from.
-                  Defaults to all the YAML files in the ../../../manufacturers directory.
+                  Default is all YAML files in the
+                  ../../../manufacturers directory
     """
     print("Compiling D3 claims...")
     bar_format = "{desc: <20}|{bar}| {percentage:3.0f}% [{elapsed}]"

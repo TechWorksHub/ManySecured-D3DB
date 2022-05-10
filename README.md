@@ -42,7 +42,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
 - `./examples`: example claim and behaviour definitions
 - `./schemas`: Folder containing the JSON schemas for each D3 claim
 - `./d3-scripts`: Folder containing the scripts for compiling the D3 YAML claims
-- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the schemas used in the compilation process
+- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the JSON schemas used in the compilation process
 
 ### Workflow
 

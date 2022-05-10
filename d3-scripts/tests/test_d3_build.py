@@ -3,11 +3,15 @@ from pathlib import Path
 
 import d3_scripts.d3_build
 
+
 def test_duplicated_guids():
     # should throw an error due to duplicate UUID
     with pytest.raises(Exception) as excinfo:
-        d3_scripts.d3_build.d3_build(d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-uuid").glob("*.yaml"))
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-uuid").glob("*.yaml")
+        )
     assert "Duplicate GUIDs" in excinfo.value.args[0]
+
 
 def test_invalid_uri(caplog):
     """Test whether invalid uris log a warning and whether valid URIs don't log a warning
@@ -16,7 +20,7 @@ def test_invalid_uri(caplog):
         try:
             json_file.unlink()
         except FileNotFoundError:
-            pass # can't use missing_ok = True since it's only added in Python 3.8
+            pass  # can't use missing_ok = True since it's only added in Python 3.8
 
     d3_scripts.d3_build.d3_build(
         d3_files=(Path(__file__).parent / "__fixtures__" / "invalid-uri").glob("invalid-uri.*.yaml"),
@@ -33,6 +37,7 @@ def test_invalid_uri(caplog):
     )
     # should be empty, as all URIs are valid
     assert len(caplog.records) == 0
+
 
 def test_build():
     # should succeed

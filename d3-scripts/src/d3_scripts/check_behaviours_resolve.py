@@ -45,10 +45,13 @@ def retrieve_behaviour(name: str, behaviour_jsons: BehaviourJsons) -> bool:
         return id_map[name]
     name_map = _behaviour_name_map(behaviour_jsons)
     if name in name_map:
-        return  name_map[name]
+        return name_map[name]
     return None
 
+
 T = TypeVar("T")
+
+
 def _cache_map_based_on_behaviour_jsons(f: Callable[[BehaviourJsons], T]) -> Callable[[BehaviourJsons], T]:
     """Decorator that caches the result of a function based on the ID of behaviour_jsons.
 
@@ -73,9 +76,11 @@ def _cache_map_based_on_behaviour_jsons(f: Callable[[BehaviourJsons], T]) -> Cal
 
     return wrapper
 
+
 @_cache_map_based_on_behaviour_jsons
 def _behaviour_name_map(behaviour_jsons: BehaviourJsons) -> Dict[str, BehaviourJson]:
     return {json["credentialSubject"]["name"]: json for json in behaviour_jsons}
+
 
 @_cache_map_based_on_behaviour_jsons
 def _behaviour_id_map(behaviour_jsons: BehaviourJsons) -> Dict[str, BehaviourJson]:

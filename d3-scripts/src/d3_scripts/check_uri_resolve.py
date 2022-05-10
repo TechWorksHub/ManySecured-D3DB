@@ -23,7 +23,7 @@ def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
         if(uri is not None):
             # technically, this checks if the URI is valid URL,
             # but they're close enough that this will probably be okay
-            urllib.parse.urlparse(uri) # throws if invalid
+            urllib.parse.urlparse(uri)  # throws if invalid
             if check_uri_resolves:
                 uri_resolves(uri)
 

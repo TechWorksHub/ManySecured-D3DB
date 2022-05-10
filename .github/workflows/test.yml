@@ -17,7 +17,7 @@ jobs:
         env:
           # skip the check that throws on `main` branch
           SKIP: no-commit-to-branch
-  lint-d3:
+  d3lint:
     name: Lint D3 claims
     # Ideally this would be part of the .pre-commit-config.yaml,
     # but pre-commit cannot install python dependencies that are
@@ -56,7 +56,7 @@ jobs:
     name: Run D3 Build
     runs-on: ubuntu-latest
     # d3build is slow, so only run if lint/tests pass
-    needs: [pre-commit, test]
+    needs: [pre-commit, test, d3lint]
     defaults:
       run:
         working-directory: d3-scripts

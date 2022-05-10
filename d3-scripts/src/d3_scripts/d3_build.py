@@ -99,7 +99,8 @@ def cli(argv=None):
     parser.add_argument(
         "--check_uri_resolves",
         action="store_true",
-        help="Check that URIs/refs resolve. This can be very slow, so you may want to leave this off normally.",
+        help="""Check that URIs/refs resolve.
+        This can be very slow, so you may want to leave this off normally.""",
     )
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(

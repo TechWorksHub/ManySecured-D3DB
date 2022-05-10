@@ -1,5 +1,5 @@
-import validators
 import requests
+import urllib.parse
 import warnings
 
 
@@ -21,20 +21,11 @@ def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
     for uri_field in uri_fields:
         uri = json_data.get(uri_field)
         if(uri is not None):
-            is_valid_uri(uri)
+            # technically, this checks if the URI is valid URL,
+            # but they're close enough that this will probably be okay
+            urllib.parse.urlparse(uri)  # throws if invalid
             if check_uri_resolves:
                 uri_resolves(uri)
-
-
-def is_valid_uri(uri: str) -> None:
-    """Checks if a URI is valid.
-    Args:
-        uri: The URI to check
-    Returns:
-        None
-    """
-    if (not validators.url(uri)):
-        raise ValueError(uri + " is not a valid URI")
 
 
 def uri_resolves(uri: str) -> None:

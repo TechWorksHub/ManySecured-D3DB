@@ -73,6 +73,7 @@ def export_type_csv(file_path: path_type) -> None:
     file_name = csv_dir / "type.csv"
     data = load_json(file_path)["credentialSubject"]
     data = {k.lower(): v for k, v in data.items()}
+    data["behaviour"] = data.get("behaviour", {}).get("id", "")
     write_csv_data(file_name, csv_headers["type"], data)
 
 

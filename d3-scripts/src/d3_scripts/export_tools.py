@@ -39,7 +39,7 @@ def create_csv_templates() -> None:
     for name, header in csv_headers.items():
         file_name = csv_store / f"{name}.csv"
         with open(file_name, "w") as csv_file:
-            csv_writer = DictWriter(csv_file, fieldnames=header)
+            csv_writer = DictWriter(csv_file, fieldnames=header, dialect="unix")
             csv_writer.writeheader()
 
 

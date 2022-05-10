@@ -28,7 +28,8 @@ pytest = "^7.1.2"
 
 [tool.poetry.scripts]
 d3lint = "d3_scripts.d3_lint:cli"
-d3build = "d3_scripts.d3_build:d3_build"
+d3build = "d3_scripts.d3_build:cli"
+d3compile = "d3_scripts.d3_build:d3_build"
 d3export = "d3_scripts.d3_build_db:d3_build_db"
 
 [build-system]

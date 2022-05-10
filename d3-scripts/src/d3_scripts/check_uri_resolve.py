@@ -1,13 +1,16 @@
 import validators
 import requests
-import logging
+import warnings
 
 
-def check_uri_resolve(json_data: dict, schema: dict) -> None:
+def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
     """Checks uri resolves in a JSON object, provids soft warning if not.
+
     Args:
         json_data: The JSON object to check
         schema: The JSON schema to use
+        check_uri_resolves: Whether to check if the uri resolves.
+
     Returns:
         None
     """
@@ -19,7 +22,8 @@ def check_uri_resolve(json_data: dict, schema: dict) -> None:
         uri = json_data.get(uri_field)
         if(uri is not None):
             is_valid_uri(uri)
-            uri_resolves(uri)
+            if check_uri_resolves:
+                uri_resolves(uri)
 
 
 def is_valid_uri(uri: str) -> None:
@@ -40,11 +44,13 @@ def uri_resolves(uri: str) -> None:
     Returns:
         None
     """
+
     # TODO: Temporary bypass for example uri
     if(not uri == "https://device-type.com"):
         try:
-            response = requests('GET', uri, retries=False)
-            if(response.status != 200):
-                raise ValueError()
-        except Exception:
-            logging.warning("URI " + uri + " cannot be resolved")
+            # timeout of 5 seconds is pretty slow, but so are some people's servers
+            response = requests.head(uri, timeout=5)
+            # throws an error if HTTP Code >= 400
+            response.raise_for_status()
+        except Exception as error:
+            warnings.warn(f"URI {uri} cannot be resolved: {error}")

@@ -51,5 +51,7 @@ jobs:
           python-version: '3'
           cache: 'poetry'
       - run: poetry install
-      - run: poetry run d3build
-      # todo, commit the ../manufacturers_json/ dir to a new branch
+      - name: Validate D3 files and convert to JSON
+        run: poetry run d3build
+      - name: Export D3 JSON files into CSV
+        run: poetry run d3export

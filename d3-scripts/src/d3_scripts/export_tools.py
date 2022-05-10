@@ -58,7 +58,7 @@ def write_csv_data(
         data: A dict of data (keyed on the headers).
     """
     with open(file_name, "a") as csv_file:
-        csv_writer = DictWriter(csv_file, fieldnames=headers)
+        csv_writer = DictWriter(csv_file, fieldnames=headers, dialect="unix")
         csv_writer.writerow(data)
 
 

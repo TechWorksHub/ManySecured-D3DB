@@ -6,8 +6,8 @@ from pathlib import Path
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
 from .json_tools import is_json_unchanged, get_json_file_name, write_json
 from .validate_schemas import (
-    get_schema_from_path, get_schema_from_d3_claim,
-    validate_claim_meta_schema, validate_schema
+    get_schema_validator_from_path,
+    validate_claim_meta_schema,
 )
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
@@ -34,14 +34,14 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str], check_uri_resolve
         # import yaml claim to Python dict (JSON)
         claim = load_claim(file)
         # validate schema
-        schema = get_schema_from_d3_claim(file)
-        validate_schema(claim["credentialSubject"], schema)
+        schema_validator = get_schema_validator_from_path(file)
+        schema_validator.validate(claim["credentialSubject"])
 
     logging.info("Checking whether D3 files have valid URIs/refs")
     for file in yaml_file_names:
         # import yaml claim to Python dict (JSON)
         claim = load_claim(file)
-        schema = get_schema_from_path(file)
+        schema = get_schema_validator_from_path(file).schema
         # check URIs and other refs resolve
         check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
     return True
@@ -77,9 +77,10 @@ def process_claim_file(
         return []
 
     # validate schema
-    schema = get_schema_from_path(yaml_file_name)
     validate_claim_meta_schema(claim)
-    validate_schema(claim["credentialSubject"], schema)
+    schema_validator = get_schema_validator_from_path(yaml_file_name)
+    schema = schema_validator.schema
+    schema_validator.validate(claim["credentialSubject"])
 
     # check URIs and other refs resolve
     with warnings.catch_warnings(record=True) as uri_warnings:

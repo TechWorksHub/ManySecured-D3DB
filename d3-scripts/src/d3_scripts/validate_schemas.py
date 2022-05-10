@@ -1,7 +1,6 @@
 from pathlib import Path
 import jsonschema
 import functools
-from .d3_constants import d3_type_codes_to_schemas
 from .json_tools import load_json
 from .yaml_tools import get_yaml_suffixes
 

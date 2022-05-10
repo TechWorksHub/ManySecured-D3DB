@@ -15,7 +15,10 @@ from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
 
-def validate_d3_claim_files(yaml_file_names: typing.Sequence[str], check_uri_resolves: bool = False):
+def validate_d3_claim_files(
+    yaml_file_names: typing.Sequence[str],
+    check_uri_resolves: bool = False
+):
     """Checks whether D3 claim files are valid.
 
     Performs each check sequentially, (e.g. like a normal CI task)
@@ -35,7 +38,11 @@ def validate_d3_claim_files(yaml_file_names: typing.Sequence[str], check_uri_res
         claim = load_claim(file)
         schema = get_schema_validator_from_path(file).schema
         # check URIs and other refs resolve
-        check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
+        check_uri(
+            claim["credentialSubject"],
+            schema,
+            check_uri_resolves=check_uri_resolves
+        )
 
     stages = {
         "Checking if D3 files have correct filename": lambda file: is_valid_yaml_claim(file),
@@ -50,11 +57,12 @@ def validate_d3_claim_files(yaml_file_names: typing.Sequence[str], check_uri_res
             unit="files",
             desc=description,
             disable=logging.getLogger().getEffectiveLevel() > logging.INFO,
-            delay=0.5, # delay to show progress bar
+            delay=0.5,  # delay to show progress bar
         ):
             function(file)
 
     return True
+
 
 def process_claim_file(
     yaml_file_name: str, behaviour_jsons: BehaviourJsons,
@@ -93,7 +101,11 @@ def process_claim_file(
 
     # check URIs and other refs resolve
     with warnings.catch_warnings(record=True) as uri_warnings:
-        check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
+        check_uri(
+            claim["credentialSubject"],
+            schema,
+            check_uri_resolves=check_uri_resolves
+        )
 
     # check behaviour statement is valid, if so add to claim
     claim["credentialSubject"] = check_behaviours_resolve(

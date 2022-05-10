@@ -7,8 +7,12 @@ from yamllint.config import YamlLintConfig
 
 
 def get_yaml_suffixes(file_name):
-    d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
-    return d3_type, d3_ext, yaml_ext
+    try:
+        *_, d3_type, d3_ext, yaml_ext = Path(file_name).suffixes
+        return d3_type, d3_ext, yaml_ext
+    except ValueError:
+        print(f"{file_name}: invalid d3 claim format e.g. claim.type.d3.yaml")
+        raise
 
 
 def is_valid_yaml_claim(file_name: str):

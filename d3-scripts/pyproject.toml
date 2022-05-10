@@ -21,7 +21,6 @@ requests = "^2.27.1"
 jsonschema = "^4.4.0"
 yamllint = "^1.26.3"
 tqdm = "^4.64.0"
-validators = "^0.19.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
@@ -29,6 +28,10 @@ pytest = "^7.1.2"
 [tool.poetry.scripts]
 d3lint = "d3_scripts.d3_lint:cli"
 d3build = "d3_scripts.d3_build:cli"
+d3compile = "d3_scripts.d3_build:d3_build"
+d3export = "d3_scripts.d3_build_db:d3_build_db"
+guid = "d3_scripts.guid:guid"
+uuid = "d3_scripts.guid:guid"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -34,7 +34,7 @@ jobs:
       - name: Install d3-scripts
         run: pip install ./d3-scripts
       - name: Lint D3 claims
-        run: d3lint manufacturers/**/*.d3.yaml
+        run: d3lint --glob-pattern 'manufacturers/**/*.d3.yaml'
   test:
     name: Test Python scripts
     runs-on: ubuntu-latest

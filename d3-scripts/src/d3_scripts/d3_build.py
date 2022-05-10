@@ -11,6 +11,9 @@ from .guid_tools import get_guid, check_guids
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
 import typing
 
+src_file = Path(__file__)
+yaml_dir = Path(__file__).parents[3] / "manufacturers"
+
 
 def claim_handler(file_name):
     stringified_file_name = str(file_name)
@@ -20,16 +23,18 @@ def claim_handler(file_name):
 
 
 def d3_build(
-    d3_files: typing.Iterable[Path] = (Path(__file__).parents[3] / "manufacturers").glob("**/*.yaml"),
+    d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
     check_uri_resolves: bool = True,
 ):
     """Build compressed D3 files from D3 YAML files
 
     Args:
         d3_files: The D3 YAML files to build from.
-                  Defaults to all the YAML files in the ../../../manufacturers directory.
+                  Default is all YAML files in the
+                  ../../../manufacturers directory
         check_uri_resolves: Whether to check that URIs/refs resolve.
-                            This can be very slow, so you may want to leave this off normally.
+                            This can be very slow, so you may want to
+                            leave this off normally.
     """
     print("Compiling D3 claims...")
     bar_format = "{desc: <20}|{bar}| {percentage:3.0f}% [{elapsed}]"
@@ -88,7 +93,7 @@ def cli(argv=None):
         "D3_FOLDER",
         nargs="*",
         help="Folders containing D3 YAML files.",
-        default=[f"{Path(__file__).parents[3] / 'manufacturers'}"],
+        default=[f"{yaml_dir}"],
         type=Path,
     )
     parser.add_argument(
@@ -122,7 +127,9 @@ def cli(argv=None):
 
     d3_build(
         d3_files=(
-          d3_file for d3_folder in args.D3_FOLDER for d3_file in Path(d3_folder).glob("**/*.yaml")
+          d3_file
+          for d3_folder in args.D3_FOLDER
+          for d3_file in Path(d3_folder).glob("**/*.yaml")
         ),
         check_uri_resolves=args.check_uri_resolves,
     )

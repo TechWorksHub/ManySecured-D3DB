@@ -2,7 +2,7 @@ from pathlib import Path
 import jsonschema
 import functools
 from .json_tools import load_json
-from .yaml_tools import get_yaml_suffixes
+from .yaml_tools import get_yaml_suffixes, load_claim
 
 schema_store = Path(__file__).parent / "schemas"
 
@@ -60,3 +60,19 @@ def validate_claim_meta_schema(claim: dict):
     d3_master_schema_validator = d3_master_claim_schema_validator()
     d3_master_schema_validator.validate(claim)
     return True
+
+
+def validate_d3_claim_schema(yaml_file_path: str):
+    """Loads and validates a D3 claim file against the JSON Schema.
+
+    For performance reasons, it's usually better to manually load the D3 claim
+    file yourself.
+
+    Raises:
+        jsonschema.ValidationError: If the loaded claim is not valid
+    """
+    # import yaml claim to Python dict (JSON)
+    claim = load_claim(yaml_file_path)
+    # validate schema
+    schema_validator = get_schema_validator_from_path(yaml_file_path)
+    schema_validator.validate(claim["credentialSubject"])

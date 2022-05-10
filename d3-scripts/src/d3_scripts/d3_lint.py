@@ -61,7 +61,7 @@ def cli(argv=None):
 
     yaml_file_names = (
         *args.D3_FILE,
-        *(file for pattern in args.glob_pattern for file in glob.iglob(pattern))
+        *(file for pattern in (args.glob_pattern or tuple()) for file in glob.iglob(pattern))
     )
     validate_d3_claim_files(yaml_file_names, check_uri_resolves=args.check_uri_resolves)
 

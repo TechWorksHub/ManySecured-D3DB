@@ -2,6 +2,7 @@
 
 import argparse
 import logging
+import glob
 
 from .d3_utils import validate_d3_claim_files
 
@@ -20,8 +21,14 @@ def cli(argv=None):
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument(
+        "--glob-pattern",
+        action="append",
+        type=str,
+        help="A glob pattern to search for D3 files. Can be repeated for multiple glob patterns."
+    )
+    parser.add_argument(
         "D3_FILE",
-        nargs="+",
+        nargs="*",
         help="Files to lint",
     )
     parser.add_argument(
@@ -52,7 +59,11 @@ def cli(argv=None):
     )
     logging.basicConfig(level=log_level_sum)
 
-    validate_d3_claim_files(args.D3_FILE, check_uri_resolves=args.check_uri_resolves)
+    yaml_file_names = (
+        *args.D3_FILE,
+        *(file for pattern in args.glob_pattern for file in glob.iglob(pattern))
+    )
+    validate_d3_claim_files(yaml_file_names, check_uri_resolves=args.check_uri_resolves)
 
 
 if __name__ == "__main__":

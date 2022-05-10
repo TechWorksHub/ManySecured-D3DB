@@ -1,8 +1,10 @@
 import logging
 import typing
 import warnings
-
 from pathlib import Path
+
+import tqdm
+
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
 from .json_tools import is_json_unchanged, get_json_file_name, write_json
 from .validate_schemas import (
@@ -13,39 +15,46 @@ from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
 
-def validate_d3_claim_files(yaml_file_names: typing.List[str], check_uri_resolves: bool = False):
+def validate_d3_claim_files(yaml_file_names: typing.Sequence[str], check_uri_resolves: bool = False):
     """Checks whether D3 claim files are valid.
 
     Performs each check sequentially, (e.g. like a normal CI task)
     so if one fails, the rest are not checked.
     """
-    logging.info("Checking if D3 files have correct filename")
-    for file in yaml_file_names:
-        # check if file is YAML with right extension
-        is_valid_yaml_claim(file)
 
-    logging.info("Linting D3 files")
-    for file in yaml_file_names:
-        # check if files have good quality yaml
-        lint_yaml(file)
-
-    logging.info("Checking whether D3 files match JSONSchema")
-    for file in yaml_file_names:
+    def _validate_d3_claim_schema(file):
+        """Validates a D3 claim file against the JSON Schema"""
         # import yaml claim to Python dict (JSON)
         claim = load_claim(file)
         # validate schema
         schema_validator = get_schema_validator_from_path(file)
         schema_validator.validate(claim["credentialSubject"])
 
-    logging.info("Checking whether D3 files have valid URIs/refs")
-    for file in yaml_file_names:
+    def _validate_d3_claim_uri(file):
         # import yaml claim to Python dict (JSON)
         claim = load_claim(file)
         schema = get_schema_validator_from_path(file).schema
         # check URIs and other refs resolve
         check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
-    return True
 
+    stages = {
+        "Checking if D3 files have correct filename": lambda file: is_valid_yaml_claim(file),
+        "Linting D3 files": lambda file: lint_yaml(file),
+        "Checking whether D3 files match JSONSchema": _validate_d3_claim_schema,
+        "Checking whether URIs/refs resolve": _validate_d3_claim_uri,
+    }
+
+    for description, function in stages.items():
+        for file in tqdm.tqdm(
+            yaml_file_names,
+            unit="files",
+            desc=description,
+            disable=logging.getLogger().getEffectiveLevel() > logging.INFO,
+            delay=0.5, # delay to show progress bar
+        ):
+            function(file)
+
+    return True
 
 def process_claim_file(
     yaml_file_name: str, behaviour_jsons: BehaviourJsons,

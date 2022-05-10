@@ -36,6 +36,8 @@ def get_ruleid(id: id_type, name: str) -> str:
 
 def create_csv_templates() -> None:
     """Creates the csv files + header for the D3DB output CSVs"""
+    csv_dir.mkdir(parents=True, exist_ok=True)
+
     for name, header in csv_headers.items():
         file_name = csv_dir / f"{name}.csv"
         with open(file_name, "w") as csv_file:

@@ -36,6 +36,9 @@ jobs:
       - run: poetry run pytest # tests whether our Python code works
   d3build:
     name: Run D3 Build
+    permissions:
+      # required to make a new commit in the `csv` branch
+      contents: write
     runs-on: ubuntu-latest
     # d3build is slow, so only run if lint/tests pass
     needs: [pre-commit, test]
@@ -51,5 +54,16 @@ jobs:
           python-version: '3'
           cache: 'poetry'
       - run: poetry install
-      - run: poetry run d3build
-      # todo, commit the ../manufacturers_json/ dir to a new branch
+      - name: Validate D3 files and convert to JSON
+        run: poetry run d3build
+      - name: Export D3 JSON files into CSV
+        run: poetry run d3export
+      - name: Deploy CSV files to `csv` branch (`main` branch only)
+        if: github.ref == 'refs/heads/main'
+        uses: s0/git-publish-subdir-action@v2.5.1
+        env:
+          REPO: self
+          BRANCH: csv
+          FOLDER: D3DB
+          SKIP_EMPTY_COMMITS: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -24,6 +24,11 @@ def cli(argv=None):
         nargs="+",
         help="Files to lint",
     )
+    parser.add_argument(
+        "--check_uri_resolves",
+        action="store_true",
+        help="Check that URIs/refs resolve. This can be very slow, so you may want to leave this off normally.",
+    )
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
         "--verbose",
@@ -47,7 +52,7 @@ def cli(argv=None):
     )
     logging.basicConfig(level=log_level_sum)
 
-    validate_d3_claim_files(args.D3_FILE)
+    validate_d3_claim_files(args.D3_FILE, check_uri_resolves=args.check_uri_resolves)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 import logging
 import typing
+import warnings
 
 from pathlib import Path
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
@@ -8,11 +9,11 @@ from .validate_schemas import (
     get_schema_from_path, get_schema_from_d3_claim,
     validate_claim_meta_schema, validate_schema
 )
-from .check_uri_resolve import check_uri_resolve
+from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
 
-def validate_d3_claim_files(yaml_file_names: typing.List[str]):
+def validate_d3_claim_files(yaml_file_names: typing.List[str], check_uri_resolves: bool = False):
     """Checks whether D3 claim files are valid.
 
     Performs each check sequentially, (e.g. like a normal CI task)
@@ -42,11 +43,14 @@ def validate_d3_claim_files(yaml_file_names: typing.List[str]):
         claim = load_claim(file)
         schema = get_schema_from_path(file)
         # check URIs and other refs resolve
-        check_uri_resolve(claim["credentialSubject"], schema)
+        check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
     return True
 
 
-def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
+def process_claim_file(
+    yaml_file_name: str, behaviour_jsons: BehaviourJsons,
+    check_uri_resolves: bool,
+) -> typing.List[Warning]:
     """Processes a single D3 claim file.
     Checks include:
     - is unchanged claim
@@ -56,9 +60,11 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
 
     Args:
         yaml_file_name: The filepath to the YAML file
+        check_uri_resolves: Whether to check URIs/refs resolveable/valid
 
     Returns:
-        Boolean indicating if the file was successfully processed
+        List of warnings. If empty, no warnings.
+        Warnings are hidden by default in multiprocessing.
     """
     json_file_name = get_json_file_name(yaml_file_name)
     Path(json_file_name).parent.mkdir(parents=True, exist_ok=True)
@@ -68,7 +74,7 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
 
     # if JSON already exists and is unchanged then skip
     if is_json_unchanged(json_file_name, claim):
-        return True
+        return []
 
     # validate schema
     schema = get_schema_from_path(yaml_file_name)
@@ -76,7 +82,8 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
     validate_schema(claim["credentialSubject"], schema)
 
     # check URIs and other refs resolve
-    check_uri_resolve(claim["credentialSubject"], schema)
+    with warnings.catch_warnings(record=True) as uri_warnings:
+        check_uri(claim["credentialSubject"], schema, check_uri_resolves=check_uri_resolves)
 
     # check behaviour statement is valid, if so add to claim
     claim["credentialSubject"] = check_behaviours_resolve(
@@ -86,4 +93,4 @@ def process_claim_file(yaml_file_name: str, behaviour_jsons: BehaviourJsons):
 
     # write JSON if valid
     write_json(json_file_name, claim)
-    return True
+    return [*uri_warnings]

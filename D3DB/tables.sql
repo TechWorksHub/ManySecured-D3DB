@@ -9,6 +9,7 @@ CREATE TABLE "type" (
   "name" TEXT,
   "tags" TEXT,
   "macaddresses" TEXT,
+  "behaviour" TEXT,
  PRIMARY KEY("id")
 )
 

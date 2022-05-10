@@ -6,14 +6,13 @@ from .export_tools import (
     create_csv_templates, d3_json_export_csv
 )
 
-src_path = Path(__file__).absolute()
-yaml_store = src_path.parents[3] / "manufacturers_json"
-csv_store = src_path.parents[3] / "D3DB"
+project_dir = Path(__file__).absolute().parents[3]
+json_dir = project_dir / "manufacturers_json"
 
 
 def d3_build_db():
     print("Exporting D3 claims...")
-    files_to_process = list(yaml_store.glob("**/*.d3.json"))
+    files_to_process = list(json_dir.glob("**/*.d3.json"))
 
     create_csv_templates()
 

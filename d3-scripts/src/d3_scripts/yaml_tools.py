@@ -1,5 +1,4 @@
 from pathlib import Path
-import typing
 
 import yaml
 import yamllint.linter
@@ -56,7 +55,16 @@ def load_claim(file_name: str):
     return yaml_data
 
 
-def lint_yaml(file_name: str, show_problems=True) -> typing.Literal[0, 1]:
+def lint_yaml(file_name: str, show_problems=True):
+    """Lints the given YAML file.
+
+    Raises:
+        An exception if the given YAML file had any linting problems.
+
+    Args:
+        file_name: The filepath to the YAML claim file
+        show_problems: Set to `False` to suppress printing linting problems
+    """
     config = YamlLintConfig(
         r"""
         extends: default

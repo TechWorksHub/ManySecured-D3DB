@@ -1,6 +1,6 @@
 from csv import DictWriter
 from pathlib import Path
-from typing import Union
+from typing import Union, List
 from uuid import UUID, uuid5
 
 from .d3_constants import csv_headers, behaviour_rule_types
@@ -47,7 +47,7 @@ def create_csv_templates() -> None:
 
 def write_csv_data(
     file_name: path_type,
-    headers: "list[str]",
+    headers: List[str],
     data: dict
 ) -> None:
     """Writes data to a csv file from a list of headers and a dict of data.

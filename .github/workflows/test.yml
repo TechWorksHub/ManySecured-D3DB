@@ -17,6 +17,24 @@ jobs:
         env:
           # skip the check that throws on `main` branch
           SKIP: no-commit-to-branch
+  lint-d3:
+    name: Lint D3 claims
+    # Ideally this would be part of the .pre-commit-config.yaml,
+    # but pre-commit cannot install python dependencies that are
+    # not in the root folder of a Git repo (it's a subfolder).
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          # Turris Omnia uses Python 3.7.13
+          python-version: '3.7.13'
+          cache: 'pip'
+          cache-dependency-path: 'd3-scripts/poetry.lock'
+      - name: Install d3-scripts
+        run: pip install ./d3-scripts
+      - name: Lint D3 claims
+        run: d3lint manufacturers/**/*.d3.yaml
   test:
     name: Test Python scripts
     runs-on: ubuntu-latest

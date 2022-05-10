@@ -8,7 +8,6 @@ repos:
     -   id: trailing-whitespace
     -   id: end-of-file-fixer
     -   id: check-yaml
-    -   id: flake8  # check python code style
     -   id: check-json
         exclude: .vscode/ # vscode .json files have comments, so not valid JSON
     -   id: check-added-large-files
@@ -18,3 +17,8 @@ repos:
     -   id: mixed-line-ending
         # prevent Windows CRLF line ending, and use LF (Unix) line ending
         args: ["--fix=lf"]
+-   repo: https://github.com/PyCQA/flake8
+    rev: 4.0.1
+    hooks:
+    -   id: flake8
+        args: [--max-line-length=120]

@@ -101,8 +101,7 @@ def process_claim_file(
     claim["credentialSubject"] = check_behaviours_resolve(
         claim["credentialSubject"],
         schema,
-        behaviour_jsons
-    )
+        behaviour_jsons)
 
     # write JSON if valid
     write_json(json_file_name, claim)

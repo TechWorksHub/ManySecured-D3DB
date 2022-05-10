@@ -25,7 +25,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
         - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).
     - Example templates for each type are in the `./examples` folder.
     - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters.
-    - If you want to generate UUID/GUIDs for your yaml definitions, refer to the uuid helper script in the [Workflow section](#workflow) below. 
+    - If you want to generate UUID/GUIDs for your yaml definitions, refer to the uuid helper script in the [Workflow section](#workflow) below.
 4. If you are running on your local machine (requires Python 3 and [Python Poetry](https://python-poetry.org/))
     - Run `cd d3-scripts/ && poetry install` to install the packages
     - Run `poetry run d3build` to run the D3 compiler against the repo locally. Any issues will manifest as errors.

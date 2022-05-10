@@ -31,6 +31,8 @@ d3lint = "d3_scripts.d3_lint:cli"
 d3build = "d3_scripts.d3_build:cli"
 d3compile = "d3_scripts.d3_build:d3_build"
 d3export = "d3_scripts.d3_build_db:d3_build_db"
+guid = "d3_scripts.guid:guid"
+uuid = "d3_scripts.guid:guid"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

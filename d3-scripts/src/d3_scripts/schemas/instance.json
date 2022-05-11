@@ -33,6 +33,10 @@
       "name": {
         "type": "string",
         "description": "The device instance name"
+      },
+      "typeId": {
+        "type": "string",
+        "description": "The type GUID this instance inherits"
       }
     },
     "required": ["id"]

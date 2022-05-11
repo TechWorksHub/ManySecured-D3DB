@@ -1,4 +1,3 @@
-import functools
 from pathlib import Path
 
 import yaml
@@ -60,24 +59,21 @@ def load_claim(file_name: str):
     return yaml_data
 
 
-@functools.lru_cache(maxsize=None)
-def __yaml_lint_config():
-    """YAML linting config. Cached, since it's slow."""
-    return YamlLintConfig(
-        r"""
-            extends: default
-            rules:
-                document-start:
-                    # so we don't need to start YAML files with ---
-                    present: false
-                line-length:
-                    # 80 characters is too small for 1080p/4K monitors
-                    max: 120
-                indentation:
-                    spaces: consistent
-                    indent-sequences: consistent
-        """
-    )
+_yaml_lint_config = YamlLintConfig(
+    r"""
+        extends: default
+        rules:
+            document-start:
+                # so we don't need to start YAML files with ---
+                present: false
+            line-length:
+                # 80 characters is too small for 1080p/4K monitors
+                max: 120
+            indentation:
+                spaces: consistent
+                indent-sequences: consistent
+    """
+)
 
 
 def lint_yaml(file_name: str, show_problems=True):
@@ -91,7 +87,7 @@ def lint_yaml(file_name: str, show_problems=True):
         show_problems: Set to `False` to suppress printing linting problems
     """
     contents = Path(file_name).read_text()
-    problems = yamllint.linter.run(contents, conf=__yaml_lint_config(), filepath=file_name)
+    problems = yamllint.linter.run(contents, conf=_yaml_lint_config, filepath=file_name)
 
     if show_problems:
         prob_level = yamllint.cli.show_problems(

@@ -1,7 +1,9 @@
+import functools
 import logging
 import typing
 import warnings
 from pathlib import Path
+import multiprocessing
 
 import tqdm
 
@@ -10,9 +12,27 @@ from .json_tools import is_json_unchanged, get_json_file_name, write_json
 from .validate_schemas import (
     get_schema_validator_from_path,
     validate_claim_meta_schema,
+    validate_d3_claim_schema,
 )
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
+
+
+def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
+    """Checks whether the given YAML file has valid URIs.
+
+    Raises:
+        Exception: If the YAML file has a URI that is not valid/resolveable.
+    """
+    # import yaml claim to Python dict (JSON)
+    claim = load_claim(yaml_file_path)
+    schema = get_schema_validator_from_path(yaml_file_path).schema
+    # check URIs and other refs resolve
+    check_uri(
+        claim["credentialSubject"],
+        schema,
+        **check_uri_kwargs,
+    )
 
 
 def validate_d3_claim_files(
@@ -24,42 +44,28 @@ def validate_d3_claim_files(
     Performs each check sequentially, (e.g. like a normal CI task)
     so if one fails, the rest are not checked.
     """
-
-    def _validate_d3_claim_schema(file):
-        """Validates a D3 claim file against the JSON Schema"""
-        # import yaml claim to Python dict (JSON)
-        claim = load_claim(file)
-        # validate schema
-        schema_validator = get_schema_validator_from_path(file)
-        schema_validator.validate(claim["credentialSubject"])
-
-    def _validate_d3_claim_uri(file):
-        # import yaml claim to Python dict (JSON)
-        claim = load_claim(file)
-        schema = get_schema_validator_from_path(file).schema
-        # check URIs and other refs resolve
-        check_uri(
-            claim["credentialSubject"],
-            schema,
-            check_uri_resolves=check_uri_resolves
-        )
-
     stages = {
-        "Checking if D3 files have correct filename": lambda file: is_valid_yaml_claim(file),
-        "Linting D3 files": lambda file: lint_yaml(file),
-        "Checking whether D3 files match JSONSchema": _validate_d3_claim_schema,
-        "Checking whether URIs/refs resolve": _validate_d3_claim_uri,
+        "Checking if D3 files have correct filename": is_valid_yaml_claim,
+        "Linting D3 files": lint_yaml,
+        "Checking whether D3 files match JSONSchema": validate_d3_claim_schema,
+        "Checking whether URIs/refs resolve": functools.partial(
+            _validate_d3_claim_uri, check_uri_resolves=check_uri_resolves,
+        ),
     }
 
-    for description, function in stages.items():
-        for file in tqdm.tqdm(
-            yaml_file_names,
-            unit="files",
-            desc=description,
-            disable=logging.getLogger().getEffectiveLevel() > logging.INFO,
-            delay=0.5,  # delay to show progress bar
-        ):
-            function(file)
+    with multiprocessing.Pool() as pool:
+        for description, function in stages.items():
+            # use imap so that progress bar only updates when each chunk is done
+            result_generator = pool.imap(function, yaml_file_names, chunksize=16)
+            for _result in tqdm.tqdm(
+                result_generator,
+                unit="files",
+                desc=description,
+                disable=logging.getLogger().getEffectiveLevel() > logging.INFO,
+                delay=0.5,  # delay to show progress bar
+                total=len(yaml_file_names),
+            ):
+                pass
 
     return True
 

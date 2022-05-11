@@ -59,18 +59,8 @@ def load_claim(file_name: str):
     return yaml_data
 
 
-def lint_yaml(file_name: str, show_problems=True):
-    """Lints the given YAML file.
-
-    Raises:
-        An exception if the given YAML file had any linting problems.
-
-    Args:
-        file_name: The filepath to the YAML claim file
-        show_problems: Set to `False` to suppress printing linting problems
-    """
-    config = YamlLintConfig(
-        r"""
+_yaml_lint_config = YamlLintConfig(
+    r"""
         extends: default
         rules:
             document-start:
@@ -83,9 +73,21 @@ def lint_yaml(file_name: str, show_problems=True):
                 spaces: consistent
                 indent-sequences: consistent
     """
-    )
+)
+
+
+def lint_yaml(file_name: str, show_problems=True):
+    """Lints the given YAML file.
+
+    Raises:
+        An exception if the given YAML file had any linting problems.
+
+    Args:
+        file_name: The filepath to the YAML claim file
+        show_problems: Set to `False` to suppress printing linting problems
+    """
     contents = Path(file_name).read_text()
-    problems = yamllint.linter.run(contents, conf=config, filepath=file_name)
+    problems = yamllint.linter.run(contents, conf=_yaml_lint_config, filepath=file_name)
 
     if show_problems:
         prob_level = yamllint.cli.show_problems(

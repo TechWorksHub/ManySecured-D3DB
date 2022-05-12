@@ -17,7 +17,8 @@ def d3_build_db():
         d3_build()
 
     print("Exporting D3 claims...")
-    files_to_process = list(json_dir.glob("**/*.d3.json"))
+    # sort so that the *.csv files are relatively consistent
+    files_to_process = sorted(json_dir.glob("**/*.d3.json"))
 
     create_csv_templates()
 

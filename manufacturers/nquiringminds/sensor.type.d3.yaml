@@ -1,0 +1,8 @@
+type: d3-device-type-assertion
+credentialSubject:
+  id: 74bfebf6-f497-4183-9c17-f89ef1bbd885
+  manufacturer: NquiringMinds Ltd.
+  manufacturerUri: https://nquiringminds.com/
+  name: NquiringMinds Sensor
+  tags: "#iot,#sensor"
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15  # name or GUID of behaviour to use

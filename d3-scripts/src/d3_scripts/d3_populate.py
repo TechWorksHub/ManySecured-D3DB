@@ -39,11 +39,12 @@ def generate_d3_type(mac: str, short_name: str, long_name: str):
     return {
         "type": "d3-device-type-assertion",
         "credentialSubject": {
-            "id": str(uuid.uuid4()),
+            "id": str(uuid.uuid5(uuid.NAMESPACE_DNS, short_name + long_name)),
             "manufacturer": long_name,
             "manufacturerUri": "https://device-type.com",
             "name": short_name,
             "macAddresses": [],
+            "behaviour": "97c4fb11-5fb8-44c3-b449-107fdbb66a15"
         },
     }
 

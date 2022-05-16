@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: d60b8555-c517-5fd5-8285-fcb8c5efb9a7
+  macAddresses:
+  - 1C:32:83:00:00:00/24
+  manufacturer: COMTTI Intelligent Technology(Shenzhen) Co., Ltd.
+  manufacturerUri: https://device-type.com
+  name: COMTTIIn
+type: d3-device-type-assertion

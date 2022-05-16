@@ -1,9 +1,11 @@
 credentialSubject:
-  id: 9e21b064-cc1e-4257-8a09-0dc7998ddd5d
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 954be402-5b6e-5ced-8402-bd590b4574de
   macAddresses:
   - 00:25:CA:00:00:00/24
   - 18:C2:93:00:00:00/24
   - C0:EE:40:00:00:00/24
+  - EC:C0:7A:00:00:00/24
   manufacturer: Laird Connectivity
   manufacturerUri: https://device-type.com
   name: LairdCon

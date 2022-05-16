@@ -7,7 +7,7 @@
       "type": {
         "type": "string",
         "enum": [
-          "d3-behaviour",
+          "d3-device-type-behaviour",
           "d3-device-type-assertion",
           "d3-device-type-inheritance",
           "d3-device-type-vuln",

@@ -1,7 +1,9 @@
 credentialSubject:
-  id: e06568f0-57c9-4e8c-8a93-1c78f435375b
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 8781a347-fe91-5024-8697-ca175a2e6e83
   macAddresses:
   - 00:21:B7:00:00:00/24
+  - 00:84:ED:00:00:00/24
   - 78:8C:77:00:00:00/24
   manufacturer: Lexmark International, Inc.
   manufacturerUri: https://device-type.com

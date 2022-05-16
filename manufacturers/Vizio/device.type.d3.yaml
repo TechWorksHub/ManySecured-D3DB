@@ -1,5 +1,6 @@
 credentialSubject:
-  id: 789c2b6f-4d6a-4f86-8467-cec7f946523f
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 8bb75e83-2e4c-57b2-a440-2d7a5d0376e8
   macAddresses:
   - 00:19:9D:00:00:00/24
   - 00:6B:9E:00:00:00/24
@@ -11,6 +12,7 @@ credentialSubject:
   - A4:8D:3B:00:00:00/24
   - C4:1C:FF:00:00:00/24
   - CC:95:D7:00:00:00/24
+  - E8:38:A0:00:00:00/24
   manufacturer: Vizio, Inc
   manufacturerUri: https://device-type.com
   name: Vizio

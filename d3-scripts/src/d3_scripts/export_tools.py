@@ -86,7 +86,7 @@ def export_behaviour_csv(file_path: path_type) -> None:
     behaviour_file = csv_dir / "behaviour.csv"
     data = load_json(file_path)["credentialSubject"]
     behaviour = {"id": data["id"]}
-    behaviour_name = data["ruleName"] if data["ruleName"] else file_path.stem
+    behaviour_name = data["ruleName"] if data.get("ruleName", "") else file_path.stem
 
     for i, rule in enumerate(data["rules"]):
         rule_name = rule["name"] if rule["name"] else f"rule_{i}"
@@ -107,8 +107,10 @@ def export_rule_csv(rule_type: str, rule: dict, entry_id: id_type) -> None:
         entry_id: The unique id of the entry.
     """
     data = rule["matches"].get(rule_type, False)
+    if not data:
+        return
     data = {k.lower(): v for k, v in data.items()}
-    data["id"] = entry_id
+    data["ruleid"] = entry_id
     rule_stem = f"behaviour_{rule_type}"
     file_name = csv_dir / f"{rule_stem}.csv"
 

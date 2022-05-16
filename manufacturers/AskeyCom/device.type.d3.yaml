@@ -1,5 +1,6 @@
 credentialSubject:
-  id: 88349b48-30ce-47af-ab5b-31f6dc228e36
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 00f24fc0-52b2-56c6-8bbd-00bce63f3993
   macAddresses:
   - 00:11:F5:00:00:00/24
   - 00:16:E3:00:00:00/24
@@ -39,6 +40,7 @@ credentialSubject:
   - E8:D1:1B:00:00:00/24
   - F4:69:42:00:00:00/24
   - F8:5B:3B:00:00:00/24
+  - FC:12:63:00:00:00/24
   - FC:B4:E6:00:00:00/24
   manufacturer: Askey Computer Corp
   manufacturerUri: https://device-type.com

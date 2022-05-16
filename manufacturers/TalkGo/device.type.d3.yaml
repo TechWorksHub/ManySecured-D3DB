@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: ef306fbe-232f-5c94-acd7-09f72e7a1edb
+  macAddresses:
+  - 30:3D:51:C0:00:00/28
+  manufacturer: TalkGo, Inc.
+  manufacturerUri: https://device-type.com
+  name: TalkGo
+type: d3-device-type-assertion

@@ -1,7 +1,9 @@
 credentialSubject:
-  id: f118828d-a4fc-4a7b-a0f8-5a4743a62f85
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: d5151598-373c-5d2f-a560-1d9e6f8291db
   macAddresses:
   - 00:B8:C2:00:00:00/24
+  - B0:1F:47:00:00:00/24
   manufacturer: Heights Telecom T ltd
   manufacturerUri: https://device-type.com
   name: HeightsT

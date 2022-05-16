@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: f3d7b392-44f0-554d-b629-8817cf241f4a
+  macAddresses:
+  - 00:25:DF:00:00:00/24
+  manufacturer: Taser International Inc.
+  manufacturerUri: https://device-type.com
+  name: TaserInt
+type: d3-device-type-assertion

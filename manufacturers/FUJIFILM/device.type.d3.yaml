@@ -1,9 +1,11 @@
 credentialSubject:
-  id: 6d9b1e50-4b26-4023-8ca5-38a84058b761
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: b6380e88-22fe-5b42-a084-037021e1327d
   macAddresses:
   - 08:00:37:00:00:00/24
   - 1C:7D:22:00:00:00/24
   - 84:11:C2:30:00:00/28
+  - 88:B4:36:00:00:00/24
   manufacturer: FUJIFILM Business Innovation Corp.
   manufacturerUri: https://device-type.com
   name: FUJIFILM

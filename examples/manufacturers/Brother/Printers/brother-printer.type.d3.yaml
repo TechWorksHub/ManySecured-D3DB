@@ -8,5 +8,5 @@ credentialSubject:
   manufacturerUri: https://brother.com
 
   #specific information
-  types: ["Printers", "Fax", "Scanners"]
+  tags: "#printers, #fax, #scanners"
   name: "Brother Printers"

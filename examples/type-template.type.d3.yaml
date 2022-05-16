@@ -1,0 +1,15 @@
+type: d3-device-type-assertion
+credentialSubject:
+  id: abec4794-bd0f-4573-9f2d-6ff689e1e0c1
+  aliases: ["www.example.com/aa92ebae-4928-4456-b597-cbd7657e9e83", "www.example.com/aa92ebae-4928-4456-b597-cbd7657e9e83"]
+  manufacturer: Example Corp.
+  manufacturerUri: https://example.com/
+  modelNumber: A1357
+  modelSupportUri: https://example.com/product/A1357
+  modelInformationUri: https://example.com/product/A1357/support
+  name: Example Device A1357
+  tags: "#iot,#sensor"
+  macAddresses:
+    - 00:00:00:00:00:00/36  # MAC address of the device with /bitRange which IDs the manufacturer
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15 # name or GUID of behaviour to use
+issuer: NquiringMinds Ltd.

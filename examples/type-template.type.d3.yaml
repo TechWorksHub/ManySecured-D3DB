@@ -11,5 +11,5 @@ credentialSubject:
   tags: "#iot,#sensor"
   macAddresses:
     - 00:00:00:00:00:00/36  # MAC address of the device with /bitRange which IDs the manufacturer
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15 # name or GUID of behaviour to use
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15  # name or GUID of behaviour to use
 issuer: NquiringMinds Ltd.

@@ -1,7 +1,9 @@
 credentialSubject:
-  id: 23ab1ba5-4164-4098-a58b-4d82242fa7f7
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: b4dbc4f4-b05d-5d69-ab04-20a6ff746965
   macAddresses:
   - 20:0A:0D:40:00:00/28
+  - 2C:8D:37:00:00:00/24
   manufacturer: ''
   manufacturerUri: https://device-type.com
   name: Virtium

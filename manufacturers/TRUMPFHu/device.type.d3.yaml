@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: ca7d6cdd-a494-568c-8eab-f77514ae3c1d
+  macAddresses:
+  - 70:B3:D5:CD:20:00/36
+  manufacturer: TRUMPF Huttinger GmbH + Co. KG,
+  manufacturerUri: https://device-type.com
+  name: TRUMPFHu
+type: d3-device-type-assertion

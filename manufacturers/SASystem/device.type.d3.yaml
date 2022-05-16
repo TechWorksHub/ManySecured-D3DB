@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 4efc8c9a-d172-54f5-901b-660902ee6b62
+  macAddresses:
+  - 30:3D:51:30:00:00/28
+  manufacturer: S & A Systems
+  manufacturerUri: https://device-type.com
+  name: SASystem
+type: d3-device-type-assertion

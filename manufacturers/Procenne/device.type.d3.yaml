@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 92848d35-dceb-50e7-b0a7-eb98e21a3923
+  macAddresses:
+  - A0:31:31:00:00:00/24
+  manufacturer: Procenne Digital Security
+  manufacturerUri: https://device-type.com
+  name: Procenne
+type: d3-device-type-assertion

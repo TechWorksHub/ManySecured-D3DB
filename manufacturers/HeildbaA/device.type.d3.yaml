@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: d0b52b84-b64c-557b-9952-3c3a54ab0c69
+  macAddresses:
+  - 30:3D:51:80:00:00/28
+  manufacturer: The Heil Co dba AWTI 3rd Eye Cam
+  manufacturerUri: https://device-type.com
+  name: HeildbaA
+type: d3-device-type-assertion

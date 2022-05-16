@@ -1,5 +1,6 @@
 credentialSubject:
-  id: b4819d6f-58cc-440c-8bf9-c52a52e6a5c6
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 8ef9220c-7403-5587-95bc-4ec4462e349e
   macAddresses:
   - 00:12:BF:00:00:00/24
   - 00:1A:2A:00:00:00/24
@@ -36,6 +37,7 @@ credentialSubject:
   - A4:CE:DA:00:00:00/24
   - A8:A2:37:00:00:00/24
   - A8:D3:F7:00:00:00/24
+  - AC:B6:87:00:00:00/24
   - AC:DF:9F:00:00:00/24
   - B8:F8:53:00:00:00/24
   - BC:30:D9:00:00:00/24

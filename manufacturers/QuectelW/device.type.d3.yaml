@@ -1,5 +1,6 @@
 credentialSubject:
-  id: 85e5a510-a2e7-46e4-935e-a72326a68479
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 2e3867a6-d414-5f24-a07a-a32609fa5457
   macAddresses:
   - 34:87:3D:00:00:00/24
   - 50:80:4A:00:00:00/24
@@ -19,6 +20,7 @@ credentialSubject:
   - E4:08:E7:00:00:00/24
   - E8:47:27:00:00:00/24
   - E8:97:9A:00:00:00/24
+  - EC:1D:9E:00:00:00/24
   manufacturer: Quectel Wireless Solutions Co., Ltd.
   manufacturerUri: https://device-type.com
   name: QuectelW

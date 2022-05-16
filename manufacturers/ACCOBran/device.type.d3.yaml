@@ -1,0 +1,9 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 5af596cd-1727-5d1b-988f-2fbd567a8797
+  macAddresses:
+  - FC:61:79:E0:00:00/28
+  manufacturer: ACCO Brands USA LLC
+  manufacturerUri: https://device-type.com
+  name: ACCOBran
+type: d3-device-type-assertion

@@ -27,7 +27,7 @@ def check_behaviours_resolve(
             raise Exception(f"Behaviour '{b}' of GUID {i} is invlid")
         json_data["behaviour"] = {
             "id": behaviour["credentialSubject"]["id"],
-            "name": behaviour["credentialSubject"]["name"]
+            "name": behaviour["credentialSubject"].get("ruleName", ""),
         }
     return json_data
 

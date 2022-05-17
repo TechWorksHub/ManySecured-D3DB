@@ -1,0 +1,7 @@
+type: d3-device-type-assertion
+credentialSubject:
+  id: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  manufacturer: NquiringMinds
+  name: NquiringMinds Smart Bulb
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15  # name or GUID of behaviour to use
+issuer: NquiringMinds Ltd.

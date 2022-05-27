@@ -101,24 +101,30 @@ def process_claim_file(
 
     # validate schema
     validate_claim_meta_schema(claim)
-    schema_validator = get_schema_validator_from_path(yaml_file_name)
-    schema = schema_validator.schema
-    schema_validator.validate(claim["credentialSubject"])
 
-    # check URIs and other refs resolve
-    with warnings.catch_warnings(record=True) as uri_warnings:
-        check_uri(
+    try:
+        schema_validator = get_schema_validator_from_path(yaml_file_name)
+        schema = schema_validator.schema
+        schema_validator.validate(claim["credentialSubject"])
+
+        # check URIs and other refs resolve
+        with warnings.catch_warnings(record=True) as uri_warnings:
+            check_uri(
+                claim["credentialSubject"],
+                schema,
+                check_uri_resolves=check_uri_resolves
+            )
+
+        # check behaviour statement is valid, if so add to claim
+        claim["credentialSubject"] = check_behaviours_resolve(
             claim["credentialSubject"],
             schema,
-            check_uri_resolves=check_uri_resolves
-        )
+            behaviour_jsons)
 
-    # check behaviour statement is valid, if so add to claim
-    claim["credentialSubject"] = check_behaviours_resolve(
-        claim["credentialSubject"],
-        schema,
-        behaviour_jsons)
+        # write JSON if valid
+        write_json(json_file_name, claim)
 
-    # write JSON if valid
-    write_json(json_file_name, claim)
-    return [*uri_warnings]
+        return [*uri_warnings]
+    except FileNotFoundError as err:
+        print(f"WARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+        return []

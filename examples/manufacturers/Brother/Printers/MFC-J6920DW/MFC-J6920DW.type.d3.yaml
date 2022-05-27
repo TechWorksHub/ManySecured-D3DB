@@ -3,7 +3,7 @@ credentialSubject:
   # unique identifiers
   id: aa92ebae-4928-4456-b597-cbd7657e9e83
   #aliases is an URI
-  aliases: ["www.manysecured.net/aa92ebae-4928-4456-b597-cbd7657e9e83", "www.brother.com/aa92ebae-4928-4456-b597-cbd7657e9e83"]
+  aliases: '["www.manysecured.net/aa92ebae-4928-4456-b597-cbd7657e9e83", "www.brother.com/aa92ebae-4928-4456-b597-cbd7657e9e83"]'
 
     #general manufacturer information
   manufacturer:     Brother UK Ltd

@@ -36,7 +36,7 @@ def d3_build(
         check_uri_resolves: Whether to check that URIs/refs resolve.
                             This can be very slow, so you may want to
                             leave this off normally.
-        pass_on_failure: Whether to allow build to continue on failure 
+        pass_on_failure: Whether to allow build to continue on failure
                          to validate file claims
     """
     print("Compiling D3 claims...")

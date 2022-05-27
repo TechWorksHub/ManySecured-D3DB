@@ -73,6 +73,7 @@ def validate_d3_claim_files(
 def process_claim_file(
     yaml_file_name: str, behaviour_jsons: BehaviourJsons,
     check_uri_resolves: bool,
+    pass_on_failure: bool,
 ) -> typing.List[Warning]:
     """Processes a single D3 claim file.
     Checks include:
@@ -126,5 +127,8 @@ def process_claim_file(
 
         return [*uri_warnings]
     except FileNotFoundError as err:
-        print(f"WARNING! Skipping claim {yaml_file_name} due to error: ${err}")
-        return []
+        if (pass_on_failure):
+            print(f"WARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+            return []
+        else:
+            raise err

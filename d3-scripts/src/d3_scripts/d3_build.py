@@ -25,6 +25,7 @@ def claim_handler(file_name):
 def d3_build(
     d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
     check_uri_resolves: bool = True,
+    pass_on_failure: bool = False,
 ):
     """Build compressed D3 files from D3 YAML files
 
@@ -35,6 +36,8 @@ def d3_build(
         check_uri_resolves: Whether to check that URIs/refs resolve.
                             This can be very slow, so you may want to
                             leave this off normally.
+        pass_on_failure: Whether to allow build to continue on failure
+                         to validate file claims
     """
     print("Compiling D3 claims...")
     bar_format = "{desc: <20}|{bar}| {percentage:3.0f}% [{elapsed}]"
@@ -64,6 +67,7 @@ def d3_build(
         process_claim_file,
         behaviour_jsons=behaviour_jsons,
         check_uri_resolves=check_uri_resolves,
+        pass_on_failure=pass_on_failure,
     )
     pbar.update(10)
 
@@ -102,6 +106,11 @@ def cli(argv=None):
         help="""Check that URIs/refs resolve.
         This can be very slow, so you may want to leave this off normally.""",
     )
+    parser.add_argument(
+        "--pass-on-failure",
+        help="Allow build to continue on failure to validate file claims.",
+        action='store_true',
+    )
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
         "--verbose",
@@ -133,6 +142,7 @@ def cli(argv=None):
           for d3_file in Path(d3_folder).glob("**/*.yaml")
         ),
         check_uri_resolves=args.check_uri_resolves,
+        pass_on_failure=args.pass_on_failure,
     )
 
 

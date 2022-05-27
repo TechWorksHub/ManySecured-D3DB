@@ -26,7 +26,8 @@ def is_valid_yaml_claim(file_name: str):
         Boolean indicating if the file is valid else throws an exception
     """
     file_path = Path(file_name)
-    suffixes = file_path.suffixes
+    # some d3 claims have dots in name (e.g. BrotherV5.14.2.type.d3.yaml)
+    suffixes = file_path.suffixes[-3:]
     file_str = file_path.relative_to(file_path.parents[2])
     example = "e.g. example_claim.type.d3.yaml"
 

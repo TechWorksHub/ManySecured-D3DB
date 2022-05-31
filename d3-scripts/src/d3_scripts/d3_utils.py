@@ -161,7 +161,11 @@ def resolve_behaviour_rules(claim, parents):
                         inherited_rule = find_rule(rule, parent_rules)
                         if not inherited_rule:
                             behaviour_id = behaviour["credentialSubject"]["id"]
-                            raise ValueError(f"Behaviour {behaviour_id} attempted to inherit non-existent rule {rule} from behaviour {id}")
+                            raise ValueError(f"Non-Existant Rule Error: Behaviour {behaviour_id} attempted to inherit non-existent rule {rule} from behaviour {id}")
+                        existing_rule = find_rule(rule, aggregated_rules)
+                        if existing_rule:
+                            behaviour_id = behaviour["credentialSubject"]["id"]
+                            raise ValueError(f"Duplicate Rule Error: Behaviour {behaviour_id} attempted to inherit duplicate rule {rule} from behaviour {id}")
                         aggregated_rules += [inherited_rule]
                 else:
                     aggregated_rules += parent_rules

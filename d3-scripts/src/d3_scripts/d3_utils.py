@@ -151,15 +151,13 @@ def resolve_behaviour_rules(claim, parents):
     aggregated_rules += rules
     for index, behaviours in enumerate(parents[0:-1]):
         for behaviour in behaviours:
-            beheaviour_parents = behaviour["credentialSubject"].get("parents", [])
-            for parent in beheaviour_parents:
+            behaviour_parents = behaviour["credentialSubject"].get("parents", [])
+            for parent in behaviour_parents:
                 id = parent["id"]
                 parent_behaviour = find_behaviour(id, parents[index + 1])
-                parent_rules = parent_behaviour["credentialSubject"]["rules"]
+                parent_rules = parent_behaviour["credentialSubject"].get("rules", [])
                 rules_to_inherit = parent.get("rules", [])
-                if len(rules) > 0:
-                    print("\nrules_to_inherit: ", rules_to_inherit)
-                    print("\nParent Rules: ", parent_rules)
+                if len(rules_to_inherit) > 0:
                     for rule in rules_to_inherit:
                         inherited_rule = find_rule(rule, parent_rules)
                         if not inherited_rule:

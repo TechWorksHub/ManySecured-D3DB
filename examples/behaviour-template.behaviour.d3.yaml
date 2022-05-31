@@ -6,10 +6,13 @@ credentialSubject:
   id: aa92ebae-4928-4456-b597-cbd7657e9e83
   # Rules are specified as an array with two keys name and matches
   ruleName: "Example Device Amazon Echo"
-  parents: 
+  parents:
     - id: fc4d5a51-f985-4de1-a157-51ea9ca5e9c0 # Id of parent behaviour to inherit from
-      # Specific rules to inherit (optional) - all rules inherited by default
-      # rules:
+      # Specific rules to inherit from parent behaviour (optional) - all rules inherited by default
+      rules:
+        - from-ipv4-amazonecho-1
+        - from-ipv4-amazonecho-4
+        - from-ipv4-amazonecho-6
   rules:
     # The name key string doesn't need to be unique. It is a brief description of the rule
     - name: from-ipv4-amazonecho-0

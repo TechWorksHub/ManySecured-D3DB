@@ -137,5 +137,5 @@
       "description": "Rule name"
     }
   },
-  "required": ["id", "rules"]
+  "required": ["id"]
 }

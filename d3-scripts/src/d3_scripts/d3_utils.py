@@ -147,7 +147,7 @@ def process_claim_file(
 
 def resolve_behaviour_rules(claim, parents):
     aggregated_rules = []
-    rules = claim["credentialSubject"]["rules"]
+    rules = claim["credentialSubject"].get("rules", [])
     aggregated_rules += rules
     for index, behaviours in enumerate(parents[0:-1]):
         for behaviour in behaviours:

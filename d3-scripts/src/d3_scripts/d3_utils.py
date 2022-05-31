@@ -126,8 +126,11 @@ def process_claim_file(
             behaviour_jsons)
 
         if claim["type"] == d3_type_codes["behaviour"]:
+            # Checks all parent behaviours exist, checks for circular dependencies and retrieves parent behaviour claims
             parents = check_parents_resolve(claim, behaviour_jsons)
+            # Gets aggregated rules, checking that specified parent rules exist and that no rule names are duplicated
             aggregated_rules = resolve_behaviour_rules(claim, parents)
+            # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
 
         # write JSON if valid

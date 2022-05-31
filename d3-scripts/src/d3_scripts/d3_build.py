@@ -74,12 +74,6 @@ def d3_build(
     )
     pbar.update(10)
 
-    # Check behaviour files all have valid parent behaviours and check for
-    # circular dependencies.
-    for claim in behaviour_jsons:
-        check_parents_resolve(claim, behaviour_jsons)
-    pbar.update(10)
-
     pbar.set_description("Processing claims")
     for i, warnings in enumerate(pool.map(process_claim, files_to_process)):
         for warning in warnings:

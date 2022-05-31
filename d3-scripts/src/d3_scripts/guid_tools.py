@@ -79,7 +79,7 @@ def check_guids_array(
         guids: typing.List[typing.List[str]],
         file_names: typing.List[str]) -> bool:
     """
-    Checks all parent GUIDs are unique (not referenced multiple times) and are 
+    Checks all parent GUIDs are unique (not referenced multiple times) and are
     of the correct type
     Args:
         guids: A list of lists of GUIDs

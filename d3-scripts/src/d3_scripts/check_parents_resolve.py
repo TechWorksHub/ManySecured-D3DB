@@ -32,7 +32,7 @@ def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):
     """
     last_claims = claims[-1]
     # If no more parent claims - end of dependency tree
-    if len(last_claims) == 0: 
+    if len(last_claims) == 0:
         return claims
     else:
         claims_flat = [claim["credentialSubject"]["id"] for claim in sum(claims, [])]

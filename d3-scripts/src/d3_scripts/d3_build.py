@@ -9,7 +9,6 @@ import functools
 from .d3_utils import process_claim_file
 from .guid_tools import get_guid, check_guids, get_parent_guids, check_guids_array
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
-from .check_parents_resolve import check_parents_resolve
 import typing
 
 src_file = Path(__file__)

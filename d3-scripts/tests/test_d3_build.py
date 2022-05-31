@@ -39,6 +39,43 @@ def test_invalid_uri(caplog):
     assert len(caplog.records) == 0
 
 
+def test_non_existent_parents():
+    """Test whether behaviours with non-existent parents raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parents").glob("*.yaml")
+        )
+    assert "One of parent ids" in excinfo.value.args[0]
+    assert "doesn't exist in claims" in excinfo.value.args[0]
+
+
+def test_circular_dependencies():
+    """Test whether behaviours with circular parent dependencies raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "circular-dependence").glob("*.yaml")
+        )
+    assert "Circular Dependency" in excinfo.value.args[0]
+
+
+def test_non_existent_rules():
+    """Test whether behaviours with parent rules which don't exist raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-rules").glob("*.yaml")
+        )
+    assert "attempted to inherit non-existent rule" in excinfo.value.args[0]
+
+
+def test_duplicate_rules():
+    """Test whether behaviours with duplicate rules raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-rules").glob("*.yaml")
+        )
+    assert "Duplicate Rule Error" in excinfo.value.args[0]
+
+
 def test_build():
     # should succeed
     d3_scripts.d3_build.d3_build(d3_files=(Path(__file__).parent / "__fixtures__" / "d3-build").glob("*.yaml"))

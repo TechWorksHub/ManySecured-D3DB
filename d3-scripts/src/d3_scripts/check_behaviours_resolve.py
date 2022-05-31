@@ -22,7 +22,7 @@ def check_behaviours_resolve(
         behaviour_name = json_data["behaviour"]
         behaviour = retrieve_behaviour(behaviour_name, behaviour_jsons)
         if not behaviour:
-            b = behaviour
+            b = behaviour_name
             i = json_data["id"]
             raise Exception(f"Behaviour '{b}' of GUID {i} is invalid")
         json_data["behaviour"] = {
@@ -79,7 +79,7 @@ def _cache_map_based_on_behaviour_jsons(f: Callable[[BehaviourJsons], T]) -> Cal
 
 @_cache_map_based_on_behaviour_jsons
 def _behaviour_name_map(behaviour_jsons: BehaviourJsons) -> Dict[str, BehaviourJson]:
-    return {json["credentialSubject"]["name"]: json for json in behaviour_jsons}
+    return {json["credentialSubject"]["ruleName"]: json for json in behaviour_jsons}
 
 
 @_cache_map_based_on_behaviour_jsons

@@ -1,0 +1,31 @@
+# The type of the verified credential
+type: d3-device-type-behaviour
+# Subject if the verfied credential
+credentialSubject:
+  # The GUID denoting the device rule
+  id: d42dd6a3-8fa3-4897-809c-99c6eb195e79
+  # Rules are specified as an array with two keys name and matches
+  ruleName: "Amazon Echo Dot Plus"
+  # Parent behaviours to inherit rules from
+  parents: 
+    - id: fc4d5a51-f985-4de1-a157-51ea9ca5e9c0 # Id of parent behaviour to inherit from
+      # Specific rules to inherit (optional) - all rules inherited by default
+      rules:
+        - from-ipv4-amazonecho-1
+        - from-ipv4-amazonecho-4
+        - from-ipv4-amazonecho-6
+  rules:
+    - name: from-ipv4-amazonecho-0
+      # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
+      matches:
+        # The ipv4 protocol match contains the `protocol` number key,
+        # the source-dnsname, which is a string describing a unique web address
+        # the destination-dnsname, which is a string describing a unique web address .,─────────,#]
+        # the source-ipv4, which is a string describing an IPv4 address
+        # the destination-ipv4, which is a string describing an IPv4 address
+        ip4:
+          protocol: 6
+          destinationDnsname: dcape-na.amazon.com
+        # The tcp protocol match contains the source-port and destination port
+        tcp:
+          destinationPort: 443

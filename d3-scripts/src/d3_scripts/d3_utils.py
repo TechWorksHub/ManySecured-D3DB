@@ -16,6 +16,9 @@ from .validate_schemas import (
 )
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
+from .check_parents_resolve import check_parents_resolve
+from .d3_constants import d3_type_codes
+
 
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     """Checks whether the given YAML file has valid URIs.
@@ -95,8 +98,9 @@ def process_claim_file(
     # import yaml claim to Python dict (JSON)
     claim = load_claim(yaml_file_name)
 
-    # if JSON already exists and is unchanged then skip
-    if is_json_unchanged(json_file_name, claim):
+    # if JSON already exists and is unchanged then skip 
+    # (unless it's a behaviour claim)
+    if is_json_unchanged(json_file_name, claim) and claim["type"] != d3_type_codes["behaviour"]:
         return []
 
     # validate schema
@@ -121,13 +125,50 @@ def process_claim_file(
             schema,
             behaviour_jsons)
 
+        if claim["type"] == d3_type_codes["behaviour"]:
+            parents = check_parents_resolve(claim, behaviour_jsons)
+            aggregated_rules = resolve_behaviour_rules(claim, parents)
+            claim["credentialSubject"]["rules"] = aggregated_rules
+
         # write JSON if valid
         write_json(json_file_name, claim)
 
         return [*uri_warnings]
     except FileNotFoundError as err:
         if (pass_on_failure):
-            print(f"WARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+            print(f"\nWARNING! Skipping claim {yaml_file_name} due to error: ${err}")
             return []
         else:
             raise err
+
+
+def resolve_behaviour_rules(claim, parents):
+    aggregated_rules = []
+    rules = claim["credentialSubject"]["rules"]
+    aggregated_rules += rules
+    for index, behaviours in enumerate(parents[0:-1]):
+        for behaviour in behaviours:
+            beheaviour_parents = behaviour["credentialSubject"].get("parents", [])
+            for parent in beheaviour_parents:
+                id = parent["id"]
+                parent_behaviour = find_behaviour(id, parents[index + 1])
+                parent_rules = parent_behaviour["credentialSubject"]["rules"]
+                rules_to_inherit = parent.get("rules", [])
+                if len(rules) > 0:
+                    print("\nrules_to_inherit: ", rules_to_inherit)
+                    print("\nParent Rules: ", parent_rules)
+                    for rule in rules_to_inherit:
+                        inherited_rule = find_rule(rule, parent_rules)
+                        if not inherited_rule:
+                            behaviour_id = behaviour["credentialSubject"]["id"]
+                            raise ValueError(f"Behaviour {behaviour_id} attempted to inherit non-existent rule {rule} from behaviour {id}")
+                        aggregated_rules += [inherited_rule]
+                else:
+                    aggregated_rules += parent_rules
+    return aggregated_rules
+
+def find_behaviour(id, behaviours):
+    return next((item for item in behaviours if item["credentialSubject"]["id"] == id), None)
+
+def find_rule(name, rules):
+    return next((item for item in rules if item["name"] == name), None)

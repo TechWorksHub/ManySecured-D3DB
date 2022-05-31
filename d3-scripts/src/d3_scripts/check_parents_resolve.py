@@ -16,7 +16,7 @@ def check_parents_resolve(claim: dict, behaviour_jsons: BehaviourJsons):
         Boolean indicating if the parent GUIDs exist and do not include claim itself
     """
     parents = get_parents([[claim]], behaviour_jsons)
-    return True
+    return parents
 
 
 def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):

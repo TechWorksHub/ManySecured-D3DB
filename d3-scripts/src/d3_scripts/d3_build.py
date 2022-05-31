@@ -7,8 +7,9 @@ import logging
 from tqdm import tqdm
 import functools
 from .d3_utils import process_claim_file
-from .guid_tools import get_guid, check_guids
+from .guid_tools import get_guid, check_guids, get_parent_guids, check_guids_array
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
+from .check_parents_resolve import check_parents_resolve
 import typing
 
 src_file = Path(__file__)
@@ -57,7 +58,9 @@ def d3_build(
     pbar.set_description("Checking UUIDs")
     guids = [guid for guid in pool.map(get_guid, files_to_process) if guid]
     check_guids(guids, files_to_process)
-    pbar.update(30)
+    parent_guids = [guids for guids in pool.map(get_parent_guids, files_to_process) if guids]
+    check_guids_array(parent_guids, files_to_process)
+    pbar.update(20)
 
     # Pass behaviour files into process_claim_file function
     pbar.set_description("Loading claims")
@@ -69,6 +72,12 @@ def d3_build(
         check_uri_resolves=check_uri_resolves,
         pass_on_failure=pass_on_failure,
     )
+    pbar.update(10)
+
+    # Check behaviour files all have valid parent behaviours and check for
+    # circular dependencies.
+    for claim in behaviour_jsons:
+        check_parents_resolve(claim, behaviour_jsons)
     pbar.update(10)
 
     pbar.set_description("Processing claims")

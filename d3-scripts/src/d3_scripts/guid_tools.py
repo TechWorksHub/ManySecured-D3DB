@@ -9,13 +9,29 @@ def get_guid(file_name: str) -> str:
     Args:
         file_name: The filepath to the YAML file
     Returns:
-        The GUID found in the YAML file (if it exsist) | None
+        The GUID found in the YAML file (if it exists) | None
     """
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)
         # If the claim exists an ID field
         if(yaml_data.get("credentialSubject", {}).get("id", False)):
             return yaml_data['credentialSubject']['id']
+    return False
+
+
+def get_parent_guids(file_name: str) -> typing.List[str]:
+    """
+    Finds the GUIDs of parents in a YAML filepath
+    Args:
+        file_name: The filepath to the YAML file
+    Returns:
+        The GUID of all parents found in the YAML file (if they exists) | None
+    """
+    if(is_valid_yaml_claim(file_name)):
+        yaml_data = load_claim(file_name)
+        # If the claim exists an ID field
+        if(yaml_data.get("credentialSubject", {}).get("parents", False)):
+            return [parent["id"] for parent in yaml_data['credentialSubject']['parents']]
     return False
 
 
@@ -56,6 +72,23 @@ def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
             is_valid_guid(guid)
         ), f"Invalid GUID format: \n{find_guid_file_names(guid, file_names)}"
 
+    return True
+
+
+def check_guids_array(
+        guids: typing.List[typing.List[str]],
+        file_names: typing.List[str]) -> bool:
+    """
+    Checks all parent GUIDs are unique (not referenced multiple times) and are 
+    of the correct type
+    Args:
+        guids: A list of lists of GUIDs
+        file_name: The filepaths to the YAML files
+    Returns:
+        Boolean indicating if the GUIDs are unique and of the correct type
+    """
+    for index, guids in enumerate(guids):
+        check_guids(guids, [file_names[index]])
     return True
 
 

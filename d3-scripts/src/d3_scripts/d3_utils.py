@@ -17,7 +17,6 @@ from .validate_schemas import (
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
 
-
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     """Checks whether the given YAML file has valid URIs.
 

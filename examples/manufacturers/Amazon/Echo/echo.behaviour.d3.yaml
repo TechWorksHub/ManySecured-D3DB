@@ -5,7 +5,7 @@ credentialSubject:
   # The GUID denoting the device rule
   id: fc4d5a51-f985-4de1-a157-51ea9ca5e9c0
   # Rules are specified as an array with two keys name and matches
-  ruleName: "Example Device"
+  ruleName: "Amazon Echo"
   rules:
     # The name key string doesn't need to be unique. It is a brief description of the rule
     - name: from-ipv4-amazonecho-0
@@ -13,7 +13,7 @@ credentialSubject:
       matches:
         # The ipv4 protocol match contains the `protocol` number key,
         # the source-dnsname, which is a string describing a unique web address
-        # the destination-dnsname, which is a string describing a unique web address
+        # the destination-dnsname, which is a string describing a unique web address .,─────────,#]
         # the source-ipv4, which is a string describing an IPv4 address
         # the destination-ipv4, which is a string describing an IPv4 address
         ip4:

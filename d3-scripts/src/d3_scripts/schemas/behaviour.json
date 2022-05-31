@@ -10,6 +10,30 @@
       "format": "uuid",
       "description": "GUID for the device behaviour rule"
     },
+    "parents": {
+      "type": "array",
+      "description": "Parent rules for the device behaviour",
+      "items": {
+        "type": "object",
+        "description": "Parent rule to inherit rules from",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "GUID for the parent device behaviour rule"
+          },
+          "rules": {
+            "type": "array",
+            "description": "List of rules to inherit by name, if none specified, will inherit all parent rules",
+            "items": {
+              "type": "string",
+              "description": "Name of rule to inherit"
+            }
+          }
+        },
+        "required": ["id"]
+      }
+    },
     "rules": {
       "type": "array",
       "items": {

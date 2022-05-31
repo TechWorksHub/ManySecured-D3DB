@@ -24,7 +24,7 @@ def check_behaviours_resolve(
         if not behaviour:
             b = behaviour
             i = json_data["id"]
-            raise Exception(f"Behaviour '{b}' of GUID {i} is invlid")
+            raise Exception(f"Behaviour '{b}' of GUID {i} is invalid")
         json_data["behaviour"] = {
             "id": behaviour["credentialSubject"]["id"],
             "name": behaviour["credentialSubject"].get("ruleName", ""),

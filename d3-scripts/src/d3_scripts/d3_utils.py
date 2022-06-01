@@ -16,7 +16,8 @@ from .validate_schemas import (
 )
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
-from .check_parents_resolve import check_parents_resolve
+from .get_claim_tree import get_claim_tree
+from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
 
 
@@ -127,9 +128,9 @@ def process_claim_file(
 
         if claim["type"] == d3_type_codes["behaviour"]:
             # Checks all parent behaviours exist, checks for circular dependencies and retrieves parent behaviour claims
-            parents = check_parents_resolve(claim, behaviour_jsons)
+            claim_tree = get_claim_tree(claim, behaviour_jsons)
             # Gets aggregated rules, checking that specified parent rules exist and that no rule names are duplicated
-            aggregated_rules = resolve_behaviour_rules(claim, parents)
+            aggregated_rules = resolve_behaviour_rules(claim, claim_tree)
             # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
 
@@ -143,41 +144,3 @@ def process_claim_file(
             return []
         else:
             raise err
-
-
-def resolve_behaviour_rules(claim, parents):
-    aggregated_rules = []
-    rules = claim["credentialSubject"].get("rules", [])
-    aggregated_rules += rules
-    for index, behaviours in enumerate(parents[0:-1]):
-        for behaviour in behaviours:
-            behaviour_parents = behaviour["credentialSubject"].get("parents", [])
-            for parent in behaviour_parents:
-                id = parent["id"]
-                parent_behaviour = find_behaviour(id, parents[index + 1])
-                parent_rules = parent_behaviour["credentialSubject"].get("rules", [])
-                rules_to_inherit = parent.get("rules", [])
-                if len(rules_to_inherit) > 0:
-                    for rule in rules_to_inherit:
-                        inherited_rule = find_rule(rule, parent_rules)
-                        if not inherited_rule:
-                            behaviour_id = behaviour["credentialSubject"]["id"]
-                            raise ValueError(f"""Non-Existant Rule Error: Behaviour {behaviour_id}
-                            attempted to inherit non-existent rule {rule} from behaviour {id}""")
-                        existing_rule = find_rule(rule, aggregated_rules)
-                        if existing_rule:
-                            behaviour_id = behaviour["credentialSubject"]["id"]
-                            raise ValueError(f"""Duplicate Rule Error: Behaviour {behaviour_id}
-                            attempted to inherit duplicate rule {rule} from behaviour {id}""")
-                        aggregated_rules += [inherited_rule]
-                else:
-                    aggregated_rules += parent_rules
-    return aggregated_rules
-
-
-def find_behaviour(id, behaviours):
-    return next((item for item in behaviours if item["credentialSubject"]["id"] == id), None)
-
-
-def find_rule(name, rules):
-    return next((item for item in rules if item["name"] == name), None)

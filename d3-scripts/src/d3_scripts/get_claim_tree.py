@@ -4,16 +4,19 @@ BehaviourJson = Mapping[str, Any]
 BehaviourJsons = Sequence[BehaviourJson]
 
 
-def check_parents_resolve(claim: dict, behaviour_jsons: BehaviourJsons):
+def get_claim_tree(claim: dict, behaviour_jsons: BehaviourJsons):
     """
-    Validate parents of claim exist and that parents doesn't include claim itself
+    Resolve claim inheritance tree, as well as validate parents of claim exist and that parents doesn't include
+    claim itself
 
     Args:
-        claim: The D3 claim to validate (dict)
+        claim: The D3 claim to get behaviour claim tree for (dict)
         behaviour_jsons: The array of behaviours (array of dict)
 
     Returns:
-        Boolean indicating if the parent GUIDs exist and do not include claim itself
+        Claim inheritance tree. First element is claim, next element is parents of claim,
+        next element is parents of parents of claim and so on. Final element should be an empty list with second to
+        last element being final parents in inheritance tree. (array of array of dict)
     """
     parents = get_parents([[claim]], behaviour_jsons)
     return parents

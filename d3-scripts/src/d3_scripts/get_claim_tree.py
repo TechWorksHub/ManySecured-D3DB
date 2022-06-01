@@ -27,11 +27,11 @@ def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):
     Get parent claims of claims
 
     Args:
-        claims: The D3 claims to get parents for
-        behaviour_jsons: The array of behaviours
+        claims: The D3 claims to get parents for (array of array of dict)
+        behaviour_jsons: The array of behaviours (array of dict)
 
     Returns:
-        Array of claims and parent claims
+        Array of claims and parent claims (array of array of dict)
     """
     last_claims = claims[-1]
     # If no more parent claims - end of dependency tree

@@ -69,7 +69,9 @@ def get_parents_of_claim(claim: dict, behaviour_jsons: BehaviourJsons):
     return []
 
 
-def get_dependancy_tree(claims):
+def get_dependency_tree(claims) -> str:
+    """Creates a human readable string from a claim dependency tree.
+    """
     tree_string = ""
     for index, claims_level in enumerate(claims):
         claim_ids = [claim["credentialSubject"]["id"] for claim in claims_level]

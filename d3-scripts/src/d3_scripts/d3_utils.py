@@ -20,6 +20,7 @@ from .get_claim_tree import get_claim_tree
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
 
+LOG = logging.getLogger(__name__)
 
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     """Checks whether the given YAML file has valid URIs.
@@ -140,7 +141,7 @@ def process_claim_file(
         return [*uri_warnings]
     except FileNotFoundError as err:
         if (pass_on_failure):
-            print(f"\nWARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+            LOG.warn(f"Skipping claim {yaml_file_name} due to error: ${err}")
             return []
         else:
             raise err

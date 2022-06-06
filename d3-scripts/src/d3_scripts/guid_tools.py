@@ -19,7 +19,7 @@ def get_guid(file_name: str) -> str:
     return False
 
 
-def get_parent_guids(file_name: str) -> typing.List[str] | None:
+def get_parent_guids(file_name: str) -> typing.List[str] or None:
     """
     Finds the GUIDs of parents in a YAML filepath
     Args:

@@ -22,6 +22,7 @@ from .d3_constants import d3_type_codes
 
 LOG = logging.getLogger(__name__)
 
+
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     """Checks whether the given YAML file has valid URIs.
 

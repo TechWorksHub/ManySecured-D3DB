@@ -42,7 +42,7 @@ def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):
         claims_flat = [claim["credentialSubject"]["id"] for claim in sum(claims, [])]
         claims_set = set(claims_flat)
         if len(claims_flat) != len(claims_set):
-            raise ValueError(f"Circular Dependency in {get_dependancy_tree(claims)}")
+            raise ValueError(f"Circular Dependency in {get_dependency_tree(claims)}")
         next_parents = [get_parents_of_claim(claim, behaviour_jsons) for claim in last_claims]
         next_parents_flat = sum(next_parents, [])
         claims.append(next_parents_flat)

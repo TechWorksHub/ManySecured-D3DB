@@ -54,8 +54,8 @@ def get_parents_of_claim(claim: dict, behaviour_jsons: BehaviourJsons):
     Get all parent claims of claim
 
     Args:
-        claim: The D3 claim to validate (dict)
-        behaviour_jsons: The array of behaviours (array of dict)
+        claim: The D3 claim to validate
+        behaviour_jsons: The array of behaviours
 
     Returns:
         Array of parent claims

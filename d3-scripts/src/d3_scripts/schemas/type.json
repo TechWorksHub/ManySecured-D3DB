@@ -9,6 +9,30 @@
         "format": "uuid",
         "description": "GUID for the device type"
       },
+      "parents": {
+        "type": "array",
+        "description": "Parent types to inherit from",
+        "items": {
+          "type": "object",
+          "description": "Parent type to inherit from",
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid",
+              "description": "GUID for the parent device type"
+            },
+            "properties": {
+              "type": "array",
+              "description": "List of properties to inherit by name, if none specified, will inherit all parent properties",
+              "items": {
+                "type": "string",
+                "description": "Name of property to inherit"
+              }
+            }
+          },
+          "required": ["id"]
+        }
+      },
       "aliases": {
         "type": "string",
         "description": "The string or json array string of aliases for the device type"

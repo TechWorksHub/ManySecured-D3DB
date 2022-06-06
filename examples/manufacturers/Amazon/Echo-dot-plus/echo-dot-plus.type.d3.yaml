@@ -3,13 +3,12 @@ credentialSubject:
   # unique identifiers
   id: e22b0268-b6ca-42f8-9317-b629e12286ef
 
-  # behaviour
-  behaviour: 2de780eb-9f11-4f10-8a10-5ca62e2e71e6
+  parents:
+    - id: ba3ba36d-be70-40f0-9c52-95b560066d11 # Id of parent type to inherit from
+      # Specific properties to inherit (optional) - all properties inherited by default
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - tags
 
-  # general manufacturer information
-  manufacturer: amazon
-  manufacturerUri: https://www.amazon.co.uk
-
-  # specific information
-  tags: "#assistant"
-  name: "Amazon Echo"
+  name: "Amazon Echo Dot Plus"

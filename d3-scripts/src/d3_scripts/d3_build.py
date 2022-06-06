@@ -64,10 +64,13 @@ def d3_build(
     # Pass behaviour files into process_claim_file function
     pbar.set_description("Loading claims")
     behaviour_files = get_files_by_type(files_to_process, "behaviour")
+    type_files = get_files_by_type(files_to_process, "type")
     behaviour_jsons = tuple(pool.map(load_claim, behaviour_files))
+    type_jsons = tuple(pool.map(load_claim, type_files))
     process_claim = functools.partial(
         process_claim_file,
         behaviour_jsons=behaviour_jsons,
+        type_jsons=type_jsons,
         check_uri_resolves=check_uri_resolves,
         pass_on_failure=pass_on_failure,
     )

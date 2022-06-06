@@ -20,6 +20,11 @@ from .get_claim_tree import get_claim_tree
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
 
+from typing import Sequence, Mapping, Any
+
+TypeJson = Mapping[str, Any]
+TypeJsons = Sequence[TypeJson]
+
 
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     """Checks whether the given YAML file has valid URIs.
@@ -74,7 +79,7 @@ def validate_d3_claim_files(
 
 
 def process_claim_file(
-    yaml_file_name: str, behaviour_jsons: BehaviourJsons,
+    yaml_file_name: str, behaviour_jsons: BehaviourJsons, type_jsons: TypeJsons,
     check_uri_resolves: bool,
     pass_on_failure: bool,
 ) -> typing.List[Warning]:
@@ -99,9 +104,8 @@ def process_claim_file(
     # import yaml claim to Python dict (JSON)
     claim = load_claim(yaml_file_name)
 
-    # if JSON already exists and is unchanged then skip
-    # (unless it's a behaviour claim)
-    if is_json_unchanged(json_file_name, claim) and claim["type"] != d3_type_codes["behaviour"]:
+    # if JSON already exists and is unchanged then skip, unless claim has parents (parents may have changed)
+    if is_json_unchanged(json_file_name, claim) and len(claim.get("credentialSubject", {}).get("parents", [])) == 0:
         return []
 
     # validate schema
@@ -133,6 +137,10 @@ def process_claim_file(
             aggregated_rules = resolve_behaviour_rules(claim, claim_tree)
             # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
+
+        if claim["type"] == d3_type_codes["type"]:
+            claim_tree = get_claim_tree(claim, type_jsons)
+            print("\n tree: ", claim_tree)
 
         # write JSON if valid
         write_json(json_file_name, claim)

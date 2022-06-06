@@ -6,7 +6,7 @@ BehaviourJsons = Sequence[BehaviourJson]
 
 def get_claim_tree(claim: dict, behaviour_jsons: BehaviourJsons):
     """Resolve and validate a claim inheritance tree.
-    
+
     Validates that parents of claim exist and that parents doesn't include
     claim itself.
 

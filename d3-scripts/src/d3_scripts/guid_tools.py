@@ -19,7 +19,7 @@ def get_guid(file_name: str) -> str:
     return False
 
 
-def get_parent_guids(file_name: str) -> typing.List[str]:
+def get_parent_guids(file_name: str) -> typing.List[str] | None:
     """
     Finds the GUIDs of parents in a YAML filepath
     Args:
@@ -32,7 +32,7 @@ def get_parent_guids(file_name: str) -> typing.List[str]:
         # If the claim exists an ID field
         if(yaml_data.get("credentialSubject", {}).get("parents", False)):
             return [parent["id"] for parent in yaml_data['credentialSubject']['parents']]
-    return False
+    return None
 
 
 def is_valid_guid(guid: str):

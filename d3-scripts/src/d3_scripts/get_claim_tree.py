@@ -5,9 +5,10 @@ BehaviourJsons = Sequence[BehaviourJson]
 
 
 def get_claim_tree(claim: dict, behaviour_jsons: BehaviourJsons):
-    """
-    Resolve claim inheritance tree, as well as validate parents of claim exist and that parents doesn't include
-    claim itself
+    """Resolve and validate a claim inheritance tree.
+    
+    Validates that parents of claim exist and that parents doesn't include
+    claim itself.
 
     Args:
         claim: The D3 claim to get behaviour claim tree for (dict)
@@ -27,8 +28,8 @@ def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):
     Get parent claims of claims
 
     Args:
-        claims: The D3 claims to get parents for (array of array of dict)
-        behaviour_jsons: The array of behaviours (array of dict)
+        claims: The D3 claims to get parents for
+        behaviour_jsons: The array of behaviours
 
     Returns:
         Array of claims and parent claims (array of array of dict)
@@ -41,7 +42,7 @@ def get_parents(claims: List[List[dict]], behaviour_jsons: BehaviourJsons):
         claims_flat = [claim["credentialSubject"]["id"] for claim in sum(claims, [])]
         claims_set = set(claims_flat)
         if len(claims_flat) != len(claims_set):
-            raise ValueError(f"Circular Dependency in {get_dependancy_tree(claims)}")
+            raise ValueError(f"Circular Dependency in {get_dependency_tree(claims)}")
         next_parents = [get_parents_of_claim(claim, behaviour_jsons) for claim in last_claims]
         next_parents_flat = sum(next_parents, [])
         claims.append(next_parents_flat)
@@ -53,8 +54,8 @@ def get_parents_of_claim(claim: dict, behaviour_jsons: BehaviourJsons):
     Get all parent claims of claim
 
     Args:
-        claim: The D3 claim to validate (dict)
-        behaviour_jsons: The array of behaviours (array of dict)
+        claim: The D3 claim to validate
+        behaviour_jsons: The array of behaviours
 
     Returns:
         Array of parent claims
@@ -68,7 +69,9 @@ def get_parents_of_claim(claim: dict, behaviour_jsons: BehaviourJsons):
     return []
 
 
-def get_dependancy_tree(claims):
+def get_dependency_tree(claims) -> str:
+    """Creates a human readable string from a claim dependency tree.
+    """
     tree_string = ""
     for index, claims_level in enumerate(claims):
         claim_ids = [claim["credentialSubject"]["id"] for claim in claims_level]

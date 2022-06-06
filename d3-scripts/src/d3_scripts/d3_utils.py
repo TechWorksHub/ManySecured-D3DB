@@ -101,7 +101,7 @@ def process_claim_file(
     claim = load_claim(yaml_file_name)
 
     # if JSON already exists and is unchanged then skip
-    # (unless it's a behaviour claim)
+    # unless it's a behaviour claim (they have external dependencies)
     if is_json_unchanged(json_file_name, claim) and claim["type"] != d3_type_codes["behaviour"]:
         return []
 

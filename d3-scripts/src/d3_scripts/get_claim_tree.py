@@ -5,9 +5,10 @@ BehaviourJsons = Sequence[BehaviourJson]
 
 
 def get_claim_tree(claim: dict, behaviour_jsons: BehaviourJsons):
-    """
-    Resolve claim inheritance tree, as well as validate parents of claim exist and that parents doesn't include
-    claim itself
+    """Resolve and validate a claim inheritance tree.
+    
+    Validates that parents of claim exist and that parents doesn't include
+    claim itself.
 
     Args:
         claim: The D3 claim to get behaviour claim tree for (dict)

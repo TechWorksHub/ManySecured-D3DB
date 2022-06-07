@@ -30,9 +30,9 @@ def get_parent_guids(file_name: str) -> typing.List[str]:
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)
         # If the claim exists an ID field
-        if(yaml_data.get("credentialSubject", {}).get("parents", False)):
-            return [parent["id"] for parent in yaml_data['credentialSubject']['parents']]
-    return False
+        parents = yaml_data.get("credentialSubject", {}).get("parents", [])
+        return parents
+    return []
 
 
 def is_valid_guid(guid: str):
@@ -87,9 +87,7 @@ def check_guids_array(
     Returns:
         Boolean indicating if the GUIDs are unique and of the correct type
     """
-    for index, guids in enumerate(guids):
-        check_guids(guids, [file_names[index]])
-    return True
+    return all(check_guids(guid_list, [file_name]) for guid_list, file_name in zip(guids, file_names))
 
 
 def get_duplicate_guids(

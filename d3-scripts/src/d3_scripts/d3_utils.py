@@ -4,7 +4,7 @@ import typing
 import warnings
 from pathlib import Path
 import multiprocessing
-
+from networkx import DiGraph
 import tqdm
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
@@ -15,15 +15,14 @@ from .validate_schemas import (
     validate_d3_claim_schema,
 )
 from .check_uri_resolve import check_uri
-from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
-from .get_claim_tree import get_claim_tree
+from .check_behaviours_resolve import check_behaviours_resolve, BehaviourMap
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
-
 from typing import Sequence, Mapping, Any
 
 TypeJson = Mapping[str, Any]
 TypeJsons = Sequence[TypeJson]
+LOG = logging.getLogger(__name__)
 
 
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
@@ -79,7 +78,8 @@ def validate_d3_claim_files(
 
 
 def process_claim_file(
-    yaml_file_name: str, behaviour_jsons: BehaviourJsons, type_jsons: TypeJsons,
+    yaml_file_name: str, behaviour_map: BehaviourMap,
+    behaviour_graph: DiGraph,
     check_uri_resolves: bool,
     pass_on_failure: bool,
 ) -> typing.List[Warning]:
@@ -128,19 +128,18 @@ def process_claim_file(
         claim["credentialSubject"] = check_behaviours_resolve(
             claim["credentialSubject"],
             schema,
-            behaviour_jsons)
+            behaviour_map.values())
 
         if claim["type"] == d3_type_codes["behaviour"]:
-            # Checks all parent behaviours exist, checks for circular dependencies and retrieves parent behaviour claims
-            claim_tree = get_claim_tree(claim, behaviour_jsons)
-            # Gets aggregated rules, checking that specified parent rules exist and that no rule names are duplicated
-            aggregated_rules = resolve_behaviour_rules(claim, claim_tree)
+            # Gets aggregated rules, checking that specified parents exist
+            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, behaviour_graph)
             # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
 
         if claim["type"] == d3_type_codes["type"]:
-            claim_tree = get_claim_tree(claim, type_jsons)
-            print("\n tree: ", claim_tree)
+            pass
+            # claim_tree = get_claim_tree(claim, type_jsons)
+            # print("\n tree: ", claim_tree)
 
         # write JSON if valid
         write_json(json_file_name, claim)
@@ -148,7 +147,7 @@ def process_claim_file(
         return [*uri_warnings]
     except FileNotFoundError as err:
         if (pass_on_failure):
-            print(f"\nWARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+            LOG.warn(f"Skipping claim {yaml_file_name} due to error: ${err}")
             return []
         else:
             raise err

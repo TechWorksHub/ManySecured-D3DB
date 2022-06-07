@@ -2,6 +2,7 @@ from typing import Sequence, Callable, TypeVar, Mapping, Dict, Any
 
 BehaviourJson = Mapping[str, Any]
 BehaviourJsons = Sequence[BehaviourJson]
+BehaviourMap = Dict[str, BehaviourJson]
 
 
 def check_behaviours_resolve(

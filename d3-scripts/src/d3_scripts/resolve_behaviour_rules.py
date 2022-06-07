@@ -1,9 +1,10 @@
 import networkx as nx
 from .check_behaviours_resolve import BehaviourMap
 from iteration_utilities import unique_everseen
+from typing import List, Dict
 
 
-def resolve_behaviour_rules(claim: dict, claim_map: BehaviourMap, claim_graph: nx.DiGraph) -> list[dict]:
+def resolve_behaviour_rules(claim: Dict, claim_map: BehaviourMap, claim_graph: nx.DiGraph) -> List[Dict]:
     """
     Resolve rules which apply for behaviour claim, and checks that any named rules exist and that
     there are no duplicate rule names in claim behaviour.

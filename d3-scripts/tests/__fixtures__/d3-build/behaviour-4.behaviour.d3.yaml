@@ -3,7 +3,7 @@ credentialSubject:
   id: 8b9713a9-6221-4743-9c05-1617e1bb9888
   ruleName: Behaviour 4
   parents:
-    - id: 35294a50-4262-4bac-9d89-10e31e13b4cf
+    - "35294a50-4262-4bac-9d89-10e31e13b4cf"
   rules:
     - name: rule no. 2
       matches:

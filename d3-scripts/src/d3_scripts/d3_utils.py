@@ -16,7 +16,6 @@ from .validate_schemas import (
 )
 from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourMap
-from .get_claim_tree import get_claim_tree
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
 
@@ -130,8 +129,8 @@ def process_claim_file(
             behaviour_map.values())
 
         if claim["type"] == d3_type_codes["behaviour"]:
-            # Gets aggregated rules, checking that specified parents and rules exist and that no rule names are duplicated
-            aggregated_rules = resolve_behaviour_rules(claim, claim_graph)
+            # Gets aggregated rules, checking that specified parents exist
+            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, claim_graph)
             # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
 

@@ -80,6 +80,7 @@ def validate_d3_claim_files(
 def process_claim_file(
     yaml_file_name: str, behaviour_map: BehaviourMap,
     behaviour_graph: DiGraph,
+    type_map: BehaviourMap,
     check_uri_resolves: bool,
     pass_on_failure: bool,
 ) -> typing.List[Warning]:
@@ -137,9 +138,9 @@ def process_claim_file(
             claim["credentialSubject"]["rules"] = aggregated_rules
 
         if claim["type"] == d3_type_codes["type"]:
-            pass
-            # claim_tree = get_claim_tree(claim, type_jsons)
-            # print("\n tree: ", claim_tree)
+            claim_id = claim["credentialSubject"]["id"]
+            claim = type_map[claim_id]
+            print("\n claim: ", claim)
 
         # write JSON if valid
         write_json(json_file_name, claim)

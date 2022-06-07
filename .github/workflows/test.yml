@@ -67,7 +67,7 @@ jobs:
         run: pipx install poetry
       - uses: actions/setup-python@v3
         with:
-          python-version: '3'
+          python-version: '3.8'
           cache: 'poetry'
       - run: poetry install
       - name: Validate D3 files and convert to JSON

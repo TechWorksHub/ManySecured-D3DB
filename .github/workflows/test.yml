@@ -47,8 +47,7 @@ jobs:
         run: pipx install poetry
       - uses: actions/setup-python@v3
         with:
-          # Turris Omnia uses Python 3.7.13
-          python-version: '3.7.13'
+          python-version: '3.8'
           cache: 'poetry'
       - run: poetry install
       - run: poetry run pytest # tests whether our Python code works

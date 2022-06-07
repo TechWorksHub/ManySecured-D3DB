@@ -10,10 +10,10 @@ def resolve_behaviour_rules(claim: dict, claim_map: BehaviourMap, claim_graph: n
 
     Args:
         claim: The D3 behaviour claim to resolve behaviour for
-        claim_tree: The claim inheritance tree for the claim 
+        claim_tree: The claim inheritance tree for the claim
 
     Returns:
-        The rules which apply to the behaviour claim. 
+        The rules which apply to the behaviour claim.
 
     """
     aggregated_rules = []

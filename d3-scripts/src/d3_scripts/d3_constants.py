@@ -23,7 +23,7 @@ csv_headers = {
         "macaddresses", "behaviour"
     ],
     "behaviour": [
-        "id", "ruleid", "rulename"
+        "id", "ruleid", "rulename", "malicious"
     ],
     "behaviour_eth": [
         "ruleid", "sourcemac", "destinationmac", "ethertype"

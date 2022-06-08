@@ -111,6 +111,10 @@
     "ruleName": {
       "type": "string",
       "description": "Rule name"
+    },
+    "malicious": {
+      "type": "boolean",
+      "description": "Is the behaviour malicious"
     }
   },
   "required": ["id", "rules"]

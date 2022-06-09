@@ -1,4 +1,9 @@
 import json
+import pandas as pd
+
+
+def flatten_dict(dict):
+    return list(pd.json_normalize(dict).T.to_dict().values())[0]
 
 
 def load_json(file_name: str):
@@ -27,9 +32,26 @@ def is_json_unchanged(file_name: str, claim: dict):
     try:
         with open(file_name) as f:
             json_data = json.load(f)
-        return json_data == claim
+        return is_json_same_as_claim(json_data, claim)
     except FileNotFoundError:
         return False
+
+
+def is_json_same_as_claim(json_data, claim):
+    def compare_properties(key, flat_json_data, flat_claim_data):
+        if key == "credentialSubject.behaviour":
+            return (flat_claim_data[key] == flat_json_data["credentialSubject.behaviour.id"] or
+                    flat_claim_data[key] == flat_json_data["credentialSubject.behaviour.name"])
+        else:
+            return flat_json_data[key] == flat_claim_data[key]
+
+    flat_json_data = flatten_dict(json_data)
+    flat_claim_data = flatten_dict(claim)
+    for key in flat_claim_data:
+        equal = compare_properties(key, flat_json_data, flat_claim_data)
+        if not equal:
+            return False
+    return True
 
 
 def get_json_file_name(yaml_file_name: str):

@@ -1,0 +1,14 @@
+credentialSubject:
+  id: 86b15a5f-5335-4042-8f45-35623a9c7469
+  macAddresses:
+  - C5-5E-87-89-3C-3B
+  name: nqminds
+  parents:
+    - id: 35c218ce-50a6-498c-b6ae-0751e38cc4ef
+      properties:
+        - manufacturer
+        - manufacturerUri
+    - id: f268f976-8db6-4971-9ae9-3a48c54388f4
+      properties:
+        - behaviour
+type: d3-device-type-assertion

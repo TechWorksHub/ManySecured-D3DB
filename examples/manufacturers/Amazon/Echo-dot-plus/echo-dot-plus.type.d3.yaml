@@ -5,7 +5,7 @@ credentialSubject:
 
   parents:
     - id: 3ec73667-68e0-4f84-98f6-2b795aff5e05 # Id of parent type to inherit from
-      # Specific properties to inherit (optional) - all properties inherited by default
+      # Specific properties to inherit
       properties:
         - manufacturer
         - manufacturerUri

@@ -25,7 +25,9 @@ def get_parent_guids(file_name: str) -> typing.List[str]:
     Args:
         file_name: The filepath to the YAML file
     Returns:
-        The GUID of all parents found in the YAML file (if they exists) | None
+        The GUID of all parents found in the YAML file (if they exists).
+        Returns an empty array if the D3 claim file is invalid
+        (e.g. incorrect filename)
     """
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)

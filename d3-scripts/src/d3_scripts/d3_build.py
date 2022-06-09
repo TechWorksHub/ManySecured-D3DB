@@ -59,7 +59,7 @@ def d3_build(
     pbar.set_description("Checking UUIDs")
     guids = [guid for guid in pool.map(get_guid, files_to_process) if guid]
     check_guids(guids, files_to_process)
-    parent_guids = [guids for guids in pool.map(get_parent_guids, files_to_process)]
+    parent_guids = list(pool.map(get_parent_guids, files_to_process))
     check_guids_array(parent_guids, files_to_process)
     pbar.update(20)
 

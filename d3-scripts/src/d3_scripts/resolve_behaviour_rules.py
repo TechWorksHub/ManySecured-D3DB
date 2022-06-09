@@ -1,16 +1,17 @@
 import networkx as nx
-from .check_behaviours_resolve import BehaviourMap
+from .check_behaviours_resolve import BehaviourMap, BehaviourJson
 from iteration_utilities import unique_everseen
 from typing import List, Dict
 
 
-def resolve_behaviour_rules(claim: Dict, claim_map: BehaviourMap, claim_graph: nx.DiGraph) -> List[Dict]:
+def resolve_behaviour_rules(claim: BehaviourJson, claim_map: BehaviourMap, claim_graph: nx.DiGraph) -> List[Dict]:
     """
     Resolve rules which apply for behaviour claim from parent behaviour inheritance.
 
     Args:
         claim: The D3 behaviour claim to resolve behaviour for
-        claim_tree: The claim inheritance tree for the claim
+        claim_map: Map of D3 claim GUID to D3 behaviour claim json
+        claim_graph: Claim inheritance graph that shows this claim's parents
 
     Returns:
         The rules which apply to the behaviour claim.

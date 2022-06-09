@@ -17,7 +17,7 @@ CREATE TABLE "behaviour" (
   "id" TEXT NOT NULL,
   "ruleid" TEXT NOT NULL,
   "rulename" TEXT,
-  "malicious" BIT DEFAULT 0,
+  "malicious" BOOLEAN DEFAULT 0,
   PRIMARY KEY("id","ruleid")
 )
 

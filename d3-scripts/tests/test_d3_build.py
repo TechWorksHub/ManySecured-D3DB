@@ -39,6 +39,25 @@ def test_invalid_uri(caplog):
     assert len(caplog.records) == 0
 
 
+def test_non_existent_parents():
+    """Test whether behaviours with non-existent parents raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parents").glob("*.yaml")
+        )
+    assert "Parent behaviour id" in excinfo.value.args[0]
+    assert "doesn't exist" in excinfo.value.args[0]
+
+
+def test_circular_dependencies():
+    """Test whether behaviours with circular parent dependencies raise an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "circular-dependence").glob("*.yaml")
+        )
+    assert "Graph has Cyclic dependency" in excinfo.value.args[0]
+
+
 def test_build():
     # should succeed
     d3_scripts.d3_build.d3_build(d3_files=(Path(__file__).parent / "__fixtures__" / "d3-build").glob("*.yaml"))

@@ -7,9 +7,10 @@ import logging
 from tqdm import tqdm
 import functools
 from .d3_utils import process_claim_file
-from .guid_tools import get_guid, check_guids
+from .guid_tools import get_guid, check_guids, get_parent_guids, check_guids_array
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
 import typing
+from .claim_graph import build_claim_graph
 
 src_file = Path(__file__)
 yaml_dir = Path(__file__).parents[3] / "manufacturers"
@@ -57,15 +58,21 @@ def d3_build(
     pbar.set_description("Checking UUIDs")
     guids = [guid for guid in pool.map(get_guid, files_to_process) if guid]
     check_guids(guids, files_to_process)
-    pbar.update(30)
+    parent_guids = list(pool.map(get_parent_guids, files_to_process))
+    check_guids_array(parent_guids, files_to_process)
+    pbar.update(20)
 
     # Pass behaviour files into process_claim_file function
     pbar.set_description("Loading claims")
     behaviour_files = get_files_by_type(files_to_process, "behaviour")
     behaviour_jsons = tuple(pool.map(load_claim, behaviour_files))
+    behaviour_map = {claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons}
+    claim_graph = build_claim_graph(behaviour_map)
+    # plot_graph(claim_graph)
     process_claim = functools.partial(
         process_claim_file,
-        behaviour_jsons=behaviour_jsons,
+        behaviour_map=behaviour_map,
+        claim_graph=claim_graph,
         check_uri_resolves=check_uri_resolves,
         pass_on_failure=pass_on_failure,
     )

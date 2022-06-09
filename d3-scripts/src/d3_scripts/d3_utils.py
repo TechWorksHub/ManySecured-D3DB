@@ -4,7 +4,7 @@ import typing
 import warnings
 from pathlib import Path
 import multiprocessing
-
+from networkx import DiGraph
 import tqdm
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
@@ -15,7 +15,11 @@ from .validate_schemas import (
     validate_d3_claim_schema,
 )
 from .check_uri_resolve import check_uri
-from .check_behaviours_resolve import check_behaviours_resolve, BehaviourJsons
+from .check_behaviours_resolve import check_behaviours_resolve, BehaviourMap
+from .resolve_behaviour_rules import resolve_behaviour_rules
+from .d3_constants import d3_type_codes
+
+LOG = logging.getLogger(__name__)
 
 
 def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
@@ -71,7 +75,8 @@ def validate_d3_claim_files(
 
 
 def process_claim_file(
-    yaml_file_name: str, behaviour_jsons: BehaviourJsons,
+    yaml_file_name: str, behaviour_map: BehaviourMap,
+    claim_graph: DiGraph,
     check_uri_resolves: bool,
     pass_on_failure: bool,
 ) -> typing.List[Warning]:
@@ -97,7 +102,8 @@ def process_claim_file(
     claim = load_claim(yaml_file_name)
 
     # if JSON already exists and is unchanged then skip
-    if is_json_unchanged(json_file_name, claim):
+    # unless it's a behaviour claim (they have external dependencies)
+    if is_json_unchanged(json_file_name, claim) and claim["type"] != d3_type_codes["behaviour"]:
         return []
 
     # validate schema
@@ -120,7 +126,13 @@ def process_claim_file(
         claim["credentialSubject"] = check_behaviours_resolve(
             claim["credentialSubject"],
             schema,
-            behaviour_jsons)
+            behaviour_map.values())
+
+        if claim["type"] == d3_type_codes["behaviour"]:
+            # Gets aggregated rules, checking that specified parents exist
+            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, claim_graph)
+            # Replace claim rules with aggregated rules from parents
+            claim["credentialSubject"]["rules"] = aggregated_rules
 
         # write JSON if valid
         write_json(json_file_name, claim)
@@ -128,7 +140,7 @@ def process_claim_file(
         return [*uri_warnings]
     except FileNotFoundError as err:
         if (pass_on_failure):
-            print(f"WARNING! Skipping claim {yaml_file_name} due to error: ${err}")
+            LOG.warn(f"Skipping claim {yaml_file_name} due to error: ${err}")
             return []
         else:
             raise err

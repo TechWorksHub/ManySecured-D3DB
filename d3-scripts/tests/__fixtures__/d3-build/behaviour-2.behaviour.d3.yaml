@@ -1,7 +1,7 @@
 type: d3-device-type-behaviour
 credentialSubject:
   id: a86aa19f-a81d-4624-b290-436172a8db1c
-  name: Behaviour 2
+  ruleName: Behaviour 2
   rules:
     - name: rule no. 1
       matches:

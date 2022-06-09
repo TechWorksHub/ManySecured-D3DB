@@ -10,6 +10,15 @@
       "format": "uuid",
       "description": "GUID for the device behaviour rule"
     },
+    "parents": {
+      "type": "array",
+      "description": "Parent behaviours for the device behaviour",
+      "items": {
+        "type": "string",
+        "format": "uuid",
+        "description": "Id of parent behaviour claim to inherit rules from"
+      }
+    },
     "rules": {
       "type": "array",
       "items": {
@@ -117,5 +126,5 @@
       "description": "Is the behaviour malicious"
     }
   },
-  "required": ["id", "rules"]
+  "required": ["id"]
 }

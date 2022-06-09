@@ -10,15 +10,15 @@ def build_type_map(type_jsons):
         try:
             type = type_map[type_id]
         except KeyError:
-            raise KeyError(f"Parent type id {type_id} of {list(type_graph.successors(type_id))} doesn't exist")
+            raise KeyError(f"Parent type with id {type_id} of {list(type_graph.successors(type_id))} doesn't exist")
         parents = type["credentialSubject"].get("parents", [])
         inherited_properties = {}
         for parent in parents:
             parent_id = parent["id"]
             for property in parent["properties"]:
                 if property in inherited_properties:
-                    raise KeyError(f"""Duplicate inherited properties in type definition {inherited_properties},
-                    attempted to inherit {property} from multiple parent types""")
+                    raise KeyError(f"""Duplicate inherited properties in type definition {type_id},
+                    attempted to inherit property `{property}` from multiple parent types""")
                 try:
                     inherited_properties[property] = type_map[parent_id]["credentialSubject"][property]
                 except KeyError:

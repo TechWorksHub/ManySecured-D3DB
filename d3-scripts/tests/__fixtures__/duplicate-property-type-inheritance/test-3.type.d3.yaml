@@ -1,0 +1,11 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: e22b0268-b6ca-42f8-9317-b629e12286ef
+  parents:
+    - id: ba3ba36d-be70-40f0-9c52-95b560066d11 # Id of parent type to inherit from
+      properties:
+        - manufacturer
+    - id: eb8e7ae0-155f-4942-8339-8c2b8bd7859e
+      properties:
+        - manufacturer

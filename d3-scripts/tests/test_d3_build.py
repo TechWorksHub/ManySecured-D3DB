@@ -39,23 +39,60 @@ def test_invalid_uri(caplog):
     assert len(caplog.records) == 0
 
 
-def test_non_existent_parents():
-    """Test whether behaviours with non-existent parents raise an error"""
+def test_non_existent_parent_behaviour():
+    """Test whether behaviours with non-existent parents raises an error"""
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
-            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parents").glob("*.yaml")
+            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parent-behaviour").glob("*.yaml")
         )
     assert "Parent behaviour id" in excinfo.value.args[0]
     assert "doesn't exist" in excinfo.value.args[0]
 
 
-def test_circular_dependencies():
+def test_circular_behaviour_dependencies():
     """Test whether behaviours with circular parent dependencies raise an error"""
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
-            d3_files=(Path(__file__).parent / "__fixtures__" / "circular-dependence").glob("*.yaml")
+            d3_files=(Path(__file__).parent / "__fixtures__" / "circular-type-dependence").glob("*.yaml")
         )
     assert "Graph has Cyclic dependency" in excinfo.value.args[0]
+
+
+def test_non_existent_parent_type():
+    """Test whether types with non-existent parents raises an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parent-type").glob("*.yaml")
+        )
+    assert "Parent type with id" in excinfo.value.args[0]
+    assert "doesn't exist" in excinfo.value.args[0]
+
+
+def test_duplicate_property_type_inheritance_single_parent():
+    """Test whether inheriting duplicate properties from a single parent type raises an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-property-type-inheritance-single-parent").glob("*.yaml")
+        )
+    assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
+
+
+def test_duplicate_property_type_inheritance():
+    """Test whether inheriting duplicate properties from types raises an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-property-type-inheritance").glob("*.yaml")
+        )
+    assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
+
+
+def test_inherit_missing_property():
+    """Test whether attempting to inherit missing properties from parent types raises an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "missing-property-type-inheritance").glob("*.yaml")
+        )
+    assert "Attempted to inherit missing property" in excinfo.value.args[0]
 
 
 def test_build():

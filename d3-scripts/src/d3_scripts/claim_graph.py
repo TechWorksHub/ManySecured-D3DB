@@ -1,12 +1,13 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 from .check_behaviours_resolve import BehaviourMap
+from .guid_tools import get_parent_claims
 
 
-def build_claim_graph(behaviour_map: BehaviourMap) -> nx.DiGraph:
+def build_claim_graph(claim_map: BehaviourMap) -> nx.DiGraph:
     graph = nx.DiGraph()
-    for (id, claim) in behaviour_map.items():
-        parents = claim.get("credentialSubject", {}).get("parents", [])
+    for (id, claim) in claim_map.items():
+        parents = get_parent_claims(claim)
         if id not in graph:
             graph.add_node(id)
         for parent_id in parents:

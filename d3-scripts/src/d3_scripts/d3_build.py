@@ -11,6 +11,7 @@ from .guid_tools import get_guid, check_guids, get_parent_guids, check_guids_arr
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
 import typing
 from .claim_graph import build_claim_graph
+from .build_type_map import build_type_map
 
 src_file = Path(__file__)
 yaml_dir = Path(__file__).parents[3] / "manufacturers"
@@ -65,14 +66,18 @@ def d3_build(
     # Pass behaviour files into process_claim_file function
     pbar.set_description("Loading claims")
     behaviour_files = get_files_by_type(files_to_process, "behaviour")
+    type_files = get_files_by_type(files_to_process, "type")
     behaviour_jsons = tuple(pool.map(load_claim, behaviour_files))
     behaviour_map = {claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons}
-    claim_graph = build_claim_graph(behaviour_map)
-    # plot_graph(claim_graph)
+    behaviour_graph = build_claim_graph(behaviour_map)
+    type_files = get_files_by_type(files_to_process, "type")
+    type_jsons = tuple(pool.map(load_claim, type_files))
+    type_map = build_type_map(type_jsons)
     process_claim = functools.partial(
         process_claim_file,
         behaviour_map=behaviour_map,
-        claim_graph=claim_graph,
+        behaviour_graph=behaviour_graph,
+        type_map=type_map,
         check_uri_resolves=check_uri_resolves,
         pass_on_failure=pass_on_failure,
     )

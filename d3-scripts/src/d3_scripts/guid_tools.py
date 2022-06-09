@@ -32,9 +32,16 @@ def get_parent_guids(file_name: str) -> typing.List[str]:
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)
         # If the claim exists an ID field
-        parents = yaml_data.get("credentialSubject", {}).get("parents", [])
+        parents = get_parent_claims(yaml_data)
         return parents
     return []
+
+
+def get_parent_claims(claim):
+    parents = claim.get("credentialSubject", {}).get("parents", [])
+    if len(parents) > 0 and type(parents[0]) != str:
+        parents = [parent["id"] for parent in parents]
+    return parents
 
 
 def is_valid_guid(guid: str):

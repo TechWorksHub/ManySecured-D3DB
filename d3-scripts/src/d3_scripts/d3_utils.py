@@ -18,7 +18,10 @@ from .check_uri_resolve import check_uri
 from .check_behaviours_resolve import check_behaviours_resolve, BehaviourMap
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
+from typing import Sequence, Mapping, Any
 
+TypeJson = Mapping[str, Any]
+TypeJsons = Sequence[TypeJson]
 LOG = logging.getLogger(__name__)
 
 
@@ -76,7 +79,8 @@ def validate_d3_claim_files(
 
 def process_claim_file(
     yaml_file_name: str, behaviour_map: BehaviourMap,
-    claim_graph: DiGraph,
+    behaviour_graph: DiGraph,
+    type_map: BehaviourMap,
     check_uri_resolves: bool,
     pass_on_failure: bool,
 ) -> typing.List[Warning]:
@@ -101,9 +105,8 @@ def process_claim_file(
     # import yaml claim to Python dict (JSON)
     claim = load_claim(yaml_file_name)
 
-    # if JSON already exists and is unchanged then skip
-    # unless it's a behaviour claim (they have external dependencies)
-    if is_json_unchanged(json_file_name, claim) and claim["type"] != d3_type_codes["behaviour"]:
+    # if JSON already exists and is unchanged then skip, unless claim has parents (parents may have changed)
+    if is_json_unchanged(json_file_name, claim) and len(claim.get("credentialSubject", {}).get("parents", [])) == 0:
         return []
 
     # validate schema
@@ -113,6 +116,16 @@ def process_claim_file(
         schema_validator = get_schema_validator_from_path(yaml_file_name)
         schema = schema_validator.schema
         schema_validator.validate(claim["credentialSubject"])
+
+        if claim["type"] == d3_type_codes["behaviour"]:
+            # Gets aggregated rules, checking that specified parents exist
+            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, behaviour_graph)
+            # Replace claim rules with aggregated rules from parents
+            claim["credentialSubject"]["rules"] = aggregated_rules
+
+        if claim["type"] == d3_type_codes["type"]:
+            claim_id = claim["credentialSubject"]["id"]
+            claim = type_map[claim_id]  # update type claim to use object in type_map - includes inherited properties
 
         # check URIs and other refs resolve
         with warnings.catch_warnings(record=True) as uri_warnings:
@@ -127,12 +140,6 @@ def process_claim_file(
             claim["credentialSubject"],
             schema,
             behaviour_map.values())
-
-        if claim["type"] == d3_type_codes["behaviour"]:
-            # Gets aggregated rules, checking that specified parents exist
-            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, claim_graph)
-            # Replace claim rules with aggregated rules from parents
-            claim["credentialSubject"]["rules"] = aggregated_rules
 
         # write JSON if valid
         write_json(json_file_name, claim)

@@ -1,0 +1,9 @@
+type: d3-device-type-assertion
+credentialSubject:
+  id: eb8e7ae0-155f-4942-8339-8c2b8bd7859e
+  manufacturer: microsoft
+  manufacturerUri: www.microsoft.com
+  parents:
+    - id: ba3ba36d-be70-40f0-9c52-95b560066d11
+      properties:
+        - manufacturer

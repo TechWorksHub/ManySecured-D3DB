@@ -8,7 +8,7 @@ from networkx import DiGraph
 import tqdm
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
-from .json_tools import is_json_unchanged, get_json_file_name, write_json
+from .json_tools import get_json_file_name, write_json
 from .validate_schemas import (
     get_schema_validator_from_path,
     validate_claim_meta_schema,
@@ -104,10 +104,6 @@ def process_claim_file(
 
     # import yaml claim to Python dict (JSON)
     claim = load_claim(yaml_file_name)
-
-    # if JSON already exists and is unchanged then skip, unless claim has parents (parents may have changed)
-    if len(claim.get("credentialSubject", {}).get("parents", [])) == 0 and is_json_unchanged(json_file_name, claim):
-        return []
 
     # validate schema
     validate_claim_meta_schema(claim)

@@ -1,5 +1,5 @@
 import networkx as nx
-from .check_behaviours_resolve import BehaviourMap
+from .check_behaviours_resolve import BehaviourMap, BehaviourJson
 from iteration_utilities import unique_everseen
 from typing import List, Dict
 

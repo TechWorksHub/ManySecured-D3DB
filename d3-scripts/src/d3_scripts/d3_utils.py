@@ -106,7 +106,7 @@ def process_claim_file(
     claim = load_claim(yaml_file_name)
 
     # if JSON already exists and is unchanged then skip, unless claim has parents (parents may have changed)
-    if is_json_unchanged(json_file_name, claim) and len(claim.get("credentialSubject", {}).get("parents", [])) == 0:
+    if len(claim.get("credentialSubject", {}).get("parents", [])) == 0 and is_json_unchanged(json_file_name, claim):
         return []
 
     # validate schema

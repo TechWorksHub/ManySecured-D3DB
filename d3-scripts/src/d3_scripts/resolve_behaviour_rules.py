@@ -11,7 +11,8 @@ def resolve_behaviour_rules(claim: Dict, claim_map: BehaviourMap, claim_graph: n
 
     Args:
         claim: The D3 behaviour claim to resolve behaviour for
-        claim_tree: The claim inheritance tree for the claim
+        claim_map: Map of D3 claim GUID to D3 behaviour claim json
+        claim_graph: Claim inheritance graph that shows this claim's parents
 
     Returns:
         The rules which apply to the behaviour claim.

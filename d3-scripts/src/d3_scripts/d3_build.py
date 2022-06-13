@@ -25,7 +25,7 @@ def claim_handler(file_name):
 
 
 def d3_build(
-    d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
+    d3_files: typing.Iterable[Path] = yaml_dir.glob("**/**/*.yaml"),
     check_uri_resolves: bool = True,
     pass_on_failure: bool = False,
 ):

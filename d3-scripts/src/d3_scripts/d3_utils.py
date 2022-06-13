@@ -127,6 +127,16 @@ def process_claim_file(
             claim_id = claim["credentialSubject"]["id"]
             claim = type_map[claim_id]  # update type claim to use object in type_map - includes inherited properties
 
+        if claim["type"] == d3_type_codes["firmware"]:
+            firmware_type = claim["credentialSubject"].get("type", None)
+            if type_map.get(firmware_type, None) is None:
+                raise ValueError(f"Type {firmware_type} of firmware claim {claim['credentialSubject']['id']} not found")
+            if claim["credentialSubject"].get("behaviour", None) is None:
+                # if no behaviour of it's own, inherit from parent type to which firmware belongs
+                type_behaviour = type_map[firmware_type]["credentialSubject"].get("behaviour", None)
+                if type_behaviour is not None:
+                    claim["credentialSubject"]["behaviour"] = type_behaviour
+
         # check URIs and other refs resolve
         with warnings.catch_warnings(record=True) as uri_warnings:
             check_uri(

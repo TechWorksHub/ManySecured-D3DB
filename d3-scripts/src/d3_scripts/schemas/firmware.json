@@ -1,0 +1,28 @@
+{
+  "$id": "https://example.com/firmware.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "behaviour",
+  "description": "The device firmware schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "GUID for the firmware instance"
+    },
+    "type": {
+      "type": "string",
+      "format": "uuid",
+      "description": "GUID for the device type for which this firmware applies"
+    },
+    "behaviour": {
+      "type": "string",
+      "format": "uuid",
+      "description": "The behaviour name or id for this device type (optional)"
+    },
+    "versions": {
+      "type": "string",
+      "description": "The firmware version numbers for which this firmware behaviour is valid"
+    }
+  }
+}

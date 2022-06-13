@@ -11,7 +11,7 @@
           "d3-device-type-assertion",
           "d3-device-type-inheritance",
           "d3-device-type-vuln",
-          "d3-firmware"
+          "d3-firmware-assertion"
         ],
         "description": "D3 claim type"
       },

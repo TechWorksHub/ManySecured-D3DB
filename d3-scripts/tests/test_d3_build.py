@@ -4,6 +4,10 @@ from pathlib import Path
 import d3_scripts.d3_build
 
 
+def assert_string_in_error(string, error_message):
+    assert string in error_message
+
+
 def test_duplicated_guids():
     # should throw an error due to duplicate UUID
     with pytest.raises(Exception) as excinfo:
@@ -45,8 +49,8 @@ def test_non_existent_parent_behaviour():
         d3_scripts.d3_build.d3_build(
             d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parent-behaviour").glob("*.yaml")
         )
-    assert "Parent behaviour id" in excinfo.value.args[0]
-    assert "doesn't exist" in excinfo.value.args[0]
+    for string in ["Parent behaviour id", "doesn't exist"]:
+        assert string in excinfo.value.args[0]
 
 
 def test_circular_behaviour_dependencies():
@@ -64,8 +68,8 @@ def test_non_existent_parent_type():
         d3_scripts.d3_build.d3_build(
             d3_files=(Path(__file__).parent / "__fixtures__" / "non-existent-parent-type").glob("*.yaml")
         )
-    assert "Parent type with id" in excinfo.value.args[0]
-    assert "doesn't exist" in excinfo.value.args[0]
+    for string in ["Parent type with id", "doesn't exist"]:
+        assert string in excinfo.value.args[0]
 
 
 def test_duplicate_property_type_inheritance_single_parent():
@@ -94,6 +98,16 @@ def test_inherit_missing_property():
             d3_files=(Path(__file__).parent / "__fixtures__" / "missing-property-type-inheritance").glob("*.yaml")
         )
     assert "Attempted to inherit missing property" in excinfo.value.args[0]
+
+
+def test_firmware_with_missing_type():
+    """Tests whether a firmware with a type which is missing raises an error"""
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_files=(Path(__file__).parent / "__fixtures__" / "firmware-missing-type").glob("*.yaml")
+        )
+    for string in ["Type", "of firmware claim", "not found"]:
+        assert string in excinfo.value.args[0]
 
 
 def test_build():

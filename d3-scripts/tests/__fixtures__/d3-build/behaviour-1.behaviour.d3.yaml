@@ -8,4 +8,4 @@ credentialSubject:
         ip4:
           protocol: 1
         tcp:
-          destination-port: 1
+          destinationPort: 1

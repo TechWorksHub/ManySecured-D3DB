@@ -19,6 +19,7 @@ from .check_behaviours_resolve import check_behaviours_resolve, BehaviourMap
 from .resolve_behaviour_rules import resolve_behaviour_rules
 from .d3_constants import d3_type_codes
 from typing import Sequence, Mapping, Any
+from copy import deepcopy
 
 TypeJson = Mapping[str, Any]
 TypeJsons = Sequence[TypeJson]
@@ -125,7 +126,8 @@ def process_claim_file(
 
         if claim["type"] == d3_type_codes["type"]:
             claim_id = claim["credentialSubject"]["id"]
-            claim = type_map[claim_id]  # update type claim to use object in type_map - includes inherited properties
+            # update type claim to use object in type_map - includes inherited properties
+            claim = deepcopy(type_map[claim_id])  # must use deepcopy to prevent modification of type_map
 
         if claim["type"] == d3_type_codes["firmware"]:
             firmware_type = claim["credentialSubject"].get("type", None)
@@ -134,6 +136,7 @@ def process_claim_file(
             if claim["credentialSubject"].get("behaviour", None) is None:
                 # if no behaviour of it's own, inherit from parent type to which firmware belongs
                 type_behaviour = type_map[firmware_type]["credentialSubject"].get("behaviour", None)
+                print(type_behaviour)
                 if type_behaviour is not None:
                     claim["credentialSubject"]["behaviour"] = type_behaviour
 

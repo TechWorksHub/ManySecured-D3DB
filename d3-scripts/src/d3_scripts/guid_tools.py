@@ -3,7 +3,7 @@ import typing
 import uuid
 
 
-def get_guid(file_name: str) -> str:
+def get_guid_from_file(file_name: str) -> typing.Optional[str]:
     """
     Finds the GUID in a YAML filepath
     Args:
@@ -14,30 +14,33 @@ def get_guid(file_name: str) -> str:
     if(is_valid_yaml_claim(file_name)):
         yaml_data = load_claim(file_name)
         # If the claim exists an ID field
-        if(yaml_data.get("credentialSubject", {}).get("id", False)):
-            return yaml_data['credentialSubject']['id']
-    return False
+        return get_guid(yaml_data)
+    return None
 
 
-def get_parent_guids(file_name: str) -> typing.List[str]:
+def get_guid(claim) -> typing.Optional[str]:
     """
-    Finds the GUIDs of parents in a YAML filepath
+    Finds the GUID in a D3 Claim
+
     Args:
-        file_name: The filepath to the YAML file
+        claim: The loaded YAML data of a D3 Claim
+
     Returns:
-        The GUID of all parents found in the YAML file (if they exists).
-        Returns an empty array if the D3 claim file is invalid
-        (e.g. incorrect filename)
+        The GUID found in the YAML file (if it exists)
     """
-    if(is_valid_yaml_claim(file_name)):
-        yaml_data = load_claim(file_name)
-        # If the claim exists an ID field
-        parents = get_parent_claims(yaml_data)
-        return parents
-    return []
+    return claim.get("credentialSubject", {}).get("id", None)
 
 
 def get_parent_claims(claim):
+    """
+    Finds the GUIDs of parents in a YAML filepath
+
+    Args:
+        yaml_data: The loaded YAML data of a D3 Claim
+
+    Returns:
+        The GUID of all parents found in the YAML data (if they exists).
+    """
     parents = claim.get("credentialSubject", {}).get("parents", [])
     if len(parents) > 0 and type(parents[0]) != str:
         parents = [parent["id"] for parent in parents]
@@ -127,8 +130,5 @@ def find_guid_file_names(guid_id: str, file_names: typing.List[str]) -> str:
     Returns:
         Message displaying the files that have the given GUID
     """
-    files = []
-    for file_name in file_names:
-        if(get_guid(file_name) == guid_id):
-            files.append(file_name)
-    return guid_id + " in files:\n" + "\n".join(list(files))
+    files = [file_name for file_name in file_names if get_guid_from_file(file_name) == guid_id]
+    return guid_id + " in files:\n" + "\n".join(files)

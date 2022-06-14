@@ -10,7 +10,16 @@ CREATE TABLE "type" (
   "tags" TEXT,
   "macaddresses" TEXT,
   "behaviour" TEXT,
+  "parents" TEXT,
+  "children" TEXT,
  PRIMARY KEY("id")
+)
+
+CREATE TABLE "firmware" (
+  "id" TEXT NOT NULL,
+  "type" TEXT NOT NULL,
+  "versions" TEXT
+  "behaviour" TEXT
 )
 
 CREATE TABLE "behaviour" (

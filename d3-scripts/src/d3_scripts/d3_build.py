@@ -9,9 +9,10 @@ import functools
 from .d3_utils import process_claim_file
 from .guid_tools import get_guid, check_guids, get_parent_guids, check_guids_array
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
+from .json_tools import get_json_file_name, write_json
 import typing
 from .claim_graph import build_claim_graph
-from .build_type_map import build_type_map
+from .build_type_map import build_type_map, build_type_graph, reformat_graph_data
 
 src_file = Path(__file__)
 yaml_dir = Path(__file__).parents[3] / "manufacturers"
@@ -28,6 +29,7 @@ def d3_build(
     d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
     check_uri_resolves: bool = True,
     pass_on_failure: bool = False,
+    output_dirs: typing.List[Path] = [yaml_dir],
 ):
     """Build compressed D3 files from D3 YAML files
 
@@ -72,7 +74,14 @@ def d3_build(
     behaviour_graph = build_claim_graph(behaviour_map)
     type_files = get_files_by_type(files_to_process, "type")
     type_jsons = tuple(pool.map(load_claim, type_files))
-    type_map = build_type_map(type_jsons)
+    type_graph = build_type_graph(type_jsons)
+    type_map = build_type_map(type_jsons, type_graph)
+    type_graph_data = reformat_graph_data(type_graph, type_map)
+    for output_dir in output_dirs:
+        json_file_name = get_json_file_name(str(output_dir / "type_graph.yaml"))
+        Path(json_file_name).parent.mkdir(parents=True, exist_ok=True)
+        write_json(json_file_name, type_graph_data)
+
     process_claim = functools.partial(
         process_claim_file,
         behaviour_map=behaviour_map,
@@ -155,6 +164,7 @@ def cli(argv=None):
         ),
         check_uri_resolves=args.check_uri_resolves,
         pass_on_failure=args.pass_on_failure,
+        output_dirs=args.D3_FOLDER
     )
 
 

@@ -1,0 +1,18 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: ba3ba36d-be70-40f0-9c52-95b560066d11
+
+  # behaviour
+  behaviour: fc4d5a51-f985-4de1-a157-51ea9ca5e9c0
+
+  # specific information
+  tags: "#assistant"
+  name: "Amazon Echo"
+
+  parents:
+    - id: b2a471c6-3c2e-5b2a-927d-dd9b5aa44f69 # Id of parent type to inherit from
+      # Specific properties to inherit
+      properties:
+        - manufacturer
+        - manufacturerUri

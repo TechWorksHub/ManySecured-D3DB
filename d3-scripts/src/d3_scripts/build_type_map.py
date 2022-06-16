@@ -10,7 +10,7 @@ def build_type_map(type_jsons):
         try:
             type = type_map[type_id]
         except KeyError:
-            raise KeyError(f"Parent type with id {type_id} of {list(type_graph.successors(type_id))} doesn't exist")
+            raise KeyError(f"Parent type with id {type_id} of {list(type_graph.predecessors(type_id))} doesn't exist")
         parents = type["credentialSubject"].get("parents", [])
         inherited_properties = {}
         for parent in parents:
@@ -24,4 +24,7 @@ def build_type_map(type_jsons):
                 except KeyError:
                     raise KeyError(f"Attempted to inherit missing property {property} from {parent_id} in {type_id}")
         type_map[type_id]["credentialSubject"] = {**inherited_properties, **type["credentialSubject"]}
+        type_map[type_id]["credentialSubject"]["children"] = [
+            {"id": child_id} for child_id in list(type_graph.successors(type_id))
+        ]
     return type_map

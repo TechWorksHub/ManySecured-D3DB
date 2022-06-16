@@ -59,9 +59,13 @@ def write_csv_data(
         headers: A list of headers.
         data: A dict of data (keyed on the headers).
     """
-    with open(file_name, "a") as csv_file:
-        csv_writer = DictWriter(csv_file, fieldnames=headers, dialect="unix")
-        csv_writer.writerow(data)
+    try:
+        with open(file_name, "a") as csv_file:
+            csv_writer = DictWriter(csv_file, fieldnames=headers, dialect="unix")
+            csv_writer.writerow(data)
+    except ValueError as err:
+        print(f"\nError writing CSV data {data} with headers {headers}")
+        raise err
 
 
 def export_type_csv(file_path: path_type) -> None:
@@ -74,7 +78,22 @@ def export_type_csv(file_path: path_type) -> None:
     data = load_json(file_path)["credentialSubject"]
     data = {k.lower(): v for k, v in data.items()}
     data["behaviour"] = data.get("behaviour", {}).get("id", "")
+    data["parents"] = ",".join([parent["id"] for parent in data.get("parents", [])])
+    data["children"] = ",".join([child["id"] for child in data.get("children", [])])
     write_csv_data(file_name, csv_headers["type"], data)
+
+
+def export_firmware_csv(file_path: path_type) -> None:
+    """Exports a D3 firmware claim JSON to a csv file entry
+
+    Args:
+        file_path: The path to the D3 firmware claim JSON.
+    """
+    file_name = csv_dir / "firmware.csv"
+    data = load_json(file_path)["credentialSubject"]
+    data = {k.lower(): v for k, v in data.items()}
+    data["behaviour"] = data.get("behaviour", {}).get("id", "")
+    write_csv_data(file_name, csv_headers["firmware"], data)
 
 
 def export_behaviour_csv(file_path: path_type) -> None:
@@ -128,5 +147,7 @@ def d3_json_export_csv(file_path: path_type) -> None:
         export_type_csv(file_path)
     elif d3_type == "behaviour":
         export_behaviour_csv(file_path)
+    elif d3_type == "firmware":
+        export_firmware_csv(file_path)
     else:
         raise ValueError(f"Unknown D3 claim type: {d3_type}")

@@ -34,8 +34,11 @@
         }
       },
       "aliases": {
-        "type": "string",
-        "description": "The string or json array string of aliases for the device type"
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "An array of aliases for the device type"
       },
       "manufacturer": {
         "type": "string",

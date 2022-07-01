@@ -18,23 +18,20 @@ def reproject(vuln):
         }
 
 
-def get_vulnerabilities(string_to_search_for, projection=None):
+def get_vulnerabilities(string_to_search_for, projection={"CVE_data_meta": 1}):
     ndJSON = False
     datasetId = "Efl8dagnBm"
-    pipeline = [
-        {"$project": {"search_string": 1, "CVE_data_meta": 1}},
-        {"$match": {"search_string": {"$regex": string_to_search_for, "$options": "i"}}}
-    ]
+    filter = {"$text": {"$search": string_to_search_for}}
+    filterStr = encodeURIComponent(json_stringify(filter))
     projectionStr = ""
     if projection is not None:
         projectionStr = encodeURIComponent(json_stringify(projection))
-    format = "aggregate"
+    format = "data"
     if ndJSON:
-        format = "ndaggregate"
-    pipeline = encodeURIComponent(json_stringify(pipeline))
-    endpoint = f"resources/{datasetId}/{format}?pipeline={pipeline}&proj=${projectionStr}"
+        format = "nddata"
+    endpoint = f"resources/{datasetId}/{format}"
     queryServer = "https://q.nqm-2.com/v1/"
-    query = endpoint
+    query = f"{endpoint}?filter={filterStr}&proj={projectionStr}"
     request = f"{queryServer}{query}"
     response_API = requests.get(request)
     data = json.loads(response_API.text)["data"]
@@ -51,7 +48,7 @@ def build_vulnerabilities(type_jsons, pbar=None, percentage_total=None):
         if search_term is None:
             search_term = type_json["credentialSubject"].get("name", None)
         if search_term is not None:
-            cve_vulnerabilities = get_vulnerabilities(re.escape(search_term), {"CVE_data_meta.id": 1})
+            cve_vulnerabilities = get_vulnerabilities(re.escape(search_term))
             cve_vulnerabilities = [reproject(vuln) for vuln in cve_vulnerabilities]
             current_vulnerabilities = []
             try:

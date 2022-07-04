@@ -77,7 +77,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
 - `./D3DB`: (Auto generated) Location of the exported D3 claim schemas (all branches) and CSV tables (on the `csv` branch)
 - `./examples`: example claim and behaviour definitions
 - `./d3-scripts`: Folder containing the scripts for compiling the D3 YAML claims
-- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the JSON schemas used in the compilation process should you want to 
+- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the JSON schemas used in the compilation process should you want to
 
 ### D3 Claim Workflow
 

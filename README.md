@@ -48,7 +48,7 @@ Vulnerability assertions allow claims to be made about the vulnerabilities assoc
 
 For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-1. **Start a new branch**.
+1. [Fork this repo](https://github.com/TechWorksHub/ManySecured-D3DB/fork), and **start a new branch**.
 2. Within the `manufacturers folder` folder, **create/find the folder for the device manufacturer** within the alphabetised folder structure. If you organise your files into sub-directories (e.g. by product line or year) they will be searched recursively automatically at compile time.
 3. Add **YAML files with the details for your D3 claims**. See
     - The file name convention is `fileName.<d3-type>.d3.yaml`
@@ -77,7 +77,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
 - `./D3DB`: (Auto generated) Location of the exported D3 claim schemas (all branches) and CSV tables (on the `csv` branch)
 - `./examples`: example claim and behaviour definitions
 - `./d3-scripts`: Folder containing the scripts for compiling the D3 YAML claims
-- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the JSON schemas used in the compilation process should you want to 
+- `./d3-scripts/src/d3_scripts/schemas/`: Folder containing the JSON schemas used in the compilation process should you want to
 
 ### D3 Claim Workflow
 

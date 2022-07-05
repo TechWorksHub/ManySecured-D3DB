@@ -20,15 +20,15 @@ A repo for the management and storage of ManySecured D3 claims.
 
 ## D3 Architecture Summary
 
-![Relationship Graph for the D3 Claim Types](./examples/D3-claim-dep-graph.png)
+![Relationship Graph for the D3 Claim Types](./docs/D3-claim-dep-graph.svg)
 
 ### D3 Claim Type Summaries
 
-#### Device TYPE assertions
+#### Device TYPE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type))
 
 Device types are the core description of an instance of a given device. The type assertion encapsulates the device's details and refers (by GUID reference) to the behaviours, vulnerabilities, and firmware associated with that device. Type assertions operate an inheritance model, where a type assertion can inherit the properties from parent types and then overload/add properties unique to that device type instance.
 
-#### Device BEHAVIOUR assertions
+#### Device BEHAVIOUR assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-static-behaviour))
 
 Device behaviour claims detail the activity the device should and should not exhibit on the network. A behaviour claim is a collection of multiple network activity rules which define the network activity parameters the device should comply with. Behaviour rules are one of two types, expected and malicious. Expected rules detail the activity that a device is expected to conform to under normal operation. Malicious rules define network activity the device should categorically not exhibit (these can usually be inherited from the master behaviour definition for a pre-defined list of known malicious activity).
 
@@ -36,11 +36,11 @@ On a ManySecured enabled router, the router can use the behaviour claim to check
 
 Behaviour claims comprise a set of rules and can also elect to inherit the rules from other behaviours into a more comprehensive set of rules, e.g. The behaviour claim for a 3-in-one printer might inherit the behaviour claims of a printer, scanner, and copier.
 
-#### Device FIRMWARE assertions
+#### Device FIRMWARE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-firmware))
 
 Firmware assertions are used to describe the firmware versions a device can have, provide links to the spec, and be used to match against known vulnerabilities for that firmware.
 
-#### Device VULNERABILITY assertions
+#### Device VULNERABILITY assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability))
 
 Vulnerability assertions allow claims to be made about the vulnerabilities associated with the device. Vulnerability claims are generally auto-populated from the NIST and CVE vulnerability databases but can also be manually added.
 

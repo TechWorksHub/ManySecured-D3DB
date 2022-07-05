@@ -30,7 +30,7 @@
               }
             }
           },
-          "required": ["id", "properties"]
+          "required": ["id"]
         }
       },
       "aliases": {

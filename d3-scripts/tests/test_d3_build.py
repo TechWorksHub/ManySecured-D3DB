@@ -78,7 +78,6 @@ def test_duplicate_property_type_inheritance():
         d3_scripts.d3_build.d3_build(
             d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-property-type-inheritance").glob("*.yaml")
         )
-    print(excinfo.value.args[0])
     assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
 
 

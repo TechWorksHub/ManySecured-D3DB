@@ -40,10 +40,9 @@ def get_vulnerabilities(string_to_search_for, projection={"CVE_data_meta": 1}):
 
 def build_vulnerabilities(type_jsons, pbar=None, percentage_total=None):
     retrieved_cve_vulnerabilities = []
-    progress_increment = 1/len(type_jsons)
     for i, type_json in enumerate(type_jsons):
+        progress_increment = 1/len(type_jsons)
         pbar.update(progress_increment * percentage_total/100)
-        print(i)
         search_term = type_json["credentialSubject"].get("modelNumber", None)
         if search_term is None:
             search_term = type_json["credentialSubject"].get("name", None)

@@ -72,22 +72,13 @@ def test_non_existent_parent_type():
         assert string in excinfo.value.args[0]
 
 
-def test_duplicate_property_type_inheritance_single_parent():
-    """Test whether inheriting duplicate properties from a single parent type raises an error"""
-    with pytest.raises(Exception) as excinfo:
-        d3_scripts.d3_build.d3_build(
-            d3_files=(Path(__file__).parent /
-                      "__fixtures__" / "duplicate-property-type-inheritance-single-parent").glob("*.yaml")
-        )
-    assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
-
-
 def test_duplicate_property_type_inheritance():
     """Test whether inheriting duplicate properties from types raises an error"""
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
             d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-property-type-inheritance").glob("*.yaml")
         )
+    print(excinfo.value.args[0])
     assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
 
 
@@ -108,6 +99,14 @@ def test_firmware_with_missing_type():
         )
     for string in ["Type", "of firmware claim", "not found"]:
         assert string in excinfo.value.args[0]
+
+
+def test_duplicate_property_type_inheritance_single_parent():
+    """Test whether inheriting duplicate properties from a single parent type is ignored"""
+    # should succeed
+    d3_scripts.d3_build.d3_build(
+        d3_files=(Path(__file__).parent / "__fixtures__" / "duplicate-property-type-inheritance-single-parent").glob(
+            "*.yaml"))
 
 
 def test_build():

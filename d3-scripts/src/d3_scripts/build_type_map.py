@@ -20,16 +20,20 @@ def build_type_map(type_jsons):
             parent_id = parent["id"]
             properties_to_inherit = set(always_inherited_properties + parent["properties"])
             for property in properties_to_inherit:
+                property_to_inherit = None
                 try:
+                    property_to_inherit = type_map[parent_id]["credentialSubject"][property]
+                except KeyError:
+                    raise KeyError(f"Attempted to inherit missing property {property} from {parent_id} in {type_id}")
+                if property_to_inherit is not None:
                     if property in inherited_properties:
                         if type(inherited_properties[property]) == list:
-                            inherited_properties[property] + type_map[parent_id]["credentialSubject"][property]
+                            inherited_properties[property] + property_to_inherit
                         else:
                             raise KeyError(f"""Duplicate inherited properties in type definition {type_id},
                             attempted to inherit property `{property}` from multiple parent types""")
-                    inherited_properties[property] = type_map[parent_id]["credentialSubject"][property]
-                except KeyError:
-                    raise KeyError(f"Attempted to inherit missing property {property} from {parent_id} in {type_id}")
+                    else:
+                        inherited_properties[property] = property_to_inherit
         inherited_properties["vulnerabilities"] = list(set(inherited_properties["vulnerabilities"]))
         type_map[type_id]["credentialSubject"] = {**type_instance["credentialSubject"], **inherited_properties}
         type_map[type_id]["credentialSubject"]["children"] = [

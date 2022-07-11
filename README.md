@@ -1,34 +1,54 @@
-# ManySecured-D3DB
+# ManySecured-D3DB <!-- omit in toc -->
 
 A repo for the management and storage of ManySecured D3 claims.
 
-## Index
+## Index <!-- omit in toc -->
 
-1. [D3 Architecture Summary](#d3-architecture-summary)
-2. [ManySecured Working Group Documentation and Specifications](#manysecured-working-group-documentation-and-specifications)
-3. [How to add a new D3 claim](#how-to-add-a-new-d3-claim)
-4. [Project Details](#project-details)
-   1. [Repo Folder Structure](#repo-folder-structure)
-   2. [D3 Claim Workflow](#d3-claim-workflow)
+- [ManySecured Working Group Documentation and Specifications](#manysecured-working-group-documentation-and-specifications)
+- [D3 Architecture Summary](#d3-architecture-summary)
+  - [D3 Claim Type Summaries](#d3-claim-type-summaries)
+    - [Device TYPE assertions (DOCS)](#device-type-assertions-docs)
+    - [Device BEHAVIOUR assertions (DOCS)](#device-behaviour-assertions-docs)
+    - [Device FIRMWARE assertions (DOCS)](#device-firmware-assertions-docs)
+    - [Device VULNERABILITY assertions (DOCS)](#device-vulnerability-assertions-docs)
+- [How to add a new D3 claim](#how-to-add-a-new-d3-claim)
+- [Project Details](#project-details)
+  - [Repo Folder Structure](#repo-folder-structure)
+  - [D3 Claim Workflow](#d3-claim-workflow)
+    - [Scripts](#scripts)
+    - [D3 Compilation Process](#d3-compilation-process)
 
 ## ManySecured Working Group Documentation and Specifications
 
 - [ManySecured Docs](https://specs.manysecured.net/)
 - [ManySecured Docs: D3](https://specs.manysecured.net/d3)
 - [ManySecured Docs: D3 Claims](https://specs.manysecured.net/d3/D3%20claims)
-- [ManySecured Docs: D3 Behaviours](https://specs.manysecured.net/d3/D3%20behaviourss)
+- [ManySecured Docs: D3 Claims Examples](https://specs.manysecured.net/d3/D3%20claim%20examples)
 
 ## D3 Architecture Summary
 
-![Relationship Graph for the D3 Claim Types](./docs/D3-claim-dep-graph.svg)
+![Relationship Graph for the D3 Claim Types](https://specs.manysecured.net/assets/images/D3-claim-dep-graph-96f91e185abcfdffb986e2410386fba1.svg)
+
+**Overview**:
+1. Types are the core of the claim assertion structure
+2. A type can inherit the propertied of many other types
+3. A type can reference one behaviour
+4. A behaviour can be referenced by many types
+5. A behaviour can describe many rules
+6. A rule can be expected malicious=false(default) or malicious malicious=true
+7. A behaviour can inherit rules from multiple behaviours
+8. A type can have many firmwares
+9. A firmware can be referenced by many device types
+10. A device may have many vulnerabilities
+11. A vulnerability can be referenced by many device types
 
 ### D3 Claim Type Summaries
 
-#### Device TYPE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type))
+#### Device TYPE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-type-assertion))
 
 Device types are the core description of an instance of a given device. The type assertion encapsulates the device's details and refers (by GUID reference) to the behaviours, vulnerabilities, and firmware associated with that device. Type assertions operate an inheritance model, where a type assertion can inherit the properties from parent types and then overload/add properties unique to that device type instance.
 
-#### Device BEHAVIOUR assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-static-behaviour))
+#### Device BEHAVIOUR assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-behaviour-assertion))
 
 Device behaviour claims detail the activity the device should and should not exhibit on the network. A behaviour claim is a collection of multiple network activity rules which define the network activity parameters the device should comply with. Behaviour rules are one of two types, expected and malicious. Expected rules detail the activity that a device is expected to conform to under normal operation. Malicious rules define network activity the device should categorically not exhibit (these can usually be inherited from the master behaviour definition for a pre-defined list of known malicious activity).
 
@@ -36,11 +56,11 @@ On a ManySecured enabled router, the router can use the behaviour claim to check
 
 Behaviour claims comprise a set of rules and can also elect to inherit the rules from other behaviours into a more comprehensive set of rules, e.g. The behaviour claim for a 3-in-one printer might inherit the behaviour claims of a printer, scanner, and copier.
 
-#### Device FIRMWARE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-firmware))
+#### Device FIRMWARE assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-firmware-assertions))
 
 Firmware assertions are used to describe the firmware versions a device can have, provide links to the spec, and be used to match against known vulnerabilities for that firmware.
 
-#### Device VULNERABILITY assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability))
+#### Device VULNERABILITY assertions ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-vulnerability-assertion))
 
 Vulnerability assertions allow claims to be made about the vulnerabilities associated with the device. Vulnerability claims are generally auto-populated from the NIST and CVE vulnerability databases but can also be manually added.
 
@@ -54,10 +74,10 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
     - The file name convention is `fileName.<d3-type>.d3.yaml`
     - `fileName` is the name of the company/organisation/manufacturer associated with the device
     - `<d3-type>` is one of the valid D3 types
-        - `behaviour`: Claim of type `d3-device-type-behaviour` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-static-behaviour), [EXAMPLE]()).
-        - `firmware`: Claim of type `d3-firmware-assertion` ([DOCS (TBD)](https://specs.manysecured.net/d3), [EXAMPLE]()).
-        - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type), [EXAMPLE]()).
-        - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claims/#assert-device-type-vulnerability), [EXAMPLE]()).
+        - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-type-assertion), [EXAMPLE](./examples/type-template.type.d3.yaml)).
+        - `behaviour`: Claim of type `d3-device-type-behaviour` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-behaviour-assertion), [EXAMPLE](./exmaples/behaviour-template.behaviour.d3.yaml)).
+        - `firmware`: Claim of type `d3-firmware-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-firmware-assertions), [EXAMPLE](./examples/firmware-template.firmware.d3.yaml)).
+        - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-vulnerability-assertion), [EXAMPLE](./examples/vulnerability-template.vuln.d3.yaml)).
     - Example templates for each type are in the `./examples` folder.
     - The YAML file values must not be preceded by tabs. If you want to achieve a visual indent use space characters.
     - If you want to generate UUID/GUIDs for your yaml definitions, refer to the uuid helper script in the [Workflow section](#workflow) below.

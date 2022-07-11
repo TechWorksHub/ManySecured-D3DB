@@ -18,7 +18,6 @@ credentialSubject:
     - da03d559-d0f4-4bf5-8924-f3c41e759283
   firmwares:  # list of GUIDs of compatible firmwares
     - f3b12425-bbdc-4a04-8eb6-8b5b9b4dc88a
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15  # GUID of behaviour to use
   parents:
     - id: ba3ba36d-be70-40f0-9c52-95b560066d11 # Id of parent type to inherit from
       # Specific properties to inherit (optional, default inherit all properties)

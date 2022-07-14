@@ -1,43 +1,43 @@
 {
-    "$id": "https://example.com/instance.schema.json",
-    "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "title": "instance",
-    "type": "object",
-    "properties": {
-      "id": {
-        "type": "string",
-        "format": "uuid",
-        "description": "GUID for the instance"
-      },
-      "mac": {
-        "type": "string",
-        "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
-        "description": "The device instance MAC address"
-      },
-      "primaryip": {
-        "type": "string",
-        "oneOf": [
-          {"format": "ipv4" },
-          {"format": "ipv6" }
-        ],
-        "description": "The device instance primary IP"
-      },
-      "secondaryip": {
-        "type": "string",
-        "oneOf": [
-          {"format": "ipv4" },
-          {"format": "ipv6" }
-        ],
-        "description": "The device instance secondary IP"
-      },
-      "name": {
-        "type": "string",
-        "description": "The device instance name"
-      },
-      "typeId": {
-        "type": "string",
-        "description": "The type GUID this instance inherits"
-      }
+  "$id": "https://example.com/instance.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "instance",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "GUID for the instance"
     },
-    "required": ["id"]
-  }
+    "mac": {
+      "type": "string",
+      "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+      "description": "The device instance MAC address"
+    },
+    "primaryip": {
+      "type": "string",
+      "oneOf": [
+        {"format": "ipv4" },
+        {"format": "ipv6" }
+      ],
+      "description": "The device instance primary IP"
+    },
+    "secondaryip": {
+      "type": "string",
+      "oneOf": [
+        {"format": "ipv4" },
+        {"format": "ipv6" }
+      ],
+      "description": "The device instance secondary IP"
+    },
+    "name": {
+      "type": "string",
+      "description": "The device instance name"
+    },
+    "typeId": {
+      "type": "string",
+      "description": "The type GUID this instance inherits"
+    }
+  },
+  "required": ["id"]
+}

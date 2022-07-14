@@ -85,6 +85,13 @@
       },
       "description": "An array of MAC addresses"
     },
+    "vulnerabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "An array of vulnerability IDs"
+    },
     "behaviour": {
       "type": "string",
       "description": "The behaviour name or id for this device type"

@@ -20,7 +20,7 @@ csv_headers = {
     "type": [
         "id", "aliases", "manufacturer", "manufactureruri", "modelnumber",
         "modelsupporturi", "modelinformationuri", "name", "tags",
-        "macaddresses", "behaviour", "parents", "children"
+        "macaddresses", "behaviour", "parents", "children", "vulnerabilities"
     ],
     "firmware": [
         "id", "type", "versions", "behaviour"

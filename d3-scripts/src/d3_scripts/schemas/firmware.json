@@ -23,6 +23,13 @@
     "versions": {
       "type": "string",
       "description": "The firmware version numbers for which this firmware behaviour is valid"
+    },
+    "vulnerabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "An array of vulnerability IDs"
     }
   }
 }

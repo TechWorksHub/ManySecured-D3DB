@@ -12,6 +12,8 @@ from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
 import typing
 from .claim_graph import build_claim_graph
 from .build_type_map import build_type_map
+from .d3_build_vulnerabilities import build_vulnerabilities
+from .json_tools import write_json, get_json_file_name
 
 src_file = Path(__file__)
 yaml_dir = Path(__file__).parents[3] / "manufacturers"
@@ -26,6 +28,7 @@ def claim_handler(file_name):
 
 def d3_build(
     d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
+    d3_folder=[Path(yaml_dir)],
     check_uri_resolves: bool = True,
     pass_on_failure: bool = False,
 ):
@@ -53,7 +56,7 @@ def d3_build(
     pbar.set_description("Finding claims")
     files_to_process = pool.map(claim_handler, d3_files)
     files_to_process = [file for file in files_to_process if file]
-    pbar.update(30)
+    pbar.update(15)
 
     pbar.set_description("Loading claims")
     behaviour_files = get_files_by_type(files_to_process, "behaviour")
@@ -61,7 +64,18 @@ def d3_build(
     type_files = get_files_by_type(files_to_process, "type")
     type_jsons = tuple(pool.map(load_claim, type_files))
     claim_jsons = behaviour_jsons + type_jsons
-    pbar.update(10)
+    pbar.update(5)
+
+    pbar.set_description("Searching CVE dataset for vulnerabilities")
+    cve_vulnerabilities = build_vulnerabilities(type_jsons, pbar, percentage_total=15)
+    for folder in d3_folder:
+        outputFolder = Path(get_json_file_name(str(folder)), "cve_vulnerabilities")
+        Path(outputFolder).mkdir(parents=True, exist_ok=True)
+        for vuln in cve_vulnerabilities:
+            json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
+            # write JSON for CVE vulnerability
+            write_json(json_file_name, vuln)
+    pbar.update(5)
 
     # check for duplicate GUID/UUIDs
     pbar.set_description("Checking UUIDs")
@@ -72,7 +86,7 @@ def d3_build(
     pbar.update(20)
 
     # Pass behaviour files into process_claim_file function
-    pbar.set_description("Finding inherited rules")
+    pbar.set_description("Finding inherited rules & checking for vulnerabilities")
     behaviour_map = {claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons}
     behaviour_graph = build_claim_graph(behaviour_map)
     type_map = build_type_map(type_jsons)
@@ -156,6 +170,7 @@ def cli(argv=None):
           for d3_folder in args.D3_FOLDER
           for d3_file in Path(d3_folder).glob("**/*.yaml")
         ),
+        d3_folder=args.D3_FOLDER,
         check_uri_resolves=args.check_uri_resolves,
         pass_on_failure=args.pass_on_failure,
     )

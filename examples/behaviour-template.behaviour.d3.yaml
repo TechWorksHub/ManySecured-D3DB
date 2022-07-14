@@ -84,3 +84,12 @@ credentialSubject:
           destinationIp4: 208.67.220.220/32
         udp:
           destinationPort: 53
+    - name: from-malicious-sender
+      malicious: True
+      matches:
+        ip4:
+          protocol: 17
+          destinationIp4: 155.67.220.220/32
+        udp:
+          destinationPort: 53
+issuer: CertFarm Ltd. # (optional) Verified crediential issuer

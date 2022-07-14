@@ -31,7 +31,7 @@ A repo for the management and storage of ManySecured D3 claims.
 
 **Overview**:
 1. Types are the core of the claim assertion structure
-2. A type can inherit the propertied of many other types
+2. A type can inherit the properties of many other types
 3. A type can reference one behaviour
 4. A behaviour can be referenced by many types
 5. A behaviour can describe many rules

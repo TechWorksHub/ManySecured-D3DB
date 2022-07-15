@@ -12,6 +12,7 @@ CREATE TABLE "type" (
   "behaviour" TEXT,
   "parents" TEXT,
   "children" TEXT,
+  "vulnerabilities" TEXT,
  PRIMARY KEY("id")
 )
 

@@ -75,7 +75,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
     - `fileName` is the name of the company/organisation/manufacturer associated with the device
     - `<d3-type>` is one of the valid D3 types
         - `type`: Claim of type `d3-device-type-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-type-assertion), [EXAMPLE](./examples/type-template.type.d3.yaml)).
-        - `behaviour`: Claim of type `d3-device-type-behaviour` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-behaviour-assertion), [EXAMPLE](./exmaples/behaviour-template.behaviour.d3.yaml)).
+        - `behaviour`: Claim of type `d3-device-type-behaviour` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-behaviour-assertion), [EXAMPLE](./examples/behaviour-template.behaviour.d3.yaml)).
         - `firmware`: Claim of type `d3-firmware-assertion` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-firmware-assertions), [EXAMPLE](./examples/firmware-template.firmware.d3.yaml)).
         - `vuln`: Claim of type `d3-device-type-vuln` ([DOCS](https://specs.manysecured.net/d3/D3%20claim%20examples#device-vulnerability-assertion), [EXAMPLE](./examples/vulnerability-template.vuln.d3.yaml)).
     - Example templates for each type are in the `./examples` folder.

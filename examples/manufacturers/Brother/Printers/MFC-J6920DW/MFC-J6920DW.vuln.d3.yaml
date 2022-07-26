@@ -1,5 +1,5 @@
 type: d3-device-type-vuln
 credentialSubject:
   # unique identifiers
-  d3type:        aa92ebae-4928-4456-b597-cbd7657e9e83
+  id: 7bb6ec6d-0514-4a2d-91b9-aed1cee34ef9
   vulnerability: https://nvd.nist.gov/vuln/detail/CVE-2018-11581

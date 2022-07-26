@@ -10,3 +10,9 @@ credentialSubject:
   #specific information
   tags: "#printers, #fax, #scanners"
   name: "Brother Printers"
+
+  parents:
+    - id: a4a9a2f0-9930-4497-a429-759d3527177e
+      properties:
+        - manufacturer
+        - manufacturerUri

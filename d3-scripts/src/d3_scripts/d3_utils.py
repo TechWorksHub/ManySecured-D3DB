@@ -136,7 +136,6 @@ def process_claim_file(
             if claim["credentialSubject"].get("behaviour", None) is None:
                 # if no behaviour of it's own, inherit from parent type to which firmware belongs
                 type_behaviour = type_map[firmware_type]["credentialSubject"].get("behaviour", None)
-                print(type_behaviour)
                 if type_behaviour is not None:
                     claim["credentialSubject"]["behaviour"] = type_behaviour
 

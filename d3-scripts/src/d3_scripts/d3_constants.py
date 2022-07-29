@@ -14,7 +14,7 @@ d3_type_codes_to_schemas = {
 d3_types = d3_type_codes.keys()
 d3_codes = d3_type_codes.values()
 
-behaviour_rule_types = ["eth", "ip4", "tcp", "udp"]
+behaviour_rule_types = ["eth", "ip4", "ip6" "tcp", "udp", "icmp"]
 
 csv_headers = {
     "type": [

@@ -35,7 +35,7 @@
               "ip4": {
                 "title": "behaviour-ip4",
                 "type": "object",
-                "description": "The ip v4 protocol behaviour rule",
+                "description": "The IP v4 protocol behaviour rule",
                 "properties": {
                   "sourceIp4": {
                     "type": "string",
@@ -49,15 +49,76 @@
                   },
                   "sourceDnsName": {
                     "type": "string",
-                    "description": "The source dns address"
+                    "description": "The source DNS address"
                   },
                   "destinationDnsName": {
                     "type": "string",
-                    "description": "The destination dns address"
+                    "description": "The destination DNS address"
                   },
                   "protocol": {
                     "type": "number",
                     "description": "The protocol number"
+                  },
+                  "ihl": {
+                    "type": "number",
+                    "description": "The IP header length"
+                  },
+                  "tos": {
+                    "type": "number",
+                    "description": "The IP type of service"
+                  },
+                  "ttl": {
+                    "type": "number",
+                    "description": "The IP time to live"
+                  },
+                  "offset": {
+                    "type": "number",
+                    "description": "The IP offset"
+                  },
+                  "length": {
+                    "type": "number",
+                    "description": "The IP packet length"
+                  }
+                }
+              },
+              "ip6": {
+                "title": "behaviour-ip6",
+                "type": "object",
+                "description": "The IP v6 protocol behaviour rule",
+                "properties": {
+                  "sourceIp6": {
+                    "type": "string",
+                    "format": "ipv6",
+                    "description": "The source IPv6 address"
+                  },
+                  "destinationIp6": {
+                    "type": "string",
+                    "format": "ipv6",
+                    "description": "The destination IPv6 address"
+                  },
+                  "sourceDnsName": {
+                    "type": "string",
+                    "description": "The source DNS address"
+                  },
+                  "destinationDnsName": {
+                    "type": "string",
+                    "description": "The destination DNS address"
+                  },
+                  "protocol": {
+                    "type": "number",
+                    "description": "The protocol number"
+                  },
+                  "ttl": {
+                    "type": "number",
+                    "description": "The IP time to live"
+                  },
+                  "length": {
+                    "type": "number",
+                    "description": "The IP packet length"
+                  },
+                  "flowLabel": {
+                    "type": "number",
+                    "description": "The IPv6 flow label"
                   }
                 }
               },
@@ -71,10 +132,20 @@
                     "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
                     "description": "The source MAC address"
                   },
+                  "sourceMacMask": {
+                    "type": "string",
+                    "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+                    "description": "The source MAC address mask"
+                  },
                   "destinationMac": {
                     "type": "string",
                     "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
                     "description": "The destination MAC address"
+                  },
+                  "destinationMacMask": {
+                    "type": "string",
+                    "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+                    "description": "The source MAC address mask"
                   },
                   "etherType": {
                     "type": "number",
@@ -109,6 +180,21 @@
                   "destinationPort": {
                     "type": "number",
                     "description": "The destination ports"
+                  }
+                }
+              },
+              "icmp": {
+                "title": "behaviour-icmp",
+                "description": "The ICMP protocol behaviour rule",
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "number",
+                    "description": "The ICMP type"
+                  },
+                  "code": {
+                    "type": "number",
+                    "description": "The ICMP code"
                   }
                 }
               }

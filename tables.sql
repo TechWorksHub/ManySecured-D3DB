@@ -34,7 +34,9 @@ CREATE TABLE "behaviour" (
 CREATE TABLE "behaviour_eth" (
   "ruleid" TEXT NOT NULL,
   "sourcemac" TEXT,
+  "sourcemacmask" TEXT,
   "destinationmac" TEXT,
+  "destinationmacmask" TEXT,
   "ethertype" NUMERIC NOT NULL,
   PRIMARY KEY("ruleid")
 )
@@ -46,6 +48,24 @@ CREATE TABLE "behaviour_ip4" (
   "sourcednsname" TEXT,
   "destinationdnsname" TEXT,
   "protocol" NUMERIC NOT NULL,
+  "ihl" NUMERIC,
+  "tos" NUMERIC,
+  "ttl" NUMERIC,
+  "offset" NUMERIC,
+  "length" NUMERIC,
+  PRIMARY KEY("ruleid")
+)
+
+CREATE TABLE "behaviour_ip6" (
+  "ruleid" TEXT NOT NULL,
+  "sourceip6" TEXT,
+  "destinationip6" TEXT,
+  "sourcednsname" TEXT,
+  "destinationdnsname" TEXT,
+  "protocol" NUMERIC NOT NULL,
+  "ttl" NUMERIC,
+  "flowlabel" NUMERIC,
+  "length" NUMERIC,
   PRIMARY KEY("ruleid")
 )
 
@@ -60,5 +80,12 @@ CREATE TABLE "behaviour_udp" (
   "ruleid" TEXT NOT NULL,
   "sourceport" INTEGER,
   "destinationport" INTEGER,
+  PRIMARY KEY("ruleid")
+)
+
+CREATE TABLE "behaviour_icmp" (
+  "ruleid" TEXT NOT NULL,
+  "type" INTEGER,
+  "code" INTEGER,
   PRIMARY KEY("ruleid")
 )

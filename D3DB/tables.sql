@@ -19,7 +19,7 @@ CREATE TABLE "type" (
 CREATE TABLE "firmware" (
   "id" TEXT NOT NULL,
   "type" TEXT NOT NULL,
-  "versions" TEXT
+  "versions" TEXT,
   "behaviour" TEXT
 )
 

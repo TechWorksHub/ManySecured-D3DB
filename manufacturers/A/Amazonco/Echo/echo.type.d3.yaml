@@ -11,7 +11,7 @@ credentialSubject:
   name: "Amazon Echo"
 
   parents:
-    - id: b2a471c6-3c2e-5b2a-927d-dd9b5aa44f69 # Id of parent type to inherit from
+    - id: b2a471c6-3c2e-5b2a-927d-dd9b5aa44f69  # Id of parent type to inherit from
       # Specific properties to inherit
       properties:
         - manufacturer

@@ -25,12 +25,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-          cache: 'pip'
-      - name: Install d3-cli
-        run: pip install d3-cli
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install d3-cli
       - name: Lint D3 claims
         run: d3-cli manufacturers --mode lint
   d3build:

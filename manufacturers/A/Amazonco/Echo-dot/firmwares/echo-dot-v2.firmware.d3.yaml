@@ -1,9 +1,9 @@
 type: d3-firmware-assertion
 credentialSubject:
-  id: 15757498-940d-48dc-8db0-3e3a8943776f # unique identifier
+  id: 15757498-940d-48dc-8db0-3e3a8943776f  # unique identifier
 
-  type: 3ec73667-68e0-4f84-98f6-2b795aff5e05 # type for device for which firmware applies
-  behaviour: 1c312156-7304-4cda-8299-d92eabdc43b3 # behaviour associated with this firmware
+  type: 3ec73667-68e0-4f84-98f6-2b795aff5e05  # type for device for which firmware applies
+  behaviour: 1c312156-7304-4cda-8299-d92eabdc43b3  # behaviour associated with this firmware
 
   # firmware versions which exhibit corresponding behaviour
   versions: ">4.0"

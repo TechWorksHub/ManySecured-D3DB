@@ -1,6 +1,0 @@
-type: d3-firmware-assertion
-credentialSubject:
-  id: cae94865-7f45-4bdc-bf9f-19a894b7d836 # unique identifier
-  type: 0de372d6-4ccc-46d3-a1ce-eb73e89b9b74 # type for device for which firmware applies
-  behaviour: aa92ebae-4928-4456-b597-cbd7657e9e83
-  versions: "<1.4"

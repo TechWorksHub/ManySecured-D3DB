@@ -40,8 +40,8 @@ jobs:
       # required to make a new commit in the `csv` branch
       contents: write
     runs-on: ubuntu-latest
-    # d3build is slow, so only run if lint/tests pass
-    needs: [pre-commit, test, d3lint]
+    # d3build is slow, so only run if lint passes
+    needs: [pre-commit, d3lint]
     # Only run on main branch, as the build is resource intensive
     if:
       contains('

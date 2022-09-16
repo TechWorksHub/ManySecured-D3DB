@@ -30,26 +30,10 @@ jobs:
           python-version: '3.8'
           cache: 'pip'
           cache-dependency-path: 'd3-scripts/poetry.lock'
-      - name: Install d3-scripts
-        run: pip install ./d3-scripts
+      - name: Install d3-cli
+        run: pip install d3-cli
       - name: Lint D3 claims
-        run: d3lint --glob-pattern 'manufacturers/**/*.d3.yaml'
-  test:
-    name: Test Python scripts
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: d3-scripts
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install poetry
-        run: pipx install poetry
-      - uses: actions/setup-python@v3
-        with:
-          python-version: '3.8'
-          cache: 'poetry'
-      - run: poetry install
-      - run: poetry run pytest # tests whether our Python code works
+        run: d3-cli manufacturers --mode lint
   d3build:
     name: Run D3 Build
     permissions:
@@ -68,17 +52,10 @@ jobs:
         working-directory: d3-scripts
     steps:
       - uses: actions/checkout@v3
-      - name: Install poetry
-        run: pipx install poetry
-      - uses: actions/setup-python@v3
-        with:
-          python-version: '3'
-          cache: 'poetry'
-      - run: poetry install
-      - name: Validate D3 files and convert to JSON
-        run: poetry run d3build
-      - name: Export D3 JSON files into CSV
-        run: poetry run d3export
+      - name: Install d3-cli
+        run: pip install d3-cli
+      - name: Validate D3 files, convert to JSON and Export D3 JSON files into CSV
+        run: d3-cli manufacturers --mode export
       - name: Deploy CSV files to `csv` branch (`main` branch only)
         if: github.ref == 'refs/heads/main'
         uses: s0/git-publish-subdir-action@v2.5.1

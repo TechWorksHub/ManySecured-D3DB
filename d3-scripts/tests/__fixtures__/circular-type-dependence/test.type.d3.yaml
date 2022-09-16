@@ -1,8 +1,0 @@
-type: d3-device-type-assertion
-credentialSubject:
-  id: ba3ba36d-be70-40f0-9c52-95b560066d11
-  manufacturer: amazon
-  parents:
-    - id: eb8e7ae0-155f-4942-8339-8c2b8bd7859e
-      properties:
-        - manufacturerUri

@@ -48,9 +48,6 @@ jobs:
       contains('
         refs/heads/main
       ', github.ref)
-    defaults:
-      run:
-        working-directory: d3-scripts
     steps:
       - uses: actions/checkout@v3
       - name: Install d3-cli

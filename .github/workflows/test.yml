@@ -51,7 +51,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install d3-cli
-        run: pip install d3-cli
+        run: pip install --upgrade d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into CSV
         run: d3-cli manufacturers --mode export --output D3DB
       - name: Deploy CSV files to `csv` branch (`main` branch only)

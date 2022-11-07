@@ -11,6 +11,8 @@ credentialSubject:
           ethertype: 2048
         ip4:
           protocol: 17
-          destinationIp4: 255.255.255.255/32
+          destinationIp4: 
+            addr: 255.255.255.255/32
+            allowed: true
         udp:
           destinationPort: 67

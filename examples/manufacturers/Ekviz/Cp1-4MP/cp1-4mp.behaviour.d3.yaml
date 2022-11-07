@@ -1,0 +1,66 @@
+type: d3-device-type-behaviour
+credentialSubject:
+  id: 76ceeee8-3410-490f-b945-e06bc4a92f2b
+  ruleName: "CP1 4MP"
+  rules:
+    - name: "49.51.150.132"
+      matches:
+        ip4:
+          destinationIp4:
+            allowed: true
+            addr: 49.51.150.132.oth:6002
+    - name: "89.21.226.138"
+      matches:
+        ip4:
+          destinationIp4: 
+            allowed: true
+            addr: 89.21.226.138.oth.*
+    - name: "com.amazonaws.compute.eu-west-1"
+      matches:
+        ip4:
+            destinationDnsname: 
+              allowed: true
+              addr: com.amazonaws.compute.eu-west-1.*
+              children:
+                - allowed: false
+                  addr: ec2-34-250-216-38.*
+                  children:
+                    - allowed: true
+                      addr: oth:6000
+                    - allowed: true
+                      addr: oth:6001
+                - allowed: false
+                  addr: ec2-34-251-86-177.*
+                - allowed: false
+                  addr: oth:8666
+                - allowed: false
+                  addr: ec2-34-252-146-66.*
+                  children:
+                    - allowed: true
+                      addr: oth:31006
+    - name: "ntp"
+      matches:
+        ip4:
+          destinationIp4:
+            allowed: true
+            addr: *
+            children:
+              - allowed: false
+                addr: 103.*
+                children: 
+                  - allowed: true
+                    addr: 103.219.22.112.oth:123
+              - allowed: false
+                addr: 132.*
+                children:
+                  - allowed: true
+                    addr: 132.226.210.133.oth:123 
+          destinationDnsname: 
+            allowed: true
+            addr: *
+            children:
+              - allowed: false
+                addr: SE.*
+                children:
+                  - allowed: true
+                    addr: SE.Stupi.Time100.oth:123

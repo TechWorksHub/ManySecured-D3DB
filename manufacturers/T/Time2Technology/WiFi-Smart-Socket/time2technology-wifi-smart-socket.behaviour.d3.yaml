@@ -1,0 +1,146 @@
+credentialSubject:
+  id: f17777ea-f4d0-4439-b3bb-8d9c6cdf0e24
+  ruleName: Time2Technology Wifi Smart Socket
+  rules:
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ntp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: com.amazonaws.compute.eu-central-1.ec2-18-192-43-219:8886
+            allowed: true
+          - addr: com.amazonaws.compute.eu-central-1.ec2-18-195-249-137:443
+            allowed: true
+          - addr: com.amazonaws.compute.eu-central-1.ec2-3-122-134-146:443
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: internet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: localnetwork
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: microsoftds
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: netbios
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: multicast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: smtps
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: telnet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: imap-tls
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: gateway
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 10.0.3.1:67
+            allowed: true
+          - addr: 255.255.255.255:67
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dhcp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dns
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 255.255.255.255:6667
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: broadcast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ssh
+type: d3-device-type-behaviour

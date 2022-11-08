@@ -18,7 +18,7 @@ credentialSubject:
         # the destinationIpv4, which is a string describing an IPv4 address
         ip4:
           protocol: 6
-          destinationDnsName: 
+          destinationDnsName:
             addr: dcape-na.amazon.com
             allowed: true
         # The tcp protocol match contains the source-port and destination port
@@ -28,7 +28,7 @@ credentialSubject:
       matches:
         ip4:
           protocol: 6
-          destinationDnsName: 
+          destinationDnsName:
             addr: softwareupdates.amazon.com
             allowed: true
         tcp:
@@ -37,7 +37,7 @@ credentialSubject:
       matches:
         ip4:
           protocol: 17
-          destinationDnsName: 
+          destinationDnsName:
             addr: 3.north-america.pool.ntp.org
             allowed: true
         udp:
@@ -46,14 +46,14 @@ credentialSubject:
       matches:
         ip4:
           protocol: 2
-          destinationIp4: 
+          destinationIp4:
             addr: 224.0.0.22/32
             allowed: true
     - name: from-ipv4-amazonecho-4
       matches:
         ip4:
           protocol: 17
-          destinationIp4: 
+          destinationIp4:
             addr: 239.255.255.250/32
             allowed: true
         udp:
@@ -66,7 +66,7 @@ credentialSubject:
           ethertype: 2048
         ip4:
           protocol: 17
-          destinationIp4: 
+          destinationIp4:
             addr: 255.255.255.255/32
             allowed: true
         udp:
@@ -79,7 +79,7 @@ credentialSubject:
           ethertype: 2048
         ip4:
           protocol: 17
-          destinationIp4: 
+          destinationIp4:
             addr: 255.255.255.255/32
             allowed: true
         udp:
@@ -88,7 +88,7 @@ credentialSubject:
       matches:
         ip4:
           protocol: 17
-          destinationIp4: 
+          destinationIp4:
             addr: 208.67.220.220/32
             allowed: true
         udp:

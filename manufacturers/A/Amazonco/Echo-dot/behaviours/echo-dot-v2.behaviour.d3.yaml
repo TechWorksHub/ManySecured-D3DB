@@ -15,7 +15,7 @@ rules:
     matches:
       ip4:
         protocol: 8
-        destinationDnsName: 
+        destinationDnsName:
           addr: dcape-na.amazon.com
           allowed: true
       tcp:

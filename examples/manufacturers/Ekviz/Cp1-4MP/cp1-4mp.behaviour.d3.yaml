@@ -12,13 +12,13 @@ credentialSubject:
     - name: "89.21.226.138"
       matches:
         ip4:
-          destinationIp4: 
+          destinationIp4:
             allowed: true
             addr: 89.21.226.138.oth.*
     - name: "com.amazonaws.compute.eu-west-1"
       matches:
         ip4:
-            destinationDnsname: 
+            destinationDnsName:
               allowed: true
               addr: com.amazonaws.compute.eu-west-1.*
               children:
@@ -55,7 +55,7 @@ credentialSubject:
                 children:
                   - allowed: true
                     addr: 132.226.210.133.oth:123 
-          destinationDnsname: 
+          destinationDnsName:
             allowed: true
             addr: *
             children:

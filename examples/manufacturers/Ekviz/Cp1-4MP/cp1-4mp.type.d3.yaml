@@ -1,0 +1,15 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: c4113d20-c378-43f6-bb1f-56f82c34b10f
+
+  # behaviour
+  behaviour: 76ceeee8-3410-490f-b945-e06bc4a92f2b
+
+  # general manufacturer information
+  manufacturer: ekviz
+  manufacturerUri: https://www.ezviz.com/
+
+  # specific information
+  tags: "#camera"
+  name: "CP1 4MP"

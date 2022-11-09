@@ -25,7 +25,8 @@ credentialSubject:
         # the destinationIpv4, which is a string describing an IPv4 address
         ip4:
           protocol: 6
-          destinationDnsname: dcape-na.amazon.com
+          destinationDnsName:
+            addr: dcape-na.amazon.com
         # The tcp protocol match contains the source-port and destination port
         tcp:
           destinationPort: 443
@@ -33,26 +34,30 @@ credentialSubject:
       matches:
         ip4:
           protocol: 6
-          destinationDnsname: softwareupdates.amazon.com
+          destinationDnsName:
+            addr: softwareupdates.amazon.com
         tcp:
           destinationPort: 443
     - name: from-ipv4-amazonecho-2
       matches:
         ip4:
           protocol: 17
-          destinationDnsname: 3.north-america.pool.ntp.org
+          destinationDnsName:
+            addr: 3.north-america.pool.ntp.org
         udp:
           destinationPort: 123
     - name: from-ipv4-amazonecho-3
       matches:
         ip4:
           protocol: 2
-          destinationIp4: 224.0.0.22/32
+          destinationIp4:
+            addr: 224.0.0.22/32
     - name: from-ipv4-amazonecho-4
       matches:
         ip4:
           protocol: 17
-          destinationIp4: 239.255.255.250/32
+          destinationIp4:
+            addr: 239.255.255.250/32
         udp:
           destinationPort: 1900
     - name: from-ipv4-amazonecho-5
@@ -63,7 +68,8 @@ credentialSubject:
           ethertype: 2048
         ip4:
           protocol: 17
-          destinationIp4: 255.255.255.255/32
+          destinationIp4:
+            addr: 255.255.255.255/32
         udp:
           destinationPort: 67
     - name: from-ipv4-amazonecho-6
@@ -74,14 +80,16 @@ credentialSubject:
           ethertype: 2048
         ip4:
           protocol: 17
-          destinationIp4: 255.255.255.255/32
+          destinationIp4:
+            addr: 255.255.255.255/32
         udp:
           destinationPort: 67
     - name: from-ipv4-amazonecho-7
       matches:
         ip4:
           protocol: 17
-          destinationIp4: 208.67.220.220/32
+          destinationIp4:
+            addr: 208.67.220.220/32
         udp:
           destinationPort: 53
     - name: from-malicious-sender
@@ -89,7 +97,8 @@ credentialSubject:
       matches:
         ip4:
           protocol: 17
-          destinationIp4: 155.67.220.220/32
+          destinationIp4:
+            addr: 155.67.220.220/32
         udp:
           destinationPort: 53
 issuer: CertFarm Ltd. # (optional) Verified crediential issuer

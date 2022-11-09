@@ -1,0 +1,131 @@
+credentialSubject:
+  id: b894205f-c91b-48b3-b19e-9e1aef516824
+  ruleName: Govee Wi-fi thermo hygrometer
+  rules:
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: ntp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: internet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: localnetwork
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: microsoftds
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: netbios
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: multicast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: smtps
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: telnet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: imap-tls
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: gateway
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: dhcp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: dns
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: broadcast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+    ruleName: ssh
+type: d3-device-type-behaviour

@@ -1,0 +1,488 @@
+type: d3-device-type-behaviour
+credentialSubject:
+  id: 76ceeee8-3410-490f-b945-e06bc4a92f2b
+  ruleName: "CP1 4MP"
+  rules:
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+          children:
+          - addr: SE.*
+            allowed: false
+            children:
+            - addr: SE.Stupi.Time100:123
+              allowed: true
+          - addr: com.cloudflare.*
+            allowed: false
+            children:
+            - addr: com.cloudflare.time:123
+              allowed: true
+          - addr: com.jettimailfr.*
+            allowed: false
+            children:
+            - addr: com.jettimailfr.i.l1:123
+              allowed: true
+          - addr: com.kashra-server.ntp28.*
+            allowed: false
+            children:
+            - addr: com.kashra-server.ntp28:123
+              allowed: true
+          - addr: com.kashra-server.ntp97.*
+            allowed: false
+            children:
+            - addr: com.kashra-server.ntp97:123
+              allowed: true
+          - addr: com.linode.*
+            allowed: false
+            children:
+            - addr: com.linode.members.li432-123:123
+              allowed: true
+          - addr: com.plus.*
+            allowed: false
+            children:
+            - addr: com.plus.31-125-29-254:123
+              allowed: true
+          - addr: cx.*
+            allowed: false
+            children:
+            - addr: cx.flashdance.ntp1:123
+              allowed: true
+          - addr: ms.*
+            allowed: false
+            children:
+            - addr: ms.nat.ntp:123
+              allowed: true
+          - addr: net.allophone.*
+            allowed: false
+            children:
+            - addr: net.allophone.dynamic.ne.lnk04.oa02.167-248-49-102:123
+              allowed: true
+          - addr: net.as44574.*
+            allowed: false
+            children:
+            - addr: net.as44574.uk.*
+              allowed: true
+              children:
+              - addr: net.as44574.uk.rdg.*
+                allowed: false
+                children:
+                - addr: net.as44574.uk.rdg.time:123
+                  allowed: true
+              - addr: net.as44574.uk.shf.*
+                allowed: false
+                children:
+                - addr: net.as44574.uk.shf.time:123
+                  allowed: true
+          - addr: net.gigaclear.*
+            allowed: false
+            children:
+            - addr: net.gigaclear.customer.83-151-207-133:123
+              allowed: true
+          - addr: net.hojmark.*
+            allowed: false
+            children:
+            - addr: net.hojmark.goamst:123
+              allowed: true
+          - addr: net.init7.*
+            allowed: false
+            children:
+            - addr: net.init7.aquila:123
+              allowed: true
+          - addr: net.m-online.*
+            allowed: false
+            children:
+            - addr: net.m-online.ntp2:123
+              allowed: true
+          - addr: net.ntt.*
+            allowed: false
+            children:
+            - addr: net.ntt.gin.ns.y:123
+              allowed: true
+          - addr: net.padevsoft.*
+            allowed: false
+            children:
+            - addr: net.padevsoft.pubservices-ldn1-sirius:123
+              allowed: true
+          - addr: net.pinklemon.*
+            allowed: false
+            children:
+            - addr: net.pinklemon.electra:123
+              allowed: true
+          - addr: net.project-creative.*
+            allowed: false
+            children:
+            - addr: net.project-creative.root.mc1:123
+              allowed: true
+          - addr: net.quickdrivingtestcancellations.*
+            allowed: false
+            children:
+            - addr: net.quickdrivingtestcancellations.server1:123
+              allowed: true
+          - addr: net.thorcom.ns0.*
+            allowed: false
+            children:
+            - addr: net.thorcom.ns0:123
+              allowed: true
+          - addr: net.thorcom.ns1.*
+            allowed: false
+            children:
+            - addr: net.thorcom.ns1:123
+              allowed: true
+          - addr: net.wirehive.ntp2.*
+            allowed: false
+            children:
+            - addr: net.wirehive.ntp2:123
+              allowed: true
+          - addr: net.wirehive.ntp3.*
+            allowed: false
+            children:
+            - addr: net.wirehive.ntp3:123
+              allowed: true
+          - addr: uk.co.divergentnetworks.*
+            allowed: false
+            children:
+            - addr: uk.co.divergentnetworks.ptr.213.5.132.231:123
+              allowed: true
+          - addr: uk.co.essenet.*
+            allowed: false
+            children:
+            - addr: uk.co.essenet.fuji:123
+              allowed: true
+          - addr: uk.co.lewiscomputing.*
+            allowed: false
+            children:
+            - addr: uk.co.lewiscomputing.ntp-cov-1:123
+              allowed: true
+          - addr: uk.co.turbodns.*
+            allowed: false
+            children:
+            - addr: uk.co.turbodns.ns3:123
+              allowed: true
+          - addr: uk.net.*
+            allowed: false
+            children:
+            - addr: uk.net.luns.*
+              allowed: true
+              children:
+              - addr: uk.net.luns.ns0.*
+                allowed: false
+                children:
+                - addr: uk.net.luns.ns0:123
+                  allowed: true
+              - addr: uk.net.luns.ns1.*
+                allowed: false
+                children:
+                - addr: uk.net.luns.ns1:123
+                  allowed: true
+          - addr: uk.org.77.*
+            allowed: false
+            children:
+            - addr: uk.org.77.ntp1:123
+              allowed: true
+          - addr: uk.org.halon.*
+            allowed: false
+            children:
+            - addr: uk.org.halon.cheddar:123
+              allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+          children:
+          - addr: 103.*
+            allowed: false
+            children:
+            - addr: 103.219.22.112:123
+              allowed: true
+          - addr: 132.*
+            allowed: false
+            children:
+            - addr: 132.226.210.133:123
+              allowed: true
+          - addr: 155.*
+            allowed: false
+            children:
+            - addr: 155.248.196.28:123
+              allowed: true
+          - addr: 183.*
+            allowed: false
+            children:
+            - addr: 183.136.184.225:123
+              allowed: true
+          - addr: 185.*
+            allowed: false
+            children:
+            - addr: 185.83.169.27:123
+              allowed: true
+          - addr: 66.*
+            allowed: false
+            children:
+            - addr: 66.85.78.80:123
+              allowed: true
+          - addr: 81.*
+            allowed: false
+            children:
+            - addr: 81.128.218.110:123
+              allowed: true
+          - addr: 85.*
+            allowed: false
+            children:
+            - addr: 85.199.214.*
+              allowed: true
+              children:
+              - addr: 85.199.214.100.*
+                allowed: false
+                children:
+                - addr: 85.199.214.100:123
+                  allowed: true
+              - addr: 85.199.214.101.*
+                allowed: false
+                children:
+                - addr: 85.199.214.101:123
+                  allowed: true
+    ruleName: ntp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 109.249.185.110:30517
+          - addr: 109.249.185.110:50997
+          - addr: 109.249.185.12:14081
+          - addr: 109.249.185.49:38683
+          - addr: 109.249.185.5:26826
+          - addr: 109.249.185.5:26868
+          - addr: 109.249.185.5:51402
+          - addr: 109.249.185.5:59636
+          - addr: 109.249.185.70:51035
+          - addr: 109.249.185.86:18294
+          - addr: 109.249.185.86:55158
+          - addr: 109.249.185.86:5964
+          - addr: 118.193.65.131:7760
+          - addr: 118.193.65.170:7760
+          - addr: 118.193.65.22:7760
+          - addr: 118.26.104.147:7760
+          - addr: 162.62.52.181:6002
+          - addr: 162.62.57.32:6003
+          - addr: 169.197.113.245:7760
+          - addr: 49.51.136.83:6003
+          - addr: 49.51.150.132:6002
+          - addr: com.amazonaws.compute.eu-west-1.*
+            children:
+            - addr: com.amazonaws.compute.eu-west-1.ec2-34-250-216-38.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-34-250-216-38:6000
+                allowed: true
+              - addr: com.amazonaws.compute.eu-west-1.ec2-34-250-216-38:6001
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-34-251-86-177.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-34-251-86-177:8666
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-34-252-146-66.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-34-252-146-66:31006
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-17-12-33.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-17-12-33:8444
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-18-170-241.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-18-170-241:8666
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-209-39-92.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-209-39-92:80
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-215-204-214.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-215-204-214:31006
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-48-203-220.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-48-203-220:8666
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-52-49-206-3.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-52-49-206-3:8444
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-54-154-82-167.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-54-154-82-167:31006
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-54-229-79-114.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-54-229-79-114:31006
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-54-76-202-50.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-54-76-202-50:80
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-63-35-139-84.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-63-35-139-84:80
+                allowed: true
+            - addr: com.amazonaws.compute.eu-west-1.ec2-99-81-240-103.*
+              allowed: false
+              children:
+              - addr: com.amazonaws.compute.eu-west-1.ec2-99-81-240-103:6000
+                allowed: true
+          - addr: com.amazonaws.s3-3-w:443
+        destinationIp4:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 109.249.185.38.*
+          - addr: 89.21.226.138.*
+    ruleName: internet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 10.0.5.35:10229
+          - addr: 10.0.5.35:10243
+          - addr: 10.0.5.35:10249
+          - addr: 10.0.5.35:10295
+          - addr: 10.0.5.35:10301
+          - addr: 192.168.1.182:10106
+          - addr: 192.168.1.182:10111
+          - addr: 192.168.1.182:10116
+          - addr: 192.168.1.182:10117
+          - addr: 192.168.1.182:10122
+          - addr: 192.168.1.182:10123
+          - addr: 192.168.1.182:10129
+          - addr: 192.168.1.182:10144
+          - addr: 192.168.1.182:10181
+          - addr: 192.168.1.182:10249
+          - addr: 192.168.1.182:10288
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: localnetwork
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: microsoftds
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: netbios
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 224.0.0.251:5353
+          - addr: 239.255.255.250:1900
+          - addr: 239.255.255.250:37020
+          - addr: 239.255.255.251:50160
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: multicast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: smtps
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: telnet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: imap-tls
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: gateway
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 10.0.7.1:67
+          - addr: 255.255.255.255:67
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dhcp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 10.0.7.1:53
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dns
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: broadcast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ssh

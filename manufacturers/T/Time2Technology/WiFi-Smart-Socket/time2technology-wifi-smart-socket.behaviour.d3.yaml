@@ -18,11 +18,8 @@ credentialSubject:
           allowed: false
           children:
           - addr: com.amazonaws.compute.eu-central-1.ec2-18-192-43-219:8886
-            allowed: true
           - addr: com.amazonaws.compute.eu-central-1.ec2-18-195-249-137:443
-            allowed: true
           - addr: com.amazonaws.compute.eu-central-1.ec2-3-122-134-146:443
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -106,9 +103,7 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.3.1:67
-            allowed: true
           - addr: 255.255.255.255:67
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -129,7 +124,6 @@ credentialSubject:
           allowed: false
           children:
           - addr: 255.255.255.255:6667
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false

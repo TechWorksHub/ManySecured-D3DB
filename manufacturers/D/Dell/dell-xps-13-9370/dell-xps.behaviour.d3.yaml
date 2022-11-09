@@ -9,9 +9,7 @@ credentialSubject:
           allowed: false
           children:
           - addr: com.google.time4:123
-            allowed: true
           - addr: org.computer42.hetzner.obelix:123
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -172,15 +170,10 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.5.1:80
-            allowed: true
           - addr: 10.0.5.255:51537
-            allowed: true
           - addr: 10.0.5.255:57621
-            allowed: true
           - addr: 10.0.7.237:14568
-            allowed: true
           - addr: 10.0.7.237:41451
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -319,31 +312,18 @@ credentialSubject:
           allowed: false
           children:
           - addr: net.1e100.wa-in-f108:993
-            allowed: true
           - addr: net.1e100.wa-in-f109:993
-            allowed: true
           - addr: net.1e100.wb-in-f108:993
-            allowed: true
           - addr: net.1e100.wb-in-f109:993
-            allowed: true
           - addr: net.1e100.wf-in-f109:993
-            allowed: true
           - addr: net.1e100.wg-in-f108:993
-            allowed: true
           - addr: net.1e100.wn-in-f109:993
-            allowed: true
           - addr: net.1e100.wo-in-f108:993
-            allowed: true
           - addr: net.1e100.wq-in-f108:993
-            allowed: true
           - addr: net.1e100.wr-in-f108:993
-            allowed: true
           - addr: net.1e100.wr-in-f109:993
-            allowed: true
           - addr: net.1e100.ws-in-f108:993
-            allowed: true
           - addr: net.1e100.ws-in-f109:993
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -364,7 +344,6 @@ credentialSubject:
           allowed: false
           children:
           - addr: 255.255.255.255:67
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -376,7 +355,6 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.5.1:53
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false

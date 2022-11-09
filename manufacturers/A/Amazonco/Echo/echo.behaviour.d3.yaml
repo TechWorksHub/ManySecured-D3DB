@@ -20,7 +20,6 @@ credentialSubject:
           protocol: 6
           destinationDnsName:
             addr: dcape-na.amazon.com
-            allowed: true
         # The tcp protocol match contains the source-port and destination port
         tcp:
           destinationPort: 443
@@ -30,7 +29,6 @@ credentialSubject:
           protocol: 6
           destinationDnsName:
             addr: softwareupdates.amazon.com
-            allowed: true
         tcp:
           destinationPort: 443
     - name: from-ipv4-amazonecho-2
@@ -39,7 +37,6 @@ credentialSubject:
           protocol: 17
           destinationDnsName:
             addr: 3.north-america.pool.ntp.org
-            allowed: true
         udp:
           destinationPort: 123
     - name: from-ipv4-amazonecho-3
@@ -48,14 +45,12 @@ credentialSubject:
           protocol: 2
           destinationIp4:
             addr: 224.0.0.22/32
-            allowed: true
     - name: from-ipv4-amazonecho-4
       matches:
         ip4:
           protocol: 17
           destinationIp4:
             addr: 239.255.255.250/32
-            allowed: true
         udp:
           destinationPort: 1900
     - name: from-ipv4-amazonecho-5
@@ -68,7 +63,6 @@ credentialSubject:
           protocol: 17
           destinationIp4:
             addr: 255.255.255.255/32
-            allowed: true
         udp:
           destinationPort: 67
     - name: from-ipv4-amazonecho-6
@@ -81,7 +75,6 @@ credentialSubject:
           protocol: 17
           destinationIp4:
             addr: 255.255.255.255/32
-            allowed: true
         udp:
           destinationPort: 67
     - name: from-ipv4-amazonecho-7
@@ -90,6 +83,5 @@ credentialSubject:
           protocol: 17
           destinationIp4:
             addr: 208.67.220.220/32
-            allowed: true
         udp:
           destinationPort: 53

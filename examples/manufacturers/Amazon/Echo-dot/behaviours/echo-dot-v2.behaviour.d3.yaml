@@ -17,6 +17,5 @@ rules:
           protocol: 8
           destinationDnsName:
             addr: dcape-na.amazon.com
-            allowed: true
         tcp:
           destinationPort: 446

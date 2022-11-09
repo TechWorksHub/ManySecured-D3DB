@@ -249,49 +249,27 @@ credentialSubject:
           allowed: false
           children:
           - addr: 109.249.185.110:30517
-            allowed: true
           - addr: 109.249.185.110:50997
-            allowed: true
           - addr: 109.249.185.12:14081
-            allowed: true
           - addr: 109.249.185.49:38683
-            allowed: true
           - addr: 109.249.185.5:26826
-            allowed: true
           - addr: 109.249.185.5:26868
-            allowed: true
           - addr: 109.249.185.5:51402
-            allowed: true
           - addr: 109.249.185.5:59636
-            allowed: true
           - addr: 109.249.185.70:51035
-            allowed: true
           - addr: 109.249.185.86:18294
-            allowed: true
           - addr: 109.249.185.86:55158
-            allowed: true
           - addr: 109.249.185.86:5964
-            allowed: true
           - addr: 118.193.65.131:7760
-            allowed: true
           - addr: 118.193.65.170:7760
-            allowed: true
           - addr: 118.193.65.22:7760
-            allowed: true
           - addr: 118.26.104.147:7760
-            allowed: true
           - addr: 162.62.52.181:6002
-            allowed: true
           - addr: 162.62.57.32:6003
-            allowed: true
           - addr: 169.197.113.245:7760
-            allowed: true
           - addr: 49.51.136.83:6003
-            allowed: true
           - addr: 49.51.150.132:6002
-            allowed: true
           - addr: com.amazonaws.compute.eu-west-1.*
-            allowed: true
             children:
             - addr: com.amazonaws.compute.eu-west-1.ec2-34-250-216-38.*
               allowed: false
@@ -366,15 +344,12 @@ credentialSubject:
               - addr: com.amazonaws.compute.eu-west-1.ec2-99-81-240-103:6000
                 allowed: true
           - addr: com.amazonaws.s3-3-w:443
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
           children:
           - addr: 109.249.185.38.*
-            allowed: true
           - addr: 89.21.226.138.*
-            allowed: true
     ruleName: internet
   - matches:
       ip4:
@@ -383,37 +358,21 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.5.35:10229
-            allowed: true
           - addr: 10.0.5.35:10243
-            allowed: true
           - addr: 10.0.5.35:10249
-            allowed: true
           - addr: 10.0.5.35:10295
-            allowed: true
           - addr: 10.0.5.35:10301
-            allowed: true
           - addr: 192.168.1.182:10106
-            allowed: true
           - addr: 192.168.1.182:10111
-            allowed: true
           - addr: 192.168.1.182:10116
-            allowed: true
           - addr: 192.168.1.182:10117
-            allowed: true
           - addr: 192.168.1.182:10122
-            allowed: true
           - addr: 192.168.1.182:10123
-            allowed: true
           - addr: 192.168.1.182:10129
-            allowed: true
           - addr: 192.168.1.182:10144
-            allowed: true
           - addr: 192.168.1.182:10181
-            allowed: true
           - addr: 192.168.1.182:10249
-            allowed: true
           - addr: 192.168.1.182:10288
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -443,13 +402,9 @@ credentialSubject:
           allowed: false
           children:
           - addr: 224.0.0.251:5353
-            allowed: true
           - addr: 239.255.255.250:1900
-            allowed: true
           - addr: 239.255.255.250:37020
-            allowed: true
           - addr: 239.255.255.251:50160
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -497,9 +452,7 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.7.1:67
-            allowed: true
           - addr: 255.255.255.255:67
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false
@@ -511,7 +464,6 @@ credentialSubject:
           allowed: false
           children:
           - addr: 10.0.7.1:53
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false

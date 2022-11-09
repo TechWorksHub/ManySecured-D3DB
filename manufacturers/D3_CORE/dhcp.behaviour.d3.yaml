@@ -13,6 +13,5 @@ credentialSubject:
           protocol: 17
           destinationIp4:
             addr: 255.255.255.255/32
-            allowed: true
         udp:
           destinationPort: 67

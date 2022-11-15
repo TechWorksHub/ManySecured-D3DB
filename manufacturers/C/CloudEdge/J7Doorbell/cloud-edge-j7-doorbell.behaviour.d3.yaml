@@ -1,6 +1,6 @@
 credentialSubject:
-  id: f17777ea-f4d0-4439-b3bb-8d9c6cdf0e24
-  ruleName: Time2Technology Wifi Smart Socket
+  id: 738b6bc6-2e05-454b-83ae-ad876901552d
+  ruleName: Cloud Edge J7 Doorbell
   rules:
   - matches:
       ip4:
@@ -15,29 +15,32 @@ credentialSubject:
       ip4:
         destinationDnsname:
           addr: '*'
-          allowed: false
+          allowed: true
           children:
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-185-182-159:443
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-192-43-219:8886
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-195-249-137:443
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-121-131-36:443
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-122-134-146:443
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-123-124-46:443
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-64-85-28:8886
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-67-242-33:8886
-            allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-52-58-249-45:8886
-            allowed: true
+          - addr: com.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute.*
+              allowed: true
+              children:
+              - addr: com.amazonaws.compute.eu-central-1.ec2-18-158-182-236.*
+                allowed: false
+                children:
+                - addr: com.amazonaws.compute.eu-central-1.ec2-18-158-182-236.*
+                  allowed: true
+              - addr: com.amazonaws.compute.eu-central-1.ec2-3-124-148-244.*
+                allowed: false
+                children:
+                - addr: com.amazonaws.compute.eu-central-1.ec2-3-124-148-244:18675
+                  allowed: true
+              - addr: com.amazonaws.compute.eu-west-2.*
+                allowed: false
+                children:
+                - addr: com.amazonaws.compute.eu-west-2.ec2-35-178-99-241.*
+                  allowed: true
         destinationIp4:
           addr: '*'
-          allowed: false
+          allowed: true
     ruleName: internet
   - matches:
       ip4:
@@ -115,36 +118,48 @@ credentialSubject:
       ip4:
         destinationDnsname:
           addr: '*'
-          allowed: false
-          children:
-          - addr: 10.0.3.1:67
-            allowed: true
-          - addr: 255.255.255.255:67
-            allowed: true
+          allowed: true
         destinationIp4:
           addr: '*'
-          allowed: false
+          allowed: true
+          children:
+          - addr: 10.*
+            allowed: false
+            children:
+            - addr: 10.0.4.1:67
+              allowed: true
+          - addr: 255.*
+            allowed: false
+            children:
+            - addr: 255.255.255.255:67
+              allowed: true
     ruleName: dhcp
   - matches:
       ip4:
         destinationDnsname:
           addr: '*'
-          allowed: false
+          allowed: true
           children:
-          - addr: 10.0.3.1:53
-            allowed: true
+          - addr: google.*
+            allowed: false
+            children:
+            - addr: google.dns:53
+              allowed: true
         destinationIp4:
           addr: '*'
-          allowed: false
+          allowed: true
+          children:
+          - addr: 10.*
+            allowed: false
+            children:
+            - addr: 10.0.4.1:53
+              allowed: true
     ruleName: dns
   - matches:
       ip4:
         destinationDnsname:
           addr: '*'
           allowed: false
-          children:
-          - addr: 255.255.255.255:6667
-            allowed: true
         destinationIp4:
           addr: '*'
           allowed: false

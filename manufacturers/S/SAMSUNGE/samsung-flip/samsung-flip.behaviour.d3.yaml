@@ -1,0 +1,240 @@
+credentialSubject:
+  id: 5ecb20f9-e8e4-45bb-bd21-f9699d3a7428
+  ruleName: Samsung Flip
+  rules:
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ntp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: true
+          children:
+          - addr: com.akamaitechnologies.*
+            allowed: false
+            children:
+            - addr: com.akamaitechnologies.static.deploy.*
+              allowed: true
+              children:
+              - addr: com.akamaitechnologies.static.deploy.a104-124-169-109.*
+                allowed: false
+                children:
+                - addr: com.akamaitechnologies.static.deploy.a104-124-169-109:443
+                  allowed: true
+          - addr: com.amazonaws.compute.ap-northeast-1.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute.ap-northeast-1.ec2-52-68-194-186:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-18-235-95-51.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-18-235-95-51:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-3-219-173-44.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-3-219-173-44:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-3-232-230-6.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-3-232-230-6:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-3-82-81-203.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-3-82-81-203:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-52-202-101-128.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-52-202-101-128:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-52-71-104-132.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-52-71-104-132:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-52-72-136-8.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-52-72-136-8:443
+              allowed: true
+          - addr: com.amazonaws.compute-1.ec2-52-87-10-116.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.compute-1.ec2-52-87-10-116:443
+              allowed: true
+          - addr: com.amazonaws.s3-ap-northeast-1-r-w.*
+            allowed: false
+            children:
+            - addr: com.amazonaws.s3-ap-northeast-1-r-w:443
+              allowed: true
+          - addr: net.cloudfront.*
+            allowed: false
+            children:
+            - addr: net.cloudfront.r.lhr50.*
+              allowed: true
+              children:
+              - addr: net.cloudfront.r.lhr50.server-108-156-28-58.*
+                allowed: false
+                children:
+                - addr: net.cloudfront.r.lhr50.server-108-156-28-58:443
+                  allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: true
+          children:
+          - addr: 157.*
+            allowed: false
+            children:
+            - addr: 157.55.*
+              allowed: true
+              children:
+              - addr: 157.55.184.*
+                allowed: false
+                children:
+                - addr: 157.55.184.57:443
+                  allowed: true
+              - addr: 157.55.194.*
+                allowed: false
+                children:
+                - addr: 157.55.194.109:443
+                  allowed: true
+          - addr: 216.*
+            allowed: false
+            children:
+            - addr: 216.239.34.36:443
+              allowed: true
+          - addr: 92.*
+            allowed: false
+            children:
+            - addr: 92.204.68.24.web.*
+              allowed: true
+    ruleName: internet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: localnetwork
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: microsoftds
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: netbios
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 239.255.255.250:1900
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: multicast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: smtps
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: telnet
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: imap-tls
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: gateway
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 255.255.255.255:67
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dhcp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 10.0.1.1:53
+            allowed: true
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: dns
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: broadcast
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ssh
+type: d3-device-type-behaviour

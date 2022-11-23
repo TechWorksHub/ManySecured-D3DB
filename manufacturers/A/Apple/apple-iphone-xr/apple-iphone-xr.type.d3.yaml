@@ -1,0 +1,12 @@
+credentialSubject:
+  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
+  id: 3d614efd-35e2-474f-aeef-c636c5dcaf48
+  macAddresses:
+  - 42:c7:00:a6:b8:72
+  manufacturer: Apple, Inc.
+  manufacturerUri: https://device-type.com
+  name: Apple iPhone XR
+  cpe: cpe:2.3:h:apple:iphone_xr:-:*:*:*:*:*:*:*
+  parents:
+  - b6e35602-62ca-5e47-a8e8-30bce1513011
+type: d3-device-type-assertion

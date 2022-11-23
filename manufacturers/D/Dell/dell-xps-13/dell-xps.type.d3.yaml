@@ -5,12 +5,10 @@ credentialSubject:
   - 44:af:28:ec:a0:77
   - 5c:80:b6:2f:25:f6
   - 94:e2:3c:78:c4:1d
-  manufacturer: Dell Inc.
-  manufacturerUri: https://www.dell.com/en-uk
   name: Dell XPS 13
   parents:
     - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6
-      properties: 
+      properties:
         - manufacturer
         - manufacturerUri
         - behaviour

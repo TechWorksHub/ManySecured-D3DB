@@ -3,10 +3,11 @@ credentialSubject:
   id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
   macAddresses:
   - 44:af:28:ec:a0:77
+  - 5c:80:b6:2f:25:f6
+  - 94:e2:3c:78:c4:1d
   manufacturer: Dell Inc.
   manufacturerUri: https://www.dell.com/en-uk
-  name: Dell XPS 13 9370
-  cpe: cpe:2.3:h:dell:xps_13_9370:-:*:*:*:*:*:*:*
+  name: Dell XPS 13
   parents:
-    - id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
+    - f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6
 type: d3-device-type-assertion

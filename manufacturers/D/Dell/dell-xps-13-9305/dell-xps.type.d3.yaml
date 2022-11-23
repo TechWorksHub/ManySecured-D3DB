@@ -1,12 +1,12 @@
 credentialSubject:
   behaviour: d9334f92-b07f-4aa3-8de0-7f77c4f3c793
-  id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
+  id: 9d5662b7-1d4e-4f97-b744-29f23ab1963c
   macAddresses:
-  - 44:af:28:ec:a0:77
+  - 94:e2:3c:78:c4:1d
   manufacturer: Dell Inc.
   manufacturerUri: https://www.dell.com/en-uk
-  name: Dell XPS 13 9370
-  cpe: cpe:2.3:h:dell:xps_13_9370:-:*:*:*:*:*:*:*
+  name: Dell XPS 13 9305
+  cpe: cpe:2.3:h:dell:xps_13_9305:-:*:*:*:*:*:*:*
   parents:
     - id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
 type: d3-device-type-assertion

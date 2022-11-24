@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 572e7fda-ecf9-4dc3-9118-718f2a01d2ed
+  name: Samsung Galaxy S
+  parents:
+    - id: 7eddbc53-fb44-4fbe-906a-7cdf92952021
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+type: d3-device-type-assertion

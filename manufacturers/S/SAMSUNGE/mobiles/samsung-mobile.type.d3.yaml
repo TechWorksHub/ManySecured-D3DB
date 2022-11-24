@@ -1,0 +1,11 @@
+credentialSubject:
+  id: 7eddbc53-fb44-4fbe-906a-7cdf92952021
+  name: Samsung Mobile
+  parents:
+    - id: 71f1db9e-c519-5fc9-83ea-7bf016d00e39 # samsung
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+    - id: 753b942e-41f8-4db8-b6f4-5918fd321e0d # android
+type: d3-device-type-assertion

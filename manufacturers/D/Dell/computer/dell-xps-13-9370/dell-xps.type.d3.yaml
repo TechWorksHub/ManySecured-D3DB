@@ -6,4 +6,9 @@ credentialSubject:
   manufacturer: Dell Inc.
   manufacturerUri: https://www.dell.com/en-uk
   name: Dell XPS 13 9370
+  parents:
+    - id: bc0f295e-73e3-4d5c-902b-943caa00a06c # Dell Computer
+      properties:
+        - manufacturer
+        - manufacturerUri
 type: d3-device-type-assertion

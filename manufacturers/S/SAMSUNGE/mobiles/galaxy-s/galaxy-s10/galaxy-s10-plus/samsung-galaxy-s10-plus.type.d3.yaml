@@ -3,7 +3,10 @@ credentialSubject:
   id: 8d006bd6-2f48-4f1e-989f-c7f6ab513e39
   macAddresses:
   - 52:01:1c:86:e9:7b
-  manufacturer: SAMSUNG Electronics. Co. LTD
-  manufacturerUri: https://www.samsung.com/uk/
   name: Samsung Galaxy S10 Plus
+  parents:
+    - id: aa0ce45b-5ae9-4865-8677-845e3dc4a3d8 # samsung s10
+      properties:
+        - manufacturer
+        - manufacturerUri
 type: d3-device-type-assertion

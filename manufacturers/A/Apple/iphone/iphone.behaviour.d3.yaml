@@ -1,17 +1,19 @@
+type: d3-device-type-behaviour
 credentialSubject:
-  id: 8e926d7e-4188-4196-9554-e6f336e4de24
-  ruleName: Dell Computer
+  id: fdddac05-3324-4e1e-b0d3-9a43cb94cbc5
+  ruleName: "Apple IPhone"
   rules:
   - matches:
       ip4:
         destinationDnsname:
           addr: '*'
           allowed: false
-          children:
-          - addr: com.canonical.ps5.ntp1.prod-ntp-4:123
         destinationIp4:
           addr: '*'
           allowed: false
+          children:
+          - addr: com.aaplimg.*
+            allowed: true
     ruleName: ntp
   - matches:
       ip4:
@@ -22,9 +24,6 @@ credentialSubject:
           addr: '*'
           allowed: false
           children:
-          - addr: 224.0.0.251:5353
+          - addr: com.aaplimg.*
             allowed: true
-          - addr: 239.255.255.250:1900
-            allowed: true
-    ruleName: multicast
-type: d3-device-type-behaviour
+    ruleName: internet

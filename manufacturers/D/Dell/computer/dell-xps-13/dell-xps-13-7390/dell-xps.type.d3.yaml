@@ -2,7 +2,7 @@ credentialSubject:
   behaviour: d9334f92-b07f-4aa3-8de0-7f77c4f3c793
   id: bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
   macAddresses:
-  - 5c:80:b6:2f:25:f6
+    - 5c:80:b6:2f:25:f6
   name: Dell XPS 13 7390
   cpe: cpe:2.3:h:dell:xps_13_7390:-:*:*:*:*:*:*:*
   parents:

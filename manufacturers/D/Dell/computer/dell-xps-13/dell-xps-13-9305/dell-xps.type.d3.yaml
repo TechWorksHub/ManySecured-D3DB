@@ -5,9 +5,9 @@ credentialSubject:
   name: Dell XPS 13 9305
   cpe: cpe:2.3:h:dell:xps_13_9305:-:*:*:*:*:*:*:*
   parents:
-    - id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
-      properties:
-        - manufacturer
-        - manufacturerUri
-        - behaviour
+  - id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
+    properties:
+    - manufacturer
+    - manufacturerUri
+    - behaviour
 type: d3-device-type-assertion

@@ -2,7 +2,7 @@ credentialSubject:
   id: 79a920ad-215b-4961-a7ac-efc00e490a37
   name: Dell Monitor
   parents:
-    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6 # Dell
+    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6  # Dell
       properties:
         - manufacturer
         - manufacturerUri

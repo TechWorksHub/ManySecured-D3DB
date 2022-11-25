@@ -5,9 +5,9 @@ credentialSubject:
   name: Dell XPS 13 9370
   cpe: cpe:2.3:h:dell:xps_13_9370:-:*:*:*:*:*:*:*
   parents:
-    - id: fe5a29d2-e990-4af5-9434-2f74c252ad8a
-      properties:
-        - manufacturer
-        - manufacturerUri
-        - behaviour
+  - id: fe5a29d2-e990-4af5-9434-2f74c252ad8a
+    properties:
+    - manufacturer
+    - manufacturerUri
+    - behaviour
 type: d3-device-type-assertion

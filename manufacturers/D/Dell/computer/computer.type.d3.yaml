@@ -3,7 +3,7 @@ credentialSubject:
   behaviour: 8e926d7e-4188-4196-9554-e6f336e4de24
   name: Dell Computer
   parents:
-    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6 # Dell
+    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6  # Dell
       properties:
         - manufacturer
         - manufacturerUri

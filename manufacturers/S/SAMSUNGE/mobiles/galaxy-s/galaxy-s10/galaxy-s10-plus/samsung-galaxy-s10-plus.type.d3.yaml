@@ -5,9 +5,9 @@ credentialSubject:
   - 52:01:1c:86:e9:7b
   name: Samsung Galaxy S10 Plus
   parents:
-    - id: aa0ce45b-5ae9-4865-8677-845e3dc4a3d8 # samsung s10
-      properties:
-        - manufacturer
-        - manufacturerUri
+  - id: aa0ce45b-5ae9-4865-8677-845e3dc4a3d8  # samsung s10
+    properties:
+    - manufacturer
+    - manufacturerUri
   cpe: cpe:2.3:h:samsung:galaxy_s10:-:*:*:*:*:*:*:*
 type: d3-device-type-assertion

@@ -7,8 +7,8 @@ credentialSubject:
   - 94:e2:3c:78:c4:1d
   name: Dell XPS 13
   parents:
-    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6
-      properties:
-        - manufacturer
-        - manufacturerUri
+  - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6
+    properties:
+    - manufacturer
+    - manufacturerUri
 type: d3-device-type-assertion

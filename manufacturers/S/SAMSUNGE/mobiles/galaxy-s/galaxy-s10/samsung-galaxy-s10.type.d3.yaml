@@ -1,0 +1,10 @@
+credentialSubject:
+  id: aa0ce45b-5ae9-4865-8677-845e3dc4a3d8
+  name: Samsung Galaxy S10
+  parents:
+    - id: 572e7fda-ecf9-4dc3-9118-718f2a01d2ed
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+type: d3-device-type-assertion

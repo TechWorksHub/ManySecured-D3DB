@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 1d085867-8561-4323-af6f-071ef4a0b271
+  name: iOS
+  parents:
+    - id: b6e35602-62ca-5e47-a8e8-30bce1513011  # apple
+      properties:
+        - manufacturer
+        - manufacturerUri
+type: d3-device-type-assertion

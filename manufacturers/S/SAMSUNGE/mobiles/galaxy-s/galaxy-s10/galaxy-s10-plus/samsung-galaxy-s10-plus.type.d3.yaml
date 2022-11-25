@@ -9,4 +9,5 @@ credentialSubject:
       properties:
         - manufacturer
         - manufacturerUri
+  cpe: cpe:2.3:h:samsung:galaxy_s10:-:*:*:*:*:*:*:*
 type: d3-device-type-assertion

@@ -3,7 +3,7 @@ type: d3-device-type-behaviour
 # Subject if the verfied credential
 credentialSubject:
   # The GUID denoting the device rule
-  id: aa92ebae-4928-4456-b597-cbd7657e9e83
+  id: aa92ebae-4928-4456-b597-cbd7657e9e82
   # Rules are specified as an array with two keys name and matches
   ruleName: "Example Device Amazon Echo"
   parents:

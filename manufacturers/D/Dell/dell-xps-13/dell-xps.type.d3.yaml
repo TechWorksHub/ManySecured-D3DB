@@ -1,0 +1,15 @@
+credentialSubject:
+  behaviour: d9334f92-b07f-4aa3-8de0-7f77c4f3c793
+  id: fe5a29d2-e990-4af5-9434-2f74c252ad8a
+  macAddresses:
+  - 44:af:28:ec:a0:77
+  - 5c:80:b6:2f:25:f6
+  - 94:e2:3c:78:c4:1d
+  name: Dell XPS 13
+  parents:
+    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+type: d3-device-type-assertion

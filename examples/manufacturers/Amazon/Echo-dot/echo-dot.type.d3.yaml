@@ -6,7 +6,7 @@ credentialSubject:
 
   # behaviour
   behaviour: 2de780eb-9f11-4f10-8a10-5ca62e2e71e6
-
+  cpe: "cpe:2.3:h:amazon:echo_dot:-:*:*:*:*:*:*:*"
   parents:
     - id: ba3ba36d-be70-40f0-9c52-95b560066d11 # Id of parent type to inherit from
       # Specific properties to inherit

@@ -6,4 +6,5 @@ credentialSubject:
   manufacturer: SAMSUNG Electronics. Co. LTD
   manufacturerUri: https://www.samsung.com/uk/
   name: Samsung Galaxy S10 Plus
+  cpe: cpe:2.3:h:samsung:galaxy_s10:-:*:*:*:*:*:*:*
 type: d3-device-type-assertion

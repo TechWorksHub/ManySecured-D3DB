@@ -1,12 +1,8 @@
 credentialSubject:
   id: d9334f92-b07f-4aa3-8de0-7f77c4f3c793
-<<<<<<< HEAD:manufacturers/D/Dell/computer/dell-xps-13-9370/dell-xps.behaviour.d3.yaml
-  ruleName: Dell XPS 13 9370
+  ruleName: Dell XPS 13
   parents:
     - 8e926d7e-4188-4196-9554-e6f336e4de24 # Dell Computer
-=======
-  ruleName: Dell XPS 13
->>>>>>> main:manufacturers/D/Dell/dell-xps-13/dell-xps.behaviour.d3.yaml
   rules:
   - matches:
       ip4:

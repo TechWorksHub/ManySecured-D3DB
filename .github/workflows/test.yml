@@ -37,6 +37,10 @@ jobs:
         run: d3-cli manufacturers --mode lint
   d3build:
     name: Run D3 Build
+    environment:
+      name: d3db-csv
+      url: https://github.com/TechWorksHub/ManySecured-D3DB/tree/csv
+    concurrency: d3db-csv # limit to a single-run build at a time
     permissions:
       # required to make a new commit in the `csv` branch
       contents: write

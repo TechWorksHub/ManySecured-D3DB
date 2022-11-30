@@ -4,7 +4,7 @@ credentialSubject:
   id: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
   ruleName: Core Rule - DHCP
   rules:
-    - name: dhcp
+    - ruleName: dhcp
       matches:
         eth:
           destinationMac: ff:ff:ff:ff:ff:ff

@@ -1,0 +1,30 @@
+credentialSubject:
+  id: 8e926d7e-4188-4196-9554-e6f336e4de24
+  ruleName: Dell Computer
+  rules:
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: com.canonical.ps5.ntp1.prod-ntp-4:123
+        destinationIp4:
+          addr: '*'
+          allowed: false
+    ruleName: ntp
+  - matches:
+      ip4:
+        destinationDnsname:
+          addr: '*'
+          allowed: false
+        destinationIp4:
+          addr: '*'
+          allowed: false
+          children:
+          - addr: 224.0.0.251:5353
+            allowed: true
+          - addr: 239.255.255.250:1900
+            allowed: true
+    ruleName: multicast
+type: d3-device-type-behaviour

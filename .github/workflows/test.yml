@@ -37,6 +37,10 @@ jobs:
         run: d3-cli manufacturers --mode lint
   d3build:
     name: Run D3 Build
+    environment:
+      name: d3db-csv
+      url: https://github.com/TechWorksHub/ManySecured-D3DB/tree/csv
+    concurrency: d3db-csv # limit to a single-run build at a time
     permissions:
       # required to make a new commit in the `csv` branch
       contents: write
@@ -53,7 +57,7 @@ jobs:
       - name: Install d3-cli
         run: pip install --upgrade d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into CSV
-        run: d3-cli manufacturers --mode export --output D3DB --skip-vuln --skip-mal
+        run: d3-cli manufacturers --mode export --output D3DB --skip-mal
       - name: Deploy CSV files to `csv` branch (`main` branch only)
         if: github.ref == 'refs/heads/main'
         uses: s0/git-publish-subdir-action@v2.5.1

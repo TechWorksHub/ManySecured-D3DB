@@ -1,0 +1,10 @@
+credentialSubject:
+  id: bc0f295e-73e3-4d5c-902b-943caa00a06c
+  behaviour: 8e926d7e-4188-4196-9554-e6f336e4de24
+  name: Dell Computer
+  parents:
+    - id: f9753d14-0fc0-588d-a7c9-7d0e8c5bf9b6  # Dell
+      properties:
+        - manufacturer
+        - manufacturerUri
+type: d3-device-type-assertion

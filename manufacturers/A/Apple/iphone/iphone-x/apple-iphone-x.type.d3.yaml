@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 274cebf1-fabf-4622-826f-a9a82263fb2d
+  name: Apple iPhone X
+  parents:
+  - id: 523d0530-3ef3-4ce1-89d8-19a4394d57cd
+    properties:
+    - behaviour
+    - manufacturer
+    - manufacturerUri
+type: d3-device-type-assertion

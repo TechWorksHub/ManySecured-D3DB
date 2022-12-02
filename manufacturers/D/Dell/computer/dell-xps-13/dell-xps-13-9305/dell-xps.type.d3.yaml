@@ -1,13 +1,13 @@
 credentialSubject:
   id: 9d5662b7-1d4e-4f97-b744-29f23ab1963c
   macAddresses:
-  - 94:e2:3c:78:c4:1d
+    - 94:e2:3c:78:c4:1d
   name: Dell XPS 13 9305
   cpe: cpe:2.3:h:dell:xps_13_9305:-:*:*:*:*:*:*:*
   parents:
-  - id: 421c7838-b63e-4117-ab63-842c9e0e9c4a
-    properties:
-    - manufacturer
-    - manufacturerUri
-    - behaviour
+    - id: fe5a29d2-e990-4af5-9434-2f74c252ad8a
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
 type: d3-device-type-assertion

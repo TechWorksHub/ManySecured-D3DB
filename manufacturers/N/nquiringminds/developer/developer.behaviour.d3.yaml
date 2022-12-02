@@ -1,0 +1,15 @@
+credentialSubject:
+  id: dead9298-960e-4ce7-bbd9-84ac8d63d5c6
+  ruleName: NquiringMinds developer laptop
+  rules:
+    - ruleName: Local network
+      matches:
+        ip4:
+          destinationIp4:
+            addr: '*'
+            allowed: false
+            children:
+              - addr: 192.168.*
+                allowed: true
+              - addr: 10.0.*
+                allowed: true

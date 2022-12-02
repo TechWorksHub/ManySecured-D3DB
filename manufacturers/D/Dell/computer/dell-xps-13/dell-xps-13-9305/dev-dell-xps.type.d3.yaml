@@ -1,5 +1,6 @@
 credentialSubject:
   id: dbc8fd2e-5df2-4f86-ab25-271d4d8546c3
+  behaviour: 7950a47a-8ac2-48ec-987c-bd715cf4f194
   macAddresses:
   - 94:e2:3c:78:c4:1d
   name: (Dev) Dell XPS 13 9305
@@ -9,8 +10,5 @@ credentialSubject:
     properties:
     - manufacturer
     - manufacturerUri
-    - behaviour
   - id: 0063fc3c-cf97-4158-93c7-a846c1d02960
-    properties:
-    - behaviour
 type: d3-device-type-assertion

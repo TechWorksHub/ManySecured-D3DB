@@ -3,5 +3,5 @@ credentialSubject:
   id: b19d1912-f463-4756-aedb-8c944617970c
   ruleName: "Amazon Echo Dot"
   parents:
-    - d9334f92-b07f-4aa3-8de0-7f77c4f3c793 # behaviour of 421c7838-b63e-4117-ab63-842c9e0e9c4a
-    - dead9298-960e-4ce7-bbd9-84ac8d63d5c6 # behaviour of 0063fc3c-cf97-4158-93c7-a846c1d02960
+    - d9334f92-b07f-4aa3-8de0-7f77c4f3c793  # behaviour of 421c7838-b63e-4117-ab63-842c9e0e9c4a
+    - dead9298-960e-4ce7-bbd9-84ac8d63d5c6  # behaviour of 0063fc3c-cf97-4158-93c7-a846c1d02960

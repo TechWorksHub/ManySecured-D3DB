@@ -6,9 +6,9 @@ credentialSubject:
   name: (Dev) Dell XPS 13 7390
   cpe: cpe:2.3:h:dell:xps_13_7390:-:*:*:*:*:*:*:*
   parents:
-  - id: bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
-    properties:
-    - manufacturer
-    - manufacturerUri
-  - id: 0063fc3c-cf97-4158-93c7-a846c1d02960
+    - id: bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
+      properties:
+        - manufacturer
+        - manufacturerUri
+    - id: 0063fc3c-cf97-4158-93c7-a846c1d02960
 type: d3-device-type-assertion

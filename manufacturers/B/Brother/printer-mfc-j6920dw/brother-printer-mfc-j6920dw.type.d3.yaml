@@ -6,5 +6,5 @@ credentialSubject:
   manufacturer: Brother
   name: Brother Printer MFC-J6920DW
   parents:
-    - id: dfb53b13-eb3c-5d41-899a-b0164cd67032
+  - id: dfb53b13-eb3c-5d41-899a-b0164cd67032
 type: d3-device-type-assertion

@@ -9,7 +9,7 @@ credentialSubject:
             addr: '*'
             allowed: false
             children:
-            - addr: 192.168.*
-              allowed: true
-            - addr: 10.0.*
-              allowed: true
+              - addr: 192.168.*
+                allowed: true
+              - addr: 10.0.*
+                allowed: true

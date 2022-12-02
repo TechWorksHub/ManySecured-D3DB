@@ -7,5 +7,5 @@ credentialSubject:
   manufacturerUri: https://www.time2technology.com/
   name: Time2Technology Wifi Smart Socket
   parents:
-    - id: ff03920c-6c6a-5473-8b7d-6dd60dcf9408
+  - id: ff03920c-6c6a-5473-8b7d-6dd60dcf9408
 type: d3-device-type-assertion

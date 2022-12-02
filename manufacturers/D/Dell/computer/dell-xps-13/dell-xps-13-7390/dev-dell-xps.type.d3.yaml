@@ -1,13 +1,16 @@
 credentialSubject:
-  id: bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
+  id: 07d0f875-44cd-45cb-98fe-939fd7ee4b58
   macAddresses:
     - 5c:80:b6:2f:25:f6
-  name: Dell XPS 13 7390
+  name: (Dev) Dell XPS 13 7390
   cpe: cpe:2.3:h:dell:xps_13_7390:-:*:*:*:*:*:*:*
   parents:
-    - id: fe5a29d2-e990-4af5-9434-2f74c252ad8a
+    - id: bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
       properties:
         - manufacturer
         - manufacturerUri
+        - behaviour
+    - id: dead9298-960e-4ce7-bbd9-84ac8d63d5c6
+      properties:
         - behaviour
 type: d3-device-type-assertion

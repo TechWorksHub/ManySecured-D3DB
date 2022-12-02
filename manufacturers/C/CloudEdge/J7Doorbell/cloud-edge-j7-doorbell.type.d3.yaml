@@ -5,4 +5,6 @@ credentialSubject:
   - 40:24:b2:ce:de:d1
   manufacturer: Cloud Edge
   name: Cloud Edge J7 Doorbell
+  parents:
+    - id: b692ed9e-49ab-5aa8-86c9-f5b9a7b1cd7c
 type: d3-device-type-assertion

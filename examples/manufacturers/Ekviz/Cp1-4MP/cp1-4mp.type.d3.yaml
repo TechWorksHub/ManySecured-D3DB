@@ -13,3 +13,5 @@ credentialSubject:
   # specific information
   tags: "#camera"
   name: "CP1 4MP"
+  parents:
+    - id: b6b4a589-ce43-5159-a6e5-d4d1fd8cd1e9

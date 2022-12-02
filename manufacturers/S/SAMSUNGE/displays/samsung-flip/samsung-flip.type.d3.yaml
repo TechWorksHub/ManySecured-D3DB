@@ -6,4 +6,11 @@ credentialSubject:
   manufacturer: SAMSUNG Electronics. Co. LTD
   manufacturerUri: https://www.samsung.com/uk/
   name: Samsung Flip
+  parents:
+    - id: 5f3d17f8-c4d2-4376-aa84-e09edb0da408  # samsung display
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+    - id: 753b942e-41f8-4db8-b6f4-5918fd321e0d  # android
 type: d3-device-type-assertion

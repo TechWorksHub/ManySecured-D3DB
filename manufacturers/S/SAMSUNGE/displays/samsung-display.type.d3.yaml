@@ -1,0 +1,10 @@
+credentialSubject:
+  id: 5f3d17f8-c4d2-4376-aa84-e09edb0da408
+  name: Samsung Display
+  parents:
+    - id: 71f1db9e-c519-5fc9-83ea-7bf016d00e39  # samsung
+      properties:
+        - manufacturer
+        - manufacturerUri
+        - behaviour
+type: d3-device-type-assertion

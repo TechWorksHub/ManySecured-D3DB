@@ -80,6 +80,10 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install graphviz
         run:  sudo apt-get update && sudo apt install graphviz
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip' # caching pip dependencies
       - name: Install d3-cli
         run: pip install --upgrade --pre d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website

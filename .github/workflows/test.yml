@@ -81,6 +81,8 @@ jobs:
     needs: [pre-commit, d3lint]
     steps:
       - uses: actions/checkout@v3
+      - name: Install graphviz
+        run: sudo apt install graphviz
       - name: Install d3-cli
         run: pip install --upgrade --pre d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website

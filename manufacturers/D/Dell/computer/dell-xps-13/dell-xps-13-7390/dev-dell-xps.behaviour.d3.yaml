@@ -1,0 +1,7 @@
+type: d3-device-type-behaviour
+credentialSubject:
+  id: e2fbce64-b112-43b2-9a5e-494d01ab067d
+  ruleName: "(Dev) Dell XPS 13 7390"
+  parents:
+    - d9334f92-b07f-4aa3-8de0-7f77c4f3c793  # behaviour of bee2d5bc-5c4e-4360-98e0-8acc5ce2c618
+    - dead9298-960e-4ce7-bbd9-84ac8d63d5c6  # behaviour of 0063fc3c-cf97-4158-93c7-a846c1d02960

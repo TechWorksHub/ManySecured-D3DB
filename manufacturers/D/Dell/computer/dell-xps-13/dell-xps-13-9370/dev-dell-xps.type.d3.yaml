@@ -1,5 +1,6 @@
 credentialSubject:
   id: 12d9cb46-5884-4a24-b81b-e945701f6671
+  behaviour: b19d1912-f463-4756-aedb-8c944617970c
   macAddresses:
     - 44:af:28:ec:a0:77
   name: Dell XPS 13 9370
@@ -9,8 +10,5 @@ credentialSubject:
       properties:
         - manufacturer
         - manufacturerUri
-        - behaviour
     - id: 0063fc3c-cf97-4158-93c7-a846c1d02960
-      properties:
-        - behaviour
 type: d3-device-type-assertion

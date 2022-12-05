@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --upgrade d3-cli
+          pip install --upgrade --pre d3-cli
       - name: Lint D3 claims
         run: d3-cli manufacturers --mode lint
   d3build:
@@ -55,7 +55,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install d3-cli
-        run: pip install --upgrade d3-cli
+        run: pip install --upgrade --pre d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into CSV
         run: d3-cli manufacturers --mode export --output D3DB --skip-mal
       - name: Deploy CSV files to `csv` branch (`main` branch only)
@@ -65,5 +65,37 @@ jobs:
           REPO: self
           BRANCH: csv
           FOLDER: D3DB
+          SKIP_EMPTY_COMMITS: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  d3buildWebsite:
+    name: Run D3 Build of website for github pages
+    environment:
+      name: d3db-gh-pages
+      url: https://github.com/TechWorksHub/ManySecured-D3DB/tree/gh-pages
+    concurrency: d3db-gh-pages # limit to a single-run build at a time
+    permissions:
+      # required to make a new commit in the `gh-pages` branch
+      contents: write
+    runs-on: ubuntu-latest
+    # d3build is slow, so only run if lint passes
+    needs: [pre-commit, d3lint]
+    # Only run on main branch, as the build is resource intensive
+    if:
+      contains('
+        refs/heads/main
+      ', github.ref)
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install d3-cli
+        run: pip install --upgrade --pre d3-cli
+      - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website
+        run: d3-cli manufacturers --mode website --output D3DB-site --skip-mal
+      - name: Deploy website files to `gh-pages` branch (`main` branch only)
+        if: github.ref == 'refs/heads/main'
+        uses: s0/git-publish-subdir-action@v2.5.1
+        env:
+          REPO: self
+          BRANCH: gh-pages
+          FOLDER: D3DB-site/output
           SKIP_EMPTY_COMMITS: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

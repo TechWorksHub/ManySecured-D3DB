@@ -71,7 +71,7 @@ jobs:
     name: Run D3 Build of website for github pages
     environment:
       name: d3db-gh-pages
-      url: https://github.com/TechWorksHub/ManySecured-D3DB/tree/gh-pages
+      url: https://TechWorksHub.github.io/ManySecured-D3DB
     concurrency: d3db-gh-pages # limit to a single-run build at a time
     runs-on: ubuntu-latest
     # d3build is slow, so only run if lint passes

@@ -69,10 +69,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   build-website:
     name: Run D3 Build of website for github pages
-    environment:
-      name: d3db-gh-pages
-      url: https://TechWorksHub.github.io/ManySecured-D3DB
-    concurrency: d3db-gh-pages # limit to a single-run build at a time
     runs-on: ubuntu-latest
     # d3build is slow, so only run if lint passes
     needs: [pre-commit, d3lint]
@@ -82,7 +78,7 @@ jobs:
         run:  sudo apt-get update && sudo apt install graphviz
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.8'
           cache: 'pip' # caching pip dependencies
       - name: Install d3-cli
         run: pip install --upgrade --pre d3-cli

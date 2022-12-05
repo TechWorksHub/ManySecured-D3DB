@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --upgrade --pre d3-cli
+          pip install --upgrade d3-cli
       - name: Lint D3 claims
         run: d3-cli manufacturers --mode lint
   d3build:
@@ -55,7 +55,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install d3-cli
-        run: pip install --upgrade --pre d3-cli
+        run: pip install --upgrade d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into CSV
         run: d3-cli manufacturers --mode export --output D3DB --skip-mal
       - name: Deploy CSV files to `csv` branch (`main` branch only)
@@ -81,7 +81,7 @@ jobs:
           python-version: '3.8'
           cache: 'pip' # caching pip dependencies
       - name: Install d3-cli
-        run: pip install --upgrade --pre d3-cli
+        run: pip install --upgrade d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website
         run: d3-cli manufacturers --mode website --output D3DB-site --skip-mal
       - name: Upload website files

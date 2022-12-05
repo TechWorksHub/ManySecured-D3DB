@@ -67,3 +67,42 @@ jobs:
           FOLDER: D3DB
           SKIP_EMPTY_COMMITS: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  build-website:
+    name: Run D3 Build of website for github pages
+    if: github.ref == 'refs/heads/main' # only run on main
+    runs-on: ubuntu-latest
+    # d3build is slow, so only run if lint passes
+    needs: [pre-commit, d3lint]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install graphviz
+        run:  sudo apt-get update && sudo apt install graphviz
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      - name: Install d3-cli
+        run: pip install --upgrade d3-cli
+      - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website
+        run: d3-cli manufacturers --mode website --output D3DB-site --skip-mal
+      - name: Upload website files
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./D3DB-site/output
+  deploy-website:
+    name: publish website (main-branch only)
+    if: github.ref == 'refs/heads/main'
+    needs: build-website
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

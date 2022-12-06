@@ -83,7 +83,7 @@ jobs:
       - name: Install d3-cli
         run: pip install --upgrade d3-cli
       - name: Validate D3 files, convert to JSON and Export D3 JSON files into static pelican website
-        run: d3-cli manufacturers --mode website --output D3DB-site --skip-mal
+        run: d3-cli manufacturers --mode website --output D3DB-site --skip-mal --web-address https://techworkshub.github.io/ManySecured-D3DB
       - name: Upload website files
         uses: actions/upload-pages-artifact@v1
         with:

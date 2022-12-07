@@ -2,6 +2,8 @@
 
 A repo for the management and storage of ManySecured D3 claims.
 
+To view the D3 types within this repo, please check out the [D3DB website](https://techworkshub.github.io/ManySecured-D3DB).
+
 ## Index <!-- omit in toc -->
 
 - [ManySecured Working Group Documentation and Specifications](#manysecured-working-group-documentation-and-specifications)

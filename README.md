@@ -103,19 +103,19 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
 
 ### D3 Claim Workflow
 
-`cd d3-scripts/ && poetry install`
+`pip install d3-cli`
 
-This installs the scripts listed in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./d3-scripts/pyproject.toml).
-- Run `poetry run d3lint` to run the D3 linter against the claim files in the manufacturers folder. Any issues will manifest as errors.
-- Run `poetry run d3build` to run the D3 compiler against the repo locally. Any issues will manifest as errors.
-- Run `poetry run d3export` to run the exporter locally. This generates CSVs in the same schema as the SQL tables used by ManySecured devices
+This installs the d3-cli tool from in the https://github.com/TechWorksHub/d3-cli repository.
+- Run `d3-cli --mode lint ./manufacturers` to run the D3 linter against the claim files in the manufacturers folder. Any issues will manifest as errors.
+- Run `d3-cli --mode build ./manufacturers` to run the D3 compiler against the repo locally. Any issues will manifest as errors.
+- Run `d3-cli --mode export ./manufacturers` to run the exporter locally. This generates CSVs in the same schema as the SQL tables used by ManySecured devices
 
 #### Scripts
 
-- `poetry run d3lint`: Checks YAML files conform to the standard
-- `poetry run d3build`: Runs the D3 claim compiler
-- `poetry run d3export`: Convert claims to CSV format for the ManySecured router database
-- `poetry run uuid`, `poetry run guid`: Helpers to generate a UUID/GUID to add to your claim definition
+- `d3-cli --mode lint <comma separated directories>`: Checks YAML files conform to the standard
+- `d3-cli --mode build <comma separated directories>`: Runs the D3 claim compiler
+- `d3-cli --mode export <comma separated directories>`: Convert claims to CSV format for the ManySecured router database
+- `d3-cli --uuid`, `d3-cli --guid`: Helpers to generate a UUID/GUID to add to your claim definition
     - See also: [`uuidgen`](https://man7.org/linux/man-pages/man1/uuidgen.1.html) on Linux, or [https://www.uuidgenerator.net/](https://www.uuidgenerator.net/version4) online
 
 #### D3 Compilation Process

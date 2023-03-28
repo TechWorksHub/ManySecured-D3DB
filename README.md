@@ -105,7 +105,7 @@ For contributing changes to code, please see [CONTRIBUTING.md](./CONTRIBUTING.md
 
 `pip install d3-cli`
 
-This installs the d3-cli tool from in the https://github.com/TechWorksHub/d3-cli repository.
+This installs the d3-cli tool from the [https://github.com/TechWorksHub/d3-cli](https://github.com/TechWorksHub/d3-cli) repository.
 - Run `d3-cli --mode lint ./manufacturers` to run the D3 linter against the claim files in the manufacturers folder. Any issues will manifest as errors.
 - Run `d3-cli --mode build ./manufacturers` to run the D3 compiler against the repo locally. Any issues will manifest as errors.
 - Run `d3-cli --mode export ./manufacturers` to run the exporter locally. This generates CSVs in the same schema as the SQL tables used by ManySecured devices

@@ -5,127 +5,127 @@ credentialSubject:
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:123
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:123
           allowed: true
     ruleName: ntp
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: ^(?!(192\.168\.1\.1|10\.0\.0\.1|10|192\.168|172\.16-31|224-239|255\.255\.255\.255|169\.254|127|john-nqm|240-255|0|192\.0\.0)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: ^(?!(192\.168\.1\.1|10\.0\.0\.1|10|192\.168|172\.16-31|224-239|255\.255\.255\.255|169\.254|127|john-nqm|240-255|0|192\.0\.0)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
           allowed: true
     ruleName: internet
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: ^(10|192\.168|172\.16-31).*
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: ^(10|192\.168|172\.16-31).*
           allowed: true
     ruleName: localnetwork
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:445
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:445
           allowed: true
     ruleName: microsoftds
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:(137|138|139)
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:(137|138|139)
           allowed: true
     ruleName: netbios
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: ^(224-239).*
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: ^(224-239).*
           allowed: true
     ruleName: multicast
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:465
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:465
           allowed: true
     ruleName: smtps
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:23
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:23
           allowed: true
     ruleName: telnet
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:993
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:993
           allowed: true
     ruleName: imap-tls
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: ^(192\.168\.1\.1|10\.0\.0\.1).*
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: ^(192\.168\.1\.1|10\.0\.0\.1).*
           allowed: true
     ruleName: gateway
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:(67|68|647|847)
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:(67|68|647|847)
           allowed: true
     ruleName: dhcp
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:53
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:53
           allowed: true
     ruleName: dns
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: ^255\.255\.255\.255.*
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: ^255\.255\.255\.255.*
           allowed: true
     ruleName: broadcast
   - matches:
       ip4:
         destinationDnsname:
-          addr: '*'
+          addr: .*:22
           allowed: true
         destinationIp4:
-          addr: '*'
+          addr: .*:22
           allowed: true
     ruleName: ssh
 type: d3-device-type-behaviour

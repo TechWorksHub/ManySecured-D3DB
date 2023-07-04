@@ -7,7 +7,7 @@ credentialSubject:
       matches:
         ip4:
           destinationIp4:
-            addr: '*'
+            addr: ^(10|192\.168|172\.16-31).*
             allowed: false
             children:
               - addr: 192.168.*

@@ -9,13 +9,13 @@ credentialSubject:
   # Parent behaviours to inherit rules from
   parents:
     - fc4d5a51-f985-4de1-a157-51ea9ca5e9c0 # Id of parent behaviour to inherit from
-rules:
-    - ruleName: firmware-rule-1
-      # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
-      matches:
-        ip4:
-          protocol: 8
-          destinationDnsName:
-            addr: dcape-na.amazon.com
-        tcp:
-          destinationPort: 446
+  rules:
+      - ruleName: firmware-rule-1
+        # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
+        matches:
+          ip4:
+            protocol: 8
+            destinationDnsName:
+              addr: dcape-na.amazon.com
+          tcp:
+            destinationPort: 446

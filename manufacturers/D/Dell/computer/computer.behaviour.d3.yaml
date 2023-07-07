@@ -20,11 +20,11 @@ credentialSubject:
       ip4:
         destinationDnsname:
           addr: >-
-            ^(224-239).*
+            ^(224-239)\..*
           allowed: false
         destinationIp4:
           addr: >-
-            ^(224-239).*
+            ^(224-239)\..*
           allowed: false
           children:
           - addr: >-

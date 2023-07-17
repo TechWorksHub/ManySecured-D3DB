@@ -5,157 +5,198 @@ credentialSubject:
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:123
+          addr: >-
+            .*:123
           allowed: false
         destinationIp4:
-          addr: .*:123
+          addr: >-
+            .*:123
           allowed: false
     ruleName: ntp
   - matches:
       ip4:
         destinationDnsname:
-          addr: ^(?!(192\.168\.1\.1|10\.0\.0\.1|10|192\.168|172\.16-31|224-239|255\.255\.255\.255|169\.254|127|john-nqm|240-255|0|192\.0\.0)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
+          addr: >-
+            ^(?!(192\.168\.1\.1|10\.0\.0\.1|10\.|192\.168\.|172\.16-31\.|(224-239)\.|255\.255\.255\.255|169\.254\.|127\.|john-nqm\.|(240-255)\.|0\.|192\.0\.0\.)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
           allowed: false
           children:
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-185-182-159:443
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-18-185-182-159:443
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-192-43-219:8886
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-18-192-43-219:8886
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-18-195-249-137:443
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-18-195-249-137:443
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-121-131-36:443
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-3-121-131-36:443
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-122-134-146:443
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-3-122-134-146:443
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-123-124-46:443
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-3-123-124-46:443
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-64-85-28:8886
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-3-64-85-28:8886
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-3-67-242-33:8886
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-3-67-242-33:8886
             allowed: true
-          - addr: com.amazonaws.compute.eu-central-1.ec2-52-58-249-45:8886
+          - addr: >-
+              com.amazonaws.compute.eu-central-1.ec2-52-58-249-45:8886
             allowed: true
         destinationIp4:
-          addr: ^(?!(192\.168\.1\.1|10\.0\.0\.1|10|192\.168|172\.16-31|224-239|255\.255\.255\.255|169\.254|127|john-nqm|240-255|0|192\.0\.0)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
+          addr: >-
+            ^(?!(192\.168\.1\.1|10\.0\.0\.1|10\.|192\.168\.|172\.16-31\.|(224-239)\.|255\.255\.255\.255|169\.254\.|127\.|john-nqm\.|(240-255)\.|0\.|192\.0\.0\.)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
           allowed: false
     ruleName: internet
   - matches:
       ip4:
         destinationDnsname:
-          addr: ^(10|192\.168|172\.16-31).*
+          addr: >-
+            ^(10\.|192\.168\.|172\.16-31\.).*
           allowed: false
         destinationIp4:
-          addr: ^(10|192\.168|172\.16-31).*
+          addr: >-
+            ^(10\.|192\.168\.|172\.16-31\.).*
           allowed: false
     ruleName: localnetwork
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:445
+          addr: >-
+            .*:445
           allowed: false
         destinationIp4:
-          addr: .*:445
+          addr: >-
+            .*:445
           allowed: false
     ruleName: microsoftds
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:(137|138|139)
+          addr: >-
+            .*:(137|138|139)
           allowed: false
         destinationIp4:
-          addr: .*:(137|138|139)
+          addr: >-
+            .*:(137|138|139)
           allowed: false
     ruleName: netbios
   - matches:
       ip4:
         destinationDnsname:
-          addr: ^(224-239).*
+          addr: >-
+            ^(224-239)\..*
           allowed: false
         destinationIp4:
-          addr: ^(224-239).*
+          addr: >-
+            ^(224-239)\..*
           allowed: false
     ruleName: multicast
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:465
+          addr: >-
+            .*:465
           allowed: false
         destinationIp4:
-          addr: .*:465
+          addr: >-
+            .*:465
           allowed: false
     ruleName: smtps
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:23
+          addr: >-
+            .*:23
           allowed: false
         destinationIp4:
-          addr: .*:23
+          addr: >-
+            .*:23
           allowed: false
     ruleName: telnet
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:993
+          addr: >-
+            .*:993
           allowed: false
         destinationIp4:
-          addr: .*:993
+          addr: >-
+            .*:993
           allowed: false
     ruleName: imap-tls
   - matches:
       ip4:
         destinationDnsname:
-          addr: ^(192\.168\.1\.1|10\.0\.0\.1).*
+          addr: >-
+            ^(192\.168\.1\.1|10\.0\.0\.1).*
           allowed: false
         destinationIp4:
-          addr: ^(192\.168\.1\.1|10\.0\.0\.1).*
+          addr: >-
+            ^(192\.168\.1\.1|10\.0\.0\.1).*
           allowed: false
     ruleName: gateway
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:(67|68|647|847)
+          addr: >-
+            .*:(67|68|647|847)
           allowed: false
           children:
-          - addr: 10.0.3.1:67
+          - addr: >-
+              10.0.3.1:67
             allowed: true
-          - addr: 255.255.255.255:67
+          - addr: >-
+              255.255.255.255:67
             allowed: true
         destinationIp4:
-          addr: .*:(67|68|647|847)
+          addr: >-
+            .*:(67|68|647|847)
           allowed: false
     ruleName: dhcp
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:53
+          addr: >-
+            .*:53
           allowed: false
           children:
-          - addr: 10.0.3.1:53
+          - addr: >-
+              10.0.3.1:53
             allowed: true
         destinationIp4:
-          addr: .*:53
+          addr: >-
+            .*:53
           allowed: false
     ruleName: dns
   - matches:
       ip4:
         destinationDnsname:
-          addr: ^255\.255\.255\.255.*
+          addr: >-
+            ^255\.255\.255\.255.*
           allowed: false
           children:
-          - addr: 255.255.255.255:6667
+          - addr: >-
+              255.255.255.255:6667
             allowed: true
         destinationIp4:
-          addr: ^255\.255\.255\.255.*
+          addr: >-
+            ^255\.255\.255\.255.*
           allowed: false
     ruleName: broadcast
   - matches:
       ip4:
         destinationDnsname:
-          addr: .*:22
+          addr: >-
+            .*:22
           allowed: false
         destinationIp4:
-          addr: .*:22
+          addr: >-
+            .*:22
           allowed: false
     ruleName: ssh
 type: d3-device-type-behaviour

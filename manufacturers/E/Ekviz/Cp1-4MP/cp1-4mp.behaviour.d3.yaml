@@ -1,4 +1,3 @@
-type: d3-device-type-behaviour
 credentialSubject:
   id: 76ceeee8-3410-490f-b945-e06bc4a92f2b
   ruleName: ekviz CP1 4MP
@@ -1034,3 +1033,4 @@ credentialSubject:
             .*:22
           allowed: false
     ruleName: ssh
+type: d3-device-type-behaviour

@@ -1,159 +1,159 @@
+type: d3-device-type-behaviour
 credentialSubject:
   id: 521047e2-5263-489f-93b9-ac068b2ad0c9
   ruleName: Smart WiFi Scale
   rules:
-  - matches:
+  - ruleName: ntp
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:123
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:123
-          allowed: true
-    ruleName: ntp
-  - matches:
+  - ruleName: internet
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             ^(?!(192\.168\.1\.1|10\.0\.0\.1|10\.|192\.168\.|172\.16-31\.|(224-239)\.|255\.255\.255\.255|169\.254\.|127\.|john-nqm\.|(240-255)\.|0\.|192\.0\.0\.)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             ^(?!(192\.168\.1\.1|10\.0\.0\.1|10\.|192\.168\.|172\.16-31\.|(224-239)\.|255\.255\.255\.255|169\.254\.|127\.|john-nqm\.|(240-255)\.|0\.|192\.0\.0\.)).*:(?!(20$|21$|22$|23$|25$|37$|53$|67$|68$|647$|847$|115$|123$|137$|138$|139$|143$|220$|109$|110$|1110$|995$|153$|161$|162$|199$|179$|194$|389$|427$|445$|465$|554$|829$|853$|989$|990$|992$|993$|995$))[0-9]+$
-          allowed: true
-    ruleName: internet
-  - matches:
+  - ruleName: localnetwork
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             ^(10\.|192\.168\.|172\.16-31\.).*
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             ^(10\.|192\.168\.|172\.16-31\.).*
-          allowed: true
-    ruleName: localnetwork
-  - matches:
+  - ruleName: microsoftds
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:445
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:445
-          allowed: true
-    ruleName: microsoftds
-  - matches:
+  - ruleName: netbios
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:(137|138|139)
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:(137|138|139)
-          allowed: true
-    ruleName: netbios
-  - matches:
+  - ruleName: multicast
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             ^(224-239)\..*
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             ^(224-239)\..*
-          allowed: true
-    ruleName: multicast
-  - matches:
+  - ruleName: smtps
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:465
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:465
-          allowed: true
-    ruleName: smtps
-  - matches:
+  - ruleName: telnet
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:23
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:23
-          allowed: true
-    ruleName: telnet
-  - matches:
+  - ruleName: imap-tls
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:993
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:993
-          allowed: true
-    ruleName: imap-tls
-  - matches:
+  - ruleName: gateway
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             ^(192\.168\.1\.1|10\.0\.0\.1).*
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             ^(192\.168\.1\.1|10\.0\.0\.1).*
-          allowed: true
-    ruleName: gateway
-  - matches:
+  - ruleName: dhcp
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:(67|68|647|847)
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:(67|68|647|847)
-          allowed: true
-    ruleName: dhcp
-  - matches:
+  - ruleName: dns
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             .*:53
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             .*:53
-          allowed: true
-    ruleName: dns
-  - matches:
+  - ruleName: broadcast
+    matches:
       ip4:
-        destinationDnsname:
+        destinationIp4:
+          allowed: true
           addr: >-
             ^255\.255\.255\.255.*
+        destinationDnsname:
           allowed: true
-        destinationIp4:
           addr: >-
             ^255\.255\.255\.255.*
-          allowed: true
-    ruleName: broadcast
-  - matches:
+  - ruleName: ssh
+    matches:
       ip4:
-        destinationDnsname:
-          addr: >-
-            .*:22
-          allowed: true
         destinationIp4:
+          allowed: true
           addr: >-
             .*:22
+        destinationDnsname:
           allowed: true
-    ruleName: ssh
-type: d3-device-type-behaviour
+          addr: >-
+            .*:22
